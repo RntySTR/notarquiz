@@ -1229,5 +1229,86 @@
   ],
   "antwort": 2,
   "erklaerung": "Jede Niederschrift ist ein eigenes Beurkundungsverfahren (§ 85 Abs. 2 GNotKG); innerhalb eines Verfahrens wird die Gebühr nur einmal aus den addierten Werten erhoben (§ 93 Abs. 1 i. V. m. § 35 Abs. 1 GNotKG). Weil die Tabelle degressiv verläuft, wächst die Gebühr mit dem Wert unterproportional. Tabelle A gilt für Notare nie."
+ },
+ {
+  "id": "kost4-052",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Kostenberechnung: Rechtsbehelfsbelehrung (§ 7a GNotKG) und Wertangabe gegenüber Gerichten",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/kostenberechnung-rechtsbehelfsbelehrung-7a-gnotkg-und-wertangabe-gegenuber-gerichten",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 7a GNotKG",
+   "§ 19 Abs. 4 GNotKG"
+  ],
+  "frage": "Fehlt in der Kostenberechnung die Rechtsbehelfsbelehrung, ist die Kostenberechnung nach § 19 Abs. 4 GNotKG unwirksam.",
+  "antwort": false,
+  "erklaerung": "Die Belehrungspflicht steht in § 7a GNotKG, nicht in § 19 GNotKG; sie ist daher weder Muss- noch Sollangabe. Fehlt sie, bleibt die Kostenberechnung wirksam. § 7a GNotKG enthält keine eigene Sanktion; nach allgemeinen Regeln läuft lediglich eine Rechtsbehelfsfrist ohne Belehrung nicht ab."
+ },
+ {
+  "id": "kost4-053",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Kostenberechnung: Rechtsbehelfsbelehrung (§ 7a GNotKG) und Wertangabe gegenüber Gerichten",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/kostenberechnung-rechtsbehelfsbelehrung-7a-gnotkg-und-wertangabe-gegenuber-gerichten",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 127 GNotKG",
+   "§ 130 Abs. 3 GNotKG",
+   "§ 7a GNotKG"
+  ],
+  "frage": "Welchen Inhalt muss die Rechtsbehelfsbelehrung einer notariellen Kostenberechnung haben?",
+  "optionen": [
+   "Widerspruch beim Notar binnen eines Monats, danach Klage zum Verwaltungsgericht",
+   "Antrag auf gerichtliche Entscheidung beim Landgericht am Amtssitz des Notars mit Sitzgemeinde des Gerichts sowie Form und Frist",
+   "Beschwerde zum Oberlandesgericht mit vollständiger Postanschrift binnen zwei Wochen",
+   "Erinnerung zum Amtsgericht des Wohnsitzes des Kostenschuldners ohne Formerfordernis"
+  ],
+  "antwort": 1,
+  "erklaerung": "Statthaft ist der Antrag auf gerichtliche Entscheidung beim Landgericht des Amtssitzes des Notars (§ 127 GNotKG). Nach § 7a GNotKG sind die Stelle, ihr Sitz sowie Form und Frist anzugeben; mit Sitz ist nur die politische Gemeinde gemeint, die genaue Anschrift ist entbehrlich. Der Antrag ist schriftlich oder zu Protokoll der Geschäftsstelle zu stellen (§ 130 Abs. 3 GNotKG i. V. m. § 25 Abs. 1 FamFG)."
+ },
+ {
+  "id": "kost4-054",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Kostenberechnung: Rechtsbehelfsbelehrung (§ 7a GNotKG) und Wertangabe gegenüber Gerichten",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/kostenberechnung-rechtsbehelfsbelehrung-7a-gnotkg-und-wertangabe-gegenuber-gerichten",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 127 Abs. 2 S. 1 GNotKG"
+  ],
+  "frage": "Dem Kostenschuldner wird am 10.05.2025 eine vollstreckbare Ausfertigung der Kostenberechnung zugestellt. Bis wann kann er den Antrag auf gerichtliche Entscheidung spätestens stellen?",
+  "optionen": [
+   "Bis zum 10.06.2025",
+   "Bis zum 31.12.2025",
+   "Bis zum 31.12.2026",
+   "Unbefristet, da der Antrag nicht fristgebunden ist"
+  ],
+  "antwort": 2,
+  "erklaerung": "Der Antrag ist grundsätzlich nicht fristgebunden; es gilt aber die Ausschlussfrist des § 127 Abs. 2 S. 1 GNotKG. Sie endet mit Ablauf des Kalenderjahres, das dem Jahr der Zustellung der vollstreckbaren Ausfertigung folgt, hier also am 31.12.2026. Die Annahme völliger Unbefristetheit übersieht diese Ausschlussfrist."
+ },
+ {
+  "id": "kost4-055",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Kostenberechnung: Rechtsbehelfsbelehrung (§ 7a GNotKG) und Wertangabe gegenüber Gerichten",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/kostenberechnung-rechtsbehelfsbelehrung-7a-gnotkg-und-wertangabe-gegenuber-gerichten",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 39 Abs. 1 GNotKG"
+  ],
+  "frage": "Welche Angabe muss der Notar dem Grundbuchamt bei Antragstellung machen?",
+  "optionen": [
+   "Den zugrunde gelegten Geschäftswert, bei zusammengesetzten Werten auch die Einzelwerte",
+   "Eine Abschrift der vollständigen Kostenberechnung",
+   "Den Betrag der von ihm erhobenen Gebühren",
+   "Den Namen des Kostenschuldners im Innenverhältnis"
+  ],
+  "antwort": 0,
+  "erklaerung": "Gegenüber beteiligten Gerichten einschließlich des Grundbuchamts muss der Notar bei Antragstellung den zugrunde gelegten Geschäftswert und bei zusammengesetzten Werten die Einzelwerte angeben; auf Verlangen hat er Auskunft zu erteilen (§ 39 Abs. 1 GNotKG). Die Kostenberechnung selbst ist nicht beizufügen; sie unter Ausfertigungen zu drucken, sollte schon aus Datenschutzgründen unterbleiben."
  }
 ]

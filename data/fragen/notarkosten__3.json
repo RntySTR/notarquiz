@@ -1251,5 +1251,143 @@
    ]
   ],
   "erklaerung": "Für Vermögensverzeichnisse gilt die Summe der verzeichneten Gegenstände (§ 115 GNotKG), für Serienentwürfe die Hälfte des Gesamtwerts der bei Entwurfsfertigung geplanten Einzelgeschäfte (§ 119 Abs. 2 GNotKG), für Rangbescheinigungen der Wert des beantragten Rechts (§ 122 GNotKG) und für die Verwahrung von Geld der jeweils ausgezahlte Betrag (§ 124 S. 1 GNotKG)."
+ },
+ {
+  "id": "kost3-054",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Wiederkaufsrecht bei mittelbarer Bauverpflichtung (§ 51 Abs. 1 S. 2, Abs. 3 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-wiederkaufsrecht-bei-mittelbarer-bauverpflichtung-51-abs-1-s-2-abs-3-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 51 Abs. 1 S. 2 GNotKG"
+  ],
+  "frage": "Mit welchem Regelwert wird ein Wiederkaufsrecht an einem Grundstück bewertet?",
+  "optionen": [
+   "Mit 10 % des Verkehrswerts",
+   "Mit 20 % des Verkehrswerts",
+   "Mit 30 % des Verkehrswerts",
+   "Mit 50 % des Verkehrswerts"
+  ],
+  "antwort": 3,
+  "erklaerung": "Ein Wiederkaufsrecht wird nach § 51 Abs. 1 S. 2 GNotKG mit 50 % des Werts des Gegenstands bewertet, beim Grundstück also des Verkehrswerts; auf das auslösende Ereignis kommt es nicht an. 30 % ist der Wert, den das OLG Stuttgart über § 51 Abs. 3 GNotKG angesetzt hat; 20 % entspricht der Wohnbauverpflichtung nach § 50 Nr. 3 Buchst. a GNotKG."
+ },
+ {
+  "id": "kost3-055",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Wiederkaufsrecht bei mittelbarer Bauverpflichtung (§ 51 Abs. 1 S. 2, Abs. 3 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-wiederkaufsrecht-bei-mittelbarer-bauverpflichtung-51-abs-1-s-2-abs-3-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 51 Abs. 3 GNotKG"
+  ],
+  "frage": "Welcher Maßstab gilt nach dem KG (Beschl. v. 26.01.2021) für eine Abweichung vom Regelwert nach § 51 Abs. 3 GNotKG?",
+  "optionen": [
+   "Maßgeblich ist vor allem die Wahrscheinlichkeit, dass das Recht ausgeübt wird",
+   "Die Vorschrift ist zurückhaltend und nach objektivierbaren Kriterien anzuwenden; die Ausübungswahrscheinlichkeit spielt keine Rolle",
+   "Eine Herabsetzung ist bei jedem bedingten Wiederkaufsrecht geboten",
+   "Die Vorschrift erlaubt nur eine Erhöhung, keine Herabsetzung des Werts"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach dem KG ist § 51 Abs. 3 GNotKG zurückhaltend und nach objektivierbaren Kriterien anzuwenden; die Wahrscheinlichkeit der Ausübung spielt keine Rolle. Anwendungsfall war ein zweifelsfrei erloschenes Vorkaufsrecht. Die Norm erlaubt sowohl einen höheren als auch einen niedrigeren Wert."
+ },
+ {
+  "id": "kost3-056",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Wiederkaufsrecht bei mittelbarer Bauverpflichtung (§ 51 Abs. 1 S. 2, Abs. 3 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-wiederkaufsrecht-bei-mittelbarer-bauverpflichtung-51-abs-1-s-2-abs-3-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 51 Abs. 1 S. 2 GNotKG",
+   "§ 51 Abs. 3 GNotKG"
+  ],
+  "frage": "Das Handbuch empfiehlt, ein Wiederkaufsrecht für den Fall unterlassener Bebauung im Anschluss an OLG Stuttgart nach § 51 Abs. 3 GNotKG mit 30 % anzusetzen.",
+  "antwort": false,
+  "erklaerung": "Empfohlen wird, das Wiederkaufsrecht bei mittelbarer Bauverpflichtung mit dem Regelwert von 50 % nach § 51 Abs. 1 S. 2 GNotKG anzusetzen und § 51 Abs. 3 GNotKG nicht anzuwenden. Nach den Maßstäben des KG ist der Regelwert hier nicht unbillig; die herabsetzenden Entscheidungen des OLG Stuttgart (30 %) und des OLG Frankfurt lassen sich damit nicht vereinbaren."
+ },
+ {
+  "id": "kost3-057",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: Belehrung über Kosten und Kostenauskunft",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-belehrung-uber-kosten-und-kostenauskunft",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 17 Abs. 1 BNotO",
+   "§ 125 GNotKG",
+   "§ 21 GNotKG"
+  ],
+  "frage": "Muss der Notar ungefragt über unvermeidbare Notarkosten belehren?",
+  "optionen": [
+   "Ja, vor jeder Beurkundung; sonst liegt stets eine unrichtige Sachbehandlung nach § 21 GNotKG vor",
+   "Nein, grundsätzlich nicht, weil die Kosten kraft Gesetzes zu erheben sind",
+   "Ja, aber nur über die gesamtschuldnerische Haftung nach § 32 GNotKG",
+   "Nur bei Verbraucherverträgen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Notarkosten beruhen auf öffentlich-rechtlicher Amtsausübung und sind kraft Gesetzes zu erheben (§ 17 Abs. 1 BNotO, § 125 GNotKG); eine allgemeine Kostenbelehrungspflicht kennt das GNotKG nicht. Eine fehlende Belehrung über unvermeidbare Kosten ist daher keine unrichtige Sachbehandlung. Auch über die gesamtschuldnerische Haftung nach § 32 GNotKG ist nicht zu belehren."
+ },
+ {
+  "id": "kost3-058",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: Belehrung über Kosten und Kostenauskunft",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-belehrung-uber-kosten-und-kostenauskunft",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "Vorb. 2.2 Abs. 1 KV GNotKG"
+  ],
+  "frage": "Vollzugs- und Betreuungsgebühren setzen einen Auftrag der Beteiligten voraus; ein stillschweigender Auftrag genügt.",
+  "antwort": true,
+  "erklaerung": "Vollzugs- und Betreuungsgebühren entstehen grundsätzlich nur bei Auftrag (Vorb. 2.2 Abs. 1 KV GNotKG) und sind deshalb regelmäßig vermeidbar; der Notar muss darüber belehren. Nach einhelliger Auffassung genügt ein stillschweigender Auftrag, etwa bei der erkennbaren Erwartung, dass der Notar die gesamte Abwicklung kostenpflichtig übernimmt."
+ },
+ {
+  "id": "kost3-059",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: Belehrung über Kosten und Kostenauskunft",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-belehrung-uber-kosten-und-kostenauskunft",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "Vorb. 2.2 Abs. 1 KV GNotKG"
+  ],
+  "frage": "Beim Wohnungskauf fällt eine einheitliche Vollzugsgebühr sowohl für die Einholung der Löschungsunterlagen als auch für die Verwalterzustimmung an. Wie hat der Notar vorzugehen?",
+  "optionen": [
+   "Er ordnet die Gebühr nach eigener Wertung hälftig zu",
+   "Er belehrt darüber und wirkt auf eine ausdrückliche Kostentragungsregel in der Urkunde hin",
+   "Er stellt die Gebühr stets dem Käufer in Rechnung",
+   "Er muss nichts veranlassen, weil beide Beteiligte ohnehin gesamtschuldnerisch haften"
+  ],
+  "antwort": 1,
+  "erklaerung": "Lässt sich eine Gebühr beiden Vertragssphären zuordnen, muss der Notar darüber belehren und auf eine Regelung der Kostentragung hinwirken. Er darf die Zuordnung nicht nach eigener Wertung vornehmen, sondern muss sie mit den Beteiligten klären; praktisch empfiehlt sich eine ausdrückliche Kostentragungsregel in der Urkunde."
+ },
+ {
+  "id": "kost3-060",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: Belehrung über Kosten und Kostenauskunft",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-belehrung-uber-kosten-und-kostenauskunft",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 21 GNotKG"
+  ],
+  "frage": "Der Notar nennt auf Nachfrage überschlägig zu niedrige Kosten; bei zutreffender Auskunft hätten die Beteiligten nicht beurkunden lassen. Welche Folge kommt nach neuerer Rechtsprechung in Betracht?",
+  "optionen": [
+   "Der Notar ist an die genannte Summe gebunden und darf nur diese erheben",
+   "Es kann eine unrichtige Sachbehandlung vorliegen, obwohl die Kostenauskunft den Notar nicht bindet",
+   "Keine, weil Kostenauskünfte stets unverbindlich und folgenlos sind",
+   "Die Gebühren entfallen kraft Gesetzes vollständig"
+  ],
+  "antwort": 1,
+  "erklaerung": "Eine Kostenauskunft bindet den Notar nicht; er muss die Kosten aber vor der Auskunft sorgfältig ermitteln. Nach neuerer Rechtsprechung kann eine unrichtige Sachbehandlung (§ 21 GNotKG) vorliegen, wenn er auf Nachfrage zu niedrige Gebühren nennt und die Beurkundung bei zutreffender Auskunft unterblieben wäre. Eine Bindung an die genannte Summe besteht dagegen nicht."
  }
 ]

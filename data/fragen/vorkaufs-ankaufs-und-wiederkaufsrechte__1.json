@@ -793,5 +793,272 @@
   ],
   "antwort": 1,
   "erklaerung": "Die Löschung wirkt erst mit Eintragung; der Vorkaufsfall ist aber mit dem wirksamen Kaufvertrag schon eingetreten. Deshalb ist auch bei beabsichtigter Löschung die Nichtausübungserklärung des Berechtigten für den aktuellen Verkaufsfall erforderlich (§ 469 Abs. 1 BGB). Eine Genehmigung des Kaufvertrags durch den Berechtigten ist nicht vorgesehen."
+ },
+ {
+  "id": "vork1-036",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Vorkaufsrecht: zweiter Kaufvertrag und Vormerkungswirkung nach der Ausübung",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-zweiter-kaufvertrag-und-vormerkungswirkung-nach-der-ausubung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 464 Abs. 2 BGB",
+   "§ 1098 Abs. 1 S. 1 BGB"
+  ],
+  "frage": "Welche Wirkung hat die Ausübung eines dinglichen Vorkaufsrechts auf das Vertragsgefüge?",
+  "optionen": [
+   "Der Berechtigte tritt im Wege der Vertragsübernahme an die Stelle des Käufers in den beurkundeten Vertrag ein.",
+   "Zwischen Verkäufer und Berechtigtem entsteht kraft Gesetzes ein zweiter Kaufvertrag zu denselben Bedingungen; der erste bleibt bestehen.",
+   "Der erste Kaufvertrag wird rückwirkend nichtig; der Berechtigte muss einen neuen Vertrag beurkunden lassen.",
+   "Der Berechtigte wird mit Zugang der Ausübungserklärung Eigentümer."
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Berechtigte rückt nicht in den beurkundeten Vertrag ein; vielmehr entsteht kraft Gesetzes ohne eigene Beurkundung ein weiterer Kaufvertrag zu denselben Bedingungen (§§ 1098 Abs. 1 S. 1, 464 Abs. 2 BGB). Der zweite Vertrag drängt den ersten zurück, beseitigt ihn aber nicht. Eigentümer wird der Berechtigte erst durch Auflassung und Eintragung (§§ 873, 925 BGB)."
+ },
+ {
+  "id": "vork1-037",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Vorkaufsrecht: zweiter Kaufvertrag und Vormerkungswirkung nach der Ausübung",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-zweiter-kaufvertrag-und-vormerkungswirkung-nach-der-ausubung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1098 Abs. 2 BGB",
+   "§ 883 Abs. 2 BGB"
+  ],
+  "frage": "Ist ein dingliches Vorkaufsrecht eingetragen, muss das Grundbuchamt die Eintragung des Vertragskäufers als Eigentümer bis zur Klärung der Ausübung ablehnen.",
+  "antwort": false,
+  "erklaerung": "Das dingliche Vorkaufsrecht wirkt wie eine Vormerkung (§ 1098 Abs. 2 BGB), die vormerkungswidrige Verfügungen nur relativ unwirksam macht (§ 883 Abs. 2 BGB). Es hindert weder Auflassung noch Eintragung des Vertragskäufers; das Grundbuchamt muss ihn eintragen. Gegenüber dem Berechtigten ist der Erwerb aber unwirksam, der nach § 888 Abs. 1 BGB Zustimmung verlangen kann."
+ },
+ {
+  "id": "vork1-038",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Vorkaufsrecht: zweiter Kaufvertrag und Vormerkungswirkung nach der Ausübung",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-zweiter-kaufvertrag-und-vormerkungswirkung-nach-der-ausubung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1098 Abs. 2 BGB",
+   "§ 883 Abs. 2 BGB"
+  ],
+  "frage": "Ab wann wirkt das dingliche Vorkaufsrecht gegenüber Belastungen des Grundstücks vormerkungsgleich?",
+  "optionen": [
+   "Ab seiner Eintragung im Grundbuch.",
+   "Ab dem Vorkaufsfall, also ab dem wirksamen und gegebenenfalls genehmigten Kaufvertrag.",
+   "Ab Zugang der Ausübungserklärung beim Verkäufer.",
+   "Ab Eintragung des Vertragskäufers als Eigentümer."
+  ],
+  "antwort": 1,
+  "erklaerung": "Gegenüber Belastungen setzt die Vormerkungswirkung erst mit dem Vorkaufsfall ein, also mit dem wirksamen und gegebenenfalls behördlich genehmigten Kaufvertrag. Nur später eingetragene Belastungen sind dem Berechtigten gegenüber unwirksam; ältere sind bereits im Kaufvertrag berücksichtigt und gelten deshalb auch für ihn."
+ },
+ {
+  "id": "vork1-039",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Vorkaufsrecht: zweiter Kaufvertrag und Vormerkungswirkung nach der Ausübung",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-zweiter-kaufvertrag-und-vormerkungswirkung-nach-der-ausubung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 468 BGB",
+   "§ 1098 Abs. 1 BGB"
+  ],
+  "frage": "Im ausgeübten Kaufvertrag ist der Kaufpreis für zwei Jahre gestundet. Was kann der Verkäufer vom Vorkaufsberechtigten verlangen?",
+  "optionen": [
+   "Sofortige Zahlung, da Stundungsabreden für den Berechtigten nicht gelten.",
+   "Sicherheitsleistung für den gestundeten Kaufpreis.",
+   "Einen Zuschlag zum Kaufpreis als Ausgleich für die Stundung.",
+   "Nichts; die Stundung gilt unverändert ohne weitere Rechte."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach §§ 1098 Abs. 1, 468 BGB muss der Berechtigte bei gestundetem Kaufpreis auf Verlangen Sicherheit leisten. Die Stundung selbst gilt als Vertragsbedingung auch für ihn (§ 464 Abs. 2 BGB); sofortige Zahlung kann der Verkäufer daher nicht verlangen."
+ },
+ {
+  "id": "vork1-040",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Gesetzliche Vorkaufsrechte",
+  "seite": "Landesrechtliche Vorkaufsrechte und Genehmigung nach dem ASVG in Baden-Württemberg",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/landesrechtliche-vorkaufsrechte-und-genehmigung-nach-dem-asvg-in-baden-wurttemberg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1 Abs. 7 S. 1 ASVG",
+   "§ 1 Abs. 1 Nr. 1 ASVG"
+  ],
+  "frage": "V verkauft in Baden-Württemberg eine Ackerfläche von 0,7 ha, die mit einer weiteren eigenen Ackerfläche von 0,5 ha räumlich zusammenhängt. Ist eine Genehmigung nach dem ASVG zu prüfen?",
+  "optionen": [
+   "Nein, maßgeblich ist allein die verkaufte Fläche, die unter einem Hektar liegt.",
+   "Ja, weil die Flächen zusammenhängender Grundstücke des Verkäufers zu addieren sind und so die Mindestgröße von einem Hektar erreicht wird.",
+   "Nein, weil für Ackerflächen eine Mindestgröße von zwei Hektar gilt.",
+   "Ja, aber nur, wenn das Grundstück eine Hofstelle trägt."
+  ],
+  "antwort": 1,
+  "erklaerung": "Bildet das verkaufte Grundstück mit anderen Grundstücken des Verkäufers eine räumlich zusammenhängende Fläche, sind für die Mindestgröße alle Flächen zu addieren (§ 1 Abs. 7 S. 1 ASVG). Hier ergeben sich 1,2 ha, also mehr als die Mindestgröße von einem Hektar. Nur das verkaufte Grundstück zu betrachten, ist ein typischer Fehler."
+ },
+ {
+  "id": "vork1-041",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Gesetzliche Vorkaufsrechte",
+  "seite": "Landesrechtliche Vorkaufsrechte und Genehmigung nach dem ASVG in Baden-Württemberg",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/landesrechtliche-vorkaufsrechte-und-genehmigung-nach-dem-asvg-in-baden-wurttemberg",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 29 Abs. 6 S. 1 WG",
+   "§ 25 Abs. 1 S. 1 LWaldG",
+   "§ 53 Abs. 1 S. 1 NatSchG",
+   "§ 8 FischG"
+  ],
+  "frage": "Ordne die landesrechtlichen Vorkaufsrechte in Baden-Württemberg ihrer Rechtsgrundlage zu.",
+  "paare": [
+   [
+    "Wasserrecht",
+    "§ 29 Abs. 6 S. 1 WG"
+   ],
+   [
+    "Waldrecht",
+    "§ 25 Abs. 1 S. 1 LWaldG"
+   ],
+   [
+    "Naturschutzrecht",
+    "§ 53 Abs. 1 S. 1 NatSchG"
+   ],
+   [
+    "Fischereirecht",
+    "§ 8 FischG"
+   ],
+   [
+    "Siedlungsrecht",
+    "§ 17 ASVG"
+   ]
+  ],
+  "erklaerung": "In Baden-Württemberg kommen neben dem BauGB-Vorkaufsrecht Vorkaufsrechte nach WG, LWaldG, NatSchG (daneben § 66 BNatSchG), FischG sowie das siedlungsrechtliche Vorkaufsrecht nach § 17 ASVG in Betracht. Für alle gilt § 464 Abs. 2 BGB: Der Kauf kommt mit dem Berechtigten zu den Bedingungen des ursprünglichen Vertrags zustande."
+ },
+ {
+  "id": "vork1-042",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Gesetzliche Vorkaufsrechte",
+  "seite": "Landesrechtliche Vorkaufsrechte und Genehmigung nach dem ASVG in Baden-Württemberg",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/landesrechtliche-vorkaufsrechte-und-genehmigung-nach-dem-asvg-in-baden-wurttemberg",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1 Abs. 1 Nr. 1 ASVG"
+  ],
+  "frage": "Für Weinbau- und Gartenbauflächen gilt nach dem ASVG eine Mindestgröße von 0,5 Hektar.",
+  "antwort": true,
+  "erklaerung": "Während land- oder forstwirtschaftliche Flächen grundsätzlich ab einem Hektar erfasst sind, gilt für Weinbau- und Gartenbauflächen eine Mindestgröße von 0,5 Hektar. In einzelnen Gemarkungen der Landkreise Lörrach, Waldshut, Schwarzwald-Baar, Konstanz und Tuttlingen ist die Mindestgröße sogar auf 10 ar abgesenkt."
+ },
+ {
+  "id": "vork1-043",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Gesetzliche Vorkaufsrechte",
+  "seite": "Landesrechtliche Vorkaufsrechte und Genehmigung nach dem ASVG in Baden-Württemberg",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/landesrechtliche-vorkaufsrechte-und-genehmigung-nach-dem-asvg-in-baden-wurttemberg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 3 ASVG",
+   "§ 1 ASVG"
+  ],
+  "frage": "Welcher Vorgang ist nach dem ASVG in Baden-Württemberg nicht ohne Weiteres genehmigungspflichtig?",
+  "optionen": [
+   "Bestellung eines Nießbrauchs an einer landwirtschaftlichen Fläche von 2 ha.",
+   "Verkauf eines Miteigentumsanteils an einer landwirtschaftlichen Fläche von 3 ha.",
+   "Übertragung eines Erbteils an einen Miterben, auch wenn der Nachlass überwiegend einen landwirtschaftlichen Betrieb umfasst.",
+   "Verkauf von Teileigentum, wenn die übrigen Voraussetzungen erfüllt sind."
+  ],
+  "antwort": 2,
+  "erklaerung": "Genehmigungspflichtig ist die Erbteilsübertragung nur an einen Nicht-Miterben, wenn der Nachlass überwiegend einen landwirtschaftlichen Betrieb umfasst. Erfasst sind dagegen der Verkauf eines Miteigentumsanteils, die Bestellung eines Nießbrauchs oder Erbbaurechts sowie der Verkauf von Wohnungs- oder Teileigentum (§ 3 Abs. 2 Nr. 1 ASVG)."
+ },
+ {
+  "id": "vork1-044",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Gesetzliche Vorkaufsrechte",
+  "seite": "Öffentlich-rechtliche Vorkaufsrechte: Bedeutung, Wirkungsarten und Absicherung im Kaufvertrag",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/offentlich-rechtliche-vorkaufsrechte-bedeutung-wirkungsarten-und-absicherung-im-kaufvertrag",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 28 Abs. 1 S. 2 BauGB",
+   "§ 66 Abs. 3 BNatSchG",
+   "§ 19 Abs. 3 AEG"
+  ],
+  "frage": "Ordne die öffentlich-rechtlichen Vorkaufsrechte der Art ihrer Wirkung zu.",
+  "paare": [
+   [
+    "Gemeindliches Vorkaufsrecht (§ 28 Abs. 1 S. 2 BauGB)",
+    "Verfahrensrechtliche Wirkung durch Grundbuchsperre"
+   ],
+   [
+    "Naturschutzrechtliches Vorkaufsrecht (§ 66 Abs. 3 BNatSchG)",
+    "Dingliche Wirkung wie eine Vormerkung ohne Grundbucheintragung"
+   ],
+   [
+    "Vorkaufsrecht nach § 19 Abs. 3 Allgemeines EisenbahnG",
+    "Nur schuldrechtliche Wirkung"
+   ]
+  ],
+  "erklaerung": "Öffentlich-rechtliche Vorkaufsrechte lassen sich nach der Stärke ihrer Wirkung einteilen: verfahrensrechtlich mit Grundbuchsperre (§ 28 Abs. 1 S. 2 BauGB, § 6 RSiedlG), dinglich wie eine Vormerkung ohne Eintragung (§ 66 Abs. 3 BNatSchG, sog. Zeitbomben) und nur schuldrechtlich (§ 19 Abs. 3 AEG, § 9a Abs. 6 FStrG)."
+ },
+ {
+  "id": "vork1-045",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Gesetzliche Vorkaufsrechte",
+  "seite": "Öffentlich-rechtliche Vorkaufsrechte: Bedeutung, Wirkungsarten und Absicherung im Kaufvertrag",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/offentlich-rechtliche-vorkaufsrechte-bedeutung-wirkungsarten-und-absicherung-im-kaufvertrag",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 326 Abs. 1 S. 1 BGB"
+  ],
+  "frage": "Warum sollte sich der Verkäufer für den Fall der Ausübung eines öffentlich-rechtlichen Vorkaufsrechts ein Rücktrittsrecht statt einer auflösenden Bedingung vorbehalten?",
+  "optionen": [
+   "Weil eine auflösende Bedingung nach § 465 BGB auch im Verhältnis Verkäufer–Käufer unwirksam ist.",
+   "Weil eine auflösende Bedingung unflexibel ist und den Schwebezustand nicht beendet, wenn unklar ist, ob wirksam ausgeübt wurde.",
+   "Weil nur ein Rücktrittsrecht die Grundbuchsperre des § 28 Abs. 1 S. 2 BauGB aufhebt.",
+   "Weil eine auflösende Bedingung die Beurkundungspflicht des zweiten Vertrags auslöst."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach der Ausübung bleibt der Kaufvertrag bestehen, der Verkäufer kann aber bei dinglich oder verfahrensrechtlich wirkenden Rechten nur noch dem Berechtigten übereignen. Gegen diese Doppelverpflichtung schützt ein Rücktrittsrecht. Die auflösende Bedingung ist unflexibel und beendet den Schwebezustand nicht, wenn die Wirksamkeit der Ausübung unklar ist. § 465 BGB betrifft nur das Verhältnis zum Berechtigten."
+ },
+ {
+  "id": "vork1-046",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Gesetzliche Vorkaufsrechte",
+  "seite": "Öffentlich-rechtliche Vorkaufsrechte: Bedeutung, Wirkungsarten und Absicherung im Kaufvertrag",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/offentlich-rechtliche-vorkaufsrechte-bedeutung-wirkungsarten-und-absicherung-im-kaufvertrag",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 326 Abs. 1 S. 1 BGB"
+  ],
+  "frage": "Eine Sicherungsabtretung der Ansprüche des Verkäufers gegen die vorkaufsberechtigte öffentliche Hand an den Käufer ist entbehrlich, weil bei Solvenz der öffentlichen Hand keine Sicherungslücke entstehen kann.",
+  "antwort": false,
+  "erklaerung": "Die öffentliche Hand ist zwar in der Regel solvent. Eine Sicherungslücke kann aber bei einem preislimitierten Vorkaufsrecht oder einem Vorkaufsrecht zum Verkehrswert entstehen, weil der Käufer dann bereits gezahlte Beträge möglicherweise nicht vollständig zurückerhält. Deshalb kommt jedenfalls, gegebenenfalls zusätzlich zum Hinausschieben der Fälligkeit, die Sicherungsabtretung in Betracht."
+ },
+ {
+  "id": "vork1-047",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Gesetzliche Vorkaufsrechte",
+  "seite": "Öffentlich-rechtliche Vorkaufsrechte: Bedeutung, Wirkungsarten und Absicherung im Kaufvertrag",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/offentlich-rechtliche-vorkaufsrechte-bedeutung-wirkungsarten-und-absicherung-im-kaufvertrag",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 66 Abs. 3 BNatSchG"
+  ],
+  "frage": "Für ein Grundstück kommt ein nicht im Grundbuch eingetragenes, dinglich wirkendes Vorkaufsrecht in Betracht. Welche Regelung sollte der Notar treffen?",
+  "optionen": [
+   "Keine besondere, da nicht eingetragene Rechte gegenüber dem Käufer nicht wirken.",
+   "Die Erklärung der zuständigen Stelle vor Fälligkeit des Kaufpreises einholen.",
+   "Die Eintragung einer Vormerkung zugunsten der zuständigen Stelle beantragen.",
+   "Die Auflassung erst nach Ablauf von zwei Jahren erklären lassen."
+  ],
+  "antwort": 1,
+  "erklaerung": "Dinglich wirkende Vorkaufsrechte wie das naturschutzrechtliche (§ 66 Abs. 3 BNatSchG) wirken ohne Grundbucheintragung wie eine Vormerkung; sie sind deshalb „Zeitbomben“, die aus dem Grundbuch nicht ersichtlich sind. Die Erklärung der zuständigen Stelle ist daher vor Fälligkeit einzuholen. Eine Vormerkung zugunsten der Stelle ist weder vorgesehen noch nötig."
  }
 ]

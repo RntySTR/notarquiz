@@ -6,3 +6,5 @@
 - Grundstückskaufvertrag / Verträge mit der Gemeinde (Ablösungsvereinbarung; Bescheids- und Vollerschließungsmodell): älterer Rechtsstand 13.03.2025, Bezug auf Art. 5a KAG Bayern statt BW.
 - Grundstückskaufvertrag / Anzeigen an Finanzamt und Gutachterausschuss: Stichtage 1.1.2027 und 1.1.2028 (künftige Rechtslage).
 - Elektronischer Rechtsverkehr / Strukturdaten (XML) und XML-Gebühr: KV 22125 nur als Verweis.
+- Notarkosten / Übergabevertrag vs. „Mindest-, Fest- und Höchstwerte; Mitwirkungspflicht“: Wertfestsetzung nach billigem Ermessen einmal § 95 S. 2, einmal § 95 S. 3 GNotKG zitiert; in den Fragen nur „§ 95 GNotKG“.
+- Handels- und Gesellschaftsrecht / notwendige und fakultative Satzungsbestandteile: Sperrfrist Gründungsaufwand mit § 26 Abs. 4 AktG belegt (GmbH-Kontext); nicht abgefragt.

@@ -568,5 +568,227 @@
    }
   ],
   "erklaerung": "Die GdWE kann das Grundstück durch Mehrheitsbeschluss erwerben; ein Verstoß gegen ordnungsmäßige Verwaltung macht den Beschluss nur anfechtbar. Der Verwalter benötigt für den Kaufvertrag einen Beschluss (§ 9b Abs. 1 S. 1 WEG), den der Notar prüft, und weist seine Bestellung dem Grundbuchamt nach § 26 Abs. 4 WEG analog nach."
+ },
+ {
+  "id": "wohn3-025",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Gemeinschaft der Wohnungseigentümer: Mängelrechte gegen den Bauträger und Abnahme des Gemeinschaftseigentums",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-mangelrechte-gegen-den-bautrager-und-abnahme-des-gemeinschaftseigentums",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 9a Abs. 2 WEG",
+   "§ 634 BGB"
+  ],
+  "frage": "Ordne die Mängelrechte am Gemeinschaftseigentum gegen den Bauträger der Zuständigkeit für ihre Ausübung zu.",
+  "paare": [
+   [
+    "Nacherfüllung und Kostenvorschuss",
+    "Jeder Erwerber selbst; GdWE kann sie durch Beschluss an sich ziehen"
+   ],
+   [
+    "Minderung und kleiner Schadensersatz",
+    "Geborene Ausübungsbefugnis der GdWE nach § 9a Abs. 2 Alt. 2 WEG"
+   ],
+   [
+    "Rücktritt und großer Schadensersatz",
+    "Stets der einzelne Erwerber"
+   ],
+   [
+    "Abnahme des Gemeinschaftseigentums",
+    "Nicht vergemeinschaftbar, weder durch Gemeinschaftsordnung noch durch Beschluss"
+   ]
+  ],
+  "erklaerung": "Primäre Mängelrechte kann jeder Erwerber ausüben, die GdWE kann sie aber durch Beschluss an sich ziehen. Für Minderung und kleinen Schadensersatz besteht eine geborene Ausübungsbefugnis der GdWE (§ 9a Abs. 2 Alt. 2 WEG), damit nicht einzelne mindern, während andere Nacherfüllung verlangen. Rücktritt und großer Schadensersatz betreffen nur das eigene Vertragsverhältnis; die Abnahme (§ 640 BGB) kann nicht vergemeinschaftet werden."
+ },
+ {
+  "id": "wohn3-026",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Gemeinschaft der Wohnungseigentümer: Mängelrechte gegen den Bauträger und Abnahme des Gemeinschaftseigentums",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-mangelrechte-gegen-den-bautrager-und-abnahme-des-gemeinschaftseigentums",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [],
+  "frage": "Nach der Rechtsprechung des BGH ist einem Erwerber nach der Vergemeinschaftung der Nacherfüllungsansprüche durch die GdWE jedes eigene Vorgehen gegen den Bauträger verwehrt.",
+  "antwort": false,
+  "erklaerung": "Nach dem BGH bleibt ein eigenes Vorgehen des Erwerbers auch nach der Vergemeinschaftung möglich; ausgeschlossen ist nur ein Vorgehen im Widerspruch zur GdWE bei Interessenkollision. Verhandelt die GdWE ohne weitere Beschlüsse mit dem Bauträger, darf der Erwerber eine Nacherfüllungsfrist setzen. Die generelle Verdrängung des Einzelvorgehens ist nur eine Gegenansicht in der Literatur."
+ },
+ {
+  "id": "wohn3-027",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Gemeinschaft der Wohnungseigentümer: Mängelrechte gegen den Bauträger und Abnahme des Gemeinschaftseigentums",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-mangelrechte-gegen-den-bautrager-und-abnahme-des-gemeinschaftseigentums",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 640 BGB"
+  ],
+  "frage": "Wie sollte die Abnahme des Gemeinschaftseigentums in Gemeinschaftsordnung und Bauträgervertrag geregelt werden?",
+  "optionen": [
+   "Die Abnahme wird durch Beschluss der Eigentümerversammlung mit Wirkung für alle Erwerber erklärt.",
+   "Die Gemeinschaftsordnung überträgt die Abnahme dem ersten Verwalter.",
+   "Auf eine Vergemeinschaftung verzichten; rechtliche Abnahme durch jeden Erwerber nach gemeinsamer technischer Abnahme",
+   "Die Abnahme erfolgt durch einen vom Bauträger bestimmten Sachverständigen mit Wirkung für alle Erwerber."
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Wohnungseigentümer können die Abnahme des Gemeinschaftseigentums (§ 640 BGB) weder durch die Gemeinschaftsordnung noch durch Beschluss an sich ziehen. Daher sollte auf eine Vergemeinschaftung verzichtet werden. Empfehlenswert ist eine rechtliche Abnahme durch jeden Erwerber, der eine gemeinsame technische Abnahme vorausgeht; ein Mehrheitsbeschluss zur Abnahme wäre der typische Fehler."
+ },
+ {
+  "id": "wohn3-028",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Gemeinschaft der Wohnungseigentümer: Mängelrechte gegen den Bauträger und Abnahme des Gemeinschaftseigentums",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-mangelrechte-gegen-den-bautrager-und-abnahme-des-gemeinschaftseigentums",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 9a Abs. 2 WEG"
+  ],
+  "frage": "Warum besteht für die Minderung wegen Mängeln am Gemeinschaftseigentum eine geborene Ausübungsbefugnis der GdWE?",
+  "optionen": [
+   "Weil die Minderung nur das Vertragsverhältnis des einzelnen Erwerbers betrifft",
+   "Weil verhindert werden soll, dass einzelne Erwerber mindern, während andere weiter Nacherfüllung verlangen",
+   "Weil die GdWE Vertragspartnerin des Bauträgervertrags ist",
+   "Weil die Minderung stets die Abnahme durch die GdWE voraussetzt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Für Minderung und kleinen Schadensersatz besteht eine geborene Ausübungsbefugnis der GdWE nach § 9a Abs. 2 Alt. 2 WEG, um widersprüchliches Vorgehen zu verhindern: Einzelne sollen nicht mindern, während andere weiter Nacherfüllung verlangen. Die Voraussetzungen der Minderung kann nur die GdWE schaffen. Die Begründung, es gehe nur um das eigene Vertragsverhältnis, trägt dagegen beim Rücktritt und großen Schadensersatz."
+ },
+ {
+  "id": "wohn3-029",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Gemeinschaft der Wohnungseigentümer: Rechtsfähigkeit, Gemeinschaftsvermögen und Haftung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-rechtsfahigkeit-gemeinschaftsvermogen-und-haftung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 9a Abs. 4 S. 1 WEG",
+   "§ 16 Abs. 1 S. 2 WEG"
+  ],
+  "frage": "Wie haftet ein Wohnungseigentümer einem Gläubiger der GdWE für deren Verbindlichkeiten?",
+  "optionen": [
+   "Gesamtschuldnerisch in voller Höhe",
+   "Gar nicht, da nur der Verband haftet",
+   "Nach dem Verhältnis seines Miteigentumsanteils für während seiner Zugehörigkeit entstandene oder fällig gewordene Verbindlichkeiten",
+   "Nach Köpfen zu gleichen Teilen für alle Verbindlichkeiten des Verbands"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 9a Abs. 4 S. 1 WEG haftet jeder Wohnungseigentümer nach dem Verhältnis seines Miteigentumsanteils (§ 16 Abs. 1 S. 2 WEG) für Verbindlichkeiten, die während seiner Zugehörigkeit entstanden oder fällig geworden sind. Eine gesamtschuldnerische Vollhaftung besteht nur, wenn ein Gesetz sie anordnet, etwa im kommunalen Abgabenrecht."
+ },
+ {
+  "id": "wohn3-030",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Gemeinschaft der Wohnungseigentümer: Rechtsfähigkeit, Gemeinschaftsvermögen und Haftung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-rechtsfahigkeit-gemeinschaftsvermogen-und-haftung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 875 BGB"
+  ],
+  "frage": "Ein Mehrheitsbeschluss der Wohnungseigentümer, eine Grunddienstbarkeit zugunsten des Wohnungseigentumsgrundstücks aufzugeben, ist mangels Beschlusskompetenz nichtig.",
+  "antwort": true,
+  "erklaerung": "Die GdWE hat keine Kompetenz im sachenrechtlichen Grundverhältnis; die Beschlusskompetenz erfasst nur die Verwaltung des Gemeinschaftseigentums und das Gemeinschaftsvermögen. Ein Beschluss über Bestellung oder Aufgabe (§ 875 BGB) einer Grunddienstbarkeit zugunsten des Grundstücks ist daher nichtig. Auch eine Vertretung der Eigentümer durch den Verwalter scheidet hier aus; es müssen alle Wohnungseigentümer handeln."
+ },
+ {
+  "id": "wohn3-031",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Gemeinschaft der Wohnungseigentümer: Rechtsfähigkeit, Gemeinschaftsvermögen und Haftung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-rechtsfahigkeit-gemeinschaftsvermogen-und-haftung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 9a Abs. 3 WEG"
+  ],
+  "frage": "Wohnungseigentümer W veräußert seine Einheit. Was gilt für das Gemeinschaftsvermögen, etwa das Heizöl im Tank der Anlage?",
+  "optionen": [
+   "W muss seinen Anteil am Gemeinschaftsvermögen gesondert an den Erwerber übertragen.",
+   "Ein Anteil am Gemeinschaftsvermögen geht kraft Gesetzes als Zubehör über.",
+   "W hat keinen Anteil am Gemeinschaftsvermögen, den er übertragen könnte; es gehört allein dem Verband.",
+   "W kann Auszahlung seines Anteils von der GdWE verlangen."
+  ],
+  "antwort": 2,
+  "erklaerung": "Das Gemeinschaftsvermögen (§ 9a Abs. 3 WEG), zu dem etwa Heizöl, Geräte und Ansprüche auf Hausgeld gehören, steht allein dem Verband zu. Der einzelne Eigentümer hat daran keine Eigentümerrechte, sondern ist nur Mitglied, solange ihm eine Einheit gehört. Deshalb gibt es keinen übertragbaren Anteil; anders liegt es beim Gemeinschaftseigentum, das weiterhin den Miteigentümern zusteht."
+ },
+ {
+  "id": "wohn3-032",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Gemeinschaft der Wohnungseigentümer: Rechtsfähigkeit, Gemeinschaftsvermögen und Haftung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-rechtsfahigkeit-gemeinschaftsvermogen-und-haftung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 9a Abs. 4 WEG"
+  ],
+  "frage": "Die Gemeinde setzt aufgrund ihrer Abgabensatzung Grundbesitzabgaben für die Anlage fest und ordnet eine gesamtschuldnerische Haftung der Wohnungseigentümer an. Was gilt?",
+  "optionen": [
+   "Die Eigentümer haften nur anteilig nach § 9a Abs. 4 WEG; die Gesamtschuld ist verdrängt.",
+   "Die gesamtschuldnerische Haftung nach kommunalem Abgabenrecht bleibt neben § 9a Abs. 4 WEG bestehen.",
+   "Es haftet ausschließlich die GdWE mit dem Gemeinschaftsvermögen.",
+   "Es haftet nur der Verwalter persönlich."
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Begrenzung auf den Miteigentumsanteil gilt nicht, wenn ein Gesetz eine Gesamtschuld anordnet; eine gesamtschuldnerische Haftung nach kommunalem Abgabenrecht bleibt neben § 9a Abs. 4 WEG bestehen. Die Haftungsbegrenzung hilft nur, wenn der Anspruch aus einem privatrechtlich ausgestalteten Nutzungsverhältnis folgt, nicht aus einer Satzung."
+ },
+ {
+  "id": "wohn3-033",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Gemeinschaftsordnung für besondere Anlagen: betreutes Wohnen und Reihenhäuser",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaftsordnung-fur-besondere-anlagen-betreutes-wohnen-und-reihenhauser",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 309 Nr. 9 Buchst. a) BGB"
+  ],
+  "frage": "Die Gemeinschaftsordnung einer Anlage für betreutes Wohnen verpflichtet jeden Eigentümer, mit der B-GmbH einen Betreuungsvertrag mit fünfjähriger Laufzeit zu schließen. Wie ist die Klausel zu beurteilen?",
+  "optionen": [
+   "Wirksam, da die Vereinbarung von allen Eigentümern getragen wird",
+   "Unwirksam, da eine Bindung an einen Betreuungsvertrag für mehr als zwei Jahre gegen § 309 Nr. 9 Buchst. a) BGB verstößt",
+   "Wirksam, sofern die Pflicht im Grundbuch eingetragen ist",
+   "Unwirksam, da jede Nutzungsbeschränkung auf einen Personenkreis unzulässig ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Eine Pflicht in der Gemeinschaftsordnung, mit einem bestimmten Unternehmen einen Betreuungsvertrag für mehr als zwei Jahre abzuschließen, ist nach § 309 Nr. 9 Buchst. a) BGB unwirksam. Die Beschränkung der Nutzung auf einen bestimmten Personenkreis ist dagegen zulässig. In der Praxis sollte die Bindung an Betreuungsunternehmen daher nicht über zwei Jahre hinaus in die Gemeinschaftsordnung aufgenommen werden."
+ },
+ {
+  "id": "wohn3-034",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Gemeinschaftsordnung für besondere Anlagen: betreutes Wohnen und Reihenhäuser",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaftsordnung-fur-besondere-anlagen-betreutes-wohnen-und-reihenhauser",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "In einer Studentenwohnanlage kann für Eigentümer, die nicht zum vorgesehenen Nutzerkreis gehören, als Gebrauchsregelung eine Pflicht zur Vermietung begründet werden, auch an einen gewerblichen Zwischenmieter.",
+  "antwort": true,
+  "erklaerung": "Eine Vereinbarung, nach der Sonder- und Gemeinschaftseigentum nur von einem bestimmten Personenkreis genutzt werden darf, ist zulässig. Für Eigentümer außerhalb dieses Kreises kann als Gebrauchsregelung eine Vermietungspflicht begründet werden, auch an einen gewerblichen Zwischenmieter. Alternativ kommt bei Ferienwohnungen ein Ferienbetriebsrecht als beschränkte persönliche Dienstbarkeit in Betracht."
+ },
+ {
+  "id": "wohn3-035",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Gemeinschaftsordnung für besondere Anlagen: betreutes Wohnen und Reihenhäuser",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaftsordnung-fur-besondere-anlagen-betreutes-wohnen-und-reihenhauser",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 5 Abs. 2 WEG"
+  ],
+  "frage": "Bei einer nach dem WEG geteilten Reihenhausanlage soll jeder Eigentümer so gestellt werden, als sei real geteilt. Warum ist dafür ein umfassendes Sondernutzungsrecht am eigenen Haus erforderlich?",
+  "optionen": [
+   "Weil an einem selbständigen Gebäude kein Wohnungseigentum gebildet werden kann",
+   "Weil die konstruktiven Teile des Hauses nach § 5 Abs. 2 WEG zwingend Gemeinschaftseigentum bleiben",
+   "Weil Sondereigentum an Reihenhäusern stets der Zustimmung der Baubehörde bedarf",
+   "Weil die Grundstücksfläche Sondereigentum ist und eines Sondernutzungsrechts nicht bedarf"
+  ],
+  "antwort": 1,
+  "erklaerung": "An jedem von mehreren selbständigen Gebäuden auf demselben Grundstück kann Wohnungseigentum gebildet werden; die konstruktiven Teile bleiben aber nach § 5 Abs. 2 WEG Gemeinschaftseigentum. Deshalb erhält jeder Eigentümer ein umfassendes Sondernutzungsrecht am zwingenden Gemeinschaftseigentum seines Hauses und an der zugehörigen Fläche mit alleiniger Entscheidungsbefugnis und Kostentragung. Die Sondernutzungsflächen sind in einem Plan bestimmt zu bezeichnen."
  }
 ]

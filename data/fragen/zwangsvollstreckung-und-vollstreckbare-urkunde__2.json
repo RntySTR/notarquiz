@@ -1,0 +1,388 @@
+[
+ {
+  "id": "zwan2-001",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Zwangsversteigerung: Grundstückskaufvertrag während des Verfahrens",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-grundstuckskaufvertrag-wahrend-des-verfahrens",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [],
+  "frage": "In welche Rangklasse ordnet das Zwangsversteigerungsverfahren eine Käufervormerkung ein, die erst nach der Beschlagnahme des Grundstücks eingetragen wird?",
+  "optionen": [
+   "Rangklasse 4",
+   "Rangklasse 5",
+   "Rangklasse 6",
+   "Rangklasse 3"
+  ],
+  "antwort": 2,
+  "erklaerung": "Eintragungen nach der Beschlagnahme fallen in Rangklasse 6 und stehen damit etwa hinter nicht im Grundbuch gesicherten Vollstreckungsgläubigern. Rangklasse 4 erfasst dagegen nur dingliche Rechte, die der Vormerkung im Rang vorgehen; eine nach der Beschlagnahme eingetragene Vormerkung erreicht diese Klasse gerade nicht."
+ },
+ {
+  "id": "zwan2-002",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Zwangsversteigerung: Grundstückskaufvertrag während des Verfahrens",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-grundstuckskaufvertrag-wahrend-des-verfahrens",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 10 Abs. 1 Nr. 3 S. 1 ZVG",
+   "§ 74a Abs. 5 ZVG"
+  ],
+  "frage": "Ordne die Rangklassen den Ansprüchen zu, die beim Verkauf eines Wohnungseigentums während der Zwangsversteigerung der Vormerkung vorgehen können.",
+  "paare": [
+   [
+    "Rangklasse 2",
+    "Hausgeld (Lasten und Kosten des gemeinschaftlichen Eigentums), begrenzt auf 5 % des festgesetzten Werts"
+   ],
+   [
+    "Rangklasse 3",
+    "Öffentliche Grundstückslasten wie Grundsteuer oder angeforderte Erschließungsbeiträge"
+   ],
+   [
+    "Rangklasse 4",
+    "Im Grundbuch eingetragene dingliche Rechte mit Vorrang vor der Vormerkung"
+   ],
+   [
+    "Rangklasse 5",
+    "Nicht im Grundbuch gesicherte Vollstreckungsgläubiger mit Beschlagnahme vor Eintragung der Vormerkung"
+   ]
+  ],
+  "erklaerung": "Rangklasse 2 erfasst Hausgeldansprüche mit der Kappung auf 5 % des nach § 74a Abs. 5 ZVG festgesetzten Werts, Rangklasse 3 öffentliche Lasten (§ 10 Abs. 1 Nr. 3 S. 1 ZVG). Rangklasse 4 betrifft vorrangige dingliche Rechte wie bei jedem Kaufvertrag. Leicht verwechselt wird Rangklasse 5: Sie betrifft persönliche Vollstreckungsgläubiger ohne Grundbuchsicherung, deren Beschlagnahme vor der Vormerkung wirksam wurde."
+ },
+ {
+  "id": "zwan2-003",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Zwangsversteigerung: Grundstückskaufvertrag während des Verfahrens",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-grundstuckskaufvertrag-wahrend-des-verfahrens",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 74a Abs. 5 ZVG"
+  ],
+  "frage": "Das Vorrecht der Rangklasse 2 für Hausgeldansprüche ist auf höchstens 10 % des nach § 74a Abs. 5 ZVG festgesetzten Werts begrenzt.",
+  "antwort": false,
+  "erklaerung": "Die Grenze liegt bei 5 % des nach § 74a Abs. 5 ZVG festgesetzten Werts. Bevorrechtigt sind laufende Beträge und Rückstände aus dem Beschlagnahmejahr und den zwei vorangehenden Jahren. Die 10 % sind die regelmäßige Sicherheitsleistung des Bieters im Termin, nicht die Kappungsgrenze für das Hausgeld."
+ },
+ {
+  "id": "zwan2-004",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Zwangsversteigerung: Grundstückskaufvertrag während des Verfahrens",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-grundstuckskaufvertrag-wahrend-des-verfahrens",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 10 Abs. 1 Nr. 3 S. 1 ZVG"
+  ],
+  "frage": "Wohnungsverkauf in laufender Zwangsversteigerung",
+  "sachverhalt": "V ist Eigentümer einer Eigentumswohnung. Auf Antrag der Bank B ist die Zwangsversteigerung angeordnet; der Zwangsversteigerungsvermerk ist eingetragen. V verkauft die Wohnung an K, der Kaufpreis soll direkt an die Gläubiger und V gezahlt werden. Im Grundbuch ist außer der Grundschuld der B nichts eingetragen. Der Verwalter teilt Hausgeldrückstände mit.",
+  "schritte": [
+   {
+    "frage": "Kann für K trotz des laufenden Versteigerungsverfahrens eine Vormerkung eingetragen werden?",
+    "optionen": [
+     "Nein, der Zwangsversteigerungsvermerk sperrt das Grundbuch für weitere Eintragungen",
+     "Ja, das Versteigerungsverfahren hindert Grundbucheintragungen nicht",
+     "Nur mit Zustimmung des Versteigerungsgerichts",
+     "Nur wenn B die Rücknahme ihres Versteigerungsantrags erklärt"
+    ],
+    "antwort": 1,
+    "erklaerung": "Auch während einer laufenden Zwangsversteigerung wird die Vormerkung wie üblich eingetragen; das Verfahren hindert Eintragungen nicht. Eine Grundbuchsperre durch den Vermerk gibt es nicht; der Vermerk beseitigt nur den öffentlichen Glauben daran, dass keine Beschlagnahme besteht."
+   },
+   {
+    "frage": "Was sollte der Notar nach Eintragung der Vormerkung veranlassen?",
+    "optionen": [
+     "Nichts weiter, da sich alle vorrangigen Gläubiger aus dem Grundbuch ergeben",
+     "Beim Grundbuchamt die Zeitpunkte aller Beschlagnahmen erfragen",
+     "Beim Versteigerungsgericht erfragen, welche Gläubiger ihre Beschlagnahme vor Eintragung der Vormerkung erwirkt haben",
+     "Den Gerichtsvollzieher um Auskunft über offene Vollstreckungsaufträge ersuchen"
+    ],
+    "antwort": 2,
+    "erklaerung": "Mehrere Gläubiger können die Versteigerung beantragen oder beitreten; der Zeitpunkt einer Beschlagnahme ergibt sich nicht aus dem Grundbuch. Deshalb ist beim Versteigerungsgericht nachzufragen. Das Grundbuchamt kann diese Auskunft nicht geben, weil die Beschlagnahmezeitpunkte dort nicht verzeichnet sind."
+   },
+   {
+    "frage": "Wann darf die Fälligkeit des Kaufpreises eintreten?",
+    "optionen": [
+     "Sobald die Löschungsbewilligung der B vorliegt",
+     "Sobald für alle möglicherweise vorrangigen Gläubiger, einschließlich Hausgeld- und früherer Beschlagnahmegläubiger, Löschungsunterlagen oder Freistellungsverpflichtungen mit Ablösebeträgen vorliegen",
+     "Sobald die Vormerkung eingetragen ist",
+     "Erst nach Aufhebung des Zwangsversteigerungsverfahrens durch Rechtskraft des Aufhebungsbeschlusses"
+    ],
+    "antwort": 1,
+    "erklaerung": "Bei Direktzahlung darf die Fälligkeit erst eintreten, wenn für alle möglicherweise vorrangigen Gläubiger Löschungsunterlagen oder Freistellungsverpflichtungen mit Ablösebeträgen vorliegen. Nur die eingetragene Grundschuld der B abzulösen ist der typische Fehler: Hausgeldansprüche (Rangklasse 2), öffentliche Lasten (Rangklasse 3, § 10 Abs. 1 Nr. 3 S. 1 ZVG) und früher beschlagnahmende Gläubiger (Rangklasse 5) gingen der Vormerkung vor."
+   }
+  ],
+  "erklaerung": "Die Vormerkung ist eintragbar, steht aber als Eintragung nach der Beschlagnahme in Rangklasse 6. Der Notar muss deshalb beim Versteigerungsgericht die Beschlagnahmen erfragen und die Fälligkeit davon abhängig machen, dass alle möglicherweise vorrangigen Ansprüche der Rangklassen 2 bis 5 abgelöst werden können."
+ },
+ {
+  "id": "zwan2-005",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Zwangsversteigerung: Verfahren bis zum Versteigerungstermin",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-verfahren-bis-zum-versteigerungstermin",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [],
+  "frage": "Ab wann gilt das Grundstück im Zwangsversteigerungsverfahren zugunsten des Gläubigers als beschlagnahmt?",
+  "optionen": [
+   "Mit Eintragung des Zwangsversteigerungsvermerks in Abteilung II",
+   "Mit Rechtskraft des Anordnungsbeschlusses",
+   "Mit Zustellung des Anordnungsbeschlusses an den Schuldner oder Eingang des Eintragungsersuchens beim Grundbuchamt",
+   "Mit der Festsetzung des Verkehrswerts durch Beschluss"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Beschlagnahme wirkt, sobald der Anordnungsbeschluss dem Schuldner zugestellt ist oder das Eintragungsersuchen beim Grundbuchamt eingeht. Auf die Eintragung des Vermerks kommt es nicht an; der Vermerk beseitigt nur den öffentlichen Glauben des Grundbuchs daran, dass keine Beschlagnahme besteht."
+ },
+ {
+  "id": "zwan2-006",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Zwangsversteigerung: Verfahren bis zum Versteigerungstermin",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-verfahren-bis-zum-versteigerungstermin",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [],
+  "frage": "Zwischen der Bestimmung des Versteigerungstermins und dem Versteigerungstermin sollen ohne besonderen Grund höchstens zwölf Monate liegen.",
+  "antwort": false,
+  "erklaerung": "Zwischen Terminbestimmung und Termin sollen ohne besonderen Grund höchstens sechs Monate liegen. Der Termin wird erst nach Beschlagnahme und Verkehrswertfestsetzung bestimmt; mehrere Monate vergehen meist schon von der Anordnung bis zur Terminbestimmung, nicht zwischen Terminbestimmung und Termin."
+ },
+ {
+  "id": "zwan2-007",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Zwangsversteigerung: Verfahren bis zum Versteigerungstermin",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-verfahren-bis-zum-versteigerungstermin",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Gläubiger G1 betreibt die Zwangsversteigerung, Gläubiger G2 ist wirksam beigetreten. G1 nimmt seinen Antrag zurück. Welche Folge hat das?",
+  "optionen": [
+   "Das gesamte Verfahren ist aufzuheben, weil der Beitritt vom Anordnungsverfahren abhängt",
+   "Das Verfahren wird nur hinsichtlich G1 aufgehoben und für G2 fortgeführt",
+   "G2 muss einen neuen Anordnungsantrag stellen, da sein Beitritt mit dem Anordnungsverfahren entfällt",
+   "Das Verfahren ruht, bis G2 die Übernahme der Kosten des G1 erklärt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die betreibenden Gläubiger führen das gemeinsame Verfahren unabhängig voneinander fort; es kann für jeden einzelnen Gläubiger gesondert eingestellt oder aufgehoben werden. Der Beitritt ist nicht akzessorisch zum Anordnungsverfahren: Für den Beitrittsbeschluss gelten Voraussetzungen und Wirkungen des Anordnungsbeschlusses entsprechend."
+ },
+ {
+  "id": "zwan2-008",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Zwangsversteigerung: Verfahren bis zum Versteigerungstermin",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-verfahren-bis-zum-versteigerungstermin",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Nach Eröffnung des Insolvenzverfahrens kann jeder persönliche Gläubiger des Eigentümers die Zwangsversteigerung des Grundstücks weiter betreiben.",
+  "antwort": false,
+  "erklaerung": "Zwangsversteigerung und Zwangsverwaltung bleiben nach Insolvenzeröffnung nur für Gläubiger mit dinglich gesichertem Pfandrecht möglich, in der Regel Inhaber einer eingetragenen Grundschuld, Hypothek oder Reallast. Das Insolvenzverfahren ist Gesamtvollstreckung; persönliche Gläubiger sind auf dieses verwiesen."
+ },
+ {
+  "id": "zwan2-009",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Zwangsversteigerung: Verfahren bis zum Versteigerungstermin",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-verfahren-bis-zum-versteigerungstermin",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [],
+  "frage": "Worin unterscheidet sich die Zwangsverwaltung von der Zwangsversteigerung?",
+  "optionen": [
+   "Die Zwangsverwaltung befriedigt die Gläubiger aus den Einnahmen des Grundstücks, ohne dass die Immobilie versteigert wird",
+   "Die Zwangsverwaltung ist ein Verfahren der Gesamtvollstreckung wie das Insolvenzverfahren",
+   "Die Zwangsverwaltung setzt keinen Vollstreckungstitel des Gläubigers voraus",
+   "Die Zwangsverwaltung bereitet zwingend eine spätere Versteigerung vor und endet mit dem Zuschlag"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Zwangsversteigerung verwertet den Grundbesitz und verteilt den Erlös; die Zwangsverwaltung befriedigt die Gläubiger aus den Einnahmen des Grundstücks, eine Versteigerung ist dafür nicht erforderlich. Beide sind im ZVG geregelte Verfahren der Einzelzwangsvollstreckung in das unbewegliche Vermögen, nicht der Gesamtvollstreckung."
+ },
+ {
+  "id": "zwan2-010",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Zwangsversteigerung: Versteigerungstermin, Zuschlag und Verteilung",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-versteigerungstermin-zuschlag-und-verteilung",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 85a Abs. 1 ZVG",
+   "§ 74a Abs. 1 ZVG"
+  ],
+  "frage": "Ordne die Situation im Versteigerungstermin der Rechtsfolge zu.",
+  "paare": [
+   [
+    "Meistgebot unter der Hälfte des Verkehrswerts im ersten Termin",
+    "Versagung des Zuschlags von Amts wegen"
+   ],
+   [
+    "Meistgebot ab der Hälfte, aber unter 7/10 des Verkehrswerts im ersten Termin",
+    "Versagung des Zuschlags nur auf Antrag möglich"
+   ],
+   [
+    "Zweiter Termin nach Versagung wegen der Wertgrenzen",
+    "Wertgrenzen von 5/10 und 7/10 gelten nicht mehr"
+   ],
+   [
+    "Verlangen des betreibenden Gläubigers nach Abgabe eines Gebots",
+    "Sicherheitsleistung regelmäßig in Höhe von 10 % des Verkehrswerts"
+   ]
+  ],
+  "erklaerung": "Unter 5/10 des Verkehrswerts versagt das Gericht den Zuschlag von Amts wegen (§ 85a Abs. 1 ZVG); zwischen 5/10 und 7/10 nur auf Antrag (§ 74a Abs. 1 ZVG). Im neuen Termin nach einer solchen Versagung gelten beide Grenzen nicht mehr. Die Sicherheit von regelmäßig 10 % knüpft an den Verkehrswert an, nicht an das Gebot."
+ },
+ {
+  "id": "zwan2-011",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Zwangsversteigerung: Versteigerungstermin, Zuschlag und Verteilung",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-versteigerungstermin-zuschlag-und-verteilung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [],
+  "frage": "Zu welchem Zeitpunkt erwirbt der Ersteher das Eigentum am versteigerten Grundstück?",
+  "optionen": [
+   "Mit Rechtskraft des Zuschlagsbeschlusses",
+   "Mit Verkündung des Zuschlagsbeschlusses",
+   "Mit Eintragung im Grundbuch auf Ersuchen des Versteigerungsgerichts",
+   "Mit Ausführung des Teilungsplans im Verteilungstermin"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Ersteher wird mit Verkündung des Zuschlagsbeschlusses Eigentümer, sofern der Beschluss nicht im Beschwerdeverfahren rechtskräftig aufgehoben wird. Die Rechtskraft ist erst Voraussetzung für das Ersuchen um Grundbuchberichtigung; die Eintragung des Erstehers berichtigt das Grundbuch nur."
+ },
+ {
+  "id": "zwan2-012",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Zwangsversteigerung: Versteigerungstermin, Zuschlag und Verteilung",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-versteigerungstermin-zuschlag-und-verteilung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 130 Abs. 1 ZVG"
+  ],
+  "frage": "Unter welchen Voraussetzungen ersucht das Versteigerungsgericht das Grundbuchamt um Berichtigung des Grundbuchs nach dem Zuschlag?",
+  "optionen": [
+   "Verkündung des Zuschlags und Zahlung des Bargebots",
+   "Rechtskraft des Zuschlagsbeschlusses und Eintragung der Finanzierungsgrundschuld des Erstehers",
+   "Rechtskraft des Zuschlagsbeschlusses, Ausführung des Teilungsplans und Unbedenklichkeitsbescheinigung des Finanzamts",
+   "Ausführung des Teilungsplans und Räumung des Grundstücks durch den Gerichtsvollzieher"
+  ],
+  "antwort": 2,
+  "erklaerung": "Das Ersuchen (§ 130 Abs. 1 ZVG) setzt drei Dinge voraus: rechtskräftigen Zuschlagsbeschluss, ausgeführten Teilungsplan und eine Unbedenklichkeitsbescheinigung über die Zahlung der Grunderwerbsteuer. Die Verkündung des Zuschlags genügt nicht; sie verschafft zwar das Eigentum, das Ersuchen wartet aber die Rechtskraft ab."
+ },
+ {
+  "id": "zwan2-013",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Zwangsversteigerung: Versteigerungstermin, Zuschlag und Verteilung",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-versteigerungstermin-zuschlag-und-verteilung",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 130 Abs. 1 ZVG"
+  ],
+  "frage": "Reicht der Ersteher eine Finanzierungsgrundschuld vor Eingang des Ersuchens des Versteigerungsgerichts beim Grundbuchamt ein, erlässt das Grundbuchamt nach LG Gera eine Zwischenverfügung.",
+  "antwort": false,
+  "erklaerung": "Nach LG Gera darf das Grundbuchamt solche vorzeitigen Anträge weder vollziehen noch zurückweisen, und eine Zwischenverfügung ist ebenfalls ausgeschlossen. Es stellt die Anträge zurück, bis das Ersuchen nach § 130 Abs. 1 ZVG vollzogen ist. Die Grundschuldbestellung kann also vorab eingereicht werden, eingetragen wird sie erst nach der Eigentumsumschreibung."
+ },
+ {
+  "id": "zwan2-014",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Zwangsversteigerung: Versteigerungstermin, Zuschlag und Verteilung",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-versteigerungstermin-zuschlag-und-verteilung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Der Ersteher kann aus dem Zuschlagsbeschluss die Räumung gegen den Besitzer schon vor Rechtskraft des Beschlusses durchsetzen.",
+  "antwort": true,
+  "erklaerung": "Der Zuschlagsbeschluss ist Räumungstitel; Räumung und Herausgabe kann der Ersteher schon vor Rechtskraft betreiben. Die vollstreckbare Ausfertigung erteilt das Amtsgericht auf Antrag, die Räumung führt der Gerichtsvollzieher durch. Erst die Grundbuchberichtigung, nicht die Räumung, setzt die Rechtskraft voraus."
+ },
+ {
+  "id": "zwan2-015",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckbare Ausfertigung: Erteilung durch den Notar und Rückgabe",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-ausfertigung-erteilung-durch-den-notar-und-ruckgabe",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Wann darf der Notar die Erteilung der vollstreckbaren Ausfertigung ausnahmsweise verweigern?",
+  "optionen": [
+   "Wenn der Schuldner mit privatschriftlicher Quittung glaubhaft macht, dass er gezahlt hat",
+   "Wenn der Notar Zweifel an der Wirksamkeit des Sicherungsvertrags hat",
+   "Wenn öffentliche oder öffentlich beglaubigte Urkunden belegen, dass der Anspruch nicht entstanden oder erloschen ist, oder dies sonst offenkundig ist",
+   "Wenn der Schuldner der Erteilung schriftlich widerspricht"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach vorherrschender Meinung hat der Notar im Klauselverfahren kein materielles Prüfungsrecht. Verweigern darf er nur, wenn öffentliche oder öffentlich beglaubigte Urkunden das Nichtentstehen oder Erlöschen des Anspruchs belegen oder dies offenkundig ist. Eine privatschriftliche Quittung genügt diesem Nachweisstandard nicht."
+ },
+ {
+  "id": "zwan2-016",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckbare Ausfertigung: Erteilung durch den Notar und Rückgabe",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-ausfertigung-erteilung-durch-den-notar-und-ruckgabe",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [],
+  "frage": "Der Notar kann die dingliche Vollstreckungsklausel einer Grundschuld bereits vor deren Eintragung im Grundbuch erteilen.",
+  "antwort": true,
+  "erklaerung": "Die Eintragung des Rechts und des Schuldners als Eigentümer prüft bei dinglichen Rechten das Vollstreckungsgericht. Deshalb ist anerkannt, dass die dingliche Klausel schon vor Eintragung und sogar gegen einen künftigen Eigentümer erteilt werden kann."
+ },
+ {
+  "id": "zwan2-017",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckbare Ausfertigung: Erteilung durch den Notar und Rückgabe",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-ausfertigung-erteilung-durch-den-notar-und-ruckgabe",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [],
+  "frage": "Die Bestellung einer vollstreckbaren Grundschuld bedarf einer Sanierungsgenehmigung, die noch nicht vorliegt. Wie ist die Erteilung der vollstreckbaren Ausfertigung zu beurteilen?",
+  "optionen": [
+   "Sie ist erst nach Eintragung der Grundschuld zulässig, weil vorher die Wirksamkeit offen ist",
+   "Sie ist schon vor Eintragung möglich; die Urkunde kann aber vorsehen, dass sie erst nach Vorliegen der Genehmigung erteilt wird",
+   "Sie ist nur zulässig, wenn die Beteiligten auf den Nachweis der Genehmigung nach § 726 ZPO verzichten",
+   "Sie ist ausgeschlossen, bis das Vollstreckungsgericht die Genehmigung geprüft hat"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Erteilung vor Eintragung ist auch bei genehmigungsbedürftiger Grundschuld möglich, weil das Grundbuchamt erst nach Genehmigung einträgt und das Vollstreckungsgericht die Eintragung prüft. Die Grundschuldurkunde kann trotzdem vorsehen, dass die Ausfertigung erst nach Vorliegen der Genehmigung erteilt wird. Eine Erteilung erst nach Eintragung ist also nicht zwingend."
+ },
+ {
+  "id": "zwan2-018",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckbare Ausfertigung: Erteilung durch den Notar und Rückgabe",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-ausfertigung-erteilung-durch-den-notar-und-ruckgabe",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 371 BGB"
+  ],
+  "frage": "In welchem Fall kann der Schuldner entsprechend § 371 BGB die Herausgabe der vollstreckbaren Ausfertigung nicht verlangen?",
+  "optionen": [
+   "Die titulierte Schuld ist durch Erfüllung erloschen",
+   "Die titulierte Schuld ist von Anfang an nicht entstanden",
+   "Die titulierte Schuld ist verjährt",
+   "Es handelt sich um einen Unterhaltstitel, und die Herausgabe wird für vergangene Zeiträume verlangt"
+  ],
+  "antwort": 3,
+  "erklaerung": "Entsprechend § 371 BGB ist die vollstreckbare Ausfertigung bei Erfüllung, Nichtentstehen oder Verjährung herauszugeben, auch teilweise, etwa wegen verjährter Zinsen. Ausnahme ist der Unterhaltstitel, der für vergangene Zeiträume nicht herausgegeben wird. Die Verjährung schließt die Herausgabe gerade nicht aus, sondern begründet sie."
+ },
+ {
+  "id": "zwan2-019",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckbare Ausfertigung: Erteilung durch den Notar und Rückgabe",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-ausfertigung-erteilung-durch-den-notar-und-ruckgabe",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Ist eine Grundschuld im Kaufvertragsvollzug gelöscht, ist auch der Titel aus der Bestellungsurkunde vollstreckungsrechtlich erledigt, sodass eine Vernichtung der vollstreckbaren Ausfertigung entbehrlich ist.",
+  "antwort": false,
+  "erklaerung": "Der Titel besteht vollstreckungsrechtlich auch nach der Löschung fort. Der Notar übersendet die vollstreckbare Ausfertigung deshalb dem Schuldner und sollte ihm die Vernichtung empfehlen, damit der Titel nicht missbraucht wird. Vernichtet der Notar sie bei umfassendem Vollzugsauftrag selbst, sollte er dies dokumentieren."
+ }
+]
