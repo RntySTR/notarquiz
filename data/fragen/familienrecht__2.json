@@ -13,12 +13,12 @@
   ],
   "frage": "Welche Formanforderung stellt § 1410 BGB an den Ehevertrag?",
   "optionen": [
+   "Eintragung in das Güterrechtsregister beim Amtsgericht",
    "Schriftform mit notarieller Beglaubigung beider Unterschriften",
    "Notarielle Niederschrift bei gleichzeitiger Anwesenheit beider Vertragsteile",
-   "Notarielle Niederschrift; die Erklärungen dürfen auch nacheinander beurkundet werden",
-   "Eintragung in das Güterrechtsregister beim Amtsgericht"
+   "Notarielle Niederschrift; die Erklärungen dürfen auch nacheinander beurkundet werden"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Nach § 1410 BGB bedarf der Ehevertrag der Niederschrift eines Notars bei gleichzeitiger Anwesenheit beider Teile. Eine sukzessive Beurkundung der Erklärungen, wie sie bei anderen Verträgen möglich ist, genügt hier nicht. Die Eintragung in das Güterrechtsregister war nie Wirksamkeitsvoraussetzung und ist seit dessen Abschaffung ohnehin gegenstandslos."
  },
  {
@@ -28,13 +28,13 @@
   "seite": "Güterrecht: Güterstände, Ehevertrag und Wegfall des Güterrechtsregisters",
   "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/guterrecht-guterstande-ehevertrag-und-wegfall-des-guterrechtsregisters",
   "typ": "rf",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 1410 BGB"
   ],
-  "frage": "Die in § 1410 BGB geforderte gleichzeitige Anwesenheit beider Vertragsteile verlangt die höchstpersönliche Anwesenheit der Ehegatten; eine Vertretung beim Abschluss des Ehevertrags ist ausgeschlossen.",
-  "antwort": false,
-  "erklaerung": "Gleichzeitige Anwesenheit bedeutet keine höchstpersönliche Anwesenheit. Jeder Ehegatte darf sich beim Abschluss des Ehevertrags vertreten lassen; § 1410 BGB verlangt nur, dass beide Vertragsteile – gegebenenfalls durch Vertreter – gleichzeitig vor dem Notar erklären. Der Irrtum rührt von der Verwechslung mit höchstpersönlichen Geschäften wie dem Erbverzicht her."
+  "frage": "Die in § 1410 BGB geforderte gleichzeitige Anwesenheit beider Vertragsteile verlangt keine höchstpersönliche Anwesenheit; jeder Ehegatte darf sich beim Abschluss des Ehevertrags vertreten lassen.",
+  "antwort": true,
+  "erklaerung": "Gleichzeitige Anwesenheit im Sinne des § 1410 BGB bedeutet keine höchstpersönliche Anwesenheit; jeder Ehegatte darf sich vertreten lassen. § 1410 BGB verlangt nur, dass beide Vertragsteile – gegebenenfalls durch Vertreter – gleichzeitig vor dem Notar erklären; eine Beurkundung von Angebot und Annahme nacheinander genügt nicht. Wer Gleichzeitigkeit mit Höchstpersönlichkeit verwechselt, überträgt fälschlich die Regeln für höchstpersönliche Geschäfte wie den Erbverzicht."
  },
  {
   "id": "fami2-003",
@@ -71,8 +71,8 @@
   ],
   "frage": "Welcher Güterstand kann ausschließlich durch Ehevertrag begründet werden und ist kein eigener Güterstand des BGB im engeren Sinne?",
   "optionen": [
-   "Zugewinngemeinschaft",
    "Gütertrennung",
+   "Zugewinngemeinschaft",
    "Deutsch-französische Wahl-Zugewinngemeinschaft",
    "Gütergemeinschaft"
   ],
@@ -123,12 +123,12 @@
   ],
   "frage": "Ehegatten vereinbaren im Ehevertrag nur: „Der Zugewinnausgleich wird ausgeschlossen.“ Weitere Regelungen fehlen. Welcher Güterstand gilt?",
   "optionen": [
-   "Zugewinngemeinschaft ohne Zugewinnausgleich (modifizierte Zugewinngemeinschaft)",
    "Gütertrennung",
-   "Gütergemeinschaft",
-   "Die Vereinbarung ist mangels Bestimmtheit unwirksam; es bleibt bei der Zugewinngemeinschaft"
+   "Die Vereinbarung ist mangels Bestimmtheit unwirksam; es bleibt bei der Zugewinngemeinschaft",
+   "Zugewinngemeinschaft ohne Zugewinnausgleich (modifizierte Zugewinngemeinschaft)",
+   "Gütergemeinschaft"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Nach § 1414 BGB tritt Gütertrennung ein, wenn der Ehevertrag den Zugewinnausgleich ausschließt, ohne dass die Ehegatten etwas anderes vereinbaren. Der typische Fehler besteht darin, die Fortgeltung der Zugewinngemeinschaft im Übrigen nicht ausdrücklich zu regeln; dann entfallen auch die Verfügungsbeschränkungen der §§ 1365, 1369 BGB. Eine modifizierte Zugewinngemeinschaft entsteht nur, wenn die Fortgeltung im Übrigen ausdrücklich vereinbart wird."
  },
  {
@@ -161,10 +161,10 @@
   "optionen": [
    "Dem Gesamtgut, weil späterer Erwerb stets in das Gesamtgut fällt",
    "Dem Sondergut, weil Schenkungen Dritter nicht übertragbar sind",
-   "Dem Vorbehaltsgut, weil der Zuwendende dies ausdrücklich bestimmt hat",
-   "Dem Gesamtgut, weil nur der Ehevertrag Vorbehaltsgut bestimmen kann"
+   "Dem Gesamtgut, weil nur der Ehevertrag Vorbehaltsgut bestimmen kann",
+   "Dem Vorbehaltsgut, weil der Zuwendende dies ausdrücklich bestimmt hat"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Nach § 1418 BGB wird Vorbehaltsgut nicht nur durch Ehevertrag bestimmt, sondern auch ein Erwerb durch Erbfall, Vermächtnis oder unentgeltliche Zuwendung eines Dritten, wenn der Erblasser oder Zuwendende dies ausdrücklich anordnet. Ohne diese Bestimmung fiele die Schenkung als späterer Erwerb in das Gesamtgut (§ 1416 BGB). Sondergut (§ 1417 BGB) erfasst nur rechtsgeschäftlich nicht übertragbare Gegenstände, was auf ein Grundstück nicht zutrifft."
  },
  {
@@ -182,12 +182,12 @@
   ],
   "frage": "Verlobte A und B möchten gemeinsam und wechselbezüglich von Todes wegen verfügen. Welche Form ist zulässig?",
   "optionen": [
-   "Gemeinschaftliches Testament, da Verlobte den Ehegatten gleichgestellt sind",
    "Erbvertrag, da Verlobte kein gemeinschaftliches Testament errichten können",
+   "Zwei Einzeltestamente mit Bindungsklausel",
    "Ehevertrag mit erbrechtlichen Regelungen nach § 1408 BGB",
-   "Zwei Einzeltestamente mit Bindungsklausel"
+   "Gemeinschaftliches Testament, da Verlobte den Ehegatten gleichgestellt sind"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Verlobte können kein gemeinschaftliches Testament errichten (§ 2265 BGB); das ist der typische Fehler. Richtige Form ist der Erbvertrag, den Verlobte schließen können, wobei der als Erblasser Verfügende unbeschränkt geschäftsfähig sein muss (§ 2275 BGB). Der Ehevertrag (§ 1408 BGB) regelt nur die güterrechtlichen Verhältnisse, nicht die Erbfolge; Einzeltestamente erzeugen keine Bindung."
  },
  {
@@ -212,7 +212,7 @@
   "seite": "Verlöbnis: Begriff und Rechtswirkungen",
   "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/verlobnis-begriff-und-rechtswirkungen",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 383 Abs. 1 Nr. 1 ZPO",
    "§ 52 Abs. 1 Nr. 1 StPO",
@@ -220,10 +220,10 @@
   ],
   "frage": "Worauf kommt es für die straf- und prozessrechtlichen Wirkungen des Verlöbnisses (Zeugnisverweigerungsrecht, Angehörigeneigenschaft) nach der Seite entscheidend an?",
   "optionen": [
-   "Auf die Einordnung des Verlöbnisses als familienrechtlicher Vertrag",
    "Auf eine schriftliche oder notarielle Dokumentation des Eheversprechens",
+   "Auf die Anmeldung der Eheschließung beim Standesamt",
    "Auf die tatsächliche Enge der Bindung zwischen den Verlobten",
-   "Auf die Anmeldung der Eheschließung beim Standesamt"
+   "Auf die Einordnung des Verlöbnisses als familienrechtlicher Vertrag"
   ],
   "antwort": 2,
   "erklaerung": "Für die Wirkungen des Verlöbnisses im Straf- und Prozessrecht (§ 11 Abs. 1 Nr. 1 Buchst. a StGB; § 383 Abs. 1 Nr. 1 ZPO; §§ 52 Abs. 1 Nr. 1, 61 StPO) ist die Rechtsnatur des Verlöbnisses unerheblich. Entscheidend ist, wie eng die Verlobten tatsächlich miteinander verbunden sind. Eine Form oder standesamtliche Anmeldung verlangt das Gesetz für das Verlöbnis nicht."
@@ -242,12 +242,12 @@
   ],
   "frage": "Ehemann M schenkt seiner Frau F während der Ehe 100.000 €. Wie wird dieser Betrag beim Zugewinnausgleich auf Seiten der F behandelt?",
   "optionen": [
+   "Er wird dem Anfangsvermögen des M hinzugerechnet, um dessen Zugewinn zu mindern",
    "Als privilegierter Erwerb wird er dem Anfangsvermögen der F hinzugerechnet (§ 1374 Abs. 2 BGB)",
    "Er bleibt gänzlich außer Betracht, weil Zuwendungen unter Ehegatten güterrechtlich neutral sind",
-   "Er ist kein privilegierter Erwerb; § 1380 BGB ordnet stattdessen die Anrechnung auf die Ausgleichsforderung an",
-   "Er wird dem Anfangsvermögen des M hinzugerechnet, um dessen Zugewinn zu mindern"
+   "Er ist kein privilegierter Erwerb; § 1380 BGB ordnet stattdessen die Anrechnung auf die Ausgleichsforderung an"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Nach ganz h. M. gilt § 1374 Abs. 2 BGB für Ehegattenzuwendungen nicht; die Zuwendung gehört nicht zum Anfangsvermögen des Empfängers. Begründung ist § 1380 BGB, der für Ehegattenzuwendungen gerade die Anrechnung auf die Ausgleichsforderung anordnet. Die naheliegende Einordnung als privilegierter Erwerb verkennt, dass § 1374 Abs. 2 BGB nur den Erwerb von Dritten erfasst."
  },
  {
@@ -263,13 +263,13 @@
   ],
   "frage": "Wie verläuft der Rechenweg der Anrechnung nach § 1380 Abs. 2 BGB?",
   "optionen": [
-   "Der Zuwendungswert wird dem Endvermögen des Zuwendenden hinzugerechnet, beim Empfänger herausgerechnet und anschließend von der Ausgleichsforderung des Empfängers abgezogen",
-   "Der Zuwendungswert wird dem Anfangsvermögen des Empfängers hinzugerechnet und von der Ausgleichsforderung des Zuwendenden abgezogen",
    "Der Zuwendungswert wird nur von der Ausgleichsforderung des Empfängers abgezogen; die Endvermögen bleiben unverändert",
-   "Der Zuwendungswert wird beiden Endvermögen hälftig zugeschlagen und dann vom Zugewinn des Empfängers abgezogen"
+   "Der Zuwendungswert wird beiden Endvermögen hälftig zugeschlagen und dann vom Zugewinn des Empfängers abgezogen",
+   "Der Zuwendungswert wird dem Endvermögen des Zuwendenden hinzugerechnet, beim Empfänger herausgerechnet und anschließend von der Ausgleichsforderung des Empfängers abgezogen",
+   "Der Zuwendungswert wird dem Anfangsvermögen des Empfängers hinzugerechnet und von der Ausgleichsforderung des Zuwendenden abgezogen"
   ],
-  "antwort": 0,
-  "erklaerung": "§ 1380 Abs. 2 S. 1 BGB rechnet den Wert der Zuwendung dem Zugewinn des Zuwendenden hinzu; spiegelbildlich wird er beim Empfänger aus dem Endvermögen herausgerechnet. Aus den angepassten Zugewinnen ergibt sich die Ausgleichsforderung, von der sodann der Zuwendungswert abgezogen wird (§ 1380 Abs. 1 BGB). Ein bloßer Abzug ohne Anpassung der Endvermögen (Option 3) übersieht die erste Stufe des Verfahrens."
+  "antwort": 2,
+  "erklaerung": "§ 1380 Abs. 2 S. 1 BGB rechnet den Wert der Zuwendung dem Zugewinn des Zuwendenden hinzu; spiegelbildlich wird er beim Empfänger aus dem Endvermögen herausgerechnet. Aus den angepassten Zugewinnen ergibt sich die Ausgleichsforderung, von der sodann der Zuwendungswert abgezogen wird (§ 1380 Abs. 1 BGB). Ein bloßer Abzug von der Ausgleichsforderung ohne vorherige Anpassung der Endvermögen übersieht die erste Stufe des Verfahrens."
  },
  {
   "id": "fami2-014",
@@ -278,13 +278,13 @@
   "seite": "Zugewinnausgleich: Anrechnung von Ehegattenzuwendungen (§ 1380 BGB)",
   "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinnausgleich-anrechnung-von-ehegattenzuwendungen-1380-bgb",
   "typ": "rf",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 1380 Abs. 2 S. 2 BGB"
   ],
-  "frage": "Für die Anrechnung nach § 1380 BGB ist der Wert der Zuwendung im Zeitpunkt der Beendigung des Güterstands maßgeblich.",
-  "antwort": false,
-  "erklaerung": "Nach § 1380 Abs. 2 S. 2 BGB zählt der Wert der Zuwendung im Zeitpunkt der Zuwendung, nicht bei Beendigung des Güterstands. Dieser Wert ist zudem inflationsbereinigt anzusetzen. Die Aussage überträgt fälschlich den Stichtag für das Endvermögen auf die Bewertung der Zuwendung."
+  "frage": "Für die Anrechnung nach § 1380 BGB ist der Wert der Zuwendung im Zeitpunkt der Zuwendung maßgeblich; dieser Wert ist inflationsbereinigt anzusetzen.",
+  "antwort": true,
+  "erklaerung": "Nach § 1380 Abs. 2 S. 2 BGB zählt der Wert der Zuwendung im Zeitpunkt der Zuwendung, nicht bei Beendigung des Güterstands; er ist zudem inflationsbereinigt anzusetzen. Die naheliegende Fehlvorstellung überträgt den Stichtag für das Endvermögen auf die Bewertung der Zuwendung."
  },
  {
   "id": "fami2-015",
@@ -299,12 +299,12 @@
   ],
   "frage": "In welchem Fall weicht das Ergebnis der Anrechnung nach § 1380 BGB von der bloßen Berücksichtigung der Zuwendung im Endvermögen des Empfängers ab?",
   "optionen": [
-   "Immer, weil die Anrechnung den Zugewinn des Zuwendenden erhöht",
    "Wenn der Zuwendungsempfänger ohne die Zuwendung einen negativen Zugewinn hätte",
+   "Wenn der Zuwendende keinen Anspruch auf Zugewinnausgleich hat",
    "Wenn die Zuwendung den Wert üblicher Gelegenheitsgeschenke nicht übersteigt",
-   "Wenn der Zuwendende keinen Anspruch auf Zugewinnausgleich hat"
+   "Immer, weil die Anrechnung den Zugewinn des Zuwendenden erhöht"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Im Regelfall führen Anrechnung und bloße Berücksichtigung im Endvermögen zum selben Ergebnis. Abweichungen entstehen vor allem, wenn der Empfänger ohne die Zuwendung einen negativen Zugewinn hätte; dann begünstigt § 1380 BGB den Zuwendenden, der durch die Zuwendung nicht schlechter stehen soll. Bei bloßen Gelegenheitsgeschenken greift die Anrechnungsvermutung des § 1380 Abs. 1 S. 2 BGB gar nicht; § 1380 BGB setzt zudem einen Ausgleichsanspruch des Empfängers, nicht des Zuwendenden, voraus."
  },
  {
@@ -326,7 +326,7 @@
    "Gar nicht; ein negativer Zugewinn wird mit null angesetzt und bleibt ohne Einfluss auf die Anrechnung"
   ],
   "antwort": 1,
-  "erklaerung": "Liegt beim Empfänger nach Abzug des Zuwendungswerts das Endvermögen unter dem Anfangsvermögen, mindert die Anrechnung nach § 1380 BGB die Ausgleichsforderung zusätzlich um die Hälfte des negativen Zugewinns, höchstens um die Hälfte des Zuwendungswerts. Der Empfänger muss sich damit einen Wert anrechnen lassen, der in seinem Endvermögen nicht mehr vorhanden ist. Ein Ansatz mit null (Option 4) entspricht der bloßen Berücksichtigung im Endvermögen ohne Anrechnung und ist gerade der Fall, in dem § 1380 BGB abweicht."
+  "erklaerung": "Liegt beim Empfänger nach Abzug des Zuwendungswerts das Endvermögen unter dem Anfangsvermögen, mindert die Anrechnung nach § 1380 BGB die Ausgleichsforderung zusätzlich um die Hälfte des negativen Zugewinns, höchstens um die Hälfte des Zuwendungswerts. Der Empfänger muss sich damit einen Wert anrechnen lassen, der in seinem Endvermögen nicht mehr vorhanden ist. Die Annahme, ein negativer Zugewinn bleibe ohne Einfluss, entspricht der bloßen Berücksichtigung im Endvermögen ohne Anrechnung und ist gerade der Fall, in dem § 1380 BGB abweicht."
  },
  {
   "id": "fami2-017",
@@ -348,9 +348,9 @@
     "frage": "Wie wirkt sich die Übertragung rechnerisch beim Zuwendenden M aus?",
     "optionen": [
      "Der Wert bleibt in seinem Anfangsvermögen, fehlt aber in seinem Endvermögen; sein Zugewinn sinkt",
+     "Der Wert wird als privilegierter Erwerb der F nach § 1374 Abs. 2 BGB behandelt",
      "Der Wert wird aus seinem Anfangsvermögen gestrichen; sein Zugewinn bleibt unverändert",
-     "Der Wert wird seinem Endvermögen hinzugerechnet; sein Zugewinn steigt",
-     "Der Wert wird als privilegierter Erwerb der F nach § 1374 Abs. 2 BGB behandelt"
+     "Der Wert wird seinem Endvermögen hinzugerechnet; sein Zugewinn steigt"
     ],
     "antwort": 0,
     "erklaerung": "Bei einer Zuwendung aus dem Anfangsvermögen bleibt der Wert im Anfangsvermögen des Zuwendenden, fehlt aber in seinem Endvermögen; beim Empfänger erhöht er den Zugewinn. § 1374 Abs. 2 BGB gilt für Ehegattenzuwendungen nicht."
@@ -358,23 +358,23 @@
    {
     "frage": "Ist § 1380 BGB im Beispiel anwendbar?",
     "optionen": [
-     "Ja, weil jede Ehegattenzuwendung nach § 1380 BGB anzurechnen ist",
      "Nein, weil F gegen M keinen Anspruch auf Zugewinnausgleich hat (überhöhte Zuwendung)",
+     "Nein, weil Zuwendungen aus dem Anfangsvermögen stets ausgleichsfrei sind",
      "Ja, weil der Wert die üblichen Gelegenheitsgeschenke übersteigt",
-     "Nein, weil Zuwendungen aus dem Anfangsvermögen stets ausgleichsfrei sind"
+     "Ja, weil jede Ehegattenzuwendung nach § 1380 BGB anzurechnen ist"
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "§ 1380 BGB greift nur ein, wenn der Empfänger einen Ausgleichsanspruch gegen den Zuwendenden hat. Hier hat F den höheren Zugewinn, M den niedrigeren; ein Anspruch der F besteht nicht. Es liegt eine überhöhte Zuwendung vor, § 1380 BGB ist nicht anwendbar, die Zuwendung wird nur im Endvermögen der F berücksichtigt."
    },
    {
     "frage": "Was erhält M über den Zugewinnausgleich zurück, und was ist F zusätzlich mitzuteilen?",
     "optionen": [
+     "Die Hälfte, mindestens aber 100.000 € ohne Rücksicht auf Verbindlichkeiten der F",
      "Den vollen Wert von 200.000 €, weil die Zuwendung aus seinem Anfangsvermögen stammt",
-     "Höchstens die Hälfte (100.000 €); hat F hohe Schulden, kann er nach § 1378 Abs. 2 BGB sogar leer ausgehen",
      "Nichts, weil Zuwendungen unter Ehegatten güterrechtlich neutral sind",
-     "Die Hälfte, mindestens aber 100.000 € ohne Rücksicht auf Verbindlichkeiten der F"
+     "Höchstens die Hälfte (100.000 €); hat F hohe Schulden, kann er nach § 1378 Abs. 2 BGB sogar leer ausgehen"
     ],
-    "antwort": 1,
+    "antwort": 3,
     "erklaerung": "Ohne Anwendung des § 1380 BGB folgt der Ausgleich den allgemeinen Regeln: M erhält über seinen Ausgleichsanspruch höchstens die Hälfte des zugewendeten Werts zurück. Die Ausgleichsforderung ist nach § 1378 Abs. 2 BGB auf das nach Abzug der Verbindlichkeiten vorhandene Vermögen der F begrenzt; bei hohen Schulden kann M nichts zurückerhalten."
    }
   ],
@@ -410,11 +410,11 @@
   "frage": "Warum ist ein auf den Scheidungsfall beschränkter Ausschluss des Zugewinnausgleichs häufig günstiger als die Vereinbarung von Gütertrennung?",
   "optionen": [
    "Weil bei Gütertrennung die Verfügungsbeschränkungen der §§ 1365, 1369 BGB verschärft gelten",
-   "Weil Erb- und Pflichtteilsquoten des Ehegatten unverändert bleiben, wenn der Zugewinnausgleich für den Todesfall erhalten bleibt",
+   "Weil bei Gütertrennung der Versorgungsausgleich automatisch entfällt",
    "Weil Gütertrennung nur vor der Eheschließung vereinbart werden kann",
-   "Weil bei Gütertrennung der Versorgungsausgleich automatisch entfällt"
+   "Weil Erb- und Pflichtteilsquoten des Ehegatten unverändert bleiben, wenn der Zugewinnausgleich für den Todesfall erhalten bleibt"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Bleibt der Zugewinnausgleich für den Todesfall erhalten, ändern sich die Erb- und Pflichtteilsquoten des Ehegatten nicht (Erhöhung nach § 1371 Abs. 1 BGB). Bei Gütertrennung entfällt diese Erhöhung. Die Verfügungsbeschränkungen gelten bei Gütertrennung gar nicht, und Ehevertrag wie Versorgungsausgleich sind davon unabhängig."
  },
  {
@@ -430,13 +430,13 @@
   ],
   "frage": "Die Ehegatten verzichten im Ehevertrag ausdrücklich auf ein Verzeichnis des Anfangsvermögens und treffen keine Festlegung zu dessen Höhe. Welche Folge hat das für den späteren Zugewinnausgleich?",
   "optionen": [
-   "Das Anfangsvermögen wird mit null angesetzt; ein Gegenbeweis ist ausgeschlossen",
-   "Das gesamte Endvermögen gilt bis zum Beweis des Gegenteils als Zugewinn (§ 1377 Abs. 3 BGB)",
    "Der Verzicht ist unwirksam, weil ein Verzeichnis zwingend vorgeschrieben ist",
-   "Das Anfangsvermögen wird vom Familiengericht nach § 1365 Abs. 2 BGB geschätzt"
+   "Das Anfangsvermögen wird vom Familiengericht nach § 1365 Abs. 2 BGB geschätzt",
+   "Das Anfangsvermögen wird mit null angesetzt; ein Gegenbeweis ist ausgeschlossen",
+   "Das gesamte Endvermögen gilt bis zum Beweis des Gegenteils als Zugewinn (§ 1377 Abs. 3 BGB)"
   ],
-  "antwort": 1,
-  "erklaerung": "Fehlt ein Verzeichnis, greift die Vermutung des § 1377 Abs. 3 BGB: Das gesamte Endvermögen gilt bis zum Beweis des Gegenteils als Zugewinn. Die Vermutung gilt auch, wenn der Ehevertrag auf ein Verzeichnis verzichtet. Sie ist widerleglich, sodass Option 1 zu weit geht; ein Verzeichnis ist nicht zwingend, Ehegatten können das Anfangsvermögen vielmehr frei festlegen."
+  "antwort": 3,
+  "erklaerung": "Fehlt ein Verzeichnis, greift die Vermutung des § 1377 Abs. 3 BGB: Das gesamte Endvermögen gilt bis zum Beweis des Gegenteils als Zugewinn. Die Vermutung gilt auch, wenn der Ehevertrag auf ein Verzeichnis verzichtet. Sie ist widerleglich; ein Nullansatz ohne Gegenbeweis geht zu weit; ein Verzeichnis ist nicht zwingend, Ehegatten können das Anfangsvermögen vielmehr frei festlegen."
  },
  {
   "id": "fami2-021",
@@ -452,9 +452,9 @@
   ],
   "frage": "Unternehmer U will seine GmbH-Anteile ehevertraglich aus dem Zugewinnausgleich herausnehmen, und zwar auch für den Todesfall. Welche ergänzende Regelung sollte der Notar aufnehmen?",
   "optionen": [
-   "Einen Antrag auf Eintragung in das Güterrechtsregister, damit die Herausnahme Dritten gegenüber wirkt",
-   "Einen gegenständlich beschränkten Pflichtteilsverzicht sowie die Klarstellung, dass die Erhöhung des Ehegattenerbteils unberührt bleibt",
    "Die Vereinbarung von Gütertrennung, weil eine Herausnahme einzelner Gegenstände in der Zugewinngemeinschaft unzulässig ist",
+   "Einen gegenständlich beschränkten Pflichtteilsverzicht sowie die Klarstellung, dass die Erhöhung des Ehegattenerbteils unberührt bleibt",
+   "Einen Antrag auf Eintragung in das Güterrechtsregister, damit die Herausnahme Dritten gegenüber wirkt",
    "Die Anordnung eines periodischen Zugewinnausgleichs für die Anteile"
   ],
   "antwort": 1,
@@ -467,7 +467,7 @@
   "seite": "Zugewinngemeinschaft: ehevertragliche Modifikationen",
   "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinngemeinschaft-ehevertragliche-modifikationen",
   "typ": "rf",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 1408 BGB"
   ],
@@ -488,12 +488,12 @@
   ],
   "frage": "Ehemann M ist selbständiger Unternehmer, Ehefrau F angestellt. Die Ehegatten schließen den Zugewinnausgleich für den Scheidungsfall aus. Woran sollte der Notar zusätzlich denken?",
   "optionen": [
-   "An den Ausschluss des Versorgungsausgleichs, damit die angestellte F nicht ausgleichspflichtig wird",
-   "An die Vereinbarung von Gütergemeinschaft für das Unternehmen",
+   "An eine Begrenzung des Endvermögens des M auf einen Bruchteil des Anfangsvermögens",
    "An einen Verzicht der F auf Trennungsunterhalt",
-   "An eine Begrenzung des Endvermögens des M auf einen Bruchteil des Anfangsvermögens"
+   "An den Ausschluss des Versorgungsausgleichs, damit die angestellte F nicht ausgleichspflichtig wird",
+   "An die Vereinbarung von Gütergemeinschaft für das Unternehmen"
   ],
-  "antwort": 0,
+  "antwort": 2,
   "erklaerung": "Ist ein Ehegatte selbständig und der andere angestellt, hat regelmäßig nur der Angestellte nennenswerte Versorgungsanrechte; ohne Ausschluss des Versorgungsausgleichs würde die angestellte F ausgleichspflichtig. Die Seite nennt diesen Hinweis ausdrücklich. Ein Verzicht auf Trennungsunterhalt ist nicht möglich; Gütergemeinschaft wäre für Unternehmer kontraproduktiv."
  },
  {
@@ -509,12 +509,12 @@
   ],
   "frage": "Welcher Erwerb während der Ehe ist kein privilegierter Erwerb im Sinne des § 1374 Abs. 2 BGB?",
   "optionen": [
-   "Erbschaft vom Vater",
+   "Schenkung eines Freundes",
    "Ausstattung durch die Eltern",
-   "Lottogewinn",
-   "Schenkung eines Freundes"
+   "Erbschaft vom Vater",
+   "Lottogewinn"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "§ 1374 Abs. 2 BGB privilegiert nur vier Fallgruppen: Erwerb von Todes wegen, Erwerb mit Rücksicht auf ein künftiges Erbrecht, Schenkung und Ausstattung. Ein Lottogewinn gehört nicht dazu und fällt in den ausgleichspflichtigen Zugewinn; ehevertraglich kann dazu allerdings eine abweichende Regelung getroffen werden. Die Privilegierung tritt kraft Gesetzes ein, ohne Anordnung des Zuwendenden."
  },
  {
@@ -528,9 +528,9 @@
   "normen": [
    "§ 1363 BGB"
   ],
-  "frage": "In der Zugewinngemeinschaft entsteht kraft Gesetzes gemeinsames Vermögen der Ehegatten; beide haften für die während der Ehe begründeten Schulden gemeinsam.",
-  "antwort": false,
-  "erklaerung": "Im gesetzlichen Güterstand (§ 1363 BGB) bleibt jeder Ehegatte Verwalter seines eigenen Vermögens; weder gemeinsames Vermögen noch gemeinsame Schulden entstehen kraft Gesetzes. Die Zugewinngemeinschaft entspricht während ihres Bestehens im Grundsatz einer Gütertrennung; erst bei Beendigung wird der Zugewinn ausgeglichen. Gemeinschaftliches Vermögen (Gesamtgut) entsteht nur in der Gütergemeinschaft."
+  "frage": "Die Zugewinngemeinschaft entspricht während ihres Bestehens im Grundsatz einer Gütertrennung; kraft Gesetzes entstehen weder gemeinsames Vermögen noch gemeinsame Schulden.",
+  "antwort": true,
+  "erklaerung": "Im gesetzlichen Güterstand (§ 1363 BGB) bleibt jeder Ehegatte Verwalter seines eigenen Vermögens; weder gemeinsames Vermögen noch gemeinsame Schulden entstehen kraft Gesetzes. Erst bei Beendigung wird der Zugewinn ausgeglichen. Gemeinschaftliches Vermögen (Gesamtgut) entsteht nur in der Gütergemeinschaft; das wird häufig verwechselt."
  },
  {
   "id": "fami2-026",
@@ -545,13 +545,13 @@
   ],
   "frage": "F bringt ein Mietshaus (Wert 500.000 €) in die Ehe ein. Bei Scheidung ist es 800.000 € wert; davon sind 100.000 € reine Inflation, 200.000 € Marktwertsteigerung. Welcher Betrag bleibt ausgleichsfrei?",
   "optionen": [
-   "500.000 €, weil nur der Nominalwert bei Eheschließung geschützt ist",
-   "600.000 €, weil der Ausgangswert einschließlich inflationsbedingter Wertsteigerung ausgleichsfrei bleibt",
    "800.000 €, weil voreheliches Vermögen samt Wertsteigerung nicht ausgleichspflichtig ist",
+   "600.000 €, weil der Ausgangswert einschließlich inflationsbedingter Wertsteigerung ausgleichsfrei bleibt",
+   "500.000 €, weil nur der Nominalwert bei Eheschließung geschützt ist",
    "300.000 €, weil Wertsteigerungen stets hälftig vom Anfangsvermögen abgezogen werden"
   ],
   "antwort": 1,
-  "erklaerung": "Bei vorehelichem Vermögen und privilegiertem Erwerb bleibt nur der Ausgangswert einschließlich einer rein inflationsbedingten Wertsteigerung ausgleichsfrei. Außerordentliche Wertsteigerungen und Erträge fallen in den Zugewinn, sodass hier 200.000 € ausgleichspflichtig sind. Option 3 verkennt diese Begrenzung; eine ehevertragliche Abweichung wäre möglich."
+  "erklaerung": "Bei vorehelichem Vermögen und privilegiertem Erwerb bleibt nur der Ausgangswert einschließlich einer rein inflationsbedingten Wertsteigerung ausgleichsfrei. Außerordentliche Wertsteigerungen und Erträge fallen in den Zugewinn, sodass hier 200.000 € ausgleichspflichtig sind. Wer den gesamten Wert von 800.000 € für ausgleichsfrei hält, verkennt diese Begrenzung; eine ehevertragliche Abweichung wäre möglich."
  },
  {
   "id": "fami2-027",
@@ -566,12 +566,12 @@
   ],
   "frage": "Welches Rechtsgeschäft eines Ehegatten im gesetzlichen Güterstand kann nach § 1365 Abs. 1 BGB zustimmungsbedürftig sein?",
   "optionen": [
-   "Übernahme einer Bürgschaft in Höhe des gesamten Vermögens",
-   "Bestellung einer Grundschuld am einzigen, nahezu das ganze Vermögen ausmachenden Grundstück",
+   "Unterwerfung unter die sofortige Zwangsvollstreckung in das gesamte Vermögen",
    "Ausschlagung einer Erbschaft, die das Vermögen verdoppelt hätte",
-   "Unterwerfung unter die sofortige Zwangsvollstreckung in das gesamte Vermögen"
+   "Bestellung einer Grundschuld am einzigen, nahezu das ganze Vermögen ausmachenden Grundstück",
+   "Übernahme einer Bürgschaft in Höhe des gesamten Vermögens"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Verfügungen im Sinne des § 1365 BGB sind Übertragung, Belastung einschließlich Grundschuldbestellung, Aufhebung und Inhaltsänderung eines Rechts; auch ein Einzelgegenstand fällt darunter, wenn er nahezu das ganze Vermögen ausmacht. Bürgschaft, Erbausschlagung und Eingehung von Geldschulden sind keine Verfügungen, weil sie das Vermögen nicht unmittelbar berühren. Die Vollstreckungsunterwerfung ist eine prozessuale Erklärung und keine Verfügung."
  },
  {
@@ -587,12 +587,12 @@
   ],
   "frage": "Ehemann M (Gesamtvermögen ca. 600.000 €) verkauft sein Grundstück (540.000 €) an den Käufer K, der die Vermögensverhältnisse des M kennt. Greift § 1365 BGB?",
   "optionen": [
-   "Nein, weil M mit 60.000 € mehr als 10 % seines Vermögens behält",
+   "Ja, weil jede Grundstücksveräußerung eines Ehegatten im gesetzlichen Güterstand zustimmungsbedürftig ist",
    "Ja, weil bei großen Vermögen ein Rest von 10 % nicht genügt und mindestens 15 % verbleiben müssen",
-   "Nein, weil ein einzelnes Grundstück nie das Vermögen im Ganzen darstellt",
-   "Ja, weil jede Grundstücksveräußerung eines Ehegatten im gesetzlichen Güterstand zustimmungsbedürftig ist"
+   "Nein, weil M mit 60.000 € mehr als 10 % seines Vermögens behält",
+   "Nein, weil ein einzelnes Grundstück nie das Vermögen im Ganzen darstellt"
   ],
-  "antwort": 0,
+  "antwort": 2,
   "erklaerung": "Ob ein Einzelgegenstand nahezu das ganze Vermögen darstellt, ergibt der Wertvergleich mit dem Restvermögen. Bei großen Vermögen (ab ca. 250.000 €) sollte ein Rest von 10 % verbleiben; die 15 %-Grenze gilt für kleine Vermögen (ca. 20.000 €). M behält hier 10 %, sodass § 1365 BGB grundsätzlich nicht greift. Ein Einzelgegenstand kann durchaus erfasst sein, aber nicht jede Grundstücksveräußerung ist zustimmungsbedürftig."
  },
  {
@@ -655,12 +655,12 @@
   ],
   "frage": "Die Ehegatten leben seit zwei Jahren dauernd getrennt, der gemeinsame Haushalt ist aufgelöst, die Scheidung noch nicht rechtskräftig. Gilt § 1369 BGB noch?",
   "optionen": [
-   "Nein, weil § 1369 BGB nur bei bestehendem gemeinsamem Haushalt gilt",
-   "Nein, weil mit der Trennung die Zugewinngemeinschaft endet",
    "Ja, solange der Güterstand besteht",
-   "Ja, aber nur für Gegenstände, die im Miteigentum beider Ehegatten stehen"
+   "Ja, aber nur für Gegenstände, die im Miteigentum beider Ehegatten stehen",
+   "Nein, weil § 1369 BGB nur bei bestehendem gemeinsamem Haushalt gilt",
+   "Nein, weil mit der Trennung die Zugewinngemeinschaft endet"
   ],
-  "antwort": 2,
+  "antwort": 0,
   "erklaerung": "§ 1369 BGB gilt, solange die Ehegatten einen gemeinsamen Haushalt führen oder planen; leben sie dauernd getrennt und ist der Haushalt aufgelöst, gilt die Vorschrift weiter, solange der Güterstand besteht. Die Trennung beendet den Güterstand nicht; er endet erst durch Ehevertrag, Scheidung oder Tod. Die Beschränkung erfasst Haushaltsgegenstände im Alleineigentum ebenso wie im Miteigentum."
  },
  {
@@ -676,12 +676,12 @@
   ],
   "frage": "Warum ordnet der BGH objektiv unentgeltliche Zuwendungen unter Ehegatten in der Regel nicht als Schenkung ein?",
   "optionen": [
-   "Weil Schenkungen unter Ehegatten gesetzlich verboten sind",
-   "Weil es an der Einigung über die Unentgeltlichkeit fehlt; die Zuwendung dient der Ausgestaltung der Lebensgemeinschaft",
+   "Weil Ehegattenzuwendungen stets als Ausstattung gelten",
    "Weil der Zuwendungsgegenstand kraft Gesetzes in das Gesamtgut fällt",
-   "Weil Ehegattenzuwendungen stets als Ausstattung gelten"
+   "Weil es an der Einigung über die Unentgeltlichkeit fehlt; die Zuwendung dient der Ausgestaltung der Lebensgemeinschaft",
+   "Weil Schenkungen unter Ehegatten gesetzlich verboten sind"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Ehegatten einigen sich regelmäßig nicht darüber, dass die Leistung unentgeltlich sein soll; die Zuwendung dient dem Aufbau, der Ausgestaltung und dem Fortbestand der Lebensgemeinschaft. Ohne Einigung über die Unentgeltlichkeit fehlt das subjektive Merkmal der Schenkung. Der BGH qualifiziert die unbenannte Zuwendung als familienrechtlichen Vertrag sui generis; echte Schenkungen unter Ehegatten bleiben möglich und sind nicht verboten."
  },
  {
@@ -732,11 +732,11 @@
   "frage": "Welcher Sachverhalt stellt nach der Seite in der Regel keine ehebedingte Zuwendung dar?",
   "optionen": [
    "Ehemann bringt beim Erwerb des Familienheims das gesamte Eigenkapital auf, Eigentum wird hälftig eingetragen",
-   "Ehefrau arbeitet jahrelang unentgeltlich im Betrieb des Ehemanns mit",
    "Ehemann räumt der Ehefrau ein Bezugsrecht aus seiner Lebensversicherung ein",
+   "Ehefrau arbeitet jahrelang unentgeltlich im Betrieb des Ehemanns mit",
    "Ehefrau zahlt regelmäßig über ihren hälftigen Anteil hinaus auf das Konto des Ehemanns ein"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Mitarbeit im Haus oder Unternehmen des anderen Ehegatten ist in der Regel keine ehebedingte Zuwendung, weil das Vermögen des Mitarbeitenden nicht gemindert wird; Ausgleichsansprüche können sich aus einer Ehegatteninnengesellschaft oder einem Kooperationsvertrag ergeben. Eigenkapital für das Familienheim, Bezugsrechte aus Lebensversicherungen und Kontozahlungen über den hälftigen Anteil hinaus sind dagegen typische Fallgruppen. Nur wenn der Ehegatte wegen der Mitarbeit auf eigenes Einkommen verzichtet, kann eine Zuwendung vorliegen."
  },
  {
@@ -768,12 +768,12 @@
   ],
   "frage": "Unter welcher Voraussetzung besteht im gesetzlichen Güterstand neben dem Zugewinnausgleich ein Anspruch aus § 313 BGB auf Rückübertragung oder Ausgleich einer ehebedingten Zuwendung?",
   "optionen": [
+   "Nur, wenn der Zugewinnausgleich für den Zuwendenden ein schlechthin untragbares Ergebnis liefert",
    "Immer, wenn die Ehe gescheitert ist, weil damit die Geschäftsgrundlage entfällt",
    "Wenn der Zuwendungsempfänger die Trennung verschuldet hat",
-   "Nur, wenn der Zugewinnausgleich für den Zuwendenden ein schlechthin untragbares Ergebnis liefert",
    "Wenn der Zuwendende über den Zugewinnausgleich weniger als die Hälfte des Werts zurückerhält"
   ],
-  "antwort": 2,
+  "antwort": 0,
   "erklaerung": "In der Zugewinngemeinschaft hat das Güterrecht Vorrang; der Zugewinnausgleich führt in der Regel zu einem angemessenen Ergebnis. § 313 BGB greift nur, wenn das Ergebnis für den Zuwendenden schlechthin untragbar ist; der Maßstab ist besonders streng. Nach dem BGH ist selbst ein Ausgleich unter der Hälfte des Werts nicht schlechthin untragbar; Eheverfehlungen und Trennungsverschulden spielen keine Rolle."
  },
  {
@@ -790,12 +790,12 @@
   ],
   "frage": "In welchem Fall kommt eine dingliche Rückgewähr des zugewendeten Grundstücks (statt Geldausgleich) in Betracht?",
   "optionen": [
+   "Wenn der Empfänger keine eigenen Investitionen in das Grundstück getätigt hat",
    "Wenn der Zuwendende das Grundstück aus seinem Anfangsvermögen zugewendet hat",
    "Wenn das Grundstück für das Unternehmen des Zuwendenden eingerichtet ist und ein besonderes schützenswertes Interesse am Gegenstand besteht",
-   "Wenn die Ehe kürzer als drei Jahre gedauert hat",
-   "Wenn der Empfänger keine eigenen Investitionen in das Grundstück getätigt hat"
+   "Wenn die Ehe kürzer als drei Jahre gedauert hat"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Die Rückgabe des Gegenstands selbst ist die Ausnahme und setzt ein besonderes, schützenswertes Interesse des Zuwendenden voraus; es müsste unerträglich erscheinen, dass der Empfänger das Eigentum gegen angemessenen Ausgleich behält (BGHZ 115, 132). Beispiele sind die behindertengerecht ausgebaute Wohnung, das für das Unternehmen eingerichtete Grundstück oder das Interesse am Verbleib in der Familie. Die Herkunft aus dem Anfangsvermögen berechtigt für sich nicht zur Rückforderung; auch die Rückübertragung erfolgt nur gegen angemessenen, nach § 287 ZPO geschätzten Ausgleich."
  },
  {
@@ -828,12 +828,12 @@
   ],
   "frage": "Ehegatten in Zugewinngemeinschaft möchten im Ehevertrag verhindern, dass bei Scheidung neben dem Zugewinnausgleich noch Ausgleichsansprüche wegen früherer Zuwendungen geltend gemacht werden. Welche Regelung ist sachgerecht?",
   "optionen": [
+   "Regelung, dass Zuwendungen stets als Schenkungen gelten und nach §§ 528, 530 BGB zurückgefordert werden können",
    "Vereinbarung von Gütertrennung, weil dort § 313 BGB nicht gilt",
-   "Regelung, dass Rückforderungs- oder Ausgleichsansprüche wegen Zuwendungen nur bei ausdrücklichem Vorbehalt bestehen",
    "Ausschluss der Anrechnung nach § 1380 BGB",
-   "Regelung, dass Zuwendungen stets als Schenkungen gelten und nach §§ 528, 530 BGB zurückgefordert werden können"
+   "Regelung, dass Rückforderungs- oder Ausgleichsansprüche wegen Zuwendungen nur bei ausdrücklichem Vorbehalt bestehen"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Die Seite empfiehlt, schon im Ehevertrag zu regeln, dass Rückforderungs- oder Ausgleichsansprüche wegen Zuwendungen nur bei ausdrücklichem Vorbehalt bestehen; eine „zweite Spur“ neben dem Güterrecht gibt es dann nur kraft Vorbehalts. Gütertrennung schließt § 313 BGB nicht aus, sondern eröffnet ihn mit etwas milderem Maßstab. Der Ausschluss der Anrechnung nach § 1380 BGB betrifft nur die Berechnung des Zugewinns, nicht die zweite Spur; die Schenkungsfiktion würde die Rückforderungsmöglichkeiten erweitern statt beschränken."
  },
  {
@@ -849,12 +849,12 @@
   ],
   "frage": "Wie lange besteht der Betreuungsunterhalt nach § 1570 Abs. 1 S. 1 BGB ohne weitere Billigkeitsprüfung?",
   "optionen": [
-   "Bis zur Einschulung des Kindes",
-   "In den ersten drei Lebensjahren des gemeinsamen Kindes",
+   "Bis zur Volljährigkeit des gemeinsamen Kindes",
    "In den ersten acht Lebensjahren des gemeinsamen Kindes",
-   "Bis zur Volljährigkeit des gemeinsamen Kindes"
+   "Bis zur Einschulung des Kindes",
+   "In den ersten drei Lebensjahren des gemeinsamen Kindes"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Nach § 1570 Abs. 1 S. 1 BGB besteht der Betreuungsunterhalt in den ersten drei Lebensjahren des Kindes. Danach besteht er nur fort, wenn und soweit es die Billigkeit verlangt, wobei kindbezogene (Abs. 1 S. 2 und 3) und elternbezogene Gründe (Abs. 2) maßgeblich sind. Ein abrupter Wechsel in Vollzeit ist regelmäßig nicht verlangt, ein gestufter Übergang möglich."
  },
  {
@@ -871,12 +871,12 @@
   ],
   "frage": "Welche Aussage zur Struktur des nachehelichen Unterhalts trifft zu?",
   "optionen": [
-   "Der nacheheliche Unterhalt beruht auf einer Generalklausel, die jede Bedürftigkeit nach der Scheidung erfasst",
    "Neben Bedarf und Bedürftigkeit ist ein Unterhaltstatbestand der §§ 1570–1576 BGB erforderlich; die Tatbestände sind abschließend",
    "Die Leistungsfähigkeit des Pflichtigen ist anspruchsbegründende Voraussetzung, die der Berechtigte beweisen muss",
+   "Der nacheheliche Unterhalt beruht auf einer Generalklausel, die jede Bedürftigkeit nach der Scheidung erfasst",
    "Ein Einsatzzeitpunkt ist bei allen Unterhaltstatbeständen ohne Ausnahme erforderlich"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Der nacheheliche Unterhalt verlangt neben Bedarf, Bedürftigkeit und familienrechtlichem Grundverhältnis einen der abschließend geregelten Unterhaltstatbestände der §§ 1570–1576 BGB; eine Generalklausel wie in vielen ausländischen Rechten fehlt. Die Leistungsfähigkeit ist eine Einwendung. Der Tatbestand muss grundsätzlich zu einem Einsatzzeitpunkt vorliegen, Ausnahmen gelten für §§ 1570 und 1576 BGB."
  },
  {
@@ -886,7 +886,7 @@
   "seite": "Ehegattenunterhalt: nachehelicher Unterhalt und Betreuungsunterhalt",
   "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/ehegattenunterhalt-nachehelicher-unterhalt-und-betreuungsunterhalt",
   "typ": "rf",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 1570 BGB",
    "§ 1576 BGB"
@@ -908,9 +908,9 @@
   ],
   "frage": "F war während der Ehe haushaltsführend und nimmt nach der Scheidung eine Erwerbstätigkeit auf. Wie wird ihr Einkommen bei der Bedarfsbemessung nach den ehelichen Lebensverhältnissen behandelt?",
   "optionen": [
-   "Es bleibt außer Betracht, weil es die ehelichen Lebensverhältnisse nicht geprägt hat (Anrechnungsmethode)",
-   "Es prägt als Surrogat der früheren Familienarbeit die ehelichen Lebensverhältnisse",
    "Es wird nur zur Hälfte berücksichtigt, weil der Halbteilungsgrundsatz gilt",
+   "Es prägt als Surrogat der früheren Familienarbeit die ehelichen Lebensverhältnisse",
+   "Es bleibt außer Betracht, weil es die ehelichen Lebensverhältnisse nicht geprägt hat (Anrechnungsmethode)",
    "Es wird nur berücksichtigt, wenn es den Bedarf nach § 1578 BGB übersteigt"
   ],
   "antwort": 1,
@@ -931,11 +931,11 @@
   "frage": "Die Ehegatten M und F wollen in der Trennungsvereinbarung regeln, dass F auf jeglichen künftigen Trennungsunterhalt verzichtet. Wie ist die Rechtslage?",
   "optionen": [
    "Der Verzicht ist wirksam, wenn er notariell beurkundet wird",
+   "Der Verzicht ist nur für die Zeit nach Ablauf des Trennungsjahres wirksam",
    "Der Verzicht ist unwirksam (§§ 1361 Abs. 4, 1360a, 1614 BGB); nur die Ausgestaltung des Unterhalts ist in Grenzen regelbar",
-   "Der Verzicht ist wirksam, wenn F über eigenes Einkommen verfügt",
-   "Der Verzicht ist nur für die Zeit nach Ablauf des Trennungsjahres wirksam"
+   "Der Verzicht ist wirksam, wenn F über eigenes Einkommen verfügt"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Auf künftigen Trennungsunterhalt kann nicht verzichtet werden (§§ 1361 Abs. 4, 1360a, 1614 BGB); auch ein pactum de non petendo ist voraussichtlich unwirksam. Zu unterscheiden ist zwischen dem nicht disponiblen Ob und dem regelbaren Wie des Unterhalts; die Rechtsprechung lässt teilweise Abweichungen von höchstens 20 % zu, eine Kürzung um ein Drittel hält das OLG Hamm für unzulässig. Die notarielle Form heilt den Verstoß nicht."
  },
  {
@@ -952,12 +952,12 @@
   ],
   "frage": "Was gilt für einen Titel über Trennungsunterhalt nach Rechtskraft der Scheidung?",
   "optionen": [
-   "Aus ihm kann als Titel über nachehelichen Unterhalt weiter vollstreckt werden",
    "Aus ihm kann nicht mehr vollstreckt werden; der Schuldner kann sich mit der Vollstreckungsabwehrklage nach § 767 ZPO wehren",
+   "Aus ihm kann als Titel über nachehelichen Unterhalt weiter vollstreckt werden",
    "Er bleibt bis zu einer Abänderung nach § 238 FamFG vollstreckbar",
    "Er wandelt sich kraft Gesetzes in einen Titel über Geschiedenenunterhalt um"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Trennungsunterhalt und nachehelicher Unterhalt sind zwei eigenständige Ansprüche; mit Rechtskraft der Scheidung endet der Trennungsunterhalt (OLG Hamm, FamRZ 2005, 366). Aus einem Titel über Trennungsunterhalt kann danach nicht mehr vollstreckt werden, der Schuldner wehrt sich mit § 767 ZPO. Deshalb sind beide Ansprüche getrennt zu regeln und die Vollstreckungsunterwerfung auf beide zu erstrecken."
  },
  {
@@ -989,12 +989,12 @@
   ],
   "frage": "Das Haus gehört M und F je zur Hälfte. M finanziert allein aus eigenem Vermögen einen Anbau für 100.000 €. In welcher Höhe liegt eine Ehegattenzuwendung an F vor?",
   "optionen": [
-   "100.000 €, weil M die gesamte Investition allein getragen hat",
    "50.000 €, entsprechend dem Miteigentumsanteil der F",
-   "0 €, weil Investitionen in Miteigentum keine Zuwendung sind",
-   "100.000 € abzüglich des Wertzuwachses des eigenen Anteils des M"
+   "100.000 € abzüglich des Wertzuwachses des eigenen Anteils des M",
+   "100.000 €, weil M die gesamte Investition allein getragen hat",
+   "0 €, weil Investitionen in Miteigentum keine Zuwendung sind"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Investiert ein Ehegatte allein in eine im Miteigentum stehende Immobilie, ist nur der Anteil der Investition Zuwendung, der dem Miteigentumsanteil des Empfängers entspricht; hier die Hälfte. Die andere Hälfte kommt dem eigenen Anteil des M zugute und ist keine Zuwendung. Dass Investitionen in die Immobilie des anderen (Kaufpreiszahlung, Darlehenstilgung, wertsteigernde Baumaßnahmen) überhaupt Zuwendungen sind, stellt die Seite ausdrücklich klar."
  },
  {
@@ -1025,9 +1025,9 @@
   ],
   "frage": "M überträgt seiner Frau F das Familienheim, um die Pflichtteilsansprüche seiner Kinder aus erster Ehe zu verringern. Welche Vorschrift ist dabei besonders zu beachten?",
   "optionen": [
-   "§ 1365 BGB, weil das Familienheim das nahezu ganze Vermögen des M ausmacht",
-   "§ 2325 Abs. 3 BGB, weil die Zehnjahresfrist bei Zuwendungen an den Ehegatten besonders beginnt",
    "§ 1380 BGB, weil die Zuwendung auf den Pflichtteil anzurechnen ist",
+   "§ 2325 Abs. 3 BGB, weil die Zehnjahresfrist bei Zuwendungen an den Ehegatten besonders beginnt",
+   "§ 1365 BGB, weil das Familienheim das nahezu ganze Vermögen des M ausmacht",
    "§ 528 BGB, weil der Schenker bei Verarmung zurückfordern kann"
   ],
   "antwort": 1,
@@ -1083,32 +1083,32 @@
    {
     "frage": "Welche Folge hat die Ausübung des Rückforderungsrechts im Scheidungsfall für die Zugewinnberechnung?",
     "optionen": [
-     "Der Anteil bleibt im Endvermögen der F, M erhält nur einen Geldausgleich",
      "Der Anteil fällt aus dem Endvermögen der F heraus und wird wieder M zugerechnet; der Zugewinnausgleich erfolgt auf dieser Grundlage",
+     "Der Anteil bleibt im Endvermögen der F, M erhält nur einen Geldausgleich",
      "Der Zugewinnausgleich entfällt für den Grundbesitz vollständig",
      "Der Anteil wird nach § 1380 BGB auf die Ausgleichsforderung der F angerechnet"
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "Übt der Zuwendende das Rückforderungsrecht aus, wird die Zuwendung rückabgewickelt; der Gegenstand gehört für die Berechnung erneut dem Zuwendenden und fällt aus dem Endvermögen des Empfängers heraus. Der Zugewinnausgleich wird dann auf Grundlage der Vermögensverhältnisse nach der Rückübertragung durchgeführt."
    },
    {
     "frage": "Wie sind die 80.000 € der F aus ihrer Erbschaft bei der Rückforderung zu behandeln?",
     "optionen": [
+     "Sie sind als Ehegattenzuwendung der F an M nach § 1380 BGB anzurechnen",
      "Sie gehen verloren, weil Investitionen des Empfängers bei Rückforderung nicht erstattet werden",
      "Sie fließen F über den Zugewinnausgleich sicher zur Hälfte zurück, mehr ist nicht zu regeln",
-     "Als Aufwendung aus dem Anfangsvermögen sollten sie in voller Höhe erstattet werden, Zug um Zug gegen die Rückübertragung",
-     "Sie sind als Ehegattenzuwendung der F an M nach § 1380 BGB anzurechnen"
+     "Als Aufwendung aus dem Anfangsvermögen sollten sie in voller Höhe erstattet werden, Zug um Zug gegen die Rückübertragung"
     ],
-    "antwort": 2,
+    "antwort": 3,
     "erklaerung": "Investitionen aus dem Anfangsvermögen des Empfängers (hier die Erbschaft, § 1374 Abs. 2 BGB) erhält dieser über den Zugewinnausgleich höchstens zur Hälfte und auch das nur, soweit sie im Zugewinn vorhanden sind. Die Seite empfiehlt deshalb, solche Aufwendungen bei Rückforderung in voller Höhe zu erstatten, Zug um Zug gegen die Rückübertragung."
    },
    {
     "frage": "Was muss die Rückforderungsklausel wegen des gemeinsamen Baudarlehens vorsehen?",
     "optionen": [
-     "Dass F das Darlehen weiter allein bedient, weil sie das Haus mitgenutzt hat",
-     "Dass M die grundstücksbezogenen Verbindlichkeiten schuldbefreiend übernimmt und die Umschreibung nur Zug um Zug gegen Haftentlassung der F erfolgt",
      "Dass die Bank der Rückübertragung nach § 1365 BGB zustimmen muss",
-     "Dass das Darlehen hälftig geteilt wird und jeder seinen Anteil weiterzahlt"
+     "Dass M die grundstücksbezogenen Verbindlichkeiten schuldbefreiend übernimmt und die Umschreibung nur Zug um Zug gegen Haftentlassung der F erfolgt",
+     "Dass das Darlehen hälftig geteilt wird und jeder seinen Anteil weiterzahlt",
+     "Dass F das Darlehen weiter allein bedient, weil sie das Haus mitgenutzt hat"
     ],
     "antwort": 1,
     "erklaerung": "Eine Rückforderungsklausel sollte regeln, dass der Rückfordernde die mit dem Grundbesitz zusammenhängenden Verbindlichkeiten schuldbefreiend übernimmt und die Eigentumsumschreibung nur Zug um Zug gegen Haftentlassung des Empfängers erfolgt. Ferner sind auslösender Umstand, Ausübungsfrist, Aufwendungserstattung, Bewertungszeitpunkt und Durchführung des Zugewinnausgleichs zu bestimmen."
@@ -1145,12 +1145,12 @@
   ],
   "frage": "Welche Aussage zur eingetragenen Lebenspartnerschaft (eLP) trifft zu?",
   "optionen": [
+   "Ohne Lebenspartnerschaftsvertrag leben Lebenspartner in Gütertrennung",
    "Seit dem 01.10.2017 kann keine eLP mehr begründet werden; das LPartG gilt nur noch für Altpartnerschaften",
    "Eine eLP kann weiterhin begründet werden, steht aber seit 2017 auch verschiedengeschlechtlichen Paaren offen",
-   "Ohne Lebenspartnerschaftsvertrag leben Lebenspartner in Gütertrennung",
    "Mit Öffnung der Ehe wurden alle bestehenden eLP kraft Gesetzes in Ehen umgewandelt"
   ],
-  "antwort": 0,
+  "antwort": 1,
   "erklaerung": "Seit dem 01.10.2017 kann keine eLP mehr begründet werden; das LPartG gilt nur noch für davor begründete Partnerschaften, es sei denn, die Partner haben inzwischen die Ehe geschlossen. Eine Umwandlung erfolgt nicht automatisch. Ohne Lebenspartnerschaftsvertrag gilt die Zugewinngemeinschaft (§ 6 S. 1 LPartG), nicht Gütertrennung."
  },
  {
@@ -1167,13 +1167,13 @@
   ],
   "frage": "A und B haben ihre Lebenspartnerschaft im Jahr 2003 begründet und keine Erklärung nach § 21 Abs. 4 LPartG abgegeben. Die eLP wird 2026 aufgehoben. Findet ein Versorgungsausgleich statt?",
   "optionen": [
-   "Ja, weil für den Versorgungsausgleich die Regeln für Ehegatten entsprechend gelten",
-   "Nein, bei vor dem 01.01.2005 begründeten eLP findet ohne Erklärung nach § 21 Abs. 4 LPartG grundsätzlich kein Versorgungsausgleich statt (§ 20 Abs. 4 LPartG)",
+   "Nein, weil bei der eLP generell kein Versorgungsausgleich stattfindet",
    "Ja, aber nur für Anrechte, die nach dem 01.01.2005 erworben wurden",
-   "Nein, weil bei der eLP generell kein Versorgungsausgleich stattfindet"
+   "Ja, weil für den Versorgungsausgleich die Regeln für Ehegatten entsprechend gelten",
+   "Nein, bei vor dem 01.01.2005 begründeten eLP findet ohne Erklärung nach § 21 Abs. 4 LPartG grundsätzlich kein Versorgungsausgleich statt (§ 20 Abs. 4 LPartG)"
   ],
-  "antwort": 1,
-  "erklaerung": "Für vor dem 01.01.2005 begründete Lebenspartnerschaften sah das LPartG eine Sonderbehandlung vor: Ein Versorgungsausgleich findet bei Aufhebung grundsätzlich nicht statt, wenn die Partner keine Erklärung nach § 21 Abs. 4 LPartG abgegeben haben (§ 20 Abs. 4 LPartG). Im Übrigen gelten für den Versorgungsausgleich die Ehegattenregeln entsprechend, sodass Option 4 zu weit geht. Deshalb ist vor jeder Gestaltung zu klären, wann die eLP begründet wurde."
+  "antwort": 3,
+  "erklaerung": "Für vor dem 01.01.2005 begründete Lebenspartnerschaften sah das LPartG eine Sonderbehandlung vor: Ein Versorgungsausgleich findet bei Aufhebung grundsätzlich nicht statt, wenn die Partner keine Erklärung nach § 21 Abs. 4 LPartG abgegeben haben (§ 20 Abs. 4 LPartG). Im Übrigen gelten für den Versorgungsausgleich die Ehegattenregeln entsprechend, sodass die Annahme, bei der eLP finde generell kein Versorgungsausgleich statt, zu weit geht. Deshalb ist vor jeder Gestaltung zu klären, wann die eLP begründet wurde."
  },
  {
   "id": "fami2-055",
@@ -1182,7 +1182,7 @@
   "seite": "Eingetragene Lebenspartnerschaft: Altfälle, Wirkungen und Aufhebung",
   "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/eingetragene-lebenspartnerschaft-altfalle-wirkungen-und-aufhebung",
   "typ": "rf",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 16 S. 2 LPartG",
    "§ 1585c BGB"
@@ -1205,12 +1205,12 @@
   ],
   "frage": "Welche Aussage zur Rechtslage zwischen nichtehelichen Lebensgefährten nach der BGH-Rechtsprechung seit 2008 trifft zu?",
   "optionen": [
-   "Es gelten die Vorschriften über die Zugewinngemeinschaft entsprechend",
-   "Es bestehen kein Güterrecht, keine Unterhaltsansprüche außer § 1615l BGB und kein Versorgungsausgleich; Ausgleichsansprüche aus allgemeinem Recht sind aber möglich",
+   "Die Lebensgefährten leben im rechtsfreien Raum; Ausgleichsansprüche sind ausgeschlossen",
    "Zuwendungen erfolgen ohne Rechtsgrund und sind nach Trennung stets nach Bereicherungsrecht zurückzugewähren",
-   "Die Lebensgefährten leben im rechtsfreien Raum; Ausgleichsansprüche sind ausgeschlossen"
+   "Es gelten die Vorschriften über die Zugewinngemeinschaft entsprechend",
+   "Es bestehen kein Güterrecht, keine Unterhaltsansprüche außer § 1615l BGB und kein Versorgungsausgleich; Ausgleichsansprüche aus allgemeinem Recht sind aber möglich"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Mit Urteil vom 09.07.2008 hat der BGH die Vorstellung vom rechtsfreien Raum aufgegeben. Güterrecht, Unterhalt (Ausnahme § 1615l BGB) und Versorgungsausgleich fehlen weiterhin, unentgeltliche Zuwendungen erfolgen aber nicht ohne Rechtsgrund; Rückgewähr- oder Ausgleichsansprüche aus allgemeinem Recht, vor allem über den Wegfall der Geschäftsgrundlage, sind möglich. Nicht jede Zuwendung kann zurückgefordert werden; ein Anspruch ist auf Geld gerichtet."
  },
  {
@@ -1220,19 +1220,19 @@
   "seite": "Nichteheliche Lebensgemeinschaft: Ausgleichsansprüche und Vorsorge",
   "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/nichteheliche-lebensgemeinschaft-ausgleichsanspruche-und-vorsorge",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 1932 BGB",
    "§ 1969 BGB"
   ],
   "frage": "Welche der erbrechtlichen Schutzvorschriften für Ehegatten wendet die Rechtsprechung auf den überlebenden nichtehelichen Lebensgefährten entsprechend an?",
   "optionen": [
-   "Den Voraus nach § 1932 BGB",
    "Den Dreißigsten nach § 1969 BGB",
-   "Das gesetzliche Erbrecht nach § 1931 BGB",
-   "Den Pflichtteil nach § 2303 Abs. 2 BGB"
+   "Den Voraus nach § 1932 BGB",
+   "Den Pflichtteil nach § 2303 Abs. 2 BGB",
+   "Das gesetzliche Erbrecht nach § 1931 BGB"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Den Dreißigsten (§ 1969 BGB), also Unterhalt und Weiternutzung von Wohnung und Haushaltsgegenständen für 30 Tage ab dem Erbfall, wendet die Rechtsprechung entsprechend an (OLG Düsseldorf NJW 1983, 1566). Den Voraus gewährt sie nicht, weil er gesetzliches Erbrecht voraussetzt. Ein gesetzliches Erb- oder Pflichtteilsrecht besteht zwischen nichtehelichen Partnern nicht, weshalb Testament oder Erbvertrag unverzichtbar sind."
  },
  {
@@ -1248,12 +1248,12 @@
   ],
   "frage": "Lebensgefährtin L will 150.000 € in die Sanierung des Hauses ihres Partners P investieren. Welche Gestaltung empfiehlt die Seite für diesen Fall?",
   "optionen": [
-   "Eine formlose Zuwendung, weil der BGH seit 2008 Ausgleichsansprüche nach Trennung gewährt",
-   "Ein Darlehen der L an P, wobei bei Zinslosigkeit die Schenkung des Zinsanteils und die geringen Freibeträge zu beachten sind",
    "Eine notarielle Schenkung mit Rückforderungsrecht nach § 530 BGB",
-   "Die Übertragung des Hauses in das Gesamtgut einer Gütergemeinschaft"
+   "Eine formlose Zuwendung, weil der BGH seit 2008 Ausgleichsansprüche nach Trennung gewährt",
+   "Die Übertragung des Hauses in das Gesamtgut einer Gütergemeinschaft",
+   "Ein Darlehen der L an P, wobei bei Zinslosigkeit die Schenkung des Zinsanteils und die geringen Freibeträge zu beachten sind"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Die Seite nennt das Darlehen für die Investition in die Immobilie des Partners als sinnvolle Lösung bei nichtehelichen Lebensgemeinschaften, weil die Rechtsprechung nur in Ausnahmefällen hilft und Ausgleichsansprüche vertraglich geregelt werden sollten. Ein zinsloses Darlehen enthält eine Schenkung des Zinsanteils; die Schenkungsteuerfreibeträge zwischen nichtehelichen Partnern (20.000 €) sind gering. Güterrecht steht Lebensgefährten nicht offen; eine formlose Zuwendung verlässt sich auf § 313 BGB, der nur ausnahmsweise greift."
  },
  {
@@ -1305,9 +1305,9 @@
    "§ 1567 Abs. 2 BGB",
    "§ 1565 Abs. 2 BGB"
   ],
-  "frage": "Ein kurzes Zusammenleben der getrennten Ehegatten mit dem Ziel der Versöhnung lässt das Trennungsjahr neu beginnen.",
-  "antwort": false,
-  "erklaerung": "Nach § 1567 Abs. 2 BGB unterbricht oder hemmt ein Zusammenleben über kürzere Zeit, das der Versöhnung dienen soll, die Trennungsfristen nicht. Das Gesetz will Versöhnungsversuche nicht durch den Verlust der bereits verstrichenen Trennungszeit bestrafen. Die Trennungszeit von einem Jahr nach § 1565 Abs. 2 BGB läuft daher weiter."
+  "frage": "Ein kurzes Zusammenleben der getrennten Ehegatten mit dem Ziel der Versöhnung unterbricht oder hemmt das Trennungsjahr nicht.",
+  "antwort": true,
+  "erklaerung": "Nach § 1567 Abs. 2 BGB unterbricht oder hemmt ein Zusammenleben über kürzere Zeit, das der Versöhnung dienen soll, die Trennungsfristen nicht. Das Gesetz will Versöhnungsversuche nicht durch den Verlust der bereits verstrichenen Trennungszeit bestrafen; die Annahme, das Trennungsjahr beginne neu, ist daher falsch."
  },
  {
   "id": "fami2-062",
@@ -1329,22 +1329,22 @@
     "frage": "Leben M und F trotz der gemeinsamen Wohnung getrennt?",
     "optionen": [
      "Nein, Getrenntleben setzt getrennte Wohnungen voraus",
-     "Ja, Getrenntleben ist auch innerhalb der Ehewohnung möglich (§ 1567 Abs. 1 S. 2 BGB)",
+     "Ja, aber das Trennungsjahr beginnt erst mit Auszug eines Ehegatten",
      "Nein, solange beide Eigentümer des Hauses sind",
-     "Ja, aber das Trennungsjahr beginnt erst mit Auszug eines Ehegatten"
+     "Ja, Getrenntleben ist auch innerhalb der Ehewohnung möglich (§ 1567 Abs. 1 S. 2 BGB)"
     ],
-    "antwort": 1,
+    "antwort": 3,
     "erklaerung": "Getrenntleben setzt das Fehlen häuslicher Gemeinschaft und die Ablehnung der ehelichen Lebensgemeinschaft durch mindestens einen Ehegatten voraus; es ist nach § 1567 Abs. 1 S. 2 BGB auch innerhalb der Ehewohnung möglich. Das Trennungsjahr läuft daher bereits."
    },
    {
     "frage": "Die Ehegatten wollen den Zugewinn sofort abschließend regeln. Welches Vorgehen ist in der Praxis üblich?",
     "optionen": [
+     "Ein formfreier Verzicht auf den Zugewinnausgleich",
      "Abwarten bis zur Rechtskraft der Scheidung, weil vorher keine Ausgleichsforderung entstehen kann",
      "Gütertrennung durch Ehevertrag in der Scheidungsvereinbarung; die Ausgleichsforderung entsteht dann mit deren Abschluss",
-     "Eintragung der Gütertrennung ins Güterrechtsregister",
-     "Ein formfreier Verzicht auf den Zugewinnausgleich"
+     "Eintragung der Gütertrennung ins Güterrechtsregister"
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "In der Praxis beenden die Ehegatten die Zugewinngemeinschaft meist schon in der Scheidungsvereinbarung durch Ehevertrag (Gütertrennung). Die Ausgleichsforderung entsteht dann bereits mit Abschluss dieser Vereinbarung (§ 1378 Abs. 3 BGB), und die Vereinbarung regelt zugleich deren Abgeltung. Das Güterrechtsregister ist abgeschafft."
    },
    {
@@ -1352,8 +1352,8 @@
     "optionen": [
      "Der Erbvertrag bleibt nach der Scheidung unverändert wirksam",
      "Verfügungen im Erbvertrag verlieren mit der Scheidung in der Regel ihre Wirksamkeit (§§ 2077, 2279 BGB)",
-     "Der Erbvertrag wird mit Rechtshängigkeit des Scheidungsantrags stets unwirksam",
-     "Der Erbvertrag muss vor der Scheidung zwingend notariell aufgehoben werden, sonst bleibt er bindend"
+     "Der Erbvertrag muss vor der Scheidung zwingend notariell aufgehoben werden, sonst bleibt er bindend",
+     "Der Erbvertrag wird mit Rechtshängigkeit des Scheidungsantrags stets unwirksam"
     ],
     "antwort": 1,
     "erklaerung": "Die Scheidung beendet das gesetzliche Erb- und Pflichtteilsrecht; Verfügungen in Testamenten und Erbverträgen verlieren in der Regel ihre Wirksamkeit (§§ 2077, 2279 BGB). Auf diese Folgen ist bei bestehenden Verfügungen von Todes wegen hinzuweisen; eine klarstellende Regelung in der Scheidungsvereinbarung bietet sich an."
@@ -1406,14 +1406,14 @@
   "seite": "Unterhaltsvereinbarungen: Abänderung und Angabe der Berechnungsgrundlagen",
   "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/unterhaltsvereinbarungen-abanderung-und-angabe-der-berechnungsgrundlagen",
   "typ": "rf",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 239 FamFG",
    "§ 238 FamFG"
   ],
-  "frage": "Für die Abänderung eines notariellen Unterhaltstitels gilt kraft Gesetzes dieselbe Wesentlichkeitsschwelle wie für gerichtliche Unterhaltstitel.",
-  "antwort": false,
-  "erklaerung": "Für notarielle Titel und Vergleiche sieht § 239 FamFG keine Wesentlichkeitsschwelle vor; Voraussetzungen und Ausmaß der Abänderung richten sich über § 239 Abs. 2 FamFG nach § 313 BGB. Die Wesentlichkeitsschwelle gilt nur für gerichtliche Titel nach § 238 FamFG. Die Beteiligten können eine Schwelle aber vertraglich vereinbaren."
+  "frage": "Für die Abänderung eines notariellen Unterhaltstitels nach § 239 FamFG sieht das Gesetz keine Wesentlichkeitsschwelle vor; die Beteiligten können eine solche aber vertraglich vereinbaren.",
+  "antwort": true,
+  "erklaerung": "Für notarielle Titel und Vergleiche sieht § 239 FamFG keine Wesentlichkeitsschwelle vor; Voraussetzungen und Ausmaß der Abänderung richten sich über § 239 Abs. 2 FamFG nach § 313 BGB. Die Wesentlichkeitsschwelle gilt nur für gerichtliche Titel nach § 238 FamFG. Eine Schwelle kann vertraglich vereinbart werden, was die Seite bei Bedarf empfiehlt."
  },
  {
   "id": "fami2-066",
@@ -1431,8 +1431,8 @@
   "optionen": [
    "Eine unbefristete Vereinbarung über den nachehelichen Unterhalt auf Basis der aktuellen Einkünfte",
    "Befristung, Rücktrittsvorbehalt oder Beschränkung auf den Trennungsunterhalt, weil sich die Verhältnisse etwa durch Wegfall des Ehegattensplittings ändern",
-   "Ein Ausschluss der Abänderbarkeit, damit die Vereinbarung Bestand hat",
-   "Verzicht auf Angabe der Berechnungsgrundlagen, weil sich diese ohnehin bald ändern"
+   "Verzicht auf Angabe der Berechnungsgrundlagen, weil sich diese ohnehin bald ändern",
+   "Ein Ausschluss der Abänderbarkeit, damit die Vereinbarung Bestand hat"
   ],
   "antwort": 1,
   "erklaerung": "Kurz nach der Trennung ändern sich die wirtschaftlichen Verhältnisse zwangsläufig, insbesondere durch den Wegfall des Ehegattensplittings im Folgejahr (§ 26 EStG), den gegenläufigen Sonderausgabenabzug, Krankenversicherungsbeiträge und die neue Lastenverteilung. Die Seite empfiehlt deshalb Befristung, Rücktrittsvorbehalt oder Beschränkung auf den Trennungsunterhalt; die steuerlichen Folgen sind mit dem Steuerberater zu prognostizieren. Der Verzicht auf Berechnungsgrundlagen ist gerade der typische Fehler."
@@ -1486,12 +1486,12 @@
   "frage": "Welche Folge hat eine novierende Unterhaltsvereinbarung im Unterschied zu einer modifizierenden?",
   "optionen": [
    "Der Anspruch bleibt gesetzlicher Unterhalt und genießt weiter Pfändungs- und Insolvenzschutz",
-   "Der rein vertragliche Anspruch kann unabhängig von Bedürftigkeit bestehen, erlischt nicht bei Wiederheirat, verliert aber den Pfändungs- und Insolvenzschutz",
+   "Die Novation ist auch beim Trennungsunterhalt zulässig, wenn sie beurkundet wird",
    "Die Novation wirkt auch gegenüber vorrangig unterhaltsberechtigten Dritten und verbessert den Rang des Berechtigten",
-   "Die Novation ist auch beim Trennungsunterhalt zulässig, wenn sie beurkundet wird"
+   "Der rein vertragliche Anspruch kann unabhängig von Bedürftigkeit bestehen, erlischt nicht bei Wiederheirat, verliert aber den Pfändungs- und Insolvenzschutz"
   ],
-  "antwort": 1,
-  "erklaerung": "Bei der Novation ersetzen die Ehegatten den gesetzlichen Anspruch durch einen vertraglichen; das ist nur beim nachehelichen Unterhalt möglich. Der vertragliche Anspruch besteht unabhängig von Bedürftigkeit und Leistungsfähigkeit und erlischt nicht bei Wiederheirat, verliert aber den Schutz des gesetzlichen Unterhalts (§§ 850b, 850c ZPO, §§ 38, 40 InsO). Gegenüber nicht beteiligten Unterhaltsberechtigten wirkt die Novation nicht; Option 1 beschreibt die modifizierende Vereinbarung."
+  "antwort": 3,
+  "erklaerung": "Bei der Novation ersetzen die Ehegatten den gesetzlichen Anspruch durch einen vertraglichen; das ist nur beim nachehelichen Unterhalt möglich. Der vertragliche Anspruch besteht unabhängig von Bedürftigkeit und Leistungsfähigkeit und erlischt nicht bei Wiederheirat, verliert aber den Schutz des gesetzlichen Unterhalts (§§ 850b, 850c ZPO, §§ 38, 40 InsO). Gegenüber nicht beteiligten Unterhaltsberechtigten wirkt die Novation nicht; der fortbestehende Pfändungs- und Insolvenzschutz kennzeichnet dagegen die modifizierende Vereinbarung."
  },
  {
   "id": "fami2-069",
@@ -1521,12 +1521,12 @@
   ],
   "frage": "Die Verlobten V und W wollen vor der Heirat vereinbaren, dass nachehelicher Unterhalt auf 1.500 € monatlich begrenzt wird. Welche Form ist erforderlich?",
   "optionen": [
-   "Keine, weil § 1585c BGB nur für Ehegatten gilt",
-   "Schriftform genügt, weil die Ehe noch nicht besteht",
    "Notarielle Beurkundung, weil § 1585c S. 2 BGB nach Sinn und Zweck auch Vereinbarungen von Verlobten erfasst",
+   "Schriftform genügt, weil die Ehe noch nicht besteht",
+   "Keine, weil § 1585c BGB nur für Ehegatten gilt",
    "Notarielle Beurkundung nur, wenn die Vereinbarung in einen Ehevertrag aufgenommen wird"
   ],
-  "antwort": 2,
+  "antwort": 0,
   "erklaerung": "Vereinbarungen über nachehelichen Unterhalt vor Rechtskraft der Scheidung bedürfen der notariellen Beurkundung (§ 1585c S. 2 BGB); erfasst ist jede den Unterhalt verändernde Abrede einschließlich Begrenzungen. Nach Sinn und Zweck gilt die Beurkundungspflicht auch für Verlobte und nichteheliche Lebensgefährten. Die Vereinbarung kann zeitlich jederzeit, also auch vor der Ehe, getroffen werden."
  },
  {
@@ -1543,12 +1543,12 @@
   "frage": "Die Ehegatten vereinbaren, dass die angestellte F 70 % ihrer in der Ehezeit erworbenen Rentenanrechte an M abgibt. Wie ist die Vereinbarung zu beurteilen?",
   "optionen": [
    "Zulässig, weil das Verbot des Supersplittings aufgehoben ist",
-   "Ohne Zustimmung des Versorgungsträgers unzulässig, weil eine Teilung über die Hälfte hinaus gegen § 8 Abs. 2 VersAusglG verstößt",
+   "Stets unzulässig, weil die Halbteilung zwingend ist",
    "Zulässig, wenn die Vereinbarung in der Form des § 1410 BGB beurkundet wird",
-   "Stets unzulässig, weil die Halbteilung zwingend ist"
+   "Ohne Zustimmung des Versorgungsträgers unzulässig, weil eine Teilung über die Hälfte hinaus gegen § 8 Abs. 2 VersAusglG verstößt"
   ],
-  "antwort": 1,
-  "erklaerung": "Das frühere Supersplitting-Verbot gilt nicht mehr, weil jedes Anrecht für sich geteilt wird. Eine Teilung über die Hälfte hinaus ist aber ohne Zustimmung des Versorgungsträgers nicht möglich; eine Ausgleichsquote über 50 % verstößt ohne diese Zustimmung gegen § 8 Abs. 2 VersAusglG. Mit Zustimmung ist sie zulässig, weshalb Option 4 zu weit geht; die Form ändert an der Zustimmungsbedürftigkeit nichts."
+  "antwort": 3,
+  "erklaerung": "Das frühere Supersplitting-Verbot gilt nicht mehr, weil jedes Anrecht für sich geteilt wird. Eine Teilung über die Hälfte hinaus ist aber ohne Zustimmung des Versorgungsträgers nicht möglich; eine Ausgleichsquote über 50 % verstößt ohne diese Zustimmung gegen § 8 Abs. 2 VersAusglG. Mit Zustimmung ist sie zulässig, weshalb die Annahme einer zwingenden Halbteilung zu weit geht; die Form ändert an der Zustimmungsbedürftigkeit nichts."
  },
  {
   "id": "fami2-072",
@@ -1557,7 +1557,7 @@
   "seite": "Versorgungsausgleich: Vereinbarungen",
   "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/versorgungsausgleich-vereinbarungen",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 1410 BGB",
    "§ 7 VersAusglG"
@@ -1583,9 +1583,9 @@
   "normen": [
    "§ 17 Abs. 2 BeurkG"
   ],
-  "frage": "Hat der Notar Zweifel an der Wirksamkeit einer Vereinbarung über den Versorgungsausgleich, muss er die Beurkundung ablehnen.",
-  "antwort": false,
-  "erklaerung": "Der Notar prüft die Wirksamkeit (§ 17 Abs. 2 BeurkG), darf die Beurkundung aber nur bei sicherer Kenntnis der Unwirksamkeit ablehnen. Bloße Zweifel vermerkt er in der Urkunde; grundsätzlich darf er sich auf die Angaben der Beteiligten verlassen. Gerichtliche Auskunftsrechte gegenüber den Versorgungsträgern stehen ihm nicht zu."
+  "frage": "Der Notar darf die Beurkundung einer Vereinbarung über den Versorgungsausgleich nur bei sicherer Kenntnis ihrer Unwirksamkeit ablehnen; bloße Zweifel vermerkt er in der Urkunde.",
+  "antwort": true,
+  "erklaerung": "Der Notar prüft die Wirksamkeit (§ 17 Abs. 2 BeurkG), darf die Beurkundung aber nur bei sicherer Kenntnis der Unwirksamkeit ablehnen. Bloße Zweifel vermerkt er in der Urkunde; grundsätzlich darf er sich auf die Angaben der Beteiligten verlassen. Eine Ablehnungspflicht schon bei Zweifeln besteht nicht, zumal dem Notar die gerichtlichen Auskunftsrechte gegenüber den Versorgungsträgern fehlen."
  },
  {
   "id": "fami2-074",
@@ -1600,10 +1600,10 @@
   ],
   "frage": "Welche Gestaltung ist nach §§ 6 bis 8 VersAusglG grundsätzlich zulässig?",
   "optionen": [
-   "Nur der vollständige Ausschluss des Versorgungsausgleichs",
+   "Jede pauschale Musterregelung ohne Rücksicht auf den Einzelfall",
    "Ganzer oder teilweiser Ausschluss, Herausnahme einzelner Anrechte oder Ehezeiten sowie einseitiger Ausschluss",
    "Nur die Herausnahme der gesetzlichen Rentenversicherung",
-   "Jede pauschale Musterregelung ohne Rücksicht auf den Einzelfall"
+   "Nur der vollständige Ausschluss des Versorgungsausgleichs"
   ],
   "antwort": 1,
   "erklaerung": "Die Ehegatten können über den Versorgungsausgleich grundsätzlich frei Vereinbarungen treffen: ganzer oder teilweiser Ausschluss, Herausnahme einzelner Anrechte oder Ehezeiten und einseitiger Ausschluss. Das Familiengericht ist daran gebunden, wenn die Vereinbarung der Inhalts- und Ausübungskontrolle standhält (§ 6 Abs. 2 VersAusglG). Pauschallösungen sind ungeeignet; jede Vereinbarung muss auf den Einzelfall zugeschnitten sein."

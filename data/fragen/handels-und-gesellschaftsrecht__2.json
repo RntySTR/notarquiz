@@ -1280,5 +1280,181 @@
    }
   ],
   "erklaerung": "Die Niederlassungsprokura ist wegen der abweichenden Firma der Zweigniederlassung zulässig (§ 50 Abs. 3 HGB). Anzumelden haben G1 und G2 in vertretungsberechtigter Zahl ohne Mitwirkung des P, unter Angabe der unechten Gesamtprokura und der Beschränkung auf Ulm; ohne Anmeldung der Beschränkung gilt die Prokura für alle Niederlassungen."
+ },
+ {
+  "id": "hand2-055",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Registerangaben: Sitz und Geschäftsanschrift",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/registerangaben-sitz-und-geschaftsanschrift",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 4a GmbHG"
+  ],
+  "frage": "Eine GmbH mit Satzungssitz in Stuttgart zieht innerhalb Stuttgarts in neue Geschäftsräume. Was ist zum Handelsregister anzumelden?",
+  "optionen": [
+   "Eine Sitzverlegung mit Satzungsänderung",
+   "Nur die neue Geschäftsanschrift",
+   "Nichts, da sich der Satzungssitz nicht ändert",
+   "Eine Sitzverlegung ohne Satzungsänderung beim neuen Registergericht"
+  ],
+  "antwort": 1,
+  "erklaerung": "Ein Umzug innerhalb derselben politischen Gemeinde ist nie eine Sitzverlegung, da der Sitz nach § 4a GmbHG eine Gemeinde bezeichnet. Anzumelden ist nur die neue Geschäftsanschrift; dies ist erzwingbar (§ 14 HGB), sodass eine Anmeldung keineswegs entbehrlich ist."
+ },
+ {
+  "id": "hand2-056",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Registerangaben: Sitz und Geschäftsanschrift",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/registerangaben-sitz-und-geschaftsanschrift",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 4a GmbHG"
+  ],
+  "frage": "Der Verwaltungssitz einer GmbH kann im Ausland liegen und wird nicht im Handelsregister eingetragen.",
+  "antwort": true,
+  "erklaerung": "Der Verwaltungssitz ist der tatsächliche Ort der Geschäftsführung und kann vom Satzungssitz abweichen, auch ins Ausland. Im Register erscheint nur der Satzungssitz, der nach § 4a GmbHG ein Ort im Inland sein muss; der Verwaltungssitz wird nicht eingetragen."
+ },
+ {
+  "id": "hand2-057",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Registerangaben: Sitz und Geschäftsanschrift",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/registerangaben-sitz-und-geschaftsanschrift",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 15a HGB",
+   "§ 14 HGB",
+   "§ 8 Abs. 4 Nr. 1 GmbHG"
+  ],
+  "frage": "Welche Folge kann es haben, wenn bei einer GmbH nach einem Umzug eine unzutreffende inländische Geschäftsanschrift eingetragen bleibt?",
+  "optionen": [
+   "Die GmbH wird von Amts wegen gelöscht",
+   "Die Zustellung an die Gesellschaft kann gegebenenfalls öffentlich erfolgen; zudem droht Zwangsgeld",
+   "Die Geschäftsführer haften persönlich für alle Verbindlichkeiten",
+   "Zustellungen an die alte Anschrift sind unwirksam und gelten als nicht erfolgt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Ist eine unzutreffende inländische Geschäftsanschrift eingetragen, kann nach § 15a HGB öffentlich zugestellt werden; die Anmeldung der aktuellen Anschrift ist zudem durch Zwangsgeld erzwingbar (§ 14 HGB). Die nach § 8 Abs. 4 Nr. 1 GmbHG eingetragene Anschrift soll gerade jederzeit eine zustellungsfähige Adresse ausweisen."
+ },
+ {
+  "id": "hand2-058",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Registerangaben: Sitz und Geschäftsanschrift",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/registerangaben-sitz-und-geschaftsanschrift",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 24 Abs. 2 HRV"
+  ],
+  "frage": "Welche Aussage zur Hauptniederlassung des Einzelkaufmanns trifft zu?",
+  "optionen": [
+   "Der Einzelkaufmann wählt seinen Sitz frei wie eine GmbH",
+   "Die Hauptniederlassung liegt am Ort der dauerhaften Geschäftsleitung und ist nicht frei wählbar",
+   "Die Hauptniederlassung liegt stets am Wohnsitz des Einzelkaufmanns",
+   "Der Einzelkaufmann meldet keine Hauptniederlassung, sondern nur eine Geschäftsanschrift an"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Einzelkaufmann meldet keinen Sitz, sondern seine Hauptniederlassung an; diese kann er nicht frei wählen, sie liegt am Ort der dauerhaften Geschäftsleitung. Anders als bei Gesellschaften gibt es keinen satzungsmäßig frei bestimmbaren Sitz. Weichen die Geschäftsräume ab, ist deren Lage bei der Anmeldung anzugeben (§ 24 Abs. 2 HRV)."
+ },
+ {
+  "id": "hand2-059",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Registerangaben: Unternehmensgegenstand und erlaubnispflichtige Gewerbe",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/registerangaben-unternehmensgegenstand-und-erlaubnispflichtige-gewerbe",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 10 Abs. 1 GmbHG"
+  ],
+  "frage": "Welcher Unternehmensgegenstand einer GmbH genügt den Anforderungen an die Individualisierung?",
+  "optionen": [
+   "„Handel mit Waren aller Art“",
+   "„Betrieb aller dem Gesellschaftszweck dienlichen Geschäfte“",
+   "„Planung und Errichtung von Photovoltaikanlagen auf Gewerbedächern“",
+   "„Erbringung von Dienstleistungen aller Art“"
+  ],
+  "antwort": 2,
+  "erklaerung": "Der Unternehmensgegenstand ist so konkret anzugeben, dass der Schwerpunkt der Tätigkeit erkennbar ist; eine konkrete Bezeichnung einer bestimmten Planungs- oder Handelstätigkeit genügt. Leerformeln wie Waren oder Dienstleistungen „aller Art“ oder der bloße Verweis auf zweckdienliche Geschäfte sind unzureichend. Bei der GmbH wird der Gegenstand nach § 10 Abs. 1 GmbHG eingetragen."
+ },
+ {
+  "id": "hand2-060",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Registerangaben: Unternehmensgegenstand und erlaubnispflichtige Gewerbe",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/registerangaben-unternehmensgegenstand-und-erlaubnispflichtige-gewerbe",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 24 Abs. 4 HRV"
+  ],
+  "frage": "Bei einer OHG wird der Unternehmensgegenstand nicht in das Handelsregister eingetragen; die Anmeldung soll ihn aber nennen, wenn die Firma ihn nicht erkennen lässt.",
+  "antwort": true,
+  "erklaerung": "Für Einzelkaufleute und Personengesellschaften enthält das Register keinen Unternehmensgegenstand. Nach § 24 Abs. 4 HRV soll die Anmeldung ihn aber angeben, sofern er sich nicht aus der Firma ergibt. Eingetragen wird der Gegenstand nur bei GmbH und AG."
+ },
+ {
+  "id": "hand2-061",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Registerangaben: Unternehmensgegenstand und erlaubnispflichtige Gewerbe",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/registerangaben-unternehmensgegenstand-und-erlaubnispflichtige-gewerbe",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 34c GewO",
+   "§ 34d GewO",
+   "§ 1 AÜG",
+   "§ 2 GastG"
+  ],
+  "frage": "Ordne das erlaubnispflichtige Gewerbe der einschlägigen Erlaubnisnorm zu.",
+  "paare": [
+   [
+    "Bauträger und Wohnimmobilienverwalter",
+    "§ 34c GewO"
+   ],
+   [
+    "Versicherungsvermittler",
+    "§ 34d GewO"
+   ],
+   [
+    "Arbeitnehmerüberlassung",
+    "§ 1 AÜG"
+   ],
+   [
+    "Gaststättenbetrieb",
+    "§ 2 GastG"
+   ],
+   [
+    "Bewachungsgewerbe",
+    "§ 34a GewO"
+   ]
+  ],
+  "erklaerung": "Die Seite nennt diese Erlaubnispflichten als Beispiele, auf die die Beteiligten bei Gründung oder Anmeldung hingewiesen werden können. Die Erlaubnis muss der Anmeldung in aller Regel nicht beigefügt werden; nur bei Bank- und Finanzdienstleistungsgeschäften trägt das Registergericht erst nach Vorlage der BaFin-Genehmigung ein (§ 43 Abs. 1 KWG)."
+ },
+ {
+  "id": "hand2-062",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Registerangaben: Unternehmensgegenstand und erlaubnispflichtige Gewerbe",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/registerangaben-unternehmensgegenstand-und-erlaubnispflichtige-gewerbe",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 37 Abs. 1 GmbHG"
+  ],
+  "frage": "Welche Funktion erfüllt der Unternehmensgegenstand der GmbH im Innenverhältnis?",
+  "optionen": [
+   "Er bestimmt die Höhe des Stammkapitals",
+   "Er schützt die Gesellschafter, vor allem Minderheitsgesellschafter, vor eigenmächtigen Änderungen des Tätigkeitsfelds durch die Geschäftsführer",
+   "Er beschränkt die Vertretungsmacht der Geschäftsführer mit Wirkung gegenüber Dritten",
+   "Er legt fest, welche Gewerbeerlaubnisse die Gesellschaft benötigt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach innen schützt der Unternehmensgegenstand die Gesellschafter vor eigenmächtigen Änderungen des Tätigkeitsfelds; die Geschäftsführer müssen die Beschränkungen aus dem Gesellschaftsvertrag einhalten (§ 37 Abs. 1 GmbHG). Nach außen dient er der Information des Rechtsverkehrs über das Tätigkeitsfeld; eine Beschränkung der Vertretungsmacht gegenüber Dritten folgt daraus nicht."
  }
 ]

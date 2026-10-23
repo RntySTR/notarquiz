@@ -793,5 +793,261 @@
    }
   ],
   "erklaerung": "I verkauft als Partei kraft Amtes mit Nachweis durch den Bestellungsbeschluss. K wird durch den Amtsfortbestand als Fälligkeitsvoraussetzung geschützt, den I nach Vormerkungseintragung und nach Eigentumsumschreibung zu den Notarakten bestätigt."
+ },
+ {
+  "id": "kauf3-037",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Vertragsgegenstand und Kaufpreis",
+  "seite": "Grundstückskaufvertrag: Belastungen in Abteilung II beim Verkauf",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/grundstuckskaufvertrag-belastungen-in-abteilung-ii-beim-verkauf",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1061 S. 1 BGB",
+   "§ 23 Abs. 1 S. 1 GBO",
+   "§ 35 Abs. 1 GBO"
+  ],
+  "frage": "Der Nießbraucher ist vor vier Monaten verstorben; eine Vorlöschungsklausel ist nicht eingetragen. Was wird für die Löschung des Nießbrauchs benötigt?",
+  "optionen": [
+   "Nur die Sterbeurkunde, weil der Nießbrauch mit dem Tod erlischt",
+   "Die Bewilligung des Rechtsnachfolgers mit Erbnachweis nach § 35 Abs. 1 GBO",
+   "Ein Unrichtigkeitsnachweis ist erst nach Ablauf von zehn Jahren möglich",
+   "Die Zustimmung des Käufers als künftigem Eigentümer"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Nießbrauch erlischt zwar mit dem Tod (§ 1061 S. 1 BGB), innerhalb eines Jahres nach dem Tod verlangt § 23 Abs. 1 S. 1 GBO für die Löschung aber die Bewilligung des Rechtsnachfolgers, dessen Erbfolge nach § 35 Abs. 1 GBO nachzuweisen ist. Die Sterbeurkunde allein genügt nur bei eingetragener Vorlöschungsklausel. Das ist misslich, weil die Beteiligten mit der vorweggenommenen Erbfolge oft gerade einen Erbschein vermeiden wollten."
+ },
+ {
+  "id": "kauf3-038",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Vertragsgegenstand und Kaufpreis",
+  "seite": "Grundstückskaufvertrag: Belastungen in Abteilung II beim Verkauf",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/grundstuckskaufvertrag-belastungen-in-abteilung-ii-beim-verkauf",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 29 GBO"
+  ],
+  "frage": "Im Grundbuch ist ein privatrechtliches Vorkaufsrecht eingetragen. Was muss dem Notar als Fälligkeitsvoraussetzung vorliegen?",
+  "optionen": [
+   "Eine Löschungsbewilligung in der Form des § 29 GBO oder ein schriftlicher Verzicht des Berechtigten für diesen Verkaufsfall",
+   "Ausschließlich eine Löschungsbewilligung in der Form des § 29 GBO",
+   "Ein öffentlich beglaubigter Verzicht des Berechtigten für alle künftigen Verkaufsfälle",
+   "Ein Negativzeugnis der Gemeinde"
+  ],
+  "antwort": 0,
+  "erklaerung": "Beim eingetragenen privatrechtlichen Vorkaufsrecht muss als Fälligkeitsvoraussetzung entweder eine Löschungsbewilligung (Form des § 29 GBO) oder ein schriftlicher Verzicht des Berechtigten für diesen Verkaufsfall vorliegen; der Verzicht bedarf keiner Beglaubigung. Das eingetragene Vorkaufsrecht geht wegen seiner Vormerkungswirkung einer späteren Käufervormerkung vor. Das Negativzeugnis betrifft das gesetzliche Vorkaufsrecht der Gemeinde, nicht ein dingliches Vorkaufsrecht."
+ },
+ {
+  "id": "kauf3-039",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Vertragsgegenstand und Kaufpreis",
+  "seite": "Grundstückskaufvertrag: Belastungen in Abteilung II beim Verkauf",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/grundstuckskaufvertrag-belastungen-in-abteilung-ii-beim-verkauf",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 19 GBO",
+   "§ 13 GBO"
+  ],
+  "frage": "Wirkt der noch lebende Wohnungsberechtigte an der Kaufvertragsurkunde mit und bewilligt die Löschung seines Rechts, liegt darin im Zweifel eine unentgeltliche Zuwendung an den Verkäufer.",
+  "antwort": true,
+  "erklaerung": "Lebt der Berechtigte noch, wird er am besten an der Kaufvertragsurkunde beteiligt, die dann seine Bewilligung (§ 19 GBO) und den Löschungsantrag (§ 13 GBO) enthält. Verzichtet er so auf sein Nutzungs- oder Rückforderungsrecht, ist das im Zweifel eine unentgeltliche Zuwendung an den Verkäufer. Die Urkunde sollte daher klarstellen, dass der Notar das zugrunde liegende Geschäft nicht regelt und dazu einschließlich der Steuerfolgen nicht beraten hat."
+ },
+ {
+  "id": "kauf3-040",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Vertragsgegenstand und Kaufpreis",
+  "seite": "Grundstückskaufvertrag: Belastungen in Abteilung II beim Verkauf",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/grundstuckskaufvertrag-belastungen-in-abteilung-ii-beim-verkauf",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 5 Abs. 1 S. 1 GBBerG",
+   "§ 1090 Abs. 2 BGB",
+   "§ 35 Abs. 1 GBO"
+  ],
+  "frage": "Ordne die Rechte in Abteilung II der zutreffenden Aussage zur Behandlung beim Verkauf zu.",
+  "paare": [
+   [
+    "Grunddienstbarkeit",
+    "Wird vom Käufer in der Regel zur weiteren Duldung übernommen"
+   ],
+   [
+    "Nießbrauch eines Berechtigten, der 110 Jahre alt geworden wäre",
+    "Löschungserleichterung nach § 5 Abs. 1 S. 1 GBBerG"
+   ],
+   [
+    "Wohnungsrecht",
+    "Regeln zum Nießbrauch gelten nach § 1090 Abs. 2 BGB entsprechend"
+   ],
+   [
+    "Vererbliche Rückauflassungsvormerkung",
+    "Löschungsbewilligung der Erben mit Erbnachweis nach § 35 Abs. 1 GBO, außer bei Löschungsvollmacht gegen Sterbeurkunde"
+   ]
+  ],
+  "erklaerung": "Dienstbarkeiten übernimmt der Käufer regelmäßig, während Nießbrauch, Wohnungsrecht und Vormerkungen gelöscht werden sollen. § 5 Abs. 1 S. 1 GBBerG erleichtert die Löschung eines Nießbrauchs, sobald der Berechtigte 110 Jahre alt geworden wäre; für das Wohnungsrecht gilt Nießbrauchsrecht entsprechend. Bei vererblichem Rückübertragungsanspruch müssen die Erben bewilligen, es sei denn, der damalige Erwerber wurde schon in der Bewilligungsurkunde zur Löschung gegen Sterbeurkunde bevollmächtigt."
+ },
+ {
+  "id": "kauf3-041",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Vertragsgegenstand und Kaufpreis",
+  "seite": "Grundstückskaufvertrag: Grundbucheinsicht und Baulasten",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/grundstuckskaufvertrag-grundbucheinsicht-und-baulasten",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 21 Abs. 1 S. 1 BeurkG",
+   "§ 21 Abs. 1 S. 2 BeurkG"
+  ],
+  "frage": "Was gilt nach § 21 Abs. 1 BeurkG für die Unterrichtung des Notars über den Grundbuchinhalt?",
+  "optionen": [
+   "Der Notar muss Grundbuch und Grundakte einsehen und dies in der Urkunde vermerken",
+   "Der Notar soll sich über den Grundbuchinhalt unterrichten; hat er nicht eingesehen, ist dies in der Niederschrift zu vermerken",
+   "Die Grundbucheinsicht ist nur auf Verlangen eines Beteiligten erforderlich",
+   "Der Vermerk über die erfolgte Einsicht ist zwingend, sonst ist die Urkunde unwirksam"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 21 Abs. 1 S. 1 BeurkG soll sich der Notar über den Grundbuchinhalt unterrichten; die Grundakte muss er danach nicht einsehen. Hat er das Grundbuch nicht eingesehen, ist dies nach § 21 Abs. 1 S. 2 BeurkG in der Niederschrift zu vermerken. Ein Vermerk über die erfolgte Einsicht ist dagegen nur üblich, nicht vorgeschrieben."
+ },
+ {
+  "id": "kauf3-042",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Vertragsgegenstand und Kaufpreis",
+  "seite": "Grundstückskaufvertrag: Grundbucheinsicht und Baulasten",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/grundstuckskaufvertrag-grundbucheinsicht-und-baulasten",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 21 BeurkG"
+  ],
+  "frage": "Der Notar ist verpflichtet, vor der Beurkundung eines Grundstückskaufvertrags das Baulastenverzeichnis einzusehen.",
+  "antwort": false,
+  "erklaerung": "Eine Pflicht des Notars zur Einsicht in das Baulastenverzeichnis besteht nicht; § 21 BeurkG betrifft nur das Grundbuch. Baulasten und andere Belastungen außerhalb des Grundbuchs muss der Verkäufer grundsätzlich auch nicht beseitigen. Der Notar weist aber darauf hin, dass die Beteiligten das Baulastenverzeichnis bei der Gemeinde einsehen können und er es nicht eingesehen hat."
+ },
+ {
+  "id": "kauf3-043",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Vertragsgegenstand und Kaufpreis",
+  "seite": "Grundstückskaufvertrag: Grundbucheinsicht und Baulasten",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/grundstuckskaufvertrag-grundbucheinsicht-und-baulasten",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "In Abteilung III ist eine Briefgrundschuld eingetragen, die gelöscht werden soll; der Verkäufer findet den Grundschuldbrief nicht. Was ist erforderlich?",
+  "optionen": [
+   "Eine eidesstattliche Versicherung des Verkäufers über den Verlust gegenüber dem Grundbuchamt",
+   "Ein Kraftloserklärungsverfahren beim Amtsgericht auf Kosten des Verkäufers, mit einer Dauer von etwa sechs Monaten",
+   "Die Löschungsbewilligung des Gläubigers genügt ohne Brief",
+   "Ein Kraftloserklärungsverfahren auf Kosten des Käufers, mit einer Dauer von etwa vier Wochen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Für die Löschung eines Briefgrundpfandrechts muss der Brief vorgelegt werden; kann der Verkäufer ihn nicht vorlegen, ist beim zuständigen Amtsgericht ein Kraftloserklärungsverfahren auf Kosten des Verkäufers zu betreiben, für das mit etwa sechs Monaten zu rechnen ist. Die Löschungsbewilligung allein reicht nicht. Der Vertrag sollte einen unauffindbaren Brief von Anfang an berücksichtigen, um einen kostenträchtigen Nachtrag zu vermeiden."
+ },
+ {
+  "id": "kauf3-044",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Vertragsgegenstand und Kaufpreis",
+  "seite": "Grundstückskaufvertrag: Grundbucheinsicht und Baulasten",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/grundstuckskaufvertrag-grundbucheinsicht-und-baulasten",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 21 BeurkG"
+  ],
+  "frage": "Die Beteiligten bestehen auf sofortiger Beurkundung, obwohl das Grundbuch nicht eingesehen werden konnte. Was sollte die Niederschrift festhalten?",
+  "optionen": [
+   "Nur, dass die Beurkundung auf ausdrücklichen Wunsch erfolgt",
+   "Hinweis auf die Amtspflicht aus § 21 BeurkG, Belehrung über die Risiken, Unkenntnis des Notars von Bestand und Belastungen und Entbindung von der Einsicht durch die Beteiligten",
+   "Dass der Notar die Einsicht nachholt und den Vertrag bei Abweichungen selbständig anpasst",
+   "Dass der Verkäufer für die Richtigkeit des Grundbuchs garantiert und der Notar damit von seiner Pflicht befreit ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Besteht man auf Beurkundung ohne Grundbucheinsicht, sollte die Niederschrift festhalten, dass der Notar auf seine Amtspflicht aus § 21 BeurkG hingewiesen, über die Risiken belehrt und erklärt hat, dass ihm Bestand und Belastungen unbekannt sind, und dass die Beteiligten ihn von der Einsicht entbunden haben. Der bloße Wunschvermerk genügt dem nicht. Eine Garantie des Verkäufers ersetzt weder Belehrung noch den Vermerk nach § 21 Abs. 1 S. 2 BeurkG."
+ },
+ {
+  "id": "kauf3-045",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Vertragsgegenstand und Kaufpreis",
+  "seite": "Grundstückskaufvertrag: Kaufpreis, Kaufpreisaufteilung, Vollstreckungsunterwerfung und Umsatzsteueroption",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/grundstuckskaufvertrag-kaufpreis-kaufpreisaufteilung-vollstreckungsunterwerfung-und-umsatzsteueroption",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 117 Abs. 1 BGB",
+   "§ 117 Abs. 2 BGB",
+   "§ 125 S. 1 BGB",
+   "§ 311b Abs. 1 S. 1 BGB"
+  ],
+  "frage": "V und K vereinbaren 400.000 €, lassen aber 350.000 € beurkunden, um Notarkosten zu sparen. Wie ist die Rechtslage?",
+  "optionen": [
+   "Der beurkundete Vertrag ist wirksam; die Mehrzahlung ist eine formfreie Nebenabrede",
+   "Der beurkundete Vertrag ist nach § 117 Abs. 1 BGB nichtig; der verdeckte Vertrag über 400.000 € ist wirksam",
+   "Beide Verträge sind nichtig: der beurkundete als Scheingeschäft, der verdeckte mangels Beurkundung nach § 117 Abs. 2 i. V. m. § 125 S. 1 BGB",
+   "Beide Verträge sind wirksam, der Notar muss aber nachträglich die Kosten aus 400.000 € erheben"
+  ],
+  "antwort": 2,
+  "erklaerung": "Der beurkundete Vertrag über den zu niedrigen Preis ist als Scheingeschäft nach § 117 Abs. 1 BGB nichtig. Der verdeckte Vertrag mit dem wahren Kaufpreis gilt zwar grundsätzlich nach § 117 Abs. 2 BGB, ist aber mangels Beurkundung nach § 311b Abs. 1 S. 1 BGB gemäß § 125 S. 1 BGB ebenfalls nichtig. Der Fehler der zweiten Option liegt darin, das Formerfordernis für das verdeckte Geschäft zu übersehen."
+ },
+ {
+  "id": "kauf3-046",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Vertragsgegenstand und Kaufpreis",
+  "seite": "Grundstückskaufvertrag: Kaufpreis, Kaufpreisaufteilung, Vollstreckungsunterwerfung und Umsatzsteueroption",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/grundstuckskaufvertrag-kaufpreis-kaufpreisaufteilung-vollstreckungsunterwerfung-und-umsatzsteueroption",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 794 Abs. 1 Nr. 5 ZPO"
+  ],
+  "frage": "Unterwirft sich der Käufer wegen des Kaufpreises der sofortigen Zwangsvollstreckung, wird die vollstreckbare Ausfertigung auf Antrag des Verkäufers sofort nach Beurkundung in voller Höhe erteilt.",
+  "antwort": false,
+  "erklaerung": "Die vollstreckbare Ausfertigung wird zwar auf Antrag des Verkäufers ohne weitere Nachweise erteilt, aber erst nach der Fälligkeitsmitteilung des Notars und nur in deren Umfang. Die Unterwerfung nach § 794 Abs. 1 Nr. 5 ZPO erspart dem Verkäufer die Zahlungsklage, bewirkt aber keine Beweislastumkehr."
+ },
+ {
+  "id": "kauf3-047",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Vertragsgegenstand und Kaufpreis",
+  "seite": "Grundstückskaufvertrag: Kaufpreis, Kaufpreisaufteilung, Vollstreckungsunterwerfung und Umsatzsteueroption",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/grundstuckskaufvertrag-kaufpreis-kaufpreisaufteilung-vollstreckungsunterwerfung-und-umsatzsteueroption",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 4 Nr. 9 lit. a) UStG",
+   "§ 9 Abs. 1 UStG",
+   "§ 9 Abs. 3 S. 2 UStG",
+   "§ 15a Abs. 1 UStG"
+  ],
+  "frage": "Unternehmer U verkauft ein Betriebsgrundstück, für das er vor sechs Jahren Vorsteuer abgezogen hat, an die K-GmbH für deren Unternehmen. Was ist für die Umsatzsteueroption zu beachten?",
+  "optionen": [
+   "Die Option kann bis zur Abgabe der Umsatzsteuererklärung formlos gegenüber dem Finanzamt erklärt werden",
+   "Der Verzicht auf die Steuerbefreiung muss bereits im notariellen Kaufvertrag erklärt werden; er verhindert die zeitanteilige Vorsteuerrückzahlung nach § 15a UStG",
+   "Die Option ist ausgeschlossen, weil der Umsatz der Grunderwerbsteuer unterliegt",
+   "Die Option ist nur möglich, wenn der Erwerb nicht für das Unternehmen der K-GmbH erfolgt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Umsatz ist nach § 4 Nr. 9 lit. a) UStG grundsätzlich steuerfrei, weil er dem GrEStG unterfällt; U kann aber nach § 9 Abs. 1 UStG optieren, wenn die K-GmbH Unternehmerin ist und für ihr Unternehmen erwirbt. Der Verzicht muss nach § 9 Abs. 3 S. 2 UStG bereits im notariellen Kaufvertrag erklärt werden, eine spätere Erklärung gegenüber dem Finanzamt genügt nicht. Die Option verhindert, dass U die Vorsteuer bei steuerfreiem Verkauf innerhalb von zehn Jahren zeitanteilig nach § 15a Abs. 1 UStG zurückzahlen muss."
+ },
+ {
+  "id": "kauf3-048",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Vertragsgegenstand und Kaufpreis",
+  "seite": "Grundstückskaufvertrag: Kaufpreis, Kaufpreisaufteilung, Vollstreckungsunterwerfung und Umsatzsteueroption",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/grundstuckskaufvertrag-kaufpreis-kaufpreisaufteilung-vollstreckungsunterwerfung-und-umsatzsteueroption",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 7 Abs. 4 EStG",
+   "§ 7 Abs. 1 S. 1 EStG"
+  ],
+  "frage": "Weshalb wird der Kaufpreis im Grundstückskaufvertrag häufig auf Gebäude und Grund und Boden aufgeteilt?",
+  "optionen": [
+   "Weil das Gebäude zivilrechtlich ein selbständiges Wirtschaftsgut ist",
+   "Weil das Gebäude ertragsteuerlich ein selbständiges, abschreibbares Wirtschaftsgut ist, Grund und Boden dagegen nicht",
+   "Weil die Grunderwerbsteuer nur auf den Bodenanteil erhoben wird",
+   "Weil die NotAktVV die getrennte Angabe vorschreibt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Zivilrechtlich ist das Gebäude wesentlicher Bestandteil des Grundstücks, ertragsteuerlich aber ein selbständiges Wirtschaftsgut, das nach § 7 Abs. 4, 5 EStG abgeschrieben wird, während Grund und Boden nicht abgeschrieben wird. Die Aufteilung ermöglicht dem Käufer daher die AfA auf den Gebäudeanteil. Die erste Option verwechselt die zivilrechtliche mit der ertragsteuerlichen Einordnung."
  }
 ]

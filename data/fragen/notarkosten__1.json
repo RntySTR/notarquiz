@@ -736,5 +736,274 @@
   ],
   "antwort": 1,
   "erklaerung": "Gegenüber Registern muss die Beglaubigung erforderlich sein; maßgeblich ist die Form, in der das Dokument vorzulegen ist. Formfreie Beilagen wie einfache Gesellschafterbeschlüsse oder Gesellschafterlisten ohne Notarbescheinigung genügen als einfacher Scan, so dass ein nicht notwendiges Zeugnis nach § 39a BeurkG wegen § 21 GNotKG nicht berechnet werden darf. Option 4 ist falsch, weil KV 25102 GNotKG auch elektronische Beglaubigungen erfasst."
+ },
+ {
+  "id": "kost1-034",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: einmalige Gebührenerhebung (§ 93 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-einmalige-gebuhrenerhebung-93-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 93 Abs. 1 S. 1 GNotKG",
+   "§ 35 Abs. 1 GNotKG"
+  ],
+  "frage": "Im selben Termin beurkundet der Notar einen Kaufvertrag und in gesonderter Niederschrift die Finanzierungsgrundschuld. Wie viele Beurkundungsverfahren liegen vor?",
+  "optionen": [
+   "Eines, weil beide Urkunden sachlich zusammenhängen.",
+   "Eines, weil beide im selben Termin aufgenommen wurden.",
+   "Zwei, weil jede Niederschrift ein eigenes Beurkundungsverfahren ist.",
+   "Zwei, aber die Werte werden nach § 35 Abs. 1 GNotKG addiert."
+  ],
+  "antwort": 2,
+  "erklaerung": "Jede nach dem BeurkG aufgenommene Niederschrift ist ein eigenes Beurkundungsverfahren, selbst bei sachlichem Zusammenhang oder Aufnahme im selben Termin. Die Addition nach § 35 Abs. 1 GNotKG und die einmalige Gebühr nach § 93 Abs. 1 S. 1 GNotKG gelten nur innerhalb desselben Verfahrens; getrennte Urkunden werden getrennt abgerechnet."
+ },
+ {
+  "id": "kost1-035",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: einmalige Gebührenerhebung (§ 93 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-einmalige-gebuhrenerhebung-93-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 93 Abs. 1 S. 1 GNotKG",
+   "KV 22201 GNotKG"
+  ],
+  "frage": "Übernimmt der Notar in einem Kaufvertragsverfahren zwei Treuhandaufträge von verschiedenen Grundpfandgläubigern, fällt die Treuhandgebühr nach KV 22201 GNotKG wegen § 93 Abs. 1 GNotKG nur einmal an.",
+  "antwort": false,
+  "erklaerung": "Die Treuhandgebühr ist eine Ausnahme vom Grundsatz der einmaligen Erhebung: Sie entsteht neben der Betreuungsgebühr und fällt nach KV 22201 Anm. S. 2 GNotKG für jeden Treuhandauftrag gesondert an. Bei mehreren Treuhandaufträgen nur eine Treuhandgebühr anzusetzen, ist ein typischer Fehler. Für die Vollzugs- und die Betreuungsgebühr gilt dagegen § 93 Abs. 1 S. 1 GNotKG: je Verfahren nur eine Gebühr."
+ },
+ {
+  "id": "kost1-036",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: einmalige Gebührenerhebung (§ 93 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-einmalige-gebuhrenerhebung-93-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 93 Abs. 1 S. 1 GNotKG"
+  ],
+  "frage": "Für einen beurkundeten Kaufvertrag holt der Notar eine Genehmigung, eine Vorkaufsrechtsverzichtserklärung und eine Löschungsbewilligung ein. Wie viele Vollzugsgebühren entstehen?",
+  "optionen": [
+   "Drei, je Vollzugstätigkeit eine.",
+   "Eine, weil je Verfahren nur eine Vollzugsgebühr anfällt.",
+   "Zwei, weil die Löschungsbewilligung Betreuung ist.",
+   "Keine, weil Vollzugstätigkeiten mit der Beurkundungsgebühr abgegolten sind."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 93 Abs. 1 S. 1 GNotKG gilt der Grundsatz der einmaligen Erhebung auch für Vollzugs- und Betreuungsgebühren: Je Verfahren fällt nur eine Vollzugsgebühr an, gleich wie viele Vollzugstätigkeiten nötig sind. Mehrere Vollzugsgebühren für dieselbe Urkunde anzusetzen, ist ein typischer Fehler; eine Ausnahme bilden nur die Gebühren für XML-Strukturdaten."
+ },
+ {
+  "id": "kost1-037",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: einseitige Erklärungen und besondere Fälle (KV 21200, 21201 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-einseitige-erklarungen-und-besondere-falle-kv-21200-21201-gnotkg",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "KV 21200 GNotKG",
+   "KV 21201 GNotKG",
+   "KV 21102 Nr. 2 GNotKG"
+  ],
+  "frage": "Ordne die beurkundeten Erklärungen dem zutreffenden Gebührensatz zu.",
+  "paare": [
+   [
+    "Isolierter Widerruf eines Testaments",
+    "0,5 nach KV 21201 Nr. 1 GNotKG"
+   ],
+   [
+    "Gemeinsame Aufhebung eines Erbvertrags",
+    "1,0 nach KV 21102 Nr. 2 GNotKG"
+   ],
+   [
+    "Antrag auf Annahme als Kind",
+    "1,0 nach KV 21200 GNotKG"
+   ],
+   [
+    "Ausschlagung gegenüber dem Nachlassgericht",
+    "0,5 nach KV 21201 Nr. 7 GNotKG"
+   ]
+  ],
+  "erklaerung": "KV 21201 GNotKG ermäßigt die Gebühr für acht abschließend genannte einseitige Erklärungen auf 0,5, darunter den isolierten Widerruf (Nr. 1) und Erklärungen gegenüber dem Nachlassgericht (Nr. 7). Die gemeinsame Aufhebung eines Erbvertrags kostet dagegen 1,0 nach KV 21102 Nr. 2 GNotKG; der Adoptionsantrag ist ein Antrag an das Gericht und fällt unter KV 21200 GNotKG mit 1,0."
+ },
+ {
+  "id": "kost1-038",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: einseitige Erklärungen und besondere Fälle (KV 21200, 21201 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-einseitige-erklarungen-und-besondere-falle-kv-21200-21201-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "KV 21200 GNotKG",
+   "KV 21201 Nr. 4 GNotKG",
+   "§ 109 Abs. 1 GNotKG"
+  ],
+  "frage": "Der Eigentümer bewilligt in einer Niederschrift eine Dienstbarkeit für den Betreiber einer Photovoltaikanlage; die Urkunde enthält zugleich den Dachnutzungsvertrag. Welche Gebühr fällt an?",
+  "optionen": [
+   "0,5 nach KV 21201 Nr. 4 GNotKG, weil Bewilligungen zur Grundbucheintragung privilegiert sind.",
+   "1,0 nach KV 21200 GNotKG, weil die Urkunde materiell-rechtliche Erklärungen enthält.",
+   "2,0 nach KV 21100 GNotKG für den Vertrag zuzüglich 0,5 für die Bewilligung.",
+   "0,5 nach KV 24102 GNotKG, weil die Bewilligung nur Grundbuchzwecken dient."
+  ],
+  "antwort": 1,
+  "erklaerung": "KV 21201 Nr. 4 GNotKG erfasst nur reine Grundbucherklärungen. Enthält die Urkunde neben der Bewilligung materiell-rechtliche Erklärungen wie einen Dachnutzungsvertrag oder Sicherungsvertrag, gilt KV 21200 GNotKG mit 1,0; die Bewilligung ist dann meist gegenstandsgleiches Sicherungsgeschäft (§ 109 Abs. 1 GNotKG). KV 24102 GNotKG betrifft nur Entwürfe mit Unterschriftsbeglaubigung, nicht Niederschriften."
+ },
+ {
+  "id": "kost1-039",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: einseitige Erklärungen und besondere Fälle (KV 21200, 21201 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-einseitige-erklarungen-und-besondere-falle-kv-21200-21201-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 21201 Nr. 4 GNotKG",
+   "KV 24102 GNotKG"
+  ],
+  "frage": "Weist eine Kostenberechnung für einen vom Notar entworfenen und unterschriftsbeglaubigten Löschungsantrag KV 21201 Nr. 4 statt KV 24102 GNotKG aus, ist sie gleichwohl wirksam, wenn der Gebührenbetrag identisch ist.",
+  "antwort": false,
+  "erklaerung": "KV 21201 GNotKG gilt nur im Beurkundungsverfahren mit Niederschrift; für den Entwurf mit Unterschriftsbeglaubigung ist KV 24102 GNotKG einschlägig. Eine Kostenberechnung mit falscher KV-Nummer ist unwirksam, auch wenn der Betrag gleich ist."
+ },
+ {
+  "id": "kost1-040",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: einseitige Erklärungen und besondere Fälle (KV 21200, 21201 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-einseitige-erklarungen-und-besondere-falle-kv-21200-21201-gnotkg",
+  "typ": "fall",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 21201 Nr. 4 GNotKG",
+   "§ 46 GNotKG",
+   "§ 30 GBO",
+   "§ 21 GNotKG"
+  ],
+  "frage": "Grundbuchberichtigung nach Erbfall",
+  "sachverhalt": "Nach dem Tod des V, der Miteigentümer zu 1/2 eines Grundstücks war, erscheint die Alleinerbin E beim Notar N und lässt einen Antrag auf Berichtigung des Grundbuchs beurkunden. E war davon ausgegangen, der Antrag bedürfe notarieller Form. Ein Erbschein ist nicht Gegenstand der Urkunde.",
+  "schritte": [
+   {
+    "frage": "Welcher Gebührentatbestand ist für den beurkundeten Berichtigungsantrag einschlägig?",
+    "optionen": [
+     "1,0 nach KV 21200 GNotKG",
+     "0,5 nach KV 21201 Nr. 4 GNotKG",
+     "0,5 nach KV 21201 Nr. 7 GNotKG",
+     "2,0 nach KV 21100 GNotKG"
+    ],
+    "antwort": 1,
+    "erklaerung": "Der beurkundete Grundbuchberichtigungsantrag, etwa nach Erbfall, fällt als Antrag zur Eintragung im Grundbuch unter KV 21201 Nr. 4 GNotKG mit 0,5. Nr. 7 betrifft Erklärungen gegenüber dem Nachlassgericht, nicht gegenüber dem Grundbuchamt."
+   },
+   {
+    "frage": "Welcher Geschäftswert ist anzusetzen?",
+    "optionen": [
+     "Der volle Verkehrswert des Grundstücks nach § 46 GNotKG.",
+     "Der hälftige Verkehrswert als Teilwert nach § 46 GNotKG, weil nur ein Mitberechtigter betroffen ist.",
+     "Der Regelwert von 5.000 EUR nach § 36 Abs. 3 GNotKG.",
+     "Das modifizierte Reinvermögen des Nachlasses nach § 102 GNotKG."
+    ],
+    "antwort": 1,
+    "erklaerung": "Der Wert folgt § 46 GNotKG; betrifft die Berichtigung nur einen Mitberechtigten, gilt der Teilwert, hier also der Wert des hälftigen Miteigentumsanteils."
+   },
+   {
+    "frage": "Was ist wegen der irrigen Formvorstellung der E zu beachten?",
+    "optionen": [
+     "Nichts, die Gebühr ist mit der Beurkundung verdient.",
+     "Grundbuchanträge sind regelmäßig formfrei (§ 30 GBO); bei fehlendem Hinweis kommt unrichtige Sachbehandlung nach § 21 GNotKG in Betracht.",
+     "Der Notar muss statt der Beurkundungsgebühr die Beglaubigungsgebühr nach KV 25100 GNotKG erheben.",
+     "Die Gebühr ermäßigt sich auf die Mindestgebühr nach § 34 Abs. 5 GNotKG."
+    ],
+    "antwort": 1,
+    "erklaerung": "Grundbuchanträge sind regelmäßig formfrei (§ 30 GBO). Ging der Kunde irrtümlich von einer Formpflicht aus, kommt unrichtige Sachbehandlung nach § 21 GNotKG in Betracht; der Notar sollte vor der Beurkundung auf die Formfreiheit hinweisen."
+   }
+  ],
+  "erklaerung": "Der beurkundete Berichtigungsantrag kostet 0,5 nach KV 21201 Nr. 4 GNotKG aus dem Teilwert nach § 46 GNotKG, weil nur der Anteil des V betroffen ist. Da Grundbuchanträge regelmäßig formfrei sind (§ 30 GBO), muss N auf die Formfreiheit hinweisen; sonst droht die Nichterhebung wegen unrichtiger Sachbehandlung (§ 21 GNotKG)."
+ },
+ {
+  "id": "kost1-041",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: einseitige Erklärungen und besondere Fälle (KV 21200, 21201 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-einseitige-erklarungen-und-besondere-falle-kv-21200-21201-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "KV 22110 GNotKG",
+   "§ 112 GNotKG",
+   "KV 24101 GNotKG"
+  ],
+  "frage": "Ein Kaufvertrag wurde mit einem vollmachtlosen Vertreter des Verkäufers beurkundet. Der Notar holt auftragsgemäß die Vollmachtsbestätigung ein. Welche Gebühr fällt dafür an?",
+  "optionen": [
+   "1,0 nach KV 24101 i. V. m. KV 21200 GNotKG für den Entwurf der Bestätigung.",
+   "0,5 nach KV 21201 GNotKG als besonderer Fall einer einseitigen Erklärung.",
+   "0,5-Vollzugsgebühr nach KV 22110 GNotKG aus dem Wert des Verfahrens (§ 112 GNotKG).",
+   "Keine, weil die Bestätigung mit der Beurkundungsgebühr abgegolten ist."
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Einholung einer Vollmachtsbestätigung zu einem beurkundeten Vertrag ist Vollzug und löst die 0,5-Gebühr nach KV 22110 GNotKG aus dem Wert des Verfahrens aus (§ 112 GNotKG). Die Entwurfsgebühr nach KV 24101 i. V. m. KV 21200 GNotKG fällt nur an, wenn der Notar eine Vollmacht für einen erst noch zu beurkundenden Vertrag entwirft. Eine Vollmacht ist kein besonderer Fall der KV 21201 GNotKG."
+ },
+ {
+  "id": "kost1-042",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: Entwurf mit Unterschriftsbeglaubigung und Serienentwurf",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-entwurf-mit-unterschriftsbeglaubigung-und-serienentwurf",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "Vorb. 2.4.1 Abs. 2 KV GNotKG",
+   "KV 25100 GNotKG"
+  ],
+  "frage": "Der Notar entwirft eine Grundschuldbestellung (isolierter Entwurf). Eigentümer A unterschreibt am Montag, Miteigentümerin B erst am Donnerstag vor dem Notar. Welche Beglaubigungsgebühren entstehen?",
+  "optionen": [
+   "Keine; beide Beglaubigungen sind mit der Entwurfsgebühr abgegolten.",
+   "Nur für die Beglaubigung der Unterschrift der B am Donnerstag.",
+   "Für beide Beglaubigungen, weil sie an verschiedenen Tagen erfolgen.",
+   "Nur für die erste Beglaubigung, die zweite ist abgegolten."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach Vorb. 2.4.1 Abs. 2 KV GNotKG erhält der Notar, der den Entwurf gefertigt hat, für die erstmaligen Unterschriftsbeglaubigungen keine gesonderte Gebühr; mehrere Beglaubigungen sind abgegolten, wenn sie an demselben Tag vorgenommen werden. Die Beglaubigung an einem späteren Tag löst eine eigene Beglaubigungsgebühr aus. Beglaubigungstermine sollten daher möglichst auf einen Tag gelegt werden."
+ },
+ {
+  "id": "kost1-043",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: Entwurf mit Unterschriftsbeglaubigung und Serienentwurf",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-entwurf-mit-unterschriftsbeglaubigung-und-serienentwurf",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "Vorb. 2.4.1 Abs. 2 KV GNotKG",
+   "KV 25100 GNotKG"
+  ],
+  "frage": "Beglaubigt der Notar eine Unterschrift unter einem Entwurf, den er im Rahmen des Vollzugs eines Kaufvertrags gefertigt hat, ist die Beglaubigung nach Vorb. 2.4.1 Abs. 2 KV GNotKG gebührenfrei.",
+  "antwort": false,
+  "erklaerung": "Die Abgeltung nach Vorb. 2.4.1 Abs. 2 KV GNotKG gilt nur für isolierte Entwürfe nach KV 24100 ff. GNotKG. Für die Beglaubigung unter einem im Vollzug gefertigten Entwurf fällt die Beglaubigungsgebühr nach KV 25100 GNotKG an; sie gebührenfrei zu behandeln, ist ein typischer Fehler."
+ },
+ {
+  "id": "kost1-044",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: Entwurf mit Unterschriftsbeglaubigung und Serienentwurf",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-entwurf-mit-unterschriftsbeglaubigung-und-serienentwurf",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 119 Abs. 2 GNotKG",
+   "Vorb. 2.4.1 Abs. 5 KV GNotKG",
+   "Vorb. 2.4.1 Abs. 7 KV GNotKG"
+  ],
+  "frage": "Ein Bauträger beauftragt den Notar mit einem Musterkaufvertrag für 20 Wohnungen zu je 400.000 EUR. Welche Aussage zum Serienentwurf trifft zu?",
+  "optionen": [
+   "Geschäftswert ist die volle Summe von 8 Mio. EUR; Kostenschuldner sind die späteren Erwerber.",
+   "Geschäftswert ist die halbe Summe (4 Mio. EUR); die Gebühr ist gegenüber dem Bauträger anzusetzen und auf die Einzelbeurkundungen anzurechnen.",
+   "Geschäftswert ist der Wert einer Wohnung (400.000 EUR); die Gebühr entfällt, wenn Einzelverträge folgen.",
+   "Geschäftswert ist die halbe Summe; der Notar darf die Gebühr bis zur letzten Einzelbeurkundung unbefristet stunden."
+  ],
+  "antwort": 1,
+  "erklaerung": "Geschäftswert des Serienentwurfs ist nach § 119 Abs. 2 GNotKG die halbe Summe der Werte aller Einzelgeschäfte. Kostenschuldner ist der Auftraggeber, beim Bauträgermodell also der Bauträger; wegen der Pflicht zur gesetzmäßigen Gebührenerhebung ist die Gebühr anzusetzen und auf die späteren Einzelbeurkundungen anzurechnen. Eine Stundung ist nach Vorb. 2.4.1 Abs. 7 KV GNotKG nur längstens ein Jahr ab Fälligkeit zulässig."
  }
 ]

@@ -1,0 +1,100 @@
+[
+ {
+  "id": "kost4-001",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: Erhebungspflicht, Gebührenvereinbarung, Stundung und Erlass",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-erhebungspflicht-gebuhrenvereinbarung-stundung-und-erlass",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 125 GNotKG",
+   "§ 17 Abs. 1 S. 1 BNotO"
+  ],
+  "frage": "Welche Rechtsfolge ordnet § 125 GNotKG für eine Absprache zwischen Notar und Beteiligtem über die Höhe der Notarkosten an?",
+  "optionen": [
+   "Sie ist unwirksam und wirkt unmittelbar im Verhältnis zwischen Notar und Kostenschuldner.",
+   "Sie ist wirksam, stellt aber ein Dienstvergehen des Notars dar.",
+   "Sie ist schwebend unwirksam bis zur Genehmigung durch die Notarkammer.",
+   "Sie ist nur dann unwirksam, wenn die vereinbarten Kosten die gesetzlichen unterschreiten."
+  ],
+  "antwort": 0,
+  "erklaerung": "§ 125 GNotKG erklärt Kostenvereinbarungen für unwirksam, verbietet sie also nicht bloß, und wirkt unmittelbar auf das Rechtsverhältnis zum Kostenschuldner; der Kostenanspruch entsteht kraft Gesetzes und ist einer Vereinbarung nicht zugänglich. Die bloße Einordnung als Dienstvergehen betrifft § 17 Abs. 1 BNotO, der als Dienstvorschrift gerade keine Außenwirkung gegenüber dem Mandanten hat. Erfasst sind Abweichungen nach unten wie nach oben."
+ },
+ {
+  "id": "kost4-002",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: Erhebungspflicht, Gebührenvereinbarung, Stundung und Erlass",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-erhebungspflicht-gebuhrenvereinbarung-stundung-und-erlass",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 17 Abs. 1 S. 1 BNotO",
+   "§ 125 GNotKG"
+  ],
+  "frage": "Ein Gebührenerlass ist zulässig, wenn die zuständige Notarkammer ihm nachträglich zustimmt.",
+  "antwort": false,
+  "erklaerung": "Ein Erlass ist nur mit allgemeiner oder einzelfallbezogener Zustimmung der Notarkammer zulässig, und diese Zustimmung muss vorher vorliegen. Eine nachträgliche Genehmigung heilt den Verstoß gegen die Erhebungspflicht (§ 17 Abs. 1 S. 1 BNotO, § 125 GNotKG) nicht."
+ },
+ {
+  "id": "kost4-003",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: Erhebungspflicht, Gebührenvereinbarung, Stundung und Erlass",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-erhebungspflicht-gebuhrenvereinbarung-stundung-und-erlass",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 17 Abs. 2 BNotO",
+   "§ 17 Abs. 1 S. 1 BNotO"
+  ],
+  "frage": "In welchem Fall sieht das Gesetz selbst eine Stundung oder Ratenzahlung von Notarkosten vor?",
+  "optionen": [
+   "Wenn der Kostenschuldner einen Nachlass aus Billigkeitsgründen beantragt",
+   "Wenn dem Beteiligten nach der ZPO Prozesskostenhilfe zustünde",
+   "Wenn ein Makler die Beurkundung vermittelt hat",
+   "Wenn der Kostenschuldner ein gemeinnütziger Verein ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Gesetzlich vorgesehen ist eine Stundung oder Ratenzahlung nur, wenn dem Beteiligten nach der ZPO Prozesskostenhilfe zustünde (§ 17 Abs. 2 BNotO). Billigkeitserwägungen genügen gerade nicht; ein Erlass oder Nachlass aus Billigkeitsgründen ist dem Notar wegen der Erhebungspflicht (§ 17 Abs. 1 S. 1 BNotO) verwehrt. Darüber hinaus kommt Ratenzahlung nur bei bekannter Notlage in Betracht, wenn erst sie die Zahlung überhaupt sichert."
+ },
+ {
+  "id": "kost4-004",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: Erhebungspflicht, Gebührenvereinbarung, Stundung und Erlass",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-erhebungspflicht-gebuhrenvereinbarung-stundung-und-erlass",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 126 GNotKG",
+   "§ 89 GNotKG"
+  ],
+  "frage": "Ein Notar wird als Mediator in einem Erbstreit tätig. Wie ist die Vergütung zu regeln?",
+  "optionen": [
+   "Der Notar rechnet eine Entwurfsgebühr nach dem Kostenverzeichnis ab.",
+   "Er darf keine Vergütung verlangen, da § 125 GNotKG jede Kostenvereinbarung ausschließt.",
+   "Er vereinbart privatrechtlich ein Honorar, das nur im Zivilprozess durchsetzbar ist.",
+   "Er schließt einen öffentlich-rechtlichen Gebührenvertrag über eine angemessene Vergütung, der selbst vollstreckbar ist."
+  ],
+  "antwort": 3,
+  "erklaerung": "Für Tätigkeiten ohne Gebührentatbestand im Kostenverzeichnis, etwa als Mediator oder Schlichter, muss der Notar ausnahmsweise einen öffentlich-rechtlichen Gebührenvertrag mit angemessener Vergütung schließen (§ 126 GNotKG). Wegen des öffentlich-rechtlichen Charakters ist dieser Anspruch selbst vollstreckbar (§ 126 Abs. 3 i. V. m. § 89 GNotKG). § 125 GNotKG steht nicht entgegen, weil es hier keinen gesetzlichen Gebührentatbestand gibt, von dem abgewichen würde."
+ },
+ {
+  "id": "kost4-005",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: Erhebungspflicht, Gebührenvereinbarung, Stundung und Erlass",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-erhebungspflicht-gebuhrenvereinbarung-stundung-und-erlass",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 17 Abs. 1 S. 1 BNotO",
+   "§ 125 GNotKG"
+  ],
+  "frage": "Fällt der Käufer als Hauptschuldner aus, darf der Notar aus Entgegenkommen darauf verzichten, den Verkäufer als weiteren Gesamtschuldner in Anspruch zu nehmen.",
+  "antwort": false,
+  "erklaerung": "Der Verzicht darauf, bei Ausfall eines Kostenschuldners einen anderen Gesamtschuldner heranzuziehen, ist ebenso unzulässig wie ein Erlass. Er verstößt gegen die Erhebungspflicht nach § 17 Abs. 1 S. 1 BNotO und § 125 GNotKG; die Seite nennt ihn als typischen Fehler."
+ }
+]

@@ -1,0 +1,337 @@
+[
+ {
+  "id": "kost2-001",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: Vertragsänderung, Vertragsaufhebung, Identitätserklärung",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-vertragsanderung-vertragsaufhebung-identitatserklarung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "KV 21102 Nr. 2 GNotKG"
+  ],
+  "frage": "Welche Gebühr löst die Beurkundung der Aufhebung eines bereits vollständig erfüllten Grundstückskaufvertrags aus, wenn die Urkunde nur Aufhebung und Rückabwicklung regelt?",
+  "optionen": [
+   "2,0-Gebühr nach KV 21100 GNotKG, weil der Vertrag schon erfüllt ist",
+   "1,0-Gebühr nach KV 21102 Nr. 2 GNotKG",
+   "0,5-Gebühr nach KV 21201 GNotKG",
+   "Festgebühr von 20 € nach KV 21300 GNotKG"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Aufhebung eines Vertrags löst nach KV 21102 Nr. 2 GNotKG eine 1,0-Gebühr aus, und zwar unabhängig vom Stand der Vertragsdurchführung. Auch die vollständige Erfüllung führt daher nicht zur 2,0-Gebühr. KV 21100 GNotKG greift erst, wenn die Aufhebungsurkunde über Aufhebung und Rückabwicklung hinaus neue, eigenständige Vereinbarungen enthält."
+ },
+ {
+  "id": "kost2-002",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: Vertragsänderung, Vertragsaufhebung, Identitätserklärung",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-vertragsanderung-vertragsaufhebung-identitatserklarung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 21100 GNotKG",
+   "KV 21102 Nr. 2 GNotKG"
+  ],
+  "frage": "Die Aufhebung eines Ehevertrags, der nur güterrechtliche Regelungen enthält, löst wie jede Vertragsaufhebung eine 1,0-Gebühr nach KV 21102 Nr. 2 GNotKG aus.",
+  "antwort": false,
+  "erklaerung": "Abweichend von der allgemeinen Regel des KV 21102 Nr. 2 GNotKG kostet die Aufhebung eines rein güterrechtlichen Ehevertrags eine 2,0-Gebühr nach KV 21100 GNotKG. Für die einvernehmliche Aufhebung eines Erbvertrags ohne neue Verfügung bleibt es dagegen bei der 1,0-Gebühr nach KV 21102 Nr. 2 GNotKG."
+ },
+ {
+  "id": "kost2-003",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: Vertragsänderung, Vertragsaufhebung, Identitätserklärung",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-vertragsanderung-vertragsaufhebung-identitatserklarung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 97 Abs. 1 und 2 GNotKG",
+   "§ 36 Abs. 1 GNotKG",
+   "KV 21100 GNotKG"
+  ],
+  "frage": "Die Parteien eines Kaufvertrags setzen den Kaufpreis nachträglich von 400.000 € auf 380.000 € herab. Wonach bestimmt sich der Geschäftswert der Änderungsurkunde?",
+  "optionen": [
+   "Nach dem neuen Kaufpreis von 380.000 € gemäß § 47 GNotKG",
+   "Nach dem Wert der Veränderung, hier 20.000 €, gemäß § 97 Abs. 1 und 2 GNotKG",
+   "Stets nach billigem Ermessen gemäß § 36 Abs. 1 GNotKG",
+   "Nach dem ursprünglichen Kaufpreis von 400.000 €, da ein neuer Vertrag vorliegt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Vertragsänderung ist selbst ein Vertrag (2,0 nach KV 21100 GNotKG); ihr Geschäftswert richtet sich nach § 97 Abs. 1 und 2 GNotKG nach dem Wert der Veränderung, etwa der Differenz zwischen altem und neuem Kaufpreis. § 36 GNotKG ist nur Auffang, wenn sich der Wert der Veränderung nicht ermitteln lässt. Der volle (alte oder neue) Kaufpreis ist nicht maßgeblich, weil nur die Änderung beurkundet wird."
+ },
+ {
+  "id": "kost2-004",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: Vertragsänderung, Vertragsaufhebung, Identitätserklärung",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-vertragsanderung-vertragsaufhebung-identitatserklarung",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 21100 GNotKG",
+   "KV 21102 Nr. 2 GNotKG",
+   "KV 21201 Nr. 4 GNotKG"
+  ],
+  "frage": "Ordne den Vorgängen den zutreffenden Gebührentatbestand zu.",
+  "paare": [
+   [
+    "Identitätserklärung bei Teilflächenkauf mit Anpassung des Kaufpreises",
+    "2,0 nach KV 21100 GNotKG (Vertragsnachtrag)"
+   ],
+   [
+    "Bloße grundbuchmäßige Bezeichnung der Teilfläche ohne Flächen- oder Preisänderung",
+    "KV 21201 Nr. 4 GNotKG (verfahrensrechtliche Erklärung)"
+   ],
+   [
+    "Einvernehmliche Aufhebung eines Erbvertrags ohne neue Verfügung",
+    "1,0 nach KV 21102 Nr. 2 GNotKG"
+   ],
+   [
+    "Identitätserklärung zu einer vorläufigen Teilungserklärung nach § 8 WEG",
+    "Gebührensatz der ursprünglichen einseitigen Erklärung"
+   ]
+  ],
+  "erklaerung": "Die Identitätserklärung ist grundsätzlich Vertragsnachtrag (KV 21100 GNotKG); nur bei rein verfahrensrechtlichem Gehalt ohne Flächen- oder Kaufpreisanpassung gilt KV 21201 Nr. 4 GNotKG. Die Erbvertragsaufhebung folgt der allgemeinen Regel des KV 21102 Nr. 2 GNotKG. Nachträge zu einseitigen Erklärungen wie einer Teilungserklärung nach § 8 WEG tragen den Satz der ursprünglichen Erklärung, nicht den Vertragssatz."
+ },
+ {
+  "id": "kost2-005",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: vorzeitige Beendigung des Beurkundungsverfahrens (KV 21300–21304 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-vorzeitige-beendigung-des-beurkundungsverfahrens-kv-21300-21304-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "Vorb. 2.1.3 Abs. 1 KV GNotKG"
+  ],
+  "frage": "Ab wann gilt ein Beurkundungsverfahren kraft gesetzlicher Annahme als vorzeitig beendet, wenn die Beteiligten sich nicht mehr melden?",
+  "optionen": [
+   "Wenn seit Auftragserteilung mehr als drei Monate vergangen sind",
+   "Wenn das Verfahren mehr als sechs Monate ruht",
+   "Wenn seit Auftragserteilung mehr als ein Jahr vergangen ist",
+   "Erst wenn der Notar den Auftrag nach § 4 BeurkG zurückweist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach Vorb. 2.1.3 Abs. 1 KV GNotKG wird die vorzeitige Beendigung angenommen, sobald das Verfahren mehr als sechs Monate ruht. Maßgeblich ist nicht der Abstand zwischen Auftrag und Beurkundung, sondern ob in dieser Zeit verhandelt oder an Entwürfen gearbeitet wird. Die Zurückweisung des Auftrags ist ein eigener Beendigungsgrund, aber keine Voraussetzung."
+ },
+ {
+  "id": "kost2-006",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: vorzeitige Beendigung des Beurkundungsverfahrens (KV 21300–21304 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-vorzeitige-beendigung-des-beurkundungsverfahrens-kv-21300-21304-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 21301 GNotKG"
+  ],
+  "frage": "Berät eine Mitarbeiterin des Notars die Beteiligten vor Entwurfsversand ausführlich und wird der Auftrag danach zurückgenommen, ermäßigt sich die Gebühr auf die Beratungsgebühr nach KV 21301 GNotKG.",
+  "antwort": false,
+  "erklaerung": "KV 21301 GNotKG setzt eine Beratung durch den Notar selbst voraus; Beratung durch Mitarbeiter genügt wegen der höchstpersönlichen Amtsausübung nicht. Ohne Entwurfsversand und ohne notarielle Beratung bleibt es bei der Festgebühr von 20 € nach KV 21300 GNotKG."
+ },
+ {
+  "id": "kost2-007",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: vorzeitige Beendigung des Beurkundungsverfahrens (KV 21300–21304 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-vorzeitige-beendigung-des-beurkundungsverfahrens-kv-21300-21304-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 21300 GNotKG",
+   "Vorb. 2.1.3 Abs. 1 KV GNotKG"
+  ],
+  "frage": "Für die Frage, ob ein Entwurf versandt wurde und damit die Festgebühr nach KV 21300 GNotKG überschritten ist, kommt es auf das Absenden und nicht auf den Zugang beim Beteiligten an.",
+  "antwort": true,
+  "erklaerung": "Bei Versand oder Übermittlung ist das Absenden maßgeblich, nicht der Zugang. Der Entwurf muss dem Notar aber zurechenbar sein: Versendet ein Mitarbeiter eigenmächtig, bleibt es bei 20 € nach KV 21300 GNotKG. Deshalb bestimmt in der Praxis der Versandtag die Gebührenstufe."
+ },
+ {
+  "id": "kost2-008",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: vorzeitige Beendigung des Beurkundungsverfahrens (KV 21300–21304 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-vorzeitige-beendigung-des-beurkundungsverfahrens-kv-21300-21304-gnotkg",
+  "typ": "fall",
+  "frage": "Abgebrochener Kaufvertrag",
+  "schwierigkeit": 3,
+  "normen": [
+   "KV 21300 GNotKG",
+   "KV 21302 GNotKG",
+   "§ 92 Abs. 2 GNotKG",
+   "Vorb. 2.1.3 Abs. 2 KV GNotKG"
+  ],
+  "sachverhalt": "V und K beauftragen Notar N mit der Beurkundung eines Grundstückskaufvertrags. N fertigt den vollständigen Entwurf und versendet ihn mit seinem Wissen an beide Beteiligte. Zwei Wochen später teilt K mit, er nehme vom Kauf Abstand; der Beurkundungsauftrag wird zurückgenommen. Vier Wochen später erscheinen V und K doch noch und beauftragen N erneut mit demselben Kaufvertrag.",
+  "schritte": [
+   {
+    "frage": "Welcher Ermäßigungstatbestand greift nach der Rücknahme des Auftrags?",
+    "optionen": [
+     "Festgebühr von 20 € nach KV 21300 GNotKG",
+     "Beratungsgebühr nach KV 21301 GNotKG",
+     "Gebühr in Höhe der Entwurfsgebühr nach KV 21302 ff. GNotKG",
+     "Keine Gebühr, da keine Niederschrift unterzeichnet wurde"
+    ],
+    "antwort": 2,
+    "erklaerung": "Nach Versand eines Entwurfs ermäßigt sich die bereits mit Auftragserteilung entstandene Verfahrensgebühr auf die Höhe der Entwurfsgebühr (KV 21302 bis 21304 GNotKG). KV 21300 GNotKG greift nur, wenn weder beraten noch ein Entwurf versandt oder verhandelt wurde."
+   },
+   {
+    "frage": "Wie ist der Gebührenrahmen auszuschöpfen?",
+    "optionen": [
+     "Mindestsatz des Rahmens, da die Beurkundung nicht stattfand",
+     "Mittelwert des Rahmens nach billigem Ermessen",
+     "Voller Rahmen, da der Entwurf vollständig gefertigt wurde (§ 92 Abs. 2 GNotKG)",
+     "Halber Höchstsatz wegen vorzeitiger Beendigung"
+    ],
+    "antwort": 2,
+    "erklaerung": "Die Rahmengebühr richtet sich nach § 92 GNotKG nach dem Umfang der erbrachten Leistung; bei vollständiger Fertigung des Entwurfs ist nach § 92 Abs. 2 GNotKG der volle Rahmen anzusetzen."
+   },
+   {
+    "frage": "Was gilt für die bereits angefallene Ermäßigungsgebühr bei der späteren Beurkundung?",
+    "optionen": [
+     "Sie entfällt rückwirkend",
+     "Sie wird auf die Beurkundungsgebühr angerechnet, da dieselben Beteiligten demnächst denselben Auftrag erteilen",
+     "Sie fällt zusätzlich zur vollen Beurkundungsgebühr an",
+     "Sie wird nur zur Hälfte angerechnet"
+    ],
+    "antwort": 1,
+    "erklaerung": "Nach Vorb. 2.1.3 Abs. 2 KV GNotKG wird die Ermäßigungsgebühr angerechnet, wenn demnächst ein neues Verfahren mit denselben Beteiligten und demselben Beurkundungsauftrag durchgeführt wird."
+   }
+  ],
+  "erklaerung": "Die Rücknahme nach Entwurfsversand führt zur Gebühr in Höhe der Entwurfsgebühr (KV 21302 ff. GNotKG), bei vollständigem Entwurf zum vollen Rahmen (§ 92 Abs. 2 GNotKG). Wird dasselbe Geschäft mit denselben Beteiligten demnächst beurkundet, ist die Ermäßigungsgebühr anzurechnen (Vorb. 2.1.3 Abs. 2 KV GNotKG)."
+ },
+ {
+  "id": "kost2-009",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: vorzeitige Beendigung des Beurkundungsverfahrens (KV 21300–21304 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-vorzeitige-beendigung-des-beurkundungsverfahrens-kv-21300-21304-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 85 Abs. 2 GNotKG",
+   "KV 21300 GNotKG"
+  ],
+  "frage": "Für welche Verfahren gelten die Ermäßigungstatbestände KV 21300 ff. GNotKG?",
+  "optionen": [
+   "Für alle notariellen Verfahren einschließlich der sonstigen Verfahren nach § 85 Abs. 1 GNotKG",
+   "Für Geschäfte mit Aktgebühr, etwa Unterschriftsbeglaubigungen",
+   "Nur für Verfahren, die auf eine Niederschrift nach §§ 8 oder 36 BeurkG gerichtet sind",
+   "Nur für Verbraucherverträge im Sinne des § 17 Abs. 2a BeurkG"
+  ],
+  "antwort": 2,
+  "erklaerung": "KV 21300 ff. GNotKG gelten nur für Beurkundungsverfahren im Sinne von § 85 Abs. 2 GNotKG, also Verfahren, die auf eine Niederschrift nach §§ 8 oder 36 BeurkG gerichtet sind. Sonstige notarielle Verfahren haben eigene, dem Haupttatbestand folgende Ermäßigungen (etwa KV 23201 GNotKG). Geschäfte mit Aktgebühr sind ausgeschlossen, weil diese Gebühr ohnehin erst bei Abschluss entsteht."
+ },
+ {
+  "id": "kost2-010",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte",
+  "seite": "Notargebühren: Betreuungs- und Treuhandgebühr (KV 22200, 22201 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-betreuungs-und-treuhandgebuhr-kv-22200-22201-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 22201 GNotKG",
+   "§ 113 Abs. 2 GNotKG",
+   "§ 29 Nr. 1 GNotKG"
+  ],
+  "frage": "Die abzulösende Bank des Verkäufers übersendet dem Notar die Löschungsbewilligung mit der Auflage, sie nur gegen Zahlung von 85.000 € zu verwenden. Was gilt kostenrechtlich?",
+  "optionen": [
+   "0,5-Betreuungsgebühr nach KV 22200 Anm. Nr. 3 GNotKG aus dem Kaufpreis, Schuldner sind die Kaufvertragsparteien",
+   "0,5-Treuhandgebühr nach KV 22201 GNotKG aus 85.000 €, Schuldner ist die Bank",
+   "0,5-Treuhandgebühr nach KV 22201 GNotKG aus dem Kaufpreis, Schuldner ist der Verkäufer",
+   "Keine Gebühr, da die Beachtung der Auflage mit der Vollzugsgebühr abgegolten ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Treuhandaufträge Dritter fallen unter KV 22201 GNotKG (0,5), nicht unter KV 22200 Anm. Nr. 3 GNotKG, der nur Auflagen von Urkundsbeteiligten erfasst. Geschäftswert ist nach § 113 Abs. 2 GNotKG der Betrag der Auflage, hier 85.000 €. Kostenschuldner ist nach § 29 Nr. 1 GNotKG der Auftraggeber der Auflage, also die Bank; die Abrechnung gegenüber den Kaufvertragsparteien ist ein typischer Fehler."
+ },
+ {
+  "id": "kost2-011",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte",
+  "seite": "Notargebühren: Betreuungs- und Treuhandgebühr (KV 22200, 22201 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-betreuungs-und-treuhandgebuhr-kv-22200-22201-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 22200 Anm. Nr. 1 GNotKG"
+  ],
+  "frage": "Die Bescheinigung des Notars über die Wirksamkeit eines Vertrags nach Erteilung der familiengerichtlichen Genehmigung löst eine Betreuungsgebühr nach KV 22200 Anm. Nr. 1 GNotKG aus.",
+  "antwort": false,
+  "erklaerung": "KV 22200 Anm. Nr. 1 GNotKG erfasst Bescheinigungen über Wirksamkeitsvoraussetzungen, praktisch vor allem die MaBV-Bescheinigung beim Bauträgervertrag. Die Wirksamkeitsbescheinigung nach familien-, betreuungs- oder nachlassgerichtlicher Genehmigung ist dagegen mit der Vollzugsgebühr abgegolten; sie zusätzlich als Betreuung abzurechnen, ist ein typischer Fehler."
+ },
+ {
+  "id": "kost2-012",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte",
+  "seite": "Notargebühren: Betreuungs- und Treuhandgebühr (KV 22200, 22201 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-betreuungs-und-treuhandgebuhr-kv-22200-22201-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "KV 22200 Anm. Nr. 3 GNotKG",
+   "§ 19 GBO"
+  ],
+  "frage": "Kaufvertrag in Baden-Württemberg nach württembergischem Modell: Die Auflassung wird erst nach bestätigter Kaufpreiszahlung in gesonderter Urkunde erklärt. Welche Betreuungsgebühr entsteht für diese Abwicklung?",
+  "optionen": [
+   "0,5 nach KV 22200 Anm. Nr. 3 GNotKG wegen Vorlagesperre",
+   "0,5 nach KV 22200 Anm. Nr. 2 GNotKG wegen Fälligkeitsmitteilung der Auflassung",
+   "Keine Betreuungsgebühr für diese Abwicklung",
+   "0,5 nach KV 22201 GNotKG als Treuhandgebühr"
+  ],
+  "antwort": 2,
+  "erklaerung": "Beim württembergischen Modell entsteht für diese Abwicklung keine Betreuungsgebühr: Der Notar gibt weder eine Urkunde mit erklärter Auflassung bedingt heraus (Vorlagesperre) noch erklärt er nur eine Bewilligung nach § 19 GBO (Bewilligungslösung). Nur diese beiden Wege erfasst KV 22200 Anm. Nr. 3 GNotKG. Auch für die Prüfung der Ausübung einer Vollzugsvollmacht enthält der abschließende Katalog keinen Tatbestand."
+ },
+ {
+  "id": "kost2-013",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte",
+  "seite": "Notargebühren: Betreuungs- und Treuhandgebühr (KV 22200, 22201 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-betreuungs-und-treuhandgebuhr-kv-22200-22201-gnotkg",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 22200 GNotKG",
+   "§ 40 Abs. 2 GmbHG",
+   "§ 873 Abs. 2 BGB"
+  ],
+  "frage": "Ordne die Betreuungstätigkeit der Nummer der Anmerkung zu KV 22200 GNotKG zu.",
+  "paare": [
+   [
+    "Nr. 1",
+    "MaBV-Bescheinigung beim Bauträgervertrag"
+   ],
+   [
+    "Nr. 4",
+    "Prüfung der Auszahlungsvoraussetzungen bei Anderkonto-Abwicklung"
+   ],
+   [
+    "Nr. 6",
+    "Bescheinigung nach § 40 Abs. 2 GmbHG mit Prüfung außerhalb der Urkunde"
+   ],
+   [
+    "Nr. 7",
+    "Entgegennahme einer Grundschuldausfertigung zur Bindung nach § 873 Abs. 2 BGB"
+   ],
+   [
+    "Nr. 2",
+    "Fälligkeitsmitteilung"
+   ]
+  ],
+  "erklaerung": "Der Katalog der KV 22200 Anm. Nr. 1 bis 7 GNotKG ist abschließend; betreuende Tätigkeiten außerhalb bleiben gebührenfrei. Die Bescheinigung nach § 40 Abs. 2 GmbHG fällt nur unter Nr. 6, wenn Umstände außerhalb der Urkunde zu prüfen sind, etwa bei einer durch Kaufpreiszahlung bedingten Abtretung."
+ },
+ {
+  "id": "kost2-014",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte",
+  "seite": "Notargebühren: Betreuungs- und Treuhandgebühr (KV 22200, 22201 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-betreuungs-und-treuhandgebuhr-kv-22200-22201-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "KV 22200 GNotKG",
+   "§ 113 Abs. 1 GNotKG"
+  ],
+  "frage": "Die Betreuungsgebühr beträgt stets 0,5 aus dem gesamten Wert der Urkunde und unterliegt anders als die Vollzugsgebühr keiner Deckelung.",
+  "antwort": true,
+  "erklaerung": "Die Betreuungsgebühr nach KV 22200 GNotKG beträgt stets 0,5; eine Staffelung nach dem Satz des Hauptgeschäfts und eine Deckelung wie bei der Vollzugsgebühr gibt es nicht. Geschäftswert ist nach § 113 Abs. 1 GNotKG der gesamte Wert der Urkunde."
+ }
+]

@@ -971,5 +971,92 @@
   ],
   "antwort": 0,
   "erklaerung": "Nach § 1 GmbHG kann eine GmbH von einer oder mehreren Personen errichtet werden. Eine Personengesellschaft setzt dagegen mindestens zwei Gesellschafter voraus und erlischt, wenn der vorletzte Gesellschafter ausscheidet. Die zweite Option kehrt dieses Verhältnis gerade um."
+ },
+ {
+  "id": "hand1-044",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Vorratsgründung und Mantelverwendung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-vorratsgrundung-und-mantelverwendung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 3 GmbHG"
+  ],
+  "frage": "Unter welcher Voraussetzung ist eine Vorratsgründung nach der Rechtsprechung des BGH zulässig?",
+  "optionen": [
+   "Wenn der Unternehmensgegenstand offenlegt, dass die Gesellschaft für die künftige Aufnahme eines Geschäftsbetriebs bereitgehalten wird",
+   "Wenn die Satzung einen fiktiven, aber branchenüblichen Unternehmensgegenstand enthält",
+   "Wenn das Stammkapital vollständig eingezahlt und auf einem Sperrkonto hinterlegt ist",
+   "Wenn die Gründer sich verpflichten, die Gesellschaft binnen eines Jahres zu aktivieren"
+  ],
+  "antwort": 0,
+  "erklaerung": "Zulässig ist nur die offene Vorratsgründung: Der Unternehmensgegenstand muss offenlegen, dass die Gesellschaft für einen künftigen Geschäftsbetrieb bereitgehalten wird, etwa durch den Gegenstand „Verwaltung des eigenen Vermögens“. Ein fiktiver Unternehmensgegenstand wäre gerade eine verdeckte Vorratsgründung und damit unzulässig."
+ },
+ {
+  "id": "hand1-045",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Vorratsgründung und Mantelverwendung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-vorratsgrundung-und-mantelverwendung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 8 Abs. 2 GmbHG"
+  ],
+  "frage": "Bei der Mantelverwendung besteht ein geringeres Umgehungsrisiko als bei der Vorratsgesellschaft, weil der Mantel bereits früher wirtschaftlich tätig war und daher geprüft ist.",
+  "antwort": false,
+  "erklaerung": "Es verhält sich umgekehrt: Bei der Vorratsgesellschaft ist das Kapital bei Aufnahme der Tätigkeit in der Regel noch vorhanden, weil sie vorher nicht wirtschaftlich tätig war. Der Mantel kann dagegen durch seine frühere Tätigkeit sein Vermögen verloren haben. Deshalb gelten für beide Konstellationen die Gründungsvorschriften entsprechend, einschließlich Offenlegung und Versicherung nach § 8 Abs. 2 GmbHG."
+ },
+ {
+  "id": "hand1-046",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Vorratsgründung und Mantelverwendung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-vorratsgrundung-und-mantelverwendung",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 8 Abs. 2 GmbHG",
+   "§ 11 Abs. 2 GmbHG"
+  ],
+  "frage": "Reaktivierung eines GmbH-Mantels",
+  "sachverhalt": "Die Z-GmbH betrieb bis 2022 einen Handel mit Baustoffen und ist seitdem inaktiv. K erwirbt sämtliche Geschäftsanteile, ändert den Unternehmensgegenstand in „Softwareentwicklung“ und lässt sich zum Geschäftsführer bestellen. K möchte sofort mit dem neuen Geschäft beginnen und lässt die Satzungsänderung beim Notar N beurkunden.",
+  "schritte": [
+   {
+    "frage": "Wie ist der Vorgang rechtlich einzuordnen?",
+    "optionen": [
+     "Als bloße Satzungsänderung ohne gründungsrechtliche Bedeutung",
+     "Als Mantelverwendung, die als wirtschaftliche Neugründung gilt",
+     "Als offene Vorratsgründung",
+     "Als Umwandlung nach dem UmwG"
+    ],
+    "antwort": 1,
+    "erklaerung": "Eine früher aktive GmbH, die ihre Tätigkeit eingestellt hat und mit anderem Unternehmensgegenstand wieder in Betrieb genommen wird, ist ein Fall der Mantelverwendung; diese gilt als wirtschaftliche Neugründung. Eine Vorratsgesellschaft war nie wirtschaftlich tätig."
+   },
+   {
+    "frage": "Was muss gegenüber dem Registergericht geschehen?",
+    "optionen": [
+     "Nichts über die Anmeldung der Satzungsänderung hinaus",
+     "Offenlegung der wirtschaftlichen Neugründung, verbunden mit der Versicherung nach § 8 Abs. 2 GmbHG",
+     "Vorlage eines Sachgründungsberichts über den Mantel",
+     "Neueintragung der Gesellschaft unter neuer HR-Nummer"
+    ],
+    "antwort": 1,
+    "erklaerung": "Die Mantelverwendung ist dem Registergericht offenzulegen und mit der Versicherung nach § 8 Abs. 2 GmbHG zu verbinden, da die Gründungsvorschriften entsprechend gelten. Die Aufnahme der Tätigkeit ohne Offenlegung ist der typische Fehler."
+   },
+   {
+    "frage": "Welche Haftungsfolgen drohen nach der BGH-Rechtsprechung, wenn K vor Offenlegung Geschäfte im Namen der Z-GmbH abschließt?",
+    "optionen": [
+     "Keine, da die GmbH bereits eingetragen ist",
+     "Unterbilanzhaftung und Handelndenhaftung analog § 11 Abs. 2 GmbHG",
+     "Nur eine Ordnungsgeldandrohung des Registergerichts",
+     "Eine Haftung nur des Notars wegen unterlassener Belehrung"
+    ],
+    "antwort": 1,
+    "erklaerung": "Der BGH wendet auf Vorratsgründung und Mantelverwendung die Unterbilanzhaftung sowie die Handelndenhaftung analog § 11 Abs. 2 GmbHG an. Die bestehende Eintragung schützt K deshalb nicht."
+   }
+  ],
+  "erklaerung": "Die Reaktivierung der Z-GmbH ist eine Mantelverwendung und gilt als wirtschaftliche Neugründung. Sie ist dem Registergericht unter Abgabe der Versicherung nach § 8 Abs. 2 GmbHG offenzulegen; andernfalls drohen Unterbilanzhaftung und Handelndenhaftung analog § 11 Abs. 2 GmbHG."
  }
 ]

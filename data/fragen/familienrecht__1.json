@@ -1538,5 +1538,133 @@
   ],
   "erklaerung": "§ 1306 BGB verbietet Doppelehe und Ehe bei bestehender Lebenspartnerschaft; § 1307 BGB die Ehe zwischen Verwandten in gerader Linie und voll- oder halbbürtigen Geschwistern. § 1311 BGB verlangt persönliche Erklärungen bei gleichzeitiger Anwesenheit und verbietet Bedingungen und Befristungen. § 1353 Abs. 1 BGB legt das Lebenszeitprinzip und die Pflicht zur ehelichen Lebensgemeinschaft fest, ohne einen Katalog einzelner Ehepflichten zu enthalten.",
   "id": "fami1-070"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Ehevertrag: Ausübungskontrolle und Folgerungen für die Gestaltung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehevertrag-ausubungskontrolle-und-folgerungen-fur-die-gestaltung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 242 BGB"
+  ],
+  "frage": "Welche Rechtsfolge hat es, wenn ein Ehevertrag die Wirksamkeitskontrolle besteht, aber an der Ausübungskontrolle nach § 242 BGB scheitert?",
+  "optionen": [
+   "Der Ehevertrag ist insgesamt nichtig; es gilt das gesetzliche Scheidungsfolgenrecht",
+   "Der Ehevertrag bleibt wirksam; das Gericht passt ihn nach dem mutmaßlichen Parteiwillen an die veränderten Verhältnisse an",
+   "Nur die beanstandete Klausel ist nichtig, der Rest bleibt unverändert bestehen",
+   "Der benachteiligte Ehegatte kann vom Vertrag zurücktreten"
+  ],
+  "antwort": 1,
+  "erklaerung": "Anders als bei der Wirksamkeitskontrolle bleibt der Ehevertrag bei der Ausübungskontrolle wirksam; das Gericht passt ihn an die veränderten Verhältnisse an, gestützt auf den mutmaßlichen Parteiwillen und einen ausgewogenen Ausgleich der Belange. Je zentraler die Folge im Kernbereich steht, desto stärker orientiert sich die Anpassung am Gesetz; der benachteiligte Ehegatte darf aber nicht besser stehen als bei fortgesetzter Berufstätigkeit. Die Gesamtnichtigkeit ist dagegen die typische Folge eines sittenwidrigen Vertrags im Rahmen der Wirksamkeitskontrolle.",
+  "id": "fami1-071"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Ehevertrag: Ausübungskontrolle und Folgerungen für die Gestaltung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehevertrag-ausubungskontrolle-und-folgerungen-fur-die-gestaltung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 242 BGB"
+  ],
+  "frage": "Welcher nachträglich eingetretene Umstand rechtfertigt nach der Rechtsprechung für sich allein keine Anpassung eines Unterhaltsverzichts im Wege der Ausübungskontrolle?",
+  "optionen": [
+   "Ein ungeplantes gemeinsames Kind, dessen Betreuung ein Ehegatte übernimmt",
+   "Die schwere Erkrankung eines bei Vertragsschluss wirtschaftlich selbständigen Ehegatten",
+   "Ein unerwartet starker Einkommensanstieg eines Ehegatten nach Vertragsschluss",
+   "Eine von der Lebensplanung wesentlich abweichende, einvernehmlich gelebte Rollenverteilung"
+  ],
+  "antwort": 2,
+  "erklaerung": "Ein unerwartet starker Einkommensanstieg eines Ehegatten genügt allein nicht (BGH FamRZ 2007, 975; BGH FamRZ 2008, 386). Dagegen kann die spätere Erkrankung eines bei Vertragsschluss selbständigen Ehegatten eine Korrektur rechtfertigen (BGH FamRZ 2008, 582), und die Berufung auf einen Unterhaltsverzicht ist vor allem rechtsmissbräuchlich, wenn nachträglich schutzwürdige Interessen gemeinsamer Kinder berührt sind (BGH FamRZ 1997, 873). Typischer Anlass ist im Übrigen die wesentliche Abweichung der gelebten Ehe von der Lebensplanung bei Vertragsschluss.",
+  "id": "fami1-072"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Ehevertrag: Ausübungskontrolle und Folgerungen für die Gestaltung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehevertrag-ausubungskontrolle-und-folgerungen-fur-die-gestaltung",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 242 BGB"
+  ],
+  "frage": "Scheitert die bei Vereinbarung der Gütertrennung erwartete beiderseitige gewinnbringende Selbständigkeit, führt das Gericht im Rahmen der Ausübungskontrolle regelmäßig den Zugewinnausgleich durch.",
+  "antwort": false,
+  "erklaerung": "Im Güterrecht greift die Ausübungskontrolle nur unter engen Voraussetzungen (BGH FamRZ 2004, 601, 608). Zwar kann in diesem Fall die Berufung auf die Gütertrennung unzulässig sein; weil das Güterrecht nicht zum Kernbereich gehört, führt das Gericht aber keinen Zugewinnausgleich durch, sondern sieht möglicherweise einen Ausgleich ehebedingter Vermögensnachteile vor.",
+  "id": "fami1-073"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Ehevertrag: Ausübungskontrolle und Folgerungen für die Gestaltung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehevertrag-ausubungskontrolle-und-folgerungen-fur-die-gestaltung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 242 BGB"
+  ],
+  "frage": "Welche Ersatzregelung sollte der Notar in einem Ehevertrag mit Unterhaltsverzicht vorzugsweise aufnehmen, um das Risiko der Sittenwidrigkeit abzufedern?",
+  "optionen": [
+   "Eine salvatorische Klausel, wonach der Vertrag im Übrigen wirksam bleibt, falls einzelne Regelungen sittenwidrig sind",
+   "Eine pauschale Ersetzungsklausel, wonach an die Stelle unwirksamer Regelungen das gesetzlich Zulässige tritt",
+   "Eine konkrete Ersatzregelung, die die Beteiligten vorab als zweitbeste Lösung ausgehandelt haben",
+   "Keine Ersatzregelung, da bei Sittenwidrigkeit ohnehin das Gericht den Vertrag anpasst"
+  ],
+  "antwort": 2,
+  "erklaerung": "Salvatorische Klauseln, die Teile eines insgesamt sittenwidrigen Ehevertrags halten sollen, sind unwirksam. Zulässig sind Ersetzungsklauseln, die die Ersatzregelung bestimmen; vorzugswürdig ist eine konkrete, vorab als zweitbeste Lösung ausgehandelte Ersatzregelung, weil pauschale Ersetzungsklauseln schwer auszulegen sind. Eine gerichtliche Anpassung gibt es nur bei der Ausübungskontrolle; ein sittenwidriger Ehevertrag ist dagegen meist insgesamt nichtig.",
+  "id": "fami1-074"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Ehevertrag: Ausübungskontrolle und Folgerungen für die Gestaltung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehevertrag-ausubungskontrolle-und-folgerungen-fur-die-gestaltung",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 242 BGB"
+  ],
+  "frage": "Beurkundung eines Ehevertrags mit Unterhaltsverzicht",
+  "sachverhalt": "Der vermögende Unternehmer U und die aus dem Ausland stammende F, die nur eingeschränkt Deutsch spricht, wollen heiraten. U lässt durch seinen Anwalt einen Ehevertrag mit umfassendem Verzicht auf nachehelichen Unterhalt einschließlich Betreuungsunterhalt entwerfen und bittet den Notar um Beurkundung in der kommenden Woche. F soll wegen eines Auslandsaufenthalts durch U vollmachtlos vertreten werden und später genehmigen. Gemeinsame Kinder sind geplant.",
+  "schritte": [
+   {
+    "frage": "Wie sollte der Notar das Beurkundungsverfahren gestalten?",
+    "optionen": [
+     "Beurkundung wie gewünscht; die Genehmigung der F heilt alle Verfahrensmängel",
+     "Vorbesprechung mit beiden Ehegatten, bei Bedarf mit Dolmetscher, rechtzeitige Übersendung des Entwurfs an beide und persönliche Anwesenheit beider bei der Beurkundung; Vertretung und Genehmigung vermeiden",
+     "Beurkundung mit Vollmacht der F genügt, wenn F anwaltlich beraten ist",
+     "Der Notar beurkundet nur die Erklärung des U und lässt F später eine Unterschrift beglaubigen"
+    ],
+    "antwort": 1,
+    "erklaerung": "Der Notar sollte Vorbesprechungen mit beiden Ehegatten führen, bei Bedarf mit Dolmetscher (OLG Koblenz, FamRZ 2004, 200), den Entwurf beiden rechtzeitig übersenden und ausreichend Prüfungszeit lassen. Beide sollten persönlich anwesend sein; Beurkundung mit Vollmacht oder vorbehaltlich Genehmigung ist zu vermeiden. Zudem sollten möglichst beide anwaltlich beraten werden, da die Beratung nur eines Ehegatten eine Unterlegenheit begründen kann (OLG Hamm FamRZ 2010, 1904f.)."
+   },
+   {
+    "frage": "Wie sollte der Unterhaltsverzicht inhaltlich gestaltet werden?",
+    "optionen": [
+     "Totalverzicht beibehalten, da Unterhalt nicht zum Kernbereich gehört",
+     "Basisunterhalt wegen Kindesbetreuung und kindbezogenen Verlängerungsunterhalt ausnehmen und statt eines Totalverzichts eine zeitliche oder betragsmäßige Begrenzung wählen, die ehebedingte Nachteile sicher ausgleicht",
+     "Verzicht auf Betreuungsunterhalt gegen eine einmalige symbolische Abfindung",
+     "Den Verzicht unter die Bedingung stellen, dass keine Kinder geboren werden"
+    ],
+    "antwort": 1,
+    "erklaerung": "Eine evident einseitige Lastenverteilung ist zu vermeiden; in den obersten Rangstufen des Kernbereichs sind mindestens ehebedingte Nachteile zu kompensieren. Basisunterhalt wegen Kindesbetreuung und kindbezogener Verlängerungsunterhalt sind regelmäßig vom Verzicht auszunehmen; statt eines Totalverzichts empfiehlt sich eine zeitliche oder betragsmäßige Begrenzung, die ehebedingte Nachteile sicher ausgleicht."
+   },
+   {
+    "frage": "Was sollte zusätzlich in die Urkunde aufgenommen werden?",
+    "optionen": [
+     "Nur die Regelungen selbst; Motive gehören nicht in die Urkunde",
+     "Eine Präambel mit Beweggründen, Lebens- und Einkommenssituation, geplantem Ehezuschnitt, wirtschaftlicher Ausgangslage und Ablauf des Beurkundungsverfahrens sowie die Belehrung über eine mögliche gerichtliche Anpassung",
+     "Eine Erklärung, dass der Vertrag unabhängig von künftigen Entwicklungen unverändert fortbesteht",
+     "Eine salvatorische Klausel, die den Vertrag bei Sittenwidrigkeit einzelner Teile aufrechterhält"
+    ],
+    "antwort": 1,
+    "erklaerung": "Beweggründe, Lebens- und Einkommenssituation, geplanter Ehezuschnitt, wirtschaftliche Ausgangslage, alle für das subjektive Moment wichtigen Umstände und der Ablauf des Beurkundungsverfahrens gehören in die Urkunde. Die Beteiligten sind zu belehren, dass der Vertrag bei Änderung maßgeblicher Umstände gerichtlich angepasst werden kann; ein unveränderter Fortbestand ist nicht garantiert. Salvatorische Klauseln zur Rettung eines insgesamt sittenwidrigen Vertrags sind unwirksam."
+   }
+  ],
+  "erklaerung": "Wegen der Sprachbarriere, der Vertretung und des geplanten Kinderwunsches besteht ein erhebliches Risiko einer Unterlegenheit und Sittenwidrigkeit. Der Notar sichert die Wirksamkeit durch ein faires Verfahren (Vorbesprechung, Dolmetscher, Entwurfsübersendung, persönliche Anwesenheit), eine nachteilskompensierende Begrenzung statt eines Totalverzichts unter Ausnahme des Betreuungsunterhalts sowie eine dokumentierende Präambel mit Belehrung über die Ausübungskontrolle.",
+  "id": "fami1-075"
  }
 ]
