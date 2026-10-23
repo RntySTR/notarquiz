@@ -295,5 +295,276 @@
    }
   ],
   "erklaerung": "Die Auflassung ist nach § 925 Abs. 2 BGB bedingungsfeindlich; das Sicherungsinteresse des Verkäufers wird durch Hinausschieben des Grundbuchvollzugs gewahrt. Daneben muss der Veräußerer verfügungsbefugt sein; eine eingetragene Testamentsvollstreckung schließt den gutgläubigen Erwerb aus und ist vor Beurkundung in Abteilung II zu prüfen."
+ },
+ {
+  "id": "sach1-013",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundsätze und Erwerb dinglicher Rechte",
+  "seite": "Beschränkte dingliche Rechte: Aufhebung und Erlöschen",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/beschrankte-dingliche-rechte-aufhebung-und-erloschen",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 875 Abs. 1 BGB"
+  ],
+  "frage": "Was setzt die rechtsgeschäftliche Aufhebung eines beschränkten dinglichen Rechts (etwa einer Dienstbarkeit) materiellrechtlich voraus?",
+  "optionen": [
+   "Einigung zwischen Berechtigtem und Eigentümer und Löschung im Grundbuch",
+   "Aufgabeerklärung des Berechtigten und Löschung im Grundbuch",
+   "Aufgabeerklärung des Berechtigten in notariell beurkundeter Form, ohne Löschung",
+   "Löschungsantrag des Eigentümers und Zustimmung des Berechtigten"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 875 Abs. 1 BGB genügen die einseitige Aufgabeerklärung des Berechtigten und die Löschung im Grundbuch. Einer Einigung mit dem Eigentümer bedarf es nicht, weil die Aufhebung diesem in der Regel nur Vorteile bringt. Die Erklärung ist gegenüber dem Grundbuchamt oder dem Begünstigten abzugeben."
+ },
+ {
+  "id": "sach1-014",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundsätze und Erwerb dinglicher Rechte",
+  "seite": "Beschränkte dingliche Rechte: Aufhebung und Erlöschen",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/beschrankte-dingliche-rechte-aufhebung-und-erloschen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1183 BGB",
+   "§ 1192 Abs. 1 BGB",
+   "§ 27 GBO"
+  ],
+  "frage": "Eine Grundschuld soll gelöscht werden. Warum ist neben der Löschungsbewilligung des Gläubigers auch die Zustimmung des Eigentümers erforderlich?",
+  "optionen": [
+   "Weil jede Aufhebung eines beschränkten dinglichen Rechts eine Einigung mit dem Eigentümer voraussetzt",
+   "Weil die Aufhebung die Aussicht des Eigentümers berührt, das Recht als Eigentümergrundschuld zu erwerben",
+   "Weil der Eigentümer der Grundschuldbestellung ursprünglich zugestimmt hat",
+   "Weil die Löschungsbewilligung des Gläubigers nur eine Berichtigungsbewilligung darstellt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei Hypothek und Grundschuld berührt die Aufhebung die Aussicht des Eigentümers auf eine Eigentümergrundschuld; deshalb muss er nach §§ 1183, 1192 Abs. 1 BGB zustimmen, verfahrensrechtlich in der Form der §§ 27, 29 GBO. Eine generelle Einigung mit dem Eigentümer verlangt § 875 BGB gerade nicht; das Zustimmungserfordernis ist eine Sonderregel für Grundpfandrechte."
+ },
+ {
+  "id": "sach1-015",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundsätze und Erwerb dinglicher Rechte",
+  "seite": "Beschränkte dingliche Rechte: Aufhebung und Erlöschen",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/beschrankte-dingliche-rechte-aufhebung-und-erloschen",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 875 BGB",
+   "§ 19 GBO"
+  ],
+  "frage": "Wird ein beschränktes dingliches Recht ohne Aufgabeerklärung des Berechtigten im Grundbuch gelöscht, erlischt es mit der Löschung.",
+  "antwort": false,
+  "erklaerung": "Die Aufhebung erfordert Aufgabeerklärung und Löschung (§ 875 Abs. 1 BGB). Fehlt die Aufgabeerklärung, besteht das Recht trotz Löschung weiter, und das Grundbuch ist unrichtig. Im Zweifel ist die Aufgabeerklärung allerdings stillschweigend in der Löschungsbewilligung (§ 19 GBO) enthalten."
+ },
+ {
+  "id": "sach1-016",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundsätze und Erwerb dinglicher Rechte",
+  "seite": "Beschränkte dingliche Rechte: Aufhebung und Erlöschen",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/beschrankte-dingliche-rechte-aufhebung-und-erloschen",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 158 Abs. 2 BGB",
+   "§ 91 Abs. 1 ZVG",
+   "§ 61 BauGB",
+   "§ 49 FlurbG"
+  ],
+  "frage": "Ordne die Erlöschensgründe beschränkter dinglicher Rechte der jeweiligen Norm zu.",
+  "paare": [
+   [
+    "§ 158 Abs. 2 BGB",
+    "Eintritt einer auflösenden Bedingung"
+   ],
+   [
+    "§ 163 BGB",
+    "Ablauf einer Frist"
+   ],
+   [
+    "§ 91 Abs. 1 ZVG",
+    "Zuschlag in der Zwangsversteigerung"
+   ],
+   [
+    "§ 61 BauGB",
+    "Aufhebung im Umlegungsverfahren"
+   ],
+   [
+    "§ 49 FlurbG",
+    "Aufhebung im Flurbereinigungsverfahren"
+   ]
+  ],
+  "erklaerung": "Neben der rechtsgeschäftlichen Aufhebung (§ 875 BGB) erlöschen beschränkte dingliche Rechte durch auflösende Bedingung (§ 158 Abs. 2 BGB), Fristablauf (§ 163 BGB), Zuschlag (§ 91 Abs. 1 ZVG) sowie durch Aufhebung in Umlegung (§ 61 BauGB) und Flurbereinigung (§ 49 FlurbG). Die beiden letzten sind hoheitliche Verfahren und daher nicht mit der rechtsgeschäftlichen Aufhebung zu verwechseln."
+ },
+ {
+  "id": "sach1-017",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundsätze und Erwerb dinglicher Rechte",
+  "seite": "Grundstücksrechte: dingliche Einigung, Abstraktion und Bindung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/grundstucksrechte-dingliche-einigung-abstraktion-und-bindung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 873 Abs. 2 BGB"
+  ],
+  "frage": "In welchem Fall ist ein Beteiligter vor der Eintragung an die dingliche Einigung gebunden?",
+  "optionen": [
+   "Wenn ein schuldrechtlicher Anspruch auf die Einigung besteht",
+   "Wenn die Einigung privatschriftlich unterzeichnet wurde",
+   "Wenn der Berechtigte dem anderen Teil eine der GBO entsprechende Eintragungsbewilligung überlassen hat",
+   "Wenn das Grundgeschäft bereits vollständig erfüllt ist"
+  ],
+  "antwort": 2,
+  "erklaerung": "§ 873 Abs. 2 BGB nennt abschließend: notarielle Beurkundung, Abgabe vor dem oder Einreichung beim Grundbuchamt oder Aushändigung einer der GBO entsprechenden (beurkundeten oder beglaubigten) Eintragungsbewilligung. Ein schuldrechtlicher Anspruch auf die Einigung begründet ausdrücklich keine Bindung; § 145 BGB greift insoweit nicht."
+ },
+ {
+  "id": "sach1-018",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundsätze und Erwerb dinglicher Rechte",
+  "seite": "Grundstücksrechte: dingliche Einigung, Abstraktion und Bindung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/grundstucksrechte-dingliche-einigung-abstraktion-und-bindung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 873 Abs. 1 BGB",
+   "§ 139 BGB"
+  ],
+  "frage": "Ist der Grundstückskaufvertrag nichtig, ist nach § 139 BGB regelmäßig auch die dingliche Einigung unwirksam.",
+  "antwort": false,
+  "erklaerung": "Nach dem Abstraktionsprinzip ist die Einigung ein eigenes Rechtsgeschäft, dessen Wirksamkeit nicht vom Grundgeschäft abhängt; § 139 BGB greift im Verhältnis beider grundsätzlich nicht. Die Verfügung bleibt wirksam; fehlt der Rechtsgrund, ist das Erlangte herauszugeben. Der Schluss von der Unwirksamkeit des Kaufvertrags auf die der Verfügung ist ein typischer Fehler."
+ },
+ {
+  "id": "sach1-019",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundsätze und Erwerb dinglicher Rechte",
+  "seite": "Grundstücksrechte: dingliche Einigung, Abstraktion und Bindung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/grundstucksrechte-dingliche-einigung-abstraktion-und-bindung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 873 Abs. 2 BGB",
+   "§ 17 GBO",
+   "§ 879 BGB"
+  ],
+  "frage": "Die Einigung über eine Grundschuld wurde beurkundet. Ab wann ist der Erwerber auch vor anderweitigen Verfügungen des Eigentümers und vor Rangverlust geschützt?",
+  "optionen": [
+   "Bereits mit der Beurkundung, da die Bindung nach § 873 Abs. 2 BGB eintritt",
+   "Erst mit Eingang des Antrags beim Grundbuchamt",
+   "Erst mit Aushändigung einer Ausfertigung der Urkunde an den Erwerber",
+   "Erst mit Zahlung des Darlehensbetrags"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Bindung nach § 873 Abs. 2 BGB schützt nur vor einseitigem Widerruf, nicht vor anderweitigen Verfügungen oder Zwangsvollstreckungszugriffen. Gesichert ist der Erwerber erst mit Eingang des Antrags beim Grundbuchamt: Der Antrag muss vollzogen werden, und der Rang richtet sich nach dem Eingang (§§ 13, 17, 45 GBO, § 879 BGB). Daher ist der Antrag zeitnah zu stellen."
+ },
+ {
+  "id": "sach1-020",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundsätze und Erwerb dinglicher Rechte",
+  "seite": "Grundstücksrechte: dingliche Einigung, Abstraktion und Bindung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/grundstucksrechte-dingliche-einigung-abstraktion-und-bindung",
+  "typ": "zuordnung",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1117 BGB",
+   "§ 1154 BGB",
+   "§ 927 BGB",
+   "§ 928 BGB"
+  ],
+  "frage": "Ordne die Abweichungen vom Grundsatz „Einigung und Eintragung“ der jeweiligen Norm zu.",
+  "paare": [
+   [
+    "§ 1117 BGB",
+    "Erwerb der Briefgrundschuld erst mit Übergabe des Briefs"
+   ],
+   [
+    "§ 1154 BGB",
+    "Übertragung der Briefhypothek ohne Grundbucheintragung"
+   ],
+   [
+    "§ 927 BGB",
+    "Aneignung durch Erklärung nach Ausschlussurteil im Aufgebotsverfahren"
+   ],
+   [
+    "§ 928 BGB",
+    "Eigentumsaufgabe durch Erklärung gegenüber dem Grundbuchamt"
+   ]
+  ],
+  "erklaerung": "§ 873 Abs. 1 BGB verlangt grundsätzlich Einigung und Eintragung. Bei Briefrechten tritt die Briefübergabe hinzu (§ 1117 BGB) bzw. ersetzt die Eintragung bei der Übertragung (§ 1154 BGB). Ohne Einigung kommen Aneignung nach Aufgebot (§ 927 BGB) und Dereliktion (§ 928 BGB) aus."
+ },
+ {
+  "id": "sach1-021",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundsätze und Erwerb dinglicher Rechte",
+  "seite": "Grundstücksrechte: Eintragung, Bezugnahme und Übereinstimmung mit der Einigung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/grundstucksrechte-eintragung-bezugnahme-und-ubereinstimmung-mit-der-einigung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 874 BGB",
+   "§ 47 GBO"
+  ],
+  "frage": "Welche Angabe darf bei der Eintragung eines beschränkten dinglichen Rechts durch Bezugnahme auf die Eintragungsbewilligung ersetzt werden?",
+  "optionen": [
+   "Die Person des Berechtigten",
+   "Das Gemeinschaftsverhältnis mehrerer Berechtigter",
+   "Der nähere Inhalt des Rechts",
+   "Die Rechtsart"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 874 BGB kann nur wegen des näheren Inhalts auf die Bewilligung verwiesen werden. Rechtsart, Berechtigter und bei mehreren Berechtigten das Gemeinschaftsverhältnis (§ 47 GBO) gehören in den Eintragungsvermerk selbst; fehlen sie, ist die Eintragung wirkungslos und das Recht entsteht nicht."
+ },
+ {
+  "id": "sach1-022",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundsätze und Erwerb dinglicher Rechte",
+  "seite": "Grundstücksrechte: Eintragung, Bezugnahme und Übereinstimmung mit der Einigung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/grundstucksrechte-eintragung-bezugnahme-und-ubereinstimmung-mit-der-einigung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 874 BGB",
+   "§ 800 ZPO",
+   "§ 881 Abs. 2 BGB"
+  ],
+  "frage": "Bei welcher Angabe ist eine Bezugnahme auf die Eintragungsbewilligung ausgeschlossen, sodass der Inhalt im Grundbuch selbst stehen muss?",
+  "optionen": [
+   "Ausübungsbereich eines Wohnungsrechts",
+   "Einzelheiten der Unterhaltungspflicht bei einem Leitungsrecht",
+   "Unterwerfung unter die sofortige Zwangsvollstreckung",
+   "Nähere Ausgestaltung eines Nießbrauchs"
+  ],
+  "antwort": 2,
+  "erklaerung": "Wo besondere Vorschriften es verlangen, ist die Bezugnahme ausgeschlossen, unter anderem bei der Unterwerfung unter die sofortige Zwangsvollstreckung (§ 800 ZPO), beim Rangvorbehalt (§ 881 Abs. 2 BGB), bei abweichenden Rangbestimmungen und bei Gläubiger, Betrag und Zinsen in Abteilung III. Die übrigen Optionen betreffen den näheren Inhalt eines Rechts, für den § 874 BGB die Bezugnahme gerade zulässt."
+ },
+ {
+  "id": "sach1-023",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundsätze und Erwerb dinglicher Rechte",
+  "seite": "Grundstücksrechte: Eintragung, Bezugnahme und Übereinstimmung mit der Einigung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/grundstucksrechte-eintragung-bezugnahme-und-ubereinstimmung-mit-der-einigung",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 875 BGB",
+   "§ 879 BGB"
+  ],
+  "frage": "Löscht das Grundbuchamt ein beschränktes dingliches Recht zu Unrecht, wird es auf Antrag mit bisherigem Inhalt neu eingetragen; inzwischen eingetragene Rechte gehen ihm im Rang nach.",
+  "antwort": false,
+  "erklaerung": "Das zu Unrecht gelöschte Recht besteht materiell fort und wird durch erneute Eintragung mit bisherigem Inhalt und Rang berichtigt, nicht durch Beseitigung des Löschungsvermerks. Sind inzwischen andere Rechte eingetragen worden, rückt das wiedereingetragene Recht aber hinter diese; die Behauptung kehrt das Rangverhältnis um."
+ },
+ {
+  "id": "sach1-024",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundsätze und Erwerb dinglicher Rechte",
+  "seite": "Grundstücksrechte: Eintragung, Bezugnahme und Übereinstimmung mit der Einigung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/grundstucksrechte-eintragung-bezugnahme-und-ubereinstimmung-mit-der-einigung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 130 Abs. 3 BGB",
+   "§ 873 BGB"
+  ],
+  "frage": "Stirbt der Bewilligende nach Abgabe seiner Einigungserklärung, aber vor der Eintragung, bleibt seine Erklärung wirksam und bindet auch seine Erben.",
+  "antwort": true,
+  "erklaerung": "Die Einigung muss grundsätzlich noch bei der Eintragung bestehen. Nach § 130 Abs. 3 BGB berühren Tod oder Geschäftsunfähigkeit des Erklärenden nach Abgabe der Erklärung deren Wirksamkeit nicht; die Erben sind ebenso gebunden wie der Erklärende selbst."
  }
 ]

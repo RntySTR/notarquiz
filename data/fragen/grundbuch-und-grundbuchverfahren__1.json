@@ -49,12 +49,12 @@
   ],
   "frage": "Welche Bedeutung hat ein Herrschvermerk im Bestandsverzeichnis?",
   "optionen": [
-   "Er bezeichnet ein weiteres Grundstück desselben Eigentümers auf dem Blatt",
    "Er weist auf ein Recht hin, das zugunsten des gebuchten Grundstücks an einem anderen Grundstück besteht",
    "Er kennzeichnet eine auf dem Grundstück lastende Grunddienstbarkeit",
-   "Er ist zwingend einzutragen, sobald eine Grunddienstbarkeit bestellt wird"
+   "Er ist zwingend einzutragen, sobald eine Grunddienstbarkeit bestellt wird",
+   "Er bezeichnet ein weiteres Grundstück desselben Eigentümers auf dem Blatt"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Der Herrschvermerk im Bestandsverzeichnis (§ 6 GBV) zeigt an, dass zugunsten des gebuchten (herrschenden) Grundstücks ein Recht an einem anderen Grundstück besteht, etwa ein Fahrtrecht. Er ist kein eigenes Grundstück und nicht vorgeschrieben; die Belastung selbst steht in Abteilung II des dienenden Grundstücks. Praktisch erschwert der Herrschvermerk die spätere Löschung des Rechts."
  },
  {
@@ -110,12 +110,12 @@
   ],
   "frage": "Beim Lesen eines Grundbuchauszugs findet sich in Spalte 2 des Bestandsverzeichnisses eine bisherige laufende Nummer. Welche Gefahr verbindet sich damit?",
   "optionen": [
-   "Das Grundstück gehört einem anderen Eigentümer als die übrigen Grundstücke des Blatts",
-   "Belastungen in den Abteilungen können noch unter der bisherigen laufenden Nummer eingetragen sein",
    "Das Blatt ist wegen Verwirrungsgefahr nach § 4 Abs. 1 GBO zu schließen",
-   "Die Katasterbezeichnung in Spalte 3 ist nicht mehr gültig"
+   "Die Katasterbezeichnung in Spalte 3 ist nicht mehr gültig",
+   "Das Grundstück gehört einem anderen Eigentümer als die übrigen Grundstücke des Blatts",
+   "Belastungen in den Abteilungen können noch unter der bisherigen laufenden Nummer eingetragen sein"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Spalte 2 des Bestandsverzeichnisses enthält die bisherige laufende Nummer, wenn das Grundstück nach Anlegung des Blatts verändert wurde (§ 6 GBV). Da sich die Abteilungen auf die laufende Nummer beziehen, können Belastungen noch unter der alten Nummer eingetragen sein; das Übersehen ist ein typischer Fehler. Ein abweichender Eigentümer ist ausgeschlossen, weil alle Eingetragenen in Abteilung I Eigentümer sämtlicher Grundstücke des Blatts sind, sonst wäre ein eigenes Blatt anzulegen."
  },
  {
@@ -133,12 +133,12 @@
   ],
   "frage": "In welchem Fall wirkt die Eintragung im Grundbuch nur deklaratorisch?",
   "optionen": [
-   "Rechtsgeschäftliche Übertragung des Eigentums",
    "Aufhebung einer Grunddienstbarkeit",
    "Eigentumserwerb durch Erbfolge",
-   "Rangänderung zwischen zwei Grundschulden"
+   "Rangänderung zwischen zwei Grundschulden",
+   "Rechtsgeschäftliche Übertragung des Eigentums"
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "Beim Erwerb im Wege der Gesamtrechtsnachfolge durch Erbfolge (§§ 1922 ff. BGB) tritt die Rechtsänderung außerhalb des Grundbuchs ein; das Grundbuch wird nur berichtigt, die Erbfolge ist nach § 29 GBO durch öffentliche Urkunden nachzuweisen. Übertragung (§ 873 BGB), Aufhebung (§ 875 BGB) und Rangänderung (§ 880 BGB) setzen dagegen die Eintragung als Wirksamkeitsvoraussetzung voraus, die Eintragung ist konstitutiv."
  },
  {
@@ -156,12 +156,12 @@
   ],
   "frage": "Gläubiger G tritt seine Briefgrundschuld durch privatschriftliche Erklärung an Z ab und übergibt den Brief. Welche Aussage trifft zu?",
   "optionen": [
+   "Die Abtretung ist wirksam und das Grundbuchamt berichtigt auf Vorlage der schriftlichen Erklärung",
    "Die Abtretung ist unwirksam, weil sie der öffentlichen Beglaubigung bedarf",
    "Die Abtretung ist wirksam; für die Grundbuchberichtigung ist aber eine öffentlich beglaubigte Abtretungserklärung erforderlich",
-   "Die Abtretung wird erst mit Eintragung des Z im Grundbuch wirksam",
-   "Die Abtretung ist wirksam und das Grundbuchamt berichtigt auf Vorlage der schriftlichen Erklärung"
+   "Die Abtretung wird erst mit Eintragung des Z im Grundbuch wirksam"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Die Abtretung einer Briefgrundschuld wird bereits durch schriftliche Abtretungserklärung und Briefübergabe wirksam (§§ 1154 Abs. 1, 1192 Abs. 1 BGB); die Eintragung ist nur deklaratorisch. Für die Grundbuchberichtigung reicht die Schriftform jedoch nicht, verlangt wird eine öffentlich beglaubigte Abtretungserklärung (§§ 26 Abs. 1, 39 Abs. 2 GBO i. V. m. § 1155 BGB), zu deren Erteilung der Zedent nach § 1154 Abs. 1 S. 2 BGB verpflichtet ist."
  },
  {
@@ -233,12 +233,12 @@
   ],
   "frage": "Wie bestimmt sich nach § 879 BGB der Rang zwischen einer Grunddienstbarkeit in Abteilung II und einer Grundschuld in Abteilung III?",
   "optionen": [
-   "Nach der laufenden Nummer der Eintragung",
    "Nach dem Datum der Eintragung; bei gleichem Datum besteht Gleichrang",
    "Rechte der Abteilung III gehen Rechten der Abteilung II stets vor",
-   "Nach dem Datum der Beurkundung der Bestellungsurkunde"
+   "Nach dem Datum der Beurkundung der Bestellungsurkunde",
+   "Nach der laufenden Nummer der Eintragung"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Innerhalb derselben Abteilung entscheidet die Reihenfolge der Eintragungen, also die laufende Nummer. Bei Rechten in verschiedenen Abteilungen geht nach § 879 BGB das Recht mit dem früheren Eintragungsdatum vor; bei gleichem Datum haben die Rechte Gleichrang. Die Abteilung selbst begründet keinen Vorrang, und auf das Beurkundungsdatum kommt es nicht an."
  },
  {
@@ -255,12 +255,12 @@
   ],
   "frage": "Eine eingetragene Grundschuld der Bank B soll hinter ein später eingetragenes Wohnungsrecht zurücktreten. Wessen Erklärungen braucht das Grundbuchamt regelmäßig?",
   "optionen": [
-   "Nur die beglaubigte Rangrücktrittserklärung der Bank B",
-   "Die Rangrücktrittserklärung der Bank B und die Zustimmung des Eigentümers",
    "Die Bewilligung des Wohnungsberechtigten und die Zustimmung des Eigentümers",
-   "Die Erklärungen aller in Abteilung II und III eingetragenen Berechtigten"
+   "Die Erklärungen aller in Abteilung II und III eingetragenen Berechtigten",
+   "Nur die beglaubigte Rangrücktrittserklärung der Bank B",
+   "Die Rangrücktrittserklärung der Bank B und die Zustimmung des Eigentümers"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Die Rangänderung nach § 880 BGB erfordert materiell die Einigung der beteiligten Berechtigten und die Eintragung; verfahrensrechtlich genügt wegen des formellen Konsensprinzips (§ 19 GBO) regelmäßig die beglaubigte oder beurkundete Rangrücktrittserklärung des zurücktretenden Berechtigten. Tritt aber eine Hypothek oder Grundschuld zurück, muss zusätzlich der Eigentümer zustimmen. Der vortretende Berechtigte muss nicht bewilligen, da er nur begünstigt wird."
  },
  {
@@ -321,34 +321,34 @@
    {
     "frage": "Das Geh- und Fahrtrecht wird am vorderen Grundstück nach der Grundschuld der B eingetragen. Was geschieht, wenn B aus ihrer Grundschuld die Zwangsversteigerung betreibt?",
     "optionen": [
+     "Das Wegerecht erlischt nur, wenn B dies ausdrücklich beantragt",
      "Das Wegerecht bleibt bestehen, weil Dienstbarkeiten in der Zwangsversteigerung stets fortgelten",
      "Das Wegerecht erlischt mit dem Zuschlag, weil es dem Recht des betreibenden Gläubigers im Rang nachgeht",
-     "Das Wegerecht bleibt bestehen und fällt in das geringste Gebot",
-     "Das Wegerecht erlischt nur, wenn B dies ausdrücklich beantragt"
+     "Das Wegerecht bleibt bestehen und fällt in das geringste Gebot"
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Wird aus einem vorrangigen Recht versteigert, erlöschen alle nachrangigen Rechte mit dem Zuschlag (§§ 44 ff., 52, 91 ZVG). Nur Rechte, die dem Recht des betreibenden Gläubigers vorgehen, bleiben bestehen und fallen in das geringste Gebot. Das nachrangige Wegerecht kann lediglich zur Erlösverteilung angemeldet werden (§§ 14, 92 ZVG)."
    },
    {
     "frage": "Wie sollte der Notar die Gestaltung anpassen, damit die Erschließung der hinteren Fläche dauerhaft gesichert ist?",
     "optionen": [
-     "Das Wegerecht als Herrschvermerk im Bestandsverzeichnis der hinteren Fläche eintragen lassen",
      "Einen Rangrücktritt der Bank B hinter das Wegerecht einholen, damit die Dienstbarkeit vorrangig ist",
      "Das Wegerecht in Abteilung III eintragen lassen, damit es den Rang der Grundschuld teilt",
-     "Die Bank B über das Wegerecht belehren; mehr ist nicht möglich"
+     "Die Bank B über das Wegerecht belehren; mehr ist nicht möglich",
+     "Das Wegerecht als Herrschvermerk im Bestandsverzeichnis der hinteren Fläche eintragen lassen"
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "Dienstbarkeiten zur Sicherung von Zugang oder Ver- und Entsorgung sollten im Rang vor Grundschulden eingetragen werden, damit sie in einer Zwangsversteigerung nicht erlöschen. Dafür muss B den Rangrücktritt erklären (§ 880 BGB); da ein Grundpfandrecht zurücktritt, ist zusätzlich die Zustimmung des Eigentümers E nötig. Ein Herrschvermerk ändert am Rang nichts, und eine Dienstbarkeit gehört nicht in Abteilung III."
    },
    {
     "frage": "Vormerkung für K und Grundschuld für S werden am selben Tag beantragt. Welche Rangbestimmung sollte der Notar in den Urkunden treffen?",
     "optionen": [
-     "Vormerkung vor Grundschuld, damit der Erwerb des K vorrangig gesichert ist",
-     "Grundschuld vor Vormerkung, weil die finanzierende Bank die erste Rangstelle verlangt",
      "Keine Rangbestimmung, weil Rechte verschiedener Abteilungen ohnehin Gleichrang erhalten",
-     "Eine Rangbestimmung nur im Antrag, abweichend von der Bewilligung"
+     "Eine Rangbestimmung nur im Antrag, abweichend von der Bewilligung",
+     "Vormerkung vor Grundschuld, damit der Erwerb des K vorrangig gesichert ist",
+     "Grundschuld vor Vormerkung, weil die finanzierende Bank die erste Rangstelle verlangt"
     ],
-    "antwort": 1,
+    "antwort": 3,
     "erklaerung": "Die Antragsteller können das Rangverhältnis gleichzeitig gestellter Anträge abweichend festlegen (§ 45 Abs. 3 Alt. 2 GBO). Der Praxishinweis lautet: Grundschuld vor Vormerkung, weil Banken die erste oder bestmögliche Rangstelle verlangen. Die Rangbestimmung gehört in die Eintragungsbewilligung oder in den Antrag, dort aber nicht mit abweichendem Inhalt."
    }
   ],
@@ -405,12 +405,12 @@
   ],
   "frage": "Welche Reichweite hat die Befreiung des Notars nach § 12 Abs. 3 GBO i. V. m. § 43 Abs. 2 S. 1 GBV?",
   "optionen": [
+   "Die Befreiung gilt nur für Einsicht in die Grundakten, nicht in das Grundbuchblatt",
    "Der Notar darf das Grundbuch auch ohne berechtigtes Interesse einsehen",
    "Der Notar ist nur von der Darlegung befreit; ein berechtigtes Interesse muss weiterhin vorliegen",
-   "Der Notar muss das berechtigte Interesse nicht darlegen, aber glaubhaft machen",
-   "Die Befreiung gilt nur für Einsicht in die Grundakten, nicht in das Grundbuchblatt"
+   "Der Notar muss das berechtigte Interesse nicht darlegen, aber glaubhaft machen"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Nach § 43 Abs. 2 S. 1 GBV sind Notare wie Behördenbeauftragte befugt, das Grundbuch einzusehen, ohne dass es der Darlegung eines berechtigten Interesses bedarf. Die Befreiung betrifft nur die Darlegung: Ein berechtigtes Interesse, das aus der Amtspflicht zur Unterrichtung über den Grundbuchinhalt folgt, muss weiterhin vorliegen, Gefälligkeitsabrufe sind unzulässig. Glaubhaftmachung wäre sogar mehr als die ohnehin nur geforderte Darlegung von Tatsachen."
  },
  {
@@ -427,12 +427,12 @@
   ],
   "frage": "K erklärt dem Notar, er wolle das Grundstück des E kaufen, und bittet um einen Grundbuchauszug. Wie ist zu verfahren?",
   "optionen": [
-   "Der Auszug ist auszuhändigen, weil ein Kaufinteresse stets ein berechtigtes Interesse begründet",
    "Ohne weitere Nachweise ist die Mitwirkung des Eigentümers E zu verlangen",
    "Die Mitteilung ist unzulässig, weil Notare Grundbuchinhalte nur an Eingetragene mitteilen dürfen",
-   "Der Auszug darf nur über das Grundbuchamt, nicht durch den Notar erteilt werden"
+   "Der Auszug darf nur über das Grundbuchamt, nicht durch den Notar erteilt werden",
+   "Der Auszug ist auszuhändigen, weil ein Kaufinteresse stets ein berechtigtes Interesse begründet"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Die isolierte Mitteilung des Grundbuchinhalts an Dritte richtet sich nach §§ 133a, 12 GBO und setzt ein berechtigtes Interesse des Anfragenden voraus. Wer nur behauptet, kaufen zu wollen, braucht ohne weitere Nachweise die Mitwirkung des Eigentümers; bei diesem und bei sonst Eingetragenen besteht das berechtigte Interesse dagegen regelmäßig. Eine Mitteilung durch den Notar ist grundsätzlich möglich, über sie ist aber ein Protokoll zu führen (§ 133a Abs. 3, Abs. 4 GBO)."
  },
  {
@@ -464,12 +464,12 @@
   ],
   "frage": "Was verlangt § 12 Abs. 1 S. 1 GBO von demjenigen, der das Grundbuch einsehen will?",
   "optionen": [
-   "Glaubhaftmachung eines rechtlichen Interesses",
-   "Darlegung eines berechtigten Interesses",
    "Nachweis eines wirtschaftlichen Interesses durch Urkunden",
-   "Zustimmung des eingetragenen Eigentümers"
+   "Zustimmung des eingetragenen Eigentümers",
+   "Glaubhaftmachung eines rechtlichen Interesses",
+   "Darlegung eines berechtigten Interesses"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "§ 12 Abs. 1 S. 1 GBO gestattet die Einsicht jedem, der ein berechtigtes Interesse darlegt. Darlegen heißt Tatsachen vortragen und ist weniger als Glaubhaftmachung; das Interesse kann rechtlicher, wirtschaftlicher oder tatsächlicher Natur sein. Die Einsicht reicht nach § 12 Abs. 2 GBO nur so weit, wie das Interesse sie trägt. Die Zustimmung des Eigentümers ist kein gesetzliches Erfordernis, wird aber praktisch bei bloßen Kaufinteressenten verlangt."
  },
  {
@@ -507,12 +507,12 @@
   ],
   "frage": "Die Ergebnisliste des Grundbuchabrufs zeigt zu dem Blatt einen Antrag in Bearbeitung. Welche Aussage trifft zu?",
   "optionen": [
-   "Für die Richtigkeit der Antragsliste wird nicht eingestanden; der Notar sollte bei Beteiligten oder Grundbuchamt klären, worum es geht",
-   "Die Antragsliste ist verbindlich; der Notar darf erst nach Erledigung des Antrags beurkunden",
    "Der offene Antrag ist unbeachtlich, weil er den Rang späterer Eintragungen nicht berührt",
-   "Der Notar muss den Antrag nach § 17 GBO zurückweisen lassen"
+   "Der Notar muss den Antrag nach § 17 GBO zurückweisen lassen",
+   "Für die Richtigkeit der Antragsliste wird nicht eingestanden; der Notar sollte bei Beteiligten oder Grundbuchamt klären, worum es geht",
+   "Die Antragsliste ist verbindlich; der Notar darf erst nach Erledigung des Antrags beurkunden"
   ],
-  "antwort": 0,
+  "antwort": 2,
   "erklaerung": "Über die Ergebnisliste ist ersichtlich, ob zu dem Blatt ein Antrag in Bearbeitung ist; für die Richtigkeit dieser Angabe wird nach § 12a Abs. 1 S. 2 Hs. 2 GBO nicht eingestanden. Der Notar sollte klären, ob der Antrag dem geplanten Vertrag entgegensteht. Unbeachtlich ist er nicht: Ein früherer Antrag kann wegen § 17 GBO die von der Bank verlangte erste Rangstelle blockieren, dann ist gegebenenfalls ein Rangrücktritt nötig."
  },
  {
@@ -531,12 +531,12 @@
   ],
   "frage": "In Abteilung II ist ein dingliches Vorkaufsrecht für den verstorbenen V eingetragen, das gelöscht werden soll. Warum kann die Einsicht in die Grundakten geboten sein?",
   "optionen": [
-   "Weil nur die Grundakten ausweisen, ob das Vorkaufsrecht bereits ausgeübt wurde",
    "Weil erst die damalige Eintragungsbewilligung ergibt, ob das Recht vererblich bestellt wurde und damit Sterbeurkunde oder Erbnachweis mit Löschungsbewilligung nötig ist",
    "Weil die Löschung eines Vorkaufsrechts stets die Vorlage der Bestellungsurkunde nach § 29 GBO erfordert",
-   "Weil § 21 BeurkG die Einsicht in die Grundakten bei jeder Löschung vorschreibt"
+   "Weil § 21 BeurkG die Einsicht in die Grundakten bei jeder Löschung vorschreibt",
+   "Weil nur die Grundakten ausweisen, ob das Vorkaufsrecht bereits ausgeübt wurde"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Ein dingliches Vorkaufsrecht ist grundsätzlich nicht vererblich, sofern nichts anderes bestimmt ist (§§ 1094, 1098 Abs. 1, 473 S. 1 BGB); dann genügt zur Löschung die Sterbeurkunde, andernfalls sind Erbnachweis und Löschungsbewilligung des Erben nötig. Den Inhalt ergibt erst die damalige Eintragungsbewilligung in den Grundakten, auf die der Eintragungsvermerk Bezug nimmt (§ 874 BGB). Die Unterrichtungspflicht nach § 21 BeurkG umfasst die Grundakten regelmäßig nicht; nur ein konkreter Anlass wie hier gebietet ihre Einsicht."
  },
  {
@@ -573,12 +573,12 @@
    {
     "frage": "Muss N wegen des Alters des Auszugs zwingend neu abrufen?",
     "optionen": [
-     "Ja, § 21 BeurkG verlangt einen Abruf, der höchstens vier Wochen alt ist",
-     "Nein; N kann in Baden-Württemberg das Datum der letzten Änderung in der Ergebnisliste mit dem Datum des Auszugs vergleichen",
      "Nein, weil die Aktualität des Auszugs allein Sache der Beteiligten ist",
-     "Ja, weil ein von den Beteiligten vorgelegter Auszug nie verwendet werden darf"
+     "Ja, weil ein von den Beteiligten vorgelegter Auszug nie verwendet werden darf",
+     "Ja, § 21 BeurkG verlangt einen Abruf, der höchstens vier Wochen alt ist",
+     "Nein; N kann in Baden-Württemberg das Datum der letzten Änderung in der Ergebnisliste mit dem Datum des Auszugs vergleichen"
     ],
-    "antwort": 1,
+    "antwort": 3,
     "erklaerung": "Das BeurkG regelt keine Frist; der Notar bestimmt die nötige Aktualität nach pflichtgemäßem Ermessen. Ist ein vorhandener Auszug nicht aktuell genug, muss nicht stets neu abgerufen werden: In Baden-Württemberg weist die Ergebnisliste das Datum der letzten Änderung des Blatts aus, das sich mit dem Datum des Auszugs vergleichen lässt."
    },
    {
@@ -595,12 +595,12 @@
    {
     "frage": "Stellt sich heraus, dass der offene Antrag eine Eintragung betrifft, die der ersten Rangstelle der Käuferbank vorgeht, wie sollte N vorgehen?",
     "optionen": [
+     "Die Finanzierungsgrundschuld in Abteilung II eintragen lassen",
      "Die Rangstelle im Kaufvertrag zusichern, weil § 17 GBO den späteren Antrag bevorzugt",
      "Die Beteiligten an die Käuferbank verweisen; gegebenenfalls ist ein Rangrücktritt nötig",
-     "Den Antrag beim Grundbuchamt zurücknehmen lassen",
-     "Die Finanzierungsgrundschuld in Abteilung II eintragen lassen"
+     "Den Antrag beim Grundbuchamt zurücknehmen lassen"
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Nach § 17 GBO sind Anträge in der Reihenfolge ihres Eingangs zu erledigen; ein früherer Antrag blockiert daher die von der Bank verlangte erste Rangstelle. Der Praxishinweis lautet, die Beteiligten an ihre Bank zu verweisen; gegebenenfalls ist ein Rangrücktritt des vorgehenden Berechtigten erforderlich. Der Notar kann einen fremden Antrag weder zurücknehmen noch die Rangstelle zusichern."
    }
   ],
@@ -619,12 +619,12 @@
   ],
   "frage": "Welche Rechtsnatur hat die Ermächtigung des Notars nach § 15 Abs. 2 GBO?",
   "optionen": [
-   "Ein eigenes Antragsrecht des Notars kraft Amtes",
    "Eine widerlegliche Vermutung der Vollmacht, im Namen eines Antragsberechtigten zu beantragen",
    "Eine unwiderlegliche gesetzliche Vertretungsmacht für alle Eintragungserklärungen",
-   "Eine Botenstellung ohne eigene Erklärungsbefugnis"
+   "Eine Botenstellung ohne eigene Erklärungsbefugnis",
+   "Ein eigenes Antragsrecht des Notars kraft Amtes"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Hat der Notar die zur Eintragung erforderliche Erklärung beurkundet oder beglaubigt, gilt er nach § 15 Abs. 2 GBO als ermächtigt, im Namen eines Antragsberechtigten die Eintragung zu beantragen. Das ist eine widerlegliche Vermutung der Vollmacht; ein eigenes Antragsrecht hat der Notar nicht. Die Ermächtigung erstreckt sich nur auf den Antrag, nicht auf Bewilligungen oder andere Erklärungen, für die eine eigene Vollmacht nötig ist."
  },
  {
@@ -641,12 +641,12 @@
   ],
   "frage": "Notar N hat den Kaufvertrag nur mit der Bitte um Vollzug der von den Beteiligten selbst gestellten Anträge eingereicht. Der Verkäufer möchte den Antrag auf Eigentumsumschreibung zurücknehmen. Was gilt?",
   "optionen": [
-   "N kann die Anträge nach § 24 Abs. 3 BNotO mit Unterschrift und Siegel zurücknehmen",
-   "Nur die Beteiligten selbst können ihre Anträge zurücknehmen; N war lediglich Bote",
    "N kann zurücknehmen, da § 15 Abs. 2 GBO auch die Rücknahme umfasst",
-   "Eine Rücknahme ist ausgeschlossen, weil der Antrag bereits eingegangen ist"
+   "Eine Rücknahme ist ausgeschlossen, weil der Antrag bereits eingegangen ist",
+   "N kann die Anträge nach § 24 Abs. 3 BNotO mit Unterschrift und Siegel zurücknehmen",
+   "Nur die Beteiligten selbst können ihre Anträge zurücknehmen; N war lediglich Bote"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Bittet der Notar lediglich um Vollzug der Anträge der Beteiligten, wird er als Bote tätig; dann können nur die Beteiligten ihre Anträge zurücknehmen, sie erhalten die Entscheidungen und sind allein beschwerdeberechtigt. Die Rücknahmeermächtigung nach § 24 Abs. 3 BNotO gilt nur für Anträge, die der Notar selbst kraft § 15 Abs. 2 GBO im Namen der Beteiligten gestellt hat. Diesen Unterschied muss der Notar bei der Wahl des Vorgehens bedenken."
  },
  {
@@ -721,12 +721,12 @@
   ],
   "frage": "Beim Übergabevertrag soll die Eigentumsumschreibung nur zusammen mit der Eintragung des Nießbrauchs für den Übergeber erfolgen. Wie ist das verfahrensrechtlich umzusetzen?",
   "optionen": [
-   "Durch einen bedingten Eintragungsantrag nach § 16 Abs. 1 GBO",
    "Durch Verbindung der Anträge, dass keine Eintragung ohne die andere erfolgen soll (§ 16 Abs. 2 GBO)",
    "Gar nicht; jeder Antrag ist zwingend gesondert zu erledigen",
-   "Durch Rangbestimmung nach § 45 Abs. 3 GBO"
+   "Durch Rangbestimmung nach § 45 Abs. 3 GBO",
+   "Durch einen bedingten Eintragungsantrag nach § 16 Abs. 1 GBO"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Der Eintragungsantrag darf nicht unter einer Bedingung gestellt werden (§ 16 Abs. 1 GBO). Zulässig ist aber, mehrere Anträge so zu verbinden, dass keine Eintragung ohne die andere erfolgen soll (§ 16 Abs. 2 GBO); der Übergabevertrag mit Eigentumsumschreibung und Nießbrauch ist der Beispielsfall. Eine Rangbestimmung regelt nur das Rangverhältnis, nicht die Abhängigkeit der Eintragungen voneinander."
  },
  {
@@ -793,12 +793,12 @@
   ],
   "frage": "Wer muss nach § 19 GBO eine Eintragung bewilligen?",
   "optionen": [
-   "Alle im Grundbuchblatt eingetragenen Personen",
-   "Derjenige, dessen Recht von der Eintragung betroffen wird",
    "Der Begünstigte und der Betroffene gemeinsam",
-   "Der Eigentümer in jedem Fall, auch bei Löschung fremder Rechte"
+   "Der Eigentümer in jedem Fall, auch bei Löschung fremder Rechte",
+   "Alle im Grundbuchblatt eingetragenen Personen",
+   "Derjenige, dessen Recht von der Eintragung betroffen wird"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "§ 19 GBO: Eine Eintragung erfolgt, wenn derjenige sie bewilligt, dessen Recht von ihr betroffen wird. Betroffen ist nur, wer durch die Eintragung rechtlich schlechter gestellt wird; der Begünstigte muss nicht bewilligen. Bei der Grundschuldbestellung bewilligt daher der Eigentümer, bei der Löschung einer Grundschuld zumindest deren Inhaber."
  },
  {
@@ -837,12 +837,12 @@
   ],
   "frage": "Welche Aussage zur Bedingung in der Eintragungsbewilligung trifft zu?",
   "optionen": [
+   "Ein Wohnungsrecht darf nur bedingt bestellt werden, wenn der Todesnachweis nach § 23 Abs. 2 GBO vereinbart ist",
    "Weder die Bewilligung noch das bewilligte Recht dürfen bedingt oder befristet sein",
    "Die Bewilligung darf nicht bedingt sein; das bewilligte Recht selbst darf aber bedingt oder befristet sein",
-   "Die Bewilligung darf bedingt sein, wenn das Grundbuchamt den Bedingungseintritt leicht prüfen kann",
-   "Ein Wohnungsrecht darf nur bedingt bestellt werden, wenn der Todesnachweis nach § 23 Abs. 2 GBO vereinbart ist"
+   "Die Bewilligung darf bedingt sein, wenn das Grundbuchamt den Bedingungseintritt leicht prüfen kann"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Die Bewilligung muss bestimmt sein und darf nicht unter einer Bedingung stehen; das Grundstück ist nach § 28 GBO übereinstimmend mit dem Grundbuch zu bezeichnen. Das bewilligte Recht selbst darf dagegen bedingt oder befristet sein, etwa ein auf den Tod befristetes Wohnungsrecht oder ein durch das Erlöschen eines anderen Nießbrauchs aufschiebend bedingter Nießbrauch; im Grundbuch erscheint nur der Hinweis, den Inhalt erschließt die Bewilligung. Die Eintragung, dass der Todesnachweis zur Löschung genügt (§ 23 Abs. 2 GBO), ist eine Alternative zur Befristung, keine Voraussetzung."
  },
  {
@@ -875,12 +875,12 @@
   ],
   "frage": "Eine Grundschuld soll gelöscht werden, die ihrerseits mit einem Pfandrecht des D belastet ist. Wer muss bewilligen?",
   "optionen": [
-   "Nur der Grundschuldgläubiger als Inhaber des zu löschenden Rechts",
    "Der Grundschuldgläubiger und D, weil D durch die Löschung mittelbar betroffen ist (§ 876 S. 1 BGB)",
    "Nur D, weil sein Pfandrecht das jüngere Recht ist",
-   "Nur der Eigentümer, weil die Löschung ihn begünstigt"
+   "Nur der Eigentümer, weil die Löschung ihn begünstigt",
+   "Nur der Grundschuldgläubiger als Inhaber des zu löschenden Rechts"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Bewilligen muss, wer durch die Eintragung eine dingliche Rechtsstellung einbüßt oder einbüßen könnte. Mittelbare Betroffenheit genügt, etwa wenn an dem zu löschenden Recht seinerseits ein Drittrecht lastet (§ 876 S. 1 BGB). Daher müssen neben dem Grundschuldgläubiger auch D bewilligen. Der Eigentümer ist Begünstigter und bewilligt nicht nach § 19 GBO; seine Zustimmung zur Löschung von Grundpfandrechten beruht auf einer anderen Regelung."
  },
  {
@@ -896,12 +896,12 @@
   ],
   "frage": "Welche Unterlage kann der Notar nicht allein durch elektronische Einreichung nachweisen, sondern muss zusätzlich den Besitz der Urschrift oder Ausfertigung belegen?",
   "optionen": [
+   "Die öffentlich beglaubigte Löschungsbewilligung",
    "Die Vorkaufsrechtsbescheinigung nach § 28 BauGB",
    "Die Eigenurkunde des Notars mit der Eigentumsumschreibungsbewilligung",
-   "Den Erbschein",
-   "Die öffentlich beglaubigte Löschungsbewilligung"
+   "Den Erbschein"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Nach § 137 Abs. 1 S. 3 GBO bleibt ein etwaiges Erfordernis, dem Grundbuchamt den Besitz der Urschrift oder Ausfertigung nachzuweisen, unberührt, weil sich nicht jeder Nachweis elektronisch gleichwertig führen lässt. Wichtigste Fälle sind Erbschein, Europäisches Nachlasszeugnis (str.), Testamentsvollstreckerzeugnis und Grundpfandrechtsbrief. Elektronisch errichtete Notarurkunden und Behördenurkunden wie die Vorkaufsrechtsbescheinigung können dagegen nach § 137 Abs. 1 S. 2 GBO ohne Weiteres elektronisch eingereicht werden."
  },
  {
@@ -956,12 +956,12 @@
   ],
   "frage": "Ab wann übermittelt das Finanzamt die grunderwerbsteuerliche Unbedenklichkeitsbescheinigung elektronisch, und wie kann der Notar sie dann dem Grundbuchamt vorlegen?",
   "optionen": [
+   "Ab 01.01.2027; nur als Ausdruck mit Besitznachweis der Urschrift",
    "Ab 01.01.2027; nur elektronisch in der Form des § 137 Abs. 2 GBO",
    "Ab 01.01.2028; abweichend von §§ 29, 137 GBO als Ausdruck oder elektronisch",
-   "Ab 01.01.2028; nur nach Medientransfer als Vermerkdokument nach § 39a BeurkG",
-   "Ab 01.01.2027; nur als Ausdruck mit Besitznachweis der Urschrift"
+   "Ab 01.01.2028; nur nach Medientransfer als Vermerkdokument nach § 39a BeurkG"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Die Unbedenklichkeitsbescheinigung übermittelt das Finanzamt ab dem 01.01.2028 elektronisch; der Notar kann sie dem Grundbuchamt dann abweichend von §§ 29, 137 GBO als Ausdruck oder elektronisch vorlegen (§ 22 Abs. 2 S. 5–7 GrEStG). Das Datum 01.01.2027 betrifft dagegen Genehmigungen, Zeugnisse und Bescheinigungen nach GrdstVG und GVO, die dann in der Form des § 137 Abs. 2 GBO elektronisch zu erteilen sind (§ 25 Abs. 2 GrdstVG, § 12 Abs. 2 GVO)."
  },
  {
@@ -978,12 +978,12 @@
   ],
   "frage": "Welche Form verlangt § 29 Abs. 1 GBO für die Eintragungsbewilligung einerseits und für andere Eintragungsvoraussetzungen wie die Erbfolge andererseits?",
   "optionen": [
-   "Bewilligung: Schriftform; andere Voraussetzungen: öffentliche Urkunde",
    "Bewilligung: öffentliche oder öffentlich beglaubigte Urkunde; andere Voraussetzungen: öffentliche Urkunde, soweit nicht offenkundig",
    "Bewilligung: notarielle Beurkundung; andere Voraussetzungen: Glaubhaftmachung",
-   "Bewilligung und andere Voraussetzungen: jeweils öffentlich beglaubigte Urkunde"
+   "Bewilligung und andere Voraussetzungen: jeweils öffentlich beglaubigte Urkunde",
+   "Bewilligung: Schriftform; andere Voraussetzungen: öffentliche Urkunde"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Nach § 29 Abs. 1 S. 1 GBO sind Eintragungsbewilligung und sonstige zur Eintragung erforderliche Erklärungen durch öffentliche oder öffentlich beglaubigte Urkunden nachzuweisen. Andere Voraussetzungen ohne Erklärungscharakter, etwa Erbfolge, Lebensalter oder die Stellung als Insolvenzverwalter, bedürfen nach § 29 Abs. 1 S. 2 GBO des Nachweises durch öffentliche Urkunden, soweit sie nicht beim Grundbuchamt offenkundig sind. Eine bloße Beglaubigung reicht für diese zweite Gruppe nicht."
  },
  {
@@ -999,12 +999,12 @@
   ],
   "frage": "Warum ist der Erbschein dem Grundbuchamt in Urschrift oder Ausfertigung und nicht in beglaubigter Abschrift vorzulegen?",
   "optionen": [
-   "Weil § 35 Abs. 1 GBO dies ausdrücklich anordnet",
-   "Weil das Nachlassgericht den Erbschein bis zur Eintragung einziehen kann und nur die Ausfertigung der Einziehung unterliegt",
    "Weil beglaubigte Abschriften im Grundbuchverfahren generell nicht zugelassen sind",
-   "Weil der Erbschein eine Eintragungserklärung im Sinne des § 29 Abs. 1 S. 1 GBO ist"
+   "Weil der Erbschein eine Eintragungserklärung im Sinne des § 29 Abs. 1 S. 1 GBO ist",
+   "Weil § 35 Abs. 1 GBO dies ausdrücklich anordnet",
+   "Weil das Nachlassgericht den Erbschein bis zur Eintragung einziehen kann und nur die Ausfertigung der Einziehung unterliegt"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "§ 35 GBO sagt das nicht ausdrücklich; das Erfordernis folgt daraus, dass das Nachlassgericht den Erbschein bis zur Eintragung als unrichtig einziehen kann. Eine Ausfertigung unterliegt der Einziehung, eine beglaubigte Abschrift nicht. Beruht die Erbfolge dagegen auf einem notariellen Testament mit Eröffnungsniederschrift (§ 35 Abs. 1 S. 2 GBO), genügt die elektronisch beglaubigte Abschrift, weil dort eine Einziehung ausscheidet."
  },
  {
@@ -1058,12 +1058,12 @@
   ],
   "frage": "Die Testamentsvollstreckung beruht auf einem notariellen Testament. Was muss der Notar prüfen, wenn er statt des Testamentsvollstreckerzeugnisses Testament und Eröffnungsniederschrift vorlegen will?",
   "optionen": [
-   "Ob die Eröffnungsniederschrift belegt, dass der Testamentsvollstrecker das Amt gegenüber dem Nachlassgericht angenommen hat; sonst ist eine Annahmebescheinigung beizufügen",
-   "Ob das Testament jünger als ein Jahr ist, da sonst das Zeugnis in Ausfertigung nötig ist",
    "Ob alle Erben der Vorlage des Testaments zugestimmt haben",
-   "Nichts weiter; das notarielle Testament ersetzt das Zeugnis stets vollständig"
+   "Nichts weiter; das notarielle Testament ersetzt das Zeugnis stets vollständig",
+   "Ob die Eröffnungsniederschrift belegt, dass der Testamentsvollstrecker das Amt gegenüber dem Nachlassgericht angenommen hat; sonst ist eine Annahmebescheinigung beizufügen",
+   "Ob das Testament jünger als ein Jahr ist, da sonst das Zeugnis in Ausfertigung nötig ist"
   ],
-  "antwort": 0,
+  "antwort": 2,
   "erklaerung": "Das Testamentsvollstreckerzeugnis ist grundsätzlich in Ausfertigung vorzulegen (§ 35 Abs. 2 GBO). Bei notariellem Testament gilt die Ausnahme nach § 35 Abs. 2 Hs. 2, Abs. 1 S. 2 GBO; ergibt die Eröffnungsniederschrift aber nicht, dass der Testamentsvollstrecker das Amt gegenüber dem Nachlassgericht angenommen hat (vgl. § 2202 Abs. 2 BGB), ist zusätzlich eine Bescheinigung des Nachlassgerichts über die Annahme vorzulegen. Weder eine Jahresfrist noch eine Zustimmung der Erben spielt hier eine Rolle."
  },
  {
@@ -1100,12 +1100,12 @@
   ],
   "frage": "Die Ehegatten M und F vereinbaren notariell Gütergemeinschaft; M ist als Alleineigentümer eingetragen. Welcher Weg der Berichtigung erspart die Mitwirkung der F?",
   "optionen": [
-   "Berichtigungsbewilligung des M, weil F als Begünstigte nicht mitwirken muss",
-   "Unrichtigkeitsnachweis durch den notariellen Ehevertrag, weil dann die Zustimmung nach § 22 Abs. 2 GBO entfällt",
    "Richtigstellung von Amts wegen, weil nur eine Tatsache berichtigt wird",
-   "Keiner; F muss in jedem Fall zustimmen, weil sie Eigentümerin wird"
+   "Keiner; F muss in jedem Fall zustimmen, weil sie Eigentümerin wird",
+   "Berichtigungsbewilligung des M, weil F als Begünstigte nicht mitwirken muss",
+   "Unrichtigkeitsnachweis durch den notariellen Ehevertrag, weil dann die Zustimmung nach § 22 Abs. 2 GBO entfällt"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Soll ein Eigentümer eingetragen werden, muss er bei einer Berichtigungsbewilligung nach § 22 Abs. 2 GBO zustimmen; beim Unrichtigkeitsnachweis entfällt dies. Bewilligt M, müsste F daher zustimmen; wird die Unrichtigkeit dagegen durch den notariellen Ehevertrag über die Gütergemeinschaft nachgewiesen, muss F nicht mitwirken. Eine Richtigstellung scheidet aus, weil sich die Rechtslage und nicht nur eine Tatsachenangabe geändert hat."
  },
  {
@@ -1175,12 +1175,12 @@
   ],
   "frage": "Welche Aussage zur Grundbuchberichtigung bei Eigentumswechsel durch Erbfall trifft zu?",
   "optionen": [
-   "§ 13 Abs. 1 S. 3 GBO verlangt, dass ein Notar den Berichtigungsantrag einreicht",
    "Eine Unbedenklichkeitsbescheinigung des Finanzamts ist nicht erforderlich, weil kein Erwerbsgeschäft vorliegt",
    "Die Unbedenklichkeitsbescheinigung ist auch bei der Berichtigung des Eigentums erforderlich; § 13 Abs. 1 S. 3 GBO gilt nicht",
-   "Der Erbe muss zusätzlich nach § 22 Abs. 2 GBO seiner eigenen Eintragung zustimmen"
+   "Der Erbe muss zusätzlich nach § 22 Abs. 2 GBO seiner eigenen Eintragung zustimmen",
+   "§ 13 Abs. 1 S. 3 GBO verlangt, dass ein Notar den Berichtigungsantrag einreicht"
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "Betrifft die Berichtigung das Eigentum, ist auch bei der Grundbuchberichtigung die Unbedenklichkeitsbescheinigung des Finanzamts erforderlich. § 13 Abs. 1 S. 3 GBO gilt für die Berichtigung nicht, weil er nur Eintragungen nach § 20 GBO erfasst; der Erbe kann den Antrag mit formgerechtem Erbnachweis selbst stellen. Die Zustimmung nach § 22 Abs. 2 GBO ist nur bei einer Berichtigungsbewilligung nötig, nicht beim Unrichtigkeitsnachweis durch Erbschein."
  },
  {
@@ -1198,12 +1198,12 @@
   ],
   "frage": "Unter welcher Voraussetzung darf sich das Grundbuchamt nach dem Legalitätsprinzip über die Vermutung des § 891 BGB hinwegsetzen?",
   "optionen": [
+   "Nie, weil die Vermutung des § 891 BGB das Grundbuchamt stets bindet",
    "Nur wenn ihm die Unrichtigkeit in der Form des § 29 GBO nachgewiesen wird",
    "Wenn ihm Tatsachen bekannt oder nachgewiesen sind, die die Unrichtigkeit zweifelsfrei ergeben; die Form des § 29 GBO ist nicht erforderlich",
-   "Bereits bei begründeten Zweifeln an der Richtigkeit des Grundbuchs",
-   "Nie, weil die Vermutung des § 891 BGB das Grundbuchamt stets bindet"
+   "Bereits bei begründeten Zweifeln an der Richtigkeit des Grundbuchs"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Das aus Art. 20 Abs. 3 GG hergeleitete Legalitätsprinzip verbietet dem Grundbuchamt, wissentlich an einer Unrichtigkeit mitzuwirken. Über die Vermutung des § 891 BGB darf es sich aber erst hinwegsetzen, wenn ihm Tatsachen bekannt oder nachgewiesen sind, die die Unrichtigkeit zweifelsfrei ergeben; diese Tatsachen müssen nicht in der Form des § 29 GBO vorliegen. Bloße Zweifel genügen hier nicht, anders als beim Erbschein, an den das Grundbuchamt schon bei begründeten Zweifeln nicht gebunden ist."
  },
  {
@@ -1221,12 +1221,12 @@
   ],
   "frage": "Wie gelangt der Insolvenzvermerk in das Grundbuch?",
   "optionen": [
-   "Auf Antrag des Insolvenzverwalters nach § 13 GBO",
    "Auf Ersuchen des Insolvenzgerichts nach § 38 GBO",
    "Von Amts wegen durch das Grundbuchamt nach § 51 GBO",
-   "Auf Antrag eines Gläubigers in der Form des § 29 GBO"
+   "Auf Antrag eines Gläubigers in der Form des § 29 GBO",
+   "Auf Antrag des Insolvenzverwalters nach § 13 GBO"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Die Insolvenzeröffnung ist nach § 32 Abs. 1 InsO einzutragen; die Eintragung erfolgt auf Ersuchen des Insolvenzgerichts nach § 38 GBO, ebenso wie Zwangsversteigerungs-, Sanierungs- und Umlegungsvermerk. Von Amts wegen trägt das Grundbuchamt dagegen den Mitbelastungsvermerk (§ 48 GBO) sowie Nacherben- und Testamentsvollstreckervermerk (§§ 51, 52 GBO) ein."
  },
  {
@@ -1293,12 +1293,12 @@
   ],
   "frage": "Ein Wegerecht zugunsten des jeweiligen Eigentümers des Grundstücks H soll gelöscht werden. Auf dem Blatt von H ist ein Herrschvermerk eingetragen; H ist in Abteilung III mit einer Grundschuld belastet. Wessen Bewilligung verlangt das Grundbuchamt?",
   "optionen": [
-   "Nur die des Eigentümers von H, weil Grundpfandrechte vom Wegerecht nicht berührt werden",
-   "Die des Eigentümers von H und des Grundschuldgläubigers, weil wegen des Herrschvermerks § 21 GBO die Bewilligung der nach § 876 S. 2 BGB Zustimmungsberechtigten verlangt",
    "Nur die des Eigentümers des dienenden Grundstücks als Begünstigtem der Löschung",
-   "Die des Grundschuldgläubigers allein, weil er das wirtschaftlich stärkste Recht hält"
+   "Die des Grundschuldgläubigers allein, weil er das wirtschaftlich stärkste Recht hält",
+   "Nur die des Eigentümers von H, weil Grundpfandrechte vom Wegerecht nicht berührt werden",
+   "Die des Eigentümers von H und des Grundschuldgläubigers, weil wegen des Herrschvermerks § 21 GBO die Bewilligung der nach § 876 S. 2 BGB Zustimmungsberechtigten verlangt"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Steht das betroffene Recht dem jeweiligen Eigentümer eines Grundstücks zu, verlangt § 21 GBO die Bewilligung der nach § 876 S. 2 BGB zustimmungsberechtigten Personen, wenn das Recht auf dem Blatt des herrschenden Grundstücks vermerkt ist. Bei eingetragenem Herrschvermerk sind daher grundsätzlich die Bewilligungen aller in Abteilung II und III des herrschenden Grundstücks Eingetragenen beizubringen. Der Eigentümer des dienenden Grundstücks ist Begünstigter und bewilligt nicht."
  },
  {
@@ -1348,26 +1348,277 @@
    {
     "frage": "Welche Unterlagen muss N für die sofortige Löschung beschaffen?",
     "optionen": [
-     "Löschungsbewilligung des S als Erbe, Erbnachweis in der Form des § 29 GBO und Antrag",
-     "Nur eine eidesstattliche Versicherung des S über seine Erbenstellung",
      "Sterbeurkunde und privatschriftliche Erklärung des S, keine Rückstände zu beanspruchen",
-     "Zustimmung der Grundschuldgläubiger des Hauses"
+     "Zustimmung der Grundschuldgläubiger des Hauses",
+     "Löschungsbewilligung des S als Erbe, Erbnachweis in der Form des § 29 GBO und Antrag",
+     "Nur eine eidesstattliche Versicherung des S über seine Erbenstellung"
     ],
-    "antwort": 0,
+    "antwort": 2,
     "erklaerung": "Greift weder § 23 Abs. 1 noch Abs. 2 GBO zugunsten der Löschung, ist die Bewilligung des Erben erforderlich; sein Erbrecht ist durch einen Erbnachweis in der Form des § 29 GBO zu belegen, also Erbschein oder notarielles Testament mit Eröffnungsniederschrift. Hinzu kommt der Antrag. Dass S zugleich Eigentümer ist, ersetzt den Erbnachweis nicht, da er als Rechtsnachfolger der Berechtigten bewilligen muss."
    },
    {
     "frage": "Wie hätte N bei der Bestellung des Nießbrauchs die spätere Löschung erleichtern können?",
     "optionen": [
-     "Durch Befristung des Nießbrauchs auf zehn Jahre",
      "Durch Eintragung der Vorlöschungsklausel nach § 23 Abs. 2 GBO, dass zur Löschung der Todesnachweis genügt",
      "Durch Eintragung eines Herrschvermerks im Bestandsverzeichnis",
-     "Durch Ausschluss der Vererblichkeit des Nießbrauchs"
+     "Durch Ausschluss der Vererblichkeit des Nießbrauchs",
+     "Durch Befristung des Nießbrauchs auf zehn Jahre"
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "Nach § 23 Abs. 2 GBO ist die Bewilligung des Rechtsnachfolgers entbehrlich, wenn im Grundbuch eingetragen ist, dass zur Löschung der Nachweis des Todes genügen soll. Bei Nießbrauchsrechten und Wohnungsrechten mit möglichen Rückständen sollte diese Vorlöschungsklausel bei der Bestellung bedacht werden. Der Herrschvermerk betrifft nur subjektiv-dingliche Rechte und erschwert die Löschung sogar."
    }
   ],
   "erklaerung": "Nießbrauchsrechte fallen unter § 23 Abs. 1 GBO; binnen eines Jahres nach dem Tod ist ohne Vorlöschungsklausel die Bewilligung des Erben mit Erbnachweis nach § 29 GBO erforderlich, die Sterbeurkunde allein genügt nicht. Die Vorlöschungsklausel nach § 23 Abs. 2 GBO bei der Bestellung vermeidet diesen Aufwand."
+ },
+ {
+  "id": "grbu1-060",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: materielles Konsensprinzip, Eigentümerzustimmung und Gemeinschaftsverhältnis",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-materielles-konsensprinzip-eigentumerzustimmung-und-gemeinschaftsverhaltnis",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 20 GBO",
+   "§ 29 GBO"
+  ],
+  "frage": "In welchem Fall verlangt das Grundbuchamt nach § 20 GBO den Nachweis der Einigung und nicht nur die Bewilligung des Betroffenen?",
+  "optionen": [
+   "Bei der Löschung eines Wohnungsrechts",
+   "Bei der Eintragung einer Grunddienstbarkeit",
+   "Bei der Bestellung einer Grundschuld",
+   "Bei der Auflassung eines Grundstücks"
+  ],
+  "antwort": 3,
+  "erklaerung": "Nach § 20 GBO darf bei der Auflassung eines Grundstücks sowie bei Bestellung, Inhaltsänderung oder Übertragung eines Erbbaurechts nur eingetragen werden, wenn die Einigung des Berechtigten und des anderen Teils in der Form des § 29 GBO nachgewiesen ist. Bei der Grundschuld und anderen Belastungen ist die Einigung zwar materiell nötig (§ 873 BGB), wird aber nicht geprüft; dort genügt nach dem formellen Konsensprinzip die Bewilligung des Betroffenen (§ 19 GBO)."
+ },
+ {
+  "id": "grbu1-061",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: materielles Konsensprinzip, Eigentümerzustimmung und Gemeinschaftsverhältnis",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-materielles-konsensprinzip-eigentumerzustimmung-und-gemeinschaftsverhaltnis",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 27 GBO",
+   "§ 1183 BGB",
+   "§ 29 GBO"
+  ],
+  "frage": "Zur Löschung einer Grundschuld genügen Löschungsbewilligung und Antrag der Bank; die Zustimmung des Eigentümers ist nur materiell erforderlich und deshalb formfrei.",
+  "antwort": false,
+  "erklaerung": "Materiell ist die Eigentümerzustimmung nach § 1183 BGB (i. V. m. § 1192 Abs. 1 BGB) formfrei. Verfahrensrechtlich verlangt aber § 27 GBO die Zustimmung des Eigentümers zur Löschung von Grundpfandrechten in der Form des § 29 GBO. Löschungsbewilligung und Antrag des Gläubigers allein genügen nicht; das Einreichen der Bankbewilligung ohne beglaubigte Eigentümerzustimmung ist ein typischer Fehler."
+ },
+ {
+  "id": "grbu1-062",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: materielles Konsensprinzip, Eigentümerzustimmung und Gemeinschaftsverhältnis",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-materielles-konsensprinzip-eigentumerzustimmung-und-gemeinschaftsverhaltnis",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 47 Abs. 1 GBO",
+   "§ 428 BGB"
+  ],
+  "frage": "Die Ehegatten A und B erwerben ein Grundstück gemeinsam. Welche Angabe in der Bewilligung genügt § 47 Abs. 1 GBO nicht?",
+  "optionen": [
+   "„in Gütergemeinschaft“",
+   "„als Gesamthänder“",
+   "„in Errungenschaftsgemeinschaft nach ausländischem Güterrecht mit Gesamthandscharakter“",
+   "„zu je 1/2 Miteigentumsanteil“"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 47 Abs. 1 GBO sind bei mehreren Berechtigten die Bruchteile anzugeben oder das für die Gemeinschaft maßgebende Rechtsverhältnis zu bezeichnen; Grund ist der Bestimmtheitsgrundsatz. Zulässig sind Bruchteile, eine konkret benannte Gesamthandsgemeinschaft wie Gütergemeinschaft oder ein ausländischer Güterstand mit Gesamthandscharakter sowie Gesamtberechtigung nach §§ 428, 432 BGB. Die bloße Angabe „Gesamthänder“ benennt das Rechtsverhältnis nicht und reicht deshalb nicht."
+ },
+ {
+  "id": "grbu1-063",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Voreintragungsgrundsatz und Ausnahmen",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-voreintragungsgrundsatz-und-ausnahmen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 39 Abs. 1 GBO",
+   "§ 40 Abs. 1 GBO"
+  ],
+  "frage": "Die Erben des eingetragenen Eigentümers E verkaufen das Grundstück an K. Für K sollen eine Eigentumsvormerkung und eine Finanzierungsgrundschuld eingetragen werden. Müssen die Erben voreingetragen werden?",
+  "optionen": [
+   "Ja, aber nur für die Grundschuld, nicht für die Vormerkung",
+   "Nein, § 40 Abs. 1 GBO befreit bei jedem Verkauf durch Erben von der Voreintragung",
+   "Ja, weil Vormerkung und Grundschuld Rechte neu begründen und § 40 GBO nur Übertragung oder Aufhebung erfasst",
+   "Nein, wenn der Erbschein in Ausfertigung vorgelegt wird"
+  ],
+  "antwort": 2,
+  "erklaerung": "§ 40 Abs. 1 Alt. 1 GBO befreit die Erben von der Voreintragung nur, wenn das Recht übertragen oder aufgehoben werden soll; für die Eigentumsumschreibung auf K ist daher keine Voreintragung nötig. Bei Vormerkung und Finanzierungsgrundschuld wird dagegen ein Recht neu begründet; hier greift § 40 GBO nicht, sodass die Erben nach § 39 Abs. 1 GBO voreingetragen sein müssen. Der Erbnachweis allein ersetzt die Voreintragung in diesen Fällen nicht."
+ },
+ {
+  "id": "grbu1-064",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Voreintragungsgrundsatz und Ausnahmen",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-voreintragungsgrundsatz-und-ausnahmen",
+  "typ": "zuordnung",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 39 Abs. 2 GBO",
+   "§ 40 GBO",
+   "§ 185 BGB"
+  ],
+  "frage": "Ordne die Ausnahme vom Voreintragungsgrundsatz ihrer Grundlage zu.",
+  "paare": [
+   [
+    "Verkauf durch die Erben des eingetragenen Eigentümers",
+    "§ 40 Abs. 1 GBO, Übertragung oder Aufhebung des Rechts"
+   ],
+   [
+    "Bewilligung des Testamentsvollstreckers",
+    "§ 40 Abs. 2 GBO"
+   ],
+   [
+    "Abtretung einer Briefgrundschuld durch nicht eingetragenen Gläubiger",
+    "§ 39 Abs. 2 GBO, Briefbesitz und Nachweis nach § 1155 BGB"
+   ],
+   [
+    "Kettenauflassung mit unmittelbarer Eintragung des Dritten",
+    "Verfügung des Zwischenerwerbers mit Zustimmung des Eingetragenen (§ 185 BGB)"
+   ]
+  ],
+  "erklaerung": "§ 40 Abs. 1 GBO befreit die Erben von der Voreintragung bei Übertragung oder Aufhebung des Rechts, § 40 Abs. 2 GBO bei Bewilligungen des Testamentsvollstreckers. Bei Briefrechten steht nach § 39 Abs. 2 GBO der Briefbesitz mit Nachweis des Gläubigerrechts nach § 1155 BGB der Eintragung gleich. Die Kettenauflassung regelt die GBO nicht; der Zwischenerwerber verfügt mit Zustimmung des Eingetragenen, was nach § 185 BGB als ausreichend angesehen wird."
+ },
+ {
+  "id": "grbu1-065",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Voreintragungsgrundsatz und Ausnahmen",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-voreintragungsgrundsatz-und-ausnahmen",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 892 BGB",
+   "KV 14110 GNotKG",
+   "§ 40 Abs. 1 GBO"
+  ],
+  "frage": "Die Erben wollen ein Jahr nach dem Erbfall verkaufen. Warum empfiehlt sich trotz § 40 GBO regelmäßig die vorherige Berichtigung des Grundbuchs?",
+  "optionen": [
+   "Weil die Berichtigung wegen des Gutglaubensschutzes (§ 892 BGB) der sicherste Weg ist und bei Antrag binnen zwei Jahren nach dem Erbfall gebührenfrei ist",
+   "Weil die Erben ohne Voreintragung keine Auflassung erklären können",
+   "Weil die Berichtigung die Grunderwerbsteuer auf den Verkauf entfallen lässt",
+   "Weil das Grundbuchamt ohne Berichtigung die Auflassung nicht prüfen darf"
+  ],
+  "antwort": 0,
+  "erklaerung": "§ 40 Abs. 1 GBO macht die Voreintragung der Erben beim Verkauf entbehrlich, die Entscheidung ist aber im Einzelfall zu treffen. Wegen des Gutglaubensschutzes nach § 892 BGB ist die Berichtigung der sicherste Weg, zumal die Eintragung der Erben nach KV 14110 Anm. Abs. 1 GNotKG gebührenfrei ist, wenn der Antrag innerhalb von zwei Jahren nach dem Erbfall beim Grundbuchamt eingeht. Die Auflassung durch nicht eingetragene Erben ist dagegen möglich, nachzuweisen ist nur die Erbfolge nach § 29 GBO."
+ },
+ {
+  "id": "grbu1-066",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Voreintragungsgrundsatz und Ausnahmen",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-voreintragungsgrundsatz-und-ausnahmen",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 39 Abs. 1 GBO"
+  ],
+  "frage": "Hat die eingetragene Eigentümerin nach ihrer Heirat einen anderen Namen, ist der Voreintragungsgrundsatz gewahrt; in Betracht kommt lediglich eine Richtigstellung.",
+  "antwort": true,
+  "erklaerung": "§ 39 Abs. 1 GBO verlangt, dass der Betroffene als Berechtigter eingetragen ist. Ist er eingetragen, aber nach Namens- oder Firmenänderung unzutreffend bezeichnet, ist der Voreintragungsgrundsatz gewahrt; es geht nicht um eine abweichende Rechtslage, sondern um eine unrichtig wiedergegebene Tatsache, die das Grundbuchamt im Wege der Richtigstellung anpasst."
+ },
+ {
+  "id": "grbu1-067",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Zuständigkeit des Grundbuchamts, Entscheidungen, Schutzvermerk und Beschwerde",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-zustandigkeit-des-grundbuchamts-entscheidungen-schutzvermerk-und-beschwerde",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 18 Abs. 1 GBO",
+   "§ 17 GBO"
+  ],
+  "frage": "Welche Wirkung hat eine Zwischenverfügung des Grundbuchamts für den Antrag?",
+  "optionen": [
+   "Der Antrag ist im Sinne des § 17 GBO erledigt, spätere Anträge können vollzogen werden",
+   "Der Antrag ruht, bis der Antragsteller Beschwerde einlegt",
+   "Der Antrag gilt als zurückgewiesen und verliert seinen Rang",
+   "Der Antrag behält seinen Rang; nach Behebung des Hindernisses binnen der Frist wird ihm stattgegeben"
+  ],
+  "antwort": 3,
+  "erklaerung": "Ist der Mangel mit rückwirkender Kraft behebbar, setzt das Grundbuchamt nach § 18 Abs. 1 Alt. 2 GBO eine Frist zur Behebung und stellt in Aussicht, dem Antrag danach stattzugeben; der Antrag behält trotz Zwischenverfügung seinen Rang. Erledigt im Sinne des § 17 GBO ist der Antrag erst mit der Zurückweisung, die bei nicht behebbarem Mangel oder nach fruchtlosem Fristablauf ergeht."
+ },
+ {
+  "id": "grbu1-068",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Zuständigkeit des Grundbuchamts, Entscheidungen, Schutzvermerk und Beschwerde",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-zustandigkeit-des-grundbuchamts-entscheidungen-schutzvermerk-und-beschwerde",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 18 Abs. 2 GBO",
+   "§ 17 GBO",
+   "§ 883 BGB"
+  ],
+  "frage": "Gegen den Antrag auf Eigentumsumschreibung ist eine Zwischenverfügung ergangen; danach beantragt ein Gläubiger die Eintragung einer Zwangshypothek. Was geschieht nach § 18 Abs. 2 GBO?",
+  "optionen": [
+   "Die Zwangshypothek darf erst nach Erledigung des früheren Antrags eingetragen werden",
+   "Zugunsten des früheren Antrags wird von Amts wegen eine Vormerkung eingetragen, die als Erledigung im Sinne des § 17 GBO gilt; danach kann die Zwangshypothek eingetragen werden",
+   "Zugunsten des früheren Antrags wird von Amts wegen ein Widerspruch eingetragen",
+   "Der Käufer muss eine Vormerkung nach § 883 BGB bewilligen lassen, um seinen Rang zu sichern"
+  ],
+  "antwort": 1,
+  "erklaerung": "Wird vor Erledigung eines Antrags eine andere Eintragung beantragt, die dasselbe Recht betrifft, ist zugunsten des früheren Antrags von Amts wegen ein Schutzvermerk einzutragen; dieser gilt als Erledigung im Sinne des § 17 GBO, sodass der spätere Antrag vollzogen werden kann und kein Antragsstau entsteht (§ 18 Abs. 2 GBO). Zielt der frühere Antrag auf eine Rechtsänderung wie die Eigentumsumschreibung, wird eine Vormerkung eingetragen, ein Widerspruch nur bei Berichtigungsanträgen. Der Schutzvermerk ist von der materiellen Vormerkung nach § 883 BGB zu unterscheiden, die einen schuldrechtlichen Anspruch voraussetzt."
+ },
+ {
+  "id": "grbu1-069",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Zuständigkeit des Grundbuchamts, Entscheidungen, Schutzvermerk und Beschwerde",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-zustandigkeit-des-grundbuchamts-entscheidungen-schutzvermerk-und-beschwerde",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1 GBO",
+   "§ 3 Nr. 1h RpflG",
+   "§ 71 GBO",
+   "§ 23a GVG"
+  ],
+  "frage": "Ordne die Zuständigkeitsfragen im Grundbuchverfahren der zutreffenden Stelle zu.",
+  "paare": [
+   [
+    "Sachliche Zuständigkeit für Grundbuchsachen",
+    "Amtsgericht (Grundbuchamt)"
+   ],
+   [
+    "Funktionelle Zuständigkeit für Eintragungen",
+    "Rechtspfleger"
+   ],
+   [
+    "Entscheidung über die Beschwerde gegen das Grundbuchamt",
+    "Oberlandesgericht"
+   ],
+   [
+    "Führung der Grundbücher in Baden-Württemberg",
+    "Zentral bei 13 Amtsgerichten"
+   ]
+  ],
+  "erklaerung": "Grundbuchsachen sind den Amtsgerichten zugewiesen (§ 23a GVG); das Grundbuchamt ist die grundbuchführende Abteilung (§ 1 Abs. 1 S. 1 GBO). Innerhalb des Amtsgerichts entscheidet der Rechtspfleger (§ 3 Nr. 1h RpflG). Über Beschwerden entscheidet das Oberlandesgericht (§§ 71 ff. GBO). Baden-Württemberg hat die Zuständigkeit nach § 1 Abs. 3 GBO bei 13 Amtsgerichten konzentriert, sodass das Grundbuch oft nicht am Belegenheitsort geführt wird."
+ },
+ {
+  "id": "grbu1-070",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Zuständigkeit des Grundbuchamts, Entscheidungen, Schutzvermerk und Beschwerde",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-zustandigkeit-des-grundbuchamts-entscheidungen-schutzvermerk-und-beschwerde",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 874 BGB",
+   "§ 44 GBO"
+  ],
+  "frage": "Bei der Kontrolle einer Eintragungsnachricht ist unter anderem zu prüfen, ob die Bezugnahme auf die Bewilligung nur der näheren Bezeichnung des Inhalts dient und das Recht im Eintragungstext schlagwortartig bezeichnet ist.",
+  "antwort": true,
+  "erklaerung": "Nach Vollzug ist zu kontrollieren, ob der Eintragungstext unterschrieben ist (§ 44 GBO), ob Inhalt und Umfang des Rechts, Berechtigter und belastetes Grundstück erkennbar sind, ob die Bezugnahme die Grenzen des § 874 BGB wahrt, also nur der näheren Bezeichnung des Inhalts dient, ob das Recht schlagwortartig bezeichnet ist und ob Bedingungen und Befristungen eingetragen sind."
  }
 ]

@@ -887,5 +887,173 @@
   "frage": "Meldet ein Istkaufmann seine Firma entgegen § 29 HGB nicht zum Handelsregister an, hält ihn das Registergericht durch Zwangsgeld nach § 14 HGB zur Anmeldung an.",
   "antwort": true,
   "erklaerung": "Der Istkaufmann muss nach § 29 HGB Firma, Ort der Handelsniederlassung und inländische Geschäftsanschrift anmelden, den Unternehmensgegenstand zusätzlich nach § 24 Abs. 4 HRV, wenn er sich nicht aus der Firma ergibt. Unterbleibt die Anmeldung, setzt das Registergericht Zwangsgeld nach § 14 HGB fest. Anders als beim Kannkaufmann besteht hier eine Pflicht, kein Wahlrecht."
+ },
+ {
+  "id": "hand2-038",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Handelsregister: Anmeldung, Anmeldeberechtigte und beizufügende Unterlagen",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/handelsregister-anmeldung-anmeldeberechtigte-und-beizufugende-unterlagen",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 12 Abs. 1 S. 1 HGB"
+  ],
+  "frage": "In welcher Form ist eine Anmeldung zum Handelsregister einzureichen?",
+  "optionen": [
+   "Schriftlich mit eigenhändiger Unterschrift des Anmeldenden",
+   "Elektronisch und in öffentlich beglaubigter Form",
+   "Stets in notariell beurkundeter Form",
+   "Elektronisch mit einfacher elektronischer Signatur des Anmeldenden"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 12 Abs. 1 S. 1 HGB ist jede Registeranmeldung elektronisch und in öffentlich beglaubigter Form einzureichen, in der Regel durch notarielle Unterschriftsbeglaubigung. Eine Beurkundung ist nicht vorgeschrieben, ersetzt die Beglaubigung aber. Schriftform oder eine einfache elektronische Signatur genügen nicht."
+ },
+ {
+  "id": "hand2-039",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Handelsregister: Anmeldung, Anmeldeberechtigte und beizufügende Unterlagen",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/handelsregister-anmeldung-anmeldeberechtigte-und-beizufugende-unterlagen",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 12 Abs. 1 S. 1 HGB"
+  ],
+  "frage": "Ein Prokurist kann Handelsregisteranmeldungen der Gesellschaft grundsätzlich allein vornehmen, da die Prokura alle gerichtlichen und außergerichtlichen Geschäfte erfasst.",
+  "antwort": false,
+  "erklaerung": "Ein Prokurist allein kann Handelsregisteranmeldungen grundsätzlich nicht vornehmen, weil Registeranmeldungen in aller Regel die Grundlagen der Gesellschaft berühren. Er kann nur im Rahmen unechter Gesamtvertretung zusammen mit einem Geschäftsführer, Vorstandsmitglied oder vertretenden Gesellschafter anmelden, und auch das nur, wenn die Anmeldung nicht von allen Organmitgliedern bzw. Gesellschaftern vorzunehmen ist."
+ },
+ {
+  "id": "hand2-040",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Handelsregister: Anmeldung, Anmeldeberechtigte und beizufügende Unterlagen",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/handelsregister-anmeldung-anmeldeberechtigte-und-beizufugende-unterlagen",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 14 HGB"
+  ],
+  "frage": "Ordne die Tatsachen ihrer registerrechtlichen Einordnung zu.",
+  "paare": [
+   [
+    "Änderung der Geschäftsanschrift",
+    "Eintragungspflichtig; Anmeldung durch Zwangsgeld nach § 14 HGB erzwingbar"
+   ],
+   [
+    "Gewinnabführungsvertrag",
+    "Eintragungsfähig, Zwangsgeld nach § 14 HGB ausgeschlossen"
+   ],
+   [
+    "Erteilung einer Generalvollmacht",
+    "Nicht eintragungsfähig"
+   ],
+   [
+    "Verpfändung eines Gesellschaftsanteils",
+    "Nicht eintragungsfähig, auch nicht auf Wunsch der Beteiligten"
+   ]
+  ],
+  "erklaerung": "Ob eine Tatsache eintragungspflichtig, eintragungsfähig oder nicht eintragungsfähig ist, bestimmt das Gesetz. Nur für eintragungspflichtige Tatsachen wie die Geschäftsanschrift besteht eine nach § 14 HGB erzwingbare Anmeldepflicht. Der Gewinnabführungsvertrag ist eintragungsfähig, aber nicht erzwingbar; Handlungs- und Generalvollmacht sowie Anteilsverpfändungen sind nicht eintragungsfähig."
+ },
+ {
+  "id": "hand2-041",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Handelsregister: Anmeldung, Anmeldeberechtigte und beizufügende Unterlagen",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/handelsregister-anmeldung-anmeldeberechtigte-und-beizufugende-unterlagen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 106 Abs. 7 HGB",
+   "§ 48 Abs. 1 HGB"
+  ],
+  "frage": "Worin unterscheiden sich Anmeldungen zum Handelsregister B von solchen zum Handelsregister A hinsichtlich der beizufügenden Unterlagen?",
+  "optionen": [
+   "In HRB sind stets Unterlagen beizufügen, die die angemeldete Änderung belegen; in HRA belegt regelmäßig die Anmeldung selbst den Vorgang",
+   "In HRA sind stets Gesellschaftsvertrag und Beschlüsse beizufügen; in HRB genügt die Anmeldung",
+   "In beiden Abteilungen sind keine Nachweise beizufügen, da das Registergericht nur formell prüft",
+   "In beiden Abteilungen sind stets Nachweise beizufügen, in HRB zusätzlich eine Gesellschafterliste"
+  ],
+  "antwort": 0,
+  "erklaerung": "Bei Anmeldungen zum HRB sind immer Urkunden beizufügen, aus denen sich die Änderung ergibt, etwa die Bestellung eines Geschäftsführers; ihr Fehlen ist ein typischer Fehler. In HRA gilt das Anmeldeprinzip: Die Anmeldung belegt regelmäßig den materiellen Vorgang, etwa bei der OHG (§ 106 Abs. 7 HGB) oder der Prokura (§ 48 Abs. 1 HGB)."
+ },
+ {
+  "id": "hand2-042",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Handelsregister: Registergerichte, Abteilungen und Einsicht",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/handelsregister-registergerichte-abteilungen-und-einsicht",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 3 HRV"
+  ],
+  "frage": "Welche der folgenden Rechtsträger werden in Abteilung A des Handelsregisters eingetragen?",
+  "optionen": [
+   "GmbH, AG und KGaA",
+   "Einzelkaufleute, OHG, KG und EWiV",
+   "GbR, OHG und KG",
+   "SE, Genossenschaften und Versicherungsvereine auf Gegenseitigkeit"
+  ],
+  "antwort": 1,
+  "erklaerung": "In Abteilung A stehen Einzelkaufleute, OHG, KG und EWiV; Kapitalgesellschaften wie GmbH, AG, KGaA, SE sowie Versicherungsvereine auf Gegenseitigkeit gehören in Abteilung B (vgl. § 3 HRV). Die GbR wird nicht im Handelsregister, sondern im Gesellschaftsregister eingetragen; Genossenschaften im Genossenschaftsregister."
+ },
+ {
+  "id": "hand2-043",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Handelsregister: Registergerichte, Abteilungen und Einsicht",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/handelsregister-registergerichte-abteilungen-und-einsicht",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§§ 3, 17 RPflG"
+  ],
+  "frage": "Registereintragungen nimmt in Baden-Württemberg regelmäßig der Rechtspfleger vor; ein Richter wird nur ausnahmsweise tätig.",
+  "antwort": true,
+  "erklaerung": "Nach §§ 3, 17 RPflG sind die Registersachen grundsätzlich dem Rechtspfleger übertragen; der Richter wird nur ausnahmsweise tätig. Die Register werden in Baden-Württemberg zentral bei den Amtsgerichten Stuttgart, Ulm, Mannheim und Freiburg i.Br. geführt."
+ },
+ {
+  "id": "hand2-044",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Handelsregister: Registergerichte, Abteilungen und Einsicht",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/handelsregister-registergerichte-abteilungen-und-einsicht",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 30a Abs. 4 HRV"
+  ],
+  "frage": "Der Notar möchte nachvollziehen, welche Geschäftsführer eine GmbH in der Vergangenheit hatte. Welchen Registerausdruck sollte er anfordern?",
+  "optionen": [
+   "Den aktuellen Ausdruck, da er alle eingetragenen Organmitglieder zeigt",
+   "Den chronologischen Ausdruck, da er sämtliche Eintragungen des Registerblatts zeigt",
+   "Eine Registerbescheinigung nach § 21 BNotO",
+   "Die Gesellschafterliste, da sie die Geschäftsführer ausweist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 30a Abs. 4 HRV wird der Ausdruck als chronologischer oder aktueller Ausdruck erteilt. Nur der chronologische Ausdruck zeigt sämtliche Eintragungen des Registerblatts und damit die Entwicklung früherer Eintragungen; der aktuelle Ausdruck zeigt nur den jüngsten Stand."
+ },
+ {
+  "id": "hand2-045",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Handelsregister: Registergerichte, Abteilungen und Einsicht",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/handelsregister-registergerichte-abteilungen-und-einsicht",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 3 HRV"
+  ],
+  "frage": "Wie wird die Zweigniederlassung eines Unternehmens mit inländischer Hauptniederlassung im Handelsregister verlautbart?",
+  "optionen": [
+   "Auf einem eigenen Registerblatt beim Registergericht am Ort der Zweigniederlassung",
+   "Ausschließlich als Vermerk auf dem Registerblatt der Hauptniederlassung",
+   "Auf einem eigenen Registerblatt mit eigenem Aktenzeichen in Abteilung B",
+   "Gar nicht, da Zweigniederlassungen nicht eintragungsfähig sind"
+  ],
+  "antwort": 1,
+  "erklaerung": "Hat das Unternehmen seinen Sitz oder seine Hauptniederlassung im Inland, erscheint die Zweigniederlassung ausschließlich als Vermerk auf dem Registerblatt der Hauptniederlassung. Ein eigenes Registerblatt am Ort der Zweigniederlassung gibt es in diesem Fall nicht."
  }
 ]

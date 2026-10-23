@@ -1372,5 +1372,171 @@
   "antwort": 1,
   "erklaerung": "Schulden mindern das Anfangsvermögen selbst über den Wert des Aktivvermögens hinaus (Art. 8 Abs. 1 S. 2 Abkommen), ebenso das Endvermögen (Art. 10 Abs. 1 S. 2 Abkommen); negatives Vermögen ist also möglich. Maßgeblich sind der Tag des Beginns bzw. der Beendigung des Güterstands. Eine Kappung bei null ist unzutreffend; die Begrenzung des Wahlgüterstands liegt stattdessen bei der Ausgleichsforderung (Art. 14 Abkommen).",
   "id": "fami1-062"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Ehegatteninnengesellschaft (§ 740 BGB)",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehegatteninnengesellschaft-740-bgb",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 740 BGB"
+  ],
+  "frage": "In welchem Fall kommt nach h. M. am ehesten eine konkludent vereinbarte Ehegatteninnengesellschaft in Betracht?",
+  "optionen": [
+   "Die Ehefrau arbeitet jahrelang unentgeltlich im Handwerksbetrieb ihres Mannes mit",
+   "Der Ehemann stellt der Ehefrau Kapital für den Erwerb des Familienheims zur Verfügung",
+   "Die Ehegatten bauen gleichberechtigt gemeinsam einen Hotelbetrieb auf",
+   "Die Ehefrau übernimmt Eigenleistungen beim Bau des gemeinsam bewohnten Hauses"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach ganz h. M. genügt nur ein gemeinsamer Zweck, der den üblichen Bereich des ehelichen Zusammenlebens überschreitet, etwa der gemeinsame Aufbau eines Unternehmens wie eines Hotelbetriebs; zudem müssen die Ehegatten im Vorhaben gleichberechtigt sein. Die bloße Mitarbeit im Betrieb des anderen oder die Bereitstellung von Kapital reicht nicht aus, ebenso wenig Leistungen für das Familienwohnheim. Die Innengesellschaft ist seit dem MoPeG in § 740 BGB geregelt.",
+  "id": "fami1-063"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Ehegatteninnengesellschaft (§ 740 BGB)",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehegatteninnengesellschaft-740-bgb",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 740 BGB"
+  ],
+  "frage": "Weil eine Ehegatteninnengesellschaft auch konkludent entstehen kann, ist sie bei gescheiterter Ehe der vorrangige Weg für Ausgleichsansprüche zwischen Ehegatten.",
+  "antwort": false,
+  "erklaerung": "Ein Ausgleich über eine Ehegatteninnengesellschaft kommt nur ausnahmsweise in Betracht; vorrangig gilt das Güterrecht. Zwar kann die Innengesellschaft (§ 740 BGB) auch stillschweigend vereinbart werden, die Rechtsprechung stellt an einen konkludenten Vertragsschluss aber hohe Anforderungen. Wer eine gesellschaftsrechtliche Lösung will, sollte sie deshalb ausdrücklich vereinbaren.",
+  "id": "fami1-064"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Ehegatteninnengesellschaft (§ 740 BGB)",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehegatteninnengesellschaft-740-bgb",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 740 BGB"
+  ],
+  "frage": "Nach der Rechtsprechung des BGH kann eine Ehegatteninnengesellschaft auch dann vorliegen, wenn die Ehegatten mit langjähriger, gezielter Planung gemeinsam Grundbesitz angesammelt haben.",
+  "antwort": true,
+  "erklaerung": "Nach BGH, NJW 1999, 2962 kann der planmäßige, langjährige gemeinsame Aufbau von Immobilienvermögen einen eigenständigen Gesellschaftszweck bilden, der über das übliche eheliche Zusammenleben hinausgeht. Abzugrenzen ist dies von Leistungen, die nur dem Familienwohnheim dienen; diese genügen nicht.",
+  "id": "fami1-065"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Eheschließung: Voraussetzungen, Nichtehe und Aufhebung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/eheschliessung-voraussetzungen-nichtehe-und-aufhebung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1303 BGB",
+   "§ 1314 Abs. 1 Nr. 1 BGB"
+  ],
+  "frage": "Vor dem Standesamt heiratet die 17-jährige A den volljährigen B. Welche Rechtsfolge tritt ein?",
+  "optionen": [
+   "Die Ehe ist wirksam, wenn das Familiengericht von der Volljährigkeit befreit hat",
+   "Es liegt eine Nichtehe ohne jede Ehewirkung vor",
+   "Die Ehe ist aufhebbar (§ 1314 Abs. 1 Nr. 1 BGB), weil A bei der Eheschließung 16 oder 17 Jahre alt war",
+   "Die Ehe ist voll wirksam und unangreifbar, weil A das 16. Lebensjahr vollendet hatte"
+  ],
+  "antwort": 2,
+  "erklaerung": "Eine Ehe darf erst mit Volljährigkeit eingegangen werden (§ 1303 S. 1 BGB); eine gerichtliche Befreiung ab 16 gibt es nicht – das für möglich zu halten ist ein typischer Fehler. Wurde die Ehe mit einem 16- oder 17-Jährigen geschlossen, ist sie aufhebbar (§ 1314 Abs. 1 Nr. 1 BGB). Eine Nichtehe liegt nur vor, wenn ein Eheschließender das 16. Lebensjahr nicht vollendet hatte (§ 1303 S. 2 BGB).",
+  "id": "fami1-066"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Eheschließung: Voraussetzungen, Nichtehe und Aufhebung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/eheschliessung-voraussetzungen-nichtehe-und-aufhebung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1310 Abs. 3 BGB"
+  ],
+  "frage": "Unter welcher Voraussetzung wird eine Ehe, bei deren Schließung kein Standesbeamter mitgewirkt hat, nach § 1310 Abs. 3 BGB geheilt?",
+  "optionen": [
+   "Die Ehegatten haben drei Jahre als Ehegatten zusammengelebt",
+   "Eheschließungserklärungen wurden abgegeben, das Standesamt ist von einer gültigen Ehe ausgegangen, die Ehegatten haben zehn Jahre (bei vorherigem Tod eines Ehegatten fünf Jahre) zusammengelebt und es besteht kein Eheverbot",
+   "Ein Ehegatte bestätigt die Ehe nachträglich gegenüber dem Familiengericht",
+   "Ein Notar beurkundet die Eheschließungserklärungen nachträglich"
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 1310 Abs. 3 BGB verlangt kumulativ abgegebene Eheschließungserklärungen, ein Verhalten des Standesamts, das von einer gültigen Ehe ausgeht (etwa Eintragung im Eheregister, Hinweis im Geburtenregister oder standesamtliche Bescheinigung), ein Zusammenleben als Ehegatten von zehn Jahren bzw. fünf Jahren bei vorherigem Tod eines Ehegatten und das Fehlen eines Eheverbots. Die Bestätigung schließt nur die Aufhebung einer aufhebbaren Ehe aus; sie heilt keine Nichtehe.",
+  "id": "fami1-067"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Eheschließung: Voraussetzungen, Nichtehe und Aufhebung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/eheschliessung-voraussetzungen-nichtehe-und-aufhebung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1314 Abs. 2 Nr. 3 BGB"
+  ],
+  "frage": "Eine arglistige Täuschung über die Vermögensverhältnisse berechtigt zur Aufhebung der Ehe.",
+  "antwort": false,
+  "erklaerung": "Arglistige Täuschung ist zwar ein Aufhebungsgrund, ausdrücklich aber nicht, wenn sie sich auf die Vermögensverhältnisse bezieht (§ 1314 Abs. 2 Nr. 3 BGB). Weitere Aufhebungsgründe sind etwa widerrechtliche Drohung, Scheinehe, Doppelehe oder bedingte bzw. befristete Eheschließungserklärungen.",
+  "id": "fami1-068"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Eheschließung: Voraussetzungen, Nichtehe und Aufhebung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/eheschliessung-voraussetzungen-nichtehe-und-aufhebung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1318 BGB",
+   "§ 1318 Abs. 5 BGB"
+  ],
+  "frage": "Welche Aussage zu den Folgen der Eheaufhebung trifft zu?",
+  "optionen": [
+   "Die Ehe gilt rückwirkend als nie geschlossen; Zugewinn- und Versorgungsausgleich finden nicht statt",
+   "Die Ehe ist mit Rechtskraft des Aufhebungsbeschlusses für die Zukunft aufgelöst; Unterhalt steht nur dem gutgläubigen, getäuschten oder bedrohten Ehegatten zu",
+   "Beide Ehegatten haben stets gegenseitige Unterhaltsansprüche wie nach einer Scheidung",
+   "Stirbt ein Ehegatte während des Verfahrens, behält der andere sein gesetzliches Ehegattenerbrecht in jedem Fall"
+  ],
+  "antwort": 1,
+  "erklaerung": "Mit Rechtskraft des Aufhebungsbeschlusses ist die Ehe für die Zukunft aufgelöst. Die Folgen richten sich nach § 1318 BGB teilweise nach dem Scheidungsfolgenrecht: Zugewinnausgleich, Versorgungsausgleich und die Regeln zu Haushaltsgegenständen und Ehewohnung gelten grundsätzlich, Unterhalt erhält aber nur der gutgläubige, getäuschte oder bedrohte Ehegatte. Stirbt ein Ehegatte während des Verfahrens, verliert der Ehegatte, der die Aufhebbarkeit kannte, sein gesetzliches Ehegattenerbrecht (vgl. § 1318 Abs. 5 BGB).",
+  "id": "fami1-069"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Eheschließung: Voraussetzungen, Nichtehe und Aufhebung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/eheschliessung-voraussetzungen-nichtehe-und-aufhebung",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1306 BGB",
+   "§ 1307 BGB",
+   "§ 1311 BGB",
+   "§ 1353 Abs. 1 BGB"
+  ],
+  "frage": "Ordne die Normen ihrem Regelungsgehalt zur Ehe zu.",
+  "paare": [
+   [
+    "§ 1306 BGB",
+    "Verbot der Doppelehe und der Ehe bei bestehender Lebenspartnerschaft"
+   ],
+   [
+    "§ 1307 BGB",
+    "Eheverbot zwischen Verwandten in gerader Linie und Geschwistern"
+   ],
+   [
+    "§ 1311 BGB",
+    "Persönliche Erklärung bei gleichzeitiger Anwesenheit, ohne Bedingung und Zeitbestimmung"
+   ],
+   [
+    "§ 1353 Abs. 1 BGB",
+    "Ehe auf Lebenszeit; Verpflichtung zur ehelichen Lebensgemeinschaft"
+   ]
+  ],
+  "erklaerung": "§ 1306 BGB verbietet Doppelehe und Ehe bei bestehender Lebenspartnerschaft; § 1307 BGB die Ehe zwischen Verwandten in gerader Linie und voll- oder halbbürtigen Geschwistern. § 1311 BGB verlangt persönliche Erklärungen bei gleichzeitiger Anwesenheit und verbietet Bedingungen und Befristungen. § 1353 Abs. 1 BGB legt das Lebenszeitprinzip und die Pflicht zur ehelichen Lebensgemeinschaft fest, ohne einen Katalog einzelner Ehepflichten zu enthalten.",
+  "id": "fami1-070"
  }
 ]

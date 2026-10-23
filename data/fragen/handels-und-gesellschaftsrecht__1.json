@@ -751,5 +751,145 @@
    }
   ],
   "erklaerung": "G wird mangels Satzungsregelung Liquidator und meldet die Auflösung an. Das Restvermögen darf erst nach Ablauf des Sperrjahrs (§ 73 GmbHG) nach dem Verhältnis der Geschäftsanteile verteilt werden; danach ist das Erlöschen anzumelden."
+ },
+ {
+  "id": "hand1-033",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: notwendige und fakultative Satzungsbestandteile",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-notwendige-und-fakultative-satzungsbestandteile",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 3 GmbHG"
+  ],
+  "frage": "Welche Angabe gehört nicht zum gesetzlichen Mindestinhalt der GmbH-Satzung nach § 3 GmbHG?",
+  "optionen": [
+   "Gegenstand des Unternehmens",
+   "Betrag des Stammkapitals",
+   "Regelung zur Einziehung von Geschäftsanteilen",
+   "Zahl und Nennbeträge der von jedem Gesellschafter übernommenen Geschäftsanteile"
+  ],
+  "antwort": 2,
+  "erklaerung": "§ 3 GmbHG verlangt Firma und Sitz, Unternehmensgegenstand, Betrag des Stammkapitals sowie Zahl und Nennbeträge der übernommenen Geschäftsanteile. Die Einziehung (§ 34 GmbHG) ist ein fakultativer Satzungsbestandteil; sie ist zwar üblich, gehört aber nicht zum Mindestinhalt und fehlt daher etwa im Musterprotokoll."
+ },
+ {
+  "id": "hand1-034",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: notwendige und fakultative Satzungsbestandteile",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-notwendige-und-fakultative-satzungsbestandteile",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 4a GmbHG",
+   "§ 8 Abs. 4 Nr. 1 GmbHG"
+  ],
+  "frage": "Der Satzungssitz einer GmbH muss im Inland liegen, ihr Verwaltungssitz darf sich dagegen auch im Ausland befinden.",
+  "antwort": true,
+  "erklaerung": "Sitz der GmbH ist nach § 4a GmbHG der im Gesellschaftsvertrag bestimmte Ort im Inland. Der Verwaltungssitz (Ort der Geschäftsleitung oder des Geschäftsbetriebs) muss damit nicht übereinstimmen und darf auch im Ausland liegen. Für Zustellungen ist aber stets eine inländische Geschäftsanschrift anzumelden (§ 8 Abs. 4 Nr. 1 GmbHG)."
+ },
+ {
+  "id": "hand1-035",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: notwendige und fakultative Satzungsbestandteile",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-notwendige-und-fakultative-satzungsbestandteile",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 5 Abs. 2 GmbHG",
+   "§ 5 Abs. 3 GmbHG"
+  ],
+  "frage": "Gründer A übernimmt bei Errichtung einer GmbH mit 25.000 € Stammkapital mehrere Geschäftsanteile. Welche Gestaltung ist zulässig?",
+  "optionen": [
+   "Ein Anteil zu 0,50 € und ein Anteil zu 24.999,50 €",
+   "Drei Anteile mit unterschiedlichen Nennbeträgen, deren Summe zusammen mit den Anteilen der übrigen Gründer 25.000 € ergibt",
+   "Zwei Anteile, deren Summe 26.000 € beträgt, da ein Agio zulässig ist",
+   "Ein Anteil zu 12.500 €, wobei die Nennbeträge aller Gesellschafter nur mindestens 12.500 € ergeben müssen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Ein Gründer darf mehrere Geschäftsanteile mit unterschiedlichen Nennbeträgen übernehmen (§ 5 Abs. 3 S. 1 GmbHG); jeder Nennbetrag muss auf mindestens 1 € lauten (§ 5 Abs. 2 GmbHG), weshalb 0,50 € unzulässig ist. Die Summe aller Nennbeträge muss immer dem Stammkapital entsprechen (§ 5 Abs. 3 S. 2 GmbHG) – eine Abweichung ist der typische Fehler."
+ },
+ {
+  "id": "hand1-036",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: notwendige und fakultative Satzungsbestandteile",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-notwendige-und-fakultative-satzungsbestandteile",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 3 GmbHG",
+   "§ 37 Abs. 1 GmbHG"
+  ],
+  "frage": "Welche Aussage zum Unternehmensgegenstand und zu den Übernahmeangaben in der Satzung trifft zu?",
+  "optionen": [
+   "Die Angabe von Zahl und Nennbeträgen der übernommenen Geschäftsanteile darf erst nach vollständiger Einzahlung aller Einlagen aus der Satzung gestrichen werden",
+   "Bei der Komplementär-GmbH einer GmbH & Co. KG genügt als Unternehmensgegenstand die Geschäftsführung für die Kommanditgesellschaft",
+   "Der Unternehmensgegenstand dient allein der Information des Rechtsverkehrs und bindet die Geschäftsführer nicht",
+   "Fakultative Satzungsbestimmungen binden nur die Gründungsgesellschafter, nicht spätere Erwerber"
+  ],
+  "antwort": 1,
+  "erklaerung": "Für die Komplementär-GmbH genügt nach der Seite die Angabe der Geschäftsführung für die KG als Unternehmensgegenstand. Die Übernahmeangaben dürfen bei einer späteren Satzungsänderung auch dann gestrichen werden, wenn die Einlagen noch nicht voll eingezahlt sind. Der Unternehmensgegenstand schützt nach innen die Gesellschafter, da die Geschäftsführer an die Grenzen des Gesellschaftsvertrags gebunden sind (§ 37 Abs. 1 GmbHG); fakultative Bestimmungen sind mit der Mitgliedschaft verbunden und binden auch künftige Gesellschafter."
+ },
+ {
+  "id": "hand1-037",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Satzungsänderung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-satzungsanderung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 53 Abs. 2 GmbHG",
+   "§ 54 Abs. 3 GmbHG"
+  ],
+  "frage": "Welche Aussage zur Satzungsänderung bei der GmbH trifft zu?",
+  "optionen": [
+   "Der Beschluss bedarf der einfachen Mehrheit und wird mit Beurkundung wirksam",
+   "Der Beschluss bedarf mindestens drei Vierteln der abgegebenen Stimmen und wird erst mit Eintragung im Handelsregister wirksam",
+   "Der Beschluss bedarf der Einstimmigkeit und wird mit Anmeldung wirksam",
+   "Der Beschluss bedarf mindestens drei Vierteln des Stammkapitals und wird mit Beurkundung wirksam"
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 53 Abs. 2 GmbHG verlangt mindestens drei Viertel der abgegebenen Stimmen (nicht des Stammkapitals); die Satzung kann weitere Erfordernisse aufstellen. Wirksam wird die Änderung nach § 54 Abs. 3 GmbHG erst mit der Eintragung – die Eintragung ist konstitutiv, weshalb Rechtsfolgen erst ab diesem Zeitpunkt einzuplanen sind."
+ },
+ {
+  "id": "hand1-038",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Satzungsänderung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-satzungsanderung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 54 Abs. 2 GmbHG",
+   "§ 10 GmbHG"
+  ],
+  "frage": "Wird der Sitz einer GmbH durch Satzungsänderung verlegt, genügt in der Handelsregisteranmeldung eine Bezugnahme auf den eingereichten Änderungsbeschluss.",
+  "antwort": false,
+  "erklaerung": "Ändern sich Angaben nach § 10 GmbHG – Firma, Sitz, Unternehmensgegenstand oder Vertretungsbefugnis –, muss die Anmeldung diese Änderungen ausdrücklich bezeichnen. Nur für sonstige Änderungen genügt nach § 54 Abs. 2 GmbHG die Bezugnahme auf die eingereichten Dokumente. Die bloße Bezugnahme bei einer Sitzverlegung ist der typische Fehler."
+ },
+ {
+  "id": "hand1-039",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Satzungsänderung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-satzungsanderung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 54 Abs. 1 GmbHG"
+  ],
+  "frage": "Was bescheinigt der Notar nach § 54 GmbHG auf dem mit der Anmeldung einzureichenden vollständigen Satzungswortlaut?",
+  "optionen": [
+   "Dass der Änderungsbeschluss mit der erforderlichen Mehrheit gefasst wurde",
+   "Dass die geänderten Bestimmungen dem Änderungsbeschluss und die übrigen Bestimmungen dem zuletzt eingereichten vollständigen Satzungswortlaut entsprechen",
+   "Dass die geänderte Satzung mit den gesetzlichen Mindestanforderungen des § 3 GmbHG übereinstimmt",
+   "Dass alle Gesellschafter dem neuen Satzungswortlaut zugestimmt haben"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Satzungsbescheinigung nach § 54 GmbHG bestätigt zweierlei: Die geänderten Bestimmungen entsprechen dem Änderungsbeschluss, die übrigen stimmen mit dem zuletzt eingereichten vollständigen Wortlaut überein. Eine Bestätigung der Mehrheitsverhältnisse oder der inhaltlichen Rechtmäßigkeit ist nicht Gegenstand der Bescheinigung."
  }
 ]

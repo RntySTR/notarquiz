@@ -1158,5 +1158,332 @@
    ]
   ],
   "erklaerung": "§ 1137 BGB gibt dem Eigentümer die Einreden des Schuldners und die bürgenähnlichen Einreden des § 770 BGB, etwa Anfechtbarkeit oder Aufrechenbarkeit. Die beschränkte Erbenhaftung ist ausgenommen (§ 1137 Abs. 1 S. 2 BGB), und ein Verzicht des Schuldners nimmt dem Eigentümer die Einrede nicht (§ 1137 Abs. 2 BGB). Fehlende Valutierung ist dagegen keine Einrede, sondern eine rechtsvernichtende Einwendung aus der Akzessorietät."
+ },
+ {
+  "id": "grpf1-052",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: Geltendmachung und Hypothekenbrief",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-geltendmachung-und-hypothekenbrief",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1141 Abs. 1 BGB"
+  ],
+  "frage": "Der Gläubiger kündigt die durch eine Hypothek gesicherte Forderung nur gegenüber dem persönlichen Schuldner S, nicht aber gegenüber der Eigentümerin E. Welche Wirkung hat das?",
+  "optionen": [
+   "Forderung und Hypothek werden fällig, weil die Hypothek der Forderung akzessorisch folgt",
+   "Nur die Forderung wird fällig; für die Hypothek wirkt die Kündigung nur, wenn sie zwischen Gläubiger und Eigentümer erklärt wird (§ 1141 Abs. 1 BGB)",
+   "Die Kündigung ist insgesamt unwirksam, weil sie gegenüber allen Beteiligten erklärt werden muss",
+   "Die Hypothek wird fällig, die Forderung erst nach Ablauf von sechs Monaten"
+  ],
+  "antwort": 1,
+  "erklaerung": "Hängt die Fälligkeit von einer Kündigung ab, wirkt sie für die Hypothek nur, wenn sie zwischen Gläubiger und Eigentümer erklärt wird; zugunsten des Gläubigers gilt der eingetragene Eigentümer als Eigentümer (§ 1141 Abs. 1 BGB). Kündigt der Gläubiger nur dem Schuldner, wird allein die Forderung fällig; insoweit ist die Akzessorietät durchbrochen."
+ },
+ {
+  "id": "grpf1-053",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: Geltendmachung und Hypothekenbrief",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-geltendmachung-und-hypothekenbrief",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1160 Abs. 2 BGB"
+  ],
+  "frage": "Kündigt der Gläubiger einer Briefhypothek, ohne den Brief vorzulegen, und weist der Eigentümer die Kündigung deshalb unverzüglich zurück, ist die Kündigung unwirksam.",
+  "antwort": true,
+  "erklaerung": "Legt der Gläubiger zu einer Kündigung oder Mahnung den Brief und gegebenenfalls die Abtretungsurkunden nach § 1155 BGB nicht vor und weist der Eigentümer sie deshalb unverzüglich zurück, ist die Kündigung oder Mahnung unwirksam (§ 1160 Abs. 2 BGB). Ist der Eigentümer zugleich persönlicher Schuldner, gilt dies nach § 1161 BGB auch für die Geltendmachung der Forderung."
+ },
+ {
+  "id": "grpf1-054",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: Geltendmachung und Hypothekenbrief",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-geltendmachung-und-hypothekenbrief",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1160 BGB",
+   "§§ 117, 126 ZVG",
+   "§ 16 Abs. 1, 2 ZVG"
+  ],
+  "frage": "Der Eigentümer hat in der Bestellungsurkunde auf die Vorlage von Hypothekenbrief und Abtretungsurkunden (§ 1160 BGB) verzichtet. Worüber sollte der Notar vor diesem Verzicht belehren?",
+  "optionen": [
+   "Dass der Gläubiger nach dem Verzicht ohne vollstreckbaren Titel die Zwangsversteigerung betreiben kann",
+   "Dass ein früherer Gläubiger, der nach dem Titel noch berechtigt erscheint, das Recht aber bereits unter Briefübergabe abgetreten hat, unter Androhung der Versteigerung Zahlung verlangen kann",
+   "Dass der Verzicht nicht eintragungsfähig ist und daher gegenüber Rechtsnachfolgern des Eigentümers nicht wirkt",
+   "Dass der Gläubiger den Brief nach dem Verzicht auch bei der Erlösauszahlung nicht mehr vorlegen muss"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach dem Verzicht kann der Eigentümer der Vollstreckung nicht mehr unter Berufung auf § 1160 BGB widersprechen. Darin liegt das Risiko, dass ein früherer, nach dem Titel noch berechtigt erscheinender Gläubiger trotz Abtretung unter Briefübergabe Zahlung verlangt. Ein vollstreckbarer Titel bleibt erforderlich (§ 16 Abs. 1, 2 ZVG), der Verzicht ist eintragungsfähig, und den Brief muss der Gläubiger bei Auszahlung des Versteigerungserlöses vorlegen (§§ 117, 126 ZVG)."
+ },
+ {
+  "id": "grpf1-055",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: Gesamthypothek und Bruchteilshypothek",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-gesamthypothek-und-bruchteilshypothek",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1132 BGB"
+  ],
+  "frage": "Wie haften die Grundstücke bei einer Gesamthypothek nach § 1132 BGB?",
+  "optionen": [
+   "Jedes Grundstück haftet nur für den auf es entfallenden Teilbetrag",
+   "Jedes Grundstück haftet für die gesamte Forderung; der Gläubiger wählt den Zugriff, kann die Forderung insgesamt aber nur einmal verlangen",
+   "Die Grundstücke haften nacheinander in der Reihenfolge ihrer Eintragung",
+   "Jedes Grundstück haftet für die gesamte Forderung, und der Gläubiger kann aus jedem Grundstück den vollen Betrag gesondert verlangen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei der Gesamthypothek haftet jedes Grundstück für die gesamte Forderung; der Gläubiger bestimmt, auf welches Grundstück er in welcher Höhe zugreift, kann die Forderung insgesamt aber nur einmal verlangen (§ 1132 BGB). Eine Verteilung auf Teilbeträge erfolgt nicht kraft Gesetzes. Die Gesamthypothek entsteht grundsätzlich erst mit der Eintragung auf sämtlichen Grundstücken."
+ },
+ {
+  "id": "grpf1-056",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: Gesamthypothek und Bruchteilshypothek",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-gesamthypothek-und-bruchteilshypothek",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1114 BGB",
+   "§ 3 Abs. 6 GBO",
+   "§ 63 ZVG"
+  ],
+  "frage": "Ordne den Belastungsgegenstand bzw. Vorgang der zutreffenden Aussage zur Hypothek zu.",
+  "paare": [
+   [
+    "Anteil eines Miteigentümers nach Bruchteilen",
+    "Mit einer Hypothek belastbar (§ 1114 BGB)"
+   ],
+   [
+    "Ideeller Bruchteil eines Alleineigentümers",
+    "Nicht belastbar, außer bei Buchung eines Miteigentumsanteils nach § 3 Abs. 6 GBO"
+   ],
+   [
+    "Anteil an einer Erbengemeinschaft",
+    "Nicht mit einer Hypothek belastbar (Gesamthandsanteil)"
+   ],
+   [
+    "Aufteilung eines belasteten Grundstücks nach WEG",
+    "Belastung setzt sich als Gesamthypothek an allen Einheiten fort"
+   ]
+  ],
+  "erklaerung": "Belastbar ist der Anteil eines Miteigentümers (§ 1114 BGB), nicht aber ein ideeller Bruchteil des Alleineigentümers, abgesehen von der Buchung nach § 3 Abs. 6 GBO. Gesamthandsanteile, etwa an OHG, KG, Erbengemeinschaft, GbR oder Gütergemeinschaft, sind nicht hypothekenfähig. Wird ein belastetes Grundstück nach WEG aufgeteilt, entsteht nachträglich eine Gesamthypothek an allen Einheiten."
+ },
+ {
+  "id": "grpf1-057",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: Gesamthypothek und Bruchteilshypothek",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-gesamthypothek-und-bruchteilshypothek",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 63 Abs. 1 ZVG",
+   "§§ 63 Abs. 2, 112 ZVG"
+  ],
+  "frage": "Werden mehrere mit einer Gesamthypothek belastete Grundstücke im selben Verfahren versteigert, sind sie zwingend gemeinsam im Gesamtausgebot auszubieten.",
+  "antwort": false,
+  "erklaerung": "Grundsätzlich sind die Grundstücke einzeln auszubieten (§ 63 Abs. 1 ZVG). Gruppen- oder Gesamtausgebote sind nur auf Antrag eines Beteiligten daneben zulässig (§§ 63 Abs. 2, 112 ZVG)."
+ },
+ {
+  "id": "grpf1-058",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: gesicherte Forderung und Inhalt der Eintragung",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-gesicherte-forderung-und-inhalt-der-eintragung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1113 BGB",
+   "§ 1115 BGB"
+  ],
+  "frage": "Die Eltern wollen ihrem Sohn ein Grundstück übertragen und sich wiederkehrende Pflegeleistungen und Naturalleistungen dinglich sichern lassen. Welches Recht ist zu wählen?",
+  "optionen": [
+   "Eine Hypothek, weil auch künftige und bedingte Forderungen sicherungsfähig sind",
+   "Eine Höchstbetragshypothek, weil der Umfang der Leistungen noch nicht feststeht",
+   "Eine Reallast, weil durch Hypothek nur Geldforderungen gesichert werden können",
+   "Eine Gesamthypothek an dem Grundstück und dem Elternhaus"
+  ],
+  "antwort": 2,
+  "erklaerung": "Durch eine Hypothek kann nur eine Geldforderung gesichert werden; Sach- und Dienstleistungen lassen sich nicht durch Hypothek sichern, hierfür bietet sich die Reallast an. Dass künftige und bedingte Forderungen sicherungsfähig sind, ändert nichts am Erfordernis einer Geldforderung. Der Versuch, Sach- oder Dienstleistungen durch Hypothek zu sichern, ist ein typischer Fehler."
+ },
+ {
+  "id": "grpf1-059",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: gesicherte Forderung und Inhalt der Eintragung",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-gesicherte-forderung-und-inhalt-der-eintragung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1115 BGB",
+   "§ 1118 BGB"
+  ],
+  "frage": "Welche Angaben müssen bei einer verzinslichen Hypothek mit vertraglicher Nebenleistung im Grundbuch selbst stehen?",
+  "optionen": [
+   "Gläubiger, Forderungsbetrag, Zinssatz und Geldbetrag der Nebenleistung; im Übrigen kann zur Bezeichnung der Forderung auf die Bewilligung Bezug genommen werden",
+   "Nur Gläubiger und Forderungsbetrag; Zinsen und Nebenleistungen ergeben sich aus der in Bezug genommenen Bewilligung",
+   "Gläubiger, Forderungsbetrag, Zinssatz sowie die gesetzlichen Verzugszinsen und Rechtsverfolgungskosten",
+   "Schuldgrund, Gläubiger und Fälligkeitstermin der Forderung"
+  ],
+  "antwort": 0,
+  "erklaerung": "Nach § 1115 BGB sind Gläubiger und Forderungsbetrag, bei Verzinslichkeit der Zinssatz und bei anderen Nebenleistungen deren Geldbetrag einzutragen; im Übrigen genügt die Bezugnahme auf die Eintragungsbewilligung. Jeder Nachrangige muss das höchstmögliche Ausmaß der Belastung berechnen können. Gesetzliche Nebenleistungen wie Verzugszinsen und Rechtsverfolgungskosten sind nicht eintragungsfähig; für sie haftet das Grundstück ohnehin nach § 1118 BGB."
+ },
+ {
+  "id": "grpf1-060",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: gesicherte Forderung und Inhalt der Eintragung",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-gesicherte-forderung-und-inhalt-der-eintragung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1132 BGB"
+  ],
+  "frage": "Eine Darlehensforderung von 100.000 EUR kann durch zwei Einzelhypotheken über je 100.000 EUR an zwei verschiedenen Grundstücken gesichert werden.",
+  "antwort": false,
+  "erklaerung": "Eine Forderung durch mehrere Hypotheken zu sichern, ist unzulässig (Verbot der Doppelsicherung). Zulässig ist nur eine Gesamthypothek, weil sie eine einheitliche Hypothek an mehreren Grundstücken ist (§ 1132 BGB). Umgekehrt können mehrere Forderungen in einer Hypothek zusammengefasst werden."
+ },
+ {
+  "id": "grpf1-061",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: gesicherte Forderung und Inhalt der Eintragung",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-gesicherte-forderung-und-inhalt-der-eintragung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1180 BGB",
+   "§ 1190 BGB",
+   "§ 428 BGB"
+  ],
+  "frage": "Welche Aussage zur gesicherten Forderung und zu den Beteiligten der Hypothek trifft zu?",
+  "optionen": [
+   "Forderungs- und Hypothekengläubiger können verschiedene Personen sein, wenn dies im Grundbuch vermerkt ist",
+   "Die Forderung muss stets in Euro und ziffernmäßig bestimmt sein; Ausnahmen gibt es nicht",
+   "Die Beteiligten können der Hypothek nachträglich eine andere Forderung unterlegen (§ 1180 BGB); eine Gläubigermehrheit, etwa als Gesamtgläubiger nach § 428 BGB, ist möglich",
+   "Öffentlich-rechtliche Forderungen sind nie durch Hypothek sicherbar"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 1180 BGB kann der Hypothek später eine andere Forderung unterlegt werden, und Gläubigermehrheiten (Gesamthand, Bruchteil, Gesamtgläubiger nach § 428 BGB) sind zulässig. Wegen der Akzessorietät müssen Forderungs- und Hypothekengläubiger identisch sein. Ziffernmäßige Bestimmtheit und Euro gelten nur grundsätzlich (Ausnahmen: Höchstbetragshypothek, § 1190 BGB; § 28 S. 2 Hs. 2 GBO), und öffentlich-rechtliche Forderungen sind sicherbar, wenn das Grundstück nicht bereits kraft Gesetzes haftet."
+ },
+ {
+  "id": "grpf1-062",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: gutgläubiger Erwerb",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-gutglaubiger-erwerb",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1138 BGB",
+   "§ 1153 BGB",
+   "§ 1155 BGB",
+   "§ 892 BGB"
+  ],
+  "frage": "Abtretung einer nicht valutierten Briefhypothek",
+  "sachverhalt": "Für G ist an dem Grundstück der E eine Briefhypothek über 80.000 EUR eingetragen; der Brief wurde G ausgehändigt. Das zugrunde liegende Darlehen hat G nie ausgezahlt. G tritt die Hypothek mit der Forderung durch öffentlich beglaubigte Abtretungserklärung und Briefübergabe an den gutgläubigen D ab; die Abtretung wird nicht eingetragen. D verlangt von E Zahlung und droht die Zwangsversteigerung an.",
+  "schritte": [
+   {
+    "frage": "Wem stand die Hypothek vor der Abtretung materiell zu?",
+    "optionen": [
+     "G als eingetragenem Gläubiger",
+     "E als Eigentümergrundschuld, weil die Forderung nicht entstanden ist (§§ 1163 Abs. 1 S. 1, 1177 BGB)",
+     "Niemandem, die Hypothek war nichtig",
+     "G und E als Gesamtgläubigern"
+    ],
+    "antwort": 1,
+    "erklaerung": "Wegen der Akzessorietät steht die Hypothek dem Eigentümer zu, solange die Forderung nicht entstanden ist; es liegt eine Eigentümergrundschuld vor."
+   },
+   {
+    "frage": "Kann D trotz fehlender Eintragung gutgläubig erwerben?",
+    "optionen": [
+     "Nein, gutgläubiger Erwerb setzt die Eintragung des Erwerbers voraus",
+     "Ja, weil er sich über die beglaubigte Abtretungserklärung auf den eingetragenen G zurückführen kann und deshalb wie ein Eingetragener behandelt wird (§ 1155 BGB)",
+     "Nein, weil eine nicht bestehende Forderung nie gutgläubig erworben werden kann und die Hypothek ihr folgt",
+     "Ja, aber nur, wenn E der Abtretung zugestimmt hat"
+    ],
+    "antwort": 1,
+    "erklaerung": "Der Briefbesitzer, der sein Recht über eine zusammenhängende Reihe öffentlich beglaubigter Abtretungserklärungen auf einen eingetragenen Gläubiger zurückführt, wird für §§ 891 bis 899 BGB wie ein Eingetragener behandelt (§ 1155 BGB); über § 1138 BGB erstreckt sich der öffentliche Glaube auf die Forderung."
+   },
+   {
+    "frage": "Was erwirbt D und wie kann er vorgehen?",
+    "optionen": [
+     "Hypothek und Forderung; er kann E persönlich verklagen und in ihr gesamtes Vermögen vollstrecken",
+     "Nur die Hypothek, nicht die Forderung; er kann mit der dinglichen Klage auf Duldung der Zwangsvollstreckung gegen das Grundstück vorgehen",
+     "Nichts, weil G nicht Berechtigter war",
+     "Nur die Forderung; die Hypothek bleibt Eigentümergrundschuld der E"
+    ],
+    "antwort": 1,
+    "erklaerung": "Die Forderung wird nur fingiert, soweit es für den Bestand der Hypothek nötig ist. D erlangt die Hypothek, nicht die Forderung; E verliert ihm gegenüber die Einwendung der Nichtvalutierung. D erstreitet seinen Titel mit der dinglichen Klage auf Duldung der Zwangsvollstreckung; persönliche Klage und Vollstreckung in das übrige Vermögen stehen ihm nicht offen."
+   }
+  ],
+  "erklaerung": "Die nicht valutierte Hypothek war Eigentümergrundschuld der E. D erwirbt sie dennoch gutgläubig, weil er über die beglaubigte Abtretungskette wie ein Eingetragener behandelt wird (§ 1155 BGB) und sich der öffentliche Glaube nach § 1138 BGB auf die Forderung erstreckt. Er erlangt aber nur die Hypothek und kann nur dinglich auf Duldung der Zwangsvollstreckung vorgehen."
+ },
+ {
+  "id": "grpf1-063",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: gutgläubiger Erwerb",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-gutglaubiger-erwerb",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1157 BGB",
+   "§ 1137 BGB",
+   "§ 1138 BGB"
+  ],
+  "frage": "Welche Einrede des Eigentümers gehört zur Gruppe des § 1157 BGB (Einreden gegen die Hypothek aus dem Rechtsverhältnis zum bisherigen Gläubiger)?",
+  "optionen": [
+   "Die Stundung der Darlehensforderung",
+   "Die Einwendung, das Darlehen sei nie ausgezahlt worden",
+   "Die Abrede, für eine bestimmte Zeit nicht aus der Hypothek zu vollstrecken",
+   "Die Einrede des nicht erfüllten Vertrages aus dem Darlehensverhältnis"
+  ],
+  "antwort": 2,
+  "erklaerung": "§ 1157 BGB erfasst Einreden gegen die Hypothek selbst aus dem Verhältnis zum bisherigen Gläubiger, etwa ein Abtretungsverbot, die Abrede, eine bestimmte Zeit nicht zu vollstrecken, oder zuerst in anderes Vermögen zu vollstrecken. Stundung, Nichtvalutierung und § 320 BGB betreffen die gesicherte Forderung und fallen unter §§ 1137, 1138 BGB. Beide Gruppen entfallen gegenüber einem gutgläubigen Erwerber."
+ },
+ {
+  "id": "grpf1-064",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: gutgläubiger Erwerb",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-gutglaubiger-erwerb",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1157 BGB",
+   "§§ 1150, 268 Abs. 3 BGB"
+  ],
+  "frage": "Zahlt ein ablösungsberechtigter Dritter den Hypothekengläubiger und erwirbt die Hypothek nach §§ 1150, 268 Abs. 3 BGB, erwirbt er sie frei von nicht eingetragenen und ihm unbekannten Einreden nach § 1157 BGB.",
+  "antwort": false,
+  "erklaerung": "Der einredefreie Erwerb nach § 1157 BGB gilt nur bei rechtsgeschäftlicher Übertragung, nicht beim gesetzlichen Erwerb. Zahlt ein zur Ablösung berechtigter Dritter und geht die Hypothek nach §§ 1150, 268 Abs. 3 BGB kraft Gesetzes auf ihn über, bleiben die Einreden bestehen."
+ },
+ {
+  "id": "grpf1-065",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: gutgläubiger Erwerb",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-gutglaubiger-erwerb",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1145 BGB",
+   "§ 899 BGB",
+   "§ 1144 BGB"
+  ],
+  "frage": "Der Eigentümer hat einem privaten Hypothekengläubiger eine Teilzahlung geleistet. Wie lässt sich ein gutgläubiger einredefreier Erwerb durch einen Abtretungsempfänger am einfachsten verhindern?",
+  "optionen": [
+   "Durch Herausverlangen des Briefs nach § 1144 BGB",
+   "Durch Vermerk der Teilzahlung auf dem Hypothekenbrief, den der Gläubiger bei Teilbefriedigung anbringen muss",
+   "Durch Eintragung eines Widerspruchs, für dessen einstweilige Verfügung eine Gefährdung glaubhaft zu machen ist",
+   "Durch Anzeige der Teilzahlung beim Grundbuchamt ohne Vorlage des Briefs"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei Teilbefriedigung hat der Eigentümer keinen Anspruch auf Herausgabe des Briefs; der Gläubiger muss die Teilzahlung aber auf dem Brief vermerken (§ 1145 BGB). Schon ein privatschriftlicher Vermerk auf dem Brief kann gutgläubigen Erwerb verhindern, weshalb die Praxis Teilzahlungen und Abtretungsausschlüsse vermerken lässt. Ein Widerspruch nach § 899 BGB ist ebenfalls möglich, für die einstweilige Verfügung muss aber gerade keine Gefährdung glaubhaft gemacht werden."
  }
 ]

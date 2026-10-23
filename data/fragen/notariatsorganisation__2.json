@@ -280,5 +280,403 @@
   "frage": "Das Berufsrecht steht der Nutzung von Cloud-Diensten durch den Notar nicht grundsätzlich entgegen; Akten und Verzeichnisse dürfen aber nicht vollständig in die Cloud ausgelagert werden.",
   "antwort": true,
   "erklaerung": "Nach § 35 Abs. 4 BNotO und dem Rundschreiben Nr. 1/2026 ist die Cloud-Nutzung grundsätzlich zulässig. Akten und Verzeichnisse darf der Notar aber nur in der Geschäftsstelle oder künftig im Elektronischen Notariatsaktenspeicher führen; eine vollständige Auslagerung in die Cloud ist unzulässig."
+ },
+ {
+  "id": "orga2-014",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: Auftragsverarbeitung und Cloud-Dienste",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-auftragsverarbeitung-und-cloud-dienste",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "Art. 4 Nr. 8 DSGVO"
+  ],
+  "frage": "Was kennzeichnet die Auftragsverarbeitung im Sinne von Art. 4 Nr. 8 DSGVO gegenüber der gemeinsamen Verantwortlichkeit?",
+  "optionen": [
+   "Der Dienstleister verarbeitet die Daten im Auftrag des Verantwortlichen und nur auf dessen Weisung",
+   "Beide Beteiligte bestimmen gemeinsam über Zwecke und Mittel der Verarbeitung",
+   "Der Dienstleister verarbeitet die Daten zu eigenen Zwecken",
+   "Der Dienstleister ist ausschließlich ein IT-Unternehmen mit Sitz in der EU"
+  ],
+  "antwort": 0,
+  "erklaerung": "Auftragsverarbeitung liegt vor, wenn jemand personenbezogene Daten im Auftrag des Verantwortlichen verarbeitet (Art. 4 Nr. 8 DSGVO); der Auftragsverarbeiter handelt nur auf Weisung. Bestimmen beide über Zwecke und Mittel, liegt dagegen gemeinsame Verantwortlichkeit vor. Auftragsverarbeiter können auch Nicht-IT-Dienstleister wie Archivierungsunternehmen, Übersetzer oder Druck- und Postdienstleister sein."
+ },
+ {
+  "id": "orga2-015",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: Auftragsverarbeitung und Cloud-Dienste",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-auftragsverarbeitung-und-cloud-dienste",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "Art. 28 DSGVO",
+   "Art. 28 Abs. 9 DSGVO"
+  ],
+  "frage": "In welcher Form ist der Vertrag über die Auftragsverarbeitung nach Art. 28 DSGVO abzuschließen?",
+  "optionen": [
+   "Notariell beurkundet",
+   "Mündlich genügt, sofern dokumentiert",
+   "Mit qualifizierter elektronischer Signatur beider Seiten",
+   "Schriftlich, was auch in einem elektronischen Format geschehen kann"
+  ],
+  "antwort": 3,
+  "erklaerung": "Der AV-Vertrag ist schriftlich abzufassen; das kann auch in einem elektronischen Format geschehen (Art. 28 Abs. 9 DSGVO). Eine qualifizierte elektronische Signatur oder gar Beurkundung verlangt Art. 28 DSGVO nicht; eine bloß mündliche Abrede genügt dagegen nicht."
+ },
+ {
+  "id": "orga2-016",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: Auftragsverarbeitung und Cloud-Dienste",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-auftragsverarbeitung-und-cloud-dienste",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "Art. 28 DSGVO"
+  ],
+  "frage": "Die NotarNet GmbH und andere Dienstleister der Bundesnotarkammer sind für notarielle Registerverfahren in der Regel Auftragsverarbeiter.",
+  "antwort": true,
+  "erklaerung": "Für notarielle Registerverfahren sind die NotarNet GmbH und andere Dienstleister der Bundesnotarkammer in der Regel Auftragsverarbeiter. Für sie gelten damit die Pflichten des Art. 28 DSGVO wie für andere Dienstleister des Notars."
+ },
+ {
+  "id": "orga2-017",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: Auftragsverarbeitung und Cloud-Dienste",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-auftragsverarbeitung-und-cloud-dienste",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "Art. 28 DSGVO",
+   "§ 26a BNotO",
+   "Art. 44 DSGVO"
+  ],
+  "frage": "Wartung und E-Mail-Umzug",
+  "sachverhalt": "Notarin N will den Software-Dienstleister S-GmbH mit Wartung und Support der Notariatssoftware beauftragen; S benötigt dafür Zugriff auf die Datenbank der Geschäftsstelle. Zugleich erwägt N, ihre E-Mail-Kommunikation zu einem großen US-Anbieter mit europäischer Tochtergesellschaft zu verlagern.",
+  "schritte": [
+   {
+    "frage": "Wie ist die Tätigkeit der S-GmbH datenschutzrechtlich einzuordnen?",
+    "optionen": [
+     "Als gemeinsame Verantwortlichkeit nach Art. 26 DSGVO",
+     "Als Auftragsverarbeitung nach Art. 28 DSGVO, da S für N und weisungsgebunden tätig wird",
+     "Als Übermittlung an einen eigenständigen Verantwortlichen",
+     "Als datenschutzrechtlich irrelevante Hilfstätigkeit"
+    ],
+    "antwort": 1,
+    "erklaerung": "Braucht ein externer IT-Dienstleister für Wartung und Support Zugriff auf die Datenbank, ist das Auftragsverarbeitung nach Art. 28 DSGVO: Er wird für den Notar tätig und ist an dessen Weisungen gebunden."
+   },
+   {
+    "frage": "Was muss vorliegen, bevor S die Tätigkeit aufnimmt?",
+    "optionen": [
+     "Nur der AV-Vertrag",
+     "Nur eine Verschwiegenheitsvereinbarung nach § 26a BNotO",
+     "AV-Vertrag und Verschwiegenheitsvereinbarung nach § 26a BNotO",
+     "Eine Einwilligung aller betroffenen Mandanten"
+    ],
+    "antwort": 2,
+    "erklaerung": "Vor Aufnahme der Tätigkeit sind der AV-Vertrag nach Art. 28 DSGVO und eine Verschwiegenheitsvereinbarung nach § 26a BNotO zu schließen. Typischer Fehler ist, den Dienstleister arbeiten zu lassen, bevor beides vorliegt; Auswahl und Überwachung sind zu dokumentieren."
+   },
+   {
+    "frage": "Was gilt für den geplanten E-Mail-Umzug zum US-Anbieter?",
+    "optionen": [
+     "Die DSGVO gilt nicht, weil der Anbieter in den USA sitzt",
+     "Die Verarbeitung ist ohne Weiteres zulässig, weil eine europäische Tochter besteht",
+     "Eine Übermittlung in ein Drittland ist nur unter den Bedingungen der Art. 44 ff. DSGVO zulässig; Verarbeitungsort, US-Zugriffsmöglichkeiten, Verschlüsselung und AV-Vertrag sind zu prüfen",
+     "Der Umzug ist berufsrechtlich stets verboten"
+    ],
+    "antwort": 2,
+    "erklaerung": "Die DSGVO gilt, weil N als Verantwortliche in ihrem Geltungsbereich sitzt. Zu klären ist, wo die Daten verarbeitet werden; eine Drittlandübermittlung ist nur nach Art. 44 ff. DSGVO zulässig, US-Zugriffsmöglichkeiten sind problematisch, zusätzliche Schutzmaßnahmen wie Verschlüsselung und ein angemessener AV-Vertrag sind zu prüfen."
+   }
+  ],
+  "erklaerung": "Die Wartung durch S ist Auftragsverarbeitung; vor Beginn sind AV-Vertrag und Verschwiegenheitsvereinbarung nach § 26a BNotO abzuschließen und Auswahl und Überwachung zu dokumentieren. Beim US-Anbieter bleibt die DSGVO anwendbar; maßgeblich sind Verarbeitungsort, Art. 44 ff. DSGVO, Zugriffsrisiken und Schutzmaßnahmen."
+ },
+ {
+  "id": "orga2-018",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: Betroffenenrechte, Auskunft und Löschung",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-betroffenenrechte-auskunft-und-loschung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "Art. 17 Abs. 3 lit. b DSGVO"
+  ],
+  "frage": "Ein früherer Käufer verlangt zehn Jahre nach der Beurkundung Auskunft und die Löschung aller seiner Daten; die Aufbewahrungsfrist läuft noch. Wie ist zu verfahren?",
+  "optionen": [
+   "Auskunft verweigern und Daten löschen",
+   "Auskunft grundsätzlich erteilen, Löschung ablehnen, solange die Aufbewahrungspflichten bestehen",
+   "Auskunft erteilen und Daten außerhalb der Urkundensammlung löschen",
+   "Beides ablehnen, da die notarielle Verschwiegenheit vorgeht"
+  ],
+  "antwort": 1,
+  "erklaerung": "Das Auskunftsrecht nach Art. 15 DSGVO besteht auch Jahre nach der Beurkundung grundsätzlich fort. Der Löschungsanspruch nach Art. 17 DSGVO ist ausgeschlossen, soweit die Aufbewahrung zur Erfüllung einer rechtlichen Verpflichtung oder einer Aufgabe im öffentlichen Interesse erforderlich ist (Art. 17 Abs. 3 lit. b DSGVO). Die Verschwiegenheit kann die Auskunft nur gegenüber Rechten anderer Beteiligter beschränken, nicht insgesamt ausschließen."
+ },
+ {
+  "id": "orga2-019",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: Betroffenenrechte, Auskunft und Löschung",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-betroffenenrechte-auskunft-und-loschung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§§ 8–11 LDSG BW",
+   "§ 29 BDSG"
+  ],
+  "frage": "Welche Vorschriften sind in Baden-Württemberg für Einschränkungen der Betroffenenrechte im Notariat vorrangig zu prüfen?",
+  "optionen": [
+   "§ 29 BDSG",
+   "Art. 23 DSGVO unmittelbar",
+   "§§ 8–11 LDSG BW; § 29 BDSG nur, soweit das Landesrecht keine Regelung trifft",
+   "§ 18 BNotO als abschließende Sonderregel"
+  ],
+  "antwort": 2,
+  "erklaerung": "In Baden-Württemberg sind die §§ 8–11 LDSG BW vorrangig zu prüfen; § 29 BDSG gilt nur, soweit das Landesrecht keine Regelung trifft. Einschränkungen allein im BDSG zu suchen, ist ein typischer Fehler."
+ },
+ {
+  "id": "orga2-020",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: Betroffenenrechte, Auskunft und Löschung",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-betroffenenrechte-auskunft-und-loschung",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "Art. 15 DSGVO",
+   "Art. 16 DSGVO",
+   "Art. 17 DSGVO",
+   "Art. 20 DSGVO",
+   "Art. 21 DSGVO"
+  ],
+  "frage": "Ordne die Betroffenenrechte der jeweiligen Vorschrift der DSGVO zu.",
+  "paare": [
+   [
+    "Art. 15 DSGVO",
+    "Auskunft"
+   ],
+   [
+    "Art. 16 DSGVO",
+    "Berichtigung"
+   ],
+   [
+    "Art. 17 DSGVO",
+    "Löschung („Recht auf Vergessenwerden“)"
+   ],
+   [
+    "Art. 20 DSGVO",
+    "Datenübertragbarkeit"
+   ],
+   [
+    "Art. 21 DSGVO",
+    "Widerspruch"
+   ]
+  ],
+  "erklaerung": "Die DSGVO regelt Auskunft in Art. 15, Berichtigung in Art. 16, Löschung in Art. 17, Datenübertragbarkeit in Art. 20 und Widerspruch in Art. 21. Im Notariat sind diese Rechte durch Aufbewahrungspflichten nach der NotAktVV, die Verschwiegenheitspflicht und den Schutz öffentlicher Aufgaben vielfach eingeschränkt."
+ },
+ {
+  "id": "orga2-021",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: Betroffenenrechte, Auskunft und Löschung",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-betroffenenrechte-auskunft-und-loschung",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "Art. 15 DSGVO"
+  ],
+  "frage": "Die Auskunft nach Art. 15 DSGVO ist grundsätzlich unentgeltlich; Ausnahmen gelten nur für offensichtlich unbegründete oder exzessive Anträge.",
+  "antwort": true,
+  "erklaerung": "Die Auskunft ist unentgeltlich (Art. 15 DSGVO). Nur offensichtlich unbegründete oder exzessive Anträge bilden eine Ausnahme. Vor der Auskunft ist die Identität des Antragstellers festzustellen, etwa durch Lichtbildausweis."
+ },
+ {
+  "id": "orga2-022",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: Datenschutzverletzung, Meldung und Benachrichtigung",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-datenschutzverletzung-meldung-und-benachrichtigung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "Art. 33 DSGVO",
+   "Art. 33 Abs. 1 DSGVO"
+  ],
+  "frage": "Wann entfällt die Meldung einer Datenschutzverletzung an die Aufsichtsbehörde nach Art. 33 DSGVO?",
+  "optionen": [
+   "Wenn die Verletzung voraussichtlich zu keinem Risiko für die Rechte und Freiheiten natürlicher Personen führt",
+   "Wenn die Verletzung voraussichtlich nur ein geringes bis mittleres Risiko begründet",
+   "Wenn kein hohes Risiko für die Betroffenen besteht",
+   "Wenn die betroffenen Personen bereits selbst benachrichtigt wurden"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Meldung entfällt nach Art. 33 Abs. 1 DSGVO nur, wenn die Verletzung voraussichtlich zu keinem Risiko führt. Ein hohes Risiko ist nicht Voraussetzung der Meldung, sondern erst der Benachrichtigung der Betroffenen nach Art. 34 DSGVO. Die Meldung zu unterlassen, weil das Risiko nur gering bis mittel erscheint, ist ein typischer Fehler."
+ },
+ {
+  "id": "orga2-023",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: Datenschutzverletzung, Meldung und Benachrichtigung",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-datenschutzverletzung-meldung-und-benachrichtigung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "Art. 33 DSGVO"
+  ],
+  "frage": "Ab wann läuft die Frist von möglichst 72 Stunden für die Meldung an die Aufsichtsbehörde?",
+  "optionen": [
+   "Ab Abschluss der internen Risikobewertung",
+   "Ab Eintritt der Verletzung, auch wenn sie unbemerkt bleibt",
+   "Ab Information des Datenschutzbeauftragten",
+   "Ab dem Zeitpunkt, in dem dem Verantwortlichen die Verletzung bekannt geworden ist"
+  ],
+  "antwort": 3,
+  "erklaerung": "Nach Art. 33 DSGVO ist unverzüglich und möglichst binnen 72 Stunden zu melden, nachdem die Verletzung dem Verantwortlichen bekannt geworden ist. Maßgeblich ist die Kenntnis; die Frist erst mit Abschluss der internen Prüfung beginnen zu lassen, ist ein typischer Fehler."
+ },
+ {
+  "id": "orga2-024",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: Datenschutzverletzung, Meldung und Benachrichtigung",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-datenschutzverletzung-meldung-und-benachrichtigung",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 29 BDSG",
+   "§ 29 Abs. 1 S. 4 BDSG",
+   "Art. 34 DSGVO"
+  ],
+  "frage": "Würde die Benachrichtigung der Betroffenen nach Art. 34 DSGVO Informationen offenbaren, die einem Berufsgeheimnis unterliegen, entfällt sie nach § 29 BDSG ausnahmslos.",
+  "antwort": false,
+  "erklaerung": "§ 29 BDSG lässt die Benachrichtigung zwar entfallen, soweit sie Berufsgeheimnisse offenbaren würde. Überwiegen aber die Interessen der betroffenen Person, insbesondere wegen drohender Schäden, ist dennoch zu benachrichtigen (§ 29 Abs. 1 S. 4 BDSG). In Baden-Württemberg gilt § 29 BDSG zudem nur, soweit das LDSG BW keine Regelung trifft."
+ },
+ {
+  "id": "orga2-025",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: Datenschutzverletzung, Meldung und Benachrichtigung",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-datenschutzverletzung-meldung-und-benachrichtigung",
+  "typ": "fall",
+  "schwierigkeit": 2,
+  "normen": [
+   "Art. 33 DSGVO",
+   "Art. 34 DSGVO",
+   "Art. 33 Abs. 5 DSGVO"
+  ],
+  "frage": "Fehlgeleitete E-Mail",
+  "sachverhalt": "Mitarbeiterin M des Notars N versendet am Montagmorgen den Entwurf eines Erbvertrags mit Angaben zu Vermögen und Familienverhältnissen der Eheleute E versehentlich unverschlüsselt an einen falschen, unbeteiligten Empfänger. Sie bemerkt den Fehler eine Stunde später.",
+  "schritte": [
+   {
+    "frage": "Was ist als Erstes zu tun?",
+    "optionen": [
+     "Abwarten, ob der Empfänger reagiert",
+     "Die Verletzung eindämmen, etwa den falschen Empfänger um Löschung bitten, zugleich dokumentieren und den Datenschutzbeauftragten informieren",
+     "Sofort die Eheleute E benachrichtigen und erst danach den Vorfall prüfen",
+     "Die Polizei einschalten"
+    ],
+    "antwort": 1,
+    "erklaerung": "Im Ernstfall wird die Verletzung zuerst gestoppt oder eingedämmt, etwa durch die Bitte an den falschen Empfänger, die Nachricht zu löschen. Zugleich beginnt die Dokumentation, und der Datenschutzbeauftragte wird informiert; danach folgt die Risikobewertung."
+   },
+   {
+    "frage": "Ist der Vorfall der Aufsichtsbehörde zu melden?",
+    "optionen": [
+     "Nein, versehentliche E-Mails sind keine Datenschutzverletzung",
+     "Nur, wenn ein hohes Risiko besteht",
+     "Ja, unverzüglich und möglichst binnen 72 Stunden ab Kenntnis, weil ein Risiko für die Betroffenen nicht auszuschließen ist",
+     "Nur, wenn der Empfänger die Löschung verweigert"
+    ],
+    "antwort": 2,
+    "erklaerung": "Eine unbefugte Offenlegung ist eine Verletzung der Vertraulichkeit (Art. 4 Nr. 12 DSGVO). Die Meldung nach Art. 33 DSGVO entfällt nur, wenn voraussichtlich kein Risiko besteht; bei sensiblen Vermögens- und Familiendaten ist das nicht anzunehmen."
+   },
+   {
+    "frage": "Was gilt für die Benachrichtigung der Eheleute E?",
+    "optionen": [
+     "Sie ist bei voraussichtlich hohem Risiko zusätzlich erforderlich (Art. 34 DSGVO), vorbehaltlich der Ausnahmen etwa wegen Berufsgeheimnis",
+     "Sie ist stets entbehrlich, wenn gemeldet wurde",
+     "Sie ersetzt die Meldung an die Aufsichtsbehörde",
+     "Sie ist nur bei Verschlüsselung der Daten erforderlich"
+    ],
+    "antwort": 0,
+    "erklaerung": "Bei voraussichtlich hohem Risiko sind die Betroffenen zusätzlich zu benachrichtigen (Art. 34 DSGVO). Die Benachrichtigung entfällt u. a., wenn eine Verschlüsselung die Daten unzugänglich macht oder das Risiko nachträglich beseitigt ist, sowie unter den Voraussetzungen des § 29 BDSG; die Meldung an die Behörde ersetzt sie nicht."
+   }
+  ],
+  "erklaerung": "Der Fehlversand ist eine Verletzung der Vertraulichkeit. N dämmt ein, dokumentiert (Art. 33 Abs. 5 DSGVO), informiert den Datenschutzbeauftragten, meldet binnen 72 Stunden ab Kenntnis und benachrichtigt bei hohem Risiko auch die Eheleute E."
+ },
+ {
+  "id": "orga2-026",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: Informationspflichten",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-informationspflichten",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "Art. 13 DSGVO"
+  ],
+  "frage": "Zu welchem Zeitpunkt ist die Datenschutzinformation nach Art. 13 DSGVO zu erteilen?",
+  "optionen": [
+   "Mit Übersendung der Kostenrechnung",
+   "Spätestens im Beurkundungstermin",
+   "Zum Zeitpunkt der Erhebung der Daten",
+   "Nur auf Nachfrage der betroffenen Person"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Information nach Art. 13 DSGVO ist zum Zeitpunkt der Erhebung der Daten zu geben. Sie kann bei der ersten Besprechung übergeben, mit dem Entwurf versandt, auf der Homepage bereitgestellt oder mündlich erteilt und dokumentiert werden; eine Erteilung erst im Beurkundungstermin wäre regelmäßig zu spät."
+ },
+ {
+  "id": "orga2-027",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: Informationspflichten",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-informationspflichten",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "Art. 13 DSGVO"
+  ],
+  "frage": "Der Notar sollte sich den Erhalt der Datenschutzinformation vom Mandanten unterschreiben lassen, um die Erfüllung seiner Informationspflicht zu belegen.",
+  "antwort": false,
+  "erklaerung": "Die betroffene Person muss die Datenschutzinformation nicht unterschreiben; eine bloße Informationspflicht soll nicht zu einer vertraglichen Vereinbarung gemacht werden. Das Unterschreibenlassen gilt als typischer Fehler. Empfohlen ist die Bereitstellung auf der Homepage mit Hinweis in E-Mail-Signatur und Briefkopf."
+ },
+ {
+  "id": "orga2-028",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: IT-Sicherheit und Social Engineering",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-it-sicherheit-und-social-engineering",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "Art. 32 DSGVO"
+  ],
+  "frage": "Eine Mitarbeiterin erhält von einer der Kanzleiadresse ähnlichen, aber abweichenden E-Mail-Adresse im Namen des Notars die Anweisung, sofort eine dringende Überweisung auszuführen. Wie reagiert sie richtig?",
+  "optionen": [
+   "Überweisung ausführen, da die Anweisung vom Notar stammt",
+   "Per Antwort auf dieselbe E-Mail nachfragen, ob die Anweisung echt ist",
+   "Die E-Mail löschen und nichts weiter veranlassen",
+   "Nicht sofort handeln, den Auftrag über einen anderen Kommunikationsweg beim Notar bestätigen und die E-Mail an den IT-Betreuer weiterleiten"
+  ],
+  "antwort": 3,
+  "erklaerung": "Es handelt sich um typischen CEO-Fraud. Der Auftrag ist über einen anderen Kommunikationsweg – persönlich oder telefonisch – zu bestätigen, die Absenderadresse genau zu prüfen, im Zweifel gilt das Vier-Augen-Prinzip; verdächtige E-Mails gehen an den IT-Betreuer. Eine Rückfrage per Antwort-E-Mail erreicht gerade den Angreifer und ist kein zweiter Weg."
+ },
+ {
+  "id": "orga2-029",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: IT-Sicherheit und Social Engineering",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-it-sicherheit-und-social-engineering",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "Art. 32 DSGVO"
+  ],
+  "frage": "Was bezeichnet der Begriff „Social Engineering“?",
+  "optionen": [
+   "Angriffe, die das Verhalten der Nutzer beeinflussen sollen, statt technische Schwachstellen auszunutzen",
+   "Die Ausnutzung von Sicherheitslücken in veralteter Software",
+   "Die automatisierte Verschlüsselung von Daten durch Schadsoftware",
+   "Die unbefugte Nutzung offener WLAN-Netze"
+  ],
+  "antwort": 0,
+  "erklaerung": "Social Engineering bezeichnet Angriffe, die das Verhalten der Nutzer beeinflussen, statt technische Schwachstellen auszunutzen; Beispiele sind Phishing, CEO-Fraud und Telefonbetrug mit angeblichen Fernwartungsanrufen. Die Ausnutzung von Softwarelücken ist gerade ein technischer Angriff. Mitarbeitende sind deshalb vor der ersten Systemnutzung zu schulen und regelmäßig zu sensibilisieren."
  }
 ]

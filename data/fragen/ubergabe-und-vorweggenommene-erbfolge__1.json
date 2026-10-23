@@ -1,0 +1,511 @@
+[
+ {
+  "id": "ueber1-001",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Gestaltung des Übergabevertrags",
+  "seite": "Übergabevertrag: Anrechnung auf den Pflichtteil und Ausgleichung",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-anrechnung-auf-den-pflichtteil-und-ausgleichung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 2315 Abs. 1 BGB"
+  ],
+  "frage": "Unter welcher Voraussetzung wird eine lebzeitige Übergabe an ein Kind auf dessen späteren Pflichtteil angerechnet?",
+  "optionen": [
+   "Kraft Gesetzes bei jeder Zuwendung an einen Abkömmling",
+   "Wenn der Veräußerer die Anrechnung bei der Zuwendung ausdrücklich bestimmt",
+   "Wenn der Veräußerer die Anrechnung später einseitig durch Testament anordnet",
+   "Wenn der Wert der Zuwendung die Hälfte des gesetzlichen Erbteils übersteigt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 2315 Abs. 1 BGB findet eine Anrechnung nur statt, wenn der Veräußerer sie bei der Zuwendung ausdrücklich bestimmt. Eine spätere einseitige Anordnung, etwa im Testament, ist ausgeschlossen, weil der Erwerber die Zuwendung in Kenntnis ihrer Belastung annehmen soll. Eine automatische Anrechnung kraft Gesetzes gibt es nicht."
+ },
+ {
+  "id": "ueber1-002",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Gestaltung des Übergabevertrags",
+  "seite": "Übergabevertrag: Anrechnung auf den Pflichtteil und Ausgleichung",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-anrechnung-auf-den-pflichtteil-und-ausgleichung",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 2315 BGB"
+  ],
+  "frage": "Für die Anrechnung auf den Pflichtteil ist ohne abweichende Vereinbarung der Wert der Zuwendung im Zeitpunkt des Erbfalls maßgeblich.",
+  "antwort": false,
+  "erklaerung": "Ohne abweichende Vereinbarung gilt für die Anrechnung nach § 2315 BGB der Wert zur Zeit der Zuwendung, nicht der Wert beim Erbfall. Die Beteiligten können jedoch einen bestimmten Anrechnungswert festlegen."
+ },
+ {
+  "id": "ueber1-003",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Gestaltung des Übergabevertrags",
+  "seite": "Übergabevertrag: Anrechnung auf den Pflichtteil und Ausgleichung",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-anrechnung-auf-den-pflichtteil-und-ausgleichung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2050 Abs. 3 BGB",
+   "§ 2055 BGB"
+  ],
+  "frage": "Wie wirkt eine bei der Übergabe angeordnete Ausgleichung im späteren Erbfall?",
+  "optionen": [
+   "Die Erbquote des begünstigten Miterben verringert sich entsprechend dem Zuwendungswert",
+   "Der begünstigte Miterbe muss den Zuwendungswert an den Nachlass zurückzahlen",
+   "Der Zuwendungswert wird dem Nachlass hinzugerechnet und beim Erbteil des Begünstigten abgezogen; die Erbquoten bleiben unverändert",
+   "Die Zuwendung wird nur auf einen etwaigen Pflichtteil des Begünstigten angerechnet"
+  ],
+  "antwort": 2,
+  "erklaerung": "Bei der Ausgleichung wird der Wert der lebzeitigen Zuwendung dem Nachlass hinzugerechnet und beim Erbteil des begünstigten Miterben abgezogen (§§ 2050 Abs. 3, 2055 BGB). Die Erbquoten ändern sich nicht; verschoben wird nur, was jeder Miterbe bei der Auseinandersetzung erhält. Eine Rückzahlungspflicht besteht nicht, auch nicht bei Mehrempfang (§ 2056 BGB)."
+ },
+ {
+  "id": "ueber1-004",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Gestaltung des Übergabevertrags",
+  "seite": "Übergabevertrag: Anrechnung auf den Pflichtteil und Ausgleichung",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-anrechnung-auf-den-pflichtteil-und-ausgleichung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2056 BGB"
+  ],
+  "frage": "Hat ein Miterbe lebzeitig mehr erhalten, als ihm bei der Auseinandersetzung zustünde, muss er den Mehrbetrag nicht herauszahlen; eine vollständige Gleichstellung der Erben ist durch Ausgleichung daher nicht immer erreichbar.",
+  "antwort": true,
+  "erklaerung": "§ 2056 BGB befreit den Miterben von der Herauszahlung des Mehrempfangs. Deshalb kann die Ausgleichung Wertunterschiede nur bis zur Höhe seines Erbteils verrechnen; darüber hinaus bleibt eine Ungleichheit bestehen."
+ },
+ {
+  "id": "ueber1-005",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Gestaltung des Übergabevertrags",
+  "seite": "Übergabevertrag: Anrechnung auf den Pflichtteil und Ausgleichung",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-anrechnung-auf-den-pflichtteil-und-ausgleichung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 2315 BGB"
+  ],
+  "frage": "Welche Gestaltung ist bei einer Anrechnungsbestimmung im Übergabevertrag nach der Praxis geboten?",
+  "optionen": [
+   "Der Erwerber sollte bei der Beurkundung anwesend sein, da die Anrechnungsbestimmung empfangsbedürftig ist",
+   "Die Anrechnungsbestimmung ist zusätzlich in einem Testament zu wiederholen, um wirksam zu werden",
+   "Die Anrechnung ist nur aufzunehmen, wenn sie gewollt ist; ein Ausschluss ist nicht zu dokumentieren",
+   "Die Anrechnungsbestimmung bedarf der Zustimmung aller weiteren Pflichtteilsberechtigten"
+  ],
+  "antwort": 0,
+  "erklaerung": "Anrechnungsbestimmungen sind empfangsbedürftig; der Erwerber sollte deshalb bei der Beurkundung anwesend sein (§ 2315 BGB). Auch wenn keine Anrechnung gewollt ist, soll dies zur Dokumentation ausdrücklich in die Urkunde aufgenommen werden. Eine Wiederholung im Testament ist nicht erforderlich; eine spätere einseitige Anordnung wäre ohnehin unwirksam."
+ },
+ {
+  "id": "ueber1-006",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Gestaltung des Übergabevertrags",
+  "seite": "Übergabevertrag: Besitzübergang, Mängel, Mietverhältnis und Auflassung",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-besitzubergang-mangel-mietverhaltnis-und-auflassung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 523 BGB",
+   "§ 524 BGB"
+  ],
+  "frage": "Wofür haftet der Veräußerer bei einer schenkweisen Übergabe kraft Gesetzes für Mängel?",
+  "optionen": [
+   "Für alle Sachmängel wie ein Verkäufer",
+   "Nur für arglistig verschwiegene Mängel",
+   "Für Mängel, die er grob fahrlässig nicht kannte",
+   "Nur für Rechtsmängel, nicht für Sachmängel"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei einer Schenkung haftet der Veräußerer kraft Gesetzes nur für arglistig verschwiegene Mängel (§§ 523, 524 BGB). Eine kaufrechtliche Haftung besteht nicht, weil der Beschenkte unentgeltlich erwirbt und daher weniger schutzbedürftig ist; eine abweichende Vereinbarung ist oft nicht geboten."
+ },
+ {
+  "id": "ueber1-007",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Gestaltung des Übergabevertrags",
+  "seite": "Übergabevertrag: Besitzübergang, Mängel, Mietverhältnis und Auflassung",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-besitzubergang-mangel-mietverhaltnis-und-auflassung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 566 BGB"
+  ],
+  "frage": "Behält sich der Veräußerer bei der Übergabe eines vermieteten Hauses den Nießbrauch vor, tritt der Erwerber gleichwohl mit der Eigentumsumschreibung in das Mietverhältnis ein.",
+  "antwort": false,
+  "erklaerung": "Zwar gilt § 566 BGB auch bei der Übergabe. Bei einem Nießbrauchsvorbehalt bleibt aber der Veräußerer als Nießbraucher Vermieter; der Erwerber tritt erst mit Erlöschen des Nießbrauchs in das Mietverhältnis ein."
+ },
+ {
+  "id": "ueber1-008",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Gestaltung des Übergabevertrags",
+  "seite": "Übergabevertrag: Besitzübergang, Mängel, Mietverhältnis und Auflassung",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-besitzubergang-mangel-mietverhaltnis-und-auflassung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 883 BGB"
+  ],
+  "frage": "Wann ist beim Übergabevertrag eine Vormerkung für den Erwerber und eine Abwicklung wie beim Kauf angezeigt?",
+  "optionen": [
+   "Stets, da die Auflassung erst nach Vorliegen aller Genehmigungen erklärt werden darf",
+   "Wenn sich der Veräußerer ein Wohnungsrecht vorbehält",
+   "Wenn die Umschreibung erst nach vollständiger Gegenleistung, etwa Zahlung eines Gleichstellungsgeldes, erfolgen soll",
+   "Wenn der Vertragsgegenstand vermietet ist"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Übergabe braucht meist keine Zug-um-Zug-Abwicklung; Auflassung, Bewilligung und Umschreibungsantrag können sofort in der Urkunde erfolgen. Eine Vormerkung ist nur angezeigt, wenn die Umschreibung erst nach vollständiger Gegenleistung erfolgen soll, etwa nach Zahlung einer Ausgleichszahlung oder eines Gleichstellungsgeldes oder nach Vorliegen der Schuldhaftentlassung. Ein vorbehaltenes Wohnungsrecht verlangt keine aufgeschobene Umschreibung."
+ },
+ {
+  "id": "ueber1-009",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Gestaltung des Übergabevertrags",
+  "seite": "Übergabevertrag: Besitzübergang, Mängel, Mietverhältnis und Auflassung",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-besitzubergang-mangel-mietverhaltnis-und-auflassung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 566 BGB"
+  ],
+  "frage": "Welche Regelung empfiehlt sich bei der Übergabe eines vermieteten Objekts ohne Nutzungsvorbehalt?",
+  "optionen": [
+   "Vereinbaren, dass der Erwerber schon mit Besitzübergang in das Mietverhältnis eintritt",
+   "Den Eintritt in das Mietverhältnis bis zur Löschung aller Belastungen aufschieben",
+   "Die Mietverträge vor der Übergabe kündigen lassen",
+   "Den Erwerber erst nach Zahlung des Gleichstellungsgeldes eintreten lassen"
+  ],
+  "antwort": 0,
+  "erklaerung": "Kraft Gesetzes tritt der Erwerber erst mit der Eigentumsumschreibung in das Mietverhältnis ein (§ 566 BGB). Da Besitz, Nutzen und Lasten meist schon mit Vertragsschluss übergehen sollen, empfiehlt die Praxis, den Eintritt schon auf den Besitzübergang vorzuverlegen. Eine Kündigung ist weder nötig noch sachgerecht."
+ },
+ {
+  "id": "ueber1-010",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Gestaltung des Übergabevertrags",
+  "seite": "Übergabevertrag: Beteiligte, Ehegattenzustimmung und Vollmacht",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-beteiligte-ehegattenzustimmung-und-vollmacht",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1365 BGB"
+  ],
+  "frage": "Wann sollte der Ehegatte des Veräußerers am Übergabevertrag beteiligt werden?",
+  "optionen": [
+   "Stets, wenn der Veräußerer verheiratet ist",
+   "Wenn der Veräußerer im gesetzlichen Güterstand über sein Vermögen im Ganzen verfügt",
+   "Nur wenn der Ehegatte im Grundbuch als Miteigentümer eingetragen ist",
+   "Wenn der Erwerber in Gütergemeinschaft lebt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Verfügt der Veräußerer mit der Übergabe über sein wesentliches Vermögen, kann die Zustimmung seines Ehegatten nach § 1365 BGB erforderlich sein, typischerweise bei Übergabe des einzigen nennenswerten Vermögensgegenstands im gesetzlichen Güterstand. Die Gütergemeinschaft des Erwerbers betrifft dagegen die Mitwirkung des Ehegatten des Erwerbers."
+ },
+ {
+  "id": "ueber1-011",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Gestaltung des Übergabevertrags",
+  "seite": "Übergabevertrag: Beteiligte, Ehegattenzustimmung und Vollmacht",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-beteiligte-ehegattenzustimmung-und-vollmacht",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 29 GBO"
+  ],
+  "frage": "Beim Übergabevertrag ist Vertretung grundsätzlich zulässig; Vollmacht oder Nachgenehmigung müssen in der Form des § 29 GBO vorliegen oder nachgereicht werden.",
+  "antwort": true,
+  "erklaerung": "Vertretung ist beim Übergabevertrag grundsätzlich möglich; für den Grundbuchvollzug muss die Vertretungsmacht in der Form des § 29 GBO nachgewiesen werden. Ausnahme: Werden dem Veräußerer gegenüber erbrechtliche Verzichte erklärt, muss er persönlich anwesend sein."
+ },
+ {
+  "id": "ueber1-012",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Gestaltung des Übergabevertrags",
+  "seite": "Übergabevertrag: Beteiligte, Ehegattenzustimmung und Vollmacht",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-beteiligte-ehegattenzustimmung-und-vollmacht",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 181 BGB",
+   "§ 1365 BGB",
+   "§ 1416 BGB"
+  ],
+  "frage": "Ordne die Konstellation beim Übergabevertrag der jeweils zu prüfenden Anforderung zu.",
+  "paare": [
+   [
+    "Bevollmächtigter überträgt an sich selbst",
+    "Befreiung vom Verbot des Insichgeschäfts (§ 181 Alt. 1 BGB)"
+   ],
+   [
+    "Vollzug durch das Notariat aufgrund Vorsorgevollmacht",
+    "Befugnis zur Erteilung von Untervollmacht"
+   ],
+   [
+    "Veräußerer übergibt sein einziges nennenswertes Vermögen",
+    "Zustimmung seines Ehegatten (§ 1365 BGB)"
+   ],
+   [
+    "Erwerber lebt in Gütergemeinschaft",
+    "Mitwirkung des Ehegatten des Erwerbers (§§ 1416 ff. BGB)"
+   ]
+  ],
+  "erklaerung": "Beim Bevollmächtigten als Erwerber muss die Vollmacht von § 181 BGB befreien, Untervollmacht für den Vollzug erlauben und unentgeltliche Geschäfte decken. § 1365 BGB betrifft den Veräußerer, die Gütergemeinschaft (§§ 1416 ff. BGB) den Erwerber, weil sie einen Erwerb zu Alleineigentum ausschließt."
+ },
+ {
+  "id": "ueber1-013",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Gestaltung des Übergabevertrags",
+  "seite": "Übergabevertrag: Beteiligte, Ehegattenzustimmung und Vollmacht",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-beteiligte-ehegattenzustimmung-und-vollmacht",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 15 ErbStG"
+  ],
+  "frage": "Weshalb ist im Übergabevertrag das Verwandtschaftsverhältnis zwischen Veräußerer und Erwerber anzugeben?",
+  "optionen": [
+   "Es ist Wirksamkeitsvoraussetzung der Auflassung",
+   "Es dient den Finanzbehörden zur Ermittlung der Schenkungsteuer",
+   "Es bestimmt, ob die Übergabe der Grunderwerbsteuer unterliegt",
+   "Es ist für die Bestimmung des Geschäftswerts erforderlich"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Angabe der Art der Verwandtschaft dient den Finanzbehörden zur Ermittlung der Schenkungsteuer (Steuerklasse und Freibetrag). Sie kann im Urkundeneingang, in einer Vorbemerkung oder im Abschnitt zur Schenkung stehen. Für die Wirksamkeit der Auflassung ist sie ohne Bedeutung."
+ },
+ {
+  "id": "ueber1-014",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Gestaltung des Übergabevertrags",
+  "seite": "Übergabevertrag: Beteiligte, Ehegattenzustimmung und Vollmacht",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-beteiligte-ehegattenzustimmung-und-vollmacht",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 17 Abs. 1 BeurkG",
+   "§ 181 BGB"
+  ],
+  "frage": "Ein Sohn mit General- und Vorsorgevollmacht beauftragt allein die Übergabe des Hauses seiner Mutter an sich. Wie sollte der Notar vorgehen?",
+  "optionen": [
+   "Den Entwurf allein nach den Wünschen des Sohnes fertigen, da er bevollmächtigt ist",
+   "Möglichst schon vor dem Entwurf mit der Mutter sprechen und die Vollmacht auf § 181 BGB, Untervollmacht und Schenkungsbefugnis prüfen",
+   "Die Beurkundung ablehnen, da Übertragungen an Bevollmächtigte unzulässig sind",
+   "Zwingend eine betreuungsgerichtliche Genehmigung einholen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Maßgeblich ist der Wille der Veräußerin, auch wenn sie vertreten wird; der Notar muss ihn erforschen (§ 17 Abs. 1 BeurkG) und sollte daher früh mit ihr sprechen. Zudem ist zu prüfen, ob die Vollmacht von § 181 BGB befreit, Untervollmacht erlaubt und Schenkungen deckt. Unzulässig ist die Übertragung an den Bevollmächtigten nicht."
+ },
+ {
+  "id": "ueber1-015",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Gestaltung des Übergabevertrags",
+  "seite": "Übergabevertrag: Beteiligung Minderjähriger",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-beteiligung-minderjahriger",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 107 BGB",
+   "§ 1824 BGB"
+  ],
+  "frage": "Die Ausnahme vom Vertretungsausschluss bei lediglich rechtlich vorteilhaften Geschäften gilt auch für geschäftsunfähige Kinder unter sieben Jahren.",
+  "antwort": false,
+  "erklaerung": "Die teleologische Reduktion des Vertretungsausschlusses knüpft an § 107 BGB an und gilt nur für beschränkt geschäftsfähige Kinder ab Vollendung des siebten Lebensjahres. Für geschäftsunfähige Kinder gilt § 107 BGB nicht."
+ },
+ {
+  "id": "ueber1-016",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Gestaltung des Übergabevertrags",
+  "seite": "Übergabevertrag: Beteiligung Minderjähriger",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-beteiligung-minderjahriger",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 107 BGB"
+  ],
+  "frage": "Ordne die Gestaltung bei Schenkung an ein beschränkt geschäftsfähiges Kind ihrer Bewertung nach § 107 BGB zu.",
+  "paare": [
+   [
+    "Wohnungsrecht des Veräußerers ohne Kostenersatzpflicht des Kindes",
+    "rechtlich nicht nachteilig"
+   ],
+   [
+    "Reallast am Grundstück",
+    "rechtlich nachteilig wegen persönlicher Haftung des Eigentümers"
+   ],
+   [
+    "Rückforderungsrecht mit Herausgabe nur nach Bereicherungsrecht",
+    "unschädlich für den rechtlichen Vorteil"
+   ],
+   [
+    "Erwerb von Wohnungseigentum",
+    "stets rechtlich nachteilig"
+   ]
+  ],
+  "erklaerung": "Maßgeblich ist die rechtliche, nicht die wirtschaftliche Betrachtung (§ 107 BGB). Nutzungsrechte ohne Kostenersatzpflicht und bereicherungsrechtlich beschränkte Rückforderungsrechte schaden nicht. Reallasten begründen eine persönliche Haftung des Eigentümers; der Erwerb vermieteter Objekte und von Wohnungs- oder Teileigentum ist stets rechtlich nachteilig."
+ },
+ {
+  "id": "ueber1-017",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Gestaltung des Übergabevertrags",
+  "seite": "Übergabevertrag: Beteiligung Minderjähriger",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-beteiligung-minderjahriger",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1850 Nr. 4 BGB",
+   "§ 1643 BGB"
+  ],
+  "frage": "Eltern wollen ihrem 12-jährigen Kind schenkweise eine Eigentumswohnung übertragen. Was ist erforderlich?",
+  "optionen": [
+   "Nichts, da die Schenkung lediglich rechtlich vorteilhaft ist",
+   "Nur ein Ergänzungspfleger",
+   "Ergänzungspfleger und familiengerichtliche Genehmigung",
+   "Nur eine familiengerichtliche Genehmigung, vertreten durch die Eltern"
+  ],
+  "antwort": 2,
+  "erklaerung": "Der Erwerb von Wohnungseigentum ist stets rechtlich nachteilig, sodass die Eltern nach §§ 1629 Abs. 2, 1824 BGB ausgeschlossen sind und ein Ergänzungspfleger (§ 1809 BGB) zu bestellen ist. Zusätzlich bedarf der unentgeltliche Erwerb von Wohnungseigentum der familiengerichtlichen Genehmigung (§ 1850 Nr. 4 BGB). Die bloße Unentgeltlichkeit macht das Geschäft nicht rechtlich vorteilhaft."
+ },
+ {
+  "id": "ueber1-018",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Gestaltung des Übergabevertrags",
+  "seite": "Übergabevertrag: Beteiligung Minderjähriger",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-beteiligung-minderjahriger",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1809 BGB"
+  ],
+  "frage": "Wer bestellt den Ergänzungspfleger, wenn die Eltern das Kind bei der Übergabe nicht vertreten können?",
+  "optionen": [
+   "Das Grundbuchamt am Ort des Grundstücks",
+   "Das Familiengericht am gewöhnlichen Aufenthalt des Kindes",
+   "Das Betreuungsgericht am Wohnsitz der Eltern",
+   "Der beurkundende Notar"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Ergänzungspfleger nach § 1809 BGB wird vom Familiengericht bestellt, in dessen Bezirk das Kind seinen gewöhnlichen Aufenthalt hat. Das Betreuungsgericht ist für Volljährige zuständig, das Grundbuchamt hat keine Bestellungskompetenz."
+ },
+ {
+  "id": "ueber1-019",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Gestaltung des Übergabevertrags",
+  "seite": "Übergabevertrag: Beteiligung Minderjähriger",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-beteiligung-minderjahriger",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 107 BGB",
+   "§ 1824 BGB",
+   "§ 1850 BGB"
+  ],
+  "frage": "Übergabe des Familienheims an die Tochter",
+  "sachverhalt": "Die Eheleute M und F wollen ihr ausschließlich selbst bewohntes Einfamilienhaus auf ihre zehnjährige Tochter T übertragen. Sie behalten sich ein lebenslanges Wohnungsrecht vor. Weitere Gegenleistungen sind nicht vorgesehen; das Grundstück ist unbelastet.",
+  "schritte": [
+   {
+    "frage": "Können M und F die T beim Vertragsschluss grundsätzlich vertreten, obwohl sie selbst Vertragspartner sind?",
+    "optionen": [
+     "Nein, wegen §§ 1629 Abs. 2, 1824 BGB ist stets ein Ergänzungspfleger nötig",
+     "Ja, wenn das Geschäft für T lediglich rechtlich vorteilhaft ist (§ 107 BGB)",
+     "Ja, weil Eltern ihr Kind stets uneingeschränkt vertreten",
+     "Nur mit Zustimmung des Jugendamts"
+    ],
+    "antwort": 1,
+    "erklaerung": "An sich greift der Vertretungsausschluss (§§ 1629 Abs. 2, 1824 iVm § 181 BGB). Er wird aber teleologisch reduziert, wenn das Geschäft für das beschränkt geschäftsfähige Kind lediglich rechtlich vorteilhaft ist (§ 107 BGB)."
+   },
+   {
+    "frage": "Unter welcher Voraussetzung schadet das vorbehaltene Wohnungsrecht dem rechtlichen Vorteil nicht?",
+    "optionen": [
+     "Wenn T keinen Aufwendungs- oder Kostenersatz schuldet",
+     "Wenn das Wohnungsrecht als Reallast ausgestaltet wird",
+     "Wenn das Wohnungsrecht befristet ist",
+     "Wenn T das Haus mitbewohnt"
+    ],
+    "antwort": 0,
+    "erklaerung": "Ein Wohnungsrecht des Veräußerers ist unschädlich, wenn das Kind keinen Aufwendungs- oder Kostenersatz schuldet. Eine Reallast wäre dagegen wegen der persönlichen Haftung des Eigentümers rechtlich nachteilig."
+   },
+   {
+    "frage": "Welche Klausel sollte der Notar daher aufnehmen?",
+    "optionen": [
+     "Eine Pflicht der T zur Übernahme der Instandhaltungskosten",
+     "Eine ausdrückliche Freistellung der T von Aufwendungs- und Kostenersatz",
+     "Eine Rückforderung mit Wertersatzpflicht der T",
+     "Eine Verpflichtung zur Pflege der Eltern"
+    ],
+    "antwort": 1,
+    "erklaerung": "Die Praxis empfiehlt, das Kind bei Wohnungsrecht oder Nießbrauch ausdrücklich von Aufwendungs- und Kostenersatz freizustellen. Kostentragungs-, Wertersatz- oder Pflegepflichten würden den lediglich rechtlichen Vorteil beseitigen."
+   }
+  ],
+  "erklaerung": "Bei Übergabe des selbst bewohnten Familienheims ohne besondere Gegenleistungen an ein beschränkt geschäftsfähiges Kind sind in der Regel weder Ergänzungspfleger noch familiengerichtliche Genehmigung nötig. Voraussetzung ist, dass das vorbehaltene Wohnungsrecht keine Kostenersatzpflicht des Kindes auslöst; dies ist ausdrücklich zu regeln."
+ },
+ {
+  "id": "ueber1-020",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Gestaltung des Übergabevertrags",
+  "seite": "Übergabevertrag: Grundbuchstand, Vertragsgegenstand und Löschung alter Rechte",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-grundbuchstand-vertragsgegenstand-und-loschung-alter-rechte",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 28 S. 1 GBO"
+  ],
+  "frage": "Nach welchem Maßstab ist der Grundbesitz im Übergabevertrag zu bezeichnen?",
+  "optionen": [
+   "Es genügt die postalische Anschrift des Hauses",
+   "So genau, dass nach dem Bestimmtheitsgrundsatz und § 28 S. 1 GBO kein Zweifel bleibt; Besonderheiten gegenüber dem Kauf bestehen nicht",
+   "Weniger streng als beim Kauf, da kein Kaufpreis geschuldet ist",
+   "Nur nach Flurstücksnummer, ohne Grundbuchstelle"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Vertragsgegenstand ist mit Blick auf den sachenrechtlichen Bestimmtheitsgrundsatz und § 28 S. 1 GBO zweifelsfrei zu bezeichnen. Gegenüber einem Kaufvertrag gibt es keine Besonderheiten; die Unentgeltlichkeit lockert die Anforderungen nicht."
+ },
+ {
+  "id": "ueber1-021",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Gestaltung des Übergabevertrags",
+  "seite": "Übergabevertrag: Grundbuchstand, Vertragsgegenstand und Löschung alter Rechte",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-grundbuchstand-vertragsgegenstand-und-loschung-alter-rechte",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 415 BGB"
+  ],
+  "frage": "Sichert eine eingetragene Grundschuld noch ein Darlehen, muss der Übergabevertrag vor allem regeln, ob der Erwerber die weiteren Raten zahlt oder der Veräußerer das Darlehen weiter tilgt.",
+  "antwort": true,
+  "erklaerung": "Bei valutierenden Grundpfandrechten ist zentral, wer das gesicherte Darlehen weiter bedient. Allgemein ist für jede Belastung in Abteilung II und III festzulegen, ob der Erwerber sie übernimmt oder ob sie gelöscht wird."
+ },
+ {
+  "id": "ueber1-022",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Gestaltung des Übergabevertrags",
+  "seite": "Übergabevertrag: Grundbuchstand, Vertragsgegenstand und Löschung alter Rechte",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-grundbuchstand-vertragsgegenstand-und-loschung-alter-rechte",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 875 BGB",
+   "§ 19 GBO"
+  ],
+  "frage": "Welcher Umstand ist kein Anzeichen dafür, dass ein eingetragenes Recht erledigt und löschbar sein könnte?",
+  "optionen": [
+   "Eintragung des Grundpfandrechts in DM",
+   "Lange zurückliegendes Geburtsjahr des Wohnungsberechtigten",
+   "Gläubiger existiert nicht mehr in dieser Form",
+   "Das Recht ist im Rang nach einer Grundschuld eingetragen"
+  ],
+  "antwort": 3,
+  "erklaerung": "Anzeichen für erledigte Rechte sind ein lange zurückliegendes Geburtsjahr des Berechtigten, ein altes Bewilligungsdatum, eine Eintragung in DM und ein nicht mehr existierender Gläubiger. Die Rangstelle sagt über die Erledigung nichts aus."
+ },
+ {
+  "id": "ueber1-023",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Gestaltung des Übergabevertrags",
+  "seite": "Übergabevertrag: Grundbuchstand, Vertragsgegenstand und Löschung alter Rechte",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-grundbuchstand-vertragsgegenstand-und-loschung-alter-rechte",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 19 GBO",
+   "§ 29 GBO"
+  ],
+  "frage": "Warum sollte der Notar die Übergabe nutzen, um erledigte Rechte löschen zu lassen?",
+  "optionen": [
+   "Weil das Grundbuchamt die Umschreibung sonst verweigert",
+   "Weil später häufig die nötigen Unterlagen wie Sterbeurkunden, Löschungsbewilligungen oder Grundschuldbriefe fehlen",
+   "Weil erledigte Rechte die Schenkungsteuer erhöhen",
+   "Weil eine Löschung nach der Übergabe nur noch mit Zustimmung des Veräußerers möglich ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bleiben löschbare Rechte stehen, fehlen später oft die für die Löschung nötigen Unterlagen; das Problem zeigt sich meist erst, wenn die Löschung dringend wird, etwa bei Verkauf oder Beleihung. Die Löschung ist daher anzuregen, solange Unterlagen beschaffbar sind. Eine Verweigerung der Umschreibung wegen stehen gebliebener Rechte gibt es nicht."
+ }
+]

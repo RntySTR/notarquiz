@@ -396,5 +396,345 @@
   "frage": "Widerruft der Erblasser in einem neuen Testament ein früheres Testament mit umfassender Erbregelung und setzt nur noch Einzelvermächtnisse aus, ist der Geschäftswert allein nach der neuen Verfügung zu bestimmen.",
   "antwort": false,
   "erklaerung": "Widerruf und neue Verfügung sind nach § 109 Abs. 2 S. 1 Nr. 2 GNotKG gegenstandsgleich; maßgeblich ist nach § 109 Abs. 2 S. 2 GNotKG der höchste der beteiligten Werte, hier also der Wert des Widerrufs der umfassenden Erbregelung. Decken sich die Werte nicht, ist wegen der unterschiedlichen Gebührensätze zusätzlich eine Vergleichsberechnung nach § 94 Abs. 2 GNotKG durchzuführen. Beide Werte sind daher getrennt zu ermitteln."
+ },
+ {
+  "id": "kost1-018",
+  "kapitel": "notarkosten",
+  "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung",
+  "seite": "Beurkundungsgegenstand: Grundsätze bei mehreren Gegenständen",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-grundsatze-bei-mehreren-gegenstanden",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 86 Abs. 1 GNotKG",
+   "§ 86 Abs. 2 GNotKG"
+  ],
+  "frage": "Was ist nach § 86 Abs. 1 GNotKG bei einer Erklärungsbeurkundung der Beurkundungsgegenstand?",
+  "optionen": [
+   "Der von den Erklärungen betroffene Vermögensgegenstand, etwa das Grundstück.",
+   "Das Rechtsverhältnis, auf das sich die Erklärungen beziehen.",
+   "Die Gesamtheit der in der Urkunde enthaltenen Willenserklärungen.",
+   "Der wirtschaftliche Zweck, den die Beteiligten mit der Urkunde verfolgen."
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 86 Abs. 1 GNotKG definiert den Beurkundungsgegenstand als das Rechtsverhältnis, auf das sich die Erklärungen beziehen; bei Tatsachenbeurkundungen ist es die beurkundete Tatsache oder der Vorgang. Der Begriff ist rechtlich, nicht wirtschaftlich zu verstehen: Der Gesetzgeber wollte das Rechtsverhältnis klar vom betroffenen Wirtschaftsgut abgrenzen. Deshalb kann dieselbe Sache mehrere Gegenstände betreffen, und mehrere Sachen können einen Gegenstand bilden."
+ },
+ {
+  "id": "kost1-019",
+  "kapitel": "notarkosten",
+  "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung",
+  "seite": "Beurkundungsgegenstand: Grundsätze bei mehreren Gegenständen",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-grundsatze-bei-mehreren-gegenstanden",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 93 Abs. 2 GNotKG",
+   "§ 93 Abs. 1 GNotKG"
+  ],
+  "frage": "Ein rechtlicher Verknüpfungswille im Sinne des § 93 Abs. 2 GNotKG liegt bereits vor, wenn ein Geschäft tatsächlich erst nach dem anderen vollzogen werden kann.",
+  "antwort": false,
+  "erklaerung": "Ein Verknüpfungswille setzt voraus, dass die Geschäfte nach dem in der Urkunde zum Ausdruck gebrachten Willen der Beteiligten miteinander stehen und fallen sollen (BGH). Eine bloß tatsächliche Vollzugsreihenfolge genügt nicht. Fehlt neben dem Verknüpfungswillen auch die Personenidentität, wird nach § 93 Abs. 2 GNotKG abgerechnet wie bei getrennten Urkunden."
+ },
+ {
+  "id": "kost1-020",
+  "kapitel": "notarkosten",
+  "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung",
+  "seite": "Beurkundungsgegenstand: Grundsätze bei mehreren Gegenständen",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-grundsatze-bei-mehreren-gegenstanden",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 86 Abs. 2 GNotKG",
+   "§ 97 Abs. 3 GNotKG"
+  ],
+  "frage": "Welcher Vorgang bildet nach den Grundsätzen zu § 86 GNotKG nur einen einzigen Beurkundungsgegenstand?",
+  "optionen": [
+   "Schenkung eines Grundstücks und anschließender Gesellschaftsvertrag über dasselbe Grundstück zwischen denselben Beteiligten.",
+   "Einheitlicher Verkauf mehrerer Grundstücke zwischen denselben Vertragsparteien.",
+   "Übertragungen innerhalb einer Familie mit unterschiedlichen Beteiligten und Übertragungsrichtungen.",
+   "Kaufvertrag und Umsatzsteueroption in derselben Urkunde."
+  ],
+  "antwort": 1,
+  "erklaerung": "Maßgeblich ist das Rechtsverhältnis, nicht der Vermögensgegenstand: Der einheitliche Verkauf mehrerer Grundstücke zwischen denselben Parteien ist ein Rechtsverhältnis. Unterschiedliche Vertragstypen wie Schenkung und Gesellschaftsvertrag begründen dagegen mehrere Gegenstände, auch wenn Grundstück und Beteiligte übereinstimmen. Die Umsatzsteueroption ist nach § 110 Nr. 2 Buchst. c GNotKG ausdrücklich gegenstandsverschieden."
+ },
+ {
+  "id": "kost1-021",
+  "kapitel": "notarkosten",
+  "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung",
+  "seite": "Beurkundungsgegenstand: Grundsätze bei mehreren Gegenständen",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-grundsatze-bei-mehreren-gegenstanden",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 97 Abs. 1 GNotKG",
+   "§ 97 Abs. 3 GNotKG"
+  ],
+  "frage": "Bei einem Austauschvertrag mit ungleichwertigen Leistungen wird nur die höherwertige Leistung bewertet.",
+  "antwort": true,
+  "erklaerung": "Bei Verträgen richtet sich der Wert nach dem Rechtsverhältnis, das Beurkundungsgegenstand ist (§ 97 Abs. 1 GNotKG); Leistung und Gegenleistung werden nicht als getrennte Rechtsverhältnisse addiert. Nach § 97 Abs. 3 GNotKG wird bei Austauschverträgen nur die Leistung eines Teils bewertet, bei ungleichen Leistungen die höherwertige."
+ },
+ {
+  "id": "kost1-022",
+  "kapitel": "notarkosten",
+  "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung",
+  "seite": "Beurkundungsgegenstand: Vergleichsberechnung (§ 94 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-vergleichsberechnung-94-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 94 Abs. 1 GNotKG",
+   "§ 110 Nr. 2 Buchst. c GNotKG",
+   "KV 21100 GNotKG",
+   "KV 21200 GNotKG"
+  ],
+  "frage": "Ein Kaufvertrag enthält eine Umsatzsteueroption. Wie ist die Beurkundungsgebühr zu ermitteln?",
+  "optionen": [
+   "2,0-Gebühr nur aus dem Kaufpreis; die Option ist gegenstandsgleich und bleibt unberücksichtigt.",
+   "Getrennte Gebühren (2,0 aus dem Kaufpreis, 1,0 aus dem Optionswert), höchstens jedoch die 2,0-Gebühr aus der Wertesumme.",
+   "Stets 2,0-Gebühr aus der Summe von Kaufpreis und Umsatzsteuerbetrag.",
+   "Stets getrennte Gebühren, weil die Option ein besonderer Gegenstand nach § 111 GNotKG ist."
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Umsatzsteueroption ist nach § 110 Nr. 2 Buchst. c GNotKG gegenstandsverschieden und unterliegt 1,0 nach KV 21200 GNotKG, der Kaufvertrag 2,0 nach KV 21100 GNotKG. Nach § 94 Abs. 1 GNotKG wird getrennt berechnet, soweit das günstiger ist; Obergrenze ist die Gebühr aus der Wertesumme nach dem höchsten Satz. Option 3 übersieht, dass die getrennte Berechnung günstiger sein kann."
+ },
+ {
+  "id": "kost1-023",
+  "kapitel": "notarkosten",
+  "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung",
+  "seite": "Beurkundungsgegenstand: Vergleichsberechnung (§ 94 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-vergleichsberechnung-94-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 94 Abs. 1 GNotKG",
+   "§ 93 Abs. 1 GNotKG",
+   "§ 35 GNotKG",
+   "§ 112 GNotKG"
+  ],
+  "frage": "Bei einem Kaufvertrag mit gegenstandsverschiedener Erklärung war die getrennte Berechnung der Beurkundungsgebühr nach § 94 Abs. 1 GNotKG günstiger. Aus welchem Wert ist die Vollzugsgebühr zu berechnen?",
+  "optionen": [
+   "Getrennt aus den Einzelwerten, entsprechend der Verfahrensgebühr.",
+   "Nur aus dem Wert des Kaufvertrags als Hauptgeschäft.",
+   "Aus der Summe der Werte, weil § 94 GNotKG nur die Verfahrensgebühr betrifft.",
+   "Aus dem höchsten Einzelwert entsprechend § 109 Abs. 2 S. 2 GNotKG."
+  ],
+  "antwort": 2,
+  "erklaerung": "§ 94 GNotKG betrifft nur die Gebühr für das Beurkundungsverfahren. Vollzugs- und Betreuungsgebühr werden nur einmal erhoben (§ 93 Abs. 1 GNotKG) nach den Wertvorschriften der §§ 112, 113 Abs. 1 GNotKG; maßgeblich ist der gesamte Verfahrenswert, im Fall des § 94 Abs. 1 GNotKG also die Summe der Werte (§ 35 GNotKG). Die Vollzugsgebühr aus einem Teilwert zu berechnen, ist ein typischer Fehler."
+ },
+ {
+  "id": "kost1-024",
+  "kapitel": "notarkosten",
+  "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung",
+  "seite": "Beurkundungsgegenstand: Vergleichsberechnung (§ 94 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-vergleichsberechnung-94-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 94 Abs. 2 GNotKG",
+   "§ 109 Abs. 1 S. 5 GNotKG"
+  ],
+  "frage": "Löst bei gegenstandsgleichen Erklärungen nach § 109 Abs. 1 GNotKG das Hauptgeschäft bereits den höchsten Gebührensatz aus, ist keine Vergleichsberechnung nach § 94 Abs. 2 GNotKG durchzuführen.",
+  "antwort": true,
+  "erklaerung": "Hat das Hauptgeschäft den höchsten Satz, gibt es keine günstigere Variante: Die Werte werden nicht addiert, und der Wert der Nebenerklärung darf den Wert des Hauptgeschäfts nach § 109 Abs. 1 S. 5 GNotKG nicht übersteigen. Relevant wird § 94 Abs. 2 GNotKG vor allem, wenn eine Nebenerklärung einem höheren Satz unterliegt als die Haupterklärung, etwa die Vollstreckungsunterwerfung bei Angebotsannahme oder Grundschuldbestellung."
+ },
+ {
+  "id": "kost1-025",
+  "kapitel": "notarkosten",
+  "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung",
+  "seite": "Beurkundungsgegenstand: Vergleichsberechnung (§ 94 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-vergleichsberechnung-94-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 94 Abs. 1 GNotKG",
+   "§ 35 GNotKG"
+  ],
+  "frage": "Eine Urkunde enthält drei gegenstandsverschiedene Erklärungen: zwei unterliegen dem Satz 1,0, eine dem Satz 0,5. Wie ist bei der Vergleichsberechnung vorzugehen?",
+  "optionen": [
+   "Alle drei Werte einzeln berechnen und die günstigste Kombination wählen.",
+   "Die beiden Werte mit Satz 1,0 vorab addieren und dann mit der 0,5-Gruppe vergleichen.",
+   "Alle Werte addieren und stets die 1,0-Gebühr aus der Summe erheben.",
+   "Nur die 0,5-Erklärung getrennt berechnen, die 1,0-Erklärungen jeweils einzeln."
+  ],
+  "antwort": 1,
+  "erklaerung": "Gegenstände mit demselben Gebührensatz werden vorab zusammengerechnet, weil die Addition bei gleichem Satz wegen der Degression immer günstiger ist. Verglichen werden nur die addierten Werte der Gruppen mit unterschiedlichen Sätzen; Obergrenze ist nach § 94 Abs. 1 GNotKG die Gebühr aus der Wertesumme nach dem höchsten Satz."
+ },
+ {
+  "id": "kost1-026",
+  "kapitel": "notarkosten",
+  "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung",
+  "seite": "Beurkundungsgegenstand: verschiedene und besondere Gegenstände (§§ 110, 111 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-verschiedene-und-besondere-gegenstande-110-111-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 110 GNotKG",
+   "§ 111 GNotKG"
+  ],
+  "frage": "Worin unterscheiden sich §§ 110 und 111 GNotKG?",
+  "optionen": [
+   "§ 110 ordnet Gegenstandsgleichheit an, § 111 Gegenstandsverschiedenheit.",
+   "§ 110 begründet relative Verschiedenheit nur zwischen den Gruppen, § 111 absolute Verschiedenheit auch gegenüber gleichartigen Erklärungen.",
+   "§ 110 gilt nur für Grundstücksgeschäfte, § 111 nur für erbrechtliche Erklärungen.",
+   "§ 110 begründet absolute Verschiedenheit, § 111 nur relative Verschiedenheit innerhalb einer Gruppe."
+  ],
+  "antwort": 1,
+  "erklaerung": "Die in § 110 GNotKG genannten Gruppen sind nur im Verhältnis zueinander verschieden; innerhalb einer Gruppe kann Gegenstandsgleichheit bestehen, etwa zwischen mehreren Beschlüssen nach § 109 Abs. 2 S. 1 Nr. 4 GNotKG. Die Rechtsverhältnisse des § 111 GNotKG sind gegenüber allen anderen Erklärungen und auch untereinander besondere Gegenstände; mehrere gleichartige werden gesondert bewertet und addiert (§ 35 GNotKG). Option 4 vertauscht die Zuordnung."
+ },
+ {
+  "id": "kost1-027",
+  "kapitel": "notarkosten",
+  "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung",
+  "seite": "Beurkundungsgegenstand: verschiedene und besondere Gegenstände (§§ 110, 111 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-verschiedene-und-besondere-gegenstande-110-111-gnotkg",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 110 GNotKG",
+   "§ 111 GNotKG"
+  ],
+  "frage": "Ordne die Konstellationen der Norm zu, die ihre Gegenstandsverschiedenheit anordnet.",
+  "paare": [
+   [
+    "§ 110 Nr. 1 GNotKG",
+    "Kapitalerhöhungsbeschluss und Übernahmeerklärung"
+   ],
+   [
+    "§ 110 Nr. 2 Buchst. b GNotKG",
+    "Bewilligung einer Grunddienstbarkeit im Grundstückskaufvertrag"
+   ],
+   [
+    "§ 110 Nr. 3 GNotKG",
+    "Vorsorgevollmacht und Patientenverfügung"
+   ],
+   [
+    "§ 111 Nr. 1 GNotKG",
+    "Berliner Testament und Pflichtteilsverzicht der Kinder"
+   ],
+   [
+    "§ 111 Nr. 4 GNotKG",
+    "Rechtswahl"
+   ]
+  ],
+  "erklaerung": "§ 110 Nr. 1 GNotKG trennt Beschlüsse von rechtsgeschäftlichen Erklärungen, Nr. 2 Buchst. b die Bestellung subjektiv-dinglicher Rechte im Veräußerungsvertrag, Nr. 3 Vorsorgevollmacht von Patienten- und Betreuungsverfügung. Nach § 111 Nr. 1 GNotKG ist jede Verfügung von Todes wegen besonderer Gegenstand, auch gegenüber sichernden Erklärungen wie einem Pflichtteilsverzicht; nach Nr. 4 ist jede Rechtswahl stets besonderer Gegenstand."
+ },
+ {
+  "id": "kost1-028",
+  "kapitel": "notarkosten",
+  "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung",
+  "seite": "Beurkundungsgegenstand: verschiedene und besondere Gegenstände (§§ 110, 111 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-verschiedene-und-besondere-gegenstande-110-111-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 110 Nr. 2 Buchst. b GNotKG",
+   "§ 109 Abs. 1 GNotKG"
+  ],
+  "frage": "Bewilligt der Käufer im Kaufvertrag dem Verkäufer ein lebenslanges Wohnungsrecht als beschränkte persönliche Dienstbarkeit, ist diese Bewilligung nach § 110 Nr. 2 Buchst. b GNotKG ein gesonderter Gegenstand.",
+  "antwort": false,
+  "erklaerung": "§ 110 Nr. 2 Buchst. b GNotKG erfasst nur subjektiv-dingliche Rechte wie Grunddienstbarkeiten und subjektiv-dingliche Vorkaufsrechte. Beschränkte persönliche Dienstbarkeiten bleiben als Sicherungsgeschäft gegenstandsgleich, weil sie mit dem Tod des Berechtigten, wenn nicht schon früher, enden. Bei Grunddienstbarkeiten wäre dagegen wegen der Sätze 0,5 (KV 21201 Nr. 4) und 2,0 (KV 21100) eine Vergleichsberechnung nach § 94 Abs. 1 GNotKG erforderlich."
+ },
+ {
+  "id": "kost1-029",
+  "kapitel": "notarkosten",
+  "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung",
+  "seite": "Beurkundungsgegenstand: verschiedene und besondere Gegenstände (§§ 110, 111 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-verschiedene-und-besondere-gegenstande-110-111-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 111 Nr. 3 GNotKG",
+   "§ 109 Abs. 2 S. 1 Nr. 4 Buchst. d GNotKG"
+  ],
+  "frage": "Die Gesellschafter berufen in einem Wahlgang Geschäftsführer A ab und bestellen B und C; der Notar meldet die Änderungen zum Handelsregister an. Wie ist kostenrechtlich zu verfahren?",
+  "optionen": [
+   "Ein Beschluss und eine Anmeldung, weil alles in einem Wahlgang geschah.",
+   "Drei Beschlüsse und eine Anmeldung, weil die Anmeldung eine notwendige Erklärungseinheit bildet.",
+   "Ein Beschluss, aber je Geschäftsführer eine eigene Anmeldung als besonderer Gegenstand.",
+   "Drei Beschlüsse und drei Anmeldungen, weil § 111 GNotKG auch Beschlüsse erfasst."
+  ],
+  "antwort": 2,
+  "erklaerung": "Abberufung und Bestellung mehrerer Geschäftsführer in einem Wahlgang sind nach § 109 Abs. 2 S. 1 Nr. 4 Buchst. d GNotKG ein Beschluss. Nach § 111 Nr. 3 GNotKG ist aber jede Anmeldung ein besonderer Gegenstand, auch gegenüber anderen Anmeldungen derselben Urkunde, so dass je Geschäftsführer eine eigene Anmeldung vorliegt. Eine notwendige Erklärungseinheit besteht etwa bei der Erstanmeldung einer GmbH, nicht bei personell getrennten Geschäftsführerwechseln."
+ },
+ {
+  "id": "kost1-030",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: Beglaubigung von Dokumenten (KV 25102 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-beglaubigung-von-dokumenten-kv-25102-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "KV 25102 GNotKG"
+  ],
+  "frage": "Wie hoch ist die Gebühr für die Beglaubigung eines vierseitigen Dokuments nach KV 25102 GNotKG?",
+  "optionen": [
+   "4 € zuzüglich Dokumentenpauschale",
+   "10 €",
+   "20 €",
+   "4 €"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Gebühr beträgt nach KV 25102 GNotKG 1 € je angefangene Seite, mindestens 10 €; bei vier Seiten greift daher die Mindestgebühr von 10 €. Eine Dokumentenpauschale wird daneben nach KV 25102 Anm. Abs. 1 GNotKG nicht erhoben. Die Option „4 €“ übersieht die Mindestgebühr."
+ },
+ {
+  "id": "kost1-031",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: Beglaubigung von Dokumenten (KV 25102 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-beglaubigung-von-dokumenten-kv-25102-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 25102 Anm. Abs. 2 Nr. 1 GNotKG"
+  ],
+  "frage": "Für welche beglaubigte Abschrift fällt die Beglaubigungsgebühr nach KV 25102 GNotKG an?",
+  "optionen": [
+   "Abschrift eines vom Notar beurkundeten Kaufvertrags (Niederschrift nach § 8 BeurkG).",
+   "Abschrift einer vom Notar entworfenen Grundschuldbestellung mit Unterschriftsbeglaubigung.",
+   "Abschrift einer fremd entworfenen Erklärung, bei der der Notar nur die Unterschrift beglaubigt hat.",
+   "Abschrift einer Urkunde, die der Notar in Urschrift dauernd verwahrt."
+  ],
+  "antwort": 2,
+  "erklaerung": "Gebührenfrei sind nach KV 25102 Anm. Abs. 2 Nr. 1 GNotKG Abschriften von Urkunden, die der Notar aufgenommen oder entworfen hat oder in Urschrift dauernd verwahrt; das gilt auch für eigene Entwürfe mit Unterschriftsbeglaubigung. Bei einer reinen Unterschriftsbeglaubigung hat der Notar die Urkunde weder aufgenommen noch verwahrt er die Urschrift, so dass die Gebühr entsteht. Die Gebühr für Abschriften eigener Niederschriften oder Entwürfe zu berechnen, ist ein typischer Fehler."
+ },
+ {
+  "id": "kost1-032",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: Beglaubigung von Dokumenten (KV 25102 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-beglaubigung-von-dokumenten-kv-25102-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "KV 25102 Anm. Abs. 2 Nr. 2 GNotKG",
+   "§ 12 BeurkG"
+  ],
+  "frage": "Beglaubigte Kopien von Vollmachten, die einem vom Notar entworfenen und unterschriftsbeglaubigten Löschungsantrag beigefügt werden, sind stets gebührenfrei, weil § 12 BeurkG für alle notariellen Urkunden gilt.",
+  "antwort": false,
+  "erklaerung": "KV 25102 Anm. Abs. 2 Nr. 2 GNotKG befreit nur Vollmachten und Ausweise gesetzlicher Vertreter, die nach § 12 BeurkG einer Niederschrift beizufügen sind. Der Begriff „Niederschrift“ ist enger als „Urkunde“ und erfasst nur Niederschriften nach §§ 8, 36 BeurkG. Für Nachweise zu einem Entwurf mit Unterschriftsbeglaubigung oder zu einer reinen Unterschriftsbeglaubigung kann die Gebühr daher entstehen."
+ },
+ {
+  "id": "kost1-033",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: Beglaubigung von Dokumenten (KV 25102 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-beglaubigung-von-dokumenten-kv-25102-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 25102 GNotKG",
+   "§ 21 GNotKG",
+   "§ 39a BeurkG"
+  ],
+  "frage": "Der Notar reicht zur Handelsregisteranmeldung eine einfache Gesellschafterliste ohne Notarbescheinigung mit elektronischem Beglaubigungsvermerk ein. Darf er dafür die Beglaubigungsgebühr berechnen?",
+  "optionen": [
+   "Ja, weil jeder Beglaubigungsvermerk die Gebühr nach KV 25102 GNotKG auslöst.",
+   "Nein, weil formfreie Beilagen als einfacher Scan genügen und ein nicht notwendiges Zeugnis nach § 21 GNotKG nicht berechnet werden darf.",
+   "Ja, aber nur in Höhe der Dokumentenpauschale.",
+   "Nein, weil elektronische Beglaubigungen nach § 39a BeurkG generell gebührenfrei sind."
+  ],
+  "antwort": 1,
+  "erklaerung": "Gegenüber Registern muss die Beglaubigung erforderlich sein; maßgeblich ist die Form, in der das Dokument vorzulegen ist. Formfreie Beilagen wie einfache Gesellschafterbeschlüsse oder Gesellschafterlisten ohne Notarbescheinigung genügen als einfacher Scan, so dass ein nicht notwendiges Zeugnis nach § 39a BeurkG wegen § 21 GNotKG nicht berechnet werden darf. Option 4 ist falsch, weil KV 25102 GNotKG auch elektronische Beglaubigungen erfasst."
  }
 ]
