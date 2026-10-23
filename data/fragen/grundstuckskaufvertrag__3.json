@@ -240,5 +240,303 @@
   ],
   "antwort": 1,
   "erklaerung": "Bei Verträgen über einen künftigen Bebauungsplan oder eine Satzung, etwa eine Abrundungssatzung, gewährt die Gemeinde keine Subvention; zulässig sind deshalb höchstens Regelungen, die auch bei einem nicht subventionierten Erwerb denkbar wären. Die erste Option überträgt die Bindungsmöglichkeiten des subventionierten Einheimischenmodells auf einen Fall ohne Gegenleistung der Gemeinde; die Zehn-Jahres-Grenze stammt aus den EU-Leitlinien zu Einheimischenmodellen und ist hier nicht der Maßstab."
+ },
+ {
+  "id": "kauf3-013",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Kosten, Teilfläche und Vollzug",
+  "seite": "Grundstückskaufvertrag: Kostentragung, Grunderwerbsteuer und Hinweispflichten",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/grundstuckskaufvertrag-kostentragung-grunderwerbsteuer-und-hinweispflichten",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 448 Abs. 2 BGB"
+  ],
+  "frage": "Wer trägt nach der gesetzlichen Regel die Kosten der Beurkundung des Kaufvertrags, der Auflassung und der Grundbucheintragung beim Grundstückskauf?",
+  "optionen": [
+   "Der Verkäufer",
+   "Der Käufer",
+   "Verkäufer und Käufer je zur Hälfte",
+   "Derjenige, der den Notar beauftragt hat"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 448 Abs. 2 BGB trägt der Käufer eines Grundstücks die Kosten der Beurkundung von Kaufvertrag und Auflassung, der Grundbucheintragung und der zur Eintragung nötigen Erklärungen; die Beteiligten dürfen abweichen, tun das in der Praxis aber selten. Die hälftige Teilung ist die allgemeine Regel des § 448 Abs. 1 BGB für Übergabekosten, nicht die Sonderregel für Grundstücke. Von der vertraglichen Kostentragung zu trennen ist die gesamtschuldnerische Haftung aller Beteiligten gegenüber dem Notar nach § 30 Abs. 1 GNotKG."
+ },
+ {
+  "id": "kauf3-014",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Kosten, Teilfläche und Vollzug",
+  "seite": "Grundstückskaufvertrag: Kostentragung, Grunderwerbsteuer und Hinweispflichten",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/grundstuckskaufvertrag-kostentragung-grunderwerbsteuer-und-hinweispflichten",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 80 Abs. 4 S. 1 GEG",
+   "§ 80 Abs. 4 S. 5 GEG"
+  ],
+  "frage": "Bis zu welchem Zeitpunkt müssen Verkäufer oder Makler dem Kaufinteressenten den Energieausweis oder eine Kopie vorlegen?",
+  "optionen": [
+   "Spätestens bei der Beurkundung des Kaufvertrags",
+   "Spätestens zur Besichtigung",
+   "Unverzüglich nach Abschluss des Kaufvertrags",
+   "Spätestens bei Übergabe des Grundstücks"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 80 Abs. 4 S. 1 GEG ist der Energieausweis dem Kaufinteressenten bis spätestens zur Besichtigung vorzulegen. Die Übergabe unverzüglich nach Vertragsschluss ist eine zweite, eigenständige Pflicht nach § 80 Abs. 4 S. 5 GEG und darf nicht mit der Vorlagepflicht verwechselt werden. Der Notar kann im Kaufvertrag auf beide Pflichten hinweisen."
+ },
+ {
+  "id": "kauf3-015",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Kosten, Teilfläche und Vollzug",
+  "seite": "Grundstückskaufvertrag: Kostentragung, Grunderwerbsteuer und Hinweispflichten",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/grundstuckskaufvertrag-kostentragung-grunderwerbsteuer-und-hinweispflichten",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 30 Abs. 1 GNotKG",
+   "§ 13 GrEStG"
+  ],
+  "frage": "Übernimmt der Käufer im Kaufvertrag die Grunderwerbsteuer, haftet der Verkäufer dem Finanzamt gegenüber nicht mehr für die Steuer.",
+  "antwort": false,
+  "erklaerung": "Für die Grunderwerbsteuer haften alle Vertragsbeteiligten nach § 13 GrEStG als Gesamtschuldner, ebenso für die Vertragskosten nach § 30 Abs. 1 GNotKG. Die vertragliche Übernahme durch den Erwerber wirkt nur im Innenverhältnis und ändert nichts an der Haftung im Außenverhältnis gegenüber Finanzamt und Notar."
+ },
+ {
+  "id": "kauf3-016",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Kosten, Teilfläche und Vollzug",
+  "seite": "Grundstückskaufvertrag: Kostentragung, Grunderwerbsteuer und Hinweispflichten",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/grundstuckskaufvertrag-kostentragung-grunderwerbsteuer-und-hinweispflichten",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 19 BeurkG",
+   "§ 22 Abs. 1 S. 1 GrEStG"
+  ],
+  "frage": "Aus welcher Norm folgt die Grundbuchsperre, nach der der Erwerber erst mit Vorliegen der Unbedenklichkeitsbescheinigung des Finanzamts eingetragen werden darf, und auf welcher Grundlage hat der Notar darauf hinzuweisen?",
+  "optionen": [
+   "Sperre aus § 19 BeurkG, Hinweispflicht aus § 22 Abs. 1 S. 1 GrEStG",
+   "Sperre aus § 22 Abs. 1 S. 1 GrEStG, Hinweispflicht aus § 19 BeurkG",
+   "Sperre aus § 13 GrEStG, Hinweispflicht aus § 17 BeurkG",
+   "Sperre aus § 18 GrEStG, Hinweispflicht aus § 19 BeurkG"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Grundbuchsperre ergibt sich aus § 22 Abs. 1 S. 1 GrEStG; die Pflicht des Notars, die Beteiligten darauf hinzuweisen, dass die Eintragung vom Vorliegen der Unbedenklichkeitsbescheinigung abhängt, folgt aus § 19 BeurkG. Die erste Option vertauscht die Normen. § 18 GrEStG regelt die Anzeigepflicht des Notars gegenüber dem Finanzamt, § 13 GrEStG die Steuerschuldnerschaft."
+ },
+ {
+  "id": "kauf3-017",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Kosten, Teilfläche und Vollzug",
+  "seite": "Grundstückskaufvertrag: Kostentragung, Grunderwerbsteuer und Hinweispflichten",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/grundstuckskaufvertrag-kostentragung-grunderwerbsteuer-und-hinweispflichten",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 448 Abs. 2 BGB"
+  ],
+  "frage": "Der Verkäufer wird bei der Beurkundung vollmachtlos vertreten; seine Nachgenehmigung muss später beglaubigt werden. Welche Regelung sollte der Notar in den Kaufvertrag aufnehmen?",
+  "optionen": [
+   "Keine, weil die Beglaubigungskosten kraft Gesetzes der Erwerber trägt",
+   "Eine ausdrückliche Zuweisung der Beglaubigungskosten, etwa an den Erwerber oder an den nicht persönlich anwesenden Beteiligten",
+   "Eine Regelung, dass der Notar die Beglaubigungskosten als Vollzugskosten nach § 30 GNotKG unter den Beteiligten aufteilt",
+   "Keine, weil der Verkäufer die Kosten seiner eigenen Nachgenehmigung stets selbst trägt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Muss der Notar Nachgenehmigungen oder Vollmachtsbestätigungen einholen, sollte der Vertrag ausdrücklich bestimmen, wer die Kosten der Unterschriftsbeglaubigung trägt; in Betracht kommen der Erwerber oder der Beteiligte, der nicht persönlich anwesend war. § 448 Abs. 2 BGB erfasst diese Kosten nicht eindeutig, deshalb ist die Zuweisung sinnvoll. § 30 Abs. 1 GNotKG regelt nur die gesamtschuldnerische Haftung gegenüber dem Notar, nicht die Verteilung im Innenverhältnis."
+ },
+ {
+  "id": "kauf3-018",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Kosten, Teilfläche und Vollzug",
+  "seite": "Grundstückskaufvertrag: Verkauf einer unvermessenen Teilfläche",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/grundstuckskaufvertrag-verkauf-einer-unvermessenen-teilflache",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 311b Abs. 1 S. 1 BGB",
+   "§ 125 S. 1 BGB"
+  ],
+  "frage": "Die verkaufte Teilfläche ist im Kaufvertrag nur als „der westliche Teil des Flurstücks, etwa 400 m²“ ohne Lageplan bezeichnet. Welche Rechtsfolge droht?",
+  "optionen": [
+   "Der Vertrag ist wirksam; die Teilfläche wird durch die spätere Vermessung bestimmt",
+   "Der Vertrag ist schwebend unwirksam bis zur Messanerkennung",
+   "Der ganze Vertrag ist wegen Formmangels nach § 125 S. 1 BGB nichtig",
+   "Nur die Auflassung ist unwirksam, der Kaufvertrag bleibt bestehen"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Teilfläche muss nach dem sachenrechtlichen Bestimmtheitsgrundsatz und dem Formerfordernis des § 311b Abs. 1 S. 1 BGB so bezeichnet sein, dass auch ein unbeteiligter Dritter Lage und Größe erkennen kann; ist der Vertragsgegenstand zu ungenau bezeichnet, ist der ganze Vertrag nach § 125 S. 1 BGB nichtig. Die erste Option verkennt, dass die Vermessung die fehlende Bestimmtheit der beurkundeten Einigung nicht nachträglich heilt; Abhilfe schafft ein Lageplan mit Buchstabenfolge der Grenzpunkte oder ein Bestimmungsrecht nach § 315 BGB."
+ },
+ {
+  "id": "kauf3-019",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Kosten, Teilfläche und Vollzug",
+  "seite": "Grundstückskaufvertrag: Verkauf einer unvermessenen Teilfläche",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/grundstuckskaufvertrag-verkauf-einer-unvermessenen-teilflache",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 9 Abs. 1 S. 3 BeurkG",
+   "§ 13 Abs. 1 S. 1 BeurkG"
+  ],
+  "frage": "Der Lageplan, in dem die verkaufte Teilfläche eingezeichnet ist, muss als Anlage zum Kaufvertrag mitverlesen werden.",
+  "antwort": true,
+  "erklaerung": "Der Lageplan ist Anlage im Sinne von § 9 Abs. 1 S. 3 BeurkG; für ihn gilt daher § 13 Abs. 1 S. 1 BeurkG, sodass er vorzulesen ist. Der häufige Irrtum, den Plan nur zur Durchsicht vorzulegen und beizufügen, verkennt, dass er den Vertragsgegenstand bestimmt und damit Teil der Niederschrift ist."
+ },
+ {
+  "id": "kauf3-020",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Kosten, Teilfläche und Vollzug",
+  "seite": "Grundstückskaufvertrag: Verkauf einer unvermessenen Teilfläche",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/grundstuckskaufvertrag-verkauf-einer-unvermessenen-teilflache",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 28 GBO"
+  ],
+  "frage": "Welche Erklärung ist für den Grundbuchvollzug der Auflassung einer vor der Vermessung verkauften Teilfläche stets erforderlich, auch wenn die Auflassung bereits im Kaufvertrag erklärt wurde?",
+  "optionen": [
+   "Eine erneute Auflassung, weil die erste wegen Unbestimmtheit unwirksam war",
+   "Eine Identitätserklärung, dass die verkaufte Teilfläche dem vermessenen Grundstück entspricht",
+   "Eine Unschädlichkeitsbescheinigung der Vermessungsbehörde",
+   "Eine Zustimmung der Grundpfandgläubiger nach § 19 GBO"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Auflassung kann bereits im Kaufvertrag für die unvermessene Teilfläche erklärt werden; unabhängig davon ist stets eine Identitätserklärung erforderlich, deren grundbuchrechtliche Grundlage § 28 GBO ist, und die der Notar auch durch Eigenurkunde treffen kann. Eine neue Auflassung ist nur nötig, wenn sich Größe oder Lage der Teilfläche ändern. Messanerkennung, Identitätserklärung und Auflassung werden in der Regel in einem beurkundeten Nachtrag erklärt."
+ },
+ {
+  "id": "kauf3-021",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Kosten, Teilfläche und Vollzug",
+  "seite": "Grundstückskaufvertrag: Verkauf einer unvermessenen Teilfläche",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/grundstuckskaufvertrag-verkauf-einer-unvermessenen-teilflache",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 311b Abs. 1 S. 1 BGB",
+   "§ 315 BGB",
+   "§ 28 GBO"
+  ],
+  "frage": "Teilflächenkauf vom Flurstück 120",
+  "sachverhalt": "V verkauft an K eine noch unvermessene Teilfläche von ca. 600 m² aus dem 2.000 m² großen Flurstück 120. Der von K mitgebrachte Lageplan ist unscharf; die genaue Grenzführung zum Nachbarn soll erst mit dem Vermessungsingenieur vor Ort festgelegt werden. Als Kaufpreis sind 300 Euro je Quadratmeter vereinbart. K finanziert über die B-Bank und will möglichst früh gesichert sein.",
+  "schritte": [
+   {
+    "frage": "Wie kann der Notar die Bestimmtheit des Vertragsgegenstands sichern, obwohl die genaue Grenzführung noch offen ist?",
+    "optionen": [
+     "Durch Vereinbarung eines Bestimmungsrechts nach § 315 BGB, verbunden mit der Regelung, dass die Teilfläche wie eingezeichnet verkauft ist und die Größe eine Ca.-Größe ist",
+     "Durch den Hinweis, dass die Vermessung den Vertragsgegenstand später verbindlich festlegt",
+     "Durch farbige Markierung der ungefähren Fläche im Lageplan",
+     "Durch Beurkundung nur eines Vorvertrags bis zur Vermessung"
+    ],
+    "antwort": 0,
+    "erklaerung": "Sind Lage oder Größe bei Beurkundung noch nicht genau festgelegt, kommt die Vereinbarung eines Bestimmungsrechts nach § 315 BGB in Betracht; zu empfehlen ist zugleich eine Regelung, dass die Teilfläche wie eingezeichnet verkauft ist und die Größenangabe eine Ca.-Größe ist. Die bloße Verweisung auf die spätere Vermessung genügt § 311b BGB nicht; farbige Markierungen sind zu vermeiden, Buchstabenfolgen der Grenzpunkte vorzuziehen."
+   },
+   {
+    "frage": "Welche Regelung zum Kaufpreis ist wegen der offenen Flächengröße aufzunehmen?",
+    "optionen": [
+     "Ein Festpreis ist zwingend, weil der Kaufpreis nach § 311b BGB bestimmt sein muss",
+     "Beim Quadratmeterpreis ist ein Ausgleich nach dem Messergebnis sowie die Fälligkeit der Nach- oder Rückzahlung zu regeln",
+     "Der Kaufpreis ist erst nach der Vermessung in einem Nachtrag zu beurkunden",
+     "Der Kaufpreis ist auf die Ca.-Größe festzuschreiben; Abweichungen bleiben unberücksichtigt"
+    ],
+    "antwort": 1,
+    "erklaerung": "Der Vertrag muss bestimmen, ob ein Festpreis oder ein Preis je Quadratmeter gilt; beim Quadratmeterpreis ist nach dem Messergebnis gegebenenfalls ein Ausgleich zwischen den Beteiligten vorzunehmen und die Fälligkeit der Nach- oder Rückzahlung zu regeln. Ein Quadratmeterpreis ist hinreichend bestimmbar, ein Festpreis also nicht zwingend; die vierte Option beschreibt gerade den Festpreis und widerspricht der getroffenen Vereinbarung."
+   },
+   {
+    "frage": "Wo wird die Eigentumsvormerkung für K eingetragen und wann kann sie auf die Teilfläche beschränkt werden?",
+    "optionen": [
+     "Sofort an der Teilfläche, weil § 7 GBO die Abschreibung von Amts wegen anordnet",
+     "Am ganzen Flurstück 120; frühestens bei Vorliegen des Fortführungsnachweises kann sie auf die Teilfläche beschränkt und am Rest gelöscht werden",
+     "Erst nach der Vermessung, vorher ist keine Sicherung möglich",
+     "Am ganzen Flurstück 120; die Beschränkung erfolgt von Amts wegen mit der Eintragung des Eigentumsübergangs"
+    ],
+    "antwort": 1,
+    "erklaerung": "Die Eigentumsvormerkung wird am ganzen, noch ungeteilten Grundstück eingetragen; frühestens wenn der Fortführungsnachweis vorliegt, kann sie auf die vermessene Teilfläche beschränkt und am übrigen Grundstück gelöscht werden. Dafür sollte der Vertrag die Bewilligung des Käufers zur Löschung an der Restfläche enthalten, denn von Amts wegen geschieht das nicht. Eine Sicherung schon vor der Vermessung ist damit möglich."
+   }
+  ],
+  "erklaerung": "Bestimmtheit sichert ein Bestimmungsrecht nach § 315 BGB mit Ca.-Größe und Lageplan, der Kaufpreis wird als Quadratmeterpreis mit Ausgleichsregel gestaltet, und K wird durch eine Vormerkung am Gesamtgrundstück gesichert, die nach Vorliegen des Fortführungsnachweises auf die Teilfläche beschränkt wird. Im Nachtrag folgen Messanerkennung, Identitätserklärung (§ 28 GBO) und gegebenenfalls Auflassung."
+ },
+ {
+  "id": "kauf3-022",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Kosten, Teilfläche und Vollzug",
+  "seite": "Teilflächenvertrag: Finanzierungsgrundpfandrecht, Vormerkung und typische Vollzugshindernisse",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/teilflachenvertrag-finanzierungsgrundpfandrecht-vormerkung-und-typische-vollzugshindernisse",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 7 GBO"
+  ],
+  "frage": "Für eine verkaufte, bereits im Fortführungsnachweis ausgewiesene Teilfläche wird eine Auflassungsvormerkung nur zulasten der Teilfläche beantragt. Was ist zu beachten?",
+  "optionen": [
+   "Das Grundbuchamt schreibt die Teilfläche nach § 7 GBO von Amts wegen ab und trägt die Vormerkung dort ein",
+   "§ 7 GBO gilt für Vormerkungen nicht; die Vormerkung lässt sich an der Teilfläche nur über einen Teilungsantrag eintragen",
+   "Eine Vormerkung an einer Teilfläche ist vor Eintragung des Eigentumsübergangs ausgeschlossen",
+   "Die Vormerkung kann nur am Gesamtgrundstück eingetragen werden, solange der Fortführungsnachweis nicht vollzogen ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 7 GBO (Abschreibung von Amts wegen bei Belastung eines Grundstücksteils) gilt für Vormerkungen nicht; liegt bereits ein Fortführungsnachweis vor, lässt sich die Vormerkung über einen Teilungsantrag an der Teilfläche eintragen. Die erste Option überträgt § 7 GBO fälschlich auf die Vormerkung. Alternativ kann die Vormerkung am ganzen Grundstück eingetragen werden, wobei der Anspruch nur die Teilfläche betrifft."
+ },
+ {
+  "id": "kauf3-023",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Kosten, Teilfläche und Vollzug",
+  "seite": "Teilflächenvertrag: Finanzierungsgrundpfandrecht, Vormerkung und typische Vollzugshindernisse",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/teilflachenvertrag-finanzierungsgrundpfandrecht-vormerkung-und-typische-vollzugshindernisse",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [],
+  "frage": "Der Käufer einer noch unvermessenen Teilfläche benötigt eine Finanzierungsgrundschuld. Welcher Weg ist in der Praxis am ehesten gangbar, wenn der Gläubiger andere Gestaltungen nicht mitträgt?",
+  "optionen": [
+   "Eintragung der Grundschuld an der unvermessenen Teilfläche unter Vorlage des Lageplans",
+   "Grundschuld am ganzen Grundstück, verbunden mit der Pflicht des Gläubigers, die nicht verkaufte Fläche freizugeben",
+   "Vormerkung für die Grundschuld an der Teilfläche bis zur Vermessung",
+   "Verpfändung des Eigentumsverschaffungsanspruchs an den Gläubiger bis zur Eintragung"
+  ],
+  "antwort": 1,
+  "erklaerung": "An einer unvermessenen Teilfläche kann ein Grundpfandrecht noch nicht eingetragen werden; ein entsprechender Antrag ist zurückzunehmen oder wird zurückgewiesen. Die Vormerkung für den Gläubiger und die Verpfändung des Eigentumsverschaffungsanspruchs sind zwar mögliche Lösungen, scheitern in der Praxis aber häufig daran, dass der Gläubiger sie nicht mitgeht. Deshalb ist die Grundschuld am Gesamtgrundstück mit gesicherter Freigabeverpflichtung des Gläubigers für die Restfläche der praktikable Weg."
+ },
+ {
+  "id": "kauf3-024",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Kosten, Teilfläche und Vollzug",
+  "seite": "Teilflächenvertrag: Finanzierungsgrundpfandrecht, Vormerkung und typische Vollzugshindernisse",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/teilflachenvertrag-finanzierungsgrundpfandrecht-vormerkung-und-typische-vollzugshindernisse",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Ordne die typischen Vollzugshindernisse beim Teilflächenvertrag der jeweils erforderlichen Abhilfe zu.",
+  "paare": [
+   [
+    "Antrag nur auf „Vollzug des FN“",
+    "Konkret beantragen, ob Vereinigung oder Zuschreibung und ob Zerlegung oder Teilung erfolgen soll"
+   ],
+   [
+    "Ausgangsgröße im Fortführungsnachweis weicht vom Grundbuch ab",
+    "Beim Vermessungsamt nachfragen, ob ein Vor-Fortführungsnachweis vorliegt"
+   ],
+   [
+    "Ca.-Flächen der Urkunde ohne Nachtrag",
+    "Identitätsfeststellung der Übereinstimmung mit den vermessenen Flächen nachholen"
+   ],
+   [
+    "Vereinigung von Grundstücken mit unterschiedlichen Belastungen in Abt. III",
+    "Pfandfreigaben, Pfanderstreckungen oder Rangrücktritte beibringen"
+   ]
+  ],
+  "erklaerung": "Ein unbestimmter Antrag auf Vollzug des Fortführungsnachweises ist nicht vollziehbar, weil das Grundbuchamt wissen muss, ob vereinigt oder zugeschrieben und ob zerlegt oder geteilt wird. Weicht die Ausgangsgröße ab, hilft die Nachfrage nach einem Vor-Fortführungsnachweis. Ca.-Flächen bedürfen der Identitätsfeststellung, die eine Vollzugsvollmacht allein nicht ersetzt. Bei unterschiedlichen Belastungen scheitert die Vereinigung ohne Pfandfreigabe, Pfanderstreckung oder Rangrücktritt."
+ },
+ {
+  "id": "kauf3-025",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Kosten, Teilfläche und Vollzug",
+  "seite": "Teilflächenvertrag: Finanzierungsgrundpfandrecht, Vormerkung und typische Vollzugshindernisse",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/teilflachenvertrag-finanzierungsgrundpfandrecht-vormerkung-und-typische-vollzugshindernisse",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 181 BGB"
+  ],
+  "frage": "Gibt eine einzige Vollzugsbevollmächtigte für Verkäufer und Käufer Auflassung und Identitätserklärung ab, ist das Problem des § 181 BGB seit der BGH-Entscheidung vom 1.10.2015 vollständig gegenstandslos.",
+  "antwort": false,
+  "erklaerung": "Die Frage des § 181 BGB ist seit BGH vom 1.10.2015 (V ZB 181/14) weitgehend entschärft, aber nicht vollständig erledigt: Sie behält Bedeutung, wenn das vermessene Flurstück wegen einer ganz anderen Lage nicht mehr mit der verkauften Fläche gleichgesetzt werden kann und nicht bloß von der Ca.-Größe abweicht. Zudem muss die Identitätserklärung überhaupt vom Umfang der Vollzugsvollmacht gedeckt sein, die in Teilflächenverträgen gegebenenfalls zu erweitern ist."
  }
 ]
