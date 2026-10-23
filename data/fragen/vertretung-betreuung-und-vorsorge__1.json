@@ -308,5 +308,294 @@
    }
   ],
   "erklaerung": "Die Mitteilung der Genehmigung nach § 1856 BGB setzt Rechtskraft voraus und ist dem Grundbuchamt in der Form des § 29 GBO nachzuweisen, wofür die Doppelvollmacht mit Eigenurkunde dient. Die Aufforderung nach § 1856 Abs. 2 BGB wirkt auch sofort nach Vertragsschluss, weshalb der Notar die Zweimonatsfrist vertraglich maßvoll verlängern sollte."
+ },
+ {
+  "id": "vert1-014",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Gerichtliche Genehmigung",
+  "seite": "Gerichtliche Genehmigung: Tod, Amtsverlust oder Beendigung vor Wirksamwerden",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-tod-amtsverlust-oder-beendigung-vor-wirksamwerden",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1856 Abs. 3 BGB",
+   "§ 1870 BGB"
+  ],
+  "frage": "Der Betreute stirbt nach Erlass, aber vor Rechtskraft des Genehmigungsbeschlusses zu einem von seinem Betreuer geschlossenen Grundstückskaufvertrag. Wovon hängt die Wirksamkeit des Vertrags nun ab?",
+  "optionen": [
+   "Von der Rechtskraft des Beschlusses und der anschließenden Mitteilung durch den Notar aufgrund der Doppelvollmacht.",
+   "Von der Genehmigung der Erben in entsprechender Anwendung des § 1856 Abs. 3 BGB.",
+   "Von einer neuen Genehmigung des Nachlassgerichts.",
+   "Von nichts weiter; der Vertrag ist mit dem Tod endgültig unwirksam."
+  ],
+  "antwort": 1,
+  "erklaerung": "Mit dem Tod des Vertretenen endet das Genehmigungsverfahren; ein erlassener Beschluss kann nicht mehr rechtskräftig werden, und eine Mitteilung nach § 1856 BGB bleibt wirkungslos. Zugleich endet das Amt des Betreuers (§ 1870 BGB) und erlischt die Doppelvollmacht. Über die Wirksamkeit entscheiden die Erben durch Genehmigung entsprechend § 1856 Abs. 3 BGB; der Vertrag ist also schwebend, nicht endgültig unwirksam."
+ },
+ {
+  "id": "vert1-015",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Gerichtliche Genehmigung",
+  "seite": "Gerichtliche Genehmigung: Tod, Amtsverlust oder Beendigung vor Wirksamwerden",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-tod-amtsverlust-oder-beendigung-vor-wirksamwerden",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1856 Abs. 1 BGB"
+  ],
+  "frage": "Wird der Betreuer nach Bekanntgabe des Genehmigungsbeschlusses entlassen, kann der Notar die Genehmigung nach Eintritt der Rechtskraft weiterhin aufgrund der vom entlassenen Betreuer erteilten Doppelvollmacht mitteilen, weil die Vollmacht im Namen des Betreuten erteilt wurde.",
+  "antwort": false,
+  "erklaerung": "Die Doppelvollmacht wird nicht im Namen des Vertretenen erteilt, sondern bevollmächtigt zur Vertretung des Amtsinhabers in dieser Eigenschaft; sie erlischt mit dem Amt. Der Beschluss wird zwar nach Ablauf der Beschwerdefrist rechtskräftig, die Mitteilungsvollmacht des Notars ist aber erloschen. Der neue Betreuer ist an die Vollmacht seines Vorgängers nicht gebunden und muss die Mitteilung nach § 1856 Abs. 1 BGB selbst vornehmen; eine Eigenurkunde aufgrund der alten Vollmacht macht den Vertrag nicht wirksam."
+ },
+ {
+  "id": "vert1-016",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Gerichtliche Genehmigung",
+  "seite": "Gerichtliche Genehmigung: Tod, Amtsverlust oder Beendigung vor Wirksamwerden",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-tod-amtsverlust-oder-beendigung-vor-wirksamwerden",
+  "typ": "zuordnung",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1856 Abs. 3 BGB",
+   "§ 21 FamFG"
+  ],
+  "frage": "Ordne dem jeweiligen Ereignis während des Genehmigungsverfahrens die Rechtsfolge zu.",
+  "paare": [
+   [
+    "Tod des Vormunds vor Erlass des Beschlusses",
+    "Aussetzung des Verfahrens aus wichtigem Grund (§ 21 FamFG), bis ein neuer Vormund es fortführt"
+   ],
+   [
+    "Volljährigkeit des Mündels zwischen Rechtskraft und Mitteilung",
+    "Mitteilung nicht mehr möglich; Wirksamkeit nur durch Genehmigung des früheren Mündels selbst (§ 1856 Abs. 3 BGB)"
+   ],
+   [
+    "Tod des Betreuten nach Rechtskraft, aber vor der Eigenurkunde",
+    "Genehmigung durch die Erben, die das Handeln als Vertreter ohne Vertretungsmacht genehmigen"
+   ],
+   [
+    "Aufhebung der Betreuung vor Erlass des Beschlusses",
+    "Genehmigungsverfahren erledigt sich"
+   ]
+  ],
+  "erklaerung": "Entscheidend ist der Verfahrensabschnitt, in dem das Ereignis eintritt. Der Tod des Vertreters beendet das Verfahren als Amtsverfahren nicht, sondern führt zur Aussetzung nach § 21 FamFG. Endet die Vertretung durch Volljährigkeit oder Aufhebung, erledigt sich das Verfahren bzw. wird der Vertrag nur durch Genehmigung des Betroffenen selbst wirksam (§ 1856 Abs. 3 BGB); beim Tod des Vertretenen treten die Erben an seine Stelle."
+ },
+ {
+  "id": "vert1-017",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Gerichtliche Genehmigung",
+  "seite": "Gerichtliche Genehmigung: Tod, Amtsverlust oder Beendigung vor Wirksamwerden",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-tod-amtsverlust-oder-beendigung-vor-wirksamwerden",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1856 BGB",
+   "§ 1850 Nr. 1 BGB"
+  ],
+  "frage": "Der Notar fertigt die Eigenurkunde über die Mitteilung der Genehmigung in Unkenntnis davon, dass die betreute Verkäuferin bereits verstorben war. Die Erben verweigern später die Genehmigung. Welche Folge ergibt sich nach dem Handbuch?",
+  "optionen": [
+   "Der Käufer ist durch die Eintragung kraft guten Glaubens Eigentümer geworden.",
+   "Der Vertrag ist unwirksam; der Käufer ist trotz Auflassung und Eintragung nicht Eigentümer, und auch die Finanzierungsgrundschuld kann unwirksam sein.",
+   "Der Vertrag ist wirksam, weil die Mitteilung den Rechtsschein der Wirksamkeit begründet.",
+   "Nur die Finanzierungsgrundschuld ist unwirksam, der Kaufvertrag bleibt wirksam."
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Mitteilung in Unkenntnis des Todes macht den Vertrag nicht wirksam; sie setzt lediglich einen Rechtsschein. Verweigern die Erben die Genehmigung, ist der Kaufvertrag unwirksam und der Käufer trotz Auflassung und Eintragung nicht Eigentümer. Auch die Finanzierungsgrundschuld kann unwirksam sein, weil sie ebenfalls genehmigungsbedürftig ist und die Genehmigung der Bank nicht wirksam mitgeteilt wurde. Der Rechtsschein ersetzt die fehlende Wirksamkeit gerade nicht."
+ },
+ {
+  "id": "vert1-018",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Gerichtliche Genehmigung",
+  "seite": "Gerichtliche Genehmigung: Verfahren, Rechtskraft und Bekanntgabe",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-verfahren-rechtskraft-und-bekanntgabe",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 40 Abs. 2 FamFG",
+   "§ 40 Abs. 1 FamFG"
+  ],
+  "frage": "Wann wird ein Beschluss über die familien- oder betreuungsgerichtliche Genehmigung eines Rechtsgeschäfts wirksam?",
+  "optionen": [
+   "Mit Bekanntgabe an den antragstellenden Vertreter (§ 40 Abs. 1 FamFG).",
+   "Mit Übergabe an die Geschäftsstelle (§ 38 Abs. 3 FamFG).",
+   "Erst mit Rechtskraft, was in der Entscheidung auszusprechen ist (§ 40 Abs. 2 FamFG).",
+   "Mit Erteilung des Rechtskraftzeugnisses (§ 46 FamFG)."
+  ],
+  "antwort": 2,
+  "erklaerung": "Abweichend von der Grundregel des § 40 Abs. 1 FamFG (Wirksamkeit mit Bekanntgabe) wird ein Beschluss über die Genehmigung eines Rechtsgeschäfts erst mit Rechtskraft wirksam; das ist in der Entscheidung auszusprechen (§ 40 Abs. 2 FamFG). Die Übergabe an die Geschäftsstelle betrifft nur den Erlass (§ 38 Abs. 3 FamFG). Das Rechtskraftzeugnis (§ 46 FamFG) bescheinigt die Rechtskraft, begründet sie aber nicht."
+ },
+ {
+  "id": "vert1-019",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Gerichtliche Genehmigung",
+  "seite": "Gerichtliche Genehmigung: Verfahren, Rechtskraft und Bekanntgabe",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-verfahren-rechtskraft-und-bekanntgabe",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 41 Abs. 3 FamFG",
+   "§ 46 FamFG"
+  ],
+  "frage": "Liegt ein Rechtskraftzeugnis vor, ist die Genehmigung auch dann wirksam, wenn der Beschluss dem Vertretenen selbst nicht wirksam bekannt gegeben wurde.",
+  "antwort": false,
+  "erklaerung": "Der Genehmigungsbeschluss ist auch demjenigen bekannt zu geben, für den das Geschäft genehmigt wird (§ 41 Abs. 3 FamFG). Ist er einem Beteiligten nicht wirksam bekannt gegeben, wird die Genehmigung nicht wirksam; ein Rechtskraftzeugnis (§ 46 FamFG) ändert daran nichts. Für den Grundstückskäufer besteht dann die Gefahr, den Kaufpreis auf einen unwirksamen Vertrag zu zahlen."
+ },
+ {
+  "id": "vert1-020",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Gerichtliche Genehmigung",
+  "seite": "Gerichtliche Genehmigung: Verfahren, Rechtskraft und Bekanntgabe",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-verfahren-rechtskraft-und-bekanntgabe",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 63 Abs. 2 Nr. 2 FamFG",
+   "§ 63 Abs. 3 FamFG",
+   "§ 45 FamFG"
+  ],
+  "frage": "Welche Aussage zur Beschwerdefrist gegen einen Genehmigungsbeschluss trifft zu?",
+  "optionen": [
+   "Sie beträgt einen Monat und läuft einheitlich ab Erlass des Beschlusses.",
+   "Sie beträgt zwei Wochen und läuft für jeden Beteiligten gesondert ab schriftlicher Bekanntgabe an ihn.",
+   "Sie beträgt zwei Wochen und läuft für alle Beteiligten ab Bekanntgabe an den antragstellenden Vertreter.",
+   "Sie beträgt zwei Wochen; gelingt die Bekanntgabe nicht, beginnt sie spätestens drei Monate nach Erlass."
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Beschwerdefrist beträgt zwei Wochen (§ 63 Abs. 2 Nr. 2 FamFG) und läuft für jeden Beteiligten gesondert ab schriftlicher Bekanntgabe an ihn (§ 63 Abs. 3 S. 1 FamFG); Rechtskraft tritt erst ein, wenn sie für jeden Beschwerdeberechtigten abgelaufen ist (§ 45 FamFG). Die Bekanntgabe nur an den Vertreter genügt nicht. Scheitert die schriftliche Bekanntgabe, beginnt die Frist spätestens fünf Monate, nicht drei Monate, nach Erlass (§ 63 Abs. 3 S. 2 FamFG)."
+ },
+ {
+  "id": "vert1-021",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Gerichtliche Genehmigung",
+  "seite": "Gerichtliche Genehmigung: Verfahren, Rechtskraft und Bekanntgabe",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-verfahren-rechtskraft-und-bekanntgabe",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 46 FamFG",
+   "§ 1856 BGB",
+   "§ 276 FamFG"
+  ],
+  "frage": "Dem Notar liegt ein Rechtskraftzeugnis vor. Aus der Akte ergibt sich jedoch, dass für den verfahrensunfähigen Betreuten weder ein Verfahrenspfleger noch ein Ergänzungsbetreuer bestellt wurde. Wie hat sich der Notar zu verhalten?",
+  "optionen": [
+   "Er darf sich auf das Rechtskraftzeugnis verlassen und die Fälligkeit uneingeschränkt mitteilen.",
+   "Er muss nachforschen, darf weder eine uneingeschränkte Fälligkeitsmitteilung noch die Eigenurkunde nach § 1856 BGB fertigen und weist auf mögliche Unwirksamkeit hin.",
+   "Er muss selbst einen Verfahrenspfleger bestellen lassen und darf erst danach tätig werden.",
+   "Er fertigt die Eigenurkunde, vermerkt darin aber die fehlende Bestellung."
+  ],
+  "antwort": 1,
+  "erklaerung": "Regelmäßig darf sich der Notar auf ein Rechtskraftzeugnis (§ 46 FamFG) verlassen, ohne Verfahrensablauf und Bekanntgabe zu prüfen. Erkennt er aber, dass die Genehmigung nicht wirksam geworden sein kann, etwa weil für einen verfahrensunfähigen Beteiligten kein Verfahrenspfleger (§ 276 FamFG) oder Ergänzungsbetreuer bestellt wurde, muss er nachforschen. Er darf dann weder eine uneingeschränkte Fälligkeitsmitteilung noch die Eigenurkunde über die Mitteilung nach § 1856 BGB fertigen; die Wahl des Bekanntgabevertreters trifft allein das Gericht."
+ },
+ {
+  "id": "vert1-022",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Gerichtliche Genehmigung",
+  "seite": "Gerichtliche Genehmigung: Verfahren, Rechtskraft und Bekanntgabe",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-verfahren-rechtskraft-und-bekanntgabe",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 67 Abs. 1 FamFG"
+  ],
+  "frage": "Verzichten alle Bekanntgabeempfänger nach Bekanntgabe gegenüber dem Gericht auf Rechtsmittel, steht dies dem Fristablauf gleich und verkürzt das Verfahren.",
+  "antwort": true,
+  "erklaerung": "Vollzugsreif ist der Beschluss nach Bekanntgabe an sämtliche notwendigen Beteiligten und Fristablauf für jeden von ihnen. Gleich steht der Verzicht aller Bekanntgabeempfänger auf Rechtsmittel, der nach Bekanntgabe gegenüber dem Gericht erklärt wird (§ 67 Abs. 1 FamFG). Ein Verzicht vor Bekanntgabe oder nur durch einzelne Beteiligte genügt nicht."
+ },
+ {
+  "id": "vert1-023",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Gerichtliche Genehmigung",
+  "seite": "Gerichtliche Genehmigung: Vermögensanlage, Erbteilung und Schiedsvereinbarung",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-vermogensanlage-erbteilung-und-schiedsvereinbarung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1854 Nr. 6 BGB",
+   "§ 1643 Abs. 5 BGB"
+  ],
+  "frage": "Ein Betreuter soll an der Gründung einer GmbH beteiligt werden; die Satzung enthält eine Schiedsklausel. Was ist genehmigungsbedürftig?",
+  "optionen": [
+   "Nur die Schiedsklausel nach § 1854 Nr. 6 BGB; der übrige Gesellschaftsvertrag bleibt genehmigungsfrei.",
+   "Der gesamte Gesellschaftsvertrag, weil sich der Wert der Schiedsvereinbarung nicht beziffern lässt.",
+   "Nichts, weil Schiedsklauseln in Gesellschaftsverträgen nicht unter § 1854 Nr. 6 BGB fallen.",
+   "Nichts, wenn der Betreuer zugleich Elternteil des Betreuten ist (§ 1643 Abs. 5 BGB)."
+  ],
+  "antwort": 1,
+  "erklaerung": "Schiedsvereinbarungen bedürfen der Genehmigung nach § 1854 Nr. 6 BGB. Enthält ein Gesellschaftsvertrag eine Schiedsklausel oder wird sie durch Änderung eingefügt, ist der gesamte Vertrag bzw. die gesamte Änderung genehmigungsbedürftig, weil sich der Wert der Schiedsvereinbarung nicht beziffern lässt. § 1643 Abs. 5 BGB nimmt nur Eltern als Sorgeberechtigte Minderjähriger aus, nicht Betreuer."
+ },
+ {
+  "id": "vert1-024",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Gerichtliche Genehmigung",
+  "seite": "Gerichtliche Genehmigung: Vermögensanlage, Erbteilung und Schiedsvereinbarung",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-vermogensanlage-erbteilung-und-schiedsvereinbarung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1851 Nr. 1 BGB"
+  ],
+  "frage": "Ein Erbteilungsvertrag, an dem ein Vormund für den Mündel als Miterben mitwirkt, bedarf nur dann der Genehmigung nach § 1851 Nr. 1 BGB, wenn sich Grundbesitz im Nachlass befindet.",
+  "antwort": false,
+  "erklaerung": "Ist ein Vormund, Pfleger oder Betreuer beteiligt, ist jeder Erbteilungsvertrag mit dem Vertretenen als Miterben nach § 1851 Nr. 1 BGB genehmigungsbedürftig, auch ohne Grundbesitz im Nachlass. Erfasst ist jede Auseinandersetzung, auch eine Teilauseinandersetzung. Der Grundbesitz begründet allenfalls zusätzlich eine Genehmigung nach § 1850 BGB."
+ },
+ {
+  "id": "vert1-025",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Gerichtliche Genehmigung",
+  "seite": "Gerichtliche Genehmigung: Vermögensanlage, Erbteilung und Schiedsvereinbarung",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-vermogensanlage-erbteilung-und-schiedsvereinbarung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1850 Nr. 1 BGB",
+   "§ 1850 Nr. 5 BGB",
+   "§ 1851 Nr. 1 BGB"
+  ],
+  "frage": "Eine Erbengemeinschaft, an der ein Betreuter beteiligt ist, verkauft das Nachlassgrundstück; der Vertrag regelt zugleich die Aufteilung des Kaufpreises unter den Miterben. Welche Genehmigungen sollte der Notar einholen lassen?",
+  "optionen": [
+   "Nur nach § 1850 Nr. 1, 5 BGB für Verfügung und Verpflichtung über das Grundstück.",
+   "Nach § 1850 Nr. 1, 5 BGB und zusätzlich nach § 1851 Nr. 1 BGB wegen der Erbauseinandersetzung über den Kaufpreis.",
+   "Nur nach § 1851 Nr. 1 BGB, weil die Erbteilung die Grundstücksverfügung umfasst.",
+   "Nach § 1848 BGB als Anlage des Kaufpreises."
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Verkauf des Grundstücks erfordert die Genehmigung nach § 1850 Nr. 1, 5 BGB. Teilt der Vertrag den Kaufpreis unter den Miterben auf, liegt zugleich eine (Teil-)Auseinandersetzung vor, die nach § 1851 Nr. 1 BGB gesondert genehmigungsbedürftig ist. Die Beschränkung auf § 1850 BGB übersieht diesen erbrechtlichen Tatbestand; eine Ausnahme für Auseinandersetzungen nach den gesetzlichen Regeln sieht § 1851 Nr. 1 BGB nicht vor."
+ },
+ {
+  "id": "vert1-026",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Gerichtliche Genehmigung",
+  "seite": "Gerichtliche Genehmigung: Vermögensanlage, Erbteilung und Schiedsvereinbarung",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-vermogensanlage-erbteilung-und-schiedsvereinbarung",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1851 BGB",
+   "§ 1854 BGB",
+   "§ 1848 BGB"
+  ],
+  "frage": "Ordne die Geschäfte des Betreuers der einschlägigen Genehmigungsvorschrift zu.",
+  "paare": [
+   [
+    "Abschichtungsvereinbarung unter Miterben",
+    "§ 1851 Nr. 3 BGB"
+   ],
+   [
+    "Ausschlagung eines Vermächtnisses",
+    "§ 1851 Nr. 1 BGB"
+   ],
+   [
+    "Aufhebung einer Sicherheit für eine fortbestehende Forderung des Betreuten",
+    "§ 1854 Nr. 7 BGB"
+   ],
+   [
+    "Gerichtlicher oder außergerichtlicher Vergleich",
+    "§ 1854 Nr. 6 BGB"
+   ],
+   [
+    "Anlage von Geld des Betreuten",
+    "§ 1848 BGB"
+   ]
+  ],
+  "erklaerung": "§ 1851 BGB fasst die erbrechtlichen Geschäfte zusammen: Ausschlagung, Anfechtung der Erbschaftsannahme und Erbteilung in Nr. 1, die Abschichtung nach der Gesetzesbegründung in Nr. 3. § 1854 Nr. 6 BGB betrifft Vergleich und Schiedsvereinbarung, Nr. 7 die Aufhebung oder Minderung von Sicherheiten. § 1848 BGB regelt die Vermögensanlage; beim Grundstückserwerb umfasst die Genehmigung nach § 1850 Nr. 6 BGB nach der Gesetzesbegründung auch die nach § 1848 BGB."
  }
 ]

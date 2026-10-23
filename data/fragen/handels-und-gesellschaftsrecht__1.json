@@ -891,5 +891,85 @@
   ],
   "antwort": 1,
   "erklaerung": "Die Satzungsbescheinigung nach § 54 GmbHG bestätigt zweierlei: Die geänderten Bestimmungen entsprechen dem Änderungsbeschluss, die übrigen stimmen mit dem zuletzt eingereichten vollständigen Wortlaut überein. Eine Bestätigung der Mehrheitsverhältnisse oder der inhaltlichen Rechtmäßigkeit ist nicht Gegenstand der Bescheinigung."
+ },
+ {
+  "id": "hand1-040",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Stammkapital, Einlagen und Sacheinlagen",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-stammkapital-einlagen-und-sacheinlagen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 7 Abs. 2 S. 1 GmbHG",
+   "§ 7 Abs. 2 S. 2 GmbHG"
+  ],
+  "frage": "A und B gründen eine Bar-GmbH mit 25.000 € Stammkapital; A übernimmt einen Anteil zu 20.000 €, B einen zu 5.000 €. Welche Einzahlung vor der Anmeldung genügt den gesetzlichen Mindestanforderungen?",
+  "optionen": [
+   "A zahlt 5.000 €, B zahlt 1.250 €",
+   "A zahlt 11.250 €, B zahlt 1.250 €",
+   "A zahlt 12.500 €, B zahlt nichts",
+   "A zahlt 6.250 €, B zahlt 6.250 €"
+  ],
+  "antwort": 1,
+  "erklaerung": "Auf jeden Geschäftsanteil ist mindestens ein Viertel des Nennbetrags einzuzahlen (§ 7 Abs. 2 S. 1 GmbHG), und die Einzahlungen müssen insgesamt mindestens 12.500 € erreichen (§ 7 Abs. 2 S. 2 GmbHG). A muss also mindestens 5.000 €, B mindestens 1.250 € zahlen, zusammen aber mindestens 12.500 € – das erfüllt nur die Variante 11.250 € + 1.250 €. Die erste Variante unterschreitet die Gesamtsumme, die dritte verletzt das Viertel auf B's Anteil."
+ },
+ {
+  "id": "hand1-041",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Stammkapital, Einlagen und Sacheinlagen",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-stammkapital-einlagen-und-sacheinlagen",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 5 Abs. 4 GmbHG"
+  ],
+  "frage": "Eine Sacheinlage ist nur wirksam vereinbart, wenn der Gesellschaftsvertrag den eingebrachten Gegenstand und den Nennbetrag des zugehörigen Geschäftsanteils festsetzt.",
+  "antwort": true,
+  "erklaerung": "§ 5 Abs. 4 GmbHG verlangt die Festsetzung von Gegenstand und Nennbetrag im Gesellschaftsvertrag; eine Vereinbarung allein im Einbringungsvertrag genügt nicht. Das Fehlen dieser Festsetzung ist der typische Fehler bei Sachgründungen."
+ },
+ {
+  "id": "hand1-042",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Stammkapital, Einlagen und Sacheinlagen",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-stammkapital-einlagen-und-sacheinlagen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 5 Abs. 4 GmbHG",
+   "§ 8 Abs. 1 Nr. 5 GmbHG"
+  ],
+  "frage": "Gründer G bringt sein Einzelunternehmen als Sacheinlage in eine GmbH ein. Was muss der Sachgründungsbericht in diesem Fall zusätzlich enthalten?",
+  "optionen": [
+   "Ein Wertgutachten eines öffentlich bestellten Sachverständigen",
+   "Die Jahresergebnisse der beiden letzten Geschäftsjahre",
+   "Die Bilanzen der letzten drei Geschäftsjahre mit Testat",
+   "Eine Versicherung des Geschäftsführers zur Werthaltigkeit"
+  ],
+  "antwort": 1,
+  "erklaerung": "Geht ein Unternehmen auf die Gesellschaft über, sind nach § 5 Abs. 4 GmbHG im Sachgründungsbericht die Jahresergebnisse der beiden letzten Geschäftsjahre anzugeben. Der Werthaltigkeitsnachweis (in der Regel ein Wertgutachten, § 8 Abs. 1 Nr. 5 GmbHG) ist eine eigene Anmeldungsunterlage und nicht Pflichtinhalt des Sachgründungsberichts."
+ },
+ {
+  "id": "hand1-043",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Stammkapital, Einlagen und Sacheinlagen",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-stammkapital-einlagen-und-sacheinlagen",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1 GmbHG"
+  ],
+  "frage": "Worin unterscheidet sich die GmbH nach § 1 GmbHG von den Personengesellschaften?",
+  "optionen": [
+   "Sie kann von einer einzigen Person errichtet werden, während eine Personengesellschaft mit Ausscheiden des vorletzten Gesellschafters erlischt",
+   "Sie benötigt mindestens zwei Gründer, während Personengesellschaften als Ein-Personen-Gesellschaften zulässig sind",
+   "Sie kann nur zu wirtschaftlichen Zwecken errichtet werden",
+   "Sie entsteht bereits mit Abschluss des Gesellschaftsvertrags als juristische Person"
+  ],
+  "antwort": 0,
+  "erklaerung": "Nach § 1 GmbHG kann eine GmbH von einer oder mehreren Personen errichtet werden. Eine Personengesellschaft setzt dagegen mindestens zwei Gesellschafter voraus und erlischt, wenn der vorletzte Gesellschafter ausscheidet. Die zweite Option kehrt dieses Verhältnis gerade um."
  }
 ]

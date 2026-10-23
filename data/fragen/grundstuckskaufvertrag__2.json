@@ -895,5 +895,436 @@
   "abschnitt": "Fälligkeit und Zahlung",
   "seite": "Kaufpreiszahlung: Ratenzahlung und Verzug",
   "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/kaufpreiszahlung-ratenzahlung-und-verzug"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 16a Abs. 1 GwG"
+  ],
+  "frage": "Welche Folge hat es, wenn der Käufer den Kaufpreis für ein Grundstück entgegen § 16a GwG in bar an den Verkäufer zahlt?",
+  "optionen": [
+   "Die Zahlung tilgt die Kaufpreisschuld, löst aber eine Meldepflicht des Notars aus",
+   "Die Zahlung hat keine Tilgungswirkung; der Kaufpreisanspruch bleibt bestehen",
+   "Der Kaufvertrag ist nach § 134 BGB insgesamt nichtig",
+   "Die Zahlung tilgt nur bis zu einem Betrag von 10.000 EUR"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 16a GwG darf der Kaufpreis nicht in bar, in Kryptowerten, Gold, Platin oder Edelsteinen gezahlt werden; eine Barzahlung hat keine Tilgungswirkung, der Anspruch bleibt bestehen und müsste erneut erfüllt werden. Die Toleranz von 10.000 EUR betrifft nur den Umfang des Zahlungsnachweises, nicht die Tilgungswirkung einer Barzahlung.",
+  "id": "kauf2-040",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Geldwäsche beim Grundstückskauf: Barzahlungsverbot, Zahlungsnachweis und Meldepflichten",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/geldwasche-beim-grundstuckskauf-barzahlungsverbot-zahlungsnachweis-und-meldepflichten"
+ },
+ {
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 16a Abs. 1 GwG",
+   "§ 16a Abs. 5 S. 1 GwG"
+  ],
+  "frage": "Bei einem Kaufpreis von 8.000 EUR gilt das Barzahlungsverbot des § 16a Abs. 1 GwG nicht.",
+  "antwort": false,
+  "erklaerung": "§ 16a Abs. 5 S. 1 GwG nimmt bei einer Gegenleistung von höchstens 10.000 EUR nur die Absätze 2 bis 4, also die Nachweis- und Prüfungspflichten, aus. Das Barzahlungsverbot nach § 16a Abs. 1 GwG gilt auch bei kleinen Kaufpreisen; es entfällt lediglich die notarielle Nachweisprüfung.",
+  "id": "kauf2-041",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Geldwäsche beim Grundstückskauf: Barzahlungsverbot, Zahlungsnachweis und Meldepflichten",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/geldwasche-beim-grundstuckskauf-barzahlungsverbot-zahlungsnachweis-und-meldepflichten"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 16a Abs. 2 GwG",
+   "§ 16a Abs. 3 GwG"
+  ],
+  "frage": "Kaufpreis 500.000 EUR. Der Käufer legt einen Kontoauszug über eine Überweisung von 492.000 EUR mit Bezug auf die UVZ-Nummer vor. Darf der Notar die Eigentumsumschreibung beantragen?",
+  "optionen": [
+   "Nein, der Nachweis muss den vollen Kaufpreis belegen",
+   "Ja, weil der belegte Betrag den Kaufpreis um höchstens 10.000 EUR unterschreitet",
+   "Nur, wenn der Verkäufer zusätzlich den Empfang des Restbetrags in bar bestätigt",
+   "Nein, erforderlich ist stets eine Bankbestätigung statt eines Kontoauszugs"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Nachweis nach § 16a Abs. 2 GwG ist ausreichend, wenn der belegte Betrag den vereinbarten Kaufpreis um höchstens 10.000 EUR unterschreitet; für den Rest besteht keine Nachweispflicht. Kontoauszüge sind taugliche Nachweise, wenn sie Betrag, Vertragsbezug und Erwerber erkennen lassen. Erst mit schlüssigem Nachweis darf der Umschreibungsantrag gestellt werden (§ 16a Abs. 3 S. 2 GwG).",
+  "id": "kauf2-042",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Geldwäsche beim Grundstückskauf: Barzahlungsverbot, Zahlungsnachweis und Meldepflichten",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/geldwasche-beim-grundstuckskauf-barzahlungsverbot-zahlungsnachweis-und-meldepflichten"
+ },
+ {
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 16a Abs. 3 GwG",
+   "§ 6 Abs. 4 GwGMeldV-Immobilien",
+   "§ 6 Abs. 1 Nr. 3 lit. a) GwGMeldV-Immobilien"
+  ],
+  "frage": "Fehlender Zahlungsnachweis",
+  "sachverhalt": "V verkauft an K eine Eigentumswohnung für 300.000 EUR. Im Termin erklären beide, K habe bereits 50.000 EUR vorab an V gezahlt. Nach Eintritt der Fälligkeit bestätigt V den Erhalt des gesamten Kaufpreises und bittet um Eigentumsumschreibung. Einen Zahlungsnachweis legt K trotz Aufforderung mit angemessener Frist nicht vor.",
+  "schritte": [
+   {
+    "frage": "Bestand schon wegen der Angaben im Termin eine Meldepflicht?",
+    "optionen": [
+     "Nein, Vorauszahlungen sind stets meldefrei",
+     "Ja, weil der vorab gezahlte Betrag 20.000 EUR übersteigt",
+     "Nein, weil der Notar nicht nach meldepflichtigen Tatsachen forschen muss",
+     "Ja, aber nur wenn die Vorauszahlung bar erfolgte"
+    ],
+    "antwort": 1,
+    "erklaerung": "Nach § 6 Abs. 1 Nr. 3 lit. a) GwGMeldV-Immobilien ist eine Meldung abzugeben, wenn der Kaufpreis ganz oder teilweise vor Abschluss des Rechtsgeschäfts gezahlt wurde, außer der Betrag liegt bei höchstens 20.000 EUR. Die fehlende Forschungspflicht (§ 1 S. 2 GwGMeldV-Immobilien) hilft nicht, weil die Tatsache hier offen mitgeteilt wurde."
+   },
+   {
+    "frage": "Darf der Notar die Umschreibung auf die Bestätigung des V hin beantragen?",
+    "optionen": [
+     "Ja, die Kaufpreisbestätigung des Verkäufers genügt",
+     "Nein, er muss einen schlüssigen Nachweis GwG-konformer Zahlung haben und bei dessen Fehlen eine Verdachtsmeldung über goAML abgeben",
+     "Ja, wenn V die Bestätigung notariell beglaubigen lässt",
+     "Nein, er muss den Vertrag rückabwickeln"
+    ],
+    "antwort": 1,
+    "erklaerung": "Den Umschreibungsantrag darf der Notar erst stellen, wenn ein schlüssiger Nachweis GwG-konformer Zahlung vorliegt (§ 16a Abs. 3 GwG); die bloße Verkäuferbestätigung ist der typische Fehler. Fehlt der Nachweis trotz Aufforderung, ist eine Verdachtsmeldung über goAML an die FIU abzugeben (§ 6 Abs. 4 GwGMeldV-Immobilien)."
+   },
+   {
+    "frage": "Ab wann darf der Notar nach Abgabe der Meldung den Eigentumswechsel herbeiführen?",
+    "optionen": [
+     "Sofort nach Abgabe der Meldung",
+     "Wenn seit dem Abgangstag der Meldung der fünfte Werktag verstrichen ist und keine weiteren Anordnungen eingegangen sind",
+     "Nach Ablauf eines Monats ab Meldung",
+     "Erst nach ausdrücklicher Freigabe durch die FIU"
+    ],
+    "antwort": 1,
+    "erklaerung": "Nach § 16a Abs. 3 S. 2 Nr. 2 GwG darf der Notar den Eigentumswechsel erst herbeiführen, wenn seit dem Abgangstag der Meldung der fünfte Werktag verstrichen ist und keine weiteren Anordnungen eingegangen sind. Eine ausdrückliche Freigabe ist nicht erforderlich."
+   }
+  ],
+  "erklaerung": "Eine Vorauszahlung über 20.000 EUR löst die Meldepflicht nach § 6 Abs. 1 Nr. 3 lit. a) GwGMeldV-Immobilien aus. Ohne schlüssigen Zahlungsnachweis darf die Umschreibung nicht auf die Verkäuferbestätigung gestützt werden; nach Verdachtsmeldung über goAML ist der Ablauf des fünften Werktags ohne weitere Anordnungen abzuwarten.",
+  "id": "kauf2-043",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Geldwäsche beim Grundstückskauf: Barzahlungsverbot, Zahlungsnachweis und Meldepflichten",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/geldwasche-beim-grundstuckskauf-barzahlungsverbot-zahlungsnachweis-und-meldepflichten"
+ },
+ {
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 10 Abs. 1 Nr. 1 GwG"
+  ],
+  "frage": "Kennt der Notar einen Beteiligten persönlich, ersetzt dies die geldwäscherechtliche Identifizierung nach dem GwG.",
+  "antwort": false,
+  "erklaerung": "Persönliche Bekanntschaft ersetzt die Identifizierung nach § 10 Abs. 1 Nr. 1 GwG nicht; zur Identifizierung gehören das Erheben der Angaben und deren Überprüfung (§ 1 Abs. 3 GwG). Typischer Fehler ist, einen bekannten Beteiligten nur nach dem BeurkG, nicht aber nach dem GwG zu identifizieren.",
+  "id": "kauf2-044",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Geldwäsche beim Grundstückskauf: Identifizierung, wirtschaftlich Berechtigter und PEP",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/geldwasche-beim-grundstuckskauf-identifizierung-wirtschaftlich-berechtigter-und-pep"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 10 Abs. 1 Nr. 1 GwG",
+   "§ 6 Abs. 2 BeurkG"
+  ],
+  "frage": "Wen muss der Notar nach § 10 Abs. 1 Nr. 1 GwG identifizieren, wenn der Verkäufer durch einen Bevollmächtigten vertreten wird?",
+  "optionen": [
+   "Nur den Vertretenen, weil er materiell Beteiligter ist",
+   "Den erschienenen Vertreter als formell Beteiligten",
+   "Vertreter und Vertretenen gleichermaßen anhand eines Ausweises im Termin",
+   "Nur den Vertreter, und zwar ausschließlich nach dem BeurkG"
+  ],
+  "antwort": 1,
+  "erklaerung": "Zu identifizieren sind die formell Beteiligten im Sinne des § 6 Abs. 2 BeurkG, also die Erschienenen (§ 10 Abs. 1 Nr. 1 GwG). Bei Vertretung ist der handelnde Vertreter zu identifizieren; der Vertretene wird auf diesem Weg nicht identifiziert. Davon zu trennen ist die Abklärung eines wirtschaftlich Berechtigten nach § 10 Abs. 1 Nr. 2 GwG.",
+  "id": "kauf2-045",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Geldwäsche beim Grundstückskauf: Identifizierung, wirtschaftlich Berechtigter und PEP",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/geldwasche-beim-grundstuckskauf-identifizierung-wirtschaftlich-berechtigter-und-pep"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 12 Abs. 4 S. 1 GwG",
+   "§ 10 Abs. 9 S. 4 GwG"
+  ],
+  "frage": "Eine GmbH will ein Grundstück erwerben; sie legt trotz Anforderung keine Darstellung ihrer Eigentums- und Kontrollverhältnisse in Textform vor. Wie muss der Notar reagieren?",
+  "optionen": [
+   "Beurkunden und die Darstellung im Vollzug nachfordern",
+   "Die Beurkundung ablehnen, da ein Beurkundungsverbot besteht",
+   "Beurkunden, wenn der Transparenzregisterauszug einen wirtschaftlich Berechtigten ausweist",
+   "Beurkunden und eine Verdachtsmeldung an die FIU abgeben"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei Gesellschaften muss der Notar schon vor dem Termin den wirtschaftlich Berechtigten anhand einer Darstellung der Eigentums- und Kontrollverhältnisse in Textform überprüfen (§ 12 Abs. 4 S. 1 GwG) und zusätzlich das Transparenzregister abrufen. Fehlen die Unterlagen, darf er nicht beurkunden und muss ablehnen (§ 10 Abs. 9 S. 4 GwG); der Registerauszug allein ersetzt die Darstellung nicht.",
+  "id": "kauf2-046",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Geldwäsche beim Grundstückskauf: Identifizierung, wirtschaftlich Berechtigter und PEP",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/geldwasche-beim-grundstuckskauf-identifizierung-wirtschaftlich-berechtigter-und-pep"
+ },
+ {
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1 Abs. 12 GwG",
+   "§ 1 Abs. 13 GwG",
+   "§ 1 Abs. 14 GwG",
+   "§ 15 Abs. 3 GwG"
+  ],
+  "frage": "Ordne die Norm ihrem Regelungsinhalt beim Umgang mit politisch exponierten Personen zu.",
+  "paare": [
+   [
+    "§ 1 Abs. 12 GwG",
+    "Politisch exponierte Person"
+   ],
+   [
+    "§ 1 Abs. 13 GwG",
+    "Familienmitglied einer politisch exponierten Person"
+   ],
+   [
+    "§ 1 Abs. 14 GwG",
+    "Bekanntermaßen nahestehende Person"
+   ],
+   [
+    "§ 15 Abs. 3 GwG",
+    "Verstärkte Sorgfaltspflichten bei höherem Risiko"
+   ]
+  ],
+  "erklaerung": "Der Notar muss ermitteln, ob eine politisch exponierte Person (§ 1 Abs. 12 GwG), ein Familienmitglied (§ 1 Abs. 13 GwG) oder eine bekanntermaßen nahestehende Person (§ 1 Abs. 14 GwG) beteiligt ist. In diesen Fällen besteht stets ein höheres Risiko, sodass die verstärkten Sorgfaltspflichten nach § 15 Abs. 3 GwG zu erfüllen sind.",
+  "id": "kauf2-047",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Geldwäsche beim Grundstückskauf: Identifizierung, wirtschaftlich Berechtigter und PEP",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/geldwasche-beim-grundstuckskauf-identifizierung-wirtschaftlich-berechtigter-und-pep"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 12 Abs. 1 Nr. 1 GwG"
+  ],
+  "frage": "Ein Erwerber mit ausschließlich schweizerischer Staatsangehörigkeit will sich mit seinem Personalausweis identifizieren. Wie ist das zu beurteilen?",
+  "optionen": [
+   "Ausreichend, da jeder gültige amtliche Lichtbildausweis genügt",
+   "Grundsätzlich nicht ausreichend; Beteiligte ohne EU- oder EWR-Staatsangehörigkeit müssen einen Reisepass vorlegen",
+   "Ausreichend, wenn der Notar ihn persönlich kennt",
+   "Nicht ausreichend; erforderlich ist eine Meldebescheinigung"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Identifizierung erfolgt regelmäßig anhand von Personalausweis oder Reisepass (§ 12 Abs. 1 Nr. 1 GwG). Beteiligte, die weder Bürger der EU noch des EWR sind, müssen einen Reisepass vorlegen; ein Personalausweis genügt grundsätzlich nicht. Persönliche Bekanntschaft ersetzt die Identifizierung nie.",
+  "id": "kauf2-048",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Geldwäsche beim Grundstückskauf: Identifizierung, wirtschaftlich Berechtigter und PEP",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/geldwasche-beim-grundstuckskauf-identifizierung-wirtschaftlich-berechtigter-und-pep"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 117 Abs. 1 BGB",
+   "§ 117 Abs. 2 BGB",
+   "§ 125 S. 1 BGB"
+  ],
+  "frage": "Um Grunderwerbsteuer zu sparen, beurkunden V und K einen Kaufpreis von 300.000 EUR, vereinbart sind tatsächlich 350.000 EUR. Wie ist die Rechtslage?",
+  "optionen": [
+   "Der beurkundete Vertrag ist wirksam, die Nebenabrede über 50.000 EUR nichtig",
+   "Der beurkundete Vertrag ist als Scheingeschäft nichtig, der verdeckte Vertrag mangels Beurkundung ebenfalls",
+   "Der verdeckte Vertrag über 350.000 EUR ist nach § 117 Abs. 2 BGB wirksam",
+   "Beide Verträge sind wirksam, es liegt nur eine Steuerhinterziehung vor"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der beurkundete Vertrag ist als Scheingeschäft nach § 117 Abs. 1 BGB nichtig. Zwar gelten für das verdeckte Geschäft nach § 117 Abs. 2 BGB die für dieses maßgeblichen Vorschriften; der verdeckte Vertrag ist aber nicht nach § 311b Abs. 1 S. 1 BGB beurkundet und daher nach § 125 S. 1 BGB ebenfalls nichtig.",
+  "id": "kauf2-049",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Grundstückskaufvertrag: Beurkundungspflicht nach § 311b Abs. 1 BGB",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/grundstuckskaufvertrag-beurkundungspflicht-nach-311b-abs-1-bgb"
+ },
+ {
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 311b Abs. 1 S. 1 BGB",
+   "§ 17 Abs. 1 S. 1 BeurkG"
+  ],
+  "frage": "Ordne die Funktion der Beurkundungspflicht ihrem Inhalt zu.",
+  "paare": [
+   [
+    "Warnfunktion",
+    "Schutz vor übereilten Geschäften durch Bedenkzeit"
+   ],
+   [
+    "Beweisfunktion",
+    "Alle wesentlichen Abreden stehen eindeutig in der Urkunde"
+   ],
+   [
+    "Belehrungsfunktion",
+    "Aufklärung über rechtliche Folgen und Risiken, besonders ungesicherte Vorleistungen"
+   ]
+  ],
+  "erklaerung": "§ 311b Abs. 1 S. 1 BGB schützt vor Übereilung (Warn- oder Besinnungsfunktion), sichert den Beweis des Vereinbarten (Beweisfunktion) und gewährleistet die Belehrung durch den Notar als unabhängigen Amtsträger (Belehrungsfunktion), die auch aus § 17 Abs. 1 S. 1 BeurkG folgt.",
+  "id": "kauf2-050",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Grundstückskaufvertrag: Beurkundungspflicht nach § 311b Abs. 1 BGB",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/grundstuckskaufvertrag-beurkundungspflicht-nach-311b-abs-1-bgb"
+ },
+ {
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 311b Abs. 1 S. 1 BGB"
+  ],
+  "frage": "Nach Auffassung des BGH sind Änderungen eines Grundstückskaufvertrags nach bindend gewordener Auflassung formfrei möglich, wenn sie weder die Erwerbs- noch die Veräußerungspflicht ändern oder neu begründen.",
+  "antwort": true,
+  "erklaerung": "Wesentliche Vertragsänderungen unterliegen grundsätzlich der Form des § 311b Abs. 1 S. 1 BGB. Nach Auffassung des BGH gilt eine Ausnahme für Änderungen nach bindend gewordener Auflassung, die weder Erwerbs- noch Veräußerungspflicht ändern oder neu begründen, weil der Formzweck dann nicht mehr berührt ist.",
+  "id": "kauf2-051",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Grundstückskaufvertrag: Beurkundungspflicht nach § 311b Abs. 1 BGB",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/grundstuckskaufvertrag-beurkundungspflicht-nach-311b-abs-1-bgb"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 311b Abs. 1 S. 1 BGB",
+   "§ 167 Abs. 2 BGB"
+  ],
+  "frage": "Welche Vollmacht zum Grundstücksverkauf ist nach § 311b Abs. 1 S. 1 BGB zu beurkunden?",
+  "optionen": [
+   "Jede Vollmacht zum Abschluss eines Grundstückskaufvertrags",
+   "Die unwiderrufliche Vollmacht samt zugrunde liegendem Auftrag",
+   "Nur die Generalvollmacht",
+   "Nur die über den Tod hinaus erteilte Vollmacht"
+  ],
+  "antwort": 1,
+  "erklaerung": "Grundsätzlich ist die Vollmacht formfrei (§ 167 Abs. 2 BGB). Die unwiderrufliche Vollmacht bindet den Vollmachtgeber aber schon mit der Erteilung, sodass die Formzwecke bereits dann eingreifen; sie ist zusammen mit dem zugrunde liegenden Auftrag nach § 311b Abs. 1 S. 1 BGB zu beurkunden.",
+  "id": "kauf2-052",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Grundstückskaufvertrag: Beurkundungspflicht nach § 311b Abs. 1 BGB",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/grundstuckskaufvertrag-beurkundungspflicht-nach-311b-abs-1-bgb"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 4 Abs. 3 WEG",
+   "§ 11 Abs. 2 ErbbauRG",
+   "§ 311b Abs. 1 BGB"
+  ],
+  "frage": "Auf welcher Grundlage ist der Verkauf einer Eigentumswohnung beurkundungspflichtig?",
+  "optionen": [
+   "Nur nach § 311b Abs. 1 BGB unmittelbar, da Wohnungseigentum ein Grundstück ist",
+   "Nach § 4 Abs. 3 WEG, der § 311b Abs. 1 BGB für Verträge über Sondereigentum entsprechend anwendet",
+   "Nach § 11 Abs. 2 ErbbauRG",
+   "Nach § 128 BGB i. V. m. § 9 BeurkG"
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 311b Abs. 1 BGB gilt über § 4 Abs. 3 WEG entsprechend für Verträge über Einräumung, Erwerb oder Aufhebung von Sondereigentum; daher ist auch der Verkauf von Wohnungs- oder Teileigentum beurkundungspflichtig. § 11 Abs. 2 ErbbauRG ordnet dasselbe für Bestellung und Erwerb eines Erbbaurechts an.",
+  "id": "kauf2-053",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Grundstückskaufvertrag: Beurkundungspflicht nach § 311b Abs. 1 BGB",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/grundstuckskaufvertrag-beurkundungspflicht-nach-311b-abs-1-bgb"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 28 S. 1 GBO"
+  ],
+  "frage": "Welche Angaben genügen für die Bestimmtheit eines Grundstücks im Kaufvertrag?",
+  "optionen": [
+   "Straße und Hausnummer",
+   "Gemarkung und Flurstücknummer",
+   "Grundbuchblattnummer und Eigentümername",
+   "Wirtschaftsart und Größe"
+  ],
+  "antwort": 1,
+  "erklaerung": "Für die Bestimmtheit genügen Gemarkung und Flurstücknummer; üblich ist dennoch die Aufnahme aller Angaben des Bestandsverzeichnisses. Straße und Hausnummer helfen den Beteiligten nur beim Wiedererkennen des Objekts. Die Blattnummer ist ungeeignet, weil sie sich etwa bei Abschreibung eines Grundstücks auf ein neues Blatt ändern kann.",
+  "id": "kauf2-054",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Grundstückskaufvertrag: Mindestinhalt und Bezeichnung des Grundbesitzes",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/grundstuckskaufvertrag-mindestinhalt-und-bezeichnung-des-grundbesitzes"
+ },
+ {
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 28 S. 1 GBO"
+  ],
+  "frage": "Ist im Grundbuch eine neue Hausnummer noch nicht nachgetragen, nimmt der Notar im Grundbuchbeschrieb der Urkunde die zutreffende Hausnummer anstelle der Grundbuchangabe auf.",
+  "antwort": false,
+  "erklaerung": "Der Grundbuchbeschrieb ist Wort für Wort aus dem Grundbuch zu übernehmen, auch wenn die Beteiligten eine Angabe als falsch beanstanden. Vermeintliche Fehler werden nicht in der Urkunde korrigiert; möglich ist eine Anregung an das Grundbuchamt, das Grundbuch zu berichtigen.",
+  "id": "kauf2-055",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Grundstückskaufvertrag: Mindestinhalt und Bezeichnung des Grundbesitzes",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/grundstuckskaufvertrag-mindestinhalt-und-bezeichnung-des-grundbesitzes"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 4 GBO",
+   "§ 16 GBV"
+  ],
+  "frage": "Auf einem Grundbuchblatt sind drei Grundstücke derselben Gemarkung gebucht; nur eines wird verkauft. Was geschieht grundbuchtechnisch?",
+  "optionen": [
+   "Das verkaufte Grundstück behält Blatt und Flurstücknummer; nur der Eigentümer wird ergänzt",
+   "Das verkaufte Grundstück erhält ein neues Grundbuchblatt; die Flurstücknummer bleibt grundsätzlich unverändert",
+   "Das verkaufte Grundstück erhält eine neue Flurstücknummer",
+   "Alle drei Grundstücke werden auf ein neues Blatt übertragen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Sind mehrere Grundstücke auf einem Blatt gebucht (§ 4 GBO) und wird nur eines verkauft, erhält dieses ein neues Blatt; die Blattnummer kann sich also ändern. Die Flurstücknummer bleibt grundsätzlich unverändert, außer bei Neuvermessung, Teilung oder Vereinigung. Nur beim Verkauf des einzigen Grundstücks wird der bisherige Eigentümer rot unterstrichen und der neue eingetragen (§ 16 GBV).",
+  "id": "kauf2-056",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Grundstückskaufvertrag: Mindestinhalt und Bezeichnung des Grundbesitzes",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/grundstuckskaufvertrag-mindestinhalt-und-bezeichnung-des-grundbesitzes"
+ },
+ {
+  "typ": "zuordnung",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 5 GBV",
+   "§ 6 GBV",
+   "§ 28 S. 1 GBO",
+   "§ 4 GBV"
+  ],
+  "frage": "Ordne die Norm dem Element der Grundbuchbezeichnung in der Vorbemerkung zu.",
+  "paare": [
+   [
+    "§ 5 GBV",
+    "Grundbuchblattstelle (Aufschrift)"
+   ],
+   [
+    "§ 6 Abs. 1 GBV",
+    "Laufende Nummer des Grundstücks im Bestandsverzeichnis"
+   ],
+   [
+    "§ 4 GBV",
+    "Gliederung des Blatts in Aufschrift, Bestandsverzeichnis und drei Abteilungen"
+   ],
+   [
+    "§ 28 S. 1 GBO",
+    "Bezeichnung des Grundstücks in Grundbucherklärungen"
+   ]
+  ],
+  "erklaerung": "Die Vorbemerkung kombiniert üblicherweise Grundbuchblattstelle (§ 5 GBV), laufende Nummer (§ 6 Abs. 1 GBV) und Beschrieb des Bestandsverzeichnisses (§ 6 Abs. 3a, 5 GBV). Sie erfüllt den sachenrechtlichen Bestimmtheitsgrundsatz und bereitet die Grundbucherklärungen nach § 28 S. 1 GBO vor; den Aufbau des Blatts regelt § 4 GBV.",
+  "id": "kauf2-057",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Grundstückskaufvertrag: Mindestinhalt und Bezeichnung des Grundbesitzes",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/grundstuckskaufvertrag-mindestinhalt-und-bezeichnung-des-grundbesitzes"
  }
 ]

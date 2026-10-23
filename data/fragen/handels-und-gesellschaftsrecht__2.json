@@ -1055,5 +1055,230 @@
   ],
   "antwort": 1,
   "erklaerung": "Hat das Unternehmen seinen Sitz oder seine Hauptniederlassung im Inland, erscheint die Zweigniederlassung ausschließlich als Vermerk auf dem Registerblatt der Hauptniederlassung. Ein eigenes Registerblatt am Ort der Zweigniederlassung gibt es in diesem Fall nicht."
+ },
+ {
+  "id": "hand2-046",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Notarbescheinigungen: Register- und Vertretungsbescheinigung (§ 21 BNotO)",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/notarbescheinigungen-register-und-vertretungsbescheinigung-21-bnoto",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 21 Abs. 1 BNotO"
+  ],
+  "frage": "Die Satzung einer GmbH sieht für einen bestimmten Geschäftsführer Einzelvertretung vor; im Handelsregister ist nur die allgemeine Gesamtvertretung eingetragen. Kann der Notar die Einzelvertretungsbefugnis nach § 21 BNotO bescheinigen?",
+  "optionen": [
+   "Ja, wenn ihm die Satzung in beglaubigter Abschrift vorliegt",
+   "Ja, da die Satzung beim Registergericht hinterlegt ist",
+   "Nein, eine Registerbescheinigung setzt voraus, dass sich der Umstand aus einer Registereintragung ergibt",
+   "Nein, Vertretungsbescheinigungen sind nur für Personenhandelsgesellschaften zulässig"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 21 Abs. 1 BNotO muss sich der bescheinigte Umstand aus einer Eintragung im Handelsregister oder einem ähnlichen Register ergeben. Eine nur in Gesellschaftsvertrag oder Satzung enthaltene, nicht eingetragene Vertretungsregelung ist nicht bescheinigungsfähig; die bloße Vorlage der Satzung ändert daran nichts."
+ },
+ {
+  "id": "hand2-047",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Notarbescheinigungen: Register- und Vertretungsbescheinigung (§ 21 BNotO)",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/notarbescheinigungen-register-und-vertretungsbescheinigung-21-bnoto",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 21 Abs. 3 BNotO"
+  ],
+  "frage": "Eine durch Rechtsgeschäft begründete Vertretungsmacht darf der Notar nach § 21 Abs. 3 BNotO auch auf Grundlage einer privatschriftlichen Vollmacht bescheinigen, wenn ihm das Original vorliegt.",
+  "antwort": false,
+  "erklaerung": "§ 21 Abs. 3 BNotO setzt voraus, dass sich der Notar durch Einsicht in eine öffentliche oder öffentlich beglaubigte Vollmachtsurkunde über die Begründung der Vertretungsmacht vergewissert hat. Eine privatschriftliche Vollmacht genügt auch im Original nicht. In der Bescheinigung sind Form der Vollmachtsurkunde und Datum ihrer Vorlage anzugeben."
+ },
+ {
+  "id": "hand2-048",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Notarbescheinigungen: Register- und Vertretungsbescheinigung (§ 21 BNotO)",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/notarbescheinigungen-register-und-vertretungsbescheinigung-21-bnoto",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 39 BeurkG",
+   "§ 21 Abs. 2 S. 2 BNotO"
+  ],
+  "frage": "In welcher Form wird eine Registerbescheinigung nach § 21 BNotO erteilt?",
+  "optionen": [
+   "Als Niederschrift nach §§ 8 ff. BeurkG",
+   "Als Zeugnis in Vermerkform nach § 39 BeurkG mit Unterschrift, Siegel sowie Ort und Tag der Ausstellung",
+   "Als einfache schriftliche Mitteilung des Notars ohne Siegel",
+   "Als beglaubigte Abschrift des Registerausdrucks"
+  ],
+  "antwort": 1,
+  "erklaerung": "Für die Registerbescheinigung genügt ein Zeugnis in Vermerkform; eine Niederschrift ist nicht erforderlich (§ 39 BeurkG). Der Vermerk enthält die Feststellung des Sachverhalts, Unterschrift, Präge- oder Farbdrucksiegel sowie Ort und Tag der Ausstellung. Zusätzlich ist nach § 21 Abs. 2 S. 2 BNotO der Tag der Registereinsicht anzugeben."
+ },
+ {
+  "id": "hand2-049",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Notarbescheinigungen: Register- und Vertretungsbescheinigung (§ 21 BNotO)",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/notarbescheinigungen-register-und-vertretungsbescheinigung-21-bnoto",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 21 Abs. 2 S. 1 BNotO",
+   "§ 21 Abs. 2 S. 2 BNotO"
+  ],
+  "frage": "Welche Aussage zum Verfahren bei der Registerbescheinigung trifft zu?",
+  "optionen": [
+   "Der Notar muss das Register stets persönlich einsehen; die Einsicht durch Mitarbeiter ist unzulässig",
+   "Der Notar darf Hilfspersonen mit der Einsicht betrauen, wenn er sich auf deren Sorgfalt verlassen kann; die Bescheinigung muss den Tag der Einsicht nennen",
+   "Die Bescheinigung gibt als reine Tatsachenbescheinigung nur den Registerinhalt wieder und enthält keine rechtlichen Schlussfolgerungen",
+   "Das Datum der Einsicht ist entbehrlich, wenn das Ausstellungsdatum angegeben ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Notar muss sich nach § 21 Abs. 2 S. 1 BNotO durch Einsicht in das Register oder eine beglaubigte Abschrift Gewissheit verschaffen, darf dabei aber zuverlässige Hilfspersonen einsetzen. Die Bescheinigung muss den Tag der Einsicht bzw. der Ausstellung der Abschrift nennen (§ 21 Abs. 2 S. 2 BNotO); dessen Fehlen ist ein typischer Fehler. Sie ist zudem eine gutachterliche Stellungnahme mit rechtlichen Schlussfolgerungen, keine reine Tatsachenwiedergabe."
+ },
+ {
+  "id": "hand2-050",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Prokura: Erteilung, Umfang, Erlöschen und Anmeldung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/prokura-erteilung-umfang-erloschen-und-anmeldung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 49 Abs. 1 HGB",
+   "§ 49 Abs. 2 HGB"
+  ],
+  "frage": "Welches Geschäft darf ein Prokurist ohne besondere Befugnis nicht vornehmen?",
+  "optionen": [
+   "Einen Kredit für das Unternehmen aufnehmen",
+   "Einen Prozess für das Unternehmen führen",
+   "Ein Betriebsgrundstück veräußern oder belasten",
+   "Einen Arbeitnehmer einstellen oder entlassen"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Prokura umfasst alle gerichtlichen und außergerichtlichen Geschäfte, die der Betrieb eines Handelsgewerbes mit sich bringt (§ 49 Abs. 1 HGB), also auch Kreditaufnahme und Prozessführung. Zur Veräußerung und Belastung von Grundstücken ist der Prokurist nach § 49 Abs. 2 HGB nur befugt, wenn ihm dies gesondert erteilt ist; die Grundstücksbefugnis wird im Handelsregister vermerkt."
+ },
+ {
+  "id": "hand2-051",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Prokura: Erteilung, Umfang, Erlöschen und Anmeldung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/prokura-erteilung-umfang-erloschen-und-anmeldung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 50 Abs. 1 HGB"
+  ],
+  "frage": "Überschreitet ein Prokurist eine nur intern vereinbarte Beschränkung seiner Prokura, ist das Geschäft gegenüber dem Dritten unwirksam.",
+  "antwort": false,
+  "erklaerung": "Eine Begrenzung des Prokuraumfangs wirkt nach § 50 Abs. 1 HGB nicht gegenüber Dritten. Das Geschäft bleibt daher wirksam; der Prokurist haftet dem Unternehmensinhaber lediglich im Innenverhältnis auf Schadensersatz."
+ },
+ {
+  "id": "hand2-052",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Prokura: Erteilung, Umfang, Erlöschen und Anmeldung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/prokura-erteilung-umfang-erloschen-und-anmeldung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 48 Abs. 1 HGB"
+  ],
+  "frage": "Ein Einzelkaufmann möchte Prokura so erteilen, dass der Prokurist nur gemeinsam mit ihm selbst vertreten darf. Ist das zulässig?",
+  "optionen": [
+   "Ja, als unechte Gesamtprokura",
+   "Ja, sofern die Beschränkung im Handelsregister eingetragen wird",
+   "Nein, Gesamtvertretung setzt das Handeln von Vertretern voraus, der Einzelkaufmann ist aber kein Vertreter",
+   "Nein, ein Einzelkaufmann kann überhaupt keine Prokura erteilen"
+  ],
+  "antwort": 2,
+  "erklaerung": "Gesamtvertretung setzt das Zusammenwirken rechtsgeschäftlicher oder gesetzlicher Vertreter voraus; der Einzelkaufmann handelt als Inhaber selbst und ist kein Vertreter. Eine Prokura nur gemeinsam mit dem Einzelkaufmann ist daher unzulässig. Unechte Gesamtprokura gibt es nur in Verbindung mit einem Gesellschafter, Geschäftsführer oder Vorstandsmitglied; Prokura als solche kann der Einzelkaufmann nach § 48 Abs. 1 HGB sehr wohl erteilen."
+ },
+ {
+  "id": "hand2-053",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Prokura: Erteilung, Umfang, Erlöschen und Anmeldung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/prokura-erteilung-umfang-erloschen-und-anmeldung",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 116 Abs. 2 S. 3 HGB",
+   "§ 35 GmbHG",
+   "§ 78 AktG",
+   "§ 52 Abs. 1 HGB"
+  ],
+  "frage": "Ordne den Rechtsträger dem jeweils zum Widerruf der Prokura Berechtigten zu.",
+  "paare": [
+   [
+    "Einzelkaufmännisches Unternehmen",
+    "Der Einzelkaufmann"
+   ],
+   [
+    "OHG oder KG",
+    "Jeder persönlich haftende Gesellschafter allein"
+   ],
+   [
+    "GmbH",
+    "Geschäftsführer in vertretungsberechtigter Zahl"
+   ],
+   [
+    "AG",
+    "Vorstandsmitglieder in vertretungsberechtigter Zahl"
+   ]
+  ],
+  "erklaerung": "Die Prokura ist nach § 52 Abs. 1 HGB jederzeit widerruflich. Bei Personengesellschaften kann jeder persönlich haftende Gesellschafter allein widerrufen (§ 116 Abs. 2 S. 3 HGB), während bei GmbH und AG so viele Organmitglieder handeln müssen, wie zur Vertretung nötig sind (§ 35 GmbHG, § 78 AktG)."
+ },
+ {
+  "id": "hand2-054",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Prokura: Erteilung, Umfang, Erlöschen und Anmeldung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/prokura-erteilung-umfang-erloschen-und-anmeldung",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 46 Nr. 7 GmbHG",
+   "§ 50 Abs. 3 HGB",
+   "§ 53 HGB"
+  ],
+  "frage": "Prokura für die Zweigniederlassung",
+  "sachverhalt": "Die Alpha GmbH mit Sitz in Stuttgart hat zwei gesamtvertretungsberechtigte Geschäftsführer G1 und G2 und betreibt eine Zweigniederlassung in Ulm unter der Firma „Alpha GmbH Zweigniederlassung Ulm“. Die Gesellschafterversammlung beschließt, P Prokura nur für die Ulmer Niederlassung zu erteilen. P soll gemeinsam mit einem Geschäftsführer vertreten. Der Notar soll die Anmeldung entwerfen; P bietet an, die Anmeldung mitzuunterzeichnen.",
+  "schritte": [
+   {
+    "frage": "Ist die Beschränkung der Prokura auf die Ulmer Niederlassung zulässig?",
+    "optionen": [
+     "Nein, eine Prokura lässt sich nicht gegenständlich beschränken",
+     "Ja, da die Zweigniederlassung eine abweichende Firma führt; der Zusatz „Zweigniederlassung“ mit Ortsangabe genügt",
+     "Ja, aber nur im Innenverhältnis",
+     "Nur, wenn die Zweigniederlassung ein eigenes Registerblatt hat"
+    ],
+    "antwort": 1,
+    "erklaerung": "Nach § 50 Abs. 3 HGB ist die Niederlassungsprokura möglich, wenn die Zweigniederlassung eine abweichende Firma führt; dafür genügt der Zusatz „Zweigniederlassung“ mit Ortsangabe."
+   },
+   {
+    "frage": "Wer meldet die Prokura zum Handelsregister an?",
+    "optionen": [
+     "G1 und G2 in vertretungsberechtigter Zahl; P wirkt nicht mit",
+     "G1 oder G2 jeweils allein zusammen mit P",
+     "Die Gesellschafterversammlung durch Vorlage des Beschlusses",
+     "P allein, da er von der Prokura betroffen ist"
+    ],
+    "antwort": 0,
+    "erklaerung": "Bei der GmbH melden die Geschäftsführer in vertretungsberechtigter Zahl an (§ 53 HGB); eine Mitwirkung des Prokuristen ist weder nötig noch möglich. Der Beschluss nach § 46 Nr. 7 GmbHG betrifft nur das Innenverhältnis und muss nicht beigefügt werden."
+   },
+   {
+    "frage": "Was gilt, wenn die Beschränkung auf die Niederlassung Ulm nicht mit angemeldet wird?",
+    "optionen": [
+     "Die Prokura ist insgesamt unwirksam",
+     "Die Prokura gilt für alle Niederlassungen",
+     "Die Prokura gilt nur für den Sitz Stuttgart",
+     "Das Registergericht trägt die Beschränkung von Amts wegen ein"
+    ],
+    "antwort": 1,
+    "erklaerung": "Die Beschränkung nach § 50 Abs. 3 HGB ist anzumelden; ohne Anmeldung gilt die Prokura für alle Niederlassungen. Das ist ein typischer Praxisfehler."
+   }
+  ],
+  "erklaerung": "Die Niederlassungsprokura ist wegen der abweichenden Firma der Zweigniederlassung zulässig (§ 50 Abs. 3 HGB). Anzumelden haben G1 und G2 in vertretungsberechtigter Zahl ohne Mitwirkung des P, unter Angabe der unechten Gesamtprokura und der Beschränkung auf Ulm; ohne Anmeldung der Beschränkung gilt die Prokura für alle Niederlassungen."
  }
 ]

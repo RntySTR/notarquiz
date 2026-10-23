@@ -1270,5 +1270,342 @@
   "frage": "Endet eine nichteheliche Lebensgemeinschaft durch den Tod eines Partners, können die Erben des Verstorbenen Ausgleichsansprüche für dessen Leistungen gegen den überlebenden Partner geltend machen.",
   "antwort": false,
   "erklaerung": "Ausgleichsansprüche für erbrachte Leistungen können nur entstehen, wenn die Lebensgemeinschaft durch Trennung endet; bei Beendigung durch Tod nicht. Die Aussage überträgt die Trennungsfolgen fälschlich auf den Todesfall. Für den Todesfall ist der Partner stattdessen durch Testament oder Erbvertrag abzusichern, weil ein gesetzliches Erbrecht fehlt."
+ },
+ {
+  "id": "fami2-060",
+  "kapitel": "familienrecht",
+  "abschnitt": "Scheidung, Unterhalt und Partnerschaften",
+  "seite": "Scheidung: Voraussetzungen, Folgen und Scheidungsvereinbarung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/scheidung-voraussetzungen-folgen-und-scheidungsvereinbarung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1378 Abs. 3 BGB",
+   "§ 1384 BGB"
+  ],
+  "frage": "Im gesetzlichen Güterstand wird ein Scheidungsantrag am 10.03. rechtshängig, die Scheidung wird am 20.11. rechtskräftig. Welche Zeitpunkte gelten für den Zugewinnausgleich?",
+  "optionen": [
+   "Entstehung der Forderung und Berechnung des Endvermögens jeweils am 10.03.",
+   "Entstehung der Forderung am 20.11.; Berechnung des Endvermögens auf den 10.03.",
+   "Entstehung der Forderung am 10.03.; Berechnung des Endvermögens auf den 20.11.",
+   "Entstehung der Forderung und Berechnung des Endvermögens jeweils am 20.11."
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Güterstand endet mit Rechtskraft der Scheidung; erst dann entsteht die Ausgleichsforderung (§ 1378 Abs. 3 S. 1 BGB). Für die Berechnung des Endvermögens ist nach § 1384 BGB jedoch der Tag der Rechtshängigkeit des Scheidungsantrags maßgebend. Wer beide Zeitpunkte gleichsetzt, übersieht diese Vorverlagerung des Berechnungsstichtags."
+ },
+ {
+  "id": "fami2-061",
+  "kapitel": "familienrecht",
+  "abschnitt": "Scheidung, Unterhalt und Partnerschaften",
+  "seite": "Scheidung: Voraussetzungen, Folgen und Scheidungsvereinbarung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/scheidung-voraussetzungen-folgen-und-scheidungsvereinbarung",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1567 Abs. 2 BGB",
+   "§ 1565 Abs. 2 BGB"
+  ],
+  "frage": "Ein kurzes Zusammenleben der getrennten Ehegatten mit dem Ziel der Versöhnung lässt das Trennungsjahr neu beginnen.",
+  "antwort": false,
+  "erklaerung": "Nach § 1567 Abs. 2 BGB unterbricht oder hemmt ein Zusammenleben über kürzere Zeit, das der Versöhnung dienen soll, die Trennungsfristen nicht. Das Gesetz will Versöhnungsversuche nicht durch den Verlust der bereits verstrichenen Trennungszeit bestrafen. Die Trennungszeit von einem Jahr nach § 1565 Abs. 2 BGB läuft daher weiter."
+ },
+ {
+  "id": "fami2-062",
+  "kapitel": "familienrecht",
+  "abschnitt": "Scheidung, Unterhalt und Partnerschaften",
+  "seite": "Scheidung: Voraussetzungen, Folgen und Scheidungsvereinbarung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/scheidung-voraussetzungen-folgen-und-scheidungsvereinbarung",
+  "typ": "fall",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1378 Abs. 3 BGB",
+   "§§ 2077, 2279 BGB",
+   "§ 1567 BGB"
+  ],
+  "frage": "Einverständliche Scheidung mit Scheidungsvereinbarung",
+  "sachverhalt": "M und F, verheiratet im gesetzlichen Güterstand, leben seit acht Monaten getrennt, F weiterhin im Obergeschoss des gemeinsamen Hauses, M im Erdgeschoss; gemeinsame Mahlzeiten und Haushaltsführung finden nicht mehr statt. Sie haben vor zehn Jahren einen Erbvertrag mit gegenseitiger Erbeinsetzung geschlossen. Beide wollen sich einvernehmlich scheiden lassen und kommen zum Notar, um alles vorab zu regeln.",
+  "schritte": [
+   {
+    "frage": "Leben M und F trotz der gemeinsamen Wohnung getrennt?",
+    "optionen": [
+     "Nein, Getrenntleben setzt getrennte Wohnungen voraus",
+     "Ja, Getrenntleben ist auch innerhalb der Ehewohnung möglich (§ 1567 Abs. 1 S. 2 BGB)",
+     "Nein, solange beide Eigentümer des Hauses sind",
+     "Ja, aber das Trennungsjahr beginnt erst mit Auszug eines Ehegatten"
+    ],
+    "antwort": 1,
+    "erklaerung": "Getrenntleben setzt das Fehlen häuslicher Gemeinschaft und die Ablehnung der ehelichen Lebensgemeinschaft durch mindestens einen Ehegatten voraus; es ist nach § 1567 Abs. 1 S. 2 BGB auch innerhalb der Ehewohnung möglich. Das Trennungsjahr läuft daher bereits."
+   },
+   {
+    "frage": "Die Ehegatten wollen den Zugewinn sofort abschließend regeln. Welches Vorgehen ist in der Praxis üblich?",
+    "optionen": [
+     "Abwarten bis zur Rechtskraft der Scheidung, weil vorher keine Ausgleichsforderung entstehen kann",
+     "Gütertrennung durch Ehevertrag in der Scheidungsvereinbarung; die Ausgleichsforderung entsteht dann mit deren Abschluss",
+     "Eintragung der Gütertrennung ins Güterrechtsregister",
+     "Ein formfreier Verzicht auf den Zugewinnausgleich"
+    ],
+    "antwort": 1,
+    "erklaerung": "In der Praxis beenden die Ehegatten die Zugewinngemeinschaft meist schon in der Scheidungsvereinbarung durch Ehevertrag (Gütertrennung). Die Ausgleichsforderung entsteht dann bereits mit Abschluss dieser Vereinbarung (§ 1378 Abs. 3 BGB), und die Vereinbarung regelt zugleich deren Abgeltung. Das Güterrechtsregister ist abgeschafft."
+   },
+   {
+    "frage": "Worauf hat der Notar hinsichtlich des Erbvertrags hinzuweisen?",
+    "optionen": [
+     "Der Erbvertrag bleibt nach der Scheidung unverändert wirksam",
+     "Verfügungen im Erbvertrag verlieren mit der Scheidung in der Regel ihre Wirksamkeit (§§ 2077, 2279 BGB)",
+     "Der Erbvertrag wird mit Rechtshängigkeit des Scheidungsantrags stets unwirksam",
+     "Der Erbvertrag muss vor der Scheidung zwingend notariell aufgehoben werden, sonst bleibt er bindend"
+    ],
+    "antwort": 1,
+    "erklaerung": "Die Scheidung beendet das gesetzliche Erb- und Pflichtteilsrecht; Verfügungen in Testamenten und Erbverträgen verlieren in der Regel ihre Wirksamkeit (§§ 2077, 2279 BGB). Auf diese Folgen ist bei bestehenden Verfügungen von Todes wegen hinzuweisen; eine klarstellende Regelung in der Scheidungsvereinbarung bietet sich an."
+   }
+  ],
+  "erklaerung": "Getrenntleben ist auch in der gemeinsamen Wohnung möglich (§ 1567 Abs. 1 S. 2 BGB). In der Scheidungsvereinbarung wird regelmäßig Gütertrennung vereinbart, sodass die Ausgleichsforderung sofort entsteht (§ 1378 Abs. 3 BGB) und abgegolten werden kann. Bei bestehenden Verfügungen von Todes wegen ist auf §§ 2077, 2279 BGB hinzuweisen."
+ },
+ {
+  "id": "fami2-063",
+  "kapitel": "familienrecht",
+  "abschnitt": "Scheidung, Unterhalt und Partnerschaften",
+  "seite": "Scheidung: Voraussetzungen, Folgen und Scheidungsvereinbarung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/scheidung-voraussetzungen-folgen-und-scheidungsvereinbarung",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1378 Abs. 3 S. 2 BGB",
+   "§ 1408 BGB"
+  ],
+  "frage": "Eine Vereinbarung über den Ausgleich des Zugewinns nach § 1378 Abs. 3 S. 2 BGB, die während des laufenden Scheidungsverfahrens getroffen wird, ist ein Ehevertrag im Sinne des § 1408 BGB.",
+  "antwort": false,
+  "erklaerung": "Die Seite stellt ausdrücklich fest, dass eine während des Scheidungsverfahrens getroffene Vereinbarung über den Zugewinnausgleich nach § 1378 Abs. 3 S. 2 BGB kein Ehevertrag im Sinne des § 1408 BGB ist. Sie regelt nicht die güterrechtlichen Verhältnisse für die Zukunft, sondern die Abwicklung des Ausgleichs. Anders liegt es, wenn die Ehegatten in der Scheidungsvereinbarung durch Ehevertrag Gütertrennung vereinbaren."
+ },
+ {
+  "id": "fami2-064",
+  "kapitel": "familienrecht",
+  "abschnitt": "Scheidung, Unterhalt und Partnerschaften",
+  "seite": "Unterhaltsvereinbarungen: Abänderung und Angabe der Berechnungsgrundlagen",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/unterhaltsvereinbarungen-abanderung-und-angabe-der-berechnungsgrundlagen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 239 FamFG",
+   "§ 313 BGB"
+  ],
+  "frage": "Welche Folge hat es, wenn eine notarielle Unterhaltsvereinbarung keine Berechnungsgrundlagen enthält?",
+  "optionen": [
+   "Das Gericht schätzt die Grundlagen im Abänderungsverfahren nach § 287 ZPO",
+   "Eine Abänderung nach § 239 FamFG ist nicht möglich; erforderlich ist ein neues Unterhaltsverfahren unter Aufhebung des alten Titels",
+   "Die Vereinbarung ist formnichtig nach § 1585c BGB",
+   "Die Abänderung richtet sich dann nach § 238 FamFG mit Wesentlichkeitsschwelle"
+  ],
+  "antwort": 1,
+  "erklaerung": "Ohne Ausgangslage kann das Gericht nicht beurteilen, ob sich die maßgeblichen Tatsachen geändert haben; eine Abänderung nach § 239 FamFG ist dann nicht möglich. Erforderlich ist ein neues Unterhaltsverfahren unter Aufhebung des alten Titels, die Bindung an die Vereinbarung geht verloren. Der Notar ist von Amts wegen verpflichtet, die Grundlagen aufzunehmen; § 238 FamFG betrifft nur gerichtliche Titel."
+ },
+ {
+  "id": "fami2-065",
+  "kapitel": "familienrecht",
+  "abschnitt": "Scheidung, Unterhalt und Partnerschaften",
+  "seite": "Unterhaltsvereinbarungen: Abänderung und Angabe der Berechnungsgrundlagen",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/unterhaltsvereinbarungen-abanderung-und-angabe-der-berechnungsgrundlagen",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 239 FamFG",
+   "§ 238 FamFG"
+  ],
+  "frage": "Für die Abänderung eines notariellen Unterhaltstitels gilt kraft Gesetzes dieselbe Wesentlichkeitsschwelle wie für gerichtliche Unterhaltstitel.",
+  "antwort": false,
+  "erklaerung": "Für notarielle Titel und Vergleiche sieht § 239 FamFG keine Wesentlichkeitsschwelle vor; Voraussetzungen und Ausmaß der Abänderung richten sich über § 239 Abs. 2 FamFG nach § 313 BGB. Die Wesentlichkeitsschwelle gilt nur für gerichtliche Titel nach § 238 FamFG. Die Beteiligten können eine Schwelle aber vertraglich vereinbaren."
+ },
+ {
+  "id": "fami2-066",
+  "kapitel": "familienrecht",
+  "abschnitt": "Scheidung, Unterhalt und Partnerschaften",
+  "seite": "Unterhaltsvereinbarungen: Abänderung und Angabe der Berechnungsgrundlagen",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/unterhaltsvereinbarungen-abanderung-und-angabe-der-berechnungsgrundlagen",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 26 EStG",
+   "§ 239 FamFG"
+  ],
+  "frage": "M und F trennen sich im Mai und wollen sofort eine notarielle Unterhaltsvereinbarung schließen. Welche Gestaltung empfiehlt die Seite?",
+  "optionen": [
+   "Eine unbefristete Vereinbarung über den nachehelichen Unterhalt auf Basis der aktuellen Einkünfte",
+   "Befristung, Rücktrittsvorbehalt oder Beschränkung auf den Trennungsunterhalt, weil sich die Verhältnisse etwa durch Wegfall des Ehegattensplittings ändern",
+   "Ein Ausschluss der Abänderbarkeit, damit die Vereinbarung Bestand hat",
+   "Verzicht auf Angabe der Berechnungsgrundlagen, weil sich diese ohnehin bald ändern"
+  ],
+  "antwort": 1,
+  "erklaerung": "Kurz nach der Trennung ändern sich die wirtschaftlichen Verhältnisse zwangsläufig, insbesondere durch den Wegfall des Ehegattensplittings im Folgejahr (§ 26 EStG), den gegenläufigen Sonderausgabenabzug, Krankenversicherungsbeiträge und die neue Lastenverteilung. Die Seite empfiehlt deshalb Befristung, Rücktrittsvorbehalt oder Beschränkung auf den Trennungsunterhalt; die steuerlichen Folgen sind mit dem Steuerberater zu prognostizieren. Der Verzicht auf Berechnungsgrundlagen ist gerade der typische Fehler."
+ },
+ {
+  "id": "fami2-067",
+  "kapitel": "familienrecht",
+  "abschnitt": "Scheidung, Unterhalt und Partnerschaften",
+  "seite": "Unterhaltsvereinbarungen: Form, modifizierende und novierende Vereinbarungen",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/unterhaltsvereinbarungen-form-modifizierende-und-novierende-vereinbarungen",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1585c BGB",
+   "§ 1615l BGB",
+   "§ 1614 BGB"
+  ],
+  "frage": "Ordne die Unterhaltsvereinbarung ihrer Formanforderung zu.",
+  "paare": [
+   [
+    "Teilverzicht auf nachehelichen Unterhalt, geschlossen vor Rechtskraft der Scheidung",
+    "Notarielle Beurkundung erforderlich (§ 1585c S. 2 BGB)"
+   ],
+   [
+    "Änderung einer Unterhaltsvereinbarung nach Rechtskraft der Scheidung",
+    "Formfrei"
+   ],
+   [
+    "Vereinbarung über den Anspruch aus § 1615l BGB",
+    "Formfrei"
+   ],
+   [
+    "Formlos geschlossene Unterhaltsvereinbarung aus dem Jahr 2006",
+    "Bleibt wirksam, da vor dem 01.01.2008 keine Form galt"
+   ]
+  ],
+  "erklaerung": "Nach § 1585c S. 2 BGB bedarf jede vor Rechtskraft der Scheidung getroffene Vereinbarung über den nachehelichen Unterhalt der notariellen Beurkundung, auch ein Teilverzicht. Nach Rechtskraft der Scheidung sind Unterhaltsvereinbarungen formfrei, selbst wenn sie eine früher beurkundungspflichtige Vereinbarung ändern; ebenso Vereinbarungen zu § 1615l BGB. Altvereinbarungen aus der Zeit vor dem 01.01.2008 bleiben formlos wirksam."
+ },
+ {
+  "id": "fami2-068",
+  "kapitel": "familienrecht",
+  "abschnitt": "Scheidung, Unterhalt und Partnerschaften",
+  "seite": "Unterhaltsvereinbarungen: Form, modifizierende und novierende Vereinbarungen",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/unterhaltsvereinbarungen-form-modifizierende-und-novierende-vereinbarungen",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1585c BGB",
+   "§ 850b ZPO"
+  ],
+  "frage": "Welche Folge hat eine novierende Unterhaltsvereinbarung im Unterschied zu einer modifizierenden?",
+  "optionen": [
+   "Der Anspruch bleibt gesetzlicher Unterhalt und genießt weiter Pfändungs- und Insolvenzschutz",
+   "Der rein vertragliche Anspruch kann unabhängig von Bedürftigkeit bestehen, erlischt nicht bei Wiederheirat, verliert aber den Pfändungs- und Insolvenzschutz",
+   "Die Novation wirkt auch gegenüber vorrangig unterhaltsberechtigten Dritten und verbessert den Rang des Berechtigten",
+   "Die Novation ist auch beim Trennungsunterhalt zulässig, wenn sie beurkundet wird"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei der Novation ersetzen die Ehegatten den gesetzlichen Anspruch durch einen vertraglichen; das ist nur beim nachehelichen Unterhalt möglich. Der vertragliche Anspruch besteht unabhängig von Bedürftigkeit und Leistungsfähigkeit und erlischt nicht bei Wiederheirat, verliert aber den Schutz des gesetzlichen Unterhalts (§§ 850b, 850c ZPO, §§ 38, 40 InsO). Gegenüber nicht beteiligten Unterhaltsberechtigten wirkt die Novation nicht; Option 1 beschreibt die modifizierende Vereinbarung."
+ },
+ {
+  "id": "fami2-069",
+  "kapitel": "familienrecht",
+  "abschnitt": "Scheidung, Unterhalt und Partnerschaften",
+  "seite": "Unterhaltsvereinbarungen: Form, modifizierende und novierende Vereinbarungen",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/unterhaltsvereinbarungen-form-modifizierende-und-novierende-vereinbarungen",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1585c BGB"
+  ],
+  "frage": "Wird in einer Unterhaltsvereinbarung ein vertraglicher Unterhaltsanspruch begründet, ist er im Zweifel an Erfüllungs statt eingegangen und besteht daher fort, wenn der gesetzliche Anspruch wegfällt.",
+  "antwort": false,
+  "erklaerung": "Im Zweifel ist ein vertraglicher Unterhaltsanspruch nur erfüllungshalber, nicht an Erfüllungs statt begründet; fällt der gesetzliche Anspruch weg, erlischt regelmäßig auch der vertragliche (OLG Hamm, FamRZ 1999, 879). Der Wille, den Unterhalt von den gesetzlichen Voraussetzungen zu lösen, braucht besondere Anhaltspunkte. Deshalb ist der Novationswille ausdrücklich festzuhalten."
+ },
+ {
+  "id": "fami2-070",
+  "kapitel": "familienrecht",
+  "abschnitt": "Scheidung, Unterhalt und Partnerschaften",
+  "seite": "Unterhaltsvereinbarungen: Form, modifizierende und novierende Vereinbarungen",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/unterhaltsvereinbarungen-form-modifizierende-und-novierende-vereinbarungen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1585c S. 2 BGB"
+  ],
+  "frage": "Die Verlobten V und W wollen vor der Heirat vereinbaren, dass nachehelicher Unterhalt auf 1.500 € monatlich begrenzt wird. Welche Form ist erforderlich?",
+  "optionen": [
+   "Keine, weil § 1585c BGB nur für Ehegatten gilt",
+   "Schriftform genügt, weil die Ehe noch nicht besteht",
+   "Notarielle Beurkundung, weil § 1585c S. 2 BGB nach Sinn und Zweck auch Vereinbarungen von Verlobten erfasst",
+   "Notarielle Beurkundung nur, wenn die Vereinbarung in einen Ehevertrag aufgenommen wird"
+  ],
+  "antwort": 2,
+  "erklaerung": "Vereinbarungen über nachehelichen Unterhalt vor Rechtskraft der Scheidung bedürfen der notariellen Beurkundung (§ 1585c S. 2 BGB); erfasst ist jede den Unterhalt verändernde Abrede einschließlich Begrenzungen. Nach Sinn und Zweck gilt die Beurkundungspflicht auch für Verlobte und nichteheliche Lebensgefährten. Die Vereinbarung kann zeitlich jederzeit, also auch vor der Ehe, getroffen werden."
+ },
+ {
+  "id": "fami2-071",
+  "kapitel": "familienrecht",
+  "abschnitt": "Scheidung, Unterhalt und Partnerschaften",
+  "seite": "Versorgungsausgleich: Vereinbarungen",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/versorgungsausgleich-vereinbarungen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 8 Abs. 2 VersAusglG"
+  ],
+  "frage": "Die Ehegatten vereinbaren, dass die angestellte F 70 % ihrer in der Ehezeit erworbenen Rentenanrechte an M abgibt. Wie ist die Vereinbarung zu beurteilen?",
+  "optionen": [
+   "Zulässig, weil das Verbot des Supersplittings aufgehoben ist",
+   "Ohne Zustimmung des Versorgungsträgers unzulässig, weil eine Teilung über die Hälfte hinaus gegen § 8 Abs. 2 VersAusglG verstößt",
+   "Zulässig, wenn die Vereinbarung in der Form des § 1410 BGB beurkundet wird",
+   "Stets unzulässig, weil die Halbteilung zwingend ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Das frühere Supersplitting-Verbot gilt nicht mehr, weil jedes Anrecht für sich geteilt wird. Eine Teilung über die Hälfte hinaus ist aber ohne Zustimmung des Versorgungsträgers nicht möglich; eine Ausgleichsquote über 50 % verstößt ohne diese Zustimmung gegen § 8 Abs. 2 VersAusglG. Mit Zustimmung ist sie zulässig, weshalb Option 4 zu weit geht; die Form ändert an der Zustimmungsbedürftigkeit nichts."
+ },
+ {
+  "id": "fami2-072",
+  "kapitel": "familienrecht",
+  "abschnitt": "Scheidung, Unterhalt und Partnerschaften",
+  "seite": "Versorgungsausgleich: Vereinbarungen",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/versorgungsausgleich-vereinbarungen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1410 BGB",
+   "§ 7 VersAusglG"
+  ],
+  "frage": "Welche Form gilt für eine isolierte Vereinbarung über den Versorgungsausgleich, die vor Rechtskraft der Wertausgleichsentscheidung geschlossen wird?",
+  "optionen": [
+   "Schriftform",
+   "Notarielle Beurkundung bei gleichzeitiger Anwesenheit beider Ehegatten (§ 1410 BGB)",
+   "Notarielle Beurkundung; gleichzeitige Anwesenheit ist nur erforderlich, wenn die Vereinbarung Teil eines Ehevertrags ist",
+   "Keine Form, solange die Scheidung noch nicht rechtskräftig ist"
+  ],
+  "antwort": 2,
+  "erklaerung": "Vor Rechtskraft der Wertausgleichsentscheidung bedürfen Vereinbarungen der notariellen Beurkundung, die Form des § 1410 BGB ist aber nicht vorgeschrieben; die Ehegatten müssen nicht gleichzeitig anwesend sein. Ist die Vereinbarung Teil eines Ehevertrags, gilt § 1410 BGB. Formfrei sind Vereinbarungen erst nach Rechtskraft der Wertausgleichsentscheidung, nicht schon nach der Scheidung."
+ },
+ {
+  "id": "fami2-073",
+  "kapitel": "familienrecht",
+  "abschnitt": "Scheidung, Unterhalt und Partnerschaften",
+  "seite": "Versorgungsausgleich: Vereinbarungen",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/versorgungsausgleich-vereinbarungen",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 17 Abs. 2 BeurkG"
+  ],
+  "frage": "Hat der Notar Zweifel an der Wirksamkeit einer Vereinbarung über den Versorgungsausgleich, muss er die Beurkundung ablehnen.",
+  "antwort": false,
+  "erklaerung": "Der Notar prüft die Wirksamkeit (§ 17 Abs. 2 BeurkG), darf die Beurkundung aber nur bei sicherer Kenntnis der Unwirksamkeit ablehnen. Bloße Zweifel vermerkt er in der Urkunde; grundsätzlich darf er sich auf die Angaben der Beteiligten verlassen. Gerichtliche Auskunftsrechte gegenüber den Versorgungsträgern stehen ihm nicht zu."
+ },
+ {
+  "id": "fami2-074",
+  "kapitel": "familienrecht",
+  "abschnitt": "Scheidung, Unterhalt und Partnerschaften",
+  "seite": "Versorgungsausgleich: Vereinbarungen",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/versorgungsausgleich-vereinbarungen",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 6 VersAusglG"
+  ],
+  "frage": "Welche Gestaltung ist nach §§ 6 bis 8 VersAusglG grundsätzlich zulässig?",
+  "optionen": [
+   "Nur der vollständige Ausschluss des Versorgungsausgleichs",
+   "Ganzer oder teilweiser Ausschluss, Herausnahme einzelner Anrechte oder Ehezeiten sowie einseitiger Ausschluss",
+   "Nur die Herausnahme der gesetzlichen Rentenversicherung",
+   "Jede pauschale Musterregelung ohne Rücksicht auf den Einzelfall"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Ehegatten können über den Versorgungsausgleich grundsätzlich frei Vereinbarungen treffen: ganzer oder teilweiser Ausschluss, Herausnahme einzelner Anrechte oder Ehezeiten und einseitiger Ausschluss. Das Familiengericht ist daran gebunden, wenn die Vereinbarung der Inhalts- und Ausübungskontrolle standhält (§ 6 Abs. 2 VersAusglG). Pauschallösungen sind ungeeignet; jede Vereinbarung muss auf den Einzelfall zugeschnitten sein."
  }
 ]
