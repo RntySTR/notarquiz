@@ -757,5 +757,181 @@
   ],
   "antwort": 0,
   "erklaerung": "Beim Entwurf mit Unterschriftsbeglaubigung fällt eine Gebühr aus KV 24xxx GNotKG an. Fertigt der Notar den Entwurf vollständig, entspricht der Satz dem einer Beurkundung desselben Inhalts, da KV 24xxx auf KV 21xxx verweist; der Tatbestand ist ein anderer, der Satz derselbe. Die bloße Beglaubigungsgebühr gilt nur bei fremdem Entwurf."
+ },
+ {
+  "id": "kost4-033",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Auslagen: Dokumentenpauschale (KV 32000–32003 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/auslagen-dokumentenpauschale-kv-32000-32003-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 32000 GNotKG",
+   "KV 32001 GNotKG"
+  ],
+  "frage": "Ein Beteiligter beantragt drei Monate nach Abschluss des Beurkundungsverfahrens eine einfache Abschrift des 20-seitigen Kaufvertrags (schwarz-weiß). Welche Dokumentenpauschale fällt an?",
+  "optionen": [
+   "3,00 € nach KV 32001 GNotKG (0,15 € je Seite)",
+   "10,00 € nach KV 32000 GNotKG (0,50 € je Seite)",
+   "1,50 € nach KV 32002 GNotKG",
+   "Keine, da Abschriften eigener Urkunden pauschal abgegolten sind"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nachträgliche Abschriften nach Abschluss des Verfahrens fallen unter KV 32000 GNotKG, der für die ersten 50 Seiten schwarz-weiß 0,50 € je Seite vorsieht; der höhere Satz gilt den Mehraufwand bei abgelegten Urkunden ab. Der günstigere Satz von 0,15 € nach KV 32001 Nr. 2 GNotKG setzt voraus, dass der Antrag bis zur Aufnahme der Niederschrift vorliegt; verspätete Anträge fallen unter KV 32000."
+ },
+ {
+  "id": "kost4-034",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Auslagen: Dokumentenpauschale (KV 32000–32003 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/auslagen-dokumentenpauschale-kv-32000-32003-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 25102 GNotKG",
+   "KV 32000 GNotKG"
+  ],
+  "frage": "Fertigt der Notar eine beglaubigte Kopie eines fremden Dokuments, entsteht neben der Beglaubigungsgebühr nach KV 25102 GNotKG zusätzlich die Dokumentenpauschale.",
+  "antwort": false,
+  "erklaerung": "Neben der Beglaubigungsgebühr für fremde Dokumente (KV 25102 GNotKG) entsteht keine Dokumentenpauschale; der zusätzliche Ansatz ist ein typischer Fehler. Umgekehrt fällt für beglaubigte Kopien eigener Urkunden keine Beglaubigungsgebühr an (KV 25102 Anm. Abs. 2 Nr. 1 GNotKG), sodass dann die Dokumentenpauschale entsteht."
+ },
+ {
+  "id": "kost4-035",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Auslagen: Dokumentenpauschale (KV 32000–32003 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/auslagen-dokumentenpauschale-kv-32000-32003-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "KV 32002 GNotKG"
+  ],
+  "frage": "Der Notar versendet in einem Verfahren auf Antrag vier bereits als PDF vorliegende Dateien in einem Arbeitsgang per E-Mail. Welche Pauschale ist anzusetzen?",
+  "optionen": [
+   "6,00 € (4 × 1,50 €)",
+   "Die Mindestpauschale nach KV 32000 GNotKG für Schwarz-Weiß-Kopien je Seite",
+   "5,00 € als Höchstbetrag für mehrere Dateien in einem Arbeitsgang",
+   "Keine, da elektronische Dateien kostenfrei überlassen werden"
+  ],
+  "antwort": 2,
+  "erklaerung": "KV 32002 GNotKG sieht 1,50 € je Datei vor, bei mehreren Dateien in einem Arbeitsgang höchstens 5,00 €. Die Mindestpauschale in Höhe von KV 32000 GNotKG gilt nur, wenn ein Papierdokument auf Antrag eingescannt wird; bei bereits elektronisch vorliegenden Dateien ist ihr Ansatz ein typischer Fehler."
+ },
+ {
+  "id": "kost4-036",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Auslagen: Dokumentenpauschale (KV 32000–32003 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/auslagen-dokumentenpauschale-kv-32000-32003-gnotkg",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "KV 32000 GNotKG",
+   "KV 32001 GNotKG",
+   "KV 32002 GNotKG",
+   "KV 32003 GNotKG"
+  ],
+  "frage": "Ordne den Auslagentatbestand seinem Anwendungsbereich zu.",
+  "paare": [
+   [
+    "KV 32000 GNotKG",
+    "Abschriften auf besonderen Antrag außerhalb eines Beurkundungsverfahrens oder Entwurfsauftrags"
+   ],
+   [
+    "KV 32001 GNotKG",
+    "Vollzugsabschriften von Amts wegen und rechtzeitig beantragte Mehrfertigungen im Verfahren"
+   ],
+   [
+    "KV 32002 GNotKG",
+    "Überlassung elektronisch gespeicherter Dateien"
+   ],
+   [
+    "KV 32003 GNotKG",
+    "Kopien und Ausdrucke größer als DIN A3"
+   ]
+  ],
+  "erklaerung": "Die Dokumentenpauschale gliedert sich in vier Tatbestände: KV 32000 für gesondert beantragte Fertigungen außerhalb eines Verfahrens, KV 32001 als häufigster Praxisfall für Fertigungen von Amts wegen (Nr. 1) und rechtzeitig beantragte Mehrfertigungen (Nr. 2, 3), KV 32002 für elektronische Dateien und KV 32003 für Großformate, etwa bei Teilungserklärungen."
+ },
+ {
+  "id": "kost4-037",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Auslagen: Post, Telekommunikation und Reisekosten (KV 32004–32009 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/auslagen-post-telekommunikation-und-reisekosten-kv-32004-32009-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "KV 32005 GNotKG"
+  ],
+  "frage": "Wie hoch ist die Post- und Telekommunikationspauschale nach KV 32005 GNotKG?",
+  "optionen": [
+   "10 % der Gebühren, höchstens 20,00 €",
+   "20 % der Gebühren, höchstens 20,00 €",
+   "20 % der Gebühren, höchstens 50,00 €",
+   "Pauschal 20,00 € je Verfahren"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Pauschale beträgt 20 % der Gebühren des Verfahrens oder Geschäfts, höchstens 20,00 € (KV 32005 GNotKG); maßgeblich ist die Summe aus Verfahrens-, Vollzugs- und Betreuungsgebühr. Ein fester Betrag ist sie nicht: Der Höchstbetrag wird erst erreicht, wenn die Gebühren zusammen 100,00 € übersteigen, was bei Verträgen nach KV 21100 wegen der Mindestgebühr von 120,00 € stets der Fall ist."
+ },
+ {
+  "id": "kost4-038",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Auslagen: Post, Telekommunikation und Reisekosten (KV 32004–32009 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/auslagen-post-telekommunikation-und-reisekosten-kv-32004-32009-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "Vorb. 3.2 Abs. 2 KV GNotKG",
+   "KV 32006 GNotKG"
+  ],
+  "frage": "Fährt der Notar zur Beurkundung in ein Krankenhaus, das in seiner Amtssitzgemeinde liegt, kann er Fahrtkosten nach KV 32006 GNotKG berechnen.",
+  "antwort": false,
+  "erklaerung": "Eine Geschäftsreise liegt nur vor, wenn das Reiseziel außerhalb der politischen Gemeinde des Amtssitzes oder der Wohnung des Notars liegt (Vorb. 3.2 Abs. 2 KV GNotKG). Für Amtsgeschäfte in der Amtssitzgemeinde außerhalb der Geschäftsstelle gibt es keine Reisekosten; ihre Berechnung ist ein typischer Fehler."
+ },
+ {
+  "id": "kost4-039",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Auslagen: Post, Telekommunikation und Reisekosten (KV 32004–32009 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/auslagen-post-telekommunikation-und-reisekosten-kv-32004-32009-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 32006 GNotKG",
+   "KV 32009 GNotKG"
+  ],
+  "frage": "Der Notar fährt mit dem eigenen Pkw zu einer auswärtigen Beurkundung (Geschäftsreise) und zahlt am Zielort Parkgebühren. Wie wird abgerechnet?",
+  "optionen": [
+   "0,42 € je gefahrenen Kilometer; die Parkgebühren sind damit abgegolten",
+   "Tatsächliche Benzinkosten nach KV 32007 GNotKG zuzüglich Parkgebühren",
+   "0,30 € je Kilometer zuzüglich Abwesenheitsgeld",
+   "0,42 € je gefahrenen Kilometer zuzüglich angemessener Parkgebühren nach KV 32009 GNotKG"
+  ],
+  "antwort": 3,
+  "erklaerung": "Für das eigene Kfz erhält der Notar 0,42 € je gefahrenen Kilometer (KV 32006 GNotKG); damit sind nur Anschaffung, Unterhalt, Betrieb und Abnutzung abgegolten. Parkgebühren oder Maut sind nicht abgegolten und können in angemessener Höhe nach KV 32009 GNotKG verlangt werden. KV 32007 betrifft andere Verkehrsmittel wie Taxi oder ÖPNV."
+ },
+ {
+  "id": "kost4-040",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Auslagen: Post, Telekommunikation und Reisekosten (KV 32004–32009 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/auslagen-post-telekommunikation-und-reisekosten-kv-32004-32009-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 87 GNotKG",
+   "§ 10 BNotO",
+   "§ 10a BNotO"
+  ],
+  "frage": "Welcher Ort gilt kostenrechtlich zusätzlich zur zugewiesenen politischen Gemeinde als Amtssitz des Notars?",
+  "optionen": [
+   "Der gesamte Amtsgerichtsbezirk als Amtsbereich",
+   "Der gesamte Oberlandesgerichtsbezirk als Amtsbezirk",
+   "Ein Ort, an dem der Notar regelmäßig Sprechtage abhält",
+   "Jeder Ort, an dem der Notar bereits einmal beurkundet hat"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 87 GNotKG gilt kostenrechtlich auch ein Ort, an dem der Notar regelmäßig Sprechtage abhält, als Amtssitz; dorthin entstehen keine Reisekosten. Der Amtssitz (§ 10 BNotO) ist vom Amtsbereich (§ 10a BNotO, grundsätzlich Amtsgerichtsbezirk) und vom Amtsbezirk (§ 11 BNotO, OLG-Bezirk) zu unterscheiden; diese Bezirke sind nicht Amtssitz."
  }
 ]

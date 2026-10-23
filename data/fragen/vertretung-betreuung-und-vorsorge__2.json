@@ -313,5 +313,265 @@
   "frage": "Nach neuem Recht darf der Betreuer den gewöhnlichen Aufenthalt des Betreuten im Ausland und dessen Umgang nur bestimmen, wenn der Bestellungsbeschluss diese Aufgabenbereiche ausdrücklich nennt.",
   "antwort": true,
   "erklaerung": "Der Aufgabenkreis setzt sich aus einzeln angeordneten Aufgabenbereichen zusammen (§ 1815 Abs. 1 BGB). Neu ist, dass Aufenthaltsbestimmung im Ausland und Umgangsbestimmung nur bei ausdrücklicher Nennung im Beschluss zulässig sind; das soll dem Rechtsverkehr Klarheit geben."
+ },
+ {
+  "id": "vert2-016",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Rechtliche Betreuung: Verfügungen über selbstgenutzten Wohnraum (§ 1833 Abs. 3 S. 1 Nr. 4 BGB)",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-verfugungen-uber-selbstgenutzten-wohnraum-1833-abs-3-s-1-nr-4-bgb",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1833 Abs. 3 S. 1 Nr. 4 BGB",
+   "§ 1850 Nr. 1 BGB",
+   "§ 1862 Abs. 2 BGB"
+  ],
+  "frage": "Verkauf des Hauses der betreuten Mutter",
+  "sachverhalt": "Die betreute M bewohnt ihr Einfamilienhaus allein. Ihr Sohn S ist zum Betreuer mit dem Aufgabenkreis Vermögenssorge bestellt. Wegen zunehmender Pflegebedürftigkeit soll M in ein Pflegeheim ziehen, das Haus soll an K verkauft werden. S bittet den Notar um einen Kaufvertragsentwurf.",
+  "schritte": [
+   {
+    "frage": "Welche betreuungsgerichtliche Genehmigung kommt für den Verkauf neben § 1850 Nr. 1 BGB in Betracht?",
+    "optionen": [
+     "Keine weitere, da § 1850 Nr. 1 BGB jede Grundstücksverfügung abschließend erfasst.",
+     "Die Genehmigung nach § 1833 Abs. 3 S. 1 Nr. 4 BGB, weil die Verfügung mit der Aufgabe selbst genutzten Wohnraums verbunden ist.",
+     "Die Genehmigung des Familiengerichts nach § 1643 BGB.",
+     "Die Genehmigung nach § 1829 BGB, weil der Umzug gesundheitlich bedingt ist."
+    ],
+    "antwort": 1,
+    "erklaerung": "§ 1833 Abs. 3 S. 1 Nr. 4 BGB verlangt die Genehmigung des Betreuungsgerichts für Verfügungen über ein Grundstück, sofern dies mit der Aufgabe des vom Betreuten selbst genutzten Wohnraums verbunden ist. Daneben ist jede Grundstücksverfügung nach § 1850 Nr. 1 BGB genehmigungsbedürftig; § 1850 Nr. 1 BGB verdrängt den Tatbestand also nicht."
+   },
+   {
+    "frage": "Genügt der Aufgabenkreis von S für den Verkauf sicher?",
+    "optionen": [
+     "Ja, die Vermögenssorge deckt jede Grundstücksveräußerung.",
+     "Nein, erforderlich ist allein der Aufgabenbereich Wohnungsangelegenheiten.",
+     "Nicht sicher; S sollte neben der Vermögenssorge auch den Aufgabenbereich Wohnungsangelegenheiten haben.",
+     "Ja, sofern das Betreuungsgericht den Vertrag genehmigt."
+    ],
+    "antwort": 2,
+    "erklaerung": "Die Verfügung über selbst bewohnten Grundbesitz hat neben der vermögensrechtlichen auch eine persönliche Seite; die Vermögenssorge allein genügt möglicherweise nicht. Wohnungsangelegenheiten allein genügen ebenfalls nicht, da auch Vermögensfragen betroffen sind. Eine Genehmigung heilt einen zu engen Aufgabenkreis nicht; im Zweifel ist der Aufgabenkreis zu erweitern."
+   },
+   {
+    "frage": "Welche Pflicht trifft S hinsichtlich der geplanten Aufgabe des Wohnraums gegenüber dem Gericht?",
+    "optionen": [
+     "Er muss die geplante Aufgabe des Wohnraums dem Betreuungsgericht anzeigen.",
+     "Er muss nur das Grundbuchamt informieren.",
+     "Er muss die Zustimmung aller Geschwister einholen.",
+     "Keine, wenn M dem Umzug zustimmt."
+    ],
+    "antwort": 0,
+    "erklaerung": "Der Betreuer muss die geplante Aufgabe des Wohnraums dem Betreuungsgericht anzeigen; das Gericht kann im Verfahren nach § 1862 Abs. 2 BGB mit Geboten und Verboten eingreifen. Eine Zustimmung von Angehörigen ersetzt diese Anzeige nicht."
+   }
+  ],
+  "erklaerung": "Der Verkauf bedarf der Genehmigung nach § 1850 Nr. 1 BGB und nach § 1833 Abs. 3 S. 1 Nr. 4 BGB. S sollte neben der Vermögenssorge den Aufgabenbereich Wohnungsangelegenheiten haben; im Zweifel ist der Aufgabenkreis zu erweitern. Die Aufgabe des Wohnraums ist dem Betreuungsgericht anzuzeigen."
+ },
+ {
+  "id": "vert2-017",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Rechtliche Betreuung: Verfügungen über selbstgenutzten Wohnraum (§ 1833 Abs. 3 S. 1 Nr. 4 BGB)",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-verfugungen-uber-selbstgenutzten-wohnraum-1833-abs-3-s-1-nr-4-bgb",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1833 Abs. 3 S. 1 Nr. 4 BGB"
+  ],
+  "frage": "§ 1833 Abs. 3 S. 1 Nr. 4 BGB erfasst nur den Verkauf des Grundstücks, nicht dagegen die Löschung eines Wohnungsrechts oder Nießbrauchs des Betreuten.",
+  "antwort": false,
+  "erklaerung": "Der Tatbestand erfasst Verfügungen über ein Grundstück oder über ein Recht an einem Grundstück, sofern sie mit der Aufgabe des Wohnraums verbunden sind. Neben dem Verkauf fallen darunter etwa Löschung oder Rangrücktritt eines Wohnungsrechts, Nießbrauchs oder Dauerwohnrechts."
+ },
+ {
+  "id": "vert2-018",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Rechtliche Betreuung: Verfügungen über selbstgenutzten Wohnraum (§ 1833 Abs. 3 S. 1 Nr. 4 BGB)",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-verfugungen-uber-selbstgenutzten-wohnraum-1833-abs-3-s-1-nr-4-bgb",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1833 Abs. 3 S. 1 Nr. 4 BGB",
+   "§ 1850 Nr. 1, Nr. 5 BGB"
+  ],
+  "frage": "Der Betreuer verkauft ein seit Monaten leerstehendes Haus des Betreuten, das dieser früher bewohnt hat. Welche Vorgehensweise empfiehlt sich für den Genehmigungsantrag?",
+  "optionen": [
+   "Nur die Genehmigung nach § 1850 Nr. 1, Nr. 5 BGB beantragen, da § 1833 Abs. 3 BGB bei Leerstand nie gilt.",
+   "Neben § 1850 Nr. 1, Nr. 5 BGB vorsorglich auch die Genehmigung nach § 1833 Abs. 3 S. 1 Nr. 4 BGB beantragen.",
+   "Keine Genehmigung beantragen, wenn der Betreuer die Aufgabe des Wohnraums versichert.",
+   "Ausschließlich die Genehmigung nach § 1833 Abs. 3 S. 1 Nr. 4 BGB beantragen."
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei Leerstand ist § 1833 Abs. 3 S. 1 Nr. 4 BGB nur dann unanwendbar, wenn der Wohnraum zuvor wirksam aufgegeben wurde, also vom Betreuten selbst oder vom Betreuer nach gerichtlicher Kontrolle. Deshalb sollte neben § 1850 Nr. 1, Nr. 5 BGB vorsorglich auch die Genehmigung nach § 1833 Abs. 3 S. 1 Nr. 4 BGB beantragt werden; das Gericht prüft dann die wirksame Aufgabe. Die Annahme, Leerstand schließe die Norm stets aus, übersieht die vom Betreuer ohne Kontrolle veranlasste Aufgabe."
+ },
+ {
+  "id": "vert2-019",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Rechtliche Betreuung: Vertretung, Geschäftsfähigkeit und Ende der Betreuung",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-vertretung-geschaftsfahigkeit-und-ende-der-betreuung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1823 BGB",
+   "§ 105 BGB"
+  ],
+  "frage": "Welche Wirkung hat die Bestellung eines Betreuers auf die Geschäftsfähigkeit des Betreuten?",
+  "optionen": [
+   "Der Betreute wird beschränkt geschäftsfähig wie ein Minderjähriger.",
+   "Der Betreute wird im Aufgabenkreis des Betreuers geschäftsunfähig.",
+   "Die Bestellung ändert an der Geschäftsfähigkeit nichts.",
+   "Der Betreute wird geschäftsunfähig, bis die Betreuung aufgehoben wird."
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Bestellung eines Betreuers lässt die Geschäftsfähigkeit unberührt; ein geschäftsfähiger Betreuter kann selbst wirksam Verträge schließen. Nichtig sind seine Willenserklärungen nur, wenn er nach § 104 Nr. 2 BGB tatsächlich geschäftsunfähig ist (§ 105 BGB). Eine automatische Geschäftsunfähigkeit im Aufgabenkreis gibt es nicht."
+ },
+ {
+  "id": "vert2-020",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Rechtliche Betreuung: Vertretung, Geschäftsfähigkeit und Ende der Betreuung",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-vertretung-geschaftsfahigkeit-und-ende-der-betreuung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 294 Abs. 3 FamFG"
+  ],
+  "frage": "Eine Betreuung wurde gegen den erklärten Willen des Betroffenen angeordnet. Wann muss das Gericht erstmals über ihre Aufhebung entscheiden?",
+  "optionen": [
+   "Spätestens zwei Jahre nach der Anordnung",
+   "Spätestens sieben Jahre nach der Anordnung",
+   "Spätestens ein Jahr nach der Anordnung",
+   "Nur auf Antrag des Betroffenen"
+  ],
+  "antwort": 0,
+  "erklaerung": "Regelmäßig muss über die Aufhebung binnen sieben Jahren ab Anordnung entschieden werden (§ 294 Abs. 3 S. 1 FamFG). Wurde die Betreuung gegen den erklärten Willen des Betroffenen angeordnet, ist erstmals spätestens nach zwei Jahren zu entscheiden (§ 294 Abs. 3 S. 2 FamFG). Die Sieben-Jahres-Frist ist also die Regel, nicht die hier einschlägige Ausnahme."
+ },
+ {
+  "id": "vert2-021",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Rechtliche Betreuung: Vertretung, Geschäftsfähigkeit und Ende der Betreuung",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-vertretung-geschaftsfahigkeit-und-ende-der-betreuung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1868 BGB"
+  ],
+  "frage": "Mit der Entlassung des Betreuers nach § 1868 BGB endet zugleich die Betreuung als solche.",
+  "antwort": false,
+  "erklaerung": "Nach der Entlassung bestellt das Gericht einen neuen Betreuer; die Betreuung als solche besteht fort. Die Betreuung endet erst mit ihrer Aufhebung nach § 1871 Abs. 1 BGB, wenn ihre Voraussetzungen wegfallen."
+ },
+ {
+  "id": "vert2-022",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Rechtliche Betreuung: Vertretung, Geschäftsfähigkeit und Ende der Betreuung",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-vertretung-geschaftsfahigkeit-und-ende-der-betreuung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 290 FamFG",
+   "§ 12 BeurkG"
+  ],
+  "frage": "Ein Betreuer handelt in einer notariellen Urkunde für den Betreuten. Wie ist mit seiner Bestellungsurkunde zu verfahren?",
+  "optionen": [
+   "Sie wird nur in der Urkunde erwähnt, eine Beifügung ist entbehrlich.",
+   "Eine beglaubigte Abschrift wird der Urkunde beigefügt; anhand der Urkunde wird die Deckung des Geschäfts durch die Aufgabenbereiche geprüft.",
+   "Das Original wird der Urkunde dauerhaft beigeheftet.",
+   "Sie ist nur auf Verlangen des Grundbuchamts nachzureichen."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 12 BeurkG wird eine beglaubigte Abschrift der Bestellungsurkunde (§ 290 FamFG) der Niederschrift beigefügt. Die Bestellungsurkunde weist Aufgabenkreis und Aufgabenbereiche aus; an ihr prüft der Notar, ob das Geschäft gedeckt ist. Eine bloße Erwähnung in der Urkunde genügt daher nicht."
+ },
+ {
+  "id": "vert2-023",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Rechtliche Betreuung: Voraussetzungen, Umfang und Betreuerauswahl",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-voraussetzungen-umfang-und-betreuerauswahl",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1814 Abs. 4 BGB"
+  ],
+  "frage": "Ein Volljähriger kann seine Angelegenheiten allein wegen einer körperlichen Behinderung nicht besorgen; er kann seinen Willen kundtun. Wann wird ein Betreuer bestellt?",
+  "optionen": [
+   "Von Amts wegen, sobald das Gericht davon erfährt.",
+   "Nur auf Antrag des Betroffenen.",
+   "Auf Antrag eines Ehegatten oder Kindes.",
+   "Nur, wenn zusätzlich ein Sachverständiger die Geschäftsunfähigkeit feststellt."
+  ],
+  "antwort": 1,
+  "erklaerung": "Grundsätzlich wird ein Betreuer auf Antrag oder von Amts wegen bestellt (§ 1814 Abs. 4 BGB). Bei nur körperlicher Krankheit oder Behinderung ist die Bestellung nur auf Antrag des Betroffenen zulässig, außer er kann seinen Willen nicht kundtun (§ 1814 Abs. 4 S. 2 BGB). Ein Verfahren von Amts wegen scheidet hier daher aus."
+ },
+ {
+  "id": "vert2-024",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Rechtliche Betreuung: Voraussetzungen, Umfang und Betreuerauswahl",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-voraussetzungen-umfang-und-betreuerauswahl",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1816 BGB",
+   "§ 287 FamFG",
+   "§ 280 Abs. 1 FamFG"
+  ],
+  "frage": "Ordne die Regeln zur Betreuerbestellung der zutreffenden Aussage zu.",
+  "paare": [
+   [
+    "Vorschlag des Betroffenen (§ 1816 Abs. 2 BGB)",
+    "Bindet das Gericht, wenn die Person geeignet ist; ein natürlicher Wille genügt."
+   ],
+   [
+    "Ehrenamtlicher Betreuer (§ 1816 Abs. 5 BGB)",
+    "Geht einem beruflichen Betreuer bei gleicher Eignung vor."
+   ],
+   [
+    "Wirksamwerden (§ 287 Abs. 1 FamFG)",
+    "Mit Bekanntgabe des Beschlusses an den Betreuer."
+   ],
+   [
+    "Sachverständigengutachten (§ 280 Abs. 1 FamFG)",
+    "Verfahrensvoraussetzung der Betreuerbestellung."
+   ]
+  ],
+  "erklaerung": "Der Vorschlag des Betroffenen bindet bei Eignung der Person, wobei ein natürlicher Wille ausreicht (§ 1816 Abs. 2 BGB). Ehrenamtliche Betreuer haben bei gleicher Eignung Vorrang (§ 1816 Abs. 5 BGB). Die Betreuung wird mit Bekanntgabe an den Betreuer wirksam (§ 287 Abs. 1 FamFG), und vor der Bestellung ist ein Sachverständigengutachten einzuholen (§ 280 Abs. 1 S. 1 FamFG)."
+ },
+ {
+  "id": "vert2-025",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Rechtliche Betreuung: Voraussetzungen, Umfang und Betreuerauswahl",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-voraussetzungen-umfang-und-betreuerauswahl",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 29 GBO"
+  ],
+  "frage": "V hat seiner Tochter privatschriftlich eine Vorsorgevollmacht erteilt und ist inzwischen geschäftsunfähig. Die Tochter will ein Grundstück des V verkaufen. Was ist nach der Darstellung erforderlich?",
+  "optionen": [
+   "Die Tochter kann aufgrund der privatschriftlichen Vollmacht auftreten, das Grundbuchamt prüft die Form nicht.",
+   "V kann die Vollmacht vor dem Notar nachträglich beglaubigen lassen.",
+   "Für das Geschäft ist ein Betreuer zu bestellen, da das Grundbuchamt grundsätzlich öffentliche Beglaubigung verlangt.",
+   "Es genügt eine eidesstattliche Versicherung der Tochter über die Echtheit der Unterschrift."
+  ],
+  "antwort": 2,
+  "erklaerung": "Das Grundbuchamt verlangt grundsätzlich die Form des § 29 GBO, also öffentliche Beglaubigung der Vollmacht. Fehlt die Form und ist der Vollmachtgeber inzwischen geschäftsunfähig, kann sie nicht mehr nachgeholt werden; dann ist für das Geschäft ein Betreuer zu bestellen. Eine nachträgliche Beglaubigung durch den geschäftsunfähigen V scheidet aus."
+ },
+ {
+  "id": "vert2-026",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Rechtliche Betreuung: Voraussetzungen, Umfang und Betreuerauswahl",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-voraussetzungen-umfang-und-betreuerauswahl",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1814 Abs. 1 BGB"
+  ],
+  "frage": "Liegt eine ausreichende Vorsorgevollmacht vor, kann trotzdem ein Betreuer erforderlich sein, etwa wenn der Bevollmächtigte die Vollmacht nicht ausüben will.",
+  "antwort": true,
+  "erklaerung": "Die Betreuung ist gegenüber einer ausreichenden Vollmacht nachrangig. Trotz umfassender Vollmacht kann ein Betreuer nötig sein, etwa wenn die Vollmacht wegen familiären Streits nicht anerkannt wird oder der Bevollmächtigte sie nicht ausüben will."
  }
 ]

@@ -1,0 +1,297 @@
+[
+ {
+  "id": "wohn4-001",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Veräußerungsbeschränkung nach § 12 WEG: Vereinbarung, Grenzen und Aufhebung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verausserungsbeschrankung-nach-12-weg-vereinbarung-grenzen-und-aufhebung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 12 Abs. 2 S. 1 WEG"
+  ],
+  "frage": "Unter welcher Voraussetzung darf die nach § 12 WEG erforderliche Zustimmung zur Veräußerung einer Einheit versagt werden?",
+  "optionen": [
+   "Nur aus einem wichtigen Grund, der in der Person des Erwerbers liegt",
+   "Aus jedem sachlichen Grund, den die Gemeinschaftsordnung näher bestimmen darf",
+   "Bei jedem Zahlungsrückstand des veräußernden Eigentümers mit dem Hausgeld",
+   "Nach freiem Ermessen des Verwalters, soweit kein Rechtsmissbrauch vorliegt"
+  ],
+  "antwort": 0,
+  "erklaerung": "Nach § 12 Abs. 2 S. 1 WEG darf die Zustimmung nur aus einem wichtigen Grund versagt werden; dieser muss in der Person des Erwerbers liegen. Die Beschränkung ist unabdingbar, sodass die Gemeinschaftsordnung keine weiteren Versagungsgründe festlegen kann. Gründe in der Person des Veräußerers, etwa Hausgeldrückstände, tragen eine Versagung daher nicht."
+ },
+ {
+  "id": "wohn4-002",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Veräußerungsbeschränkung nach § 12 WEG: Vereinbarung, Grenzen und Aufhebung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verausserungsbeschrankung-nach-12-weg-vereinbarung-grenzen-und-aufhebung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 7 Abs. 3 S. 2 WEG",
+   "§ 3 Abs. 2 WGV"
+  ],
+  "frage": "Die Eintragung einer Veräußerungsbeschränkung nach § 12 WEG im Grundbuch ist nur für die Wirkung gegenüber Sondernachfolgern erforderlich; im Verhältnis der Eigentümer untereinander wirkt die Beschränkung bereits aufgrund der Vereinbarung.",
+  "antwort": false,
+  "erklaerung": "Die Eintragung ist Wirksamkeitsvoraussetzung der Veräußerungsbeschränkung, und zwar auch im Verhältnis der Eigentümer untereinander. Sie muss ausdrücklich im Bestandsverzeichnis erfolgen (§ 7 Abs. 3 S. 2 WEG; § 3 Abs. 2 WGV). Die Vorstellung, die Eintragung wirke nur gegenüber Sondernachfolgern, überträgt die Regel des § 10 Abs. 3 WEG für sonstige Vereinbarungen fälschlich auf § 12 WEG."
+ },
+ {
+  "id": "wohn4-003",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Veräußerungsbeschränkung nach § 12 WEG: Vereinbarung, Grenzen und Aufhebung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verausserungsbeschrankung-nach-12-weg-vereinbarung-grenzen-und-aufhebung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 12 Abs. 4 S. 1 WEG",
+   "§ 12 Abs. 4 S. 2 WEG"
+  ],
+  "frage": "Wie wird eine im Grundbuch eingetragene Veräußerungsbeschränkung nach § 12 WEG aufgehoben?",
+  "optionen": [
+   "Durch Vereinbarung aller Eigentümer; erst die Löschung im Grundbuch lässt die Beschränkung entfallen",
+   "Durch Beschluss mit einfacher Mehrheit; die anschließende Löschung im Grundbuch wirkt nur deklaratorisch",
+   "Durch Beschluss mit doppelt qualifizierter Mehrheit; die Löschung wirkt konstitutiv",
+   "Durch Beschluss mit einfacher Mehrheit; die Löschung ist entbehrlich, weil das Grundbuchamt die Beschränkung nicht von Amts wegen beachtet"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 12 Abs. 4 S. 1 WEG genügt ein Beschluss mit einfacher Mehrheit; dieser wirkt konstitutiv. Die Löschung nach § 12 Abs. 4 S. 2 WEG ist nur deklaratorisch, zur Vermeidung von Missverständnissen aber notwendig, weil das Grundbuchamt eine eingetragene Beschränkung von Amts wegen beachtet. Eine Vereinbarung aller Eigentümer ist nicht erforderlich."
+ },
+ {
+  "id": "wohn4-004",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Veräußerungsbeschränkung nach § 12 WEG: Vereinbarung, Grenzen und Aufhebung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verausserungsbeschrankung-nach-12-weg-vereinbarung-grenzen-und-aufhebung",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 12 Abs. 4 WEG",
+   "§ 13 Abs. 1 GBO",
+   "§ 29 GBO"
+  ],
+  "frage": "Löschung einer aufgehobenen Veräußerungsbeschränkung",
+  "sachverhalt": "In der Anlage „Am Kirchberg“ ist in allen Wohnungsgrundbüchern eine Veräußerungsbeschränkung nach § 12 WEG eingetragen. Die Eigentümerversammlung hebt sie mit einfacher Mehrheit auf. Eigentümer E möchte die Löschung selbst beim Grundbuchamt beantragen, um seine Wohnung zügig verkaufen zu können. Verwalterin V-GmbH bietet an, den Antrag für die Gemeinschaft zu stellen.",
+  "schritte": [
+   {
+    "frage": "Welches Dokument genügt als Unrichtigkeitsnachweis in der Form des § 29 GBO?",
+    "optionen": [
+     "Ein vom Verwalter unterschriebener, nicht beglaubigter Auszug aus der Beschluss-Sammlung",
+     "Die Beschlussniederschrift mit öffentlich beglaubigten Unterschriften der in § 24 Abs. 6 WEG genannten Personen",
+     "Eine notariell beurkundete Bewilligung allein des Verwalters",
+     "Eine eidesstattliche Versicherung des Versammlungsleiters über das Abstimmungsergebnis"
+    ],
+    "antwort": 1,
+    "erklaerung": "Nach § 12 Abs. 4 S. 3 WEG i.V.m. § 7 Abs. 2 S. 1 WEG wird der Nachweis durch die Beschlussniederschrift mit öffentlich beglaubigten Unterschriften der in § 24 Abs. 6 WEG genannten Personen geführt. Alternativ ist eine Löschung aufgrund Bewilligung aller Eigentümer möglich, nicht aber aufgrund einer Bewilligung allein des Verwalters."
+   },
+   {
+    "frage": "Wer ist zur Stellung des Löschungsantrags berechtigt?",
+    "optionen": [
+     "Nur die GdWE, vertreten durch den Verwalter",
+     "Jeder Eigentümer, aber nur für das Grundbuchblatt seiner eigenen Einheit",
+     "Die GdWE, vertreten durch den Verwalter, und jeder Eigentümer für alle Einheiten",
+     "Nur sämtliche Eigentümer gemeinschaftlich"
+    ],
+    "antwort": 2,
+    "erklaerung": "Antragsberechtigt ist die GdWE (§ 12 Abs. 4 S. 3 WEG i.V.m. § 7 Abs. 2 S. 2 WEG), vertreten durch den Verwalter (§ 9b Abs. 1 S. 1 WEG). Nach der Seite ist auch jeder Eigentümer antragsberechtigt, und zwar für alle Einheiten; ein auf das eigene Blatt beschränktes Antragsrecht wäre systemfremd, weil die Beschränkung nicht nur für einzelne Einheiten aufgehoben werden kann."
+   },
+   {
+    "frage": "Was muss die V-GmbH dem Grundbuchamt zusätzlich nachweisen, wenn sie den Antrag für die GdWE stellt?",
+    "optionen": [
+     "Ihre Bestellung durch ein öffentlich beglaubigtes Protokoll",
+     "Eine notariell beurkundete Vollmacht aller Eigentümer",
+     "Ihre Eintragung im Handelsregister als Verwalterin",
+     "Nichts, da der Verwalter kraft Gesetzes ohne Nachweis handelt"
+    ],
+    "antwort": 0,
+    "erklaerung": "Der Verwalter vertritt die GdWE nach § 9b Abs. 1 S. 1 WEG und weist seine Bestellung durch ein öffentlich beglaubigtes Protokoll nach. Eine Vollmacht aller Eigentümer ist nicht erforderlich, weil er als Organ der Gemeinschaft handelt."
+   }
+  ],
+  "erklaerung": "Der Mehrheitsbeschluss hat die Beschränkung bereits konstitutiv beseitigt; die Löschung ist deklaratorisch. Nachweis ist die beglaubigte Beschlussniederschrift. Antragsberechtigt sind die GdWE durch die V-GmbH, die ihre Bestellung durch beglaubigtes Protokoll nachweist, und auch E für alle Einheiten."
+ },
+ {
+  "id": "wohn4-005",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Veräußerungsbeschränkung nach § 12 WEG: Vereinbarung, Grenzen und Aufhebung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verausserungsbeschrankung-nach-12-weg-vereinbarung-grenzen-und-aufhebung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Ein Bauträger möchte in der Gemeinschaftsordnung einer größeren Anlage sicherstellen, dass der Verwalter von jedem Eigentümerwechsel erfährt. Welche Gestaltung entspricht der Empfehlung?",
+  "optionen": [
+   "Eine Veräußerungsbeschränkung mit Zustimmung des Verwalters für jede Veräußerung",
+   "Eine Veräußerungsbeschränkung mit Zustimmung aller übrigen Eigentümer",
+   "Eine Pflicht, den Verwalter über jede Veräußerung zu unterrichten, ohne Zustimmungsvorbehalt",
+   "Eine Veräußerungsbeschränkung, die nur Erwerber ausländischer Staatsangehörigkeit erfasst"
+  ],
+  "antwort": 2,
+  "erklaerung": "Von einer Veräußerungsbeschränkung ist in der Regel abzuraten, weil sie den Vollzug von Kaufverträgen verzögert und verteuert, ohne entsprechenden Nutzen; allenfalls bei sehr kleinen Anlagen kann sie sinnvoll sein. Die Information des Verwalters lässt sich einfacher durch eine Unterrichtungspflicht in der Gemeinschaftsordnung sichern. Eine an die Staatsangehörigkeit anknüpfende Beschränkung verstieße zudem gegen § 138 BGB."
+ },
+ {
+  "id": "wohn4-006",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Vereinbarung der Wohnungseigentümer: Begriff, Form und Abgrenzung zum Beschluss",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/vereinbarung-der-wohnungseigentumer-begriff-form-und-abgrenzung-zum-beschluss",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 23 Abs. 1 WEG",
+   "§ 25 Abs. 1 WEG"
+  ],
+  "frage": "Welche Rechtsfolge hat ein Mehrheitsbeschluss der Wohnungseigentümer über eine Angelegenheit, für die weder das WEG noch eine Vereinbarung eine Beschlusskompetenz begründet?",
+  "optionen": [
+   "Er ist schwebend unwirksam bis zur Zustimmung der überstimmten Eigentümer",
+   "Er ist wirksam, aber innerhalb der Anfechtungsfrist anfechtbar",
+   "Er ist grundsätzlich nichtig",
+   "Er wirkt als Vereinbarung, wenn er in das Grundbuch eingetragen wird"
+  ],
+  "antwort": 2,
+  "erklaerung": "Mit Mehrheit kann nur über Angelegenheiten entschieden werden, für die das WEG oder eine Vereinbarung eine Beschlusskompetenz begründet (§ 23 Abs. 1 WEG). Fehlt sie, ist der Beschluss grundsätzlich nichtig und nicht nur anfechtbar (BGH, NJW 2000, 3500). Die naheliegende Annahme bloßer Anfechtbarkeit verkennt, dass es sich um einen Kompetenzmangel und nicht um einen bloßen Inhaltsfehler handelt."
+ },
+ {
+  "id": "wohn4-007",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Vereinbarung der Wohnungseigentümer: Begriff, Form und Abgrenzung zum Beschluss",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/vereinbarung-der-wohnungseigentumer-begriff-form-und-abgrenzung-zum-beschluss",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 10 Abs. 3 S. 1 WEG",
+   "§ 29 GBO"
+  ],
+  "frage": "Eine Vereinbarung der Wohnungseigentümer bedarf zu ihrer Wirksamkeit der notariellen Beurkundung.",
+  "antwort": false,
+  "erklaerung": "Eine Vereinbarung ist formfrei wirksam; sie erfordert grundsätzlich nur die Mitwirkung aller Wohnungseigentümer. Gegen Sondernachfolger wirkt sie allerdings nur nach Eintragung im Grundbuch (§ 10 Abs. 3 S. 1 WEG), wofür die Unterschriften aller Wohnungseigentümer mindestens öffentlich zu beglaubigen sind (§ 29 GBO). Die Form betrifft also nur die Eintragung, nicht die Wirksamkeit."
+ },
+ {
+  "id": "wohn4-008",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Vereinbarung der Wohnungseigentümer: Begriff, Form und Abgrenzung zum Beschluss",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/vereinbarung-der-wohnungseigentumer-begriff-form-und-abgrenzung-zum-beschluss",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 8 Abs. 2 WEG",
+   "§ 5 Abs. 4 S. 1 WEG"
+  ],
+  "frage": "Welche Rechtsqualität hat eine Gemeinschaftsordnung, die der aufteilende Bauträger bei der Teilung nach § 8 WEG allein festsetzt?",
+  "optionen": [
+   "Sie steht über § 8 Abs. 2 WEG i.V.m. § 5 Abs. 4 S. 1 WEG einer Vereinbarung gleich",
+   "Sie gilt als Beschluss und kann daher mit Mehrheit geändert werden",
+   "Sie ist eine einseitige Weisung, die erst durch Bestätigung aller Erwerber zur Vereinbarung wird",
+   "Sie gilt als Vereinbarung, unterliegt aber als vorformulierte Regelung der AGB-Kontrolle nach §§ 305 ff. BGB"
+  ],
+  "antwort": 0,
+  "erklaerung": "§ 8 Abs. 2 WEG stellt die einseitige Festsetzung über die Verweisung auf § 5 Abs. 4 S. 1 WEG einer Vereinbarung gleich; zwischen einseitig gesetzter und von allen Eigentümern vereinbarter Gemeinschaftsordnung besteht kein Unterschied. Eine Bestätigung durch die Erwerber ist nicht erforderlich. Mit Mehrheit änderbar ist sie gerade nicht, weil sie kein Beschluss ist."
+ },
+ {
+  "id": "wohn4-009",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Vereinbarung der Wohnungseigentümer: Begriff, Form und Abgrenzung zum Beschluss",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/vereinbarung-der-wohnungseigentumer-begriff-form-und-abgrenzung-zum-beschluss",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [],
+  "frage": "Alle Wohnungseigentümer stimmen in der Versammlung einer Regelung zu und bezeichnen sie im Protokoll eindeutig als „Beschluss“; inhaltlich hätte es einer Vereinbarung bedurft. Wie ist die Regelung zu behandeln?",
+  "optionen": [
+   "Sie ist wegen Allstimmigkeit stets in eine Vereinbarung umzudeuten",
+   "Die gewählte Form ist zu respektieren; die Regelung kann daher wegen unzulässiger Form unwirksam sein",
+   "Maßgeblich ist allein der Inhalt, sodass ohne Weiteres eine Vereinbarung vorliegt",
+   "Sie ist wirksam, weil die Eigentümer zwischen beiden Formen frei wählen können"
+  ],
+  "antwort": 1,
+  "erklaerung": "Ob Vereinbarung oder Beschluss vorliegt, ist durch Auslegung zu ermitteln; vom Inhalt kann nicht ohne Weiteres auf die Form geschlossen werden. Haben die Eigentümer eindeutig eine Form gewählt, ist dies zu respektieren, sodass die Regelung gegebenenfalls wegen unzulässiger Form unwirksam ist. Ein freies Wahlrecht zwischen den Formen besteht nicht, weil das Gesetz die erforderliche Form bestimmt. Praktisch sollte deshalb ausdrücklich festgehalten werden, welche Form gewollt ist."
+ },
+ {
+  "id": "wohn4-010",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Vereinbarung der Wohnungseigentümer: Inhalt und Grenzen der Gemeinschaftsordnung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/vereinbarung-der-wohnungseigentumer-inhalt-und-grenzen-der-gemeinschaftsordnung",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 138 BGB",
+   "§ 242 BGB"
+  ],
+  "frage": "Eine vom Bauträger einseitig errichtete Gemeinschaftsordnung unterliegt der AGB-Kontrolle nach §§ 305 ff. BGB.",
+  "antwort": false,
+  "erklaerung": "Die §§ 305 ff. BGB gelten für die Gemeinschaftsordnung nicht, auch nicht bei einseitiger Errichtung durch den Bauträger. Sie unterliegt aber einer Inhaltskontrolle nach §§ 138, 242 BGB (BGH, NZM 2021, 278). Wer die AGB-Kontrolle annimmt, verwechselt die vorformulierte Gestaltung mit einem Vertrag im Sinne der §§ 305 ff. BGB."
+ },
+ {
+  "id": "wohn4-011",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Vereinbarung der Wohnungseigentümer: Inhalt und Grenzen der Gemeinschaftsordnung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/vereinbarung-der-wohnungseigentumer-inhalt-und-grenzen-der-gemeinschaftsordnung",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 10 Abs. 1 S. 2 WEG"
+  ],
+  "frage": "Ordne die Regelungen in einer Gemeinschaftsordnung ihrer rechtlichen Beurteilung zu.",
+  "paare": [
+   [
+    "Außergerichtliches Güteverfahren vor Streitigkeiten in der Gemeinschaft",
+    "Zulässig als Voraussetzung für Streitigkeiten"
+   ],
+   [
+    "Zugang der Einladung durch Absendung an die zuletzt dem Verwalter mitgeteilte Anschrift",
+    "Zulässig als Regel für die ordnungsmäßige Einberufung"
+   ],
+   [
+    "Ausschluss von der Versammlung bei Verzug mit Wohngeld",
+    "Nichtig, da die Mitgliedschaftsstellung ausgehöhlt wird"
+   ],
+   [
+    "Dingliches Vorkaufsrecht zugunsten eines Dritten",
+    "Unzulässig, da Rechtsbeziehung zu Dritten"
+   ]
+  ],
+  "erklaerung": "Zulässig sind Vereinbarungen jeder Art, soweit sie das Verhältnis der Eigentümer untereinander betreffen (§ 10 Abs. 1 S. 2 WEG); dazu zählen Güteverfahren und Zugangserleichterungen für die Einberufung. Der Versammlungsausschluss bei Wohngeldverzug ist nichtig, weil er die Mitgliedschaftsstellung aushöhlt (BGH, NJW 2011, 679). Ein Vorkaufsrecht für einen Dritten betrifft eine Rechtsbeziehung zu Dritten und kann nicht Gegenstand einer Vereinbarung sein."
+ },
+ {
+  "id": "wohn4-012",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Vereinbarung der Wohnungseigentümer: Inhalt und Grenzen der Gemeinschaftsordnung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/vereinbarung-der-wohnungseigentumer-inhalt-und-grenzen-der-gemeinschaftsordnung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [],
+  "frage": "Das Grundstück einer Wohnungseigentumsanlage ist herrschendes Grundstück eines Wegerechts an einem Nachbargrundstück. Was kann die Gemeinschaftsordnung insoweit regeln?",
+  "optionen": [
+   "Nichts, weil jede Regelung mit Bezug zum Nachbargrundstück eine unzulässige Rechtsbeziehung zu Dritten ist",
+   "Allgemeine Gebrauchsregeln für das gesamte Nachbargrundstück, die auch dessen Eigentümer binden",
+   "Die Nutzung der Grunddienstbarkeit durch die Eigentümer, auch über ein Sondernutzungsrecht",
+   "Nur die Kostenverteilung, nicht aber die Nutzung der Dienstbarkeit"
+  ],
+  "antwort": 2,
+  "erklaerung": "Rechtsbeziehungen zu Dritten, etwa Gebrauchsregeln für ein Nachbargrundstück, können nicht Gegenstand einer Vereinbarung sein. Ist das Grundstück der Gemeinschaft aber herrschendes Grundstück einer Grunddienstbarkeit an fremdem Grund, kann deren Nutzung in der Gemeinschaftsordnung geregelt werden, auch über ein Sondernutzungsrecht. Die Regelung betrifft dann nur das Verhältnis der Eigentümer untereinander und bindet den Eigentümer des dienenden Grundstücks nicht."
+ },
+ {
+  "id": "wohn4-013",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Vereinbarung der Wohnungseigentümer: Inhalt und Grenzen der Gemeinschaftsordnung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/vereinbarung-der-wohnungseigentumer-inhalt-und-grenzen-der-gemeinschaftsordnung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Warum ist bei der Erstaufteilung die Zustimmung dinglich Berechtigter zur Gemeinschaftsordnung meist entbehrlich?",
+  "optionen": [
+   "Weil dinglich Berechtigte der Gemeinschaftsordnung nach dem WEG generell nicht zustimmen müssen",
+   "Weil das Grundstück entweder noch unbelastet ist oder sich eine Belastung als Gesamtrecht an allen Einheiten fortsetzt",
+   "Weil die Gemeinschaftsordnung bei der Erstaufteilung noch nicht in das Grundbuch eingetragen wird",
+   "Weil der Bauträger als teilender Eigentümer die Grundpfandgläubiger kraft Gesetzes vertritt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei der Erstaufteilung ist entweder das Grundstück noch unbelastet, oder eine bestehende Belastung setzt sich als Gesamtrecht an allen Einheiten fort; eine Beeinträchtigung einzelner Berechtigter durch die Gemeinschaftsordnung scheidet damit aus. Eine generelle Entbehrlichkeit besteht nicht: Bei späteren Änderungen der Gemeinschaftsordnung kann die Zustimmung dinglich Berechtigter erforderlich werden."
+ }
+]

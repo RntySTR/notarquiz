@@ -481,7 +481,8 @@ function renderSitzung() {
 function mcHtml(q, schritt) {
   const f = schritt || q;
   if (q.typ === 'rf' && !schritt) return `<div class="frage">${esc(f.frage)}</div><div class="optionen rf"><button class="option" data-i="1"><span class="txt">Richtig</span></button><button class="option" data-i="0"><span class="txt">Falsch</span></button></div><div id="aufl"></div>`;
-  const perm = f._perm || (f._perm = mische([0, 1, 2, 3].slice(0, f.optionen.length)));
+  const reihe = [0, 1, 2, 3].slice(0, f.optionen.length);
+  const perm = f._perm || (f._perm = (f.fest || q.fest) ? reihe : mische(reihe));
   return `<div class="frage">${esc(f.frage)}</div><div class="optionen">${perm.map((oi, k) => `<button class="option" data-i="${oi}"><span class="buchst">${'ABCD'[k]}</span><span class="txt">${esc(f.optionen[oi])}</span></button>`).join('')}</div><div id="aufl"></div>`;
 }
 function bindeMc(q) {

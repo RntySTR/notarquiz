@@ -17,6 +17,8 @@ Hilfsskripte und Zwischendateien ausschließlich in einem eigenen Unterordner `<
 
 **Kernanforderung:** Die Erklärung muss den Lerneffekt tragen: Sie nennt Norm und Grund, benennt den Fehler der naheliegendsten falschen Option und bleibt beim Inhalt der Seite. Keine Fragen nach Fundstellen, Autoren, Rechtsstand.
 
+**Erklärungen** beziehen sich nie auf eine Optionsposition („Option B“, „die erste Antwort“), sondern nennen den Inhalt der falschen Option, weil die App die Optionen bei der Anzeige mischt. Ein nachträgliches Umsortieren der Optionen ist nicht nötig. Im Feld `normen` nur Normen nennen, die die Seite für die abgefragte Aussage selbst nennt.
+
 **IDs:** `{PRAEFIX}-001`, `{PRAEFIX}-002`, … fortlaufend.
 
 Antworte am Ende knapp: Anzahl Seiten geladen/übersprungen, Anzahl Fragen je Typ, Auffälligkeiten (z. B. Seiten ohne Kernaussagen).

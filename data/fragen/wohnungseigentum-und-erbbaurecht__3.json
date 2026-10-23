@@ -95,5 +95,206 @@
   ],
   "antwort": 1,
   "erklaerung": "§ 24 Abs. 1 WEG ist teilweise abdingbar; in kleinen Anlagen mit zwei Wohnungen kann die Versammlung auf Verlangen eines Eigentümers beschränkt und diesem das Einberufungsrecht gegeben werden. Die Annahme, die Jahresversammlung sei zwingend, ist daher falsch. Grenze ist, dass das Verwaltungsrecht der Eigentümer nicht völlig ausgehöhlt werden darf, weshalb ein vollständiger Ausschluss unzulässig wäre."
+ },
+ {
+  "id": "wohn3-006",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Eigentümerversammlung: Ort, Zeit und Einzuladende",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-ort-zeit-und-einzuladende",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1093 BGB",
+   "§ 31 WEG"
+  ],
+  "frage": "Welche der folgenden Personen muss der Verwalter zur Eigentümerversammlung nicht laden?",
+  "optionen": [
+   "Den werdenden Wohnungseigentümer",
+   "Einen Eigentümer, dessen Stimmrecht zu einem Tagesordnungspunkt nach § 25 Abs. 4 WEG ausgeschlossen ist",
+   "Den Nießbraucher an einer Wohnung",
+   "Alle Mitberechtigten einer im Miteigentum stehenden Einheit"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nießbraucher, Wohnungsberechtigte nach § 1093 BGB und Dauerwohnberechtigte nach § 31 WEG sind mangels Stimmrecht nicht zu laden. Zu laden ist dagegen auch der Eigentümer, dessen Stimmrecht nach § 25 Abs. 4 WEG ausgeschlossen ist, denn das Stimmverbot beseitigt nicht sein Teilnahmerecht. Ebenso sind der werdende Eigentümer und bei mehreren Berechtigten einer Einheit alle zu laden."
+ },
+ {
+  "id": "wohn3-007",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Eigentümerversammlung: Ort, Zeit und Einzuladende",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-ort-zeit-und-einzuladende",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [],
+  "frage": "Eine Eigentümerversammlung, die auf den Vormittag eines Werktags einberufen wird, ist im Normalfall unzulässig, weil sie zur Unzeit stattfindet.",
+  "antwort": true,
+  "erklaerung": "Zeit und Ort der Versammlung müssen verkehrsüblich und zumutbar sein. Eine Einberufung vormittags oder am frühen Nachmittag eines Werktags gilt im Normalfall als Einberufung zur Unzeit und ist unzulässig. Sonn- und Feiertage scheiden dagegen nicht grundsätzlich aus, Samstage kommen in Betracht."
+ },
+ {
+  "id": "wohn3-008",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Eigentümerversammlung: Ort, Zeit und Einzuladende",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-ort-zeit-und-einzuladende",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 8 Abs. 3 WEG"
+  ],
+  "frage": "Zur Eigentümerversammlung ist neben dem werdenden Eigentümer auch ein Zweiterwerber zu laden, der den Kaufvertrag bereits geschlossen hat, aber noch nicht im Grundbuch eingetragen ist.",
+  "antwort": false,
+  "erklaerung": "Zu laden sind alle bei Absendung bekannten Wohnungseigentümer einschließlich des werdenden Eigentümers (vgl. § 8 Abs. 3 WEG). Ein noch nicht eingetragener Zweiterwerber ist dagegen nicht zu laden. Die Rechtsfigur des werdenden Eigentümers betrifft nur den Ersterwerb in der Gründungsphase, nicht den späteren Erwerb von einem eingetragenen Eigentümer."
+ },
+ {
+  "id": "wohn3-009",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Eigentümerversammlung: Stimmrecht, Mehrheit und Stimmverbot",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-stimmrecht-mehrheit-und-stimmverbot",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 25 Abs. 2 S. 1 WEG"
+  ],
+  "frage": "In einer Anlage ohne abweichende Stimmrechtsregel gehören A drei von zehn Wohnungen. Wie viele Stimmen hat A in der Eigentümerversammlung?",
+  "optionen": [
+   "Drei Stimmen, eine je Einheit",
+   "Eine Stimme",
+   "Stimmen im Verhältnis seiner Miteigentumsanteile",
+   "Keine Stimme, solange er nicht alle Einheiten selbst bewohnt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach dem gesetzlichen Kopfprinzip des § 25 Abs. 2 S. 1 WEG hat jeder Wohnungseigentümer unabhängig von Größe und Zahl seiner Einheiten eine Stimme. Drei Stimmen hätte A nur bei einem in der Gemeinschaftsordnung vereinbarten Objektprinzip, eine Gewichtung nach Miteigentumsanteilen nur beim Wertprinzip. Verkauft A einzelne Einheiten, vermehren sich die Stimmen."
+ },
+ {
+  "id": "wohn3-010",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Eigentümerversammlung: Stimmrecht, Mehrheit und Stimmverbot",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-stimmrecht-mehrheit-und-stimmverbot",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 25 Abs. 1 WEG"
+  ],
+  "frage": "Ist für einen Beschluss eine qualifizierte Mehrheit erforderlich, zählen Stimmenthaltungen nach überwiegender Ansicht als Nein-Stimmen.",
+  "antwort": false,
+  "erklaerung": "Es entscheidet die Mehrheit der abgegebenen Stimmen (§ 25 Abs. 1 WEG); Enthaltungen zählen nicht als Nein-Stimmen. Dies gilt nach überwiegender Ansicht auch bei qualifizierter Mehrheit; die Gegenansicht des OLG Celle ist vereinzelt geblieben. Bei Stimmengleichheit ist dagegen kein Beschluss zustande gekommen."
+ },
+ {
+  "id": "wohn3-011",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Eigentümerversammlung: Stimmrecht, Mehrheit und Stimmverbot",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-stimmrecht-mehrheit-und-stimmverbot",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 25 Abs. 2 WEG"
+  ],
+  "frage": "Ordne die Stimmrechtsprinzipien ihrem Inhalt zu.",
+  "paare": [
+   [
+    "Kopfprinzip",
+    "Jeder Wohnungseigentümer hat eine Stimme, gleich wie viele Einheiten ihm gehören"
+   ],
+   [
+    "Objektprinzip",
+    "Jede Einheit gewährt eine Stimme"
+   ],
+   [
+    "Wertprinzip",
+    "Stimmgewicht richtet sich nach den Miteigentumsanteilen"
+   ],
+   [
+    "Mehrere Berechtigte einer Einheit",
+    "Nur einheitliche Stimmabgabe; uneinheitliche Stimmen zählen nicht"
+   ]
+  ],
+  "erklaerung": "Das Kopfprinzip ist die gesetzliche Regel (§ 25 Abs. 2 S. 1 WEG); Objekt- und Wertprinzip sind häufige abweichende Regelungen in der Gemeinschaftsordnung. Mehrere Berechtigte einer Einheit können nur einheitlich abstimmen (§ 25 Abs. 2 S. 2 WEG). Für die Praxis empfiehlt sich meist das Wertprinzip, weil auch die Kosten nach Miteigentumsanteilen verteilt werden."
+ },
+ {
+  "id": "wohn3-012",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Eigentümerversammlung: Stimmrecht, Mehrheit und Stimmverbot",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-stimmrecht-mehrheit-und-stimmverbot",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 25 Abs. 4 WEG"
+  ],
+  "frage": "Eigentümer V soll Verwalter der Gemeinschaft werden. Bei welcher Beschlussfassung ist V nach § 25 Abs. 4 WEG vom Stimmrecht ausgeschlossen?",
+  "optionen": [
+   "Bei seiner eigenen Wahl zum Verwalter",
+   "Bei der Wahl der Mitglieder des Verwaltungsbeirats",
+   "Bei der Zustimmung zum Abschluss des Verwaltervertrags mit ihm",
+   "Bei keinem dieser Beschlüsse, da Eigentümer nie ausgeschlossen sind"
+  ],
+  "antwort": 2,
+  "erklaerung": "Das Stimmverbot des § 25 Abs. 4 WEG erfasst Verwaltungsgeschäfte mit dem Eigentümer; darunter fällt die Zustimmung zum Verwaltervertrag. Die Wahl zum Verwalter oder in den Beirat ist dagegen eine mitgliedschaftliche Angelegenheit, bei der in der Regel kein Stimmrechtsausschluss besteht. Die naheliegende Annahme, schon die eigene Wahl sei ausgeschlossen, verkennt diese Unterscheidung."
+ },
+ {
+  "id": "wohn3-013",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Eigentümerversammlung: Stimmrecht, Mehrheit und Stimmverbot",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-stimmrecht-mehrheit-und-stimmverbot",
+  "typ": "fall",
+  "frage": "Nießbrauch und Stimmrechtsvollmacht",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 25 Abs. 1 WEG",
+   "§ 25 Abs. 3 WEG"
+  ],
+  "sachverhalt": "E ist Eigentümer einer Wohnung in einer Anlage; die Gemeinschaftsordnung beschränkt die Vertretung in der Versammlung auf Ehegatten und den Verwalter. E hat seiner Mutter M einen Bruttonießbrauch an der Wohnung bestellt. M möchte an den Abstimmungen teilnehmen. In der nächsten Versammlung stimmen von den erschienenen und vertretenen Eigentümern 5 mit Ja, 4 mit Nein, 3 enthalten sich.",
+  "schritte": [
+   {
+    "frage": "Wem steht das Stimmrecht für die Wohnung zu?",
+    "optionen": [
+     "M als Nießbraucherin kraft ihres dinglichen Rechts",
+     "E als Eigentümer; der Nießbraucher hat kein eigenes Stimmrecht",
+     "E und M gemeinsam, die nur einheitlich abstimmen können",
+     "Niemandem, solange der Nießbrauch besteht"
+    ],
+    "antwort": 1,
+    "erklaerung": "Der Nießbraucher hat kein eigenes Stimmrecht; es verbleibt beim Eigentümer. Das Stimmrecht ist untrennbar mit dem Eigentum verbunden und kann nicht dauerhaft abgespalten werden. Aus dem Nießbrauchsverhältnis kann sich aber ein Anspruch der M auf eine Stimmrechtsvollmacht ergeben."
+   },
+   {
+    "frage": "E erteilt M eine Stimmrechtsvollmacht. Steht die Vertretungsbeschränkung der Gemeinschaftsordnung entgegen?",
+    "optionen": [
+     "Ja, die Klausel lässt nur Ehegatten und Verwalter zu und ist strikt anzuwenden.",
+     "Ja, Vertretungsbeschränkungen schließen Familienangehörige stets aus.",
+     "Nein, solche Klauseln sind regelmäßig so auszulegen, dass sie eine Vollmacht für den Nießbraucher nicht ausschließen.",
+     "Nein, Vertretungsbeschränkungen in der Gemeinschaftsordnung sind generell unwirksam."
+    ],
+    "antwort": 2,
+    "erklaerung": "Die Gemeinschaftsordnung kann den Vertreterkreis zwar wirksam beschränken. Nach überwiegender Ansicht sind solche Klauseln aber regelmäßig so auszulegen, dass sie eine Vollmacht für den Nießbraucher oder Wohnungsberechtigten nicht ausschließen. Eine generelle Unwirksamkeit solcher Beschränkungen trifft dagegen nicht zu."
+   },
+   {
+    "frage": "Welcher Form bedarf die Vollmacht?",
+    "optionen": [
+     "Schriftform",
+     "Textform",
+     "Öffentliche Beglaubigung",
+     "Keiner Form"
+    ],
+    "antwort": 1,
+    "erklaerung": "Vollmachten zur Ausübung des Stimmrechts bedürfen nach § 25 Abs. 3 WEG der Textform. Schriftform oder Beglaubigung sind gesetzlich nicht erforderlich."
+   },
+   {
+    "frage": "Ist der Beschluss mit 5 Ja-, 4 Nein-Stimmen und 3 Enthaltungen zustande gekommen?",
+    "optionen": [
+     "Ja, weil die Ja-Stimmen die Nein-Stimmen überwiegen; Enthaltungen zählen nicht",
+     "Nein, weil die Enthaltungen als Nein-Stimmen zu werten sind",
+     "Nein, weil nicht die Mehrheit aller erschienenen Eigentümer zugestimmt hat",
+     "Nein, weil die Versammlung mangels Quorum nicht beschlussfähig war"
+    ],
+    "antwort": 0,
+    "erklaerung": "Nach § 25 Abs. 1 WEG entscheidet die Mehrheit der abgegebenen Stimmen; Enthaltungen zählen nicht als Nein-Stimmen. 5 Ja- gegen 4 Nein-Stimmen genügen daher. Ein Quorum kennt § 25 WEG nicht mehr; die Versammlung ist ohne Rücksicht auf die Teilnehmerzahl beschlussfähig."
+   }
+  ],
+  "erklaerung": "Das Stimmrecht verbleibt beim Eigentümer E, der es aber durch Bevollmächtigte in Textform (§ 25 Abs. 3 WEG) ausüben lassen kann; die Vertretungsbeschränkung ist regelmäßig nicht gegen den Nießbraucher gerichtet. Der Beschluss ist mit der Mehrheit der abgegebenen Stimmen gefasst (§ 25 Abs. 1 WEG), Enthaltungen bleiben außer Betracht."
  }
 ]

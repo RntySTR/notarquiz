@@ -89,6 +89,11 @@ for datei in QUELLEN:
         texte.add(schl)
         if q['quelle'] in seiten:
             k, a, s = seiten[q['quelle']]; q['kapitel'] = k; q['abschnitt'] = a; q['seite'] = s
+        POS = re.compile(r'(Option|Antwort|Variante|Alternative)\s*\(?[A-D1-4]\)?\b|\b(erste|zweite|dritte|vierte|letzte)n?\s+(Option|Antwort|Alternative|Variante)', re.I)
+        if t == 'mc' and POS.search(q.get('erklaerung', '')): q['fest'] = True
+        if t == 'fall':
+            for st in q.get('schritte', []):
+                if POS.search(st.get('erklaerung', '')) or POS.search(q.get('erklaerung', '')): st['fest'] = True
         alle.append(q)
 
 if fehler:

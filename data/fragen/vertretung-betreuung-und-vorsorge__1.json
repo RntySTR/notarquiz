@@ -1117,5 +1117,285 @@
   ],
   "antwort": 1,
   "erklaerung": "Nach § 1811 Abs. 2 BGB (für den Vormund § 1801 Abs. 3 BGB) können Befreiungen, etwa von der Rechnungslegung nach § 1865 BGB, nur für einen benannten Pfleger oder Vormund angeordnet werden; für einen vom Gericht ausgewählten Vertreter wirken sie nicht. Die Befreiung von der Rechnungslegung ist also möglich, setzt aber die Benennung voraus. Gefährden Anordnungen die Interessen des Vertretenen, kann das Gericht sie aufheben (§ 1811 Abs. 3 BGB)."
+ },
+ {
+  "id": "vert1-050",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vertretungsausschluss und Zuwendungen",
+  "seite": "Zuwendungen an Minderjährige und Betreute: Verwaltungsausschluss (§§ 1638, 1811 BGB)",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/zuwendungen-an-minderjahrige-und-betreute-verwaltungsausschluss-1638-1811-bgb",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1638 Abs. 1 BGB",
+   "§ 1837 BGB"
+  ],
+  "frage": "Ein Erblasser kann den Betreuer seines volljährigen Erben entsprechend § 1638 Abs. 1 BGB von der Verwaltung des ererbten Vermögens ausschließen.",
+  "antwort": false,
+  "erklaerung": "Das Betreuungsrecht enthält keine §§ 1638 Abs. 1, 1811 Abs. 1 BGB entsprechende Vorschrift; eine Analogie scheidet mangels Regelungslücke aus. Die Verwaltung durch den Betreuer lässt sich nur über Verwaltungsanordnungen nach § 1837 BGB oder über eine Testamentsvollstreckung steuern. Der Verwaltungsausschluss ist auf Eltern und Vormund (bzw. Pfleger) Minderjähriger beschränkt."
+ },
+ {
+  "id": "vert1-051",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vertretungsausschluss und Zuwendungen",
+  "seite": "Zuwendungen an Minderjährige und Betreute: Verwaltungsausschluss (§§ 1638, 1811 BGB)",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/zuwendungen-an-minderjahrige-und-betreute-verwaltungsausschluss-1638-1811-bgb",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1638 Abs. 1 BGB"
+  ],
+  "frage": "Bis wann muss der Verwaltungsausschluss nach § 1638 BGB bei einer Schenkung unter Lebenden an einen Minderjährigen spätestens getroffen sein?",
+  "optionen": [
+   "Bis zur Eintragung des Minderjährigen im Grundbuch.",
+   "Spätestens mit Abschluss des schuldrechtlichen Zuwendungsvertrags; eine spätere Bestimmung wirkt nicht.",
+   "Bis zum Tod des Zuwendenden durch Verfügung von Todes wegen.",
+   "Jederzeit, solange das Vermögen noch beim Minderjährigen vorhanden ist."
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei Zuwendungen unter Lebenden oder auf den Todesfall muss die Bestimmung spätestens mit Abschluss des schuldrechtlichen Zuwendungsvertrags getroffen sein; eine spätere Bestimmung ist wirkungslos. Nur beim Erwerb von Todes wegen kann die erforderliche Verfügung von Todes wegen auch später als die Zuwendung errichtet werden. Praktisch sollten Ausschluss und Pflegerbenennung deshalb in derselben Urkunde wie die Schenkung erklärt werden."
+ },
+ {
+  "id": "vert1-052",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vertretungsausschluss und Zuwendungen",
+  "seite": "Zuwendungen an Minderjährige und Betreute: Verwaltungsausschluss (§§ 1638, 1811 BGB)",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/zuwendungen-an-minderjahrige-und-betreute-verwaltungsausschluss-1638-1811-bgb",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1638 BGB",
+   "§ 331 BGB",
+   "§ 518 Abs. 1 BGB"
+  ],
+  "frage": "Geschiedenentestament und Lebensversicherung",
+  "sachverhalt": "Der geschiedene V hat eine Lebensversicherung abgeschlossen, bezugsberechtigt ist seine minderjährige Tochter T. Die Sorge für T hat seine frühere Ehefrau F. V will verhindern, dass F das Vermögen verwaltet, das T nach seinem Tod erhält. Er errichtet ein Testament, in dem er T zur Alleinerbin einsetzt, F von der Verwaltung ausschließt und eine Testamentsvollstreckung anordnet. Zur Lebensversicherung erklärt er gegenüber T zu Lebzeiten nichts.",
+  "schritte": [
+   {
+    "frage": "Ist F durch die Anordnung der Testamentsvollstreckung allein von der Verwaltung des Nachlasses ausgeschlossen?",
+    "optionen": [
+     "Ja, die Testamentsvollstreckung schließt die Eltern stets von der Verwaltung aus.",
+     "Nicht ohne Weiteres; maßgeblich ist die Auslegung. Ohne Ausschluss übt F die Kontrollrechte gegenüber dem Testamentsvollstrecker aus.",
+     "Nein, eine Testamentsvollstreckung ist bei minderjährigen Erben unzulässig.",
+     "Ja, sofern der Testamentsvollstrecker zugleich als Zuwendungspfleger benannt ist."
+    ],
+    "antwort": 1,
+    "erklaerung": "Die Testamentsvollstreckung schließt die Eltern nicht ohne Weiteres aus; ohne Ausschluss übt F die Kontrollrechte aus und kann die Entlassung nach § 2227 BGB beantragen. Hier hat V den Ausschluss aber ausdrücklich angeordnet, was sich neben der Testamentsvollstreckung empfiehlt; einen Testamentsvollstrecker als Zuwendungspfleger zu benennen, ist nach richtiger Ansicht nicht möglich."
+   },
+   {
+    "frage": "Erfasst der testamentarische Verwaltungsausschluss auch die Todesfallleistung aus der Lebensversicherung?",
+    "optionen": [
+     "Ja, weil die Leistung mit dem Erbfall anfällt und zum Erwerb von Todes wegen gehört.",
+     "Nein; die Leistung beruht auf einem Vertrag zugunsten Dritter mit Schenkung im Valutaverhältnis, und eine Anordnung allein in einer Verfügung von Todes wegen genügt nicht.",
+     "Ja, wenn das Testament notariell beurkundet ist.",
+     "Nein, weil Lebensversicherungsleistungen nie unentgeltlich sind."
+    ],
+    "antwort": 1,
+    "erklaerung": "Die Todesfallleistung ist eine Zuwendung auf den Todesfall (§§ 328, 331 BGB), kein Erwerb von Todes wegen. Die Beschränkungsbestimmung muss der Beschenkten spätestens bei Wirksamwerden des Schenkungsvertrags zugehen, bei Heilung des Formmangels nach § 518 Abs. 1 BGB erst durch den Erbfall spätestens dann. Eine Anordnung allein im Testament genügt nicht (OLG Naumburg)."
+   },
+   {
+    "frage": "Wer verwaltet danach die Versicherungsleistung, und wie hätte V dies vermeiden können?",
+    "optionen": [
+     "Ein Zuwendungspfleger; V hätte nichts weiter tun müssen.",
+     "F als Sorgeberechtigte; V hätte die Ausschlussbestimmung zu Lebzeiten selbst treffen und ihren rechtzeitigen Zugang sicherstellen müssen.",
+     "Der Testamentsvollstrecker; V hätte ihn ausdrücklich auch für die Versicherung einsetzen müssen.",
+     "Das Familiengericht unmittelbar; eine Gestaltung war nicht möglich."
+    ],
+    "antwort": 1,
+    "erklaerung": "Ohne wirksamen Ausschluss verwaltet die sorgeberechtigte F die Versicherungsleistung. Der Zuwendende muss die Beschränkungsbestimmung selbst treffen und ihren rechtzeitigen Zugang sicherstellen; auf eine Bestimmung durch Erben oder Testamentsvollstrecker nach dem Tod sollte man sich nicht verlassen."
+   }
+  ],
+  "erklaerung": "Für den Nachlass wirkt der testamentarische Ausschluss der F; die Testamentsvollstreckung allein hätte ihn nicht sicher bewirkt. Für die Lebensversicherung als Zuwendung auf den Todesfall genügt die Anordnung im Testament nicht; die Bestimmung muss dem Begünstigten rechtzeitig zugehen, sonst verwaltet die sorgeberechtigte Mutter."
+ },
+ {
+  "id": "vert1-053",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vertretungsausschluss und Zuwendungen",
+  "seite": "Zuwendungen an Minderjährige und Betreute: Verwaltungsausschluss (§§ 1638, 1811 BGB)",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/zuwendungen-an-minderjahrige-und-betreute-verwaltungsausschluss-1638-1811-bgb",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1638 Abs. 2 BGB",
+   "§ 1638 Abs. 3 BGB"
+  ],
+  "frage": "Die Großmutter setzt ihren minderjährigen Enkel zum Erben ein und schließt beide Eltern von der Vermögensverwaltung aus. Wer entscheidet über Annahme oder Ausschlagung der Erbschaft?",
+  "optionen": [
+   "Die Eltern, weil die Ausschlagung zur Personensorge gehört.",
+   "Die Eltern, weil der Ausschluss erst mit Annahme der Erbschaft wirksam wird.",
+   "Ein zu bestellender Zuwendungspfleger; der Ausschluss umfasst nach BGH auch die Entscheidung über Annahme oder Ausschlagung.",
+   "Der Enkel selbst mit familiengerichtlicher Genehmigung."
+  ],
+  "antwort": 2,
+  "erklaerung": "Der Ausschluss erfasst das zugewendete Vermögen und seine Surrogate vollständig (§ 1638 Abs. 2 BGB) und umfasst nach BGH (MittBayNot 2017, 595) entgegen der früher h. M. auch die Entscheidung über Annahme oder Ausschlagung, ferner den Erbscheinsantrag. Gegenüber den Eltern wirkt er sofort mit dem Erbfall. Da beide Eltern ausgeschlossen sind, ist ein Zuwendungspfleger zu bestellen; nur bei Ausschluss eines Elternteils verwaltet der andere allein (§ 1638 Abs. 3 BGB)."
+ },
+ {
+  "id": "vert1-054",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Benennung von Vormund und Pfleger: Pfleger und Zuwendungspfleger (§ 1811 Abs. 2 BGB)",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/benennung-von-vormund-und-pfleger-pfleger-und-zuwendungspfleger-1811-abs-2-bgb",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1811 Abs. 2 BGB",
+   "§ 1809 BGB",
+   "§ 1885 BGB"
+  ],
+  "frage": "Für welche Pflegschaft sieht das Gesetz ausdrücklich ein Benennungsrecht eines Dritten vor?",
+  "optionen": [
+   "Pflegschaft für ein ungeborenes Kind (§ 1810 BGB)",
+   "Zuwendungspflegschaft (§ 1811 BGB)",
+   "Pflegschaft nach §§ 1882–1884 BGB",
+   "Zusätzlicher Pfleger nach § 1776 BGB"
+  ],
+  "antwort": 1,
+  "erklaerung": "Ein Drittbenennungsrecht sieht das Gesetz ausdrücklich nur für die Zuwendungspflegschaft vor: Erblasser oder Zuwendender können den Zuwendungspfleger benennen (§ 1811 Abs. 2 BGB). Für Pflegschaften nach §§ 1882–1884 BGB wählt das Gericht aus (§ 1885 BGB); beim zusätzlichen Pfleger nach § 1776 BGB und nach richtiger Ansicht auch bei der Pflegschaft für ein ungeborenes Kind (§ 1810 BGB) haben die Eltern kein Benennungsrecht."
+ },
+ {
+  "id": "vert1-055",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Benennung von Vormund und Pfleger: Pfleger und Zuwendungspfleger (§ 1811 Abs. 2 BGB)",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/benennung-von-vormund-und-pfleger-pfleger-und-zuwendungspfleger-1811-abs-2-bgb",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1811 Abs. 2 BGB"
+  ],
+  "frage": "Das Benennungsrecht nach § 1811 Abs. 2 BGB umfasst als Minus die Befugnis, einzelne Personen als Zuwendungspfleger auszuschließen und die Auswahl im Übrigen dem Familiengericht zu überlassen.",
+  "antwort": true,
+  "erklaerung": "Der Wortlaut des § 1811 Abs. 2 BGB regelt den Ausschluss nicht, das Benennungsrecht umfasst ihn aber als Minus; nach früherem Recht war das streitig. Erblasser oder Zuwendender können daher die Auswahl dem Familiengericht überlassen und nur bestimmte Personen ausschließen."
+ },
+ {
+  "id": "vert1-056",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Benennung von Vormund und Pfleger: Pfleger und Zuwendungspfleger (§ 1811 Abs. 2 BGB)",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/benennung-von-vormund-und-pfleger-pfleger-und-zuwendungspfleger-1811-abs-2-bgb",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1811 Abs. 2 BGB",
+   "§ 1638 Abs. 3 BGB"
+  ],
+  "frage": "Ein geschiedener, nicht sorgeberechtigter Vater schenkt seinem minderjährigen Sohn ein Depot und möchte es selbst verwalten; die Mutter hat die Alleinsorge. Welche Gestaltung trägt nach richtiger Ansicht?",
+  "optionen": [
+   "Ausschluss der Mutter von der Verwaltung genügt; der Vater verwaltet dann nach § 1638 Abs. 3 BGB allein.",
+   "Ausschluss der Mutter und Benennung des Vaters selbst als Zuwendungspfleger in der Schenkungsurkunde.",
+   "Benennung des Vaters als Zuwendungspfleger in einer späteren Urkunde nach Vollzug der Schenkung.",
+   "Benennung eines Testamentsvollstreckers als Zuwendungspfleger."
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei Zuwendungen unter Lebenden kann sich der Zuwendende nach richtiger Ansicht selbst als Pfleger benennen, etwa wenn der allein sorgeberechtigte Elternteil ausgeschlossen werden soll; Ausschluss und Benennung müssen bei der Zuwendung erklärt werden, eine spätere Benennung ist unwirksam. § 1638 Abs. 3 BGB hilft nur bei gemeinsamer Sorge, weil dann der nicht ausgeschlossene Elternteil allein verwaltet. Ein Testamentsvollstrecker kann nach richtiger Ansicht nicht benannt werden."
+ },
+ {
+  "id": "vert1-057",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Benennung von Vormund und Pfleger: Pfleger und Zuwendungspfleger (§ 1811 Abs. 2 BGB)",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/benennung-von-vormund-und-pfleger-pfleger-und-zuwendungspfleger-1811-abs-2-bgb",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1813 Abs. 2 BGB",
+   "§ 1809 Abs. 1 S. 1 BGB",
+   "§ 1778 BGB"
+  ],
+  "frage": "Wird ein Ergänzungspfleger bestellt, weil die Eltern wegen eines Interessengegensatzes verhindert sind, ist das Familiengericht an einen von den Eltern benannten Pfleger gebunden.",
+  "antwort": false,
+  "erklaerung": "Für Ergänzungspflegschaften gelten die Regeln über die Berufung des Vormunds grundsätzlich entsprechend (§ 1813 Abs. 1 BGB). Das gilt aber nicht, wenn der Ergänzungspfleger nach § 1809 Abs. 1 S. 1 BGB bestellt wird, weil Eltern oder Vormund verhindert sind (§ 1813 Abs. 2 BGB). Das Gericht wählt dann entsprechend § 1778 BGB aus; der Elternwille ist nicht maßgeblich."
+ },
+ {
+  "id": "vert1-058",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Benennung von Vormund und Pfleger: Vormundbenennung durch die Eltern (§ 1782 BGB)",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/benennung-von-vormund-und-pfleger-vormundbenennung-durch-die-eltern-1782-bgb",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1782 Abs. 2 BGB"
+  ],
+  "frage": "Die Mutter benennt 2020 testamentarisch ihre Schwester als Vormund, der Vater 2023 seinen Bruder. Der Vater stirbt 2024, die Mutter 2025. Wer ist als Vormund berufen?",
+  "optionen": [
+   "Der Bruder des Vaters, weil seine Benennung die jüngere ist.",
+   "Die Schwester der Mutter, weil die Verfügung des zuletzt verstorbenen Elternteils gilt.",
+   "Keiner; das Familiengericht wählt frei aus, weil die Benennungen sich widersprechen.",
+   "Beide gemeinschaftlich, weil jeder Elternteil unabhängig benennen kann."
+  ],
+  "antwort": 1,
+  "erklaerung": "Benennen die Eltern verschiedene Vormünder, gilt nach § 1782 Abs. 2 BGB die Verfügung des zuletzt verstorbenen Elternteils, und zwar auch dann, wenn dieser früher benannt hat als der zuerst Verstorbene. Maßgeblich ist also die Reihenfolge der Todesfälle, nicht die der Benennungen. Gemeinschaftliche Vormünder können nur Ehegatten sein, die als solche benannt werden."
+ },
+ {
+  "id": "vert1-059",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Benennung von Vormund und Pfleger: Vormundbenennung durch die Eltern (§ 1782 BGB)",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/benennung-von-vormund-und-pfleger-vormundbenennung-durch-die-eltern-1782-bgb",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1782 Abs. 1 BGB"
+  ],
+  "frage": "Eltern können die Vormundbenennung in einem Erbvertrag vertragsmäßig bindend treffen, sodass der Überlebende sie nicht mehr einseitig ändern kann.",
+  "antwort": false,
+  "erklaerung": "Die Benennung erfolgt zwar durch Verfügung von Todes wegen, also auch durch gemeinschaftliches Testament oder Erbvertrag (§ 1782 Abs. 1 BGB). Als familienrechtliche Anordnung kann sie aber weder wechselbezüglich noch vertragsmäßig bindend getroffen werden; eine gemeinsame Benennung bindet die Eltern nicht und ist jederzeit widerruflich. Die Gestaltung als bindende Verfügung ist der im Handbuch genannte typische Fehler."
+ },
+ {
+  "id": "vert1-060",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Benennung von Vormund und Pfleger: Vormundbenennung durch die Eltern (§ 1782 BGB)",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/benennung-von-vormund-und-pfleger-vormundbenennung-durch-die-eltern-1782-bgb",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1778 Abs. 2 Nr. 2 BGB",
+   "§ 1782 BGB"
+  ],
+  "frage": "Eine alleinerziehende Mutter hat ihre Freundin nur in einer General- und Vorsorgevollmacht als gewünschten Vormund für ihr Kind bezeichnet. Welche Wirkung hat das nach ihrem Tod?",
+  "optionen": [
+   "Die Freundin ist als Vormund berufen und hat ein subjektiv-öffentliches Recht auf Bestellung.",
+   "Die Bezeichnung ist mangels Testamentsform völlig unbeachtlich.",
+   "Das Gericht berücksichtigt sie als geäußerten Elternwillen bei der Auswahl, ist daran aber nicht gebunden.",
+   "Die Bezeichnung bindet das Gericht, sofern die Vollmacht notariell beurkundet ist."
+  ],
+  "antwort": 2,
+  "erklaerung": "Eine Benennung mit Bindungswirkung und Recht auf Bestellung setzt eine Verfügung von Todes wegen voraus (§ 1782 BGB). Der formlos geäußerte Elternwille, etwa in einer Sorgerechts- oder Vorsorgevollmacht, wird nach § 1778 Abs. 2 Nr. 2 BGB bei der Auswahl berücksichtigt, bindet das Gericht aber nicht. Die notarielle Form der Vollmacht ersetzt die Testamentsform nicht; deshalb gehört die Benennung in Testament oder Erbvertrag."
+ },
+ {
+  "id": "vert1-061",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Benennung von Vormund und Pfleger: Vormundbenennung durch die Eltern (§ 1782 BGB)",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/benennung-von-vormund-und-pfleger-vormundbenennung-durch-die-eltern-1782-bgb",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1782 Abs. 1 BGB",
+   "§ 1783 BGB",
+   "§ 1785 BGB"
+  ],
+  "frage": "Ordne die Konstellation der Wirkung auf die Vormundbenennung zu.",
+  "paare": [
+   [
+    "Elterliche Sorge ruht beim Tod des benennenden Elternteils",
+    "Benennung unwirksam"
+   ],
+   [
+    "Elternteil hatte bei der Benennung noch kein Sorgerecht, wohl aber beim Tod",
+    "Benennung wirksam"
+   ],
+   [
+    "Dem Elternteil ist nur das Umgangsbestimmungsrecht entzogen",
+    "Benennungsrecht bleibt bestehen"
+   ],
+   [
+    "Benannter lehnt die Übernahme des Amts ab",
+    "Keine Übernahmepflicht; § 1785 BGB trifft nur den vom Gericht Ausgewählten"
+   ]
+  ],
+  "erklaerung": "Maßgeblich ist, dass dem Elternteil im Todeszeitpunkt Personen- und Vermögenssorge mit ausübbarer Vertretungsmacht zustehen; ob er die Sorge schon bei der Benennung hatte, ist gleichgültig, ruhende Sorge macht die Benennung unwirksam. Ein Teilentzug einzelner Bereiche lässt das Benennungsrecht bestehen. Der Benannte hat ein Recht auf Bestellung (außer bei Hinderungsgründen nach §§ 1783, 1784 BGB), aber keine Übernahmepflicht."
  }
 ]

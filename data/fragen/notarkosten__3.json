@@ -629,5 +629,368 @@
   ],
   "antwort": 1,
   "erklaerung": "Vorbehaltene Nutzungen des Verkäufers werden dem Kaufpreis nach § 47 S. 2 GNotKG hinzugerechnet und nach § 52 GNotKG bewertet; bei lebenslangen Rechten bestimmt das Alter des Berechtigten den Vervielfältiger (§ 52 Abs. 4 GNotKG). Ein Verwandtenprivileg besteht nicht mehr."
+ },
+ {
+  "id": "kost3-028",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Kaufvertrag, Auflassung und Austauschverträge (§§ 47, 97 Abs. 3 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-kaufvertrag-auflassung-und-austauschvertrage-47-97-abs-3-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 47 GNotKG",
+   "§ 46 GNotKG"
+  ],
+  "frage": "Wie bestimmt sich nach § 47 GNotKG der Wert der Kaufsache?",
+  "optionen": [
+   "Stets nach dem Verkehrswert nach § 46 GNotKG",
+   "Nach dem Kaufpreis zuzüglich vorbehaltener Nutzungen und sonstiger Käuferleistungen, mindestens aber nach dem Verkehrswert",
+   "Nach dem Kaufpreis abzüglich übernommener Grundpfandrechte",
+   "Nach dem Mittelwert aus Kaufpreis und Verkehrswert"
+  ],
+  "antwort": 1,
+  "erklaerung": "Ausgangswert ist nach § 47 S. 1 GNotKG der Kaufpreis; hinzuzurechnen sind vorbehaltene Nutzungen und sonstige Käuferleistungen (§ 47 S. 2 GNotKG). Liegt das Ergebnis unter dem Verkehrswert, gilt dieser (§ 47 S. 3 GNotKG). Der Verkehrswert ist also nur Untergrenze, nicht stets maßgeblich; liegt der Kaufpreis darüber, zählt der höhere Wert."
+ },
+ {
+  "id": "kost3-029",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Kaufvertrag, Auflassung und Austauschverträge (§§ 47, 97 Abs. 3 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-kaufvertrag-auflassung-und-austauschvertrage-47-97-abs-3-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 47 GNotKG",
+   "§ 926 BGB"
+  ],
+  "frage": "Wird die Auflassung gesondert beurkundet, erhöht mitverkauftes Zubehör ihren Wert, weil es nach § 926 BGB mit dem Grundstückseigentum übergeht.",
+  "antwort": false,
+  "erklaerung": "Für die Auflassung zählt nur der nach §§ 46, 47 GNotKG ermittelte Wert der Immobilie selbst. Mitverkauftes Zubehör erhöht den Wert der Auflassung nicht, weil nur das Grundstück aufgelassen wird – auch wenn das Zubehör nach § 926 BGB mit dem Eigentum übergeht. Den Zubehörwert aus dem Kaufvertrag zu übernehmen, ist ein typischer Fehler."
+ },
+ {
+  "id": "kost3-030",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Kaufvertrag, Auflassung und Austauschverträge (§§ 47, 97 Abs. 3 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-kaufvertrag-auflassung-und-austauschvertrage-47-97-abs-3-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 97 Abs. 3 GNotKG",
+   "§ 328 BGB"
+  ],
+  "frage": "A, B und C tauschen ihre Grundstücke im Ring (Werte 200.000 €, 250.000 € und 300.000 €). Welcher Geschäftswert gilt nach h. M.?",
+  "optionen": [
+   "750.000 € als Summe aller Leistungen",
+   "300.000 € als Wert der teuersten getauschten Leistung",
+   "550.000 € aus zwei getrennten Tauschverträgen",
+   "250.000 € als mittlerer Wert"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die h. M. sieht im Ringtausch wegen der Verknüpfung der Leistungen nach § 328 BGB ein einheitliches Rechtsgeschäft, nicht mehrere Tauschverträge. Nach § 97 Abs. 3 GNotKG ist nur die wertvollste Leistung maßgeblich, hier 300.000 €. Die Addition aller Leistungen widerspricht dem Austauschprinzip."
+ },
+ {
+  "id": "kost3-031",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Kaufvertrag, Auflassung und Austauschverträge (§§ 47, 97 Abs. 3 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-kaufvertrag-auflassung-und-austauschvertrage-47-97-abs-3-gnotkg",
+  "typ": "fall",
+  "frage": "Teilflächenkauf mit später Auflassung",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 47 GNotKG",
+   "§ 96 GNotKG",
+   "§ 10 GNotKG",
+   "§ 97 Abs. 3 GNotKG"
+  ],
+  "sachverhalt": "Vater V verkauft an seine Tochter T eine noch zu vermessende Teilfläche für 60.000 €; der Bodenrichtwert lässt einen Verkehrswert von 150.000 € erwarten. Mitverkauft wird eine Gartenhütte als Zubehör. Zwei Jahre später, nach Vermessung, wird die Auflassung gesondert beurkundet; T hat inzwischen auf eigene Rechnung ein Wohnhaus errichtet.",
+  "schritte": [
+   {
+    "frage": "Welcher Wert ist für die Grundstücksteilfläche im Kaufvertrag maßgeblich?",
+    "optionen": [
+     "60.000 €, weil der Kaufpreis nach § 47 S. 1 GNotKG maßgeblich ist",
+     "Der Verkehrswert von 150.000 €, weil der Kaufpreis deutlich darunter liegt (§ 47 S. 3 GNotKG)",
+     "105.000 € als Mittelwert",
+     "Der Auffangwert nach § 36 Abs. 3 GNotKG"
+    ],
+    "antwort": 1,
+    "erklaerung": "Beim Verkauf unter nahen Verwandten bestehen Anhaltspunkte, dass der Kaufpreis deutlich unter dem Verkehrswert liegt; der Notar muss dann den Verkehrswert ermitteln. Liegt der Kaufpreis darunter, gilt nach § 47 S. 3 GNotKG der Verkehrswert; die Leistung des Verkäufers ist höherwertig (§ 97 Abs. 3 GNotKG)."
+   },
+   {
+    "frage": "Auf welchen Zeitpunkt und welche Verhältnisse kommt es für die Auflassung an?",
+    "optionen": [
+     "Auf die Verhältnisse bei Abschluss des Kaufvertrags",
+     "Auf die Verhältnisse bei Erklärung der Auflassung, einschließlich der zwischenzeitlichen Bebauung",
+     "Auf den Zeitpunkt der Eigentumsumschreibung, ohne Bebauung durch den Käufer",
+     "Auf den Zeitpunkt der Vermessung"
+    ],
+    "antwort": 1,
+    "erklaerung": "Auch für die Auflassung gelten §§ 96, 10 GNotKG; maßgeblich sind die Verhältnisse bei ihrer Erklärung, einschließlich zwischenzeitlicher Bebauung. Das GNotKG hat die frühere Einschränkung gestrichen, wonach eine auf Rechnung des Erwerbers errichtete Bebauung außer Betracht blieb. Den Wert zum Zeitpunkt des Kaufvertrags anzusetzen, ist ein typischer Fehler."
+   },
+   {
+    "frage": "Ist die Gartenhütte (Zubehör) beim Wert der Auflassung zu berücksichtigen?",
+    "optionen": [
+     "Ja, mit ihrem Wert, weil sie mitverkauft wurde",
+     "Ja, weil sie nach § 926 BGB mit dem Eigentum übergeht",
+     "Nein, für die Auflassung zählt nur der Wert der Immobilie selbst",
+     "Nur zur Hälfte"
+    ],
+    "antwort": 2,
+    "erklaerung": "Für die Auflassung zählt nur der nach §§ 46, 47 GNotKG ermittelte Wert der Immobilie selbst; Zubehör bleibt außer Betracht, weil nur das Grundstück aufgelassen wird, auch wenn es nach § 926 BGB mit übergeht."
+   }
+  ],
+  "erklaerung": "Wegen des Verwandtenkaufs ist für den Kaufvertrag der höhere Verkehrswert maßgeblich (§ 47 S. 3, § 97 Abs. 3 GNotKG). Die spätere Auflassung wird nach den Verhältnissen bei ihrer Erklärung bewertet, also einschließlich des inzwischen errichteten Hauses (§§ 96, 10 GNotKG), aber ohne das Zubehör."
+ },
+ {
+  "id": "kost3-032",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Mindest-, Fest- und Höchstwerte; Mitwirkungspflicht",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-mindest-fest-und-hochstwerte-mitwirkungspflicht",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 98 Abs. 4 GNotKG",
+   "§ 107 Abs. 1 GNotKG",
+   "§ 108 Abs. 4 GNotKG",
+   "§ 35 Abs. 2 GNotKG"
+  ],
+  "frage": "Ordne den Geschäften den jeweiligen Höchstwert zu.",
+  "paare": [
+   [
+    "Vollmachten und Zustimmungserklärungen",
+    "1 Mio. €"
+   ],
+   [
+    "Beschlüsse von Organen",
+    "5 Mio. €"
+   ],
+   [
+    "Gesellschaftsverträge und Satzungen",
+    "10 Mio. €"
+   ],
+   [
+    "Allgemeine Wertobergrenze bei Abrechnung nach Tabelle B",
+    "60 Mio. €"
+   ]
+  ],
+  "erklaerung": "Vollmachten und Zustimmungen sind auf 1 Mio. € begrenzt (§ 98 Abs. 4 GNotKG), Beschlüsse auf 5 Mio. € (§ 108 Abs. 4 GNotKG), Gesellschaftsverträge, Satzungen und bestimmte Umwandlungsvorgänge auf 10 Mio. € (§ 107 Abs. 1 GNotKG). Bei Abrechnung nach Tabelle B gilt allgemein eine Obergrenze von 60 Mio. € (§ 35 Abs. 2 GNotKG), auch bei Zusammenrechnung mehrerer Gegenstände."
+ },
+ {
+  "id": "kost3-033",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Mindest-, Fest- und Höchstwerte; Mitwirkungspflicht",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-mindest-fest-und-hochstwerte-mitwirkungspflicht",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 108 GNotKG"
+  ],
+  "frage": "Die Gesellschafterversammlung einer GmbH beschließt eine Kapitalerhöhung um 5.000 €. Welcher Wert ist für den Beschluss anzusetzen?",
+  "optionen": [
+   "5.000 € als bestimmter Geldwert",
+   "30.000 € als Mindestwert nach § 108 GNotKG",
+   "5.000 € als Auffangwert nach § 36 Abs. 3 GNotKG",
+   "1 Mio. € als Höchstwert"
+  ],
+  "antwort": 1,
+  "erklaerung": "Für Beschlüsse gilt ein Mindestwert von 30.000 € (§ 108 GNotKG), auch wenn der Beschluss einen geringeren bestimmten Geldwert hat, etwa eine kleine Kapitalerhöhung. Den Beschluss nur mit dem Erhöhungsbetrag anzusetzen, ist der typische Fehler."
+ },
+ {
+  "id": "kost3-034",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Mindest-, Fest- und Höchstwerte; Mitwirkungspflicht",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-mindest-fest-und-hochstwerte-mitwirkungspflicht",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 95 GNotKG",
+   "§ 36 Abs. 3 GNotKG"
+  ],
+  "frage": "Der Kostenschuldner verweigert trotz Nachfrage Angaben zum Wert. Wie hat der Notar den Wert zu bestimmen?",
+  "optionen": [
+   "Er setzt den Ausgangswert von 5.000 € nach § 36 Abs. 3 GNotKG an",
+   "Er bestimmt den Wert nach billigem Ermessen nach § 95 GNotKG; ein Rückgriff auf § 36 GNotKG ist ausgeschlossen",
+   "Er darf die Beurkundung bis zur Wertangabe verweigern und keine Kosten erheben",
+   "Er setzt den jeweiligen gesetzlichen Höchstwert an"
+  ],
+  "antwort": 1,
+  "erklaerung": "Wirkt der Kostenschuldner an der Wertermittlung nicht mit, darf der Notar den Wert nach billigem Ermessen bestimmen (§ 95 GNotKG). Ein Rückgriff auf § 36 GNotKG, insbesondere auf den Ausgangswert nach § 36 Abs. 3 GNotKG, ist dann ausgeschlossen. Stellt sich der Wert später als deutlich zu niedrig heraus, ist der Notar berechtigt und verpflichtet nachzuberechnen."
+ },
+ {
+  "id": "kost3-035",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Nutzungs- und Leistungsrechte – Jahreswert, Entgelt, Abgrenzung",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-nutzungs-und-leistungsrechte-jahreswert-entgelt-abgrenzung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 52 Abs. 5 GNotKG"
+  ],
+  "frage": "Eine Grunddienstbarkeit (Wegerecht) ist in ihrer Ausübung auf eine Teilfläche beschränkt; ein Jahreswert lässt sich nicht anders feststellen. Wovon sind die 5 % nach § 52 Abs. 5 GNotKG zu berechnen?",
+  "optionen": [
+   "Vom Wert des gesamten belasteten Grundstücks",
+   "Vom Wert der Ausübungsfläche",
+   "Vom Wert des herrschenden Grundstücks",
+   "Vom Auffangwert von 5.000 € nach § 36 Abs. 3 GNotKG"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Auffangwert des § 52 Abs. 5 GNotKG bezieht sich auf den „betroffenen“ Gegenstand; ist die Ausübung auf eine Teilfläche beschränkt, ist nur deren Wert anzusetzen. Mit dem 20-fachen Vervielfältiger führt das bei der Grunddienstbarkeit zum vollen Wert der Ausübungsfläche. Den Wert des ganzen Grundstücks anzusetzen, ist ein typischer Fehler."
+ },
+ {
+  "id": "kost3-036",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Nutzungs- und Leistungsrechte – Jahreswert, Entgelt, Abgrenzung",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-nutzungs-und-leistungsrechte-jahreswert-entgelt-abgrenzung",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 52 GNotKG"
+  ],
+  "frage": "Übernimmt beim Wohnungsrecht der Verpflichtete zusätzlich die laufenden Kosten, die sonst der Berechtigte trägt, erhöht dies den Jahreswert des Rechts.",
+  "antwort": true,
+  "erklaerung": "Beim Wohnungsrecht ist die ortsübliche Miete Vergleichsmaßstab; grundsätzlich trägt der Berechtigte die laufenden Kosten selbst. Übernimmt der Verpflichtete diese zusätzlich, ist statt der Kaltmiete die Warmmiete anzusetzen, der Jahreswert nach § 52 GNotKG steigt also."
+ },
+ {
+  "id": "kost3-037",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Nutzungs- und Leistungsrechte – Jahreswert, Entgelt, Abgrenzung",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-nutzungs-und-leistungsrechte-jahreswert-entgelt-abgrenzung",
+  "typ": "zuordnung",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 50 Nr. 2 GNotKG",
+   "§ 51 GNotKG",
+   "§ 53 Abs. 2 GNotKG",
+   "§ 99 GNotKG"
+  ],
+  "frage": "Ordne die Rechte und Verträge der Wertvorschrift zu, die statt § 52 GNotKG gilt.",
+  "paare": [
+   [
+    "Schuldrechtliche Nutzungsbeschränkung",
+    "§ 50 Nr. 2 GNotKG"
+   ],
+   [
+    "Vorkaufsrecht",
+    "§ 51 GNotKG"
+   ],
+   [
+    "Sicherungsrecht",
+    "§ 53 Abs. 2 GNotKG"
+   ],
+   [
+    "Miet- oder Pachtvertrag",
+    "§ 99 GNotKG"
+   ]
+  ],
+  "erklaerung": "Diese Rechte werden nicht nach § 52 GNotKG, sondern nach eigenen Vorschriften bewertet: Nutzungsbeschränkungen nach § 50 Nr. 2, Vorkaufsrechte nach § 51 GNotKG, weil sie weder zur Nutzung berechtigen noch zu einer Leistung verpflichten, Sicherungsrechte nach § 53 Abs. 2 und Miet-, Pacht-, Dienst- und Geschäftsbesorgungsverträge nach § 99 GNotKG."
+ },
+ {
+  "id": "kost3-038",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Nutzungs- und Leistungsrechte – Jahreswert, Entgelt, Abgrenzung",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-nutzungs-und-leistungsrechte-jahreswert-entgelt-abgrenzung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 97 Abs. 3 GNotKG",
+   "§ 52 GNotKG"
+  ],
+  "frage": "Eine beschränkte persönliche Dienstbarkeit zur Nutzung einer Dachfläche für Photovoltaik wird samt Dachmietvertrag gegen eine jährliche Miete beurkundet. Wie ist der Wert zu bestimmen?",
+  "optionen": [
+   "Allein nach dem Wert des Rechts nach § 52 GNotKG",
+   "Allein nach dem vereinbarten Entgelt",
+   "Durch Vergleich von Wert des Rechts und Entgelt; maßgeblich ist der höhere Betrag",
+   "Durch Addition von Wert des Rechts und Entgelt"
+  ],
+  "antwort": 2,
+  "erklaerung": "Bei entgeltlicher Bestellung liegt ein Austauschverhältnis vor (§ 97 Abs. 3 GNotKG): Der Wert des Rechts nach § 52 GNotKG und das Entgelt werden verglichen, der höhere Betrag ist maßgeblich. Das gilt auch für wiederkehrendes Entgelt wie eine Jahresmiete. Die Addition würde dieselbe Leistungsbeziehung doppelt erfassen."
+ },
+ {
+  "id": "kost3-039",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Nutzungs- und Leistungsrechte – Laufzeit und Vervielfältiger (§ 52 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-nutzungs-und-leistungsrechte-laufzeit-und-vervielfaltiger-52-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 52 Abs. 4 GNotKG"
+  ],
+  "frage": "Die 62-jährige V behält sich einen lebenslangen Nießbrauch mit einem Jahreswert von 12.000 € vor. Welcher Wert ergibt sich?",
+  "optionen": [
+   "60.000 €",
+   "120.000 €",
+   "180.000 €",
+   "240.000 €"
+  ],
+  "antwort": 1,
+  "erklaerung": "Für Rechte auf Lebenszeit richtet sich der Vervielfältiger nach dem Alter bei Beginn des Rechts (§ 52 Abs. 4 GNotKG): zwischen 50 und 70 Jahren das 10-Fache, hier also 120.000 €. 180.000 € entspräche dem 15-fachen Vervielfältiger für 30- bis 50-Jährige, 60.000 € dem 5-fachen für über 70-Jährige."
+ },
+ {
+  "id": "kost3-040",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Nutzungs- und Leistungsrechte – Laufzeit und Vervielfältiger (§ 52 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-nutzungs-und-leistungsrechte-laufzeit-und-vervielfaltiger-52-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 52 Abs. 3 GNotKG"
+  ],
+  "frage": "Ein Recht wird für eine Grundlaufzeit von fünf Jahren mit automatischer Verlängerung um jeweils ein Jahr bestellt. Welcher Vervielfältiger gilt?",
+  "optionen": [
+   "Der 5-fache Jahreswert als bestimmte Dauer",
+   "Der 10-fache Jahreswert, weil das Recht unbestimmte Dauer hat",
+   "Der 20-fache Jahreswert wie bei unbeschränkter Dauer",
+   "Der altersabhängige Vervielfältiger nach § 52 Abs. 4 GNotKG"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei einer Grundlaufzeit mit automatischer Verlängerung ist das Ende nicht absehbar; das Recht hat unbestimmte Dauer, anzusetzen ist der 10-fache Jahreswert (§ 52 Abs. 3 S. 2 GNotKG). Der 20-fache Ansatz ist der typische Fehler; er gilt für Rechte unbeschränkter Dauer (§ 52 Abs. 3 S. 1 GNotKG)."
+ },
+ {
+  "id": "kost3-041",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Nutzungs- und Leistungsrechte – Laufzeit und Vervielfältiger (§ 52 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-nutzungs-und-leistungsrechte-laufzeit-und-vervielfaltiger-52-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 52 Abs. 4 GNotKG"
+  ],
+  "frage": "Steht ein lebenslanges Wohnungsrecht Ehegatten als Gesamtberechtigten zu und erlischt es erst mit dem Tod des Längstlebenden, ist für den Vervielfältiger das Alter des ältesten Berechtigten maßgeblich.",
+  "antwort": false,
+  "erklaerung": "Erlischt das Recht erst mit dem Tod des Längstlebenden, entscheidet das Alter des jüngsten Berechtigten; nur wenn es schon mit dem Tod des Erstversterbenden endet, zählt das Alter des ältesten (§ 52 Abs. 4 GNotKG). Das Alter des ältesten zugrunde zu legen, ist ein typischer Fehler."
+ },
+ {
+  "id": "kost3-042",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Nutzungs- und Leistungsrechte – Laufzeit und Vervielfältiger (§ 52 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-nutzungs-und-leistungsrechte-laufzeit-und-vervielfaltiger-52-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 52 Abs. 3 S. 1 GNotKG",
+   "§ 52 Abs. 1 GNotKG"
+  ],
+  "frage": "Für eine Strom-GmbH wird eine beschränkte persönliche Dienstbarkeit (Leitungsrecht) ohne Befristung bestellt. Wie wird sie bewertet?",
+  "optionen": [
+   "Mit dem 10-fachen Jahreswert, weil das Recht als persönliches Recht unbestimmte Dauer hat",
+   "Mit den addierten Jahreswerten der ersten 20 Jahre, weil das Recht unbeschränkte Dauer hat",
+   "Mit dem altersabhängigen Vervielfältiger nach § 52 Abs. 4 GNotKG",
+   "Nach der Wertminderung des belasteten Grundstücks"
+  ],
+  "antwort": 1,
+  "erklaerung": "Ein subjektiv-persönliches Recht hat unbeschränkte Dauer, wenn eine juristische Person berechtigt ist, weil ein Erlöschen durch Tod nicht möglich ist. Anzusetzen sind die Jahreswerte der ersten 20 Jahre (§ 52 Abs. 3 S. 1 GNotKG). Auf die Wertminderung des belasteten Grundstücks kommt es nicht an; maßgeblich ist allein der Vorteil des Berechtigten (§ 52 Abs. 1 GNotKG)."
  }
 ]

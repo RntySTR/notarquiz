@@ -274,5 +274,262 @@
   ],
   "antwort": 1,
   "erklaerung": "Ein Recht nur für den ersten Verkaufsfall erlischt auch, wenn das Grundstück aufgrund eines anderen Vertragstyps als eines Kaufs veräußert wird, ohne dass je ausgeübt werden konnte. Deshalb empfiehlt sich, das Erlöschen an einen tatsächlich eingetretenen Vorkaufsfall mit Ausübungsmöglichkeit zu knüpfen und das Recht bis dahin gegen Rechtsnachfolger wirken zu lassen. Eine Beschränkung auf Verkäufe des Bestellers würde das Recht gerade weiter schwächen."
+ },
+ {
+  "id": "vork1-013",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Vorkaufsrecht zum festen Preis, Ankaufsrecht und Wiederkaufsrecht",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-zum-festen-preis-ankaufsrecht-und-wiederkaufsrecht",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1098 Abs. 1 S. 1 BGB",
+   "§ 464 Abs. 2 BGB",
+   "§ 311b Abs. 1 S. 1 BGB",
+   "§ 883 BGB"
+  ],
+  "frage": "Die Beteiligten wünschen ein Vorkaufsrecht, bei dem der Berechtigte im Vorkaufsfall nur den von einem Sachverständigen ermittelten Verkehrswert zahlt. Wie ist das umzusetzen?",
+  "optionen": [
+   "Als dingliches Vorkaufsrecht mit im Grundbuch eingetragener Preisabrede nach § 874 BGB.",
+   "Als schuldrechtliches Vorkaufsrecht, beurkundet nach § 311b Abs. 1 S. 1 BGB und durch Eigentumsvormerkung gesichert.",
+   "Als dingliches Vorkaufsrecht, wobei die Preisabrede formlos neben der Bewilligung getroffen wird.",
+   "Als schuldrechtliches Vorkaufsrecht, das mangels Übereignungspflicht formfrei und nicht vormerkungsfähig ist."
+  ],
+  "antwort": 1,
+  "erklaerung": "Ein Vorkaufsrecht zu vereinbartem Preis ist dinglich wegen des Typenzwangs ausgeschlossen (§§ 1098 Abs. 1 S. 1, 464 Abs. 2 BGB). Schuldrechtlich ist es zulässig, begründet aber eine bedingte Übereignungspflicht und ist daher nach § 311b Abs. 1 S. 1 BGB zu beurkunden. Der bedingte Anspruch kann durch Eigentumsvormerkung gesichert werden (§§ 883 Abs. 2, 888 Abs. 1 BGB)."
+ },
+ {
+  "id": "vork1-014",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Vorkaufsrecht zum festen Preis, Ankaufsrecht und Wiederkaufsrecht",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-zum-festen-preis-ankaufsrecht-und-wiederkaufsrecht",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 311b Abs. 1 S. 1 BGB"
+  ],
+  "frage": "Beruht ein Ankaufsrecht auf einem bereits geschlossenen, aufschiebend bedingten Kaufvertrag, der alle wesentlichen Punkte enthält, bedarf die Ausübungserklärung des Berechtigten keiner notariellen Beurkundung.",
+  "antwort": true,
+  "erklaerung": "Beim aufschiebend bedingten Kaufvertrag ist der Vertrag schon formgerecht geschlossen; die Ausübung löst nur die Bedingung aus und ist formfrei. Anders beim Ankaufsrecht durch bindendes Angebot: Dort bedarf auch die Annahme durch den Käufer der Beurkundung nach § 311b Abs. 1 S. 1 BGB."
+ },
+ {
+  "id": "vork1-015",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Vorkaufsrecht zum festen Preis, Ankaufsrecht und Wiederkaufsrecht",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-zum-festen-preis-ankaufsrecht-und-wiederkaufsrecht",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 456 Abs. 1 S. 1 BGB",
+   "§ 457 Abs. 1 BGB"
+  ],
+  "frage": "Wie wird ein im Kaufvertrag einer Gemeinde vereinbartes Wiederkaufsrecht ausgeübt?",
+  "optionen": [
+   "Durch notariell beurkundeten Rückkaufvertrag zwischen Gemeinde und Käufer.",
+   "Durch Eintragung eines Wiederkaufsvermerks in Abteilung II des Grundbuchs.",
+   "Durch einseitige, empfangsbedürftige Erklärung der Gemeinde gegenüber dem Käufer.",
+   "Durch rechtskräftiges Urteil auf Feststellung der Verletzung der Bauverpflichtung."
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 456 Abs. 1 S. 1 BGB wird das Wiederkaufsrecht durch einseitige, empfangsbedürftige Erklärung des Wiederkäufers gegenüber dem Verpflichteten ausgeübt; damit kommt der Rückkauf zustande. Ein neuer beurkundeter Vertrag ist nicht nötig, weil die Begründung bereits im Kaufvertrag beurkundet wurde. Der Wiederverkäufer muss dann das Grundstück mit Zubehör herausgeben (§ 457 Abs. 1 BGB) und auflassen."
+ },
+ {
+  "id": "vork1-016",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Vorkaufsrecht zum festen Preis, Ankaufsrecht und Wiederkaufsrecht",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-zum-festen-preis-ankaufsrecht-und-wiederkaufsrecht",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 456 BGB",
+   "§ 883 BGB"
+  ],
+  "frage": "Eine Gemeinde verkauft einen Bauplatz mit Wiederkaufsrecht für den Fall, dass der Käufer nicht fristgerecht baut. Wie ist das Rechtsgeschäft rechtlich einzuordnen?",
+  "optionen": [
+   "Als auflösend bedingter Kaufvertrag, der bei Nichtbebauung automatisch entfällt.",
+   "Als zweifach aufschiebend bedingter Rückkauf: Nichtbebauung innerhalb der Frist und Ausübung des Wiederkaufsrechts.",
+   "Als dingliches Wiederkaufsrecht, das ohne Vormerkung gegenüber Dritten wirkt.",
+   "Als Heimfallanspruch, der kraft Gesetzes mit Fristablauf entsteht."
+  ],
+  "antwort": 1,
+  "erklaerung": "Das Wiederkaufsrecht wirkt nur schuldrechtlich und ist ein Rückkauf unter aufschiebender Bedingung. Beim gemeindlichen Bauplatzverkauf ist der Rückkauf häufig zweifach aufschiebend bedingt: durch die nicht fristgerechte Bebauung und durch die Ausübung. Gegenüber Dritten wirkt der Rückübereignungsanspruch nur über eine Eigentumsvormerkung; ein automatischer Wegfall des Kaufs tritt nicht ein."
+ },
+ {
+  "id": "vork1-017",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Vorkaufsrecht: Arten, Zweck und Abgrenzung",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-arten-zweck-und-abgrenzung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1094 BGB"
+  ],
+  "frage": "Welcher der folgenden Vorgänge löst ein dingliches Vorkaufsrecht aus?",
+  "optionen": [
+   "Schenkung des Grundstücks an die Tochter des Eigentümers.",
+   "Übertragung im Rahmen einer Erbauseinandersetzung.",
+   "Verkauf an einen bisher nicht beteiligten Dritten.",
+   "Verkauf eines Anteils an einen Miteigentümer."
+  ],
+  "antwort": 2,
+  "erklaerung": "Das Vorkaufsrecht greift ausschließlich beim Verkauf an einen Dritten (§ 1094 BGB). Erbfall, Erbauseinandersetzung, Schenkung und Verkauf an einen Miteigentümer lösen es nicht aus. Wer auch in diesen Fällen erwerben können soll, braucht ein Ankaufsrecht."
+ },
+ {
+  "id": "vork1-018",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Vorkaufsrecht: Arten, Zweck und Abgrenzung",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-arten-zweck-und-abgrenzung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1098 Abs. 1 S. 1 BGB"
+  ],
+  "frage": "Die Parteien können beim dinglichen Vorkaufsrecht abweichend von §§ 463–473 BGB vereinbaren, dass der Berechtigte den Kaufpreis erst ein Jahr nach Ausübung zahlt.",
+  "antwort": false,
+  "erklaerung": "Für das dingliche Vorkaufsrecht verweist § 1098 Abs. 1 S. 1 BGB zwingend auf die §§ 463–473 BGB; Vertragsfreiheit besteht insoweit nicht. Abweichende Zahlungsbedingungen oder ein fixierter Preis sind dinglich nicht erreichbar (§ 464 Abs. 2 BGB). Dispositiv sind die Regeln nur beim schuldrechtlichen Vorkaufsrecht."
+ },
+ {
+  "id": "vork1-019",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Vorkaufsrecht: Arten, Zweck und Abgrenzung",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-arten-zweck-und-abgrenzung",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 463 BGB",
+   "§ 1094 BGB",
+   "§ 2034 BGB",
+   "§ 577 BGB"
+  ],
+  "frage": "Ordne die Vorkaufsrechte des BGB ihrer Rechtsgrundlage zu.",
+  "paare": [
+   [
+    "Schuldrechtliches Vorkaufsrecht",
+    "§§ 463 ff. BGB"
+   ],
+   [
+    "Dingliches Vorkaufsrecht",
+    "§§ 1094 ff. BGB"
+   ],
+   [
+    "Vorkaufsrecht der Miterben beim Verkauf eines Erbteils",
+    "§§ 2034 ff. BGB"
+   ],
+   [
+    "Vorkaufsrecht des Mieters",
+    "§ 577 BGB"
+   ]
+  ],
+  "erklaerung": "Das BGB regelt das schuldrechtliche (§§ 463 ff.), das dingliche (§§ 1094 ff.), das Miterben- (§§ 2034 ff.) und das Mietervorkaufsrecht (§ 577). Das dingliche Recht verweist für das Verhältnis zwischen Berechtigtem und Verpflichtetem zwingend auf §§ 463–473 BGB (§ 1098 Abs. 1 S. 1 BGB)."
+ },
+ {
+  "id": "vork1-020",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Vorkaufsrecht: Arten, Zweck und Abgrenzung",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-arten-zweck-und-abgrenzung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1094 BGB",
+   "§ 883 BGB"
+  ],
+  "frage": "Eltern wollen sicherstellen, dass ihr Sohn das Grundstück der Tochter auch dann erwerben kann, wenn diese es verschenkt oder es im Erbgang übergeht. Welche Gestaltung ist zu wählen?",
+  "optionen": [
+   "Dingliches Vorkaufsrecht für alle Verkaufsfälle.",
+   "Schuldrechtliches Vorkaufsrecht mit Eigentumsvormerkung.",
+   "Ankaufsrecht, gesichert durch Eigentumsvormerkung.",
+   "Subjektiv-dingliches Vorkaufsrecht mit Aktivvermerk."
+  ],
+  "antwort": 2,
+  "erklaerung": "Jedes Vorkaufsrecht, gleich ob dinglich oder schuldrechtlich, setzt einen Verkauf an Dritte voraus; Schenkung und Erbfall lösen es nicht aus. Soll auch in diesen Fällen erworben werden können, ist ein Ankaufsrecht zu vereinbaren. Dieses ist eine rein schuldrechtliche Abrede und sollte durch eine Eigentumsvormerkung gesichert werden."
+ },
+ {
+  "id": "vork1-021",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Vorkaufsrecht: mehrere Grundstücke und mehrere Berechtigte",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-mehrere-grundstucke-und-mehrere-berechtigte",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1094 BGB",
+   "§ 1132 BGB"
+  ],
+  "frage": "Drei Grundstücke werden in einer Urkunde mit einem Vorkaufsrecht zugunsten desselben Berechtigten belastet. Was entsteht?",
+  "optionen": [
+   "Ein Gesamtvorkaufsrecht nach dem Vorbild der Gesamtgrundschuld.",
+   "Drei selbständige Vorkaufsrechte, je eines an jedem Grundstück.",
+   "Ein einheitliches Recht, das nur gemeinsam ausgeübt werden kann.",
+   "Ein Vorkaufsrecht nur am zuerst eingetragenen Grundstück."
+  ],
+  "antwort": 1,
+  "erklaerung": "Belastet man mehrere Grundstücke mit einem Vorkaufsrecht, entstehen so viele selbständige Rechte, wie Grundstücke belastet sind. Gesamtbelastungen kennt das BGB nur für Verwertungsrechte (§§ 1107, 1132, 1192, 1200 BGB). Eine Bindung an die gemeinsame Ausübung ist nur als Bedingung möglich und schafft ebenfalls kein Gesamtrecht."
+ },
+ {
+  "id": "vork1-022",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Vorkaufsrecht: mehrere Grundstücke und mehrere Berechtigte",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-mehrere-grundstucke-und-mehrere-berechtigte",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 47 GBO",
+   "§ 472 BGB"
+  ],
+  "frage": "Für die Angabe des Gemeinschaftsverhältnisses mehrerer Vorkaufsberechtigter nach § 47 GBO reicht nach Ansicht des BGH der Hinweis auf § 472 BGB.",
+  "antwort": true,
+  "erklaerung": "Der BGH lässt für § 47 GBO den Hinweis auf § 472 BGB genügen. Nach §§ 1098 Abs. 1 S. 1, 472 S. 1 BGB kann das Recht mehreren Berechtigten nur insgesamt ausgeübt werden; fällt einer weg, wächst sein Anteil den übrigen zu."
+ },
+ {
+  "id": "vork1-023",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Vorkaufsrecht: mehrere Grundstücke und mehrere Berechtigte",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-mehrere-grundstucke-und-mehrere-berechtigte",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 472 BGB",
+   "§ 1098 Abs. 1 S. 1 BGB"
+  ],
+  "frage": "A und B steht gemeinsam ein dingliches Vorkaufsrecht zu. Im Vorkaufsfall will nur A ausüben, B verzichtet. Was gilt?",
+  "optionen": [
+   "A kann nur zur Hälfte ausüben und erwirbt einen hälftigen Miteigentumsanteil.",
+   "Das Vorkaufsrecht ist insgesamt erloschen, weil nicht alle Berechtigten ausüben.",
+   "A kann das Vorkaufsrecht im Ganzen ausüben; das Recht ist nur insgesamt ausübbar.",
+   "A und B erwerben zwingend Bruchteilseigentum je zur Hälfte."
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach §§ 1098 Abs. 1 S. 1, 472 BGB ist das Vorkaufsrecht mehrerer nur im Ganzen ausübbar; fällt ein Berechtigter weg, wächst sein Anteil dem verbliebenen zu. A kann also allein für das ganze Grundstück ausüben. Eine Ausübung nur zur Hälfte ist gerade ausgeschlossen."
+ },
+ {
+  "id": "vork1-024",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Vorkaufsrecht: mehrere Grundstücke und mehrere Berechtigte",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-mehrere-grundstucke-und-mehrere-berechtigte",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 472 BGB"
+  ],
+  "frage": "Ehegatten sollen gemeinsam vorkaufsberechtigt sein und nach Ausübung in Gütergemeinschaft erwerben. Was sollte der Notar bei der Bestellung regeln?",
+  "optionen": [
+   "Nichts; mehrere Ausübende erwerben kraft Gesetzes in dem Gemeinschaftsverhältnis, das für sie im Grundbuch eingetragen ist.",
+   "Das gewünschte Erwerbsverhältnis, weil sie ohne abweichende Bestimmung Bruchteilseigentum erwerben.",
+   "Getrennte Vorkaufsrechte für jeden Ehegatten, da ein gemeinsames Recht unzulässig ist.",
+   "Eine Bedingung der einheitlichen Ausübung nach § 47 GBO."
+  ],
+  "antwort": 1,
+  "erklaerung": "Üben mehrere Berechtigte gemeinsam nach § 472 BGB aus, erwerben sie Bruchteilseigentum, sofern bei der Bestellung nichts anderes bestimmt wurde. Passt Bruchteilseigentum nicht, ist das gewünschte Erwerbsverhältnis daher schon bei der Bestellung zu regeln. Ein gemeinsames Vorkaufsrecht mehrerer ist ohne Weiteres zulässig."
  }
 ]

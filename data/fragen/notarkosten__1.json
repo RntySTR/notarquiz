@@ -14,12 +14,12 @@
   ],
   "frage": "Der Käufer übernimmt im Kaufvertrag das durch eine Grundschuld am Kaufgegenstand gesicherte Darlehen des Verkäufers unter Anrechnung auf den Kaufpreis. Wie ist die Schuldübernahme kostenrechtlich zu behandeln?",
   "optionen": [
-   "Sie ist gegenstandsgleich mit dem Kaufvertrag; die übernommene Schuld ist je nach Gestaltung dem Kaufpreis als weitere Leistung hinzuzurechnen.",
-   "Sie ist ein besonderer Beurkundungsgegenstand nach § 110 Nr. 2 Buchst. a GNotKG wie jede Finanzierungserklärung.",
    "Sie ist gegenstandsgleich, der Wert der Schuld bleibt aber nach § 109 Abs. 1 S. 5 GNotKG stets unberücksichtigt.",
-   "Sie ist gegenstandsverschieden, weil der Verkäufer an der Schuldübernahme nicht als Vertragspartei beteiligt ist."
+   "Sie ist gegenstandsgleich mit dem Kaufvertrag; die übernommene Schuld ist je nach Gestaltung dem Kaufpreis als weitere Leistung hinzuzurechnen.",
+   "Sie ist gegenstandsverschieden, weil der Verkäufer an der Schuldübernahme nicht als Vertragspartei beteiligt ist.",
+   "Sie ist ein besonderer Beurkundungsgegenstand nach § 110 Nr. 2 Buchst. a GNotKG wie jede Finanzierungserklärung."
   ],
-  "antwort": 0,
+  "antwort": 1,
   "erklaerung": "Kaufvertrag und Übernahme einer am Kaufgegenstand grundpfandrechtlich gesicherten Darlehensschuld sind nach § 109 Abs. 1 S. 4 Nr. 1 Buchst. a GNotKG gegenstandsgleich; erfasst sind die unmittelbar mit der Schuldübernahme zusammenhängenden Erklärungen (§ 415 BGB). Die übernommene Schuld kann aber als weitere Leistung des Käufers dem Kaufpreis nach § 47 GNotKG hinzuzurechnen sein. Gegenstandsverschieden nach § 110 Nr. 2 Buchst. a GNotKG sind nur Finanzierungserklärungen gegenüber der Bank, nicht die Schuldübernahme selbst."
  },
  {
@@ -38,8 +38,8 @@
   ],
   "frage": "In einer Grundschuldbestellungsurkunde stimmt der Eigentümer zugleich der Löschung eines vorrangigen, bereits getilgten Grundpfandrechts zu, damit die neue Grundschuld an erster Rangstelle steht. Welche Aussage trifft zu?",
   "optionen": [
-   "Die Löschungszustimmung ist als Rangerklärung nach § 109 Abs. 1 S. 4 Nr. 3 GNotKG gegenstandsgleich mit der Grundschuldbestellung.",
    "Die Löschungszustimmung ist als Durchführungserklärung nach § 109 Abs. 1 S. 1 und 2 GNotKG gegenstandsgleich, weil sie dem Rang dient.",
+   "Die Löschungszustimmung ist als Rangerklärung nach § 109 Abs. 1 S. 4 Nr. 3 GNotKG gegenstandsgleich mit der Grundschuldbestellung.",
    "Die Löschungszustimmung ist ein eigener Gegenstand mit 0,5-Gebühr nach KV 21201 Nr. 4 GNotKG aus dem Wert des zu löschenden Rechts; eine Vergleichsberechnung nach § 94 GNotKG ist nötig.",
    "Die Löschungszustimmung ist gebührenfreie Nebentätigkeit, weil sie nur den Vollzug der Grundschuld vorbereitet."
   ],
@@ -109,13 +109,13 @@
   ],
   "frage": "Das verkaufte Grundstück ist zusammen mit zwei weiteren Grundstücken des Verkäufers mit einer Gesamtgrundschuld belastet. Im Kaufvertrag stimmt der Verkäufer vorsorglich der Löschung der gesamten Grundschuld zu. Wie ist diese Zustimmung zu bewerten?",
   "optionen": [
-   "Vollständig gegenstandsgleich mit dem Kaufvertrag, weil jede Löschungserklärung des Verkäufers unter Nr. 1 Buchst. b fällt.",
-   "Gesondert zu bewerten, weil die Pfandfreigabe des Kaufgegenstands aus dem Gesamtrecht keine Eigentümerzustimmung braucht und die Gesamtlöschung über die Lastenfreistellung hinausgeht.",
    "Gegenstandsgleich nur mit dem auf den Kaufgegenstand entfallenden Teilbetrag der Grundschuld, im Übrigen gebührenfrei.",
-   "Stets gegenstandsverschieden, weil Löschungserklärungen des Eigentümers nach § 110 GNotKG besondere Gegenstände sind."
+   "Gesondert zu bewerten, weil die Pfandfreigabe des Kaufgegenstands aus dem Gesamtrecht keine Eigentümerzustimmung braucht und die Gesamtlöschung über die Lastenfreistellung hinausgeht.",
+   "Stets gegenstandsverschieden, weil Löschungserklärungen des Eigentümers nach § 110 GNotKG besondere Gegenstände sind.",
+   "Vollständig gegenstandsgleich mit dem Kaufvertrag, weil jede Löschungserklärung des Verkäufers unter Nr. 1 Buchst. b fällt."
   ],
   "antwort": 1,
-  "erklaerung": "Die Gegenstandsgleichheit nach § 109 Abs. 1 S. 4 Nr. 1 Buchst. b GNotKG reicht nur so weit, wie die Erklärung für die Lastenfreistellung des Kaufgegenstands erforderlich ist. Die Pfandfreigabe eines einzelnen Grundstücks aus einem Gesamtrecht erfordert nach § 1175 Abs. 1 S. 2 BGB keine Eigentümerzustimmung; eine darüber hinausgehende vorsorgliche Zustimmung zur Löschung des gesamten Rechts ist daher gesondert zu bewerten. Option 1 verkennt diese Begrenzung auf das Erforderliche."
+  "erklaerung": "Die Gegenstandsgleichheit nach § 109 Abs. 1 S. 4 Nr. 1 Buchst. b GNotKG reicht nur so weit, wie die Erklärung für die Lastenfreistellung des Kaufgegenstands erforderlich ist. Die Pfandfreigabe eines einzelnen Grundstücks aus einem Gesamtrecht erfordert nach § 1175 Abs. 1 S. 2 BGB keine Eigentümerzustimmung; eine darüber hinausgehende vorsorgliche Zustimmung zur Löschung des gesamten Rechts ist daher gesondert zu bewerten. Die Annahme vollständiger Gegenstandsgleichheit verkennt diese Begrenzung auf das Erforderliche."
  },
  {
   "id": "kost1-006",
@@ -131,10 +131,10 @@
   ],
   "frage": "Worin unterscheiden sich § 109 Abs. 1 und § 109 Abs. 2 GNotKG in der Rechtsfolge für den Geschäftswert?",
   "optionen": [
-   "Abs. 1: höchster beteiligter Wert; Abs. 2: Wert des Hauptgeschäfts.",
+   "Abs. 1: Wert des Hauptgeschäfts; Abs. 2: Addition der Werte.",
    "Abs. 1: Wert des Hauptgeschäfts; Abs. 2: höchster beteiligter Wert.",
-   "Abs. 1: Addition der Werte; Abs. 2: Wert des Hauptgeschäfts.",
-   "Abs. 1: Wert des Hauptgeschäfts; Abs. 2: Addition der Werte."
+   "Abs. 1: höchster beteiligter Wert; Abs. 2: Wert des Hauptgeschäfts.",
+   "Abs. 1: Addition der Werte; Abs. 2: Wert des Hauptgeschäfts."
   ],
   "antwort": 1,
   "erklaerung": "Bei Haupt- und Nebenerklärung nach § 109 Abs. 1 GNotKG zählt gemäß § 109 Abs. 1 S. 5 GNotKG nur der Wert des Hauptgeschäfts, selbst wenn die Nebenerklärung für sich höher zu bewerten wäre. Bei gleichrangigen Erklärungen mit innerem Zusammenhang nach § 109 Abs. 2 GNotKG zählt nach § 109 Abs. 2 S. 2 GNotKG der höchste der beteiligten Werte, weil es kein Hauptgeschäft gibt. Eine Addition findet nur bei Gegenstandsverschiedenheit nach § 86 Abs. 2 GNotKG statt."
@@ -150,8 +150,8 @@
   "normen": [
    "§ 109 Abs. 1 S. 3 GNotKG"
   ],
-  "frage": "Gegenstandsgleichheit nach § 109 Abs. 1 GNotKG scheidet aus, wenn die Nebenerklärung nicht von einer Vertragspartei des Hauptgeschäfts, sondern von einem Dritten abgegeben wird.",
-  "antwort": false,
+  "frage": "Gegenstandsgleichheit nach § 109 Abs. 1 GNotKG kann auch bestehen, wenn die Nebenerklärung nicht von einer Vertragspartei des Hauptgeschäfts, sondern von einem Dritten abgegeben wird.",
+  "antwort": true,
   "erklaerung": "Nach § 109 Abs. 1 S. 3 GNotKG setzt Gegenstandsgleichheit keine Personenidentität voraus; auch Erklärungen Dritter oder zugunsten Dritter können gegenstandsgleich sein, etwa der Rangrücktritt eines vorrangigen Berechtigten. Die Gleichheit zu verneinen, weil die Nebenerklärung von einem Dritten stammt, nennt die Seite ausdrücklich als typischen Fehler. Entscheidend ist allein, ob die Erklärung unmittelbar dem Hauptgeschäft derselben Urkunde dient."
  },
  {
@@ -168,13 +168,13 @@
   ],
   "frage": "Nach einem beurkundeten Teilflächenkaufvertrag wird in einem Nachtrag die vermessene Mehrfläche mit Mehrpreis geregelt und zugleich die Auflassung erklärt. Wie ist die Auflassung nach der amtlichen Begründung kostenrechtlich einzuordnen?",
   "optionen": [
-   "Vollständig gegenstandsgleich mit dem Nachtrag, weil sie den Kaufvertrag erfüllt.",
-   "Vollständig gegenstandsverschieden, weil ein Nachtrag nie ein Hauptgeschäft sein kann.",
    "Gegenstandsgleich nur hinsichtlich Mehrfläche und Mehrpreis; im Übrigen besonderer Gegenstand nach § 86 Abs. 2 GNotKG.",
-   "Gegenstandsgleich mit dem ursprünglichen Kaufvertrag, weil sie dessen Erfüllung dient."
+   "Vollständig gegenstandsgleich mit dem Nachtrag, weil sie den Kaufvertrag erfüllt.",
+   "Gegenstandsgleich mit dem ursprünglichen Kaufvertrag, weil sie dessen Erfüllung dient.",
+   "Vollständig gegenstandsverschieden, weil ein Nachtrag nie ein Hauptgeschäft sein kann."
   ],
-  "antwort": 2,
-  "erklaerung": "Die Nebenerklärung muss unmittelbar dem Zweck eines Hauptgeschäfts dienen, das in derselben Urkunde beurkundet ist. Nach BT-Drs. 17/11471 S. 186 ist die Auflassung im Nachtrag daher nur gegenstandsgleich, soweit der Nachtrag eigene Regelungen enthält (Mehrfläche, Mehrpreis); im Übrigen bezieht sie sich auf den Kaufvertrag in einer anderen Urkunde und ist besonderer Gegenstand nach § 86 Abs. 2 GNotKG. Option 4 verkennt, dass das Hauptgeschäft in derselben Urkunde stehen muss."
+  "antwort": 0,
+  "erklaerung": "Die Nebenerklärung muss unmittelbar dem Zweck eines Hauptgeschäfts dienen, das in derselben Urkunde beurkundet ist. Nach BT-Drs. 17/11471 S. 186 ist die Auflassung im Nachtrag daher nur gegenstandsgleich, soweit der Nachtrag eigene Regelungen enthält (Mehrfläche, Mehrpreis); im Übrigen bezieht sie sich auf den Kaufvertrag in einer anderen Urkunde und ist besonderer Gegenstand nach § 86 Abs. 2 GNotKG. Die Zuordnung zum ursprünglichen Kaufvertrag verkennt, dass das Hauptgeschäft in derselben Urkunde stehen muss."
  },
  {
   "id": "kost1-009",
@@ -218,12 +218,12 @@
   ],
   "frage": "In einer Gesellschafterversammlung wird die Satzung geändert, so dass Geschäftsführer allgemein von § 181 BGB befreit werden können, und zugleich der Geschäftsführer G konkret von § 181 BGB befreit. Wie viele Beurkundungsgegenstände liegen vor?",
   "optionen": [
-   "Ein Gegenstand, weil der konkrete Beschluss unmittelbar mit der Satzungsänderung zusammenhängt (Buchst. a).",
    "Zwei Gegenstände, weil der konkrete Beschluss nicht auf Satzungsebene liegt und auch später gesondert hätte gefasst werden können.",
+   "Zwei Gegenstände, aber nur der Satzungsbeschluss ist nach § 108 GNotKG zu bewerten.",
    "Ein Gegenstand, weil beide Beschlüsse keinen bestimmten Geldwert haben (Buchst. c).",
-   "Zwei Gegenstände, aber nur der Satzungsbeschluss ist nach § 108 GNotKG zu bewerten."
+   "Ein Gegenstand, weil der konkrete Beschluss unmittelbar mit der Satzungsänderung zusammenhängt (Buchst. a)."
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Buchst. a erfasst nur einen Beschluss und die unmittelbar damit zusammenhängende Satzungsänderung. Die Satzungsänderung, die eine allgemeine Befreiung ermöglicht, und der Beschluss über die konkrete Befreiung eines bestimmten Geschäftsführers sind verschiedene Gegenstände (§ 86 Abs. 2 GNotKG), weil der konkrete Beschluss nicht mehr auf Satzungsebene liegt und auch später gesondert gefasst werden könnte. Folgebeschlüsse, die eine Satzungsänderung nur voraussetzen, unter Buchst. a zu fassen, ist ein typischer Fehler; Buchst. c betrifft nur mehrere Satzungsänderungen."
  },
  {
@@ -233,7 +233,7 @@
   "seite": "Beurkundungsgegenstand: Gegenstandsgleichheit nach § 109 Abs. 2 GNotKG – Beschlüsse und Wahlen",
   "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-gegenstandsgleichheit-nach-109-abs-2-gnotkg-beschlusse-und-wahlen",
   "typ": "rf",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 109 Abs. 2 S. 1 Nr. 4 Buchst. d bis f GNotKG"
   ],
@@ -255,13 +255,13 @@
   ],
   "frage": "Eine GmbH beschließt in einer Urkunde eine Kapitalerhöhung, die Anpassung der Kapitalziffer in der Satzung, die Zulassung eines Dritten zur Übernahme des neuen Geschäftsanteils sowie die Änderung der Firma. Wie viele Beurkundungsgegenstände liegen vor?",
   "optionen": [
+   "Vier Gegenstände, weil Kapitalmaßnahmen stets mit jedem anderen Beschluss gegenstandsverschieden sind.",
    "Ein Gegenstand, weil alle Beschlüsse in derselben Versammlung gefasst werden.",
    "Zwei Gegenstände: die Kapitalerhöhung mit Kapitalziffer und Zulassung einerseits, die Firmenänderung andererseits.",
-   "Drei Gegenstände: Kapitalerhöhung, Satzungsänderungen (Kapitalziffer und Firma) und Zulassungsbeschluss.",
-   "Vier Gegenstände, weil Kapitalmaßnahmen stets mit jedem anderen Beschluss gegenstandsverschieden sind."
+   "Drei Gegenstände: Kapitalerhöhung, Satzungsänderungen (Kapitalziffer und Firma) und Zulassungsbeschluss."
   ],
-  "antwort": 1,
-  "erklaerung": "Mit der Kapitalmaßnahme (Buchst. b) gegenstandsgleich sind allein Beschlüsse, die direkt mit ihr zusammenhängen, namentlich die Anpassung der Kapitalziffer und die Zulassung eines Gesellschafters oder Dritten zur Übernahme der neuen Beteiligung. Beschlüsse ohne bestimmten Geldwert wie die Firmenänderung bilden demgegenüber einen eigenen Gegenstand; die Werte werden nach § 86 Abs. 2 GNotKG addiert. Option 3 ordnet die Kapitalziffer fälschlich den Satzungsänderungen ohne Geldwert (Buchst. c) zu."
+  "antwort": 2,
+  "erklaerung": "Mit der Kapitalmaßnahme (Buchst. b) gegenstandsgleich sind allein Beschlüsse, die direkt mit ihr zusammenhängen, namentlich die Anpassung der Kapitalziffer und die Zulassung eines Gesellschafters oder Dritten zur Übernahme der neuen Beteiligung. Beschlüsse ohne bestimmten Geldwert wie die Firmenänderung bilden demgegenüber einen eigenen Gegenstand; die Werte werden nach § 86 Abs. 2 GNotKG addiert. Wer drei Gegenstände annimmt, ordnet die Kapitalziffer fälschlich den Satzungsänderungen ohne Geldwert (Buchst. c) zu."
  },
  {
   "id": "kost1-013",
@@ -276,12 +276,12 @@
   ],
   "frage": "In einer Niederschrift werden die Zustimmungsbeschlüsse der Gesellschafter der A-GmbH und der B-GmbH zur Verschmelzung der A-GmbH auf die B-GmbH sowie der Zustimmungsbeschluss der B-GmbH zu einer anschließenden Abspaltung protokolliert. Welche Beschlüsse sind gegenstandsgleich?",
   "optionen": [
-   "Alle drei Beschlüsse, weil sie in einer Niederschrift protokolliert sind.",
    "Nur die beiden Zustimmungsbeschlüsse zur Verschmelzung; der Abspaltungsbeschluss ist ein eigener Gegenstand.",
+   "Alle drei Beschlüsse, weil sie in einer Niederschrift protokolliert sind.",
    "Keiner, weil Beschlüsse verschiedener Rechtsträger stets gegenstandsverschieden sind.",
    "Nur die beiden Beschlüsse der B-GmbH, weil dasselbe Organ sie fasst."
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Nach Buchst. g sind Zustimmungsbeschlüsse von Organen verschiedener Rechtsträger zu demselben Umwandlungsvorgang gegenstandsgleich, wenn sie in einer Niederschrift protokolliert werden. Betreffen die Beschlüsse verschiedene Umwandlungsvorgänge, etwa eine Verschmelzung und eine Abspaltung, sind sie gegenstandsverschieden; Gleichheit besteht nur zwischen den Beschlüssen zu demselben Vorgang. Dass dasselbe Organ beschließt, begründet nach § 86 Abs. 2 GNotKG keine Gegenstandsgleichheit."
  },
  {
@@ -298,8 +298,8 @@
   ],
   "frage": "Welche Aussage zur Struktur des § 109 Abs. 2 GNotKG trifft zu?",
   "optionen": [
-   "Er enthält wie Abs. 1 eine abstrakte Definition, die durch Beispielsfälle ergänzt wird.",
    "Er verlangt ein Abhängigkeitsverhältnis zwischen Haupt- und Nebengeschäft.",
+   "Er enthält wie Abs. 1 eine abstrakte Definition, die durch Beispielsfälle ergänzt wird.",
    "Er zählt die Fälle gleichrangiger Erklärungen mit innerem Zusammenhang abschließend auf.",
    "Er ordnet für alle genannten Fälle die Addition der Einzelwerte an."
   ],
@@ -313,20 +313,20 @@
   "seite": "Beurkundungsgegenstand: Gegenstandsgleichheit nach § 109 Abs. 2 GNotKG – Grundsätze und Einzelfälle",
   "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-gegenstandsgleichheit-nach-109-abs-2-gnotkg-grundsatze-und-einzelfalle",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 109 Abs. 2 S. 1 Nr. 1 GNotKG",
    "§ 110 Nr. 3 GNotKG"
   ],
   "frage": "In einer Urkunde werden eine Vorsorgevollmacht, eine Patientenverfügung und eine Betreuungsverfügung beurkundet. Welche Erklärungen sind gegenstandsgleich?",
   "optionen": [
-   "Alle drei, weil sie der Vorsorge für denselben Fall dienen.",
    "Patientenverfügung und Betreuungsverfügung; die Vorsorgevollmacht ist gegenstandsverschieden.",
-   "Vorsorgevollmacht und Betreuungsverfügung; die Patientenverfügung ist gegenstandsverschieden.",
-   "Keine, weil jede Erklärung einen eigenen Zweck verfolgt."
+   "Alle drei, weil sie der Vorsorge für denselben Fall dienen.",
+   "Keine, weil jede Erklärung einen eigenen Zweck verfolgt.",
+   "Vorsorgevollmacht und Betreuungsverfügung; die Patientenverfügung ist gegenstandsverschieden."
   ],
-  "antwort": 1,
-  "erklaerung": "Nach § 109 Abs. 2 S. 1 Nr. 1 GNotKG sind Patientenverfügung und Betreuungsverfügung gegenstandsgleich; darunter fallen neben dem Vorschlag zur Person des Betreuers auch weitere Anweisungen zur Führung der Betreuung. Zur Vorsorgevollmacht ordnet § 110 Nr. 3 GNotKG dagegen ausdrücklich Gegenstandsverschiedenheit an. Option 1 übersieht diese Rückausnahme."
+  "antwort": 0,
+  "erklaerung": "Nach § 109 Abs. 2 S. 1 Nr. 1 GNotKG sind Patientenverfügung und Betreuungsverfügung gegenstandsgleich; darunter fallen neben dem Vorschlag zur Person des Betreuers auch weitere Anweisungen zur Führung der Betreuung. Zur Vorsorgevollmacht ordnet § 110 Nr. 3 GNotKG dagegen ausdrücklich Gegenstandsverschiedenheit an. Die Annahme, alle drei seien gegenstandsgleich, übersieht diese Rückausnahme."
  },
  {
   "id": "kost1-016",
@@ -347,34 +347,34 @@
    {
     "frage": "Nach welcher Vorschrift sind Grundschuldbestellung und Schuldanerkenntnis gegenstandsgleich?",
     "optionen": [
+     "Sie sind nicht gegenstandsgleich, weil das Anerkenntnis den Nennbetrag unterschreitet.",
      "§ 109 Abs. 1 S. 1 und 2 GNotKG, weil das Anerkenntnis der Sicherung der Grundschuld dient.",
-     "§ 109 Abs. 2 S. 1 Nr. 3 GNotKG, weil beide gleichrangig eine nicht beurkundete Forderung sichern.",
      "§ 109 Abs. 1 S. 4 Nr. 4 GNotKG, weil das Anerkenntnis eine Unterwerfungserklärung ist.",
-     "Sie sind nicht gegenstandsgleich, weil das Anerkenntnis den Nennbetrag unterschreitet."
+     "§ 109 Abs. 2 S. 1 Nr. 3 GNotKG, weil beide gleichrangig eine nicht beurkundete Forderung sichern."
     ],
-    "antwort": 1,
+    "antwort": 3,
     "erklaerung": "Zwischen Schulderklärung und Grundschuldbestellung besteht kein Abhängigkeitsverhältnis im Sinne des § 109 Abs. 1 GNotKG; beide sichern gleichrangig eine regelmäßig nicht beurkundete Forderung. Die Gegenstandsgleichheit folgt aus der Sonderregel des § 109 Abs. 2 S. 1 Nr. 3 GNotKG und reicht bis zum Nennbetrag des Grundpfandrechts."
    },
    {
     "frage": "Wie sind die beiden Vollstreckungsunterwerfungen kostenrechtlich einzuordnen?",
     "optionen": [
-     "Sie sind nach § 109 Abs. 1 S. 4 Nr. 4 GNotKG zum jeweils gesicherten Anspruch gegenstandsgleich.",
-     "Sie sind nach § 110 GNotKG stets besondere Gegenstände.",
      "Sie sind gebührenfreie Nebentätigkeit ohne eigenen Gegenstand.",
-     "Sie sind nach § 109 Abs. 2 S. 1 Nr. 3 GNotKG nur bis 250.000 EUR gegenstandsgleich."
+     "Sie sind nach § 109 Abs. 2 S. 1 Nr. 3 GNotKG nur bis 250.000 EUR gegenstandsgleich.",
+     "Sie sind nach § 110 GNotKG stets besondere Gegenstände.",
+     "Sie sind nach § 109 Abs. 1 S. 4 Nr. 4 GNotKG zum jeweils gesicherten Anspruch gegenstandsgleich."
     ],
-    "antwort": 0,
+    "antwort": 3,
     "erklaerung": "Anspruch und Unterwerfung unter die Zwangsvollstreckung sind nach § 109 Abs. 1 S. 4 Nr. 4 GNotKG gegenstandsgleich. Bei der vollstreckbaren Grundschuld tritt diese Gegenstandsgleichheit neben die nach § 109 Abs. 2 S. 1 Nr. 3 GNotKG (mehrfache Gegenstandsgleichheit)."
    },
    {
     "frage": "Welche Konsequenz hat es, dass das Schuldanerkenntnis mit Unterwerfung nur über 250.000 EUR erklärt wird?",
     "optionen": [
      "Keine; der Geschäftswert beträgt 400.000 EUR mit einheitlichem Gebührensatz 1,0.",
-     "Der Geschäftswert ist auf 250.000 EUR zu begrenzen, weil die niedrigere Erklärung maßgeblich ist.",
      "Wegen der unterschiedlichen Gebührensätze ist eine Vergleichsberechnung nach § 94 Abs. 2 GNotKG erforderlich.",
-     "Die Werte 400.000 EUR und 250.000 EUR sind nach § 86 Abs. 2 GNotKG zu addieren."
+     "Die Werte 400.000 EUR und 250.000 EUR sind nach § 86 Abs. 2 GNotKG zu addieren.",
+     "Der Geschäftswert ist auf 250.000 EUR zu begrenzen, weil die niedrigere Erklärung maßgeblich ist."
     ],
-    "antwort": 2,
+    "antwort": 1,
     "erklaerung": "Die Grundschuldbewilligung unterliegt dem Satz 0,5 (KV 21201 Nr. 4), die Unterwerfung dem Satz 1,0 (KV 21200). Wird das Anerkenntnis mit Unterwerfung nur über einen Teil des Nennbetrags erklärt, unterliegen die gegenstandsgleichen Erklärungen unterschiedlichen Gebührensätzen bei verschiedenen Werten, so dass eine Vergleichsberechnung nach § 94 Abs. 2 GNotKG durchzuführen ist. Eine Addition scheidet wegen der Gegenstandsgleichheit aus."
    }
   ],
@@ -411,12 +411,12 @@
   ],
   "frage": "Was ist nach § 86 Abs. 1 GNotKG bei einer Erklärungsbeurkundung der Beurkundungsgegenstand?",
   "optionen": [
-   "Der von den Erklärungen betroffene Vermögensgegenstand, etwa das Grundstück.",
    "Das Rechtsverhältnis, auf das sich die Erklärungen beziehen.",
+   "Der von den Erklärungen betroffene Vermögensgegenstand, etwa das Grundstück.",
    "Die Gesamtheit der in der Urkunde enthaltenen Willenserklärungen.",
    "Der wirtschaftliche Zweck, den die Beteiligten mit der Urkunde verfolgen."
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "§ 86 Abs. 1 GNotKG definiert den Beurkundungsgegenstand als das Rechtsverhältnis, auf das sich die Erklärungen beziehen; bei Tatsachenbeurkundungen ist es die beurkundete Tatsache oder der Vorgang. Der Begriff ist rechtlich, nicht wirtschaftlich zu verstehen: Der Gesetzgeber wollte das Rechtsverhältnis klar vom betroffenen Wirtschaftsgut abgrenzen. Deshalb kann dieselbe Sache mehrere Gegenstände betreffen, und mehrere Sachen können einen Gegenstand bilden."
  },
  {
@@ -449,12 +449,12 @@
   ],
   "frage": "Welcher Vorgang bildet nach den Grundsätzen zu § 86 GNotKG nur einen einzigen Beurkundungsgegenstand?",
   "optionen": [
+   "Kaufvertrag und Umsatzsteueroption in derselben Urkunde.",
    "Schenkung eines Grundstücks und anschließender Gesellschaftsvertrag über dasselbe Grundstück zwischen denselben Beteiligten.",
-   "Einheitlicher Verkauf mehrerer Grundstücke zwischen denselben Vertragsparteien.",
    "Übertragungen innerhalb einer Familie mit unterschiedlichen Beteiligten und Übertragungsrichtungen.",
-   "Kaufvertrag und Umsatzsteueroption in derselben Urkunde."
+   "Einheitlicher Verkauf mehrerer Grundstücke zwischen denselben Vertragsparteien."
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Maßgeblich ist das Rechtsverhältnis, nicht der Vermögensgegenstand: Der einheitliche Verkauf mehrerer Grundstücke zwischen denselben Parteien ist ein Rechtsverhältnis. Unterschiedliche Vertragstypen wie Schenkung und Gesellschaftsvertrag begründen dagegen mehrere Gegenstände, auch wenn Grundstück und Beteiligte übereinstimmen. Die Umsatzsteueroption ist nach § 110 Nr. 2 Buchst. c GNotKG ausdrücklich gegenstandsverschieden."
  },
  {
@@ -490,12 +490,12 @@
   "frage": "Ein Kaufvertrag enthält eine Umsatzsteueroption. Wie ist die Beurkundungsgebühr zu ermitteln?",
   "optionen": [
    "2,0-Gebühr nur aus dem Kaufpreis; die Option ist gegenstandsgleich und bleibt unberücksichtigt.",
-   "Getrennte Gebühren (2,0 aus dem Kaufpreis, 1,0 aus dem Optionswert), höchstens jedoch die 2,0-Gebühr aus der Wertesumme.",
    "Stets 2,0-Gebühr aus der Summe von Kaufpreis und Umsatzsteuerbetrag.",
-   "Stets getrennte Gebühren, weil die Option ein besonderer Gegenstand nach § 111 GNotKG ist."
+   "Stets getrennte Gebühren, weil die Option ein besonderer Gegenstand nach § 111 GNotKG ist.",
+   "Getrennte Gebühren (2,0 aus dem Kaufpreis, 1,0 aus dem Optionswert), höchstens jedoch die 2,0-Gebühr aus der Wertesumme."
   ],
-  "antwort": 1,
-  "erklaerung": "Die Umsatzsteueroption ist nach § 110 Nr. 2 Buchst. c GNotKG gegenstandsverschieden und unterliegt 1,0 nach KV 21200 GNotKG, der Kaufvertrag 2,0 nach KV 21100 GNotKG. Nach § 94 Abs. 1 GNotKG wird getrennt berechnet, soweit das günstiger ist; Obergrenze ist die Gebühr aus der Wertesumme nach dem höchsten Satz. Option 3 übersieht, dass die getrennte Berechnung günstiger sein kann."
+  "antwort": 3,
+  "erklaerung": "Die Umsatzsteueroption ist nach § 110 Nr. 2 Buchst. c GNotKG gegenstandsverschieden und unterliegt 1,0 nach KV 21200 GNotKG, der Kaufvertrag 2,0 nach KV 21100 GNotKG. Nach § 94 Abs. 1 GNotKG wird getrennt berechnet, soweit das günstiger ist; Obergrenze ist die Gebühr aus der Wertesumme nach dem höchsten Satz. Die stets einheitliche 2,0-Gebühr aus der Summe übersieht, dass die getrennte Berechnung günstiger sein kann."
  },
  {
   "id": "kost1-023",
@@ -513,8 +513,8 @@
   ],
   "frage": "Bei einem Kaufvertrag mit gegenstandsverschiedener Erklärung war die getrennte Berechnung der Beurkundungsgebühr nach § 94 Abs. 1 GNotKG günstiger. Aus welchem Wert ist die Vollzugsgebühr zu berechnen?",
   "optionen": [
-   "Getrennt aus den Einzelwerten, entsprechend der Verfahrensgebühr.",
    "Nur aus dem Wert des Kaufvertrags als Hauptgeschäft.",
+   "Getrennt aus den Einzelwerten, entsprechend der Verfahrensgebühr.",
    "Aus der Summe der Werte, weil § 94 GNotKG nur die Verfahrensgebühr betrifft.",
    "Aus dem höchsten Einzelwert entsprechend § 109 Abs. 2 S. 2 GNotKG."
   ],
@@ -528,7 +528,7 @@
   "seite": "Beurkundungsgegenstand: Vergleichsberechnung (§ 94 GNotKG)",
   "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-vergleichsberechnung-94-gnotkg",
   "typ": "rf",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 94 Abs. 2 GNotKG",
    "§ 109 Abs. 1 S. 5 GNotKG"
@@ -552,11 +552,11 @@
   "frage": "Eine Urkunde enthält drei gegenstandsverschiedene Erklärungen: zwei unterliegen dem Satz 1,0, eine dem Satz 0,5. Wie ist bei der Vergleichsberechnung vorzugehen?",
   "optionen": [
    "Alle drei Werte einzeln berechnen und die günstigste Kombination wählen.",
-   "Die beiden Werte mit Satz 1,0 vorab addieren und dann mit der 0,5-Gruppe vergleichen.",
    "Alle Werte addieren und stets die 1,0-Gebühr aus der Summe erheben.",
-   "Nur die 0,5-Erklärung getrennt berechnen, die 1,0-Erklärungen jeweils einzeln."
+   "Nur die 0,5-Erklärung getrennt berechnen, die 1,0-Erklärungen jeweils einzeln.",
+   "Die beiden Werte mit Satz 1,0 vorab addieren und dann mit der 0,5-Gruppe vergleichen."
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Gegenstände mit demselben Gebührensatz werden vorab zusammengerechnet, weil die Addition bei gleichem Satz wegen der Degression immer günstiger ist. Verglichen werden nur die addierten Werte der Gruppen mit unterschiedlichen Sätzen; Obergrenze ist nach § 94 Abs. 1 GNotKG die Gebühr aus der Wertesumme nach dem höchsten Satz."
  },
  {
@@ -573,13 +573,13 @@
   ],
   "frage": "Worin unterscheiden sich §§ 110 und 111 GNotKG?",
   "optionen": [
+   "§ 110 begründet absolute Verschiedenheit, § 111 nur relative Verschiedenheit innerhalb einer Gruppe.",
    "§ 110 ordnet Gegenstandsgleichheit an, § 111 Gegenstandsverschiedenheit.",
-   "§ 110 begründet relative Verschiedenheit nur zwischen den Gruppen, § 111 absolute Verschiedenheit auch gegenüber gleichartigen Erklärungen.",
    "§ 110 gilt nur für Grundstücksgeschäfte, § 111 nur für erbrechtliche Erklärungen.",
-   "§ 110 begründet absolute Verschiedenheit, § 111 nur relative Verschiedenheit innerhalb einer Gruppe."
+   "§ 110 begründet relative Verschiedenheit nur zwischen den Gruppen, § 111 absolute Verschiedenheit auch gegenüber gleichartigen Erklärungen."
   ],
-  "antwort": 1,
-  "erklaerung": "Die in § 110 GNotKG genannten Gruppen sind nur im Verhältnis zueinander verschieden; innerhalb einer Gruppe kann Gegenstandsgleichheit bestehen, etwa zwischen mehreren Beschlüssen nach § 109 Abs. 2 S. 1 Nr. 4 GNotKG. Die Rechtsverhältnisse des § 111 GNotKG sind gegenüber allen anderen Erklärungen und auch untereinander besondere Gegenstände; mehrere gleichartige werden gesondert bewertet und addiert (§ 35 GNotKG). Option 4 vertauscht die Zuordnung."
+  "antwort": 3,
+  "erklaerung": "Die in § 110 GNotKG genannten Gruppen sind nur im Verhältnis zueinander verschieden; innerhalb einer Gruppe kann Gegenstandsgleichheit bestehen, etwa zwischen mehreren Beschlüssen nach § 109 Abs. 2 S. 1 Nr. 4 GNotKG. Die Rechtsverhältnisse des § 111 GNotKG sind gegenüber allen anderen Erklärungen und auch untereinander besondere Gegenstände; mehrere gleichartige werden gesondert bewertet und addiert (§ 35 GNotKG). Die Umkehrung (absolute Verschiedenheit in § 110, relative in § 111) vertauscht die Zuordnung."
  },
  {
   "id": "kost1-027",
@@ -624,14 +624,20 @@
   "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung",
   "seite": "Beurkundungsgegenstand: verschiedene und besondere Gegenstände (§§ 110, 111 GNotKG)",
   "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-verschiedene-und-besondere-gegenstande-110-111-gnotkg",
-  "typ": "rf",
+  "typ": "mc",
   "schwierigkeit": 3,
   "normen": [
    "§ 110 Nr. 2 Buchst. b GNotKG",
    "§ 109 Abs. 1 GNotKG"
   ],
-  "frage": "Bewilligt der Käufer im Kaufvertrag dem Verkäufer ein lebenslanges Wohnungsrecht als beschränkte persönliche Dienstbarkeit, ist diese Bewilligung nach § 110 Nr. 2 Buchst. b GNotKG ein gesonderter Gegenstand.",
-  "antwort": false,
+  "frage": "Der Käufer bewilligt im Kaufvertrag dem Verkäufer ein lebenslanges Wohnungsrecht als beschränkte persönliche Dienstbarkeit. Wie ist die Bewilligung kostenrechtlich einzuordnen?",
+  "optionen": [
+   "Als Finanzierungserklärung nach § 110 Nr. 2 Buchst. a GNotKG, weil sie die Gegenleistung betrifft.",
+   "Als gesonderter Gegenstand nach § 110 Nr. 2 Buchst. b GNotKG mit Vergleichsberechnung nach § 94 Abs. 1 GNotKG.",
+   "Als besonderer Gegenstand nach § 111 GNotKG, der stets zu addieren ist.",
+   "Als gegenstandsgleiches Sicherungsgeschäft, weil § 110 Nr. 2 Buchst. b GNotKG nur subjektiv-dingliche Rechte erfasst."
+  ],
+  "antwort": 3,
   "erklaerung": "§ 110 Nr. 2 Buchst. b GNotKG erfasst nur subjektiv-dingliche Rechte wie Grunddienstbarkeiten und subjektiv-dingliche Vorkaufsrechte. Beschränkte persönliche Dienstbarkeiten bleiben als Sicherungsgeschäft gegenstandsgleich, weil sie mit dem Tod des Berechtigten, wenn nicht schon früher, enden. Bei Grunddienstbarkeiten wäre dagegen wegen der Sätze 0,5 (KV 21201 Nr. 4) und 2,0 (KV 21100) eine Vergleichsberechnung nach § 94 Abs. 1 GNotKG erforderlich."
  },
  {
@@ -648,10 +654,10 @@
   ],
   "frage": "Die Gesellschafter berufen in einem Wahlgang Geschäftsführer A ab und bestellen B und C; der Notar meldet die Änderungen zum Handelsregister an. Wie ist kostenrechtlich zu verfahren?",
   "optionen": [
+   "Drei Beschlüsse und drei Anmeldungen, weil § 111 GNotKG auch Beschlüsse erfasst.",
    "Ein Beschluss und eine Anmeldung, weil alles in einem Wahlgang geschah.",
-   "Drei Beschlüsse und eine Anmeldung, weil die Anmeldung eine notwendige Erklärungseinheit bildet.",
    "Ein Beschluss, aber je Geschäftsführer eine eigene Anmeldung als besonderer Gegenstand.",
-   "Drei Beschlüsse und drei Anmeldungen, weil § 111 GNotKG auch Beschlüsse erfasst."
+   "Drei Beschlüsse und eine Anmeldung, weil die Anmeldung eine notwendige Erklärungseinheit bildet."
   ],
   "antwort": 2,
   "erklaerung": "Abberufung und Bestellung mehrerer Geschäftsführer in einem Wahlgang sind nach § 109 Abs. 2 S. 1 Nr. 4 Buchst. d GNotKG ein Beschluss. Nach § 111 Nr. 3 GNotKG ist aber jede Anmeldung ein besonderer Gegenstand, auch gegenüber anderen Anmeldungen derselben Urkunde, so dass je Geschäftsführer eine eigene Anmeldung vorliegt. Eine notwendige Erklärungseinheit besteht etwa bei der Erstanmeldung einer GmbH, nicht bei personell getrennten Geschäftsführerwechseln."
@@ -669,13 +675,13 @@
   ],
   "frage": "Wie hoch ist die Gebühr für die Beglaubigung eines vierseitigen Dokuments nach KV 25102 GNotKG?",
   "optionen": [
-   "4 € zuzüglich Dokumentenpauschale",
    "10 €",
-   "20 €",
-   "4 €"
+   "4 €",
+   "4 € zuzüglich Dokumentenpauschale",
+   "20 €"
   ],
-  "antwort": 1,
-  "erklaerung": "Die Gebühr beträgt nach KV 25102 GNotKG 1 € je angefangene Seite, mindestens 10 €; bei vier Seiten greift daher die Mindestgebühr von 10 €. Eine Dokumentenpauschale wird daneben nach KV 25102 Anm. Abs. 1 GNotKG nicht erhoben. Die Option „4 €“ übersieht die Mindestgebühr."
+  "antwort": 0,
+  "erklaerung": "Die Gebühr beträgt nach KV 25102 GNotKG 1 € je angefangene Seite, mindestens 10 €; bei vier Seiten greift daher die Mindestgebühr von 10 €. Eine Dokumentenpauschale wird daneben nach KV 25102 Anm. Abs. 1 GNotKG nicht erhoben. Die Der Ansatz von 4 € übersieht die Mindestgebühr."
  },
  {
   "id": "kost1-031",
@@ -690,12 +696,12 @@
   ],
   "frage": "Für welche beglaubigte Abschrift fällt die Beglaubigungsgebühr nach KV 25102 GNotKG an?",
   "optionen": [
-   "Abschrift eines vom Notar beurkundeten Kaufvertrags (Niederschrift nach § 8 BeurkG).",
-   "Abschrift einer vom Notar entworfenen Grundschuldbestellung mit Unterschriftsbeglaubigung.",
    "Abschrift einer fremd entworfenen Erklärung, bei der der Notar nur die Unterschrift beglaubigt hat.",
-   "Abschrift einer Urkunde, die der Notar in Urschrift dauernd verwahrt."
+   "Abschrift einer vom Notar entworfenen Grundschuldbestellung mit Unterschriftsbeglaubigung.",
+   "Abschrift einer Urkunde, die der Notar in Urschrift dauernd verwahrt.",
+   "Abschrift eines vom Notar beurkundeten Kaufvertrags (Niederschrift nach § 8 BeurkG)."
   ],
-  "antwort": 2,
+  "antwort": 0,
   "erklaerung": "Gebührenfrei sind nach KV 25102 Anm. Abs. 2 Nr. 1 GNotKG Abschriften von Urkunden, die der Notar aufgenommen oder entworfen hat oder in Urschrift dauernd verwahrt; das gilt auch für eigene Entwürfe mit Unterschriftsbeglaubigung. Bei einer reinen Unterschriftsbeglaubigung hat der Notar die Urkunde weder aufgenommen noch verwahrt er die Urschrift, so dass die Gebühr entsteht. Die Gebühr für Abschriften eigener Niederschriften oder Entwürfe zu berechnen, ist ein typischer Fehler."
  },
  {
@@ -729,13 +735,13 @@
   ],
   "frage": "Der Notar reicht zur Handelsregisteranmeldung eine einfache Gesellschafterliste ohne Notarbescheinigung mit elektronischem Beglaubigungsvermerk ein. Darf er dafür die Beglaubigungsgebühr berechnen?",
   "optionen": [
-   "Ja, weil jeder Beglaubigungsvermerk die Gebühr nach KV 25102 GNotKG auslöst.",
    "Nein, weil formfreie Beilagen als einfacher Scan genügen und ein nicht notwendiges Zeugnis nach § 21 GNotKG nicht berechnet werden darf.",
+   "Ja, weil jeder Beglaubigungsvermerk die Gebühr nach KV 25102 GNotKG auslöst.",
    "Ja, aber nur in Höhe der Dokumentenpauschale.",
    "Nein, weil elektronische Beglaubigungen nach § 39a BeurkG generell gebührenfrei sind."
   ],
-  "antwort": 1,
-  "erklaerung": "Gegenüber Registern muss die Beglaubigung erforderlich sein; maßgeblich ist die Form, in der das Dokument vorzulegen ist. Formfreie Beilagen wie einfache Gesellschafterbeschlüsse oder Gesellschafterlisten ohne Notarbescheinigung genügen als einfacher Scan, so dass ein nicht notwendiges Zeugnis nach § 39a BeurkG wegen § 21 GNotKG nicht berechnet werden darf. Option 4 ist falsch, weil KV 25102 GNotKG auch elektronische Beglaubigungen erfasst."
+  "antwort": 0,
+  "erklaerung": "Gegenüber Registern muss die Beglaubigung erforderlich sein; maßgeblich ist die Form, in der das Dokument vorzulegen ist. Formfreie Beilagen wie einfache Gesellschafterbeschlüsse oder Gesellschafterlisten ohne Notarbescheinigung genügen als einfacher Scan, so dass ein nicht notwendiges Zeugnis nach § 39a BeurkG wegen § 21 GNotKG nicht berechnet werden darf. Generelle Gebührenfreiheit elektronischer Beglaubigungen ist falsch, weil KV 25102 GNotKG auch elektronische Beglaubigungen erfasst."
  },
  {
   "id": "kost1-034",
@@ -751,12 +757,12 @@
   ],
   "frage": "Im selben Termin beurkundet der Notar einen Kaufvertrag und in gesonderter Niederschrift die Finanzierungsgrundschuld. Wie viele Beurkundungsverfahren liegen vor?",
   "optionen": [
-   "Eines, weil beide Urkunden sachlich zusammenhängen.",
+   "Zwei, aber die Werte werden nach § 35 Abs. 1 GNotKG addiert.",
    "Eines, weil beide im selben Termin aufgenommen wurden.",
-   "Zwei, weil jede Niederschrift ein eigenes Beurkundungsverfahren ist.",
-   "Zwei, aber die Werte werden nach § 35 Abs. 1 GNotKG addiert."
+   "Eines, weil beide Urkunden sachlich zusammenhängen.",
+   "Zwei, weil jede Niederschrift ein eigenes Beurkundungsverfahren ist."
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Jede nach dem BeurkG aufgenommene Niederschrift ist ein eigenes Beurkundungsverfahren, selbst bei sachlichem Zusammenhang oder Aufnahme im selben Termin. Die Addition nach § 35 Abs. 1 GNotKG und die einmalige Gebühr nach § 93 Abs. 1 S. 1 GNotKG gelten nur innerhalb desselben Verfahrens; getrennte Urkunden werden getrennt abgerechnet."
  },
  {
@@ -771,8 +777,8 @@
    "§ 93 Abs. 1 S. 1 GNotKG",
    "KV 22201 GNotKG"
   ],
-  "frage": "Übernimmt der Notar in einem Kaufvertragsverfahren zwei Treuhandaufträge von verschiedenen Grundpfandgläubigern, fällt die Treuhandgebühr nach KV 22201 GNotKG wegen § 93 Abs. 1 GNotKG nur einmal an.",
-  "antwort": false,
+  "frage": "Übernimmt der Notar in einem Kaufvertragsverfahren zwei Treuhandaufträge verschiedener Grundpfandgläubiger, fällt die Treuhandgebühr nach KV 22201 GNotKG zweimal an.",
+  "antwort": true,
   "erklaerung": "Die Treuhandgebühr ist eine Ausnahme vom Grundsatz der einmaligen Erhebung: Sie entsteht neben der Betreuungsgebühr und fällt nach KV 22201 Anm. S. 2 GNotKG für jeden Treuhandauftrag gesondert an. Bei mehreren Treuhandaufträgen nur eine Treuhandgebühr anzusetzen, ist ein typischer Fehler. Für die Vollzugs- und die Betreuungsgebühr gilt dagegen § 93 Abs. 1 S. 1 GNotKG: je Verfahren nur eine Gebühr."
  },
  {
@@ -782,16 +788,16 @@
   "seite": "Notargebühren: einmalige Gebührenerhebung (§ 93 GNotKG)",
   "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-einmalige-gebuhrenerhebung-93-gnotkg",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 93 Abs. 1 S. 1 GNotKG"
   ],
   "frage": "Für einen beurkundeten Kaufvertrag holt der Notar eine Genehmigung, eine Vorkaufsrechtsverzichtserklärung und eine Löschungsbewilligung ein. Wie viele Vollzugsgebühren entstehen?",
   "optionen": [
-   "Drei, je Vollzugstätigkeit eine.",
+   "Keine, weil Vollzugstätigkeiten mit der Beurkundungsgebühr abgegolten sind.",
    "Eine, weil je Verfahren nur eine Vollzugsgebühr anfällt.",
    "Zwei, weil die Löschungsbewilligung Betreuung ist.",
-   "Keine, weil Vollzugstätigkeiten mit der Beurkundungsgebühr abgegolten sind."
+   "Drei, je Vollzugstätigkeit eine."
   ],
   "antwort": 1,
   "erklaerung": "Nach § 93 Abs. 1 S. 1 GNotKG gilt der Grundsatz der einmaligen Erhebung auch für Vollzugs- und Betreuungsgebühren: Je Verfahren fällt nur eine Vollzugsgebühr an, gleich wie viele Vollzugstätigkeiten nötig sind. Mehrere Vollzugsgebühren für dieselbe Urkunde anzusetzen, ist ein typischer Fehler; eine Ausnahme bilden nur die Gebühren für XML-Strukturdaten."
@@ -845,10 +851,10 @@
   ],
   "frage": "Der Eigentümer bewilligt in einer Niederschrift eine Dienstbarkeit für den Betreiber einer Photovoltaikanlage; die Urkunde enthält zugleich den Dachnutzungsvertrag. Welche Gebühr fällt an?",
   "optionen": [
-   "0,5 nach KV 21201 Nr. 4 GNotKG, weil Bewilligungen zur Grundbucheintragung privilegiert sind.",
+   "0,5 nach KV 24102 GNotKG, weil die Bewilligung nur Grundbuchzwecken dient.",
    "1,0 nach KV 21200 GNotKG, weil die Urkunde materiell-rechtliche Erklärungen enthält.",
    "2,0 nach KV 21100 GNotKG für den Vertrag zuzüglich 0,5 für die Bewilligung.",
-   "0,5 nach KV 24102 GNotKG, weil die Bewilligung nur Grundbuchzwecken dient."
+   "0,5 nach KV 21201 Nr. 4 GNotKG, weil Bewilligungen zur Grundbucheintragung privilegiert sind."
   ],
   "antwort": 1,
   "erklaerung": "KV 21201 Nr. 4 GNotKG erfasst nur reine Grundbucherklärungen. Enthält die Urkunde neben der Bewilligung materiell-rechtliche Erklärungen wie einen Dachnutzungsvertrag oder Sicherungsvertrag, gilt KV 21200 GNotKG mit 1,0; die Bewilligung ist dann meist gegenstandsgleiches Sicherungsgeschäft (§ 109 Abs. 1 GNotKG). KV 24102 GNotKG betrifft nur Entwürfe mit Unterschriftsbeglaubigung, nicht Niederschriften."
@@ -890,20 +896,20 @@
     "frage": "Welcher Gebührentatbestand ist für den beurkundeten Berichtigungsantrag einschlägig?",
     "optionen": [
      "1,0 nach KV 21200 GNotKG",
+     "2,0 nach KV 21100 GNotKG",
      "0,5 nach KV 21201 Nr. 4 GNotKG",
-     "0,5 nach KV 21201 Nr. 7 GNotKG",
-     "2,0 nach KV 21100 GNotKG"
+     "0,5 nach KV 21201 Nr. 7 GNotKG"
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Der beurkundete Grundbuchberichtigungsantrag, etwa nach Erbfall, fällt als Antrag zur Eintragung im Grundbuch unter KV 21201 Nr. 4 GNotKG mit 0,5. Nr. 7 betrifft Erklärungen gegenüber dem Nachlassgericht, nicht gegenüber dem Grundbuchamt."
    },
    {
     "frage": "Welcher Geschäftswert ist anzusetzen?",
     "optionen": [
-     "Der volle Verkehrswert des Grundstücks nach § 46 GNotKG.",
+     "Das modifizierte Reinvermögen des Nachlasses nach § 102 GNotKG.",
      "Der hälftige Verkehrswert als Teilwert nach § 46 GNotKG, weil nur ein Mitberechtigter betroffen ist.",
-     "Der Regelwert von 5.000 EUR nach § 36 Abs. 3 GNotKG.",
-     "Das modifizierte Reinvermögen des Nachlasses nach § 102 GNotKG."
+     "Der volle Verkehrswert des Grundstücks nach § 46 GNotKG.",
+     "Der Regelwert von 5.000 EUR nach § 36 Abs. 3 GNotKG."
     ],
     "antwort": 1,
     "erklaerung": "Der Wert folgt § 46 GNotKG; betrifft die Berichtigung nur einen Mitberechtigten, gilt der Teilwert, hier also der Wert des hälftigen Miteigentumsanteils."
@@ -911,12 +917,12 @@
    {
     "frage": "Was ist wegen der irrigen Formvorstellung der E zu beachten?",
     "optionen": [
-     "Nichts, die Gebühr ist mit der Beurkundung verdient.",
-     "Grundbuchanträge sind regelmäßig formfrei (§ 30 GBO); bei fehlendem Hinweis kommt unrichtige Sachbehandlung nach § 21 GNotKG in Betracht.",
      "Der Notar muss statt der Beurkundungsgebühr die Beglaubigungsgebühr nach KV 25100 GNotKG erheben.",
-     "Die Gebühr ermäßigt sich auf die Mindestgebühr nach § 34 Abs. 5 GNotKG."
+     "Nichts, die Gebühr ist mit der Beurkundung verdient.",
+     "Die Gebühr ermäßigt sich auf die Mindestgebühr nach § 34 Abs. 5 GNotKG.",
+     "Grundbuchanträge sind regelmäßig formfrei (§ 30 GBO); bei fehlendem Hinweis kommt unrichtige Sachbehandlung nach § 21 GNotKG in Betracht."
     ],
-    "antwort": 1,
+    "antwort": 3,
     "erklaerung": "Grundbuchanträge sind regelmäßig formfrei (§ 30 GBO). Ging der Kunde irrtümlich von einer Formpflicht aus, kommt unrichtige Sachbehandlung nach § 21 GNotKG in Betracht; der Notar sollte vor der Beurkundung auf die Formfreiheit hinweisen."
    }
   ],
@@ -937,12 +943,12 @@
   ],
   "frage": "Ein Kaufvertrag wurde mit einem vollmachtlosen Vertreter des Verkäufers beurkundet. Der Notar holt auftragsgemäß die Vollmachtsbestätigung ein. Welche Gebühr fällt dafür an?",
   "optionen": [
-   "1,0 nach KV 24101 i. V. m. KV 21200 GNotKG für den Entwurf der Bestätigung.",
-   "0,5 nach KV 21201 GNotKG als besonderer Fall einer einseitigen Erklärung.",
+   "Keine, weil die Bestätigung mit der Beurkundungsgebühr abgegolten ist.",
    "0,5-Vollzugsgebühr nach KV 22110 GNotKG aus dem Wert des Verfahrens (§ 112 GNotKG).",
-   "Keine, weil die Bestätigung mit der Beurkundungsgebühr abgegolten ist."
+   "0,5 nach KV 21201 GNotKG als besonderer Fall einer einseitigen Erklärung.",
+   "1,0 nach KV 24101 i. V. m. KV 21200 GNotKG für den Entwurf der Bestätigung."
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "Die Einholung einer Vollmachtsbestätigung zu einem beurkundeten Vertrag ist Vollzug und löst die 0,5-Gebühr nach KV 22110 GNotKG aus dem Wert des Verfahrens aus (§ 112 GNotKG). Die Entwurfsgebühr nach KV 24101 i. V. m. KV 21200 GNotKG fällt nur an, wenn der Notar eine Vollmacht für einen erst noch zu beurkundenden Vertrag entwirft. Eine Vollmacht ist kein besonderer Fall der KV 21201 GNotKG."
  },
  {
@@ -974,7 +980,7 @@
   "seite": "Notargebühren: Entwurf mit Unterschriftsbeglaubigung und Serienentwurf",
   "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-entwurf-mit-unterschriftsbeglaubigung-und-serienentwurf",
   "typ": "rf",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "Vorb. 2.4.1 Abs. 2 KV GNotKG",
    "KV 25100 GNotKG"
@@ -1000,8 +1006,8 @@
   "optionen": [
    "Geschäftswert ist die volle Summe von 8 Mio. EUR; Kostenschuldner sind die späteren Erwerber.",
    "Geschäftswert ist die halbe Summe (4 Mio. EUR); die Gebühr ist gegenüber dem Bauträger anzusetzen und auf die Einzelbeurkundungen anzurechnen.",
-   "Geschäftswert ist der Wert einer Wohnung (400.000 EUR); die Gebühr entfällt, wenn Einzelverträge folgen.",
-   "Geschäftswert ist die halbe Summe; der Notar darf die Gebühr bis zur letzten Einzelbeurkundung unbefristet stunden."
+   "Geschäftswert ist die halbe Summe; der Notar darf die Gebühr bis zur letzten Einzelbeurkundung unbefristet stunden.",
+   "Geschäftswert ist der Wert einer Wohnung (400.000 EUR); die Gebühr entfällt, wenn Einzelverträge folgen."
   ],
   "antwort": 1,
   "erklaerung": "Geschäftswert des Serienentwurfs ist nach § 119 Abs. 2 GNotKG die halbe Summe der Werte aller Einzelgeschäfte. Kostenschuldner ist der Auftraggeber, beim Bauträgermodell also der Bauträger; wegen der Pflicht zur gesetzmäßigen Gebührenerhebung ist die Gebühr anzusetzen und auf die späteren Einzelbeurkundungen anzurechnen. Eine Stundung ist nach Vorb. 2.4.1 Abs. 7 KV GNotKG nur längstens ein Jahr ab Fälligkeit zulässig."
@@ -1019,12 +1025,12 @@
   ],
   "frage": "Wofür steht in der KV-Nummer 24102 GNotKG die Ziffer „4“?",
   "optionen": [
-   "Für den Teil des Kostenverzeichnisses.",
    "Für den Hauptabschnitt (isolierte Entwürfe und Beratung).",
    "Für den Abschnitt innerhalb des Hauptabschnitts.",
-   "Für den Einzeltatbestand."
+   "Für den Einzeltatbestand.",
+   "Für den Teil des Kostenverzeichnisses."
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Die erste Ziffer einer KV-Nummer bezeichnet den Teil, die zweite den Hauptabschnitt, die dritte den Abschnitt und die letzten zwei den Einzeltatbestand. In 24102 steht die „2“ für Teil 2 (Notargebühren) und die „4“ für Hauptabschnitt 4 (isolierte Entwürfe und Beratung). Die Nummerierung ist bewusst lückenhaft."
  },
  {
@@ -1040,8 +1046,8 @@
    "§ 10 GNotKG",
    "KV 21300 GNotKG"
   ],
-  "frage": "Die Gebühr für das Beurkundungsverfahren entsteht erst mit der Unterzeichnung der Niederschrift; wird das Verfahren vorher beendet, ist keine Gebühr entstanden.",
-  "antwort": false,
+  "frage": "Die Verfahrensgebühr für die Beurkundung entsteht bereits mit dem Beurkundungsauftrag, auch wenn es später nicht zur Beurkundung kommt.",
+  "antwort": true,
   "erklaerung": "Für die Beurkundung gilt keine Aktgebühr mehr, sondern eine Verfahrensgebühr. Sie entsteht bereits mit dem Beurkundungsauftrag und wird erst nach § 10 GNotKG fällig. Bei vorzeitiger Beendigung ist die Gebühr daher schon entstanden und wird nur nach KV 21300 ff. GNotKG ermäßigt."
  },
  {
@@ -1058,13 +1064,13 @@
   ],
   "frage": "Welche Aussage zur Bestimmung des Gebührensatzes trifft zu?",
   "optionen": [
-   "Der Gebührensatz richtet sich nach dem Aufwand des Notars im Einzelfall.",
    "Die gewählte Form der Urkunde bestimmt den Gebührensatz, der Inhalt nur die KV-Nummer.",
+   "Der Gebührensatz richtet sich nach dem Aufwand des Notars im Einzelfall.",
    "Der Inhalt bestimmt den Gebührensatz, die gewählte Form nur die anzuwendende KV-Nummer.",
    "KV 21100 GNotKG gilt nur für schuldrechtliche Verträge, nicht für Beschlüsse."
   ],
   "antwort": 2,
-  "erklaerung": "Der Gebührensatz bildet die Schwierigkeit eines Geschäfts in abstrakter Betrachtung ab; der Aufwand im Einzelfall ist ohne Bedeutung. Der Inhalt der Urkunde bestimmt den Satz, die Form (Beurkundung oder Entwurf mit Unterschriftsbeglaubigung) nur die KV-Nummer. KV 21100 GNotKG gilt für Vertrag, gemeinschaftliches Testament und Beschluss gleichermaßen; Option 2 vertauscht Inhalt und Form."
+  "erklaerung": "Der Gebührensatz bildet die Schwierigkeit eines Geschäfts in abstrakter Betrachtung ab; der Aufwand im Einzelfall ist ohne Bedeutung. Der Inhalt der Urkunde bestimmt den Satz, die Form (Beurkundung oder Entwurf mit Unterschriftsbeglaubigung) nur die KV-Nummer. KV 21100 GNotKG gilt für Vertrag, gemeinschaftliches Testament und Beschluss gleichermaßen; Die Aussage, die Form bestimme den Satz, vertauscht Inhalt und Form."
  },
  {
   "id": "kost1-048",
@@ -1115,12 +1121,12 @@
   ],
   "frage": "Im Rahmen des Vollzugs eines Kaufvertrags entwirft der Notar eine Löschungsbewilligung für die Bank des Verkäufers. Die Entwurfsgebühr nach KV 24102 GNotKG wäre niedriger als die Vollzugsgebühr. Was gilt?",
   "optionen": [
-   "Der Notar kann wählen und die niedrigere Entwurfsgebühr ansetzen.",
-   "Der Notar rechnet Vollzugs- und Entwurfsgebühr nebeneinander ab.",
    "Der Entwurf ist mit der Vollzugsgebühr abgegolten; ein Wahlrecht besteht nicht.",
-   "Der Notar muss die Entwurfsgebühr ansetzen, weil sie für den Kostenschuldner günstiger ist."
+   "Der Notar rechnet Vollzugs- und Entwurfsgebühr nebeneinander ab.",
+   "Der Notar muss die Entwurfsgebühr ansetzen, weil sie für den Kostenschuldner günstiger ist.",
+   "Der Notar kann wählen und die niedrigere Entwurfsgebühr ansetzen."
   ],
-  "antwort": 2,
+  "antwort": 0,
   "erklaerung": "Entwürfe für Vollzugsurkunden fallen nicht unter KV 24100 ff. GNotKG; wird eine Vollzugsgebühr abgerechnet, erhält der Notar für den Entwurf keine Gebühr (Vorb. 2.2 Abs. 2 KV GNotKG). Der Vollzug verdrängt den Entwurf, und ein Wahlrecht besteht auch dann nicht, wenn die Entwurfsgebühr wegen eines geringeren Werts niedriger wäre."
  },
  {
@@ -1170,8 +1176,8 @@
   "optionen": [
    "Nach Umfang, Schwierigkeit und Haftungsrisiko, wie bei § 14 Abs. 1 RVG.",
    "Allein nach dem Umfang der erbrachten Leistungen; bei vollständigem Entwurf ist die Höchstgebühr zu erheben.",
-   "Nach Vermögen und Einkommen des Auftraggebers; die Ermessensausübung ist nicht überprüfbar.",
-   "Stets nach der Mittelgebühr, soweit der Entwurf noch offene Stellen enthält."
+   "Stets nach der Mittelgebühr, soweit der Entwurf noch offene Stellen enthält.",
+   "Nach Vermögen und Einkommen des Auftraggebers; die Ermessensausübung ist nicht überprüfbar."
   ],
   "antwort": 1,
   "erklaerung": "Nach § 92 Abs. 1 GNotKG ist allein der Umfang der erbrachten Leistungen maßgeblich; Schwierigkeit, Haftung, Vermögen und Einkommen bleiben anders als bei § 14 Abs. 1 RVG außer Betracht. Bei vollständiger Fertigung ist die Höchstgebühr zu erheben (§ 92 Abs. 2 GNotKG); vollständig ist der Entwurf, wenn alle überlassenen Informationen verarbeitet sind, auch wenn offene Stellen bleiben. Die Ermessensausübung ist im Beschwerdeverfahren voll überprüfbar."
@@ -1182,14 +1188,20 @@
   "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
   "seite": "Notargebühren: isolierter Entwurf (KV 24100–24102 GNotKG)",
   "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-isolierter-entwurf-kv-24100-24102-gnotkg",
-  "typ": "rf",
+  "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
    "Vorb. 2.4.1 Abs. 3 KV GNotKG",
    "§ 92 Abs. 1 GNotKG"
   ],
-  "frage": "Prüft und ergänzt der Notar auftragsgemäß einen ihm überlassenen fremden Entwurf, entsteht die Entwurfsgebühr pauschal in halber Höhe.",
-  "antwort": false,
+  "frage": "Der Notar prüft und ergänzt auftragsgemäß einen ihm überlassenen fremden Entwurf einer Registeranmeldung. Welche Gebühr fällt an?",
+  "optionen": [
+   "Die Entwurfsgebühr pauschal in halber Höhe.",
+   "Keine, weil der Notar den Entwurf nicht selbst gefertigt hat.",
+   "Die Entwurfsgebühr; der geringere Aufwand wirkt sich bei der Ausfüllung des Rahmens aus.",
+   "Nur die Beglaubigungsgebühr nach KV 25100 GNotKG."
+  ],
+  "antwort": 2,
   "erklaerung": "Nach Vorb. 2.4.1 Abs. 3 KV GNotKG entsteht die Entwurfsgebühr auch für die Überprüfung, Änderung oder Ergänzung eines fremden Entwurfs. Sie wird nicht pauschal halbiert; der geringere Aufwand wirkt sich nach § 92 Abs. 1 GNotKG bei der Ausfüllung des Rahmens aus."
  },
  {
@@ -1206,8 +1218,8 @@
   ],
   "frage": "Ein Schuldanerkenntnis über 2.000 EUR wird beurkundet (1,0 nach KV 21200 GNotKG). Welche Mindestgebühr ist zu beachten?",
   "optionen": [
-   "15 € nach § 34 Abs. 5 GNotKG",
    "30 € nach KV 21200 GNotKG",
+   "15 € nach § 34 Abs. 5 GNotKG",
    "60 € nach KV 21200 GNotKG",
    "120 € nach KV 21200 GNotKG"
   ],
@@ -1260,8 +1272,8 @@
   "normen": [
    "§ 34 Abs. 5 GNotKG"
   ],
-  "frage": "Die allgemeine Mindestgebühr von 15 € nach § 34 Abs. 5 GNotKG gilt auch für Auslagen des Notars.",
-  "antwort": false,
+  "frage": "Auslagen des Notars unterliegen nicht der allgemeinen Mindestgebühr von 15 € nach § 34 Abs. 5 GNotKG.",
+  "antwort": true,
   "erklaerung": "§ 34 Abs. 5 GNotKG gilt nur für Gebühren, und auch dort nur für Wertgebühren. Auslagen werden in tatsächlicher Höhe abgerechnet, soweit das Gesetz keine Pauschale und keinen Festbetrag vorsieht. Die Mindestgebühr auf Auslagen anzuwenden, ist ein typischer Fehler."
  },
  {
@@ -1281,10 +1293,10 @@
   "optionen": [
    "Ja, weil alle Tätigkeiten einfache Vollzugstätigkeiten sind.",
    "Ja, aber die Obergrenze erhöht sich um die Zahl der Tätigkeiten.",
-   "Nein, weil die Zustimmung nach § 5 ErbbauRG keine einfache Tätigkeit ist und die Deckelung nur bei ausschließlich einfachen Tätigkeiten greift.",
-   "Nein, weil die Deckelung nur für Vollzugstätigkeiten bei Kaufverträgen gilt."
+   "Nein, weil die Deckelung nur für Vollzugstätigkeiten bei Kaufverträgen gilt.",
+   "Nein, weil die Zustimmung nach § 5 ErbbauRG keine einfache Tätigkeit ist und die Deckelung nur bei ausschließlich einfachen Tätigkeiten greift."
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Die Deckelung nach KV 22112 und 22113 GNotKG greift nur, wenn ausschließlich einfache Vollzugstätigkeiten anfallen. Die Zustimmung des Grundstückseigentümers nach § 5 ErbbauRG fällt unter Vorb. 2.2.1.1 Abs. 1 S. 2 Nr. 5 statt Nr. 1 KV GNotKG und ist keine einfache Tätigkeit. Kommt sie hinzu, entfällt die Deckelung."
  },
  {
@@ -1301,10 +1313,10 @@
   ],
   "frage": "Welche Gebühr fällt für die reine Beglaubigung einer Unterschrift nach KV 25100 GNotKG an?",
   "optionen": [
-   "0,5-Gebühr, mindestens 30 €, höchstens 250 €",
+   "0,3-Gebühr, mindestens 15 €, ohne Höchstbetrag",
    "0,2-Gebühr, mindestens 20 €, höchstens 70 €",
    "Festgebühr von 20 €",
-   "0,3-Gebühr, mindestens 15 €, ohne Höchstbetrag"
+   "0,5-Gebühr, mindestens 30 €, höchstens 250 €"
   ],
   "antwort": 1,
   "erklaerung": "KV 25100 GNotKG sieht für die Beglaubigung einer Unterschrift oder eines Handzeichens eine 0,2-Gebühr vor, mindestens 20 € und höchstens 70 €; die Höchstgebühr greift ab Geschäftswerten von 140.000,01 €. Der Wert wird nach § 121 GNotKG so bestimmt, als würde die Erklärung beurkundet. Die Festgebühr von 20 € gilt nur für die Sonderfälle der KV 25101 GNotKG."
@@ -1325,12 +1337,12 @@
   "frage": "Der Notar beglaubigt (ohne Entwurf) die Unterschriften der Bankvertreter unter einer Löschungsbewilligung für eine Grundschuld über 300.000 EUR sowie die Unterschrift des Eigentümers unter dessen Löschungszustimmung mit Löschungsantrag. Welche Gebühren fallen an?",
   "optionen": [
    "Zweimal die Festgebühr von 20 € nach KV 25101 GNotKG.",
-   "Für die Bank die Wertgebühr nach KV 25100 GNotKG, für den Eigentümer die Festgebühr von 20 € nach KV 25101 GNotKG.",
    "Für beide die Wertgebühr nach KV 25100 GNotKG, jeweils höchstens 70 €.",
+   "Für die Bank die Wertgebühr nach KV 25100 GNotKG, für den Eigentümer die Festgebühr von 20 € nach KV 25101 GNotKG.",
    "Für die Bank die Festgebühr nach KV 25101 GNotKG, für den Eigentümer die Wertgebühr nach KV 25100 GNotKG."
   ],
-  "antwort": 1,
-  "erklaerung": "Die Festgebühr nach KV 25101 GNotKG gilt nur für die Löschungszustimmung des Eigentümers nach § 27 GBO mit dem verbundenen Löschungsantrag. Die Löschungsbewilligung der Bank ist keine solche Zustimmung; die Beglaubigung für die Bankvertreter kostet die Wertgebühr nach KV 25100 GNotKG (hier wegen des Werts die Höchstgebühr). Option 4 vertauscht die Zuordnung."
+  "antwort": 2,
+  "erklaerung": "Die Festgebühr nach KV 25101 GNotKG gilt nur für die Löschungszustimmung des Eigentümers nach § 27 GBO mit dem verbundenen Löschungsantrag. Die Löschungsbewilligung der Bank ist keine solche Zustimmung; die Beglaubigung für die Bankvertreter kostet die Wertgebühr nach KV 25100 GNotKG (hier wegen des Werts die Höchstgebühr). Die umgekehrte Zuordnung (Festgebühr für die Bank) vertauscht die Zuordnung."
  },
  {
   "id": "kost1-059",
@@ -1338,16 +1350,22 @@
   "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
   "seite": "Notargebühren: Unterschriftsbeglaubigung (KV 25100, 25101 GNotKG)",
   "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-unterschriftsbeglaubigung-kv-25100-25101-gnotkg",
-  "typ": "rf",
+  "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
    "KV 25100 GNotKG",
    "KV 24100 ff. GNotKG",
    "§ 4 BeurkG"
   ],
-  "frage": "Prüft und ergänzt der Notar auftragsgemäß den Text einer ihm vorgelegten Erklärung vor der Unterschriftsbeglaubigung, ist dies mit der Gebühr nach KV 25100 GNotKG abgegolten.",
-  "antwort": false,
-  "erklaerung": "KV 25100 und 25101 GNotKG gelten nur für die reine Beglaubigung. Soll der Notar die Urkunde auftragsgemäß prüfen, ergänzen oder ändern, richten sich die Gebühren grundsätzlich nach KV 24100 ff. GNotKG. Teil der reinen Beglaubigung bleibt nur die gesetzlich gebotene Prüfung nach § 4 BeurkG, ob ein unredliches oder verbotenes Geschäft vorliegt."
+  "frage": "Der Notar soll den Text einer ihm vorgelegten Erklärung vor der Unterschriftsbeglaubigung auftragsgemäß prüfen und ergänzen. Wonach richten sich die Gebühren?",
+  "optionen": [
+   "Allein nach KV 25100 GNotKG, weil jede Beglaubigung eine Prüfung umfasst.",
+   "Nach KV 24200 GNotKG als Beratungsgebühr neben der Beglaubigungsgebühr.",
+   "Grundsätzlich nach KV 24100 ff. GNotKG, weil keine reine Beglaubigung mehr vorliegt.",
+   "Nach KV 25101 GNotKG als Festgebühr von 20 €."
+  ],
+  "antwort": 2,
+  "erklaerung": "KV 25100 und 25101 GNotKG gelten nur für die reine Beglaubigung. Soll der Notar die Urkunde auftragsgemäß prüfen, ergänzen oder ändern, richten sich die Gebühren grundsätzlich nach KV 24100 ff. GNotKG. Teil der reinen Beglaubigung bleibt nur die gesetzlich gebotene Prüfung nach § 4 BeurkG, ob ein unredliches oder verbotenes Geschäft vorliegt. Eine Beratungsgebühr setzt eine individuelle Beratung voraus und ersetzt nicht die Entwurfsgebühr für die Textarbeit."
  },
  {
   "id": "kost1-060",
@@ -1364,12 +1382,12 @@
   ],
   "frage": "Nach reiner Unterschriftsbeglaubigung reicht der Notar auftragsgemäß die Erklärung beim Grundbuchamt ein und erstellt dafür XML-Strukturdaten. Welche zusätzlichen Gebühren kommen in Betracht?",
   "optionen": [
-   "Keine, weil die Einreichung Teil der Beglaubigung ist.",
    "Festgebühr von 20 € nach KV 22124 GNotKG für die Übermittlung und 0,5-Gebühr, höchstens 250 €, nach KV 22125 GNotKG für die XML-Daten.",
    "Eine 0,5-Vollzugsgebühr nach KV 22110 GNotKG, die die XML-Erstellung mit abdeckt.",
+   "Keine, weil die Einreichung Teil der Beglaubigung ist.",
    "Eine Beratungsgebühr nach KV 24200 GNotKG für die Einreichung."
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Übernimmt der Notar im Auftrag die Einreichung der beglaubigten Urkunde, fällt für die Übermittlung die Festgebühr von 20 € nach KV 22124 GNotKG an. Für die Erstellung von XML-Strukturdaten bei reiner Beglaubigung entsteht nach KV 22125 GNotKG eine 0,5-Gebühr, höchstens 250 €. Die Vollzugsgebühr nach KV 22110 GNotKG setzt dagegen eine Beurkundungs- oder Entwurfsgebühr voraus."
  },
  {
@@ -1392,34 +1410,34 @@
    {
     "frage": "Ist für die Übersendung des beabsichtigten Textes eine Entwurfsgebühr nach KV 24100 GNotKG entstanden?",
     "optionen": [
-     "Ja, weil der Notar einen vollständigen Vertragstext gefertigt hat.",
      "Nein, weil das Zurverfügungstellen des beabsichtigten Textes Amtspflicht ist und kein Entwurfsauftrag vorliegt.",
+     "Ja, weil der Notar einen vollständigen Vertragstext gefertigt hat.",
      "Ja, aber nur in Höhe der Mindestgebühr von 120 €.",
      "Nein, weil Entwurfsgebühren gegenüber Verbrauchern ausgeschlossen sind."
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "Die Entwurfsgebühr setzt einen konkreten Entwurfsauftrag außerhalb eines Beurkundungsverfahrens voraus (Vorb. 2.4.1 Abs. 1 KV GNotKG). Das Zurverfügungstellen des „beabsichtigten Textes“ nach § 17 Abs. 2a BeurkG ist Amtspflicht und setzt keinen Auftrag voraus; Verbraucher und regelmäßig auch Unternehmer erteilen keinen Entwurfsauftrag."
    },
    {
     "frage": "Welche Gebühr ist wegen der Rücknahme des Beurkundungsauftrags anzusetzen?",
     "optionen": [
      "Die volle 2,0-Gebühr nach KV 21100 GNotKG.",
+     "Keine Gebühr, weil die Beurkundung nicht stattgefunden hat.",
      "Die Rahmengebühr nach KV 21302 GNotKG (0,5 bis 2,0), voll ausgeschöpft.",
-     "Die Festgebühr von 20 € nach KV 21300 GNotKG.",
-     "Keine Gebühr, weil die Beurkundung nicht stattgefunden hat."
+     "Die Festgebühr von 20 € nach KV 21300 GNotKG."
     ],
-    "antwort": 2,
+    "antwort": 3,
     "erklaerung": "Bei Rücknahme eines konkreten Beurkundungsauftrags ist die ermäßigte Verfahrensgebühr wegen vorzeitiger Beendigung angefallen. Wurde nur der unveränderte Mustertext zur Verfügung gestellt, kommt allein die Festgebühr von 20 € nach KV 21300 GNotKG in Betracht; KV 21302 GNotKG setzt einen echten Entwurf voraus."
    },
    {
     "frage": "Wer schuldet die Gebühr?",
     "optionen": [
-     "K als Verbraucher, weil er den Termin abgesagt hat.",
      "Die B-GmbH als Auftraggeberin.",
-     "B-GmbH und K als Gesamtschuldner.",
-     "Niemand, weil die Gebühr wegen § 17 Abs. 2a BeurkG niederzuschlagen ist."
+     "Niemand, weil die Gebühr wegen § 17 Abs. 2a BeurkG niederzuschlagen ist.",
+     "K als Verbraucher, weil er den Termin abgesagt hat.",
+     "B-GmbH und K als Gesamtschuldner."
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "Kostenschuldner ist in der Regel der Unternehmer, der den Auftrag erteilt hat. Der Verbraucher schuldet nur, wenn er sich selbst in das Verfahren eingebracht hat, etwa durch eingearbeitete Änderungswünsche; dem Verbraucher, der nur den Text erhalten hat, die Kosten zu berechnen, ist ein typischer Fehler."
    }
   ],
@@ -1456,13 +1474,13 @@
   ],
   "frage": "Welche Gebührensätze gelten für die Beurkundung eines Kaufangebots und der rechtzeitigen, unveränderten Annahme?",
   "optionen": [
-   "Angebot 1,0 nach KV 21200, Annahme 1,0 nach KV 21200 GNotKG",
-   "Angebot 2,0 nach KV 21100, Annahme 0,5 nach KV 21101 Nr. 1 GNotKG",
    "Angebot 1,0 nach KV 21102, Annahme 0,5 nach KV 21201 GNotKG",
-   "Angebot 2,0 nach KV 21100, Annahme 1,0 nach KV 21102 GNotKG"
+   "Angebot 1,0 nach KV 21200, Annahme 1,0 nach KV 21200 GNotKG",
+   "Angebot 2,0 nach KV 21100, Annahme 1,0 nach KV 21102 GNotKG",
+   "Angebot 2,0 nach KV 21100, Annahme 0,5 nach KV 21101 Nr. 1 GNotKG"
   ],
-  "antwort": 1,
-  "erklaerung": "Für das Angebot gibt es keinen eigenen Tatbestand; nach Vorb. 2.1.1 Nr. 1 KV GNotKG gilt Abschnitt 1 auch für Vertragsangebote, so dass die 2,0-Gebühr nach KV 21100 GNotKG anfällt. Die Annahme kostet nach KV 21101 Nr. 1 GNotKG 0,5, weil sie im Kern nur das Einverständnis enthält. Option 1 verkennt, dass das Angebot trotz Einseitigkeit unter KV 21100 fällt."
+  "antwort": 3,
+  "erklaerung": "Für das Angebot gibt es keinen eigenen Tatbestand; nach Vorb. 2.1.1 Nr. 1 KV GNotKG gilt Abschnitt 1 auch für Vertragsangebote, so dass die 2,0-Gebühr nach KV 21100 GNotKG anfällt. Die Annahme kostet nach KV 21101 Nr. 1 GNotKG 0,5, weil sie im Kern nur das Einverständnis enthält. Die Annahme einer 1,0-Gebühr für das Angebot verkennt, dass das Angebot trotz Einseitigkeit unter KV 21100 fällt."
  },
  {
   "id": "kost1-064",
@@ -1471,7 +1489,7 @@
   "seite": "Notargebühren: Verträge, Angebot, Annahme und isolierte Auflassung (KV 21100–21102 GNotKG)",
   "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-vertrage-angebot-annahme-und-isolierte-auflassung-kv-21100-21102-gnotkg",
   "typ": "rf",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 150 BGB",
    "KV 21100 GNotKG",
@@ -1530,9 +1548,9 @@
   "frage": "Welche Beurkundung fällt NICHT unter die 2,0-Gebühr nach KV 21100 GNotKG?",
   "optionen": [
    "Gemeinschaftliches Testament von Ehegatten",
-   "Begründung von Wohnungseigentum nach § 3 WEG",
+   "Gesellschafterbeschluss einer GmbH",
    "Teilung nach § 8 WEG mit Gemeinschaftsordnung",
-   "Gesellschafterbeschluss einer GmbH"
+   "Begründung von Wohnungseigentum nach § 3 WEG"
   ],
   "antwort": 2,
   "erklaerung": "KV 21100 GNotKG erfasst mehrseitige Erklärungen unabhängig von ihrem rechtlichen Charakter, darunter die Begründung von Wohnungseigentum nach § 3 WEG, Beschlüsse und nach Vorb. 2.1.1 Nr. 2 KV GNotKG auch das gemeinschaftliche Testament. Die Teilung nach § 8 WEG ist dagegen eine einseitige Erklärung des Eigentümers und fällt unter KV 21200 GNotKG mit 1,0. Das gemeinschaftliche Testament ist zwar kein Vertrag, wird aber als seinem Wesen nach mehrseitige Erklärung erfasst."

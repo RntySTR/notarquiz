@@ -1,0 +1,232 @@
+[
+ {
+  "id": "wohn2-001",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Sondereigentumsfähigkeit: Räume des gemeinschaftlichen Gebrauchs, Zugänge und Mehrzweckräume",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondereigentumsfahigkeit-raume-des-gemeinschaftlichen-gebrauchs-zugange-und-mehrzweckraume",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 5 Abs. 2 WEG"
+  ],
+  "frage": "Welcher der folgenden Räume kann Sondereigentum sein?",
+  "optionen": [
+   "Ein Treppenhaus, das mehrere Wohnungen erschließt",
+   "Ein Vorflur, über den zwei verschiedene Sondereigentumseinheiten erreicht werden",
+   "Ein Kellerraum mit Wasser- und Gaszählern, der objektiv für gleichwertige weitere Nutzungen taugt",
+   "Ein Heizungsraum mit der gemeinschaftlichen Heizungsanlage"
+  ],
+  "antwort": 2,
+  "erklaerung": "Räume, die dem gemeinschaftlichen Gebrauch dienen oder den Zugang zu mehreren Einheiten sichern, sind nach dem Normzweck von § 5 Abs. 2 WEG zwingend Gemeinschaftseigentum; das gilt für Treppenhaus, Vorflur zu zwei Einheiten und den Heizungsraum mit gemeinschaftlicher Heizung. Ein Kellerraum mit Zählern kann dagegen als Mehrzweckraum sondereigentumsfähig sein, weil die Anlage selbst Gemeinschaftseigentum bleibt und der Raum objektiv nahezu gleichwertigen weiteren Zwecken dient."
+ },
+ {
+  "id": "wohn2-002",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Sondereigentumsfähigkeit: Räume des gemeinschaftlichen Gebrauchs, Zugänge und Mehrzweckräume",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondereigentumsfahigkeit-raume-des-gemeinschaftlichen-gebrauchs-zugange-und-mehrzweckraume",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Ein Raum, in dem eine zwingend gemeinschaftliche Anlage steht, ist bereits dann sondereigentumsfähig, wenn er dem Eigentümer neben der Anlage irgendeinen Sondervorteil bietet.",
+  "antwort": false,
+  "erklaerung": "Nicht jeder Sondervorteil genügt. Maßgeblich ist, ob der Raum objektiv – gemessen an Art, Lage und baulichem Zustand – für weitere Nutzungen taugt, die der Unterbringung der Anlage zumindest nahezu gleichwertig sind. Erst dann liegt ein sondereigentumsfähiger Mehrzweckraum (dual-use-Raum) vor."
+ },
+ {
+  "id": "wohn2-003",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Sondereigentumsfähigkeit: Räume des gemeinschaftlichen Gebrauchs, Zugänge und Mehrzweckräume",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondereigentumsfahigkeit-raume-des-gemeinschaftlichen-gebrauchs-zugange-und-mehrzweckraume",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 14 Abs. 1 Nr. 2 WEG"
+  ],
+  "frage": "Nach zutreffender Ansicht muss der Weg zu einem sondereigentumsfähigen Mehrzweckraum mit Gemeinschaftsanlagen stets im Gemeinschaftseigentum liegen.",
+  "antwort": false,
+  "erklaerung": "Das verlangt zwar das OLG Dresden, die Auffassung trifft nach der Seite aber nicht zu. Für den Zugang gilt dasselbe wie für den Raum selbst: Es genügt, dass das Betretungsrecht nach § 14 Abs. 1 Nr. 2 WEG den Zugang zur Anlage sichert."
+ },
+ {
+  "id": "wohn2-004",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Sondereigentumsfähigkeit: Räume des gemeinschaftlichen Gebrauchs, Zugänge und Mehrzweckräume",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondereigentumsfahigkeit-raume-des-gemeinschaftlichen-gebrauchs-zugange-und-mehrzweckraume",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "In welchem Fall ist ein Zugang über Gemeinschaftseigentum zu einem gemeinschaftlichen Raum entbehrlich?",
+  "optionen": [
+   "Der Raum ist ein Fahrradraum der Gemeinschaft, der nur über einen Stellplatz im Sondereigentum erreichbar ist",
+   "Der Raum ist nur durch eine Wohnung erreichbar, deren Eigentümer an ihm ein Sondernutzungsrecht hat",
+   "Der Raum ist die Gemeinschaftswaschküche, die nur über den Flur einer einzelnen Sondereigentumseinheit erreichbar ist",
+   "Der Raum beherbergt die Zentralheizung und ist nur über einen dem Sondereigentum zugewiesenen Flur erreichbar"
+  ],
+  "antwort": 1,
+  "erklaerung": "Ein gemeinschaftlicher Raum, der nur durch eine Wohnung erreichbar ist, braucht keinen Zugang über Gemeinschaftseigentum, wenn der Eigentümer dieser Wohnung an ihm ein Sondernutzungsrecht hat. Weitere Ausnahmen bestehen, wenn der Raum von jeder Wohnung aus betreten werden kann oder nicht für den dauernden gemeinsamen Gebrauch gedacht ist (Dachspitzboden). Fahrradraum, Waschküche und Heizung dienen dagegen dem dauernden gemeinsamen Gebrauch; Flächen, über die man allein dorthin gelangt, sind zwingend Gemeinschaftseigentum."
+ },
+ {
+  "id": "wohn2-005",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Sondernutzungsrechte nach dem WEG",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondernutzungsrechte-nach-dem-weg",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 10 Abs. 1 S. 2 WEG",
+   "§ 10 Abs. 3 WEG"
+  ],
+  "frage": "Wie wird ein Sondernutzungsrecht begründet und welchen Status hat die betroffene Fläche?",
+  "optionen": [
+   "Durch Mehrheitsbeschluss der Eigentümerversammlung; die Fläche wird Sondereigentum des Berechtigten",
+   "Als Vereinbarung in der Gemeinschaftsordnung; die Fläche bleibt Gemeinschaftseigentum",
+   "Als Grunddienstbarkeit zugunsten der Einheit; die Fläche bleibt Gemeinschaftseigentum",
+   "Als Vereinbarung in der Gemeinschaftsordnung; die Fläche wird Sondereigentum des Berechtigten"
+  ],
+  "antwort": 1,
+  "erklaerung": "Sondernutzungsrechte werden als Vereinbarung in der Gemeinschaftsordnung begründet (§ 10 Abs. 1 S. 2, Abs. 3 WEG). Sie gewähren ein umfassendes Nutzungsrecht an einer bestimmten Fläche, die aber Gemeinschaftseigentum bleibt. Die naheliegende Verwechslung mit Sondereigentum ist gerade der Kern der Abgrenzung: Das Recht ändert die Eigentumszuordnung nicht."
+ },
+ {
+  "id": "wohn2-006",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Sondernutzungsrechte nach dem WEG",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondernutzungsrechte-nach-dem-weg",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [],
+  "frage": "Ein Sondernutzungsrecht an einer Gartenfläche kann zugunsten eines Nachbarn begründet werden, der keiner Einheit der Anlage als Eigentümer angehört.",
+  "antwort": false,
+  "erklaerung": "Berechtigt sein können nur Sondereigentümer der Gemeinschaft; ein Sondernutzungsrecht zugunsten eines Dritten, der nicht Sondereigentümer ist, ist ausgeschlossen. Mehrere Sondereigentümer können es dagegen gemeinsam innehaben. Die Begünstigung eines Außenstehenden ist ein typischer Gestaltungsfehler."
+ },
+ {
+  "id": "wohn2-007",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Sondernutzungsrechte nach dem WEG",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondernutzungsrechte-nach-dem-weg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Wen treffen nach der Regel die Verkehrssicherungspflicht und die Kosten der Instandhaltung und Instandsetzung einer Fläche, an der ein Sondernutzungsrecht besteht?",
+  "optionen": [
+   "Den Sondernutzungsberechtigten allein",
+   "Die Gemeinschaft der Wohnungseigentümer nach Miteigentumsanteilen",
+   "Die Verkehrssicherungspflicht die Gemeinschaft, die Kosten den Berechtigten",
+   "Die Verkehrssicherungspflicht den Berechtigten, die Kosten die Gemeinschaft"
+  ],
+  "antwort": 0,
+  "erklaerung": "Das Sondernutzungsrecht weist dem Berechtigten in der Regel den alleinigen Gebrauch zu. Spiegelbildlich trägt er die Verkehrssicherungspflicht und allein die Kosten der Instandhaltung und Instandsetzung. Eine Verteilung nach Miteigentumsanteilen liegt nahe, weil die Fläche Gemeinschaftseigentum bleibt, entspricht aber nicht dem regelmäßigen Inhalt des Sondernutzungsrechts."
+ },
+ {
+  "id": "wohn2-008",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Sondernutzungsrechte nach dem WEG",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondernutzungsrechte-nach-dem-weg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Seit der WEG-Reform 2020 können Außenflächen wie Terrassen oder Kfz-Stellplätze im Freien Sondereigentum sein, wenn sie vermaßt sind, also ihre Lage anhand der Maßangaben in der Zeichnung bestimmbar ist.",
+  "antwort": true,
+  "erklaerung": "Bis 2020 war an solchen Außenflächen kein Sondereigentum möglich, weshalb sie über Sondernutzungsrechte zugeordnet wurden. Seit der Reform ist Sondereigentum möglich, wenn die Fläche vermaßt ist. Der Notar muss daher klären, ob Sondereigentum mit Vermaßung im Aufteilungsplan oder ein Sondernutzungsrecht gewollt ist."
+ },
+ {
+  "id": "wohn2-009",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Stellplätze und Freiflächen: Sondereigentum oder Sondernutzungsrecht",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/stellplatze-und-freiflachen-sondereigentum-oder-sondernutzungsrecht",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 3 Abs. 3 WEG"
+  ],
+  "frage": "Ist die Lage eines Stellplatzes im Aufteilungsplan nicht vermaßt, ist das Sondereigentum an dem Stellplatz unwirksam.",
+  "antwort": false,
+  "erklaerung": "Stellplätze müssen nicht abgeschlossen sein; § 3 Abs. 3 WEG verlangt stattdessen Maßangaben, ist aber nur eine Sollvorschrift. Fehlen die Maßangaben, bleibt das Sondereigentum wirksam, und die Lage ist anhand des Maßstabs des Plans zu ermitteln."
+ },
+ {
+  "id": "wohn2-010",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Stellplätze und Freiflächen: Sondereigentum oder Sondernutzungsrecht",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/stellplatze-und-freiflachen-sondereigentum-oder-sondernutzungsrecht",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 3 Abs. 1 S. 2 WEG",
+   "§ 3 Abs. 2 WEG",
+   "§ 3 Abs. 3 WEG"
+  ],
+  "frage": "Ordne die Vorschriften ihrem Regelungsinhalt zu.",
+  "paare": [
+   [
+    "§ 3 Abs. 1 S. 2 WEG",
+    "Stellplätze gelten als Räume (Raumfiktion)"
+   ],
+   [
+    "§ 3 Abs. 2 WEG",
+    "Erstreckung des Sondereigentums auf Grundstücksflächen außerhalb des Gebäudes, solange die Räume wirtschaftlich im Vordergrund stehen"
+   ],
+   [
+    "§ 3 Abs. 3 WEG",
+    "Lage von Stellplätzen und Freiflächen soll im Aufteilungsplan durch Maßangaben bestimmt sein"
+   ]
+  ],
+  "erklaerung": "§ 3 Abs. 1 S. 2 WEG fingiert die Raumeigenschaft von Stellplätzen, sodass sie ohne Abgeschlossenheit Teileigentum sein können. § 3 Abs. 2 WEG erlaubt die Erstreckung auf Freiflächen wie Gärten und Terrassen, wobei Wohnung oder Räume die Hauptsache bleiben müssen. § 3 Abs. 3 WEG verlangt als Sollvorschrift die Vermaßung im Aufteilungsplan."
+ },
+ {
+  "id": "wohn2-011",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Stellplätze und Freiflächen: Sondereigentum oder Sondernutzungsrecht",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/stellplatze-und-freiflachen-sondereigentum-oder-sondernutzungsrecht",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 3 Abs. 2 WEG"
+  ],
+  "frage": "Kleine Anlage mit Stellplätzen und Gärten",
+  "sachverhalt": "E will sein Grundstück mit vier Wohnungen aufteilen. Zur Anlage gehören vier Außenstellplätze und zwei Gartenflächen vor den Erdgeschosswohnungen. Die künftigen Eigentümer wollen nicht, dass Stellplätze isoliert an Außenstehende gelangen. Die Wohnung W 1 hat außerdem eine Loggia, die über eine offene Treppe mit dem Grundstück verbunden ist und keine abschließbare Tür hat.",
+  "schritte": [
+   {
+    "frage": "Welche Zuordnung der Stellplätze entspricht dem Wunsch der Eigentümer am besten?",
+    "optionen": [
+     "Selbständiges Teileigentum an jedem Stellplatz ohne weitere Regelung",
+     "Selbständiges Teileigentum mit Vermaßung nach § 3 Abs. 3 WEG",
+     "Sondernutzungsrechte in der Gemeinschaftsordnung",
+     "Grunddienstbarkeiten zugunsten der einzelnen Wohnungen"
+    ],
+    "antwort": 2,
+    "erklaerung": "Sondereigentum ist grundsätzlich an Dritte außerhalb der Gemeinschaft veräußerlich; ein Sondernutzungsrecht kann nur auf andere Wohnungs- oder Teileigentümer übertragen werden. Gerade in kleinen Gemeinschaften spricht das für Sondernutzungsrechte, wenn Stellplätze nicht isoliert an Dritte gehen sollen."
+   },
+   {
+    "frage": "Die Gärten sollen als Sondereigentum den Erdgeschosswohnungen zugeschlagen werden. Welche Folge hat das?",
+    "optionen": [
+     "Der Garten kann später isoliert an den Nachbarn verkauft werden",
+     "Eine spätere Änderung des Zuschnitts erfordert einen neuen amtlichen Aufteilungsplan mit neuer Abgeschlossenheitsbescheinigung",
+     "Die Gartenfläche muss abgeschlossen sein, sonst ist das Sondereigentum unwirksam",
+     "Ein Zugang über das Sondereigentum der eigenen Wohnung genügt nicht"
+    ],
+    "antwort": 1,
+    "erklaerung": "Der Zuschnitt muss im Aufteilungsplan feststehen; spätere Änderungen erfordern einen neuen amtlichen Aufteilungsplan mit neuer Abgeschlossenheitsbescheinigung. Ein isolierter Verkauf scheidet aus, weil die Wohnung nach § 3 Abs. 2 WEG Hauptsache bleiben muss; ein Zugang über die eigene Einheit genügt."
+   },
+   {
+    "frage": "Kann die Loggia von W 1 Sondereigentum sein?",
+    "optionen": [
+     "Ja, als Freifläche nach § 3 Abs. 2 WEG",
+     "Ja, weil sie Teil des Gebäudes ist und damit stets ein Raum",
+     "Nein, sie ist weder Grundstücksfläche noch abgegrenzter Raum",
+     "Nein, Loggien sind ausnahmslos Gemeinschaftseigentum"
+    ],
+    "antwort": 2,
+    "erklaerung": "Eine Freifläche nach § 3 Abs. 2 WEG muss Teil des Grundstücks sein, nicht des Gebäudes. Eine über eine offene Treppe mit dem Grundstück verbundene Loggia ohne vertikale Abgrenzung durch eine abschließbare Tür ist auch kein Raum und daher nicht sondereigentumsfähig. Schlösse eine senkrechte Brüstung sie ab, könnte sie als Raum Sondereigentum sein."
+   }
+  ],
+  "erklaerung": "Für die Stellplätze passen Sondernutzungsrechte, weil sie nur innerhalb der Gemeinschaft übertragbar sind. Sondereigentum an Gärten ist wegen § 3 Abs. 2 WEG nicht isoliert verkehrsfähig und unflexibel, weshalb Gärten in der Regel über Sondernutzungsrechte zugeordnet werden. Die offene Loggia ist nicht sondereigentumsfähig."
+ }
+]
