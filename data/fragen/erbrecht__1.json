@@ -1388,9 +1388,7 @@
   "quelle": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/rechtsnachfolge-ausserhalb-des-erbrechts-hofe-miete-versorgung-gesellschaftsanteile",
   "typ": "mc",
   "schwierigkeit": 3,
-  "normen": [
-   "§ 1922 BGB"
-  ],
+  "normen": [],
   "frage": "Ein Mandant ist Gesellschafter einer OHG und will seinen Anteil durch Testament seiner Tochter zuwenden. Worauf muss der Notar vor der Beurkundung vorrangig achten?",
   "optionen": [
    "Auf die Eintragung der Tochter im Handelsregister zu Lebzeiten des Mandanten",

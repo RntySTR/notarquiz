@@ -338,8 +338,7 @@
   "schwierigkeit": 3,
   "normen": [
    "§ 1380 BGB",
-   "§ 1378 Abs. 2 BGB",
-   "§ 1374 Abs. 2 BGB"
+   "§ 1378 Abs. 2 BGB"
   ],
   "frage": "Übertragung des ererbten Hauses auf die Ehefrau",
   "sachverhalt": "M hat vor der Ehe ein Haus (Wert 400.000 €) geerbt; es gehört zu seinem Anfangsvermögen. Während der Ehe überträgt er einen hälftigen Miteigentumsanteil (200.000 €) unentgeltlich auf seine Frau F. Bei der Scheidung hat F außer dem Anteil kein Vermögen aufgebaut, M hat ebenfalls keinen weiteren Zugewinn erzielt. F fragt den Notar schon bei der Übertragung, was M im Scheidungsfall zurückbekäme.",
@@ -404,7 +403,6 @@
   "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
-   "§ 1408 BGB",
    "§ 1371 Abs. 1 BGB"
   ],
   "frage": "Warum ist ein auf den Scheidungsfall beschränkter Ausschluss des Zugewinnausgleichs häufig günstiger als die Vereinbarung von Gütertrennung?",
@@ -447,8 +445,7 @@
   "typ": "mc",
   "schwierigkeit": 3,
   "normen": [
-   "§ 1371 Abs. 1 BGB",
-   "§ 1408 BGB"
+   "§ 1371 Abs. 1 BGB"
   ],
   "frage": "Unternehmer U will seine GmbH-Anteile ehevertraglich aus dem Zugewinnausgleich herausnehmen, und zwar auch für den Todesfall. Welche ergänzende Regelung sollte der Notar aufnehmen?",
   "optionen": [
@@ -468,9 +465,7 @@
   "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinngemeinschaft-ehevertragliche-modifikationen",
   "typ": "rf",
   "schwierigkeit": 1,
-  "normen": [
-   "§ 1408 BGB"
-  ],
+  "normen": [],
   "frage": "Ehegatten können ehevertraglich ein negatives Anfangsvermögen vereinbaren, damit die Tilgung vorehelicher Schulden beim Zugewinn berücksichtigt wird.",
   "antwort": true,
   "erklaerung": "Die Seite nennt ausdrücklich die Möglichkeit, ein negatives Anfangsvermögen zu vereinbaren, sodass die Schuldentilgung als Zugewinn erfasst wird. Ehegatten können Wert und Höhe des Anfangsvermögens unabhängig vom tatsächlichen Bestand festlegen und Gegenstände in das Anfangsvermögen aufnehmen oder daraus herausnehmen."
@@ -483,9 +478,7 @@
   "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinngemeinschaft-ehevertragliche-modifikationen",
   "typ": "mc",
   "schwierigkeit": 3,
-  "normen": [
-   "§ 1408 BGB"
-  ],
+  "normen": [],
   "frage": "Ehemann M ist selbständiger Unternehmer, Ehefrau F angestellt. Die Ehegatten schließen den Zugewinnausgleich für den Scheidungsfall aus. Woran sollte der Notar zusätzlich denken?",
   "optionen": [
    "An eine Begrenzung des Endvermögens des M auf einen Bruchteil des Anfangsvermögens",
@@ -671,9 +664,7 @@
   "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/ehebedingte-zuwendung-einordnung-und-abgrenzung-zur-schenkung",
   "typ": "mc",
   "schwierigkeit": 1,
-  "normen": [
-   "§ 516 BGB"
-  ],
+  "normen": [],
   "frage": "Warum ordnet der BGH objektiv unentgeltliche Zuwendungen unter Ehegatten in der Regel nicht als Schenkung ein?",
   "optionen": [
    "Weil Ehegattenzuwendungen stets als Ausstattung gelten",
@@ -747,10 +738,7 @@
   "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/ehebedingte-zuwendung-einordnung-und-abgrenzung-zur-schenkung",
   "typ": "rf",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 516 BGB",
-   "§ 313 BGB"
-  ],
+  "normen": [],
   "frage": "Bezeichnet der Notar eine Grundstücksübertragung unter Ehegatten in der Urkunde als Schenkung, liegt in der Regel eine Schenkung vor; eine Rückforderung bei Scheitern der Ehe scheidet dann regelmäßig aus.",
   "antwort": true,
   "erklaerung": "Einigen sich die Ehegatten wirklich über die Unentgeltlichkeit, liegt eine echte Schenkung vor; die notarielle Bezeichnung als Schenkung indiziert das. Die Ehe bildet dann keine Geschäftsgrundlage, sodass Rückforderung oder Ausgleich bei Scheitern der Ehe in der Regel ausscheiden. Deshalb ist in der Urkunde eindeutig festzulegen, ob Schenkung oder ehebedingte Zuwendung gewollt ist."
@@ -807,8 +795,7 @@
   "typ": "rf",
   "schwierigkeit": 2,
   "normen": [
-   "§ 313 BGB",
-   "§ 1414 BGB"
+   "§ 313 BGB"
   ],
   "frage": "Bei Gütertrennung ist § 313 BGB unbeschränkt anwendbar, weil ein güterrechtlicher Ausgleich der Zuwendung fehlt.",
   "antwort": false,
@@ -925,8 +912,7 @@
   "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
-   "§ 1361 Abs. 4 BGB",
-   "§ 1614 BGB"
+   "§ 1361 Abs. 4 BGB"
   ],
   "frage": "Die Ehegatten M und F wollen in der Trennungsvereinbarung regeln, dass F auf jeglichen künftigen Trennungsunterhalt verzichtet. Wie ist die Rechtslage?",
   "optionen": [
@@ -1074,8 +1060,7 @@
   "typ": "fall",
   "schwierigkeit": 3,
   "normen": [
-   "§ 1380 BGB",
-   "§ 1374 Abs. 2 BGB"
+   "§ 1380 BGB"
   ],
   "frage": "Rückforderungsklausel beim übertragenen Bauplatz",
   "sachverhalt": "M überträgt seiner Frau F die Hälfte eines Bauplatzes, den er von seinen Eltern geschenkt bekam. F investiert anschließend 80.000 € aus einer Erbschaft in den Hausbau; das Baudarlehen über 200.000 € nehmen beide gemeinsam auf. Der Notar soll für den Scheidungsfall ein Rückforderungsrecht des M entwerfen.",
@@ -1200,7 +1185,6 @@
   "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
-   "§ 313 BGB",
    "§ 1615l BGB"
   ],
   "frage": "Welche Aussage zur Rechtslage zwischen nichtehelichen Lebensgefährten nach der BGH-Rechtsprechung seit 2008 trifft zu?",
@@ -1243,9 +1227,7 @@
   "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/nichteheliche-lebensgemeinschaft-ausgleichsanspruche-und-vorsorge",
   "typ": "mc",
   "schwierigkeit": 3,
-  "normen": [
-   "§ 313 BGB"
-  ],
+  "normen": [],
   "frage": "Lebensgefährtin L will 150.000 € in die Sanierung des Hauses ihres Partners P investieren. Welche Gestaltung empfiehlt die Seite für diesen Fall?",
   "optionen": [
    "Eine notarielle Schenkung mit Rückforderungsrecht nach § 530 BGB",
@@ -1264,9 +1246,7 @@
   "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/nichteheliche-lebensgemeinschaft-ausgleichsanspruche-und-vorsorge",
   "typ": "rf",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 313 BGB"
-  ],
+  "normen": [],
   "frage": "Endet eine nichteheliche Lebensgemeinschaft durch den Tod eines Partners, können die Erben des Verstorbenen Ausgleichsansprüche für dessen Leistungen gegen den überlebenden Partner geltend machen.",
   "antwort": false,
   "erklaerung": "Ausgleichsansprüche für erbrachte Leistungen können nur entstehen, wenn die Lebensgemeinschaft durch Trennung endet; bei Beendigung durch Tod nicht. Die Aussage überträgt die Trennungsfolgen fälschlich auf den Todesfall. Für den Todesfall ist der Partner stattdessen durch Testament oder Erbvertrag abzusichern, weil ein gesetzliches Erbrecht fehlt."
@@ -1559,8 +1539,7 @@
   "typ": "mc",
   "schwierigkeit": 1,
   "normen": [
-   "§ 1410 BGB",
-   "§ 7 VersAusglG"
+   "§ 1410 BGB"
   ],
   "frage": "Welche Form gilt für eine isolierte Vereinbarung über den Versorgungsausgleich, die vor Rechtskraft der Wertausgleichsentscheidung geschlossen wird?",
   "optionen": [

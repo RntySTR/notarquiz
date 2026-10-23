@@ -109,9 +109,7 @@
   "schwierigkeit": 2,
   "normen": [
    "§ 1098 Abs. 1 S. 1 BGB",
-   "§ 471 BGB",
-   "§ 52 Abs. 1 S. 2 ZVG",
-   "§ 91 ZVG"
+   "§ 52 Abs. 1 S. 2 ZVG"
   ],
   "frage": "Ein Vorkaufsrecht für alle Verkaufsfälle steht im Rang vor der Grundschuld, aus der die Bank die Zwangsversteigerung betreibt. Was gilt?",
   "optionen": [
@@ -285,7 +283,6 @@
   "schwierigkeit": 2,
   "normen": [
    "§ 1098 Abs. 1 S. 1 BGB",
-   "§ 464 Abs. 2 BGB",
    "§ 311b Abs. 1 S. 1 BGB",
    "§ 883 BGB"
   ],
@@ -438,8 +435,7 @@
   "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
-   "§ 1094 BGB",
-   "§ 883 BGB"
+   "§ 1094 BGB"
   ],
   "frage": "Eltern wollen sicherstellen, dass ihr Sohn das Grundstück der Tochter auch dann erwerben kann, wenn diese es verschenkt oder es im Erbgang übergeht. Welche Gestaltung ist zu wählen?",
   "optionen": [
@@ -460,7 +456,6 @@
   "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
-   "§ 1094 BGB",
    "§ 1132 BGB"
   ],
   "frage": "Drei Grundstücke werden in einer Urkunde mit einem Vorkaufsrecht zugunsten desselben Berechtigten belastet. Was entsteht?",
@@ -614,9 +609,7 @@
   "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-ruckabwicklung-mit-dem-vertragskaufer-nach-der-ausubung",
   "typ": "rf",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 464 Abs. 2 BGB"
-  ],
+  "normen": [],
   "frage": "Schuldet nach dem Maklervertrag der Verkäufer die Provision, wird er bei Ausübung des Vorkaufsrechts mangels Erfolgs von der Provisionspflicht frei.",
   "antwort": false,
   "erklaerung": "Für den Verkäufer tritt der Erfolg trotz Ausübung ein, da er das Grundstück verkauft; er bleibt zahlungspflichtig. Frei wird umgekehrt der Vertragskäufer, wenn er die Provision schuldet, weil für ihn der Erwerb scheitert. Soll dem Makler die Provision gesichert bleiben, ist die Maklerpflicht im Kaufvertrag selbst zu regeln, da diese Klausel dann auch den Vorkaufsberechtigten bindet."
@@ -651,8 +644,7 @@
   "typ": "rf",
   "schwierigkeit": 2,
   "normen": [
-   "§ 465 BGB",
-   "§ 463 BGB"
+   "§ 465 BGB"
   ],
   "frage": "Heben Verkäufer und Käufer den genehmigten und damit wirksamen Kaufvertrag einvernehmlich auf, bevor der Berechtigte ausgeübt hat, entfällt dessen Ausübungsrecht.",
   "antwort": false,
@@ -666,9 +658,7 @@
   "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-umgehung-und-vorbehalte-im-kaufvertrag",
   "typ": "mc",
   "schwierigkeit": 3,
-  "normen": [
-   "§ 469 BGB"
-  ],
+  "normen": [],
   "frage": "Verkäufer und Käufer ändern nach der Mitteilung, aber vor der Ausübung den Kaufpreis. Was gilt gegenüber dem Vorkaufsberechtigten?",
   "optionen": [
    "Die Änderung ist ihm gegenüber unwirksam; maßgeblich bleibt der ursprünglich mitgeteilte Vertrag.",
@@ -688,7 +678,6 @@
   "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
-   "§ 117 BGB",
    "§ 162 Abs. 1 BGB"
   ],
   "frage": "Verkäufer und Käufer beurkunden einen deutlich überhöhten Kaufpreis, um den Vorkaufsberechtigten abzuschrecken; intern ist ein niedrigerer Preis vereinbart. Wie ist der beurkundete Vertrag zu beurteilen?",
@@ -747,10 +736,8 @@
   "typ": "zuordnung",
   "schwierigkeit": 2,
   "normen": [
-   "§ 463 BGB",
    "§ 1098 Abs. 1 S. 2 BGB",
-   "§ 466 BGB",
-   "§ 471 BGB"
+   "§ 466 BGB"
   ],
   "frage": "Ordne zu, ob und warum der Vorgang beim dinglichen Vorkaufsrecht einen Vorkaufsfall begründet.",
   "paare": [
@@ -803,7 +790,6 @@
   "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
-   "§ 464 Abs. 2 BGB",
    "§ 1098 Abs. 1 S. 1 BGB"
   ],
   "frage": "Welche Wirkung hat die Ausübung eines dinglichen Vorkaufsrechts auf das Vertragsgefüge?",
@@ -863,7 +849,6 @@
   "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
-   "§ 468 BGB",
    "§ 1098 Abs. 1 BGB"
   ],
   "frage": "Im ausgeübten Kaufvertrag ist der Kaufpreis für zwei Jahre gestundet. Was kann der Verkäufer vom Vorkaufsberechtigten verlangen?",
@@ -984,8 +969,7 @@
   "schwierigkeit": 2,
   "normen": [
    "§ 28 Abs. 1 S. 2 BauGB",
-   "§ 66 Abs. 3 BNatSchG",
-   "§ 19 Abs. 3 AEG"
+   "§ 66 Abs. 3 BNatSchG"
   ],
   "frage": "Ordne die öffentlich-rechtlichen Vorkaufsrechte der Art ihrer Wirkung zu.",
   "paare": [
@@ -1069,10 +1053,7 @@
   "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/offentlich-rechtliche-vorkaufsrechte-vertrag-mit-dem-vorkaufsberechtigten-kosten-und-nachbeurkundung",
   "typ": "mc",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 464 Abs. 2 BGB",
-   "§ 925 BGB"
-  ],
+  "normen": [],
   "frage": "Die Gemeinde hat ihr Vorkaufsrecht wirksam ausgeübt. Warum ist regelmäßig eine Nachbeurkundung mit ihr erforderlich?",
   "optionen": [
    "Weil der durch die Ausübung entstandene Vertrag erst durch Beurkundung wirksam wird.",
@@ -1091,9 +1072,7 @@
   "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/offentlich-rechtliche-vorkaufsrechte-vertrag-mit-dem-vorkaufsberechtigten-kosten-und-nachbeurkundung",
   "typ": "rf",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 464 Abs. 2 BGB"
-  ],
+  "normen": [],
   "frage": "Die Gemeinde muss nach der Rechtsprechung des BGH eine im Kaufvertrag als konstitutive Maklerklausel vereinbarte Maklercourtage nach Ausübung ihres Vorkaufsrechts zahlen.",
   "antwort": true,
   "erklaerung": "Die öffentliche Hand ist an „Fremdkörper“, die nur wegen der drohenden Ausübung aufgenommen wurden, nicht gebunden. Eine Maklerklausel ist nach dem BGH aber kein solcher Fremdkörper; die Gemeinde muss die Courtage daher zahlen, wenn sie als konstitutive Maklerklausel im Kaufvertrag steht."
@@ -1106,9 +1085,7 @@
   "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/offentlich-rechtliche-vorkaufsrechte-vertrag-mit-dem-vorkaufsberechtigten-kosten-und-nachbeurkundung",
   "typ": "zuordnung",
   "schwierigkeit": 3,
-  "normen": [
-   "§ 464 Abs. 2 BGB"
-  ],
+  "normen": [],
   "frage": "Ordne zu, ob die Regelung des Erstvertrags bzw. die Kostenposition nach Ausübung eines öffentlich-rechtlichen Vorkaufsrechts die öffentliche Hand trifft.",
   "paare": [
    [

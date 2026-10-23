@@ -30,8 +30,7 @@
   "typ": "rf",
   "schwierigkeit": 2,
   "normen": [
-   "§ 1 Abs. 2 WEG",
-   "§ 6 Abs. 1 WEG"
+   "§ 1 Abs. 2 WEG"
   ],
   "frage": "Wird bei der Unterteilung einer Eigentumswohnung ein Raum übersehen, bleibt die Unterteilung im Übrigen wirksam und der übersehene Raum wird Gemeinschaftseigentum.",
   "antwort": false,
@@ -435,5 +434,339 @@
    }
   ],
   "erklaerung": "Die X-GbR unterliegt der Kündigungsbeschränkung nach § 577a Abs. 1a S. 1 Nr. 1 BGB, auch ohne Aufteilung. Ausgenommen sind Erwerber derselben Familie oder desselben Haushalts, wozu auch geschiedene Ehegatten zählen (§ 577a Abs. 1a S. 2 BGB). In Gebieten mit Landesverordnung nach § 577a Abs. 2 BGB verlängert sich die Frist auf bis zu zehn Jahre."
+ },
+ {
+  "id": "wohn5-019",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Mietervorkaufsrecht nach § 577 BGB bei Wohnungseigentum: Grundlagen und Mietverhältnis",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/mietervorkaufsrecht-nach-577-bgb-bei-wohnungseigentum-grundlagen-und-mietverhaltnis",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 577 Abs. 3 BGB",
+   "§ 469 Abs. 2 S. 1 BGB"
+  ],
+  "frage": "Wie und binnen welcher Frist übt der Mieter das Vorkaufsrecht nach § 577 BGB aus?",
+  "optionen": [
+   "Durch notariell beurkundete Erklärung gegenüber dem Käufer binnen zwei Monaten nach Abschluss des Kaufvertrags",
+   "Durch schriftliche Erklärung gegenüber dem Verkäufer binnen zwei Monaten nach Empfang der Mitteilung",
+   "Durch schriftliche Erklärung gegenüber dem Verkäufer binnen eines Monats nach Empfang der Mitteilung",
+   "Durch formlose Erklärung gegenüber dem Notar binnen zwei Monaten nach Eintragung der Auflassung"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Mieter übt das Vorkaufsrecht durch schriftliche Erklärung gegenüber dem Verkäufer aus (§ 577 Abs. 3 BGB). Die Frist beträgt zwei Monate nach Empfang der Mitteilung (§ 469 Abs. 2 S. 1 BGB), beginnt also nicht schon mit Abschluss des Kaufvertrags. Eine notarielle Beurkundung ist für die Ausübung nicht vorgeschrieben."
+ },
+ {
+  "id": "wohn5-020",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Mietervorkaufsrecht nach § 577 BGB bei Wohnungseigentum: Grundlagen und Mietverhältnis",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/mietervorkaufsrecht-nach-577-bgb-bei-wohnungseigentum-grundlagen-und-mietverhaltnis",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 577 BGB"
+  ],
+  "frage": "Konnte der Mieter sein Vorkaufsrecht beim ersten Verkauf nach der Umwandlung nicht ausüben, steht es ihm beim nächsten Verkauf der Wohnung erneut zu.",
+  "antwort": false,
+  "erklaerung": "Das Mietervorkaufsrecht besteht nur für den ersten Verkauf nach der Umwandlung. Es erlischt nach der Rechtsprechung des BGH auch dann, wenn zwar ein Vorkaufsfall vorlag, der Mieter sein Recht aber nicht ausüben konnte. Ein späterer Weiterverkauf löst daher kein neues Vorkaufsrecht aus."
+ },
+ {
+  "id": "wohn5-021",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Mietervorkaufsrecht nach § 577 BGB bei Wohnungseigentum: Grundlagen und Mietverhältnis",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/mietervorkaufsrecht-nach-577-bgb-bei-wohnungseigentum-grundlagen-und-mietverhaltnis",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 577 Abs. 1 BGB"
+  ],
+  "frage": "In welchem Fall steht dem Mieter beim Verkauf einer Eigentumswohnung das Vorkaufsrecht nach § 577 BGB zu?",
+  "optionen": [
+   "Die Wohnung wurde ihm überlassen, nachdem die Teilungserklärung bereits im Grundbuch vollzogen war",
+   "Sein Zeitmietvertrag war bei Eintritt des Vorkaufsfalls bereits durch Zeitablauf beendet",
+   "Es handelt sich um den zweiten Verkauf der Wohnung nach der Umwandlung",
+   "Er kannte bei Überlassung die Umwandlungsabsicht des Vermieters; vollzogen wurde die Teilung erst danach"
+  ],
+  "antwort": 3,
+  "erklaerung": "Die Räume müssen dem Mieter vor Begründung des Wohnungseigentums überlassen worden sein; die Kenntnis des Mieters von der Umwandlungsabsicht schadet nach dem BGH nicht. Bestand das Wohnungseigentum bei Überlassung schon, ist das Vorkaufsrecht ausgeschlossen. Das Mietverhältnis muss zudem bei Eintritt des Vorkaufsfalls noch bestehen, und das Recht gilt nur für den ersten Verkauf."
+ },
+ {
+  "id": "wohn5-022",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Mietervorkaufsrecht nach § 577 BGB bei Wohnungseigentum: Grundlagen und Mietverhältnis",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/mietervorkaufsrecht-nach-577-bgb-bei-wohnungseigentum-grundlagen-und-mietverhaltnis",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 577 Abs. 1 BGB"
+  ],
+  "frage": "Der Mieter hat sein Mietverhältnis gekündigt; vor Ablauf der Kündigungsfrist wird die umgewandelte Wohnung verkauft. Wie beurteilt die wohl überwiegende Meinung das Vorkaufsrecht?",
+  "optionen": [
+   "Es besteht auch nach Kündigung durch den Mieter, solange das Mietverhältnis noch nicht beendet ist",
+   "Es entfällt mit Zugang der Kündigung, weil der Mieter keines Verdrängungsschutzes mehr bedarf",
+   "Es besteht nur, wenn der Vermieter und nicht der Mieter gekündigt hat",
+   "Es besteht nur, wenn der Mieter von der Umwandlung keine Kenntnis hatte"
+  ],
+  "antwort": 0,
+  "erklaerung": "Ob das Vorkaufsrecht bei gekündigtem, aber noch nicht beendetem Mietverhältnis besteht, ist umstritten; die wohl überwiegende Meinung bejaht es auch nach Kündigung durch den Mieter. Das Argument, ein selbst kündigender Mieter bedürfe keines Schutzes vor Verdrängung, ist die Gegenansicht, nicht die überwiegende Meinung. Die Anknüpfung an die Kenntnis von der Umwandlung entspricht einer differenzierenden Einzelansicht."
+ },
+ {
+  "id": "wohn5-023",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Mietervorkaufsrecht nach § 577 BGB bei Wohnungseigentum: Umwandlung, Vertragsgegenstand und Verkaufsfall",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/mietervorkaufsrecht-nach-577-bgb-bei-wohnungseigentum-umwandlung-vertragsgegenstand-und-verkaufsfall",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 577 Abs. 1 S. 1 BGB",
+   "§ 8 WEG"
+  ],
+  "frage": "V verkauft ein ungeteiltes vermietetes Mehrfamilienhaus. Wann besteht das Mietervorkaufsrecht nach der Absichtsalternative des § 577 Abs. 1 S. 1 Alt. 2 BGB?",
+  "optionen": [
+   "Wenn V weiß, dass der Käufer das Haus nach dem Erwerb aufteilen will",
+   "Wenn V für den Käufer bereits die Abgeschlossenheitsbescheinigung eingeholt hat",
+   "Wenn sich V gegenüber dem Käufer zur Aufteilung nach § 8 WEG verpflichtet und die künftige Einheit bestimmt oder bestimmbar ist",
+   "Wenn sich der Käufer im Kaufvertrag verpflichtet, das Haus binnen drei Jahren aufzuteilen"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Absichtsalternative setzt voraus, dass sich der Verkäufer gegenüber dem Erwerber zur Aufteilung nach § 8 WEG verpflichtet hat und die künftige Einheit im Vertrag bestimmt oder bestimmbar ist; sonst erhielte der Mieter nur einen Miteigentumsanteil ohne eigenes Nutzungsrecht. Bloße Kenntnis von Aufteilungsplänen des Käufers oder vorbereitende Mithilfe wie das Einholen der Abgeschlossenheitsbescheinigung genügen nicht; der Verkäufer muss ein eigenes Interesse an der Aufteilung haben."
+ },
+ {
+  "id": "wohn5-024",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Mietervorkaufsrecht nach § 577 BGB bei Wohnungseigentum: Umwandlung, Vertragsgegenstand und Verkaufsfall",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/mietervorkaufsrecht-nach-577-bgb-bei-wohnungseigentum-umwandlung-vertragsgegenstand-und-verkaufsfall",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 577 Abs. 1 S. 2 BGB",
+   "§ 471 BGB",
+   "§ 467 BGB"
+  ],
+  "frage": "Ordne die Verkaufskonstellation der Rechtsfolge für das Mietervorkaufsrecht zu.",
+  "paare": [
+   [
+    "Verkauf an einen Familienangehörigen des Verkäufers",
+    "Kein Vorkaufsrecht (§ 577 Abs. 1 S. 2 BGB)"
+   ],
+   [
+    "Verkauf durch den Insolvenzverwalter aus der Masse",
+    "Ausübung ausgeschlossen (§ 471 BGB), Vorkaufsrecht gleichwohl verbraucht"
+   ],
+   [
+    "Paketverkauf mehrerer aufgeteilter Wohnungen",
+    "Vorkaufsrecht jedes Mieters an seiner Wohnung; Einzelpreis nach § 467 S. 1 BGB"
+   ],
+   [
+    "Mitverkauf eines nicht vermieteten, rechtlich selbständigen Stellplatzes",
+    "Vorkaufsrecht nur an der Wohnung, Preis anteilig gemindert"
+   ],
+   [
+    "Realteilung eines Grundstücks mit mehreren Einfamilienhäusern",
+    "Analoge Anwendung von § 577 BGB"
+   ]
+  ],
+  "erklaerung": "Beim Verkauf an Familien- oder Haushaltsangehörige fehlt es am Verkauf an einen Dritten (§ 577 Abs. 1 S. 2 BGB); beim Verkauf durch den Insolvenzverwalter schließt § 471 BGB die Ausübung aus, der Erwerb verbraucht das Recht aber. Beim Paketverkauf hat jeder Mieter ein Vorkaufsrecht an seiner Wohnung, beim Mitverkauf eines Stellplatzes erstreckt es sich nur auf die Wohnung (§ 467 S. 1 BGB, Mitkauf nur unter § 467 S. 2 BGB). Auf die Realteilung bei mehreren Einfamilienhäusern wendet die Rechtsprechung § 577 BGB analog an."
+ },
+ {
+  "id": "wohn5-025",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Mietervorkaufsrecht nach § 577 BGB bei Wohnungseigentum: Umwandlung, Vertragsgegenstand und Verkaufsfall",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/mietervorkaufsrecht-nach-577-bgb-bei-wohnungseigentum-umwandlung-vertragsgegenstand-und-verkaufsfall",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 577 Abs. 1 S. 1 BGB"
+  ],
+  "frage": "Nach dem BGH scheidet das Vorkaufsrecht in der Absichtsalternative aus, wenn der Vermieter die Teilungserklärung bereits vor der Überlassung der Wohnung an den Mieter beurkundet hatte.",
+  "antwort": true,
+  "erklaerung": "Die Absichtsalternative greift nach dem BGH nur, wenn die Begründungsabsicht der Überlassung nachfolgt; bestand sie schon bei Überlassung, scheidet das Vorkaufsrecht aus. Dafür lässt der BGH die Beurkundung der Teilungserklärung vor der Überlassung genügen. Die Gegenansicht hält die Absicht erst mit der vertraglichen Aufteilungspflicht gegenüber dem Käufer für verwirklicht."
+ },
+ {
+  "id": "wohn5-026",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Mietervorkaufsrecht nach § 577 BGB bei Wohnungseigentum: Umwandlung, Vertragsgegenstand und Verkaufsfall",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/mietervorkaufsrecht-nach-577-bgb-bei-wohnungseigentum-umwandlung-vertragsgegenstand-und-verkaufsfall",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 577 Abs. 1 S. 1 BGB",
+   "§ 8 Abs. 2 WEG"
+  ],
+  "frage": "Nach Überlassung an Mieter M beurkundet V die Teilungserklärung und verkauft die künftige Wohnung des M, bevor die Teilungserklärung im Grundbuch vollzogen ist. Auf welche Alternative des § 577 Abs. 1 S. 1 BGB kann sich M stützen?",
+  "optionen": [
+   "Auf Alt. 1 (begründetes Wohnungseigentum), weil die Teilungserklärung bereits beurkundet war",
+   "Auf Alt. 1, weil es allein auf die Überlassung vor der Beurkundung ankommt",
+   "Nur auf die Absichtsalternative (Alt. 2), weil der Kaufvertrag dem Vollzug nicht nachfolgt",
+   "Auf keine, weil vor Vollzug der Teilungserklärung ein Vorkaufsrecht stets ausscheidet"
+  ],
+  "antwort": 2,
+  "erklaerung": "Für Alt. 1 kommt es darauf an, wann die Teilungserklärung im Grundbuch vollzogen wurde (§ 8 Abs. 2 WEG); nach dem BGH muss der Kaufvertrag dem Vollzug nachfolgen. Geht der Kaufvertrag dem Vollzug voraus, kommt nur die Absichtsalternative in Betracht. Diese setzt eine Aufteilungspflicht des Verkäufers und eine bestimmte oder bestimmbare Einheit voraus; ein Vorkaufsrecht ist also nicht von vornherein ausgeschlossen."
+ },
+ {
+  "id": "wohn5-027",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Veräußerung von Wohnungseigentum: Eintritt in Vereinbarungen und Beschlüsse",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/verausserung-von-wohnungseigentum-eintritt-in-vereinbarungen-und-beschlusse",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 10 Abs. 3 WEG"
+  ],
+  "frage": "Welche Regelung bindet den Erwerber einer Eigentumswohnung nur, wenn er sie übernimmt?",
+  "optionen": [
+   "Die im Grundbuch eingetragene Gemeinschaftsordnung",
+   "Ein nicht im Grundbuch eingetragener, schuldrechtlich vereinbarter Kostenschlüssel",
+   "Ein rechtswidriger, aber nicht rechtzeitig angefochtener Beschluss",
+   "Ein vor dem Erwerb gefasster Mehrheitsbeschluss über eine Baumaßnahme"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nicht eingetragene Vereinbarungen werden nach der Rechtsprechung insgesamt hinfällig, wenn ein Sondernachfolger eintritt, ohne sie zu übernehmen; ihre Fortgeltung erfordert eine Übernahmeerklärung. Die eingetragene Gemeinschaftsordnung wirkt dagegen nach § 10 Abs. 3 WEG ohne Regelung im Vertrag. Beschlüsse wirken ohne Eintragung gegen den Sondernachfolger (§ 10 Abs. 3 S. 2 WEG), auch rechtswidrige, nicht rechtzeitig angefochtene."
+ },
+ {
+  "id": "wohn5-028",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Veräußerung von Wohnungseigentum: Eintritt in Vereinbarungen und Beschlüsse",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/verausserung-von-wohnungseigentum-eintritt-in-vereinbarungen-und-beschlusse",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Kennt der Erwerber bei Beurkundung eine nicht eingetragene Vereinbarung der Wohnungseigentümer, liegt darin bereits eine konkludente Übernahme dieser Vereinbarung.",
+  "antwort": false,
+  "erklaerung": "Bloße Kenntnis des Erwerbers genügt für eine konkludente Übernahme nicht. Sollen nicht eingetragene Vereinbarungen fortgelten, ist eine Übernahmeerklärung des Erwerbers nötig; zudem müssen die übrigen Eigentümer zustimmen, wobei deren Zustimmung regelmäßig stillschweigend vorab in der Vereinbarung selbst liegt."
+ },
+ {
+  "id": "wohn5-029",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Veräußerung von Wohnungseigentum: Eintritt in Vereinbarungen und Beschlüsse",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/verausserung-von-wohnungseigentum-eintritt-in-vereinbarungen-und-beschlusse",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 10 Abs. 3 S. 1 WEG",
+   "§ 10 Abs. 3 S. 2 WEG"
+  ],
+  "frage": "Ein Beschluss, der aufgrund einer vereinbarten Öffnungsklausel gefasst wurde, wirkt gegen einen Sondernachfolger nur, wenn er im Grundbuch eingetragen ist.",
+  "antwort": true,
+  "erklaerung": "Beschlüsse wirken grundsätzlich ohne Eintragung gegen den Sondernachfolger (§ 10 Abs. 3 S. 2 WEG) und sind weder eintragungsbedürftig noch eintragungsfähig. Anderes gilt für Beschlüsse aufgrund einer vereinbarten Öffnungsklausel (§ 10 Abs. 3 S. 1 WEG): Sie bedürfen zur Wirkung gegen Sondernachfolger der Eintragung."
+ },
+ {
+  "id": "wohn5-030",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Veräußerung von Wohnungseigentum: Eintritt in Vereinbarungen und Beschlüsse",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/verausserung-von-wohnungseigentum-eintritt-in-vereinbarungen-und-beschlusse",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [],
+  "frage": "Der Verkäufer einer Eigentumswohnung hat ein nur schuldrechtlich vereinbartes Sondernutzungsrecht an einer Gartenfläche. Der Kaufvertragsentwurf enthält eine allgemeine Übernahme aller schuldrechtlichen Rechte und Pflichten aus dem Gemeinschaftsverhältnis. Was ist zu veranlassen?",
+  "optionen": [
+   "Nichts, weil die allgemeine Übernahme das Sondernutzungsrecht stets mit erfasst",
+   "Nichts, weil schuldrechtliche Sondernutzungsrechte nach § 10 Abs. 3 WEG ohne Weiteres gegen und für den Erwerber wirken",
+   "Den Eintritt in das Sondernutzungsrecht ausdrücklich regeln, weil die allgemeine Übernahme es nicht ohne Weiteres umfasst",
+   "Einen Beschluss der Eigentümerversammlung über die Zuordnung des Sondernutzungsrechts herbeiführen und eintragen lassen"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach dem BayObLG umfasst eine allgemeine Übernahme schuldrechtlicher Rechte und Pflichten im Kaufvertrag nicht ohne Weiteres schuldrechtliche Sondernutzungsrechte. Ist der Eintritt auch darin gewollt, ist er ausdrücklich zu regeln. § 10 Abs. 3 WEG verschafft nur eingetragenen Vereinbarungen Wirkung gegen Sondernachfolger, nicht schuldrechtlichen."
+ },
+ {
+  "id": "wohn5-031",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Veräußerung von Wohnungseigentum: Hausgeld und Zwangsversteigerungsrisiko",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/verausserung-von-wohnungseigentum-hausgeld-und-zwangsversteigerungsrisiko",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 16 Abs. 2 S. 1 WEG"
+  ],
+  "frage": "Für welche Hausgeldbeiträge haftet der Erwerber einer Eigentumswohnung gegenüber der Gemeinschaft nach der Fälligkeitstheorie?",
+  "optionen": [
+   "Für alle Beiträge ab Besitzübergang, auch wenn sie vorher fällig wurden",
+   "Für alle in der nächsten Jahresabrechnung ausgewiesenen Beträge, auch für Zeiträume vor der Umschreibung",
+   "Für die nach der Eigentumsumschreibung fällig werdenden Beiträge, auch wenn sie Kosten aus der Zeit davor betreffen",
+   "Zeitanteilig ab Abschluss des Kaufvertrags für alle Beiträge des laufenden Wirtschaftsjahres"
+  ],
+  "antwort": 2,
+  "erklaerung": "Hausgeldschuldner ist der jeweilige Eigentümer; der Erwerber haftet erst ab Eigentumsumschreibung nach § 16 Abs. 2 S. 1 WEG und nur für danach fällig werdende Beiträge, auch wenn sie Kosten aus der Zeit davor betreffen. Für vor dem Übergang fällige Kosten haftet er auch dann nicht, wenn sie in der Jahresabrechnung erscheinen. Der Besitzübergang ist im Verhältnis zur Gemeinschaft ohne Bedeutung."
+ },
+ {
+  "id": "wohn5-032",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Veräußerung von Wohnungseigentum: Hausgeld und Zwangsversteigerungsrisiko",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/verausserung-von-wohnungseigentum-hausgeld-und-zwangsversteigerungsrisiko",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 28 Abs. 3 WEG",
+   "§ 271 Abs. 1 BGB"
+  ],
+  "frage": "Haben die Eigentümer vor der Umschreibung eine Sonderumlage ohne Bestimmung der Fälligkeit beschlossen, schuldet sie der Erwerber, wenn der Verwalter sie erst nach der Umschreibung anfordert.",
+  "antwort": false,
+  "erklaerung": "Die Fälligkeit der Sonderumlage beschließen die Eigentümer (vgl. § 28 Abs. 3 WEG); ohne Bestimmung ist sie sofort fällig (§ 271 Abs. 1 BGB). Die vor dem Eigentumswechsel fällige Sonderumlage schuldet nach der Fälligkeitstheorie nicht der Erwerber. Dass die Anforderung durch den Verwalter die Fälligkeit bestimmt, entspricht der früheren Rechtslage."
+ },
+ {
+  "id": "wohn5-033",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Veräußerung von Wohnungseigentum: Hausgeld und Zwangsversteigerungsrisiko",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/verausserung-von-wohnungseigentum-hausgeld-und-zwangsversteigerungsrisiko",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 10 Abs. 1 Nr. 2 ZVG",
+   "§ 23 Abs. 1 S. 1 ZVG",
+   "§ 878 BGB"
+  ],
+  "frage": "Hausgeldrückstände und Vormerkung",
+  "sachverhalt": "K kauft von V eine Eigentumswohnung; für K wird eine Auflassungsvormerkung eingetragen. V ist mit erheblichem Hausgeld im Rückstand. Die Gemeinschaft der Wohnungseigentümer (GdWE) beantragt wegen dieser Rückstände die Zwangsversteigerung aus Rangklasse 2.",
+  "schritte": [
+   {
+    "frage": "Schützt die Auflassungsvormerkung K vor der Versteigerung?",
+    "optionen": [
+     "Ja, weil sie vor dem Versteigerungsantrag eingetragen wurde und deshalb im Rang vorgeht",
+     "Ja, weil das Rangklassenprivileg kein dingliches Recht begründet",
+     "Nein, sie fällt in Rangklasse 4, nicht in das geringste Gebot und droht zu erlöschen",
+     "Nein, weil Hausgeldforderungen durch eine vorrangige Sicherungshypothek gesichert sind"
+    ],
+    "antwort": 2,
+    "erklaerung": "Hausgeldrückstände genießen das Rangklassenprivileg des § 10 Abs. 1 Nr. 2 ZVG; es begründet zwar kein dingliches Recht, wohl aber einen Vorrang im Versteigerungsverfahren. Betreibt die GdWE aus Rangklasse 2, fällt die Vormerkung in Rangklasse 4 (§ 10 Abs. 1 Nr. 4 ZVG) und nicht in das geringste Gebot."
+   },
+   {
+    "frage": "Die Beschlagnahme wird wirksam; erst danach wird K als Eigentümer eingetragen. Wann wäre sein Erwerb gegenüber der GdWE gleichwohl wirksam?",
+    "optionen": [
+     "Wenn der Umschreibungsantrag bereits vor der Beschlagnahme gestellt war",
+     "Wenn der Kaufpreis vor der Beschlagnahme vollständig gezahlt war",
+     "Wenn K die Hausgeldrückstände bei Kaufvertragsschluss nicht kannte, auch nach Eintragung des Versteigerungsvermerks",
+     "Nie, ein Erwerb nach Beschlagnahme ist stets relativ unwirksam"
+    ],
+    "antwort": 0,
+    "erklaerung": "Ein Erwerb nach der Beschlagnahme ist gegenüber der GdWE relativ unwirksam (§ 23 Abs. 1 S. 1 ZVG i.V.m. §§ 135, 136 BGB). Wirksam ist er aber, wenn vor der Beschlagnahme der Umschreibungsantrag gestellt war (§ 878 BGB); gutgläubiger Erwerb ist zudem möglich, solange der Versteigerungsvermerk noch nicht eingetragen ist (§ 23 Abs. 2 S. 1 ZVG)."
+   },
+   {
+    "frage": "Bei der Beurkundung gab es Anhaltspunkte für offene Hausgeldforderungen. Welche Gestaltung wäre sachgerecht gewesen?",
+    "optionen": [
+     "Eine Hausgeldschuldenfreiheitsbescheinigung des Verwalters als Fälligkeitsvoraussetzung, mit Frist und Rücktrittsrecht des Erwerbers für den Fall ihres Ausbleibens",
+     "Eine zeitanteilige Verteilung des Hausgelds auf den Besitzübergang mit Wirkung gegenüber der GdWE",
+     "Die Eintragung eines Rangrücktritts der GdWE hinter die Auflassungsvormerkung",
+     "Ein Verzicht auf Belehrung, da die Vormerkung den Erwerber hinreichend schützt"
+    ],
+    "antwort": 0,
+    "erklaerung": "Bei Anhaltspunkten für offene Forderungen kann eine Hausgeldschuldenfreiheitsbescheinigung als Fälligkeitsvoraussetzung vereinbart werden; für ihr Ausbleiben sind Frist und Rücktrittsrecht vorzusehen. Standardmäßig ist sie nicht zu empfehlen, weil ihre Einholung den Vollzug verzögern kann. Eine zeitanteilige Abrechnung wirkt nur zwischen den Parteien, nicht gegenüber der Gemeinschaft."
+   }
+  ],
+  "erklaerung": "Wegen des Rangklassenprivilegs nach § 10 Abs. 1 Nr. 2 ZVG schützt die Vormerkung K nicht; sie fällt nicht in das geringste Gebot. Ein Erwerb nach Beschlagnahme ist relativ unwirksam, es sei denn, der Umschreibungsantrag war zuvor gestellt (§ 878 BGB) oder ein gutgläubiger Erwerb greift. Bei Anhaltspunkten für Rückstände ist eine Hausgeldschuldenfreiheitsbescheinigung als Fälligkeitsvoraussetzung mit Frist und Rücktrittsrecht angezeigt."
  }
 ]

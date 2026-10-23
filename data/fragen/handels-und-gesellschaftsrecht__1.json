@@ -474,9 +474,7 @@
   "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-grundungsurkunde-belehrungen-und-grundungsvollmacht",
   "typ": "mc",
   "schwierigkeit": 3,
-  "normen": [
-   "§ 19 Abs. 5 GmbHG"
-  ],
+  "normen": [],
   "frage": "Unter welchen Voraussetzungen befreit eine Einlage beim sogenannten Hin- und Herzahlen den Gesellschafter von seiner Einlagepflicht?",
   "optionen": [
    "Die Leistung an den Gesellschafter ist durch einen vollwertigen, jederzeit fälligen oder fristlos kündbaren Rückgewähranspruch gedeckt und wird in der Handelsregisteranmeldung angegeben",
@@ -495,11 +493,7 @@
   "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-grundungsurkunde-belehrungen-und-grundungsvollmacht",
   "typ": "zuordnung",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 11 Abs. 2 GmbHG",
-   "§ 24 GmbHG",
-   "§ 9a GmbHG"
-  ],
+  "normen": [],
   "frage": "Ordne die notariellen Belehrungen im GmbH-Gründungsprotokoll ihrem Inhalt zu.",
   "paare": [
    [
@@ -529,9 +523,7 @@
   "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-grundungsurkunde-belehrungen-und-grundungsvollmacht",
   "typ": "rf",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 19 Abs. 2 GmbHG"
-  ],
+  "normen": [],
   "frage": "Ein Gesellschafter darf gegen die Bareinlageforderung der GmbH mit jeder fälligen Gegenforderung aufrechnen, sofern die Gegenforderung vollwertig ist.",
   "antwort": false,
   "erklaerung": "Die Bareinlage wird grundsätzlich nur durch tatsächliche Zahlung von Geld zur endgültig freien Verfügung der Geschäftsführer erfüllt. Eine Aufrechnung ist nur zulässig, wenn die Gegenforderung aus der Überlassung von Vermögensgegenständen stammt und die Anrechnung auf die Einlage unter Beachtung der Sacheinlagevorschriften vereinbart wurde. Die bloße Vollwertigkeit einer beliebigen Gegenforderung reicht nicht."
@@ -980,9 +972,7 @@
   "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-vorratsgrundung-und-mantelverwendung",
   "typ": "mc",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 3 GmbHG"
-  ],
+  "normen": [],
   "frage": "Unter welcher Voraussetzung ist eine Vorratsgründung nach der Rechtsprechung des BGH zulässig?",
   "optionen": [
    "Wenn die Gründer sich verpflichten, die Gesellschaft binnen eines Jahres zu aktivieren",

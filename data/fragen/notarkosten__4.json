@@ -729,9 +729,7 @@
   "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-wertgebuhr-gebuhrentatbestand-und-gebuhrensatz",
   "typ": "rf",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 34 GNotKG"
-  ],
+  "normen": [],
   "frage": "Der im Einzelfall tatsächlich angefallene Arbeitsaufwand des Notariats kann eine Erhöhung des Gebührensatzes rechtfertigen.",
   "antwort": false,
   "erklaerung": "Die Notargebühr ist eine Wertgebühr nach degressiver Tabelle und richtet sich nach dem Wert des geregelten Rechtsverhältnisses, nicht nach dem Arbeitsaufwand. Der typische Aufwand wird abstrakt über den Gebührensatz berücksichtigt; der tatsächliche Aufwand im Einzelfall ist unerheblich."
@@ -1217,8 +1215,7 @@
   "schwierigkeit": 2,
   "normen": [
    "§ 93 Abs. 1 GNotKG",
-   "§ 35 Abs. 1 GNotKG",
-   "§ 34 GNotKG"
+   "§ 35 Abs. 1 GNotKG"
   ],
   "frage": "Warum kosten zwei gleichartige Geschäfte mit je 100.000 € Wert in getrennten Niederschriften mehr als ein Geschäft mit 200.000 € in einer Niederschrift?",
   "optionen": [
@@ -1578,8 +1575,7 @@
   "typ": "mc",
   "schwierigkeit": 3,
   "normen": [
-   "§ 89 GNotKG",
-   "§ 32 Abs. 1 GNotKG"
+   "§ 89 GNotKG"
   ],
   "frage": "Käufer K1 und K2 schulden die Notarkosten als Gesamtschuldner. Welche Aussage zur Klauselerteilung ist zutreffend?",
   "optionen": [

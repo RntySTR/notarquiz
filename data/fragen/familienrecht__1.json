@@ -772,8 +772,7 @@
   "typ": "rf",
   "schwierigkeit": 3,
   "normen": [
-   "§ 1769 BGB",
-   "§ 1745 BGB"
+   "§ 1769 BGB"
   ],
   "frage": "Bei der Volljährigenadoption genügen nach § 1769 BGB bereits materielle Interessen vorhandener Kinder, etwa die Schmälerung ihrer Erb- und Unterhaltsansprüche, um die Annahme zu hindern.",
   "antwort": true,
@@ -1824,9 +1823,7 @@
   "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehevertrag-wirksamkeitskontrolle-subjektives-moment-einzelfalle-und-rechtsfolge",
   "typ": "mc",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 138 BGB"
-  ],
+  "normen": [],
   "frage": "Welcher Umstand spricht nach der Rechtsprechung regelmäßig dagegen, einen Ehevertrag subjektiv zu beanstanden?",
   "optionen": [
    "Nur der begünstigte Ehegatte war anwaltlich beraten",
@@ -1845,9 +1842,7 @@
   "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehevertrag-wirksamkeitskontrolle-subjektives-moment-einzelfalle-und-rechtsfolge",
   "typ": "mc",
   "schwierigkeit": 3,
-  "normen": [
-   "§ 138 BGB"
-  ],
+  "normen": [],
   "frage": "Ein Ehevertrag enthält Gütertrennung und einen kompensationslosen Ausschluss des Versorgungsausgleichs gegenüber der schwangeren Ehefrau. Wie ist die Gütertrennung nach der BGH-Rechtsprechung zu beurteilen?",
   "optionen": [
    "Sie bleibt wirksam, weil Gütertrennung allein unbedenklich ist und das Güterrecht nicht zum Kernbereich gehört",
@@ -1866,9 +1861,7 @@
   "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehevertrag-wirksamkeitskontrolle-subjektives-moment-einzelfalle-und-rechtsfolge",
   "typ": "rf",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 138 BGB"
-  ],
+  "normen": [],
   "frage": "Ein Verzicht auf Betreuungsunterhalt ist im Rahmen der Wirksamkeitskontrolle unbedenklich, wenn bei Vertragsschluss keine betreuungsbedürftigen Kinder zu erwarten oder gewünscht waren.",
   "antwort": true,
   "erklaerung": "Nach BGH FamRZ 2005, 691 ist der Verzicht auf Betreuungsunterhalt für die Wirksamkeitskontrolle unbedenklich, wenn bei Vertragsschluss keine betreuungsbedürftigen Kinder zu erwarten oder gewünscht waren; maßgeblich sind die Verhältnisse bei Vertragsschluss. Kommen später doch Kinder, ist das eine Frage der Ausübungskontrolle. Ehegatten können zudem vereinbaren, ab welchem Kindesalter der betreuende Elternteil wieder erwerbstätig sein muss (BGH FamRZ 2005, 1444; a. A. OLG Hamm).",
@@ -1881,9 +1874,7 @@
   "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehevertrag-wirksamkeitskontrolle-subjektives-moment-einzelfalle-und-rechtsfolge",
   "typ": "rf",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 138 BGB"
-  ],
+  "normen": [],
   "frage": "Ist ein Ehevertrag wegen Sittenwidrigkeit nichtig, bleibt er dank einer salvatorischen Klausel in seinen unbedenklichen Teilen regelmäßig wirksam.",
   "antwort": false,
   "erklaerung": "Hält ein Ehevertrag der Wirksamkeitskontrolle nicht stand, ist er in der Regel mit allen Bestandteilen nichtig; an die Stelle tritt das Gesetz. Salvatorische Klauseln helfen regelmäßig nicht, jedenfalls wenn die Sittenwidrigkeit aus der Gesamtschau folgt oder einzelne sittenwidrige Klauseln zwangsläufig den ganzen Vertrag erfassen (BGH FamRZ 2006, 1097). Einen problematischen Globalverzicht im Vertrauen auf eine salvatorische Klausel zu beurkunden, ist ein typischer Fehler.",
@@ -1896,9 +1887,7 @@
   "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehevertrag-wirksamkeitskontrolle-subjektives-moment-einzelfalle-und-rechtsfolge",
   "typ": "mc",
   "schwierigkeit": 3,
-  "normen": [
-   "§ 138 BGB"
-  ],
+  "normen": [],
   "frage": "Wie lässt sich ein Ausschluss des Versorgungsausgleichs absichern, wenn absehbar ist, dass ein Ehegatte wegen Kinderbetreuung auf versorgungsbegründende Erwerbstätigkeit verzichtet?",
   "optionen": [
    "Durch eine Erklärung des Verzichtenden, dass er die Tragweite verstanden hat",

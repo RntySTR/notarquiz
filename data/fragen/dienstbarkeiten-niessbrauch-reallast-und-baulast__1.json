@@ -636,8 +636,7 @@
   "normen": [
    "§ 1093 BGB",
    "§ 1105 BGB",
-   "§ 31 WEG",
-   "§ 1030 BGB"
+   "§ 31 WEG"
   ],
   "frage": "Ordne die Gestaltungen zur Sicherung einer Wohnungsnutzung ihrem typischen Anwendungsfall zu.",
   "paare": [
@@ -709,8 +708,7 @@
   "schwierigkeit": 2,
   "normen": [
    "§ 1093 Abs. 1 S. 2 BGB",
-   "§ 1047 BGB",
-   "§ 1041 BGB"
+   "§ 1047 BGB"
   ],
   "frage": "Wie sind die Lasten beim Wohnungsrecht nach der gesetzlichen Regelung verteilt?",
   "optionen": [
@@ -938,8 +936,7 @@
   "schwierigkeit": 3,
   "normen": [
    "§ 1041 BGB",
-   "§ 1045 BGB",
-   "§ 1047 BGB"
+   "§ 1045 BGB"
   ],
   "frage": "Bei der Beurkundung eines Zuwendungsnießbrauchs zugunsten eines minderjährigen Kindes sollte vorsorglich ein Pfleger eingeschaltet werden, weil die Finanzverwaltung die steuerliche Anerkennung regelmäßig davon abhängig macht und die lediglich rechtliche Vorteilhaftigkeit wegen der Pflichten aus §§ 1041, 1045, 1047 BGB überwiegend verneint wird.",
   "antwort": true,
@@ -1155,8 +1152,6 @@
   "schwierigkeit": 2,
   "normen": [
    "§ 52 Abs. 1 S. 2 ZVG",
-   "§ 91 Abs. 1 ZVG",
-   "§ 92 Abs. 2 ZVG",
    "§ 121 Abs. 1 ZVG"
   ],
   "frage": "Eine Bank betreibt aus einer dem Nießbrauch vorgehenden Grundschuld die Zwangsversteigerung. Was wird aus dem Nießbrauch?",
@@ -1199,9 +1194,7 @@
   "typ": "rf",
   "schwierigkeit": 1,
   "normen": [
-   "§ 47 InsO",
-   "§ 857 Abs. 3 ZPO",
-   "§§ 35, 36 InsO"
+   "§ 47 InsO"
   ],
   "frage": "In der Insolvenz des Eigentümers kann der Nießbraucher aussondern (§ 47 InsO); in der Insolvenz des Nießbrauchers gehören jedenfalls die rückständigen und die während des Verfahrens anfallenden Nutzungen zur Masse.",
   "antwort": true,
@@ -1216,8 +1209,6 @@
   "typ": "zuordnung",
   "schwierigkeit": 2,
   "normen": [
-   "§ 1107 BGB",
-   "§ 1147 BGB",
    "§ 1108 Abs. 1 BGB"
   ],
   "frage": "Ordne die drei bei der Reallast nebeneinander bestehenden Ansprüche ihrem Inhalt zu.",

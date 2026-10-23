@@ -260,8 +260,7 @@
   "schwierigkeit": 3,
   "normen": [
    "§ 925 Abs. 2 BGB",
-   "§ 873 Abs. 2 BGB",
-   "§ 892 BGB"
+   "§ 873 Abs. 2 BGB"
   ],
   "frage": "Auflassung unter Vorbehalt",
   "sachverhalt": "V verkauft sein Grundstück an K. K möchte sicherstellen, dass er erst nach vollständiger Kaufpreiszahlung Eigentümer wird; V will umgekehrt sicher sein, dass er nicht das Eigentum verliert, bevor er sein Geld hat. V schlägt vor, die Auflassung nur unter der aufschiebenden Bedingung der Kaufpreiszahlung zu erklären. In Abteilung II des Grundbuchs ist ein Testamentsvollstreckervermerk zugunsten T eingetragen, weil V das Grundstück geerbt hat.",
@@ -556,7 +555,6 @@
   "typ": "rf",
   "schwierigkeit": 3,
   "normen": [
-   "§ 875 BGB",
    "§ 879 BGB"
   ],
   "frage": "Löscht das Grundbuchamt ein beschränktes dingliches Recht zu Unrecht, wird es auf Antrag mit bisherigem Inhalt neu eingetragen; inzwischen eingetragene Rechte gehen ihm im Rang nach.",
@@ -627,7 +625,6 @@
   "schwierigkeit": 3,
   "normen": [
    "§ 878 BGB",
-   "§§ 80, 81 InsO",
    "§ 873 Abs. 2 BGB"
   ],
   "frage": "Insolvenz zwischen Beurkundung und Eintragung",
@@ -886,9 +883,7 @@
   "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/flurbereinigung-ausfuhrung-des-plans-und-verfugungen-bis-zur-grundbuchberichtigung",
   "typ": "mc",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 61 FlurbG"
-  ],
+  "normen": [],
   "frage": "Der Flurbereinigungsplan ist ausgeführt, das Grundbuch aber noch nicht berichtigt. Wie wirkt eine jetzt erklärte Auflassung über das im Grundbuch noch gebuchte Einlagegrundstück?",
   "optionen": [
    "Sie ist wirkungslos, weil das Einlagegrundstück materiell-rechtlich nicht mehr besteht",
@@ -1670,8 +1665,7 @@
   "typ": "mc",
   "schwierigkeit": 3,
   "normen": [
-   "§ 2 Abs. 3 GBO",
-   "§ 890 BGB"
+   "§ 2 Abs. 3 GBO"
   ],
   "frage": "Bei einem Teilflächenverkauf entsteht ein Zuflurstück, das laut Fortführungsnachweis mit einem Flurstück des Erwerbers verschmolzen werden soll. Welche Gestaltung ist zu empfehlen?",
   "optionen": [

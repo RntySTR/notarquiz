@@ -467,8 +467,7 @@
   "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
-   "§ 39a Abs. 3 S. 1 BeurkG",
-   "§ 42 Abs. 4 BeurkG"
+   "§ 39a Abs. 3 S. 1 BeurkG"
   ],
   "frage": "Welche Voraussetzung muss erfüllt sein, bevor der Notar eine beglaubigte Abschrift oder Ausfertigung einer elektronischen Urkunde erteilt?",
   "optionen": [
@@ -490,7 +489,6 @@
   "schwierigkeit": 3,
   "normen": [
    "§ 45 Abs. 3 BeurkG",
-   "§ 42 Abs. 4 BeurkG",
    "§ 130 Abs. 2 BGB",
    "§ 34 Abs. 6 NotAktVV"
   ],
@@ -998,10 +996,7 @@
   "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronischer-rechtsverkehr-strukturdaten-xml-und-xml-gebuhr",
   "typ": "rf",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 93c AO",
-   "§ 18 GrEStG"
-  ],
+  "normen": [],
   "frage": "Für das Grundbuchamt ist der beigefügte XML-Datensatz rechtlich maßgeblich; der Inhalt der übermittelten Dokumente dient nur der Weiterverarbeitung.",
   "antwort": false,
   "erklaerung": "Für Gerichte ist die XML-Datei nur eine Arbeitshilfe; rechtlich kommt es allein auf den Inhalt der übermittelten Dokumente an. Das gilt ebenso im Verwaltungsaustausch (eNoVA) mit Behörden und Gerichten. Nur gegenüber dem Finanzamt kehrt sich das Verhältnis um: Dort ist der amtlich vorgeschriebene Datensatz selbst die Anzeige (§ 18 GrEStG i. V. m. § 93c AO)."
@@ -1162,8 +1157,7 @@
   "schwierigkeit": 2,
   "normen": [
    "§ 18 GrEStG",
-   "§ 195 BauGB",
-   "§ 25 Abs. 2 GrdstVG"
+   "§ 195 BauGB"
   ],
   "frage": "Ordne die eNoVA-Einführungsstufen den jeweiligen Neuerungen zu.",
   "paare": [
@@ -1424,8 +1418,7 @@
   "typ": "rf",
   "schwierigkeit": 2,
   "normen": [
-   "§ 130a ZPO",
-   "§ 39a BeurkG"
+   "§ 130a ZPO"
   ],
   "frage": "Versendet der Notar eine elektronische Beglaubigung für das Grundbuchamt selbst aus seinem beN, kann er auf die qualifizierte elektronische Signatur verzichten.",
   "antwort": false,

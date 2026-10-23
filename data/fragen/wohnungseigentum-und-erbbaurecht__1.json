@@ -865,8 +865,7 @@
   "typ": "rf",
   "schwierigkeit": 1,
   "normen": [
-   "§ 8 Abs. 2 WEG",
-   "§ 5 Abs. 4 WEG"
+   "§ 8 Abs. 2 WEG"
   ],
   "frage": "Bei einer Teilung nach § 8 WEG kann eine Gemeinschaftsordnung erst errichtet werden, wenn mindestens zwei Wohnungseigentümer vorhanden sind, die sie vereinbaren.",
   "antwort": false,
@@ -955,7 +954,6 @@
   "schwierigkeit": 3,
   "normen": [
    "§ 18 Abs. 2 Nr. 1 WEG",
-   "§ 19 Abs. 2 Nr. 2 WEG",
    "§ 242 BGB"
   ],
   "frage": "Verschobene Trennwand",

@@ -260,8 +260,7 @@
   "typ": "rf",
   "schwierigkeit": 3,
   "normen": [
-   "§ 181 BGB",
-   "§ 35 GmbHG"
+   "§ 181 BGB"
   ],
   "frage": "Ein GmbH-Geschäftsführer, der selbst nicht von § 181 BGB befreit ist, kann einem Bevollmächtigten wirksam Befreiung von § 181 BGB erteilen.",
   "antwort": false,
@@ -436,9 +435,7 @@
  {
   "typ": "mc",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 1191 BGB"
-  ],
+  "normen": [],
   "frage": "Unter welcher Bedingung sagt der Veräußerer im Kaufvertrag die Mitwirkung an der Bestellung von Finanzierungsgrundpfandrechten des Käufers zu?",
   "optionen": [
    "Der Gläubiger darf das Grundpfandrecht nur verwerten, soweit seine Auszahlungen die Kaufpreisschuld des Erwerbers tatsächlich getilgt haben",
@@ -457,9 +454,7 @@
  {
   "typ": "rf",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 1191 BGB"
-  ],
+  "normen": [],
   "frage": "Der Notar muss den Finanzierungsgläubiger darauf hinweisen, dass den Verkäufer bei der Mitbestellung der Finanzierungsgrundschuld keine persönliche Zahlungspflicht trifft.",
   "antwort": true,
   "erklaerung": "Der Veräußerer stellt nur sein Eigentum als Sicherheit zur Verfügung; der Notar muss den Gläubiger auf das Fehlen einer persönlichen Zahlungspflicht des Verkäufers hinweisen. Ergänzend stellt der Käufer den Verkäufer von allen Kosten der Grundschuldbestellung frei, und der Veräußerer tritt dem Erwerber die Rückgewähransprüche aus der Finanzierungsgrundschuld ab.",
@@ -472,9 +467,7 @@
  {
   "typ": "mc",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 167 BGB"
-  ],
+  "normen": [],
   "frage": "Welchen praktischen Vorteil hat die im Kaufvertrag erteilte Finanzierungsvollmacht (Belastungsvollmacht) des Veräußerers an den Erwerber?",
   "optionen": [
    "Die Verwertungsbeschränkung des Gläubigers wird dadurch entbehrlich",
@@ -666,10 +659,7 @@
  {
   "typ": "mc",
   "schwierigkeit": 3,
-  "normen": [
-   "§ 398 BGB",
-   "§ 1191 BGB"
-  ],
+  "normen": [],
   "frage": "Welchen Zweck hat die im Kaufvertrag übliche, aufschiebend bedingte Abtretung der Rückgewähransprüche an den Grundpfandrechten vom Verkäufer an den Käufer?",
   "optionen": [
    "Sie schützt den Käufer vor anderweitiger Abtretung, Pfändung und gegebenenfalls Insolvenz des Verkäufers bis zur Ausübung des Wahlrechts",
@@ -739,9 +729,7 @@
  {
   "typ": "mc",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 286 BGB"
-  ],
+  "normen": [],
   "frage": "Worin liegt der Vorteil der deklaratorischen gegenüber der konstitutiven Fälligkeitsmitteilung?",
   "optionen": [
    "Der Notar muss die Fälligkeitsvoraussetzungen nicht mehr selbst prüfen",
@@ -760,9 +748,7 @@
  {
   "typ": "rf",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 286 BGB"
-  ],
+  "normen": [],
   "frage": "Die Fälligkeitsmitteilung des Notars darf sich auch auf die vertraglich vereinbarte besenreine Räumung erstrecken, wenn der Verkäufer diese schriftlich bestätigt hat.",
   "antwort": false,
   "erklaerung": "Die Fälligkeitsmitteilung erfasst nur Voraussetzungen, die der Notar selbst prüfen kann. Die besenreine Räumung kann er nicht prüfen; sie prüft der Erwerber selbst. Die Mitteilung darf zudem nur ergehen, wenn jede vereinbarte Voraussetzung genau erfüllt ist; bei abweichenden Umständen müssen die Parteien den Vertrag ändern.",
@@ -863,9 +849,7 @@
  {
   "typ": "rf",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 1184 BGB"
-  ],
+  "normen": [],
   "frage": "Soll bei Ratenzahlung das Eigentum schon vor Zahlung der letzten Rate übergehen, kann der Veräußerer durch eine bei der Eigentumsumschreibung in Abteilung III eingetragene Sicherungshypothek für den Restkaufpreis abgesichert werden.",
   "antwort": true,
   "erklaerung": "Die Sicherungshypothek wird bei der Eigentumsumschreibung in Abteilung III eingetragen und sichert die offene Restkaufpreisforderung. Zusätzlich empfiehlt sich eine Vollstreckungsunterwerfung des Erwerbers sowie die Regelung von Ratenhöhe, Verzinsung und Gesamtfälligkeit bei Zahlungsrückstand.",
@@ -878,9 +862,7 @@
  {
   "typ": "mc",
   "schwierigkeit": 3,
-  "normen": [
-   "§ 1192 Abs. 1 BGB"
-  ],
+  "normen": [],
   "frage": "Ein Grundschuldbrief ist unauffindbar; der Vertrag sieht Zahlung in zwei Raten vor. Welcher Einbehalt ist üblich und wovon sollte die zweite Rate zusätzlich abhängen?",
   "optionen": [
    "Einbehalt in Höhe der Restvaluta; zweite Rate fällig nach Löschung der Vormerkung",

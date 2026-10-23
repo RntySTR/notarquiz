@@ -645,9 +645,7 @@
   "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-it-sicherheit-und-social-engineering",
   "typ": "mc",
   "schwierigkeit": 2,
-  "normen": [
-   "Art. 32 DSGVO"
-  ],
+  "normen": [],
   "frage": "Eine Mitarbeiterin erhält von einer der Kanzleiadresse ähnlichen, aber abweichenden E-Mail-Adresse im Namen des Notars die Anweisung, sofort eine dringende Überweisung auszuführen. Wie reagiert sie richtig?",
   "optionen": [
    "Überweisung ausführen, da die Anweisung vom Notar stammt",
@@ -666,9 +664,7 @@
   "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-it-sicherheit-und-social-engineering",
   "typ": "mc",
   "schwierigkeit": 1,
-  "normen": [
-   "Art. 32 DSGVO"
-  ],
+  "normen": [],
   "frage": "Was bezeichnet der Begriff „Social Engineering“?",
   "optionen": [
    "Angriffe, die das Verhalten der Nutzer beeinflussen sollen, statt technische Schwachstellen auszunutzen",
@@ -872,9 +868,7 @@
   "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-systemsicherheit-datensicherung-und-e-mail",
   "typ": "mc",
   "schwierigkeit": 2,
-  "normen": [
-   "Art. 32 DSGVO"
-  ],
+  "normen": [],
   "frage": "Ein Notariat sichert täglich auf eine einzige externe Festplatte, die im Tresor der Geschäftsstelle liegt. Wie ist das zu bewerten?",
   "optionen": [
    "Ausreichend, da der Tresor vor Diebstahl schützt",
@@ -893,10 +887,7 @@
   "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-systemsicherheit-datensicherung-und-e-mail",
   "typ": "mc",
   "schwierigkeit": 2,
-  "normen": [
-   "Art. 33 DSGVO",
-   "Art. 32 DSGVO"
-  ],
+  "normen": [],
   "frage": "Die Rechner der Geschäftsstelle sind durch Ransomware verschlüsselt. Welche Reaktion entspricht den Empfehlungen?",
   "optionen": [
    "Lösegeld zahlen, um die Daten schnell zurückzuerhalten, und danach melden",
@@ -915,9 +906,7 @@
   "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-systemsicherheit-datensicherung-und-e-mail",
   "typ": "rf",
   "schwierigkeit": 2,
-  "normen": [
-   "Art. 32 DSGVO"
-  ],
+  "normen": [],
   "frage": "Für die gewöhnliche E-Mail-Korrespondenz mit Mandanten genügt die Transportverschlüsselung; bei Testamenten, Erbverträgen und Scheidungsvereinbarungen empfiehlt sich eine Ende-zu-Ende-Verschlüsselung oder ein Passwortschutz der Anhänge.",
   "antwort": true,
   "erklaerung": "Die Transportverschlüsselung schützt die E-Mail zwischen den Mail-Servern, ist bei großen Anbietern Standard und genügt für gewöhnliche Korrespondenz. Bei besonders persönlichen oder familiären Angelegenheiten empfiehlt sich Ende-zu-Ende-Verschlüsselung oder Passwortschutz der Anhänge; für die gewöhnliche E-Mail-Korrespondenz wird zudem die Einwilligung des Mandanten empfohlen."
@@ -1157,9 +1146,7 @@
   "quelle": "handbuch-mit-notarwissen/notariatsorganisation/arbeitsrecht-im-notariat-fortbildungsvereinbarungen-und-ruckzahlungsklauseln",
   "typ": "zuordnung",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 307 BGB"
-  ],
+  "normen": [],
   "frage": "Ordne die Anforderungen an eine Rückzahlungsklausel ihrem Inhalt zu.",
   "paare": [
    [
@@ -1237,12 +1224,7 @@
   "quelle": "handbuch-mit-notarwissen/notariatsorganisation/arbeitsrecht-im-notariat-nachweis-in-textform-und-entgelttransparenz",
   "typ": "zuordnung",
   "schwierigkeit": 3,
-  "normen": [
-   "Art. 5 EU-Entgelttransparenz-RL",
-   "Art. 6 EU-Entgelttransparenz-RL",
-   "Art. 7 EU-Entgelttransparenz-RL",
-   "Art. 9 EU-Entgelttransparenz-RL"
-  ],
+  "normen": [],
   "frage": "Ordne die Pflichten nach der EU-Entgelttransparenz-Richtlinie der jeweiligen Regelung zur Arbeitgebergröße bzw. zum Inhalt zu.",
   "paare": [
    [
@@ -1315,8 +1297,7 @@
   "typ": "fall",
   "schwierigkeit": 3,
   "normen": [
-   "§ 612 Abs. 1 BGB",
-   "§ 307 BGB"
+   "§ 612 Abs. 1 BGB"
   ],
   "frage": "Überstundenklage und Vertragsgestaltung",
   "sachverhalt": "Notarfachangestellte F (Monatsgehalt 3.600 Euro) verlangt nach ihrem Ausscheiden Vergütung für 120 Überstunden. Ihr Arbeitsvertrag enthält die Klausel: „Sämtliche Überstunden sind mit dem Gehalt abgegolten.“ Notar N bestreitet, die Überstunden je angeordnet zu haben. N will künftige Verträge besser gestalten.",

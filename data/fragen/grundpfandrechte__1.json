@@ -1052,7 +1052,6 @@
   "typ": "mc",
   "schwierigkeit": 3,
   "normen": [
-   "§§ 780, 781 BGB",
    "§ 1163 Abs. 1 S. 1 BGB"
   ],
   "frage": "Welche Folgen hat es, wenn der Hypothek statt des Darlehens ein abstraktes Schuldversprechen als gesicherte Forderung zugrunde gelegt wird?",
@@ -1298,7 +1297,6 @@
   "typ": "mc",
   "schwierigkeit": 1,
   "normen": [
-   "§ 1113 BGB",
    "§ 1115 BGB"
   ],
   "frage": "Die Eltern wollen ihrem Sohn ein Grundstück übertragen und sich wiederkehrende Pflegeleistungen und Naturalleistungen dinglich sichern lassen. Welches Recht ist zu wählen?",
@@ -1341,9 +1339,7 @@
   "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-gesicherte-forderung-und-inhalt-der-eintragung",
   "typ": "rf",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 1132 BGB"
-  ],
+  "normen": [],
   "frage": "Eine Darlehensforderung von 100.000 EUR kann durch zwei Einzelhypotheken über je 100.000 EUR an zwei verschiedenen Grundstücken gesichert werden.",
   "antwort": false,
   "erklaerung": "Eine Forderung durch mehrere Hypotheken zu sichern, ist unzulässig (Verbot der Doppelsicherung). Zulässig ist nur eine Gesamthypothek, weil sie eine einheitliche Hypothek an mehreren Grundstücken ist (§ 1132 BGB). Umgekehrt können mehrere Forderungen in einer Hypothek zusammengefasst werden."
@@ -1682,7 +1678,6 @@
   "schwierigkeit": 2,
   "normen": [
    "§ 1154 Abs. 3 BGB",
-   "§ 873 Abs. 1 BGB",
    "§ 29 GBO"
   ],
   "frage": "Was ist zur Abtretung einer Buchhypothek erforderlich?",
@@ -1859,8 +1854,7 @@
   "schwierigkeit": 3,
   "normen": [
    "§ 866 ZPO",
-   "§ 867 Abs. 1 ZPO",
-   "§ 10 Abs. 1 ZVG"
+   "§ 867 Abs. 1 ZPO"
   ],
   "frage": "Welchen Vorteil bringt die Eintragung einer Zwangshypothek dem Gläubiger für eine spätere Zwangsversteigerung?",
   "optionen": [

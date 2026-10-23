@@ -108,8 +108,7 @@
   "schwierigkeit": 3,
   "normen": [
    "§ 1849 Abs. 1 BGB",
-   "§§ 1855 ff. BGB",
-   "§ 1859 Abs. 1 BGB"
+   "§§ 1855 ff. BGB"
   ],
   "frage": "Welche Aussage zur Genehmigung nach § 1849 BGB trifft zu?",
   "optionen": [
@@ -394,8 +393,7 @@
   "typ": "mc",
   "schwierigkeit": 3,
   "normen": [
-   "§ 1856 BGB",
-   "§ 1850 Nr. 1 BGB"
+   "§ 1856 BGB"
   ],
   "frage": "Der Notar fertigt die Eigenurkunde über die Mitteilung der Genehmigung in Unkenntnis davon, dass die betreute Verkäuferin bereits verstorben war. Die Erben verweigern später die Genehmigung. Welche Folge ergibt sich nach dem Handbuch?",
   "optionen": [
@@ -743,8 +741,7 @@
   "typ": "rf",
   "schwierigkeit": 1,
   "normen": [
-   "§ 1824 BGB",
-   "§ 1809 BGB"
+   "§ 1824 BGB"
   ],
   "frage": "Besteht für einen minderjährigen Gesellschafter ein Vertretungsausschluss, sind die ohne Ladung des Ergänzungspflegers gefassten Grundlagenbeschlüsse lediglich anfechtbar.",
   "antwort": false,

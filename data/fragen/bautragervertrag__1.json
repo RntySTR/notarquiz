@@ -208,9 +208,7 @@
   "typ": "mc",
   "schwierigkeit": 1,
   "normen": [
-   "§ 51 Abs. 2 BeurkG",
-   "§ 49 Abs. 5 BeurkG",
-   "§ 42 Abs. 3 BeurkG"
+   "§ 51 Abs. 2 BeurkG"
   ],
   "frage": "Wie funktioniert die Ausfertigungssperre zur Sicherung des Bauträgers bis zur Zahlung?",
   "optionen": [
@@ -230,9 +228,7 @@
   "quelle": "handbuch-mit-notarwissen/bautragervertrag/abnahme-mangel-und-vollzug/bautragervertrag-auflassung-und-sicherung-des-bautragers",
   "typ": "rf",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 925 BGB"
-  ],
+  "normen": [],
   "frage": "Bleibt der Bau stecken, kann der Erwerber ausnahmsweise die Eigentumsumschreibung schon vor vollständiger Kaufpreiszahlung verlangen.",
   "antwort": true,
   "erklaerung": "Richtig. Grundsätzlich geht das Eigentum wie beim gewöhnlichen Immobilienkauf erst nach Kaufpreiszahlung über; die Sicherungsgestaltungen (getrennte Auflassung, Ausfertigungssperre, Bewilligungssperre) stellen das sicher. Eine Ausnahme gilt aber, wenn der Bau steckenbleibt: Dann kann der Erwerber die vorzeitige Umschreibung verlangen, Zug um Zug gegen den dem Bautenstand entsprechenden Preisanteil. Die Sicherungsgestaltung muss diese Ausnahme berücksichtigen."
@@ -245,9 +241,7 @@
   "quelle": "handbuch-mit-notarwissen/bautragervertrag/abnahme-mangel-und-vollzug/bautragervertrag-auflassung-und-sicherung-des-bautragers",
   "typ": "mc",
   "schwierigkeit": 3,
-  "normen": [
-   "§ 19 GBO"
-  ],
+  "normen": [],
   "frage": "Welche Aussage zur Bewilligungssperre beim Bauträgervertrag ist zutreffend?",
   "optionen": [
    "Die Bewilligungssperre ist beim Bauträgervertrag wegen des Vorleistungsverbots der MaBV unzulässig.",
@@ -268,7 +262,6 @@
   "schwierigkeit": 1,
   "normen": [
    "§ 433 Abs. 1 S. 2 BGB",
-   "§ 434 BGB",
    "§ 634 BGB"
   ],
   "frage": "Welches Haftungsregime gilt beim Bauträgervertrag für Sachmängel?",
@@ -290,7 +283,6 @@
   "typ": "mc",
   "schwierigkeit": 3,
   "normen": [
-   "§ 434 BGB",
    "§ 634 BGB",
    "§ 309 Nr. 8 Buchst. b BGB"
   ],
@@ -519,7 +511,6 @@
   "schwierigkeit": 1,
   "normen": [
    "§ 650u Abs. 1 S. 2 BGB",
-   "§ 650k Abs. 3 S. 1 BGB",
    "§ 271 BGB"
   ],
   "frage": "Welche Regel gilt, wenn ein Bauträgervertrag keine Leistungszeit vereinbart?",
@@ -562,9 +553,7 @@
   "quelle": "handbuch-mit-notarwissen/bautragervertrag/leistung-baubeschreibung-und-termine/bautragervertrag-fertigstellungstermin",
   "typ": "rf",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 650k Abs. 3 S. 1 BGB"
-  ],
+  "normen": [],
   "frage": "Wird eine Wohnung im Juli ohne funktionsfähige Heizung übergeben, ist sie gleichwohl bezugsfertig, weil die Heizung zu dieser Jahreszeit für das Wohnen nicht benötigt wird.",
   "antwort": false,
   "erklaerung": "Falsch. Bezugsfertig ist das Objekt, wenn es seinem Zweck entsprechend auf Dauer und ohne Gefahr genutzt werden kann. Maßgeblich ist die abstrakte Nutzbarkeit, nicht die Situation im Einzelfall; ohne funktionsfähige Heizung fehlt die Bezugsfertigkeit daher auch im Sommer. Der Notar sollte die Termine für Bezugsfertigkeit und vollständige Fertigstellung getrennt und kalendermäßig festlegen."
@@ -577,10 +566,7 @@
   "quelle": "handbuch-mit-notarwissen/bautragervertrag/leistung-baubeschreibung-und-termine/bautragervertrag-vertragsgegenstand-und-leistungspflicht",
   "typ": "mc",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 8 WEG",
-   "§ 13c BeurkG"
-  ],
+  "normen": [],
   "frage": "Die Teilungserklärung ist beurkundet, aber im Grundbuch noch nicht vollzogen. Wie ist der Vertragsgegenstand im Bauträgervertrag zu behandeln?",
   "optionen": [
    "Der Vertrag wird unter der aufschiebenden Bedingung des Vollzugs der Teilungserklärung geschlossen und bis dahin nicht vollzogen.",
@@ -599,9 +585,7 @@
   "quelle": "handbuch-mit-notarwissen/bautragervertrag/leistung-baubeschreibung-und-termine/bautragervertrag-vertragsgegenstand-und-leistungspflicht",
   "typ": "rf",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 633 Abs. 2 BGB"
-  ],
+  "normen": [],
   "frage": "Schuldet der Bauträger keinen Neubau, sondern die Sanierung eines Altbaus, muss der Bauträgervertrag ausdrücklich klarstellen, dass kein Neubau geschuldet ist.",
   "antwort": true,
   "erklaerung": "Richtig. Die Leistungspflicht ist eindeutig festzulegen, Maßstab ist die Baubeschreibung. Bei Bestandsgebäuden gehört der Umfang der Sanierung in die Beschreibung des Bauvorhabens am Vertragsanfang, und der Vertrag muss ausdrücklich klarstellen, dass kein Neubau geschuldet ist. Ein bloßer Rückschluss aus der Baubeschreibung genügt nicht."
@@ -614,9 +598,7 @@
   "quelle": "handbuch-mit-notarwissen/bautragervertrag/leistung-baubeschreibung-und-termine/bautragervertrag-vertragsgegenstand-und-leistungspflicht",
   "typ": "mc",
   "schwierigkeit": 1,
-  "normen": [
-   "§ 13c BeurkG"
-  ],
+  "normen": [],
   "frage": "Warum verlangt der Mustervertrag für ein Bauträgervorhaben dieselbe Sorgfalt wie die Bezugsurkunde?",
   "optionen": [
    "Weil Fehler im Muster sich in allen Einzelverträgen des Vorhabens fortsetzen.",
@@ -1047,8 +1029,7 @@
   "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
-   "§ 311b Abs. 1 S. 1 BGB",
-   "§ 650u BGB"
+   "§ 311b Abs. 1 S. 1 BGB"
   ],
   "frage": "E kauft ein Grundstück von V und schließt mit dem Bauunternehmer U einen Vertrag über die Errichtung eines Hauses darauf. Wie ist die Beurkundungsbedürftigkeit zu beurteilen?",
   "optionen": [
@@ -1069,7 +1050,6 @@
   "typ": "fall",
   "schwierigkeit": 3,
   "normen": [
-   "§ 3 MaBV",
    "§ 648 BGB",
    "§ 311b Abs. 1 S. 1 BGB"
   ],
@@ -1392,8 +1372,7 @@
   "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
-   "§ 103 InsO",
-   "§ 398 BGB"
+   "§ 103 InsO"
   ],
   "frage": "Warum sollte der Bauträgervertrag eine Abtretung der Ansprüche des Bauträgers gegen Handwerker, Architekten und Subunternehmer an den Erwerber vorsehen?",
   "optionen": [
@@ -1414,7 +1393,6 @@
   "typ": "mc",
   "schwierigkeit": 3,
   "normen": [
-   "§ 17 BeurkG",
    "§ 106 InsO"
   ],
   "frage": "Welche Regelung zum Steckenbleiben des Baus sollte der Notar in den Bauträgervertrag aufnehmen, und wann ist ein Hinweis auf das Fertigstellungsrisiko zwingend?",

@@ -175,9 +175,7 @@
   "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/vertrage-mit-der-gemeinde-erstwohnsitz-einheimischenmodelle-und-bebauungsplanregelungen",
   "typ": "mc",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 11 Abs. 2 BauGB"
-  ],
+  "normen": [],
   "frage": "Die Gemeinde will den Bauplatzerwerber verpflichten, seinen Erstwohnsitz in die Gemeinde zu verlegen. Wie ist die Klausel nach der Handbuchseite zu beurteilen?",
   "optionen": [
    "Zulässig, weil sie die Selbstnutzung des Grundstücks absichert",
@@ -228,9 +226,7 @@
   "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/vertrage-mit-der-gemeinde-erstwohnsitz-einheimischenmodelle-und-bebauungsplanregelungen",
   "typ": "mc",
   "schwierigkeit": 3,
-  "normen": [
-   "§ 11 BauGB"
-  ],
+  "normen": [],
   "frage": "Ein städtebaulicher Vertrag betrifft einen noch zu erlassenden Bebauungsplan, ohne dass die Gemeinde dem Privaten eine Subvention gewährt. Welche Bindungen dürfen vereinbart werden?",
   "optionen": [
    "Alle Bindungen, die auch in subventionierten Einheimischenmodellen zulässig sind",
@@ -547,9 +543,7 @@
   "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/vollzug-des-grundstuckskaufvertrags-ablauf-von-erstvollzug-falligkeitsmitteilung-und-endvollzug",
   "typ": "mc",
   "schwierigkeit": 1,
-  "normen": [
-   "§ 22 Abs. 1 GrEStG"
-  ],
+  "normen": [],
   "frage": "Welche Umstände lösen in der Regel den Endvollzug (Antrag auf Eigentumsumschreibung) aus?",
   "optionen": [
    "Eintragung der Vormerkung, Fälligkeitsmitteilung und Besitzübergang",
@@ -1136,9 +1130,7 @@
   "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/vertrage-mit-der-gemeinde-aufzahlung-vertragsstrafe-und-selbstnutzungsverpflichtung",
   "typ": "zuordnung",
   "schwierigkeit": 3,
-  "normen": [
-   "§ 11 Abs. 2 BauGB"
-  ],
+  "normen": [],
   "frage": "Ordne der Verbilligung des Bauplatzes die nach der BGH-Rechtsprechung für zulässig gehaltene Höchstdauer einer Selbstnutzungsverpflichtung zu.",
   "paare": [
    [
@@ -1168,9 +1160,7 @@
   "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/vertrage-mit-der-gemeinde-aufzahlung-vertragsstrafe-und-selbstnutzungsverpflichtung",
   "typ": "mc",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 11 Abs. 2 BauGB"
-  ],
+  "normen": [],
   "frage": "Welche Aufzahlungsklausel in einem verbilligten Bauplatzvertrag der Gemeinde ist nach der Rechtsprechung des BGH grundsätzlich unwirksam?",
   "optionen": [
    "Eine Klausel, die bei Verstoß die gewährte Verbilligung zurückfordert",

@@ -309,8 +309,7 @@
   "schwierigkeit": 2,
   "normen": [
    "§ 24 BNotO",
-   "§ 1 BNotO",
-   "§ 14 BNotO"
+   "§ 1 BNotO"
   ],
   "frage": "Welche Pflicht trifft den Notar bei Amtsgeschäften nach § 24 BNotO, etwa bei der Fälligkeitsmitteilung oder der Abwicklung eines Treuhandauftrags?",
   "optionen": [
@@ -466,10 +465,7 @@
   "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/prufungs-und-belehrungspflichten/richtlinienempfehlungen-der-bnotk-unparteilichkeit-bezugsurkunden-und-aufspaltung-in-angebot-und-annahme",
   "typ": "mc",
   "schwierigkeit": 3,
-  "normen": [
-   "§ 17 Abs. 2a BeurkG",
-   "§ 308 Nr. 1 BGB"
-  ],
+  "normen": [],
   "frage": "Welcher Grund rechtfertigt nach den Richtlinienempfehlungen die planmäßige Aufspaltung eines Bauträgervertrags in Angebot und spätere Annahme nicht?",
   "optionen": [
    "Große Entfernung zwischen Sitz des Unternehmers und Wohnort des Käufers",
@@ -488,9 +484,7 @@
   "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/prufungs-und-belehrungspflichten/richtlinienempfehlungen-der-bnotk-unparteilichkeit-bezugsurkunden-und-aufspaltung-in-angebot-und-annahme",
   "typ": "mc",
   "schwierigkeit": 1,
-  "normen": [
-   "§ 14 BNotO"
-  ],
+  "normen": [],
   "frage": "In welcher der folgenden Konstellationen muss der Notar seine Unparteilichkeit nach den Richtlinienempfehlungen wahren?",
   "optionen": [
    "Nur bei der Beurkundung von Verträgen mit mehreren Beteiligten",
@@ -895,7 +889,6 @@
   "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
-   "§ 40 BeurkG",
    "§ 44a BeurkG"
   ],
   "frage": "Nach einer Unterschriftsbeglaubigung bittet der Unterzeichner den Notar telefonisch, einen Tippfehler im Text der bereits beglaubigten Privaturkunde zu korrigieren. Wie darf der Notar vorgehen?",
@@ -1284,8 +1277,7 @@
   "typ": "mc",
   "schwierigkeit": 3,
   "normen": [
-   "§ 15 Abs. 2 BNotO",
-   "§ 19 BNotO"
+   "§ 15 Abs. 2 BNotO"
   ],
   "frage": "Das Landgericht weist den Notar auf eine Beschwerde hin an, die bisher verweigerte Eigentumsumschreibung zu beantragen. Welche haftungsrechtliche Folge hat die Befolgung der Anweisung?",
   "optionen": [
@@ -1473,8 +1465,7 @@
   "typ": "mc",
   "schwierigkeit": 1,
   "normen": [
-   "§ 15 Abs. 2 BNotO",
-   "§ 53 BeurkG"
+   "§ 15 Abs. 2 BNotO"
   ],
   "frage": "Wie lange ist die Vollzugspflicht des Notars mit der Bekanntgabe eines Vorbescheids zunächst ausgesetzt?",
   "optionen": [
@@ -1517,7 +1508,6 @@
   "typ": "rf",
   "schwierigkeit": 3,
   "normen": [
-   "§ 64 Abs. 3 FamFG",
    "§ 15 Abs. 2 BNotO"
   ],
   "frage": "Weist der widersprechende Beteiligte nach, dass er eine einstweilige Verfügung beantragt hat, bleibt die Vollzugspflicht über die 14 Tage hinaus bis zur ersten gerichtlichen Entscheidung ausgesetzt.",
