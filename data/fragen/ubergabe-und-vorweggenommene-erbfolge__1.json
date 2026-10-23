@@ -1457,5 +1457,408 @@
   ],
   "antwort": 1,
   "erklaerung": "Grundsätzlich ist das Widerrufsrecht höchstpersönlich und unvererblich. Nach § 530 Abs. 2 BGB haben die Erben ausnahmsweise ein eigenes Widerrufsrecht, wenn der Beschenkte den Schenker vorsätzlich und widerrechtlich getötet oder den Widerruf vereitelt hat. Der bloße Tod des Schenkers innerhalb der Jahresfrist genügt nicht."
+ },
+ {
+  "id": "ueber1-066",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Rückforderungsrechte",
+  "seite": "Übergabevertrag: vertragliche Rückforderungsrechte – Gründe, Gestaltung und mehrere Beteiligte",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-vertragliche-ruckforderungsrechte-grunde-gestaltung-und-mehrere-beteiligte",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 158 Abs. 2 BGB"
+  ],
+  "frage": "Bedingte Rückforderungsrechte sollten nach der Praxis standardmäßig in den Übergabevertrag aufgenommen werden, weil sie den Erwerber nicht belasten und den Verbleib der Immobilie in der Familie schützen.",
+  "antwort": true,
+  "erklaerung": "Beteiligte lehnen Rückforderungsrechte oft ab, weil sie Misstrauen ausdrücken sollen. Bedingte Rückforderungsrechte schützen aber vor allem bei Insolvenz oder Scheidung des Erwerbers den Verbleib der Immobilie in der Familie und belasten ihn nicht; sie sollten daher standardmäßig vereinbart werden."
+ },
+ {
+  "id": "ueber1-067",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Rückforderungsrechte",
+  "seite": "Übergabevertrag: vertragliche Rückforderungsrechte – Gründe, Gestaltung und mehrere Beteiligte",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-vertragliche-ruckforderungsrechte-grunde-gestaltung-und-mehrere-beteiligte",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 158 Abs. 2 BGB"
+  ],
+  "frage": "Wie wirkt eine als auflösende Bedingung gestaltete Rückfallklausel für den Fall der Insolvenz des Erwerbers?",
+  "optionen": [
+   "Der Veräußerer muss die Rückforderung innerhalb eines Jahres erklären",
+   "Mit Eröffnung des Insolvenzverfahrens entfällt der Rechtsgrund ohne Weiteres; der Veräußerer kann ohne eigene Erklärung die Rückübertragung verlangen",
+   "Das Eigentum fällt mit Insolvenzeröffnung ohne Grundbucheintragung an den Veräußerer zurück",
+   "Der Insolvenzverwalter muss der Rückübertragung zustimmen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei der auflösenden Bedingung (automatische Rückfallklausel) wird die schuldrechtliche Übertragung unter die Bedingung der Insolvenzeröffnung gestellt; mit Bedingungseintritt entfällt der Rechtsgrund, und der Veräußerer kann unmittelbar Rückübertragung verlangen, ohne eine Erklärung abgeben zu müssen. Das Eigentum fällt dadurch nicht dinglich automatisch zurück; erforderlich bleibt die Rückübertragung. Beim Widerrufsrecht dagegen entscheidet der Veräußerer selbst über die Ausübung."
+ },
+ {
+  "id": "ueber1-068",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Rückforderungsrechte",
+  "seite": "Übergabevertrag: vertragliche Rückforderungsrechte – Gründe, Gestaltung und mehrere Beteiligte",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-vertragliche-ruckforderungsrechte-grunde-gestaltung-und-mehrere-beteiligte",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 428 BGB",
+   "§ 420 BGB",
+   "§ 432 BGB"
+  ],
+  "frage": "Ordne das Berechtigungsverhältnis mehrerer Veräußerer am Rückforderungsrecht seiner Wirkung zu.",
+  "paare": [
+   [
+    "Gesamtgläubigerschaft (§ 428 BGB)",
+    "jeder kann Rückübertragung des Ganzen an sich verlangen"
+   ],
+   [
+    "Teilgläubigerschaft (§ 420 BGB)",
+    "jeder kann nur entsprechend seinem früheren Anteil Rückübertragung verlangen"
+   ],
+   [
+    "Mitgläubigerschaft (§ 432 BGB)",
+    "Rückübertragung nur an alle gemeinsam"
+   ]
+  ],
+  "erklaerung": "Bei Gesamtgläubigerschaft erfüllt der Erwerber durch Rückübertragung an einen; im Innenverhältnis sind die Gläubiger im Zweifel je zur Hälfte berechtigt (§ 430 BGB). Bei Teilgläubigerschaft ist der Anspruch anteilig, bei Mitgläubigerschaft kann nur Leistung an alle verlangt werden; dann sind Anteile und Anwachsung beim Längerlebenden zu regeln."
+ },
+ {
+  "id": "ueber1-069",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Rückforderungsrechte",
+  "seite": "Übergabevertrag: vertragliche Rückforderungsrechte – Gründe, Gestaltung und mehrere Beteiligte",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-vertragliche-ruckforderungsrechte-grunde-gestaltung-und-mehrere-beteiligte",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 432 BGB"
+  ],
+  "frage": "Eltern übertragen ein Grundstück an zwei Kinder; das Rückforderungsrecht soll beiden Eltern als Mitgläubigern zustehen. Was sollte der Vertrag zusätzlich regeln?",
+  "optionen": [
+   "Dass jedes Kind bei Eintritt eines Rückforderungsgrunds beim anderen den gesamten Grundbesitz zurückgeben muss",
+   "Das konkrete Berechtigungsverhältnis der Eltern, das alleinige Zustehen beim Längerlebenden und die Beschränkung der Rückforderung auf den Erwerb des Kindes, in dessen Person der Grund liegt",
+   "Dass das Rückforderungsrecht auf die Kinder vererbt wird",
+   "Dass Mitgläubigerschaft die Eintragung einer Rückerwerbsvormerkung ausschließt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei Mitgläubigerschaft (§ 432 BGB) sollte das Berechtigungsverhältnis, etwa je zur Hälfte, festgelegt und das alleinige Zustehen beim Längerlebenden geregelt werden. Bei mehreren Erwerbern ist die Rückforderung auf das zu beschränken, was der Erwerber erhalten hat, in dessen Person der Rückforderungsgrund liegt."
+ },
+ {
+  "id": "ueber1-070",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Rückforderungsrechte",
+  "seite": "Übergabevertrag: vertragliche Rückforderungsrechte – Gründe, Gestaltung und mehrere Beteiligte",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-vertragliche-ruckforderungsrechte-grunde-gestaltung-und-mehrere-beteiligte",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1363 BGB"
+  ],
+  "frage": "Welcher Fall gehört nicht zu den üblichen vertraglichen Rückforderungsgründen im Übergabevertrag?",
+  "optionen": [
+   "Veräußerung oder Belastung ohne vorherige Zustimmung des Veräußerers",
+   "Vorversterben des Erwerbers",
+   "Einbeziehung des Objekts in den Zugewinnausgleich bei Scheidung des Erwerbers",
+   "Vermietung des Objekts durch den Erwerber"
+  ],
+  "antwort": 3,
+  "erklaerung": "Üblich sind Rückforderungsgründe für Veräußerung oder Belastung ohne Zustimmung, Vorversterben des Erwerbers, Entstehen von Schenkungsteuer, Einbeziehung in den Zugewinnausgleich bei Scheidung sowie Insolvenz des Erwerbers. Eine bloße Vermietung gefährdet den Verbleib in der Familie nicht und gehört nicht zum üblichen Katalog."
+ },
+ {
+  "id": "ueber1-071",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: Abstandszahlung, Rente und Abgrenzung zum Kaufvertrag",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-abstandszahlung-rente-und-abgrenzung-zum-kaufvertrag",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 516 Abs. 1 BGB"
+  ],
+  "frage": "Die Tochter soll für das Haus der Eltern (Verkehrswert 400.000 €) eine Zahlung von 380.000 € leisten. Wie ist der Vertrag zu gestalten?",
+  "optionen": [
+   "Als Übergabevertrag mit Abstandszahlung ohne besondere Sicherungen",
+   "Als Kaufvertrag mit Schenkungsanteil, da objektiv die Entgeltlichkeit überwiegt",
+   "Als reine Schenkung unter Auflage",
+   "Als Ausstattung"
+  ],
+  "antwort": 1,
+  "erklaerung": "Erreicht die Zahlung annähernd den Verkehrswert, überwiegt objektiv die Entgeltlichkeit; es liegt ein Kaufvertrag mit Schenkungsanteil vor. Die Urkunde sollte klarstellen, dass der übersteigende Teil unentgeltlich zugewendet wird. Eine Gestaltung als Übergabevertrag ohne Kaufvertragssicherungen gilt als typischer Fehler."
+ },
+ {
+  "id": "ueber1-072",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: Abstandszahlung, Rente und Abgrenzung zum Kaufvertrag",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-abstandszahlung-rente-und-abgrenzung-zum-kaufvertrag",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1105 BGB"
+  ],
+  "frage": "Richtet sich die Höhe wiederkehrender Zahlungen nach der Leistungsfähigkeit des Erwerbers und gegebenenfalls dem Bedarf des Veräußerers, spricht man von einer Leibrente.",
+  "antwort": false,
+  "erklaerung": "Leibrente sind wiederkehrende Zahlungen in gleicher Höhe. Hängt die Höhe von der Leistungsfähigkeit des Erwerbers und dem Bedarf des Veräußerers ab, spricht man von dauernder Last. Beide lassen sich durch Reallast (§ 1105 BGB) dinglich sichern."
+ },
+ {
+  "id": "ueber1-073",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: Abstandszahlung, Rente und Abgrenzung zum Kaufvertrag",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-abstandszahlung-rente-und-abgrenzung-zum-kaufvertrag",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1105 BGB",
+   "§ 23 Abs. 2 GBO"
+  ],
+  "frage": "Wie wird eine im Übergabevertrag vereinbarte monatliche Rente dinglich gesichert?",
+  "optionen": [
+   "Durch eine beschränkte persönliche Dienstbarkeit",
+   "Durch eine Reallast (§ 1105 BGB), möglichst mit Vorlöschungsklausel nach § 23 Abs. 2 GBO",
+   "Durch eine Rückerwerbsvormerkung",
+   "Durch eine Sicherungshypothek ohne Brief, zwingend vor allen Rechten"
+  ],
+  "antwort": 1,
+  "erklaerung": "Dinglich lässt sich die Rente durch eine Reallast (§ 1105 BGB) sichern; die Aufnahme einer Vorlöschungsklausel nach § 23 Abs. 2 GBO wird empfohlen. Eine Dienstbarkeit kann keine positiven Leistungspflichten wie Geldzahlungen sichern."
+ },
+ {
+  "id": "ueber1-074",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: Abstandszahlung, Rente und Abgrenzung zum Kaufvertrag",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-abstandszahlung-rente-und-abgrenzung-zum-kaufvertrag",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 794 Abs. 1 Nr. 5 ZPO"
+  ],
+  "frage": "Die Abstandszahlung soll erst ein Jahr nach der Übergabe fällig werden, das Eigentum aber sofort übergehen. Welche Sicherung kommt für den Veräußerer in Betracht?",
+  "optionen": [
+   "Eine Vormerkung für den Erwerber",
+   "Ein Grundpfandrecht (Grundschuld oder Hypothek) für den Veräußerer",
+   "Eine Rückerwerbsvormerkung ohne Rückforderungsrecht",
+   "Keine, da Abstandszahlungen nicht sicherbar sind"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei späterer Zahlung und sofortigem Eigentumsübergang kommt ein Grundpfandrecht für den Veräußerer in Betracht; daneben ist die Unterwerfung unter die sofortige Zwangsvollstreckung möglich. Die Vormerkung für den Erwerber schützt dagegen den Erwerber, nicht den Veräußerer."
+ },
+ {
+  "id": "ueber1-075",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: Gleichstellungsgeld",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-gleichstellungsgeld",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 328 BGB"
+  ],
+  "frage": "Muss die Schwester bei der Beurkundung mitwirken, damit ein Gleichstellungsgeld zu ihren Gunsten wirksam vereinbart werden kann?",
+  "optionen": [
+   "Ja, da sie Vertragspartei werden muss",
+   "Nein, es kann als Vertrag zugunsten Dritter (§ 328 BGB) ohne ihre Anwesenheit vereinbart werden",
+   "Ja, wegen § 518 BGB",
+   "Nein, aber sie muss nachträglich in der Form des § 29 GBO genehmigen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Das Gleichstellungsgeld kann als Vertrag zugunsten Dritter (§ 328 BGB) vereinbart werden; der begünstigte Dritte muss nicht mitwirken. Ihre Anwesenheit ist dennoch sinnvoll, wenn empfangsbedürftige Anrechnungsbestimmungen oder Verzichtserklärungen gewünscht sind."
+ },
+ {
+  "id": "ueber1-076",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: Gleichstellungsgeld",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-gleichstellungsgeld",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 328 BGB"
+  ],
+  "frage": "Das Gleichstellungsgeld ist regelmäßig eine Schenkung des Erwerbers an seine Geschwister.",
+  "antwort": false,
+  "erklaerung": "Das Gleichstellungsgeld fließt zwar vom Erwerber an den Dritten, ist aber regelmäßig eine Gegenleistung gegenüber dem Veräußerer; der Erwerber beschenkt die Geschwister nicht. Eine Schenkung zwischen Geschwistern wäre steuerlich meist ungünstiger, weil dann andere Freibeträge gälten."
+ },
+ {
+  "id": "ueber1-077",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: Gleichstellungsgeld",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-gleichstellungsgeld",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2050 BGB"
+  ],
+  "frage": "Der Erwerber kann kein Gleichstellungsgeld an seine Geschwister zahlen. Welche Alternative kommt nach der Praxis zur Gleichstellung in Betracht?",
+  "optionen": [
+   "Eine Ausgleichung im Erbfall",
+   "Eine Rückerwerbsvormerkung zugunsten der Geschwister",
+   "Eine Pflichtteilsanrechnung zulasten der Geschwister",
+   "Eine Grundschuld zugunsten der Geschwister ohne Zahlungspflicht"
+  ],
+  "antwort": 0,
+  "erklaerung": "Kann der Erwerber kein Gleichstellungsgeld zahlen, kommt eine Ausgleichung im Erbfall in Betracht (§§ 2050 ff. BGB), um mehrere Geschwister gleichzustellen. Eine Pflichtteilsanrechnung kann nur gegenüber dem Zuwendungsempfänger angeordnet werden, nicht zulasten der nicht beschenkten Geschwister."
+ },
+ {
+  "id": "ueber1-078",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: Leibgeding",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-leibgeding",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 49 GBO"
+  ],
+  "frage": "Was ist das Leibgeding im Grundbuchrecht?",
+  "optionen": [
+   "Ein eigenständiges dingliches Recht eigener Art",
+   "Eine zulässige Sammelbezeichnung für mehrere Einzelrechte (§ 49 GBO)",
+   "Eine besondere Form des Nießbrauchs am gesamten Grundbesitz",
+   "Eine Vormerkung zur Sicherung von Versorgungsansprüchen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Das Leibgeding ist kein eigenes dingliches Recht, sondern eine im Grundbuch zulässige Sammelbezeichnung für mehrere Dienstbarkeiten und Reallasten (§ 49 GBO). Ein Nießbrauch am gesamten Grundbesitz ist gerade kein Leibgeding (Verbot des Totalnießbrauchs)."
+ },
+ {
+  "id": "ueber1-079",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: Leibgeding",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-leibgeding",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 23 Abs. 2 GBO",
+   "§ 19 GBO"
+  ],
+  "frage": "Für die im Leibgeding enthaltene Pflicht zur Übernahme von Beerdigungskosten und Grabpflege kann eine Vorlöschungsklausel nach § 23 Abs. 2 GBO eingetragen werden.",
+  "antwort": false,
+  "erklaerung": "Die Pflicht zu Beerdigungskosten und Grabpflege ist eine vererbliche subjektiv-persönliche Reallast, die nicht mit dem Tod des Berechtigten endet; § 23 GBO gilt nicht. Gelöscht wird nur mit Bewilligung der Erben (§ 19 GBO). Für Unterhalts- und Pflegeverpflichtungen ist die Vorlöschungsklausel dagegen zulässig."
+ },
+ {
+  "id": "ueber1-080",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: Leibgeding",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-leibgeding",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 49 GBO"
+  ],
+  "frage": "In welchem Fall liegt kein Leibgeding vor?",
+  "optionen": [
+   "Wohnungsrecht, Pflegeverpflichtung und Leibrente zur Versorgung des Übergebers",
+   "Nießbrauch am gesamten übergebenen Grundbesitz",
+   "Wohnungsrecht kombiniert mit einer Pflegereallast",
+   "Versorgungsleistungen bei Übergabe eines landwirtschaftlichen Anwesens"
+  ],
+  "antwort": 1,
+  "erklaerung": "Ein Nießbrauch am gesamten übergebenen Grundbesitz ist wegen des Verbots des Totalnießbrauchs kein Leibgeding. Ebenso fehlt es bei bloßen Geldleistungen oder fehlender höchstpersönlicher Versorgung. Typischer Inhalt sind Wohnungsrecht, Pflegeverpflichtung und Leibrente."
+ },
+ {
+  "id": "ueber1-081",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: Leibgeding",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-leibgeding",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 23 Abs. 2 GBO",
+   "§ 19 GBO"
+  ],
+  "frage": "Im Grundbuch ist ein altes Leibgeding mit pauschaler Vorlöschungsklausel eingetragen, das auch eine Grabpflegeverpflichtung enthält. Der Berechtigte ist verstorben. Wie ist vorzugehen?",
+  "optionen": [
+   "Löschung des gesamten Leibgedings allein gegen Sterbeurkunde, da die Klausel eingetragen ist",
+   "Bewilligungsurkunde einsehen; für die Grabpflegeverpflichtung ist trotz Eintragung die Bewilligung der Erben erforderlich",
+   "Löschung von Amts wegen nach Ablauf eines Jahres",
+   "Löschung nur mit Zustimmung des Erwerbers"
+  ],
+  "antwort": 1,
+  "erklaerung": "Eine pauschal eingetragene Vorlöschungsklausel trägt nicht für Einzelrechte, die sie nicht zulassen; dort reicht der Todesnachweis nicht, sondern die Erben müssen bewilligen (§ 19 GBO). Vor der Löschung ist deshalb die Bewilligungsurkunde einzusehen, weil nur sie zeigt, welche Einzelrechte erfasst sind."
+ },
+ {
+  "id": "ueber1-082",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: Pflegeverpflichtung",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-pflegeverpflichtung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1105 BGB"
+  ],
+  "frage": "Wann wird der Wert einer Pflegeverpflichtung bei der Schenkungsteuer abgezogen?",
+  "optionen": [
+   "Stets bei Vertragsschluss mit dem kapitalisierten Höchstwert",
+   "Erst wenn der Pflegefall eingetreten ist; der Wert ergibt sich aus einer Prognose zu Dauer, Lebenserwartung und Aufwand",
+   "Nie, da Pflegeleistungen familiär selbstverständlich sind",
+   "Erst nach dem Tod des Berechtigten"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Pflegeverpflichtung mindert als Gegenleistung den Wert der Schenkung, wird aber erst abgezogen, wenn der Pflegefall eingetreten ist. Ihr Wert ergibt sich aus einer Prognose: erwartete Pflegedauer, statistische Lebenserwartung und voraussichtlicher Aufwand. Deshalb sollte ein bereits eingetretener Pflegefall in der Urkunde festgestellt werden."
+ },
+ {
+  "id": "ueber1-083",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: Pflegeverpflichtung",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-pflegeverpflichtung",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1105 BGB",
+   "§ 23 Abs. 2 GBO"
+  ],
+  "frage": "Die Pflegeverpflichtung kann durch eine Reallast gesichert werden; eine Vorlöschungsklausel nach § 23 Abs. 2 GBO ist möglich und empfehlenswert.",
+  "antwort": true,
+  "erklaerung": "Die Pflegeverpflichtung lässt sich durch Reallast nach § 1105 BGB dinglich sichern. Da Rückstände möglich sind, ist eine Vorlöschungsklausel nach § 23 Abs. 2 GBO zulässig und wird empfohlen."
+ },
+ {
+  "id": "ueber1-084",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: Pflegeverpflichtung",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-pflegeverpflichtung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1105 BGB"
+  ],
+  "frage": "Welche Regelung zu Beginn und Dauer der Pflegeverpflichtung ist üblich?",
+  "optionen": [
+   "Die Pflicht besteht unabhängig vom Aufenthaltsort des Berechtigten lebenslang fort",
+   "Die Pflichten ruhen während eines Krankenhaus- oder Heimaufenthalts und soweit gesetzliche Leistungen wie Pflegegeld beansprucht werden können",
+   "Die Pflicht beginnt erst mit dem Tod des längerlebenden Veräußerers",
+   "Der Erwerber muss stets persönlich pflegen und darf sich keiner Dritten bedienen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Üblich ist, dass die Leistungen nur geschuldet sind, solange der Berechtigte sich nicht selbst helfen kann und im übergebenen Objekt wohnt; sie ruhen bei Krankenhaus- oder Heimaufenthalt und soweit Anspruch auf gesetzliche Leistungen besteht. Der Erwerber kann berechtigt werden, sich Dritter zu bedienen, und die Pflicht kann über einen Pflegegrad begrenzt werden."
+ },
+ {
+  "id": "ueber1-085",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: Pflegeverpflichtung",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-pflegeverpflichtung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§§ 346 ff. BGB"
+  ],
+  "frage": "Wie lässt sich Streit über den Wert erbrachter Pflegeleistungen bei einer späteren Rückabwicklung des Übergabevertrags vermeiden?",
+  "optionen": [
+   "Durch einen Ausschluss jeglicher Rückforderung",
+   "Durch Vereinbarung eines festen Ausgleichsbetrags für jedes volle Jahr erbrachter Pflege",
+   "Durch Rückgewähr der Pflegeleistungen in Natur",
+   "Durch Anrechnung der Pflege auf den Pflichtteil"
+  ],
+  "antwort": 1,
+  "erklaerung": "Pflegeleistungen können bei Rückabwicklung nicht in Natur zurückgewährt werden. Streit über ihren Wert lässt sich vermeiden, wenn der Vertrag für jedes volle Jahr erbrachter Pflege einen festen Ausgleichsbetrag vorsieht, statt es bei den Wertersatzregeln der §§ 346 ff. BGB zu belassen."
  }
 ]

@@ -362,5 +362,352 @@
   ],
   "antwort": 0,
   "erklaerung": "Kirchliche Einrichtungen brauchen beim Verkauf in aller Regel die Genehmigung der kirchlichen Aufsichtsbehörde, üblicherweise des bischöflichen Ordinariats; teilweise muss der Heilige Stuhl zustimmen (Romgrenze 5.000.000 €). Verlangt das Kirchenrecht ein Siegel, wird es bei der Beurkundung nach § 72 BeurkG ersetzt. Für Stiftungen und Orden ist das jeweilige Eigenrecht maßgeblich, nicht einheitlich das BGB."
+ },
+ {
+  "id": "vorm1-017",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Grundstücksverkehrsgenehmigung nach der GVO in den neuen Ländern",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/grundstucksverkehrsgenehmigung-nach-der-gvo-in-den-neuen-landern",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 2 Abs. 1 S. 1 GVO",
+   "§ 2 Abs. 1 S. 2 Nr. 4 GVO"
+  ],
+  "frage": "Welcher Vorgang bedarf in den neuen Ländern keiner Genehmigung nach der Grundstücksverkehrsordnung?",
+  "optionen": [
+   "Die Auflassung eines Grundstücks",
+   "Die Bestellung eines Erbbaurechts",
+   "Die Eintragung einer Vormerkung",
+   "Der schuldrechtliche Kaufvertrag über ein Grundstück"
+  ],
+  "antwort": 2,
+  "erklaerung": "Vormerkungen sind nach § 2 Abs. 1 S. 2 Nr. 4 GVO genehmigungsfrei. Genehmigungspflichtig sind dagegen nach § 2 Abs. 1 S. 1 GVO jede Auflassung, jede Bestellung oder Übertragung eines Erbbaurechts und die zugrunde liegenden schuldrechtlichen Verträge. Genehmigungsfrei sind auch Erbteilsübertragungen und Übertragungen von Gesellschaftsanteilen."
+ },
+ {
+  "id": "vorm1-018",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Grundstücksverkehrsgenehmigung nach der GVO in den neuen Ländern",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/grundstucksverkehrsgenehmigung-nach-der-gvo-in-den-neuen-landern",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Bei welchem Veräußerer ist der Erwerb eines Grundstücks nach der GVO genehmigungsfrei?",
+  "optionen": [
+   "Bei einem Veräußerer, der seit dem 03.10.1990 ununterbrochen als Eigentümer eingetragen ist",
+   "Bei einem Veräußerer, der das Grundstück vor dem 02.10.1990 durch Zuschlag in der Zwangsversteigerung erlangt hat",
+   "Bei einem Veräußerer, der das Grundstück aufgrund einer vor dem 28.09.1990 erteilten Genehmigung erworben hat",
+   "Bei einem Veräußerer, der ohne Unterbrechung seit dem 29.01.1933 als Eigentümer eingetragen ist"
+  ],
+  "antwort": 3,
+  "erklaerung": "Genehmigungsfrei ist der Erwerb von einem Veräußerer, der ohne Unterbrechung seit dem 29.01.1933 im Grundbuch als Eigentümer steht oder diesen Eigentümer beerbt hat; dann scheiden Restitutionsansprüche typischerweise aus. Beim Zuschlag kommt es auf einen Erwerb nach dem 02.10.1990 an, bei einer früheren Genehmigung auf eine Erteilung nach dem 28.09.1990; die übrigen Optionen verdrehen diese Stichtage."
+ },
+ {
+  "id": "vorm1-019",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Grundstücksverkehrsgenehmigung nach der GVO in den neuen Ländern",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/grundstucksverkehrsgenehmigung-nach-der-gvo-in-den-neuen-landern",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1 Abs. 1 S. 2 GVO"
+  ],
+  "frage": "Die Genehmigung nach der GVO kann vorab erteilt werden; der Vertrag ist dann binnen zwei Jahren zu beurkunden.",
+  "antwort": true,
+  "erklaerung": "Nach § 1 Abs. 1 S. 2 GVO kann die Genehmigung im Vorfeld erteilt werden; der Vertrag ist dann binnen 2 Jahren zu beurkunden. Daneben ist ein Erwerb genehmigungsfrei, wenn bei Eintragung der Vormerkung oder der Auflassung kein Anmeldevermerk nach § 30b Abs. 1 VermG im Grundbuch steht; deshalb sollte auf die Vormerkung nicht verzichtet werden."
+ },
+ {
+  "id": "vorm1-020",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Grundstückverkehrsgesetz: Geltung, genehmigungspflichtige und genehmigungsfreie Geschäfte",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/grundstuckverkehrsgesetz-geltung-genehmigungspflichtige-und-genehmigungsfreie-geschafte",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 4 GrdstVG"
+  ],
+  "frage": "Welcher Erwerb eines landwirtschaftlichen Grundstücks ist nach § 4 GrdstVG genehmigungsfrei?",
+  "optionen": [
+   "Der Erwerb durch eine kirchliche Stiftung",
+   "Der Erwerb durch eine einzelne Kirchengemeinde als selbständiger Vermögensträger",
+   "Der Erwerb durch einen Miterben im Rahmen einer Erbauseinandersetzung",
+   "Der Erwerb durch eine Gesellschaft im Wege der Einbringung"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 4 GrdstVG ist der Erwerb durch kirchliche Körperschaften genehmigungsfrei, auch durch einzelne Kirchengemeinden als selbständige Vermögensträger, nicht dagegen durch kirchliche Stiftungen oder Anstalten. Erbauseinandersetzung und Einbringung in eine Gesellschaft sind genehmigungspflichtig, weil es auf den Rechtsgrund der Veräußerung nicht ankommt."
+ },
+ {
+  "id": "vorm1-021",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Grundstückverkehrsgesetz: Geltung, genehmigungspflichtige und genehmigungsfreie Geschäfte",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/grundstuckverkehrsgesetz-geltung-genehmigungspflichtige-und-genehmigungsfreie-geschafte",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [],
+  "frage": "Die Begründung von Wohnungs- oder Teileigentum ist nach dem Grundstückverkehrsgesetz in keinem Fall genehmigungspflichtig.",
+  "antwort": true,
+  "erklaerung": "Die Begründung von Wohnungs- oder Teileigentum ist in keinem Fall genehmigungspflichtig. Zwar ist denkbar, dass Wohnungs- oder Teileigentum vom Grundstücksbegriff des GrdstVG erfasst wird, in der Regel darf das Grundbuchamt dafür aber weder Genehmigung noch Negativattest verlangen. Die Veräußerung von Erbbaurechten ist nur genehmigungspflichtig, wenn ein Landesgesetz das anordnet."
+ },
+ {
+  "id": "vorm1-022",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Grundstückverkehrsgesetz: Geltung, genehmigungspflichtige und genehmigungsfreie Geschäfte",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/grundstuckverkehrsgesetz-geltung-genehmigungspflichtige-und-genehmigungsfreie-geschafte",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2 Abs. 2 GrdstVG",
+   "§ 16 Abs. 4 GrdstVG"
+  ],
+  "frage": "Ordne den Vorgang seiner Behandlung nach dem Grundstückverkehrsgesetz zu.",
+  "paare": [
+   [
+    "Verkauf eines Erbteils an einen Nicht-Miterben",
+    "Genehmigungspflichtig, wenn zum Nachlass im Wesentlichen ein land- oder forstwirtschaftlicher Betrieb gehört"
+   ],
+   [
+    "Bestellung eines Nießbrauchs an einem Grundstück",
+    "Der Veräußerung gleichgestellt und genehmigungspflichtig nach § 2 Abs. 2 GrdstVG"
+   ],
+   [
+    "Landabfindung an Miterben im Zuweisungsverfahren",
+    "Genehmigungsfrei nach § 16 Abs. 4 GrdstVG"
+   ],
+   [
+    "Grundstücksübergang bei einer Spaltung",
+    "Genehmigungsfrei als Rechtsübergang kraft Gesetzes"
+   ],
+   [
+    "Veräußerung eines Erbbaurechts",
+    "Nur genehmigungspflichtig, wenn ein Landesgesetz dies anordnet"
+   ]
+  ],
+  "erklaerung": "§ 2 Abs. 2 GrdstVG stellt Miteigentumsanteile, den Erbteilsverkauf an Nicht-Miterben bei im Wesentlichen land- oder forstwirtschaftlichem Nachlass und die Nießbrauchsbestellung der Veräußerung gleich. Genehmigungsfrei sind die Landabfindung im Zuweisungsverfahren (§ 16 Abs. 4 GrdstVG) und Rechtsübergänge kraft Gesetzes wie bei Umwandlungen und Spaltungen. Erbbaurechte sind nur bei landesgesetzlicher Anordnung erfasst."
+ },
+ {
+  "id": "vorm1-023",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Grundstückverkehrsgesetz: Geltung, genehmigungspflichtige und genehmigungsfreie Geschäfte",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/grundstuckverkehrsgesetz-geltung-genehmigungspflichtige-und-genehmigungsfreie-geschafte",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [],
+  "frage": "Was gilt in Bayern und Niedersachsen bei der Prüfung der Freigrenze für die Genehmigung nach dem Grundstückverkehrsrecht?",
+  "optionen": [
+   "Es zählt allein die Fläche des aktuell veräußerten Grundstücks im wirtschaftlichen Sinne",
+   "Flächen, die derselbe Veräußerer in den letzten drei Jahren veräußert hat, werden zusammengerechnet; bereits genehmigte Verkäufe zählen nicht mit",
+   "Flächen, die derselbe Erwerber in den letzten fünf Jahren erworben hat, werden einschließlich genehmigter Erwerbe zusammengerechnet",
+   "Die Freigrenze gilt einheitlich mit 2 ha, eine Zusammenrechnung findet nicht statt"
+  ],
+  "antwort": 1,
+  "erklaerung": "In Bayern und Niedersachsen werden zusätzlich die Flächen zusammengerechnet, die derselbe Veräußerer in den letzten drei Jahren veräußert hat; bereits genehmigte Verkäufe zählen nicht mit. Maßgeblich ist der Veräußerer, nicht der Erwerber. Die Freigrenzen weichen von Land zu Land deutlich ab (etwa 0,15 ha im Saarland, 2 ha in Brandenburg); es gilt das Recht des Belegenheitslands."
+ },
+ {
+  "id": "vorm1-024",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Grundstückverkehrsgesetz: Wirkung der Genehmigungspflicht, Verfahren und Versagung",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/grundstuckverkehrsgesetz-wirkung-der-genehmigungspflicht-verfahren-und-versagung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 9 Abs. 1 Nr. 3 GrdstVG"
+  ],
+  "frage": "Wann liegt nach der BGH-Rechtsprechung ein grobes Missverhältnis zwischen Gegenwert und Grundstückswert vor, das zur Versagung der Genehmigung nach dem GrdstVG führt?",
+  "optionen": [
+   "Wenn der Preis mehr als 20 % über dem Verkehrswert liegt",
+   "Wenn der Preis mehr als 50 % über dem Verkehrswert liegt",
+   "Wenn der Preis mehr als das Doppelte des Verkehrswerts beträgt",
+   "Wenn der Preis über dem Bodenrichtwert der Gemeinde liegt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 9 Abs. 1 Nr. 3 GrdstVG ist die Genehmigung bei grobem Missverhältnis zwischen Gegenwert und Grundstückswert zu versagen; der BGH nimmt ein solches Missverhältnis an, wenn der Preis mehr als 50 % über dem Verkehrswert liegt. Ein abweichender, nicht land- oder forstwirtschaftlicher Erwerbszweck nach § 9 Abs. 4 GrdstVG muss in absehbarer Zeit tatsächlich umsetzbar sein."
+ },
+ {
+  "id": "vorm1-025",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Grundstückverkehrsgesetz: Wirkung der Genehmigungspflicht, Verfahren und Versagung",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/grundstuckverkehrsgesetz-wirkung-der-genehmigungspflicht-verfahren-und-versagung",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 7 Abs. 1 GrdstVG"
+  ],
+  "frage": "Wegen der Grundbuchsperre nach § 7 Abs. 1 GrdstVG darf eine Auflassungsvormerkung erst nach Erteilung der Genehmigung eingetragen werden.",
+  "antwort": false,
+  "erklaerung": "Eine Auflassungsvormerkung darf bereits vor der Genehmigung eingetragen werden; sie sollte deshalb nicht zurückgestellt werden. Die Grundbuchsperre des § 7 Abs. 1 GrdstVG betrifft den Vollzug der genehmigungspflichtigen Rechtsänderung, für den Genehmigung oder Negativattest erforderlich sind."
+ },
+ {
+  "id": "vorm1-026",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Grundstückverkehrsgesetz: Wirkung der Genehmigungspflicht, Verfahren und Versagung",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/grundstuckverkehrsgesetz-wirkung-der-genehmigungspflicht-verfahren-und-versagung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 10 GrdstVG",
+   "§ 11 GrdstVG"
+  ],
+  "frage": "Worin unterscheidet sich eine Genehmigung nach dem GrdstVG unter Auflage von einer Genehmigung unter Bedingung?",
+  "optionen": [
+   "Bei der Auflage wird die Genehmigung sofort wirksam; bei der Bedingung werden Genehmigung und Vertrag erst mit Bedingungseintritt wirksam",
+   "Bei der Auflage werden Genehmigung und Vertrag erst mit Erfüllung wirksam; die Bedingung wirkt sofort",
+   "Beide werden sofort wirksam; nur bei der Bedingung ist ein Negativattest erforderlich",
+   "Beide werden erst mit Eintritt der Bedingung bzw. Erfüllung der Auflage wirksam"
+  ],
+  "antwort": 0,
+  "erklaerung": "Bei einer Auflage (§ 10 GrdstVG) wird die Genehmigung sofort wirksam. Bei einer Bedingung (§ 11 GrdstVG) werden Genehmigung und Vertrag erst mit Eintritt der Bedingung wirksam; darüber ist nach § 11 Abs. 2 GrdstVG ein gesondertes Zeugnis zu erteilen. Die zweite Option vertauscht die Wirkungen."
+ },
+ {
+  "id": "vorm1-027",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Grundstückverkehrsgesetz: Wirkung der Genehmigungspflicht, Verfahren und Versagung",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/grundstuckverkehrsgesetz-wirkung-der-genehmigungspflicht-verfahren-und-versagung",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 9 Abs. 1 Nr. 1 GrdstVG",
+   "§ 9 Abs. 5 GrdstVG",
+   "§ 6 Abs. 1 S. 1 GrdstVG",
+   "§ 3 Abs. 2 S. 2 GrdstVG"
+  ],
+  "frage": "Ackerfläche an einen Nichtlandwirt",
+  "sachverhalt": "Der Zahnarzt Z kauft in Niedersachsen von V eine 5 ha große Ackerfläche; es handelt sich nicht um einen ganzen Betrieb. Notar N beurkundet den Vertrag. Landwirt L, der seinen Betrieb vergrößern will, wäre bereit, die Fläche zu denselben Konditionen zu kaufen. Die Voraussetzungen des siedlungsrechtlichen Vorkaufsrechts liegen vor.",
+  "schritte": [
+   {
+    "frage": "Wer kann die Genehmigung beantragen, ohne dass die Beteiligten eine besondere Vollmacht erteilen?",
+    "optionen": [
+     "Nur der Verkäufer V als bisheriger Eigentümer",
+     "Der beurkundende Notar N, der als ermächtigt gilt",
+     "Nur das Grundbuchamt von Amts wegen",
+     "Nur Z als Erwerber nach Zahlung des Kaufpreises"
+    ],
+    "antwort": 1,
+    "erklaerung": "Nach § 3 Abs. 2 S. 2 GrdstVG gilt der beurkundende Notar als ermächtigt, die Genehmigung zu beantragen; es handelt sich um eine verfahrensrechtliche Vollmachtsvermutung."
+   },
+   {
+    "frage": "Welcher Versagungsgrund kommt grundsätzlich in Betracht?",
+    "optionen": [
+     "Grobes Missverhältnis nach § 9 Abs. 1 Nr. 3 GrdstVG, weil Z kein Landwirt ist",
+     "Ungesunde Verteilung des Bodens nach § 9 Abs. 1 Nr. 1 GrdstVG",
+     "Beeinträchtigung der touristischen Zweckbestimmung",
+     "Fehlende Restitutionsfreiheit nach der GVO"
+    ],
+    "antwort": 1,
+    "erklaerung": "Eine ungesunde Verteilung des Bodens (§ 9 Abs. 1 Nr. 1 GrdstVG) liegt nach der Rechtsprechung vor, wenn ein Nichtlandwirt eine landwirtschaftliche Fläche erwirbt, die ein Landwirt zur Vergrößerung seines Betriebs braucht und zu den vereinbarten Konditionen kaufen will. Das grobe Missverhältnis betrifft dagegen den Preis, nicht die Person des Erwerbers."
+   },
+   {
+    "frage": "Das siedlungsrechtliche Vorkaufsrecht wird nicht ausgeübt. Darf die Genehmigung jetzt noch wegen ungesunder Bodenverteilung versagt werden?",
+    "optionen": [
+     "Ja, die Nichtausübung des Vorkaufsrechts ist für die Genehmigung ohne Bedeutung",
+     "Ja, aber nur mit Zustimmung des Landwirts L",
+     "Nein, weil kein land- oder forstwirtschaftlicher Betrieb veräußert wird",
+     "Nein, weil die Genehmigung mit Nichtausübung stets als erteilt gilt"
+    ],
+    "antwort": 2,
+    "erklaerung": "Liegen die Voraussetzungen des Vorkaufsrechts nach dem RSiedlG vor und wird es nicht ausgeübt, darf die Genehmigung wegen ungesunder Bodenverteilung nur noch versagt oder eingeschränkt werden, wenn ein land- oder forstwirtschaftlicher Betrieb veräußert wird (§ 9 Abs. 5 GrdstVG). Hier wird nur eine Einzelfläche verkauft."
+   },
+   {
+    "frage": "Bis wann muss die Behörde höchstens entscheiden, wenn sie wegen des Vorkaufsrechts einen Zwischenbescheid erlässt?",
+    "optionen": [
+     "Innerhalb eines Monats",
+     "Innerhalb von zwei Monaten",
+     "Innerhalb von drei Monaten",
+     "Innerhalb von sechs Monaten"
+    ],
+    "antwort": 2,
+    "erklaerung": "Die Entscheidungsfrist beträgt grundsätzlich einen Monat (§ 6 Abs. 1 S. 1 GrdstVG); durch Zwischenbescheid kann sie auf zwei Monate verlängert werden, auf drei Monate, wenn eine Erklärung über die Ausübung des Vorkaufsrechts herbeizuführen ist. Versäumt die Behörde die Frist, gilt die Genehmigung als erteilt."
+   }
+  ],
+  "erklaerung": "N kann die Genehmigung kraft Vollmachtsvermutung beantragen. Der Erwerb durch einen Nichtlandwirt bei Erwerbsinteresse eines aufstockungsbedürftigen Landwirts begründet grundsätzlich eine ungesunde Bodenverteilung; nach Nichtausübung des Vorkaufsrechts scheidet dieser Versagungsgrund aber aus, weil kein Betrieb veräußert wird (§ 9 Abs. 5 GrdstVG). Die Frist beträgt bei Vorkaufsrechtsprüfung höchstens drei Monate."
+ },
+ {
+  "id": "vorm1-028",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Sanierungsgebiet: Satzung, Sanierungsvermerk, Grundbuchsperre und Ausgleichsbetrag",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/sanierungsgebiet-satzung-sanierungsvermerk-grundbuchsperre-und-ausgleichsbetrag",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 145 Abs. 6 S. 2 BauGB"
+  ],
+  "frage": "Die Gemeinde erteilt für einen Kaufvertrag im förmlich festgelegten Sanierungsgebiet ein Negativattest, obwohl eine Sanierungsgenehmigung tatsächlich erforderlich war. Wie ist der Vertrag nach herrschender Meinung zu beurteilen?",
+  "optionen": [
+   "Er ist wirksam, weil das Negativattest die Wirkung einer Genehmigung hat",
+   "Er ist endgültig nichtig, weil die Genehmigung nicht beantragt wurde",
+   "Er ist wirksam, sobald das Grundbuchamt eingetragen hat",
+   "Er bleibt trotz Negativattest schwebend unwirksam"
+  ],
+  "antwort": 3,
+  "erklaerung": "Nach herrschender Meinung hat das Negativattest nach § 145 Abs. 6 S. 2 BauGB nicht die Wirkung einer Genehmigung. War die Genehmigung doch erforderlich, bleibt der Vorgang trotz Negativattest schwebend unwirksam. Das Negativattest als Ersatz für eine erforderliche Genehmigung zu behandeln, ist ein typischer Fehler."
+ },
+ {
+  "id": "vorm1-029",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Sanierungsgebiet: Satzung, Sanierungsvermerk, Grundbuchsperre und Ausgleichsbetrag",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/sanierungsgebiet-satzung-sanierungsvermerk-grundbuchsperre-und-ausgleichsbetrag",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 143 Abs. 2 S. 2 BauGB"
+  ],
+  "frage": "Ist bei einem Grundstück kein Sanierungsvermerk eingetragen, kann der Erwerber auf die Genehmigungsfreiheit vertrauen und gutgläubig erwerben.",
+  "antwort": false,
+  "erklaerung": "Der Sanierungsvermerk (§ 143 Abs. 2 S. 2 BauGB) wirkt nur informatorisch; fehlt er, ist das Sanierungsgebiet trotzdem wirksam festgelegt. Ein gutgläubiger Erwerb ist ausgeschlossen. Deshalb ist auch ohne Vermerk zu klären, ob das Grundstück in einem förmlich festgelegten Sanierungsgebiet liegt."
+ },
+ {
+  "id": "vorm1-030",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Sanierungsgebiet: Satzung, Sanierungsvermerk, Grundbuchsperre und Ausgleichsbetrag",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/sanierungsgebiet-satzung-sanierungsvermerk-grundbuchsperre-und-ausgleichsbetrag",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 154 Abs. 1 BauGB",
+   "§ 154 Abs. 4 S. 3 BauGB"
+  ],
+  "frage": "Warum sollte ein Kaufvertrag über ein Grundstück im Sanierungsgebiet regeln, wer den Ausgleichsbetrag trägt?",
+  "optionen": [
+   "Weil der Ausgleichsbetrag als öffentliche Last auf dem Grundstück ruht und auf den Erwerber übergeht",
+   "Weil der Ausgleichsbetrag keine öffentliche Last ist und nur der Bescheidadressat schuldet",
+   "Weil der Ausgleichsbetrag stets vom Erwerber zu tragen ist, der Verkäufer aber Sicherheit leisten muss",
+   "Weil der Ausgleichsbetrag nur bei Eintragung eines Sanierungsvermerks entsteht"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Ausgleichsbetrag ruht nach § 154 Abs. 4 S. 3 BauGB nicht als öffentliche Last auf dem Grundstück; Schuldner ist stets nur derjenige, an den der Bescheid gerichtet ist. Die interne Verteilung muss deshalb vertraglich geregelt werden, zweckmäßig wie bei Erschließungsbeiträgen: Der Erwerber trägt alle ab einem Stichtag zu entrichtenden Beträge und erhält ab dann auch Rückzahlungen."
+ },
+ {
+  "id": "vorm1-031",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Sanierungsgebiet: Satzung, Sanierungsvermerk, Grundbuchsperre und Ausgleichsbetrag",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/sanierungsgebiet-satzung-sanierungsvermerk-grundbuchsperre-und-ausgleichsbetrag",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 878 BGB"
+  ],
+  "frage": "Ein Grundstück wird nach Stellung des Eintragungsantrags beim Grundbuchamt in ein Sanierungsgebiet einbezogen. Wann schützt § 878 BGB die Beteiligten vor der nachträglich eintretenden Genehmigungspflicht?",
+  "optionen": [
+   "Wenn im Zeitpunkt des Eintritts der Genehmigungspflicht alle übrigen Vollzugsvoraussetzungen vorlagen",
+   "Nur wenn zusätzlich eine Auflassungsvormerkung eingetragen war",
+   "Wenn der Kaufpreis bereits vollständig gezahlt war",
+   "Stets, sobald der Kaufvertrag beurkundet war, auch ohne Eintragungsantrag"
+  ],
+  "antwort": 0,
+  "erklaerung": "Entsteht die Genehmigungspflicht erst nach Stellung des Eintragungsantrags, schützt § 878 BGB die Beteiligten, sofern im Zeitpunkt des Eintritts der Genehmigungspflicht alle übrigen Voraussetzungen für den Vollzug vorlagen. Allein die Beurkundung ohne Antrag genügt nicht; auf Vormerkung oder Kaufpreiszahlung kommt es nicht an."
  }
 ]

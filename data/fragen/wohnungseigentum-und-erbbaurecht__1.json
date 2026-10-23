@@ -251,5 +251,259 @@
   ],
   "antwort": 1,
   "erklaerung": "Jeder Raum, jeder Balkon und jede Außenfläche muss die Nummer der Einheit tragen, zu der sie gehört, und Gemeinschaftseigentum muss als solches erkennbar sein. Zudem sollen die Zeichnungen das tatsächlich Gebaute abbilden, vollständig sein und DIN A3 nicht überschreiten. Mängel der Pläne führen zu Vollzugshindernissen beim Grundbuchamt."
+ },
+ {
+  "id": "wohn1-014",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Aufteilungsplan: Inhalt, Nummerierung und Übereinstimmung mit der Teilungserklärung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/aufteilungsplan-inhalt-nummerierung-und-ubereinstimmung-mit-der-teilungserklarung",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 7 Abs. 4 S. 1 Nr. 1 WEG"
+  ],
+  "frage": "Für die Kennzeichnung im Aufteilungsplan genügt es, wenn die Wohnung eine Nummer trägt und ihre Räume farbig umrandet sind; nicht jeder Einzelraum muss eine eigene Nummer tragen.",
+  "antwort": true,
+  "erklaerung": "§ 7 Abs. 4 S. 1 Nr. 1 Hs. 2 WEG verlangt die Kennzeichnung der zu einer Einheit gehörenden Räume mit der gleichen Nummer; entscheidend ist aber die Bestimmtheit. Daher genügt eine Nummer mit farbiger Umrandung, die sogar entbehrlich ist, wenn die Grenzen ohne Weiteres erkennbar sind. Nebenräume außerhalb der Wohnung, etwa ein Keller, müssen dagegen nummeriert sein."
+ },
+ {
+  "id": "wohn1-015",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Aufteilungsplan: Inhalt, Nummerierung und Übereinstimmung mit der Teilungserklärung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/aufteilungsplan-inhalt-nummerierung-und-ubereinstimmung-mit-der-teilungserklarung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 7 Abs. 4 S. 1 Nr. 1 WEG"
+  ],
+  "frage": "Welche Kennzeichnung im Aufteilungsplan ist nach herrschender Meinung unzulässig?",
+  "optionen": [
+   "Wohnung „W1“ und zugehöriger Keller „K1“",
+   "Bruchnummern wie „1.1“ für Räume einer Einheit",
+   "Kellerraum Nr. 1, der mit der Wohnung Nr. 6 zu einer Einheit verbunden werden soll",
+   "Selbständiges Teileigentum und selbständiges Wohnungseigentum mit derselben Ziffer"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach h.M. müssen Räume, die zu einer Einheit verbunden werden, zwingend dieselbe Nummer tragen; ein Kellerraum Nr. 1 kann danach nicht mit der Wohnung Nr. 6 verbunden werden. Zusätze vor der Ziffer wie „W1“/„K1“ wahren dagegen die einheitliche Nummer, und dieselbe Ziffer für zwei selbständige Einheiten schadet nicht."
+ },
+ {
+  "id": "wohn1-016",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Aufteilungsplan: Inhalt, Nummerierung und Übereinstimmung mit der Teilungserklärung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/aufteilungsplan-inhalt-nummerierung-und-ubereinstimmung-mit-der-teilungserklarung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [],
+  "frage": "Der Aufteilungsplan weist ein Treppenhaus mit der Nummer der Erdgeschosswohnung aus; die Teilungserklärung beschreibt als Sondereigentum nur die Erdgeschosswohnung, ohne auf den Plan zu verweisen. Was gilt für das Treppenhaus?",
+  "optionen": [
+   "Es steht im Sondereigentum, weil der Aufteilungsplan maßgeblich ist",
+   "Es bleibt ohne Sondereigentum, weil Plan und Teilungserklärung nicht übereinstimmen",
+   "Es wird isolierter Miteigentumsanteil des Eigentümers der Erdgeschosswohnung",
+   "Es steht im Sondereigentum, weil gleiche Nummer stets Sondereigentum begründet"
+  ],
+  "antwort": 1,
+  "erklaerung": "Eine gleiche Nummer im Plan begründet nicht zwingend Sondereigentum; es kommt auf die Übereinstimmung von Plan und Teilungserklärung an. Nennt der Text nur die Erdgeschosswohnung, bleibt das im Plan zugewiesene Treppenhaus ohne Sondereigentum (OLG München). Großzügiger wird nur entschieden, wenn die Teilungserklärung für Gegenstand und Lage auf den Plan verweist."
+ },
+ {
+  "id": "wohn1-017",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Aufteilungsplan: Inhalt, Nummerierung und Übereinstimmung mit der Teilungserklärung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/aufteilungsplan-inhalt-nummerierung-und-ubereinstimmung-mit-der-teilungserklarung",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 7 Abs. 4 S. 1 Nr. 1 WEG"
+  ],
+  "frage": "Garage und Hobbyraum in der Teilungserklärung",
+  "sachverhalt": "E teilt sein Grundstück nach § 8 WEG. In der Teilungserklärung heißt es zu Einheit Nr. 3: „Gegenstand und Lage des Sondereigentums ergeben sich aus dem Aufteilungsplan.“ Im Plan trägt eine Garage die Nummer 3, im Text ist sie nicht erwähnt. Zu Einheit Nr. 4 beschreibt der Text zusätzlich einen „Hobbyraum im Keller“, der im Plan weder nummeriert noch umrandet ist und sich auch aus dem Text nicht näher bestimmen lässt.",
+  "schritte": [
+   {
+    "frage": "Entsteht Sondereigentum an der Garage für Einheit Nr. 3?",
+    "optionen": [
+     "Nein, weil die Garage im Text der Teilungserklärung nicht erwähnt ist",
+     "Ja, weil die Teilungserklärung für Gegenstand und Lage auf den Aufteilungsplan verweist",
+     "Nein, weil Garagen nur Gegenstand eines Sondernutzungsrechts sein können",
+     "Ja, aber erst nach einer Berichtigung der Teilungserklärung"
+    ],
+    "antwort": 1,
+    "erklaerung": "Verweist die Teilungserklärung für Gegenstand und Lage des Sondereigentums auf den Aufteilungsplan, schadet es nach der obergerichtlichen Rechtsprechung nicht, wenn ein gleich nummerierter Raum wie eine Garage im Text nicht erwähnt ist."
+   },
+   {
+    "frage": "Entsteht Sondereigentum am Hobbyraum für Einheit Nr. 4?",
+    "optionen": [
+     "Ja, weil die Beschreibung in der Teilungserklärung genügt",
+     "Ja, weil der Text dem Plan vorgeht",
+     "Nein, weil der Raum im Plan nicht gekennzeichnet ist und sich aus dem Text nicht mit grundbuchmäßiger Bestimmtheit ergibt",
+     "Nein, weil Kellerräume nicht sondereigentumsfähig sind"
+    ],
+    "antwort": 2,
+    "erklaerung": "Beschreibt die Teilungserklärung Sondereigentum, das im Plan nicht gekennzeichnet ist und sich auch aus dem Text nicht mit grundbuchmäßiger Bestimmtheit ergibt, entsteht kein Sondereigentum, etwa an einem Hobbyraum ohne Nummer oder Umrandung."
+   },
+   {
+    "frage": "Welche Gestaltung vermeidet solche Probleme am sichersten?",
+    "optionen": [
+     "Alle Räume einer Einheit mit derselben Nummer kennzeichnen und Nummerierung mit dem Text der Teilungserklärung abgleichen",
+     "Auf Nummern im Plan verzichten und die Räume nur verbal beschreiben",
+     "Nebenräume grundsätzlich nur farbig umranden, nicht nummerieren",
+     "Für jeden Nebenraum eine eigene, abweichende Nummer vergeben"
+    ],
+    "antwort": 0,
+    "erklaerung": "Sicherer Weg ist, alle Räume einer Einheit mit derselben Nummer zu kennzeichnen und Plan und Text abzugleichen; Kennungen wie „W“, „K“ oder „TG“ vor der Nummer erleichtern die Zuordnung. Nebenräume außerhalb der Wohnung müssen nummeriert sein."
+   }
+  ],
+  "erklaerung": "Die Garage gehört wegen des Verweises auf den Aufteilungsplan zum Sondereigentum der Einheit Nr. 3; am nur im Text genannten, im Plan nicht gekennzeichneten Hobbyraum entsteht kein Sondereigentum. Maßgeblich ist die Übereinstimmung von Plan und Teilungserklärung nach § 7 Abs. 4 S. 1 Nr. 1 WEG."
+ },
+ {
+  "id": "wohn1-018",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Begründung von Wohnungseigentum: Genehmigung im Erhaltungsgebiet und bei angespanntem Wohnungsmarkt (§§ 172, 250 BauGB)",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/begrundung-von-wohnungseigentum-genehmigung-im-erhaltungsgebiet-und-bei-angespanntem-wohnungsmarkt-172-250-baugb",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 250 Abs. 1 S. 1 BauGB",
+   "§ 250 Abs. 1 S. 2 BauGB"
+  ],
+  "frage": "Ab welcher Größe des Wohngebäudes bedarf die Begründung von Wohnungseigentum in einem Gebiet mit angespanntem Wohnungsmarkt der Genehmigung nach § 250 Abs. 1 S. 1 BauGB?",
+  "optionen": [
+   "Ab drei Wohnungen",
+   "Ab mehr als fünf Wohnungen",
+   "Ab mehr als zehn Wohnungen",
+   "Unabhängig von der Zahl der Wohnungen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 250 Abs. 1 S. 2 BauGB greift der Genehmigungsvorbehalt nur, sofern das Gebäude mehr als fünf Wohnungen hat. Die Regelung wurde durch das Baulandmobilisierungsgesetz eingeführt und erfasst die Aufteilung bestehender Wohngebäude; kleinere Gebäude liegen unter der Freigrenze."
+ },
+ {
+  "id": "wohn1-019",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Begründung von Wohnungseigentum: Genehmigung im Erhaltungsgebiet und bei angespanntem Wohnungsmarkt (§§ 172, 250 BauGB)",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/begrundung-von-wohnungseigentum-genehmigung-im-erhaltungsgebiet-und-bei-angespanntem-wohnungsmarkt-172-250-baugb",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 172 Abs. 1 S. 4 BauGB"
+  ],
+  "frage": "Liegt das Grundstück im Gebiet einer gemeindlichen Milieuschutzsatzung, darf das Grundbuchamt vor Eintragung der Aufteilung ein Negativattest der Baubehörde verlangen, auch wenn die Landesregierung keine Rechtsverordnung nach § 172 Abs. 1 S. 4 BauGB erlassen hat.",
+  "antwort": false,
+  "erklaerung": "Die Genehmigungspflicht nach § 172 Abs. 1 S. 4 BauGB setzt eine Rechtsverordnung der Landesregierung voraus. Solange keine solche Verordnung erlassen ist, darf das Grundbuchamt kein Negativattest verlangen (KG, OLG Zweibrücken, OLG Hamm); die Milieuschutzsatzung allein genügt nicht."
+ },
+ {
+  "id": "wohn1-020",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Begründung von Wohnungseigentum: Genehmigung im Erhaltungsgebiet und bei angespanntem Wohnungsmarkt (§§ 172, 250 BauGB)",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/begrundung-von-wohnungseigentum-genehmigung-im-erhaltungsgebiet-und-bei-angespanntem-wohnungsmarkt-172-250-baugb",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 250 BauGB"
+  ],
+  "frage": "Ein Bestandsgebäude in einem Gebiet mit Verordnung nach § 250 BauGB hat vier Wohnungen. Wie ist die Rechtslage beim Grundbuchvollzug der Teilungserklärung nach der Rechtsprechung des OLG München?",
+  "optionen": [
+   "Der Aufteilungsplan genügt als Nachweis, dass keine Genehmigung erforderlich ist",
+   "Der Aufteilungsplan reicht als Nachweis nicht aus; mit einer Zwischenverfügung ist zu rechnen",
+   "Die Teilung ist trotz Unterschreitens der Freigrenze stets genehmigungspflichtig",
+   "Das Grundbuchamt darf die Wohnungszahl überhaupt nicht prüfen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Liegt die Wohnungszahl unter der Freigrenze, reicht der Aufteilungsplan nach OLG München als Nachweis gegenüber dem Grundbuchamt nicht aus (in der Literatur kritisiert). Für die Praxis ist daher mit Zwischenverfügungen zu rechnen, die einen weiteren Nachweis, etwa ein Negativattest, verlangen. Eine Genehmigungspflicht folgt daraus aber nicht."
+ },
+ {
+  "id": "wohn1-021",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Begründung von Wohnungseigentum: Genehmigung im Fremdenverkehrs- und Sanierungsgebiet und nach der GVO",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/begrundung-von-wohnungseigentum-genehmigung-im-fremdenverkehrs-und-sanierungsgebiet-und-nach-der-gvo",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 22 Abs. 1 S. 1 Nr. 1 BauGB",
+   "§ 144 BauGB",
+   "§ 2 Abs. 1 Nr. 1 GVO"
+  ],
+  "frage": "Ordne den Vorgang der zutreffenden Genehmigungslage zu.",
+  "paare": [
+   [
+    "Teilung nach § 8 WEG im Sanierungsgebiet",
+    "Keine Genehmigung nach § 144 BauGB, da keine Veräußerung eines Grundstücks"
+   ],
+   [
+    "Teilungsvertrag nach § 3 WEG mit Übertragung eines Miteigentumsanteils im Sanierungsgebiet",
+    "Genehmigung nach § 144 BauGB erforderlich"
+   ],
+   [
+    "Teilungsvertrag nach § 3 WEG im Beitrittsgebiet",
+    "Genehmigung nach § 2 Abs. 1 Nr. 1 GVO analog"
+   ],
+   [
+    "Aufteilung in einer Fremdenverkehrsgemeinde mit entsprechender Satzung",
+    "Genehmigungsvorbehalt nach § 22 Abs. 1 S. 1 Nr. 1 BauGB"
+   ]
+  ],
+  "erklaerung": "Die Teilung nach § 8 WEG ist im Sanierungsgebiet genehmigungsfrei, weil sie keine Veräußerung ist; der Teilungsvertrag nach § 3 WEG enthält dagegen meist eine Verfügung über einen Miteigentumsanteil und ist deshalb genehmigungspflichtig. Im Beitrittsgebiet bedarf der Teilungsvertrag der Genehmigung nach § 2 Abs. 1 Nr. 1 GVO analog, weil er den Restitutionsanspruch verändert. In Fremdenverkehrsgemeinden kann die Gemeinde die Aufteilung nach § 22 Abs. 1 S. 1 Nr. 1 BauGB unter Genehmigungsvorbehalt stellen."
+ },
+ {
+  "id": "wohn1-022",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Begründung von Wohnungseigentum: Genehmigung im Fremdenverkehrs- und Sanierungsgebiet und nach der GVO",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/begrundung-von-wohnungseigentum-genehmigung-im-fremdenverkehrs-und-sanierungsgebiet-und-nach-der-gvo",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1010 BGB"
+  ],
+  "frage": "Wird die Genehmigung der Aufteilung nach § 22 BauGB versagt, kann die gewünschte Nutzungsaufteilung über eine im Grundbuch eingetragene Miteigentümervereinbarung nach § 1010 BGB erreicht werden.",
+  "antwort": false,
+  "erklaerung": "Eine Miteigentümervereinbarung nach § 1010 BGB ist kein Ausweg, wenn die Genehmigung der Aufteilung nach § 22 BauGB versagt wurde (OLG Schleswig, OVG Lüneburg). Die dinglich gesicherte Miteigentümervereinbarung kann vielmehr selbst dem Genehmigungsvorbehalt unterliegen."
+ },
+ {
+  "id": "wohn1-023",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Begründung von Wohnungseigentum: Genehmigung im Fremdenverkehrs- und Sanierungsgebiet und nach der GVO",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/begrundung-von-wohnungseigentum-genehmigung-im-fremdenverkehrs-und-sanierungsgebiet-und-nach-der-gvo",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 144 BauGB"
+  ],
+  "frage": "Bedarf die Begründung von Sondernutzungsrechten im Sanierungsgebiet einer Genehmigung nach § 144 BauGB?",
+  "optionen": [
+   "Ja, weil sie einer Teilung des Grundstücks gleichsteht",
+   "Ja, weil jede Änderung der Gemeinschaftsordnung genehmigungspflichtig ist",
+   "Nein, sie ist genehmigungsfrei",
+   "Nur, wenn das Sondernutzungsrecht an einer Freifläche bestellt wird"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Begründung von Sondernutzungsrechten ist im Sanierungsgebiet genehmigungsfrei; abweichend wird dies nur für befristete Sondernutzungsrechte vertreten. Auch die WEG-Aufteilung selbst fällt nach ganz h.M. nicht unter die Genehmigungspflicht für die Teilung eines Grundstücks, was der Vergleich mit § 22 und § 172 BauGB bestätigt."
+ },
+ {
+  "id": "wohn1-024",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Begründung von Wohnungseigentum: Genehmigung im Fremdenverkehrs- und Sanierungsgebiet und nach der GVO",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/begrundung-von-wohnungseigentum-genehmigung-im-fremdenverkehrs-und-sanierungsgebiet-und-nach-der-gvo",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 144 BauGB"
+  ],
+  "frage": "Die Eigentümer eines Mehrfamilienhauses im Sanierungsgebiet wollen Wohnungseigentum begründen und dabei eine Sanierungsgenehmigung vermeiden. Welche Gestaltung ist vorzuziehen?",
+  "optionen": [
+   "Teilungsvertrag nach § 3 WEG mit gleichzeitiger Übertragung von Miteigentumsanteilen",
+   "Teilung nach § 8 WEG durch den Eigentümer",
+   "Miteigentümervereinbarung nach § 1010 BGB anstelle der Aufteilung",
+   "Bestellung von Erbbaurechten an den einzelnen Wohnungen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Im Sanierungsgebiet ist die Teilung nach § 8 WEG keine Veräußerung und daher nicht nach § 144 BauGB genehmigungspflichtig. Der Teilungsvertrag nach § 3 WEG mit Anteilsübertragung enthält dagegen eine Verfügung über einen Miteigentumsanteil und löst die Genehmigungspflicht aus; deshalb ist § 8 WEG vorzuziehen."
  }
 ]

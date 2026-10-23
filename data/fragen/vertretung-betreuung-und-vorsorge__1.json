@@ -14,10 +14,10 @@
   ],
   "frage": "Ein Betreuer tritt eine Grundschuld des Betreuten an einen Dritten ab. Nach welcher Vorschrift ist die Verfügung seit der Reform des Vormundschafts- und Betreuungsrechts genehmigungsbedürftig?",
   "optionen": [
-   "§ 1849 Abs. 1 BGB (Verfügung über ein Recht auf Geldleistung)",
+   "§ 1854 Nr. 2 BGB (Kreditaufnahme)",
    "§ 1850 Nr. 1 BGB (Verfügung über ein Grundstücksrecht)",
-   "§ 1852 Nr. 1 BGB (Veräußerung eines Erwerbsgeschäfts)",
-   "§ 1854 Nr. 2 BGB (Kreditaufnahme)"
+   "§ 1849 Abs. 1 BGB (Verfügung über ein Recht auf Geldleistung)",
+   "§ 1852 Nr. 1 BGB (Veräußerung eines Erwerbsgeschäfts)"
   ],
   "antwort": 1,
   "erklaerung": "Grundpfandrechte sind Grundstücksrechte; ihre Verfügung fällt seit der Reform unter § 1850 Nr. 1 BGB. Der typische Fehler ist die Einordnung unter § 1849 BGB, der nur Rechte auf Geldleistung oder Wertpapiere, Wertpapiere selbst und hinterlegte Wertgegenstände erfasst und gegenüber § 1812 BGB aF deutlich enger ist. Bei Eltern wäre die Verfügung über ein Grundpfandrecht nach § 1643 Abs. 2 BGB sogar genehmigungsfrei."
@@ -90,12 +90,12 @@
   ],
   "frage": "Die Eltern schließen für ihr 16-jähriges Kind einen Pachtvertrag über ein Grundstück des Kindes mit einer Laufzeit von fünf Jahren. Bedarf der Vertrag der familiengerichtlichen Genehmigung?",
   "optionen": [
+   "Nur, wenn der Vertrag länger als vier Jahre nach Vertragsschluss läuft.",
    "Nein, Miet- und Pachtverträge sind nach § 1853 S. 1 Nr. 1 BGB stets genehmigungsfrei.",
    "Ja, nach § 1643 Abs. 4 BGB, weil der Vertrag länger als ein Jahr nach Eintritt der Volljährigkeit fortdauern soll.",
-   "Ja, nach § 1850 Nr. 6 BGB, weil ein Vertrag über ein Grundstück vorliegt.",
-   "Nur, wenn der Vertrag länger als vier Jahre nach Vertragsschluss läuft."
+   "Ja, nach § 1850 Nr. 6 BGB, weil ein Vertrag über ein Grundstück vorliegt."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "§ 1643 Abs. 4 BGB verlangt abweichend von § 1853 S. 1 Nr. 1 BGB eine Genehmigung für Miet-, Pacht- und andere Verträge über wiederkehrende Leistungen des Kindes, wenn der Vertrag länger als ein Jahr nach Eintritt der Volljährigkeit fortdauern soll. Das Kind wird in zwei Jahren volljährig, der Vertrag läuft drei weitere Jahre. Die pauschale Freistellung nach § 1853 S. 1 Nr. 1 BGB greift bei Eltern gerade nicht; § 1850 Nr. 6 BGB betrifft den entgeltlichen Erwerb eines Grundstücks, nicht dessen Verpachtung."
  },
  {
@@ -113,12 +113,12 @@
   ],
   "frage": "Welche Aussage zur Genehmigung nach § 1849 BGB trifft zu?",
   "optionen": [
-   "Sie ist eine reine Innengenehmigung; ihr Fehlen berührt die Wirksamkeit gegenüber Dritten nicht.",
-   "Sie beschränkt die Vertretungsmacht, ist Außengenehmigung und unterliegt den §§ 1855 ff. BGB.",
+   "Sie erfasst Verfügungen über Wertpapiere nur, wenn diese nicht hinterlegt sind.",
    "Sie ist auch bei befreiter Betreuung und bei Betreuung durch die Betreuungsbehörde uneingeschränkt erforderlich.",
-   "Sie erfasst Verfügungen über Wertpapiere nur, wenn diese nicht hinterlegt sind."
+   "Sie beschränkt die Vertretungsmacht, ist Außengenehmigung und unterliegt den §§ 1855 ff. BGB.",
+   "Sie ist eine reine Innengenehmigung; ihr Fehlen berührt die Wirksamkeit gegenüber Dritten nicht."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Die Genehmigung nach § 1849 BGB beschränkt die Vertretungsmacht und ist Außengenehmigung, sodass §§ 1855 ff. BGB über Mitteilung und Wirksamwerden anzuwenden sind. Die Annahme einer bloßen Innengenehmigung verkennt diese Außenwirkung. Bei befreiter Vormundschaft, Pflegschaft oder Betreuung sowie bei Amts- und Vereinsvormundschaft und Betreuung durch Betreuungsverein oder -behörde gilt § 1849 BGB ganz oder teilweise nicht (§§ 1801, 1811 Abs. 2, 1859, 1813, 1888 BGB); hinterlegte Wertgegenstände sind ausdrücklich erfasst."
  },
  {
@@ -137,11 +137,11 @@
   "frage": "Der Betreuer bewilligt die Löschung einer Grundschuld, die dem Betreuten zusteht; die gesicherte Forderung ist vollständig getilgt. Ist die Löschungsbewilligung genehmigungsbedürftig?",
   "optionen": [
    "Nein, weil ohne zu sichernde Forderung kein schutzwürdiges Interesse des Betreuten besteht.",
-   "Ja, stets nach § 1850 Nr. 1 BGB; bestünde die Forderung noch, käme § 1854 Nr. 7 BGB hinzu.",
    "Ja, nach § 1849 Abs. 1 BGB, weil ein Recht auf Geldleistung betroffen ist.",
+   "Ja, stets nach § 1850 Nr. 1 BGB; bestünde die Forderung noch, käme § 1854 Nr. 7 BGB hinzu.",
    "Nur nach § 1854 Nr. 7 BGB, weil es sich um den Erlass einer Forderung handelt."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Die Löschungsbewilligung für ein Grundpfandrecht des Vertretenen bedarf stets der Genehmigung nach § 1850 Nr. 1 BGB, auch wenn keine zu sichernde Forderung mehr besteht. Besteht die gesicherte Forderung noch, ist zusätzlich § 1854 Nr. 7 BGB einschlägig. Die Einordnung unter § 1849 BGB ist der typische Fehler: Grundpfandrechte fallen seit der Reform unter § 1850 Nr. 1 BGB."
  },
  {
@@ -150,15 +150,21 @@
   "abschnitt": "Gerichtliche Genehmigung",
   "seite": "Gerichtliche Genehmigung: Grundpfandrechte und Eigentümerrechte",
   "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-grundpfandrechte-und-eigentumerrechte",
-  "typ": "rf",
+  "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
    "§ 1643 Abs. 2 BGB",
    "§ 1850 Nr. 1 BGB"
   ],
-  "frage": "Eltern benötigen für die Abtretung einer Grundschuld ihres minderjährigen Kindes eine familiengerichtliche Genehmigung nach § 1643 Abs. 1 i. V. m. § 1850 Nr. 1 BGB.",
-  "antwort": false,
-  "erklaerung": "Für Eltern nimmt § 1643 Abs. 2 BGB Verfügungen über Grundpfandrechte und die Verpflichtung dazu ausdrücklich von der Genehmigung aus. Die Genehmigungspflicht nach § 1850 Nr. 1 BGB trifft nur Vormund, Pfleger und Betreuer; für sie kennt das neue Recht keine Ausnahme mehr wie § 1821 Abs. 2 BGB aF. Die Annahme einer Genehmigungspflicht bei Eltern ist der im Handbuch genannte typische Fehler."
+  "frage": "Bedürfen Eltern für die Abtretung einer Grundschuld ihres minderjährigen Kindes einer familiengerichtlichen Genehmigung?",
+  "antwort": 2,
+  "erklaerung": "Für Eltern nimmt § 1643 Abs. 2 BGB Verfügungen über Grundpfandrechte und die Verpflichtung dazu ausdrücklich von der Genehmigung aus. Die Genehmigungspflicht nach § 1850 Nr. 1 BGB trifft nur Vormund, Pfleger und Betreuer; für sie kennt das neue Recht keine Ausnahme mehr wie § 1821 Abs. 2 BGB aF. Die Annahme einer Genehmigungspflicht bei Eltern ist der im Handbuch genannte typische Fehler.",
+  "optionen": [
+   "Ja, nach § 1849 Abs. 1 BGB, weil ein Recht auf Geldleistung betroffen ist.",
+   "Nur, wenn die gesicherte Forderung noch besteht (§ 1854 Nr. 7 BGB).",
+   "Nein, § 1643 Abs. 2 BGB nimmt Verfügungen über Grundpfandrechte für Eltern aus.",
+   "Ja, nach § 1643 Abs. 1 i. V. m. § 1850 Nr. 1 BGB."
+  ]
  },
  {
   "id": "vert1-008",
@@ -175,12 +181,12 @@
   ],
   "frage": "Am Grundstück des Mündels lastet eine Fremdgrundschuld der Bank. Der Vormund erklärt als Eigentümer die Zustimmung zur Löschung (§ 1183 BGB). Wie ist die Genehmigungsbedürftigkeit nach neuem Recht zu beurteilen?",
   "optionen": [
+   "Genehmigung nach § 1850 Nr. 1 BGB und daneben nach § 1850 Nr. 2 BGB, weil die Zustimmung zugleich über den Rückgewähranspruch verfügt.",
    "Keine Genehmigung, weil nur über ein fremdes Recht verfügt wird.",
    "Genehmigung nach § 1849 Abs. 1 BGB, wie nach § 1812 BGB aF.",
-   "Genehmigung nach § 1850 Nr. 1 BGB und daneben nach § 1850 Nr. 2 BGB, weil die Zustimmung zugleich über den Rückgewähranspruch verfügt.",
    "Genehmigung allein nach § 1854 Nr. 7 BGB, weil der Eigentümer auf eine Forderung verzichtet."
   ],
-  "antwort": 2,
+  "antwort": 0,
   "erklaerung": "Hinter der Löschungszustimmung des Eigentümers steht die Eigentümergrundschuld bzw. das Anwartschaftsrecht darauf; deshalb war sie schon nach altem Recht genehmigungsbedürftig (BayObLG, OLG Hamm). Nach neuem Recht greift § 1850 Nr. 1 BGB und daneben § 1850 Nr. 2 BGB, weil die Zustimmung zugleich eine Verfügung über den Rückgewähranspruch enthält. Die Annahme, es werde nur über ein fremdes Recht verfügt, übersieht das dahinterstehende Eigentümerrecht; § 1849 BGB ist seit der Reform für Grundpfandrechte nicht mehr einschlägig."
  },
  {
@@ -190,7 +196,7 @@
   "seite": "Gerichtliche Genehmigung: Grundpfandrechte und Eigentümerrechte",
   "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-grundpfandrechte-und-eigentumerrechte",
   "typ": "rf",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 1850 Nr. 1 BGB"
   ],
@@ -212,12 +218,12 @@
   ],
   "frage": "Ein Betreuer hat einen Kaufvertrag ohne Vorabgenehmigung geschlossen. Wann wird die nachträglich erteilte betreuungsgerichtliche Genehmigung gegenüber dem Käufer wirksam?",
   "optionen": [
-   "Mit Eingang des Genehmigungsbeschlusses beim beurkundenden Notar.",
-   "Mit Erlass des Genehmigungsbeschlusses durch das Betreuungsgericht.",
+   "Automatisch mit Eintritt der Rechtskraft des Beschlusses nach § 40 Abs. 2 FamFG.",
    "Wenn der Betreuer die Genehmigung dem Käufer mitteilt (§ 1856 Abs. 1 S. 2 BGB).",
-   "Automatisch mit Eintritt der Rechtskraft des Beschlusses nach § 40 Abs. 2 FamFG."
+   "Mit Eingang des Genehmigungsbeschlusses beim beurkundenden Notar.",
+   "Mit Erlass des Genehmigungsbeschlusses durch das Betreuungsgericht."
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "Nach § 1856 Abs. 1 S. 2 BGB wird die Genehmigung gegenüber dem anderen Teil erst wirksam, wenn der gesetzliche Vertreter sie ihm mitteilt; dasselbe gilt für die Verweigerung. Das Wirksamwerden des Beschlusses (Rechtskraft, § 40 Abs. 2 FamFG) ist vom Wirksamwerden des Vertrags zu trennen. Eine Abrede, die Genehmigung solle schon mit Eingang beim Notar wirksam werden, ist unwirksam."
  },
  {
@@ -233,12 +239,12 @@
   ],
   "frage": "Binnen welcher Frist muss der Vormund, Betreuer oder Pfleger nach einer Aufforderung des Vertragspartners gemäß § 1856 Abs. 2 BGB die wirksame Genehmigung mitteilen, damit der Vertrag nicht endgültig unwirksam wird?",
   "optionen": [
-   "Zwei Wochen",
-   "Einen Monat",
+   "Sechs Monate",
    "Zwei Monate",
-   "Sechs Monate"
+   "Zwei Wochen",
+   "Einen Monat"
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "§ 1856 Abs. 2 BGB räumt dem Vertragspartner das Recht ein, den Vertreter zur Mitteilung der wirksamen Genehmigung binnen zwei Monaten aufzufordern; bleibt die Mitteilung aus, ist der Vertrag endgültig unwirksam. Die zweiwöchige Frist ist die Beschwerdefrist gegen den Beschluss, nicht die Mitteilungsfrist. Die Frist darf vertraglich verlängert werden; das Handbuch empfiehlt etwa drei Monate ab Aufforderung."
  },
  {
@@ -276,10 +282,10 @@
    {
     "frage": "Darf N die Eigenurkunde über Empfang und Mitteilung der Genehmigung sofort nach Zugang des Beschlusses fertigen?",
     "optionen": [
-     "Ja, weil der Beschluss mit Erlass wirksam ist.",
-     "Nein, erst nach Vorliegen des Rechtskraftzeugnisses; eine frühere Mitteilung ist wirkungslos.",
      "Ja, wenn alle Beteiligten auf Rechtsmittel verzichtet haben, auch ohne Rechtskraftzeugnis.",
-     "Nein, die Mitteilung kann nur V persönlich, nicht N vornehmen."
+     "Nein, erst nach Vorliegen des Rechtskraftzeugnisses; eine frühere Mitteilung ist wirkungslos.",
+     "Nein, die Mitteilung kann nur V persönlich, nicht N vornehmen.",
+     "Ja, weil der Beschluss mit Erlass wirksam ist."
     ],
     "antwort": 1,
     "erklaerung": "Die in der Eigenurkunde liegende Mitteilung nach § 1856 BGB ist nach h. M. erst nach Rechtskraft zulässig; eine frühere Mitteilung ist wirkungslos und wird durch den späteren Rechtskrafteintritt nicht geheilt. N darf die Eigenurkunde daher frühestens nach Vorliegen des Rechtskraftzeugnisses fertigen."
@@ -287,23 +293,23 @@
    {
     "frage": "Ist die Aufforderung des K, die unmittelbar nach Vertragsschluss und vor Erteilung der Genehmigung erklärt wurde, nach § 1856 Abs. 2 BGB wirksam?",
     "optionen": [
-     "Nein, die Aufforderung setzt voraus, dass die Genehmigung bereits erteilt ist.",
-     "Nein, eine Aufforderung ist erst nach Ablauf einer angemessenen Bearbeitungszeit des Gerichts zulässig.",
      "Ja, die Aufforderung ist auch vor Erteilung der Genehmigung oder unmittelbar nach Vertragsschluss wirksam; die Zweimonatsfrist läuft.",
-     "Ja, aber die Frist beginnt erst mit Erlass des Genehmigungsbeschlusses."
+     "Nein, eine Aufforderung ist erst nach Ablauf einer angemessenen Bearbeitungszeit des Gerichts zulässig.",
+     "Ja, aber die Frist beginnt erst mit Erlass des Genehmigungsbeschlusses.",
+     "Nein, die Aufforderung setzt voraus, dass die Genehmigung bereits erteilt ist."
     ],
-    "antwort": 2,
+    "antwort": 0,
     "erklaerung": "Die Aufforderung nach § 1856 Abs. 2 BGB ist eine empfangsbedürftige Erklärung und wirkt auch dann, wenn sie vor Erteilung der Genehmigung oder unmittelbar nach Vertragsschluss erklärt wird (RGZ 130, 148 ff.). Wird die wirksame Genehmigung nicht binnen zwei Monaten mitgeteilt, ist der Vertrag endgültig unwirksam."
    },
    {
     "frage": "Welche Gestaltung hätte N im Vertrag vorsehen sollen, um das Risiko der endgültigen Unwirksamkeit zu mindern?",
     "optionen": [
-     "Eine Abrede, dass die Genehmigung bereits mit Eingang beim Notar wirksam wird.",
      "Eine vertragliche Verlängerung der Frist des § 1856 Abs. 2 BGB, etwa auf drei Monate ab Aufforderung.",
+     "Eine Vollmacht an eine Notariatsangestellte zur Entgegennahme des Beschlusses.",
      "Einen Ausschluss des Aufforderungsrechts des K.",
-     "Eine Vollmacht an eine Notariatsangestellte zur Entgegennahme des Beschlusses."
+     "Eine Abrede, dass die Genehmigung bereits mit Eingang beim Notar wirksam wird."
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "Die Frist des § 1856 Abs. 2 BGB darf vertraglich verlängert werden; wegen Wertgutachten, Bestellung eines Verfahrensbeistands oder Ergänzungspflegers und der zweiwöchigen Beschwerdefrist ist eine maßvolle Verlängerung auf etwa drei Monate angezeigt. Eine Abrede, die Genehmigung werde schon mit Eingang beim Notar wirksam, ist unwirksam; Vollmachten an Notariatsangestellte werden nicht empfohlen."
    }
   ],
@@ -323,12 +329,12 @@
   ],
   "frage": "Der Betreute stirbt nach Erlass, aber vor Rechtskraft des Genehmigungsbeschlusses zu einem von seinem Betreuer geschlossenen Grundstückskaufvertrag. Wovon hängt die Wirksamkeit des Vertrags nun ab?",
   "optionen": [
-   "Von der Rechtskraft des Beschlusses und der anschließenden Mitteilung durch den Notar aufgrund der Doppelvollmacht.",
    "Von der Genehmigung der Erben in entsprechender Anwendung des § 1856 Abs. 3 BGB.",
-   "Von einer neuen Genehmigung des Nachlassgerichts.",
-   "Von nichts weiter; der Vertrag ist mit dem Tod endgültig unwirksam."
+   "Von der Rechtskraft des Beschlusses und der anschließenden Mitteilung durch den Notar aufgrund der Doppelvollmacht.",
+   "Von nichts weiter; der Vertrag ist mit dem Tod endgültig unwirksam.",
+   "Von einer neuen Genehmigung des Nachlassgerichts."
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Mit dem Tod des Vertretenen endet das Genehmigungsverfahren; ein erlassener Beschluss kann nicht mehr rechtskräftig werden, und eine Mitteilung nach § 1856 BGB bleibt wirkungslos. Zugleich endet das Amt des Betreuers (§ 1870 BGB) und erlischt die Doppelvollmacht. Über die Wirksamkeit entscheiden die Erben durch Genehmigung entsprechend § 1856 Abs. 3 BGB; der Vertrag ist also schwebend, nicht endgültig unwirksam."
  },
  {
@@ -393,12 +399,12 @@
   ],
   "frage": "Der Notar fertigt die Eigenurkunde über die Mitteilung der Genehmigung in Unkenntnis davon, dass die betreute Verkäuferin bereits verstorben war. Die Erben verweigern später die Genehmigung. Welche Folge ergibt sich nach dem Handbuch?",
   "optionen": [
-   "Der Käufer ist durch die Eintragung kraft guten Glaubens Eigentümer geworden.",
-   "Der Vertrag ist unwirksam; der Käufer ist trotz Auflassung und Eintragung nicht Eigentümer, und auch die Finanzierungsgrundschuld kann unwirksam sein.",
    "Der Vertrag ist wirksam, weil die Mitteilung den Rechtsschein der Wirksamkeit begründet.",
-   "Nur die Finanzierungsgrundschuld ist unwirksam, der Kaufvertrag bleibt wirksam."
+   "Der Käufer ist durch die Eintragung kraft guten Glaubens Eigentümer geworden.",
+   "Nur die Finanzierungsgrundschuld ist unwirksam, der Kaufvertrag bleibt wirksam.",
+   "Der Vertrag ist unwirksam; der Käufer ist trotz Auflassung und Eintragung nicht Eigentümer, und auch die Finanzierungsgrundschuld kann unwirksam sein."
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Die Mitteilung in Unkenntnis des Todes macht den Vertrag nicht wirksam; sie setzt lediglich einen Rechtsschein. Verweigern die Erben die Genehmigung, ist der Kaufvertrag unwirksam und der Käufer trotz Auflassung und Eintragung nicht Eigentümer. Auch die Finanzierungsgrundschuld kann unwirksam sein, weil sie ebenfalls genehmigungsbedürftig ist und die Genehmigung der Bank nicht wirksam mitgeteilt wurde. Der Rechtsschein ersetzt die fehlende Wirksamkeit gerade nicht."
  },
  {
@@ -415,12 +421,12 @@
   ],
   "frage": "Wann wird ein Beschluss über die familien- oder betreuungsgerichtliche Genehmigung eines Rechtsgeschäfts wirksam?",
   "optionen": [
-   "Mit Bekanntgabe an den antragstellenden Vertreter (§ 40 Abs. 1 FamFG).",
-   "Mit Übergabe an die Geschäftsstelle (§ 38 Abs. 3 FamFG).",
    "Erst mit Rechtskraft, was in der Entscheidung auszusprechen ist (§ 40 Abs. 2 FamFG).",
-   "Mit Erteilung des Rechtskraftzeugnisses (§ 46 FamFG)."
+   "Mit Übergabe an die Geschäftsstelle (§ 38 Abs. 3 FamFG).",
+   "Mit Erteilung des Rechtskraftzeugnisses (§ 46 FamFG).",
+   "Mit Bekanntgabe an den antragstellenden Vertreter (§ 40 Abs. 1 FamFG)."
   ],
-  "antwort": 2,
+  "antwort": 0,
   "erklaerung": "Abweichend von der Grundregel des § 40 Abs. 1 FamFG (Wirksamkeit mit Bekanntgabe) wird ein Beschluss über die Genehmigung eines Rechtsgeschäfts erst mit Rechtskraft wirksam; das ist in der Entscheidung auszusprechen (§ 40 Abs. 2 FamFG). Die Übergabe an die Geschäftsstelle betrifft nur den Erlass (§ 38 Abs. 3 FamFG). Das Rechtskraftzeugnis (§ 46 FamFG) bescheinigt die Rechtskraft, begründet sie aber nicht."
  },
  {
@@ -429,15 +435,21 @@
   "abschnitt": "Gerichtliche Genehmigung",
   "seite": "Gerichtliche Genehmigung: Verfahren, Rechtskraft und Bekanntgabe",
   "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-verfahren-rechtskraft-und-bekanntgabe",
-  "typ": "rf",
+  "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
    "§ 41 Abs. 3 FamFG",
    "§ 46 FamFG"
   ],
-  "frage": "Liegt ein Rechtskraftzeugnis vor, ist die Genehmigung auch dann wirksam, wenn der Beschluss dem Vertretenen selbst nicht wirksam bekannt gegeben wurde.",
-  "antwort": false,
-  "erklaerung": "Der Genehmigungsbeschluss ist auch demjenigen bekannt zu geben, für den das Geschäft genehmigt wird (§ 41 Abs. 3 FamFG). Ist er einem Beteiligten nicht wirksam bekannt gegeben, wird die Genehmigung nicht wirksam; ein Rechtskraftzeugnis (§ 46 FamFG) ändert daran nichts. Für den Grundstückskäufer besteht dann die Gefahr, den Kaufpreis auf einen unwirksamen Vertrag zu zahlen."
+  "frage": "Ein Genehmigungsbeschluss wurde dem verfahrensunfähigen Betreuten nicht wirksam bekannt gegeben; gleichwohl liegt ein Rechtskraftzeugnis vor. Wie ist die Rechtslage?",
+  "antwort": 1,
+  "erklaerung": "Der Genehmigungsbeschluss ist auch demjenigen bekannt zu geben, für den das Geschäft genehmigt wird (§ 41 Abs. 3 FamFG). Ist er einem Beteiligten nicht wirksam bekannt gegeben, wird die Genehmigung nicht wirksam; ein Rechtskraftzeugnis (§ 46 FamFG) ändert daran nichts. Für den Grundstückskäufer besteht dann die Gefahr, den Kaufpreis auf einen unwirksamen Vertrag zu zahlen.",
+  "optionen": [
+   "Die Genehmigung ist wirksam, weil die Bekanntgabe an den Betreuer genügt.",
+   "Die Genehmigung ist nicht wirksam; das Rechtskraftzeugnis ändert daran nichts.",
+   "Die Genehmigung ist schwebend wirksam bis zum Widerspruch des Betreuten.",
+   "Die Genehmigung ist wirksam, weil das Rechtskraftzeugnis die Bekanntgabe ersetzt."
+  ]
  },
  {
   "id": "vert1-020",
@@ -454,12 +466,12 @@
   ],
   "frage": "Welche Aussage zur Beschwerdefrist gegen einen Genehmigungsbeschluss trifft zu?",
   "optionen": [
-   "Sie beträgt einen Monat und läuft einheitlich ab Erlass des Beschlusses.",
-   "Sie beträgt zwei Wochen und läuft für jeden Beteiligten gesondert ab schriftlicher Bekanntgabe an ihn.",
+   "Sie beträgt zwei Wochen; gelingt die Bekanntgabe nicht, beginnt sie spätestens drei Monate nach Erlass.",
    "Sie beträgt zwei Wochen und läuft für alle Beteiligten ab Bekanntgabe an den antragstellenden Vertreter.",
-   "Sie beträgt zwei Wochen; gelingt die Bekanntgabe nicht, beginnt sie spätestens drei Monate nach Erlass."
+   "Sie beträgt zwei Wochen und läuft für jeden Beteiligten gesondert ab schriftlicher Bekanntgabe an ihn.",
+   "Sie beträgt einen Monat und läuft einheitlich ab Erlass des Beschlusses."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Die Beschwerdefrist beträgt zwei Wochen (§ 63 Abs. 2 Nr. 2 FamFG) und läuft für jeden Beteiligten gesondert ab schriftlicher Bekanntgabe an ihn (§ 63 Abs. 3 S. 1 FamFG); Rechtskraft tritt erst ein, wenn sie für jeden Beschwerdeberechtigten abgelaufen ist (§ 45 FamFG). Die Bekanntgabe nur an den Vertreter genügt nicht. Scheitert die schriftliche Bekanntgabe, beginnt die Frist spätestens fünf Monate, nicht drei Monate, nach Erlass (§ 63 Abs. 3 S. 2 FamFG)."
  },
  {
@@ -477,12 +489,12 @@
   ],
   "frage": "Dem Notar liegt ein Rechtskraftzeugnis vor. Aus der Akte ergibt sich jedoch, dass für den verfahrensunfähigen Betreuten weder ein Verfahrenspfleger noch ein Ergänzungsbetreuer bestellt wurde. Wie hat sich der Notar zu verhalten?",
   "optionen": [
-   "Er darf sich auf das Rechtskraftzeugnis verlassen und die Fälligkeit uneingeschränkt mitteilen.",
-   "Er muss nachforschen, darf weder eine uneingeschränkte Fälligkeitsmitteilung noch die Eigenurkunde nach § 1856 BGB fertigen und weist auf mögliche Unwirksamkeit hin.",
+   "Er fertigt die Eigenurkunde, vermerkt darin aber die fehlende Bestellung.",
    "Er muss selbst einen Verfahrenspfleger bestellen lassen und darf erst danach tätig werden.",
-   "Er fertigt die Eigenurkunde, vermerkt darin aber die fehlende Bestellung."
+   "Er muss nachforschen, darf weder eine uneingeschränkte Fälligkeitsmitteilung noch die Eigenurkunde nach § 1856 BGB fertigen und weist auf mögliche Unwirksamkeit hin.",
+   "Er darf sich auf das Rechtskraftzeugnis verlassen und die Fälligkeit uneingeschränkt mitteilen."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Regelmäßig darf sich der Notar auf ein Rechtskraftzeugnis (§ 46 FamFG) verlassen, ohne Verfahrensablauf und Bekanntgabe zu prüfen. Erkennt er aber, dass die Genehmigung nicht wirksam geworden sein kann, etwa weil für einen verfahrensunfähigen Beteiligten kein Verfahrenspfleger (§ 276 FamFG) oder Ergänzungsbetreuer bestellt wurde, muss er nachforschen. Er darf dann weder eine uneingeschränkte Fälligkeitsmitteilung noch die Eigenurkunde über die Mitteilung nach § 1856 BGB fertigen; die Wahl des Bekanntgabevertreters trifft allein das Gericht."
  },
  {
@@ -514,12 +526,12 @@
   ],
   "frage": "Ein Betreuter soll an der Gründung einer GmbH beteiligt werden; die Satzung enthält eine Schiedsklausel. Was ist genehmigungsbedürftig?",
   "optionen": [
-   "Nur die Schiedsklausel nach § 1854 Nr. 6 BGB; der übrige Gesellschaftsvertrag bleibt genehmigungsfrei.",
-   "Der gesamte Gesellschaftsvertrag, weil sich der Wert der Schiedsvereinbarung nicht beziffern lässt.",
+   "Nichts, wenn der Betreuer zugleich Elternteil des Betreuten ist (§ 1643 Abs. 5 BGB).",
    "Nichts, weil Schiedsklauseln in Gesellschaftsverträgen nicht unter § 1854 Nr. 6 BGB fallen.",
-   "Nichts, wenn der Betreuer zugleich Elternteil des Betreuten ist (§ 1643 Abs. 5 BGB)."
+   "Der gesamte Gesellschaftsvertrag, weil sich der Wert der Schiedsvereinbarung nicht beziffern lässt.",
+   "Nur die Schiedsklausel nach § 1854 Nr. 6 BGB; der übrige Gesellschaftsvertrag bleibt genehmigungsfrei."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Schiedsvereinbarungen bedürfen der Genehmigung nach § 1854 Nr. 6 BGB. Enthält ein Gesellschaftsvertrag eine Schiedsklausel oder wird sie durch Änderung eingefügt, ist der gesamte Vertrag bzw. die gesamte Änderung genehmigungsbedürftig, weil sich der Wert der Schiedsvereinbarung nicht beziffern lässt. § 1643 Abs. 5 BGB nimmt nur Eltern als Sorgeberechtigte Minderjähriger aus, nicht Betreuer."
  },
  {
@@ -529,7 +541,7 @@
   "seite": "Gerichtliche Genehmigung: Vermögensanlage, Erbteilung und Schiedsvereinbarung",
   "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-vermogensanlage-erbteilung-und-schiedsvereinbarung",
   "typ": "rf",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 1851 Nr. 1 BGB"
   ],
@@ -554,8 +566,8 @@
   "optionen": [
    "Nur nach § 1850 Nr. 1, 5 BGB für Verfügung und Verpflichtung über das Grundstück.",
    "Nach § 1850 Nr. 1, 5 BGB und zusätzlich nach § 1851 Nr. 1 BGB wegen der Erbauseinandersetzung über den Kaufpreis.",
-   "Nur nach § 1851 Nr. 1 BGB, weil die Erbteilung die Grundstücksverfügung umfasst.",
-   "Nach § 1848 BGB als Anlage des Kaufpreises."
+   "Nach § 1848 BGB als Anlage des Kaufpreises.",
+   "Nur nach § 1851 Nr. 1 BGB, weil die Erbteilung die Grundstücksverfügung umfasst."
   ],
   "antwort": 1,
   "erklaerung": "Der Verkauf des Grundstücks erfordert die Genehmigung nach § 1850 Nr. 1, 5 BGB. Teilt der Vertrag den Kaufpreis unter den Miterben auf, liegt zugleich eine (Teil-)Auseinandersetzung vor, die nach § 1851 Nr. 1 BGB gesondert genehmigungsbedürftig ist. Die Beschränkung auf § 1850 BGB übersieht diesen erbrechtlichen Tatbestand; eine Ausnahme für Auseinandersetzungen nach den gesetzlichen Regeln sieht § 1851 Nr. 1 BGB nicht vor."
@@ -604,15 +616,21 @@
   "abschnitt": "Vertretungsausschluss und Zuwendungen",
   "seite": "Gesetzliche Vertretung in der Urkunde: Nachweis, Prüfung und höchstpersönliche Geschäfte",
   "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/gesetzliche-vertretung-in-der-urkunde-nachweis-prufung-und-hochstpersonliche-geschafte",
-  "typ": "rf",
+  "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
    "§ 290 FamFG",
    "§ 172 BGB"
   ],
-  "frage": "Legt der Betreuer seine Bestellungsurkunde im Original vor, ist der Vertragspartner entsprechend § 172 BGB geschützt, wenn der Aufgabenkreis nachträglich eingeschränkt wurde.",
-  "antwort": false,
-  "erklaerung": "Die Bestellungsurkunde (§ 290 FamFG) genießt keinen öffentlichen Glauben und erzeugt keinen Rechtsschein. § 172 BGB ist nicht anwendbar; auch das vorgelegte Original schützt den Vertragspartner nicht, wenn das Amt nicht besteht oder der Aufgabenkreis eingeschränkt wurde. Das Risiko fehlender Vertretungsmacht trägt der Erklärungsempfänger."
+  "frage": "Der Betreuer legt dem Notar seine Bestellungsurkunde im Original vor; der Aufgabenkreis war jedoch nachträglich eingeschränkt worden. Ist der Vertragspartner geschützt?",
+  "antwort": 2,
+  "erklaerung": "Die Bestellungsurkunde (§ 290 FamFG) genießt keinen öffentlichen Glauben und erzeugt keinen Rechtsschein. § 172 BGB ist nicht anwendbar; auch das vorgelegte Original schützt den Vertragspartner nicht, wenn das Amt nicht besteht oder der Aufgabenkreis eingeschränkt wurde. Das Risiko fehlender Vertretungsmacht trägt der Erklärungsempfänger.",
+  "optionen": [
+   "Nein, aber der Notar haftet stets für den Schaden.",
+   "Ja, entsprechend § 172 BGB wie bei einer vorgelegten Vollmachtsurkunde.",
+   "Nein, die Bestellungsurkunde erzeugt keinen Rechtsschein; das Risiko trägt der Erklärungsempfänger.",
+   "Ja, weil die Bestellungsurkunde öffentlichen Glauben genießt."
+  ]
  },
  {
   "id": "vert1-028",
@@ -621,19 +639,19 @@
   "seite": "Gesetzliche Vertretung in der Urkunde: Nachweis, Prüfung und höchstpersönliche Geschäfte",
   "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/gesetzliche-vertretung-in-der-urkunde-nachweis-prufung-und-hochstpersonliche-geschafte",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 1411 Abs. 1 S. 3 BGB",
    "§ 1411 Abs. 2 BGB"
   ],
   "frage": "Ein geschäftsfähiger Betreuter ohne Einwilligungsvorbehalt möchte einen Ehevertrag schließen. Wer muss die Erklärung abgeben?",
   "optionen": [
-   "Der Betreuer, sofern der Aufgabenkreis Vermögenssorge umfasst.",
-   "Der Betreute selbst; eine gesetzliche Vertretung ist hier nur bei Geschäftsunfähigkeit oder Einwilligungsvorbehalt zulässig.",
    "Ein vom Betreuten bevollmächtigter Dritter aufgrund notarieller Vollmacht.",
-   "Der Betreuer mit Genehmigung des Betreuungsgerichts."
+   "Der Betreuer, sofern der Aufgabenkreis Vermögenssorge umfasst.",
+   "Der Betreuer mit Genehmigung des Betreuungsgerichts.",
+   "Der Betreute selbst; eine gesetzliche Vertretung ist hier nur bei Geschäftsunfähigkeit oder Einwilligungsvorbehalt zulässig."
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Beim Ehevertrag ist eine Bevollmächtigung ausgeschlossen, eine gesetzliche Vertretung nur zulässig, wenn der Vertretene geschäftsunfähig ist oder ein Einwilligungsvorbehalt besteht (§ 1411 Abs. 1 S. 3, Abs. 2 BGB). Die Betreuerbestellung ändert die Geschäftsfähigkeit nicht. Ein geschäftsfähiger Betreuter ohne Einwilligungsvorbehalt muss daher selbst handeln; eine Vertretung durch den Betreuer, auch mit Genehmigung, scheidet aus."
  },
  {
@@ -646,30 +664,30 @@
   "schwierigkeit": 2,
   "normen": [
    "§ 2064 BGB",
-   "§ 2296 Abs. 1 BGB",
+   "§ 1411 BGB",
    "§ 2347 BGB",
-   "§ 1596 BGB"
+   "§ 1825 Abs. 3 BGB"
   ],
-  "frage": "Ordne die Geschäfte der Vertretungsregel zu (gesetzliche Vertretung „ausgeschlossen“ oder „nur bei Geschäftsunfähigkeit/Einwilligungsvorbehalt zulässig“).",
+  "frage": "Ordne die Erklärung der Vertretungsregel nach dem Handbuch zu.",
   "paare": [
    [
     "Testament des Erblassers (§ 2064 BGB)",
-    "Gesetzliche Vertretung ausgeschlossen"
+    "Gesetzliche Vertretung stets ausgeschlossen"
    ],
    [
-    "Rücktritt des Erblassers vom Erbvertrag (§ 2296 Abs. 1 BGB)",
-    "Gesetzliche Vertretung ausgeschlossen – Rücktritt"
+    "Ehevertrag eines Betreuten (§ 1411 BGB)",
+    "Gesetzliche Vertretung nur bei Geschäftsunfähigkeit oder Einwilligungsvorbehalt"
    ],
    [
-    "Erbverzicht auf Seiten des Erblassers (§ 2347 BGB)",
-    "Nur bei Geschäftsunfähigkeit oder Einwilligungsvorbehalt – Verzicht"
+    "Kausalgeschäft zum Erbverzicht des Erblassers",
+    "Beschränkung des § 2347 BGB gilt nicht"
    ],
    [
-    "Vaterschaftsanerkennung (§ 1596 BGB)",
-    "Nur bei Geschäftsunfähigkeit oder Einwilligungsvorbehalt – Abstammung"
+    "Lediglich rechtlich vorteilhafte Erklärung eines Betreuten unter Einwilligungsvorbehalt",
+    "Wirksam ohne Genehmigung des Betreuers (§ 1825 Abs. 3 i. V. m. § 108 BGB)"
    ]
   ],
-  "erklaerung": "Verfügungen von Todes wegen (§§ 2064, 2274 BGB), der Rücktritt vom Erbvertrag (§ 2296 Abs. 1 BGB), Adoptionsantrag und -einwilligungen sind streng höchstpersönlich; eine gesetzliche Vertretung ist ausgeschlossen. Bei Ehevertrag, Vaterschaftsanerkennung, Erb-, Pflichtteils- und Zuwendungsverzicht des Erblassers und Anfechtung des Erbvertrags ist nur die Bevollmächtigung ausgeschlossen; der gesetzliche Vertreter darf bei Geschäftsunfähigkeit oder Einwilligungsvorbehalt handeln. Für das Kausalgeschäft zum Erbverzicht gilt anderes."
+  "erklaerung": "Verfügungen von Todes wegen (§§ 2064, 2274 BGB), Rücktritt vom Erbvertrag und Adoptionserklärungen sind streng höchstpersönlich; eine gesetzliche Vertretung ist ausgeschlossen. Bei Ehevertrag, Vaterschaftsanerkennung, Erbverzicht des Erblassers und Anfechtung des Erbvertrags ist nur die Bevollmächtigung ausgeschlossen; der gesetzliche Vertreter darf bei Geschäftsunfähigkeit oder Einwilligungsvorbehalt handeln, für das Kausalgeschäft zum Erbverzicht gilt anderes. Unter Einwilligungsvorbehalt braucht die Erklärung des Betreuten die Genehmigung des Betreuers, außer sie ist lediglich rechtlich vorteilhaft."
  },
  {
   "id": "vert1-030",
@@ -685,12 +703,12 @@
   ],
   "frage": "Zur Beurkundung eines Grundstücksverkaufs erscheint eine Betreute; der Notar weiß von der Betreuung, ihre Geschäftsfähigkeit ist zweifelhaft. Welches Vorgehen empfiehlt das Handbuch?",
   "optionen": [
+   "Die Beurkundung bis zur Vorlage eines fachärztlichen Gutachtens ablehnen.",
    "Nur die Betreute handeln lassen, weil die Betreuerbestellung ihre Geschäftsfähigkeit nicht berührt.",
    "Nur den Betreuer handeln lassen, weil die Betreute möglicherweise geschäftsunfähig ist.",
-   "Betreute und Betreuer gemeinsam mitwirken lassen; die Vertretungsmacht des Betreuers hängt nicht von der Geschäftsfähigkeit der Betreuten ab.",
-   "Die Beurkundung bis zur Vorlage eines fachärztlichen Gutachtens ablehnen."
+   "Betreute und Betreuer gemeinsam mitwirken lassen; die Vertretungsmacht des Betreuers hängt nicht von der Geschäftsfähigkeit der Betreuten ab."
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Bei Zweifeln an der Geschäftsfähigkeit sollen Betreuter und Betreuer gemeinsam mitwirken; weiß der Notar von einer Betreuung, beteiligt er den Betreuer stets, weil dessen Vertretungsmacht unabhängig von der Geschäftsfähigkeit des Betreuten besteht. Handelt nur die Betreute, droht bei Geschäftsunfähigkeit die Nichtigkeit; handelt nur der Betreuer, bleibt die Prüfung der Vertretungsmacht nach §§ 12, 17 BeurkG dennoch erforderlich, die gemeinsame Mitwirkung sichert beide Wege ab."
  },
  {
@@ -708,12 +726,12 @@
   ],
   "frage": "In einer Familien-GmbH sind Vater und minderjährige Tochter Gesellschafter. Bei welchem Beschluss ist der Vater von der Vertretung der Tochter ausgeschlossen?",
   "optionen": [
-   "Feststellung des Jahresabschlusses",
+   "Beschluss über eine laufende gemeinsame Gesellschaftsangelegenheit",
    "Zustimmung zu einer nach dem Gesellschaftsvertrag zustimmungsbedürftigen Geschäftsführungsmaßnahme",
-   "Bestellung des Vaters zum Geschäftsführer",
-   "Beschluss über eine laufende gemeinsame Gesellschaftsangelegenheit"
+   "Feststellung des Jahresabschlusses",
+   "Bestellung des Vaters zum Geschäftsführer"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Beschlüsse über laufende Angelegenheiten und die Geschäftsführung, etwa die Feststellung des Jahresabschlusses oder Zustimmungen zu Geschäftsführungsmaßnahmen, sind vom Vertretungsausschluss nicht erfasst. Bei Grundlagenbeschlüssen ist der Vertreter dagegen ausgeschlossen (BGHZ 65, 93); dazu gehört ausdrücklich die Bestellung des gesetzlichen Vertreters zum Geschäftsführer, ebenso Satzungsänderung, Auflösung und Umwandlung (§§ 1629 Abs. 2, 1824, 181 BGB)."
  },
  {
@@ -723,7 +741,7 @@
   "seite": "Minderjährige in Gesellschaften: Beschlüsse und Änderungen in der laufenden Gesellschaft",
   "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/minderjahrige-in-gesellschaften-beschlusse-und-anderungen-in-der-laufenden-gesellschaft",
   "typ": "rf",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 1824 BGB",
    "§ 1809 BGB"
@@ -746,12 +764,12 @@
   ],
   "frage": "Der Gesellschaftsvertrag einer KG mit einem minderjährigen Kommanditisten soll geändert werden. Welche Änderung bedarf nach BGH und h. M. der familiengerichtlichen Genehmigung?",
   "optionen": [
-   "Jede Änderung des Gesellschaftsvertrags, weil sie die Rechtsstellung des Minderjährigen berührt.",
-   "Eine Änderung der Gewinnverteilungsabrede.",
    "Eine Änderung des Gesellschaftszwecks, etwa von reiner Vermögensverwaltung auf ein Erwerbsgeschäft.",
-   "Keine Änderung, weil § 1852 BGB nur für Gründung und Anteilsübertragung gilt."
+   "Keine Änderung, weil § 1852 BGB nur für Gründung und Anteilsübertragung gilt.",
+   "Jede Änderung des Gesellschaftsvertrags, weil sie die Rechtsstellung des Minderjährigen berührt.",
+   "Eine Änderung der Gewinnverteilungsabrede."
   ],
-  "antwort": 2,
+  "antwort": 0,
   "erklaerung": "Nach BGH und h. M. sind Änderungen des Gesellschaftsvertrags grundsätzlich nicht nach § 1852 Nr. 1 BGB genehmigungspflichtig. Genehmigungspflichtig ist nur die Änderung des Gesellschaftszwecks, weil sonst § 1852 Nr. 2 BGB umgangen werden könnte, indem eine vermögensverwaltende Gesellschaft später auf ein Erwerbsgeschäft umgestellt wird. Die Annahme, jede Vertragsänderung sei genehmigungspflichtig, widerspricht der h. M."
  },
  {
@@ -783,12 +801,12 @@
   ],
   "frage": "Eltern wollen mit ihrem minderjährigen Sohn eine GbR gründen, die allein das selbstgenutzte Familienwohnhaus und privates Familienvermögen verwaltet und erhält. Bedarf der Gesellschaftsvertrag der familiengerichtlichen Genehmigung nach § 1852 Nr. 2 BGB?",
   "optionen": [
-   "Ja, jede Gründung einer Gesellschaft unter Beteiligung eines Minderjährigen ist genehmigungsbedürftig.",
    "Nein, eine Familien-GbR, die nur privates Familienvermögen verwaltet und erhält, betreibt kein Erwerbsgeschäft.",
    "Ja, weil die Beteiligung schenkweise eingeräumt wird.",
+   "Ja, jede Gründung einer Gesellschaft unter Beteiligung eines Minderjährigen ist genehmigungsbedürftig.",
    "Nein, weil die Beteiligung lediglich rechtlich vorteilhaft ist."
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "§ 1852 Nr. 2 BGB setzt ein Erwerbsgeschäft voraus. Eine Familien-GbR, die nur privates Familienvermögen verwaltet und erhält, erfordert keine Genehmigung; anders, wenn sie dauerhaft wertvolle gewerbliche Immobilien verwaltet, vermietet und verwertet. Ob die Beteiligung entgeltlich oder unentgeltlich ist, spielt keine Rolle; lediglich rechtlich vorteilhaft ist eine Gesellschaftsbeteiligung nie, schon wegen der Treuepflicht. In Zweifelsfällen sollte die Genehmigung vorsorglich eingeholt werden."
  },
  {
@@ -826,34 +844,34 @@
    {
     "frage": "Können die Eltern K1 und K2 beim Beitritt vertreten?",
     "optionen": [
-     "Ja, die Mutter allein kann vertreten, weil sie nicht Gesellschafterin ist.",
+     "Ja, beide Eltern gemeinsam mit gerichtlicher Genehmigung.",
      "Ja, weil der schenkweise Beitritt lediglich rechtlich vorteilhaft ist.",
-     "Nein, beide Elternteile sind ausgeschlossen, weil der Vater Gesellschafter ist.",
-     "Ja, beide Eltern gemeinsam mit gerichtlicher Genehmigung."
+     "Ja, die Mutter allein kann vertreten, weil sie nicht Gesellschafterin ist.",
+     "Nein, beide Elternteile sind ausgeschlossen, weil der Vater Gesellschafter ist."
     ],
-    "antwort": 2,
+    "antwort": 3,
     "erklaerung": "Ist ein Elternteil an der Gesellschaft beteiligt, sind beide Eltern von der Vertretung ausgeschlossen (§§ 1629 Abs. 2, 1824 Abs. 2, 181 BGB). Der Beitritt ist nie lediglich rechtlich vorteilhaft, auch nicht bei schenkweiser Beteiligung."
    },
    {
     "frage": "Wie viele Ergänzungspfleger sind zu bestellen?",
     "optionen": [
-     "Einer für beide Kinder, weil es sich um einen derivativen Anteilserwerb handelt.",
      "Für jedes Kind ein eigener, weil ein echter Beitritt mit neuem Gesellschaftsvertrag vorliegt.",
+     "Einer für beide Kinder, weil es sich um einen derivativen Anteilserwerb handelt.",
      "Keiner; es genügt die familiengerichtliche Genehmigung.",
      "Einer, sofern das Familiengericht ihn von § 181 BGB befreit."
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "Wird die OHG erst durch den Beitritt zur KG, liegt ein echter Beitritt mit neuem Gesellschaftsvertrag vor, an dem auch die Kinder untereinander Vertragspartner sind. Wegen des Verbots der Mehrfachvertretung braucht jedes Kind einen eigenen Ergänzungspfleger (§§ 1809, 1813, 1789, 1824, 181 BGB). Die Unterscheidung beim derivativen Erwerb greift hier nicht."
    },
    {
     "frage": "Bedarf der Beitritt der familiengerichtlichen Genehmigung, und nach welchem Maßstab entscheidet das Gericht?",
     "optionen": [
-     "Nein, weil die Beteiligung unentgeltlich ist.",
      "Ja, nach § 1852 Nr. 1b) oder Nr. 2 BGB; Maßstab ist allein das Kindeswohl, versagt wird nur bei überwiegenden Nachteilen.",
-     "Ja, nach § 1854 Nr. 4 BGB wegen der Haftung für Gesellschaftsschulden.",
-     "Ja, aber das Gericht darf nur prüfen, ob die Schenkung formwirksam ist."
+     "Ja, aber das Gericht darf nur prüfen, ob die Schenkung formwirksam ist.",
+     "Nein, weil die Beteiligung unentgeltlich ist.",
+     "Ja, nach § 1854 Nr. 4 BGB wegen der Haftung für Gesellschaftsschulden."
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "Der Beitritt zur KG, die ein Erwerbsgeschäft betreibt, ist nach § 1852 Nr. 1b) oder Nr. 2 BGB genehmigungspflichtig, unabhängig von der Unentgeltlichkeit. Maßstab ist allein das Kindeswohl; abzuwägen sind etwa Vermögenszuwachs, Haftungsrisiko unter Berücksichtigung von § 1629a BGB und die Lage der Mitgesellschafter. § 1854 Nr. 4 BGB greift nicht, weil die Haftung bloße Nebenfolge ist."
    }
   ],
@@ -874,11 +892,11 @@
   "frage": "Eltern verkaufen im Namen ihrer minderjährigen Tochter ein Grundstück an den Onkel bewusst zu einem Drittel des Verkehrswerts. Welche Rechtsfolge tritt nach h. M. ein?",
   "optionen": [
    "Der Vertrag ist schwebend unwirksam und kann vom Familiengericht genehmigt werden.",
-   "Der Vertrag ist als verdeckte gemischte Schenkung samt Erfüllungsgeschäften nach § 134 BGB nichtig.",
    "Der Vertrag ist wirksam, weil ein Kaufvertrag und keine Schenkung vorliegt.",
+   "Der Vertrag ist als verdeckte gemischte Schenkung samt Erfüllungsgeschäften nach § 134 BGB nichtig.",
    "Der Vertrag ist schwebend unwirksam und kann von der Tochter nach Volljährigkeit genehmigt werden."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Ein scheinbar entgeltlicher Kauf ist eine gemischte Schenkung, wenn Leistung und Gegenleistung objektiv in einem Missverhältnis stehen und die Beteiligten teilweise Unentgeltlichkeit wollen. Auch gemischte Schenkungen fallen unter das Schenkungsverbot des § 1641 BGB; sie sind nach h. M. samt Erfüllungsgeschäften nach § 134 BGB nichtig. Weder eine gerichtliche Genehmigung noch eine Genehmigung der volljährig gewordenen Tochter heilt, weil §§ 177 ff. BGB nicht anwendbar sind."
  },
  {
@@ -911,12 +929,12 @@
   ],
   "frage": "Der Betreuer einer vermögenden Betreuten will einen Teil ihres Grundbesitzes auf ihre Kinder übertragen, um steuerliche Freibeträge zu nutzen. Was sollte im Genehmigungsantrag nach dem Handbuch ausdrücklich dargelegt werden?",
   "optionen": [
+   "Dass die Kinder zugleich zu Ergänzungsbetreuern bestellt werden.",
    "Dass die Schenkung wirtschaftlich vernünftig ist und das Vermögen der Betreuten mehrt.",
-   "Der früher geäußerte Wille der Betreuten zu dieser Zuwendung und ihr Festhalten daran, etwa belegt durch eine frühere Notarberatung oder einen Urkundsentwurf.",
    "Dass die Schenkung einer sittlichen Pflicht oder einer Anstandsrücksicht entspricht.",
-   "Dass die Kinder zugleich zu Ergänzungsbetreuern bestellt werden."
+   "Der früher geäußerte Wille der Betreuten zu dieser Zuwendung und ihr Festhalten daran, etwa belegt durch eine frühere Notarberatung oder einen Urkundsentwurf."
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Wünsche und mutmaßlicher Wille des Betreuten stehen im Mittelpunkt (§ 1821 Abs. 2 BGB) und binden grundsätzlich auch das Gericht (§ 1862 Abs. 1 BGB), selbst bei wirtschaftlich unvernünftigen Entscheidungen. Genehmigungsfähig ist eine Schenkung, die der Betreute vor Eintritt der Betreuungsbedürftigkeit gewünscht hat und die sein Vermögen nicht gefährdet; auch die Nutzung von Freibeträgen kann sie tragen, wenn sie seinem Willen entspricht. Die Ausnahme für Pflicht- und Anstandsschenkungen betrifft das Schenkungsverbot bei Minderjährigen, nicht § 1854 Nr. 8 BGB."
  },
  {
@@ -930,8 +948,8 @@
   "normen": [
    "§ 1798 Abs. 3 BGB"
   ],
-  "frage": "Ein zinsloses Darlehen, das der Vormund aus dem Vermögen des minderjährigen Mündels gewährt, fällt nach h. M. unter das Schenkungsverbot des § 1798 Abs. 3 BGB.",
-  "antwort": false,
+  "frage": "Ein zinsloses Darlehen, das der Vormund aus dem Vermögen des minderjährigen Mündels gewährt, fällt nach h. M. nicht unter das Schenkungsverbot des § 1798 Abs. 3 BGB.",
+  "antwort": true,
   "erklaerung": "Maßgeblich ist der Schenkungsbegriff des § 516 BGB. Leihe, Auftrag und zinsloses Darlehen fallen nach h. M. nicht unter das Schenkungsverbot. Erfasst sind dagegen auch gemischte Schenkungen; offen ist lediglich die Behandlung von Ausstattungen und unbenannten Zuwendungen."
  },
  {
@@ -949,12 +967,12 @@
   ],
   "frage": "Die Großmutter schenkt ihrem minderjährigen Enkel eine vermietete Eigentumswohnung. Können die Eltern den Enkel bei Schenkungsvertrag und Auflassung vertreten?",
   "optionen": [
-   "Ja, weil die Schenkung als unentgeltliches Geschäft lediglich rechtlich vorteilhaft ist.",
    "Ja, für den Schenkungsvertrag; nur die Auflassung bedarf eines Ergänzungspflegers.",
    "Nein, weil der Eintritt in das Mietverhältnis (§ 566 BGB) rechtlich nachteilig ist und nach der Gesamtbetrachtung auch das Verpflichtungsgeschäft erfasst.",
+   "Ja, weil die Schenkung als unentgeltliches Geschäft lediglich rechtlich vorteilhaft ist.",
    "Ja, wenn das Familiengericht den Vertrag genehmigt."
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "Die Großmutter ist mit den Eltern in gerader Linie verwandt, sodass § 1824 BGB i. V. m. § 1629 Abs. 2 BGB greift, sofern das Geschäft nicht lediglich rechtlich vorteilhaft ist. Nach der Gesamtbetrachtung zählt die Summe der Folgen von schuldrechtlichem und dinglichem Vertrag; ist das dingliche Geschäft wegen des Eintritts in das Mietverhältnis (§ 566 BGB) nachteilig, können die Eltern auch das Verpflichtungsgeschäft nicht abschließen. Eine gerichtliche Genehmigung ersetzt den fehlenden Ergänzungspfleger nicht."
  },
  {
@@ -1010,12 +1028,12 @@
   ],
   "frage": "Der Vater schenkt seinem minderjährigen Sohn ein unbelastetes, nicht vermietetes Grundstück; der Schenkungsvertrag enthält einen Rückforderungsvorbehalt mit möglicher persönlicher Haftung des Sohnes. Der Vater handelt für beide Seiten. Wie behandelt der BGH den Fall?",
   "optionen": [
-   "Beide Geschäfte sind nach der Gesamtbetrachtung schwebend unwirksam; das Grundbuchamt darf nicht eintragen.",
    "Beide Geschäfte sind wirksam, weil der Erwerb eines unbelasteten Grundstücks lediglich rechtlich vorteilhaft ist.",
    "Getrennte Betrachtung: Die Auflassung ist wirksam und wird eingetragen; der Schenkungsvertrag bleibt bis zur Genehmigung durch einen Ergänzungspfleger schwebend unwirksam.",
+   "Beide Geschäfte sind nach der Gesamtbetrachtung schwebend unwirksam; das Grundbuchamt darf nicht eintragen.",
    "Der Schenkungsvertrag ist nach § 134 BGB nichtig, die Auflassung wirksam."
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "Ist das dingliche Geschäft rein vorteilhaft, das schuldrechtliche aber nachteilig, etwa wegen eines Rückforderungsvorbehalts mit persönlicher Haftung, betrachtet der BGH beide Geschäfte getrennt (BGH FamRZ 2005, 1091). Das Grundbuchamt trägt den Eigentumswechsel ein; der Schenkungsvertrag bleibt nach § 177 BGB bis zur Genehmigung durch einen Ergänzungspfleger schwebend unwirksam und ist bei Verweigerung rückabzuwickeln. Die strikte Gesamtbetrachtung gilt nur für den umgekehrten Fall des nachteiligen dinglichen Geschäfts."
  },
  {
@@ -1024,16 +1042,22 @@
   "abschnitt": "Vertretungsausschluss und Zuwendungen",
   "seite": "Vertretungsausschluss (§ 1824 BGB): Gesamtbetrachtung, Rechtsfolgen und Ergänzungspfleger",
   "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/vertretungsausschluss-1824-bgb-gesamtbetrachtung-rechtsfolgen-und-erganzungspfleger",
-  "typ": "rf",
+  "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
    "§ 1824 BGB",
    "§§ 177–180 BGB",
    "§ 184 Abs. 1 BGB"
   ],
-  "frage": "Schließt ein nach § 1824 BGB ausgeschlossener Vertreter einen Vertrag, wird der Mangel durch die familiengerichtliche Genehmigung des Vertrags geheilt.",
-  "antwort": false,
-  "erklaerung": "Handelt ein ausgeschlossener Vertreter, gelten §§ 177–180 BGB: Ein Vertrag ist schwebend unwirksam, ein einseitiges Rechtsgeschäft nichtig. Eine familien- oder betreuungsgerichtliche Genehmigung beseitigt den Mangel nicht. Genehmigen kann nur ein Ergänzungspfleger (§ 1809 BGB) bzw. Ergänzungsbetreuer oder der inzwischen voll geschäftsfähige Vertretene selbst rückwirkend (§ 184 Abs. 1 BGB)."
+  "frage": "Ein nach § 1824 BGB ausgeschlossener Vormund schließt für den Mündel einen Vertrag. Wodurch kann der Mangel behoben werden?",
+  "antwort": 3,
+  "erklaerung": "Handelt ein ausgeschlossener Vertreter, gelten §§ 177–180 BGB: Ein Vertrag ist schwebend unwirksam, ein einseitiges Rechtsgeschäft nichtig. Eine familien- oder betreuungsgerichtliche Genehmigung beseitigt den Mangel nicht. Genehmigen kann nur ein Ergänzungspfleger (§ 1809 BGB) bzw. Ergänzungsbetreuer oder der inzwischen voll geschäftsfähige Vertretene selbst rückwirkend (§ 184 Abs. 1 BGB).",
+  "optionen": [
+   "Durch nachträgliche Befreiung des Vormunds von § 181 BGB durch das Gericht.",
+   "Durch familiengerichtliche Genehmigung des Vertrags.",
+   "Gar nicht, der Vertrag ist nichtig.",
+   "Durch Genehmigung eines Ergänzungspflegers oder des inzwischen voll geschäftsfähigen Mündels selbst."
+  ]
  },
  {
   "id": "vert1-046",
@@ -1049,12 +1073,12 @@
   ],
   "frage": "Nach dem Tod des Vaters setzen sich die Mutter und ihre drei minderjährigen Kinder über den Nachlass auseinander. Wie viele Ergänzungspfleger sind erforderlich?",
   "optionen": [
+   "Drei, weil die Kinder bei der Erbauseinandersetzung auch untereinander Verträge schließen.",
    "Einer für alle drei Kinder, weil sie gleichgerichtete Interessen haben.",
    "Keiner, weil die Mutter mit familiengerichtlicher Genehmigung handeln kann.",
-   "Drei, weil die Kinder bei der Erbauseinandersetzung auch untereinander Verträge schließen.",
    "Einer, sofern das Familiengericht ihn von § 181 BGB befreit."
   ],
-  "antwort": 2,
+  "antwort": 0,
   "erklaerung": "Ein gemeinsamer Ergänzungspfleger genügt nur, wenn die Kinder gleichgerichtete Erklärungen abgeben. Bei der Erbauseinandersetzung mit mehreren Kindern und einem Elternteil schließen die Kinder auch untereinander Verträge (BGHZ 21, 229); wegen § 181 BGB braucht deshalb jedes Kind einen eigenen Pfleger nach § 1809 BGB. Die Mutter ist ausgeschlossen, und die gerichtliche Genehmigung ersetzt den Pfleger nicht."
  },
  {
@@ -1064,19 +1088,19 @@
   "seite": "Zuwendungen an Minderjährige und Betreute: Verwaltungsanordnungen und Befreiungen",
   "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/zuwendungen-an-minderjahrige-und-betreute-verwaltungsanordnungen-und-befreiungen",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 1639 BGB",
    "§ 1837 BGB"
   ],
   "frage": "Was kann ein Erblasser durch Verwaltungsanordnung nach §§ 1639, 1837 BGB für das dem Minderjährigen zugewendete Vermögen nicht regeln?",
   "optionen": [
-   "Die Vorgabe einer bestimmten Anlageform.",
-   "Die Befreiung von Anlagepflichten nach § 1848 BGB.",
    "Den Ausschluss einer gerichtlichen Genehmigungspflicht, etwa nach § 1850 BGB.",
-   "Die Befreiung von der Sperrpflicht nach § 1845 BGB."
+   "Die Vorgabe einer bestimmten Anlageform.",
+   "Die Befreiung von der Sperrpflicht nach § 1845 BGB.",
+   "Die Befreiung von Anlagepflichten nach § 1848 BGB."
   ],
-  "antwort": 2,
+  "antwort": 0,
   "erklaerung": "Verwaltungsanordnungen können die Verwaltung stärker beschränken (z. B. Anlageform) oder von gesetzlichen Pflichten befreien, etwa von Anlagepflichten nach § 1848 BGB oder der Sperrpflicht nach § 1845 BGB. Genehmigungspflichten und Vertretungsausschlüsse lassen sich durch Anordnungen dagegen weder erweitern noch ausschließen. Der Versuch, eine gerichtliche Genehmigungspflicht abzubedingen, ist der im Handbuch genannte typische Fehler."
  },
  {
@@ -1085,16 +1109,22 @@
   "abschnitt": "Vertretungsausschluss und Zuwendungen",
   "seite": "Zuwendungen an Minderjährige und Betreute: Verwaltungsanordnungen und Befreiungen",
   "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/zuwendungen-an-minderjahrige-und-betreute-verwaltungsanordnungen-und-befreiungen",
-  "typ": "rf",
+  "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
    "§ 1837 BGB",
    "§ 1826 BGB",
    "§ 1862 Abs. 3 BGB"
   ],
-  "frage": "Verstößt der Betreuer gegen eine Verwaltungsanordnung des Zuwendenden, ist das vorgenommene Rechtsgeschäft mangels Vertretungsmacht schwebend unwirksam.",
-  "antwort": false,
-  "erklaerung": "Ein Verstoß gegen Verwaltungsanordnungen lässt die Vertretungsmacht unberührt; das Rechtsgeschäft ist grundsätzlich wirksam. Die Anordnung wirkt nur im Innenverhältnis: Der Vertreter haftet dem Vertretenen auf Schadensersatz (§§ 1794, 1826 BGB), und das Gericht schreitet aufsichtlich ein (§ 1862 Abs. 3 BGB)."
+  "frage": "Der Betreuer verstößt beim Verkauf von Wertpapieren gegen eine Verwaltungsanordnung des Zuwendenden. Welche Folge tritt ein?",
+  "antwort": 2,
+  "erklaerung": "Ein Verstoß gegen Verwaltungsanordnungen lässt die Vertretungsmacht unberührt; das Rechtsgeschäft ist grundsätzlich wirksam. Die Anordnung wirkt nur im Innenverhältnis: Der Vertreter haftet dem Vertretenen auf Schadensersatz (§§ 1794, 1826 BGB), und das Gericht schreitet aufsichtlich ein (§ 1862 Abs. 3 BGB).",
+  "optionen": [
+   "Das Geschäft ist nach § 134 BGB nichtig.",
+   "Das Geschäft ist mangels Vertretungsmacht schwebend unwirksam.",
+   "Das Geschäft ist wirksam; der Betreuer haftet auf Schadensersatz, das Gericht schreitet ein.",
+   "Das Geschäft bedarf nachträglich der Genehmigung des Zuwendenden."
+  ]
  },
  {
   "id": "vert1-049",
@@ -1110,12 +1140,12 @@
   ],
   "frage": "Ein Erblasser ordnet im Testament für das Erbe seiner minderjährigen Enkelin die Befreiung des „Pflegers“ von der Rechnungslegung an, ohne eine Person zu benennen. Das Familiengericht wählt einen Zuwendungspfleger aus. Ist dieser befreit?",
   "optionen": [
-   "Ja, die Befreiung wirkt für jeden Zuwendungspfleger.",
    "Nein, Befreiungen wirken nur für einen vom Erblasser oder Zuwendenden benannten Pfleger, nicht für einen vom Gericht ausgewählten.",
-   "Ja, sofern das Gericht die Befreiung bestätigt.",
-   "Nein, von der Rechnungslegung kann überhaupt nicht befreit werden."
+   "Ja, die Befreiung wirkt für jeden Zuwendungspfleger.",
+   "Nein, von der Rechnungslegung kann überhaupt nicht befreit werden.",
+   "Ja, sofern das Gericht die Befreiung bestätigt."
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Nach § 1811 Abs. 2 BGB (für den Vormund § 1801 Abs. 3 BGB) können Befreiungen, etwa von der Rechnungslegung nach § 1865 BGB, nur für einen benannten Pfleger oder Vormund angeordnet werden; für einen vom Gericht ausgewählten Vertreter wirken sie nicht. Die Befreiung von der Rechnungslegung ist also möglich, setzt aber die Benennung voraus. Gefährden Anordnungen die Interessen des Vertretenen, kann das Gericht sie aufheben (§ 1811 Abs. 3 BGB)."
  },
  {
@@ -1130,8 +1160,8 @@
    "§ 1638 Abs. 1 BGB",
    "§ 1837 BGB"
   ],
-  "frage": "Ein Erblasser kann den Betreuer seines volljährigen Erben entsprechend § 1638 Abs. 1 BGB von der Verwaltung des ererbten Vermögens ausschließen.",
-  "antwort": false,
+  "frage": "Den Betreuer seines volljährigen Erben kann der Erblasser nicht entsprechend § 1638 Abs. 1 BGB von der Verwaltung ausschließen; er kann die Verwaltung nur über Verwaltungsanordnungen nach § 1837 BGB oder eine Testamentsvollstreckung steuern.",
+  "antwort": true,
   "erklaerung": "Das Betreuungsrecht enthält keine §§ 1638 Abs. 1, 1811 Abs. 1 BGB entsprechende Vorschrift; eine Analogie scheidet mangels Regelungslücke aus. Die Verwaltung durch den Betreuer lässt sich nur über Verwaltungsanordnungen nach § 1837 BGB oder über eine Testamentsvollstreckung steuern. Der Verwaltungsausschluss ist auf Eltern und Vormund (bzw. Pfleger) Minderjähriger beschränkt."
  },
  {
@@ -1141,18 +1171,18 @@
   "seite": "Zuwendungen an Minderjährige und Betreute: Verwaltungsausschluss (§§ 1638, 1811 BGB)",
   "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/zuwendungen-an-minderjahrige-und-betreute-verwaltungsausschluss-1638-1811-bgb",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 1638 Abs. 1 BGB"
   ],
   "frage": "Bis wann muss der Verwaltungsausschluss nach § 1638 BGB bei einer Schenkung unter Lebenden an einen Minderjährigen spätestens getroffen sein?",
   "optionen": [
-   "Bis zur Eintragung des Minderjährigen im Grundbuch.",
-   "Spätestens mit Abschluss des schuldrechtlichen Zuwendungsvertrags; eine spätere Bestimmung wirkt nicht.",
    "Bis zum Tod des Zuwendenden durch Verfügung von Todes wegen.",
-   "Jederzeit, solange das Vermögen noch beim Minderjährigen vorhanden ist."
+   "Jederzeit, solange das Vermögen noch beim Minderjährigen vorhanden ist.",
+   "Bis zur Eintragung des Minderjährigen im Grundbuch.",
+   "Spätestens mit Abschluss des schuldrechtlichen Zuwendungsvertrags; eine spätere Bestimmung wirkt nicht."
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Bei Zuwendungen unter Lebenden oder auf den Todesfall muss die Bestimmung spätestens mit Abschluss des schuldrechtlichen Zuwendungsvertrags getroffen sein; eine spätere Bestimmung ist wirkungslos. Nur beim Erwerb von Todes wegen kann die erforderliche Verfügung von Todes wegen auch später als die Zuwendung errichtet werden. Praktisch sollten Ausschluss und Pflegerbenennung deshalb in derselben Urkunde wie die Schenkung erklärt werden."
  },
  {
@@ -1174,34 +1204,34 @@
    {
     "frage": "Ist F durch die Anordnung der Testamentsvollstreckung allein von der Verwaltung des Nachlasses ausgeschlossen?",
     "optionen": [
-     "Ja, die Testamentsvollstreckung schließt die Eltern stets von der Verwaltung aus.",
      "Nicht ohne Weiteres; maßgeblich ist die Auslegung. Ohne Ausschluss übt F die Kontrollrechte gegenüber dem Testamentsvollstrecker aus.",
-     "Nein, eine Testamentsvollstreckung ist bei minderjährigen Erben unzulässig.",
-     "Ja, sofern der Testamentsvollstrecker zugleich als Zuwendungspfleger benannt ist."
+     "Ja, die Testamentsvollstreckung schließt die Eltern stets von der Verwaltung aus.",
+     "Ja, sofern der Testamentsvollstrecker zugleich als Zuwendungspfleger benannt ist.",
+     "Nein, eine Testamentsvollstreckung ist bei minderjährigen Erben unzulässig."
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "Die Testamentsvollstreckung schließt die Eltern nicht ohne Weiteres aus; ohne Ausschluss übt F die Kontrollrechte aus und kann die Entlassung nach § 2227 BGB beantragen. Hier hat V den Ausschluss aber ausdrücklich angeordnet, was sich neben der Testamentsvollstreckung empfiehlt; einen Testamentsvollstrecker als Zuwendungspfleger zu benennen, ist nach richtiger Ansicht nicht möglich."
    },
    {
     "frage": "Erfasst der testamentarische Verwaltungsausschluss auch die Todesfallleistung aus der Lebensversicherung?",
     "optionen": [
      "Ja, weil die Leistung mit dem Erbfall anfällt und zum Erwerb von Todes wegen gehört.",
-     "Nein; die Leistung beruht auf einem Vertrag zugunsten Dritter mit Schenkung im Valutaverhältnis, und eine Anordnung allein in einer Verfügung von Todes wegen genügt nicht.",
      "Ja, wenn das Testament notariell beurkundet ist.",
+     "Nein; die Leistung beruht auf einem Vertrag zugunsten Dritter mit Schenkung im Valutaverhältnis, und eine Anordnung allein in einer Verfügung von Todes wegen genügt nicht.",
      "Nein, weil Lebensversicherungsleistungen nie unentgeltlich sind."
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Die Todesfallleistung ist eine Zuwendung auf den Todesfall (§§ 328, 331 BGB), kein Erwerb von Todes wegen. Die Beschränkungsbestimmung muss der Beschenkten spätestens bei Wirksamwerden des Schenkungsvertrags zugehen, bei Heilung des Formmangels nach § 518 Abs. 1 BGB erst durch den Erbfall spätestens dann. Eine Anordnung allein im Testament genügt nicht (OLG Naumburg)."
    },
    {
     "frage": "Wer verwaltet danach die Versicherungsleistung, und wie hätte V dies vermeiden können?",
     "optionen": [
-     "Ein Zuwendungspfleger; V hätte nichts weiter tun müssen.",
-     "F als Sorgeberechtigte; V hätte die Ausschlussbestimmung zu Lebzeiten selbst treffen und ihren rechtzeitigen Zugang sicherstellen müssen.",
      "Der Testamentsvollstrecker; V hätte ihn ausdrücklich auch für die Versicherung einsetzen müssen.",
-     "Das Familiengericht unmittelbar; eine Gestaltung war nicht möglich."
+     "Das Familiengericht unmittelbar; eine Gestaltung war nicht möglich.",
+     "F als Sorgeberechtigte; V hätte die Ausschlussbestimmung zu Lebzeiten selbst treffen und ihren rechtzeitigen Zugang sicherstellen müssen.",
+     "Ein Zuwendungspfleger; V hätte nichts weiter tun müssen."
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Ohne wirksamen Ausschluss verwaltet die sorgeberechtigte F die Versicherungsleistung. Der Zuwendende muss die Beschränkungsbestimmung selbst treffen und ihren rechtzeitigen Zugang sicherstellen; auf eine Bestimmung durch Erben oder Testamentsvollstrecker nach dem Tod sollte man sich nicht verlassen."
    }
   ],
@@ -1222,9 +1252,9 @@
   "frage": "Die Großmutter setzt ihren minderjährigen Enkel zum Erben ein und schließt beide Eltern von der Vermögensverwaltung aus. Wer entscheidet über Annahme oder Ausschlagung der Erbschaft?",
   "optionen": [
    "Die Eltern, weil die Ausschlagung zur Personensorge gehört.",
-   "Die Eltern, weil der Ausschluss erst mit Annahme der Erbschaft wirksam wird.",
+   "Der Enkel selbst mit familiengerichtlicher Genehmigung.",
    "Ein zu bestellender Zuwendungspfleger; der Ausschluss umfasst nach BGH auch die Entscheidung über Annahme oder Ausschlagung.",
-   "Der Enkel selbst mit familiengerichtlicher Genehmigung."
+   "Die Eltern, weil der Ausschluss erst mit Annahme der Erbschaft wirksam wird."
   ],
   "antwort": 2,
   "erklaerung": "Der Ausschluss erfasst das zugewendete Vermögen und seine Surrogate vollständig (§ 1638 Abs. 2 BGB) und umfasst nach BGH (MittBayNot 2017, 595) entgegen der früher h. M. auch die Entscheidung über Annahme oder Ausschlagung, ferner den Erbscheinsantrag. Gegenüber den Eltern wirkt er sofort mit dem Erbfall. Da beide Eltern ausgeschlossen sind, ist ein Zuwendungspfleger zu bestellen; nur bei Ausschluss eines Elternteils verwaltet der andere allein (§ 1638 Abs. 3 BGB)."
@@ -1236,7 +1266,7 @@
   "seite": "Benennung von Vormund und Pfleger: Pfleger und Zuwendungspfleger (§ 1811 Abs. 2 BGB)",
   "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/benennung-von-vormund-und-pfleger-pfleger-und-zuwendungspfleger-1811-abs-2-bgb",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 1811 Abs. 2 BGB",
    "§ 1809 BGB",
@@ -1244,12 +1274,12 @@
   ],
   "frage": "Für welche Pflegschaft sieht das Gesetz ausdrücklich ein Benennungsrecht eines Dritten vor?",
   "optionen": [
-   "Pflegschaft für ein ungeborenes Kind (§ 1810 BGB)",
-   "Zuwendungspflegschaft (§ 1811 BGB)",
+   "Zusätzlicher Pfleger nach § 1776 BGB",
    "Pflegschaft nach §§ 1882–1884 BGB",
-   "Zusätzlicher Pfleger nach § 1776 BGB"
+   "Zuwendungspflegschaft (§ 1811 BGB)",
+   "Pflegschaft für ein ungeborenes Kind (§ 1810 BGB)"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Ein Drittbenennungsrecht sieht das Gesetz ausdrücklich nur für die Zuwendungspflegschaft vor: Erblasser oder Zuwendender können den Zuwendungspfleger benennen (§ 1811 Abs. 2 BGB). Für Pflegschaften nach §§ 1882–1884 BGB wählt das Gericht aus (§ 1885 BGB); beim zusätzlichen Pfleger nach § 1776 BGB und nach richtiger Ansicht auch bei der Pflegschaft für ein ungeborenes Kind (§ 1810 BGB) haben die Eltern kein Benennungsrecht."
  },
  {
@@ -1281,10 +1311,10 @@
   ],
   "frage": "Ein geschiedener, nicht sorgeberechtigter Vater schenkt seinem minderjährigen Sohn ein Depot und möchte es selbst verwalten; die Mutter hat die Alleinsorge. Welche Gestaltung trägt nach richtiger Ansicht?",
   "optionen": [
-   "Ausschluss der Mutter von der Verwaltung genügt; der Vater verwaltet dann nach § 1638 Abs. 3 BGB allein.",
+   "Benennung eines Testamentsvollstreckers als Zuwendungspfleger.",
    "Ausschluss der Mutter und Benennung des Vaters selbst als Zuwendungspfleger in der Schenkungsurkunde.",
    "Benennung des Vaters als Zuwendungspfleger in einer späteren Urkunde nach Vollzug der Schenkung.",
-   "Benennung eines Testamentsvollstreckers als Zuwendungspfleger."
+   "Ausschluss der Mutter von der Verwaltung genügt; der Vater verwaltet dann nach § 1638 Abs. 3 BGB allein."
   ],
   "antwort": 1,
   "erklaerung": "Bei Zuwendungen unter Lebenden kann sich der Zuwendende nach richtiger Ansicht selbst als Pfleger benennen, etwa wenn der allein sorgeberechtigte Elternteil ausgeschlossen werden soll; Ausschluss und Benennung müssen bei der Zuwendung erklärt werden, eine spätere Benennung ist unwirksam. § 1638 Abs. 3 BGB hilft nur bei gemeinsamer Sorge, weil dann der nicht ausgeschlossene Elternteil allein verwaltet. Ein Testamentsvollstrecker kann nach richtiger Ansicht nicht benannt werden."
@@ -1313,16 +1343,16 @@
   "seite": "Benennung von Vormund und Pfleger: Vormundbenennung durch die Eltern (§ 1782 BGB)",
   "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/benennung-von-vormund-und-pfleger-vormundbenennung-durch-die-eltern-1782-bgb",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 1782 Abs. 2 BGB"
   ],
   "frage": "Die Mutter benennt 2020 testamentarisch ihre Schwester als Vormund, der Vater 2023 seinen Bruder. Der Vater stirbt 2024, die Mutter 2025. Wer ist als Vormund berufen?",
   "optionen": [
-   "Der Bruder des Vaters, weil seine Benennung die jüngere ist.",
-   "Die Schwester der Mutter, weil die Verfügung des zuletzt verstorbenen Elternteils gilt.",
    "Keiner; das Familiengericht wählt frei aus, weil die Benennungen sich widersprechen.",
-   "Beide gemeinschaftlich, weil jeder Elternteil unabhängig benennen kann."
+   "Die Schwester der Mutter, weil die Verfügung des zuletzt verstorbenen Elternteils gilt.",
+   "Beide gemeinschaftlich, weil jeder Elternteil unabhängig benennen kann.",
+   "Der Bruder des Vaters, weil seine Benennung die jüngere ist."
   ],
   "antwort": 1,
   "erklaerung": "Benennen die Eltern verschiedene Vormünder, gilt nach § 1782 Abs. 2 BGB die Verfügung des zuletzt verstorbenen Elternteils, und zwar auch dann, wenn dieser früher benannt hat als der zuerst Verstorbene. Maßgeblich ist also die Reihenfolge der Todesfälle, nicht die der Benennungen. Gemeinschaftliche Vormünder können nur Ehegatten sein, die als solche benannt werden."
@@ -1338,8 +1368,8 @@
   "normen": [
    "§ 1782 Abs. 1 BGB"
   ],
-  "frage": "Eltern können die Vormundbenennung in einem Erbvertrag vertragsmäßig bindend treffen, sodass der Überlebende sie nicht mehr einseitig ändern kann.",
-  "antwort": false,
+  "frage": "Eine Vormundbenennung kann in einem Erbvertrag aufgenommen, dort aber weder wechselbezüglich noch vertragsmäßig bindend getroffen werden.",
+  "antwort": true,
   "erklaerung": "Die Benennung erfolgt zwar durch Verfügung von Todes wegen, also auch durch gemeinschaftliches Testament oder Erbvertrag (§ 1782 Abs. 1 BGB). Als familienrechtliche Anordnung kann sie aber weder wechselbezüglich noch vertragsmäßig bindend getroffen werden; eine gemeinsame Benennung bindet die Eltern nicht und ist jederzeit widerruflich. Die Gestaltung als bindende Verfügung ist der im Handbuch genannte typische Fehler."
  },
  {
@@ -1356,12 +1386,12 @@
   ],
   "frage": "Eine alleinerziehende Mutter hat ihre Freundin nur in einer General- und Vorsorgevollmacht als gewünschten Vormund für ihr Kind bezeichnet. Welche Wirkung hat das nach ihrem Tod?",
   "optionen": [
-   "Die Freundin ist als Vormund berufen und hat ein subjektiv-öffentliches Recht auf Bestellung.",
+   "Die Bezeichnung bindet das Gericht, sofern die Vollmacht notariell beurkundet ist.",
    "Die Bezeichnung ist mangels Testamentsform völlig unbeachtlich.",
-   "Das Gericht berücksichtigt sie als geäußerten Elternwillen bei der Auswahl, ist daran aber nicht gebunden.",
-   "Die Bezeichnung bindet das Gericht, sofern die Vollmacht notariell beurkundet ist."
+   "Die Freundin ist als Vormund berufen und hat ein subjektiv-öffentliches Recht auf Bestellung.",
+   "Das Gericht berücksichtigt sie als geäußerten Elternwillen bei der Auswahl, ist daran aber nicht gebunden."
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Eine Benennung mit Bindungswirkung und Recht auf Bestellung setzt eine Verfügung von Todes wegen voraus (§ 1782 BGB). Der formlos geäußerte Elternwille, etwa in einer Sorgerechts- oder Vorsorgevollmacht, wird nach § 1778 Abs. 2 Nr. 2 BGB bei der Auswahl berücksichtigt, bindet das Gericht aber nicht. Die notarielle Form der Vollmacht ersetzt die Testamentsform nicht; deshalb gehört die Benennung in Testament oder Erbvertrag."
  },
  {

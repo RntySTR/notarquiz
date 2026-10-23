@@ -1349,5 +1349,317 @@
   ],
   "antwort": 1,
   "erklaerung": "Die Flurkarte zeigt, ob nahe Stellplatz-, Garagen- oder Wegegrundstücke auf eigenen Blättern gebucht sind und mitverkauft werden müssen; den Beteiligten ist oft nicht klar, dass es sich um getrennte Grundstücke handelt. Das Grundbuch bezeichnet die Grundstücke nach dem Liegenschaftskataster (§ 2 Abs. 2 GBO). Die Eigentümer ergeben sich dagegen aus dem Grundbuch, nicht aus der Flurkarte."
+ },
+ {
+  "id": "sach1-058",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Liegenschaftskataster: Fortführungsnachweis, Teilung, Vereinigung und Zuschreibung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/liegenschaftskataster-fortfuhrungsnachweis-teilung-vereinigung-und-zuschreibung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2 Abs. 3 GBO",
+   "§ 29 GBO"
+  ],
+  "frage": "Ein Fortführungsnachweis weist die Zerlegung eines Flurstücks aus; ein Teilungsantrag wird nicht gestellt. Was geschieht im Grundbuch?",
+  "optionen": [
+   "Die neuen Flurstücke werden von Amts wegen als selbständige Grundstücke unter eigenen Nummern gebucht",
+   "Die neuen Flurstücke werden unter der bisherigen laufenden Nummer vorgetragen; es entsteht ein Grundstück aus mehreren Flurstücken",
+   "Der Fortführungsnachweis wird mangels Antrags zurückgewiesen",
+   "Das herausgemessene Flurstück wird automatisch auf ein neues Blatt abgeschrieben"
+  ],
+  "antwort": 1,
+  "erklaerung": "Ohne weiteren Antrag werden die neuen Flurstücke unter der bisherigen laufenden Nummer vorgetragen; es entsteht ein zusammengesetztes Grundstück. Erst der Teilungsantrag in der Form des § 29 GBO hebt diese Einheit auf; ohne ihn ist eine Abschreibung nicht möglich (§ 2 Abs. 3 GBO)."
+ },
+ {
+  "id": "sach1-059",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Liegenschaftskataster: Fortführungsnachweis, Teilung, Vereinigung und Zuschreibung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/liegenschaftskataster-fortfuhrungsnachweis-teilung-vereinigung-und-zuschreibung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 890 BGB",
+   "§ 1131 BGB"
+  ],
+  "frage": "Worin unterscheidet sich die Zuschreibung von der Vereinigung hinsichtlich der Belastungen?",
+  "optionen": [
+   "Bei der Zuschreibung erstrecken sich alle Belastungen beider Grundstücke auf das gesamte neue Grundstück",
+   "Bei der Zuschreibung erfassen Grundpfandrechte des Hauptgrundstücks auch das zugeschriebene Grundstück, dessen bisherige Belastungen im Rang vorgehen",
+   "Bei der Vereinigung erstrecken sich Grundpfandrechte automatisch, bei der Zuschreibung nur nach Nachverpfändung",
+   "Es gibt keinen Unterschied; in beiden Fällen bleiben alle Belastungen getrennt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei der Vereinigung (§ 890 Abs. 1 BGB) bleiben Belastungen auf ihr bisheriges Grundstück beschränkt; eine Erstreckung erfordert Bewilligung und Antrag (Nachverpfändung). Bei der Zuschreibung (§ 890 Abs. 2 BGB) erfassen Grundpfandrechte des Hauptgrundstücks kraft Gesetzes auch das zugeschriebene Grundstück, wobei dessen bisherige Belastungen vorgehen (§ 1131 BGB); andere Belastungen bleiben getrennt."
+ },
+ {
+  "id": "sach1-060",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Liegenschaftskataster: Fortführungsnachweis, Teilung, Vereinigung und Zuschreibung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/liegenschaftskataster-fortfuhrungsnachweis-teilung-vereinigung-und-zuschreibung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "Ziff. 38 VwVLK"
+  ],
+  "frage": "In Baden-Württemberg soll der Fortführungsnachweis grundsätzlich binnen 24 Monaten im Grundbuch vollzogen werden; nach fehlenden Anträgen und zwei Mahnungen kann die Vermessungsbehörde die Katastervermessung soweit erforderlich aufheben.",
+  "antwort": true,
+  "erklaerung": "Nach Ziff. 38 VwVLK soll der Vollzug grundsätzlich binnen 24 Monaten erfolgen; sonst kann die Vermessungsbehörde die Katastervermessung soweit erforderlich aufheben, vorausgesetzt fehlende Anträge und zwei Mahnungen. Da das Grundbuchamt den Fortführungsnachweis mit sachenrechtlicher Änderung nicht von Amts wegen vollzieht, sind Vollzugsanträge zeitnah zu stellen."
+ },
+ {
+  "id": "sach1-061",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Liegenschaftskataster: Fortführungsnachweis, Teilung, Vereinigung und Zuschreibung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/liegenschaftskataster-fortfuhrungsnachweis-teilung-vereinigung-und-zuschreibung",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 890 Abs. 2 BGB"
+  ],
+  "frage": "Soll eine herausgemessene Fläche des A dem Nachbargrundstück des B zugeschrieben werden, genügt ein Zuschreibungsantrag des B.",
+  "antwort": false,
+  "erklaerung": "Gehören die betroffenen Flächen verschiedenen Eigentümern, genügt die Entscheidung über Teilung, Vereinigung oder Zuschreibung nicht. Die Fläche muss zuvor an B übereignet werden, meist gegen Zahlung oder im Tausch; die Urkunde enthält dann schuldrechtliche und dingliche Erklärungen einschließlich Auflassung. Erst danach kommt die Zuschreibung (§ 890 Abs. 2 BGB) in Betracht."
+ },
+ {
+  "id": "sach1-062",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Liegenschaftskataster: Zerlegung, Verschmelzung und Erledigung von Fortführungsfällen",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/liegenschaftskataster-zerlegung-verschmelzung-und-erledigung-von-fortfuhrungsfallen",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 890 BGB",
+   "§ 903 BGB"
+  ],
+  "frage": "Ordne die Begriffe ihrer Einordnung zu.",
+  "paare": [
+   [
+    "Zerlegung",
+    "Katastertechnisch: ein Flurstück wird in mehrere Flurstücke aufgespalten"
+   ],
+   [
+    "Verschmelzung",
+    "Katastertechnisch: mehrere Flurstücke werden zu einem Flurstück zusammengefasst"
+   ],
+   [
+    "Teilung",
+    "Sachenrechtlich: ein Grundstück wird in mehrere Grundstücke zerlegt"
+   ],
+   [
+    "Vereinigung",
+    "Sachenrechtlich: mehrere Grundstücke werden zu einem Grundstück verbunden"
+   ]
+  ],
+  "erklaerung": "Zerlegung (Ziff. 27 VwVLK) und Verschmelzung (Ziff. 28 VwVLK) sind katastertechnische Vorgänge, die im Fortführungsnachweis dargestellt sind, aber keine sachenrechtliche Änderung bewirken. Teilung (aus § 903 BGB) sowie Vereinigung und Zuschreibung (§ 890 BGB) bewirken die Rechtsänderung, sind aus dem Fortführungsnachweis aber nicht ersichtlich."
+ },
+ {
+  "id": "sach1-063",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Liegenschaftskataster: Zerlegung, Verschmelzung und Erledigung von Fortführungsfällen",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/liegenschaftskataster-zerlegung-verschmelzung-und-erledigung-von-fortfuhrungsfallen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 890 BGB"
+  ],
+  "frage": "Welcher Fortführungsfall wird vom Grundbuchamt nur auf Antrag erledigt?",
+  "optionen": [
+   "Flächenberichtigung eines Flurstücks",
+   "Änderung der Lagebezeichnung oder Nutzungsart",
+   "Verschmelzung von Flurstücken, die bisher nicht unter einer Nummer des Bestandsverzeichnisses gebucht sind",
+   "Zerlegung eines Flurstücks ohne gleichzeitige Teilung"
+  ],
+  "antwort": 2,
+  "erklaerung": "Von Amts wegen erledigt werden Änderungen von Größe, Lagebezeichnung, Nutzungsart, Gemarkung oder Nummer sowie die Zerlegung ohne Teilung. Nur auf Antrag erledigt wird die Verschmelzung, wenn zugleich Vereinigung oder Zuschreibung (§ 890 BGB) erfolgen soll oder die Flurstücke bisher nicht unter einer Nummer gebucht sind. Die Annahme, das Grundbuchamt vollziehe eine solche Verschmelzung von Amts wegen, ist ein typischer Fehler."
+ },
+ {
+  "id": "sach1-064",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Liegenschaftskataster: Zerlegung, Verschmelzung und Erledigung von Fortführungsfällen",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/liegenschaftskataster-zerlegung-verschmelzung-und-erledigung-von-fortfuhrungsfallen",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 7 Abs. 1 GBO"
+  ],
+  "frage": "Soll an einem Grundstücksteil eine Vormerkung eingetragen werden, ist dieser Teil nach § 7 Abs. 1 GBO von Amts wegen abzuschreiben, ohne dass es eines Teilungsantrags bedarf.",
+  "antwort": false,
+  "erklaerung": "§ 7 Abs. 1 GBO ordnet die Abschreibung eines Grundstücksteils von Amts wegen an, wenn er mit einem Recht belastet werden soll; ein Teilungsantrag ist dann nicht erforderlich. Eine Vormerkung ist aber kein Recht im Sinne des § 7 GBO, sodass die Vorschrift insoweit nicht greift."
+ },
+ {
+  "id": "sach1-065",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Teilung, Vereinigung und Zuschreibung: Antrag, Verwirrungsverbot und einheitliche Belastung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/teilung-vereinigung-und-zuschreibung-antrag-verwirrungsverbot-und-einheitliche-belastung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 39 GBO",
+   "§ 40 GBO"
+  ],
+  "frage": "Wann ist für die Teilung eines Grundstücks die Voreintragung des Eigentümers nach § 40 GBO entbehrlich?",
+  "optionen": [
+   "Wenn der Teilungsantrag von der Vermessungsbehörde beglaubigt wurde",
+   "Wenn das ganze Grundstück veräußert, im Zuge dessen geteilt wird und Eigentumsumschreibung und Teilung zusammen beantragt werden",
+   "Wenn ein Grundstücksteil mit einer Vormerkung belastet werden soll",
+   "Wenn der Eigentümer im Erbweg erworben hat und ein Erbschein vorliegt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Grundsätzlich erfordert die Teilung die Voreintragung des Eigentümers (§ 39 GBO). Nach § 40 GBO gilt eine Ausnahme, wenn das ganze Grundstück veräußert und dabei geteilt wird und Eigentumsumschreibung und Teilung zusammen beantragt werden. Die Beglaubigungsbefugnis der Vermessungsbehörde betrifft nur die Form des Antrags, nicht die Voreintragung."
+ },
+ {
+  "id": "sach1-066",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Teilung, Vereinigung und Zuschreibung: Antrag, Verwirrungsverbot und einheitliche Belastung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/teilung-vereinigung-und-zuschreibung-antrag-verwirrungsverbot-und-einheitliche-belastung",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 29 GBO"
+  ],
+  "frage": "Die Vermessungsbehörden in Baden-Württemberg sind befugt, Teilungs-, Vereinigungs- und Zuschreibungsanträge zu beurkunden oder zu beglaubigen.",
+  "antwort": false,
+  "erklaerung": "Die Befugnis der Vermessungsbehörden erfasst Teilungs- und Vereinigungsanträge, nicht aber Anträge auf Zuschreibung. Für die Zuschreibung ist die Form des § 29 GBO daher auf anderem Weg, etwa durch notarielle Beglaubigung, zu wahren."
+ },
+ {
+  "id": "sach1-067",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Teilung, Vereinigung und Zuschreibung: Antrag, Verwirrungsverbot und einheitliche Belastung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/teilung-vereinigung-und-zuschreibung-antrag-verwirrungsverbot-und-einheitliche-belastung",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 5 Abs. 1 S. 2 GBO",
+   "§ 6 GBO",
+   "§ 1131 BGB"
+  ],
+  "frage": "Zuschreibung bei unterschiedlicher Belastung",
+  "sachverhalt": "E ist Eigentümer des Hausgrundstücks Flst. 10, belastet mit einer Grundschuld der S-Bank, und des angrenzenden, unbelasteten Gartengrundstücks Flst. 11. Beide liegen im Bezirk desselben Grundbuchamts und desselben Vermessungsamts. E möchte die Grundstücke zu einem Grundstück zusammenfassen. Auf Flst. 11 lastet in Abteilung II zudem ein Wegerecht zugunsten des Nachbarn N.",
+  "schritte": [
+   {
+    "frage": "Welches Hindernis besteht für eine Vereinigung der Grundstücke ohne weitere Maßnahmen?",
+    "optionen": [
+     "Die Grundstücke liegen nicht im selben Grundbuchamtsbezirk",
+     "Wegen unterschiedlicher Belastung in Abteilung III ist Verwirrung zu besorgen (§ 5 Abs. 1 S. 2 GBO)",
+     "Eine Vereinigung setzt stets eine vorherige Verschmelzung im Kataster voraus",
+     "Für die Vereinigung ist die Zustimmung des N erforderlich"
+    ],
+    "antwort": 1,
+    "erklaerung": "Lasten auf den Grundstücken verschiedene Grundpfandrechte, scheitert die Vereinigung verfahrensrechtlich an § 5 Abs. 1 S. 2 GBO. Eine Verschmelzung ist nicht Voraussetzung; Vereinigung ist auch ohne Verschmelzung möglich."
+   },
+   {
+    "frage": "In welcher Richtung sollte zugeschrieben werden, um eine einheitliche Belastung herzustellen?",
+    "optionen": [
+     "Flst. 10 wird dem Flst. 11 zugeschrieben",
+     "Flst. 11 wird dem Flst. 10 zugeschrieben, sodass die Grundschuld sich nach § 1131 BGB erstreckt",
+     "Die Richtung ist gleichgültig, da sich alle Rechte stets wechselseitig erstrecken",
+     "Eine Zuschreibung ist wegen § 6 GBO in keiner Richtung möglich"
+    ],
+    "antwort": 1,
+    "erklaerung": "Bei der Zuschreibung erfassen Grundpfandrechte des Hauptgrundstücks auch das zugeschriebene Grundstück (§ 1131 BGB). Wird Flst. 11 dem belasteten Flst. 10 zugeschrieben, entsteht eine einheitliche Belastung in Abteilung III, und Verwirrung ist nicht mehr zu besorgen. In umgekehrter Richtung bliebe die Grundschuld auf Flst. 10 beschränkt."
+   },
+   {
+    "frage": "Wie lässt sich vermeiden, dass das auf Flst. 11 beschränkte Wegerecht eine Verwirrung befürchten lässt?",
+    "optionen": [
+     "Durch Löschung des Wegerechts als Voraussetzung jeder Zuschreibung",
+     "Durch Verzicht auf die katasterrechtliche Verschmelzung der Flurstücke",
+     "Durch Pfanderstreckung des Wegerechts auf Flst. 10",
+     "Durch Eintragung eines Rangvorbehalts zugunsten der S-Bank"
+    ],
+    "antwort": 1,
+    "erklaerung": "Bei Dienstbarkeiten wie Wegerechten ist in der Regel keine Verwirrung zu besorgen, wenn die Grundstücke zwar zugeschrieben, katasterrechtlich aber nicht verschmolzen werden; die bisherigen Flurstücke bleiben dann aus dem Grundbuch ersichtlich. Eine Pfanderstreckung kommt nur bei Grundpfandrechten in Betracht."
+   }
+  ],
+  "erklaerung": "Die unterschiedliche Belastung in Abteilung III hindert eine Vereinigung (§ 5 Abs. 1 S. 2 GBO). Durch Zuschreibung des Flst. 11 zu Flst. 10 erstreckt sich die Grundschuld nach § 1131 BGB, sodass eine einheitliche Belastung entsteht; wegen des Wegerechts sollte auf die Verschmelzung verzichtet werden."
+ },
+ {
+  "id": "sach1-068",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Teilung, Vereinigung und Zuschreibung: Antrag, Verwirrungsverbot und einheitliche Belastung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/teilung-vereinigung-und-zuschreibung-antrag-verwirrungsverbot-und-einheitliche-belastung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 5 GBO",
+   "§ 6 GBO"
+  ],
+  "frage": "In welchem Fall ist nach §§ 5, 6 GBO Verwirrung zu besorgen, obwohl auf beiden Grundstücken dieselben Grundpfandrechte eingetragen sind?",
+  "optionen": [
+   "Wenn die Grundpfandrechte in abweichender Rangfolge eingetragen sind",
+   "Wenn die Grundstücke unterschiedlich groß sind",
+   "Wenn nur eines der Grundstücke bebaut ist",
+   "Wenn die Grundstücke nicht verschmolzen werden sollen"
+  ],
+  "antwort": 0,
+  "erklaerung": "Verwirrung ist insbesondere zu besorgen, wenn die Grundstücke unterschiedlich mit Grundpfandrechten oder Reallasten belastet sind oder wenn zwar dieselben Rechte eingetragen sind, aber in abweichender Rangfolge (§§ 5, 6 GBO). Abhilfe schaffen Rangrücktritte. Der Verzicht auf die Verschmelzung hilft dagegen nur bei Dienstbarkeiten in Abteilung II."
+ },
+ {
+  "id": "sach1-069",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Zuflurstück und Abschreibung: Begriffe, Buchung und Vertragsgestaltung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/zuflurstuck-und-abschreibung-begriffe-buchung-und-vertragsgestaltung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2 Abs. 3 GBO"
+  ],
+  "frage": "Unter welcher Voraussetzung darf nach § 2 Abs. 3 GBO ein Teil eines Grundstücks abgeschrieben werden?",
+  "optionen": [
+   "Wenn der Teil im amtlichen Verzeichnis unter einer besonderen Nummer verzeichnet ist oder die Katasterbehörde bescheinigt, dass sie wegen Zusammenfassung mit einem Nachbargrundstück davon absieht",
+   "Wenn der Eigentümer eine maßstäbliche Skizze vorlegt",
+   "Wenn der Teil mit einer Vormerkung belastet werden soll",
+   "Wenn das Grundbuchamt den Teil im Bestandsverzeichnis gerötet hat"
+  ],
+  "antwort": 0,
+  "erklaerung": "§ 2 Abs. 3 GBO erlaubt die Abschreibung nur, wenn der Teil im amtlichen Verzeichnis unter einer besonderen Nummer verzeichnet ist oder die Katasterbehörde bescheinigt, dass sie wegen der Zusammenfassung mit einem benachbarten Grundstück von einer besonderen Nummer absieht. Eine Skizze genügt nur für die Bestimmtheit im Kaufvertrag, nicht für die Abschreibung."
+ },
+ {
+  "id": "sach1-070",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Zuflurstück und Abschreibung: Begriffe, Buchung und Vertragsgestaltung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/zuflurstuck-und-abschreibung-begriffe-buchung-und-vertragsgestaltung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 2 Abs. 3 GBO",
+   "§ 890 BGB"
+  ],
+  "frage": "Bei einem Teilflächenverkauf entsteht ein Zuflurstück, das laut Fortführungsnachweis mit einem Flurstück des Erwerbers verschmolzen werden soll. Welche Gestaltung ist zu empfehlen?",
+  "optionen": [
+   "Das Zuflurstück zunächst selbständig buchen und mit einer Finanzierungsgrundschuld belasten",
+   "Zugleich mit dem Antrag auf Abschreibung den Antrag auf die geplante Zuschreibung oder Vereinigung stellen",
+   "Die Abschreibung zurückstellen, bis das Zuflurstück eine eigene Flurstücksnummer erhält",
+   "Ausschließlich die Verschmelzung beim Vermessungsamt beantragen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Das Vermessungsamt legt Wert darauf, Zuflurstücke möglichst nicht eigenständig zu buchen, und das Grundbuchamt kann eine eigenständige Buchung ablehnen. Deshalb ist zugleich mit der Abschreibung die Zuschreibung oder Vereinigung (§ 890 BGB) zu beantragen; die Einzelbelastung von Zuflurstücken ist möglichst zu vermeiden. Die Verschmelzung im Kataster allein bewirkt keine sachenrechtliche Änderung."
+ },
+ {
+  "id": "sach1-071",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Zuflurstück und Abschreibung: Begriffe, Buchung und Vertragsgestaltung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/zuflurstuck-und-abschreibung-begriffe-buchung-und-vertragsgestaltung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2 Abs. 3 GBO"
+  ],
+  "frage": "Nach der VwVLK Baden-Württemberg sind Zuflurstücke Flurstücke, die bei einer Zerlegung entstehen und noch im selben Fortführungsnachweis mit anderen Flurstücken verschmolzen werden; in Baden-Württemberg tragen sie 100er-Nummern.",
+  "antwort": true,
+  "erklaerung": "Ziff. 26 Abs. 2 VwVLK BW definiert Zuflurstücke so; in Baden-Württemberg haben sie Nummern (100er-Nummern). Die Grundbuchliteratur versteht unter Zuflurstück dagegen ein Flurstück ohne eigene Nummer (§ 2 Abs. 3 GBO), weshalb fraglich ist, ob § 2 Abs. 3 GBO auf die baden-württembergischen Zuflurstücke anwendbar ist."
  }
 ]

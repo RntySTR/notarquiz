@@ -933,5 +933,101 @@
   ],
   "antwort": 2,
   "erklaerung": "Nach § 87 GNotKG gilt kostenrechtlich auch ein Ort, an dem der Notar regelmäßig Sprechtage abhält, als Amtssitz; dorthin entstehen keine Reisekosten. Der Amtssitz (§ 10 BNotO) ist vom Amtsbereich (§ 10a BNotO, grundsätzlich Amtsgerichtsbezirk) und vom Amtsbezirk (§ 11 BNotO, OLG-Bezirk) zu unterscheiden; diese Bezirke sind nicht Amtssitz."
+ },
+ {
+  "id": "kost4-041",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Auslagen: sonstige Auslagen und Umsatzsteuer (KV 32010–32015 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/auslagen-sonstige-auslagen-und-umsatzsteuer-kv-32010-32015-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 32011 GNotKG",
+   "KV 32014 GNotKG"
+  ],
+  "frage": "Wie sind die Gebühren für einen Grundbuchabruf im automatisierten Verfahren in der Kostenberechnung zu behandeln?",
+  "optionen": [
+   "Als durchlaufender Posten nach KV 32015 GNotKG ohne Umsatzsteuer",
+   "Als Auslage nach KV 32011 GNotKG mit Umsatzsteuer, weil der Notar selbst Gebührenschuldner ist",
+   "Gar nicht, weil sie mit der Beurkundungsgebühr abgegolten sind",
+   "Als Auslage nach KV 32011 GNotKG ohne Umsatzsteuer, wenn der Notar als Bevollmächtigter abruft"
+  ],
+  "antwort": 1,
+  "erklaerung": "Abrufgebühren für Grundbuch und Handelsregister sind Auslagen nach KV 32011 GNotKG und bleiben umsatzsteuerpflichtig. Sie sind keine durchlaufenden Posten (Abschnitt 10.5 Abs. 3 S. 2 UStAE), weil der Notar selbst Gebührenschuldner ist; das gilt auch, wenn er beim Abruf als Bevollmächtigter des Beteiligten handelt."
+ },
+ {
+  "id": "kost4-042",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Auslagen: sonstige Auslagen und Umsatzsteuer (KV 32010–32015 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/auslagen-sonstige-auslagen-und-umsatzsteuer-kv-32010-32015-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 32015 GNotKG",
+   "§ 78g Abs. 2 BNotO"
+  ],
+  "frage": "Die vom Notar verauslagte Gebühr des Zentralen Testamentsregisters wird nach KV 32015 GNotKG ohne Umsatzsteuer weiterberechnet.",
+  "antwort": true,
+  "erklaerung": "Die ZTR-Gebühr (regelmäßig 12,50 €) rechnet der Notar als Auslage nach KV 32015 GNotKG ab. Umsatzsteuer fällt nicht an, weil die Registrierung eine hoheitliche Pflichtaufgabe ist, die Bundesnotarkammer insoweit kein Unternehmer ist und die Gebühr allein der Erblasser schuldet (§ 78g Abs. 2 S. 1 Nr. 1 BNotO); der Notar erbringt mit der Weiterberechnung keine steuerpflichtige Leistung."
+ },
+ {
+  "id": "kost4-043",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Auslagen: sonstige Auslagen und Umsatzsteuer (KV 32010–32015 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/auslagen-sonstige-auslagen-und-umsatzsteuer-kv-32010-32015-gnotkg",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 32010 GNotKG",
+   "KV 32012 GNotKG",
+   "KV 32014 GNotKG",
+   "KV 32015 GNotKG"
+  ],
+  "frage": "Ordne die Aufwendung dem einschlägigen Auslagentatbestand zu.",
+  "paare": [
+   [
+    "Vergütung eines Dolmetschers",
+    "KV 32010 GNotKG"
+   ],
+   [
+    "Prämie einer auf schriftliches Verlangen eines Beteiligten abgeschlossenen Haftpflichtversicherung",
+    "KV 32012 GNotKG"
+   ],
+   [
+    "Umsatzsteuer auf die Kosten",
+    "KV 32014 GNotKG"
+   ],
+   [
+    "Verauslagte Gerichtskosten auf ausdrücklichen Auftrag",
+    "KV 32015 GNotKG"
+   ]
+  ],
+  "erklaerung": "KV 32010 erfasst Dolmetscher, Übersetzer, Urkundszeugen und einen zweiten Notar, KV 32012 die Einzelprämie einer vom Beteiligten schriftlich verlangten Vermögensschaden-Haftpflichtversicherung, KV 32014 die Umsatzsteuer und KV 32015 sonstige Aufwendungen auf ausdrücklichen Auftrag für Rechnung eines Beteiligten, insbesondere verauslagte Gerichtskosten. Alle werden in voller Höhe erhoben."
+ },
+ {
+  "id": "kost4-044",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Auslagen: sonstige Auslagen und Umsatzsteuer (KV 32010–32015 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/auslagen-sonstige-auslagen-und-umsatzsteuer-kv-32010-32015-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "KV 32014 GNotKG",
+   "§ 19 Abs. 1 UStG",
+   "KV 32015 GNotKG"
+  ],
+  "frage": "Welche Faustregel gilt für die Umsatzsteuerpflicht der Auslagen in der Notarkostenberechnung?",
+  "optionen": [
+   "Alle Auslagen sind umsatzsteuerfrei, nur Gebühren unterliegen der Umsatzsteuer.",
+   "Alle Auslagen einschließlich KV 32015 GNotKG unterliegen stets der Umsatzsteuer.",
+   "Auslagen nach KV 32015 GNotKG bleiben umsatzsteuerfrei; die vor KV 32014 GNotKG stehenden Auslagen unterliegen ihr.",
+   "Über die Steuerpflicht entscheidet allein das GNotKG, nicht das UStG."
+  ],
+  "antwort": 2,
+  "erklaerung": "Faustregel: Auslagen nach KV 32015 GNotKG bleiben umsatzsteuerfrei, die im Kostenverzeichnis vor KV 32014 GNotKG stehenden Auslagen unterliegen ihr. Ob Umsatzsteuer anfällt, richtet sich vorrangig nach dem UStG; das GNotKG hat daran nichts geändert. Bleibt die Steuer nach § 19 Abs. 1 UStG unerhoben, ist keine Umsatzsteuer nach KV 32014 anzusetzen."
  }
 ]

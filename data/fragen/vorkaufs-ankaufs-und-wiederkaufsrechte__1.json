@@ -531,5 +531,267 @@
   ],
   "antwort": 1,
   "erklaerung": "Üben mehrere Berechtigte gemeinsam nach § 472 BGB aus, erwerben sie Bruchteilseigentum, sofern bei der Bestellung nichts anderes bestimmt wurde. Passt Bruchteilseigentum nicht, ist das gewünschte Erwerbsverhältnis daher schon bei der Bestellung zu regeln. Ein gemeinsames Vorkaufsrecht mehrerer ist ohne Weiteres zulässig."
+ },
+ {
+  "id": "vork1-025",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Vorkaufsrecht: Rückabwicklung mit dem Vertragskäufer nach der Ausübung",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-ruckabwicklung-mit-dem-vertragskaufer-nach-der-ausubung",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 275 Abs. 1 BGB",
+   "§ 326 BGB",
+   "§ 1100 BGB",
+   "§ 996 BGB"
+  ],
+  "frage": "Ausübung des Vorkaufsrechts nach Kaufpreiszahlung",
+  "sachverhalt": "V verkauft sein mit einem eingetragenen dinglichen Vorkaufsrecht zugunsten des Nachbarn N belastetes Grundstück an K; der Notar belehrt über das Vorkaufsrecht. K zahlt den Kaufpreis an V, wird aber noch nicht als Eigentümer eingetragen. Nach Besitzübergang lässt K für 30.000 Euro eine neue Einbauküche und einen Wintergarten errichten. N übt sein Vorkaufsrecht fristgerecht aus; V übereignet an N.",
+  "schritte": [
+   {
+    "frage": "Welche Rechtsfolge tritt im Verhältnis V–K ein, nachdem V an N übereignet hat?",
+    "optionen": [
+     "Der Kaufvertrag V–K ist mit der Ausübung nichtig geworden; K hat nur Bereicherungsansprüche.",
+     "Die Leistung an K ist V nachträglich unmöglich (§ 275 Abs. 1 BGB); K wird von der Zahlungspflicht frei und kann das Gezahlte zurückverlangen.",
+     "V schuldet K Schadensersatz statt der Leistung nach §§ 280 Abs. 1, 283 BGB in Höhe des entgangenen Gewinns.",
+     "K kann von V Übereignung verlangen, weil sein Vertrag zuerst geschlossen wurde."
+    ],
+    "antwort": 1,
+    "erklaerung": "Der Vertrag mit K bleibt wirksam; V kann aber nur einmal erfüllen, die Leistung an K wird nachträglich unmöglich (§ 275 Abs. 1 BGB). K wird von der Gegenleistung frei (§ 326 Abs. 1 BGB) und erhält Gezahltes nach §§ 326 Abs. 4, 346 ff. BGB zurück. Schadensersatz scheidet in der Regel aus, weil K das Vorkaufsrecht aufgrund der Belehrung kannte und V das Unvermögen nicht zu vertreten hat (§ 280 Abs. 1 S. 2 BGB)."
+   },
+   {
+    "frage": "Von wem erhält K im Regelfall, also ohne eigene Eintragung als Eigentümer, den Kaufpreis zurück?",
+    "optionen": [
+     "Unmittelbar von N nach § 1100 BGB, der die Herausgabe bis zur Zahlung verweigern lässt.",
+     "Von V, der ihn seinerseits von N einfordert; die Zahlungen können vereinfachend direkt zwischen K und N fließen.",
+     "Vom Notar aus dem Anderkonto, da der Kaufpreis dort zu hinterlegen war.",
+     "Gar nicht, da K das Ausübungsrisiko trägt."
+    ],
+    "antwort": 1,
+    "erklaerung": "§ 1100 BGB gibt einen unmittelbaren Ersatzanspruch gegen den Berechtigten nur, wenn der Vertragskäufer schon als Eigentümer eingetragen ist. Im Regelfall fehlt die Eintragung; dann muss V die Leistungen an K erstatten und sie von N einfordern. Vereinfachend können die Zahlungen direkt zwischen K und N fließen."
+   },
+   {
+    "frage": "Kann K von N Ersatz für Einbauküche und Wintergarten verlangen?",
+    "optionen": [
+     "Ja, nach § 996 BGB als nützliche Verwendungen, da K redlicher Besitzer war.",
+     "Nein, nützliche Verwendungen werden nicht ersetzt, weil K das Vorkaufsrecht kannte und wie ein bösgläubiger Besitzer behandelt wird (§§ 996, 990 BGB).",
+     "Ja, über § 1100 BGB, der alle Aufwendungen des Vertragskäufers umfasst.",
+     "Nur in Höhe der Hälfte, weil Verkäufer und Berechtigter das Risiko teilen."
+    ],
+    "antwort": 1,
+    "erklaerung": "Zwischen N als neuem Eigentümer und K als Besitzer gelten §§ 987 ff. BGB. K kannte das Vorkaufsrecht und wird deshalb wie ein bösgläubiger Besitzer behandelt; Ersatz nützlicher Verwendungen erhält er nicht (§§ 996, 990 BGB). Nur für notwendige Verwendungen gilt § 994 Abs. 2 BGB; deshalb sollte ein Vertragskäufer mit Investitionen warten, bis die Nichtausübung feststeht."
+   }
+  ],
+  "erklaerung": "Die Ausübung lässt den Vertrag V–K bestehen, macht V die Leistung an K aber unmöglich; K wird frei und erhält den Kaufpreis von V zurück, der sich bei N schadlos hält. Für Investitionen trägt K als Kenner des Vorkaufsrechts das Ausübungsrisiko; nützliche Verwendungen werden nicht ersetzt."
+ },
+ {
+  "id": "vork1-026",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Vorkaufsrecht: Rückabwicklung mit dem Vertragskäufer nach der Ausübung",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-ruckabwicklung-mit-dem-vertragskaufer-nach-der-ausubung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1100 BGB"
+  ],
+  "frage": "Der bereits als Eigentümer eingetragene Vertragskäufer verlangt vom Vorkaufsberechtigten Ersatz nach § 1100 BGB. Welche Position ist nach vorzugswürdiger Ansicht erfasst?",
+  "optionen": [
+   "Die gezahlte Grunderwerbsteuer.",
+   "Der Verdienstausfall für die Teilnahme an der Beurkundung.",
+   "Die Kosten der Eigentumsvormerkung.",
+   "Die Kosten der anwaltlichen Beratung zum Kauf."
+  ],
+  "antwort": 2,
+  "erklaerung": "Der Ersatzanspruch nach § 1100 BGB umfasst den gezahlten Kaufpreis, die Vertragskosten und vorzugswürdig auch die Kosten der Eigentumsvormerkung. Nicht erfasst sind gezahlte Grunderwerbsteuer und sonstige Aufwendungen wie Verdienstausfall oder Beratungskosten."
+ },
+ {
+  "id": "vork1-027",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Vorkaufsrecht: Rückabwicklung mit dem Vertragskäufer nach der Ausübung",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-ruckabwicklung-mit-dem-vertragskaufer-nach-der-ausubung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 464 Abs. 2 BGB"
+  ],
+  "frage": "Schuldet nach dem Maklervertrag der Verkäufer die Provision, wird er bei Ausübung des Vorkaufsrechts mangels Erfolgs von der Provisionspflicht frei.",
+  "antwort": false,
+  "erklaerung": "Für den Verkäufer tritt der Erfolg trotz Ausübung ein, da er das Grundstück verkauft; er bleibt zahlungspflichtig. Frei wird umgekehrt der Vertragskäufer, wenn er die Provision schuldet, weil für ihn der Erwerb scheitert. Soll dem Makler die Provision gesichert bleiben, ist die Maklerpflicht im Kaufvertrag selbst zu regeln, da diese Klausel dann auch den Vorkaufsberechtigten bindet."
+ },
+ {
+  "id": "vork1-028",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Vorkaufsrecht: Umgehung und Vorbehalte im Kaufvertrag",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-umgehung-und-vorbehalte-im-kaufvertrag",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 465 BGB"
+  ],
+  "frage": "Der Kaufvertrag enthält die Klausel: „Der Vertrag ist auflösend bedingt durch die Ausübung des Vorkaufsrechts des N.“ Welche Wirkung hat die Klausel?",
+  "optionen": [
+   "Sie ist insgesamt nichtig und macht den ganzen Kaufvertrag nach § 139 BGB unwirksam.",
+   "Sie wirkt nur zwischen Verkäufer und Käufer; gegenüber N ist sie unwirksam (§ 465 BGB).",
+   "Sie beseitigt mit der Ausübung den Vorkaufsfall, sodass N leer ausgeht.",
+   "Sie ist wirksam, wenn sie N vor Ausübung mitgeteilt wird."
+  ],
+  "antwort": 1,
+  "erklaerung": "Eine Vereinbarung, die den Kaufvertrag von der Nichtausübung des Vorkaufsrechts abhängig macht, ist dem Berechtigten gegenüber unwirksam (§ 465 BGB). Zwischen Verkäufer und Käufer bleibt sie wirksam und kann dort sinnvoll sein. Ein bereits entstandenes Vorkaufsrecht beseitigt sie nicht."
+ },
+ {
+  "id": "vork1-029",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Vorkaufsrecht: Umgehung und Vorbehalte im Kaufvertrag",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-umgehung-und-vorbehalte-im-kaufvertrag",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 465 BGB",
+   "§ 463 BGB"
+  ],
+  "frage": "Heben Verkäufer und Käufer den genehmigten und damit wirksamen Kaufvertrag einvernehmlich auf, bevor der Berechtigte ausgeübt hat, entfällt dessen Ausübungsrecht.",
+  "antwort": false,
+  "erklaerung": "Das Ausübungsrecht entsteht allein durch das Zustandekommen eines rechtswirksamen Kaufvertrags mit allen Genehmigungen. Danach kann es weder durch vorbehaltenen Rücktritt noch durch einvernehmliche Aufhebung beseitigt werden; beides ist dem Berechtigten gegenüber unwirksam."
+ },
+ {
+  "id": "vork1-030",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Vorkaufsrecht: Umgehung und Vorbehalte im Kaufvertrag",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-umgehung-und-vorbehalte-im-kaufvertrag",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 469 BGB"
+  ],
+  "frage": "Verkäufer und Käufer ändern nach der Mitteilung, aber vor der Ausübung den Kaufpreis. Was gilt gegenüber dem Vorkaufsberechtigten?",
+  "optionen": [
+   "Die Änderung ist ihm gegenüber unwirksam; maßgeblich bleibt der ursprünglich mitgeteilte Vertrag.",
+   "Die Änderung wirkt gegen ihn; sie ist ihm erneut mitzuteilen und setzt eine neue Ausübungsfrist in Lauf.",
+   "Die Änderung wirkt gegen ihn, die ursprüngliche Ausübungsfrist läuft aber unverändert weiter.",
+   "Die Änderung wirkt nur, wenn sie im Grundbuch eingetragen wird."
+  ],
+  "antwort": 1,
+  "erklaerung": "Bis zur Ausübungserklärung können die Parteien den Kaufvertrag mit Wirkung gegen den Berechtigten ändern. Die Änderung ist ihm erneut mitzuteilen und setzt eine neue Ausübungsfrist in Lauf. Unterbleibt die erneute Mitteilung, beginnt die neue Frist nicht – ein typischer Fehler."
+ },
+ {
+  "id": "vork1-031",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Vorkaufsrecht: Umgehung und Vorbehalte im Kaufvertrag",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-umgehung-und-vorbehalte-im-kaufvertrag",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 117 BGB",
+   "§ 162 Abs. 1 BGB"
+  ],
+  "frage": "Verkäufer und Käufer beurkunden einen deutlich überhöhten Kaufpreis, um den Vorkaufsberechtigten abzuschrecken; intern ist ein niedrigerer Preis vereinbart. Wie ist der beurkundete Vertrag zu beurteilen?",
+  "optionen": [
+   "Wirksam; der Berechtigte hat keinen Anspruch auf eine ausübungsfreundliche Gestaltung.",
+   "Als Scheingeschäft nichtig.",
+   "Wirksam, aber der Berechtigte kann nach § 162 Abs. 1 BGB zum internen Preis ausüben.",
+   "Schwebend unwirksam bis zur Genehmigung durch den Berechtigten."
+  ],
+  "antwort": 1,
+  "erklaerung": "Ein Kaufvertrag mit überhöhtem Scheinpreis zur Abschreckung des Berechtigten ist als Scheingeschäft nichtig (§ 117 BGB). Zwar hat der Berechtigte grundsätzlich keinen Anspruch auf eine ausübungsfreundliche Gestaltung, und auf § 162 Abs. 1 BGB kann er sich meist nicht mit Erfolg berufen; der Scheinpreis ist jedoch eine anerkannte Fallgruppe der Nichtigkeit."
+ },
+ {
+  "id": "vork1-032",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Vorkaufsrecht: Vorkaufsfall, Mitteilung, Frist und Ausübung",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-vorkaufsfall-mitteilung-frist-und-ausubung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 469 Abs. 2 S. 1 BGB",
+   "§ 1098 Abs. 1 S. 1 BGB"
+  ],
+  "frage": "Welche Ausübungsfrist gilt beim dinglichen Vorkaufsrecht kraft Gesetzes und wann beginnt sie?",
+  "optionen": [
+   "Ein Monat ab Beurkundung des Kaufvertrags.",
+   "Zwei Monate ab Zugang der Mitteilung beim Berechtigten.",
+   "Zwei Monate ab Eintritt der Wirksamkeit des Kaufvertrags.",
+   "Drei Monate ab Zugang der Mitteilung beim Berechtigten."
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Frist beträgt kraft Gesetzes zwei Monate und läuft ab Zugang der Mitteilung beim Berechtigten (§§ 1098 Abs. 1 S. 1, 469 Abs. 2 S. 1, 130 BGB). Die bloße Wirksamkeit des Kaufvertrags setzt sie nicht in Gang; unterbleibt die Mitteilung, beginnt sie nicht. Es handelt sich um eine Ausschlussfrist."
+ },
+ {
+  "id": "vork1-033",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Vorkaufsrecht: Vorkaufsfall, Mitteilung, Frist und Ausübung",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-vorkaufsfall-mitteilung-frist-und-ausubung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 464 Abs. 1 S. 1 BGB"
+  ],
+  "frage": "Eine vom Berechtigten gegenüber dem beurkundenden Notar abgegebene Ausübungserklärung ist wirksam, weil der Notar mit dem Vollzug des Kaufvertrags beauftragt ist.",
+  "antwort": false,
+  "erklaerung": "Die Ausübung erfolgt durch empfangsbedürftige Erklärung gegenüber dem Verkäufer (§ 464 Abs. 1 S. 1 BGB). Der Notar kann sie nur entgegennehmen, wenn der Verkäufer ihn dazu eigens bevollmächtigt hat; der allgemeine Vollzugsauftrag genügt nicht. Ohne diese Vollmacht ist die Erklärung gegenüber dem Notar unwirksam."
+ },
+ {
+  "id": "vork1-034",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Vorkaufsrecht: Vorkaufsfall, Mitteilung, Frist und Ausübung",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-vorkaufsfall-mitteilung-frist-und-ausubung",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 463 BGB",
+   "§ 1098 Abs. 1 S. 2 BGB",
+   "§ 466 BGB",
+   "§ 471 BGB"
+  ],
+  "frage": "Ordne zu, ob und warum der Vorgang beim dinglichen Vorkaufsrecht einen Vorkaufsfall begründet.",
+  "paare": [
+   [
+    "Freihändiger Verkauf durch den Insolvenzverwalter",
+    "Vorkaufsfall (§ 1098 Abs. 1 S. 2 BGB)"
+   ],
+   [
+    "Zwangsversteigerung",
+    "Ausübung ausgeschlossen (§ 471 BGB)"
+   ],
+   [
+    "Tausch gegen ein anderes Grundstück",
+    "Kein Vorkaufsfall mangels Kaufvertrags (§ 433 BGB)"
+   ],
+   [
+    "Kauf mit Nebenleistung, die in Geld ausgeglichen werden kann",
+    "Vorkaufsfall bleibt bestehen (§ 466 BGB)"
+   ]
+  ],
+  "erklaerung": "Der Vorkaufsfall setzt einen echten Kauf nach § 433 BGB voraus; Tausch, Schenkung oder Einbringung in eine Gesellschaft genügen nicht. Der freihändige Verkauf des Insolvenzverwalters ist ein Vorkaufsfall (§ 1098 Abs. 1 S. 2 BGB), die Zwangsversteigerung schließt die Ausübung aus (§ 471 BGB). Eine bloße Nebenleistung, die der Berechtigte erbringen oder in Geld ausgleichen kann, hindert den Vorkaufsfall nicht (§ 466 BGB)."
+ },
+ {
+  "id": "vork1-035",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Vorkaufsrecht: Vorkaufsfall, Mitteilung, Frist und Ausübung",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-vorkaufsfall-mitteilung-frist-und-ausubung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 469 Abs. 1 BGB"
+  ],
+  "frage": "Das Vorkaufsrecht soll im Zuge des Verkaufs an K gelöscht werden; der Berechtigte bewilligt die Löschung. Welche weitere Erklärung sollte der Notar einholen?",
+  "optionen": [
+   "Keine; mit der Löschungsbewilligung ist auch der aktuelle Verkaufsfall erledigt.",
+   "Die Erklärung des Berechtigten, dass er das Vorkaufsrecht für den aktuellen Verkaufsfall nicht ausübt.",
+   "Eine Genehmigung des Kaufvertrags durch den Berechtigten nach § 182 BGB.",
+   "Eine Vorkaufsrechtsbescheinigung des Berechtigten nach § 28 BauGB."
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Löschung wirkt erst mit Eintragung; der Vorkaufsfall ist aber mit dem wirksamen Kaufvertrag schon eingetreten. Deshalb ist auch bei beabsichtigter Löschung die Nichtausübungserklärung des Berechtigten für den aktuellen Verkaufsfall erforderlich (§ 469 Abs. 1 BGB). Eine Genehmigung des Kaufvertrags durch den Berechtigten ist nicht vorgesehen."
  }
 ]

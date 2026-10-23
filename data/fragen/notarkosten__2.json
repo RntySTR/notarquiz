@@ -833,5 +833,306 @@
   ],
   "antwort": 1,
   "erklaerung": "Der Grundsatz der einmaligen Erhebung (§ 93 Abs. 1 S. 1 GNotKG) gilt nur innerhalb desselben Beurkundungsverfahrens. Da jede Niederschrift nach § 85 Abs. 2 GNotKG ein eigenes Verfahren bildet, entsteht die Vollzugsgebühr grundsätzlich je Urkunde, jeweils aus dem gesamten Verfahrenswert (§ 112 GNotKG)."
+ },
+ {
+  "id": "kost2-038",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte",
+  "seite": "Notargebühren: Vollzugstätigkeiten, Gebührensatz und Deckelung (KV 22110–22115 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-vollzugstatigkeiten-gebuhrensatz-und-deckelung-kv-22110-22115-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 22112 GNotKG",
+   "Vorb. 2.2.1.1 Abs. 1 S. 2 Nr. 1 KV GNotKG"
+  ],
+  "frage": "Beim Vollzug eines Grundstückskaufvertrags holt der Notar ausschließlich das Vorkaufsrechtszeugnis der Gemeinde und eine Sanierungsgenehmigung ein. Was gilt für die Vollzugsgebühr?",
+  "optionen": [
+   "0,5-Gebühr ohne Begrenzung",
+   "0,5-Gebühr, begrenzt auf insgesamt 100 € (50 € je einfacher Tätigkeit)",
+   "Festgebühr von 50 €, unabhängig vom Geschäftswert",
+   "0,5-Gebühr, begrenzt auf 250 €"
+  ],
+  "antwort": 1,
+  "erklaerung": "Beschränkt sich der Vollzug ausschließlich auf einfache Tätigkeiten nach Vorb. 2.2.1.1 Abs. 1 S. 2 Nr. 1 bis 3 KV GNotKG, wird die Gebühr für öffentlich-rechtliche Erklärungen auf 50 € je Tätigkeit begrenzt (KV 22112 GNotKG); die Obergrenze wächst mit der Zahl der Tätigkeiten. Sie ist weder Mindest- noch Festgebühr, bei niedrigem Wert bleibt die Gebühr darunter. 250 € je Liste gelten nur für Gesellschafterlisten (KV 22113 GNotKG)."
+ },
+ {
+  "id": "kost2-039",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte",
+  "seite": "Notargebühren: Vollzugstätigkeiten, Gebührensatz und Deckelung (KV 22110–22115 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-vollzugstatigkeiten-gebuhrensatz-und-deckelung-kv-22110-22115-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "Vorb. 2.2.1.1 Abs. 1 S. 2 Nr. 1 KV GNotKG"
+  ],
+  "frage": "Die Einholung der Unbedenklichkeitsbescheinigung des Finanzamts ist als öffentlich-rechtliche Bescheinigung eine gebührenpflichtige Vollzugstätigkeit nach Vorb. 2.2.1.1 Abs. 1 S. 2 Nr. 1 KV GNotKG.",
+  "antwort": false,
+  "erklaerung": "Die Unbedenklichkeitsbescheinigung des Finanzamts ist von Nr. 1 ausdrücklich ausgenommen; ihre Einholung ist stets gebührenfrei. Erfasst sind dagegen etwa Vorkaufsrechtszeugnis, Sanierungsgenehmigung oder Genehmigung nach § 3 ASVG. Hierfür eine Vollzugsgebühr zu berechnen ist ein typischer Fehler."
+ },
+ {
+  "id": "kost2-040",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte",
+  "seite": "Notargebühren: Vollzugstätigkeiten, Gebührensatz und Deckelung (KV 22110–22115 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-vollzugstatigkeiten-gebuhrensatz-und-deckelung-kv-22110-22115-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "KV 22112 GNotKG",
+   "KV 22110 GNotKG"
+  ],
+  "frage": "Der Notar holt beim Kaufvertragsvollzug das Vorkaufsrechtszeugnis der Gemeinde und zusätzlich die Löschungsbewilligung der Verkäuferbank ein. Was gilt?",
+  "optionen": [
+   "Deckelung auf 50 € für das Vorkaufsrechtszeugnis, daneben 0,5 für die Löschungsbewilligung",
+   "Deckelung auf 100 €, da zwei Tätigkeiten vorliegen",
+   "Ungedeckelte 0,5-Gebühr nach KV 22110 GNotKG, weil eine nicht einfache Tätigkeit hinzukommt",
+   "Zwei getrennte Vollzugsgebühren je Tätigkeit"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Deckelung nach KV 22112 GNotKG setzt voraus, dass sich der Vollzug ausschließlich auf einfache Tätigkeiten (Nr. 1 bis 3) beschränkt. Die Löschungsbewilligung fällt unter Nr. 9 und ist keine einfache Tätigkeit; damit entfällt die Deckelung insgesamt, und es bleibt bei der 0,5-Gebühr nach KV 22110 GNotKG, die nach § 93 GNotKG nur einmal entsteht."
+ },
+ {
+  "id": "kost2-041",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte",
+  "seite": "Notargebühren: Vollzugstätigkeiten, Gebührensatz und Deckelung (KV 22110–22115 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-vollzugstatigkeiten-gebuhrensatz-und-deckelung-kv-22110-22115-gnotkg",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 22114 GNotKG",
+   "KV 22115 GNotKG",
+   "KV 22125 GNotKG",
+   "KV 22111 GNotKG"
+  ],
+  "frage": "Ordne den Tatbeständen Gebührensatz und Höchstbetrag zu.",
+  "paare": [
+   [
+    "KV 22114 GNotKG (XML ohne weitere Vollzugsgebühr)",
+    "0,2, höchstens 125 €"
+   ],
+   [
+    "KV 22115 GNotKG (XML neben Gebühr nach KV 22110–22113)",
+    "0,1, höchstens 125 €"
+   ],
+   [
+    "KV 22125 GNotKG (XML im Vollzug in besonderen Fällen)",
+    "0,5, höchstens 250 €"
+   ],
+   [
+    "KV 22111 GNotKG (Vollzug bei geringerem Verfahrenssatz)",
+    "0,3 ohne Höchstbetrag"
+   ]
+  ],
+  "erklaerung": "Die XML-Gebühr entsteht gesondert neben der übrigen Vollzugsgebühr, je Verfahren nach § 93 GNotKG aber nur einmal. Ihr Satz beträgt 0,2 (KV 22114 GNotKG) oder neben anderen Vollzugsgebühren 0,1 (KV 22115 GNotKG), jeweils höchstens 125 €; im Vollzug in besonderen Fällen 0,5, höchstens 250 € (KV 22125 GNotKG). Die Vollzugsgebühr beträgt bei einseitigen Erklärungen und ermäßigten Verfahrenssätzen 0,3 (KV 22111 GNotKG)."
+ },
+ {
+  "id": "kost2-042",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte",
+  "seite": "Notargebühren: Vollzugstätigkeiten, Gebührensatz und Deckelung (KV 22110–22115 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-vollzugstatigkeiten-gebuhrensatz-und-deckelung-kv-22110-22115-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "Vorb. 2.4.1 Abs. 4 Nr. 1 KV GNotKG",
+   "KV 22114 GNotKG",
+   "KV 22124 GNotKG",
+   "KV 22125 GNotKG"
+  ],
+  "frage": "Der Notar entwirft eine Handelsregisteranmeldung, beglaubigt die Unterschrift und reicht sie elektronisch ein. Welche Vollzugsgebühr kommt zur Entwurfsgebühr hinzu?",
+  "optionen": [
+   "Nur die XML-Gebühr nach KV 22114 GNotKG",
+   "Gebühr nach KV 22124 GNotKG und XML-Gebühr nach KV 22125 GNotKG",
+   "0,5-Vollzugsgebühr nach KV 22110 GNotKG und XML-Gebühr nach KV 22115 GNotKG",
+   "Keine, auch die XML-Strukturdaten sind mit der Entwurfsgebühr abgegolten"
+  ],
+  "antwort": 0,
+  "erklaerung": "Nach Entwurf und Unterschriftsbeglaubigung durch den Notar ist die Übermittlung mit der Entwurfsgebühr abgegolten (Vorb. 2.4.1 Abs. 4 Nr. 1 KV GNotKG); hinzu kommt nur die XML-Gebühr nach KV 22114 GNotKG. KV 22124 und 22125 GNotKG greifen erst bei Beglaubigung unter einem Fremdentwurf."
+ },
+ {
+  "id": "kost2-043",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Beschlüsse von Organen (§ 108 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-beschlusse-von-organen-108-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 108 Abs. 1 GNotKG",
+   "§ 97 Abs. 1 GNotKG"
+  ],
+  "frage": "Die Gesellschafterversammlung einer GmbH beschließt eine Kapitalerhöhung um 50.000 € gegen Ausgabe neuer Anteile mit einem Agio von 450.000 €. Welcher Geschäftswert gilt für den Kapitalerhöhungsbeschluss?",
+  "optionen": [
+   "50.000 € (Nominalbetrag)",
+   "30.000 € (Mindestwert nach § 105 Abs. 1 GNotKG)",
+   "500.000 € (Nominalbetrag einschließlich Agio)",
+   "1 % des Stammkapitals, mindestens 30.000 €"
+  ],
+  "antwort": 2,
+  "erklaerung": "Für Beschlüsse mit bestimmtem Geldwert enthält § 108 GNotKG keine eigene Bewertungsregel; maßgeblich ist das Rechtsverhältnis nach § 97 Abs. 1 GNotKG, also der gesamte Inhalt einschließlich Agio. Die Bewertung nur mit dem Nominalbetrag ist ein typischer Fehler; nur die Registeranmeldung wird mit dem Nominalbetrag bewertet. 1 % des Stammkapitals gilt für Beschlüsse ohne bestimmten Geldwert."
+ },
+ {
+  "id": "kost2-044",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Beschlüsse von Organen (§ 108 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-beschlusse-von-organen-108-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 108 Abs. 1 S. 2 GNotKG",
+   "§ 105 Abs. 6 GNotKG"
+  ],
+  "frage": "Für den Kapitalerhöhungsbeschluss einer mit Musterprotokoll gegründeten UG (haftungsbeschränkt) entfällt der Mindestwert von 30.000 €, weil § 105 Abs. 6 GNotKG die Musterprotokollgesellschaft privilegiert.",
+  "antwort": false,
+  "erklaerung": "Für Beschlüsse mit bestimmtem Geldwert verweist § 108 GNotKG nicht auf § 105 Abs. 6 GNotKG. Der Mindestwert von 30.000 € nach § 108 Abs. 1 S. 2 GNotKG gilt daher auch für den Kapitalerhöhungsbeschluss der Musterprotokoll-UG. Die Privilegierung des § 105 Abs. 6 GNotKG greift nur für die Registeranmeldung dieses Beschlusses."
+ },
+ {
+  "id": "kost2-045",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Beschlüsse von Organen (§ 108 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-beschlusse-von-organen-108-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 108 Abs. 2 GNotKG",
+   "§ 98 GNotKG"
+  ],
+  "frage": "Die Gesellschafterversammlung beschließt die Zustimmung zur Veräußerung eines Betriebsgrundstücks für 2.000.000 €. Welcher Geschäftswert gilt für den Zustimmungsbeschluss?",
+  "optionen": [
+   "1.000.000 €, da Zustimmungen mit dem halben Wert anzusetzen sind (§ 98 GNotKG)",
+   "2.000.000 €, der Wert des Geschäfts, dem zugestimmt wird (§ 108 Abs. 2 GNotKG)",
+   "30.000 € als Beschluss ohne bestimmten Geldwert",
+   "1 % des Stammkapitals"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei Zustimmungsbeschlüssen zu bestimmten Rechtsgeschäften ist nach § 108 Abs. 2 GNotKG der volle Wert des Geschäfts maßgeblich, dem zugestimmt wird. Der halbe Wert nach § 98 GNotKG gilt nur für Zustimmungserklärungen; beides ist sorgfältig zu unterscheiden. § 108 Abs. 2 GNotKG geht als Sonderregel dem Abs. 1 vor."
+ },
+ {
+  "id": "kost2-046",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Beschlüsse von Organen (§ 108 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-beschlusse-von-organen-108-gnotkg",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 108 Abs. 1 GNotKG",
+   "§ 108 Abs. 3 GNotKG",
+   "§ 108 Abs. 4 GNotKG"
+  ],
+  "frage": "Ordne dem Beschluss die zutreffende Wertregel zu.",
+  "paare": [
+   [
+    "Sitzverlegung einer GmbH (ohne bestimmten Geldwert)",
+    "1 % des Stammkapitals, mindestens 30.000 €"
+   ],
+   [
+    "Verschmelzungsbeschluss nach dem UmwG",
+    "Wert des übergehenden Vermögens (§ 108 Abs. 3 GNotKG)"
+   ],
+   [
+    "Mehrere Beschlüsse mit verschiedenen Gegenständen in einer Niederschrift",
+    "Höchstwert 5.000.000 € insgesamt (§ 108 Abs. 4 GNotKG)"
+   ],
+   [
+    "Allgemeiner Beschluss einer rechtsfähigen Personengesellschaft ohne bestimmten Geldwert",
+    "30.000 €"
+   ]
+  ],
+  "erklaerung": "Beschlüsse ohne bestimmten Geldwert werden über § 108 Abs. 1 GNotKG wie die entsprechende Registeranmeldung nach § 105 Abs. 4 GNotKG bewertet (Kapitalgesellschaft 1 %, mindestens 30.000 €; Personengesellschaft 30.000 €). Umwandlungsbeschlüsse tragen den vollen Vermögenswert (§ 108 Abs. 3 GNotKG), anders als die Anmeldung der Umwandlung. Der Höchstwert von 5 Mio. € gilt auch bei mehreren gegenstandsverschiedenen Beschlüssen."
+ },
+ {
+  "id": "kost2-047",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Ehevertrag und Lebenspartnerschaftsvertrag (§ 100 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-ehevertrag-und-lebenspartnerschaftsvertrag-100-gnotkg",
+  "typ": "fall",
+  "frage": "Modifizierte Zugewinngemeinschaft",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 100 Abs. 1 GNotKG",
+   "§ 100 Abs. 3 GNotKG",
+   "KV 21100 GNotKG"
+  ],
+  "sachverhalt": "Die Eheleute M und F vereinbaren in notariellem Ehevertrag, dass der Zugewinnausgleich für jede Beendigung der Ehe außer durch Tod ausgeschlossen wird. M hat Aktivvermögen von 400.000 € und Darlehensverbindlichkeiten von 300.000 €, F hat Aktivvermögen von 100.000 € und keine Schulden. Zusätzlich wird geregelt, dass das im Urkundstext genau bezeichnete Mehrfamilienhaus der Mutter der F (Wert 500.000 €), das F später erben soll, dem Zugewinnausgleich entzogen ist.",
+  "schritte": [
+   {
+    "frage": "Mit welchem Wert ist das Vermögen des M anzusetzen?",
+    "optionen": [
+     "400.000 €",
+     "100.000 €",
+     "200.000 €",
+     "0 €"
+    ],
+    "antwort": 2,
+    "erklaerung": "Verbindlichkeiten mindern das Vermögen nach § 100 Abs. 1 S. 3 GNotKG höchstens bis zur Hälfte des maßgeblichen Werts, und zwar je Ehegatte (§ 100 Abs. 1 S. 4 GNotKG). Von 400.000 € dürfen höchstens 200.000 € abgezogen werden; anzusetzen sind 200.000 €."
+   },
+   {
+    "frage": "Wird das modifizierte Reinvermögen wegen der bloßen Modifikation nur anteilig angesetzt?",
+    "optionen": [
+     "Ja, mit 30 %",
+     "Ja, mit 50 %",
+     "Nein, in voller Höhe",
+     "Nein, es gilt der Auffangwert nach § 36 GNotKG"
+    ],
+    "antwort": 2,
+    "erklaerung": "§ 100 Abs. 1 GNotKG gilt auch für jede bloße Modifikation des gesetzlichen Güterstands; ein Teilwert scheidet grundsätzlich aus. Der Ansatz eines Bruchteils ist ein typischer Fehler."
+   },
+   {
+    "frage": "Wie hoch ist der Geschäftswert insgesamt?",
+    "optionen": [
+     "300.000 €",
+     "450.000 €",
+     "800.000 €",
+     "500.000 €"
+    ],
+    "antwort": 1,
+    "erklaerung": "Modifiziertes Reinvermögen: M 200.000 € + F 100.000 € = 300.000 €. Das konkret bezeichnete künftige Vermögen fließt nach § 100 Abs. 3 GNotKG mit 30 % hinzu (150.000 €), und zwar als echte Hinzurechnung. Insgesamt 450.000 €; die Gebühr beträgt 2,0 nach KV 21100 GNotKG."
+   }
+  ],
+  "erklaerung": "Das Reinvermögen ist je Ehegatte mit auf die Hälfte begrenztem Schuldenabzug zu ermitteln (§ 100 Abs. 1 S. 3, 4 GNotKG) und auch bei bloßer Modifikation voll anzusetzen. Konkret bezeichnetes künftiges Vermögen wird mit 30 % hinzugerechnet (§ 100 Abs. 3 GNotKG); Ergebnis 450.000 €."
+ },
+ {
+  "id": "kost2-048",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Ehevertrag und Lebenspartnerschaftsvertrag (§ 100 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-ehevertrag-und-lebenspartnerschaftsvertrag-100-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 100 Abs. 3 GNotKG",
+   "§ 100 Abs. 1 GNotKG"
+  ],
+  "frage": "Eine pauschale Klausel, nach der künftige Erwerbe durch Erbschaft oder Schenkung dem Anfangsvermögen zugerechnet werden, ist nach § 100 Abs. 3 GNotKG mit 30 % des Werts der zu erwartenden Erwerbe zu bewerten.",
+  "antwort": false,
+  "erklaerung": "§ 100 Abs. 3 GNotKG setzt voraus, dass der künftige Vermögenswert im Ehevertrag konkret bezeichnet ist. Eine pauschale Klausel über künftige Erbschaften oder Schenkungen bezeichnet keinen Gegenstand; sie ist eine allgemeine Modifikation und nach § 100 Abs. 1 GNotKG mit dem modifizierten Reinvermögen beider Ehegatten zu bewerten."
+ },
+ {
+  "id": "kost2-049",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Ehevertrag und Lebenspartnerschaftsvertrag (§ 100 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-ehevertrag-und-lebenspartnerschaftsvertrag-100-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 100 Abs. 2 GNotKG"
+  ],
+  "frage": "Die Eheleute nehmen in einem Ehevertrag ausschließlich die bereits im Eigentum des Ehemanns stehende Eigentumswohnung (Verkehrswert 300.000 €, Grundschuldvaluta 180.000 €) aus dem Zugewinnausgleich heraus. Das modifizierte Reinvermögen beider Ehegatten beträgt 600.000 €. Welcher Geschäftswert gilt?",
+  "optionen": [
+   "120.000 € (Verkehrswert abzüglich Schulden)",
+   "150.000 € (Verkehrswert abzüglich Schulden, höchstens bis zur Hälfte)",
+   "300.000 € (Aktivwert der Wohnung)",
+   "600.000 € (modifiziertes Reinvermögen)"
+  ],
+  "antwort": 2,
+  "erklaerung": "Erfasst der Ehevertrag ausschließlich einzelne vorhandene Vermögenswerte, ist nach § 100 Abs. 2 GNotKG deren Wert maßgeblich, begrenzt auf den Wert nach § 100 Abs. 1 GNotKG. Anzusetzen ist der Aktivwert; auf der Immobilie lastende Schulden werden nicht abgezogen. Der Schuldenabzug bis zur Hälfte gilt nur für das Reinvermögen nach § 100 Abs. 1 GNotKG."
  }
 ]
