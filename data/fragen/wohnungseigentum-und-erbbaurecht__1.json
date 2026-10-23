@@ -505,5 +505,283 @@
   ],
   "antwort": 1,
   "erklaerung": "Im Sanierungsgebiet ist die Teilung nach § 8 WEG keine Veräußerung und daher nicht nach § 144 BauGB genehmigungspflichtig. Der Teilungsvertrag nach § 3 WEG mit Anteilsübertragung enthält dagegen eine Verfügung über einen Miteigentumsanteil und löst die Genehmigungspflicht aus; deshalb ist § 8 WEG vorzuziehen."
+ },
+ {
+  "id": "wohn1-025",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Begründung von Wohnungseigentum: Zustimmung dinglich Berechtigter und gerichtliche Genehmigung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/begrundung-von-wohnungseigentum-zustimmung-dinglich-berechtigter-und-gerichtliche-genehmigung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1132 BGB"
+  ],
+  "frage": "Das ganze Grundstück des E ist mit einer Grundschuld der B-Bank belastet. E teilt nach § 8 WEG in zehn Einheiten auf. Ist die Zustimmung der B-Bank erforderlich?",
+  "optionen": [
+   "Ja, nach §§ 876, 877 BGB, weil sich der Gegenstand der Belastung ändert",
+   "Ja, weil die Grundschuld sonst nur an einer Einheit fortbesteht",
+   "Nein, die Grundschuld setzt sich als Gesamtrecht an allen Einheiten fort",
+   "Nein, aber die Grundschuld erlischt mit Anlegung der Wohnungsgrundbücher"
+  ],
+  "antwort": 2,
+  "erklaerung": "Lastet ein Recht auf dem ganzen Grundstück, setzt es sich an allen Wohnungseinheiten fort; ein Grundpfandrecht wird Gesamtrecht (§ 1132 BGB). Eine Zustimmung ist daher entbehrlich, bei § 8 WEG ohnehin, weil die §§ 876, 877 BGB auf diese Aufteilung weder unmittelbar noch entsprechend anwendbar sind."
+ },
+ {
+  "id": "wohn1-026",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Begründung von Wohnungseigentum: Zustimmung dinglich Berechtigter und gerichtliche Genehmigung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/begrundung-von-wohnungseigentum-zustimmung-dinglich-berechtigter-und-gerichtliche-genehmigung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 876 BGB",
+   "§ 877 BGB"
+  ],
+  "frage": "A und B sind Miteigentümer zu je 1/2; nur der Anteil des A ist mit einer Grundschuld belastet. A und B schließen einen Teilungsvertrag nach § 3 WEG. Was gilt für den Grundschuldgläubiger?",
+  "optionen": [
+   "Er muss zustimmen, weil die Aufteilung den Gegenstand des belasteten Anteils verändert",
+   "Er muss nicht zustimmen, weil sich die Grundschuld am Wohnungseigentum fortsetzt",
+   "Er muss nur zustimmen, wenn der Anteil des A verkleinert wird",
+   "Er muss nicht zustimmen, weil die §§ 876, 877 BGB auf die Aufteilung nicht anwendbar sind"
+  ],
+  "antwort": 0,
+  "erklaerung": "Der Teilungsvertrag nach § 3 WEG weist Eigentum dinglich neu zu; neben dem WEG gelten die §§ 873 ff. BGB und damit die §§ 877, 876 BGB. Ist ein Miteigentumsanteil selbständig belastet, müssen die Berechtigten zustimmen, weil der Gegenstand des belasteten Anteils verändert wird. Die Unanwendbarkeit der §§ 876, 877 BGB gilt nur für die Teilung nach § 8 WEG."
+ },
+ {
+  "id": "wohn1-027",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Begründung von Wohnungseigentum: Zustimmung dinglich Berechtigter und gerichtliche Genehmigung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/begrundung-von-wohnungseigentum-zustimmung-dinglich-berechtigter-und-gerichtliche-genehmigung",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 10 Abs. 1 Nr. 2 ZVG"
+  ],
+  "frage": "Wegen des Rangklassenprivilegs für Hausgeldforderungen (§ 10 Abs. 1 Nr. 2 ZVG) müssen die Gläubiger eines auf dem ganzen Grundstück lastenden Grundpfandrechts der Aufteilung in Wohnungseigentum nach h.M. zustimmen.",
+  "antwort": false,
+  "erklaerung": "Nach BGH und h.M. hat das Rangklassenprivileg nichts daran geändert, dass bei Belastung des ganzen Grundstücks keine Zustimmung erforderlich ist. Die Aufteilung benachteiligt die Grundpfandgläubiger nicht rechtlich im Sinne der §§ 877, 876 BGB, weil der Vorrang nur auf einer gesetzlichen Rangordnung beruht; die Gegenansicht (u.a. OLG Frankfurt) hat sich nicht durchgesetzt."
+ },
+ {
+  "id": "wohn1-028",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Begründung von Wohnungseigentum: Zustimmung dinglich Berechtigter und gerichtliche Genehmigung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/begrundung-von-wohnungseigentum-zustimmung-dinglich-berechtigter-und-gerichtliche-genehmigung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1850 Nr. 4 BGB"
+  ],
+  "frage": "Ein minderjähriges Kind ist Alleineigentümer eines Mehrfamilienhauses; die Eltern wollen für das Kind nach § 8 WEG aufteilen. Was gilt für die familiengerichtliche Genehmigung?",
+  "optionen": [
+   "Keine Genehmigung, weil bei § 8 WEG keine Verfügung über das Grundstück vorliegt",
+   "Genehmigung erforderlich nach § 1850 Nr. 4 BGB, weil das Kind ohne Gegenleistung Wohnungs- und Teileigentum erhält",
+   "Genehmigung nur erforderlich, wenn zugleich Einheiten veräußert werden",
+   "Keine Genehmigung, weil die Teilung lediglich rechtlich vorteilhaft ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei der Teilung nach § 8 WEG ist nach der Seite eine Genehmigung nach § 1850 Nr. 4 BGB erforderlich, weil der Vertretene durch die Teilung ohne Gegenleistung Wohnungs- und Teileigentum erhält (anders zur früheren Rechtslage KG; a.A. Schöner/Stöber). Beim Teilungsvertrag nach § 3 WEG ist die Genehmigung als Verfügung über ein Grundstück (§ 1850 Nr. 1 BGB) ohnehin unzweifelhaft erforderlich."
+ },
+ {
+  "id": "wohn1-029",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Gemeinschaft der Wohnungseigentümer: Entstehen und werdender Wohnungseigentümer",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/gemeinschaft-der-wohnungseigentumer-entstehen-und-werdender-wohnungseigentumer",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 9a Abs. 1 S. 2 WEG"
+  ],
+  "frage": "Wann entsteht die Gemeinschaft der Wohnungseigentümer bei einer Teilung nach § 8 WEG?",
+  "optionen": [
+   "Mit Beurkundung der Teilungserklärung",
+   "Mit Anlegung der Wohnungsgrundbücher",
+   "Mit Eintragung des ersten Erwerbers neben dem teilenden Eigentümer",
+   "Mit Bezugsfertigkeit des Gebäudes"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die GdWE entsteht nach § 9a Abs. 1 S. 2 WEG, sobald die Wohnungsgrundbücher angelegt sind, auch bei einer Teilung nach § 8 WEG. Ein zweiter Eigentümer ist seit dem WEMoG nicht mehr nötig; eine Vor-Gemeinschaft zwischen Beurkundung und Anlegung gibt es nicht."
+ },
+ {
+  "id": "wohn1-030",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Gemeinschaft der Wohnungseigentümer: Entstehen und werdender Wohnungseigentümer",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/gemeinschaft-der-wohnungseigentumer-entstehen-und-werdender-wohnungseigentumer",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 9a Abs. 1 S. 2 WEG"
+  ],
+  "frage": "Die Gemeinschaft der Wohnungseigentümer entsteht auch dann, wenn nach Anlegung der Wohnungsgrundbücher noch alle Einheiten dem teilenden Eigentümer gehören und das Gebäude noch nicht errichtet ist.",
+  "antwort": true,
+  "erklaerung": "Seit dem WEMoG ist die Ein-Personen-Gemeinschaft gesetzlich anerkannt; die GdWE entsteht mit Anlegung der Wohnungsgrundbücher auch dann, wenn alle Einheiten derselben Person gehören (§ 9a Abs. 1 S. 2 WEG). Ob das Gebäude schon steht, ist für das Entstehen gleichgültig."
+ },
+ {
+  "id": "wohn1-031",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Gemeinschaft der Wohnungseigentümer: Entstehen und werdender Wohnungseigentümer",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/gemeinschaft-der-wohnungseigentumer-entstehen-und-werdender-wohnungseigentumer",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 8 Abs. 3 WEG"
+  ],
+  "frage": "Ein vormerkungsgesicherter Erwerber vom teilenden Eigentümer wird auch dann werdender Wohnungseigentümer, wenn er sich den Besitz an der Wohnung durch verbotene Eigenmacht verschafft hat.",
+  "antwort": false,
+  "erklaerung": "§ 8 Abs. 3 WEG verlangt, dass dem Erwerber der Besitz übergeben wurde. Wer sich den Besitz durch verbotene Eigenmacht verschafft, wird nach BGH nicht werdender Wohnungseigentümer, auch wenn Anspruch, Vormerkung und angelegte Wohnungsgrundbücher vorliegen."
+ },
+ {
+  "id": "wohn1-032",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Gemeinschaft der Wohnungseigentümer: Entstehen und werdender Wohnungseigentümer",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/gemeinschaft-der-wohnungseigentumer-entstehen-und-werdender-wohnungseigentumer",
+  "typ": "fall",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 8 Abs. 3 WEG"
+  ],
+  "frage": "Werdender Wohnungseigentümer und Zweiterwerber",
+  "sachverhalt": "Die B-GmbH hat ihr Grundstück nach § 8 WEG aufgeteilt; die Wohnungsgrundbücher sind angelegt. K kauft von ihr die Wohnung Nr. 5; für K ist eine Auflassungsvormerkung eingetragen und ihm wurde der Besitz übergeben. Vor seiner Eintragung als Eigentümer verkauft K die Wohnung an Z weiter und übergibt ihm den Besitz.",
+  "schritte": [
+   {
+    "frage": "Welche Stellung hat K vor seiner Eintragung?",
+    "optionen": [
+     "Keine; Wohnungseigentümer ist bis zur Eintragung allein die B-GmbH",
+     "Er gilt als Wohnungseigentümer nach § 8 Abs. 3 WEG, weil Anspruch, Vormerkung, angelegte Grundbücher und Besitzübergabe vorliegen",
+     "Er ist Mitglied einer werdenden Gemeinschaft im früheren Sinn",
+     "Er gilt erst nach Ablauf einer Wartefrist als Wohnungseigentümer"
+    ],
+    "antwort": 1,
+    "erklaerung": "K erfüllt alle Voraussetzungen des § 8 Abs. 3 WEG: wirksamer Übertragungsanspruch, angelegte Wohnungsgrundbücher, Vormerkung und Besitzübergabe. Eine zeitliche Grenze kennt die Vorschrift nicht; eine werdende Gemeinschaft im früheren Sinn gibt es nicht mehr."
+   },
+   {
+    "frage": "Wer schuldet der GdWE das Hausgeld für Wohnung Nr. 5, solange K werdender Wohnungseigentümer ist?",
+    "optionen": [
+     "Die B-GmbH und K als Gesamtschuldner",
+     "Allein die B-GmbH als eingetragene Eigentümerin",
+     "K; die B-GmbH trägt für die Einheit keine Kosten mehr und haftet nicht als Gesamtschuldner",
+     "Die GdWE trägt die Kosten bis zur Eintragung selbst"
+    ],
+    "antwort": 2,
+    "erklaerung": "Der werdende Wohnungseigentümer wird wie ein Eigentümer behandelt, insbesondere bei der Kostentragung (vgl. § 16 Abs. 2 S. 1 WEG). Der aufteilende Eigentümer trägt für die veräußerte Einheit keine Kosten mehr und haftet auch nicht als Gesamtschuldner (BGH)."
+   },
+   {
+    "frage": "Erlangt Z die Stellung eines werdenden Wohnungseigentümers?",
+    "optionen": [
+     "Ja, er tritt in die Stellung des K ein",
+     "Ja, sobald für ihn eine eigene Vormerkung eingetragen ist",
+     "Nein, der Zweiterwerber erlangt die Stellung nach § 8 Abs. 3 WEG nicht",
+     "Nur, wenn die B-GmbH dem Weiterverkauf zustimmt"
+    ],
+    "antwort": 2,
+    "erklaerung": "Verkauft der Erwerber vor seiner Eintragung weiter, erlangt der Zweiterwerber die Stellung nach § 8 Abs. 3 WEG nach h.M. nicht (so zum alten Recht auch BGH; a.A. Lehmann-Richter/Wobst). Die Vorschrift schützt nur den Erwerber vom teilenden Eigentümer."
+   },
+   {
+    "frage": "Was sollte der Notar im Kaufvertrag K–Z regeln?",
+    "optionen": [
+     "Nichts, Z wird mit Besitzübergabe automatisch stimmberechtigt",
+     "Das Innenverhältnis zu Nutzungen, Kosten und Lasten sowie eine Stimmrechtsvollmacht für Z",
+     "Eine Zustimmung der GdWE zur Übertragung der Stellung des K",
+     "Die Eintragung des Z als werdender Wohnungseigentümer im Grundbuch"
+    ],
+    "antwort": 1,
+    "erklaerung": "Beim Zweiterwerb sollte stets das Innenverhältnis zu Nutzungen, Kosten und Lasten geregelt und dem Erwerber eine Stimmrechtsvollmacht erteilt werden (BGH), weil Z gegenüber der GdWE nicht als Eigentümer gilt."
+   }
+  ],
+  "erklaerung": "K ist werdender Wohnungseigentümer nach § 8 Abs. 3 WEG, trägt die Kosten und ist stimmberechtigt; die B-GmbH ist insoweit entlastet. Z als Zweiterwerber erlangt diese Stellung nicht, weshalb Innenverhältnis und Stimmrechtsvollmacht vertraglich zu regeln sind."
+ },
+ {
+  "id": "wohn1-033",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Gemeinschaftsordnung: Gestaltungen zu Sondereigentum, Erhaltung, Kosten und Versicherungen",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/gemeinschaftsordnung-gestaltungen-zu-sondereigentum-erhaltung-kosten-und-versicherungen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 7 Abs. 3 S. 2 WEG"
+  ],
+  "frage": "Die Gemeinschaftsordnung sieht vor, dass ein rechtsgeschäftlicher Erwerber neben dem Veräußerer gesamtschuldnerisch für dessen Hausgeldrückstände haftet. Unter welcher Voraussetzung wirkt diese Regelung gegen Sondernachfolger?",
+  "optionen": [
+   "Wenn der Verwalter dem Erwerber die Gemeinschaftsordnung vor dem Kauf aushändigt",
+   "Wenn sie ausdrücklich im Grundbuch eingetragen ist",
+   "Wenn die Eigentümerversammlung sie mit einfacher Mehrheit bestätigt",
+   "Ohne Weiteres, weil die Gemeinschaftsordnung Inhalt des Sondereigentums ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 7 Abs. 3 S. 2 WEG wirkt eine solche Erwerberhaftung gegen Sondernachfolger nur, wenn sie ausdrücklich im Grundbuch eingetragen ist. Die bloße Bezugnahme auf die Gemeinschaftsordnung als Inhalt des Sondereigentums genügt dafür nicht. Erfasst sind Abrechnungsschulden, Hausgeldvorschüsse und Anteile an Sonderumlagen."
+ },
+ {
+  "id": "wohn1-034",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Gemeinschaftsordnung: Gestaltungen zu Sondereigentum, Erhaltung, Kosten und Versicherungen",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/gemeinschaftsordnung-gestaltungen-zu-sondereigentum-erhaltung-kosten-und-versicherungen",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Ordne die in Gemeinschaftsordnungen üblichen Kostenregelungen der jeweiligen Kostenart zu.",
+  "paare": [
+   [
+    "Verwaltervergütung",
+    "Nach der Zahl der Einheiten, abänderbar durch einfachen Mehrheitsbeschluss"
+   ],
+   [
+    "Abgrenzbare Betriebskosten der Tiefgarage",
+    "Nur die Eigentümer, deren Sondereigentum in diesem Anlagenteil liegt"
+   ],
+   [
+    "Leitungsstrang zu einer Einheit ab Abzweigung von der Gemeinschaftsleitung",
+    "Der Eigentümer dieser Einheit, soweit sich die Kosten trennen lassen"
+   ],
+   [
+    "Anlage eines Mehrfachparkers",
+    "Die Eigentümer der Stellplätze, denen sie dient, zu gleichen Teilen je Stellplatz"
+   ],
+   [
+    "Lasten und Kosten des Gemeinschaftseigentums ohne Sonderregel",
+    "Nach Miteigentumsanteilen"
+   ]
+  ],
+  "erklaerung": "Ohne abweichende Regelung werden Lasten und Kosten des Gemeinschaftseigentums nach Miteigentumsanteilen verteilt. Häufig vereinbart die Gemeinschaftsordnung Sonderschlüssel: Verwaltervergütung nach Einheiten, Tiefgaragenkosten nur für die dortigen Eigentümer, Leitungsstränge ab Abzweigung für den jeweiligen Eigentümer und Mehrfachparker zu gleichen Teilen je Stellplatz."
+ },
+ {
+  "id": "wohn1-035",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Gemeinschaftsordnung: Gestaltungen zu Sondereigentum, Erhaltung, Kosten und Versicherungen",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/gemeinschaftsordnung-gestaltungen-zu-sondereigentum-erhaltung-kosten-und-versicherungen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Wie wird in einer Gemeinschaftsordnung üblicherweise erreicht, dass jeder Eigentümer die Fenster seiner Einheit selbst instand hält und bezahlt?",
+  "optionen": [
+   "Die Fenster werden zum Sondereigentum erklärt",
+   "Die im Gemeinschaftseigentum stehenden Fenster werden dem Sondereigentümer zur Instandhaltung, Instandsetzung und Kostentragung zugewiesen",
+   "An den Fenstern wird ein Sondernutzungsrecht des jeweiligen Eigentümers begründet",
+   "Die Eigentümerversammlung beschließt jährlich die Kostenübernahme"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Gemeinschaftsordnung kann einzelne Gebäudeteile im Gemeinschaftseigentum, etwa Eingangstür, Fenster und Balkontüren samt Verglasung oder Rollläden, dem jeweiligen Sondereigentümer zur Instandhaltung, Instandsetzung und Kostentragung zuweisen. Diese Kostenregel ersetzt den früher üblichen Katalog des Sondereigentums; ein Austausch kann gestattet werden, wenn das einheitliche äußere Erscheinungsbild gewahrt bleibt."
+ },
+ {
+  "id": "wohn1-036",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Gemeinschaftsordnung: Gestaltungen zu Sondereigentum, Erhaltung, Kosten und Versicherungen",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/gemeinschaftsordnung-gestaltungen-zu-sondereigentum-erhaltung-kosten-und-versicherungen",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [],
+  "frage": "Die Gemeinschaftsordnung kann vorsehen, dass einem Eigentümer ersatzweise ein Sondernutzungsrecht zusteht, falls ein zum Sondereigentum erklärter Raum nicht sondereigentumsfähig ist.",
+  "antwort": true,
+  "erklaerung": "Ein hilfsweises Sondernutzungsrecht fängt den Fall ab, dass ein zum Sondereigentum erklärter Raum oder Gebäudeteil nicht sondereigentumsfähig ist. Für dieses Ersatzrecht gelten dann die Regeln über Sondernutzungsrechte, also auch die alleinige Instandhaltung und Verkehrssicherungspflicht des Berechtigten."
  }
 ]

@@ -1,0 +1,439 @@
+[
+ {
+  "id": "wohn5-001",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Veränderungen am Wohnungseigentum: Grundsatz und Voraussetzungen der Unterteilung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/veranderungen-am-wohnungseigentum-grundsatz-und-voraussetzungen-der-unterteilung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 4 WEG",
+   "§ 10 Abs. 1 S. 2 WEG"
+  ],
+  "frage": "Nach Entstehen des Wohnungseigentums sollen die Grenzen zwischen Sondereigentum und Gemeinschaftseigentum verschoben werden. Was ist dafür erforderlich?",
+  "optionen": [
+   "Eine Vereinbarung der Wohnungseigentümer nach § 10 Abs. 1 S. 2 WEG mit Eintragung im Grundbuch",
+   "Die Mitwirkung aller betroffenen Eigentümer in der Form der Auflassung",
+   "Ein Beschluss der Eigentümerversammlung mit der Mehrheit aller Miteigentumsanteile",
+   "Eine in der Gemeinschaftsordnung vorab erteilte Ermächtigung des aufteilenden Eigentümers"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Verschiebung der Eigentumsgrenzen berührt das sachenrechtliche Grundverhältnis aller und erfordert daher die Mitwirkung aller betroffenen Eigentümer in Auflassungsform (§ 4 WEG). Eine Vereinbarung nach § 10 Abs. 1 S. 2 WEG genügt gerade nicht, weil sie nur das Verhältnis der Eigentümer untereinander regelt. Aus demselben Grund kann die Gemeinschaftsordnung keine vorweggenommene Zustimmung oder Ermächtigung mit Wirkung gegen Sondernachfolger enthalten; eine solche Klausel ist auch nicht eintragungsfähig."
+ },
+ {
+  "id": "wohn5-002",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Veränderungen am Wohnungseigentum: Grundsatz und Voraussetzungen der Unterteilung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/veranderungen-am-wohnungseigentum-grundsatz-und-voraussetzungen-der-unterteilung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1 Abs. 2 WEG",
+   "§ 6 Abs. 1 WEG"
+  ],
+  "frage": "Wird bei der Unterteilung einer Eigentumswohnung ein Raum übersehen, bleibt die Unterteilung im Übrigen wirksam und der übersehene Raum wird Gemeinschaftseigentum.",
+  "antwort": false,
+  "erklaerung": "Die Unterteilung muss eine Komplettaufteilung sein: Es darf weder Sondereigentum ohne Miteigentumsanteil noch ein Miteigentumsanteil ohne Sondereigentum entstehen (vgl. §§ 1 Abs. 2 u. 3, 6 Abs. 1 WEG). Ein Verstoß führt zur Nichtigkeit der Unterteilung insgesamt, nicht nur hinsichtlich des übersehenen Raums. Der übersehene Raum wird auch nicht ohne Weiteres Gemeinschaftseigentum."
+ },
+ {
+  "id": "wohn5-003",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Veränderungen am Wohnungseigentum: Grundsatz und Voraussetzungen der Unterteilung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/veranderungen-am-wohnungseigentum-grundsatz-und-voraussetzungen-der-unterteilung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 5 Abs. 2 WEG",
+   "§ 4 Abs. 1 WEG"
+  ],
+  "frage": "Bei der Unterteilung einer Wohnung entsteht ein Vorflur, über den beide neuen Einheiten erschlossen werden. Welche rechtliche Zuordnung des Vorflurs ist zulässig?",
+  "optionen": [
+   "Sondereigentum der einen Einheit, gesichert durch eine Dienstbarkeit zugunsten der anderen Einheit",
+   "Eigene Teileigentumseinheit für den Vorflur, an der beide neuen Einheiten Miteigentum erhalten",
+   "Mitsondereigentum der Eigentümer beider neuen Einheiten",
+   "Gemeinschaftseigentum, wofür alle Wohnungseigentümer mitwirken müssen"
+  ],
+  "antwort": 3,
+  "erklaerung": "Ein Raum, der beiden neuen Einheiten als Zugang dient, muss Gemeinschaftseigentum sein (vgl. § 5 Abs. 2 WEG); seine Überführung in Gemeinschaftseigentum erfordert die Mitwirkung aller Eigentümer (§ 4 Abs. 1 WEG). Die Lösung über Sondereigentum mit Dienstbarkeit genügt ebenso wenig wie eine eigene Vorraumeinheit in Miteigentum beider. Mitsondereigentum scheidet aus, weil das WEG es nicht kennt."
+ },
+ {
+  "id": "wohn5-004",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Veränderungen am Wohnungseigentum: Grundsatz und Voraussetzungen der Unterteilung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/veranderungen-am-wohnungseigentum-grundsatz-und-voraussetzungen-der-unterteilung",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 8 WEG",
+   "§ 4 Abs. 1 WEG",
+   "§ 892 BGB",
+   "§ 20 WEG"
+  ],
+  "frage": "Unterteilung mit gemeinsamem Vorflur",
+  "sachverhalt": "A ist Eigentümer der Wohnung Nr. 3 in einer bestehenden Wohnungseigentumsanlage. Er möchte die Wohnung in die Einheiten 3a und 3b unterteilen und 3b verkaufen. Beide neuen Einheiten werden über einen gemeinsamen Vorflur erschlossen. Die übrigen Eigentümer lehnen jede Mitwirkung ab.",
+  "schritte": [
+   {
+    "frage": "Kann A seine Wohnung grundsätzlich ohne Mitwirkung der übrigen Eigentümer unterteilen?",
+    "optionen": [
+     "Nein, jede Unterteilung erfordert die Mitwirkung aller Eigentümer in Auflassungsform",
+     "Ja, analog § 8 WEG durch Erklärung gegenüber dem Grundbuchamt, wenn die Einheit teilungsfähig ist",
+     "Ja, aber nur aufgrund einer Ermächtigung in der Gemeinschaftsordnung",
+     "Nein, eine Unterteilung ist nur vor Entstehen der Gemeinschaft möglich"
+    ],
+    "antwort": 1,
+    "erklaerung": "Ein Eigentümer kann seine teilungsfähige Einheit analog § 8 WEG durch Erklärung gegenüber dem Grundbuchamt unterteilen. Die Mitwirkung aller ist nur nötig, soweit Eigentumsgrenzen zum Gemeinschaftseigentum verschoben werden (§ 4 WEG)."
+   },
+   {
+    "frage": "Wie ist der gemeinsame Vorflur rechtlich zu behandeln?",
+    "optionen": [
+     "Er kann Sondereigentum von 3a werden, wenn zugunsten von 3b eine Dienstbarkeit bestellt wird",
+     "Er muss Gemeinschaftseigentum werden; dafür müssen alle Eigentümer mitwirken",
+     "Er wird Mitsondereigentum der Eigentümer von 3a und 3b",
+     "Er bleibt ohne Weiteres Gemeinschaftseigentum, wenn A ihn in der Unterteilungserklärung nicht zuordnet"
+    ],
+    "antwort": 1,
+    "erklaerung": "Ein Zugangsraum für beide neuen Einheiten muss Gemeinschaftseigentum sein (vgl. § 5 Abs. 2 WEG). Die Überführung erfordert die Mitwirkung aller Eigentümer (§ 4 Abs. 1 WEG); Dienstbarkeitslösung und Mitsondereigentum genügen nicht."
+   },
+   {
+    "frage": "A erklärt den Vorflur zu Sondereigentum von 3a, das Grundbuchamt trägt die Unterteilung ein, und K erwirbt 3b. Erwirbt K wirksam?",
+    "optionen": [
+     "Ja, K erwirbt gutgläubig nach § 892 BGB, weil er auf die Eintragung vertrauen durfte",
+     "Ja, wenn die Eintragung auf eine Bewilligung mit beigefügtem Aufteilungsplan Bezug nimmt",
+     "Nein, die Eintragung ist inhaltlich unzulässig und ein gutgläubiger Erwerb nach § 892 BGB scheidet aus",
+     "Nein, aber nur, wenn K die fehlende Mitwirkung der übrigen Eigentümer kannte"
+    ],
+    "antwort": 2,
+    "erklaerung": "Ohne Überführung des Vorflurs in Gemeinschaftseigentum verstößt die Unterteilung gegen die Komplettaufteilung; die Eintragung ist nach herrschender Meinung inhaltlich unzulässig. Ein gutgläubiger Erwerb nach § 892 BGB scheidet aus, gleich auf welche Bewilligung die Eintragung Bezug nimmt."
+   },
+   {
+    "frage": "Welcher Weg bleibt A, wenn die Mitwirkung aller Eigentümer nicht zu erreichen ist?",
+    "optionen": [
+     "Eine bauliche Lösung mit getrennten Zugängen beider Einheiten zum Gemeinschaftseigentum unter Beachtung von § 20 WEG",
+     "Ein Mehrheitsbeschluss über die Zuordnung des Vorflurs nach § 10 Abs. 1 S. 2 WEG",
+     "Die Eintragung einer Vormerkung auf Überführung des Vorflurs",
+     "Die Begründung von Mitsondereigentum durch einseitige Erklärung"
+    ],
+    "antwort": 0,
+    "erklaerung": "Ist die Mitwirkung aller nicht zu erreichen, hilft nur eine bauliche Lösung, etwa getrennte Zugänge beider Einheiten zum Gemeinschaftseigentum; dabei ist § 20 WEG zu beachten. Eine Vereinbarung oder ein Beschluss ersetzt die sachenrechtlich erforderliche Mitwirkung nach § 4 WEG nicht."
+   }
+  ],
+  "erklaerung": "A kann analog § 8 WEG allein unterteilen, der gemeinsame Vorflur muss aber Gemeinschaftseigentum werden, was die Mitwirkung aller Eigentümer nach § 4 Abs. 1 WEG erfordert. Fehlt sie, ist die Unterteilung wegen Verstoßes gegen die Komplettaufteilung unzulässig und ein gutgläubiger Erwerb nach § 892 BGB ausgeschlossen. Ausweg ist eine bauliche Lösung mit getrennten Zugängen unter Beachtung von § 20 WEG."
+ },
+ {
+  "id": "wohn5-005",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Vereinigung von Wohnungseigentum und Übertragung sondereigentumsfähiger Räume",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/vereinigung-von-wohnungseigentum-und-ubertragung-sondereigentumsfahiger-raume",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 890 Abs. 1 BGB"
+  ],
+  "frage": "E ist Eigentümer der Wohnungen Nr. 2 und Nr. 7 derselben Anlage, die nicht aneinandergrenzen. Was ist für ihre rechtliche Vereinigung zu einer Einheit erforderlich?",
+  "optionen": [
+   "Die Zustimmung aller übrigen Wohnungseigentümer in Auflassungsform",
+   "Eine neue Abgeschlossenheitsbescheinigung, weil die Einheiten keine Raumeinheit bilden",
+   "Die einseitige Erklärung des E und die Eintragung im Grundbuch",
+   "Die Zustimmung der an den Einheiten dinglich Berechtigten nach §§ 876, 877 BGB"
+  ],
+  "antwort": 2,
+  "erklaerung": "Der Eigentümer kann mehrere eigene Einheiten nach § 890 Abs. 1 BGB durch einseitige Erklärung und Eintragung vereinigen; die übrigen Eigentümer müssen nicht zustimmen. Die Einheiten müssen weder aneinandergrenzen noch eine Raumeinheit bilden, und eine neue Abgeschlossenheitsbescheinigung ist nicht erforderlich. Auch dinglich Berechtigte müssen nicht zustimmen."
+ },
+ {
+  "id": "wohn5-006",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Vereinigung von Wohnungseigentum und Übertragung sondereigentumsfähiger Räume",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/vereinigung-von-wohnungseigentum-und-ubertragung-sondereigentumsfahiger-raume",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 20 Abs. 1 WEG"
+  ],
+  "frage": "Ist für den Durchbruch einer tragenden Wand zwischen zwei vereinigten Wohnungen die Zustimmung der übrigen Eigentümer erforderlich, muss sie dem Grundbuchamt für die Eintragung der Vereinigung nachgewiesen werden.",
+  "antwort": false,
+  "erklaerung": "Der Durchbruch einer tragenden Wand ist eine bauliche Veränderung des Gemeinschaftseigentums, die die übrigen nicht hinnehmen müssen (§ 20 Abs. 1 WEG), sofern nicht ausnahmsweise kein wesentlicher Eingriff in die Substanz vorliegt. Eine etwa nötige Zustimmung zur baulichen Veränderung ist dem Grundbuchamt jedoch nicht nachzuweisen. Die rechtliche Vereinigung nach § 890 BGB und die bauliche Maßnahme sind voneinander zu trennen."
+ },
+ {
+  "id": "wohn5-007",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Vereinigung von Wohnungseigentum und Übertragung sondereigentumsfähiger Räume",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/vereinigung-von-wohnungseigentum-und-ubertragung-sondereigentumsfahiger-raume",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 7 Abs. 4 S. 1 Nr. 1 WEG"
+  ],
+  "frage": "Ordne die Veränderung den Anforderungen an Aufteilungsplan, Abgeschlossenheit und Nummerierung zu.",
+  "paare": [
+   [
+    "Bauliche Vereinigung zweier Wohnungen desselben Eigentümers",
+    "Vereinigte Einheit muss nicht in sich abgeschlossen sein"
+   ],
+   [
+    "Ein Raum wird der Nachbarwohnung zugeschlagen (Grenzverschiebung bestehenden Sondereigentums)",
+    "Neuer Aufteilungsplan und neue Abgeschlossenheitsbescheinigung erforderlich"
+   ],
+   [
+    "Übertragung eines Kellerraums als unselbständiges Teileigentum einer Einheit",
+    "Weder neuer Aufteilungsplan noch neue Bescheinigung nötig"
+   ],
+   [
+    "Vereinigte Einheit führt weiter die unterschiedlichen Nummern der Wohnungen",
+    "Unschädlich, weil § 7 Abs. 4 S. 1 Nr. 1 WEG nur für die Erstaufteilung gilt"
+   ]
+  ],
+  "erklaerung": "Bei der Vereinigung ist keine neue Abgeschlossenheitsbescheinigung nötig, auch nicht bei baulicher Vereinigung. Verschieben sich dagegen die Grenzen bestehenden Sondereigentums, verlangt die Rechtsprechung neuen Plan und neue Bescheinigung; beim Kellerraum als unselbständigem Teileigentum entfällt beides. Eine Neunummerierung ist nicht erforderlich, da § 7 Abs. 4 S. 1 Nr. 1 WEG nur die Erstaufteilung betrifft."
+ },
+ {
+  "id": "wohn5-008",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Vereinigung von Wohnungseigentum und Übertragung sondereigentumsfähiger Räume",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/vereinigung-von-wohnungseigentum-und-ubertragung-sondereigentumsfahiger-raume",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 4 Abs. 1 WEG",
+   "§ 4 Abs. 3 WEG"
+  ],
+  "frage": "Eigentümer A der Wohnung Nr. 1 überträgt einen sondereigentumsfähigen Kellerraum an Eigentümer B der Wohnung Nr. 4. Welche Anforderungen gelten?",
+  "optionen": [
+   "Einigung in Auflassungsform und Eintragung; der schuldrechtliche Vertrag bedarf der Beurkundung; die übrigen Eigentümer müssen nicht mitwirken",
+   "Einigung in Auflassungsform und Eintragung sowie die Mitwirkung aller übrigen Eigentümer, weil das Grundverhältnis berührt ist",
+   "Eine einseitige Erklärung von A gegenüber dem Grundbuchamt analog § 8 WEG; der schuldrechtliche Vertrag ist formfrei",
+   "Eine Vereinbarung nach § 10 Abs. 1 S. 2 WEG zwischen A und B mit Eintragung in beiden Wohnungsgrundbüchern"
+  ],
+  "antwort": 0,
+  "erklaerung": "Wechselt ein sondereigentumsfähiger Raum von einer Einheit zur anderen, ändert sich der Inhalt des Wohnungseigentums; nötig sind Einigung in Auflassungsform und Eintragung (§ 4 Abs. 1 und 2 WEG analog), der schuldrechtliche Vertrag ist zu beurkunden (§ 4 Abs. 3 WEG analog). Die übrigen Eigentümer müssen nicht mitwirken, weil ihr Gemeinschaftseigentum nicht berührt wird. Eine einseitige Erklärung genügt nicht, da zwei Einheiten verschiedener Eigentümer betroffen sind."
+ },
+ {
+  "id": "wohn5-009",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Vereinigung von Wohnungseigentum und Übertragung sondereigentumsfähiger Räume",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/vereinigung-von-wohnungseigentum-und-ubertragung-sondereigentumsfahiger-raume",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 6 Abs. 2 WEG",
+   "§ 1131 BGB"
+  ],
+  "frage": "Ein Kellerraum wird von Wohnung Nr. 1 auf die mit einer Grundschuld belastete Wohnung Nr. 4 übertragen. Wie verhält sich die Grundschuld an Wohnung Nr. 4 nach richtiger Ansicht?",
+  "optionen": [
+   "Sie erfasst den Raum erst nach einer Nachverpfändung entsprechend § 1131 BGB",
+   "Sie erstreckt sich wegen § 6 Abs. 2 WEG automatisch auf das geänderte Sondereigentum",
+   "Sie erfasst den Raum nur, wenn zugleich ein Miteigentumsanteil mitübertragen wird",
+   "Sie erlischt am übertragenen Raum, bis der Gläubiger nach §§ 876, 877 BGB zustimmt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Ob sich Rechte an der erwerbenden Einheit entsprechend § 1131 BGB auf den neuen Raum erstrecken oder eine Nachverpfändung nötig ist, ist nicht abschließend geklärt; richtigerweise erstrecken sie sich wegen § 6 Abs. 2 WEG automatisch auf das geänderte Sondereigentum. Die Zustimmung nach §§ 877, 876 BGB betrifft dagegen die abgebende Einheit: Ist sie belastet, ist eine Pfandfreigabe nötig."
+ },
+ {
+  "id": "wohn5-010",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Verzicht auf Wohnungseigentum, Aufhebung und Schließung der Wohnungsgrundbücher",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/verzicht-auf-wohnungseigentum-aufhebung-und-schliessung-der-wohnungsgrundbucher",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 928 Abs. 1 BGB"
+  ],
+  "frage": "Ein Wohnungseigentümer kann sich den Pflichten aus der Gemeinschaft entziehen, indem er nach § 928 Abs. 1 BGB durch Erklärung gegenüber dem Grundbuchamt auf sein Wohnungseigentum verzichtet.",
+  "antwort": false,
+  "erklaerung": "Auf Wohnungseigentum kann nach der Rechtsprechung des BGH nicht verzichtet werden; ein einseitiger Verzicht nach § 928 Abs. 1 BGB scheidet aus. Niemand soll sich den Pflichten aus der Gemeinschaft durch Aufgabe des Eigentums entziehen können. Möglich ist nur die vertragliche Aufhebung der Sondereigentumsrechte durch die Eigentümer entsprechend § 4 WEG."
+ },
+ {
+  "id": "wohn5-011",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Verzicht auf Wohnungseigentum, Aufhebung und Schließung der Wohnungsgrundbücher",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/verzicht-auf-wohnungseigentum-aufhebung-und-schliessung-der-wohnungsgrundbucher",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 9 Abs. 1 Nr. 1 WEG",
+   "§ 13 Abs. 1 S. 1 GBO"
+  ],
+  "frage": "Die Wohnungseigentümer einer Anlage vereinbaren entsprechend § 4 WEG die Aufhebung sämtlicher Sondereigentumsrechte. Wie verläuft der Grundbuchvollzug?",
+  "optionen": [
+   "Aufhebung und Schließung werden von Amts wegen eingetragen, sobald die Einigung vorliegt",
+   "Die Aufhebung wird auf Antrag eingetragen; die Wohnungsgrundbücher werden anschließend von Amts wegen geschlossen",
+   "Die Aufhebung wird auf Antrag eingetragen; die Schließung erfordert einen weiteren Antrag nach § 9 Abs. 1 Nr. 2 WEG",
+   "Die Sondereigentumsrechte erlöschen mit der Einigung; die Grundbücher werden auf Antrag des Verwalters geschlossen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Eintragung der Aufhebung erfolgt nur auf Antrag (§ 13 Abs. 1 S. 1 GBO); mit Eintragung in den einzelnen Wohnungsgrundbüchern erlöschen die Sondereigentumsrechte. Danach werden die Grundbücher von Amts wegen geschlossen (§ 9 Abs. 1 Nr. 1 WEG). § 9 Abs. 1 Nr. 2 WEG betrifft einen anderen Fall, nämlich die Vereinigung aller Einheiten in einer Person."
+ },
+ {
+  "id": "wohn5-012",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Verzicht auf Wohnungseigentum, Aufhebung und Schließung der Wohnungsgrundbücher",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/verzicht-auf-wohnungseigentum-aufhebung-und-schliessung-der-wohnungsgrundbucher",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 9 Abs. 2 WEG",
+   "§ 876 BGB",
+   "§ 877 BGB"
+  ],
+  "frage": "In welchem Fall ist zur Aufhebung des Wohnungseigentums die Zustimmung eines Grundpfandgläubigers erforderlich?",
+  "optionen": [
+   "Eine Gesamtgrundschuld lastet einheitlich auf allen Wohnungseigentumseinheiten",
+   "Die Grundschuld wurde vor der Aufteilung am Grundstück als Ganzem bestellt",
+   "Die Grundschuld lastet allein auf der Wohnung Nr. 2",
+   "In keinem Fall, weil § 9 Abs. 2 WEG die Zustimmung Dritter ausschließt"
+  ],
+  "antwort": 2,
+  "erklaerung": "§ 9 Abs. 2 WEG lässt die allgemeinen Vorschriften über die Zustimmung Dritter (§§ 876, 877 BGB) unberührt; er schließt sie also nicht aus. Ist eine Einheit selbständig belastet, muss der betroffene Berechtigte zustimmen. Sind alle Einheiten einheitlich oder ist das Grundstück als Ganzes belastet, ist keine Zustimmung nötig, weil die Rechte nicht betroffen sind."
+ },
+ {
+  "id": "wohn5-013",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Verzicht auf Wohnungseigentum, Aufhebung und Schließung der Wohnungsgrundbücher",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/verzicht-auf-wohnungseigentum-aufhebung-und-schliessung-der-wohnungsgrundbucher",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 9 Abs. 1 Nr. 2 WEG"
+  ],
+  "frage": "Haben sich alle Einheiten einer Anlage im Eigentum einer Bruchteilsgemeinschaft vereinigt, kann diese die Schließung der Wohnungsgrundbücher nach § 9 Abs. 1 Nr. 2 WEG beantragen.",
+  "antwort": true,
+  "erklaerung": "Nach § 9 Abs. 1 Nr. 2 WEG kann die Person, in der sich alle Einheiten vereinigt haben, die Schließung der Wohnungsgrundbücher beantragen. „Eine Person“ ist dabei auch eine Personenmehrheit wie eine Gesamthands- oder Bruchteilsgemeinschaft. Eines Aufhebungsvertrags mit Dritten bedarf es dann nicht."
+ },
+ {
+  "id": "wohn5-014",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Kündigungssperrfrist nach § 577a BGB bei Umwandlung und Veräußerung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/kundigungssperrfrist-nach-577a-bgb-bei-umwandlung-und-verausserung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 577a Abs. 1 BGB",
+   "§ 573 Abs. 2 Nr. 2 BGB",
+   "§ 573 Abs. 2 Nr. 3 BGB"
+  ],
+  "frage": "Welche Kündigungen sind dem Erwerber umgewandelten vermieteten Wohnungseigentums nach § 577a Abs. 1 BGB für welchen Zeitraum verwehrt?",
+  "optionen": [
+   "Alle ordentlichen Kündigungen für drei Jahre seit Abschluss des Kaufvertrags",
+   "Kündigungen wegen Eigenbedarfs für fünf Jahre seit Vollzug der Teilungserklärung",
+   "Kündigungen wegen Eigenbedarfs und wirtschaftlicher Verwertung für drei Jahre seit der Veräußerung",
+   "Kündigungen wegen Eigenbedarfs und wirtschaftlicher Verwertung für drei Jahre seit Überlassung an den Mieter"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 577a Abs. 1 BGB kann sich der Erwerber auf berechtigte Interessen nach § 573 Abs. 2 Nr. 2 oder 3 BGB, also Eigenbedarf und wirtschaftliche Verwertung, erst nach Ablauf von drei Jahren seit der Veräußerung berufen. Andere Kündigungsgründe sind nicht gesperrt. Maßgeblich ist die Veräußerung, nicht der Kaufvertragsabschluss oder die Überlassung."
+ },
+ {
+  "id": "wohn5-015",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Kündigungssperrfrist nach § 577a BGB bei Umwandlung und Veräußerung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/kundigungssperrfrist-nach-577a-bgb-bei-umwandlung-und-verausserung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 577a Abs. 1 BGB"
+  ],
+  "frage": "Teilt der vermietende Eigentümer nach Überlassung der Wohnung an den Mieter das Gebäude auf und kündigt anschließend selbst wegen Eigenbedarfs, gilt für ihn die dreijährige Sperrfrist des § 577a Abs. 1 BGB.",
+  "antwort": false,
+  "erklaerung": "Die Sperrfrist setzt Überlassung, Vollzug der Teilungserklärung und Veräußerung in dieser Reihenfolge voraus; nur die Veräußerung begründeten Wohnungseigentums löst sie aus. Teilt der Eigentümer nur auf und kündigt selbst wegen Eigenbedarfs, entsteht keine Sperrfrist. Es muss nach der Umwandlung zu einer Veräußerung kommen."
+ },
+ {
+  "id": "wohn5-016",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Kündigungssperrfrist nach § 577a BGB bei Umwandlung und Veräußerung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/kundigungssperrfrist-nach-577a-bgb-bei-umwandlung-und-verausserung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 577a Abs. 1 BGB",
+   "§ 577 Abs. 1 BGB"
+  ],
+  "frage": "Folgende Schritte geschehen nacheinander: Beurkundung der Teilungserklärung, Überlassung einer Wohnung an Mieter M, Kaufvertrag mit Auflassung, Anlegung der Wohnungsgrundbücher, Eintragung der Auflassung. Gilt die Sperrfrist des § 577a Abs. 1 BGB?",
+  "optionen": [
+   "Nein, weil bei Erklärung der Auflassung noch kein Wohnungseigentum gebildet war",
+   "Nein, weil die Überlassung erst nach Beurkundung der Teilungserklärung erfolgte",
+   "Ja, die Frist läuft aber bereits ab Abschluss des Kaufvertrags",
+   "Ja, weil es für die Veräußerung auf die Vollendung des Rechtserwerbs ankommt"
+  ],
+  "antwort": 3,
+  "erklaerung": "§ 577a Abs. 1 BGB stellt anders als § 577 Abs. 1 BGB nicht auf den Verkauf, sondern auf die Veräußerung ab; maßgeblich ist die Vollendung des Rechtserwerbs. Deshalb ist unerheblich, dass das Wohnungseigentum bei Erklärung der Auflassung noch nicht gebildet war. Für die Reihenfolge zählt zudem der Vollzug der Teilungserklärung im Grundbuch, nicht deren Beurkundung, sodass die Überlassung hier vor der Umwandlung liegt."
+ },
+ {
+  "id": "wohn5-017",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Kündigungssperrfrist nach § 577a BGB bei Umwandlung und Veräußerung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/kundigungssperrfrist-nach-577a-bgb-bei-umwandlung-und-verausserung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 573 Abs. 2 Nr. 2 BGB"
+  ],
+  "frage": "Eine Kommanditgesellschaft, die vermieteten Wohnraum erwirbt, kann wegen Eigenbedarfs ihrer Gesellschafter kündigen.",
+  "antwort": false,
+  "erklaerung": "Personenhandelsgesellschaften können sich nach der Rechtsprechung des BGH nicht auf Eigenbedarf ihrer Gesellschafter berufen. Anders hat der BGH bisher für die GbR entschieden, die wegen Eigenbedarfs eines Gesellschafters nach § 573 Abs. 2 Nr. 2 BGB kündigen konnte; ob das nach dem MoPeG fortgilt, ist ungeklärt."
+ },
+ {
+  "id": "wohn5-018",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Kündigungssperrfrist nach § 577a BGB bei Umwandlung und Veräußerung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/kundigungssperrfrist-nach-577a-bgb-bei-umwandlung-und-verausserung",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 577a Abs. 1a BGB",
+   "§ 577a Abs. 2 BGB"
+  ],
+  "frage": "Erwerbermodell ohne Aufteilung",
+  "sachverhalt": "Ein vermietetes Mehrfamilienhaus, an dem kein Wohnungseigentum begründet ist, wird nach Überlassung der Wohnungen an die Mieter an die X-GbR verkauft und übereignet. Gesellschafter sind die nicht miteinander verwandten A, B und C. Eine Aufteilung nach dem WEG ist vorerst nicht geplant.",
+  "schritte": [
+   {
+    "frage": "Gilt für die X-GbR eine Kündigungsbeschränkung, obwohl kein Wohnungseigentum begründet wurde?",
+    "optionen": [
+     "Nein, § 577a BGB setzt stets die Begründung von Wohnungseigentum voraus",
+     "Ja, nach § 577a Abs. 1a S. 1 Nr. 1 BGB entsprechend, unabhängig davon, ob Wohnungseigentum begründet wurde oder werden soll",
+     "Ja, aber nur, wenn die GbR binnen drei Jahren nach Erwerb aufteilt",
+     "Nein, weil sich die GbR ohnehin nicht auf Eigenbedarf ihrer Gesellschafter berufen kann"
+    ],
+    "antwort": 1,
+    "erklaerung": "Um Erwerbermodelle zu erfassen, gilt die Kündigungsbeschränkung entsprechend, wenn vermieteter Wohnraum nach der Überlassung an eine Personengesellschaft oder an mehrere Erwerber veräußert worden ist (§ 577a Abs. 1a S. 1 Nr. 1 BGB). Das gilt unabhängig davon, ob Wohnungseigentum begründet wurde oder werden soll."
+   },
+   {
+    "frage": "Abwandlung: Erwerber sind die geschiedenen Eheleute M und F als GbR. Gilt die Beschränkung?",
+    "optionen": [
+     "Ja, weil geschiedene Ehegatten nicht mehr derselben Familie angehören",
+     "Ja, weil die Ausnahme nur für Erwerber in Bruchteilsgemeinschaft gilt",
+     "Nein, weil Ehegatten auch geschieden derselben Familie angehören",
+     "Nein, weil eine GbR aus zwei Personen nicht unter § 577a Abs. 1a BGB fällt"
+    ],
+    "antwort": 2,
+    "erklaerung": "Die Beschränkung gilt nicht, wenn die Gesellschafter oder Erwerber derselben Familie oder demselben Haushalt angehören (§ 577a Abs. 1a S. 2 BGB). Ehegatten gehören nach dem BGH auch getrennt lebend oder geschieden derselben Familie an."
+   },
+   {
+    "frage": "Im Ausgangsfall liegt das Haus in einem Gebiet, das die Landesregierung nach § 577a Abs. 2 BGB durch Rechtsverordnung bestimmt hat. Welche Frist gilt?",
+    "optionen": [
+     "Stets drei Jahre, weil die Landesverordnung nur Umwandlungen nach § 577a Abs. 1 BGB erfasst",
+     "Bis zu zehn Jahre, grundsätzlich für Kündigungen, die dem Mieter während der Geltungsdauer der Verordnung zugehen",
+     "Bis zu fünf Jahre, gerechnet ab Inkrafttreten der Verordnung",
+     "Bis zu zehn Jahre, aber nur bei Erwerb nach Inkrafttreten der Verordnung"
+    ],
+    "antwort": 1,
+    "erklaerung": "Ist die Versorgung mit Mietwohnungen besonders gefährdet, beträgt die Frist bis zu zehn Jahre, wenn die Landesregierung die Gebiete durch Rechtsverordnung bestimmt (§ 577a Abs. 2 BGB). Sie gilt grundsätzlich für Kündigungen, die während der Geltungsdauer der Verordnung zugehen, und sofern die Übergangsvorschrift nichts anderes bestimmt, auch bei Erwerb vor Inkrafttreten."
+   }
+  ],
+  "erklaerung": "Die X-GbR unterliegt der Kündigungsbeschränkung nach § 577a Abs. 1a S. 1 Nr. 1 BGB, auch ohne Aufteilung. Ausgenommen sind Erwerber derselben Familie oder desselben Haushalts, wozu auch geschiedene Ehegatten zählen (§ 577a Abs. 1a S. 2 BGB). In Gebieten mit Landesverordnung nach § 577a Abs. 2 BGB verlängert sich die Frist auf bis zu zehn Jahre."
+ }
+]

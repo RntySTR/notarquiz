@@ -1,0 +1,328 @@
+[
+ {
+  "id": "zwan1-001",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Vollstreckungsklausel: Funktion, Zuständigkeit und qualifizierte Klausel",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/vollstreckungsklausel-funktion-zustandigkeit-und-qualifizierte-klausel",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 797 Abs. 1 Nr. 2 Buchst. a ZPO"
+  ],
+  "frage": "Wer erteilt die vollstreckbare Ausfertigung einer notariellen Urkunde?",
+  "optionen": [
+   "Der Urkundsbeamte der Geschäftsstelle des Amtsgerichts am Amtssitz des Notars",
+   "Der Notar, der die Urkunde verwahrt",
+   "Stets der beurkundende Notar, auch wenn die Urkunde inzwischen anderswo verwahrt wird",
+   "Der Rechtspfleger des Vollstreckungsgerichts am Wohnsitz des Schuldners"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei notariellen Urkunden erteilt der Notar die Klausel, und zwar der Notar, der die Urkunde verwahrt (§ 797 Abs. 1 Nr. 2 Buchst. a ZPO). Maßgeblich ist die Verwahrung, nicht die Beurkundung: Verwahrt eine andere Stelle die Urkunde, etwa die Notarkammer oder das Amtsgericht, erteilt diese Stelle die vollstreckbare Ausfertigung. Urkundsbeamter und Rechtspfleger sind nur bei gerichtlichen Titeln zuständig."
+ },
+ {
+  "id": "zwan1-002",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Vollstreckungsklausel: Funktion, Zuständigkeit und qualifizierte Klausel",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/vollstreckungsklausel-funktion-zustandigkeit-und-qualifizierte-klausel",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 726 Abs. 2 ZPO"
+  ],
+  "frage": "Hängt die Vollstreckung von einer Zug-um-Zug-Leistung des Gläubigers ab, ist für die Erteilung der vollstreckbaren Ausfertigung stets der Nachweis der Befriedigung oder des Annahmeverzugs durch öffentliche oder öffentlich beglaubigte Urkunden erforderlich.",
+  "antwort": false,
+  "erklaerung": "Nach § 726 Abs. 2 ZPO ist der Nachweis der Befriedigung oder des Annahmeverzugs bei einer Zug-um-Zug-Leistung des Gläubigers nur nötig, wenn der Schuldner eine Willenserklärung abzugeben hat. Die Aussage verallgemeinert diesen Sonderfall der Willenserklärung auf jede Zug-um-Zug-Leistung. Ebenfalls vom Nachweiserfordernis des § 726 Abs. 1 ZPO ausgenommen ist eine Sicherheitsleistung des Gläubigers."
+ },
+ {
+  "id": "zwan1-003",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Vollstreckungsklausel: Funktion, Zuständigkeit und qualifizierte Klausel",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/vollstreckungsklausel-funktion-zustandigkeit-und-qualifizierte-klausel",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 794 Abs. 1 Nr. 5 ZPO"
+  ],
+  "frage": "Welche Punkte prüft der Notar vor Erteilung der Vollstreckungsklausel zu einer notariellen Urkunde?",
+  "optionen": [
+   "Wirksame Errichtung im Verfahren für die Beurkundung von Willenserklärungen, Unterwerfungserklärung nach § 794 Abs. 1 Nr. 5 ZPO und hinreichende Bestimmtheit",
+   "Wirksame Errichtung, materielle Begründetheit des Anspruchs und Zustellung der Urkunde an den Schuldner",
+   "Unterwerfungserklärung, Zahlungsunfähigkeit des Schuldners und Fälligkeit nach Mahnung durch den Gläubiger",
+   "Bestimmtheit des Anspruchs, Anhörung des Schuldners und Eintragung des Gläubigers im Grundbuch"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die erteilende Stelle prüft das Bestehen eines wirksamen Titels, seine Vollstreckungsreife und den vollstreckungsfähigen Inhalt. Bei der notariellen Urkunde heißt das: wirksame Errichtung im Verfahren für die Beurkundung von Willenserklärungen, eine Unterwerfung wegen eines Anspruchs nach § 794 Abs. 1 Nr. 5 ZPO und hinreichende Bestimmtheit. Die materielle Begründetheit des Anspruchs gehört nicht zum Prüfungsumfang, und die Zustellung ist eine Voraussetzung der Vollstreckung, nicht der Klauselerteilung."
+ },
+ {
+  "id": "zwan1-004",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Vollstreckungsklausel: Funktion, Zuständigkeit und qualifizierte Klausel",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/vollstreckungsklausel-funktion-zustandigkeit-und-qualifizierte-klausel",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 726 Abs. 1 ZPO",
+   "§ 794 Abs. 1 Nr. 5 ZPO"
+  ],
+  "frage": "In einem Kaufvertrag unterwirft sich der Käufer wegen des Kaufpreises der Zwangsvollstreckung; der Kaufpreis wird erst nach Eintragung der Vormerkung fällig. Weshalb wird in solchen Fällen regelmäßig ein Nachweisverzicht in die Unterwerfungserklärung aufgenommen?",
+  "optionen": [
+   "Weil ohne Nachweisverzicht die Klausel erst nach Zustellung des Kaufvertrags an den Käufer erteilt werden dürfte",
+   "Weil der Verkäufer ohne Nachweisverzicht die Fälligkeit nur durch Vorlage einer Zahlungsaufforderung des Notars belegen könnte",
+   "Weil sonst der Eintritt der Fälligkeitsvoraussetzungen durch öffentliche oder öffentlich beglaubigte Urkunden nachgewiesen werden müsste",
+   "Weil ohne Nachweisverzicht nur das Amtsgericht und nicht der Notar die Klausel erteilen dürfte"
+  ],
+  "antwort": 2,
+  "erklaerung": "Hängt die Vollstreckung von einer vom Gläubiger zu beweisenden Tatsache ab, darf die vollstreckbare Ausfertigung nur erteilt werden, wenn diese durch öffentliche oder öffentlich beglaubigte Urkunden nachgewiesen ist (§ 726 Abs. 1 ZPO, qualifizierte Klausel). Solche Nachweise für Fälligkeitsvoraussetzungen wie die Eintragung der Vormerkung sind oft schwer zu beschaffen, daher der Nachweisverzicht. An der Zuständigkeit des verwahrenden Notars ändert die Bedingung nichts."
+ },
+ {
+  "id": "zwan1-005",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Vollstreckungsklausel: Funktion, Zuständigkeit und qualifizierte Klausel",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/vollstreckungsklausel-funktion-zustandigkeit-und-qualifizierte-klausel",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 44 BeurkG",
+   "§ 47 BeurkG",
+   "§ 49 Abs. 5 BeurkG",
+   "§ 734 ZPO"
+  ],
+  "frage": "Ordne die Normen ihrem Regelungsinhalt bei der vollstreckbaren Ausfertigung zu.",
+  "paare": [
+   [
+    "§ 47 BeurkG",
+    "Die Ausfertigung vertritt im Rechtsverkehr die Urschrift"
+   ],
+   [
+    "§ 44 BeurkG",
+    "Mehrere Blätter werden mit Schnur und Prägesiegel verbunden"
+   ],
+   [
+    "§ 49 Abs. 5 BeurkG",
+    "Die Ausfertigung kann auch nur einen Auszug enthalten"
+   ],
+   [
+    "§ 734 ZPO",
+    "Auf der Urschrift wird vermerkt, wem und wann die vollstreckbare Ausfertigung erteilt wurde"
+   ]
+  ],
+  "erklaerung": "§ 47 BeurkG regelt die Funktion der Ausfertigung als Vertreterin der Urschrift, § 44 BeurkG die Verbindung mehrerer Blätter mit Schnur und Prägesiegel, § 49 Abs. 5 BeurkG die auszugsweise Ausfertigung. Der Vermerk über die erteilte vollstreckbare Ausfertigung auf der Urschrift folgt aus §§ 734, 795 ZPO, nicht aus dem BeurkG."
+ },
+ {
+  "id": "zwan1-006",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Vollstreckungsklausel: Wirkung und weitere vollstreckbare Ausfertigung",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/vollstreckungsklausel-wirkung-und-weitere-vollstreckbare-ausfertigung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 797 Abs. 2 Nr. 2 Buchst. a ZPO"
+  ],
+  "frage": "Wer entscheidet über die Erteilung einer weiteren vollstreckbaren Ausfertigung einer notariellen Urkunde?",
+  "optionen": [
+   "Das Amtsgericht, in dessen Bezirk der Notar seinen Amtssitz hat",
+   "Die Notarkammer, der der beurkundende Notar angehört",
+   "Das Vollstreckungsgericht am Wohnsitz des Schuldners",
+   "Der Notar, der die Urkunde verwahrt"
+  ],
+  "antwort": 3,
+  "erklaerung": "Seit dem 01.09.2013 entscheidet der Notar, der die Urkunde verwahrt, selbst über die weitere vollstreckbare Ausfertigung (§ 797 Abs. 2 Nr. 2 Buchst. a ZPO). Die Zuständigkeit des Amtsgerichts ist die frühere Rechtslage und deshalb die naheliegendste Fehlvorstellung."
+ },
+ {
+  "id": "zwan1-007",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Vollstreckungsklausel: Wirkung und weitere vollstreckbare Ausfertigung",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/vollstreckungsklausel-wirkung-und-weitere-vollstreckbare-ausfertigung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 733 ZPO"
+  ],
+  "frage": "In welchem Fall besteht ein besonderes Rechtsschutzbedürfnis für eine weitere vollstreckbare Ausfertigung?",
+  "optionen": [
+   "Die erste vollstreckbare Ausfertigung wurde nach vollständiger Befriedigung des Gläubigers an den Schuldner herausgegeben",
+   "Der Gläubiger macht glaubhaft, dass er gleichzeitig an mehreren Stellen vollstrecken muss",
+   "Der Gläubiger wünscht eine zweite Ausfertigung als Reserve für seine Akten",
+   "Der Schuldner hat eine Teilzahlung geleistet und der Gläubiger will wegen des Rests vollstrecken"
+  ],
+  "antwort": 1,
+  "erklaerung": "Ein besonderes Rechtsschutzbedürfnis besteht bei Verlust der ersten Ausfertigung, bei versehentlicher Herausgabe an den Schuldner vor voller Befriedigung, bei glaubhaft gemachter Notwendigkeit gleichzeitiger Vollstreckung an mehreren Stellen und bei selbständig vollstreckenden Gesamtgläubigern. Die Herausgabe nach vollständiger Befriedigung begründet kein solches Bedürfnis, weil dann nichts mehr zu vollstrecken ist. Der Grundsatz einer einzigen Ausfertigung schützt den Schuldner vor mehrfacher Vollstreckung aus demselben Titel (§ 733 ZPO)."
+ },
+ {
+  "id": "zwan1-008",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Vollstreckungsklausel: Wirkung und weitere vollstreckbare Ausfertigung",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/vollstreckungsklausel-wirkung-und-weitere-vollstreckbare-ausfertigung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 733 ZPO"
+  ],
+  "frage": "Mehrere vollstreckbare Teilausfertigungen, die zusammen den geschuldeten Betrag nicht übersteigen, unterliegen als weitere vollstreckbare Ausfertigungen den Anforderungen des § 733 ZPO.",
+  "antwort": false,
+  "erklaerung": "Mehrere vollstreckbare Teilausfertigungen sind kein Fall des § 733 ZPO, sofern ihre Summe den geschuldeten Betrag nicht übersteigt. Eine Gefahr mehrfacher Vollstreckung über den Anspruch hinaus besteht dann nicht, sodass weder das besondere Rechtsschutzbedürfnis noch die Bezeichnung als weitere Ausfertigung erforderlich ist."
+ },
+ {
+  "id": "zwan1-009",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Vollstreckungsklausel: Wirkung und weitere vollstreckbare Ausfertigung",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/vollstreckungsklausel-wirkung-und-weitere-vollstreckbare-ausfertigung",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 757 ZPO"
+  ],
+  "frage": "Leistet der Schuldner an den Gerichtsvollzieher, hat dieser ihm die vollstreckbare Ausfertigung zusammen mit einer Quittung auszuhändigen.",
+  "antwort": true,
+  "erklaerung": "§ 757 ZPO verpflichtet den Gerichtsvollzieher, dem leistenden Schuldner die vollstreckbare Ausfertigung mit Quittung auszuhändigen. Darin zeigt sich die Schutzfunktion der Klausel für den Schuldner: Ohne die vollstreckbare Ausfertigung kann aus dem Titel nicht erneut vollstreckt werden."
+ },
+ {
+  "id": "zwan1-010",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Vollstreckungsklausel: Wirkung und weitere vollstreckbare Ausfertigung",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/vollstreckungsklausel-wirkung-und-weitere-vollstreckbare-ausfertigung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Für welchen Titel ist keine Vollstreckungsklausel erforderlich?",
+  "optionen": [
+   "Vollstreckbare notarielle Urkunde mit Unterwerfungserklärung",
+   "Prozessvergleich",
+   "Vollstreckungsbescheid",
+   "Rechtskräftiges Endurteil"
+  ],
+  "antwort": 2,
+  "erklaerung": "Bei Kostenfestsetzungsbeschlüssen, Vollstreckungsbescheiden, Arresten und einstweiligen Verfügungen ist eine Vollstreckungsklausel nicht erforderlich. Die vollstreckbare notarielle Urkunde dagegen braucht stets eine vollstreckbare Ausfertigung, die der verwahrende Notar erteilt; ebenso Urteil und Prozessvergleich."
+ },
+ {
+  "id": "zwan1-011",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Zwangsvollstreckung: Antrag und Vollstreckungstitel",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-antrag-und-vollstreckungstitel",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 750 Abs. 1 S. 1 Nr. 1 ZPO"
+  ],
+  "frage": "Wer muss nach § 750 Abs. 1 S. 1 Nr. 1 ZPO im Titel oder in der beigefügten Vollstreckungsklausel namentlich bezeichnet sein?",
+  "optionen": [
+   "Nur der Schuldner, da sich der Gläubiger aus dem Vollstreckungsantrag ergibt",
+   "Gläubiger und Schuldner der Vollstreckung",
+   "Gläubiger, Schuldner und das zuständige Vollstreckungsorgan",
+   "Der Schuldner und der Zustellungsempfänger des Titels"
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 750 Abs. 1 S. 1 Nr. 1 ZPO verlangt die namentliche Bezeichnung von Gläubiger und Schuldner im Titel oder in der beigefügten Klausel. Der Vollstreckungsantrag ersetzt die Bezeichnung des Gläubigers nicht; das Vollstreckungsorgan prüft gerade, ob Titelgläubiger und Vollstreckungsgläubiger sowie Titelschuldner und Vollstreckungsschuldner übereinstimmen."
+ },
+ {
+  "id": "zwan1-012",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Zwangsvollstreckung: Antrag und Vollstreckungstitel",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-antrag-und-vollstreckungstitel",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 197 Abs. 1 Nr. 4 BGB"
+  ],
+  "frage": "Ansprüche aus vollstreckbaren notariellen Urkunden verjähren in der regelmäßigen Verjährungsfrist von drei Jahren.",
+  "antwort": false,
+  "erklaerung": "Ansprüche aus vollstreckbaren Urkunden verjähren ebenso wie rechtskräftig festgestellte Ansprüche und Ansprüche aus vollstreckbaren Vergleichen in 30 Jahren (§ 197 Abs. 1 Nr. 3 und 4 BGB). Die Titulierung führt damit zur langen Verjährung, nicht zur Regelverjährung."
+ },
+ {
+  "id": "zwan1-013",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Zwangsvollstreckung: Antrag und Vollstreckungstitel",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-antrag-und-vollstreckungstitel",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Was ist ein Vollstreckungstitel, der außerhalb der ZPO durch ein anderes Gesetz geschaffen wird?",
+  "optionen": [
+   "Die vollstreckbare Kostenrechnung des Notars",
+   "Der Prozessvergleich",
+   "Der Vollstreckungsbescheid",
+   "Die einstweilige Verfügung"
+  ],
+  "antwort": 0,
+  "erklaerung": "Außerhalb der ZPO entstehen Titel etwa durch den Zuschlagsbeschluss nach dem ZVG, die vollstreckbare Kostenrechnung des Notars, den Steuerbescheid, den vollstreckbaren Beitragsbescheid einer Krankenkasse und die vom Jugendamt beurkundete Unterhaltsverpflichtung. Prozessvergleich (§ 794 Abs. 1 Nr. 1 ZPO), Vollstreckungsbescheid (§ 794 Abs. 1 Nr. 4 ZPO) und einstweilige Verfügung (§§ 922 ff. ZPO) sind dagegen Titel der ZPO selbst."
+ },
+ {
+  "id": "zwan1-014",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Zwangsvollstreckung: Antrag und Vollstreckungstitel",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-antrag-und-vollstreckungstitel",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 52 ZVG",
+   "§ 91 ZVG"
+  ],
+  "frage": "Grundschuld mit dinglicher und persönlicher Unterwerfung zweier Schuldner",
+  "sachverhalt": "Die Eheleute A und B bestellen der G-Bank eine Grundschuld an ihrem Grundstück, unterwerfen sich wegen des Grundschuldbetrags der sofortigen Zwangsvollstreckung in das Grundstück und übernehmen zusätzlich die persönliche Haftung mit Unterwerfung unter die Zwangsvollstreckung in ihr gesamtes Vermögen. Die Urkunde enthält keine Aussage dazu, ob A und B als Gesamtschuldner haften. Der Grundschuld geht im Grundbuch eine Grundschuld der H-Bank vor; nach ihr ist eine Grundschuld der K-Bank eingetragen.",
+  "schritte": [
+   {
+    "frage": "Welchen Zugriff eröffnet der Titel aus der persönlichen Haftungsübernahme?",
+    "optionen": [
+     "Nur die Vollstreckung in das belastete Grundstück bis zur Höhe des Grundschuldbetrags",
+     "Den Zugriff auf das gesamte bewegliche und unbewegliche Vermögen der Schuldner",
+     "Nur den Zugriff auf das bewegliche Vermögen, nicht auf weiteren Grundbesitz",
+     "Nur die Zwangsverwaltung des belasteten Grundstücks"
+    ],
+    "antwort": 1,
+    "erklaerung": "Der Titel über die persönliche Forderung ist ein Zahlungstitel und eröffnet den Zugriff auf das gesamte bewegliche und unbewegliche Vermögen. Auf das Grundstück wegen des eingetragenen Betrags beschränkt ist nur der dingliche Duldungstitel."
+   },
+   {
+    "frage": "Welche Folge hat das Fehlen einer Angabe zur Gesamtschuld für die Vollstreckung aus dem Zahlungstitel?",
+    "optionen": [
+     "Die G-Bank kann gegen A und B jeweils wegen des vollen Betrags vollstrecken",
+     "Der Titel ist mangels Bestimmtheit insgesamt nicht vollstreckbar",
+     "Gegen A und B ist nur eine Teilvollstreckung möglich",
+     "Die Vollstreckung ist nur gegen denjenigen möglich, der zuerst unterschrieben hat"
+    ],
+    "antwort": 2,
+    "erklaerung": "Bei mehreren Schuldnern kommt es darauf an, ob der Titel eine Haftung als Gesamtschuldner ausspricht; fehlt diese Angabe, ist nur eine Teilvollstreckung möglich. Der Titel bleibt also vollstreckbar, aber nicht gegen jeden auf das Ganze. Die Gesamtschuld gehört deshalb ausdrücklich in die Urkunde."
+   },
+   {
+    "frage": "Die G-Bank betreibt die Zwangsversteigerung aus dem dinglichen Duldungstitel. Was gilt für die Rechte der H-Bank und der K-Bank?",
+    "optionen": [
+     "Beide Grundschulden fallen in das geringste Gebot und bleiben bestehen",
+     "Beide Grundschulden erlöschen mit dem Zuschlag",
+     "Die Grundschuld der K-Bank fällt in das geringste Gebot, die der H-Bank erlischt",
+     "Die Grundschuld der H-Bank fällt in das geringste Gebot, die der K-Bank erlischt mit dem Zuschlag"
+    ],
+    "antwort": 3,
+    "erklaerung": "Betreibt der Gläubiger die Versteigerung aus dem Duldungstitel, enthält das geringste Gebot nur die dinglichen Rechte mit Vorrang vor seinem Recht. Nachrangige Rechte wie die Grundschuld der K-Bank erlöschen mit dem Zuschlag (§§ 52, 91 ZVG)."
+   }
+  ],
+  "erklaerung": "Der Zahlungstitel eröffnet den Zugriff auf das gesamte Vermögen, ohne Ausspruch der Gesamtschuld aber nur im Wege der Teilvollstreckung gegen A und B. In der Versteigerung aus dem Duldungstitel bleibt nur das vorrangige Recht der H-Bank im geringsten Gebot; das nachrangige Recht der K-Bank erlischt mit dem Zuschlag (§§ 52, 91 ZVG)."
+ },
+ {
+  "id": "zwan1-015",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Zwangsvollstreckung: Antrag und Vollstreckungstitel",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-antrag-und-vollstreckungstitel",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 130d S. 1 ZPO"
+  ],
+  "frage": "Schriftlich einzureichende Vollstreckungsanträge von Rechtsanwälten, Behörden und juristischen Personen des öffentlichen Rechts sind als elektronisches Dokument zu übermitteln.",
+  "antwort": true,
+  "erklaerung": "§ 130d S. 1 ZPO ordnet für diesen Personenkreis die elektronische Übermittlung an. Ob die Pflicht auch Notare trifft, ist umstritten; die Aussage beschränkt sich bewusst auf die in der Norm ausdrücklich genannten Antragsteller."
+ }
+]
