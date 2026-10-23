@@ -14,11 +14,11 @@
   "frage": "Die Gemeinde verkauft einen Bauplatz und verpflichtet den Erwerber zur Selbstnutzung. Welcher Prüfungsmaßstab gilt für die Angemessenheit der vereinbarten Leistungen?",
   "optionen": [
    "§ 138 BGB als alleiniger Maßstab, da ein reiner Kaufvertrag vorliegt",
-   "§ 11 Abs. 2 BauGB, weil die Selbstnutzungspflicht den Vertrag zum städtebaulichen Vertrag macht",
+   "§ 56 VwVfG, weil die Gemeinde als Hoheitsträger handelt",
    "§ 11 Abs. 2 BauGB nur, wenn die Gemeinde zugleich einen Bebauungsplan aufstellt",
-   "§ 56 VwVfG, weil die Gemeinde als Hoheitsträger handelt"
+   "§ 11 Abs. 2 BauGB, weil die Selbstnutzungspflicht den Vertrag zum städtebaulichen Vertrag macht"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Bau-, Nutzungs- oder Selbstnutzungspflichten sichern die gemeindliche Bauleitplanung ab und machen den Vertrag deshalb immer zu einem städtebaulichen Vertrag, für den § 11 Abs. 2 S. 1 BauGB die Angemessenheit von Leistung und Gegenleistung in ihrer Gesamtheit verlangt. Ein reiner Kauf wäre zwar kein städtebaulicher Vertrag, hier liegt aber mehr als ein Kauf vor; der Katalog des § 11 Abs. 1 S. 2 BauGB ist zudem nicht abschließend, sodass bei jeder über den Kauf hinausgehenden Regelung von einem städtebaulichen Vertrag auszugehen ist."
  },
  {
@@ -121,12 +121,12 @@
   ],
   "frage": "Wann ist ein an sich formfreier Erschließungsvertrag wegen seiner Verknüpfung mit einem Grundstückskaufvertrag mitzubeurkunden?",
   "optionen": [
-   "Immer, wenn der Kaufvertrag unter der Bedingung des Abschlusses des Erschließungsvertrags steht",
    "Wenn der Kaufvertrag inhaltlich vom Erschließungsvertrag abhängt, es den Beteiligten also auf dessen Inhalt ankommt",
+   "Immer, wenn der Kaufvertrag unter der Bedingung des Abschlusses des Erschließungsvertrags steht",
    "Nur, wenn beide Verträge nach der Formel vom „Stehen und Fallen“ miteinander verknüpft sind",
    "Nie, weil der Erschließungsvertrag ein öffentlich-rechtlicher Vertrag ist"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Die Pflicht zur Mitbeurkundung nach § 311b Abs. 1 BGB besteht, wenn das beurkundungsbedürftige Geschäft inhaltlich vom nicht beurkundungsbedürftigen abhängt, wenn also die Beteiligten bestimmte Inhalte des Erschließungsvertrags als unverzichtbar vereinbaren. Eine bloße Bedingung genügt nicht, denn es reicht nicht, dass der Bestand des einen Vertrags vom Abschluss irgendeines anderen Vertrags abhängt. Auf die frühere Formel vom „Stehen und Fallen“ stellt der BGH nicht mehr ab."
  },
  {
@@ -199,12 +199,12 @@
   "normen": [],
   "frage": "Welche Vorgabe enthalten die zwischen EU-Kommission, Bund und Freistaat Bayern ausgehandelten Leitlinien zu Einheimischenmodellen?",
   "optionen": [
-   "Kriterien der Ortsansässigkeit dürfen höchstens die Hälfte der Gewichtung ausmachen; Bindungen sind nur für zehn Jahre zulässig",
-   "Kriterien der Ortsansässigkeit dürfen höchstens ein Drittel der Gewichtung ausmachen; Bindungen sind nur für fünf Jahre zulässig",
    "Einkommen und Vermögen dürfen keine Rolle spielen; Bindungen sind nur für zehn Jahre zulässig",
+   "Kriterien der Ortsansässigkeit dürfen höchstens ein Drittel der Gewichtung ausmachen; Bindungen sind nur für fünf Jahre zulässig",
+   "Kriterien der Ortsansässigkeit dürfen höchstens die Hälfte der Gewichtung ausmachen; Bindungen sind nur für zehn Jahre zulässig",
    "Ortsansässigkeit darf nur als Ausschlusskriterium verwendet werden; Bindungen sind für fünfzehn Jahre zulässig"
   ],
-  "antwort": 0,
+  "antwort": 2,
   "erklaerung": "Nach den Leitlinien kommt es vor allem auf soziale Kriterien wie Einkommen und Vermögen an; Kriterien, die an Ortsansässigkeit und Dauer anknüpfen, dürfen höchstens die Hälfte der Gewichtung ausmachen, und Bindungen des Erwerbers sind nur für zehn Jahre zulässig. Werden die Leitlinien eingehalten, verzichtet die Kommission auf Einwände wegen Verstoßes gegen Niederlassungsfreiheit und Diskriminierungsverbot. Die Fristen von fünf oder fünfzehn Jahren und die Drittelgrenze sind falsch."
  },
  {
@@ -255,11 +255,11 @@
   "frage": "Wer trägt nach der gesetzlichen Regel die Kosten der Beurkundung des Kaufvertrags, der Auflassung und der Grundbucheintragung beim Grundstückskauf?",
   "optionen": [
    "Der Verkäufer",
-   "Der Käufer",
+   "Derjenige, der den Notar beauftragt hat",
    "Verkäufer und Käufer je zur Hälfte",
-   "Derjenige, der den Notar beauftragt hat"
+   "Der Käufer"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Nach § 448 Abs. 2 BGB trägt der Käufer eines Grundstücks die Kosten der Beurkundung von Kaufvertrag und Auflassung, der Grundbucheintragung und der zur Eintragung nötigen Erklärungen; die Beteiligten dürfen abweichen, tun das in der Praxis aber selten. Die hälftige Teilung ist die allgemeine Regel des § 448 Abs. 1 BGB für Übergabekosten, nicht die Sonderregel für Grundstücke. Von der vertraglichen Kostentragung zu trennen ist die gesamtschuldnerische Haftung aller Beteiligten gegenüber dem Notar nach § 30 Abs. 1 GNotKG."
  },
  {
@@ -269,19 +269,19 @@
   "seite": "Grundstückskaufvertrag: Kostentragung, Grunderwerbsteuer und Hinweispflichten",
   "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/grundstuckskaufvertrag-kostentragung-grunderwerbsteuer-und-hinweispflichten",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 80 Abs. 4 S. 1 GEG",
    "§ 80 Abs. 4 S. 5 GEG"
   ],
   "frage": "Bis zu welchem Zeitpunkt müssen Verkäufer oder Makler dem Kaufinteressenten den Energieausweis oder eine Kopie vorlegen?",
   "optionen": [
-   "Spätestens bei der Beurkundung des Kaufvertrags",
    "Spätestens zur Besichtigung",
+   "Spätestens bei der Beurkundung des Kaufvertrags",
    "Unverzüglich nach Abschluss des Kaufvertrags",
    "Spätestens bei Übergabe des Grundstücks"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Nach § 80 Abs. 4 S. 1 GEG ist der Energieausweis dem Kaufinteressenten bis spätestens zur Besichtigung vorzulegen. Die Übergabe unverzüglich nach Vertragsschluss ist eine zweite, eigenständige Pflicht nach § 80 Abs. 4 S. 5 GEG und darf nicht mit der Vorlagepflicht verwechselt werden. Der Notar kann im Kaufvertrag auf beide Pflichten hinweisen."
  },
  {
@@ -336,11 +336,11 @@
   "frage": "Der Verkäufer wird bei der Beurkundung vollmachtlos vertreten; seine Nachgenehmigung muss später beglaubigt werden. Welche Regelung sollte der Notar in den Kaufvertrag aufnehmen?",
   "optionen": [
    "Keine, weil die Beglaubigungskosten kraft Gesetzes der Erwerber trägt",
-   "Eine ausdrückliche Zuweisung der Beglaubigungskosten, etwa an den Erwerber oder an den nicht persönlich anwesenden Beteiligten",
    "Eine Regelung, dass der Notar die Beglaubigungskosten als Vollzugskosten nach § 30 GNotKG unter den Beteiligten aufteilt",
+   "Eine ausdrückliche Zuweisung der Beglaubigungskosten, etwa an den Erwerber oder an den nicht persönlich anwesenden Beteiligten",
    "Keine, weil der Verkäufer die Kosten seiner eigenen Nachgenehmigung stets selbst trägt"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Muss der Notar Nachgenehmigungen oder Vollmachtsbestätigungen einholen, sollte der Vertrag ausdrücklich bestimmen, wer die Kosten der Unterschriftsbeglaubigung trägt; in Betracht kommen der Erwerber oder der Beteiligte, der nicht persönlich anwesend war. § 448 Abs. 2 BGB erfasst diese Kosten nicht eindeutig, deshalb ist die Zuweisung sinnvoll. § 30 Abs. 1 GNotKG regelt nur die gesamtschuldnerische Haftung gegenüber dem Notar, nicht die Verteilung im Innenverhältnis."
  },
  {
@@ -388,18 +388,18 @@
   "seite": "Grundstückskaufvertrag: Verkauf einer unvermessenen Teilfläche",
   "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/grundstuckskaufvertrag-verkauf-einer-unvermessenen-teilflache",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 28 GBO"
   ],
   "frage": "Welche Erklärung ist für den Grundbuchvollzug der Auflassung einer vor der Vermessung verkauften Teilfläche stets erforderlich, auch wenn die Auflassung bereits im Kaufvertrag erklärt wurde?",
   "optionen": [
    "Eine erneute Auflassung, weil die erste wegen Unbestimmtheit unwirksam war",
-   "Eine Identitätserklärung, dass die verkaufte Teilfläche dem vermessenen Grundstück entspricht",
+   "Eine Zustimmung der Grundpfandgläubiger nach § 19 GBO",
    "Eine Unschädlichkeitsbescheinigung der Vermessungsbehörde",
-   "Eine Zustimmung der Grundpfandgläubiger nach § 19 GBO"
+   "Eine Identitätserklärung, dass die verkaufte Teilfläche dem vermessenen Grundstück entspricht"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Die Auflassung kann bereits im Kaufvertrag für die unvermessene Teilfläche erklärt werden; unabhängig davon ist stets eine Identitätserklärung erforderlich, deren grundbuchrechtliche Grundlage § 28 GBO ist, und die der Notar auch durch Eigenurkunde treffen kann. Eine neue Auflassung ist nur nötig, wenn sich Größe oder Lage der Teilfläche ändern. Messanerkennung, Identitätserklärung und Auflassung werden in der Regel in einem beurkundeten Nachtrag erklärt."
  },
  {
@@ -421,12 +421,12 @@
    {
     "frage": "Wie kann der Notar die Bestimmtheit des Vertragsgegenstands sichern, obwohl die genaue Grenzführung noch offen ist?",
     "optionen": [
-     "Durch Vereinbarung eines Bestimmungsrechts nach § 315 BGB, verbunden mit der Regelung, dass die Teilfläche wie eingezeichnet verkauft ist und die Größe eine Ca.-Größe ist",
      "Durch den Hinweis, dass die Vermessung den Vertragsgegenstand später verbindlich festlegt",
+     "Durch Vereinbarung eines Bestimmungsrechts nach § 315 BGB, verbunden mit der Regelung, dass die Teilfläche wie eingezeichnet verkauft ist und die Größe eine Ca.-Größe ist",
      "Durch farbige Markierung der ungefähren Fläche im Lageplan",
      "Durch Beurkundung nur eines Vorvertrags bis zur Vermessung"
     ],
-    "antwort": 0,
+    "antwort": 1,
     "erklaerung": "Sind Lage oder Größe bei Beurkundung noch nicht genau festgelegt, kommt die Vereinbarung eines Bestimmungsrechts nach § 315 BGB in Betracht; zu empfehlen ist zugleich eine Regelung, dass die Teilfläche wie eingezeichnet verkauft ist und die Größenangabe eine Ca.-Größe ist. Die bloße Verweisung auf die spätere Vermessung genügt § 311b BGB nicht; farbige Markierungen sind zu vermeiden, Buchstabenfolgen der Grenzpunkte vorzuziehen."
    },
    {
@@ -443,12 +443,12 @@
    {
     "frage": "Wo wird die Eigentumsvormerkung für K eingetragen und wann kann sie auf die Teilfläche beschränkt werden?",
     "optionen": [
-     "Sofort an der Teilfläche, weil § 7 GBO die Abschreibung von Amts wegen anordnet",
      "Am ganzen Flurstück 120; frühestens bei Vorliegen des Fortführungsnachweises kann sie auf die Teilfläche beschränkt und am Rest gelöscht werden",
+     "Sofort an der Teilfläche, weil § 7 GBO die Abschreibung von Amts wegen anordnet",
      "Erst nach der Vermessung, vorher ist keine Sicherung möglich",
      "Am ganzen Flurstück 120; die Beschränkung erfolgt von Amts wegen mit der Eintragung des Eigentumsübergangs"
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "Die Eigentumsvormerkung wird am ganzen, noch ungeteilten Grundstück eingetragen; frühestens wenn der Fortführungsnachweis vorliegt, kann sie auf die vermessene Teilfläche beschränkt und am übrigen Grundstück gelöscht werden. Dafür sollte der Vertrag die Bewilligung des Käufers zur Löschung an der Restfläche enthalten, denn von Amts wegen geschieht das nicht. Eine Sicherung schon vor der Vermessung ist damit möglich."
    }
   ],
@@ -487,11 +487,11 @@
   "frage": "Der Käufer einer noch unvermessenen Teilfläche benötigt eine Finanzierungsgrundschuld. Welcher Weg ist in der Praxis am ehesten gangbar, wenn der Gläubiger andere Gestaltungen nicht mitträgt?",
   "optionen": [
    "Eintragung der Grundschuld an der unvermessenen Teilfläche unter Vorlage des Lageplans",
-   "Grundschuld am ganzen Grundstück, verbunden mit der Pflicht des Gläubigers, die nicht verkaufte Fläche freizugeben",
+   "Verpfändung des Eigentumsverschaffungsanspruchs an den Gläubiger bis zur Eintragung",
    "Vormerkung für die Grundschuld an der Teilfläche bis zur Vermessung",
-   "Verpfändung des Eigentumsverschaffungsanspruchs an den Gläubiger bis zur Eintragung"
+   "Grundschuld am ganzen Grundstück, verbunden mit der Pflicht des Gläubigers, die nicht verkaufte Fläche freizugeben"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "An einer unvermessenen Teilfläche kann ein Grundpfandrecht noch nicht eingetragen werden; ein entsprechender Antrag ist zurückzunehmen oder wird zurückgewiesen. Die Vormerkung für den Gläubiger und die Verpfändung des Eigentumsverschaffungsanspruchs sind zwar mögliche Lösungen, scheitern in der Praxis aber häufig daran, dass der Gläubiger sie nicht mitgeht. Deshalb ist die Grundschuld am Gesamtgrundstück mit gesicherter Freigabeverpflichtung des Gläubigers für die Restfläche der praktikable Weg."
  },
  {
@@ -553,11 +553,11 @@
   "frage": "Welche Umstände lösen in der Regel den Endvollzug (Antrag auf Eigentumsumschreibung) aus?",
   "optionen": [
    "Eintragung der Vormerkung, Fälligkeitsmitteilung und Besitzübergang",
-   "Kaufpreisbestätigung des Verkäufers, Zahlungsnachweis und Unbedenklichkeitsbescheinigung des Finanzamts",
    "Unbedenklichkeitsbescheinigung, Vorkaufsrechtszeugnis und Löschungsbewilligungen der Gläubiger",
+   "Kaufpreisbestätigung des Verkäufers, Zahlungsnachweis und Unbedenklichkeitsbescheinigung des Finanzamts",
    "Fälligkeitsmitteilung, Ablauf der Zahlungsfrist und Kaufpreisbestätigung des Verkäufers"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Den Endvollzug leitet der Notar in der Regel ein, sobald der Verkäufer den Kaufpreiserhalt bestätigt hat, ein Zahlungsnachweis vorliegt und das Finanzamt nach Zahlung der Grunderwerbsteuer die Unbedenklichkeitsbescheinigung (§ 22 Abs. 1 GrEStG) erteilt hat. Vorkaufsrechtszeugnis und Löschungsunterlagen gehören dagegen zum Erstvollzug und zu den Fälligkeitsvoraussetzungen; die bloße Fälligkeitsmitteilung belegt noch keine Zahlung."
  },
  {
@@ -619,11 +619,11 @@
   "frage": "Binnen welcher Frist ist die Veräußerungsanzeige an das Finanzamt bei einem genehmigungsbedürftigen Kaufvertrag zu erstatten?",
   "optionen": [
    "Binnen zwei Wochen ab Eingang der letzten Genehmigung",
-   "Binnen zwei Wochen ab Beurkundung",
+   "Binnen zwei Wochen ab Eintragung der Vormerkung",
    "Binnen eines Monats ab Beurkundung",
-   "Binnen zwei Wochen ab Eintragung der Vormerkung"
+   "Binnen zwei Wochen ab Beurkundung"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Die Veräußerungsanzeige ist binnen zwei Wochen ab Beurkundung zu erstatten, und zwar nach § 18 Abs. 3 GrEStG auch dann, wenn die Wirksamkeit von einer Bedingung, einer Frist oder einer Genehmigung abhängt. Das Abwarten der Genehmigung ist der typische Fehler; nach deren Eingang ist stattdessen eine Wirksamkeitsbestätigung an das Finanzamt zu senden."
  },
  {
@@ -633,7 +633,7 @@
   "seite": "Vollzug des Grundstückskaufvertrags: Anzeigen an Finanzamt und Gutachterausschuss, Unbedenklichkeitsbescheinigung",
   "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/vollzug-des-grundstuckskaufvertrags-anzeigen-an-finanzamt-und-gutachterausschuss-unbedenklichkeitsbescheinigung",
   "typ": "rf",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 21 GrEStG",
    "§ 20 Abs. 1 Nr. 1 GrEStG"
@@ -655,12 +655,12 @@
   ],
   "frage": "In welchem Fall kann in Baden-Württemberg nach dem Erlass des Finanzministeriums ohne Unbedenklichkeitsbescheinigung eingetragen werden?",
   "optionen": [
-   "Verkauf an den Bruder des Veräußerers",
    "Verkauf an den Sohn des Veräußerers",
+   "Verkauf an den Bruder des Veräußerers",
    "Verkauf gegen einen Kaufpreis von 5.000 € in Geld",
    "Erwerb durch eine gemeinnützige GmbH"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Nach dem Erlass des Finanzministeriums Baden-Württemberg sind unter anderem Rechtsvorgänge zwischen Verwandten in gerader Linie von der Grundbuchsperre des § 22 Abs. 1 GrEStG ausgenommen; der Sohn ist Verwandter in gerader Linie, der Bruder dagegen nur in der Seitenlinie. Die Bagatellgrenze liegt bei einer Gegenleistung von höchstens 2.500 €, sodass 5.000 € nicht genügen; begünstigt sind ferner Bund, Länder und Gemeinden, nicht aber gemeinnützige Gesellschaften."
  },
  {
@@ -678,11 +678,11 @@
   "frage": "Welche Erwerbsvorgänge betrifft der Ausschluss der Begünstigungen des § 16 GrEStG bei verspäteter oder unvollständiger Anzeige nach § 16 Abs. 5 GrEStG?",
   "optionen": [
    "Alle anzeigepflichtigen Grundstückskaufverträge",
-   "Nur Erwerbsvorgänge nach § 1 Abs. 2 bis 3a GrEStG",
    "Nur Kaufverträge mit Kaufpreisminderung, nicht Vertragsaufhebungen",
+   "Nur Erwerbsvorgänge nach § 1 Abs. 2 bis 3a GrEStG",
    "Nur Erwerbsvorgänge nach § 1 Abs. 1 Nr. 1 GrEStG"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "§ 16 Abs. 5 GrEStG betrifft nur Erwerbsvorgänge nach § 1 Abs. 2 bis 3a GrEStG; nur bei ihnen nimmt eine verspätete oder unvollständige Anzeige die Begünstigungen des § 16 GrEStG bei späterer Vertragsaufhebung oder Kaufpreisminderung. Die naheliegende Annahme, dass jeder gewöhnliche Grundstückskaufvertrag betroffen sei, ist daher falsch; die Anzeigepflicht und ihre Frist gelten aber gleichwohl."
  },
  {
@@ -738,10 +738,10 @@
   "optionen": [
    "Nur die Auflassung",
    "Nur der schuldrechtliche Kaufvertrag",
-   "Veräußerung, schuldrechtlicher Vertrag und auch das Finanzierungsgrundpfandrecht",
-   "Veräußerung und schuldrechtlicher Vertrag, nicht aber das Finanzierungsgrundpfandrecht"
+   "Veräußerung und schuldrechtlicher Vertrag, nicht aber das Finanzierungsgrundpfandrecht",
+   "Veräußerung, schuldrechtlicher Vertrag und auch das Finanzierungsgrundpfandrecht"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Im förmlich festgelegten Sanierungsgebiet bedürfen die rechtsgeschäftliche Veräußerung (§ 144 Abs. 2 Nr. 1 BauGB) und der zugrunde liegende schuldrechtliche Vertrag (§ 144 Abs. 2 Nr. 3 Hs. 1 BauGB) der schriftlichen Genehmigung; das gilt nach § 144 Abs. 2 Nr. 2 Hs. 1 BauGB auch für ein Finanzierungsgrundpfandrecht. Die Eigentumsvormerkung kann dagegen schon vorher ohne Genehmigung eingetragen werden."
  },
  {
@@ -761,34 +761,34 @@
    {
     "frage": "Wer tritt im Kaufvertrag als Verkäufer auf und wie wird die Befugnis nachgewiesen?",
     "optionen": [
-     "E als eingetragener Eigentümer mit Zustimmung des I",
      "I als Partei kraft Amtes, Nachweis durch den gerichtlichen Bestellungsbeschluss",
+     "E als eingetragener Eigentümer mit Zustimmung des I",
      "I als Vertreter des E, Nachweis durch Vollmacht des E",
      "I als Partei kraft Amtes, Nachweis durch den Insolvenzvermerk im Grundbuch"
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "Der Insolvenzvermerk zeigt an, dass nicht mehr der eingetragene Eigentümer, sondern der Insolvenzverwalter verfügen darf; I handelt als Verkäufer in seiner Eigenschaft als Partei kraft Amtes und weist sein Amt durch den gerichtlichen Bestellungsbeschluss nach. Der Insolvenzvermerk selbst nennt den Verwalter nicht als Legitimationsnachweis."
    },
    {
     "frage": "Wie kann K gegen den Wegfall des Amts von I geschützt werden?",
     "optionen": [
      "Gar nicht, das Risiko trägt der Käufer",
-     "Fortbestand des Amts auch nach Eintragung der Vormerkung als Fälligkeitsvoraussetzung vereinbaren",
      "Eintragung eines Widerspruchs gegen den Insolvenzvermerk",
+     "Fortbestand des Amts auch nach Eintragung der Vormerkung als Fälligkeitsvoraussetzung vereinbaren",
      "Zahlung des Kaufpreises unmittelbar an E"
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Schließt ein Insolvenzverwalter den Kaufvertrag, kann der Fortbestand des Amts auch nach Eintragung der Eigentumsvormerkung als Fälligkeitsvoraussetzung vereinbart werden. Der Notar lässt sich den Fortbestand vom Amtsinhaber bestätigen oder fragt beim Insolvenzgericht an, ob Anhaltspunkte für einen Amtswegfall bei Eintragung der Vormerkung bestehen."
    },
    {
     "frage": "Wann sollte I den ununterbrochenen Fortbestand seines Amts zu den Notarakten bestätigen?",
     "optionen": [
      "Einmal bei der Beurkundung",
-     "Nach Eintragung der Erwerbervormerkung und nach der Eigentumsumschreibung",
+     "Bei Beurkundung und bei Fälligkeitsmitteilung",
      "Nur nach der Eigentumsumschreibung",
-     "Bei Beurkundung und bei Fälligkeitsmitteilung"
+     "Nach Eintragung der Erwerbervormerkung und nach der Eigentumsumschreibung"
     ],
-    "antwort": 1,
+    "antwort": 3,
     "erklaerung": "Der Insolvenzverwalter sollte sicherheitshalber zweimal bestätigen, nämlich nach Eintragung der Erwerbervormerkung und nach der Eigentumsumschreibung, dass er weiterhin und seit seiner Bestellung ohne Unterbrechung Insolvenzverwalter ist. Eine Bestätigung nur bei Beurkundung deckt die maßgeblichen Eintragungszeitpunkte nicht ab."
    }
   ],
@@ -903,11 +903,11 @@
   "frage": "Was gilt nach § 21 Abs. 1 BeurkG für die Unterrichtung des Notars über den Grundbuchinhalt?",
   "optionen": [
    "Der Notar muss Grundbuch und Grundakte einsehen und dies in der Urkunde vermerken",
-   "Der Notar soll sich über den Grundbuchinhalt unterrichten; hat er nicht eingesehen, ist dies in der Niederschrift zu vermerken",
+   "Der Vermerk über die erfolgte Einsicht ist zwingend, sonst ist die Urkunde unwirksam",
    "Die Grundbucheinsicht ist nur auf Verlangen eines Beteiligten erforderlich",
-   "Der Vermerk über die erfolgte Einsicht ist zwingend, sonst ist die Urkunde unwirksam"
+   "Der Notar soll sich über den Grundbuchinhalt unterrichten; hat er nicht eingesehen, ist dies in der Niederschrift zu vermerken"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Nach § 21 Abs. 1 S. 1 BeurkG soll sich der Notar über den Grundbuchinhalt unterrichten; die Grundakte muss er danach nicht einsehen. Hat er das Grundbuch nicht eingesehen, ist dies nach § 21 Abs. 1 S. 2 BeurkG in der Niederschrift zu vermerken. Ein Vermerk über die erfolgte Einsicht ist dagegen nur üblich, nicht vorgeschrieben."
  },
  {
@@ -937,11 +937,11 @@
   "frage": "In Abteilung III ist eine Briefgrundschuld eingetragen, die gelöscht werden soll; der Verkäufer findet den Grundschuldbrief nicht. Was ist erforderlich?",
   "optionen": [
    "Eine eidesstattliche Versicherung des Verkäufers über den Verlust gegenüber dem Grundbuchamt",
-   "Ein Kraftloserklärungsverfahren beim Amtsgericht auf Kosten des Verkäufers, mit einer Dauer von etwa sechs Monaten",
    "Die Löschungsbewilligung des Gläubigers genügt ohne Brief",
+   "Ein Kraftloserklärungsverfahren beim Amtsgericht auf Kosten des Verkäufers, mit einer Dauer von etwa sechs Monaten",
    "Ein Kraftloserklärungsverfahren auf Kosten des Käufers, mit einer Dauer von etwa vier Wochen"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Für die Löschung eines Briefgrundpfandrechts muss der Brief vorgelegt werden; kann der Verkäufer ihn nicht vorlegen, ist beim zuständigen Amtsgericht ein Kraftloserklärungsverfahren auf Kosten des Verkäufers zu betreiben, für das mit etwa sechs Monaten zu rechnen ist. Die Löschungsbewilligung allein reicht nicht. Der Vertrag sollte einen unauffindbaren Brief von Anfang an berücksichtigen, um einen kostenträchtigen Nachtrag zu vermeiden."
  },
  {
@@ -958,11 +958,11 @@
   "frage": "Die Beteiligten bestehen auf sofortiger Beurkundung, obwohl das Grundbuch nicht eingesehen werden konnte. Was sollte die Niederschrift festhalten?",
   "optionen": [
    "Nur, dass die Beurkundung auf ausdrücklichen Wunsch erfolgt",
-   "Hinweis auf die Amtspflicht aus § 21 BeurkG, Belehrung über die Risiken, Unkenntnis des Notars von Bestand und Belastungen und Entbindung von der Einsicht durch die Beteiligten",
+   "Dass der Verkäufer für die Richtigkeit des Grundbuchs garantiert und der Notar damit von seiner Pflicht befreit ist",
    "Dass der Notar die Einsicht nachholt und den Vertrag bei Abweichungen selbständig anpasst",
-   "Dass der Verkäufer für die Richtigkeit des Grundbuchs garantiert und der Notar damit von seiner Pflicht befreit ist"
+   "Hinweis auf die Amtspflicht aus § 21 BeurkG, Belehrung über die Risiken, Unkenntnis des Notars von Bestand und Belastungen und Entbindung von der Einsicht durch die Beteiligten"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Besteht man auf Beurkundung ohne Grundbucheinsicht, sollte die Niederschrift festhalten, dass der Notar auf seine Amtspflicht aus § 21 BeurkG hingewiesen, über die Risiken belehrt und erklärt hat, dass ihm Bestand und Belastungen unbekannt sind, und dass die Beteiligten ihn von der Einsicht entbunden haben. Der bloße Wunschvermerk genügt dem nicht. Eine Garantie des Verkäufers ersetzt weder Belehrung noch den Vermerk nach § 21 Abs. 1 S. 2 BeurkG."
  },
  {
@@ -981,12 +981,12 @@
   ],
   "frage": "V und K vereinbaren 400.000 €, lassen aber 350.000 € beurkunden, um Notarkosten zu sparen. Wie ist die Rechtslage?",
   "optionen": [
-   "Der beurkundete Vertrag ist wirksam; die Mehrzahlung ist eine formfreie Nebenabrede",
-   "Der beurkundete Vertrag ist nach § 117 Abs. 1 BGB nichtig; der verdeckte Vertrag über 400.000 € ist wirksam",
    "Beide Verträge sind nichtig: der beurkundete als Scheingeschäft, der verdeckte mangels Beurkundung nach § 117 Abs. 2 i. V. m. § 125 S. 1 BGB",
+   "Der beurkundete Vertrag ist nach § 117 Abs. 1 BGB nichtig; der verdeckte Vertrag über 400.000 € ist wirksam",
+   "Der beurkundete Vertrag ist wirksam; die Mehrzahlung ist eine formfreie Nebenabrede",
    "Beide Verträge sind wirksam, der Notar muss aber nachträglich die Kosten aus 400.000 € erheben"
   ],
-  "antwort": 2,
+  "antwort": 0,
   "erklaerung": "Der beurkundete Vertrag über den zu niedrigen Preis ist als Scheingeschäft nach § 117 Abs. 1 BGB nichtig. Der verdeckte Vertrag mit dem wahren Kaufpreis gilt zwar grundsätzlich nach § 117 Abs. 2 BGB, ist aber mangels Beurkundung nach § 311b Abs. 1 S. 1 BGB gemäß § 125 S. 1 BGB ebenfalls nichtig. Der Fehler der zweiten Option liegt darin, das Formerfordernis für das verdeckte Geschäft zu übersehen."
  },
  {
@@ -1021,11 +1021,11 @@
   "frage": "Unternehmer U verkauft ein Betriebsgrundstück, für das er vor sechs Jahren Vorsteuer abgezogen hat, an die K-GmbH für deren Unternehmen. Was ist für die Umsatzsteueroption zu beachten?",
   "optionen": [
    "Die Option kann bis zur Abgabe der Umsatzsteuererklärung formlos gegenüber dem Finanzamt erklärt werden",
-   "Der Verzicht auf die Steuerbefreiung muss bereits im notariellen Kaufvertrag erklärt werden; er verhindert die zeitanteilige Vorsteuerrückzahlung nach § 15a UStG",
    "Die Option ist ausgeschlossen, weil der Umsatz der Grunderwerbsteuer unterliegt",
+   "Der Verzicht auf die Steuerbefreiung muss bereits im notariellen Kaufvertrag erklärt werden; er verhindert die zeitanteilige Vorsteuerrückzahlung nach § 15a UStG",
    "Die Option ist nur möglich, wenn der Erwerb nicht für das Unternehmen der K-GmbH erfolgt"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Der Umsatz ist nach § 4 Nr. 9 lit. a) UStG grundsätzlich steuerfrei, weil er dem GrEStG unterfällt; U kann aber nach § 9 Abs. 1 UStG optieren, wenn die K-GmbH Unternehmerin ist und für ihr Unternehmen erwirbt. Der Verzicht muss nach § 9 Abs. 3 S. 2 UStG bereits im notariellen Kaufvertrag erklärt werden, eine spätere Erklärung gegenüber dem Finanzamt genügt nicht. Die Option verhindert, dass U die Vorsteuer bei steuerfreiem Verkauf innerhalb von zehn Jahren zeitanteilig nach § 15a Abs. 1 UStG zurückzahlen muss."
  },
  {
@@ -1049,5 +1049,260 @@
   ],
   "antwort": 1,
   "erklaerung": "Zivilrechtlich ist das Gebäude wesentlicher Bestandteil des Grundstücks, ertragsteuerlich aber ein selbständiges Wirtschaftsgut, das nach § 7 Abs. 4, 5 EStG abgeschrieben wird, während Grund und Boden nicht abgeschrieben wird. Die Aufteilung ermöglicht dem Käufer daher die AfA auf den Gebäudeanteil. Die erste Option verwechselt die zivilrechtliche mit der ertragsteuerlichen Einordnung."
+ },
+ {
+  "id": "kauf3-049",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Vertragsgegenstand und Kaufpreis",
+  "seite": "Grundstückskaufvertrag: Vertragsgegenstand, Bestandteile, Zubehör und bewegliche Sachen",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/grundstuckskaufvertrag-vertragsgegenstand-bestandteile-zubehor-und-bewegliche-sachen",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 93 BGB",
+   "§ 94 Abs. 1 S. 1 BGB"
+  ],
+  "frage": "Warum können ein Grundstück und das darauf errichtete Gebäude nur gemeinsam verkauft und übereignet werden?",
+  "optionen": [
+   "Weil das Gebäude Zubehör des Grundstücks ist und nach § 311c BGB mitverkauft gilt",
+   "Weil das Gebäude wesentlicher Bestandteil ist und nicht Gegenstand besonderer Rechte sein kann",
+   "Weil § 311b Abs. 1 BGB die gemeinsame Beurkundung vorschreibt",
+   "Weil das Gebäude ertragsteuerlich kein selbständiges Wirtschaftsgut ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Gebäude sind als fest mit dem Boden verbundene Sachen wesentliche Bestandteile des Grundstücks (§ 94 Abs. 1 S. 1 BGB) und können nach § 93 BGB nicht Gegenstand besonderer Rechte sein; daraus folgt die Bodenakzessorietät. Die erste Option ist falsch, weil Zubehör nach § 97 BGB gerade nicht Bestandteil der Hauptsache ist und § 311c BGB nur eine Auslegungsregel enthält."
+ },
+ {
+  "id": "kauf3-050",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Vertragsgegenstand und Kaufpreis",
+  "seite": "Grundstückskaufvertrag: Vertragsgegenstand, Bestandteile, Zubehör und bewegliche Sachen",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/grundstuckskaufvertrag-vertragsgegenstand-bestandteile-zubehor-und-bewegliche-sachen",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 311c BGB",
+   "§ 97 Abs. 1 S. 1 BGB"
+  ],
+  "frage": "Bewegliche Sachen, die kein Zubehör sind, sind beim Grundstückskauf nur mitverkauft, wenn der Vertrag sie ausdrücklich nennt.",
+  "antwort": true,
+  "erklaerung": "Die Auslegungsregel des § 311c BGB erfasst nur Zubehör im Sinne von § 97 Abs. 1 S. 1 BGB. Bewegliche Sachen, die kein Zubehör sind, gehen nicht automatisch mit, sondern sind nur mitverkauft, wenn der Vertrag sie ausdrücklich nennt. Werden sie im Vertrag vergessen, sind sie nicht mitverkauft; wer § 311c BGB auf sämtliche Gegenstände im Haus erstreckt, begeht einen typischen Gestaltungsfehler."
+ },
+ {
+  "id": "kauf3-051",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Vertragsgegenstand und Kaufpreis",
+  "seite": "Grundstückskaufvertrag: Vertragsgegenstand, Bestandteile, Zubehör und bewegliche Sachen",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/grundstuckskaufvertrag-vertragsgegenstand-bestandteile-zubehor-und-bewegliche-sachen",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1 Abs. 2 WEG"
+  ],
+  "frage": "Beim Verkauf einer Eigentumswohnung soll geprüft werden, ob ein Sondernutzungsrecht an einem Stellplatz besteht. Wo ist nachzusehen?",
+  "optionen": [
+   "Im Bestandsverzeichnis des Wohnungsgrundbuchs, weil Sondernutzungsrechte dort stets ausdrücklich eingetragen sind",
+   "Im Baulastenverzeichnis der Gemeinde",
+   "In Abteilung II des Grundbuchs, weil das Sondernutzungsrecht eine Dienstbarkeit ist",
+   "In der Teilungserklärung mit Nachträgen, weil das Sondernutzungsrecht regelmäßig nur über die Bezugnahme auf die Eintragungsbewilligung eingetragen ist"
+  ],
+  "antwort": 3,
+  "erklaerung": "Ein Sondernutzungsrecht ist im Grundbuch regelmäßig nur über die Bezugnahme auf die Eintragungsbewilligung eingetragen, also auf die Teilungserklärung und etwaige Nachträge. Ein Blick in das Bestandsverzeichnis allein zeigt es deshalb nicht in jedem Fall; das ist der Fehler der ersten Option. Für Sondernutzungsrechte sind daher Teilungserklärung und Nachträge einzusehen."
+ },
+ {
+  "id": "kauf3-052",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Vertragsgegenstand und Kaufpreis",
+  "seite": "Grundstückskaufvertrag: Vertragsgegenstand, Bestandteile, Zubehör und bewegliche Sachen",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/grundstuckskaufvertrag-vertragsgegenstand-bestandteile-zubehor-und-bewegliche-sachen",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 311c BGB"
+  ],
+  "frage": "Der Käufer soll die Einbauküche und Gartenmöbel des Verkäufers übernehmen. Welche Regelung empfiehlt sich im Kaufvertrag?",
+  "optionen": [
+   "Ausdrückliche Bezeichnung der Sachen, Angabe des Verkäufers zur Freiheit von Rechten Dritter, Eigentumsübergang mit Kaufpreiszahlung und Ausweis des auf sie entfallenden Kaufpreisteils",
+   "Keine, weil § 311c BGB alle im Haus befindlichen Sachen erfasst",
+   "Gesonderter privatschriftlicher Kaufvertrag über die beweglichen Sachen außerhalb der Urkunde",
+   "Übereignung der Sachen bereits mit Beurkundung, unabhängig von der Kaufpreiszahlung"
+  ],
+  "antwort": 0,
+  "erklaerung": "Bewegliche Sachen sind nur mitverkauft, wenn der Vertrag sie nennt; es bietet sich an festzuhalten, dass sie nach Angabe des Verkäufers frei von Rechten Dritter sind, dass das Eigentum mit Kaufpreiszahlung übergeht und welcher Kaufpreisteil auf sie entfällt. Der gesondert ausgewiesene Wert dient der Ersparnis von Grunderwerbsteuer. Eine Abrede außerhalb der Urkunde gefährdet die Vollständigkeit der Beurkundung; § 311c BGB erfasst nur Zubehör."
+ },
+ {
+  "id": "kauf3-053",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Vertragsgegenstand und Kaufpreis",
+  "seite": "Verträge mit der Gemeinde: Aufzahlung, Vertragsstrafe und Selbstnutzungsverpflichtung",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/vertrage-mit-der-gemeinde-aufzahlung-vertragsstrafe-und-selbstnutzungsverpflichtung",
+  "typ": "zuordnung",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 11 Abs. 2 BauGB"
+  ],
+  "frage": "Ordne der Verbilligung des Bauplatzes die nach der BGH-Rechtsprechung für zulässig gehaltene Höchstdauer einer Selbstnutzungsverpflichtung zu.",
+  "paare": [
+   [
+    "Keine Verbilligung",
+    "5 Jahre"
+   ],
+   [
+    "Verbilligung bis zu 30 %",
+    "15 Jahre"
+   ],
+   [
+    "Verbilligung um 50 %",
+    "20 Jahre"
+   ],
+   [
+    "Verbilligung um 70 %",
+    "30 Jahre"
+   ]
+  ],
+  "erklaerung": "Die zulässige Bindungsdauer richtet sich nach der Höhe der Subvention: Ohne Verbilligung hat der BGH fünf Jahre gebilligt, bei bis zu 30 % sollen höchstens 15 Jahre, bei 50 % 20 Jahre und bei 70 % sogar 30 Jahre zulässig sein. Teile der Literatur halten ohne Verbilligung auch zehn Jahre für zulässig. Die Dauer ist daher stets an der Höhe der Subvention auszurichten."
+ },
+ {
+  "id": "kauf3-054",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Vertragsgegenstand und Kaufpreis",
+  "seite": "Verträge mit der Gemeinde: Aufzahlung, Vertragsstrafe und Selbstnutzungsverpflichtung",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/vertrage-mit-der-gemeinde-aufzahlung-vertragsstrafe-und-selbstnutzungsverpflichtung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 11 Abs. 2 BauGB"
+  ],
+  "frage": "Welche Aufzahlungsklausel in einem verbilligten Bauplatzvertrag der Gemeinde ist nach der Rechtsprechung des BGH grundsätzlich unwirksam?",
+  "optionen": [
+   "Eine Klausel, die bei Verstoß die gewährte Verbilligung zurückfordert",
+   "Eine Klausel, die bei vertragswidrigem Weiterverkauf den Mehrerlös abschöpft",
+   "Eine Pauschalaufzahlung, die über die Verbilligung hinausgeht und nicht an die Wertentwicklung anknüpft",
+   "Eine Klausel, die die Aufzahlung an die Wertsteigerung des Grundstücks koppelt"
+  ],
+  "antwort": 2,
+  "erklaerung": "Grundsätzlich unwirksam sind Pauschalaufzahlungen, die über die gewährte Verbilligung hinausgehen und nicht an die Wertentwicklung des Grundstücks anknüpfen. Zulässig ist dagegen die bloße Rückforderung der Subvention, weil ein verbilligter Verkauf nur bei Absicherung des öffentlichen Zwecks erlaubt ist, und die Abschöpfung des Mehrerlöses bei vertragswidrigem Weiterverkauf, die wirtschaftlich einem Rückkauf mit anschließendem Drittverkauf entspricht."
+ },
+ {
+  "id": "kauf3-055",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Vertragsgegenstand und Kaufpreis",
+  "seite": "Verträge mit der Gemeinde: Aufzahlung, Vertragsstrafe und Selbstnutzungsverpflichtung",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/vertrage-mit-der-gemeinde-aufzahlung-vertragsstrafe-und-selbstnutzungsverpflichtung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 339 BGB"
+  ],
+  "frage": "Eine Vertragsstrafe zugunsten der Gemeinde ist ein grundsätzlich geeignetes Mittel, um die Bauverpflichtung oder die Selbstnutzung des Erwerbers abzusichern.",
+  "antwort": false,
+  "erklaerung": "Vertragsstrafen zur Absicherung solcher Gebote sind grundsätzlich unzulässig: Fehlt dem Erwerber das Geld oder die Möglichkeit zur Erfüllung, baut die Strafe keinen Druck auf, und sie bereichert die Gemeinde stets, weil ihr durch die Nichterfüllung öffentlich-rechtlicher Pflichten kein wirtschaftlicher Schaden entsteht. Die Sicherung durch Vertragsstrafe ist deshalb ein typischer Gestaltungsfehler."
+ },
+ {
+  "id": "kauf3-056",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Vertragsgegenstand und Kaufpreis",
+  "seite": "Verträge mit der Gemeinde: Aufzahlung, Vertragsstrafe und Selbstnutzungsverpflichtung",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/vertrage-mit-der-gemeinde-aufzahlung-vertragsstrafe-und-selbstnutzungsverpflichtung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [],
+  "frage": "Warum ist eine Abschöpfungsklausel zur Sicherung der Selbstnutzungsverpflichtung ungeeignet?",
+  "optionen": [
+   "Weil sie gegen das Schenkungsverbot verstößt",
+   "Weil sie das Planungsziel nicht verwirklicht: Das Grundstück steht trotzdem einem anderen zu und dient nicht mehr der vorgesehenen Bevölkerungsgruppe",
+   "Weil der BGH Mehrerlösabschöpfungen generell für unwirksam hält",
+   "Weil eine Selbstnutzungsverpflichtung überhaupt nicht gesichert werden darf"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Selbstnutzungsverpflichtung kann grundsätzlich mit denselben Mitteln gesichert werden wie die Bauverpflichtung; Abschöpfungsklauseln sind dafür aber ungeeignet, weil das Grundstück trotz Abschöpfung einem anderen zusteht und nicht mehr den Bevölkerungsgruppen dient, für die es bestimmt war. Die dritte Option ist falsch: Bei vertragswidrigem Weiterverkauf hält der BGH die Mehrerlösabschöpfung grundsätzlich für zulässig, sie verfehlt nur den Zweck der Selbstnutzung."
+ },
+ {
+  "id": "kauf3-057",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Vertragsgegenstand und Kaufpreis",
+  "seite": "Verträge mit der Gemeinde: Bauverpflichtung, Wiederkaufsrecht und Heimfall",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/vertrage-mit-der-gemeinde-bauverpflichtung-wiederkaufsrecht-und-heimfall",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 176 Abs. 1 S. 1 Nr. 1 BauGB"
+  ],
+  "frage": "Wie ist die Länge der Baufrist in einer gemeindlichen Bauverpflichtung zu beurteilen?",
+  "optionen": [
+   "Eine Frist von einem Jahr ist unbedenklich, längere Fristen sind unangemessen",
+   "Die Frist ist unerheblich, weil die Bauverpflichtung eine echte Leistungspflicht ist",
+   "Die Frist muss stets der gesetzlichen Ausübungsfrist des Wiederkaufsrechts von 30 Jahren entsprechen",
+   "Schon zwei Jahre sind wohl nicht unbedenklich; eine zu lange Frist gibt es grundsätzlich nicht, solange die Verpflichtung praktische Wirkung behält"
+  ],
+  "antwort": 3,
+  "erklaerung": "Die Baufrist darf nicht zu kurz sein; derzeit ist wohl schon eine Frist von zwei Jahren nicht unbedenklich, je nach Anforderung (Rohbau, Bezugsfertigkeit, Gesamtfertigstellung) und Lage. Eine zu lange Frist gibt es grundsätzlich nicht, weil sie den Bürger stets weniger belastet, es sei denn, die Verpflichtung verliert dadurch jede praktische Wirkung. Die Bauverpflichtung ist nach herrschender Meinung zudem nur eine Obliegenheit, keine echte Pflicht."
+ },
+ {
+  "id": "kauf3-058",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Vertragsgegenstand und Kaufpreis",
+  "seite": "Verträge mit der Gemeinde: Bauverpflichtung, Wiederkaufsrecht und Heimfall",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/vertrage-mit-der-gemeinde-bauverpflichtung-wiederkaufsrecht-und-heimfall",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 32 ErbbauRG",
+   "§ 11 Abs. 2 BauGB"
+  ],
+  "frage": "Ein Ausschluss der Heimfallentschädigung nach § 32 ErbbauRG in einem gemeindlichen Erbbaurechtsvertrag verstößt nach dem BGH in der Regel nicht gegen § 11 Abs. 2 BauGB; die Belange des Erbbauberechtigten werden im Rahmen der Ausübungskontrolle berücksichtigt.",
+  "antwort": true,
+  "erklaerung": "Nach BGH DNotZ 2024, 263 verstößt ein Ausschluss der Entschädigung nach § 32 ErbbauRG in der Regel nicht gegen § 11 Abs. 2 BauGB. Die berechtigten Belange des Erbbauberechtigten sind nicht über die Angemessenheitskontrolle des Vertrags, sondern im Rahmen der Ausübungskontrolle zu berücksichtigen. Auch eine Bauverpflichtung kann durch ein Heimfallrecht gesichert werden."
+ },
+ {
+  "id": "kauf3-059",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Vertragsgegenstand und Kaufpreis",
+  "seite": "Verträge mit der Gemeinde: Bauverpflichtung, Wiederkaufsrecht und Heimfall",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/vertrage-mit-der-gemeinde-bauverpflichtung-wiederkaufsrecht-und-heimfall",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 311b Abs. 1 S. 1 BGB",
+   "§ 16 Abs. 2 Nr. 3 GrEStG"
+  ],
+  "frage": "Wiederkaufsrecht der Gemeinde G",
+  "sachverhalt": "Die Gemeinde G verkaufte 2021 an E einen Bauplatz mit Bauverpflichtung und Wiederkaufsrecht ohne zeitliche Begrenzung. E hat bis heute nicht gebaut. G erwägt die Ausübung des Wiederkaufsrechts; alternativ will G auf das Wiederkaufsrecht für die nächsten zwei Jahre verzichten, um E eine letzte Chance zu geben.",
+  "schritte": [
+   {
+    "frage": "Ist das zeitlich nicht begrenzte Wiederkaufsrecht mit der gesetzlichen Ausübungsfrist von 30 Jahren wirksam?",
+    "optionen": [
+     "Nein, das OLG München hält die 30-Jahres-Frist für unangemessen, und dem ist zu folgen",
+     "Ja, was das Gesetz selbst vorsieht, kann nicht unzulässig sein; die Gestaltung ist aber unzweckmäßig",
+     "Nein, Bauverpflichtungen dürfen generell nicht durch Wiederkaufsrechte gesichert werden",
+     "Ja, aber nur, wenn die Gemeinde den Bauplatz verbilligt abgegeben hat"
+    ],
+    "antwort": 1,
+    "erklaerung": "Nach BGH DNotZ 2023, 198 bestehen gegen die Sicherung durch ein Wiederkaufsrecht keine rechtlichen Bedenken; der Auffassung des OLG München, die 30-Jahres-Frist sei unangemessen, ist nicht zu folgen, weil die gesetzliche Frist nicht unzulässig sein kann. Ratsam ist aber eine zeitliche Begrenzung, weil die volle Frist unzweckmäßig ist."
+   },
+   {
+    "frage": "Was schuldet G bei Ausübung des Wiederkaufsrechts typischerweise, und was gilt für die Grunderwerbsteuer?",
+    "optionen": [
+     "Den ursprünglichen Kaufpreis zuzüglich werterhöhender Aufwendungen, insbesondere für die Erschließung; die Grunderwerbsteuer für Erwerb und Rückerwerb wird nach § 16 Abs. 2 Nr. 3 GrEStG aufgehoben",
+     "Den aktuellen Verkehrswert; Grunderwerbsteuer fällt für den Rückerwerb erneut an",
+     "Nur den ursprünglichen Kaufpreis ohne Aufwendungen; die Grunderwerbsteuer für den Ersterwerb bleibt bestehen",
+     "Den ursprünglichen Kaufpreis abzüglich einer Vertragsstrafe; Grunderwerbsteuer fällt nicht an, weil die Gemeinde erwirbt"
+    ],
+    "antwort": 0,
+    "erklaerung": "Bei Ausübung schuldet die Gemeinde typischerweise nur den ursprünglichen Kaufpreis einschließlich etwaiger werterhöhender Aufwendungen, insbesondere für die Erschließung. Die Grunderwerbsteuer wird für den ursprünglichen Erwerb und den Rückerwerb nach § 16 Abs. 2 Nr. 3 GrEStG aufgehoben; Notar- und Grundbuchkosten trägt üblicherweise der ursprüngliche Erwerber."
+   },
+   {
+    "frage": "Welche Form braucht der befristete Verzicht der G auf das Wiederkaufsrecht?",
+    "optionen": [
+     "Notarielle Beurkundung nach § 311b Abs. 1 S. 1 BGB",
+     "Öffentliche Beglaubigung",
+     "Schriftform mit Genehmigung der Rechtsaufsicht",
+     "Keine; der Verzicht ist formlos wirksam, auch wenn er zeitlich beschränkt ist"
+    ],
+    "antwort": 3,
+    "erklaerung": "Änderungen des Wiederkaufsrechts sind nur dann nach § 311b Abs. 1 S. 1 BGB beurkundungspflichtig, wenn sie die Verpflichtung ausweiten. Ein Verzicht der Gemeinde ist formlos wirksam, auch wenn er zeitlich oder sachlich beschränkt ist; die Beurkundungspflicht der ersten Option betrifft nur Erweiterungen."
+   }
+  ],
+  "erklaerung": "Das unbegrenzte Wiederkaufsrecht ist wirksam, aber unzweckmäßig. Bei Ausübung schuldet G den ursprünglichen Kaufpreis nebst werterhöhenden Aufwendungen, die Grunderwerbsteuer wird nach § 16 Abs. 2 Nr. 3 GrEStG aufgehoben. Den befristeten Verzicht kann G formlos erklären."
  }
 ]

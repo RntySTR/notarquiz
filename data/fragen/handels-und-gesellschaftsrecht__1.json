@@ -1208,5 +1208,121 @@
    ]
   ],
   "erklaerung": "Gesellschafterbezogene Ereignisse (Tod, Kündigung der Mitgliedschaft, Privatinsolvenz) führen nach § 723 BGB zum Ausscheiden, gesellschaftsbezogene Ereignisse wie die Insolvenz über das Gesellschaftsvermögen nach § 729 BGB zur Auflösung. Ordnet der Gesellschaftsvertrag für Tod oder Insolvenz eines Gesellschafters die Auflösung an, gelten die Besonderheiten des § 730 BGB. § 724 BGB gibt nachfolgenden Erben unter bestimmten Voraussetzungen das Recht, eine haftungsbeschränkte Kommanditistenstellung zu verlangen."
+ },
+ {
+  "id": "hand1-054",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "GbR: Gesellschaftsregister und Voreintragung (Grundbuch, KG, GmbH)",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/gbr-gesellschaftsregister-und-voreintragung-grundbuch-kg-gmbh",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 47 Abs. 2 GBO",
+   "§ 40 Abs. 1 GmbHG",
+   "§ 707a Abs. 1 S. 2 BGB"
+  ],
+  "frage": "In welchem Fall ist die vorherige Eintragung einer GbR im Gesellschaftsregister nicht erforderlich?",
+  "optionen": [
+   "Eintragung der GbR als Eigentümerin im Grundbuch",
+   "Aufnahme der GbR in die Gesellschafterliste einer GmbH",
+   "Eintragung der GbR als Kommanditistin einer KG",
+   "Abschluss eines Mietvertrags über Büroräume durch die GbR"
+  ],
+  "antwort": 3,
+  "erklaerung": "Die Eintragung im Gesellschaftsregister ist grundsätzlich freiwillig. Faktischen Eintragungszwang begründen aber § 47 Abs. 2 GBO (Grundbuch), § 40 Abs. 1 GmbHG (Gesellschafterliste) und § 707a Abs. 1 S. 2 BGB (Beteiligung an KG, OHG oder GbR). Für gewöhnliche Rechtsgeschäfte wie einen Mietvertrag gilt kein Voreintragungserfordernis."
+ },
+ {
+  "id": "hand1-055",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "GbR: Gesellschaftsregister und Voreintragung (Grundbuch, KG, GmbH)",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/gbr-gesellschaftsregister-und-voreintragung-grundbuch-kg-gmbh",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 15 Abs. 1 Nr. 2 GBV",
+   "§ 47 Abs. 2 GBO"
+  ],
+  "frage": "Bei einer im Grundbuch eingetragenen eGbR werden die Gesellschafter weiterhin im Grundbuch genannt, sodass ein Gesellschafterwechsel im Grundbuch zu berichtigen ist.",
+  "antwort": false,
+  "erklaerung": "Das Grundbuch führt die eGbR nur noch unter ihrem Namen mit Sitz und gegebenenfalls Registergericht und Registerblatt (§ 15 Abs. 1 Nr. 2 GBV). Die Gesellschafter erscheinen nicht mehr im Grundbuch; das war nur nach früherem Recht (§ 47 Abs. 2 GBO a. F., § 899a BGB a. F.) so. Ein Gesellschafterwechsel wird daher nur im Gesellschaftsregister vollzogen."
+ },
+ {
+  "id": "hand1-056",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "GbR: Gesellschaftsregister und Voreintragung (Grundbuch, KG, GmbH)",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/gbr-gesellschaftsregister-und-voreintragung-grundbuch-kg-gmbh",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 707 Abs. 2 BGB"
+  ],
+  "frage": "Welche Angabe ist nicht Pflichtinhalt der Erstanmeldung einer GbR zum Gesellschaftsregister nach § 707 Abs. 2 BGB?",
+  "optionen": [
+   "Die Vertretungsbefugnis der Gesellschafter",
+   "Die Beteiligungsquoten der Gesellschafter",
+   "Die Versicherung, dass die Gesellschaft noch nicht im Handels- oder Partnerschaftsregister eingetragen ist",
+   "Name, Sitz und Anschrift der Gesellschaft in einem EU-Mitgliedstaat"
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 707 Abs. 2 BGB verlangt Name, Sitz und Anschrift, Angaben zu den Gesellschaftern, deren Vertretungsbefugnis und die Versicherung der Nichteintragung im Handels- oder Partnerschaftsregister. Beteiligungsquoten oder Gesellschaftsanteile werden im Gesellschaftsregister gerade nicht ausgewiesen – anders als die Nennbeträge in der GmbH-Gesellschafterliste."
+ },
+ {
+  "id": "hand1-057",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "GbR: Gesellschaftsregister und Voreintragung (Grundbuch, KG, GmbH)",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/gbr-gesellschaftsregister-und-voreintragung-grundbuch-kg-gmbh",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 707a Abs. 2 BGB",
+   "§ 706 S. 2 BGB",
+   "§ 707b Nr. 2 BGB",
+   "§§ 20, 19 GwG"
+  ],
+  "frage": "Ordne die Regelungen zur eingetragenen GbR ihrem Inhalt zu.",
+  "paare": [
+   [
+    "§ 707a Abs. 2 BGB",
+    "Pflicht zum Namenszusatz „eGbR“ bzw. „eingetragene Gesellschaft bürgerlichen Rechts“"
+   ],
+   [
+    "§ 706 S. 2 BGB",
+    "Sitzwahlrecht der eingetragenen GbR"
+   ],
+   [
+    "§ 707b Nr. 2 BGB i. V. m. § 12 HGB",
+    "Öffentliche Beglaubigung der Anmeldungen zum Gesellschaftsregister"
+   ],
+   [
+    "§§ 20, 19 GwG",
+    "Mitteilungspflichten zum Transparenzregister"
+   ]
+  ],
+  "erklaerung": "Die eGbR muss den Namenszusatz nach § 707a Abs. 2 BGB führen (ohne natürliche Person als Gesellschafter zusätzlich mit Hinweis auf die Haftungsbeschränkung, etwa GmbH & Co. eGbR). Anreiz zur Eintragung ist u. a. das Sitzwahlrecht (§ 706 S. 2 BGB). Anmeldungen bedürfen der öffentlichen Beglaubigung (§ 707b Nr. 2 BGB i. V. m. § 12 HGB), und für die eGbR gelten die Transparenzregisterpflichten der §§ 20, 19 GwG."
+ },
+ {
+  "id": "hand1-058",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "GbR: Gesellschaftsregister und Voreintragung (Grundbuch, KG, GmbH)",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/gbr-gesellschaftsregister-und-voreintragung-grundbuch-kg-gmbh",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 47 Abs. 2 GBO"
+  ],
+  "frage": "Die A-B-GbR ist seit 2015 als Eigentümerin eines Grundstücks im Grundbuch eingetragen, aber nicht im Gesellschaftsregister. Sie will das Grundstück verkaufen. Was muss der Notar veranlassen?",
+  "optionen": [
+   "Nichts, da die Altgesellschaft nach § 899a BGB a. F. weiterhin verfügungsbefugt ist",
+   "Die Eintragung der GbR im Gesellschaftsregister vor der Verfügung über das Grundstück",
+   "Die Bestätigung aller Gesellschafter in notariell beglaubigter Form, dass sie Gesellschafter sind",
+   "Eine Grundbuchberichtigung durch Eintragung aller aktuellen Gesellschafter"
+  ],
+  "antwort": 1,
+  "erklaerung": "Eine GbR, die schon vor dem 01.01.2024 im Grundbuch stand, kann über ihre Grundstücksrechte erst nach Eintragung im Gesellschaftsregister wieder verfügen (§ 47 Abs. 2 GBO). Der Notar muss daher vor der Verfügung die Registrierung veranlassen. § 899a BGB a. F. ist aufgehoben, und eine Eintragung der Gesellschafter im Grundbuch sieht das neue Recht nicht mehr vor."
  }
 ]

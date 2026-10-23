@@ -12,12 +12,12 @@
   ],
   "frage": "Wie haftet ein neu in eine KG eintretender Kommanditist für Verbindlichkeiten der Gesellschaft in der Zeit zwischen seinem Eintritt und seiner Eintragung im Handelsregister?",
   "optionen": [
-   "Beschränkt auf die vereinbarte Haftsumme",
    "Gar nicht, da die Haftung erst mit Eintragung beginnt",
-   "Persönlich und unbeschränkt",
-   "Nur subsidiär nach erfolgloser Inanspruchnahme der Komplementäre"
+   "Nur subsidiär nach erfolgloser Inanspruchnahme der Komplementäre",
+   "Beschränkt auf die vereinbarte Haftsumme",
+   "Persönlich und unbeschränkt"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Nach § 176 Abs. 2 HGB haftet ein neu eintretender Kommanditist ab seinem Eintritt bis zu seiner Eintragung persönlich für die Verbindlichkeiten der KG. Die Beschränkung auf die Haftsumme greift erst mit der Eintragung; deshalb ist die Anmeldung äußerst eilig. Eine Haftungsfreiheit vor Eintragung gibt es gerade nicht."
  },
  {
@@ -33,12 +33,12 @@
   ],
   "frage": "Welche Gestaltung empfiehlt sich beim Beitritt eines neuen Kommanditisten, um dessen persönliche Haftung nach § 176 Abs. 2 HGB zu vermeiden?",
   "optionen": [
-   "Den Beitritt unter die aufschiebende Bedingung der Handelsregistereintragung stellen und die Anmeldung dennoch unverzüglich einreichen",
    "Den Beitritt unter die auflösende Bedingung der Eintragung stellen und mit der Anmeldung bis zur Einzahlung der Einlage warten",
+   "Eine Haftungsfreistellung durch die übrigen Gesellschafter im Gesellschaftsvertrag vereinbaren",
    "Den Kommanditisten zunächst als Komplementär eintragen lassen und später den Statuswechsel anmelden",
-   "Eine Haftungsfreistellung durch die übrigen Gesellschafter im Gesellschaftsvertrag vereinbaren"
+   "Den Beitritt unter die aufschiebende Bedingung der Handelsregistereintragung stellen und die Anmeldung dennoch unverzüglich einreichen"
   ],
-  "antwort": 0,
+  "antwort": 3,
   "erklaerung": "Der Beitritt sollte aufschiebend bedingt auf die Eintragung vereinbart werden; die Anmeldung bezeichnet den Eintritt dann als erst mit Eintragung wirksam, sodass keine Zwischenphase mit persönlicher Haftung entsteht. Unabhängig davon ist die Anmeldung unverzüglich vorzunehmen. Eine auflösende Bedingung oder eine interne Freistellung ändert an der Außenhaftung nach § 176 Abs. 2 HGB nichts."
  },
  {
@@ -56,10 +56,10 @@
   ],
   "frage": "Ein Kommanditanteil wird im Wege der Sonderrechtsnachfolge übertragen. Darf das Registergericht die früher übliche Versicherung über die Abfindungsfreiheit des ausscheidenden Kommanditisten noch verlangen?",
   "optionen": [
-   "Ja, die Versicherung ist weiterhin zwingende Eintragungsvoraussetzung",
+   "Nur, wenn der Erwerber zugleich Komplementär wird",
    "Nein, die Versicherung ist seit dem MoPeG unzulässig und darf nicht mehr abgegeben werden",
    "Nicht routinemäßig; eine eindeutige Anmeldung der Sonderrechtsnachfolge genügt regelmäßig, bei konkreten Zweifeln sind weitere Nachweise möglich",
-   "Nur, wenn der Erwerber zugleich Komplementär wird"
+   "Ja, die Versicherung ist weiterhin zwingende Eintragungsvoraussetzung"
   ],
   "antwort": 2,
   "erklaerung": "Seit der Neufassung von § 711 Abs. 1 BGB genügt regelmäßig eine eindeutige Anmeldung der Sonderrechtsnachfolge; das Registergericht darf die Abfindungsversicherung nicht routinemäßig verlangen (OLG München, 31 Wx 294/24 e). Die Versicherung bleibt aber zulässig, und bei konkreten Zweifeln kann das Gericht weitere Nachweise anfordern. Sie ist also weder zwingend noch unzulässig."
@@ -130,12 +130,12 @@
   ],
   "frage": "Bei einer KG scheidet der Komplementär aus und ein neuer Komplementär tritt ein. Wie ist dieser Vorgang zum Handelsregister anzumelden?",
   "optionen": [
-   "Als Sonderrechtsnachfolge des neuen in die Stellung des bisherigen Komplementärs",
    "Getrennt als Ausscheiden des bisherigen und Eintritt des neuen Komplementärs mit dessen Vertretungsbefugnis",
-   "Als Umwandlung des Komplementäranteils in einen Kommanditanteil",
-   "Nur als Änderung der Vertretungsbefugnis, da die Gesellschafteridentität unverändert bleibt"
+   "Nur als Änderung der Vertretungsbefugnis, da die Gesellschafteridentität unverändert bleibt",
+   "Als Sonderrechtsnachfolge des neuen in die Stellung des bisherigen Komplementärs",
+   "Als Umwandlung des Komplementäranteils in einen Kommanditanteil"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Beim Austausch des Komplementärs liegt keine Rechtsnachfolge vor, auch wenn der Anteil übertragen wird. Angemeldet werden daher nur das Ausscheiden des bisherigen und der Eintritt des neuen Komplementärs unter Angabe seiner Vertretungsbefugnis. Die Sonderrechtsnachfolge ist ein Institut des Kommanditistenwechsels, nicht des Komplementärwechsels."
  },
  {
@@ -189,12 +189,12 @@
   ],
   "frage": "Wer ist bei der Liquidation einer KG kraft Gesetzes Liquidator, wenn Gesellschaftsvertrag und Gesellschafterbeschluss keine abweichende Regelung treffen?",
   "optionen": [
-   "Nur die Komplementäre, da Kommanditisten von der Geschäftsführung ausgeschlossen sind",
    "Sämtliche Gesellschafter, also auch die Kommanditisten",
    "Ein vom Registergericht zu bestellender Liquidator",
-   "Der Kommanditist mit der höchsten Haftsumme"
+   "Der Kommanditist mit der höchsten Haftsumme",
+   "Nur die Komplementäre, da Kommanditisten von der Geschäftsführung ausgeschlossen sind"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Für die Liquidation der KG gelten grundsätzlich die OHG-Regeln; abweichend davon sind bei der KG auch die Kommanditisten Liquidatoren (§ 144 Abs. 1 HGB). Nur wenn Gesellschafterbeschluss oder Gesellschaftsvertrag die Abwicklung bestimmten Gesellschaftern oder Dritten zuweisen, gilt etwas anderes (§ 144 Abs. 4 HGB). Der Ausschluss der Kommanditisten von der Geschäftsführung trägt hier also nicht."
  },
  {
@@ -216,10 +216,10 @@
    {
     "frage": "Unter welcher Voraussetzung kann Müller überhaupt in die Kommanditistenstellung wechseln?",
     "optionen": [
-     "Nur wenn K der Haftsummenerhöhung Müllers zustimmt",
+     "Nur nach vorheriger Eintragung der Haftsummenherabsetzung der K",
      "Nur wenn gleichzeitig ein weiterer oder neuer Komplementär vorhanden ist, hier die M-Verwaltungs-GmbH",
      "Nur wenn Müller seine Altverbindlichkeiten vollständig getilgt hat",
-     "Nur nach vorheriger Eintragung der Haftsummenherabsetzung der K"
+     "Nur wenn K der Haftsummenerhöhung Müllers zustimmt"
     ],
     "antwort": 1,
     "erklaerung": "Die KG braucht stets mindestens einen persönlich haftenden Gesellschafter. Ein Komplementär kann daher nur Kommanditist werden, wenn ein weiterer oder neuer Komplementär vorhanden ist oder gleichzeitig eintritt."
@@ -227,23 +227,23 @@
    {
     "frage": "Was ist hinsichtlich der Firma „Müller & Co. KG“ zu beachten?",
     "optionen": [
-     "Die Firma muss geändert werden, da Müller nicht mehr Komplementär ist",
      "Die Firma darf nur mit Zustimmung Müllers fortgeführt werden; die Fortführung wird mit angemeldet",
      "Die Firma darf ohne Weiteres fortgeführt werden, da Müller Gesellschafter bleibt",
-     "Die Firma muss den Zusatz „GmbH & Co. KG“ erst nach Ablauf von fünf Jahren erhalten"
+     "Die Firma muss den Zusatz „GmbH & Co. KG“ erst nach Ablauf von fünf Jahren erhalten",
+     "Die Firma muss geändert werden, da Müller nicht mehr Komplementär ist"
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "Enthält die Firma den Namen des ausscheidenden Komplementärs, ist die Fortführung nur mit dessen Zustimmung zulässig (§ 24 Abs. 2 HGB). Die Fortführung mit Zustimmung wird mit angemeldet."
    },
    {
     "frage": "Worauf muss der Notar die Beteiligten im Hinblick auf die Herabsetzung der Haftsumme der K hinweisen?",
     "optionen": [
+     "Die Herabsetzung wirkt rückwirkend auf den Zeitpunkt des Gesellschafterbeschlusses",
      "Die Herabsetzung wirkt gegenüber den Gläubigern erst ab Eintragung im Handelsregister",
      "Die Herabsetzung ist nur mit Zustimmung aller Gläubiger zulässig",
-     "Die Herabsetzung bedarf keiner Anmeldung, da nur Erhöhungen anmeldepflichtig sind",
-     "Die Herabsetzung wirkt rückwirkend auf den Zeitpunkt des Gesellschafterbeschlusses"
+     "Die Herabsetzung bedarf keiner Anmeldung, da nur Erhöhungen anmeldepflichtig sind"
     ],
-    "antwort": 0,
+    "antwort": 1,
     "erklaerung": "Jede Haftsummenänderung ist anzumelden (§ 175 HGB); die verringerte Einlage wirkt gegenüber Gläubigern erst ab Eintragung (§ 174 HGB). Darauf ist hinzuweisen und die Anmeldung zügig einzureichen."
    }
   ],
@@ -263,12 +263,12 @@
   ],
   "frage": "In welchem Fall bedarf der Gesellschaftsvertrag einer OHG ausnahmsweise der notariellen Beurkundung?",
   "optionen": [
+   "Wenn Gesamtvertretung vereinbart wird",
    "Wenn eine juristische Person Gesellschafterin wird",
    "Wenn sich ein Gesellschafter zur Einbringung einer Immobilie oder eines GmbH-Geschäftsanteils verpflichtet",
-   "Wenn die OHG mehr als zwei Gesellschafter hat",
-   "Wenn Gesamtvertretung vereinbart wird"
+   "Wenn die OHG mehr als zwei Gesellschafter hat"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Die OHG kann wie die GbR formfrei gegründet werden. Beurkundungspflichtig ist der Vertrag nur ausnahmsweise, wenn sich ein Gesellschafter bei der Gründung zur Einbringung einer Immobilie oder eines GmbH-Geschäftsanteils verpflichtet (§ 15 Abs. 3 und 4 GmbHG). Die Beteiligung einer juristischen Person oder die Vertretungsregelung lösen keine Formpflicht aus."
  },
  {
@@ -285,12 +285,12 @@
   ],
   "frage": "Wer hat die Erstanmeldung einer OHG zum Handelsregister vorzunehmen?",
   "optionen": [
-   "Nur die vertretungsberechtigten Gesellschafter in vertretungsberechtigter Zahl",
-   "Alle Gesellschafter, auch die von der Vertretung ausgeschlossenen",
+   "Mindestens zwei Gesellschafter, da die OHG mindestens zwei Gesellschafter hat",
    "Die Gesellschaft, vertreten durch einen Gesellschafter",
-   "Mindestens zwei Gesellschafter, da die OHG mindestens zwei Gesellschafter hat"
+   "Alle Gesellschafter, auch die von der Vertretung ausgeschlossenen",
+   "Nur die vertretungsberechtigten Gesellschafter in vertretungsberechtigter Zahl"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Nach § 106 Abs. 7 HGB nehmen alle Gesellschafter die Anmeldung vor, auch solche, die von der Vertretung ausgeschlossen sind. Die Anmeldung durch vertretungsberechtigte Gesellschafter in vertretungsberechtigter Zahl ist ein typischer Fehler; nur bei einer späteren Änderung allein der Geschäftsanschrift meldet die Gesellschaft selbst an (§ 106 Abs. 7 S. 3 HGB)."
  },
  {
@@ -322,12 +322,12 @@
   ],
   "frage": "Eine im Gesellschaftsregister eingetragene GbR soll als OHG im Handelsregister eingetragen werden. Welche Voraussetzungen müssen nach § 106 Abs. 4 HGB kumulativ erfüllt sein?",
   "optionen": [
-   "Anmeldung des Statuswechsels beim Gesellschaftsregister, Eintragung des Statuswechselvermerks dort und Abgabe des Verfahrens an das Handelsregistergericht",
    "Löschung der GbR im Gesellschaftsregister, Neugründung der OHG und Vorlage des beurkundeten Gesellschaftsvertrags",
    "Anmeldung der OHG direkt beim Handelsregister mit der Versicherung, dass die Gesellschaft noch in keinem anderen Register eingetragen ist",
+   "Anmeldung des Statuswechsels beim Gesellschaftsregister, Eintragung des Statuswechselvermerks dort und Abgabe des Verfahrens an das Handelsregistergericht",
    "Einstimmiger Gesellschafterbeschluss, Zustimmung des Gesellschaftsregisters und Veröffentlichung im Bundesanzeiger"
   ],
-  "antwort": 0,
+  "antwort": 2,
   "erklaerung": "Ist die Gesellschaft bereits im Gesellschafts- oder Partnerschaftsregister eingetragen, wird der Statuswechsel bei diesem Register angemeldet (§ 106 Abs. 3 HGB). Die Eintragung im Handelsregister erfolgt nach § 106 Abs. 4 HGB nur, wenn der Statuswechsel dort angemeldet, der Statuswechselvermerk eingetragen und das Verfahren an das Handelsregistergericht abgegeben ist. Eine Direktanmeldung mit der Versicherung der Nichteintragung wäre hier unzutreffend, da die Versicherung gerade nicht abgegeben werden kann."
  },
  {
@@ -379,12 +379,12 @@
   ],
   "frage": "Wie ist die Vertretung der OHG gesetzlich ausgestaltet?",
   "optionen": [
-   "Jeder Gesellschafter ist einzelvertretungsbefugt, sofern der Gesellschaftsvertrag ihn nicht ausschließt; die Befugnis erfasst sachlich alle Geschäfte",
    "Die Gesellschafter vertreten stets gemeinschaftlich, Einzelvertretung muss im Gesellschaftsvertrag angeordnet werden",
+   "Die Vertretungsbefugnis ist auf Geschäfte des gewöhnlichen Betriebs beschränkt",
    "Die OHG wird durch einen von den Gesellschaftern bestellten Geschäftsführer vertreten, der auch Nichtgesellschafter sein kann",
-   "Die Vertretungsbefugnis ist auf Geschäfte des gewöhnlichen Betriebs beschränkt"
+   "Jeder Gesellschafter ist einzelvertretungsbefugt, sofern der Gesellschaftsvertrag ihn nicht ausschließt; die Befugnis erfasst sachlich alle Geschäfte"
   ],
-  "antwort": 0,
+  "antwort": 3,
   "erklaerung": "Für die OHG gilt die Selbstorganschaft: Jeder Gesellschafter ist zur Vertretung befugt, sofern der Gesellschaftsvertrag ihn nicht ausschließt (§ 124 HGB), und die Vertretungsmacht erfasst sachlich alle Geschäfte (§ 124 Abs. 4 HGB). Gesamtvertretung ist nur bei Anordnung im Gesellschaftsvertrag vorgesehen (§ 124 Abs. 2 HGB); eine Fremdorganschaft durch Nichtgesellschafter als Geschäftsführer gibt es bei der OHG nicht."
  },
  {
@@ -418,8 +418,8 @@
   "optionen": [
    "Alle Gesellschafter; Angabe der Verteilung des Restvermögens",
    "Sämtliche Liquidatoren; Angabe des Verwahrers der Bücher und Papiere",
-   "Der Verwahrer der Bücher und Papiere; Angabe der getilgten Verbindlichkeiten",
-   "Das Registergericht von Amts wegen; keine weitere Angabe"
+   "Das Registergericht von Amts wegen; keine weitere Angabe",
+   "Der Verwahrer der Bücher und Papiere; Angabe der getilgten Verbindlichkeiten"
   ],
   "antwort": 1,
   "erklaerung": "Nach § 150 HGB melden sämtliche Liquidatoren das Erlöschen der Firma an; die Anmeldung benennt auch den Verwahrer der Bücher und Papiere. Davon zu unterscheiden ist die Anmeldung der Auflösung, die alle Gesellschafter vornehmen und die die Liquidatoren mit ihrer Vertretungsbefugnis bezeichnet (§ 143 Abs. 1 HGB)."
@@ -439,12 +439,12 @@
   ],
   "frage": "In welcher Reihenfolge verfahren die Liquidatoren einer aufgelösten OHG mit dem Gesellschaftsvermögen?",
   "optionen": [
+   "Gläubiger befriedigen und Rest an die Gesellschafter nach Gewinnbeteiligungsquote verteilen",
    "Verteilung nach Kapitalanteilen an die Gesellschafter, danach Befriedigung der verbleibenden Gläubiger aus dem Privatvermögen",
    "Laufende Geschäfte beenden, Forderungen einziehen, Vermögen zu Geld machen; zunächst Gläubiger befriedigen; den Rest nach Kapitalanteilen verteilen",
-   "Vermögen nach Köpfen an die Gesellschafter verteilen, die ihrerseits die Gläubiger befriedigen",
-   "Gläubiger befriedigen und Rest an die Gesellschafter nach Gewinnbeteiligungsquote verteilen"
+   "Vermögen nach Köpfen an die Gesellschafter verteilen, die ihrerseits die Gläubiger befriedigen"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Die Liquidatoren beenden die laufenden Geschäfte, ziehen Forderungen ein und machen das Vermögen zu Geld (§ 148 Abs. 2 HGB); aus dem Vermögen befriedigen sie zunächst die Gläubiger (§ 148 Abs. 5 S. 1 HGB), und was übrig bleibt, verteilen sie entsprechend den Kapitalanteilen (§ 148 Abs. 8 HGB). Eine Verteilung nach Köpfen oder nach Gewinnquote sieht das Gesetz nicht vor."
  },
  {
@@ -500,12 +500,12 @@
   ],
   "frage": "Was ist die Firma im Sinne des HGB?",
   "optionen": [
+   "Der Geschäftsbetrieb am Ort der Hauptniederlassung",
    "Das Unternehmen des Kaufmanns einschließlich aller Vermögensgegenstände",
-   "Der Name, unter dem der Kaufmann seine Geschäfte betreibt",
    "Die im Handelsregister eingetragene Rechtsform des Unternehmens",
-   "Der Geschäftsbetrieb am Ort der Hauptniederlassung"
+   "Der Name, unter dem der Kaufmann seine Geschäfte betreibt"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Nach § 17 Abs. 1 HGB ist die Firma der Name, unter dem der Kaufmann seine Geschäfte betreibt. Sie ist vom Unternehmen zu trennen, das unter ihr betrieben wird; die laienhafte Gleichsetzung von Firma und Unternehmen ist rechtlich unzutreffend. Deshalb kann die Firma auch nicht isoliert veräußert werden (§ 23 HGB)."
  },
  {
@@ -523,11 +523,11 @@
   "frage": "Am Ort ist die „Sonnenbau GmbH“ im Handelsregister eingetragen. Eine neue Gesellschaft soll als „Sonnenbau GmbH & Co. KG“ eingetragen werden. Ist die Firma zulässig?",
   "optionen": [
    "Ja, da der abweichende Rechtsformzusatz die Unterscheidbarkeit herstellt",
-   "Ja, sofern die Gesellschafter beider Gesellschaften identisch sind",
    "Nein, bei identischem Firmenkern genügt ein abweichender Gesellschaftszusatz allein nicht für die deutliche Unterscheidung nach § 30 Abs. 1 HGB",
-   "Nein, da eine KG keine Sachfirma führen darf"
+   "Nein, da eine KG keine Sachfirma führen darf",
+   "Ja, sofern die Gesellschafter beider Gesellschaften identisch sind"
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "Nach § 30 Abs. 1 HGB muss sich eine neue Firma deutlich von allen am selben Ort in Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister eingetragenen Firmen unterscheiden. Ein abweichender Gesellschaftszusatz bei sonst identischer Firma reicht nicht; GmbH und GmbH & Co. KG mit gleichem Firmenkern sind nicht ausreichend unterschieden. Das ist ein typischer Fehler in der Praxis."
  },
  {
@@ -594,12 +594,12 @@
   ],
   "frage": "Welche der folgenden Firmen hat nach den Firmengrundsätzen keine ausreichende Unterscheidungskraft?",
   "optionen": [
-   "„Müller e. K.“ ohne Vornamen oder Ortsangabe",
-   "„M&K Metallbau Pforzheim OHG“",
    "„Lumaro KG“",
-   "„Schreinerei Hans Weber e. K.“"
+   "„Schreinerei Hans Weber e. K.“",
+   "„Müller e. K.“ ohne Vornamen oder Ortsangabe",
+   "„M&K Metallbau Pforzheim OHG“"
   ],
-  "antwort": 0,
+  "antwort": 2,
   "erklaerung": "Häufige Familiennamen ohne unterscheidenden Zusatz wie Vorname oder Ortsangabe haben keine Unterscheidungskraft im Sinne des § 18 Abs. 1 HGB, da der Verkehr sie nicht als Hinweis auf ein bestimmtes Unternehmen versteht. Die Phantasiefirma „Lumaro“, die Branchenbezeichnung mit individualisierenden Zusätzen (Ort, Kürzel) und die Personenfirma mit Vornamen sind dagegen hinreichend individualisiert."
  },
  {
@@ -617,11 +617,11 @@
   "frage": "Der Erwerber eines einzelkaufmännischen Unternehmens führt die bisherige Firma fort. Welche Haftungsfolge tritt ein, wenn nichts weiter veranlasst wird?",
   "optionen": [
    "Der Erwerber haftet nur für Verbindlichkeiten, die er im Kaufvertrag ausdrücklich übernommen hat",
-   "Der Erwerber haftet unbeschränkt für sämtliche Verbindlichkeiten des früheren Inhabers; zugleich gehen die Geschäftsforderungen auf ihn über",
+   "Der Erwerber haftet nicht, solange der frühere Inhaber im Handelsregister eingetragen bleibt",
    "Der Erwerber haftet beschränkt auf den Wert des übernommenen Unternehmens",
-   "Der Erwerber haftet nicht, solange der frühere Inhaber im Handelsregister eingetragen bleibt"
+   "Der Erwerber haftet unbeschränkt für sämtliche Verbindlichkeiten des früheren Inhabers; zugleich gehen die Geschäftsforderungen auf ihn über"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Bei Firmenfortführung haftet der Erwerber nach § 25 Abs. 1 HGB unbeschränkt für sämtliche Verbindlichkeiten des früheren Einzelkaufmanns, und die Forderungen des Geschäfts gehen auf ihn über. Eine Beschränkung auf vertraglich übernommene Schulden gibt es im Außenverhältnis nicht; sie lässt sich nur durch einen eingetragenen und bekanntgemachten Ausschluss nach § 25 Abs. 2 HGB erreichen."
  },
  {
@@ -652,12 +652,12 @@
   ],
   "frage": "Wer meldet den Inhaberwechsel bei der Veräußerung eines einzelkaufmännischen Unternehmens mit Firmenfortführung zum Handelsregister an?",
   "optionen": [
-   "Nur der neue Inhaber, da er künftig Träger der Firma ist",
+   "Der Notar als Bevollmächtigter des Erwerbers",
    "Nur der bisherige Inhaber, da er die Einwilligung nach § 22 Abs. 1 HGB erteilt",
-   "Der bisherige und der neue Inhaber gemeinsam",
-   "Der Notar als Bevollmächtigter des Erwerbers"
+   "Nur der neue Inhaber, da er künftig Träger der Firma ist",
+   "Der bisherige und der neue Inhaber gemeinsam"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Den Inhaberwechsel melden der bisherige Inhaber und der neue Inhaber gemeinsam an. Die Anmeldung umfasst die Veräußerung mit dem Recht zur Firmenfortführung, die Personenangaben des Erwerbers, einen gewünschten Ausschluss nach § 25 Abs. 2 HGB, den Unternehmensgegenstand und die inländische Geschäftsanschrift. Die Einwilligung des bisherigen Inhabers nach § 22 Abs. 1 HGB macht dessen Mitwirkung nicht entbehrlich, sondern erforderlich."
  },
  {
@@ -679,10 +679,10 @@
    {
     "frage": "Unter welcher Voraussetzung darf Neu die Firma „Vogt Fahrradhandel“ fortführen?",
     "optionen": [
-     "Nur, wenn sie ihren eigenen Namen als Nachfolgezusatz anfügt",
+     "Nicht, da eine Firma als Name nicht übertragbar ist",
      "Nur mit ausdrücklicher Einwilligung Vogts; ein Nachfolgezusatz ist dann möglich, aber nicht erforderlich",
      "Nur, wenn Vogt aus dem Handelsregister gelöscht wird und Neu die Firma neu anmeldet",
-     "Nicht, da eine Firma als Name nicht übertragbar ist"
+     "Nur, wenn sie ihren eigenen Namen als Nachfolgezusatz anfügt"
     ],
     "antwort": 1,
     "erklaerung": "Nach § 22 Abs. 1 HGB darf der Erwerber die Firma nur mit ausdrücklicher Einwilligung des bisherigen Inhabers fortführen, dann mit oder ohne Nachfolgezusatz. § 23 HGB verbietet nur die isolierte Veräußerung der Firma ohne das Unternehmen."
@@ -691,20 +691,20 @@
     "frage": "Welche Regelung muss der Notar vorsehen, damit Neu nicht für die Lieferantenverbindlichkeiten haftet?",
     "optionen": [
      "Eine Freistellungsklausel im Kaufvertrag genügt",
-     "Den Ausschluss von Haftung und Forderungsübergang nach § 25 Abs. 2 HGB mit dem Inhaberwechsel zum Handelsregister anmelden",
      "Neu muss auf die Firmenfortführung verzichten; nur dann entfällt die Haftung",
-     "Die Lieferanten müssen dem Haftungsausschluss schriftlich zustimmen"
+     "Die Lieferanten müssen dem Haftungsausschluss schriftlich zustimmen",
+     "Den Ausschluss von Haftung und Forderungsübergang nach § 25 Abs. 2 HGB mit dem Inhaberwechsel zum Handelsregister anmelden"
     ],
-    "antwort": 1,
+    "antwort": 3,
     "erklaerung": "Bei Firmenfortführung haftet Neu nach § 25 Abs. 1 HGB. Der Ausschluss wirkt nur bei Eintragung und Bekanntmachung im Handelsregister (§ 25 Abs. 2 HGB) und wird deshalb regelmäßig mit dem Inhaberwechsel angemeldet."
    },
    {
     "frage": "Was gilt, wenn der Haftungsausschluss zwar angemeldet, aber vom Registergericht nicht eingetragen wird?",
     "optionen": [
-     "Der Ausschluss wirkt bereits mit Einreichung der Anmeldung",
+     "Die Haftung beschränkt sich auf den Kaufpreis",
      "Neu haftet nach § 25 Abs. 1 HGB; der Notar sollte die Eintragung deshalb überwachen",
      "Der Kaufvertrag ist unwirksam",
-     "Die Haftung beschränkt sich auf den Kaufpreis"
+     "Der Ausschluss wirkt bereits mit Einreichung der Anmeldung"
     ],
     "antwort": 1,
     "erklaerung": "Der Ausschluss wirkt nur bei Eintragung (§ 25 Abs. 2 HGB). Unterbleibt sie, haftet der Erwerber nach § 25 Abs. 1 HGB; die Überwachung der Eintragung gehört deshalb zu den Praxishinweisen."
@@ -726,12 +726,12 @@
   ],
   "frage": "Eine GmbH soll ein genehmigungspflichtiges Gewerbe betreiben; die Genehmigung liegt bei Anmeldung noch nicht vor. Wie hat das Registergericht zu verfahren?",
   "optionen": [
-   "Es trägt die GmbH ein, da öffentlich-rechtliche Genehmigungen für die Eintragung grundsätzlich unbeachtlich sind",
    "Es setzt die Eintragung bis zur Vorlage der Genehmigung aus",
+   "Es trägt die GmbH ein, da öffentlich-rechtliche Genehmigungen für die Eintragung grundsätzlich unbeachtlich sind",
    "Es weist die Anmeldung zurück, da der Gesellschaftszweck ohne Genehmigung nicht erreichbar ist",
    "Es trägt nur ein, wenn die Gesellschafter die Erteilung der Genehmigung versichern"
   ],
-  "antwort": 0,
+  "antwort": 1,
   "erklaerung": "Seit Wegfall des § 8 Abs. 1 Nr. 6 GmbHG a.F. sind Gesellschaftsgründung und Tätigkeitsbeginn vollständig getrennt: Das Registergericht darf nicht prüfen, ob Genehmigungen eingeholt sind, und muss auch bei bekannt fehlender Genehmigung eintragen. Die Gesellschaft entsteht, darf ihren Betrieb aber noch nicht aufnehmen. Erst bei endgültiger Verweigerung kommt eine Auflösungsklage nach § 61 GmbHG in Betracht."
  },
  {
@@ -748,12 +748,12 @@
   ],
   "frage": "Welche Ausnahme vom Grundsatz der Entkoppelung von Genehmigung und Registereintragung gilt für Unternehmen, die Bankgeschäfte oder Finanzdienstleistungen betreiben wollen?",
   "optionen": [
-   "Keine; auch hier ist ohne Genehmigung einzutragen, die BaFin wird lediglich benachrichtigt",
    "Das Registergericht darf nur eintragen, wenn ihm die KWG-Genehmigung vorliegt; das gilt für Abteilung A und B und auch für Einzelkaufleute",
-   "Die Eintragung erfolgt nur in Abteilung B, da Einzelkaufleute keine Bankgeschäfte betreiben dürfen",
-   "Das Registergericht trägt ein, verlangt aber stets ein amtliches Negativattest der BaFin"
+   "Das Registergericht trägt ein, verlangt aber stets ein amtliches Negativattest der BaFin",
+   "Keine; auch hier ist ohne Genehmigung einzutragen, die BaFin wird lediglich benachrichtigt",
+   "Die Eintragung erfolgt nur in Abteilung B, da Einzelkaufleute keine Bankgeschäfte betreiben dürfen"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Nach § 43 Abs. 1 KWG darf das Registergericht nur eintragen, wenn ihm die erforderliche KWG-Genehmigung vorliegt; die Vorschrift geht der Streichung des § 8 Abs. 1 Nr. 6 GmbHG a.F. vor und gilt für HRA und HRB einschließlich Einzelkaufleuten. Ein Negativattest darf das Gericht gerade nicht verlangen, wenn der Unternehmensgegenstand Bankgeschäfte und Finanzdienstleistungen ausdrücklich ausnimmt und keine anderen Anhaltspunkte bestehen."
  },
  {
@@ -786,12 +786,12 @@
   ],
   "frage": "Welche Gestaltung empfiehlt sich bei einer Gesellschaft mit weit gefasstem Unternehmensgegenstand, um Nachfragen des Registergerichts nach dem KWG zu vermeiden?",
   "optionen": [
-   "Ein amtliches Negativattest der BaFin mit der Anmeldung einreichen",
-   "Den Unternehmensgegenstand auf eine einzige Tätigkeit beschränken",
+   "Die Versicherung der Geschäftsführer aufnehmen, dass keine Erlaubnis nach § 32 KWG erforderlich ist",
    "Bankgeschäfte und Finanzdienstleistungen im Unternehmensgegenstand ausdrücklich ausnehmen",
-   "Die Versicherung der Geschäftsführer aufnehmen, dass keine Erlaubnis nach § 32 KWG erforderlich ist"
+   "Den Unternehmensgegenstand auf eine einzige Tätigkeit beschränken",
+   "Ein amtliches Negativattest der BaFin mit der Anmeldung einreichen"
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "Maßgeblich für die Erlaubnispflicht ist nach § 32 Abs. 1 KWG, ob das Unternehmen auf Bankgeschäfte oder Finanzdienstleistungen gerichtet ist. Enthält der Unternehmensgegenstand die Klarstellung, dass solche Geschäfte nicht erfasst sind, darf das Registergericht ohne weitere Anhaltspunkte kein amtliches Negativattest verlangen. Das Negativattest ist also gerade das, was durch die Klarstellung entbehrlich wird."
  },
  {
@@ -842,12 +842,12 @@
   ],
   "frage": "Ab welchem Jahresumsatz ist nach der Seite regelmäßig ein Handelsgewerbe anzunehmen, das einen kaufmännisch eingerichteten Geschäftsbetrieb erfordert?",
   "optionen": [
-   "Über 100.000,00 €",
    "Über 250.000,00 €",
    "Über 500.000,00 €",
+   "Über 100.000,00 €",
    "Über 1.000.000,00 €"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Ob ein kaufmännisch eingerichteter Geschäftsbetrieb erforderlich ist, hängt vor allem vom Umsatz ab; ein Handelsgewerbe ist regelmäßig anzunehmen, wenn der Jahresumsatz 250.000,00 € übersteigt. Unterhalb dieser Schwelle bleibt der Betreiber Kleingewerbetreibender mit dem Wahlrecht nach § 2 S. 1 HGB."
  },
  {
@@ -863,12 +863,12 @@
   ],
   "frage": "Unter welcher Voraussetzung können Freiberufler seit dem MoPeG ihren Beruf in einer OHG oder KG ausüben?",
   "optionen": [
-   "Ohne weitere Voraussetzung, da das MoPeG das Handelsregister für alle Freien Berufe geöffnet hat",
-   "Nur, wenn das jeweilige Berufsrecht dies ausdrücklich erlaubt",
    "Nur, wenn die Gesellschaft zusätzlich im Partnerschaftsregister eingetragen bleibt",
-   "Nur, wenn mindestens ein Gesellschafter Gewerbetreibender ist"
+   "Ohne weitere Voraussetzung, da das MoPeG das Handelsregister für alle Freien Berufe geöffnet hat",
+   "Nur, wenn mindestens ein Gesellschafter Gewerbetreibender ist",
+   "Nur, wenn das jeweilige Berufsrecht dies ausdrücklich erlaubt"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Seit dem 01.01.2024 können Freiberufler nach § 107 Abs. 1 S. 2 HGB ihren Beruf in einer OHG oder KG ausüben, sofern das Berufsrecht dies ausdrücklich erlaubt. Für Rechtsanwälte, Steuerberater und Wirtschaftsprüfer ist das derzeit der Fall; für Heilberufe und Architekten ist die Zulassung Sache der Länder. Eine generelle Öffnung ohne berufsrechtliche Erlaubnis gibt es nicht."
  },
  {
@@ -902,11 +902,11 @@
   "frage": "In welcher Form ist eine Anmeldung zum Handelsregister einzureichen?",
   "optionen": [
    "Schriftlich mit eigenhändiger Unterschrift des Anmeldenden",
-   "Elektronisch und in öffentlich beglaubigter Form",
    "Stets in notariell beurkundeter Form",
+   "Elektronisch und in öffentlich beglaubigter Form",
    "Elektronisch mit einfacher elektronischer Signatur des Anmeldenden"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Nach § 12 Abs. 1 S. 1 HGB ist jede Registeranmeldung elektronisch und in öffentlich beglaubigter Form einzureichen, in der Regel durch notarielle Unterschriftsbeglaubigung. Eine Beurkundung ist nicht vorgeschrieben, ersetzt die Beglaubigung aber. Schriftform oder eine einfache elektronische Signatur genügen nicht."
  },
  {
@@ -970,12 +970,12 @@
   ],
   "frage": "Worin unterscheiden sich Anmeldungen zum Handelsregister B von solchen zum Handelsregister A hinsichtlich der beizufügenden Unterlagen?",
   "optionen": [
-   "In HRB sind stets Unterlagen beizufügen, die die angemeldete Änderung belegen; in HRA belegt regelmäßig die Anmeldung selbst den Vorgang",
-   "In HRA sind stets Gesellschaftsvertrag und Beschlüsse beizufügen; in HRB genügt die Anmeldung",
+   "In beiden Abteilungen sind stets Nachweise beizufügen, in HRB zusätzlich eine Gesellschafterliste",
    "In beiden Abteilungen sind keine Nachweise beizufügen, da das Registergericht nur formell prüft",
-   "In beiden Abteilungen sind stets Nachweise beizufügen, in HRB zusätzlich eine Gesellschafterliste"
+   "In HRA sind stets Gesellschaftsvertrag und Beschlüsse beizufügen; in HRB genügt die Anmeldung",
+   "In HRB sind stets Unterlagen beizufügen, die die angemeldete Änderung belegen; in HRA belegt regelmäßig die Anmeldung selbst den Vorgang"
   ],
-  "antwort": 0,
+  "antwort": 3,
   "erklaerung": "Bei Anmeldungen zum HRB sind immer Urkunden beizufügen, aus denen sich die Änderung ergibt, etwa die Bestellung eines Geschäftsführers; ihr Fehlen ist ein typischer Fehler. In HRA gilt das Anmeldeprinzip: Die Anmeldung belegt regelmäßig den materiellen Vorgang, etwa bei der OHG (§ 106 Abs. 7 HGB) oder der Prokura (§ 48 Abs. 1 HGB)."
  },
  {
@@ -986,17 +986,15 @@
   "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/handelsregister-registergerichte-abteilungen-und-einsicht",
   "typ": "mc",
   "schwierigkeit": 1,
-  "normen": [
-   "§ 3 HRV"
-  ],
+  "normen": [],
   "frage": "Welche der folgenden Rechtsträger werden in Abteilung A des Handelsregisters eingetragen?",
   "optionen": [
-   "GmbH, AG und KGaA",
-   "Einzelkaufleute, OHG, KG und EWiV",
    "GbR, OHG und KG",
-   "SE, Genossenschaften und Versicherungsvereine auf Gegenseitigkeit"
+   "SE, Genossenschaften und Versicherungsvereine auf Gegenseitigkeit",
+   "Einzelkaufleute, OHG, KG und EWiV",
+   "GmbH, AG und KGaA"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "In Abteilung A stehen Einzelkaufleute, OHG, KG und EWiV; Kapitalgesellschaften wie GmbH, AG, KGaA, SE sowie Versicherungsvereine auf Gegenseitigkeit gehören in Abteilung B (vgl. § 3 HRV). Die GbR wird nicht im Handelsregister, sondern im Gesellschaftsregister eingetragen; Genossenschaften im Genossenschaftsregister."
  },
  {
@@ -1027,12 +1025,12 @@
   ],
   "frage": "Der Notar möchte nachvollziehen, welche Geschäftsführer eine GmbH in der Vergangenheit hatte. Welchen Registerausdruck sollte er anfordern?",
   "optionen": [
-   "Den aktuellen Ausdruck, da er alle eingetragenen Organmitglieder zeigt",
-   "Den chronologischen Ausdruck, da er sämtliche Eintragungen des Registerblatts zeigt",
    "Eine Registerbescheinigung nach § 21 BNotO",
-   "Die Gesellschafterliste, da sie die Geschäftsführer ausweist"
+   "Den aktuellen Ausdruck, da er alle eingetragenen Organmitglieder zeigt",
+   "Die Gesellschafterliste, da sie die Geschäftsführer ausweist",
+   "Den chronologischen Ausdruck, da er sämtliche Eintragungen des Registerblatts zeigt"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Nach § 30a Abs. 4 HRV wird der Ausdruck als chronologischer oder aktueller Ausdruck erteilt. Nur der chronologische Ausdruck zeigt sämtliche Eintragungen des Registerblatts und damit die Entwicklung früherer Eintragungen; der aktuelle Ausdruck zeigt nur den jüngsten Stand."
  },
  {
@@ -1043,17 +1041,15 @@
   "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/handelsregister-registergerichte-abteilungen-und-einsicht",
   "typ": "mc",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 3 HRV"
-  ],
+  "normen": [],
   "frage": "Wie wird die Zweigniederlassung eines Unternehmens mit inländischer Hauptniederlassung im Handelsregister verlautbart?",
   "optionen": [
-   "Auf einem eigenen Registerblatt beim Registergericht am Ort der Zweigniederlassung",
-   "Ausschließlich als Vermerk auf dem Registerblatt der Hauptniederlassung",
    "Auf einem eigenen Registerblatt mit eigenem Aktenzeichen in Abteilung B",
-   "Gar nicht, da Zweigniederlassungen nicht eintragungsfähig sind"
+   "Auf einem eigenen Registerblatt beim Registergericht am Ort der Zweigniederlassung",
+   "Gar nicht, da Zweigniederlassungen nicht eintragungsfähig sind",
+   "Ausschließlich als Vermerk auf dem Registerblatt der Hauptniederlassung"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Hat das Unternehmen seinen Sitz oder seine Hauptniederlassung im Inland, erscheint die Zweigniederlassung ausschließlich als Vermerk auf dem Registerblatt der Hauptniederlassung. Ein eigenes Registerblatt am Ort der Zweigniederlassung gibt es in diesem Fall nicht."
  },
  {
@@ -1069,12 +1065,12 @@
   ],
   "frage": "Die Satzung einer GmbH sieht für einen bestimmten Geschäftsführer Einzelvertretung vor; im Handelsregister ist nur die allgemeine Gesamtvertretung eingetragen. Kann der Notar die Einzelvertretungsbefugnis nach § 21 BNotO bescheinigen?",
   "optionen": [
-   "Ja, wenn ihm die Satzung in beglaubigter Abschrift vorliegt",
    "Ja, da die Satzung beim Registergericht hinterlegt ist",
-   "Nein, eine Registerbescheinigung setzt voraus, dass sich der Umstand aus einer Registereintragung ergibt",
-   "Nein, Vertretungsbescheinigungen sind nur für Personenhandelsgesellschaften zulässig"
+   "Ja, wenn ihm die Satzung in beglaubigter Abschrift vorliegt",
+   "Nein, Vertretungsbescheinigungen sind nur für Personenhandelsgesellschaften zulässig",
+   "Nein, eine Registerbescheinigung setzt voraus, dass sich der Umstand aus einer Registereintragung ergibt"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Nach § 21 Abs. 1 BNotO muss sich der bescheinigte Umstand aus einer Eintragung im Handelsregister oder einem ähnlichen Register ergeben. Eine nur in Gesellschaftsvertrag oder Satzung enthaltene, nicht eingetragene Vertretungsregelung ist nicht bescheinigungsfähig; die bloße Vorlage der Satzung ändert daran nichts."
  },
  {
@@ -1107,11 +1103,11 @@
   "frage": "In welcher Form wird eine Registerbescheinigung nach § 21 BNotO erteilt?",
   "optionen": [
    "Als Niederschrift nach §§ 8 ff. BeurkG",
-   "Als Zeugnis in Vermerkform nach § 39 BeurkG mit Unterschrift, Siegel sowie Ort und Tag der Ausstellung",
+   "Als beglaubigte Abschrift des Registerausdrucks",
    "Als einfache schriftliche Mitteilung des Notars ohne Siegel",
-   "Als beglaubigte Abschrift des Registerausdrucks"
+   "Als Zeugnis in Vermerkform nach § 39 BeurkG mit Unterschrift, Siegel sowie Ort und Tag der Ausstellung"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Für die Registerbescheinigung genügt ein Zeugnis in Vermerkform; eine Niederschrift ist nicht erforderlich (§ 39 BeurkG). Der Vermerk enthält die Feststellung des Sachverhalts, Unterschrift, Präge- oder Farbdrucksiegel sowie Ort und Tag der Ausstellung. Zusätzlich ist nach § 21 Abs. 2 S. 2 BNotO der Tag der Registereinsicht anzugeben."
  },
  {
@@ -1128,12 +1124,12 @@
   ],
   "frage": "Welche Aussage zum Verfahren bei der Registerbescheinigung trifft zu?",
   "optionen": [
-   "Der Notar muss das Register stets persönlich einsehen; die Einsicht durch Mitarbeiter ist unzulässig",
    "Der Notar darf Hilfspersonen mit der Einsicht betrauen, wenn er sich auf deren Sorgfalt verlassen kann; die Bescheinigung muss den Tag der Einsicht nennen",
    "Die Bescheinigung gibt als reine Tatsachenbescheinigung nur den Registerinhalt wieder und enthält keine rechtlichen Schlussfolgerungen",
+   "Der Notar muss das Register stets persönlich einsehen; die Einsicht durch Mitarbeiter ist unzulässig",
    "Das Datum der Einsicht ist entbehrlich, wenn das Ausstellungsdatum angegeben ist"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Der Notar muss sich nach § 21 Abs. 2 S. 1 BNotO durch Einsicht in das Register oder eine beglaubigte Abschrift Gewissheit verschaffen, darf dabei aber zuverlässige Hilfspersonen einsetzen. Die Bescheinigung muss den Tag der Einsicht bzw. der Ausstellung der Abschrift nennen (§ 21 Abs. 2 S. 2 BNotO); dessen Fehlen ist ein typischer Fehler. Sie ist zudem eine gutachterliche Stellungnahme mit rechtlichen Schlussfolgerungen, keine reine Tatsachenwiedergabe."
  },
  {
@@ -1150,12 +1146,12 @@
   ],
   "frage": "Welches Geschäft darf ein Prokurist ohne besondere Befugnis nicht vornehmen?",
   "optionen": [
-   "Einen Kredit für das Unternehmen aufnehmen",
-   "Einen Prozess für das Unternehmen führen",
    "Ein Betriebsgrundstück veräußern oder belasten",
-   "Einen Arbeitnehmer einstellen oder entlassen"
+   "Einen Prozess für das Unternehmen führen",
+   "Einen Arbeitnehmer einstellen oder entlassen",
+   "Einen Kredit für das Unternehmen aufnehmen"
   ],
-  "antwort": 2,
+  "antwort": 0,
   "erklaerung": "Die Prokura umfasst alle gerichtlichen und außergerichtlichen Geschäfte, die der Betrieb eines Handelsgewerbes mit sich bringt (§ 49 Abs. 1 HGB), also auch Kreditaufnahme und Prozessführung. Zur Veräußerung und Belastung von Grundstücken ist der Prokurist nach § 49 Abs. 2 HGB nur befugt, wenn ihm dies gesondert erteilt ist; die Grundstücksbefugnis wird im Handelsregister vermerkt."
  },
  {
@@ -1186,12 +1182,12 @@
   ],
   "frage": "Ein Einzelkaufmann möchte Prokura so erteilen, dass der Prokurist nur gemeinsam mit ihm selbst vertreten darf. Ist das zulässig?",
   "optionen": [
+   "Nein, Gesamtvertretung setzt das Handeln von Vertretern voraus, der Einzelkaufmann ist aber kein Vertreter",
    "Ja, als unechte Gesamtprokura",
    "Ja, sofern die Beschränkung im Handelsregister eingetragen wird",
-   "Nein, Gesamtvertretung setzt das Handeln von Vertretern voraus, der Einzelkaufmann ist aber kein Vertreter",
    "Nein, ein Einzelkaufmann kann überhaupt keine Prokura erteilen"
   ],
-  "antwort": 2,
+  "antwort": 0,
   "erklaerung": "Gesamtvertretung setzt das Zusammenwirken rechtsgeschäftlicher oder gesetzlicher Vertreter voraus; der Einzelkaufmann handelt als Inhaber selbst und ist kein Vertreter. Eine Prokura nur gemeinsam mit dem Einzelkaufmann ist daher unzulässig. Unechte Gesamtprokura gibt es nur in Verbindung mit einem Gesellschafter, Geschäftsführer oder Vorstandsmitglied; Prokura als solche kann der Einzelkaufmann nach § 48 Abs. 1 HGB sehr wohl erteilen."
  },
  {
@@ -1248,10 +1244,10 @@
    {
     "frage": "Ist die Beschränkung der Prokura auf die Ulmer Niederlassung zulässig?",
     "optionen": [
-     "Nein, eine Prokura lässt sich nicht gegenständlich beschränken",
-     "Ja, da die Zweigniederlassung eine abweichende Firma führt; der Zusatz „Zweigniederlassung“ mit Ortsangabe genügt",
      "Ja, aber nur im Innenverhältnis",
-     "Nur, wenn die Zweigniederlassung ein eigenes Registerblatt hat"
+     "Ja, da die Zweigniederlassung eine abweichende Firma führt; der Zusatz „Zweigniederlassung“ mit Ortsangabe genügt",
+     "Nur, wenn die Zweigniederlassung ein eigenes Registerblatt hat",
+     "Nein, eine Prokura lässt sich nicht gegenständlich beschränken"
     ],
     "antwort": 1,
     "erklaerung": "Nach § 50 Abs. 3 HGB ist die Niederlassungsprokura möglich, wenn die Zweigniederlassung eine abweichende Firma führt; dafür genügt der Zusatz „Zweigniederlassung“ mit Ortsangabe."
@@ -1259,23 +1255,23 @@
    {
     "frage": "Wer meldet die Prokura zum Handelsregister an?",
     "optionen": [
-     "G1 und G2 in vertretungsberechtigter Zahl; P wirkt nicht mit",
+     "P allein, da er von der Prokura betroffen ist",
      "G1 oder G2 jeweils allein zusammen mit P",
-     "Die Gesellschafterversammlung durch Vorlage des Beschlusses",
-     "P allein, da er von der Prokura betroffen ist"
+     "G1 und G2 in vertretungsberechtigter Zahl; P wirkt nicht mit",
+     "Die Gesellschafterversammlung durch Vorlage des Beschlusses"
     ],
-    "antwort": 0,
+    "antwort": 2,
     "erklaerung": "Bei der GmbH melden die Geschäftsführer in vertretungsberechtigter Zahl an (§ 53 HGB); eine Mitwirkung des Prokuristen ist weder nötig noch möglich. Der Beschluss nach § 46 Nr. 7 GmbHG betrifft nur das Innenverhältnis und muss nicht beigefügt werden."
    },
    {
     "frage": "Was gilt, wenn die Beschränkung auf die Niederlassung Ulm nicht mit angemeldet wird?",
     "optionen": [
-     "Die Prokura ist insgesamt unwirksam",
-     "Die Prokura gilt für alle Niederlassungen",
      "Die Prokura gilt nur für den Sitz Stuttgart",
-     "Das Registergericht trägt die Beschränkung von Amts wegen ein"
+     "Das Registergericht trägt die Beschränkung von Amts wegen ein",
+     "Die Prokura gilt für alle Niederlassungen",
+     "Die Prokura ist insgesamt unwirksam"
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Die Beschränkung nach § 50 Abs. 3 HGB ist anzumelden; ohne Anmeldung gilt die Prokura für alle Niederlassungen. Das ist ein typischer Praxisfehler."
    }
   ],
@@ -1294,12 +1290,12 @@
   ],
   "frage": "Eine GmbH mit Satzungssitz in Stuttgart zieht innerhalb Stuttgarts in neue Geschäftsräume. Was ist zum Handelsregister anzumelden?",
   "optionen": [
+   "Eine Sitzverlegung ohne Satzungsänderung beim neuen Registergericht",
    "Eine Sitzverlegung mit Satzungsänderung",
-   "Nur die neue Geschäftsanschrift",
    "Nichts, da sich der Satzungssitz nicht ändert",
-   "Eine Sitzverlegung ohne Satzungsänderung beim neuen Registergericht"
+   "Nur die neue Geschäftsanschrift"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Ein Umzug innerhalb derselben politischen Gemeinde ist nie eine Sitzverlegung, da der Sitz nach § 4a GmbHG eine Gemeinde bezeichnet. Anzumelden ist nur die neue Geschäftsanschrift; dies ist erzwingbar (§ 14 HGB), sodass eine Anmeldung keineswegs entbehrlich ist."
  },
  {
@@ -1332,12 +1328,12 @@
   ],
   "frage": "Welche Folge kann es haben, wenn bei einer GmbH nach einem Umzug eine unzutreffende inländische Geschäftsanschrift eingetragen bleibt?",
   "optionen": [
+   "Zustellungen an die alte Anschrift sind unwirksam und gelten als nicht erfolgt",
    "Die GmbH wird von Amts wegen gelöscht",
    "Die Zustellung an die Gesellschaft kann gegebenenfalls öffentlich erfolgen; zudem droht Zwangsgeld",
-   "Die Geschäftsführer haften persönlich für alle Verbindlichkeiten",
-   "Zustellungen an die alte Anschrift sind unwirksam und gelten als nicht erfolgt"
+   "Die Geschäftsführer haften persönlich für alle Verbindlichkeiten"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Ist eine unzutreffende inländische Geschäftsanschrift eingetragen, kann nach § 15a HGB öffentlich zugestellt werden; die Anmeldung der aktuellen Anschrift ist zudem durch Zwangsgeld erzwingbar (§ 14 HGB). Die nach § 8 Abs. 4 Nr. 1 GmbHG eingetragene Anschrift soll gerade jederzeit eine zustellungsfähige Adresse ausweisen."
  },
  {
@@ -1353,12 +1349,12 @@
   ],
   "frage": "Welche Aussage zur Hauptniederlassung des Einzelkaufmanns trifft zu?",
   "optionen": [
-   "Der Einzelkaufmann wählt seinen Sitz frei wie eine GmbH",
-   "Die Hauptniederlassung liegt am Ort der dauerhaften Geschäftsleitung und ist nicht frei wählbar",
    "Die Hauptniederlassung liegt stets am Wohnsitz des Einzelkaufmanns",
-   "Der Einzelkaufmann meldet keine Hauptniederlassung, sondern nur eine Geschäftsanschrift an"
+   "Der Einzelkaufmann meldet keine Hauptniederlassung, sondern nur eine Geschäftsanschrift an",
+   "Die Hauptniederlassung liegt am Ort der dauerhaften Geschäftsleitung und ist nicht frei wählbar",
+   "Der Einzelkaufmann wählt seinen Sitz frei wie eine GmbH"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Der Einzelkaufmann meldet keinen Sitz, sondern seine Hauptniederlassung an; diese kann er nicht frei wählen, sie liegt am Ort der dauerhaften Geschäftsleitung. Anders als bei Gesellschaften gibt es keinen satzungsmäßig frei bestimmbaren Sitz. Weichen die Geschäftsräume ab, ist deren Lage bei der Anmeldung anzugeben (§ 24 Abs. 2 HRV)."
  },
  {
@@ -1374,12 +1370,12 @@
   ],
   "frage": "Welcher Unternehmensgegenstand einer GmbH genügt den Anforderungen an die Individualisierung?",
   "optionen": [
-   "„Handel mit Waren aller Art“",
    "„Betrieb aller dem Gesellschaftszweck dienlichen Geschäfte“",
    "„Planung und Errichtung von Photovoltaikanlagen auf Gewerbedächern“",
-   "„Erbringung von Dienstleistungen aller Art“"
+   "„Erbringung von Dienstleistungen aller Art“",
+   "„Handel mit Waren aller Art“"
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "Der Unternehmensgegenstand ist so konkret anzugeben, dass der Schwerpunkt der Tätigkeit erkennbar ist; eine konkrete Bezeichnung einer bestimmten Planungs- oder Handelstätigkeit genügt. Leerformeln wie Waren oder Dienstleistungen „aller Art“ oder der bloße Verweis auf zweckdienliche Geschäfte sind unzureichend. Bei der GmbH wird der Gegenstand nach § 10 Abs. 1 GmbHG eingetragen."
  },
  {
@@ -1449,12 +1445,163 @@
   ],
   "frage": "Welche Funktion erfüllt der Unternehmensgegenstand der GmbH im Innenverhältnis?",
   "optionen": [
-   "Er bestimmt die Höhe des Stammkapitals",
+   "Er legt fest, welche Gewerbeerlaubnisse die Gesellschaft benötigt",
    "Er schützt die Gesellschafter, vor allem Minderheitsgesellschafter, vor eigenmächtigen Änderungen des Tätigkeitsfelds durch die Geschäftsführer",
    "Er beschränkt die Vertretungsmacht der Geschäftsführer mit Wirkung gegenüber Dritten",
-   "Er legt fest, welche Gewerbeerlaubnisse die Gesellschaft benötigt"
+   "Er bestimmt die Höhe des Stammkapitals"
   ],
   "antwort": 1,
   "erklaerung": "Nach innen schützt der Unternehmensgegenstand die Gesellschafter vor eigenmächtigen Änderungen des Tätigkeitsfelds; die Geschäftsführer müssen die Beschränkungen aus dem Gesellschaftsvertrag einhalten (§ 37 Abs. 1 GmbHG). Nach außen dient er der Information des Rechtsverkehrs über das Tätigkeitsfeld; eine Beschränkung der Vertretungsmacht gegenüber Dritten folgt daraus nicht."
+ },
+ {
+  "id": "hand2-063",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Registeranmeldung: Personenangaben und Wohnanschrift (DONot)",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/registeranmeldung-personenangaben-und-wohnanschrift-donot",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 5a DONot"
+  ],
+  "frage": "Welche Angabe zum Wohnort eines anzumeldenden Geschäftsführers gehört in die Handelsregisteranmeldung?",
+  "optionen": [
+   "Die politische Gemeinde des Wohnsitzes",
+   "Die Geschäftsanschrift der Gesellschaft anstelle eines Wohnorts",
+   "Postleitzahl und Wohngemeinde",
+   "Die vollständige Wohnanschrift mit Straße und Hausnummer"
+  ],
+  "antwort": 0,
+  "erklaerung": "Anzugeben sind Name, Vorname, Geburtsdatum und Wohnort; als Wohnort genügt und gilt allein die politische Gemeinde des Wohnsitzes. Vollständige Wohnanschrift und Postleitzahl gehören nicht in die Anmeldung, zumal Wohnanschriften nach § 5a DONot in an das Register übermittelten Dokumenten fehlen oder unkenntlich gemacht sein sollen."
+ },
+ {
+  "id": "hand2-064",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Registeranmeldung: Personenangaben und Wohnanschrift (DONot)",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/registeranmeldung-personenangaben-und-wohnanschrift-donot",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 5a DONot"
+  ],
+  "frage": "Die Pflicht nach § 5a DONot, Wohnanschriften, Ausweisseriennummern und Kontoverbindungen in an das Handelsregister übermittelten Dokumenten unkenntlich zu machen, entfällt, wenn der Entwurf nicht vom Notar stammt.",
+  "antwort": true,
+  "erklaerung": "§ 5a DONot verlangt bei elektronischer Übermittlung in öffentlich beglaubigter Form an das Handelsregister, dass diese Angaben fehlen oder unkenntlich gemacht sind. Die Pflicht entfällt nur, wenn der Entwurf des Dokuments nicht vom Notar stammt; bei selbst entworfenen Dokumenten ist vor der Übermittlung zu schwärzen."
+ },
+ {
+  "id": "hand2-065",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Registeranmeldung: Personenangaben und Wohnanschrift (DONot)",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/registeranmeldung-personenangaben-und-wohnanschrift-donot",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 5a DONot",
+   "§ 5 Abs. 1 S. 4 DONot"
+  ],
+  "frage": "Der Notar entwirft eine Geschäftsführeranmeldung und beglaubigt die Unterschrift. Welche Gestaltung des Beglaubigungsvermerks ist richtig?",
+  "optionen": [
+   "Der Vermerk nennt die vollständige Wohnanschrift, da § 5 Abs. 1 S. 1 DONot dies stets verlangt",
+   "Der Vermerk darf keine vollständige Wohnanschrift enthalten; die Anschrift kann entfallen, wenn Verwechslungen ausgeschlossen sind",
+   "Der Vermerk muss Ausweisnummer und Wohnanschrift enthalten, damit das Registergericht die Identität prüfen kann",
+   "Der Vermerk nennt die Wohnanschrift, die vor Übermittlung nur in der Anmeldung selbst geschwärzt wird"
+  ],
+  "antwort": 1,
+  "erklaerung": "Wegen § 5a DONot dürfen Beglaubigungsvermerk, Urkundeneingang und übriger Urkundstext keine vollständige Wohnanschrift enthalten oder erkennen lassen; das ist ein typischer Fehler. Die nach § 5 Abs. 1 S. 1 DONot grundsätzlich vorgesehene Anschrift kann nach § 5 Abs. 1 S. 4 DONot entfallen, wenn die Urkunde für das Register bestimmt ist und Zweifel und Verwechslungen ausgeschlossen sind."
+ },
+ {
+  "id": "hand2-066",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Gesellschaftsformen: Überblick und strukturelle Unterschiede",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gesellschaftsformen-uberblick-und-strukturelle-unterschiede",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 714 BGB",
+   "§ 109 HGB",
+   "§ 133 Abs. 1 AktG"
+  ],
+  "frage": "Ordne das Strukturmerkmal der zutreffenden Gesellschaftsform zu.",
+  "paare": [
+   [
+    "Selbstorganschaft; nur Gesellschafter dürfen geschäftsführen und vertreten",
+    "GbR, OHG und KG"
+   ],
+   [
+    "Fremdorganschaft; Außenstehende können Geschäftsführer bzw. Vorstand werden",
+    "GmbH und AG"
+   ],
+   [
+    "Gesetzlich grundsätzlich Einstimmigkeit bei Gesellschafterentscheidungen",
+    "Personengesellschaften (§ 714 BGB, § 109 HGB)"
+   ],
+   [
+    "Gesetzlich einfache Mehrheit der abgegebenen Stimmen",
+    "Kapitalgesellschaften (§ 133 Abs. 1 AktG)"
+   ]
+  ],
+  "erklaerung": "Personengesellschaften unterliegen der Selbstorganschaft und kraft Gesetzes dem Einstimmigkeitsprinzip (§ 714 BGB, § 109 HGB), das der Gesellschaftsvertrag abbedingen kann. GmbH und AG kennen die Fremdorganschaft und entscheiden kraft Gesetzes mit einfacher Mehrheit (§ 133 Abs. 1 AktG)."
+ },
+ {
+  "id": "hand2-067",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Gesellschaftsformen: Überblick und strukturelle Unterschiede",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gesellschaftsformen-uberblick-und-strukturelle-unterschiede",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 172 Abs. 4 HGB"
+  ],
+  "frage": "Die KG zahlt einem Kommanditisten seine voll geleistete Einlage zurück. Welche Rechtsfolge tritt gegenüber den Gläubigern ein?",
+  "optionen": [
+   "Der Kommanditist wird zum persönlich unbeschränkt haftenden Gesellschafter",
+   "Die Einlage gilt den Gläubigern gegenüber als nicht geleistet",
+   "Keine, da die Einlage einmal geleistet wurde",
+   "Die Rückzahlung ist nichtig und von den Komplementären zurückzufordern"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 172 Abs. 4 HGB gilt die Einlage gegenüber den Gläubigern als nicht geleistet, wenn sie an den Kommanditisten zurückgezahlt wird; seine Haftung bis zur Haftsumme lebt damit wieder auf. Gleiches gilt für Gewinnentnahmen, solange Verluste den Kapitalanteil unter die geleistete Einlage gesenkt haben. Eine unbeschränkte Haftung folgt daraus nicht."
+ },
+ {
+  "id": "hand2-068",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Gesellschaftsformen: Überblick und strukturelle Unterschiede",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gesellschaftsformen-uberblick-und-strukturelle-unterschiede",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1 GmbHG",
+   "§ 2 AktG"
+  ],
+  "frage": "Eine Personengesellschaft kann ebenso wie eine GmbH durch eine einzige Person gegründet werden.",
+  "antwort": false,
+  "erklaerung": "Eine Personengesellschaft hat stets mindestens zwei Gesellschafter, von denen mindestens einer persönlich und unbeschränkt haftet. Nur GmbH und AG können von einer einzigen Person gegründet und geführt werden (§ 1 GmbHG, § 2 AktG)."
+ },
+ {
+  "id": "hand2-069",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Gesellschaftsformen: Überblick und strukturelle Unterschiede",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gesellschaftsformen-uberblick-und-strukturelle-unterschiede",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 23 Abs. 5 AktG",
+   "§ 30 GmbHG"
+  ],
+  "frage": "Welcher Gesichtspunkt spricht nach der Seite für die GmbH gegenüber der AG?",
+  "optionen": [
+   "Die GmbH benötigt keine Mindesteinzahlung vor Eintragung",
+   "Die GmbH bietet weitgehende Gestaltungsfreiheit im Innenverhältnis, während das Aktienrecht Gestaltungen nur zulässt, soweit das Gesetz sie ausdrücklich erlaubt",
+   "Bei der GmbH gilt kein Verbot der Auszahlung des zur Stammkapitalerhaltung erforderlichen Vermögens",
+   "Die GmbH unterliegt der Selbstorganschaft und ist dadurch flexibler"
+  ],
+  "antwort": 1,
+  "erklaerung": "Gegenüber der AG bietet die GmbH weitgehende Freiheit bei der Gestaltung des Innenverhältnisses; das Aktienrecht lässt Abweichungen nur zu, soweit das Gesetz sie ausdrücklich erlaubt (§ 23 Abs. 5 AktG). Die übrigen Optionen sind falsch: Auch die GmbH braucht Mindesteinzahlungen (§ 7 Abs. 2 GmbHG), unterliegt der Kapitalerhaltung nach § 30 GmbHG und kennt die Fremdorganschaft."
  }
 ]

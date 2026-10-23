@@ -1485,5 +1485,391 @@
   ],
   "antwort": 1,
   "erklaerung": "Bei Teilbefriedigung hat der Eigentümer keinen Anspruch auf Herausgabe des Briefs; der Gläubiger muss die Teilzahlung aber auf dem Brief vermerken (§ 1145 BGB). Schon ein privatschriftlicher Vermerk auf dem Brief kann gutgläubigen Erwerb verhindern, weshalb die Praxis Teilzahlungen und Abtretungsausschlüsse vermerken lässt. Ein Widerspruch nach § 899 BGB ist ebenfalls möglich, für die einstweilige Verfügung muss aber gerade keine Gefährdung glaubhaft gemacht werden."
+ },
+ {
+  "id": "grpf1-066",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: Haftungsverband und Enthaftung",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-haftungsverband-und-enthaftung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1120 BGB",
+   "§ 1123 BGB",
+   "§§ 1127–1130 BGB"
+  ],
+  "frage": "Welcher Gegenstand gehört nicht zum Haftungsverband der Hypothek?",
+  "optionen": [
+   "Zubehör, das im Eigentum des Grundstückseigentümers steht",
+   "Versicherungsforderungen wegen Beschädigung des Gebäudes",
+   "Getrennte Erzeugnisse, die mit der Trennung in das Eigentum eines Pächters gelangt sind",
+   "Miet- und Pachtforderungen aus dem belasteten Grundstück"
+  ],
+  "antwort": 2,
+  "erklaerung": "Zum Haftungsverband gehören Bestandteile, getrennte Erzeugnisse, Zubehör im Eigentum des Grundstückseigentümers (§ 1120 BGB), Miet- und Pachtforderungen (§ 1123 BGB) und Surrogate wie Versicherungsforderungen (§§ 1127–1130 BGB). Ausgenommen sind Erzeugnisse, die mit der Trennung nach §§ 954 bis 957 BGB in das Eigentum eines anderen als des Eigentümers oder Eigenbesitzers, etwa eines Pächters, gelangt sind. Miet- und Pachtforderungen sind erfasst, haben aber nur bei Zwangsverwaltung Bedeutung."
+ },
+ {
+  "id": "grpf1-067",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: Haftungsverband und Enthaftung",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-haftungsverband-und-enthaftung",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1121 Abs. 1 BGB",
+   "§ 1121 Abs. 2 BGB",
+   "§ 23 Abs. 2 ZVG"
+  ],
+  "frage": "Verkauf eines Traktors vom belasteten Hof",
+  "sachverhalt": "Landwirt L ist Eigentümer eines mit einer Hypothek zugunsten der B-Bank belasteten Hofs. Zum Hof gehört ein Traktor, der Zubehör ist. L übereignet den Traktor am 1. März an K, der ihn vorerst auf dem Hof stehen lässt. Am 10. März wird auf Antrag der B-Bank die Zwangsversteigerung angeordnet; der Versteigerungsvermerk wird am 15. März eingetragen. K holt den Traktor am 20. März ab.",
+  "schritte": [
+   {
+    "frage": "Ist der Traktor durch die Übereignung am 1. März aus dem Haftungsverband ausgeschieden?",
+    "optionen": [
+     "Ja, die Übereignung genügt nach § 1121 Abs. 1 BGB",
+     "Nein, Zubehör wird vor der Beschlagnahme nur frei, wenn es sowohl veräußert als auch vom Grundstück entfernt wurde",
+     "Ja, weil K gutgläubig nach § 936 BGB lastenfrei erworben hat",
+     "Nein, Zubehör kann nie aus dem Haftungsverband ausscheiden"
+    ],
+    "antwort": 1,
+    "erklaerung": "Erzeugnisse und Zubehör werden vor der Beschlagnahme nur frei, wenn sie sowohl übereignet als auch weggeschafft wurden; Übereignung allein genügt nicht (§ 1121 Abs. 1 BGB)."
+   },
+   {
+    "frage": "Wird der Traktor von der Beschlagnahme am 10. März erfasst?",
+    "optionen": [
+     "Nein, weil er bereits K gehörte",
+     "Ja, weil er sich bei der Beschlagnahme noch auf dem Grundstück befand, gleich ob schon übereignet",
+     "Nein, weil die Beschlagnahme erst mit Eintragung des Vermerks wirkt",
+     "Ja, aber nur zugunsten nachrangiger Gläubiger"
+    ],
+    "antwort": 1,
+    "erklaerung": "Eine mithaftende Sache, die sich bei der Beschlagnahme noch auf dem Grundstück befindet, wird von ihr erfasst, gleich ob sie schon übereignet ist (§ 1121 Abs. 1 BGB, § 20 ZVG)."
+   },
+   {
+    "frage": "Wird der Traktor durch das Abholen am 20. März frei?",
+    "optionen": [
+     "Ja, weil K bei der Übereignung am 1. März gutgläubig war",
+     "Nein, weil K bei der Entfernung wegen des eingetragenen Versteigerungsvermerks hinsichtlich der Beschlagnahme nicht mehr gutgläubig sein konnte (§ 1121 Abs. 2 S. 2 BGB, § 23 Abs. 2 ZVG)",
+     "Ja, weil Veräußerung und Entfernung zusammen vorliegen, gleich in welcher zeitlichen Lage",
+     "Nein, weil nach der Beschlagnahme eine Enthaftung ausnahmslos ausgeschlossen ist"
+    ],
+    "antwort": 1,
+    "erklaerung": "Bei Veräußerung vor der Beschlagnahme und Entfernung danach hilft der gute Glaube bei der Übereignung nicht (§ 1121 Abs. 2 S. 1 BGB); maßgeblich ist der gute Glaube an das Fehlen der Beschlagnahme im Zeitpunkt der Entfernung (§ 1121 Abs. 2 S. 2 BGB). Ab Eintragung des Versteigerungsvermerks gilt die Beschlagnahme als bekannt (§ 23 Abs. 2 ZVG)."
+   }
+  ],
+  "erklaerung": "Die bloße Übereignung am 1. März bewirkt keine Enthaftung; der noch auf dem Hof stehende Traktor wird von der Beschlagnahme erfasst. Frei würde er nur, wenn K bei der Entfernung hinsichtlich der Beschlagnahme gutgläubig gewesen wäre, was nach Eintragung des Versteigerungsvermerks ausgeschlossen ist. Praxishinweis: auf Übereignung und tatsächliches Wegschaffen vor einer Beschlagnahme achten."
+ },
+ {
+  "id": "grpf1-068",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: Haftungsverband und Enthaftung",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-haftungsverband-und-enthaftung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1122 Abs. 1 BGB"
+  ],
+  "frage": "Erzeugnisse, die im Rahmen ordnungsgemäßer Wirtschaft vom Grundstück getrennt und vor der Beschlagnahme nicht nur vorübergehend entfernt wurden, werden auch ohne Veräußerung von der Haftung frei.",
+  "antwort": true,
+  "erklaerung": "Nach § 1122 Abs. 1 BGB werden Erzeugnisse und Bestandteile, die im Rahmen ordnungsgemäßer Wirtschaft getrennt und vor der Beschlagnahme nicht nur vorübergehend entfernt wurden, auch ohne Veräußerung haftungsfrei. Für Zubehör gilt die Sonderregel des § 1122 Abs. 2 BGB."
+ },
+ {
+  "id": "grpf1-069",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: Tilgung, Ablösung und Erlöschen",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-tilgung-ablosung-und-erloschen",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§§ 1163 Abs. 1 S. 2, 1177 BGB",
+   "§ 1143 BGB",
+   "§ 1164 BGB",
+   "§ 774 Abs. 1 S. 1 BGB"
+  ],
+  "frage": "Ordne zu, wer zahlt, und was jeweils aus der Hypothek wird.",
+  "paare": [
+   [
+    "Eigentümer, der zugleich persönlicher Schuldner ist",
+    "Eigentümergrundschuld (§§ 1163 Abs. 1 S. 2, 1177 Abs. 1 BGB)"
+   ],
+   [
+    "Eigentümer, der nicht persönlicher Schuldner ist",
+    "Eigentümerhypothek durch Forderungsübergang (§§ 1143 Abs. 1 S. 1, 1153, 1177 Abs. 2 BGB)"
+   ],
+   [
+    "Persönlicher Schuldner mit Ersatzanspruch gegen den Eigentümer",
+    "Hypothek geht auf den Schuldner über und bleibt Fremdhypothek (§ 1164 BGB)"
+   ],
+   [
+    "Bürge",
+    "Erwirbt Forderung und Hypothek (§§ 774 Abs. 1 S. 1, 1153 Abs. 1 BGB)"
+   ]
+  ],
+  "erklaerung": "Die Hypothek bleibt bei Erfüllung mit ihrer Rangstelle bestehen; ihr Schicksal hängt davon ab, wer zahlt. Zahlt der Eigentümer-Schuldner, entsteht eine Eigentümergrundschuld; zahlt ein Eigentümer, der nicht Schuldner ist, erwirbt er Forderung und Hypothek als Eigentümerhypothek. Ein Schuldner mit Ersatzanspruch gegen den Eigentümer und ein Bürge erwerben die Hypothek als Fremdhypothek."
+ },
+ {
+  "id": "grpf1-070",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: Tilgung, Ablösung und Erlöschen",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-tilgung-ablosung-und-erloschen",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1173 BGB",
+   "§ 1143 Abs. 2 BGB"
+  ],
+  "frage": "An den Grundstücken von A und B besteht eine Gesamthypothek. A, der nicht persönlicher Schuldner ist, befriedigt den Gläubiger; einen Ersatzanspruch gegen B hat er nicht. Was geschieht mit der Hypothek?",
+  "optionen": [
+   "A erwirbt die Hypothek an beiden Grundstücken als Gesamthypothek",
+   "A erwirbt die Hypothek an seinem Grundstück; am Grundstück des B erlischt sie (§§ 1143 Abs. 2, 1173 BGB)",
+   "Die Hypothek erlischt an beiden Grundstücken",
+   "Die Hypothek wird an beiden Grundstücken Eigentümergrundschuld des jeweiligen Eigentümers"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei der Gesamthypothek gilt § 1173 BGB (§ 1143 Abs. 2 BGB): Der zahlende Eigentümer eines Grundstücks erwirbt die Hypothek an seinem Grundstück, an den übrigen erlischt sie. Nur soweit er gegen den Eigentümer eines anderen belasteten Grundstücks einen Ersatzanspruch hat, erwirbt er auch dort die Hypothek, die dann als Gesamthypothek fortbesteht (§ 1173 Abs. 1 BGB)."
+ },
+ {
+  "id": "grpf1-071",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: Tilgung, Ablösung und Erlöschen",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-tilgung-ablosung-und-erloschen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 29 GBO",
+   "§ 22 GBO",
+   "§ 875 Abs. 1 BGB"
+  ],
+  "frage": "Der Eigentümer, der zugleich Darlehensschuldner ist, hat die durch Hypothek gesicherte Forderung getilgt. Der Gläubiger erteilt eine löschungsfähige Quittung. Was kann der Eigentümer damit erreichen?",
+  "optionen": [
+   "Nur die Löschung, wobei zusätzlich die Bewilligung des Gläubigers nötig ist",
+   "Die Umschreibung in eine Eigentümergrundschuld im Wege der Grundbuchberichtigung (§ 22 GBO) oder die Löschung auf eigene Bewilligung",
+   "Die Abtretung der Hypothek an einen neuen Kreditgeber ohne Mitwirkung des Grundbuchamts",
+   "Nichts, weil die Quittung nur schuldrechtliche Wirkung hat"
+  ],
+  "antwort": 1,
+  "erklaerung": "Mit der löschungsfähigen Quittung in der Form des § 29 GBO weist der Eigentümer nach, dass die Hypothek als Eigentümergrundschuld auf ihn übergegangen ist. Er kann damit die Umschreibung als Grundbuchberichtigung herbeiführen (§ 22 GBO) oder selbst die Aufgabe erklären (§ 875 Abs. 1 BGB) und die Löschung bewilligen. Viele Banken sehen nur eine Löschungsbewilligung vor, weil die Quittung angeben muss, wer gezahlt hat."
+ },
+ {
+  "id": "grpf1-072",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: Tilgung, Ablösung und Erlöschen",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-tilgung-ablosung-und-erloschen",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 767 Abs. 1 S. 1 BGB",
+   "§ 1163 Abs. 1 S. 2 BGB"
+  ],
+  "frage": "Wie die Bürgschaft erlischt auch die Hypothek als akzessorische Sicherheit mit der vollständigen Erfüllung der gesicherten Forderung.",
+  "antwort": false,
+  "erklaerung": "Anders als akzessorische Sicherheiten des Schuldrechts wie die Bürgschaft (§ 767 Abs. 1 S. 1 BGB) bleibt die Hypothek mit ihrer Rangstelle bei Erfüllung der Forderung bestehen. Je nachdem, wer zahlt, wird sie zur Eigentümergrundschuld (§ 1163 Abs. 1 S. 2 BGB), zur Eigentümerhypothek oder bleibt Fremdhypothek; erlöschen kann sie nur in den gesetzlich bestimmten Fällen."
+ },
+ {
+  "id": "grpf1-073",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: Übertragung",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-ubertragung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1154 Abs. 3 BGB",
+   "§ 873 Abs. 1 BGB",
+   "§ 29 GBO"
+  ],
+  "frage": "Was ist zur Abtretung einer Buchhypothek erforderlich?",
+  "optionen": [
+   "Schriftliche Abtretungserklärung und Übergabe einer Ausfertigung der Bestellungsurkunde",
+   "Formlose Einigung, Bewilligung des bisherigen Gläubigers in der Form des § 29 GBO und Eintragung (§§ 1154 Abs. 3, 873 Abs. 1 BGB)",
+   "Notariell beurkundeter Abtretungsvertrag, eine Eintragung ist entbehrlich",
+   "Formlose Abtretung der Forderung, der die Hypothek nach § 1153 BGB ohne Eintragung folgt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei der Buchhypothek ist die Eintragung konstitutiv: Erforderlich sind formlose Einigung, Bewilligung des bisherigen Gläubigers in beurkundeter oder beglaubigter Form (§ 29 GBO) und Eintragung (§§ 1154 Abs. 3, 873 Abs. 1 BGB). Die außergrundbuchliche Abtretung durch schriftliche Erklärung und Briefübergabe gibt es nur beim Briefrecht (§ 1154 Abs. 1 BGB). Das Buchrecht ist deshalb weniger umlauffähig."
+ },
+ {
+  "id": "grpf1-074",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: Übertragung",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-ubertragung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1154 Abs. 1 S. 2 BGB",
+   "§§ 727, 795 ZPO",
+   "§§ 117 Abs. 1, 126 ZVG"
+  ],
+  "frage": "N hat eine Briefhypothek durch privatschriftliche Abtretungserklärung und Briefübergabe erworben und ist nicht eingetragen. Welche Folge hat die fehlende Beglaubigung der Abtretungserklärung?",
+  "optionen": [
+   "Die Abtretung ist unwirksam, weil § 1154 Abs. 1 BGB öffentliche Beglaubigung verlangt",
+   "Die Abtretung ist wirksam, aber N kann ohne beglaubigte Abtretungskette weder die Klauselumschreibung (§§ 727, 795 ZPO) noch Zahlung im Verteilungsverfahren erreichen; er kann vom bisherigen Gläubiger Beglaubigung auf dessen Kosten verlangen",
+   "Die Abtretung ist wirksam und N kann ohne Weiteres seine Eintragung im Grundbuch beantragen",
+   "Die Abtretung ist schwebend unwirksam bis zur Genehmigung durch den Eigentümer"
+  ],
+  "antwort": 1,
+  "erklaerung": "Für die Abtretung einer Briefhypothek genügt eine schriftliche Abtretungserklärung mit Briefübergabe (§ 1154 Abs. 1 BGB). Der neue Gläubiger kann aber Beglaubigung auf Kosten des bisherigen Gläubigers verlangen (§ 1154 Abs. 1 S. 2 BGB), denn für Grundbucheintragung (§§ 26, 29, 39 Abs. 2 GBO), Klauselumschreibung (§§ 727, 795 ZPO) und Erlösauszahlung (§§ 117 Abs. 1, 126 ZVG) braucht er eine formgerechte Abtretungskette. Zudem erhält er als nicht Eingetragener keine Nachrichten von Grundbuchamt und Versteigerungsgericht."
+ },
+ {
+  "id": "grpf1-075",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: Übertragung",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-ubertragung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 399 BGB"
+  ],
+  "frage": "Ein vertraglicher Ausschluss der Abtretbarkeit von Forderung und Hypothek wirkt mit der Eintragung dinglich; der Notar sollte ihn ausdrücklich in den Eintragungsvermerk aufnehmen lassen, statt nur auf die Bewilligung Bezug zu nehmen.",
+  "antwort": true,
+  "erklaerung": "Die Abtretung kann nach § 399 BGB ausgeschlossen oder erschwert werden; mit der Eintragung wirkt der Ausschluss dinglich, wobei eine Eintragung durch Bezugnahme zulässig ist. Weil der Abtretungsausschluss gutgläubigen Erwerb verhindert und für Dritte wesentlich ist, empfiehlt die Praxis die ausdrückliche Aufnahme in den Eintragungsvermerk."
+ },
+ {
+  "id": "grpf1-076",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Sicherungshypothek und Höchstbetragshypothek",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/sicherungshypothek-und-hochstbetragshypothek",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1184 BGB",
+   "§ 1185 BGB"
+  ],
+  "frage": "Welche Aussage zur rechtsgeschäftlich bestellten Sicherungshypothek trifft zu?",
+  "optionen": [
+   "Sie kann als Brief- oder Buchrecht bestellt werden; gesetzlicher Regelfall ist das Briefrecht",
+   "Sie ist nur als Buchrecht möglich, muss im Grundbuch als Sicherungshypothek bezeichnet werden, und gutgläubiger Erwerb hinsichtlich der Forderung ist ausgeschlossen",
+   "Der Gläubiger kann sich zum Nachweis der Forderung auf die Eintragung stützen (§ 891 BGB i. V. m. § 1138 BGB)",
+   "Sie ist das typische Instrument zur Finanzierung eines Immobilienkaufs"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei der Sicherungshypothek richtet sich das Recht des Gläubigers allein nach der Forderung, er kann sich nicht auf die Eintragung stützen (§ 1184 BGB); die Bezeichnung ist zwingend (§ 1184 Abs. 2 BGB). Sie besteht nur als Buchrecht (§ 1185 Abs. 1 BGB), und §§ 1138, 1139, 1141, 1156 BGB sind nicht anwendbar (§ 1185 Abs. 2 BGB). Zur Kaufpreisfinanzierung wird sie nicht eingesetzt."
+ },
+ {
+  "id": "grpf1-077",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Sicherungshypothek und Höchstbetragshypothek",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/sicherungshypothek-und-hochstbetragshypothek",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1190 BGB",
+   "§ 794 Abs. 1 Nr. 5 ZPO"
+  ],
+  "frage": "Wem steht eine Höchstbetragshypothek vor Feststellung der Forderung zu, und wie kann sie vollstreckbar gestaltet werden?",
+  "optionen": [
+   "Dem Gläubiger in voller Höhe; der Eigentümer kann sich bei der Bestellung ohne Weiteres wegen des Höchstbetrags der Zwangsvollstreckung unterwerfen",
+   "Dem Eigentümer als vorläufige, auflösend bedingte Eigentümergrundschuld; vor Feststellung ist eine Unterwerfung nach § 794 Abs. 1 Nr. 5 ZPO nicht möglich, weshalb ein vollstreckbares abstraktes Schuldanerkenntnis unterlegt werden kann",
+   "Dem Eigentümer als endgültige Eigentümergrundschuld, die er jederzeit löschen lassen kann",
+   "Gläubiger und Eigentümer gemeinsam bis zur Feststellung durch Urteil"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bis zur Feststellung der Forderung gehört das Recht dem Eigentümer als vorläufige, auflösend bedingte Eigentümergrundschuld, ohne dass er einen Berichtigungs- oder Löschungsanspruch hätte; erst mit Feststellung wird es im festgestellten Umfang Sicherungshypothek, im Übrigen endgültige Eigentümergrundschuld. Vor Feststellung kann sich der Eigentümer nicht nach § 794 Abs. 1 Nr. 5 ZPO unterwerfen. Die Praxis unterlegt deshalb ein vollstreckbares abstraktes Schuldanerkenntnis."
+ },
+ {
+  "id": "grpf1-078",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Sicherungshypothek und Höchstbetragshypothek",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/sicherungshypothek-und-hochstbetragshypothek",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1190 BGB"
+  ],
+  "frage": "Bei der Höchstbetragshypothek sind neben dem Höchstbetrag die Zinsen der Forderung gesondert im Grundbuch einzutragen.",
+  "antwort": false,
+  "erklaerung": "Bei der Höchstbetragshypothek ist im Grundbuch nur der Höchstbetrag anzugeben. Zinsen können nicht eingetragen werden; bei verzinslicher Forderung sind sie im Höchstbetrag enthalten (§ 1190 BGB)."
+ },
+ {
+  "id": "grpf1-079",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Sicherungshypothek: Bauhandwerker-, Zwangs-, Arrest- und Steuerhypothek",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/sicherungshypothek-bauhandwerker-zwangs-arrest-und-steuerhypothek",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 866 Abs. 3 S. 1 ZPO",
+   "§ 867 Abs. 2 ZPO"
+  ],
+  "frage": "Gläubiger G will wegen einer titulierten Forderung von 30.000 EUR Zwangshypotheken an drei Grundstücken des Schuldners eintragen lassen. Was gilt?",
+  "optionen": [
+   "Es wird eine Gesamthypothek über 30.000 EUR an allen drei Grundstücken eingetragen",
+   "G muss die Forderung auf die Grundstücke verteilen; eine Gesamthypothek ist ausgeschlossen, und jeder Teilbetrag muss 750 EUR übersteigen",
+   "G muss die Forderung zu gleichen Teilen aufteilen; die Verteilung bestimmt das Grundbuchamt",
+   "Fehlt die Verteilung, erlässt das Grundbuchamt eine rangwahrende Zwischenverfügung"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei mehreren Grundstücken ist eine Gesamt-Zwangshypothek ausgeschlossen (§ 867 Abs. 2 ZPO). Der Gläubiger bestimmt die Verteilung frei, jeder Teilbetrag muss die Wertgrenze von 750 EUR nach § 866 Abs. 3 S. 1 ZPO einhalten. Fehlt die Verteilung, ist keine rangwahrende Zwischenverfügung möglich; dem Gläubiger ist nach § 139 ZPO Gelegenheit zur Nachholung zu geben."
+ },
+ {
+  "id": "grpf1-080",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Sicherungshypothek: Bauhandwerker-, Zwangs-, Arrest- und Steuerhypothek",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/sicherungshypothek-bauhandwerker-zwangs-arrest-und-steuerhypothek",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 650e BGB",
+   "§ 322 AO",
+   "§ 932 ZPO",
+   "§ 867 ZPO"
+  ],
+  "frage": "Ordne die Sonderform der Sicherungshypothek ihrer Entstehungsgrundlage zu.",
+  "paare": [
+   [
+    "Bauhandwerkersicherungshypothek",
+    "Anspruch des Unternehmers auf Einräumung für erbrachte Leistungen (§ 650e BGB), entsteht durch Einigung oder Urteil und Eintragung"
+   ],
+   [
+    "Zwangshypothek",
+    "Schriftlicher Antrag des Gläubigers mit vollstreckbarem Titel und Zustellungsnachweis (§ 867 ZPO, § 13 GBO)"
+   ],
+   [
+    "Arresthypothek",
+    "Arrestbefehl; Zustellung darf nachfolgen (§§ 932, 929 Abs. 3 ZPO)"
+   ],
+   [
+    "Steuerhypothek",
+    "Ersuchen des Finanzamts an das Grundbuchamt (§ 322 AO)"
+   ]
+  ],
+  "erklaerung": "Die Bauhandwerkersicherungshypothek beruht auf dem Anspruch aus § 650e BGB und entsteht durch dingliche Einigung oder rechtskräftiges Urteil (§ 894 ZPO) und Eintragung. Die Zwangshypothek wird auf schlichten Antrag mit Titel und Zustellungsnachweis eingetragen. Die Arresthypothek beruht auf einem Arrestbefehl, wobei die Zustellung wegen Eilbedürftigkeit nachfolgen darf; die Steuerhypothek entsteht auf Ersuchen des Finanzamts."
+ },
+ {
+  "id": "grpf1-081",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Sicherungshypothek: Bauhandwerker-, Zwangs-, Arrest- und Steuerhypothek",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/sicherungshypothek-bauhandwerker-zwangs-arrest-und-steuerhypothek",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 866 ZPO",
+   "§ 867 Abs. 1 ZPO",
+   "§ 10 Abs. 1 ZVG"
+  ],
+  "frage": "Welchen Vorteil bringt die Eintragung einer Zwangshypothek dem Gläubiger für eine spätere Zwangsversteigerung?",
+  "optionen": [
+   "Er kann aus der Hypothek in Rangklasse 4 statt aus dem persönlichen Titel in Rangklasse 5 vollstrecken; als Titel genügt der Titel mit Eintragungsvermerk",
+   "Er erhält Vorrang vor allen bereits eingetragenen Grundpfandrechten",
+   "Er kann ohne Titel, Klausel und Zustellung vollstrecken",
+   "Die Zwangshypothek verhindert einen freihändigen Verkauf des Grundstücks"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Zwangshypothek gibt dem Gläubiger zu seiner persönlichen Forderung eine dingliche Sicherung und wahrt den Rang: Aus dem persönlichen Titel betreibt er die Versteigerung in Rangklasse 5, aus der Hypothek in Rangklasse 4; als Titel genügt der Titel mit dem Eintragungsvermerk nach § 867 Abs. 1 ZPO. Vorrang vor bereits eingetragenen Rechten erhält er nicht. Bei einem freihändigen Verkauf führt die Zwangshypothek über die Lastenfreistellung regelmäßig zur Begleichung der Forderung."
  }
 ]

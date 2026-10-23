@@ -333,5 +333,250 @@
   "frage": "Die Betreuungsgebühr beträgt stets 0,5 aus dem gesamten Wert der Urkunde und unterliegt anders als die Vollzugsgebühr keiner Deckelung.",
   "antwort": true,
   "erklaerung": "Die Betreuungsgebühr nach KV 22200 GNotKG beträgt stets 0,5; eine Staffelung nach dem Satz des Hauptgeschäfts und eine Deckelung wie bei der Vollzugsgebühr gibt es nicht. Geschäftswert ist nach § 113 Abs. 1 GNotKG der gesamte Wert der Urkunde."
+ },
+ {
+  "id": "kost2-015",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte",
+  "seite": "Notargebühren: fremde Sprache (KV 26001 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-fremde-sprache-kv-26001-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "KV 26001 GNotKG"
+  ],
+  "frage": "Wie hoch ist die Zusatzgebühr nach KV 26001 GNotKG, wenn der Notar eine Urkunde in fremder Sprache errichtet?",
+  "optionen": [
+   "30 % der Gebühr für Beurkundung, Beglaubigung oder Bescheinigung",
+   "50 % der Beurkundungsgebühr, höchstens 5.000 €",
+   "Eine 0,5-Gebühr aus dem Geschäftswert der Urkunde",
+   "Festgebühr von 50 € je angefangene halbe Stunde"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Zusatzgebühr beläuft sich nach KV 26001 GNotKG auf 30 % der Gebühr für Beurkundung, Beglaubigung oder Bescheinigung; im Ergebnis steigt die Verfahrens- oder Aktgebühr um 30 %. Andere Gebühren, etwa die Auswärtsgebühr, bleiben unberührt. Die halbstündliche Festgebühr von 50 € betrifft die Auswärtsgebühr nach KV 26002 GNotKG."
+ },
+ {
+  "id": "kost2-016",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte",
+  "seite": "Notargebühren: fremde Sprache (KV 26001 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-fremde-sprache-kv-26001-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 26001 GNotKG",
+   "KV 32010 GNotKG"
+  ],
+  "frage": "Zieht der Notar zur Beurkundung eines deutschsprachigen Kaufvertrags einen Dolmetscher hinzu, entsteht wegen des Mehraufwands die Fremdsprachengebühr nach KV 26001 GNotKG.",
+  "antwort": false,
+  "erklaerung": "KV 26001 GNotKG setzt voraus, dass der Notar die Fremdsprache persönlich gebraucht. Bei deutscher Urkunde mit Dolmetscher entsteht die Zusatzgebühr nicht; der Mehraufwand wird gebührenrechtlich nicht vergütet. Es bleibt bei der regulären Verfahrensgebühr (KV 21100 GNotKG); die Dolmetscherkosten können allenfalls Auslagen nach KV 32010 GNotKG sein."
+ },
+ {
+  "id": "kost2-017",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte",
+  "seite": "Notargebühren: fremde Sprache (KV 26001 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-fremde-sprache-kv-26001-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "KV 26001 GNotKG",
+   "§ 5 Abs. 2 BeurkG"
+  ],
+  "frage": "Ein zweisprachiger Gesellschaftsvertrag (deutsch/englisch) wird beurkundet. Der Notar will nur für den deutschen Text einstehen; die englische Fassung dient Beweiszwecken. Welche Gestaltung und welche Kostenfolge sind zutreffend?",
+  "optionen": [
+   "Zusatzgebühr entsteht stets, weil die Urkunde einen fremdsprachigen Teil enthält",
+   "In der Urkunde klarstellen, dass der Notar nur für den deutschsprachigen Text tätig wird und einsteht; dann keine Zusatzgebühr",
+   "Zusatzgebühr entsteht, wenn die englische Fassung mit verlesen wird, auch wenn der Notar sie nicht verantwortet",
+   "Zweisprachige Urkunden sind nur bei Hinzuziehung eines Dolmetschers zulässig; Kosten nach KV 32010 GNotKG"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei zweisprachigen Urkunden entsteht die Zusatzgebühr nach KV 26001 GNotKG nur, wenn der Notar die weitere Sprache sicher beherrscht und den fremdsprachigen Inhalt verantworten kann und will, etwa wenn er ihn mit verliest und erläutert. Dient die Übersetzung eher Beweiszwecken, entsteht keine Zusatzgebühr. Die Praxis empfiehlt dann eine Klarstellung in der Urkunde, dass der Notar nur für den deutschen Text einsteht."
+ },
+ {
+  "id": "kost2-018",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte",
+  "seite": "Notargebühren: Rückgabe eines Erbvertrags und eidesstattliche Versicherung (KV 23100, 23300 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-ruckgabe-eines-erbvertrags-und-eidesstattliche-versicherung-kv-23100-23300-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "KV 23100 GNotKG",
+   "§ 114 GNotKG"
+  ],
+  "frage": "Welche Gebühr löst die Rückgabe eines Erbvertrags aus der notariellen Verwahrung aus?",
+  "optionen": [
+   "1,0-Gebühr nach KV 21102 Nr. 2 GNotKG",
+   "0,3-Gebühr nach KV 23100 GNotKG",
+   "0,5-Gebühr nach KV 22200 GNotKG",
+   "Festgebühr von 20 € nach KV 21300 GNotKG"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die körperliche Rückgabe löst eine 0,3-Gebühr nach KV 23100 GNotKG aus; Geschäftswert ist nach § 114 GNotKG der Wert, der sich nach § 102 Abs. 1 bis 3 GNotKG für die Beurkundung des Erbvertrags im Zeitpunkt der Rückgabe ergäbe. Die 1,0-Gebühr nach KV 21102 Nr. 2 GNotKG betrifft dagegen die beurkundete Aufhebung des Erbvertrags, die ein Beurkundungsverfahren ist."
+ },
+ {
+  "id": "kost2-019",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte",
+  "seite": "Notargebühren: Rückgabe eines Erbvertrags und eidesstattliche Versicherung (KV 23100, 23300 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-ruckgabe-eines-erbvertrags-und-eidesstattliche-versicherung-kv-23100-23300-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 23100 GNotKG",
+   "Vorb. 2 Abs. 1 KV GNotKG"
+  ],
+  "frage": "Die Rückgabegebühr wird auch dann angerechnet, wenn die neue Verfügung von Todes wegen bei demselben Notar bereits vor der Rückgabe des Erbvertrags beurkundet wurde.",
+  "antwort": false,
+  "erklaerung": "Nach der Anmerkung zu KV 23100 GNotKG wird angerechnet, wenn derselbe Notar demnächst erneut eine Verfügung von Todes wegen desselben Erblassers beurkundet; eine vor der Rückgabe errichtete neue Verfügung wird nicht erfasst. Daher zuerst zurückgeben und danach neu beurkunden. Die neue Verfügung muss weder ein Erbvertrag sein noch ähnlichen Inhalt haben."
+ },
+ {
+  "id": "kost2-020",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte",
+  "seite": "Notargebühren: Rückgabe eines Erbvertrags und eidesstattliche Versicherung (KV 23100, 23300 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-ruckgabe-eines-erbvertrags-und-eidesstattliche-versicherung-kv-23100-23300-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "KV 23300 GNotKG",
+   "KV 21201 Nr. 4 GNotKG",
+   "§ 94 Abs. 1 GNotKG"
+  ],
+  "frage": "In derselben Urkunde gibt die Erbin die eidesstattliche Versicherung zum Erbscheinsantrag ab, stellt den Erbscheinsantrag und beantragt die Grundbuchberichtigung. Wie ist abzurechnen?",
+  "optionen": [
+   "1,0 nach KV 23300 GNotKG für alles, da sämtliche Erklärungen abgegolten sind",
+   "1,0 nach KV 23300 GNotKG; Erbscheinsantrag abgegolten; Grundbuchberichtigungsantrag 0,5 nach KV 21201 Nr. 4 GNotKG mit Vergleichsberechnung nach § 94 Abs. 1 GNotKG",
+   "1,0 nach KV 23300 GNotKG zuzüglich 0,5 nach KV 21201 Nr. 6 GNotKG für den Erbscheinsantrag",
+   "2,0 nach KV 21100 GNotKG aus dem Nachlasswert"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die 1,0-Gebühr nach KV 23300 GNotKG deckt die eidesstattliche Versicherung; der Erbscheinsantrag fiele an sich unter KV 21201 Nr. 6 GNotKG, ist aber nach den Anmerkungen zu KV 21201 und KV 23300 GNotKG abgegolten. Der Grundbuchberichtigungsantrag ist gegenstandsverschieden und löst 0,5 nach KV 21201 Nr. 4 GNotKG aus; wegen der unterschiedlichen Sätze ist nach § 94 Abs. 1 GNotKG zu vergleichen."
+ },
+ {
+  "id": "kost2-021",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte",
+  "seite": "Notargebühren: Rückgabe eines Erbvertrags und eidesstattliche Versicherung (KV 23100, 23300 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-ruckgabe-eines-erbvertrags-und-eidesstattliche-versicherung-kv-23100-23300-gnotkg",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 40 GNotKG",
+   "KV 23301 GNotKG",
+   "§ 22 BNotO"
+  ],
+  "frage": "Ordne die Merkmale der eidesstattlichen Versicherung zum Erbschein zu.",
+  "paare": [
+   [
+    "Geschäftswert in Nachlassangelegenheiten",
+    "§ 40 GNotKG: Erblasserschulden abziehen, Erbfallschulden nicht"
+   ],
+   [
+    "Vorzeitige Beendigung",
+    "Ermäßigung auf 0,3 nach KV 23301 GNotKG"
+   ],
+   [
+    "Verfahrensart",
+    "Sonstiges notarielles Verfahren nach § 85 Abs. 1 GNotKG"
+   ],
+   [
+    "Befugnis des Notars",
+    "§ 22 Abs. 2 BNotO: Glaubhaftmachung gegenüber einer Behörde"
+   ]
+  ],
+  "erklaerung": "Die Aufnahme der eidesstattlichen Versicherung steht in Teil 2 Hauptabschnitt 3 KV GNotKG und ist daher kein Beurkundungsverfahren, sondern ein sonstiges Verfahren; bei vorzeitiger Beendigung gilt KV 23301 GNotKG (0,3). Der Wert richtet sich nach § 40 GNotKG, der abweichend von § 38 GNotKG den Abzug der Erblasserschulden zulässt. Die Befugnis folgt aus § 22 Abs. 2 BNotO."
+ },
+ {
+  "id": "kost2-022",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte",
+  "seite": "Notargebühren: Unzeit- und Auswärtsgebühr (KV 26000, 26002, 26003 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-unzeit-und-auswartsgebuhr-kv-26000-26002-26003-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "KV 26000 GNotKG"
+  ],
+  "frage": "Wie hoch ist die Unzeitgebühr nach KV 26000 GNotKG?",
+  "optionen": [
+   "30 % der Verfahrens- bzw. Geschäftsgebühr, höchstens 30 €",
+   "50 € je angefangene halbe Stunde",
+   "30 % der Verfahrensgebühr ohne Höchstbetrag",
+   "Festgebühr von 50 € je Auftraggeber"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Unzeitgebühr ist kein Wertgebührensatz, sondern ein Zuschlag von 30 % der eigentlichen Verfahrens- bzw. Geschäftsgebühr, höchstens jedoch 30 € (KV 26000 GNotKG). 30 % ohne Deckel gilt bei der Fremdsprachengebühr nach KV 26001 GNotKG; 50 € je halbe Stunde ist die Auswärtsgebühr nach KV 26002 GNotKG."
+ },
+ {
+  "id": "kost2-023",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte",
+  "seite": "Notargebühren: Unzeit- und Auswärtsgebühr (KV 26000, 26002, 26003 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-unzeit-und-auswartsgebuhr-kv-26000-26002-26003-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 26000 GNotKG"
+  ],
+  "frage": "Schlägt der Notar wegen voller Terminplanung selbst eine Beurkundung am Samstag um 15:00 Uhr vor und nehmen die Beteiligten an, darf er die Unzeitgebühr erheben.",
+  "antwort": false,
+  "erklaerung": "Samstage nach 13:00 Uhr sind zwar Unzeit im Sinne von KV 26000 GNotKG, die Gebühr setzt aber voraus, dass die Tätigkeit auf Verlangen eines Beteiligten zur Unzeit erfolgt. Legt der Notar den ungewöhnlichen Termin selbst fest, darf er die Unzeitgebühr nicht erheben; das Verlangen des Beteiligten ist in der Akte festzuhalten."
+ },
+ {
+  "id": "kost2-024",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte",
+  "seite": "Notargebühren: Unzeit- und Auswärtsgebühr (KV 26000, 26002, 26003 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-unzeit-und-auswartsgebuhr-kv-26000-26002-26003-gnotkg",
+  "typ": "fall",
+  "frage": "Hausbesuch im Pflegeheim",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 26002 GNotKG",
+   "KV 26003 GNotKG"
+  ],
+  "sachverhalt": "Die pflegebedürftige E bittet Notarin N, sie im Pflegeheim aufzusuchen. Dort beurkundet N für E ein Testament und eine Vorsorgevollmacht. Insgesamt ist N 95 Minuten aus den Amtsräumen abwesend. Eine Woche später bittet Unternehmer U, N möge in seinem Büro einen Grundstückskaufvertrag und einen Darlehensvertrag mit Grundschuldbestellung beurkunden; N ist dafür 70 Minuten abwesend.",
+  "schritte": [
+   {
+    "frage": "Welche Auswärtsgebühr entsteht für den Termin bei E?",
+    "optionen": [
+     "200 € Zeitgebühr (4 angefangene halbe Stunden à 50 €)",
+     "Festgebühr von 50 € nach KV 26003 GNotKG",
+     "100 € Festgebühr (50 € je Geschäft)",
+     "Keine Auswärtsgebühr, da Pflegeheimbesuche gebührenfrei sind"
+    ],
+    "antwort": 1,
+    "erklaerung": "Betrifft die Auswärtstätigkeit ausschließlich Verfügungen von Todes wegen und Vorsorgevollmachten, entsteht statt der Zeitgebühr eine feste Gebühr von 50 € je Auftraggeber (KV 26003 GNotKG). Auftraggeberin ist allein E."
+   },
+   {
+    "frage": "Welche Auswärtsgebühr entsteht für den Termin bei U?",
+    "optionen": [
+     "150 € einmalig, zeitanteilig auf beide Geschäfte verteilt",
+     "150 € je Geschäft, insgesamt 300 €",
+     "100 € einmalig, da nur volle halbe Stunden zählen",
+     "Höchstens die Gebühr des Hauptgeschäfts"
+    ],
+    "antwort": 0,
+    "erklaerung": "Die Auswärtsgebühr nach KV 26002 GNotKG beträgt 50 € je angefangene halbe Stunde; 70 Minuten ergeben drei angefangene halbe Stunden, also 150 €. Bei mehreren Geschäften entsteht sie nur einmal und ist zeitanteilig zu verteilen (KV 26002 Anm. Abs. 1 GNotKG); eine Begrenzung auf die Gebühr des Hauptgeschäfts besteht nicht."
+   }
+  ],
+  "erklaerung": "Für die ausschließlich erbrechtlich-vorsorgenden Geschäfte bei E gilt die Festgebühr von 50 € je Auftraggeber (KV 26003 GNotKG). Beim Termin für U fällt die reine Zeitgebühr nach KV 26002 GNotKG von 150 € einmal an und wird zeitanteilig auf die Geschäfte verteilt."
+ },
+ {
+  "id": "kost2-025",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte",
+  "seite": "Notargebühren: Unzeit- und Auswärtsgebühr (KV 26000, 26002, 26003 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-unzeit-und-auswartsgebuhr-kv-26000-26002-26003-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 26002 Anm. Abs. 2 GNotKG"
+  ],
+  "frage": "Hat sich der Notar auf Wunsch des Beteiligten bereits auf den Weg gemacht und unterbleibt das Geschäft aus einem Grund in der Person des Beteiligten, fällt die Auswärtsgebühr gleichwohl an.",
+  "antwort": true,
+  "erklaerung": "Nach KV 26002 Anm. Abs. 2 GNotKG entsteht die Auswärtsgebühr auch bei abgebrochener Auswärtstätigkeit, wenn das Geschäft aus einem Grund in der Person des Beteiligten unterbleibt. Voraussetzung bleibt, dass die Auswärtstätigkeit auf Wunsch des Beteiligten und nicht auf Vorschlag des Notars erfolgte."
  }
 ]

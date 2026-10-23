@@ -1775,5 +1775,98 @@
   "antwort": true,
   "erklaerung": "Ein Eingriff in Kernbereichsfolgen macht den Ehevertrag nicht zwingend nichtig; rechtfertigen können ihn der angestrebte und gelebte Ehetyp, besondere Verhältnisse oder Kompensationsleistungen. Bei einer Doppelverdienerehe ohne Kinderwunsch ist ein Globalverzicht nicht sittenwidrig. Nach zunehmend vertretener Meinung markiert der angemessene Ausgleich ehebedingter Nachteile die Grenze der Parteiautonomie.",
   "id": "fami1-080"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Ehevertrag: Wirksamkeitskontrolle – subjektives Moment, Einzelfälle und Rechtsfolge",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehevertrag-wirksamkeitskontrolle-subjektives-moment-einzelfalle-und-rechtsfolge",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 138 BGB"
+  ],
+  "frage": "Welcher Umstand spricht nach der Rechtsprechung regelmäßig dagegen, einen Ehevertrag subjektiv zu beanstanden?",
+  "optionen": [
+   "Der Vertrag wurde am Morgen der Hochzeit mit der schwangeren Verlobten geschlossen",
+   "Die Ehefrau ist beim Ehemann angestellt",
+   "Die Initiative zum Ehevertrag ging während bestehender Ehe vom verzichtenden Ehegatten selbst aus",
+   "Nur der begünstigte Ehegatte war anwaltlich beraten"
+  ],
+  "antwort": 2,
+  "erklaerung": "Geht die Initiative zum Ehevertrag während bestehender Ehe vom verzichtenden Ehegatten selbst aus, ist der Vertrag subjektiv regelmäßig nicht zu beanstanden (OLG Stuttgart, FamRZ 2007, 292). Die übrigen Umstände sind Indizien einer unterlegenen Verhandlungsposition: Abschluss unter Hochzeitsdruck mit einer Schwangeren (BGH FamRZ 2005, 1444), wirtschaftliche Abhängigkeit durch ein Arbeitsverhältnis (BGH FamRZ 2005, 691) und anwaltliche Beratung nur eines Ehegatten (OLG Hamm, FamRZ 2010, 1904 f.). Indizien bleiben aber widerlegbar, etwa durch Vermögen oder Qualifikation des Belasteten.",
+  "id": "fami1-081"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Ehevertrag: Wirksamkeitskontrolle – subjektives Moment, Einzelfälle und Rechtsfolge",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehevertrag-wirksamkeitskontrolle-subjektives-moment-einzelfalle-und-rechtsfolge",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 138 BGB"
+  ],
+  "frage": "Ein Ehevertrag enthält Gütertrennung und einen kompensationslosen Ausschluss des Versorgungsausgleichs gegenüber der schwangeren Ehefrau. Wie ist die Gütertrennung nach der BGH-Rechtsprechung zu beurteilen?",
+  "optionen": [
+   "Sie bleibt wirksam, weil Gütertrennung allein unbedenklich ist und das Güterrecht nicht zum Kernbereich gehört",
+   "Sie ist unwirksam, weil sich die Sittenwidrigkeit des Versorgungsausgleichsausschlusses auf den ganzen Vertrag einschließlich der Gütertrennung erstreckt",
+   "Sie bleibt wirksam, wenn der Vertrag eine salvatorische Klausel enthält",
+   "Sie bleibt wirksam, wenn sie in einer gesonderten Urkunde am selben Tag beurkundet wurde"
+  ],
+  "antwort": 1,
+  "erklaerung": "Gütertrennung allein ist unbedenklich; der BGH sah aber den Ausschluss des Versorgungsausgleichs gegenüber einer schwangeren Ehefrau als sittenwidrig an und erstreckte die Sittenwidrigkeit auf den ganzen Vertrag einschließlich der Gütertrennung (FamRZ 2008, 2011 ff.). Eine Aufteilung auf mehrere zeitlich oder sachlich eng zusammenhängende Urkunden ändert daran nichts. Salvatorische Klauseln helfen regelmäßig nicht, wenn die Sittenwidrigkeit aus der Gesamtschau folgt.",
+  "id": "fami1-082"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Ehevertrag: Wirksamkeitskontrolle – subjektives Moment, Einzelfälle und Rechtsfolge",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehevertrag-wirksamkeitskontrolle-subjektives-moment-einzelfalle-und-rechtsfolge",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 138 BGB"
+  ],
+  "frage": "Ein Verzicht auf Betreuungsunterhalt ist im Rahmen der Wirksamkeitskontrolle unbedenklich, wenn bei Vertragsschluss keine betreuungsbedürftigen Kinder zu erwarten oder gewünscht waren.",
+  "antwort": true,
+  "erklaerung": "Nach BGH FamRZ 2005, 691 ist der Verzicht auf Betreuungsunterhalt für die Wirksamkeitskontrolle unbedenklich, wenn bei Vertragsschluss keine betreuungsbedürftigen Kinder zu erwarten oder gewünscht waren; maßgeblich sind die Verhältnisse bei Vertragsschluss. Kommen später doch Kinder, ist das eine Frage der Ausübungskontrolle. Ehegatten können zudem vereinbaren, ab welchem Kindesalter der betreuende Elternteil wieder erwerbstätig sein muss (BGH FamRZ 2005, 1444; a. A. OLG Hamm).",
+  "id": "fami1-083"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Ehevertrag: Wirksamkeitskontrolle – subjektives Moment, Einzelfälle und Rechtsfolge",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehevertrag-wirksamkeitskontrolle-subjektives-moment-einzelfalle-und-rechtsfolge",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 138 BGB"
+  ],
+  "frage": "Ist ein Ehevertrag wegen Sittenwidrigkeit nichtig, bleibt er dank einer salvatorischen Klausel in seinen unbedenklichen Teilen regelmäßig wirksam.",
+  "antwort": false,
+  "erklaerung": "Hält ein Ehevertrag der Wirksamkeitskontrolle nicht stand, ist er in der Regel mit allen Bestandteilen nichtig; an die Stelle tritt das Gesetz. Salvatorische Klauseln helfen regelmäßig nicht, jedenfalls wenn die Sittenwidrigkeit aus der Gesamtschau folgt oder einzelne sittenwidrige Klauseln zwangsläufig den ganzen Vertrag erfassen (BGH FamRZ 2006, 1097). Einen problematischen Globalverzicht im Vertrauen auf eine salvatorische Klausel zu beurkunden, ist ein typischer Fehler.",
+  "id": "fami1-084"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Ehevertrag: Wirksamkeitskontrolle – subjektives Moment, Einzelfälle und Rechtsfolge",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehevertrag-wirksamkeitskontrolle-subjektives-moment-einzelfalle-und-rechtsfolge",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 138 BGB"
+  ],
+  "frage": "Wie lässt sich ein Ausschluss des Versorgungsausgleichs absichern, wenn absehbar ist, dass ein Ehegatte wegen Kinderbetreuung auf versorgungsbegründende Erwerbstätigkeit verzichtet?",
+  "optionen": [
+   "Gar nicht; der Versorgungsausgleich ist in diesem Fall stets unverzichtbar",
+   "Durch eine Kompensation, etwa einen vertraglichen Altersunterhalt, der auch nach dem Tod des Verpflichteten fortläuft",
+   "Durch die Vereinbarung von Gütertrennung als Ausgleich",
+   "Durch eine Erklärung des Verzichtenden, dass er die Tragweite verstanden hat"
+  ],
+  "antwort": 1,
+  "erklaerung": "Ein Ausschluss des Versorgungsausgleichs ohne Kompensation ist bedenklich, wenn ein Ehegatte Kinder betreut oder dies absehbar ist und dadurch Nachteile in der Altersvorsorge entstehen (OLG Köln, FamRZ 2010, 29 ff.; OLG Hamm, FamRZ 2010, 104 f.). Als Kompensation kommt ein vertraglicher Altersunterhalt in Betracht, der auch nach dem Tod des Verpflichteten fortläuft (OLG Karlsruhe, FamRZ 2010, 34 ff.). Gütertrennung kompensiert nichts, sondern verschärft die Nachteile; eine bloße Verständniserklärung beseitigt die objektive Einseitigkeit nicht.",
+  "id": "fami1-085"
  }
 ]

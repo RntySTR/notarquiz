@@ -215,5 +215,240 @@
   ],
   "antwort": 1,
   "erklaerung": "Werden Vollzugs- oder Betreuungsgebühren schon mit der Beurkundung berechnet, ist das rechtlich die Erhebung eines Vorschusses (§ 15 GNotKG) auf noch nicht fällige Gebühren; fällig wird die Betreuungsgebühr erst mit Ausübung der Tätigkeit. Bleibt die Tätigkeit etwa wegen Rücktritts aus, ist die Kostenberechnung gegebenenfalls nachträglich zu berichtigen. Vor einer Vollstreckung muss der Notar prüfen, ob die Tätigkeit tatsächlich erbracht wurde."
+ },
+ {
+  "id": "kost4-011",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: Kostenschuldner in Einzelfällen",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-kostenschuldner-in-einzelfallen",
+  "typ": "fall",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 30 Abs. 1 GNotKG",
+   "§ 22 Abs. 1 GNotKG",
+   "§ 29 Nr. 1 GNotKG",
+   "§ 448 Abs. 2 BGB"
+  ],
+  "frage": "Kaufvertrag mit Finanzierungsgrundschuld",
+  "sachverhalt": "V verkauft K ein Grundstück; nach dem Vertrag trägt K die Notarkosten. In derselben Woche beurkundet Notar N eine Finanzierungsgrundschuld zugunsten der B-Bank auf deren Formular, das die Bank mit Anschreiben übersandt hat; V wirkt bei der Bestellung mit. K zahlt die Kostenrechnung trotz Mahnung nicht.",
+  "schritte": [
+   {
+    "frage": "An wen richtet N die Kostenrechnung für den Kaufvertrag zunächst?",
+    "optionen": [
+     "An V, weil er Eigentümer ist",
+     "An K und V je zur Hälfte",
+     "An K, weil er die Kosten nach Vertrag und § 448 Abs. 2 BGB zu tragen hat",
+     "An den Makler, der die Beurkundung vermittelt hat"
+    ],
+    "antwort": 2,
+    "erklaerung": "Beide Vertragsparteien sind Kostenschuldner, die Rechnung geht aber zunächst an den Käufer, der die Kosten nach dem Vertrag und § 448 Abs. 2 BGB trägt. Eine hälftige Aufteilung sieht das Gesetz nicht vor; Gesamtschuldner haften jeweils auf das Ganze."
+   },
+   {
+    "frage": "K zahlt nicht. Wie muss N hinsichtlich der Kosten des Kaufvertrags vorgehen?",
+    "optionen": [
+     "Er muss sich an V halten, der als Urkundsbeteiligter nach § 30 Abs. 1 GNotKG haftet.",
+     "Er muss abwarten, da V nach dem Vertrag keine Kosten trägt.",
+     "Er darf V nur in Anspruch nehmen, wenn V die Kosten in der Urkunde übernommen hat.",
+     "Er muss die Kosten wegen Uneinbringlichkeit niederschlagen."
+    ],
+    "antwort": 0,
+    "erklaerung": "V hat Erklärungen abgegeben und haftet nach § 30 Abs. 1 GNotKG; die vertragliche Kostenregel wirkt nur im Innenverhältnis. Bei Zahlungsausfall des Käufers ist der Notar berechtigt und verpflichtet, sich an den Verkäufer zu halten. Eine Übernahme nach § 30 Abs. 3 GNotKG ist dafür nicht erforderlich."
+   },
+   {
+    "frage": "Wer schuldet die Notarkosten der Grundschuldbestellung?",
+    "optionen": [
+     "Allein K als Darlehensnehmer",
+     "Allein die B-Bank als Grundschuldgläubigerin",
+     "Die B-Bank als mögliche Veranlassungsschuldnerin (§ 29 Nr. 1 GNotKG) und V als Urkundsbeteiligter (§ 30 Abs. 1 GNotKG)",
+     "Niemand außer dem Grundbuchamt als Empfänger der Urkunde"
+    ],
+    "antwort": 2,
+    "erklaerung": "Übergibt die Bank ihr Formular mit Anschreiben, kann sie Veranlassungsschuldnerin nach § 29 Nr. 1 GNotKG sein. V wirkt bei der Bestellung mit, seine Erklärungen werden beurkundet, sodass er nach § 30 Abs. 1 GNotKG haftet; bei Ausfall des Käufers ist auch hier der Verkäufer heranzuziehen."
+   },
+   {
+    "frage": "Wer schuldet die Gerichtskosten des Grundbuchamts für die Eintragung der Grundschuld?",
+    "optionen": [
+     "K, weil die Grundschuldbestellung ihm die Kosten auferlegt",
+     "V allein als Antragsteller nach § 22 Abs. 1 GNotKG",
+     "K und V als Gesamtschuldner",
+     "Die B-Bank als Begünstigte"
+    ],
+    "antwort": 1,
+    "erklaerung": "Für die Eintragung der Finanzierungsgrundschuld schuldet nur der Verkäufer als Antragsteller die Gerichtskosten (§ 22 Abs. 1 GNotKG); der Käufer hat kein Antragsrecht. Eine Kostenregel in der Grundschuldbestellung wirkt nur im Innenverhältnis und ist keine Übernahmeerklärung gegenüber dem Grundbuchamt."
+   }
+  ],
+  "erklaerung": "Gegenüber dem Notar haften K und V als Urkundsbeteiligte; bei Ausfall des K muss N sich an V halten. Für die Grundschuld haften die B-Bank als Veranlasserin und V nach § 30 Abs. 1 GNotKG, für die Eintragungskosten des Grundbuchamts allein V als Antragsteller nach § 22 Abs. 1 GNotKG."
+ },
+ {
+  "id": "kost4-012",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: Kostenschuldner in Einzelfällen",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-kostenschuldner-in-einzelfallen",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 29 Nr. 1 GNotKG",
+   "§ 30 Abs. 1 GNotKG",
+   "§ 106 Abs. 7 S. 1 HGB"
+  ],
+  "frage": "Ordne dem Geschäft den (grundsätzlichen) Kostenschuldner gegenüber dem Notar zu.",
+  "paare": [
+   [
+    "Beglaubigung einer Verwalterzustimmung",
+    "Gemeinschaft der Wohnungseigentümer"
+   ],
+   [
+    "GmbH-Gründung",
+    "Alle Gründungsgesellschafter persönlich"
+   ],
+   [
+    "Handelsregisteranmeldung einer GmbH",
+    "Allein die Gesellschaft"
+   ],
+   [
+    "Handelsregisteranmeldung einer KG",
+    "Die Gesellschafter persönlich"
+   ],
+   [
+    "Treuhandauftrag einer Bank mit Löschungsunterlagen",
+    "In erster Linie die Bank als Auftraggeberin"
+   ]
+  ],
+  "erklaerung": "Bei der Verwalterzustimmung ist die Gemeinschaft Veranlasserin (§ 29 Nr. 1 GNotKG), der Verwalter handelt nur als Vertreter. Gründungsgesellschafter geben eigene Erklärungen ab und haften nach § 30 Abs. 1 GNotKG persönlich, auch wenn die Satzung die Kosten der Gesellschaft auferlegt. Bei Kapitalgesellschaften ist die Gesellschaft anmeldepflichtig, bei Personengesellschaften sind es die Gesellschafter selbst (§ 106 Abs. 7 S. 1 HGB). Für die Treuhandgebühr (KV 22201 GNotKG) haftet primär die Bank als Auftraggeberin."
+ },
+ {
+  "id": "kost4-013",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: Kostenschuldner in Einzelfällen",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-kostenschuldner-in-einzelfallen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 29 Nr. 1 GNotKG"
+  ],
+  "frage": "Der Notar fertigt im Auftrag des Verkäufers einen Kaufvertragsentwurf. Der Kaufinteressent teilt eigene Änderungswünsche mit und verlangt einen überarbeiteten Entwurf; danach scheitert das Geschäft. Wer schuldet die Entwurfsgebühr?",
+  "optionen": [
+   "Nur der Verkäufer, da der Interessent keine Erklärung abgegeben hat",
+   "Beide als Beteiligte des geplanten Geschäfts, unabhängig von ihrem Verhalten",
+   "Der Verkäufer als Auftraggeber und der Interessent, der durch sein Änderungsverlangen Veranlasser wurde",
+   "Niemand, weil die Beurkundung nicht stattgefunden hat"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Entwurfsgebühr schuldet der Auftraggeber, nicht automatisch jeder Beteiligte des geplanten Geschäfts (§ 29 Nr. 1 GNotKG). Bittet die Gegenseite nur um eine Abschrift, wird sie nicht Schuldnerin; verlangt sie aber mit eigenen Änderungswünschen einen geänderten Entwurf, wird sie Veranlasserin. Das gilt auch für Entwürfe bei vorzeitiger Beendigung des Beurkundungsverfahrens."
+ },
+ {
+  "id": "kost4-014",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: Kostenschuldner in Einzelfällen",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-kostenschuldner-in-einzelfallen",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 29 Nr. 1 GNotKG",
+   "§ 30 Abs. 1 GNotKG",
+   "§ 30 Abs. 3 GNotKG"
+  ],
+  "frage": "Dass die Kaufvertragsparteien einem anderen Notar, der lediglich die Verwalterzustimmung beglaubigt, nach § 30 Abs. 1 oder 3 GNotKG haften, ist unstreitig.",
+  "antwort": false,
+  "erklaerung": "Die Frage ist streitig: Das LG Düsseldorf verneint die Haftung, weil § 30 Abs. 1 und 3 GNotKG nur gegenüber dem Urkundsnotar wirken; das OLG Celle bejaht sie. Unstreitig ist dagegen, dass die Gemeinschaft der Wohnungseigentümer als Veranlasserin (§ 29 Nr. 1 GNotKG) Kostenschuldnerin ist."
+ },
+ {
+  "id": "kost4-015",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: Kostenschuldner – Grundsätze (§§ 29–32 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-kostenschuldner-grundsatze-29-32-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 29 Nr. 3 GNotKG"
+  ],
+  "frage": "Welcher der folgenden Fälle begründet keine Kostenschuldnerschaft nach § 29 GNotKG?",
+  "optionen": [
+   "Die Beauftragung des Notars mit der Amtshandlung",
+   "Die Übernahme der Kostenschuld gegenüber dem Notar",
+   "Die gesetzliche Kostentragungsregel des Kaufrechts zulasten des Käufers",
+   "Die gesetzliche Haftung für fremde Kosten"
+  ],
+  "antwort": 2,
+  "erklaerung": "§ 29 GNotKG kennt den Veranlassungsschuldner (Nr. 1), den Übernahmeschuldner (Nr. 2) und den, der kraft Gesetzes für fremde Kosten haftet (Nr. 3). Gesetzliche Kostentragungsregeln wie im Kaufrecht regeln nur das Innenverhältnis und fallen gerade nicht unter § 29 Nr. 3 GNotKG, obwohl sie auf den ersten Blick wie eine gesetzliche Haftung wirken."
+ },
+ {
+  "id": "kost4-016",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: Kostenschuldner – Grundsätze (§§ 29–32 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-kostenschuldner-grundsatze-29-32-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 29 GNotKG",
+   "§ 30 Abs. 1 GNotKG"
+  ],
+  "frage": "Ein Beteiligter, der vor der Beurkundung erklärt, keinerlei Kosten übernehmen zu wollen, haftet dem Notar dennoch, wenn er einen gesetzlichen Haftungstatbestand erfüllt.",
+  "antwort": true,
+  "erklaerung": "Der Kostenanspruch ist öffentlich-rechtlich; wer einen Haftungstatbestand (§§ 29, 30 GNotKG) erfüllt, schuldet die Kosten ohne besondere Erklärung. Eine gegenteilige Erklärung schließt die gesetzliche Haftung nicht aus; sogar eine geschäftsunfähige Person kann Kostenschuldnerin sein."
+ },
+ {
+  "id": "kost4-017",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: Kostenschuldner – Grundsätze (§§ 29–32 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-kostenschuldner-grundsatze-29-32-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 30 Abs. 3 GNotKG"
+  ],
+  "frage": "Im Kaufvertrag übernimmt der Käufer die Kosten. Später beglaubigt der Notar eine Vollmachtsbestätigung des vollmachtlos vertretenen Verkäufers. Wer schuldet die Beglaubigungsgebühr?",
+  "optionen": [
+   "Der Käufer nach § 30 Abs. 3 GNotKG, weil er alle Kosten des Vertrags übernommen hat",
+   "Nur der Kostenschuldner des neuen Vorgangs, also grundsätzlich der Verkäufer",
+   "Käufer und Verkäufer als Gesamtschuldner nach § 32 Abs. 1 GNotKG",
+   "Der Käufer, weil die Vollmachtsbestätigung zum Vollzug des Kaufvertrags gehört"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Haftung aus der Kostenübernahme in der Urkunde (§ 30 Abs. 3 GNotKG) erfasst nur Gebühren, die unmittelbar aus dieser Urkunde entstehen, einschließlich Vollzug und Betreuung. Die Beglaubigung einer Vollmachtsbestätigung ist ein neuer Vorgang, dessen Gebühren nur dessen Kostenschuldner trägt. Sie beim Käufer zu erheben, nennt die Seite als typischen Fehler."
+ },
+ {
+  "id": "kost4-018",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: Kostenschuldner – Grundsätze (§§ 29–32 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-kostenschuldner-grundsatze-29-32-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 32 Abs. 1 GNotKG",
+   "§ 421 BGB"
+  ],
+  "frage": "Zwei Käufer und ein Verkäufer haften für die Kosten eines Kaufvertrags. Was gilt für die Inanspruchnahme durch den Notar?",
+  "optionen": [
+   "Er kann nach seiner Wahl jeden Gesamtschuldner auf die vollen Kosten in Anspruch nehmen.",
+   "Er muss zuerst den vertraglich Kostentragungspflichtigen in Anspruch nehmen.",
+   "Er kann jeden nur anteilig nach Kopfteilen in Anspruch nehmen.",
+   "Er muss den Schuldner wählen, den die Beteiligten ihm übereinstimmend benennen."
+  ],
+  "antwort": 0,
+  "erklaerung": "Mehrere Kostenschuldner haften nach § 32 Abs. 1 GNotKG als Gesamtschuldner (§ 421 BGB); der Notar kann die Kosten nach seiner Wahl von jedem vollständig verlangen, ein bestimmter Schuldner kann ihm nicht vorgeschrieben werden. Dass die Rechnung praktisch zuerst an den vertraglich Verpflichteten geht, ist keine Rechtspflicht zur Reihenfolge."
+ },
+ {
+  "id": "kost4-019",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: Kostenschuldner – Grundsätze (§§ 29–32 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-kostenschuldner-grundsatze-29-32-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 30 Abs. 2 GNotKG"
+  ],
+  "frage": "Betreffen die Erklärungen mehrerer Beteiligter in einer Urkunde verschiedene Rechtsverhältnisse, haftet jeder Beteiligte gleichwohl für die gesamten Kosten der Urkunde.",
+  "antwort": false,
+  "erklaerung": "Nach § 30 Abs. 2 GNotKG haftet in diesem Fall jeder nur bis zu dem Betrag, der ohne die übrigen Erklärungen entstanden wäre. Die volle Gesamtschuld nach § 32 Abs. 1 GNotKG wird insoweit begrenzt."
  }
 ]
