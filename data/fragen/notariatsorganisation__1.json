@@ -12,12 +12,12 @@
   ],
   "frage": "Wie lange sind Dokumente in der elektronischen Urkundensammlung nach § 50 Abs. 1 NotAktVV aufzubewahren?",
   "optionen": [
-   "7 Jahre",
-   "30 Jahre",
+   "100 Jahre",
    "50 Jahre",
-   "100 Jahre"
+   "7 Jahre",
+   "30 Jahre"
   ],
-  "antwort": 3,
+  "antwort": 0,
   "erklaerung": "Für die elektronische Urkundensammlung gilt nach § 50 Abs. 1 NotAktVV eine Frist von 100 Jahren, ebenso für UVZ-Eintragungen, Erbvertrags- und Sondersammlung. Die 30-Jahres-Frist gilt nur für die Urkundensammlung in Papierform und das VVZ; sie auf die elektronische Sammlung zu übertragen, ist der typische Fehler."
  },
  {
@@ -65,10 +65,10 @@
   ],
   "frage": "Wann beginnt die Aufbewahrungsfrist einer Nebenakte zu laufen?",
   "optionen": [
-   "Mit dem Kalenderjahr nach der letzten Bearbeitung der Akte",
+   "Mit dem Tag der Anlage der Nebenakte",
    "Mit dem Kalenderjahr nach dem Abschluss des Amtsgeschäfts, zu dem die Akte geführt wurde",
-   "Mit dem Kalenderjahr nach der Beurkundung",
-   "Mit dem Tag der Anlage der Nebenakte"
+   "Mit dem Kalenderjahr nach der letzten Bearbeitung der Akte",
+   "Mit dem Kalenderjahr nach der Beurkundung"
   ],
   "antwort": 1,
   "erklaerung": "Nach § 50 Abs. 2 Nr. 4 NotAktVV beginnt die Frist mit dem Kalenderjahr, das auf den Abschluss des Amtsgeschäfts folgt. Die letzte Bearbeitung ist gerade nicht maßgeblich; das ist der typische Fehler. Bei Verwahrungen ist das Amtsgeschäft erst mit Vollzug und Abrechnung der Verwahrungsmasse abgeschlossen."
@@ -79,15 +79,21 @@
   "abschnitt": "Akten und Verzeichnisse",
   "seite": "Akten und Verzeichnisse: Aufbewahrungsfristen",
   "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/akten-und-verzeichnisse-aufbewahrungsfristen",
-  "typ": "rf",
+  "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
    "§ 50 Abs. 1 NotAktVV",
    "§ 50 Abs. 2 NotAktVV"
   ],
-  "frage": "Die 30-jährige Aufbewahrungsfrist des Verwahrungsverzeichnisses erstreckt sich auch auf die Nebenakte zu derselben Verwahrung.",
-  "antwort": false,
-  "erklaerung": "Die 30-Jahres-Frist nach § 50 Abs. 1 NotAktVV betrifft nur die Eintragungen im VVZ. Für die Nebenakte zur selben Verwahrung gilt die kürzere Nebenaktenfrist von 7 Jahren; beide Fristen laufen getrennt nebeneinander. Nur der Fristbeginn ist jeweils an den Abschluss der Verwahrung geknüpft."
+  "frage": "Notar N hat 2024 eine Verwahrung abgeschlossen. Welche Aufbewahrungsfristen gelten für die VVZ-Eintragungen und die Nebenakte zu dieser Verwahrung?",
+  "antwort": 2,
+  "erklaerung": "Die 30-Jahres-Frist nach § 50 Abs. 1 NotAktVV betrifft nur die Eintragungen im VVZ. Für die Nebenakte zur selben Verwahrung gilt die kürzere Nebenaktenfrist von 7 Jahren; beide Fristen laufen getrennt nebeneinander. Nur der Fristbeginn ist jeweils an den Abschluss der Verwahrung geknüpft.",
+  "optionen": [
+   "Beide 7 Jahre ab der letzten Buchung",
+   "VVZ-Eintragungen 100 Jahre, Nebenakte 30 Jahre",
+   "VVZ-Eintragungen 30 Jahre, Nebenakte 7 Jahre; beide Fristen laufen getrennt ab dem Kalenderjahr nach Abschluss der Verwahrung",
+   "Beide 30 Jahre, weil die Nebenakte der Frist des Verzeichnisses folgt"
+  ]
  },
  {
   "id": "orga1-005",
@@ -108,20 +114,20 @@
    {
     "frage": "Wann beginnt die Aufbewahrungsfrist für den Teil der Sammelakte, der die Treuhandverwahrung betrifft?",
     "optionen": [
+     "Mit dem Kalenderjahr nach dem Abschluss der beiden anderen Geschäfte",
      "Mit dem Kalenderjahr nach der Beurkundung des dritten Geschäfts",
      "Mit dem Kalenderjahr nach Übernahme der Verwahrung",
-     "Mit dem Kalenderjahr nach Abschluss der Verwahrung, also nach Vollzug und Abrechnung",
-     "Mit dem Kalenderjahr nach dem Abschluss der beiden anderen Geschäfte"
+     "Mit dem Kalenderjahr nach Abschluss der Verwahrung, also nach Vollzug und Abrechnung"
     ],
-    "antwort": 2,
+    "antwort": 3,
     "erklaerung": "Bei Verwahrungen ist das Amtsgeschäft erst mit vollständigem Vollzug und Abrechnung der Verwahrungsmasse abgeschlossen; die Frist beginnt mit dem folgenden Kalenderjahr (§ 50 Abs. 2 Nr. 4 NotAktVV). Die Beurkundung ist nicht der Abschluss des Amtsgeschäfts."
    },
    {
     "frage": "Darf N die Unterlagen zu den beiden 2022 abgeschlossenen Geschäften vor Ablauf der Frist für die Verwahrung aussondern?",
     "optionen": [
      "Nein, die gesamte Sammelakte darf bis zum Ablauf der Frist des zuletzt abgeschlossenen Amtsgeschäfts aufbewahrt bleiben",
-     "Ja, jedes Amtsgeschäft ist zwingend getrennt auszusondern",
      "Nein, Sammelakten sind stets 30 Jahre aufzubewahren",
+     "Ja, jedes Amtsgeschäft ist zwingend getrennt auszusondern",
      "Ja, aber nur nach Genehmigung der Aufsichtsbehörde"
     ],
     "antwort": 0,
@@ -130,10 +136,10 @@
    {
     "frage": "Wie lange darf N die Aufbewahrung der Nebenakte wegen des Rechtsstreits höchstens verlängern?",
     "optionen": [
-     "Auf höchstens 10 Jahre",
-     "Auf höchstens 30 Jahre, bei berechtigtem Interesse und mit Dokumentation",
      "Auf höchstens 100 Jahre wie das UVZ",
-     "Eine Verlängerung ist nicht zulässig"
+     "Auf höchstens 30 Jahre, bei berechtigtem Interesse und mit Dokumentation",
+     "Eine Verlängerung ist nicht zulässig",
+     "Auf höchstens 10 Jahre"
     ],
     "antwort": 1,
     "erklaerung": "Der Notar kann bei berechtigtem Interesse eine längere Aufbewahrungsfrist für Nebenakten bestimmen, Höchstdauer 30 Jahre; die Verlängerung ist zu dokumentieren und bindet eine nachfolgende Verwahrstelle. Die 100-Jahres-Frist gilt nur für Verzeichnisse und Sammlungen."
@@ -154,12 +160,12 @@
   ],
   "frage": "Welche vier Schutzziele muss der Notar nach § 35 Abs. 1 BNotO bei der Führung von Akten und Verzeichnissen gewährleisten?",
   "optionen": [
-   "Verfügbarkeit, Integrität, Transparenz, Vertraulichkeit",
    "Verfügbarkeit, Authentizität, Revisionssicherheit, Vertraulichkeit",
-   "Vollständigkeit, Integrität, Nachvollziehbarkeit, Datensparsamkeit",
-   "Verfügbarkeit, Integrität, Belastbarkeit, Vertraulichkeit"
+   "Verfügbarkeit, Integrität, Belastbarkeit, Vertraulichkeit",
+   "Verfügbarkeit, Integrität, Transparenz, Vertraulichkeit",
+   "Vollständigkeit, Integrität, Nachvollziehbarkeit, Datensparsamkeit"
   ],
-  "antwort": 0,
+  "antwort": 2,
   "erklaerung": "§ 35 Abs. 1 BNotO nennt Verfügbarkeit, Integrität, Transparenz und Vertraulichkeit; an diesen vier Zielen richten sich alle technischen und organisatorischen Maßnahmen aus. Begriffe wie Revisionssicherheit oder Belastbarkeit entstammen der IT-Sicherheit bzw. Art. 32 DSGVO, sind aber nicht die gesetzlichen Schutzziele des § 35 BNotO."
  },
  {
@@ -176,12 +182,12 @@
   ],
   "frage": "Worin unterscheidet sich die NotAktVV ihrer Rechtsnatur nach von der früheren DONot?",
   "optionen": [
-   "Die NotAktVV ist eine Verwaltungsvorschrift der Bundesnotarkammer, die DONot war ein Bundesgesetz",
-   "Die NotAktVV ist eine Rechtsverordnung des Bundes auf Grundlage des § 36 BNotO, die DONot war eine Verwaltungsvorschrift der Länder",
    "Beide sind Rechtsverordnungen, die NotAktVV jedoch der Länder",
-   "Die NotAktVV ist eine Satzung der Notarkammern, die DONot war eine Rechtsverordnung des Bundes"
+   "Die NotAktVV ist eine Satzung der Notarkammern, die DONot war eine Rechtsverordnung des Bundes",
+   "Die NotAktVV ist eine Verwaltungsvorschrift der Bundesnotarkammer, die DONot war ein Bundesgesetz",
+   "Die NotAktVV ist eine Rechtsverordnung des Bundes auf Grundlage des § 36 BNotO, die DONot war eine Verwaltungsvorschrift der Länder"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Die NotAktVV beruht auf der Ermächtigung in § 36 BNotO, wurde am 29. Oktober 2020 verkündet und gilt als Rechtsverordnung des Bundes bundeseinheitlich. Die DONot war dagegen eine Verwaltungsvorschrift der Länder. Gerade daraus folgt der Gewinn an einheitlichen Standards und Rechtssicherheit."
  },
  {
@@ -245,12 +251,12 @@
   ],
   "frage": "Welche Aussage zum Massenbuch nach der DONot trifft zu?",
   "optionen": [
-   "Es wies den Gesamtbestand aller Verwahrungen aus und war wöchentlich zu aktualisieren",
    "Es wies jede einzelne Verwahrungsmasse mit Eingängen, Ausgängen und Beteiligten aus; jede Buchung war noch am selben Tag einzutragen",
+   "Es verzeichnete alle Urkundsgeschäfte mit fortlaufender Nummer",
    "Es erfasste alle auf den Namen des Notars geführten Anderkonten",
-   "Es verzeichnete alle Urkundsgeschäfte mit fortlaufender Nummer"
+   "Es wies den Gesamtbestand aller Verwahrungen aus und war wöchentlich zu aktualisieren"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Das Massenbuch wies jede einzelne Verwahrungsmasse mit Ein- und Ausgängen sowie Beteiligten aus; Buchungen waren taggleich einzutragen, und eine bloße EDV-Erfassung genügte nicht. Den Gesamtbestand aller Verwahrungen wies das Verwahrungsbuch aus, die Anderkonten erfasste die Anderkontenliste, die Urkundsgeschäfte die Urkundenrolle."
  },
  {
@@ -267,10 +273,10 @@
   ],
   "frage": "Für eine am 15. Mai 2022 errichtete Urkunde gilt hinsichtlich der Urkundensammlung welche Regelung?",
   "optionen": [
-   "Die Urkunde ist in die elektronische Urkundensammlung nach NotAktVV aufzunehmen, weil die NotAktVV seit 01.01.2022 gilt",
-   "Die Verwahrung richtet sich weiter nach der DONot, weil die elektronische Urkundensammlung erst zum 01.07.2022 in Betrieb ging",
    "Der Notar hat ein Wahlrecht zwischen DONot und NotAktVV",
-   "Die Urkunde ist in der Sondersammlung nach § 50 NotAktVV zu verwahren"
+   "Die Verwahrung richtet sich weiter nach der DONot, weil die elektronische Urkundensammlung erst zum 01.07.2022 in Betrieb ging",
+   "Die Urkunde ist in der Sondersammlung nach § 50 NotAktVV zu verwahren",
+   "Die Urkunde ist in die elektronische Urkundensammlung nach NotAktVV aufzunehmen, weil die NotAktVV seit 01.01.2022 gilt"
   ],
   "antwort": 1,
   "erklaerung": "Die Inbetriebnahme der elektronischen Urkundensammlung wurde auf den 1. Juli 2022 verschoben; nach einer Anordnung der Bundesnotarkammer galten für Urkunden mit Errichtungsdatum bis 30.06.2022 die alten Regeln der DONot zur Urkundensammlung fort, einschließlich der Vermerkblätter. Dass die NotAktVV im Übrigen seit 2022 gilt, ändert daran nichts."
@@ -303,10 +309,10 @@
   ],
   "frage": "Wann ist der Notar zur Führung einer Nebenakte verpflichtet?",
   "optionen": [
-   "Zu jedem Amtsgeschäft ohne Ausnahme",
    "Nur zu Beurkundungen, nicht zu sonstigen Amtsgeschäften",
+   "Nur auf Verlangen der Aufsichtsbehörde",
    "Wenn das Amtsgeschäft eine Nebenakte erfordert; im Übrigen kann er eine Nebenakte führen",
-   "Nur auf Verlangen der Aufsichtsbehörde"
+   "Zu jedem Amtsgeschäft ohne Ausnahme"
   ],
   "antwort": 2,
   "erklaerung": "Nach § 40 Abs. 1 S. 1–2 NotAktVV kann der Notar zu jedem Amtsgeschäft eine Nebenakte führen; Pflicht ist sie, wenn das Amtsgeschäft sie erfordert. Eine ausnahmslose Pflicht für jedes Amtsgeschäft besteht nicht."
@@ -325,12 +331,12 @@
   ],
   "frage": "Unter welchen Voraussetzungen darf der Notar eine Sammelakte für mehrere Amtsgeschäfte führen, und wo liegt die Grenze?",
   "optionen": [
-   "Bei sachlichem Grund und gesicherter geordneter Aktenführung; für Verwahrungsgeschäfte ist eine Sammelakte unzulässig",
    "Nur mit Zustimmung aller Beteiligten; für Verwahrungsgeschäfte ist sie zulässig",
    "Immer, sofern dieselben Beteiligten betroffen sind; Verwahrungen sind einbezogen",
-   "Nur für Beglaubigungen; für Beurkundungen ist eine Sammelakte unzulässig"
+   "Nur für Beglaubigungen; für Beurkundungen ist eine Sammelakte unzulässig",
+   "Bei sachlichem Grund und gesicherter geordneter Aktenführung; für Verwahrungsgeschäfte ist eine Sammelakte unzulässig"
   ],
-  "antwort": 0,
+  "antwort": 3,
   "erklaerung": "§ 40 Abs. 1 S. 3 NotAktVV erlaubt die Sammelakte bei sachlichem Grund und gesicherter geordneter Aktenführung. § 41 Abs. 1 NotAktVV nimmt Verwahrungsgeschäfte aus: Jedes Verwahrungsgeschäft braucht eine eigene Nebenakte. Eine Zustimmung der Beteiligten verlangt die Verordnung nicht."
  },
  {
@@ -363,9 +369,9 @@
   "frage": "Welche Unterlage gehört typischerweise nicht in die Nebenakte?",
   "optionen": [
    "Die Urschrift der beurkundeten Urkunde",
-   "Entwürfe und Korrespondenz mit Beteiligten, Gerichten und Behörden",
    "Identifizierungsunterlagen mit Ausweiskopien",
-   "Vermerke über durchgeführte beurkundungsrechtliche Prüfungen"
+   "Vermerke über durchgeführte beurkundungsrechtliche Prüfungen",
+   "Entwürfe und Korrespondenz mit Beteiligten, Gerichten und Behörden"
   ],
   "antwort": 0,
   "erklaerung": "Die Nebenakte dokumentiert Vorbereitung, Durchführung und Abwicklung des Amtsgeschäfts (Entwürfe, Korrespondenz, Ausweiskopien, Prüfvermerke, § 40 Abs. 2 NotAktVV) und wird gerade nicht Teil der Urkundensammlung. Die Urschrift gehört in die Urkundensammlung, nicht in die Nebenakte."
@@ -384,12 +390,12 @@
   ],
   "frage": "Welche Voraussetzungen müssen zusammen erfüllt sein, damit eine elektronische Nebenakte der Papierakte rechtlich gleichwertig ist?",
   "optionen": [
-   "Strukturdatensatz für Akte und jedes Dokument, von der Bundesnotarkammer bekannt gemachte Dateiformate, jederzeitige Exportfähigkeit in das Format der elektronischen Urkundensammlung",
-   "Qualifizierte elektronische Signatur jedes Dokuments, Speicherung im Elektronischen Urkundenarchiv, jährlicher Ausdruck",
    "Strukturdatensatz nur für die Akte, beliebige Dateiformate, Export nur bei Amtswechsel",
-   "Freigabe des Kanzleisystems durch die Notarkammer, Zwei-Faktor-Zugang, Papierkopie der Stammdaten"
+   "Strukturdatensatz für Akte und jedes Dokument, von der Bundesnotarkammer bekannt gemachte Dateiformate, jederzeitige Exportfähigkeit in das Format der elektronischen Urkundensammlung",
+   "Freigabe des Kanzleisystems durch die Notarkammer, Zwei-Faktor-Zugang, Papierkopie der Stammdaten",
+   "Qualifizierte elektronische Signatur jedes Dokuments, Speicherung im Elektronischen Urkundenarchiv, jährlicher Ausdruck"
   ],
-  "antwort": 0,
+  "antwort": 1,
   "erklaerung": "§ 43 Abs. 1 NotAktVV verlangt einen Strukturdatensatz für jede elektronische Nebenakte und jedes Dokument sowie die Beachtung der von der Bundesnotarkammer festgelegten Dateiformate; § 43 Abs. 2 verlangt, dass die Akte jederzeit in das Dateiformat der elektronischen Urkundensammlung überführt werden kann. Ausdrucke sind gerade nicht mehr nötig, und der Strukturdatensatz gilt pro Dokument, nicht nur pro Akte."
  },
  {
@@ -407,11 +413,11 @@
   "frage": "Notar N führt die Nebenakte zum Kaufvertrag teils in Papier (Originalvollmachten) und teils elektronisch (Korrespondenz). Was verlangt § 44 Abs. 2 NotAktVV?",
   "optionen": [
    "Die Papierteile sind binnen eines Monats zu digitalisieren und zu vernichten",
+   "Die elektronischen Teile sind auszudrucken und zur Papierakte zu nehmen",
    "Durch geeignete Vorkehrungen sind Transparenz, Vollständigkeit und Verfügbarkeit des gesamten Akteninhalts jederzeit zu wahren, etwa durch wechselseitige Verweise",
-   "Die Mischführung ist unzulässig; N muss sich für eine Form entscheiden",
-   "Die elektronischen Teile sind auszudrucken und zur Papierakte zu nehmen"
+   "Die Mischführung ist unzulässig; N muss sich für eine Form entscheiden"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "§ 44 Abs. 2 NotAktVV erlaubt die Mischführung innerhalb einer Akte, verlangt aber Vorkehrungen, die Transparenz, Vollständigkeit und Verfügbarkeit des gesamten Inhalts sichern; beide Teile sind durch Verweise und Zuordnungen zu verbinden. Ein Verbot der Mischführung oder eine Pflicht zum Ausdruck enthält die NotAktVV nicht. § 44 Abs. 1 betrifft dagegen die Parallelführung verschiedener Akten."
  },
  {
@@ -420,14 +426,20 @@
   "abschnitt": "Akten und Verzeichnisse",
   "seite": "Nebenakten: elektronische Führung, Misch- und Parallelführung",
   "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/nebenakten-elektronische-fuhrung-misch-und-parallelfuhrung",
-  "typ": "rf",
+  "typ": "mc",
   "schwierigkeit": 3,
   "normen": [
    "§ 43 Abs. 2 NotAktVV"
   ],
-  "frage": "Bei einem Amtswechsel muss der Nachfolger das gesamte IT-System des Vorgängers übernehmen, damit die elektronischen Nebenakten verfügbar bleiben.",
-  "antwort": false,
-  "erklaerung": "Zweck des Strukturdatensatzes und der Exportpflicht nach § 43 Abs. 2 NotAktVV ist gerade, dass die Nebenakte beim Amtswechsel verfügbar ist, ohne dass das ganze IT-System übernommen werden muss. Es genügt, die strukturierten Daten und Dokumente über die vorgegebenen Export- und Importwege zu überführen; Langzeitverfügbarkeit hängt nicht vom Kanzleisystem ab."
+  "frage": "Was muss bei einem Amtswechsel geschehen, damit die elektronischen Nebenakten des Vorgängers verfügbar bleiben?",
+  "antwort": 3,
+  "erklaerung": "Zweck des Strukturdatensatzes und der Exportpflicht nach § 43 Abs. 2 NotAktVV ist gerade, dass die Nebenakte beim Amtswechsel verfügbar ist, ohne dass das ganze IT-System übernommen werden muss. Es genügt, die strukturierten Daten und Dokumente über die vorgegebenen Export- und Importwege zu überführen; Langzeitverfügbarkeit hängt nicht vom Kanzleisystem ab.",
+  "optionen": [
+   "Die Akten sind vollständig auszudrucken und in Papier zu übergeben",
+   "Die Bundesnotarkammer stellt die Akten aus dem Elektronischen Urkundenarchiv bereit",
+   "Der Nachfolger muss das gesamte IT-System des Vorgängers übernehmen",
+   "Die strukturierten Daten und Dokumente werden über die vorgegebenen Export- und Importwege überführt"
+  ]
  },
  {
   "id": "orga1-020",
@@ -442,12 +454,12 @@
   ],
   "frage": "Notar N führt die Nebenakten zu laufenden Verwahrungen in Papierform und will ab 1. April auf elektronische Führung umstellen. Was gilt?",
   "optionen": [
-   "Der Wechsel ist jederzeit zulässig, wenn er aktenkundig gemacht wird",
    "Der Wechsel ist nur zum Jahresbeginn zulässig; ein Wechsel zum 1. April bedarf der Genehmigung der Aufsichtsbehörde",
+   "Der Wechsel ist jederzeit zulässig, wenn er aktenkundig gemacht wird",
    "Der Wechsel ist unzulässig, solange noch eine Verwahrung läuft",
    "Der Wechsel ist nur mit Zustimmung aller Treugeber zulässig"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Nach § 41 Abs. 3 NotAktVV sind alle Nebenakten zu laufenden Verwahrungen einheitlich zu führen; die Form darf nur zum Jahresbeginn gewechselt werden, Abweichungen bedürfen der Genehmigung der Aufsichtsbehörde. Für vor dem Wechsel eingetragene Massen darf die bisherige Form beibehalten werden; ein völliges Verbot während laufender Verwahrungen besteht daher nicht."
  },
  {
@@ -457,18 +469,18 @@
   "seite": "Nebenakten: Verwahrungsgeschäfte",
   "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/nebenakten-verwahrungsgeschafte",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 41 Abs. 4 NotAktVV"
   ],
   "frage": "Wie sind Belege über Einnahmen und Ausgaben in der Verwahrungs-Nebenakte zu kennzeichnen?",
   "optionen": [
-   "Nur mit dem Eingangsdatum",
    "Mit der UVZ-Nummer der zugrunde liegenden Urkunde",
    "Mit Massennummer und Buchungsnummer",
+   "Nur mit dem Eingangsdatum",
    "Nur mit der Massennummer"
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "§ 41 Abs. 4 NotAktVV verlangt für Belege über Einnahmen und Ausgaben Massennummer und Buchungsnummer; Kontoauszüge erhalten nur die Massennummer. Ein Eingangsvermerk auf Kontoauszügen ist nicht mehr erforderlich. Die Kennzeichnung sichert die lückenlose Nachverfolgung der Geldflüsse und den Abgleich mit dem VVZ."
  },
  {
@@ -499,12 +511,12 @@
   ],
   "frage": "Welche Rechtsfolge hat die Übertragung der Urschrift in ein elektronisches Dokument und dessen Verwahrung in der elektronischen Urkundensammlung?",
   "optionen": [
-   "Die Papierurschrift verliert ihre Urkundsqualität und darf vernichtet werden",
-   "Die elektronische Fassung steht der Papierurschrift gleich; Ausfertigungen und Abschriften können unmittelbar aus ihr erteilt werden",
    "Die elektronische Fassung ist nur eine Sicherungskopie ohne eigene Beweiskraft",
-   "Ausfertigungen dürfen weiterhin nur von der Papierurschrift erteilt werden"
+   "Ausfertigungen dürfen weiterhin nur von der Papierurschrift erteilt werden",
+   "Die elektronische Fassung steht der Papierurschrift gleich; Ausfertigungen und Abschriften können unmittelbar aus ihr erteilt werden",
+   "Die Papierurschrift verliert ihre Urkundsqualität und darf vernichtet werden"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Nach § 45 Abs. 2 BeurkG steht die in der elektronischen Urkundensammlung verwahrte elektronische Fassung der Urschrift der Papierform gleich; Ausfertigungen und Abschriften können deshalb aus ihr erteilt werden. Die Papier-Urkundensammlung besteht gleichwohl weiter (§ 31 NotAktVV); die Urschrift wird nicht vernichtet."
  },
  {
@@ -547,14 +559,20 @@
   "abschnitt": "Akten und Verzeichnisse",
   "seite": "Urkundensammlung: elektronisch und in Papierform",
   "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundensammlung-elektronisch-und-in-papierform",
-  "typ": "rf",
+  "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
    "§ 31 NotAktVV"
   ],
-  "frage": "Bei Amtsende darf der Notar einzelne Urkunden der Papier-Urkundensammlung gesondert an die Verwahrstelle abgeben, solange der Jahrgang insgesamt vollständig bleibt.",
-  "antwort": false,
-  "erklaerung": "Die Abgabe der Urkundensammlung an die zuständige Verwahrstelle bei Amtsende oder Amtssitzverlegung erfolgt jahrgangsweise. Einzelabgaben würden die fortlaufende Sammlung zerreißen und sind deshalb nicht vorgesehen; die jahrgangsweise, fortlaufende und prüffähige Ordnung (§ 31 NotAktVV) ist beizubehalten."
+  "frage": "Notar N scheidet aus dem Amt. Wie ist die Urkundensammlung in Papierform abzugeben?",
+  "antwort": 3,
+  "erklaerung": "Die Abgabe der Urkundensammlung an die zuständige Verwahrstelle bei Amtsende oder Amtssitzverlegung erfolgt jahrgangsweise. Einzelabgaben würden die fortlaufende Sammlung zerreißen und sind deshalb nicht vorgesehen; die jahrgangsweise, fortlaufende und prüffähige Ordnung (§ 31 NotAktVV) ist beizubehalten.",
+  "optionen": [
+   "Gar nicht; sie wird nach Digitalisierung vernichtet",
+   "Urkundenweise auf Anforderung der Beteiligten",
+   "Vollständig an die Bundesnotarkammer",
+   "Jahrgangsweise an die zuständige Verwahrstelle oder die von der Landesjustizverwaltung bestimmte Stelle"
+  ]
  },
  {
   "id": "orga1-026",
@@ -570,12 +588,12 @@
   ],
   "frage": "Zu einem Kaufvertrag gehört ein gebundener Lageplan im Format DIN A1 als Anlage. Wie ist er zu verwahren?",
   "optionen": [
-   "Teilweise scannen, soweit der Scanner es zulässt, und den Rest in die Papier-Urkundensammlung nehmen",
    "Ausschließlich in der Sondersammlung; zusätzlich darf eine Abschrift mit Vermerk nach § 37 Abs. 2 NotAktVV in beide Urkundensammlungen aufgenommen werden",
    "Nur in der Papier-Urkundensammlung ohne elektronischen Hinweis",
+   "Teilweise scannen, soweit der Scanner es zulässt, und den Rest in die Papier-Urkundensammlung nehmen",
    "Durch Fotografie in die elektronische Urkundensammlung, die Papierfassung wird vernichtet"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Ist die elektronische Übertragung unzumutbar, etwa wegen Bindung oder eines Formats über DIN A3, wird die Papierurkunde ausschließlich in der Sondersammlung verwahrt (§ 37 NotAktVV). Eine nur teilweise elektronische Fassung ist unzulässig; das ist der typische Fehler. Zulässig ist allein die zusätzliche Abschrift mit Vermerk, der erklärt, warum die Übertragung nach § 56 Abs. 1 BeurkG unterblieb."
  },
  {
@@ -593,12 +611,12 @@
   ],
   "frage": "Welches Dokument ist vom Kongruenzgrundsatz zwischen Papier-Urkundensammlung und elektronischer Urkundensammlung ausgenommen?",
   "optionen": [
-   "Der Vertretungsnachweis nach § 12 BeurkG",
    "Die Anlage nach § 44 S. 2 BeurkG",
    "Die beglaubigte Abschrift einer in amtliche Verwahrung gegebenen letztwilligen Verfügung",
+   "Der Vertretungsnachweis nach § 12 BeurkG",
    "Die ZTR-Registrierungsbestätigung"
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "Ausgenommen vom Gleichlauf sind nur die beglaubigte Abschrift einer in amtliche Verwahrung gegebenen letztwilligen Verfügung (§ 31 Abs. 1 Nr. 1a NotAktVV) und die Ausfertigung, die an die Stelle einer herausgegebenen oder zerstörten Urschrift tritt (§ 31 Abs. 5 NotAktVV). Vertretungsnachweise, Anlagen und die ZTR-Bestätigung gehören dagegen auch in die elektronische Sammlung; Vertretungsnachweise nur zur Papierurschrift zu nehmen, ist der typische Fehler."
  },
  {
@@ -630,12 +648,12 @@
   ],
   "frage": "Die Urschrift ist bereits eingescannt. Nun ist ein Vermerk anzubringen, der auf die Urschrift gehört. Wie ist vorzugehen?",
   "optionen": [
-   "Der Vermerk wird auf ein gesondertes Blatt gesetzt, mit der Urkunde verbunden und auch elektronisch verwahrt",
-   "Der Vermerk wird nur handschriftlich auf der Papierurschrift angebracht; ein erneuter Scan ist unzulässig",
    "Der Vermerk wird ausschließlich elektronisch als Kommentar in der Urkundensammlung hinterlegt",
+   "Der Vermerk wird nur handschriftlich auf der Papierurschrift angebracht; ein erneuter Scan ist unzulässig",
+   "Der Vermerk wird auf ein gesondertes Blatt gesetzt, mit der Urkunde verbunden und auch elektronisch verwahrt",
    "Die Urschrift wird gelöscht und mit Vermerk vollständig neu gescannt"
   ],
-  "antwort": 0,
+  "antwort": 2,
   "erklaerung": "Ist die Urschrift bereits eingescannt, wird der Vermerk auf ein gesondertes Blatt gesetzt und mit der Urkunde verbunden; Vermerke und Nachtragsvermerke (§ 44a Abs. 2 BeurkG) werden stets auch elektronisch verwahrt, in der Regel als elektronische Fassung, entweder mit der Urkunde gescannt oder als „Sonstiges Dokument“ zugeordnet. Ein rein handschriftlicher oder rein elektronischer Vermerk verletzt den Kongruenzgrundsatz."
  },
  {
@@ -652,11 +670,11 @@
   "frage": "Innerhalb welcher Höchstfrist ist eine Beurkundung in das Urkundenverzeichnis einzutragen?",
   "optionen": [
    "Noch am Tag der Beurkundung",
+   "Spätestens einen Monat nach der Beurkundung",
    "Spätestens 7 Tage nach der Beurkundung",
-   "Spätestens 14 Tage nach der Beurkundung",
-   "Spätestens einen Monat nach der Beurkundung"
+   "Spätestens 14 Tage nach der Beurkundung"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "§ 18 S. 1 NotAktVV verlangt die Eintragung zeitnah, spätestens 14 Tage nach der Beurkundung oder sonstigen Amtshandlung. Die taggleiche Eintragung galt nach der DONot für Buchungen im Massenbuch, nicht für das UVZ; die 14 Tage sind zudem eine Höchstfrist, die nicht ausgeschöpft werden soll."
  },
  {
@@ -666,18 +684,18 @@
   "seite": "Urkundenverzeichnis (UVZ)",
   "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundenverzeichnis-uvz",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "NotAktVV"
   ],
   "frage": "Welche Beteiligtenangabe ist im UVZ zwingend zu erfassen?",
   "optionen": [
-   "Die steuerliche Identifikationsnummer",
    "Das Geburtsdatum",
-   "Die Anschrift",
-   "Die Staatsangehörigkeit"
+   "Die steuerliche Identifikationsnummer",
+   "Die Staatsangehörigkeit",
+   "Die Anschrift"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Das Geburtsdatum der Beteiligten ist im UVZ zwingend zu erfassen; damit verlangt das UVZ mehr als die frühere Urkundenrolle. Anschrift und steuerliche Identifikationsnummer können zusätzlich aufgenommen werden, wenn dies Identifizierung und Auswertung erleichtert, sind aber keine Pflichtangaben."
  },
  {
@@ -765,11 +783,11 @@
   "frage": "Ein notariell verwahrter Erbvertrag wird den Vertragsschließenden aus der Verwahrung zurückgegeben. Welche Folgen hat das für Urkundensammlung und UVZ?",
   "optionen": [
    "Die elektronische Abschrift bleibt in der elektronischen Urkundensammlung; im UVZ wird nichts vermerkt",
+   "Die elektronische Abschrift wird in die Erbvertragssammlung verschoben",
    "Die elektronische Abschrift wird gelöscht, ein Vermerk wird in die elektronische Urkundensammlung eingestellt und die Rückgabe im Bemerkungsfeld des UVZ vermerkt",
-   "Die UVZ-Eintragung wird gelöscht und die Papierurkunde in der Sondersammlung verwahrt",
-   "Die elektronische Abschrift wird in die Erbvertragssammlung verschoben"
+   "Die UVZ-Eintragung wird gelöscht und die Papierurkunde in der Sondersammlung verwahrt"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Bei Rückgabe aus der notariellen Verwahrung ist die elektronische Abschrift nach § 38 NotAktVV zu löschen; an ihre Stelle tritt ein Vermerk in der elektronischen Urkundensammlung (§§ 38, 33 NotAktVV). Die Rückgabe ist als späteres Ereignis im Bemerkungsfeld zu vermerken (§ 16 Abs. 3 NotAktVV). Die UVZ-Eintragung selbst bleibt bestehen."
  },
  {
@@ -800,12 +818,12 @@
   ],
   "frage": "A und B gründen vor Notar N die X-GmbH. Wie sind die Beteiligten im UVZ zu erfassen?",
   "optionen": [
-   "Nur A und B als Beteiligte; die GmbH in Gründung wird nicht eingetragen, weil sie keine Erklärung abgibt",
    "A und B als Vertreter der GmbH in Gründung, die als vertretene Gesellschaft eingetragen wird",
-   "Die GmbH in Gründung ohne Zusatz als vertretene Person sowie A und B als Beteiligte ohne Kennzeichnung als Vertreter",
-   "Nur die GmbH in Gründung; die Gründer werden im Bemerkungsfeld genannt"
+   "Nur die GmbH in Gründung; die Gründer werden im Bemerkungsfeld genannt",
+   "Nur A und B als Beteiligte; die GmbH in Gründung wird nicht eingetragen, weil sie keine Erklärung abgibt",
+   "Die GmbH in Gründung ohne Zusatz als vertretene Person sowie A und B als Beteiligte ohne Kennzeichnung als Vertreter"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Nach § 12 Abs. 5 NotAktVV ist in gesellschaftsrechtlichen Angelegenheiten die Gesellschaft auch dann einzutragen, wenn sie nicht Beteiligte ist; bei der Gründung also die Vorgesellschaft, ohne Zusatz als vertretene Person. Die Gründer werden als Beteiligte ohne Vertreterkennzeichnung erfasst. Beide naheliegenden Fehler – Vorgesellschaft weglassen oder Gründer als ihre Vertreter kennzeichnen – nennt die Seite ausdrücklich."
  },
  {
@@ -865,8 +883,8 @@
   "frage": "Zu einem im UVZ eingetragenen Kaufvertrag wird eine Identitätserklärung beurkundet. Wie ist sie im UVZ zu erfassen?",
   "optionen": [
    "Urkundenart „(Sonstige) Beurkundungen und Beschlüsse“, Hinweis „Nachtrag zu UR …“ im Bemerkungsfeld und Verknüpfung mit dem Kaufvertrag im Reiter „Verbindungen“",
-   "Hinweis „Nachtrag zu UR …“ im Zusatz zum Geschäftsgegenstand, keine Verbindung",
    "Keine eigene Eintragung; Vermerk in der Eintragung des Kaufvertrags",
+   "Hinweis „Nachtrag zu UR …“ im Zusatz zum Geschäftsgegenstand, keine Verbindung",
    "Urkundenart „Vermerkurkunde“ mit Freitext unter „Sonstiges“"
   ],
   "antwort": 0,
@@ -917,10 +935,10 @@
   ],
   "frage": "Notar N beglaubigt eine Unterschrift unter einem im Vollzug gefertigten Entwurf und erfasst und verwahrt die Urkunde im UVZ. Welche Gebühr des Urkundenarchivs fällt an?",
   "optionen": [
-   "Keine, weil es sich um eine Unterschriftsbeglaubigung handelt",
+   "Eine Gebühr nur, wenn die Urkunde im Videoverfahren errichtet wird",
    "4,50 € nach § 2 Abs. 2 S. 2 UA-GebS",
    "Die volle Archivgebühr wie bei einer Beurkundung",
-   "Eine Gebühr nur, wenn die Urkunde im Videoverfahren errichtet wird"
+   "Keine, weil es sich um eine Unterschriftsbeglaubigung handelt"
   ],
   "antwort": 1,
   "erklaerung": "Für die Unterschriftsbeglaubigung unter einem im Vollzug gefertigten Entwurf (Beglaubigung ohne Entwurf), die im UVZ erfasst und verwahrt wird, sieht § 2 Abs. 2 S. 2 UA-GebS eine Gebühr von 4,50 € vor. Gebührenfreiheit besteht also nicht schon deshalb, weil nur beglaubigt wird."
@@ -931,14 +949,20 @@
   "abschnitt": "Akten und Verzeichnisse",
   "seite": "Urkundenverzeichnis: Erfassung von Geschäftsgegenstand, Urkundenart und Nachträgen",
   "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundenverzeichnis-erfassung-von-geschaftsgegenstand-urkundenart-und-nachtragen",
-  "typ": "rf",
+  "typ": "mc",
   "schwierigkeit": 1,
   "normen": [
    "NotAktVV"
   ],
-  "frage": "Bei einer Handelsregisteranmeldung muss im Zusatz zum Geschäftsgegenstand zwingend angegeben werden, ob es sich um eine Neuanmeldung, Satzungsänderung oder einen Geschäftsführerwechsel handelt.",
-  "antwort": false,
-  "erklaerung": "Registeranmeldungen werden als Handelsregister- oder Vereinsregisteranmeldung eingetragen; eine nähere Bezeichnung im Zusatz ist nicht zwingend. Ein freier Zusatz ist nur aufzunehmen, wenn er nötig ist, etwa bei einer Urkunde, die mehrere Geschäfte verbindet."
+  "frage": "Wie ist eine Handelsregisteranmeldung über einen Geschäftsführerwechsel im UVZ zu erfassen?",
+  "antwort": 2,
+  "erklaerung": "Registeranmeldungen werden als Handelsregister- oder Vereinsregisteranmeldung eingetragen; eine nähere Bezeichnung im Zusatz ist nicht zwingend. Ein freier Zusatz ist nur aufzunehmen, wenn er nötig ist, etwa bei einer Urkunde, die mehrere Geschäfte verbindet.",
+  "optionen": [
+   "Als „Handelsregisteranmeldung“ mit zwingendem Zusatz „Geschäftsführerwechsel“",
+   "Unter „Sonstiges“ mit Freitext „Geschäftsführerwechsel“",
+   "Als „Handelsregisteranmeldung“; eine nähere Bezeichnung im Zusatz ist nicht zwingend",
+   "Als „Gesellschafterbeschluss“, weil der Wechsel auf einem Beschluss beruht"
+  ]
  },
  {
   "id": "orga1-044",
@@ -947,18 +971,18 @@
   "seite": "Urkundenverzeichnis: Jahresexport und Archivierung (§ 19 NotAktVV)",
   "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundenverzeichnis-jahresexport-und-archivierung-19-notaktvv",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 19 Abs. 2 S. 2 NotAktVV"
   ],
   "frage": "Wo ist der signierte Jahresexport des Urkundenverzeichnisses abzulegen, seit die Bundesnotarkammer hierfür eine besondere Funktion anbietet?",
   "optionen": [
    "Lokal auf einem gesicherten Datenträger in der Geschäftsstelle",
+   "Bei der Aufsichtsbehörde (Landgerichtspräsident)",
    "Als Ausdruck in den Generalakten",
-   "Im Elektronischen Urkundenarchiv",
-   "Bei der Aufsichtsbehörde (Landgerichtspräsident)"
+   "Im Elektronischen Urkundenarchiv"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "§ 19 Abs. 2 S. 2 NotAktVV verlangt die Speicherung im Elektronischen Urkundenarchiv, wenn die Bundesnotarkammer eine besondere Funktion vorsieht; diese Funktion besteht inzwischen. Eine bloß lokale Speicherung genügt daher für den UVZ-Export nicht mehr. Lokal gespeichert wird bis auf Weiteres nur der Jahresexport des Verwahrungsverzeichnisses (§ 29 Abs. 1 NotAktVV)."
  },
  {
@@ -989,12 +1013,12 @@
   ],
   "frage": "Wann sind Einnahmen und Ausgaben in das Verwahrungsverzeichnis einzutragen?",
   "optionen": [
-   "Noch am selben Tag, an dem der Wert eingeht",
    "Unverzüglich, regelmäßig ab Zugang des Kontoauszugs; nach h. M. innerhalb von 14 Tagen, sofern keine technischen Hindernisse bestehen",
-   "Gesammelt zum Monatsende",
-   "Spätestens mit Abschluss der Verwahrungsmasse"
+   "Spätestens mit Abschluss der Verwahrungsmasse",
+   "Noch am selben Tag, an dem der Wert eingeht",
+   "Gesammelt zum Monatsende"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "§ 25 Abs. 2 NotAktVV verlangt die unverzügliche Eintragung; maßgeblich ist regelmäßig der Zugang des Kontoauszugs oder einer gleichwertigen elektronischen Mitteilung, nach h. M. ist ein Zeitraum von 14 Tagen einzuhalten. Die taggleiche Buchung war Vorgabe der DONot für das Massenbuch und ist nicht der heutige Maßstab; Sammelbuchungen widersprechen dem Unverzüglichkeitsgebot."
  },
  {
@@ -1010,12 +1034,12 @@
   ],
   "frage": "In welchem Fall bedarf eine Änderung einer bestehenden VVZ-Eintragung keiner persönlichen Bestätigung durch den Notar nach § 30 NotAktVV?",
   "optionen": [
-   "Bei der Korrektur eines falsch erfassten Buchungsbetrags durch die Mitarbeiterin",
-   "Bei der nachträglichen Änderung der Beteiligtenrolle",
+   "Bei der Änderung des Annahmedatums der Verwahrungsanweisung",
    "Bei der bloßen Ergänzung eines Verweises auf eine andere Einnahme oder Ausgabe",
-   "Bei der Änderung des Annahmedatums der Verwahrungsanweisung"
+   "Bei der nachträglichen Änderung der Beteiligtenrolle",
+   "Bei der Korrektur eines falsch erfassten Buchungsbetrags durch die Mitarbeiterin"
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "§ 30 NotAktVV verlangt für Änderungen und Zusätze zu bestehenden Eintragungen die persönliche Bestätigung des Notars mit dauerhafter Dokumentation von Inhalt und Datum. Ausgenommen sind nur die Löschung nach Fristablauf, die bloße Ergänzung eines Verweises auf eine andere Einnahme oder Ausgabe und Änderungen, bei denen das VVZ selbst erkennen lässt, wer wann was geändert hat. Eine Betragskorrektur ist eine inhaltliche Änderung und bestätigungspflichtig."
  },
  {
@@ -1051,34 +1075,34 @@
    {
     "frage": "Ab wann ist die Verwahrungsmasse in das VVZ einzutragen?",
     "optionen": [
-     "Mit Beurkundung des Kaufvertrags",
-     "Sobald dem Notar Werte zugeflossen sind",
+     "Erst nach Fälligkeitsmitteilung",
      "Mit Abschluss der Verwahrung",
-     "Erst nach Fälligkeitsmitteilung"
+     "Sobald dem Notar Werte zugeflossen sind",
+     "Mit Beurkundung des Kaufvertrags"
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Eine Verwahrungsmasse ist in das VVZ einzutragen, sobald dem Notar Werte zugeflossen sind. Zur Eintragung gehört auch der Tag der Annahme der Verwahrungsanweisung (hier 3. März)."
    },
    {
     "frage": "Wie ist die Masse im VVZ zu kennzeichnen?",
     "optionen": [
-     "Mit Massennummer aus Kalenderjahr und laufender Nummer sowie Verweis auf UR 412/2026",
-     "Nur mit der UVZ-Nummer 412/2026",
+     "Mit einem frei gewählten Aktenzeichen ohne UVZ-Bezug",
      "Mit der IBAN des Anderkontos als Kennzeichen",
-     "Mit einem frei gewählten Aktenzeichen ohne UVZ-Bezug"
+     "Nur mit der UVZ-Nummer 412/2026",
+     "Mit Massennummer aus Kalenderjahr und laufender Nummer sowie Verweis auf UR 412/2026"
     ],
-    "antwort": 0,
+    "antwort": 3,
     "erklaerung": "Jede Masse erhält eine Massennummer aus Kalenderjahr und laufender Nummer; steht die Verwahrung im Zusammenhang mit einem Urkundsgeschäft, verweist die Eintragung auf die UVZ-Nummer. Nur ohne Urkundsbezug erhält sie ein sonstiges eindeutiges Zeichen."
    },
    {
     "frage": "Wie ist der Zahlendreher zu berichtigen?",
     "optionen": [
-     "Die Mitarbeiterin korrigiert den Betrag; eine Bestätigung ist entbehrlich",
-     "Die Buchung wird gelöscht und neu erfasst, ohne Dokumentation",
      "Die Änderung ist vom Notar persönlich zu bestätigen; Inhalt und Datum sind dauerhaft zu dokumentieren",
-     "Die Berichtigung erfolgt erst mit dem Jahresexport"
+     "Die Berichtigung erfolgt erst mit dem Jahresexport",
+     "Die Mitarbeiterin korrigiert den Betrag; eine Bestätigung ist entbehrlich",
+     "Die Buchung wird gelöscht und neu erfasst, ohne Dokumentation"
     ],
-    "antwort": 2,
+    "antwort": 0,
     "erklaerung": "Änderungen an bestehenden VVZ-Eintragungen muss der Notar nach § 30 NotAktVV persönlich bestätigen; Inhalt und Datum sind dauerhaft zu dokumentieren. Eine Betragskorrektur fällt unter keine der Ausnahmen."
    }
   ],
@@ -1098,12 +1122,12 @@
   ],
   "frage": "Eltern übertragen ihrem Sohn ein Hausgrundstück gegen Einräumung eines Wohnungsrechts und Pflegeverpflichtung; der Vertrag ist als entgeltlich bezeichnet. Muss der Notar eine Schenkungsteueranzeige erstatten?",
   "optionen": [
-   "Nein, weil der Vertrag eine Gegenleistung vorsieht",
    "Nur, wenn der Notar nach eigener Bewertung eine Steuer für wahrscheinlich hält",
    "Ja, weil vorbehaltene Nutzungsrechte und Pflegeleistungen auf eine freigebige Zuwendung hindeuten können; die Bewertung trifft das Finanzamt",
+   "Nein, weil der Vertrag eine Gegenleistung vorsieht",
    "Nein, Übergabeverträge sind ausschließlich nach § 18 GrEStG anzuzeigen"
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "Nach § 34 Abs. 1 ErbStG genügt, dass der Vorgang für die Steuer erheblich sein kann; formal entgeltliche Geschäfte mit Wohnungsrecht, Pflegeleistungen oder niedriger Gegenleistung sind nach § 8 Abs. 2 ErbStDV anzuzeigen. Der Notar nimmt keine eigene steuerliche Einordnung vor; ob und in welcher Höhe Steuer entsteht, prüft das Finanzamt. Die Grunderwerbsteueranzeige tritt daneben, nicht an die Stelle."
  },
  {
@@ -1137,11 +1161,11 @@
   "frage": "In welcher Form ist die Schenkungsteueranzeige des Notars (bis zur Umstellung auf das elektronische Verfahren) zu erstatten?",
   "optionen": [
    "Formlos per E-Mail, da auch Bürger formlos anzeigen dürfen",
-   "Schriftlich und unverzüglich auf dem amtlichen Vordruck (Muster 6 ErbStDV) mit beglaubigter Abschrift und Absendevermerk auf der Urschrift oder der zurückbehaltenen Abschrift",
    "Binnen zwei Wochen mit einfacher Abschrift und Vermerk im UVZ",
+   "Schriftlich und unverzüglich auf dem amtlichen Vordruck (Muster 6 ErbStDV) mit beglaubigter Abschrift und Absendevermerk auf der Urschrift oder der zurückbehaltenen Abschrift",
    "Binnen eines Monats durch die Beteiligten selbst"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Die Anzeige ist schriftlich und unverzüglich zu erstatten, mit beglaubigter Abschrift und Absendevermerk auf der Urschrift oder zurückbehaltenen Abschrift (§ 34 ErbStG, §§ 7, 8 ErbStDV); für Schenkungen gilt Muster 6, für Erbfälle Muster 5. Die formlose Anzeige steht nur Bürgern offen, nicht dem Notar als Amtsträger. Zwei-Wochen-Frist und UVZ-Vermerk sind Regeln der Grunderwerbsteueranzeige."
  },
  {
@@ -1175,11 +1199,11 @@
   "frage": "In welcher Form erstatten Notare die Grunderwerbsteueranzeige seit dem 1. Oktober 2026?",
   "optionen": [
    "Auf amtlich vorgeschriebenem Vordruck per Post",
-   "Elektronisch nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle",
+   "Wahlweise auf Vordruck oder elektronisch",
    "Per beA-Nachricht mit beglaubigter Abschrift als PDF",
-   "Wahlweise auf Vordruck oder elektronisch"
+   "Elektronisch nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Seit 01.10.2026 erstatten Notare die Anzeige elektronisch nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle (§ 18 Abs. 1 S. 2 i. V. m. § 22a GrEStG, § 93c AO). Der Vordruck ist nur noch für Gerichte und Behörden vorgesehen (§ 18 Abs. 1 S. 1 GrEStG). Ein Wahlrecht oder eine Papier-Ersatzeinreichung besteht nicht."
  },
  {
@@ -1189,7 +1213,7 @@
   "seite": "Anzeigepflichten: Grunderwerbsteuer (§ 18 GrEStG)",
   "quelle": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-grunderwerbsteuer-18-grestg",
   "typ": "rf",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 18 GrEStG",
    "§ 3 GrEStG"
@@ -1217,45 +1241,45 @@
    {
     "frage": "Wann ist die Anzeige nach § 18 GrEStG zu erstatten?",
     "optionen": [
-     "Erst nach Erteilung der Genehmigung",
      "Binnen zwei Wochen nach der Beurkundung, ungeachtet der ausstehenden Genehmigung",
+     "Erst nach Erteilung der Genehmigung",
      "Binnen eines Monats nach Kenntnis",
      "Erst mit dem Antrag auf Eigentumsumschreibung"
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "Die Anzeigepflicht entsteht mit der Beurkundung, auch bei ausstehenden Genehmigungen oder Bedingungen; die Frist beträgt zwei Wochen (§ 18 Abs. 3 GrEStG). Die Monatsfrist gilt für die Beteiligten nach § 19 Abs. 3 GrEStG."
    },
    {
     "frage": "Darf N dem K die Ausfertigung sofort aushändigen?",
     "optionen": [
      "Ja, Ausfertigungen sind von der Anzeige unabhängig",
-     "Ja, sofern K schriftlich zusagt, selbst anzuzeigen",
      "Nein, erst nach Absendung der vollständigen Anzeige; die Absendung ist im UVZ zu vermerken",
+     "Ja, sofern K schriftlich zusagt, selbst anzuzeigen",
      "Nein, erst nach Vorlage der Unbedenklichkeitsbescheinigung"
     ],
-    "antwort": 2,
+    "antwort": 1,
     "erklaerung": "Ausfertigungen und beglaubigte Abschriften dürfen erst nach Absendung der vollständigen Anzeige ausgehändigt werden; die Absendung wird im UVZ vermerkt (§ 18 Abs. 4 S. 2 GrEStG i. V. m. § 17 Abs. 2 NotAktVV). Die Unbedenklichkeitsbescheinigung betrifft erst den Grundbuchvollzug."
    },
    {
     "frage": "Wie reagiert N auf den ELSTER-Ausfall?",
     "optionen": [
-     "Er reicht die Anzeige ersatzweise auf Papier ein",
-     "Er beantragt in diesem begründeten Ausnahmefall eine Verlängerung der Zwei-Wochen-Frist",
      "Die Frist ist während der Störung automatisch gehemmt",
-     "Er überlässt die Anzeige den Beteiligten"
+     "Er überlässt die Anzeige den Beteiligten",
+     "Er beantragt in diesem begründeten Ausnahmefall eine Verlängerung der Zwei-Wochen-Frist",
+     "Er reicht die Anzeige ersatzweise auf Papier ein"
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Seit 01.10.2026 kann die Frist in begründeten Ausnahmefällen verlängert werden (§ 18 Abs. 3 S. 3 GrEStG); eine Ersatzeinreichung auf Papier ist nicht vorgesehen. Eine automatische Hemmung gibt es nicht, und die Pflicht ist nicht auf die Beteiligten übertragbar."
    },
    {
     "frage": "Was gilt für die spätere Vertragsaufhebung?",
     "optionen": [
      "Sie ist nicht anzuzeigen, da kein Erwerb stattfindet",
-     "Sie ist als Änderung des angezeigten Vorgangs in derselben Form nachzumelden",
+     "Sie ist nur anzuzeigen, wenn Steuer bereits festgesetzt war",
      "Sie ist nur dem Grundbuchamt mitzuteilen",
-     "Sie ist nur anzuzeigen, wenn Steuer bereits festgesetzt war"
+     "Sie ist als Änderung des angezeigten Vorgangs in derselben Form nachzumelden"
     ],
-    "antwort": 1,
+    "antwort": 3,
     "erklaerung": "Als Änderung gilt auch die Aufhebung des Vertrags und der Rücktritt; Änderungen sind in derselben Form nachzumelden."
    }
   ],
@@ -1276,12 +1300,12 @@
   ],
   "frage": "Wie ist die Absendung der Grunderwerbsteueranzeige seit dem 01.10.2026 nachzuweisen?",
   "optionen": [
-   "Durch Vermerk der Absendung samt beglaubigter Abschrift auf der Urschrift",
-   "Durch Ablage des Sendeprotokolls in der Nebenakte",
    "Durch Vermerk als sonstige Angabe zur UVZ-Eintragung unter „Anzeigen / Registrierungen“",
+   "Durch Ablage des Sendeprotokolls in der Nebenakte",
+   "Durch Vermerk der Absendung samt beglaubigter Abschrift auf der Urschrift",
    "Durch Vermerk im Verwahrungsverzeichnis"
   ],
-  "antwort": 2,
+  "antwort": 0,
   "erklaerung": "Der Absendevermerk ist seit 01.10.2026 eine sonstige Angabe zur UVZ-Eintragung (§ 18 Abs. 4 S. 2 GrEStG i. V. m. § 17 Abs. 2, § 9 Nr. 8 NotAktVV), erfasst unter „Anzeigen / Registrierungen“. Der frühere Vermerk auf der Urschrift entfällt und genügt nicht mehr – das ist die naheliegende, aber überholte Praxis."
  },
  {
@@ -1299,12 +1323,12 @@
   ],
   "frage": "Welches Finanzamt verwaltet in Baden-Württemberg die Grunderwerbsteuer bei der Übertragung von Anteilen an einer grundbesitzenden Personengesellschaft nach § 1 Abs. 2a GrEStG?",
   "optionen": [
-   "Das Lagefinanzamt des wertvollsten Grundstücks",
-   "Das Finanzamt am Sitz des beurkundenden Notars",
+   "Das Wohnsitzfinanzamt des Erwerbers",
    "Das Finanzamt Schwetzingen als Landeszentralstelle für gesellschaftsrechtliche Grunderwerbsteuerfälle (LZgG)",
-   "Das Wohnsitzfinanzamt des Erwerbers"
+   "Das Finanzamt am Sitz des beurkundenden Notars",
+   "Das Lagefinanzamt des wertvollsten Grundstücks"
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "Nach § 1 Nr. 15a FAZuVO verwaltet das Finanzamt Schwetzingen für ganz Baden-Württemberg die Grunderwerbsteuer bei Umwandlungen und Anwachsungen nach § 1 Abs. 1 Nr. 3 GrEStG sowie bei Vorgängen nach § 1 Abs. 2a bis 3a GrEStG. Die Lagefinanzämter bleiben für den gewöhnlichen Grundstückskauf zuständig."
  },
  {
@@ -1366,11 +1390,11 @@
   "frage": "Notar N beurkundet die Abtretung von 95 % der Geschäftsanteile an einer GmbH. Was muss er vorab und bei der Anzeige beachten?",
   "optionen": [
    "Er muss nur anzeigen, wenn die Beteiligten Grundbesitz der GmbH angeben",
-   "Er muss erkunden, ob die GmbH inländischen Grundbesitz hat, und der Anzeige eine Beteiligungsübersicht beifügen",
    "Er muss eine Unbedenklichkeitsbescheinigung einholen, bevor er die Abtretung beim Handelsregister einreicht",
+   "Er muss erkunden, ob die GmbH inländischen Grundbesitz hat, und der Anzeige eine Beteiligungsübersicht beifügen",
    "Geschäftsanteilsabtretungen sind nicht nach § 18 GrEStG anzeigepflichtig"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Bei gesellschaftsrechtlichen Vorgängen besteht eine Erkundungspflicht, ob die Gesellschaft inländischen Grundbesitz hat. Anteilsübertragungen nach § 1 Abs. 2a bis 3a GrEStG sind nach § 18 Abs. 2 S. 2 GrEStG anzuzeigen, und bei Anzeigen über Gesellschaftsanteile ist eine Beteiligungsübersicht beizufügen (§ 20 Abs. 2 Nr. 3 GrEStG). Eine Unbedenklichkeitsbescheinigung ist bei Share-Deals nicht nötig."
  },
  {
@@ -1389,11 +1413,11 @@
   "frage": "Die vollständige Anzeige des Notars über eine Anteilsübertragung nach § 1 Abs. 3 GrEStG geht erst drei Wochen nach der Beurkundung, aber noch innerhalb eines Monats nach Kenntnis der Beteiligten beim Finanzamt ein; die Beteiligten zeigen nicht an. Später wird der Vorgang rückgängig gemacht. Ist § 16 GrEStG anwendbar?",
   "optionen": [
    "Nein, weil die Zwei-Wochen-Frist des Notars versäumt ist",
-   "Ja, weil die Anzeige des Notars innerhalb der Frist des Steuerschuldners nach § 19 Abs. 3 GrEStG eingegangen ist und nach dem BFH fristwahrend wirkt",
+   "Ja, weil § 16 Abs. 5 GrEStG für Anteilsübertragungen nicht gilt",
    "Nein, weil nur eine Anzeige der Beteiligten selbst § 16 Abs. 5 GrEStG genügt",
-   "Ja, weil § 16 Abs. 5 GrEStG für Anteilsübertragungen nicht gilt"
+   "Ja, weil die Anzeige des Notars innerhalb der Frist des Steuerschuldners nach § 19 Abs. 3 GrEStG eingegangen ist und nach dem BFH fristwahrend wirkt"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "§ 16 Abs. 5 GrEStG schließt die Begünstigung für Vorgänge nach § 1 Abs. 2 bis 3a GrEStG nur aus, wenn nicht fristgerecht und vollständig angezeigt wurde. Nach dem BFH (2023) genügt die vollständige Anzeige eines Anzeigepflichtigen; geht die verspätete Notaranzeige noch innerhalb der Frist des Steuerschuldners (§ 19 Abs. 3 GrEStG) ein, wirkt sie fristwahrend. Entscheidend ist die rechtzeitige vollständige Information des Finanzamts, nicht, wer anzeigt."
  },
  {
@@ -1402,14 +1426,20 @@
   "abschnitt": "Anzeige- und Mitteilungspflichten",
   "seite": "Anzeigepflichten: Grunderwerbsteuer – Folgen für § 16 GrEStG",
   "quelle": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-grunderwerbsteuer-folgen-fur-16-grestg",
-  "typ": "rf",
+  "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
    "§ 16 Abs. 5 GrEStG"
   ],
-  "frage": "Der Ausschluss nach § 16 Abs. 5 GrEStG erfasst jeden Erwerbsvorgang, also auch den gewöhnlichen Grundstückskauf nach § 1 Abs. 1 Nr. 1 GrEStG.",
-  "antwort": false,
-  "erklaerung": "Der Ausschluss betrifft nur Erwerbsvorgänge nach § 1 Abs. 2 bis 3a GrEStG, die nicht fristgerecht und vollständig angezeigt waren. Für den Grundstückskauf nach § 1 Abs. 1 Nr. 1 GrEStG greift § 16 Abs. 5 GrEStG nicht; dort kann eine unvollständige Anzeige aber den Vollzug über die Unbedenklichkeitsbescheinigung verzögern."
+  "frage": "Für welche Erwerbsvorgänge schließt § 16 Abs. 5 GrEStG die Begünstigung bei Rückgängigmachung aus, wenn nicht fristgerecht und vollständig angezeigt wurde?",
+  "antwort": 0,
+  "erklaerung": "Der Ausschluss betrifft nur Erwerbsvorgänge nach § 1 Abs. 2 bis 3a GrEStG, die nicht fristgerecht und vollständig angezeigt waren. Für den Grundstückskauf nach § 1 Abs. 1 Nr. 1 GrEStG greift § 16 Abs. 5 GrEStG nicht; dort kann eine unvollständige Anzeige aber den Vollzug über die Unbedenklichkeitsbescheinigung verzögern.",
+  "optionen": [
+   "Nur für Erwerbsvorgänge nach § 1 Abs. 2 bis 3a GrEStG",
+   "Für alle Erwerbsvorgänge nach § 1 GrEStG",
+   "Nur für Grundstückskaufverträge nach § 1 Abs. 1 Nr. 1 GrEStG",
+   "Nur für Umwandlungen nach dem UmwG"
+  ]
  },
  {
   "id": "orga1-064",
@@ -1425,12 +1455,12 @@
   ],
   "frage": "Welche Angaben sind bei Anteilserwerben nach § 1 Abs. 2a–3a GrEStG besonders kritisch, weil ihr Fehlen zum Ausschluss nach § 16 Abs. 5 GrEStG führen kann?",
   "optionen": [
+   "Angaben zur Finanzierung des Kaufpreises",
    "Angaben zu Beteiligungsketten, Stimmrechten und Zurechnung",
-   "Angaben zum Bodenrichtwert der Grundstücke",
    "Angaben zur Steuer-ID des Notars",
-   "Angaben zur Finanzierung des Kaufpreises"
+   "Angaben zum Bodenrichtwert der Grundstücke"
   ],
-  "antwort": 0,
+  "antwort": 1,
   "erklaerung": "Die Anzeige muss in allen Teilen vollständig sein; bei Anteilserwerben können fehlende Angaben zu Beteiligungsketten, Stimmrechten oder Zurechnung zum Ausschluss der Begünstigung nach § 16 Abs. 5 GrEStG führen. Deshalb ist der Anzeige auch eine Beteiligungsübersicht beizufügen."
  },
  {
@@ -1497,12 +1527,12 @@
   ],
   "frage": "Welche verfahrensrechtliche Folge hat eine unterbliebene Grunderwerbsteueranzeige für die Festsetzungsfrist?",
   "optionen": [
+   "Die Festsetzungsfrist ist während der Anzeigefrist des Notars gehemmt, danach läuft sie normal",
    "Die Festsetzungsfrist verkürzt sich auf ein Jahr",
    "Die Festsetzungsfrist beginnt später (Anlaufhemmung nach § 170 Abs. 2 S. 1 Nr. 1 AO)",
-   "Die Steuer kann nicht mehr festgesetzt werden",
-   "Die Festsetzungsfrist ist während der Anzeigefrist des Notars gehemmt, danach läuft sie normal"
+   "Die Steuer kann nicht mehr festgesetzt werden"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Unterbleibt eine Anzeige oder ist sie mangelhaft, beginnt die Festsetzungsfrist später; bei doppelter Anzeigepflicht wirkt sich das auf die Anlaufhemmung nach § 170 Abs. 2 S. 1 Nr. 1 Hs. 2 AO aus. Eine Verkürzung oder ein Ausschluss der Festsetzung tritt gerade nicht ein; daneben drohen Verspätungszuschlag (§ 152 AO) und der Ausschluss nach § 16 Abs. 5 GrEStG."
  }
 ]

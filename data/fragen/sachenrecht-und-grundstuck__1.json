@@ -865,5 +865,282 @@
   "frage": "Eine vom Mieter eingebaute Küche ist Zubehör des Grundstücks und wird beim Verkauf durch den Eigentümer im Zweifel mitverkauft.",
   "antwort": false,
   "erklaerung": "Die vom Mieter eingebaute Küche ist mangels dauernder Zweckbestimmung kein Zubehör (§ 97 Abs. 2 S. 1 BGB). Die Auslegungsregel des § 311c BGB greift daher nicht; die Küche gehört nicht zum Vertragsgegenstand des Eigentümers."
+ },
+ {
+  "id": "sach1-037",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Flurbereinigung: Ausführung des Plans und Verfügungen bis zur Grundbuchberichtigung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/flurbereinigung-ausfuhrung-des-plans-und-verfugungen-bis-zur-grundbuchberichtigung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 61 FlurbG"
+  ],
+  "frage": "Der Flurbereinigungsplan ist ausgeführt, das Grundbuch aber noch nicht berichtigt. Wie wirkt eine jetzt erklärte Auflassung über das im Grundbuch noch gebuchte Einlagegrundstück?",
+  "optionen": [
+   "Sie ist wirksam, weil das Grundbuch bis zur Berichtigung maßgeblich bleibt",
+   "Sie ist wirkungslos, weil das Einlagegrundstück materiell-rechtlich nicht mehr besteht",
+   "Sie wirkt kraft Gesetzes als Auflassung des Abfindungsgrundstücks",
+   "Sie ist schwebend unwirksam bis zur Genehmigung der Flurbereinigungsbehörde"
+  ],
+  "antwort": 1,
+  "erklaerung": "Mit Ausführung des Plans gehen die alten Grundstücke ab dem Stichtag außerhalb des Grundbuchs materiell-rechtlich unter (vgl. §§ 61, 63 FlurbG). Eine Auflassung kann sich nicht mehr auf sie beziehen und bleibt ebenso wirkungslos wie eine darauf gestützte Eintragung. Eine Umdeutung in eine Auflassung der Abfindungsfläche scheitert regelmäßig an der Bestimmtheit."
+ },
+ {
+  "id": "sach1-038",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Flurbereinigung: Ausführung des Plans und Verfügungen bis zur Grundbuchberichtigung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/flurbereinigung-ausfuhrung-des-plans-und-verfugungen-bis-zur-grundbuchberichtigung",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 29 GBO"
+  ],
+  "frage": "Lässt sich eine nach Ausführung des Flurbereinigungsplans erklärte Auflassung über das Einlagegrundstück ausnahmsweise auf das Abfindungsgrundstück auslegen, kann das Grundbuchamt sie ohne Nachtrag vollziehen.",
+  "antwort": false,
+  "erklaerung": "Selbst wenn Umdeutung oder Auslegung in Betracht kommen, ist ein Nachtrag erforderlich: Das Grundbuchamt kann eine solche Auslegung nicht vornehmen (§ 29 GBO), sodass die Auflassung regelmäßig nicht vollziehbar ist. Empfehlenswert ist zusätzlich, den schuldrechtlichen Vertrag klarzustellen oder anzupassen."
+ },
+ {
+  "id": "sach1-039",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Flurbereinigung: Ausführung des Plans und Verfügungen bis zur Grundbuchberichtigung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/flurbereinigung-ausfuhrung-des-plans-und-verfugungen-bis-zur-grundbuchberichtigung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 29 GBO"
+  ],
+  "frage": "Wann kommt die Auslegung einer nach Ausführung des Plans erklärten Auflassung über das Einlagegrundstück als Auflassung der Abfindungsfläche am ehesten in Betracht?",
+  "optionen": [
+   "Wenn für das Einlagegrundstück mehrere Abfindungsgrundstücke zugeteilt werden",
+   "Wenn ein deutlich größeres Abfindungsgrundstück zugeteilt wird",
+   "Wenn exakt für diesen Besitzstand ein bestimmtes neues Grundstück zugeteilt wird",
+   "Wenn die Beteiligten bereits in den Besitz der Abfindungsfläche eingewiesen sind"
+  ],
+  "antwort": 2,
+  "erklaerung": "Regelmäßig fehlt die erforderliche Bestimmtheit; anders kann es nur sein, wenn exakt für diesen Besitzstand ein bestimmtes neues Grundstück zugeteilt wird. Bei mehreren oder größeren Abfindungsgrundstücken ist eine Auslegung regelmäßig ausgeschlossen, weil sich nicht feststellen lässt, worauf sich die Einigung bezog. Auch dann bleibt ein Nachtrag nötig (§ 29 GBO)."
+ },
+ {
+  "id": "sach1-040",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Flurbereinigung: Grundstücksverkauf während des Verfahrens",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/flurbereinigung-grundstucksverkauf-wahrend-des-verfahrens",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 52 Abs. 3 FlurbG"
+  ],
+  "frage": "Unter welcher Voraussetzung bewirkt ein laufendes Flurbereinigungsverfahren ein Veräußerungsverbot?",
+  "optionen": [
+   "Bereits mit Anordnung des Verfahrens",
+   "Mit Bekanntgabe des Flurbereinigungsplans",
+   "Wenn für die Grundstücke bereits eine Abfindung gezahlt wurde",
+   "Mit der vorläufigen Besitzeinweisung"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Flurbereinigung bewirkt für sich genommen weder Grundbuchsperre noch Veräußerungsverbot. Eine Ausnahme besteht nach § 52 Abs. 3 FlurbG, wenn bereits eine Abfindung gezahlt wurde; dieses Verbot ist einzutragen, sonst ist gutgläubiger Erwerb möglich. Anordnung, Planbekanntgabe oder Besitzeinweisung lösen kein Veräußerungsverbot aus."
+ },
+ {
+  "id": "sach1-041",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Flurbereinigung: Grundstücksverkauf während des Verfahrens",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/flurbereinigung-grundstucksverkauf-wahrend-des-verfahrens",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 44 Abs. 1 FlurbG"
+  ],
+  "frage": "Maßstab der Abfindung in der Flurbereinigung ist die Fläche des Einlagegrundstücks, sodass der Käufer mit einer flächengleichen Abfindung rechnen kann.",
+  "antwort": false,
+  "erklaerung": "Maßstab der Abfindung ist die Wertzahl, nicht die Fläche (§ 44 Abs. 1 FlurbG). Bei höherwertigem Land kann ein wesentlich kleineres, bei minderwertigem Land ein erheblich größeres Grundstück zugeteilt werden. Ein Irrtum des Käufers über die spätere Abfindung berechtigt regelmäßig weder zur Anfechtung noch begründet er eine Störung der Geschäftsgrundlage."
+ },
+ {
+  "id": "sach1-042",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Flurbereinigung: Grundstücksverkauf während des Verfahrens",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/flurbereinigung-grundstucksverkauf-wahrend-des-verfahrens",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 15 FlurbG",
+   "§ 44 Abs. 1 FlurbG",
+   "§ 52 Abs. 3 FlurbG"
+  ],
+  "frage": "Verkauf eines Ackers in der Flurbereinigung",
+  "sachverhalt": "Landwirt L will einen Acker an K verkaufen, der in ein laufendes Flurbereinigungsverfahren einbezogen ist. Der Plan ist noch nicht ausgeführt; die Beteiligten sind aber bereits vorläufig in neue Flächen eingewiesen. K möchte unbedingt die Fläche erwerben, die er im Gelände bereits bewirtschaftet. Eine Abfindung in Geld wurde nicht gezahlt.",
+  "schritte": [
+   {
+    "frage": "Über welches Grundstück kann zum jetzigen Zeitpunkt rechtlich verfügt werden?",
+    "optionen": [
+     "Über die Fläche, in deren Besitz K eingewiesen ist",
+     "Nur über das Einlagegrundstück",
+     "Über gar kein Grundstück, da die Flurbereinigung eine Grundbuchsperre bewirkt",
+     "Wahlweise über Einlage- oder Abfindungsgrundstück"
+    ],
+    "antwort": 1,
+    "erklaerung": "Bis zur rechtlichen Ausführung des Plans kann nur über die Einlagegrundstücke verfügt werden, auch wenn die Besitzeinweisung schon stattgefunden hat. Eine Grundbuchsperre besteht nicht."
+   },
+   {
+    "frage": "Welchen Anspruch erlangt K mit dem Erwerb des Einlagegrundstücks hinsichtlich der Abfindung?",
+    "optionen": [
+     "Einen Anspruch auf die Fläche, in deren Besitz er eingewiesen ist",
+     "Einen Anspruch auf eine flächengleiche Abfindung",
+     "Keinen gesicherten Anspruch auf eine bestimmte Abfindungsfläche",
+     "Einen Anspruch auf Rückzahlung bereits geleisteter Beiträge durch L"
+    ],
+    "antwort": 2,
+    "erklaerung": "Wer ein Einlagegrundstück kauft, hat kein Recht auf eine bestimmte Abfindungsfläche; selbst nach Besitzeinweisung sind Änderungen möglich. Maßstab ist die Wertzahl (§ 44 Abs. 1 FlurbG). Bereits erbrachte Zahlungen muss der Erwerber gegen sich gelten lassen."
+   },
+   {
+    "frage": "Wie kann dem Wunsch des K, die bewirtschaftete Fläche zu erwerben, vertraglich Rechnung getragen werden?",
+    "optionen": [
+     "Durch sofortige Auflassung der eingewiesenen Fläche",
+     "Durch eine schuldrechtliche Verpflichtung zur Übertragung der künftigen Abfindungsgrundstücke mit Regelung des späteren Vollzugs",
+     "Durch Eintragung eines Veräußerungsverbots nach § 52 Abs. 3 FlurbG",
+     "Durch Anfechtungsvorbehalt für den Fall abweichender Zuteilung"
+    ],
+    "antwort": 1,
+    "erklaerung": "Stehen die Abfindungsgrundstücke aus Sicht der Beteiligten fest, kann sich die schuldrechtliche Verpflichtung auf diese künftigen Grundstücke beziehen; der Vollzug ist erst nach Abschluss des Verfahrens möglich und ggf. ist noch zu vermessen. Zudem ist auf § 15 FlurbG hinzuweisen."
+   }
+  ],
+  "erklaerung": "Vor Ausführung des Plans ist nur das Einlagegrundstück verfügbar; einen gesicherten Anspruch auf eine bestimmte Abfindungsfläche gibt es nicht. Soll die künftige Abfindungsfläche Kaufgegenstand sein, ist eine schuldrechtliche Übertragungspflicht mit späterem Vollzug zu vereinbaren und auf § 15 FlurbG hinzuweisen."
+ },
+ {
+  "id": "sach1-043",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Flurbereinigung: Grundstücksverkauf während des Verfahrens",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/flurbereinigung-grundstucksverkauf-wahrend-des-verfahrens",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 59 FlurbG",
+   "§ 61 FlurbG",
+   "§ 63 FlurbG",
+   "§ 79 FlurbG"
+  ],
+  "frage": "Ordne die Verfahrensschritte der Flurbereinigung ihrer Norm bzw. ihrem Inhalt zu.",
+  "paare": [
+   [
+    "§ 59 FlurbG",
+    "Bekanntgabe des Flurbereinigungsplans"
+   ],
+   [
+    "§§ 61, 63 FlurbG",
+    "Ausführung oder vorzeitige Ausführung mit Bestimmung des Zeitpunkts des neuen Rechtszustands"
+   ],
+   [
+    "§§ 79 ff. FlurbG",
+    "Vollzug mit Besitzeinweisung und Richtigstellung von Grundbuch und Registern"
+   ],
+   [
+    "§ 15 FlurbG",
+    "Erwerber muss das Verfahren im erreichten Stand gegen sich gelten lassen"
+   ]
+  ],
+  "erklaerung": "Nach dem FlurbG folgen auf die Anordnung die Bekanntgabe des Plans (§ 59), die (vorzeitige) Ausführung mit Stichtag des neuen Rechtszustands (§§ 61, 63) und der Vollzug (§§ 79 ff.). § 15 FlurbG regelt unabhängig davon die Bindung des Erwerbers an den Verfahrensstand."
+ },
+ {
+  "id": "sach1-044",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Grundstück: Begriff, Flurstück und grundstücksgleiche Rechte",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/grundstuck-begriff-flurstuck-und-grundstucksgleiche-rechte",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 3 Abs. 1 GBO"
+  ],
+  "frage": "Was kennzeichnet ein Grundstück im Rechtssinne?",
+  "optionen": [
+   "Ein amtlich vermessener Teil der Erdoberfläche mit eigener Flurstücknummer",
+   "Ein räumlich abgegrenzter Teil der Erdoberfläche, der im Grundbuch an eigener Stelle gebucht ist",
+   "Ein Teil der Erdoberfläche, der zwingend auf einem eigenen Grundbuchblatt gebucht ist",
+   "Jede im Gelände durch Grenzzeichen abgemarkte Fläche"
+  ],
+  "antwort": 1,
+  "erklaerung": "Grundstück im Rechtssinne ist ein räumlich abgegrenzter Teil der Erdoberfläche, der im Grundbuch an eigener Stelle gebucht ist (vgl. § 3 Abs. 1 GBO); eine eigene laufende Nummer auf einem gemeinsamen Blatt genügt, ein eigenes Blatt ist nicht nötig. Das amtlich vermessene Flurstück ist dagegen die Einheit des Katasters."
+ },
+ {
+  "id": "sach1-045",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Grundstück: Begriff, Flurstück und grundstücksgleiche Rechte",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/grundstuck-begriff-flurstuck-und-grundstucksgleiche-rechte",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 3 Abs. 1 GBO"
+  ],
+  "frage": "Unter einer laufenden Nummer des Bestandsverzeichnisses sind zwei Flurstücke verzeichnet. Eine Grundschuld soll nur an einem der Flurstücke bestellt werden. Was ist erforderlich?",
+  "optionen": [
+   "Nichts, da jedes Flurstück ein eigenes Grundstück ist",
+   "Die Vereinigung ist zuvor durch Teilung aufzuheben",
+   "Es genügt eine Bezeichnung des Flurstücks in der Grundschuldbestellung",
+   "Die Bestellung ist ausgeschlossen; nur eine Dienstbarkeit kommt in Betracht"
+  ],
+  "antwort": 1,
+  "erklaerung": "Mehrere Flurstücke unter einer Nummer bilden ein Grundstück im Rechtssinne (zusammengesetztes Grundstück). Soll ein Grundpfandrecht nur an einem Flurstück bestellt werden, ist die Vereinigung zuvor durch Teilung aufzuheben. Eine Dienstbarkeit kann dagegen ohne Aufhebung der Vereinigung bestellt werden – daher die naheliegende Verwechslung."
+ },
+ {
+  "id": "sach1-046",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Grundstück: Begriff, Flurstück und grundstücksgleiche Rechte",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/grundstuck-begriff-flurstuck-und-grundstucksgleiche-rechte",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "Art. 182 EGBGB",
+   "Art. 189 Abs. 1 S. 3 EGBGB"
+  ],
+  "frage": "Echtes Stockwerkseigentum ist ein grundstücksgleiches Recht, das auch heute noch neu begründet werden kann.",
+  "antwort": false,
+  "erklaerung": "Echtes Stockwerkseigentum (Art. 182 EGBGB) besteht regional als grundstücksgleiches Recht fort; seine Neubegründung ist aber ausgeschlossen (Art. 189 Abs. 1 S. 3 EGBGB). Neu begründet werden können dagegen Wohnungs- und Teileigentum (§ 7 WEG) und das Erbbaurecht (§ 11 ErbbauRG)."
+ },
+ {
+  "id": "sach1-047",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Grundstück: Begriff, Flurstück und grundstücksgleiche Rechte",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/grundstuck-begriff-flurstuck-und-grundstucksgleiche-rechte",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 7 WEG",
+   "§ 11 ErbbauRG",
+   "§ 9 BBergG",
+   "Art. 231 § 5 EGBGB"
+  ],
+  "frage": "Ordne die grundstücksgleichen Rechte ihrer Rechtsgrundlage zu.",
+  "paare": [
+   [
+    "Wohnungs- und Teileigentum",
+    "§ 7 WEG"
+   ],
+   [
+    "Erbbaurecht",
+    "§ 11 ErbbauRG"
+   ],
+   [
+    "Bergwerkseigentum",
+    "§ 9 BBergG"
+   ],
+   [
+    "Gebäudeeigentum in den neuen Ländern",
+    "Art. 231 § 5 EGBGB"
+   ],
+   [
+    "Echtes Stockwerkseigentum",
+    "Art. 182 EGBGB"
+   ]
+  ],
+  "erklaerung": "Wohnungs- und Teileigentum (§ 7 WEG) und Erbbaurecht (§ 11 ErbbauRG) werden wie Grundstücke behandelt und können Gegenstand eines Kauf- oder Übergabevertrags sein. Regional kommen Bergwerkseigentum (§ 9 BBergG), Gebäudeeigentum in den neuen Ländern und im früheren Ost-Berlin (Art. 231 § 5 EGBGB) und echtes Stockwerkseigentum (Art. 182 EGBGB) hinzu."
  }
 ]

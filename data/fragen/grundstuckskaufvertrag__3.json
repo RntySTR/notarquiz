@@ -752,9 +752,7 @@
   "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/vollzug-des-grundstuckskaufvertrags-vermerke-in-abteilung-ii",
   "typ": "fall",
   "schwierigkeit": 3,
-  "normen": [
-   "§ 80 InsO"
-  ],
+  "normen": [],
   "frage": "Verkauf durch den Insolvenzverwalter",
   "sachverhalt": "Über das Vermögen des E ist das Insolvenzverfahren eröffnet; im Grundbuch seines Grundstücks ist ein Insolvenzvermerk eingetragen. Insolvenzverwalter I will das Grundstück an K verkaufen. K fürchtet, dass I vor Vollzug abberufen werden könnte.",
   "schritte": [
@@ -1191,9 +1189,7 @@
   "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/vertrage-mit-der-gemeinde-aufzahlung-vertragsstrafe-und-selbstnutzungsverpflichtung",
   "typ": "rf",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 339 BGB"
-  ],
+  "normen": [],
   "frage": "Eine Vertragsstrafe zugunsten der Gemeinde ist ein grundsätzlich geeignetes Mittel, um die Bauverpflichtung oder die Selbstnutzung des Erwerbers abzusichern.",
   "antwort": false,
   "erklaerung": "Vertragsstrafen zur Absicherung solcher Gebote sind grundsätzlich unzulässig: Fehlt dem Erwerber das Geld oder die Möglichkeit zur Erfüllung, baut die Strafe keinen Druck auf, und sie bereichert die Gemeinde stets, weil ihr durch die Nichterfüllung öffentlich-rechtlicher Pflichten kein wirtschaftlicher Schaden entsteht. Die Sicherung durch Vertragsstrafe ist deshalb ein typischer Gestaltungsfehler."

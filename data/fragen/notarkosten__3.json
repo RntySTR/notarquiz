@@ -352,5 +352,282 @@
   ],
   "antwort": 1,
   "erklaerung": "Fehlen genügende Anhaltspunkte, ist nach § 36 Abs. 3 GNotKG von 5.000 € auszugehen – anders als beim früheren Regelwert nach § 30 Abs. 2 KostO als Ausgangsgröße für eine einzelfallgerechte Bewertung. Der Höchstwert in nichtvermögensrechtlichen Angelegenheiten beträgt 1 Mio. €. Den Betrag schematisch anzusetzen, obwohl Vermögen und Bedeutung mehr rechtfertigen, ist ein typischer Fehler."
+ },
+ {
+  "id": "kost3-015",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Bauverpflichtung bei Auflassung und Grundbucheintragung (§ 47 S. 2, § 35 Abs. 1 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-bauverpflichtung-bei-auflassung-und-grundbucheintragung-47-s-2-35-abs-1-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 47 S. 2 GNotKG",
+   "§ 35 Abs. 1 GNotKG"
+  ],
+  "frage": "Wie empfiehlt das Handbuch, eine im Kaufvertrag vereinbarte Bauverpflichtung samt Wiederkaufsrecht in der notariellen Kostenberechnung zu behandeln?",
+  "optionen": [
+   "Als Hinzurechnung zum Kaufpreis nach § 47 S. 2 GNotKG, wie es die Grundbuchpraxis tut",
+   "Als gegenstandsverschiedene Erklärung, deren Wert nach § 35 Abs. 1 GNotKG mit dem Kaufvertragswert zusammengerechnet wird",
+   "Als gegenstandsgleiches Sicherungsgeschäft nach § 109 Abs. 1 GNotKG ohne eigenen Wert",
+   "Als Nebengegenstand nach § 37 GNotKG, der unberücksichtigt bleibt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Empfohlen wird, Bauverpflichtungen und Wiederkaufsrechte als gegenstandsverschiedene Erklärungen zu behandeln und nach § 35 Abs. 1 GNotKG zusammenzurechnen. Die wohl h. M. und die Grundbuchpraxis rechnen sie dagegen nach § 47 S. 2 GNotKG dem Kaufpreis hinzu; dagegen spricht, dass der Grundstückswert nicht von der Form der Bauverpflichtung abhängen kann."
+ },
+ {
+  "id": "kost3-016",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Bauverpflichtung bei Auflassung und Grundbucheintragung (§ 47 S. 2, § 35 Abs. 1 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-bauverpflichtung-bei-auflassung-und-grundbucheintragung-47-s-2-35-abs-1-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 47 S. 2 GNotKG"
+  ],
+  "frage": "Nach der Gegenansicht führt die Hinzurechnung der Bauverpflichtung zum Kaufpreis nach § 47 S. 2 GNotKG im Grundbuchverfahren zu einer unzulässigen doppelten Berücksichtigung bei Eigentumsumschreibung und Rückübereignungsvormerkung.",
+  "antwort": true,
+  "erklaerung": "Nach wohl h. M. fließt der Wert der Bauverpflichtung über § 47 S. 2 GNotKG sowohl in den Wert der Auflassung bzw. Eigentumsänderung als auch in den Wert der Rückübereignungsvormerkung ein. Die Gegenansicht hält genau diese doppelte Berücksichtigung für unzulässig und bewertet die Bauverpflichtung als gegenstandsverschiedene Erklärung nach § 35 Abs. 1 GNotKG."
+ },
+ {
+  "id": "kost3-017",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Bauverpflichtung und schuldrechtliche Verpflichtungen (§ 50 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-bauverpflichtung-und-schuldrechtliche-verpflichtungen-50-gnotkg",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 50 Nr. 1 GNotKG",
+   "§ 50 Nr. 2 GNotKG",
+   "§ 50 Nr. 3 GNotKG",
+   "§ 50 Nr. 4 GNotKG"
+  ],
+  "frage": "Ordne den schuldrechtlichen Verpflichtungen ihren Wert nach § 50 GNotKG zu.",
+  "paare": [
+   [
+    "Verpflichtung zur Beschränkung von Verfügungen",
+    "10 % des Verkehrswerts"
+   ],
+   [
+    "Verpflichtung zur Beschränkung der Nutzung",
+    "20 % des Verkehrswerts"
+   ],
+   [
+    "Bauverpflichtung für Wohnbau",
+    "20 % des Verkehrswerts des Grundstücks"
+   ],
+   [
+    "Bau- oder Investitionsverpflichtung für Gewerbe",
+    "20 % der Aufwendungen"
+   ]
+  ],
+  "erklaerung": "§ 50 GNotKG bewertet Verfügungsbeschränkungen mit 10 % des Verkehrswerts (Nr. 1), Nutzungsbeschränkungen und Wohnbauverpflichtungen mit 20 % des Verkehrswerts (Nr. 2, Nr. 3 Buchst. a), gewerbliche Bau- und Investitionsverpflichtungen dagegen mit 20 % der Aufwendungen (Nr. 3 Buchst. b, Nr. 4). Bezugsgröße bei Nr. 1 ist der Verkehrswert, nicht der Kaufpreis."
+ },
+ {
+  "id": "kost3-018",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Bauverpflichtung und schuldrechtliche Verpflichtungen (§ 50 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-bauverpflichtung-und-schuldrechtliche-verpflichtungen-50-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 50 GNotKG",
+   "§ 51 GNotKG"
+  ],
+  "frage": "Was kennzeichnet die mittelbare (negative) Bauverpflichtung im Grundstückskaufvertrag?",
+  "optionen": [
+   "Der Käufer ist unmittelbar verpflichtet, innerhalb einer Frist ein Bauwerk zu errichten",
+   "Der Verkäufer erhält ein Wiederkaufsrecht, das er ausüben darf, wenn der Käufer nicht wie vorgesehen baut; eine Baupflicht besteht nicht",
+   "Der Käufer verpflichtet sich, auf dem Grundstück nicht zu bauen",
+   "Der Verkäufer verpflichtet sich, das Grundstück bebaut zu übergeben"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei der mittelbaren Bauverpflichtung vereinbaren die Beteiligten in erster Linie ein Wiederkaufsrecht des Verkäufers, gesichert durch eine Rückübereignungsvormerkung; der Käufer schuldet keine Bebauung. Die unmittelbare Pflicht zur Errichtung eines Bauwerks kennzeichnet dagegen die positive Bauverpflichtung. Die Bezeichnung „negativ“ bedeutet kein Bauverbot."
+ },
+ {
+  "id": "kost3-019",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Bauverpflichtung und schuldrechtliche Verpflichtungen (§ 50 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-bauverpflichtung-und-schuldrechtliche-verpflichtungen-50-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 50 Nr. 1 GNotKG"
+  ],
+  "frage": "Ein Grundstück mit einem Verkehrswert von 400.000 € wird für 250.000 € verkauft; der Käufer verpflichtet sich, das Grundstück zehn Jahre nicht zu veräußern. Mit welchem Wert ist diese Verpflichtung anzusetzen?",
+  "optionen": [
+   "25.000 €",
+   "40.000 €",
+   "50.000 €",
+   "80.000 €"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Verpflichtung zur Beschränkung von Verfügungen ist nach § 50 Nr. 1 GNotKG mit 10 % des Verkehrswerts zu bewerten, hier 40.000 €. Der Kaufpreis ist nicht maßgeblich; 25.000 € (10 % des Kaufpreises) ist der typische Fehler. 80.000 € entspräche dem Satz für Nutzungsbeschränkungen (20 %, § 50 Nr. 2 GNotKG)."
+ },
+ {
+  "id": "kost3-020",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Bewertungszeitpunkt, Nebengegenstände, Schuldenabzugsverbot",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-bewertungszeitpunkt-nebengegenstande-schuldenabzugsverbot",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 96 GNotKG",
+   "§ 10 GNotKG"
+  ],
+  "frage": "Auf welchen Zeitpunkt kommt es für die Bewertung grundsätzlich an?",
+  "optionen": [
+   "Auf die Erteilung des Beurkundungsauftrags",
+   "Auf die Fälligkeit der Gebühr, regelmäßig mit Beendigung des Verfahrens",
+   "Auf die Eintragung im Grundbuch",
+   "Auf die Übersendung der Kostenberechnung"
+  ],
+  "antwort": 1,
+  "erklaerung": "Maßgeblich ist die Fälligkeit der Gebühr (§ 96 GNotKG), die regelmäßig mit Beendigung des Verfahrens oder Geschäfts eintritt (§ 10 GNotKG). Wertänderungen zwischen Auftrag und Abschluss der Beurkundung sind daher zu berücksichtigen, auch wenn sie bei Auftragserteilung nicht vorhersehbar waren; der Auftragszeitpunkt ist gerade nicht entscheidend."
+ },
+ {
+  "id": "kost3-021",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Bewertungszeitpunkt, Nebengegenstände, Schuldenabzugsverbot",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-bewertungszeitpunkt-nebengegenstande-schuldenabzugsverbot",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 37 GNotKG",
+   "§ 53 GNotKG"
+  ],
+  "frage": "Eine Grundschuld über 300.000 € mit 15 % Jahreszinsen und einer einmaligen Nebenleistung von 5 % wird bestellt. Welcher Wert ist anzusetzen?",
+  "optionen": [
+   "300.000 €",
+   "315.000 €",
+   "345.000 €",
+   "360.000 €"
+  ],
+  "antwort": 0,
+  "erklaerung": "Zinsen und Nebenleistungen sind Nebengegenstände und bleiben nach § 37 GNotKG außer Betracht; bei der Grundschuld zählt allein der Nennbetrag (vgl. § 53 GNotKG). Die Hinzurechnung von Grundschuldzinsen oder Nebenleistungen ist ein typischer Fehler."
+ },
+ {
+  "id": "kost3-022",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Bewertungszeitpunkt, Nebengegenstände, Schuldenabzugsverbot",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-bewertungszeitpunkt-nebengegenstande-schuldenabzugsverbot",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 38 GNotKG"
+  ],
+  "frage": "Bei der Übertragung einer Beteiligung an einer Personengesellschaft sind – wie früher nach § 18 Abs. 3 KostO – die anteiligen Gesellschaftsschulden vom Wert abzuziehen.",
+  "antwort": false,
+  "erklaerung": "Nach § 38 S. 2 GNotKG gilt das Schuldenabzugsverbot – anders als nach § 18 Abs. 3 KostO – auch für Gesellschaftsschulden bei Beteiligungen an Personengesellschaften. Ein Abzug kommt nur in den gesetzlich bestimmten Ausnahmen in Betracht, etwa bei Kapitalgesellschafts- und Kommanditanteilen nach § 54 GNotKG."
+ },
+ {
+  "id": "kost3-023",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Bewertungszeitpunkt, Nebengegenstände, Schuldenabzugsverbot",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-bewertungszeitpunkt-nebengegenstande-schuldenabzugsverbot",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 96 GNotKG",
+   "§ 42 Abs. 1 GNotKG"
+  ],
+  "frage": "Ein Gebäude ist noch nicht errichtet. Wie wird bei der Teilungserklärung nach WEG der Wert bestimmt?",
+  "optionen": [
+   "Nur mit dem Wert des unbebauten Grundstücks, da § 96 GNotKG auf den gegenwärtigen Zustand abstellt",
+   "Mit dem Wert des Grundstücks samt Bebauung, auch wenn das Gebäude noch fehlt",
+   "Nur mit dem Miteigentumsanteil am Gemeinschaftseigentum",
+   "Mit dem Auffangwert nach § 36 Abs. 3 GNotKG"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 42 Abs. 1 GNotKG ist bei der Teilungserklärung das Grundstück mit Bebauung voll anzusetzen, auch wenn das Gebäude noch fehlt, weil sich die Teilung notwendig auf ein Bauwerk bezieht. Der gegenwärtige Wert nach § 96 GNotKG gilt dagegen etwa bei der Übertragung von Wohnungseigentum an einem noch nicht errichteten Anbau; dort zählt nur der Miteigentumsanteil am Gemeinschaftseigentum."
+ },
+ {
+  "id": "kost3-024",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Hinzurechnungen beim Kauf",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-hinzurechnungen-beim-kauf",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 47 S. 2 GNotKG",
+   "§ 436 Abs. 1 BGB"
+  ],
+  "frage": "Der Käufer übernimmt Erschließungskosten für eine bereits begonnene Maßnahme; ein Beitragsbescheid gegen den Verkäufer ist noch nicht ergangen. Wie wirkt sich das auf den Geschäftswert aus?",
+  "optionen": [
+   "Die Kosten sind nach § 47 S. 2 GNotKG hinzuzurechnen, weil die Maßnahme schon begonnen hat",
+   "Die Regelung ist kostenneutral, weil noch keine öffentlich-rechtliche Zahlungspflicht des Verkäufers besteht",
+   "Die Kosten sind hinzuzurechnen, weil sie nach § 436 Abs. 1 BGB der Verkäufer tragen müsste",
+   "Die Kosten sind zur Hälfte hinzuzurechnen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Hinzuzurechnen sind nach § 47 S. 2 GNotKG nur übernommene Leistungen, die den Verkäufer im Außenverhältnis treffen, etwa bereits festgesetzte Erschließungskosten. Ohne Beitragsbescheid besteht keine Zahlungspflicht des Verkäufers, die der Käufer übernehmen könnte; das gilt auch, wenn die Maßnahmen begonnen haben. Auf die interne Kostenverteilung nach § 436 Abs. 1 BGB stellt das Notarkostenrecht nicht ab."
+ },
+ {
+  "id": "kost3-025",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Hinzurechnungen beim Kauf",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-hinzurechnungen-beim-kauf",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 47 S. 2 GNotKG"
+  ],
+  "frage": "Bestätigen Käufer und Verkäufer im Kaufvertrag lediglich, dass jeder die von ihm geschuldete Maklerprovision selbst zahlt, ist die Provision dem Kaufpreis nicht hinzuzurechnen.",
+  "antwort": true,
+  "erklaerung": "Hinzugerechnet wird nach § 47 S. 2 GNotKG nur eine Provision, die der Verkäufer schuldet und die der Käufer übernimmt. Eine bloße Bestätigung, dass jeder seine eigene Provision zahlt, ist kostenrechtlich ohne Bedeutung; sie als Hinzurechnung zu behandeln, ist ein typischer Fehler."
+ },
+ {
+  "id": "kost3-026",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Hinzurechnungen beim Kauf",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-hinzurechnungen-beim-kauf",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 109 Abs. 1 GNotKG",
+   "§ 110 Nr. 2 Buchst. b GNotKG"
+  ],
+  "frage": "Der Käufer verpflichtet sich, eine Teilfläche unbebaut zu lassen; zur Sicherung bewilligt er eine Grunddienstbarkeit zugunsten eines anderen Grundstücks des Verkäufers. Wie ist die Bewilligung kostenrechtlich zu behandeln?",
+  "optionen": [
+   "Als gegenstandsgleiches Sicherungsgeschäft nach § 109 Abs. 1 GNotKG, mit der Kaufvertragsgebühr abgegolten",
+   "Als gegenstandsverschieden nach § 110 Nr. 2 Buchst. b GNotKG und gesondert zu bewerten",
+   "Als Nebengegenstand nach § 37 GNotKG ohne eigenen Wert",
+   "Als Minderung des Kaufpreises"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Sicherung einer Käuferpflicht durch eine beschränkte persönliche Dienstbarkeit ist grundsätzlich gegenstandsgleich (§ 109 Abs. 1 GNotKG). Die Bewilligung einer Grunddienstbarkeit ist dagegen stets gegenstandsverschieden zum Veräußerungsvertrag und gesondert zu bewerten (§ 110 Nr. 2 Buchst. b GNotKG). Sie als gegenstandsgleich zu behandeln, ist ein typischer Fehler."
+ },
+ {
+  "id": "kost3-027",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Hinzurechnungen beim Kauf",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-hinzurechnungen-beim-kauf",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 47 S. 2 GNotKG",
+   "§ 52 Abs. 4 GNotKG"
+  ],
+  "frage": "Der Verkäufer behält sich beim Verkauf einen lebenslangen Nießbrauch vor; Käufer ist sein Neffe. Was gilt für den Geschäftswert?",
+  "optionen": [
+   "Der Nießbrauch bleibt wegen des Verwandtenprivilegs unberücksichtigt",
+   "Der nach § 52 GNotKG bewertete Nießbrauch wird dem Kaufpreis hinzugerechnet; der Vervielfältiger richtet sich nach dem Alter des Berechtigten",
+   "Der Nießbrauch wird vom Kaufpreis abgezogen, weil er das Grundstück entwertet",
+   "Der Nießbrauch wird pauschal mit 20 % des Kaufpreises hinzugerechnet"
+  ],
+  "antwort": 1,
+  "erklaerung": "Vorbehaltene Nutzungen des Verkäufers werden dem Kaufpreis nach § 47 S. 2 GNotKG hinzugerechnet und nach § 52 GNotKG bewertet; bei lebenslangen Rechten bestimmt das Alter des Berechtigten den Vervielfältiger (§ 52 Abs. 4 GNotKG). Ein Verwandtenprivileg besteht nicht mehr."
  }
 ]

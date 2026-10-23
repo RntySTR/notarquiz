@@ -1324,5 +1324,100 @@
   ],
   "antwort": 1,
   "erklaerung": "Eine GbR, die schon vor dem 01.01.2024 im Grundbuch stand, kann über ihre Grundstücksrechte erst nach Eintragung im Gesellschaftsregister wieder verfügen (§ 47 Abs. 2 GBO). Der Notar muss daher vor der Verfügung die Registrierung veranlassen. § 899a BGB a. F. ist aufgehoben, und eine Eintragung der Gesellschafter im Grundbuch sieht das neue Recht nicht mehr vor."
+ },
+ {
+  "id": "hand1-059",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "GbR: Gründung, Haftung, Geschäftsführung und Vertretung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/gbr-grundung-haftung-geschaftsfuhrung-und-vertretung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 705 Abs. 1 BGB",
+   "§ 311b BGB"
+  ],
+  "frage": "Wann bedarf der Gesellschaftsvertrag einer GbR der notariellen Beurkundung?",
+  "optionen": [
+   "Stets, wenn die GbR in das Gesellschaftsregister eingetragen werden soll",
+   "Wenn ein Gesellschafter sich bei Gründung verpflichtet, Grundbesitz in die GbR einzubringen",
+   "Wenn die GbR als Außen-GbR am Rechtsverkehr teilnehmen soll",
+   "Wenn mehr als zwei Gesellschafter beteiligt sind"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der GbR-Vertrag ist grundsätzlich formfrei und kann sogar konkludent geschlossen werden (§ 705 Abs. 1 BGB). Beurkundungspflichtig ist er nur, wenn ein Gesellschafter schon bei Gründung die Pflicht zur Einbringung von Grundbesitz übernimmt (§ 311b BGB). Die Registereintragung verlangt nur eine beglaubigte Anmeldung, keinen beurkundeten Vertrag."
+ },
+ {
+  "id": "hand1-060",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "GbR: Gründung, Haftung, Geschäftsführung und Vertretung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/gbr-grundung-haftung-geschaftsfuhrung-und-vertretung",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 721 BGB"
+  ],
+  "frage": "Jeder Gesellschafter einer GbR haftet für deren Verbindlichkeiten persönlich und gesamtschuldnerisch, kann also für die gesamte Verbindlichkeit in Anspruch genommen werden.",
+  "antwort": true,
+  "erklaerung": "§ 721 BGB ordnet die persönliche und gesamtschuldnerische Haftung der Gesellschafter für Verbindlichkeiten der GbR an. Ein Gläubiger kann daher jeden Gesellschafter auf die volle Verbindlichkeit in Anspruch nehmen; eine Begrenzung auf die Beteiligungsquote gibt es im Außenverhältnis nicht."
+ },
+ {
+  "id": "hand1-061",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "GbR: Gründung, Haftung, Geschäftsführung und Vertretung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/gbr-grundung-haftung-geschaftsfuhrung-und-vertretung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 715 Abs. 3 BGB",
+   "§ 715 Abs. 4 BGB",
+   "§ 715a BGB"
+  ],
+  "frage": "Der Gesellschaftsvertrag der A-B-C-GbR sieht Einzelgeschäftsführungsbefugnis jedes Gesellschafters vor. A will einen Rahmenvertrag schließen, B widerspricht. Was gilt im Innenverhältnis?",
+  "optionen": [
+   "A darf handeln, da er einzelgeschäftsführungsbefugt ist",
+   "Es entscheidet die Mehrheit der Gesellschafter, also A und C",
+   "Das Geschäft unterbleibt, da jeder andere geschäftsführungsbefugte Gesellschafter widersprechen kann",
+   "Das Geschäft unterbleibt nur, wenn es sich um ein Notgeschäft handelt"
+  ],
+  "antwort": 2,
+  "erklaerung": "Ist nach § 715 Abs. 4 BGB jeder von mehreren geschäftsführungsbefugten Gesellschaftern allein handlungsbefugt, kann jeder andere geschäftsführungsbefugte Gesellschafter widersprechen; dann unterbleibt das Geschäft. Ohne Vertragsregelung gälte ohnehin Gesamtgeschäftsführung (§ 715 Abs. 3 BGB). Notgeschäfte nach § 715a BGB sind gerade eine Ausnahme vom Zustimmungserfordernis, kein Anwendungsfall des Widerspruchs."
+ },
+ {
+  "id": "hand1-062",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "GbR: Gründung, Haftung, Geschäftsführung und Vertretung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/gbr-grundung-haftung-geschaftsfuhrung-und-vertretung",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 705 Abs. 2 BGB",
+   "§ 705 Abs. 3 BGB",
+   "§ 740 Abs. 1 BGB",
+   "§ 720 BGB"
+  ],
+  "frage": "Ordne die Begriffe des GbR-Rechts der zutreffenden Aussage zu.",
+  "paare": [
+   [
+    "Außen-GbR",
+    "Rechtsfähig, wenn die Gesellschafter die Teilnahme am Rechtsverkehr übereinstimmend wollen"
+   ],
+   [
+    "Innen-GbR",
+    "Besitzt kein Vermögen; bloßes Schuldverhältnis ohne eigenes Rechtssubjekt"
+   ],
+   [
+    "Betrieb eines Unternehmens unter gemeinschaftlichem Namen",
+    "Vermutung für die Rechtsfähigkeit der GbR"
+   ],
+   [
+    "Gesetzliche Vertretung",
+    "Alle Gesellschafter vertreten die GbR gemeinsam"
+   ]
+  ],
+  "erklaerung": "Die GbR ist rechtsfähig, wenn sie nach dem gemeinsamen Willen der Gesellschafter am Rechtsverkehr teilnimmt (§ 705 Abs. 2 S. 1 BGB); davon ist insbesondere beim Betrieb eines Unternehmens unter gemeinschaftlichem Namen auszugehen (§ 705 Abs. 3 BGB). Die Innen-GbR besitzt nach § 740 Abs. 1 BGB kein Vermögen. Gesetzlicher Regelfall der Vertretung ist nach § 720 BGB die Gesamtvertretung; Einzelbefugnisse müssen vertraglich vereinbart werden."
  }
 ]
