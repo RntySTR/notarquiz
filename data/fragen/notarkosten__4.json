@@ -93,9 +93,9 @@
    "§ 17 Abs. 1 S. 1 BNotO",
    "§ 125 GNotKG"
   ],
-  "frage": "Fällt der Käufer als Hauptschuldner aus, darf der Notar aus Entgegenkommen darauf verzichten, den Verkäufer als weiteren Gesamtschuldner in Anspruch zu nehmen.",
-  "antwort": false,
-  "erklaerung": "Der Verzicht darauf, bei Ausfall eines Kostenschuldners einen anderen Gesamtschuldner heranzuziehen, ist ebenso unzulässig wie ein Erlass. Er verstößt gegen die Erhebungspflicht nach § 17 Abs. 1 S. 1 BNotO und § 125 GNotKG; die Seite nennt ihn als typischen Fehler."
+  "frage": "Fällt der Käufer als Hauptschuldner aus, muss der Notar den Verkäufer als weiteren Gesamtschuldner in Anspruch nehmen; ein Verzicht aus Entgegenkommen ist unzulässig.",
+  "antwort": true,
+  "erklaerung": "Der Verzicht darauf, bei Ausfall eines Kostenschuldners einen anderen Gesamtschuldner heranzuziehen, ist ebenso unzulässig wie ein Erlass; er verstößt gegen die Erhebungspflicht nach § 17 Abs. 1 S. 1 BNotO und § 125 GNotKG. Die Seite nennt das Unterlassen aus Entgegenkommen als typischen Fehler."
  },
  {
   "id": "kost4-006",
@@ -184,7 +184,7 @@
   "seite": "Notarkosten: Fälligkeit, Vorschuss, Verzinsung, Zurückbehaltung",
   "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-falligkeit-vorschuss-verzinsung-zuruckbehaltung",
   "typ": "rf",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 19 Abs. 2 Nr. 5 GNotKG",
    "§ 15 GNotKG"
@@ -384,7 +384,7 @@
   "seite": "Notarkosten: Kostenschuldner – Grundsätze (§§ 29–32 GNotKG)",
   "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-kostenschuldner-grundsatze-29-32-gnotkg",
   "typ": "rf",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 29 GNotKG",
    "§ 30 Abs. 1 GNotKG"
@@ -507,9 +507,9 @@
    "§ 91 GNotKG",
    "§ 1 Abs. 1 GNotKG"
   ],
-  "frage": "Ist ein Kostenschuldner nach Bundes- oder Landesrecht gebührenbegünstigt, erstreckt sich die Ermäßigung regelmäßig auch auf Auslagen und durchlaufende Posten.",
-  "antwort": false,
-  "erklaerung": "Gebührenermäßigungen und -befreiungen (etwa § 91 GNotKG) betreffen regelmäßig nur die Gebühr. Auslagen einschließlich durchlaufender Posten kann der Notar auch vom begünstigten Schuldner stets in voller Höhe verlangen; deshalb ist die Unterscheidung des § 1 Abs. 1 GNotKG zwischen Gebühren und Auslagen bedeutsam."
+  "frage": "Auch von einem nach Bundes- oder Landesrecht gebührenbegünstigten Kostenschuldner kann der Notar Auslagen und durchlaufende Posten in voller Höhe verlangen.",
+  "antwort": true,
+  "erklaerung": "Gebührenermäßigungen und -befreiungen (etwa § 91 GNotKG) betreffen regelmäßig nur die Gebühr. Auslagen einschließlich durchlaufender Posten kann der Notar auch vom begünstigten Schuldner stets in voller Höhe verlangen; deshalb ist die Unterscheidung des § 1 Abs. 1 GNotKG zwischen Gebühren und Auslagen bedeutsam. Eine Kürzung auch der Auslagen wäre fehlerhaft."
  },
  {
   "id": "kost4-023",
@@ -787,7 +787,7 @@
   "seite": "Auslagen: Dokumentenpauschale (KV 32000–32003 GNotKG)",
   "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/auslagen-dokumentenpauschale-kv-32000-32003-gnotkg",
   "typ": "rf",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "KV 25102 GNotKG",
    "KV 32000 GNotKG"
@@ -880,7 +880,7 @@
   "seite": "Auslagen: Post, Telekommunikation und Reisekosten (KV 32004–32009 GNotKG)",
   "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/auslagen-post-telekommunikation-und-reisekosten-kv-32004-32009-gnotkg",
   "typ": "rf",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "Vorb. 3.2 Abs. 2 KV GNotKG",
    "KV 32006 GNotKG"
@@ -963,7 +963,7 @@
   "seite": "Auslagen: sonstige Auslagen und Umsatzsteuer (KV 32010–32015 GNotKG)",
   "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/auslagen-sonstige-auslagen-und-umsatzsteuer-kv-32010-32015-gnotkg",
   "typ": "rf",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "KV 32015 GNotKG",
    "§ 78g Abs. 2 BNotO"
@@ -1097,7 +1097,7 @@
   "seite": "Kostenberechnung: Pflicht- und Sollangaben, Textform (§ 19 GNotKG)",
   "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/kostenberechnung-pflicht-und-sollangaben-textform-19-gnotkg",
   "typ": "rf",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 19 Abs. 1 GNotKG",
    "§ 126b BGB"
@@ -1237,14 +1237,14 @@
   "seite": "Kostenberechnung: Rechtsbehelfsbelehrung (§ 7a GNotKG) und Wertangabe gegenüber Gerichten",
   "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/kostenberechnung-rechtsbehelfsbelehrung-7a-gnotkg-und-wertangabe-gegenuber-gerichten",
   "typ": "rf",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 7a GNotKG",
    "§ 19 Abs. 4 GNotKG"
   ],
-  "frage": "Fehlt in der Kostenberechnung die Rechtsbehelfsbelehrung, ist die Kostenberechnung nach § 19 Abs. 4 GNotKG unwirksam.",
-  "antwort": false,
-  "erklaerung": "Die Belehrungspflicht steht in § 7a GNotKG, nicht in § 19 GNotKG; sie ist daher weder Muss- noch Sollangabe. Fehlt sie, bleibt die Kostenberechnung wirksam. § 7a GNotKG enthält keine eigene Sanktion; nach allgemeinen Regeln läuft lediglich eine Rechtsbehelfsfrist ohne Belehrung nicht ab."
+  "frage": "Fehlt in der Kostenberechnung die Rechtsbehelfsbelehrung nach § 7a GNotKG, bleibt die Kostenberechnung gleichwohl wirksam.",
+  "antwort": true,
+  "erklaerung": "Die Belehrungspflicht steht in § 7a GNotKG, nicht in § 19 GNotKG; sie ist daher weder Muss- noch Sollangabe, sodass § 19 Abs. 4 GNotKG nicht eingreift. § 7a GNotKG enthält keine eigene Sanktion; nach allgemeinen Regeln läuft lediglich eine Rechtsbehelfsfrist ohne Belehrung nicht ab."
  },
  {
   "id": "kost4-053",
@@ -1341,13 +1341,13 @@
   "seite": "Kostenberechnung: umsatzsteuerliche Rechnungsangaben und Korrektur",
   "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/kostenberechnung-umsatzsteuerliche-rechnungsangaben-und-korrektur",
   "typ": "rf",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 17 Abs. 1 BNotO"
   ],
-  "frage": "Bemerkt der Notar, dass seine Kostenberechnung inhaltlich unrichtig ist, steht eine Berichtigung in seinem Ermessen.",
-  "antwort": false,
-  "erklaerung": "Eine formal oder inhaltlich unrichtige Kostenberechnung darf der Notar nicht nur ändern, er muss sie berichtigen. Das folgt aus dem Gebot gesetzmäßiger Gebührenerhebung nach § 17 Abs. 1 BNotO."
+  "frage": "Bemerkt der Notar, dass seine Kostenberechnung inhaltlich unrichtig ist, ist er zur Berichtigung verpflichtet.",
+  "antwort": true,
+  "erklaerung": "Eine formal oder inhaltlich unrichtige Kostenberechnung darf der Notar nicht nur ändern, er muss sie berichtigen; ein Ermessen besteht nicht. Das folgt aus dem Gebot gesetzmäßiger Gebührenerhebung nach § 17 Abs. 1 BNotO."
  },
  {
   "id": "kost4-058",
