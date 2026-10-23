@@ -469,5 +469,101 @@
   "antwort": false,
   "erklaerung": "Fällt ein Elternteil für die Sorge aus (etwa durch Tod), ändert sich die Sorgeberechtigung kraft Gesetzes ohne gerichtliche Entscheidung (§§ 1678, 1680, 1681 BGB). § 1671 BGB betrifft dagegen die Übertragung der Alleinsorge bei dauerhaft getrennt lebenden Eltern; Maßstab ist dort allein das Kindeswohl (§ 1697a BGB). Nur im Trennungsfall muss sich der Notar die familiengerichtliche Entscheidung vorlegen lassen.",
   "id": "fami1-021"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Abstammung und elterliche Sorge",
+  "seite": "Verwandtschaft: Linien, Grade und Schwägerschaft",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/verwandtschaft-linien-grade-und-schwagerschaft",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1589 S. 2 BGB",
+   "§ 1589 S. 3 BGB"
+  ],
+  "frage": "In welchem Grad und in welcher Linie sind Onkel und Neffe miteinander verwandt?",
+  "optionen": [
+   "Seitenlinie, zweiter Grad",
+   "Gerade Linie, zweiter Grad",
+   "Seitenlinie, dritter Grad",
+   "Gerade Linie, dritter Grad"
+  ],
+  "antwort": 2,
+  "erklaerung": "Onkel und Neffe stammen nicht voneinander ab, haben aber einen gemeinsamen Vorfahren und sind daher in der Seitenlinie verwandt (§ 1589 S. 2 BGB). Der Grad bemisst sich nach der Zahl der vermittelnden Geburten (§ 1589 S. 3 BGB), gezählt über den gemeinsamen Vorfahren: drei Geburten, also dritter Grad. Im zweiten Grad der Seitenlinie stehen Geschwister, gleich ob voll- oder halbbürtig.",
+  "id": "fami1-022"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Abstammung und elterliche Sorge",
+  "seite": "Verwandtschaft: Linien, Grade und Schwägerschaft",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/verwandtschaft-linien-grade-und-schwagerschaft",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1590 Abs. 1 S. 1 BGB",
+   "§ 1590 Abs. 2 BGB"
+  ],
+  "frage": "Welche Aussage zur Schwägerschaft ist richtig?",
+  "optionen": [
+   "Die Schwägerschaft endet mit der Scheidung der sie vermittelnden Ehe",
+   "Zwischen den Verwandten beider Ehegatten besteht Schwägerschaft zweiten Grades",
+   "Ehegatten sind miteinander im ersten Grad verschwägert",
+   "Die Schwägerschaft besteht auch nach Auflösung der Ehe durch Tod oder Scheidung fort (§ 1590 Abs. 2 BGB)"
+  ],
+  "antwort": 3,
+  "erklaerung": "Die Verwandten eines Ehegatten sind mit dem anderen Ehegatten verschwägert (§ 1590 Abs. 1 S. 1 BGB), und diese Schwägerschaft besteht nach § 1590 Abs. 2 BGB fort, wenn die Ehe durch Tod oder Scheidung aufgelöst wird. Zwischen den Verwandten beider Ehegatten entsteht dagegen keine Schwägerschaft (Schwippschwägerschaft ist rechtlich bedeutungslos), und Ehegatten sind untereinander weder verwandt noch verschwägert.",
+  "id": "fami1-023"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Abstammung und elterliche Sorge",
+  "seite": "Verwandtschaft: Linien, Grade und Schwägerschaft",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/verwandtschaft-linien-grade-und-schwagerschaft",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1590 BGB",
+   "§§ 1924 ff. BGB",
+   "§§ 1601 ff. BGB"
+  ],
+  "frage": "Ein Stiefkind ist gegenüber dem Stiefelternteil gesetzlich erbberechtigt, weil es mit ihm verschwägert ist.",
+  "antwort": false,
+  "erklaerung": "Die Schwägerschaft (§ 1590 BGB) wirkt schwächer als die Verwandtschaft: Sie begründet weder ein gesetzliches Erbrecht (§§ 1924 ff. BGB) noch einen gesetzlichen Unterhaltsanspruch (§§ 1601 ff. BGB); das gilt ausdrücklich auch für Stiefkinder. Stief- oder Schwiegerkinder als gesetzliche Erben zu behandeln ist ein typischer Praxisfehler. Verschwägerte haben lediglich etwa Aussageverweigerungsrechte (§ 383 Abs. 1 Nr. 3 ZPO).",
+  "id": "fami1-024"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Abstammung und elterliche Sorge",
+  "seite": "Verwandtschaft: Linien, Grade und Schwägerschaft",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/verwandtschaft-linien-grade-und-schwagerschaft",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1589 BGB",
+   "§ 1590 BGB",
+   "§§ 1754, 1755 BGB",
+   "§§ 1770, 1772 BGB"
+  ],
+  "frage": "Ordne die Personenverhältnisse ihrer rechtlichen Einordnung zu.",
+  "paare": [
+   [
+    "Großeltern und Enkel",
+    "Gerade Linie, zweiter Grad"
+   ],
+   [
+    "Halbgeschwister",
+    "Seitenlinie, zweiter Grad"
+   ],
+   [
+    "Ehefrau und Schwester des Ehemanns",
+    "Schwägerschaft nach § 1590 Abs. 1 S. 1 BGB"
+   ],
+   [
+    "Minderjährig Adoptierter und Annehmender",
+    "Der Abstammung vollständig gleichgestellt (§§ 1754, 1755 BGB)"
+   ]
+  ],
+  "erklaerung": "Zwischen Großeltern und Enkel liegen zwei Geburten, daher gerade Linie zweiten Grades (§ 1589 S. 1, S. 3 BGB); Geschwister stehen in der Seitenlinie im zweiten Grad, gleich ob voll- oder halbbürtig. Die Verwandten eines Ehegatten sind mit dem anderen Ehegatten verschwägert (§ 1590 BGB). Die Minderjährigenadoption stellt das Kind der Abstammung vollständig gleich, während die Volljährigenadoption das Verhältnis nur annähert (§§ 1770, 1772 BGB).",
+  "id": "fami1-025"
  }
 ]

@@ -14,8 +14,8 @@
   "optionen": [
    "Höchstens zwei Wochen",
    "Höchstens 5–6 Wochen",
-   "Höchstens drei Monate",
-   "Höchstens sechs Monate"
+   "Höchstens sechs Monate",
+   "Höchstens drei Monate"
   ],
   "antwort": 1,
   "erklaerung": "Die Registereinsicht sollte höchstens 5–6 Wochen alt sein, damit die Beweiskraft der Bescheinigung nach § 21 BNotO nicht leidet; dieselbe Höchstdauer gilt für einen beglaubigten Registerauszug. Da das Register elektronisch eingesehen werden kann, soll die Einsicht idealerweise am Tag der Bescheinigung erfolgen. Drei oder sechs Monate wären deutlich zu lang und entsprechen keiner anerkannten Frist."
@@ -35,10 +35,10 @@
   "optionen": [
    "Nur eine Bescheinigung über die Vertretung der KG durch die Komplementär-GmbH",
    "Nur eine Bescheinigung über die Vertretung der GmbH durch ihren Geschäftsführer",
-   "Zwei Bescheinigungen: Vertretung der KG durch die GmbH und Vertretung der GmbH durch den Geschäftsführer",
-   "Keine Bescheinigung, weil die Vertretungskette aus dem Handelsregister der KG allein folgt"
+   "Keine Bescheinigung, weil die Vertretungskette aus dem Handelsregister der KG allein folgt",
+   "Zwei Bescheinigungen: Vertretung der KG durch die GmbH und Vertretung der GmbH durch den Geschäftsführer"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Die GmbH & Co. KG erfordert zwei Vertretungsbescheinigungen: eine für die Vertretung der KG durch ihre Komplementär-GmbH und eine für die Vertretung dieser GmbH durch den Geschäftsführer. Der typische Fehler besteht darin, nur die Vertretung der KG zu bescheinigen und die zweite Stufe der Vertretungskette zu übergehen."
  },
  {
@@ -71,12 +71,12 @@
   ],
   "frage": "Ein WEG-Verwalter weist seine Bestellung durch die Beschlussniederschrift nach. Wessen Unterschriften müssen darauf beglaubigt sein, wenn ein Verwaltungsbeirat besteht?",
   "optionen": [
-   "Versammlungsleiter und sämtliche anwesenden Wohnungseigentümer",
-   "Versammlungsleiter, ein weiterer Wohnungseigentümer und der Vorsitzende des Verwaltungsbeirats",
+   "Verwalter und Vorsitzender des Verwaltungsbeirats",
    "Nur der Versammlungsleiter und der Verwalter selbst",
-   "Verwalter und Vorsitzender des Verwaltungsbeirats"
+   "Versammlungsleiter, ein weiterer Wohnungseigentümer und der Vorsitzende des Verwaltungsbeirats",
+   "Versammlungsleiter und sämtliche anwesenden Wohnungseigentümer"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Nach § 26 Abs. 4 i. V. m. § 24 Abs. 6 WEG müssen auf der Niederschrift über den Bestellungsbeschluss die Unterschriften des Versammlungsleiters und eines weiteren Wohnungseigentümers beglaubigt sein, bei bestehendem Verwaltungsbeirat zusätzlich die des Beiratsvorsitzenden. Der Verwalter selbst unterschreibt nicht in dieser Funktion; die Unterschriften aller Anwesenden sind nicht erforderlich."
  },
  {
@@ -125,9 +125,9 @@
   ],
   "frage": "In welcher Form sollen vorgelegte Vollmachten nach § 12 BeurkG der Niederschrift beigefügt werden?",
   "optionen": [
-   "In einfacher Abschrift oder Kopie",
-   "In Urschrift oder beglaubigter Abschrift",
    "Nur in Ausfertigung",
+   "In Urschrift oder beglaubigter Abschrift",
+   "In einfacher Abschrift oder Kopie",
    "Gar nicht; es genügt der Hinweis in der Niederschrift"
   ],
   "antwort": 1,
@@ -182,12 +182,12 @@
   ],
   "frage": "Ein Bevollmächtigter legt eine Verkaufsvollmacht vor und will für den Eigentümer eine Finanzierungsgrundschuld mit Unterwerfung nach § 800 ZPO bestellen. Wie ist die Reichweite der Vollmacht zu beurteilen?",
   "optionen": [
+   "Die Belastung ist gedeckt, sobald die Vollmacht das Grundstück nach § 28 GBO bezeichnet",
    "Die Verkaufsvollmacht deckt die Belastung mit, weil sie das wirtschaftlich geringere Geschäft ist",
-   "Die Verkaufsvollmacht umfasst die Belastung nicht ohne Weiteres; die Unterwerfung nach § 800 ZPO muss gesondert erwähnt sein",
    "Die Belastung ist gedeckt, wenn der Bevollmächtigte von § 181 BGB befreit ist",
-   "Die Belastung ist gedeckt, sobald die Vollmacht das Grundstück nach § 28 GBO bezeichnet"
+   "Die Verkaufsvollmacht umfasst die Belastung nicht ohne Weiteres; die Unterwerfung nach § 800 ZPO muss gesondert erwähnt sein"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Eine Verkaufsvollmacht umfasst nicht ohne Weiteres die Belastung des Grundbesitzes; die Unterwerfung nach § 800 ZPO muss in der Vollmacht gesondert erwähnt sein. Die Befreiung von § 181 BGB und die Grundstücksbezeichnung nach § 28 GBO betreffen andere Prüfpunkte, erweitern aber nicht den sachlichen Umfang der Vollmacht. Genau dieser Fehler wird als typisch beschrieben."
  },
  {
@@ -201,9 +201,9 @@
   "normen": [
    "§ 181 BGB"
   ],
-  "frage": "Ein Unterbevollmächtigter kann von § 181 BGB auch dann befreit werden, wenn der Hauptbevollmächtigte selbst nicht von § 181 BGB befreit ist.",
-  "antwort": false,
-  "erklaerung": "Falsch. Eine Untervollmacht kann nie weiter reichen als die Hauptvollmacht; von § 181 BGB kann ein Unterbevollmächtigter daher nur befreit werden, wenn der Bevollmächtigte selbst befreit ist. Die Befreiung ist kein eigenständiges Recht des Unterbevollmächtigten, sondern leitet sich aus der Hauptvollmacht ab."
+  "frage": "Ein Unterbevollmächtigter kann von § 181 BGB nur befreit werden, wenn der Hauptbevollmächtigte selbst von § 181 BGB befreit ist.",
+  "antwort": true,
+  "erklaerung": "Richtig. Eine Untervollmacht kann nie weiter reichen als die Hauptvollmacht; von § 181 BGB kann ein Unterbevollmächtigter daher nur befreit werden, wenn der Bevollmächtigte selbst befreit ist. Die verbreitete Fehlvorstellung, der Hauptbevollmächtigte könne dem Unterbevollmächtigten mehr Befugnisse einräumen als er selbst hat, verkennt die Abhängigkeit der Untervollmacht von der Hauptvollmacht."
  },
  {
   "id": "beur2-010",
@@ -293,10 +293,10 @@
   "optionen": [
    "Die Beurkundung ablehnen, weil der Notar stets den sichersten Weg wählen muss",
    "Beurkunden und über das Risiko belehren; die Erwähnung von Sicherungsmöglichkeiten ist entbehrlich, weil die Beteiligten sie abgelehnt haben",
-   "Beurkunden und doppelt belehren: über die Risiken und konkret über mögliche Absicherungsmaßnahmen; den abweichenden Vorschlag in der Urkunde festhalten",
-   "Beurkunden, ohne zu belehren, weil die Beteiligten die Gestaltung selbst gewählt haben"
+   "Beurkunden, ohne zu belehren, weil die Beteiligten die Gestaltung selbst gewählt haben",
+   "Beurkunden und doppelt belehren: über die Risiken und konkret über mögliche Absicherungsmaßnahmen; den abweichenden Vorschlag in der Urkunde festhalten"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Eine zulässige abweichende Gestaltung darf der Notar beurkunden, muss dann aber doppelt belehren: über die bestehenden Risiken und konkret über Maßnahmen zu ihrer Absicherung. Lehnen die Beteiligten die Sicherungen ab, sollte die Urkunde aus Beweisgründen den abweichenden Vorschlag des Notars festhalten. Der typische Fehler ist die Belehrung nur über das Risiko ohne Aufzeigen konkreter Absicherungsmöglichkeiten; eine Ablehnung der Beurkundung ist nicht geboten."
  },
  {
@@ -314,12 +314,12 @@
   ],
   "frage": "Welche Pflicht trifft den Notar bei Amtsgeschäften nach § 24 BNotO, etwa bei der Fälligkeitsmitteilung oder der Abwicklung eines Treuhandauftrags?",
   "optionen": [
+   "Keine Pflicht, weil Betreuungsgeschäfte außerhalb der Amtstätigkeit liegen",
    "Die Belehrungspflicht nach § 17 BeurkG in vollem Umfang",
    "Die Pflicht, das übernommene Geschäft im Rahmen des Auftrags ordnungsgemäß zu betreuen",
-   "Keine Pflicht, weil Betreuungsgeschäfte außerhalb der Amtstätigkeit liegen",
    "Nur die Pflicht zur Unparteilichkeit, nicht aber zur Betreuung"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Bei Amtsgeschäften nach § 24 BNotO trifft den Notar keine Belehrungspflicht, sondern die Pflicht, das übernommene Geschäft im Rahmen seines Auftrags ordnungsgemäß zu betreuen; typische Fälle sind Fälligkeitsmitteilung, Überwachung der Auflassung und Treuhandaufträge. Daneben besteht die aus §§ 1, 14 BNotO abgeleitete allgemeine Betreuungspflicht, die vor allem Haftungsgrundlage gegenüber nicht unmittelbar Beteiligten ist."
  },
  {
@@ -333,9 +333,9 @@
   "normen": [
    "§ 17 Abs. 1 BeurkG"
   ],
-  "frage": "Bei neuen Gesetzen und neuen Urteilen darf der Notar abwarten, bis sich eine gefestigte höchstrichterliche Auslegung gebildet hat; vorher begründen sie keine Belehrungspflicht.",
-  "antwort": false,
-  "erklaerung": "Falsch. Auch neue Gesetze und neue Urteile begründen Belehrungspflichten; der Notar muss sie als Erster anwenden und möglichst sofort so, wie der BGH sie Jahre später auslegen wird (Rechtsprechungsprognose, vgl. BGH NJW 2016, 1324 zur Bindungsfrist von Angeboten). Erkennbare Tendenzen der Rechtsprechung darf er nicht übersehen."
+  "frage": "Auch neue Gesetze und neue Urteile begründen sofort Belehrungspflichten; der Notar muss sie möglichst so anwenden, wie der Bundesgerichtshof sie später auslegen wird.",
+  "antwort": true,
+  "erklaerung": "Richtig. Neue Gesetze und Urteile begründen Belehrungspflichten; der Notar muss sie als Erster anwenden, und zwar möglichst sofort so, wie der BGH sie Jahre später auslegen wird (Rechtsprechungsprognose, vgl. BGH NJW 2016, 1324 zur Bindungsfrist von Angeboten). Abzuwarten, bis sich eine gefestigte Auslegung gebildet hat, wäre pflichtwidrig; erkennbare Tendenzen der Rechtsprechung darf er nicht übersehen."
  },
  {
   "id": "beur2-015",
@@ -378,12 +378,12 @@
   ],
   "frage": "Wie weit reicht die Pflicht des Notars zur Ermittlung des Sachverhalts nach § 17 BeurkG?",
   "optionen": [
-   "Der Notar muss die Angaben der Beteiligten eigenständig und ohne Anlass detektivisch überprüfen",
    "Der Notar darf den Angaben grundsätzlich glauben, darf Berichtetes aber nicht absichtlich überhören oder unbeachtet lassen",
    "Der Notar darf sich auf die Sachverhaltsklärung durch seine Mitarbeiter verlassen und ist damit von eigener Verantwortung frei",
+   "Der Notar muss die Angaben der Beteiligten eigenständig und ohne Anlass detektivisch überprüfen",
    "Der Notar muss nur den Sachverhalt ermitteln, der sich aus dem Entwurf ergibt"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Der Notar darf den Angaben der Beteiligten grundsätzlich glauben und muss nicht detektivisch ohne Anlass ermitteln; was ihm berichtet wird, darf er aber nicht absichtlich überhören oder unbeachtet lassen. Die Sachverhaltsklärung durch Mitarbeiter entlastet ihn nicht von seiner eigenen Verantwortung. Typischer Fehler ist das Übergehen einer Bemerkung, die auf eine nicht beurkundete Nebenabrede hindeutet."
  },
  {
@@ -414,12 +414,12 @@
   ],
   "frage": "Welche Aussage zur sprachlichen Gestaltung der Urkunde trifft zu?",
   "optionen": [
-   "Auf Fachbegriffe ist vollständig zu verzichten, damit Laien den Text verstehen",
-   "Verständliche, kurze Sätze in klarer Alltagssprache, ohne auf Fachbegriffe zu verzichten, damit der rechtliche Inhalt eindeutig bleibt",
    "Paragraphen müssen stets zitiert werden, damit die Belehrung nachweisbar ist",
-   "Eine Gliederung ist entbehrlich, wenn die Urkunde vollständig vorgelesen wird"
+   "Eine Gliederung ist entbehrlich, wenn die Urkunde vollständig vorgelesen wird",
+   "Auf Fachbegriffe ist vollständig zu verzichten, damit Laien den Text verstehen",
+   "Verständliche, kurze Sätze in klarer Alltagssprache, ohne auf Fachbegriffe zu verzichten, damit der rechtliche Inhalt eindeutig bleibt"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Die Urkunde soll aus verständlichen, kurzen Sätzen in klarer Alltagssprache bestehen; auf Fachbegriffe wird dennoch nicht verzichtet, damit der rechtliche Inhalt eindeutig ist. Ob Paragraphen zitiert werden, ist eine Stilfrage; eine Gliederung ist stets geboten, weil sie den Überblick erleichtert und dem Notar zur Vollständigkeitskontrolle dient."
  },
  {
@@ -435,12 +435,12 @@
   ],
   "frage": "Ein Bauträger verwendet eine umfassende Mutterurkunde mit dem wesentlichen Vertragsinhalt einschließlich der Gewährleistungsregeln, auf die in jedem Einzelvertrag nach § 13c BeurkG verwiesen wird. Wie ist dieses Verfahren zu beurteilen?",
   "optionen": [
+   "Zulässig, sofern die Bezugsurkunde bei der Beurkundung vorliegt",
    "Nach dem BeurkG unwirksam, weil geschäftswesentliche Inhalte nicht in Bezugsurkunden stehen dürfen",
-   "Nach dem BeurkG wirksam, aber standeswidrig und als Amtspflichtverletzung ahndbar",
    "Zulässig, weil § 13c BeurkG von Vorlesung und Belehrung über den Inhalt befreit",
-   "Zulässig, sofern die Bezugsurkunde bei der Beurkundung vorliegt"
+   "Nach dem BeurkG wirksam, aber standeswidrig und als Amtspflichtverletzung ahndbar"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Eine umfassende Mutterurkunde ist nach dem BeurkG wirksam, die missbräuchliche Auslagerung geschäftswesentlicher, belehrungsbedürftiger Regelungen wie der Gewährleistung ist aber standeswidrig und kann als Amtspflichtverletzung geahndet werden. § 13c BeurkG befreit nur vom Vorlesen, nicht von der inhaltlichen Belehrung; die Wirksamkeit nach dem BeurkG bleibt unberührt."
  },
  {
@@ -472,12 +472,12 @@
   ],
   "frage": "Welcher Grund rechtfertigt nach den Richtlinienempfehlungen die planmäßige Aufspaltung eines Bauträgervertrags in Angebot und spätere Annahme nicht?",
   "optionen": [
-   "Der Verkäufer will das Projekt nur bei einer ausreichenden Zahl von Käufern verwirklichen",
    "Große Entfernung zwischen Sitz des Unternehmers und Wohnort des Käufers",
-   "Der Käufer muss seine Finanzierung erst noch klären",
-   "Der Käufer als Verbraucher soll das Angebot abgeben und dabei belehrt werden"
+   "Der Käufer als Verbraucher soll das Angebot abgeben und dabei belehrt werden",
+   "Der Verkäufer will das Projekt nur bei einer ausreichenden Zahl von Käufern verwirklichen",
+   "Der Käufer muss seine Finanzierung erst noch klären"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Die Begründung, der Käufer müsse seine Finanzierung erst klären, trägt nach den Richtlinienempfehlungen nicht. Sachlich gerechtfertigt sein kann die Aufspaltung dagegen, wenn der Verkäufer das Projekt nur bei ausreichender Käuferzahl verwirklichen will (wobei die Rechtsprechung zu Annahmefristen die Vorratsbindung auf regelmäßig vier Wochen begrenzt, AGB-Fristen über sechs Wochen sind unwirksam) oder bei großer Entfernung. Bei getrennter Beurkundung gibt der Verbraucher das Angebot ab, damit er belehrt wird."
  },
  {
@@ -494,11 +494,11 @@
   "frage": "In welcher der folgenden Konstellationen muss der Notar seine Unparteilichkeit nach den Richtlinienempfehlungen wahren?",
   "optionen": [
    "Nur bei der Beurkundung von Verträgen mit mehreren Beteiligten",
+   "Nicht bei genehmigten Nebentätigkeiten, weil diese außerhalb des Amtes liegen",
    "Auch bei Beratung, Entwurfsfertigung und Gutachten auf einseitigen Antrag sowie bei zulässiger Vertretung vor Grundbuchamt, Registergericht und Finanzamt",
-   "Nur bei der Vertretung eines Beteiligten in gerichtlichen Genehmigungsverfahren",
-   "Nicht bei genehmigten Nebentätigkeiten, weil diese außerhalb des Amtes liegen"
+   "Nur bei der Vertretung eines Beteiligten in gerichtlichen Genehmigungsverfahren"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Schon der Anschein der Parteilichkeit ist zu vermeiden; die Unparteilichkeit gilt auch bei einseitiger Beratung, Entwurfsfertigung und Gutachten und bei der gesetzlich zulässigen Vertretung vor Grundbuchamt, Registergericht, im Erbscheinsverfahren und gegenüber den Finanzämtern. Auch andere Berufs- und Nebentätigkeiten, genehmigt oder genehmigungsfrei, dürfen Unabhängigkeit und Unparteilichkeit nicht in Frage stellen."
  },
  {
@@ -516,8 +516,8 @@
   "optionen": [
    "Drei",
    "Fünf",
-   "Acht",
-   "Zehn"
+   "Zehn",
+   "Acht"
   ],
   "antwort": 1,
   "erklaerung": "Eine Sammelbeurkundung darf höchstens fünf Niederschriften mit verschiedenen Beteiligten gleichzeitig umfassen; den Beteiligten muss schon bei der ersten Beurkundung klar sein, dass gleichlautende Teile nur einmal vorgelesen werden. Das Verfahren ist nur ausnahmsweise zulässig, Einzelbeurkundungen sind regelmäßig vorzuziehen."
@@ -535,12 +535,12 @@
   ],
   "frage": "Im Bauträgervertrag mit einem Verbraucher wurde eine Notarangestellte zur Bestellung der Finanzierungsgrundschuld bevollmächtigt. Der Notar beurkundet die Grundschuld ohne sachlichen Grund mit der Angestellten. Wie ist das zu beurteilen?",
   "optionen": [
-   "Zulässig, weil die Grundschuldbestellung ein bloßes Vollzugsgeschäft ist",
-   "Zulässig, weil Notarangestellte als neutrale Personen Vertrauenspersonen nach § 17 Abs. 2a S. 2 BeurkG sind",
    "Amtspflichtverletzung, weil die Finanzierungsgrundschuld kein Vollzugsgeschäft und die Angestellte keine taugliche Vertrauensperson ist",
-   "Zulässig, wenn der Verbraucher den Grundschuldentwurf zwei Wochen vorher erhalten hat"
+   "Zulässig, wenn der Verbraucher den Grundschuldentwurf zwei Wochen vorher erhalten hat",
+   "Zulässig, weil Notarangestellte als neutrale Personen Vertrauenspersonen nach § 17 Abs. 2a S. 2 BeurkG sind",
+   "Zulässig, weil die Grundschuldbestellung ein bloßes Vollzugsgeschäft ist"
   ],
-  "antwort": 2,
+  "antwort": 0,
   "erklaerung": "Geklärt ist, dass die Bestellung von Finanzierungsgrundschulden kein Vollzugsgeschäft ist: Sie ermöglicht die Finanzierung, vollzieht den Vertrag aber nicht. Beurkundet der Notar bei Verbraucherverträgen Grundschuldbestellungen ohne sachlichen Grund durch im Kaufvertrag bevollmächtigte Mitarbeiter, verletzt er seine Amtspflicht; Notarangestellte sind keine tauglichen Vertrauenspersonen nach § 17 Abs. 2a S. 2 BeurkG, weil bloße Neutralität nicht genügt."
  },
  {
@@ -587,10 +587,10 @@
   ],
   "frage": "Was muss der Verbraucher bei einem nach § 311b BGB beurkundungspflichtigen Verbrauchervertrag im Regelfall spätestens zwei Wochen vor der Beurkundung erhalten?",
   "optionen": [
-   "Eine Zusammenfassung der wesentlichen Vertragspunkte durch den Unternehmer",
+   "Eine schriftliche Belehrung des Notars über die Rechtsfolgen",
    "Den beabsichtigten Text des Rechtsgeschäfts samt Abschriften etwaiger Bezugsurkunden, unmittelbar vom Notar",
-   "Den vom Bauträger übersandten Vertragsentwurf ohne Anlagen",
-   "Eine schriftliche Belehrung des Notars über die Rechtsfolgen"
+   "Eine Zusammenfassung der wesentlichen Vertragspunkte durch den Unternehmer",
+   "Den vom Bauträger übersandten Vertragsentwurf ohne Anlagen"
   ],
   "antwort": 1,
   "erklaerung": "Nach § 17 Abs. 2a S. 2 BeurkG erhält der Verbraucher den beabsichtigten Text des Rechtsgeschäfts, also den Vertragsentwurf samt Abschriften etwaiger Bezugsurkunden, spätestens zwei Wochen vor dem Termin unmittelbar vom Notar oder dessen Sozius (Eigenversand). Typischer Fehler ist der Versand ohne die Bezugsurkunden; ein Versand durch den Unternehmer genügt nicht."
@@ -609,11 +609,11 @@
   "frage": "Wer kommt als Vertrauensperson des Verbrauchers im Sinne des § 17 Abs. 2a S. 2 BeurkG in Betracht?",
   "optionen": [
    "Der vom Projektinitiator ausgewählte Treuhänder",
+   "Der Steuerberater oder Rechtsanwalt des Verbrauchers",
    "Der vermittelnde Makler",
-   "Ein Mitarbeiter des beurkundenden Notars",
-   "Der Steuerberater oder Rechtsanwalt des Verbrauchers"
+   "Ein Mitarbeiter des beurkundenden Notars"
   ],
-  "antwort": 3,
+  "antwort": 1,
   "erklaerung": "Die Vertrauensperson muss vorrangig die Interessen des Verbrauchers wahrnehmen, sei es aus persönlicher Verbundenheit (Ehegatten, Angehörige, Freunde) oder beruflich (Steuerberater, Rechtsanwälte). Ausgeschlossen sind geschäftsmäßige Vertreter mit eigenen, konkurrierenden Interessen wie der vom Initiator ausgewählte Treuhänder oder ein Makler; Notarmitarbeiter scheiden aus, weil bloße Neutralität nicht genügt."
  },
  {
@@ -646,12 +646,12 @@
   ],
   "frage": "Welche Rechtsfolge sieht die BNotO für wiederholte grobe Verstöße gegen die Pflichten aus § 17 Abs. 2a S. 2 Nr. 2 BeurkG vor?",
   "optionen": [
+   "Zwingende Beiordnung eines Notarvertreters durch die Aufsicht",
    "Verlust der Vollzugsbefugnis für Verbraucherverträge",
    "Amtsenthebung nach § 50 Abs. 1 Nr. 9 lit. b BNotO",
-   "Zwingende Beiordnung eines Notarvertreters durch die Aufsicht",
    "Nichtigkeit der beurkundeten Verbraucherverträge"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Wiederholte grobe Verstöße gegen die Pflichten aus § 17 Abs. 2a S. 2 Nr. 2 BeurkG sind ein Amtsenthebungsgrund nach § 50 Abs. 1 Nr. 9 lit. b BNotO. Der Gesetzgeber reagierte damit auf Missbrauchsfälle („Schrottimmobilien“, „Mitternachtsnotare“); die Wirksamkeit der Urkunde selbst wird von dem Verstoß nicht berührt."
  },
  {
@@ -719,12 +719,12 @@
   ],
   "frage": "In welchem Fall genügt eine beglaubigte Abschrift als Nachweis nicht?",
   "optionen": [
-   "Zum Nachweis der Eintragungsbewilligung in der Form des § 29 GBO",
-   "Zum Beweisantritt nach § 435 ZPO",
    "Zum Nachweis einer Vollmacht nach § 172 BGB",
+   "Zum Beweisantritt nach § 435 ZPO",
+   "Zum Nachweis der Eintragungsbewilligung in der Form des § 29 GBO",
    "Zum Nachweis des Inhalts einer Teilungserklärung"
   ],
-  "antwort": 2,
+  "antwort": 0,
   "erklaerung": "Eine beglaubigte Abschrift genügt nicht, wenn neben Bestehen und Inhalt der Urkunde auch ihr Besitz nachzuweisen ist; für die Vollmacht (§ 172 BGB) ist deshalb Urschrift oder Ausfertigung vorzulegen. Für § 29 GBO und den Beweis nach § 435 ZPO reicht die beglaubigte Abschrift dagegen aus. Der typische Fehler ist die Vorlage nur einer beglaubigten Abschrift der Vollmacht."
  },
  {
@@ -779,9 +779,9 @@
    "§ 54 BeurkG",
    "§ 15 Abs. 2 BNotO"
   ],
-  "frage": "Lehnt der Notar die Erteilung einer Ausfertigung ab, ist dagegen die Notarbeschwerde nach § 15 Abs. 2 BNotO statthaft.",
-  "antwort": false,
-  "erklaerung": "Falsch. Bei Streit über das Recht auf eine Abschrift oder Ausfertigung gilt der besondere Rechtsbehelf des § 54 BeurkG, nicht § 15 BNotO. Bei Ablehnung sollte der Notar gegebenenfalls eine Rechtsbehelfsbelehrung beifügen."
+  "frage": "Lehnt der Notar die Erteilung einer Ausfertigung ab, richtet sich der Rechtsbehelf nach § 54 BeurkG und nicht nach § 15 Abs. 2 BNotO.",
+  "antwort": true,
+  "erklaerung": "Richtig. Bei Streit über das Recht auf eine Abschrift oder Ausfertigung gilt der besondere Rechtsbehelf des § 54 BeurkG, der die allgemeine Notarbeschwerde nach § 15 BNotO verdrängt. Bei Ablehnung sollte der Notar gegebenenfalls eine Rechtsbehelfsbelehrung beifügen."
  },
  {
   "id": "beur2-035",
@@ -797,9 +797,9 @@
   ],
   "frage": "Ein Beteiligter bringt eine einfache Kopie einer Urkunde mit und bittet um eine beglaubigte Abschrift davon. Was sollte der Beglaubigungsvermerk enthalten?",
   "optionen": [
-   "Die Bestätigung, dass die Abschrift mit der Urschrift übereinstimmt",
-   "Die Angabe, dass die Vorlage lediglich eine einfache Abschrift war und die Beglaubigung ihr keine zusätzliche rechtliche Qualität verleiht",
    "Keinen Hinweis auf die Art der Vorlage, weil § 42 BeurkG dies nicht verlangt",
+   "Die Angabe, dass die Vorlage lediglich eine einfache Abschrift war und die Beglaubigung ihr keine zusätzliche rechtliche Qualität verleiht",
+   "Die Bestätigung, dass die Abschrift mit der Urschrift übereinstimmt",
    "Die Angabe, dass die Vorlage eine Ausfertigung war"
   ],
   "antwort": 1,
@@ -821,9 +821,9 @@
   "frage": "Welche Aussage zur Ausfertigung trifft zu?",
   "optionen": [
    "Die Ausfertigung vertritt die Urschrift im Rechtsverkehr und wird einer bestimmten Person erteilt",
-   "Eine Ausfertigung kann jeder verlangen, der ein berechtigtes Interesse an der Urkunde nachweist",
+   "Beigefügte Schriftstücke sind durch gesonderten Vermerk zu beglaubigen, der Ausfertigungsvermerk erfasst sie nicht",
    "Die vollstreckbare Ausfertigung richtet sich allein nach dem BeurkG, ohne Verweis auf die ZPO",
-   "Beigefügte Schriftstücke sind durch gesonderten Vermerk zu beglaubigen, der Ausfertigungsvermerk erfasst sie nicht"
+   "Eine Ausfertigung kann jeder verlangen, der ein berechtigtes Interesse an der Urkunde nachweist"
   ],
   "antwort": 0,
   "erklaerung": "Nach § 47 BeurkG vertritt die Ausfertigung die Urschrift im Rechtsverkehr, trägt die Bezeichnung Ausfertigung und wird einer bestimmten Person erteilt; mit dem Ausfertigungsvermerk werden auch beigefügte Schriftstücke beglaubigt (§§ 48, 49 BeurkG). Verlangen können Ausfertigungen nur die in § 51 BeurkG genannten Personen, nicht jeder mit berechtigtem Interesse; für die vollstreckbare Ausfertigung verweist § 52 BeurkG auf §§ 794 ff. ZPO."
@@ -843,8 +843,8 @@
   "optionen": [
    "Es muss eine Urkunde desselben Notars vorausgegangen sein und der betroffene Beteiligte muss den Notar ausdrücklich zur Ergänzung, Berichtigung oder Anpassung ermächtigt haben",
    "Es genügt, dass irgendeine notarielle Urkunde vorausgegangen ist; die Ermächtigung folgt aus § 24 Abs. 3 BNotO",
-   "Der Notar benötigt eine Genehmigung des Grundbuchamts oder Registergerichts",
-   "Die Eigenurkunde setzt die Mitwirkung aller Beteiligten durch Unterschrift voraus"
+   "Die Eigenurkunde setzt die Mitwirkung aller Beteiligten durch Unterschrift voraus",
+   "Der Notar benötigt eine Genehmigung des Grundbuchamts oder Registergerichts"
   ],
   "antwort": 0,
   "erklaerung": "Eine Eigenurkunde ist nur möglich, wenn eine Urkunde desselben Notars vorausgegangen ist und der Beteiligte, um dessen Erklärung es geht, den Notar ausdrücklich ermächtigt hat, die Erklärung zu korrigieren, zu vervollständigen oder verfahrensrechtliche Erklärungen abzugeben. Unterschrift und Siegel des Notars sind zwingend. § 24 Abs. 3 BNotO enthält nur eine gesetzliche Ermächtigung zur Rücknahme der vom Notar selbst gestellten Anträge, nicht für sämtliche Eigenurkunden."
@@ -863,8 +863,8 @@
   ],
   "frage": "Welche Aussage zum Berichtigungsverfahren nach § 44a Abs. 2 BeurkG trifft zu?",
   "optionen": [
-   "Berichtigt werden können nur reine Schreibfehler, nicht aber Auslassungen",
    "Die Unrichtigkeit muss sich allein aus dem Urkundentext ergeben; Umstände außerhalb der Urkunde bleiben außer Betracht",
+   "Berichtigt werden können nur reine Schreibfehler, nicht aber Auslassungen",
    "Auch versehentliche Auslassungen lassen sich beheben, wenn die Unrichtigkeit zweifelsfrei aus dem gesamten Beurkundungsvorgang hervorgeht; die Erklärungen selbst bleiben unveränderbar",
    "Bei der Berichtigung wird die Urschrift selbst korrigiert und von den Beteiligten neu unterzeichnet"
   ],
@@ -922,12 +922,12 @@
   ],
   "frage": "Unter welcher Voraussetzung darf der Notar einen Eid abnehmen?",
   "optionen": [
-   "Wenn der Eid gegenüber einer deutschen Behörde verwendet werden soll",
-   "Wenn der Eid zur Wahrnehmung von Rechten im Ausland erforderlich ist",
    "Wenn alle Beteiligten mit der Eidesabnahme einverstanden sind",
-   "Wenn ein Gericht den Notar um Rechtshilfe ersucht"
+   "Wenn ein Gericht den Notar um Rechtshilfe ersucht",
+   "Wenn der Eid gegenüber einer deutschen Behörde verwendet werden soll",
+   "Wenn der Eid zur Wahrnehmung von Rechten im Ausland erforderlich ist"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Nach § 22 Abs. 1 BNotO darf der Notar einen Eid nur abnehmen, wenn er zur Wahrnehmung von Rechten im Ausland erforderlich ist. Die Verwendung gegenüber einer Behörde oder Dienststelle ist dagegen die Voraussetzung für die Aufnahme eidesstattlicher Versicherungen nach § 22 Abs. 2 BNotO; beide Zuständigkeiten dürfen nicht verwechselt werden."
  },
  {
@@ -944,12 +944,12 @@
   ],
   "frage": "Welche Folge hat das Fehlen des Siegels bei einer Vermerkurkunde nach § 39 BeurkG?",
   "optionen": [
-   "Keine; das Siegel ist nur Sollvorschrift",
    "Die Vermerkurkunde ist unwirksam",
+   "Das Siegel kann wie bei der Niederschrift erst bei der weiteren Behandlung nach § 44 BeurkG angebracht werden",
    "Die Beweiskraft ist gemindert, die Urkunde bleibt wirksam",
-   "Das Siegel kann wie bei der Niederschrift erst bei der weiteren Behandlung nach § 44 BeurkG angebracht werden"
+   "Keine; das Siegel ist nur Sollvorschrift"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Der Vermerk muss Zeugnis, Unterschrift und Siegel des Notars enthalten; ohne Siegel ist die Vermerkurkunde unwirksam. Anders bei der Niederschrift über Willenserklärungen: Dort verlangt das Gesetz das Siegel erst bei der weiteren Behandlung der Urkunde (§ 44 BeurkG). Ort und Tag der Ausstellung sind dagegen nur Sollangaben."
  },
  {
@@ -964,9 +964,9 @@
    "§ 22 Abs. 2 BNotO",
    "§ 38 BeurkG"
   ],
-  "frage": "Eine eidesstattliche Versicherung kann vor dem Notar auch durch einen Bevollmächtigten des Erklärenden abgegeben werden.",
-  "antwort": false,
-  "erklaerung": "Falsch. Eine eidesstattliche Versicherung kann nicht durch einen Bevollmächtigten abgegeben werden; sie ist höchstpersönlich. Ebenso scheidet die Zuständigkeit des Notars aus, wenn ein Gericht oder eine Behörde ausschließlich zuständig ist. Für die Zuständigkeit der empfangenden Behörde genügt dagegen die Behauptung des Beteiligten."
+  "frage": "Eine eidesstattliche Versicherung ist höchstpersönlich und kann vor dem Notar nicht durch einen Bevollmächtigten abgegeben werden.",
+  "antwort": true,
+  "erklaerung": "Richtig. Eine eidesstattliche Versicherung kann nicht durch einen Bevollmächtigten abgegeben werden. Ebenso scheidet die Zuständigkeit des Notars aus, wenn ein Gericht oder eine Behörde ausschließlich zuständig ist; für die Zuständigkeit der empfangenden Behörde genügt dagegen die Behauptung des Beteiligten (§ 22 Abs. 2 BNotO)."
  },
  {
   "id": "beur2-044",
@@ -1017,12 +1017,12 @@
   ],
   "frage": "Was bezeugt der Notar mit der Unterschriftsbeglaubigung nach § 40 BeurkG?",
   "optionen": [
-   "Die Echtheit der Unterschrift; für den Inhalt der Erklärung übernimmt er keine Verantwortung",
    "Die Echtheit der Unterschrift und die rechtliche Wirksamkeit der Erklärung",
+   "Die Identität des Unterzeichners, ohne die Erklärung inhaltlich wahrzunehmen",
    "Die Richtigkeit des Inhalts, nachdem er die Erklärung vorgelesen hat",
-   "Die Identität des Unterzeichners, ohne die Erklärung inhaltlich wahrzunehmen"
+   "Die Echtheit der Unterschrift; für den Inhalt der Erklärung übernimmt er keine Verantwortung"
   ],
-  "antwort": 0,
+  "antwort": 3,
   "erklaerung": "Mit der Beglaubigung steht fest, dass die Unterschrift tatsächlich von der bezeichneten Person stammt; der Notar bezeugt nur die Echtheit der Unterschrift und übernimmt keine Verantwortung für den Inhalt, die Erklärung bleibt Privaturkunde. Inhaltlich wahrnehmen muss er die Erklärung dennoch, um Versagungsgründe nach §§ 4, 40 Abs. 2 BeurkG prüfen zu können."
  },
  {
@@ -1039,12 +1039,12 @@
   ],
   "frage": "Bei der Beglaubigung einer Handelsregisteranmeldung über einen neuen Geschäftsführer fehlt dessen Wohnort. Wie hat der Notar zu verfahren?",
   "optionen": [
-   "Beglaubigen, weil er nur die Echtheit der Unterschrift bezeugt",
-   "Beglaubigen und das Registergericht auf den Mangel hinweisen",
    "Den Mangel beanstanden, weil er die Anmeldung nach § 378 Abs. 3 FamFG auf Eintragungsfähigkeit prüfen muss",
-   "Die Beglaubigung nach § 4 BeurkG ablehnen, weil ein unredlicher Zweck vorliegt"
+   "Beglaubigen und das Registergericht auf den Mangel hinweisen",
+   "Die Beglaubigung nach § 4 BeurkG ablehnen, weil ein unredlicher Zweck vorliegt",
+   "Beglaubigen, weil er nur die Echtheit der Unterschrift bezeugt"
   ],
-  "antwort": 2,
+  "antwort": 0,
   "erklaerung": "Anmeldungen in Registersachen (außer Genossenschafts- und Partnerschaftsregister) und Grundbucherklärungen sind vor Einreichung vom Notar auf Eintragungsfähigkeit zu prüfen (§ 378 Abs. 3 FamFG, § 15 Abs. 3 GBO); die Prüfung wird durch einen Hinweis im Beglaubigungsvermerk mitgeteilt. Fehlt der Wohnort des neuen Geschäftsführers, muss der Notar dies beanstanden. Eine Ablehnung nach § 4 BeurkG setzt unerlaubte oder unredliche Zwecke voraus, die hier nicht vorliegen."
  },
  {
@@ -1078,11 +1078,11 @@
   "frage": "Welche Aussage zur Angabe „vollzogen“ oder „anerkannt“ im Beglaubigungsvermerk trifft zu?",
   "optionen": [
    "Die Angabe ist bloße Förmlichkeit ohne materiell-rechtliche Bedeutung",
-   "Bestätigt der Notar den Vollzug vor ihm, ist zugleich bewiesen, dass die Unterschrift vor dem Tag des Vermerks noch nicht existierte",
    "Bei einer qualifizierten elektronischen Signatur kommt nur das Vollziehen vor dem Notar in Betracht",
+   "Bestätigt der Notar den Vollzug vor ihm, ist zugleich bewiesen, dass die Unterschrift vor dem Tag des Vermerks noch nicht existierte",
    "Eine anerkannte Unterschrift kann auch per Fernbeglaubigung ohne persönliches Erscheinen beglaubigt werden"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Der Notar muss nach § 40 Abs. 3 BeurkG richtig angeben, ob die Unterschrift vor ihm vollzogen oder anerkannt wurde, weil dies materiell-rechtlich bedeutsam sein kann: Der Vollzug beweist, dass die Unterschrift vorher noch nicht existierte. Bei einer qualifizierten elektronischen Signatur kommt nur eine Anerkennung in Betracht (§ 40a BeurkG), und eine Fernbeglaubigung gibt es nicht; wer beglaubigen lässt, muss stets selbst erscheinen. Die Verwechslung von „anerkannt“ und „vollzogen“ ist ein typischer Fehler."
  },
  {
@@ -1100,12 +1100,12 @@
   ],
   "frage": "Wann muss der Notar die Beurkundung nach § 4 BeurkG und § 14 Abs. 2 BNotO ablehnen?",
   "optionen": [
-   "Schon bei einem Verdacht, dass unredliche Zwecke verfolgt werden",
    "Wenn er erkennen kann, dass mit der Beurkundung unerlaubte oder unredliche Zwecke verfolgt werden",
+   "Wenn ein Beteiligter die Beurkundung in einer fremden Sprache verlangt",
    "Wenn er die Zwecke der Beteiligten trotz Nachforschung nicht aufklären kann",
-   "Wenn ein Beteiligter die Beurkundung in einer fremden Sprache verlangt"
+   "Schon bei einem Verdacht, dass unredliche Zwecke verfolgt werden"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Nach § 4 BeurkG und § 14 Abs. 2 BNotO muss der Notar ablehnen, wenn erkennbar unerlaubte oder unredliche Zwecke verfolgt werden; ein Verdacht allein reicht nicht. Ohne besonderen Anlass muss er die Zwecke nicht erforschen und darf die Angaben als richtig unterstellen; weiß er von keinem solchen Zweck, ist er nach § 15 Abs. 1 BNotO zur Beurkundung verpflichtet. Die fremde Sprache begründet nur ein Ablehnungsrecht (§ 15 Abs. 1 S. 2 BNotO)."
  },
  {
@@ -1157,12 +1157,12 @@
   ],
   "frage": "Ein Grundstück wird zwei Jahre nach dem Erwerb mit einem Aufschlag von 40 % weiterverkauft; die Erhöhung lässt sich nicht plausibel erklären. Welche Konsequenz folgt nach der Handbuchseite selbst dann, wenn kein Ablehnungsgrund vorliegt?",
   "optionen": [
-   "Keine; ohne Ablehnungsgrund darf der Notar beurkunden und abwickeln, ohne weitere Pflichten",
    "Es ist von einem Meldefall nach § 6 GwGMeldV-Immobilien auszugehen",
-   "Der Notar muss den Preisunterschied selbst durch ein Wertgutachten aufklären",
-   "Der Notar muss die Beurkundung nach § 4 BeurkG ablehnen, weil ein Preissprung stets unredlich ist"
+   "Keine; ohne Ablehnungsgrund darf der Notar beurkunden und abwickeln, ohne weitere Pflichten",
+   "Der Notar muss die Beurkundung nach § 4 BeurkG ablehnen, weil ein Preissprung stets unredlich ist",
+   "Der Notar muss den Preisunterschied selbst durch ein Wertgutachten aufklären"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Auch ohne Ablehnungsgrund ist von einem Meldefall auszugehen, wenn ein Grundstück binnen drei Jahren mit einem Preisaufschlag von mehr als 25 % weiterverkauft wird und die Erhöhung nicht plausibel ist (§ 6 GwGMeldV-Immobilien). Ein Preissprung deutet zwar auf unredliche Zwecke hin, greift aber nicht durch, wenn er sich erklären lässt; eine eigene Ermittlungspflicht per Gutachten besteht nicht."
  },
  {
@@ -1194,10 +1194,10 @@
   ],
   "frage": "Welches Gericht ist Beschwerdegericht für die Notarbeschwerde nach § 15 Abs. 2 BNotO?",
   "optionen": [
-   "Das Amtsgericht, in dessen Bezirk der Notar seinen Amtssitz hat",
+   "Der Senat für Notarsachen beim Bundesgerichtshof",
    "Eine Zivilkammer des Landgerichts, in dessen Bezirk der Notar seinen Amtssitz hat",
    "Das Oberlandesgericht als Aufsichtsbehörde des Notars",
-   "Der Senat für Notarsachen beim Bundesgerichtshof"
+   "Das Amtsgericht, in dessen Bezirk der Notar seinen Amtssitz hat"
   ],
   "antwort": 1,
   "erklaerung": "Nach § 15 Abs. 2 S. 2 BNotO ist Beschwerdegericht eine Zivilkammer des Landgerichts, in dessen Bezirk der Notar seinen Amtssitz hat; für das Verfahren gelten die Vorschriften des FamFG. Die Aufsichtsbehörde ist Adressat der Dienstaufsichtsbeschwerde nach § 93 Abs. 1 BNotO, nicht Beschwerdegericht."
@@ -1215,12 +1215,12 @@
   ],
   "frage": "Der Notar kündigt in einem Vorbescheid an, die Eigentumsumschreibung trotz Widerspruchs des Verkäufers zu beantragen. Ist diese Ankündigung mit der Notarbeschwerde angreifbar?",
   "optionen": [
-   "Nein, weil § 15 Abs. 2 S. 1 BNotO nur die Verweigerung einer Amtstätigkeit erfasst",
-   "Ja, über den Wortlaut hinaus ist auch die Ankündigung einer Amtshandlung trotz Widerspruchs beschwerdefähig (BGH, V ZB 67/14)",
    "Nein, der Verkäufer ist auf die Dienstaufsichtsbeschwerde nach § 93 Abs. 1 BNotO beschränkt",
-   "Nur, wenn der Antrag beim Grundbuchamt bereits gestellt wurde"
+   "Nur, wenn der Antrag beim Grundbuchamt bereits gestellt wurde",
+   "Ja, über den Wortlaut hinaus ist auch die Ankündigung einer Amtshandlung trotz Widerspruchs beschwerdefähig (BGH, V ZB 67/14)",
+   "Nein, weil § 15 Abs. 2 S. 1 BNotO nur die Verweigerung einer Amtstätigkeit erfasst"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Über den Wortlaut des § 15 Abs. 2 S. 1 BNotO hinaus ist auch die Ankündigung des Notars beschwerdefähig, eine Amtshandlung trotz Widerspruchs eines Beteiligten vorzunehmen (BGH, Beschluss vom 01.10.2015, V ZB 67/14). Eine solche Ankündigung enthält typischerweise der Vorbescheid. Dass die Amtshandlung schon abgeschlossen ist, ist keine Voraussetzung; eine beendete Amtshandlung ist nur ausnahmsweise Beschwerdegegenstand."
  },
  {
@@ -1289,12 +1289,12 @@
   ],
   "frage": "Das Landgericht weist den Notar auf eine Beschwerde hin an, die bisher verweigerte Eigentumsumschreibung zu beantragen. Welche haftungsrechtliche Folge hat die Befolgung der Anweisung?",
   "optionen": [
-   "Die Vornahme der angewiesenen Amtshandlung ist keine Amtspflichtverletzung; eine Haftung kann aber aus der bisherigen Nichtvornahme folgen, da die Rechtskraft diese Frage nicht erfasst",
    "Die Anweisung schließt jede Haftung des Notars aus, auch für die Zeit der Verweigerung",
    "Die Befolgung der Anweisung ist eine Amtspflichtverletzung, wenn der Notar die Anweisung für falsch hält",
-   "Der Notar haftet nur, wenn er gegen die Anweisung Rechtsbeschwerde einlegt"
+   "Der Notar haftet nur, wenn er gegen die Anweisung Rechtsbeschwerde einlegt",
+   "Die Vornahme der angewiesenen Amtshandlung ist keine Amtspflichtverletzung; eine Haftung kann aber aus der bisherigen Nichtvornahme folgen, da die Rechtskraft diese Frage nicht erfasst"
   ],
-  "antwort": 0,
+  "antwort": 3,
   "erklaerung": "Die Anweisung des Beschwerdegerichts bindet den Notar und begründet seine Amtspflicht, sodass ihre Befolgung keine Amtspflichtverletzung sein kann. Betrifft sie jedoch eine bisher verweigerte Amtshandlung, kann eine Haftung aus der Nichtvornahme folgen; die Rechtskraft der Beschwerdeentscheidung erstreckt sich nicht auf diese Frage. Ein vollständiger Haftungsausschluss auch für die Verweigerungszeit besteht daher nicht."
  },
  {
@@ -1383,10 +1383,10 @@
   ],
   "frage": "Welche der folgenden Urkunden löst die Vollzugspflicht nach § 53 BeurkG grundsätzlich nicht aus?",
   "optionen": [
+   "Beurkundete Abtretung von GmbH-Geschäftsanteilen mit Gesellschafterliste",
    "Beurkundete Auflassung mit Eintragungsbewilligung",
-   "Beurkundete Grundschuldbestellung mit Eintragungsantrag",
    "Unterschriftsbeglaubigung unter einer Handelsregisteranmeldung",
-   "Beurkundete Abtretung von GmbH-Geschäftsanteilen mit Gesellschafterliste"
+   "Beurkundete Grundschuldbestellung mit Eintragungsantrag"
   ],
   "antwort": 2,
   "erklaerung": "§ 53 BeurkG setzt voraus, dass der Notar Willenserklärungen beurkundet hat (§§ 6 ff. BeurkG), die beim Grundbuchamt oder Registergericht einzureichen sind, und dass die Urkunde vollzugsreif ist. Unterschriftsbeglaubigungen und Tatsachenbeurkundungen lösen grundsätzlich keine Vollzugspflicht aus, auch wenn die beglaubigte Erklärung beim Register einzureichen ist."
@@ -1404,12 +1404,12 @@
   ],
   "frage": "Der Käufer erklärt dem Notar nach der Beurkundung, er wolle den Vertrag nicht mehr, und verlangt, die Auflassungsvormerkung nicht einzutragen. Der Verkäufer besteht auf Vollzug. Wie hat der Notar zu verfahren?",
   "optionen": [
-   "Den Vollzug einstellen, bis sich die Beteiligten geeinigt haben",
    "Den Vollzug betreiben, weil der einseitige, streitige Widerspruch grundsätzlich unbeachtlich ist, sofern keine der engen Ausnahmen vorliegt",
+   "Nur den Teil der Urkunde vollziehen, dem beide Seiten noch zustimmen",
    "Den Vollzug von Amts wegen aussetzen und das Prozessgericht entscheiden lassen",
-   "Nur den Teil der Urkunde vollziehen, dem beide Seiten noch zustimmen"
+   "Den Vollzug einstellen, bis sich die Beteiligten geeinigt haben"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Eine einseitige, zwischen den Beteiligten streitige Weisung ist grundsätzlich unbeachtlich; der Notar vollzieht unverzüglich, sofern nicht alle Beteiligten gemeinsam etwas anderes verlangen. Beachtlich ist der Widerspruch nur ausnahmsweise, etwa bei substantiiert geltend gemachter Nichtigkeit, offensichtlicher Unwirksamkeit oder drohender Grundbuchunrichtigkeit. Typischer Fehler ist die Einstellung des Vollzugs allein wegen des Widerspruchs; der beabsichtigte Vollzug ist dann regelmäßig durch Vorbescheid anzukündigen."
  },
  {
@@ -1441,12 +1441,12 @@
   ],
   "frage": "Nach welchem Maßstab darf der Notar den Vollzug eines Vertretergeschäfts verweigern (BGH, V ZB 119/18)?",
   "optionen": [
-   "Bei jedem begründeten Zweifel an der Reichweite der Vollmacht",
-   "Nur, wenn er ohne vernünftigen Zweifel erkennt, dass eine wirksame Vollmacht offensichtlich fehlt oder ein evidenter Vollmachtsmissbrauch vorliegt",
    "Nur, wenn der Vertretene dem Vollzug schriftlich widerspricht",
-   "Nie, weil die Prüfung der Vollmacht allein dem Grundbuchamt obliegt"
+   "Nie, weil die Prüfung der Vollmacht allein dem Grundbuchamt obliegt",
+   "Nur, wenn er ohne vernünftigen Zweifel erkennt, dass eine wirksame Vollmacht offensichtlich fehlt oder ein evidenter Vollmachtsmissbrauch vorliegt",
+   "Bei jedem begründeten Zweifel an der Reichweite der Vollmacht"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Es gilt der Evidenzmaßstab: Der Notar darf ein Vertretergeschäft nicht vollziehen, wenn er ohne vernünftigen Zweifel erkennt, dass eine wirksame Vollmacht offensichtlich fehlt, oder bei evidentem Missbrauch einer im Außenverhältnis unbeschränkten Vollmacht unter Verstoß gegen Beschränkungen im Innenverhältnis (BGH, V ZB 119/18). Bloße Zweifel oder ein einseitiger Widerspruch genügen nicht."
  },
  {
@@ -1478,12 +1478,12 @@
   ],
   "frage": "Wie lange ist die Vollzugspflicht des Notars mit der Bekanntgabe eines Vorbescheids zunächst ausgesetzt?",
   "optionen": [
-   "Eine Woche",
-   "14 Tage",
    "Einen Monat",
-   "Bis zur rechtskräftigen Entscheidung über eine Notarbeschwerde"
+   "Bis zur rechtskräftigen Entscheidung über eine Notarbeschwerde",
+   "Eine Woche",
+   "14 Tage"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Mit der Bekanntgabe des Vorbescheids ist die Vollzugspflicht für 14 Tage ausgesetzt; ob diese Frist zwingend ist, ist offen. Über die 14 Tage hinaus bleibt sie nur ausgesetzt, wenn der widersprechende Beteiligte nachweist, dass er eine einstweilige Verfügung oder im Rahmen der Notarbeschwerde eine einstweilige Anordnung beantragt hat. Typischer Fehler ist der Vollzug vor Ablauf der 14 Tage."
  },
  {
@@ -1500,12 +1500,12 @@
   ],
   "frage": "Welche Bestandteile gehören in einen Vorbescheid, mit dem der Notar den Vollzug trotz Widerspruchs ankündigt?",
   "optionen": [
+   "Sachverhalt und Begründung; eine Rechtsbehelfsbelehrung ist entbehrlich, weil die Notarbeschwerde gesetzlich geregelt ist",
    "Sachverhalt, genau bezeichnete Amtshandlung, Begründung, Rechtsbehelfsbelehrung und Hinweis auf den Vollzug nach Ablauf von 14 Tagen",
    "Nur die Mitteilung, dass vollzogen wird; eine Begründung würde den Notar unzulässig festlegen",
-   "Sachverhalt und Begründung; eine Rechtsbehelfsbelehrung ist entbehrlich, weil die Notarbeschwerde gesetzlich geregelt ist",
    "Die Aufforderung an den Widersprechenden, binnen 14 Tagen Klage zur Hauptsache zu erheben"
   ],
-  "antwort": 0,
+  "antwort": 1,
   "erklaerung": "Der Vorbescheid stellt den Sachverhalt dar, bezeichnet als Kern die angekündigte oder verweigerte Amtshandlung genau, enthält eine Begründung und eine Rechtsbehelfsbelehrung; bei einer Ankündigung weist er darauf hin, dass nach Ablauf von 14 Tagen vollzogen wird, und kann auf den Eilrechtsschutz hinweisen. Für die Bekanntgabe empfiehlt sich die Zustellung nach §§ 166–195 ZPO, damit der Fristbeginn nachweisbar ist."
  },
  {
