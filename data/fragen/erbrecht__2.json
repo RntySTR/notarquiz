@@ -316,5 +316,345 @@
   "antwort": 1,
   "erklaerung": "Gebunden ist nur, wer vertragsmäßig verfügt hat (§ 2289 BGB); der bedachte Vertragspartner übernimmt durch die Annahme keine Bindung. Die naheliegende Vorstellung, der Vertragscharakter binde beide Seiten, ist falsch, weil der Vertragspartner seinerseits nur einseitige Verfügungen nach § 2299 Abs. 1 BGB getroffen oder gar nicht verfügt hat.",
   "id": "erbr2-015"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Gemeinschaftliches Testament: Bindung nach dem ersten Erbfall und Lösung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/gemeinschaftliches-testament-bindung-nach-dem-ersten-erbfall-und-losung",
+  "typ": "fall",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2271 Abs. 2 BGB",
+   "§ 2270 BGB",
+   "§§ 2287, 2288 BGB"
+  ],
+  "frage": "Berliner Testament nach dem ersten Erbfall",
+  "sachverhalt": "Die Eheleute M und F haben in einem notariellen gemeinschaftlichen Testament einander wechselbezüglich zu Alleinerben und ihre Kinder K1 und K2 zu gleichen Teilen als Schlusserben eingesetzt; einen Änderungsvorbehalt enthält das Testament nicht. Nach dem Tod der F hat M die Erbschaft angenommen. Er zerstreitet sich mit K1 und kommt zum Notar: Er will K2 durch Einzeltestament zum Alleinerben machen und K1 außerdem ein Grundstück aus dem Nachlass der F zu Lebzeiten nicht zukommen lassen, sondern es K2 schenken.",
+  "schritte": [
+   {
+    "frage": "Kann M die Schlusserbeneinsetzung durch ein neues Einzeltestament wirksam ändern?",
+    "optionen": [
+     "Ja, weil die Bindung eines gemeinschaftlichen Testaments nur zu Lebzeiten beider Ehegatten besteht.",
+     "Nein, nach dem Tod der F ist M an seine wechselbezüglichen Verfügungen gebunden; ein widersprechendes Einzeltestament ist unwirksam (§ 2271 Abs. 2 S. 1 BGB).",
+     "Ja, aber nur mit notariell beurkundeter Widerrufserklärung, die K1 zugehen muss.",
+     "Nein, es sei denn, K1 stimmt der Änderung notariell zu."
+    ],
+    "antwort": 1,
+    "erklaerung": "Die Bindung entsteht beim gemeinschaftlichen Testament mit dem Tod des Erstversterbenden (§ 2271 Abs. 2 S. 1 Hs. 1 BGB) und erfasst die wechselbezüglichen Verfügungen. Ein widersprechendes Einzeltestament ist unwirksam; der Widerruf durch beurkundete Erklärung mit Zugang (§§ 2271 Abs. 1, 2296 BGB) steht nur zu Lebzeiten beider Ehegatten offen."
+   },
+   {
+    "frage": "Welche Möglichkeit hätte M, seine Testierfreiheit wiederzuerlangen?",
+    "optionen": [
+     "Ausschlagung des ihm von F Zugewendeten (§ 2271 Abs. 2 S. 1 Hs. 2 BGB).",
+     "Anfechtung des gemeinschaftlichen Testaments wegen Motivirrtums innerhalb eines Jahres.",
+     "Antrag beim Nachlassgericht auf Aufhebung der Bindung aus wichtigem Grund.",
+     "Erklärung des Rücktritts gegenüber den Schlusserben nach § 2296 BGB."
+    ],
+    "antwort": 0,
+    "erklaerung": "Nach § 2271 Abs. 2 S. 1 Hs. 2 BGB erlangt der Überlebende seine Testierfreiheit zurück, wenn er das ihm Zugewendete ausschlägt. Hier hat M die Erbschaft aber bereits angenommen, sodass dieser Weg praktisch verschlossen ist. Ein Rücktritt gegenüber den Schlusserben ist nicht vorgesehen; der Rücktritt nach § 2296 BGB richtet sich beim Erbvertrag an den anderen Vertragschließenden."
+   },
+   {
+    "frage": "Darf M das ererbte Grundstück zu Lebzeiten K2 schenken?",
+    "optionen": [
+     "Nein, das vom Erstverstorbenen ererbte Vermögen ist durch die Bindung von Verfügungen unter Lebenden ausgenommen.",
+     "Ja, der Überlebende darf unter Lebenden uneingeschränkt verfügen, auch über das ererbte Vermögen; K1 ist nur nach §§ 2287, 2288 BGB geschützt.",
+     "Nein, Schenkungen des Überlebenden an einen Schlusserben sind stets unwirksam.",
+     "Ja, aber nur mit Zustimmung des Nachlassgerichts."
+    ],
+    "antwort": 1,
+    "erklaerung": "Wechselbezügliche Verfügungen binden nur von Todes wegen; unter Lebenden bleibt der Überlebende frei, auch hinsichtlich des vom Erstverstorbenen zugewendeten Vermögens (Ausnahme nur bei Nacherbfolge oder Testamentsvollstreckung). K1 ist gegen eine Aushöhlung nur nach §§ 2287, 2288 BGB geschützt, was objektive Beeinträchtigung und Beeinträchtigungsabsicht des M voraussetzt."
+   },
+   {
+    "frage": "Welche Gestaltung hätte der Notar bei Errichtung des Testaments aufnehmen sollen, um M diese Flexibilität zu sichern?",
+    "optionen": [
+     "Einen Rücktrittsvorbehalt nach § 2293 BGB.",
+     "Eine Anordnung der Nacherbfolge zugunsten der Kinder.",
+     "Einen Änderungsvorbehalt, der dem Überlebenden erlaubt, die Schlusserbfolge im Kreis der gemeinschaftlichen Kinder neu zu verteilen.",
+     "Eine Pflichtteilsstrafklausel gegen die Kinder."
+    ],
+    "antwort": 2,
+    "erklaerung": "Die Bindung reicht nur so weit, wie es dem Willen der Ehegatten bei Errichtung entspricht; ein Änderungsvorbehalt kann dem Überlebenden erlauben, die Schlusserbfolge innerhalb des Kreises der gemeinschaftlichen Kinder neu zu verteilen. Der Rücktrittsvorbehalt nach § 2293 BGB ist das Instrument des Erbvertrags; die Nacherbfolge würde den Überlebenden sogar zusätzlich beschränken."
+   }
+  ],
+  "erklaerung": "Nach dem ersten Erbfall ist der Überlebende an wechselbezügliche Verfügungen gebunden (§ 2271 Abs. 2 BGB); ein abweichendes Einzeltestament ist unwirksam, die Befreiung gelingt nur durch Ausschlagung. Unter Lebenden bleibt er frei, der Schlusserbe ist nur über §§ 2287, 2288 BGB geschützt. Flexibilität schafft allein ein bei Errichtung aufgenommener Änderungsvorbehalt.",
+  "id": "erbr2-016"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Gemeinschaftliches Testament: Bindung nach dem ersten Erbfall und Lösung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/gemeinschaftliches-testament-bindung-nach-dem-ersten-erbfall-und-losung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 2271 Abs. 2 S. 2 BGB",
+   "§ 2336 Abs. 2 BGB",
+   "§ 2333 BGB"
+  ],
+  "frage": "Der als Schlusserbe bindend eingesetzte Sohn S hat den überlebenden Vater V schwer körperlich misshandelt. V will S als Schlusserben beseitigen. Was ist zu beachten?",
+  "optionen": [
+   "V kann die wechselbezügliche Verfügung durch letztwillige Verfügung aufheben; der Aufhebungsgrund ist im Aufhebungstestament anzugeben (§ 2336 Abs. 2 BGB).",
+   "V kann die Verfügung nur durch notariell beurkundete Widerrufserklärung mit Zugang an S beseitigen.",
+   "V kann die Verfügung nicht beseitigen, weil die Bindung mit dem Tod der Ehefrau unauflöslich geworden ist.",
+   "V muss zunächst beim Nachlassgericht die Erbunwürdigkeit des S feststellen lassen."
+  ],
+  "antwort": 0,
+  "erklaerung": "Bei einer Verfehlung des Bedachten, die eine Pflichtteilsentziehung rechtfertigen würde (§ 2333 BGB), darf der Überlebende seine wechselbezüglichen Anordnungen durch letztwillige Verfügung beseitigen (§ 2271 Abs. 2 S. 2 i. V. m. §§ 2294, 2336 BGB). Der Grund muss im Aufhebungstestament angegeben werden (§ 2336 Abs. 2 BGB). Die beurkundete Widerrufserklärung mit Zugang ist der Weg zu Lebzeiten beider Ehegatten, nicht nach dem ersten Erbfall.",
+  "id": "erbr2-017"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Gemeinschaftliches Testament: Bindung nach dem ersten Erbfall und Lösung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/gemeinschaftliches-testament-bindung-nach-dem-ersten-erbfall-und-losung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2271 Abs. 2 BGB"
+  ],
+  "frage": "Ein nach dem ersten Erbfall errichtetes Einzeltestament des Überlebenden, das wechselbezüglichen Verfügungen widerspricht, bleibt endgültig unwirksam, auch wenn die Bindung später entfällt.",
+  "antwort": false,
+  "erklaerung": "Das widersprechende Testament ist zwar zunächst unwirksam, wird aber wirksam, wenn die Bindung später entfällt und der Überlebende seine Testierfreiheit zurückerhält, etwa weil der bindend Bedachte vorverstirbt, ausschlägt, verzichtet oder erbunwürdig ist. Die Unwirksamkeit ist also keine endgültige.",
+  "id": "erbr2-018"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Gemeinschaftliches Testament: Errichtung, Form, Verwahrung und Eröffnung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/gemeinschaftliches-testament-errichtung-form-verwahrung-und-eroffnung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 2267 BGB",
+   "§ 2247 BGB"
+  ],
+  "frage": "Worin besteht die Formerleichterung des § 2267 BGB für das privatschriftliche gemeinschaftliche Testament?",
+  "optionen": [
+   "Beide Ehegatten dürfen den Text maschinenschriftlich erstellen und müssen nur eigenhändig unterschreiben.",
+   "Ein Ehegatte schreibt und unterzeichnet den Text eigenhändig, der andere muss lediglich mitunterzeichnen.",
+   "Die Unterschrift eines Ehegatten genügt, wenn der andere mündlich zugestimmt hat.",
+   "Ort und Datum müssen nicht angegeben werden."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 2267 BGB genügt es, wenn ein Ehegatte oder Lebenspartner den Text mit den Verfügungen beider eigenhändig schreibt und unterzeichnet und der andere mitunterzeichnet; für den Mitunterzeichnenden entfällt das Erfordernis der Eigenhändigkeit. Die Eigenhändigkeit des Schreibenden bleibt nach § 2247 Abs. 1 BGB erforderlich, Maschinenschrift genügt nicht.",
+  "id": "erbr2-019"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Gemeinschaftliches Testament: Errichtung, Form, Verwahrung und Eröffnung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/gemeinschaftliches-testament-errichtung-form-verwahrung-und-eroffnung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2265 BGB",
+   "§ 140 BGB"
+  ],
+  "frage": "A und B leben unverheiratet zusammen und errichten ein handschriftliches gemeinschaftliches Testament nach dem Muster des Berliner Testaments; A schreibt, B unterschreibt mit. Ein Jahr später heiraten sie. Wie ist die Rechtslage?",
+  "optionen": [
+   "Das gemeinschaftliche Testament wird mit der Eheschließung rückwirkend wirksam.",
+   "Das gemeinschaftliche Testament ist unwirksam; eine Umdeutung in Einzeltestamente scheitert für B, weil B den Text nicht eigenhändig geschrieben hat.",
+   "Das Testament ist als gemeinschaftliches Testament wirksam, weil die Partner bei der Errichtung verlobt waren.",
+   "Das Testament ist unwirksam, kann aber für beide Teile in Einzeltestamente umgedeutet werden."
+  ],
+  "antwort": 1,
+  "erklaerung": "Ein gemeinschaftliches Testament setzt voraus, dass Ehe oder Lebenspartnerschaft bereits bei Errichtung besteht (§ 2265 BGB); eine spätere Heirat heilt nicht. Eine Umdeutung nach § 140 BGB in Einzeltestamente setzt voraus, dass deren Form gewahrt ist. Das ist nur für A der Fall, der eigenhändig geschrieben und unterschrieben hat; die Formerleichterung des § 2267 BGB gilt für Nichtverheiratete nicht.",
+  "id": "erbr2-020"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Gemeinschaftliches Testament: Errichtung, Form, Verwahrung und Eröffnung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/gemeinschaftliches-testament-errichtung-form-verwahrung-und-eroffnung",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2266 BGB",
+   "§ 2268 Abs. 1 BGB",
+   "§ 2256 Abs. 2 S. 2 BGB",
+   "§ 349 Abs. 1 FamFG"
+  ],
+  "frage": "Ordne die Sonderregeln des gemeinschaftlichen Testaments ihrem Inhalt zu.",
+  "paare": [
+   [
+    "§ 2266 BGB (Nottestament)",
+    "Es genügt, dass die Voraussetzungen des Nottestaments bei nur einem Ehegatten vorliegen"
+   ],
+   [
+    "§ 2268 Abs. 1 BGB (Auflösung der Ehe)",
+    "Die Wirksamkeit hängt grundsätzlich vom Fortbestand der Ehe ab, unabhängig vom Inhalt"
+   ],
+   [
+    "§ 2256 Abs. 2 S. 2 BGB (Rückgabe)",
+    "Rückgabe aus der Verwahrung nur an beide Ehegatten gemeinsam und persönlich"
+   ],
+   [
+    "§ 349 Abs. 1 FamFG (Eröffnung)",
+    "Anordnungen des noch lebenden Ehegatten werden beim ersten Erbfall nicht mitgeteilt, soweit eine Trennung möglich ist"
+   ]
+  ],
+  "erklaerung": "Das gemeinschaftliche Testament betrifft zwei Erblasser, was die Sonderregeln erklärt: Erleichterung beim Nottestament (§ 2266 BGB, nicht beim Seetestament), Abhängigkeit vom Bestand der Ehe (§ 2268 BGB), Rückgabe nur an beide (§ 2256 Abs. 2 S. 2, Abs. 3 BGB) und beschränkte Mitteilung bei der Eröffnung des ersten Erbfalls (§ 349 FamFG).",
+  "id": "erbr2-021"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Gemeinschaftliches Testament: Errichtung, Form, Verwahrung und Eröffnung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/gemeinschaftliches-testament-errichtung-form-verwahrung-und-eroffnung",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 10 Abs. 4 LPartG",
+   "§§ 2266–2273 BGB"
+  ],
+  "frage": "Eingetragene Lebenspartner können ein gemeinschaftliches Testament errichten; die §§ 2266 bis 2273 BGB gelten für sie entsprechend.",
+  "antwort": true,
+  "erklaerung": "§ 10 Abs. 4 LPartG öffnet das gemeinschaftliche Testament für Lebenspartner und erklärt die §§ 2266 bis 2273 BGB für entsprechend anwendbar. Für nicht verheiratete und nicht verpartnerte Paare bleibt dagegen nur der Erbvertrag oder die Umdeutung in Einzeltestamente.",
+  "id": "erbr2-022"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Gemeinschaftliches Testament: wechselbezügliche Verfügungen und Widerruf zu Lebzeiten",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/gemeinschaftliches-testament-wechselbezugliche-verfugungen-und-widerruf-zu-lebzeiten",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2271 Abs. 1 S. 1 BGB",
+   "§ 2296 Abs. 2 BGB",
+   "§ 130 Abs. 1 BGB"
+  ],
+  "frage": "Ehefrau F will zu Lebzeiten ihres Mannes M ihre wechselbezüglichen Verfügungen aus dem gemeinschaftlichen Testament widerrufen. Welches Vorgehen ist richtig?",
+  "optionen": [
+   "F errichtet ein neues notarielles Einzeltestament mit abweichendem Inhalt; damit sind die wechselbezüglichen Verfügungen aufgehoben.",
+   "F lässt den Widerruf notariell beurkunden und sorgt dafür, dass M die Urschrift oder eine Ausfertigung zugeht.",
+   "F lässt den Widerruf notariell beurkunden und übersendet M eine beglaubigte Abschrift.",
+   "F nimmt das Testament aus der amtlichen Verwahrung zurück (§ 2256 BGB)."
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Widerruf wechselbezüglicher Verfügungen erfolgt zu Lebzeiten beider nur wie der Rücktritt vom Erbvertrag (§ 2271 Abs. 1 S. 1 BGB): notarielle Beurkundung und Wirksamkeit mit Zugang beim anderen Teil (§ 2296 Abs. 2 BGB), und zwar in Urschrift oder Ausfertigung (§ 130 Abs. 1 BGB). Eine beglaubigte Abschrift genügt nicht; ein neues Einzeltestament hebt die Verfügung nicht auf (§ 2271 Abs. 1 S. 2 BGB); die Rücknahme aus der Verwahrung ist nach § 2272 BGB ausgeschlossen.",
+  "id": "erbr2-023"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Gemeinschaftliches Testament: wechselbezügliche Verfügungen und Widerruf zu Lebzeiten",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/gemeinschaftliches-testament-wechselbezugliche-verfugungen-und-widerruf-zu-lebzeiten",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 2270 Abs. 1 BGB",
+   "§ 2270 Abs. 3 BGB"
+  ],
+  "frage": "Welche Verfügungen können im gemeinschaftlichen Testament wechselbezüglich sein?",
+  "optionen": [
+   "Alle Verfügungen von Todes wegen, auch die Anordnung einer Testamentsvollstreckung.",
+   "Nur Erbeinsetzungen und Vermächtnisse.",
+   "Erbeinsetzungen, Vermächtnisse, Auflagen und die Wahl des anzuwendenden Erbrechts.",
+   "Nur die gegenseitige Erbeinsetzung der Ehegatten."
+  ],
+  "antwort": 2,
+  "erklaerung": "§ 2270 Abs. 3 BGB begrenzt die Wechselbezüglichkeit auf Erbeinsetzungen, Vermächtnisse, Auflagen und die Rechtswahl; andere Anordnungen wie die Testamentsvollstreckung können nur einseitig sein. Wechselbezüglich sind Verfügungen, die nach dem Willen der Ehegatten gemeinsam stehen und fallen (§ 2270 Abs. 1 BGB).",
+  "id": "erbr2-024"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Gemeinschaftliches Testament: wechselbezügliche Verfügungen und Widerruf zu Lebzeiten",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/gemeinschaftliches-testament-wechselbezugliche-verfugungen-und-widerruf-zu-lebzeiten",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2272 BGB",
+   "§ 2256 BGB"
+  ],
+  "frage": "Einseitige Verfügungen in einem gemeinschaftlichen Testament kann jeder Ehegatte durch Rücknahme des Testaments aus der amtlichen Verwahrung nach § 2256 BGB allein widerrufen.",
+  "antwort": false,
+  "erklaerung": "§ 2272 BGB schließt den einseitigen Widerruf durch Rücknahme aus der Verwahrung (§ 2256 BGB) beim gemeinschaftlichen Testament aus; die Rückgabe erfolgt nur an beide gemeinsam. Einseitige Verfügungen lassen sich auch nicht über eine Widerrufserklärung nach §§ 2271 Abs. 1 S. 1, 2296 BGB beseitigen, die nur für wechselbezügliche Verfügungen gilt.",
+  "id": "erbr2-025"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Testament: Ablieferung und Eröffnung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/testament-ablieferung-und-eroffnung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2259 Abs. 1 BGB",
+   "§ 274 StGB"
+  ],
+  "frage": "Tochter T findet nach dem Tod ihres Vaters ein handschriftliches Testament, das zerrissen und durchgestrichen ist und sie enterbt. Sie hält es für widerrufen. Was muss sie tun?",
+  "optionen": [
+   "Sie darf es vernichten, weil ein zerrissenes Testament offensichtlich widerrufen ist.",
+   "Sie muss es unverzüglich dem Nachlassgericht abliefern; eine Gültigkeitsprüfung vor Ablieferung findet nicht statt.",
+   "Sie muss es nur abliefern, wenn das Nachlassgericht sie dazu auffordert.",
+   "Sie muss es dem Notar zur Prüfung vorlegen, der über die Ablieferung entscheidet."
+  ],
+  "antwort": 1,
+  "erklaerung": "Wer ein nicht in amtlicher Verwahrung befindliches Testament besitzt, muss es nach § 2259 Abs. 1 BGB unverzüglich nach Kenntnis vom Tod abliefern; vorsätzliches Unterlassen kann nach § 274 StGB strafbar sein. Eröffnet werden auch zerrissene, aufgehobene oder zweifelhafte Urkunden, solange sie existieren und letztwilligen Inhalt haben; die Gültigkeit prüft nicht der Besitzer.",
+  "id": "erbr2-026"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Testament: Ablieferung und Eröffnung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/testament-ablieferung-und-eroffnung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 343 Abs. 3 FamFG",
+   "§ 343 Abs. 1 FamFG"
+  ],
+  "frage": "Ein deutscher Erblasser lebte seit 30 Jahren in Spanien und hatte nie einen gewöhnlichen Aufenthalt im Inland; er hinterlässt ein Grundstück in Freiburg. Welches Gericht ist für die Testamentseröffnung örtlich zuständig?",
+  "optionen": [
+   "Das Amtsgericht Freiburg als Belegenheitsgericht des Grundstücks.",
+   "Das Amtsgericht Schöneberg in Berlin (§ 343 Abs. 3 FamFG).",
+   "Kein deutsches Gericht, weil der gewöhnliche Aufenthalt im Ausland lag.",
+   "Das Amtsgericht am Geburtsort des Erblassers."
+  ],
+  "antwort": 1,
+  "erklaerung": "Maßgeblich ist der gewöhnliche Aufenthalt beim Tod (§ 343 Abs. 1 FamFG), hilfsweise der letzte inländische gewöhnliche Aufenthalt (§ 343 Abs. 2 FamFG). Fehlt beides, ist bei deutschen Erblassern oder Nachlassgegenständen im Inland das Amtsgericht Schöneberg zuständig (§ 343 Abs. 3 FamFG); es kann das Verfahren bei wichtigem Grund einem anderen Nachlassgericht übertragen. Eine Belegenheitszuständigkeit kennt § 343 FamFG nicht.",
+  "id": "erbr2-027"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Testament: Ablieferung und Eröffnung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/testament-ablieferung-und-eroffnung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1944 Abs. 2 S. 2 BGB",
+   "§ 348 Abs. 3 FamFG"
+  ],
+  "frage": "Bei gewillkürter Erbfolge beginnt die Ausschlagungsfrist nicht, bevor das Nachlassgericht die Verfügung von Todes wegen bekannt gegeben hat.",
+  "antwort": true,
+  "erklaerung": "§ 1944 Abs. 2 S. 2 BGB knüpft den Fristbeginn bei Berufung durch Verfügung von Todes wegen an die Bekanntgabe durch das Nachlassgericht. Erfährt der Berechtigte erst durch die gerichtliche Mitteilung nach § 348 Abs. 3 FamFG vom Inhalt, läuft die Frist ab diesem Zeitpunkt; die bloße Kenntnis vom Todesfall genügt anders als bei gesetzlicher Erbfolge nicht.",
+  "id": "erbr2-028"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Testament: Ablieferung und Eröffnung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/testament-ablieferung-und-eroffnung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 348 Abs. 2 FamFG",
+   "§ 344 Abs. 6 FamFG",
+   "§ 3 Nr. 2c RPflG"
+  ],
+  "frage": "Welche Aussage zum Ablauf der Testamentseröffnung trifft zu?",
+  "optionen": [
+   "Ein Eröffnungstermin ist zwingend; ohne Ladung der gesetzlichen Erben ist die Eröffnung unwirksam.",
+   "Die Urschrift des eröffneten Testaments wird dem eingesetzten Erben nach der Eröffnung ausgehändigt.",
+   "Verwahrt ein anderes als das nach § 343 FamFG zuständige Gericht die Verfügung, eröffnet das verwahrende Gericht (§ 344 Abs. 6 FamFG).",
+   "Die Eröffnung obliegt dem Richter, weil über die Gültigkeit des Testaments entschieden wird."
+  ],
+  "antwort": 2,
+  "erklaerung": "Das Verwahrgericht eröffnet nach § 344 Abs. 6 FamFG, auch wenn es nicht das nach § 343 FamFG (in Baden-Württemberg §§ 1, 38 LFGG) zuständige Gericht ist. Ein Eröffnungstermin ist möglich, aber nicht vorgeschrieben (§ 348 Abs. 2 FamFG); die Urschrift bleibt in den Nachlassakten und wird auch dem Erben nicht ausgehändigt; funktionell zuständig ist der Rechtspfleger (§ 3 Nr. 2c RPflG), eine Gültigkeitsprüfung findet bei der Eröffnung nicht statt.",
+  "id": "erbr2-029"
  }
 ]
