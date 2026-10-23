@@ -1136,5 +1136,77 @@
   ],
   "antwort": 1,
   "erklaerung": "§ 5a Abs. 1 GmbHG verlangt den Zusatz „Unternehmergesellschaft (haftungsbeschränkt)“ oder „UG (haftungsbeschränkt)“. Der Zusatz „haftungsbeschränkt“ darf nicht abgekürzt werden, auch nicht als „hb“ – das ist der typische Fehler. Wird durch die Firmenführung ein falscher Eindruck vom Kapital erweckt, droht den Gesellschaftern eine unbeschränkte Haftung."
+ },
+ {
+  "id": "hand1-051",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "GbR: Anteilsübertragung, Ausscheiden, Tod und Auflösung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/gbr-anteilsubertragung-ausscheiden-tod-und-auflosung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 711 Abs. 1 BGB"
+  ],
+  "frage": "Gehört Grundbesitz zum Vermögen einer GbR, bedarf die Übertragung eines GbR-Anteils der notariellen Beurkundung nach § 311b Abs. 1 BGB.",
+  "antwort": false,
+  "erklaerung": "Die Übertragung eines GbR-Anteils ist formfrei, und zwar auch dann, wenn Grundbesitz zum Gesellschaftsvermögen gehört. Erforderlich ist nach § 711 Abs. 1 BGB aber die Zustimmung der übrigen Gesellschafter. Bei einer eGbR ist zusätzlich der Gesellschafterwechsel von sämtlichen Gesellschaftern in beglaubigter Form zum Gesellschaftsregister anzumelden."
+ },
+ {
+  "id": "hand1-052",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "GbR: Anteilsübertragung, Ausscheiden, Tod und Auflösung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/gbr-anteilsubertragung-ausscheiden-tod-und-auflosung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 723 Abs. 1 Nr. 1 BGB",
+   "§ 711 Abs. 2 BGB"
+  ],
+  "frage": "Gesellschafter G einer GbR stirbt; er wird von seinen Kindern K1 und K2 zu je 1/2 beerbt. Der Gesellschaftsvertrag enthält keine Regelung zum Tod eines Gesellschafters. Was gilt?",
+  "optionen": [
+   "Die GbR wird aufgelöst",
+   "Der Anteil fällt in die Erbengemeinschaft aus K1 und K2",
+   "G scheidet aus der GbR aus; die Gesellschaft besteht unter den übrigen Gesellschaftern fort",
+   "K1 und K2 werden kraft Gesetzes je zur Hälfte Gesellschafter"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 723 Abs. 1 Nr. 1 BGB führt der Tod eines Gesellschafters ohne abweichende Vertragsregelung zu dessen Ausscheiden, nicht zur Auflösung. Nur wenn der Gesellschaftsvertrag eine Nachfolgeklausel enthält, geht der Anteil im Wege der Sondererbfolge (§ 711 Abs. 2 BGB) nach Erbquoten auf die Erben über – und auch dann nicht in die Erbengemeinschaft."
+ },
+ {
+  "id": "hand1-053",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "GbR: Anteilsübertragung, Ausscheiden, Tod und Auflösung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/gbr-anteilsubertragung-ausscheiden-tod-und-auflosung",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 723 BGB",
+   "§ 729 BGB",
+   "§ 724 BGB",
+   "§ 730 BGB"
+  ],
+  "frage": "Ordne die Ereignisse ihrer gesetzlichen Rechtsfolge im Recht der GbR zu.",
+  "paare": [
+   [
+    "Insolvenzeröffnung über das Vermögen eines Gesellschafters",
+    "Ausscheiden dieses Gesellschafters (§ 723 BGB)"
+   ],
+   [
+    "Insolvenzeröffnung über das Gesellschaftsvermögen",
+    "Auflösung der GbR (§ 729 BGB)"
+   ],
+   [
+    "Gesellschaftsvertrag bestimmt, dass der Tod eines Gesellschafters die GbR auflöst",
+    "Besonderheiten des § 730 BGB gelten"
+   ],
+   [
+    "Fortsetzung mit Erben aufgrund Nachfolgeklausel",
+    "Erben können unter Voraussetzungen die Stellung eines Kommanditisten verlangen (§ 724 BGB)"
+   ]
+  ],
+  "erklaerung": "Gesellschafterbezogene Ereignisse (Tod, Kündigung der Mitgliedschaft, Privatinsolvenz) führen nach § 723 BGB zum Ausscheiden, gesellschaftsbezogene Ereignisse wie die Insolvenz über das Gesellschaftsvermögen nach § 729 BGB zur Auflösung. Ordnet der Gesellschaftsvertrag für Tod oder Insolvenz eines Gesellschafters die Auflösung an, gelten die Besonderheiten des § 730 BGB. § 724 BGB gibt nachfolgenden Erben unter bestimmten Voraussetzungen das Recht, eine haftungsbeschränkte Kommanditistenstellung zu verlangen."
  }
 ]

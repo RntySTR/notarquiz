@@ -507,5 +507,465 @@
   ],
   "antwort": 1,
   "erklaerung": "Bleiben löschbare Rechte stehen, fehlen später oft die für die Löschung nötigen Unterlagen; das Problem zeigt sich meist erst, wenn die Löschung dringend wird, etwa bei Verkauf oder Beleihung. Die Löschung ist daher anzuregen, solange Unterlagen beschaffbar sind. Eine Verweigerung der Umschreibung wegen stehen gebliebener Rechte gibt es nicht."
+ },
+ {
+  "id": "ueber1-024",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Gestaltung des Übergabevertrags",
+  "seite": "Übergabevertrag: Hinweise, Gläubigeranfechtung und §§ 2287, 2288 BGB",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-hinweise-glaubigeranfechtung-und-2287-2288-bgb",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 4 Abs. 1 AnfG",
+   "§ 3 Abs. 1 S. 1 AnfG"
+  ],
+  "frage": "Innerhalb welcher Frist kann ein Gläubiger des Veräußerers eine schenkweise Übergabe ohne Benachteiligungsvorsatz nach dem Anfechtungsgesetz anfechten?",
+  "optionen": [
+   "Zwei Jahre vor der Anfechtung",
+   "Vier Jahre vor der Anfechtung",
+   "Zehn Jahre vor der Anfechtung",
+   "Zehn Jahre vor dem Erbfall"
+  ],
+  "antwort": 1,
+  "erklaerung": "Eine unentgeltliche Leistung ist nur anfechtbar, wenn sie nicht früher als vier Jahre vor der Anfechtung vorgenommen wurde (§ 4 Abs. 1 AnfG). Die Zehnjahresfrist gilt nur bei Vorsatzanfechtung, wenn der Veräußerer mit Benachteiligungsvorsatz handelte und der Erwerber dies kannte (§ 3 Abs. 1 S. 1 AnfG)."
+ },
+ {
+  "id": "ueber1-025",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Gestaltung des Übergabevertrags",
+  "seite": "Übergabevertrag: Hinweise, Gläubigeranfechtung und §§ 2287, 2288 BGB",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-hinweise-glaubigeranfechtung-und-2287-2288-bgb",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2287 BGB"
+  ],
+  "frage": "Der Herausgabeanspruch nach § 2287 BGB steht auch einem Erben zu, der nur in einem frei widerruflichen Einzeltestament eingesetzt ist.",
+  "antwort": false,
+  "erklaerung": "§ 2287 BGB setzt eine bindende Erbeinsetzung durch Erbvertrag oder (wechselbezüglich) im gemeinschaftlichen Testament voraus; geschützt wird die Bindung an die vereinbarte Erbfolge. Bei einem frei widerruflichen Einzeltestament fehlt diese Bindung."
+ },
+ {
+  "id": "ueber1-026",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Gestaltung des Übergabevertrags",
+  "seite": "Übergabevertrag: Hinweise, Gläubigeranfechtung und §§ 2287, 2288 BGB",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-hinweise-glaubigeranfechtung-und-2287-2288-bgb",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 2287 BGB",
+   "§ 2288 BGB"
+  ],
+  "frage": "Wodurch lässt sich bei einem durch Erbvertrag gebundenen Veräußerer die Beeinträchtigungsabsicht im Sinne des § 2287 BGB regelmäßig ausschließen?",
+  "optionen": [
+   "Durch einen ausdrücklichen Hinweis auf § 2287 BGB in der Urkunde",
+   "Durch ein lebzeitiges Eigeninteresse des Veräußerers, etwa angemessene Gegenleistungen wie Rente oder Pflege",
+   "Durch Zustimmung des Erwerbers zur späteren Herausgabe",
+   "Durch Beurkundung nach Ablauf von vier Jahren seit Errichtung des Erbvertrags"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Beeinträchtigungsabsicht fehlt meist, wenn die Übergabe einem lebzeitigen Eigeninteresse des Veräußerers diente, regelmäßig bei angemessenen Gegenleistungen wie Rente oder Pflege. Solche Gegenleistungen sind daher im Vertrag festzuhalten. Ein bloßer Hinweis auf § 2287 BGB schützt den Erwerber nicht, sondern erfüllt nur die Belehrung."
+ },
+ {
+  "id": "ueber1-027",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Gestaltung des Übergabevertrags",
+  "seite": "Übergabevertrag: Hinweise, Gläubigeranfechtung und §§ 2287, 2288 BGB",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-hinweise-glaubigeranfechtung-und-2287-2288-bgb",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1 Abs. 1 AnfG",
+   "§ 2287 BGB",
+   "§ 2288 BGB"
+  ],
+  "frage": "Ordne dem Anspruchsinhaber die Grundlage zu, auf die er einen Herausgabeanspruch gegen den Erwerber stützen kann.",
+  "paare": [
+   [
+    "Gläubiger des Veräußerers",
+    "Anfechtung nach dem Anfechtungsgesetz (§ 1 Abs. 1 AnfG)"
+   ],
+   [
+    "Durch Erbvertrag bindend eingesetzter Erbe",
+    "Herausgabe bei Beeinträchtigungsschenkung (§ 2287 BGB)"
+   ],
+   [
+    "Bindend bedachter Vermächtnisnehmer",
+    "Schutz des Vermächtnisnehmers (§ 2288 BGB)"
+   ]
+  ],
+  "erklaerung": "Gläubiger fechten benachteiligende Rechtshandlungen außerhalb der Insolvenz nach § 1 Abs. 1 AnfG an. Der vertraglich oder wechselbezüglich eingesetzte Erbe ist durch § 2287 BGB geschützt, der bindend bedachte Vermächtnisnehmer entsprechend durch § 2288 BGB."
+ },
+ {
+  "id": "ueber1-028",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Gestaltung des Übergabevertrags",
+  "seite": "Übergabevertrag: Vorkaufsrechte, Genehmigungen, Verwalterzustimmung und Anzeigen",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-vorkaufsrechte-genehmigungen-verwalterzustimmung-und-anzeigen",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 24 BauGB"
+  ],
+  "frage": "Das gemeindliche Vorkaufsrecht kommt bei einer Übergabe in der Regel nicht zum Zug, weil kein Verkaufsfall vorliegt.",
+  "antwort": true,
+  "erklaerung": "Gemeindliche, wasser-, wald- und naturschutzrechtliche Vorkaufsrechte setzen einen Verkaufsfall voraus. Die schenkweise Übergabe ist kein Kauf, sodass diese Vorkaufsrechte in der Regel nicht ausgelöst werden."
+ },
+ {
+  "id": "ueber1-029",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Gestaltung des Übergabevertrags",
+  "seite": "Übergabevertrag: Vorkaufsrechte, Genehmigungen, Verwalterzustimmung und Anzeigen",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-vorkaufsrechte-genehmigungen-verwalterzustimmung-und-anzeigen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 12 WEG"
+  ],
+  "frage": "Für eine Eigentumswohnung ist eine Veräußerungsbeschränkung nach § 12 WEG vereinbart. Die Eltern übertragen die Wohnung schenkweise an ihre Tochter. Was ist zu prüfen?",
+  "optionen": [
+   "Nichts, da eine Schenkung keine Veräußerung im Sinne des § 12 WEG ist",
+   "Ob Veräußerungen an Verwandte in gerader Linie im Grundbuch von der Zustimmungspflicht ausgenommen sind; andernfalls ist die Verwalterzustimmung einzuholen",
+   "Nur, ob die Eigentümerversammlung der Übertragung zugestimmt hat",
+   "Ob die Gemeinde ihr Vorkaufsrecht ausübt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Schenkung und Eigentumsübertragung sind Veräußerungen im Sinne des § 12 WEG; grundsätzlich ist daher die Verwalterzustimmung einzuholen. Häufig sind Veräußerungen an Ehegatten und Verwandte in gerader Linie aber ausgenommen und im Grundbuch vermerkt, was vorab zu prüfen ist."
+ },
+ {
+  "id": "ueber1-030",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Gestaltung des Übergabevertrags",
+  "seite": "Übergabevertrag: Vorkaufsrechte, Genehmigungen, Verwalterzustimmung und Anzeigen",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-vorkaufsrechte-genehmigungen-verwalterzustimmung-und-anzeigen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 18 GrEStG",
+   "§ 34 ErbStG"
+  ],
+  "frage": "Welche Stellen erhalten nach der Praxis mindestens eine Abschrift des Übergabevertrags?",
+  "optionen": [
+   "Beteiligte, Grundbuchamt, Gutachterausschuss und Gemeinde",
+   "Beteiligte, Finanzamt (Grundstückswertstelle), Finanzamt (Schenkungsteuerstelle) und Grundbuchamt",
+   "Beteiligte, Grundbuchamt und Verwalter",
+   "Grundbuchamt und Finanzamt (Grunderwerbsteuerstelle) des Wohnsitzes des Erwerbers"
+  ],
+  "antwort": 1,
+  "erklaerung": "Mindestens erhalten die Beteiligten, das Finanzamt (Grundstückswertstelle), das Finanzamt (Schenkungsteuerstelle) und das Grundbuchamt eine Abschrift; die Anzeigen an die Finanzämter sind Pflicht des Notars (§ 18 GrEStG, § 34 ErbStG). Verwalter, Landwirtschaftsbehörde oder Gläubiger kommen nur je nach Fall hinzu."
+ },
+ {
+  "id": "ueber1-031",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Gestaltung des Übergabevertrags",
+  "seite": "Übergabevertrag: Vorkaufsrechte, Genehmigungen, Verwalterzustimmung und Anzeigen",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-vorkaufsrechte-genehmigungen-verwalterzustimmung-und-anzeigen",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 18 GrEStG",
+   "§ 34 ErbStG",
+   "§ 12 WEG"
+  ],
+  "frage": "Ordne dem Empfänger der Abschrift bzw. Anzeige das maßgebliche Kriterium oder den Zweck zu.",
+  "paare": [
+   [
+    "Finanzamt (Grundstückswertstelle)",
+    "zuständig ist das Finanzamt, in dessen Bezirk der Grundbesitz liegt"
+   ],
+   [
+    "Finanzamt (Schenkungsteuerstelle)",
+    "meist maßgeblich ist der inländische Wohnsitz des Schenkers"
+   ],
+   [
+    "Verwalter",
+    "Zustimmung nach § 12 WEG"
+   ],
+   [
+    "Gläubiger von Rechten in Abt. II und III",
+    "Löschungsunterlagen oder Genehmigung einer Schuldübernahme"
+   ]
+  ],
+  "erklaerung": "Für die Grundstückswertstelle ist die Belegenheit des Grundbesitzes maßgeblich, für die Schenkungsteuerstelle meist der inländische Wohnsitz des Schenkers (§ 34 ErbStG). Verwalter und Gläubiger erhalten Abschriften nur, soweit ihre Zustimmung, Genehmigung oder Löschungsunterlagen benötigt werden."
+ },
+ {
+  "id": "ueber1-032",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Grundlagen der Übergabe",
+  "seite": "Übergabevertrag: Ausstattung, ehebedingte Zuwendung und Schenkung unter Auflage",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/grundlagen-der-ubergabe/ubergabevertrag-ausstattung-ehebedingte-zuwendung-und-schenkung-unter-auflage",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1624 BGB"
+  ],
+  "frage": "Welche Voraussetzung gehört nicht zum Begriff der Ausstattung nach § 1624 BGB?",
+  "optionen": [
+   "Zuwendung von Eltern oder einem Elternteil an ein Kind",
+   "Anlass Heirat oder Begründung bzw. Erhaltung einer selbständigen Lebensstellung",
+   "Angemessenheit im Verhältnis zu den Vermögensverhältnissen der Eltern",
+   "Vereinbarung einer Gegenleistung des Kindes"
+  ],
+  "antwort": 3,
+  "erklaerung": "Eine Ausstattung setzt eine Zuwendung der Eltern an ein Kind aus Anlass der Heirat, Lebenspartnerschaft oder Begründung bzw. Erhaltung einer selbständigen Lebensstellung voraus, die den Vermögensverhältnissen der Eltern angemessen ist (§ 1624 BGB). Eine Gegenleistung des Kindes ist nicht erforderlich."
+ },
+ {
+  "id": "ueber1-033",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Grundlagen der Übergabe",
+  "seite": "Übergabevertrag: Ausstattung, ehebedingte Zuwendung und Schenkung unter Auflage",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/grundlagen-der-ubergabe/ubergabevertrag-ausstattung-ehebedingte-zuwendung-und-schenkung-unter-auflage",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1624 BGB",
+   "§ 528 BGB",
+   "§ 2325 BGB"
+  ],
+  "frage": "Welche Folge hat die Einordnung einer angemessenen Zuwendung als Ausstattung statt als Schenkung?",
+  "optionen": [
+   "Sie unterliegt nicht der Rückforderung nach § 528 BGB und löst keine Pflichtteilsergänzung nach § 2325 BGB aus",
+   "Sie ist formfrei auch bei Grundstücken",
+   "Sie ist stets auf den Pflichtteil anzurechnen",
+   "Sie kann vom Veräußerer jederzeit frei widerrufen werden"
+  ],
+  "antwort": 0,
+  "erklaerung": "Soweit die Ausstattung angemessen ist, ist sie keine Schenkung (§ 1624 BGB). Daher gelten die Rückforderungsrechte der §§ 528, 530 BGB nicht, was vor Sozialhilferegress schützt, und § 2325 BGB greift nicht, da er nur Schenkungen erfasst. Formfrei ist eine Grundstücksübertragung wegen § 311b Abs. 1 BGB dennoch nicht."
+ },
+ {
+  "id": "ueber1-034",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Grundlagen der Übergabe",
+  "seite": "Übergabevertrag: Ausstattung, ehebedingte Zuwendung und Schenkung unter Auflage",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/grundlagen-der-ubergabe/ubergabevertrag-ausstattung-ehebedingte-zuwendung-und-schenkung-unter-auflage",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2325 Abs. 3 S. 3 BGB"
+  ],
+  "frage": "Bei einer ehebedingten Zuwendung an den Ehegatten beginnt die Zehnjahresfrist der Pflichtteilsergänzung erst mit Auflösung der Ehe.",
+  "antwort": true,
+  "erklaerung": "Nach § 2325 Abs. 3 S. 3 BGB beginnt die Frist bei Zuwendungen an den Ehegatten nicht vor Auflösung der Ehe. Gegenüber Dritten gelten für ehebedingte Zuwendungen überwiegend die Regeln der Schenkung; sie können daher zeitlich unbegrenzt Pflichtteilsergänzungsansprüche auslösen."
+ },
+ {
+  "id": "ueber1-035",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Grundlagen der Übergabe",
+  "seite": "Übergabevertrag: Ausstattung, ehebedingte Zuwendung und Schenkung unter Auflage",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/grundlagen-der-ubergabe/ubergabevertrag-ausstattung-ehebedingte-zuwendung-und-schenkung-unter-auflage",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 313 BGB"
+  ],
+  "frage": "Ein Ehegatte hat dem anderen ehebedingt ein Grundstück zugewendet; die Ehe wird geschieden. Welche Rückforderungsmöglichkeit besteht ohne vertragliche Regelung?",
+  "optionen": [
+   "Ein gesetzliches Rückforderungsrecht nach § 530 BGB wegen groben Undanks",
+   "Grundsätzlich keine; nur in seltenen Ausnahmefällen nach den Regeln über die gestörte Geschäftsgrundlage (§ 313 BGB)",
+   "Ein freies Widerrufsrecht innerhalb von zehn Jahren",
+   "Ein Rückforderungsrecht nach § 528 BGB unabhängig von Bedürftigkeit"
+  ],
+  "antwort": 1,
+  "erklaerung": "Zwischen Ehegatten besteht für den Scheidungsfall grundsätzlich kein gesetzliches Rückforderungsrecht; denkbar ist eine Rückforderung nur ausnahmsweise nach § 313 BGB. Die Schenkungsvorschriften der §§ 528, 530 BGB greifen nicht, weil die ehebedingte Zuwendung zwischen den Ehegatten keine Schenkung ist. Deshalb empfiehlt sich ein vertragliches Rückforderungsrecht für den Scheidungsfall."
+ },
+ {
+  "id": "ueber1-036",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Grundlagen der Übergabe",
+  "seite": "Übergabevertrag: Pflichtteilsergänzung und Fristbeginn bei Vorbehalten",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/grundlagen-der-ubergabe/ubergabevertrag-pflichtteilserganzung-und-fristbeginn-bei-vorbehalten",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 2325 Abs. 3 BGB"
+  ],
+  "frage": "Mit welchem Anteil wird eine Schenkung bei der Pflichtteilsergänzung berücksichtigt, die vier volle Jahre vor dem Erbfall geleistet wurde (Schenkung im fünften Jahr vor dem Erbfall)?",
+  "optionen": [
+   "Voll",
+   "Zu sechs Zehnteln",
+   "Zu vier Zehnteln",
+   "Gar nicht mehr"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 2325 Abs. 3 BGB wird eine Schenkung im letzten Jahr vor dem Erbfall voll berücksichtigt und für jedes weitere Jahr um ein Zehntel weniger. Im fünften Jahr sind vier Zehntel abgeschmolzen, sodass sechs Zehntel verbleiben. Erst nach zehn Jahren bleibt die Schenkung unberücksichtigt."
+ },
+ {
+  "id": "ueber1-037",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Grundlagen der Übergabe",
+  "seite": "Übergabevertrag: Pflichtteilsergänzung und Fristbeginn bei Vorbehalten",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/grundlagen-der-ubergabe/ubergabevertrag-pflichtteilserganzung-und-fristbeginn-bei-vorbehalten",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2325 Abs. 3 BGB",
+   "§ 1624 BGB"
+  ],
+  "frage": "Ordne die Gestaltung ihrer Auswirkung auf die Zehnjahresfrist des § 2325 Abs. 3 BGB zu.",
+  "paare": [
+   [
+    "Vorbehaltsnießbrauch",
+    "Frist beginnt nicht zu laufen"
+   ],
+   [
+    "An bestimmte Tatbestände geknüpftes Rückforderungsrecht",
+    "hindert den Fristbeginn nach Mehrheit der OLG grundsätzlich nicht"
+   ],
+   [
+    "Freies Rückforderungsrecht",
+    "Fristbeginn nicht abschließend geklärt"
+   ],
+   [
+    "Angemessene Ausstattung nach § 1624 BGB",
+    "keine Pflichtteilsergänzung, da keine Schenkung"
+   ]
+  ],
+  "erklaerung": "Beim Nießbrauchsvorbehalt (und nach derzeitiger Rechtsprechung beim umfassenden Wohnungsrecht) beginnt die Frist nicht. Bedingte Rückforderungsrechte hindern den Fristbeginn wegen des Genussverzichts grundsätzlich nicht; beim freien Rückforderungsrecht ist die Frage ungeklärt. Die Ausstattung fällt mangels Schenkung nicht unter § 2325 BGB."
+ },
+ {
+  "id": "ueber1-038",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Grundlagen der Übergabe",
+  "seite": "Übergabevertrag: Pflichtteilsergänzung und Fristbeginn bei Vorbehalten",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/grundlagen-der-ubergabe/ubergabevertrag-pflichtteilserganzung-und-fristbeginn-bei-vorbehalten",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 2325 Abs. 3 S. 2 BGB"
+  ],
+  "frage": "Bedingte Rückforderungsrechte hindern nach Mehrheit der Oberlandesgerichte den Fristbeginn nicht, weil der Veräußerer den Gegenstand überlässt und der Eintritt des Rückforderungsgrunds außerhalb seines Einflusses liegt.",
+  "antwort": true,
+  "erklaerung": "Begründet wird dies mit dem Genussverzicht: Der Veräußerer gibt die Nutzung auf; ob ein Rückforderungsgrund eintritt, kann er nicht steuern. Anders ist die Lage beim freien Rückforderungsrecht, wo eine Ansicht die wirkliche Ausgliederung aus dem Vermögen verneint."
+ },
+ {
+  "id": "ueber1-039",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Grundlagen der Übergabe",
+  "seite": "Übergabevertrag: Pflichtteilsergänzung und Fristbeginn bei Vorbehalten",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/grundlagen-der-ubergabe/ubergabevertrag-pflichtteilserganzung-und-fristbeginn-bei-vorbehalten",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 2325 Abs. 3 BGB"
+  ],
+  "frage": "Übergabe mit dem Ziel der Pflichtteilsreduzierung",
+  "sachverhalt": "Witwer W hat zwei Kinder, A und B. Er möchte sein Mehrfamilienhaus an A übertragen, damit B bei seinem Tod möglichst wenig Pflichtteil erhält. W möchte sich zunächst den Nießbrauch und zusätzlich ein jederzeit ausübbares Rückforderungsrecht vorbehalten. B ist zur Mitwirkung nicht bereit.",
+  "schritte": [
+   {
+    "frage": "Wie wirkt sich der vorbehaltene Nießbrauch auf die Zehnjahresfrist des § 2325 Abs. 3 BGB aus?",
+    "optionen": [
+     "Die Frist beginnt mit Eigentumsumschreibung",
+     "Die Frist beginnt nicht zu laufen",
+     "Die Frist beginnt mit Beurkundung, wird aber gehemmt",
+     "Die Frist verlängert sich auf zwanzig Jahre"
+    ],
+    "antwort": 1,
+    "erklaerung": "Bei einer Übergabe unter Nießbrauchsvorbehalt beginnt die Zehnjahresfrist des § 2325 Abs. 3 BGB nicht zu laufen. Die Umschreibung allein setzt sie daher nicht in Gang."
+   },
+   {
+    "frage": "Wie ist das freie Rückforderungsrecht im Hinblick auf das Ziel des W zu beurteilen?",
+    "optionen": [
+     "Es ist unschädlich, da Rückforderungsrechte den Fristbeginn nie hindern",
+     "Es ist risikobehaftet, da ungeklärt ist, ob es den Fristbeginn hindert; die Praxis rät davon ab",
+     "Es ist unzulässig und führt zur Nichtigkeit des Vertrags",
+     "Es setzt die Frist sofort in Gang"
+    ],
+    "antwort": 1,
+    "erklaerung": "Ob ein freies Rückforderungsrecht den Beginn der Frist hindert, ist nicht abschließend geklärt. Ist die Übergabe auf eine Verringerung von Pflichtteilsansprüchen angelegt, soll nach der Praxis von einem freien Rückforderungsrecht abgesehen werden."
+   },
+   {
+    "frage": "Welcher Weg würde Pflichtteilsergänzungsansprüche des B am sichersten ausschließen?",
+    "optionen": [
+     "Ein Verzicht des B auf Pflichtteilsergänzungsansprüche",
+     "Die Bezeichnung des Vertrags als Übertragung in vorweggenommener Erbfolge",
+     "Ein Hinweis auf das Pflichtteilsrecht in der Urkunde",
+     "Die Anordnung der Anrechnung auf den Pflichtteil des A"
+    ],
+    "antwort": 0,
+    "erklaerung": "Nicht begünstigte Pflichtteilsberechtigte können auf Pflichtteilsergänzungsansprüche verzichten. Die Anrechnungsbestimmung betrifft nur den Pflichtteil des Erwerbers A, nicht den des B. Da B nicht mitwirkt, bleibt es bei der Abschmelzung, die wegen des Nießbrauchs erst später beginnt."
+   }
+  ],
+  "erklaerung": "Der Nießbrauchsvorbehalt verhindert den Beginn der Zehnjahresfrist; ein freies Rückforderungsrecht birgt zusätzlich ein ungeklärtes Risiko und sollte bei Pflichtteilsreduzierungszielen unterbleiben. Sicheren Schutz bietet nur ein Verzicht des B auf Pflichtteilsergänzungsansprüche."
+ },
+ {
+  "id": "ueber1-040",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Grundlagen der Übergabe",
+  "seite": "Übergabevertrag: Rechtsnatur, gemischte Schenkung und Beurkundungsform",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/grundlagen-der-ubergabe/ubergabevertrag-rechtsnatur-gemischte-schenkung-und-beurkundungsform",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 311b Abs. 1 BGB",
+   "§ 518 BGB"
+  ],
+  "frage": "Aus welchen Gründen bedarf der schenkweise Übergabevertrag über ein Grundstück der notariellen Beurkundung?",
+  "optionen": [
+   "Nur wegen § 925 BGB",
+   "Wegen § 311b Abs. 1 BGB und zusätzlich wegen § 518 BGB für das Schenkungsversprechen",
+   "Nur wegen § 29 GBO",
+   "Nur wegen § 518 BGB, da die Schenkung den Vertrag prägt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Übergabevertrag verpflichtet zur Übertragung von Grundstückseigentum und ist daher nach § 311b Abs. 1 BGB beurkundungspflichtig. Zusätzlich ist das Schenkungsversprechen nach § 518 BGB nur in notarieller Form wirksam. § 29 GBO betrifft lediglich den Nachweis gegenüber dem Grundbuchamt."
+ },
+ {
+  "id": "ueber1-041",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Grundlagen der Übergabe",
+  "seite": "Übergabevertrag: Rechtsnatur, gemischte Schenkung und Beurkundungsform",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/grundlagen-der-ubergabe/ubergabevertrag-rechtsnatur-gemischte-schenkung-und-beurkundungsform",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 516 Abs. 1 BGB"
+  ],
+  "frage": "Die Formel „Übertragung im Wege der vorweggenommenen Erbfolge“ genügt zur Bezeichnung des Rechtsgrunds im Übergabevertrag.",
+  "antwort": false,
+  "erklaerung": "Die vorweggenommene Erbfolge ist nur das Motiv, nicht der Rechtsgrund. Der Rechtsgrund (Schenkung nach § 516 BGB, ehebedingte Zuwendung, Ausstattung usw.) ist ausdrücklich zu bezeichnen, weil er vor allem bei späterer Rückabwicklung über steuerliche und sozialhilferechtliche Folgen entscheidet."
+ },
+ {
+  "id": "ueber1-042",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Grundlagen der Übergabe",
+  "seite": "Übergabevertrag: Rechtsnatur, gemischte Schenkung und Beurkundungsform",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/grundlagen-der-ubergabe/ubergabevertrag-rechtsnatur-gemischte-schenkung-und-beurkundungsform",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 925 BGB",
+   "§ 873 Abs. 1 BGB"
+  ],
+  "frage": "Welche Anforderung gilt für die Form der Auflassung im Übergabevertrag?",
+  "optionen": [
+   "Veräußerer und Erwerber müssen persönlich und gleichzeitig anwesend sein",
+   "Gleichzeitige Anwesenheit vor dem Notar; Vertretung ist möglich",
+   "Getrennte Beurkundung von Angebot und Annahme genügt",
+   "Eine öffentliche Beglaubigung der Unterschriften genügt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Auflassung erfordert die gleichzeitige Anwesenheit von Veräußerer und Erwerber vor dem Notar (§ 925 BGB); persönliche Anwesenheit ist nicht erforderlich, Vertretung ist möglich. Eine Unterschriftsbeglaubigung reicht nicht, weil das Grundbuchamt die Einigung nach § 20 GBO nur anhand einer Niederschrift nach §§ 6 ff. BeurkG prüfen kann."
+ },
+ {
+  "id": "ueber1-043",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Grundlagen der Übergabe",
+  "seite": "Übergabevertrag: Rechtsnatur, gemischte Schenkung und Beurkundungsform",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/grundlagen-der-ubergabe/ubergabevertrag-rechtsnatur-gemischte-schenkung-und-beurkundungsform",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 516 Abs. 1 BGB"
+  ],
+  "frage": "Eltern übertragen ihr Haus an die Tochter, die sich im Gegenzug zur Pflege der Eltern verpflichtet. Wie ist das Grundgeschäft einzuordnen?",
+  "optionen": [
+   "Als reine Schenkung, da Pflegeleistungen keine Gegenleistung sind",
+   "Als gemischte Schenkung, teils entgeltlich, teils unentgeltlich",
+   "Als Kaufvertrag",
+   "Als Ausstattung"
+  ],
+  "antwort": 1,
+  "erklaerung": "Vereinbaren die Beteiligten eine Gegenleistung des Erwerbers wie Pflegeleistungen, ist die Zuwendung nicht vollständig unentgeltlich im Sinne des § 516 Abs. 1 BGB. Es liegt eine gemischte Schenkung vor. Ein Kaufvertrag kommt erst in Betracht, wenn der entgeltliche Teil überwiegt."
  }
 ]

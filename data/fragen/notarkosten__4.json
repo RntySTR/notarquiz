@@ -96,5 +96,124 @@
   "frage": "Fällt der Käufer als Hauptschuldner aus, darf der Notar aus Entgegenkommen darauf verzichten, den Verkäufer als weiteren Gesamtschuldner in Anspruch zu nehmen.",
   "antwort": false,
   "erklaerung": "Der Verzicht darauf, bei Ausfall eines Kostenschuldners einen anderen Gesamtschuldner heranzuziehen, ist ebenso unzulässig wie ein Erlass. Er verstößt gegen die Erhebungspflicht nach § 17 Abs. 1 S. 1 BNotO und § 125 GNotKG; die Seite nennt ihn als typischen Fehler."
+ },
+ {
+  "id": "kost4-006",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: Fälligkeit, Vorschuss, Verzinsung, Zurückbehaltung",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-falligkeit-vorschuss-verzinsung-zuruckbehaltung",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 10 GNotKG"
+  ],
+  "frage": "Ordne dem Geschäft den Zeitpunkt zu, in dem die Notargebühr fällig wird.",
+  "paare": [
+   [
+    "Beurkundung",
+    "Unterschrift des Notars unter die Niederschrift"
+   ],
+   [
+    "Unterschriftsbeglaubigung",
+    "Vor Aushändigung des Schriftstücks"
+   ],
+   [
+    "Entwurf",
+    "Fertigstellung oder Aushändigung"
+   ],
+   [
+    "Betreuungsgebühr",
+    "Ausübung der Betreuungstätigkeit"
+   ],
+   [
+    "Verwahrungsgebühr (KV 25300 GNotKG)",
+    "Sofort mit ihrer Entstehung"
+   ]
+  ],
+  "erklaerung": "Nach § 10 GNotKG werden Notargebühren mit Beendigung des gebührenpflichtigen Geschäfts fällig, also mit Vornahme der Amtshandlung. Daraus folgen die typischen Zeitpunkte je Geschäftsart; Verwahrungsgebühren und Auslagen sind abweichend sofort mit Entstehung fällig. Vollzugs- und Betreuungsgebühren werden zwar praktisch mit der Beurkundungsgebühr abgerechnet, fällig sind sie aber erst mit der jeweiligen Tätigkeit."
+ },
+ {
+  "id": "kost4-007",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: Fälligkeit, Vorschuss, Verzinsung, Zurückbehaltung",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-falligkeit-vorschuss-verzinsung-zuruckbehaltung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 6 Abs. 1 S. 1 GNotKG"
+  ],
+  "frage": "Eine Beurkundungsgebühr wurde am 15.03.2025 fällig. Wann tritt Verjährung ein, wenn keine Hemmung oder kein Neubeginn eintritt?",
+  "optionen": [
+   "Mit Ablauf des 15.03.2029",
+   "Mit Ablauf des 31.12.2028",
+   "Mit Ablauf des 31.12.2029",
+   "Mit Ablauf des 31.12.2027"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Verjährungsfrist beträgt vier Jahre und beginnt mit dem Ende des Kalenderjahres der Fälligkeit (§ 6 Abs. 1 S. 1 GNotKG), hier also am 31.12.2025; sie endet mit Ablauf des 31.12.2029. Wer taggenau vom Fälligkeitstag rechnet (15.03.2029), übersieht den jahresbezogenen Fristbeginn."
+ },
+ {
+  "id": "kost4-008",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: Fälligkeit, Vorschuss, Verzinsung, Zurückbehaltung",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-falligkeit-vorschuss-verzinsung-zuruckbehaltung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 88 GNotKG",
+   "§ 89 GNotKG",
+   "§ 247 BGB"
+  ],
+  "frage": "Unter welcher Voraussetzung und ab wann werden notarielle Kostenforderungen verzinst?",
+  "optionen": [
+   "Ab Fälligkeit mit fünf Prozentpunkten über dem Basiszinssatz, ohne weitere Voraussetzung",
+   "Ab Zugang der Kostenberechnung mit neun Prozentpunkten über dem Basiszinssatz",
+   "Gar nicht, da Kosten nach dem GNotKG unverzinslich sind",
+   "Ab einem Monat nach Zustellung einer vollstreckbaren Ausfertigung, die Betrag, Zinsbeginn und Zinssatz angibt"
+  ],
+  "antwort": 3,
+  "erklaerung": "Notarielle Kostenforderungen sind nach § 88 GNotKG zu verzinsen, wenn dem Schuldner eine vollstreckbare Ausfertigung mit Betrag, Zinsbeginn und Zinssatz zugestellt wurde; die Zinsen laufen ab einem Monat nach Zustellung und betragen fünf Prozentpunkte über dem Basiszinssatz (§ 247 BGB). Unverzinslich sind nur Gerichtskosten (§ 6 Abs. 4 GNotKG). Fälligkeit allein löst noch keine Zinsen aus."
+ },
+ {
+  "id": "kost4-009",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: Fälligkeit, Vorschuss, Verzinsung, Zurückbehaltung",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-falligkeit-vorschuss-verzinsung-zuruckbehaltung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 19 Abs. 2 Nr. 5 GNotKG",
+   "§ 15 GNotKG"
+  ],
+  "frage": "In der Kostenberechnung müssen gezahlte Vorschüsse angegeben werden; die Vorschussermächtigung des § 15 GNotKG muss nach h. M. dagegen nicht zitiert werden.",
+  "antwort": true,
+  "erklaerung": "Gezahlte Vorschüsse sind Pflichtangabe nach § 19 Abs. 2 Nr. 5 GNotKG. § 15 GNotKG gehört anders als nach früherem Recht weder zu den Pflicht- noch zu den Sollangaben des § 19 Abs. 3 GNotKG, sodass er nach h. M. nicht genannt werden muss; ein Hinweis schadet aber nicht."
+ },
+ {
+  "id": "kost4-010",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: Fälligkeit, Vorschuss, Verzinsung, Zurückbehaltung",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-falligkeit-vorschuss-verzinsung-zuruckbehaltung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 15 GNotKG",
+   "§ 15 Abs. 1 BNotO",
+   "§ 4 BeurkG"
+  ],
+  "frage": "Der Notar rechnet bei Beurkundung eines Kaufvertrags zugleich die Betreuungsgebühr für die spätere Fälligkeitsmitteilung ab. Kurz darauf tritt der Käufer vom Vertrag zurück. Wie ist die Lage zu beurteilen?",
+  "optionen": [
+   "Die Betreuungsgebühr ist mit der Beurkundung fällig geworden und bleibt bestehen.",
+   "Rechtlich lag ein Vorschuss auf eine noch nicht fällige Gebühr vor; die Kostenberechnung ist gegebenenfalls zu berichtigen.",
+   "Die Abrechnung war unzulässig, weil § 16 GNotKG Vorschüsse auf Betreuungsgebühren ausschließt.",
+   "Der Notar darf die Gebühr nur noch vollstrecken, wenn der Verkäufer zustimmt."
+  ],
+  "antwort": 1,
+  "erklaerung": "Werden Vollzugs- oder Betreuungsgebühren schon mit der Beurkundung berechnet, ist das rechtlich die Erhebung eines Vorschusses (§ 15 GNotKG) auf noch nicht fällige Gebühren; fällig wird die Betreuungsgebühr erst mit Ausübung der Tätigkeit. Bleibt die Tätigkeit etwa wegen Rücktritts aus, ist die Kostenberechnung gegebenenfalls nachträglich zu berichtigen. Vor einer Vollstreckung muss der Notar prüfen, ob die Tätigkeit tatsächlich erbracht wurde."
  }
 ]

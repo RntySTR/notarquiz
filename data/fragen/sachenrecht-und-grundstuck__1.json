@@ -566,5 +566,304 @@
   "frage": "Stirbt der Bewilligende nach Abgabe seiner Einigungserklärung, aber vor der Eintragung, bleibt seine Erklärung wirksam und bindet auch seine Erben.",
   "antwort": true,
   "erklaerung": "Die Einigung muss grundsätzlich noch bei der Eintragung bestehen. Nach § 130 Abs. 3 BGB berühren Tod oder Geschäftsunfähigkeit des Erklärenden nach Abgabe der Erklärung deren Wirksamkeit nicht; die Erben sind ebenso gebunden wie der Erklärende selbst."
+ },
+ {
+  "id": "sach1-025",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundsätze und Erwerb dinglicher Rechte",
+  "seite": "Grundstücksrechte: Verfügungsbeschränkung zwischen Einigung und Eintragung (§ 878 BGB)",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/grundstucksrechte-verfugungsbeschrankung-zwischen-einigung-und-eintragung-878-bgb",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 878 BGB",
+   "§ 873 Abs. 2 BGB"
+  ],
+  "frage": "Welche Voraussetzungen müssen nach § 878 BGB vor Eintritt einer Verfügungsbeschränkung erfüllt sein, damit der Erwerber geschützt ist?",
+  "optionen": [
+   "Bindung an die Erklärung und Eintragung einer Vormerkung",
+   "Bindung an die Erklärung und Stellung des Eintragungsantrags beim Grundbuchamt",
+   "Beurkundung des Kaufvertrags und Zahlung des Kaufpreises",
+   "Stellung des Eintragungsantrags und Kenntnis des Grundbuchamts von der Einigung"
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 878 BGB verlangt, dass die Erklärung des Verfügenden bindend geworden ist (§ 873 Abs. 2 BGB) und der Eintragungsantrag beim Grundbuchamt gestellt ist – beides vor Eintritt der Beschränkung. Bindung allein reicht nicht; eine Vormerkung ist keine Voraussetzung des § 878 BGB."
+ },
+ {
+  "id": "sach1-026",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundsätze und Erwerb dinglicher Rechte",
+  "seite": "Grundstücksrechte: Verfügungsbeschränkung zwischen Einigung und Eintragung (§ 878 BGB)",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/grundstucksrechte-verfugungsbeschrankung-zwischen-einigung-und-eintragung-878-bgb",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 878 BGB",
+   "§ 130 Abs. 3 BGB"
+  ],
+  "frage": "Stirbt der Verfügende nach bindender Einigung und Antragstellung, aber vor der Eintragung, ergibt sich der Schutz des Erwerbers aus § 878 BGB.",
+  "antwort": false,
+  "erklaerung": "§ 878 BGB erfasst absolute und relative Verfügungsbeschränkungen, die außerhalb des Grundbuchs entstehen, greift aber bei Tod oder Verlust der Geschäftsfähigkeit des Verfügenden nicht. Für diese Fälle gilt § 130 Abs. 3 BGB: Die abgegebene Erklärung bleibt wirksam."
+ },
+ {
+  "id": "sach1-027",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundsätze und Erwerb dinglicher Rechte",
+  "seite": "Grundstücksrechte: Verfügungsbeschränkung zwischen Einigung und Eintragung (§ 878 BGB)",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/grundstucksrechte-verfugungsbeschrankung-zwischen-einigung-und-eintragung-878-bgb",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 878 BGB",
+   "§§ 80, 81 InsO",
+   "§ 873 Abs. 2 BGB"
+  ],
+  "frage": "Insolvenz zwischen Beurkundung und Eintragung",
+  "sachverhalt": "V und K beurkunden am 1. März beim Notar N einen Kaufvertrag mit Auflassung über ein Grundstück des V. N reicht den Antrag auf Eigentumsumschreibung erst am 20. März beim Grundbuchamt ein. Am 15. März wird über das Vermögen des V das Insolvenzverfahren eröffnet. Die Eintragung des K ist noch nicht erfolgt.",
+  "schritte": [
+   {
+    "frage": "War V am 15. März an die Auflassung gebunden?",
+    "optionen": [
+     "Nein, Bindung tritt erst mit Antragstellung beim Grundbuchamt ein",
+     "Ja, mit der notariellen Beurkundung ist Bindung nach § 873 Abs. 2 BGB eingetreten",
+     "Nein, Bindung tritt erst mit Eintragung ein",
+     "Ja, aber nur wegen des schuldrechtlichen Anspruchs des K auf Übereignung"
+    ],
+    "antwort": 1,
+    "erklaerung": "Nach § 873 Abs. 2 BGB sind die Beteiligten an die Einigung gebunden, wenn die Erklärungen notariell beurkundet sind. Der schuldrechtliche Anspruch allein würde gerade keine Bindung begründen."
+   },
+   {
+    "frage": "Ist K durch § 878 BGB gegen die Insolvenzeröffnung geschützt?",
+    "optionen": [
+     "Ja, weil die Bindung vor Insolvenzeröffnung eingetreten ist",
+     "Ja, weil § 878 BGB nur relative Verfügungsbeschränkungen ausnimmt",
+     "Nein, weil der Eintragungsantrag erst nach Eintritt der Beschränkung gestellt wurde",
+     "Nein, weil § 878 BGB auf die Insolvenzeröffnung nicht anwendbar ist"
+    ],
+    "antwort": 2,
+    "erklaerung": "Beide Voraussetzungen des § 878 BGB – Bindung und gestellter Antrag – müssen vor Eintritt der Beschränkung vorliegen. Die Insolvenzeröffnung (§§ 80, 81 InsO) ist eine von § 878 BGB erfasste Beschränkung; der Schutz scheitert hier allein an der verspäteten Antragstellung."
+   },
+   {
+    "frage": "Welche Lehre ergibt sich für die notarielle Praxis?",
+    "optionen": [
+     "Die Auflassung sollte stets erst nach Kaufpreiszahlung beurkundet werden",
+     "Der Eintragungsantrag ist zeitnah nach Beurkundung beim Grundbuchamt zu stellen",
+     "Die Bindung sollte durch Aushändigung einer Bewilligung zusätzlich herbeigeführt werden",
+     "Es genügt, dem Grundbuchamt die Beurkundung formlos anzuzeigen"
+    ],
+    "antwort": 1,
+    "erklaerung": "Typischer Fehler ist die Beurkundung ohne zeitnahe Antragstellung; erst der gestellte Antrag schützt den Erwerber gegen nachträgliche Verfügungsbeschränkungen. Eine zusätzliche Bindung durch Aushändigung einer Bewilligung bringt nichts, weil die Bindung bereits mit der Beurkundung besteht."
+   }
+  ],
+  "erklaerung": "Die beurkundete Auflassung band V nach § 873 Abs. 2 BGB, der Antrag wurde aber erst nach Insolvenzeröffnung gestellt. Damit fehlt eine Voraussetzung des § 878 BGB, und K ist nicht geschützt. Der Notar muss den Antrag daher zeitnah stellen."
+ },
+ {
+  "id": "sach1-028",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundsätze und Erwerb dinglicher Rechte",
+  "seite": "Sachenrecht: Grundprinzipien",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/sachenrecht-grundprinzipien",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 873 Abs. 1 BGB",
+   "§ 28 GBO",
+   "§ 925 BGB"
+  ],
+  "frage": "Ordne die sachenrechtlichen Grundsätze ihrer Kernaussage zu.",
+  "paare": [
+   [
+    "Publizität",
+    "Rechtsänderungen knüpfen an einen äußeren Vorgang an, bei Grundstücken an die Eintragung"
+   ],
+   [
+    "Absolutheit",
+    "Dingliche Rechte wirken gegenüber jedermann, auch ohne vertragliche Beziehung"
+   ],
+   [
+    "Bestimmtheit",
+    "Für einen Außenstehenden muss aus den Erklärungen eindeutig hervorgehen, auf welche Sachen sich die Einigung bezieht"
+   ],
+   [
+    "Typenzwang",
+    "Neue Arten dinglicher Rechte können nicht geschaffen, der gesetzliche Inhalt nicht abgeändert werden"
+   ],
+   [
+    "Trennungsprinzip",
+    "Verpflichtung und Verfügung sind zwei getrennte Rechtsgeschäfte"
+   ]
+  ],
+  "erklaerung": "Publizität verlangt bei Grundstücken grundsätzlich die Eintragung (§ 873 Abs. 1 BGB). Absolutheit begründet die Wirkung gegenüber jedem und erklärt, warum Publizität nötig ist. Bestimmtheit erfordert die genaue Bezeichnung des Grundstücks (vgl. § 28 GBO). Typenzwang und numerus clausus begrenzen die Gestaltungsfreiheit; das Trennungsprinzip unterscheidet Kaufvertrag und Auflassung (§ 925 BGB)."
+ },
+ {
+  "id": "sach1-029",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundsätze und Erwerb dinglicher Rechte",
+  "seite": "Sachenrecht: Grundprinzipien",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/sachenrecht-grundprinzipien",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§§ 1018–1093 BGB"
+  ],
+  "frage": "Welche Gestaltung verstößt gegen den Typenzwang des Sachenrechts?",
+  "optionen": [
+   "Bestellung eines Wohnungsrechts an einzelnen Räumen eines Hauses",
+   "Beschränkung eines Nießbrauchs auf einzelne Räume eines Hauses",
+   "Bestellung einer Grunddienstbarkeit als Leitungsrecht",
+   "Bestellung eines Vorkaufsrechts an einem Grundstück"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der gesetzlich festgelegte Inhalt eines dinglichen Rechts ist nicht abänderbar; ein Nießbrauch kann deshalb – anders als ein Wohnungsrecht – nicht auf einzelne Räume beschränkt werden. Das Wohnungsrecht an Räumen ist gerade der gesetzlich vorgesehene Typus und daher die naheliegende, aber zulässige Verwechslung."
+ },
+ {
+  "id": "sach1-030",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundsätze und Erwerb dinglicher Rechte",
+  "seite": "Sachenrecht: Grundprinzipien",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/sachenrecht-grundprinzipien",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 925 BGB",
+   "§ 433 BGB"
+  ],
+  "frage": "Ein beschränkt Geschäftsfähiger erwirbt ohne Mitwirkung seiner gesetzlichen Vertreter ein vermietetes Grundstück und wird als Eigentümer eingetragen. Wie ist die Rechtslage?",
+  "optionen": [
+   "Nur der Kaufvertrag ist unwirksam; die Auflassung bleibt nach dem Abstraktionsprinzip wirksam",
+   "Es liegt ein Doppelmangel vor: Auch die Auflassung ist unwirksam, das Grundbuch ist zu berichtigen",
+   "Beide Geschäfte sind wirksam, weil der Eigentumserwerb lediglich rechtlich vorteilhaft ist",
+   "Die Auflassung ist wirksam, die Beteiligten müssen zurückauflassen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Beim Erwerb eines vermieteten Grundstücks ist nicht nur die Zahlungspflicht aus dem Kaufvertrag nachteilig, sondern wegen des Eintritts in die Vermieterpflichten auch der Eigentumserwerb selbst. Der Fehler erfasst daher beide Geschäfte (Doppelmangel); trotz Eintragung fehlt eine wirksame Übereignung, das Grundbuch ist zu berichtigen. Die Rückauflassung ist nur der Weg, wenn allein das Grundgeschäft entfällt."
+ },
+ {
+  "id": "sach1-031",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundsätze und Erwerb dinglicher Rechte",
+  "seite": "Sachenrecht: Grundprinzipien",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/sachenrecht-grundprinzipien",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 433 BGB",
+   "§ 873 BGB"
+  ],
+  "frage": "Ein Eigentümer kann dasselbe Grundstück wirksam an mehrere Käufer verkaufen.",
+  "antwort": true,
+  "erklaerung": "Nach dem Trennungsprinzip begründet der Kaufvertrag (§ 433 BGB) nur Verpflichtungen; mehrfacher Verkauf ist daher wirksam, selbst ein Nichteigentümer kann wirksam verkaufen. Erst wenn das Eigentum durch Einigung und Eintragung (§§ 873, 925 BGB) auf einen Käufer übergegangen ist, kann der Veräußerer nicht mehr verfügen."
+ },
+ {
+  "id": "sach1-032",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundsätze und Erwerb dinglicher Rechte",
+  "seite": "Sachenrecht: Sachen, wesentliche Bestandteile und Zubehör",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/sachenrecht-sachen-wesentliche-bestandteile-und-zubehor",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 311c BGB",
+   "§ 97 BGB"
+  ],
+  "frage": "Wie wird Zubehör beim Verkauf eines Grundstücks behandelt?",
+  "optionen": [
+   "Es kann nicht Gegenstand besonderer Rechte sein und geht zwingend mit über",
+   "Es ist sonderrechtsfähig, wird im Zweifel aber mitverkauft",
+   "Es wird nur mitverkauft, wenn es im Vertrag einzeln aufgeführt ist",
+   "Es gilt stets als bewegliche Sache, die gesondert zu übereignen und nicht mitverkauft ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Zubehör (§ 97 BGB) bleibt sonderrechtsfähig, wird nach § 311c BGB im Zweifel aber mitverkauft. Zwingend mitverkauft werden dagegen wesentliche Bestandteile, die nach § 93 BGB nicht Gegenstand besonderer Rechte sein können – das ist die naheliegende Verwechslung."
+ },
+ {
+  "id": "sach1-033",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundsätze und Erwerb dinglicher Rechte",
+  "seite": "Sachenrecht: Sachen, wesentliche Bestandteile und Zubehör",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/sachenrecht-sachen-wesentliche-bestandteile-und-zubehor",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 94 BGB",
+   "§ 97 BGB",
+   "§ 99 BGB"
+  ],
+  "frage": "Ordne die Gegenstände eines Wohngrundstücks ihrer sachenrechtlichen Einordnung zu.",
+  "paare": [
+   [
+    "Haustür",
+    "Wesentlicher Bestandteil des Gebäudes (§ 94 Abs. 2 BGB)"
+   ],
+   [
+    "Stehendes Getreide",
+    "Wesentlicher Bestandteil des Grundstücks als noch verbundenes Erzeugnis (§ 94 Abs. 1 BGB)"
+   ],
+   [
+    "Fest installierte Alarmanlage",
+    "Zubehör (§ 97 BGB)"
+   ],
+   [
+    "An der Wand befestigte Schrankwand",
+    "Weder Bestandteil noch Zubehör, gewöhnliches Möbelstück"
+   ],
+   [
+    "Geerntetes Getreide",
+    "Frucht (§ 99 BGB), weder Bestandteil noch Zubehör"
+   ]
+  ],
+  "erklaerung": "Die Haustür ist nach § 94 Abs. 2 BGB wesentlicher Bestandteil des Gebäudes; mit dem Boden verbundene Erzeugnisse sind nach § 94 Abs. 1 BGB wesentlicher Bestandteil, nach der Ernte Früchte (§ 99 BGB). Bei Wohngrundstücken gelten Alarmanlage und Dachantenne als Zubehör, gewöhnliche Möbel einschließlich befestigter Schrankwände dagegen nicht."
+ },
+ {
+  "id": "sach1-034",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundsätze und Erwerb dinglicher Rechte",
+  "seite": "Sachenrecht: Sachen, wesentliche Bestandteile und Zubehör",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/sachenrecht-sachen-wesentliche-bestandteile-und-zubehor",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 94 Abs. 2 BGB",
+   "§ 97 BGB"
+  ],
+  "frage": "Wie sollte der Notar beim Hauskauf mit einer vorhandenen Serien-Einbauküche umgehen?",
+  "optionen": [
+   "Keine Regelung treffen, da die Küche als wesentlicher Bestandteil zwingend mitverkauft ist",
+   "Keine Regelung treffen, da die Küche als Zubehör nach § 311c BGB im Zweifel mitverkauft ist",
+   "Die Küche ausdrücklich als mitverkauft bezeichnen, da ihre Einordnung von den Oberlandesgerichten unterschiedlich beurteilt wird",
+   "Die Küche gesondert in einem privatschriftlichen Vertrag veräußern lassen"
+  ],
+  "antwort": 2,
+  "erklaerung": "Serienküchen werden uneinheitlich eingeordnet: teils als wesentlicher Bestandteil (§ 94 Abs. 2 BGB), teils als Zubehör (§ 97 BGB), teils als weder Bestandteil noch Zubehör. Die ausdrückliche Bezeichnung als mitverkauft erspart die Einordnung und beugt Streit vor. Sich allein auf § 311c BGB zu verlassen, ist riskant, weil die Zubehöreigenschaft gerade umstritten ist."
+ },
+ {
+  "id": "sach1-035",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundsätze und Erwerb dinglicher Rechte",
+  "seite": "Sachenrecht: Sachen, wesentliche Bestandteile und Zubehör",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/sachenrecht-sachen-wesentliche-bestandteile-und-zubehor",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 95 BGB"
+  ],
+  "frage": "Eine Photovoltaikanlage auf einem fremden Gebäude ist in der Regel wesentlicher Bestandteil dieses Gebäudes.",
+  "antwort": false,
+  "erklaerung": "Photovoltaikanlagen auf fremdem Grundstück oder Gebäude dienen in der Regel nur einem vorübergehenden Zweck und sind daher Scheinbestandteile, kein wesentlicher Bestandteil (§ 95 Abs. 1, Abs. 2 BGB). Wesentlicher Bestandteil ist eine Anlage dagegen, wenn sie Teil des Daches ist und das Dach erst durch sie vollständig wird."
+ },
+ {
+  "id": "sach1-036",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundsätze und Erwerb dinglicher Rechte",
+  "seite": "Sachenrecht: Sachen, wesentliche Bestandteile und Zubehör",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/sachenrecht-sachen-wesentliche-bestandteile-und-zubehor",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 97 Abs. 2 S. 1 BGB"
+  ],
+  "frage": "Eine vom Mieter eingebaute Küche ist Zubehör des Grundstücks und wird beim Verkauf durch den Eigentümer im Zweifel mitverkauft.",
+  "antwort": false,
+  "erklaerung": "Die vom Mieter eingebaute Küche ist mangels dauernder Zweckbestimmung kein Zubehör (§ 97 Abs. 2 S. 1 BGB). Die Auslegungsregel des § 311c BGB greift daher nicht; die Küche gehört nicht zum Vertragsgegenstand des Eigentümers."
  }
 ]

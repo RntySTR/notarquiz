@@ -678,5 +678,683 @@
   ],
   "antwort": 0,
   "erklaerung": "Social Engineering bezeichnet Angriffe, die das Verhalten der Nutzer beeinflussen, statt technische Schwachstellen auszunutzen; Beispiele sind Phishing, CEO-Fraud und Telefonbetrug mit angeblichen Fernwartungsanrufen. Die Ausnutzung von Softwarelücken ist gerade ein technischer Angriff. Mitarbeitende sind deshalb vor der ersten Systemnutzung zu schulen und regelmäßig zu sensibilisieren."
+ },
+ {
+  "id": "orga2-030",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: personenbezogene Daten und besondere Kategorien",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-personenbezogene-daten-und-besondere-kategorien",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "Art. 4 Nr. 7 DSGVO"
+  ],
+  "frage": "Wer ist in der Geschäftsstelle des Notars Verantwortlicher im Sinne von Art. 4 Nr. 7 DSGVO?",
+  "optionen": [
+   "Der Notar oder die Notarin",
+   "Der bestellte Datenschutzbeauftragte",
+   "Die Notarkammer",
+   "Der jeweils sachbearbeitende Mitarbeiter"
+  ],
+  "antwort": 0,
+  "erklaerung": "Verantwortlicher nach Art. 4 Nr. 7 DSGVO ist in der Geschäftsstelle der Notar oder die Notarin. Ihn trifft die Pflicht, Mitarbeitende zu schulen und die Zugriffssysteme zu kontrollieren. Der Datenschutzbeauftragte berät und ist Ansprechpartner, wird dadurch aber nicht Verantwortlicher."
+ },
+ {
+  "id": "orga2-031",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: personenbezogene Daten und besondere Kategorien",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-personenbezogene-daten-und-besondere-kategorien",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "Art. 9 DSGVO",
+   "§ 22 BeurkG"
+  ],
+  "frage": "Ordne die notariellen Situationen der jeweils betroffenen besonderen Kategorie personenbezogener Daten nach Art. 9 DSGVO zu.",
+  "paare": [
+   [
+    "Beurkundung mit einem behinderten Beteiligten nach § 22 BeurkG",
+    "Gesundheitsdaten"
+   ],
+   [
+    "Zuwendung an eine Religionsgemeinschaft",
+    "Religiöse Überzeugungen"
+   ],
+   [
+    "Eingetragene Lebenspartnerschaft",
+    "Sexuelle Orientierung"
+   ],
+   [
+    "Zweifel an der Geschäftsfähigkeit des Erblassers beim Testament",
+    "Gesundheitsdaten im Zusammenhang mit der Testierfähigkeit"
+   ]
+  ],
+  "erklaerung": "Art. 9 DSGVO schützt besondere Kategorien personenbezogener Daten besonders. Im Notariat betrifft das vor allem Gesundheitsdaten (etwa bei § 22 BeurkG oder Zweifeln an der Geschäftsfähigkeit), ethnische Herkunft, religiöse Überzeugungen und die sexuelle Orientierung. Für ihre Verarbeitung braucht der Notar zusätzlich zu Art. 6 eine Grundlage nach Art. 9 Abs. 2 DSGVO."
+ },
+ {
+  "id": "orga2-032",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: personenbezogene Daten und besondere Kategorien",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-personenbezogene-daten-und-besondere-kategorien",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "Art. 4 Nr. 1 DSGVO"
+  ],
+  "frage": "Ein Personenbezug im Sinne von Art. 4 Nr. 1 DSGVO besteht bereits, wenn eine natürliche Person mithilfe zusätzlicher Informationen identifiziert werden kann.",
+  "antwort": true,
+  "erklaerung": "Personenbezogene Daten sind alle Informationen über eine identifizierte oder identifizierbare natürliche Person (Art. 4 Nr. 1 DSGVO). Die Schwelle ist niedrig: Schon die Identifizierbarkeit mithilfe zusätzlicher Informationen genügt. Im Zweifel ist von personenbezogenen Daten auszugehen."
+ },
+ {
+  "id": "orga2-033",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: Rechtsgrundlagen der Verarbeitung und Einwilligung",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-rechtsgrundlagen-der-verarbeitung-und-einwilligung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "Art. 6 Abs. 1 lit. e DSGVO",
+   "§ 4 LDSG BW"
+  ],
+  "frage": "Welche ist die wichtigste Rechtsgrundlage für die Verarbeitung personenbezogener Daten durch den Notar?",
+  "optionen": [
+   "Art. 6 Abs. 1 lit. a DSGVO (Einwilligung)",
+   "Art. 6 Abs. 1 lit. b DSGVO (Vertragserfüllung)",
+   "Art. 6 Abs. 1 lit. f DSGVO (Interessenabwägung)",
+   "Art. 6 Abs. 1 lit. e DSGVO (Aufgabe im öffentlichen Interesse/öffentliche Gewalt) i. V. m. § 4 LDSG BW"
+  ],
+  "antwort": 3,
+  "erklaerung": "Wichtigste Rechtsgrundlage ist Art. 6 Abs. 1 lit. e DSGVO, weil der Notar ein öffentliches Amt der vorsorgenden Rechtspflege ausübt; die konkrete Befugnis ergibt sich in Baden-Württemberg aus § 4 LDSG BW. Die Interessenabwägung nach lit. f steht öffentlichen Stellen nicht zur Verfügung, die Einwilligung nach lit. a ist nur ausnahmsweise sinnvoll."
+ },
+ {
+  "id": "orga2-034",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: Rechtsgrundlagen der Verarbeitung und Einwilligung",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-rechtsgrundlagen-der-verarbeitung-und-einwilligung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "Art. 9 Abs. 2 lit. g DSGVO",
+   "§ 4 LDSG BW"
+  ],
+  "frage": "Der Notar hat bei einer Testamentserrichtung Zweifel an der Testierfähigkeit des hochbetagten Erblassers und will seine Beobachtungen in der Nebenakte festhalten. Worauf stützt sich die Verarbeitung dieser Gesundheitsdaten zusätzlich zu Art. 6 DSGVO?",
+  "optionen": [
+   "Auf eine ausdrückliche Einwilligung des Erblassers nach Art. 9 Abs. 2 lit. a DSGVO",
+   "Auf Art. 9 Abs. 2 lit. g DSGVO (erhebliches öffentliches Interesse) mit § 4 LDSG BW als gesetzlicher Grundlage",
+   "Auf Art. 6 Abs. 1 lit. f DSGVO, da ein berechtigtes Interesse an Rechtssicherheit besteht",
+   "Einer zusätzlichen Grundlage bedarf es nicht"
+  ],
+  "antwort": 1,
+  "erklaerung": "Für besondere Kategorien braucht der Notar neben Art. 6 zusätzlich eine Grundlage nach Art. 9 Abs. 2 DSGVO, im Regelfall lit. g (erhebliches öffentliches Interesse auf gesetzlicher Grundlage). Als gesetzliche Grundlage dient § 4 LDSG BW, der mit Berufsrecht, strafbewehrter Verschwiegenheit und NotAktVV die erforderlichen spezifischen Schutzmaßnahmen sichert; die Verarbeitung dient der Rechtssicherheit. Eine Einwilligung ist wegen Widerruflichkeit und zweifelhafter Freiwilligkeit gerade nicht der richtige Weg."
+ },
+ {
+  "id": "orga2-035",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: Rechtsgrundlagen der Verarbeitung und Einwilligung",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-rechtsgrundlagen-der-verarbeitung-und-einwilligung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "Art. 6 Abs. 1 lit. a DSGVO"
+  ],
+  "frage": "Für Verarbeitungen, die nicht zwingend erforderlich sind – etwa den Versand von Entwürfen an Dritte zur Beschleunigung des Verfahrens –, kann eine Einwilligung des Beteiligten sinnvoll sein.",
+  "antwort": true,
+  "erklaerung": "Grundsätzlich holen Notare keine Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO ein, weil sie jederzeit widerruflich ist, neben der gesetzlichen Grundlage Rechtsunsicherheit schafft und bei hoheitlicher Tätigkeit ihre Freiwilligkeit zweifelhaft ist. Für nicht zwingend erforderliche Verarbeitungen wie den Entwurfsversand an Dritte ist sie aber als Ausnahme sinnvoll."
+ },
+ {
+  "id": "orga2-036",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: Rechtsquellen und Verhältnis zur Verschwiegenheitspflicht",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-rechtsquellen-und-verhaltnis-zur-verschwiegenheitspflicht",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 18 BNotO"
+  ],
+  "frage": "Ein Notar meint, durch strikte Wahrung seiner Verschwiegenheitspflicht nach § 18 BNotO seien auch seine datenschutzrechtlichen Pflichten erfüllt. Trifft das zu?",
+  "optionen": [
+   "Ja, § 18 BNotO geht der DSGVO als Spezialregel vor",
+   "Ja, soweit er keine Daten an Dritte weitergibt",
+   "Nein, die DSGVO regelt darüber hinaus die Zulässigkeit jeder Verarbeitung vom Erheben bis zum Löschen und verlangt zusätzliche technische, organisatorische und dokumentierende Maßnahmen",
+   "Nein, weil § 18 BNotO durch die DSGVO aufgehoben wurde"
+  ],
+  "antwort": 2,
+  "erklaerung": "§ 18 BNotO verlangt Schweigen über das bei der Amtsausübung Bekanntgewordene. Die DSGVO regelt darüber hinaus, ob eine Verarbeitung zulässig ist, erfasst jeden Schritt vom Erheben bis zum Löschen und verlangt zusätzliche technische, organisatorische und dokumentierende Maßnahmen. Die Annahme, die Verschwiegenheit genüge auch datenschutzrechtlich, ist ein typischer Fehler; § 18 BNotO gilt aber unverändert fort."
+ },
+ {
+  "id": "orga2-037",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: Rechtsquellen und Verhältnis zur Verschwiegenheitspflicht",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-rechtsquellen-und-verhaltnis-zur-verschwiegenheitspflicht",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1 Abs. 1 Nr. 2 BDSG"
+  ],
+  "frage": "In welchem Verhältnis stehen BDSG und Landesdatenschutzgesetz für den Notar?",
+  "optionen": [
+   "Das BDSG gilt für den Notar als öffentliche Stelle eines Landes nur, soweit der Datenschutz nicht durch Landesgesetz geregelt ist",
+   "Das BDSG geht als Bundesrecht dem Landesrecht stets vor",
+   "Für Notare gilt ausschließlich das BDSG, da die BNotO Bundesrecht ist",
+   "Landesdatenschutzgesetze gelten für Notare nur bei Amtssitz in einem Stadtstaat"
+  ],
+  "antwort": 0,
+  "erklaerung": "Nach § 1 Abs. 1 Nr. 2 BDSG gilt das BDSG für öffentliche Stellen der Länder nur, soweit der Datenschutz nicht durch Landesgesetz geregelt ist. Für den Notar stehen deshalb neben der DSGVO die Landesdatenschutzgesetze im Vordergrund, in Baden-Württemberg das LDSG BW. Die Vorstellung eines generellen Vorrangs des BDSG als Bundesrecht verkennt diese Subsidiaritätsklausel."
+ },
+ {
+  "id": "orga2-038",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: Rechtsquellen und Verhältnis zur Verschwiegenheitspflicht",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-rechtsquellen-und-verhaltnis-zur-verschwiegenheitspflicht",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 9 Abs. 1 S. 2 LDSG BW"
+  ],
+  "frage": "Daten, die ausschließlich zur Datensicherung gespeichert sind, müssen nach dem LDSG BW stets beauskunftet werden, da das Auskunftsrecht im Notariat nicht eingeschränkt werden darf.",
+  "antwort": false,
+  "erklaerung": "Das LDSG BW schränkt die Betroffenenrechte in §§ 8–11 ein. Daten, die ausschließlich zur Datensicherung oder Datenschutzkontrolle gespeichert sind, müssen nicht beauskunftet werden, wenn ihre Verarbeitung zu anderen Zwecken durch technische und organisatorische Maßnahmen ausgeschlossen ist (§ 9 Abs. 1 S. 2 LDSG BW)."
+ },
+ {
+  "id": "orga2-039",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: Systemsicherheit, Datensicherung und E-Mail",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-systemsicherheit-datensicherung-und-e-mail",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "Art. 32 DSGVO"
+  ],
+  "frage": "Ein Notariat sichert täglich auf eine einzige externe Festplatte, die im Tresor der Geschäftsstelle liegt. Wie ist das zu bewerten?",
+  "optionen": [
+   "Ausreichend, da der Tresor vor Diebstahl schützt",
+   "Ausreichend, sofern die Festplatte verschlüsselt ist",
+   "Nur bei wöchentlicher statt täglicher Sicherung unzureichend",
+   "Unzureichend, weil Original und Sicherung bei Brand oder Diebstahl zugleich betroffen sind; nötig sind räumlich getrennte Sicherungen auf unterschiedlichen Medien"
+  ],
+  "antwort": 3,
+  "erklaerung": "Ein Backup an nur einem Ort genügt nicht, weil Brand oder Diebstahl Original und Sicherung gleichzeitig treffen. Abhilfe schaffen eine weitere Sicherung in einem anderen Gebäude, eine Cloud-Sicherung als dritte Kopie und unterschiedliche Medien. Verschlüsselung der Backup-Medien ist zwar geboten, löst das Problem der fehlenden räumlichen Trennung aber nicht."
+ },
+ {
+  "id": "orga2-040",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: Systemsicherheit, Datensicherung und E-Mail",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-systemsicherheit-datensicherung-und-e-mail",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "Art. 33 DSGVO",
+   "Art. 32 DSGVO"
+  ],
+  "frage": "Die Rechner der Geschäftsstelle sind durch Ransomware verschlüsselt. Welche Reaktion entspricht den Empfehlungen?",
+  "optionen": [
+   "Lösegeld zahlen, um die Daten schnell zurückzuerhalten, und danach melden",
+   "Systeme sofort vom Netz trennen, den Vorfall der Datenschutz-Aufsichtsbehörde melden, kein Lösegeld zahlen und aus dem Backup wiederherstellen",
+   "Weiterarbeiten und den IT-Dienstleister zum nächsten Wartungstermin informieren",
+   "Nur die Mandanten benachrichtigen, eine Meldung ist bei Verschlüsselung entbehrlich"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei Ransomware sind die Systeme sofort vom Netzwerk zu trennen, der Vorfall ist der Datenschutz-Aufsichtsbehörde zu melden, Lösegeld wird grundsätzlich nicht gezahlt; die Daten werden aus dem Backup wiederhergestellt und die IT-Sicherheit verstärkt. Ein Offline-Backup schützt gerade vor diesem Szenario."
+ },
+ {
+  "id": "orga2-041",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: Systemsicherheit, Datensicherung und E-Mail",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-systemsicherheit-datensicherung-und-e-mail",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "Art. 32 DSGVO"
+  ],
+  "frage": "Für die gewöhnliche E-Mail-Korrespondenz mit Mandanten genügt die Transportverschlüsselung; bei Testamenten, Erbverträgen und Scheidungsvereinbarungen empfiehlt sich eine Ende-zu-Ende-Verschlüsselung oder ein Passwortschutz der Anhänge.",
+  "antwort": true,
+  "erklaerung": "Die Transportverschlüsselung schützt die E-Mail zwischen den Mail-Servern, ist bei großen Anbietern Standard und genügt für gewöhnliche Korrespondenz. Bei besonders persönlichen oder familiären Angelegenheiten empfiehlt sich Ende-zu-Ende-Verschlüsselung oder Passwortschutz der Anhänge; für die gewöhnliche E-Mail-Korrespondenz wird zudem die Einwilligung des Mandanten empfohlen."
+ },
+ {
+  "id": "orga2-042",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: technisch-organisatorische Maßnahmen",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-technisch-organisatorische-massnahmen",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "Art. 32 DSGVO"
+  ],
+  "frage": "Welche vier Schutzgüter nennt Art. 32 DSGVO für technische und organisatorische Maßnahmen?",
+  "optionen": [
+   "Vertraulichkeit, Integrität, Verfügbarkeit, Belastbarkeit",
+   "Vertraulichkeit, Authentizität, Revisionssicherheit, Verfügbarkeit",
+   "Integrität, Transparenz, Zweckbindung, Speicherbegrenzung",
+   "Verfügbarkeit, Nachvollziehbarkeit, Datenminimierung, Belastbarkeit"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Maßnahmen nach Art. 32 DSGVO dienen Vertraulichkeit (Schutz vor unbefugter Kenntnisnahme), Integrität (Schutz vor unbefugter Veränderung), Verfügbarkeit (Nutzbarkeit der Daten) und Belastbarkeit (Widerstandsfähigkeit der Systeme). Transparenz, Zweckbindung und Speicherbegrenzung sind Verarbeitungsgrundsätze, keine Schutzgüter des Art. 32."
+ },
+ {
+  "id": "orga2-043",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: technisch-organisatorische Maßnahmen",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-technisch-organisatorische-massnahmen",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "Art. 32 DSGVO"
+  ],
+  "frage": "Ordne die Maßnahmen der jeweiligen Kontrollart zu.",
+  "paare": [
+   [
+    "Zutrittskontrolle",
+    "Server in einem abschließbaren Serverschrank außerhalb des Publikumsbereichs"
+   ],
+   [
+    "Zugangskontrolle",
+    "Persönliche Benutzerkonten und Zwei-Faktor-Authentisierung bei Online-Diensten"
+   ],
+   [
+    "Zugriffskontrolle",
+    "Berechtigungen nach Rollen und nur im erforderlichen Umfang"
+   ],
+   [
+    "Verschlüsselung",
+    "Notebooks und USB-Sticks, die außerhalb der Geschäftsstelle genutzt werden"
+   ]
+  ],
+  "erklaerung": "Zutrittskontrolle verhindert, dass Unbefugte an Datenverarbeitungsanlagen gelangen (Serverstandort, Drucker-PIN). Zugangskontrolle verhindert die Nutzung der Systeme durch Unbefugte (persönliche Konten, Passwörter, 2FA). Zugriffskontrolle stellt sicher, dass nur Berechtigte auf die jeweiligen Daten zugreifen (Rollenkonzept). Mobile Geräte außerhalb der Geschäftsstelle sind zwingend zu verschlüsseln (Art. 32 DSGVO)."
+ },
+ {
+  "id": "orga2-044",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: technisch-organisatorische Maßnahmen",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-technisch-organisatorische-massnahmen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "Art. 32 DSGVO"
+  ],
+  "frage": "Welche Verschlüsselung ist im Notariat nicht zwingend, sondern lediglich empfohlen?",
+  "optionen": [
+   "Verschlüsselung eines im Büro genutzten WLAN",
+   "Verschlüsselung von Notebooks, die außerhalb der Geschäftsstelle genutzt werden",
+   "Transportverschlüsselung (HTTPS) der Website",
+   "Verschlüsselung interner Server und Arbeitsplatzrechner"
+  ],
+  "antwort": 3,
+  "erklaerung": "Zwingend zu verschlüsseln sind mobile Geräte bei Nutzung außerhalb der Geschäftsstelle, ein im Büro genutztes WLAN und die Website (mindestens HTTPS). Lediglich empfohlen ist die Verschlüsselung interner Server und Arbeitsplatzrechner, sensibler E-Mail-Anhänge und von Backup-Medien (Art. 32 DSGVO)."
+ },
+ {
+  "id": "orga2-045",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Datenschutz: technisch-organisatorische Maßnahmen",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-technisch-organisatorische-massnahmen",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "Art. 5 Abs. 1 lit. f DSGVO",
+   "Art. 32 DSGVO",
+   "§ 18 BNotO",
+   "§ 203 StGB"
+  ],
+  "frage": "Praktikant mit Vollzugriff",
+  "sachverhalt": "Notar N richtet dem Praktikanten P aus Bequemlichkeit ein Benutzerkonto mit vollen Berechtigungen ein. Eine Einweisung in Datenschutz und Verschwiegenheit erfolgt nicht. P liest Akten, die mit seinen Aufgaben nichts zu tun haben, und fotografiert mit dem Handy einzelne Urkunden.",
+  "schritte": [
+   {
+    "frage": "Welche datenschutzrechtlichen Verstöße liegen in der Rechtevergabe und dem Aktenlesen?",
+    "optionen": [
+     "Keine, solange P die Daten nicht weitergibt",
+     "Verstöße gegen Art. 5 Abs. 1 lit. f DSGVO und Art. 32 DSGVO, weil kein Berechtigungskonzept nach dem Need-to-know-Prinzip umgesetzt ist",
+     "Nur ein Verstoß gegen die Informationspflicht nach Art. 13 DSGVO",
+     "Nur ein Verstoß gegen Art. 33 DSGVO wegen unterlassener Meldung"
+    ],
+    "antwort": 1,
+    "erklaerung": "Volle Berechtigungen für einen Praktikanten verletzen den Grundsatz der Integrität und Vertraulichkeit (Art. 5 Abs. 1 lit. f DSGVO) und Art. 32 DSGVO, weil kein Berechtigungskonzept nach dem Need-to-know-Prinzip umgesetzt ist. Auszubildende und Praktikanten dürfen nur auf das zugreifen, was ihre Aufgaben erfordern."
+   },
+   {
+    "frage": "Wie ist das Fotografieren der Urkunden zu würdigen?",
+    "optionen": [
+     "Als bloße Ordnungswidrigkeit ohne berufsrechtliche Bedeutung",
+     "Als zulässige Sicherungskopie",
+     "Als Verletzung der Verschwiegenheitspflicht (§ 18 BNotO), die nach § 203 StGB strafbar sein kann",
+     "Als Datenschutzverletzung allein des P, die N nicht betrifft"
+    ],
+    "antwort": 2,
+    "erklaerung": "Das Fotografieren von Urkunden verletzt die Verschwiegenheitspflicht nach § 18 BNotO und kann als Verletzung von Privatgeheimnissen nach § 203 StGB strafbar sein."
+   },
+   {
+    "frage": "Wer trägt die Hauptverantwortung?",
+    "optionen": [
+     "N als Verantwortlicher; P trifft mangels Einweisung eine geringere Verantwortung",
+     "Allein P, da er gehandelt hat",
+     "Der Datenschutzbeauftragte",
+     "N und P zu gleichen Teilen"
+    ],
+    "antwort": 0,
+    "erklaerung": "Die Hauptverantwortung trägt der Notar als Verantwortlicher (Art. 4 Nr. 7 DSGVO), den die Pflicht zu Schulung und Kontrolle der Zugriffssysteme trifft. Den Praktikanten trifft bei fehlender Einweisung eine geringere Verantwortung."
+   }
+  ],
+  "erklaerung": "Die Vollberechtigung ohne Rollenkonzept verstößt gegen Art. 5 Abs. 1 lit. f und Art. 32 DSGVO; das Fotografieren verletzt § 18 BNotO und kann nach § 203 StGB strafbar sein. N trägt als Verantwortlicher die Hauptverantwortung und muss ein Rollen- und Berechtigungskonzept einführen und einweisen."
+ },
+ {
+  "id": "orga2-046",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Arbeitsrecht im Notariat: betriebliche Übung und Freiwilligkeitsvorbehalt",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/arbeitsrecht-im-notariat-betriebliche-ubung-und-freiwilligkeitsvorbehalt",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1b Abs. 1 S. 4 BetrAVG"
+  ],
+  "frage": "Unter welchen Voraussetzungen entsteht nach der BAG-Rechtsprechung eine betriebliche Übung?",
+  "optionen": [
+   "Einmalige Leistung an mindestens drei Arbeitnehmer mit ausdrücklicher Zusage",
+   "Leistung mindestens dreimal ohne Vorbehalt, an mehrere Arbeitnehmer, ohne andere kollektiv- oder individualrechtliche Anspruchsgrundlage",
+   "Leistung mindestens fünfmal in identischer Höhe an einen einzelnen Arbeitnehmer",
+   "Leistung mindestens dreimal unter Widerrufsvorbehalt an alle Arbeitnehmer"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach BAG, Urt. v. 13.05.2015 – 10 AZR 266/14 setzt die betriebliche Übung Regelmäßigkeit (mindestens dreimal ohne Vorbehalt), einen Personenkreis (mehrere Arbeitnehmer) und das Fehlen einer anderen Anspruchsgrundlage voraus. Eine Leistung an nur einen Einzelnen genügt nicht; völlige Gleichförmigkeit der Höhe ist nicht erforderlich."
+ },
+ {
+  "id": "orga2-047",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Arbeitsrecht im Notariat: betriebliche Übung und Freiwilligkeitsvorbehalt",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/arbeitsrecht-im-notariat-betriebliche-ubung-und-freiwilligkeitsvorbehalt",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 307 Abs. 1 S. 2 BGB"
+  ],
+  "frage": "Ein Notar will Weihnachtsgeld zahlen, ohne einen Anspruch für die Zukunft zu begründen, und formuliert: „Die Zahlung erfolgt freiwillig und ist jederzeit widerruflich.“ Wie ist diese Klausel zu beurteilen?",
+  "optionen": [
+   "Wirksam, da sie doppelt absichert",
+   "Wirksam, sofern die Zahlung in wechselnder Höhe erfolgt",
+   "Unwirksam nur hinsichtlich des Widerrufs, der Freiwilligkeitsvorbehalt bleibt bestehen",
+   "Problematisch: Die Verbindung von Freiwilligkeits- und Widerrufsvorbehalt verstößt in der Regel gegen das Transparenzgebot des § 307 Abs. 1 S. 2 BGB"
+  ],
+  "antwort": 3,
+  "erklaerung": "Ein Freiwilligkeitsvorbehalt darf nicht mit einem Widerrufsvorbehalt verbunden werden; die Kombination verstößt in der Regel gegen das Transparenzgebot des § 307 Abs. 1 S. 2 BGB. Ein Widerrufsvorbehalt setzt begrifflich einen bestehenden Anspruch voraus und widerspricht damit der Aussage, es werde kein Anspruch begründet. Der Freiwilligkeitsvorbehalt sollte allein und klar formuliert werden, einschließlich des Ausschlusses einer betrieblichen Übung."
+ },
+ {
+  "id": "orga2-048",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Arbeitsrecht im Notariat: betriebliche Übung und Freiwilligkeitsvorbehalt",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/arbeitsrecht-im-notariat-betriebliche-ubung-und-freiwilligkeitsvorbehalt",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1b Abs. 1 S. 4 BetrAVG"
+  ],
+  "frage": "Ein Anspruch aus betrieblicher Übung erlischt nicht dadurch, dass der Arbeitgeber die Leistung in drei aufeinanderfolgenden Jahren nicht gewährt.",
+  "antwort": true,
+  "erklaerung": "Durch dreimalige Nichtleistung entsteht keine gegenläufige betriebliche Übung; der Anspruch bleibt bestehen (BAG, Urt. v. 18.03.2009 – 10 AZR 281/08). Die Annahme, ein entstandener Anspruch entfalle bei mehrjährigem Ausbleiben der Leistung, ist ein typischer Fehler."
+ },
+ {
+  "id": "orga2-049",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Arbeitsrecht im Notariat: Fortbildungsvereinbarungen und Rückzahlungsklauseln",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/arbeitsrecht-im-notariat-fortbildungsvereinbarungen-und-ruckzahlungsklauseln",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§§ 305 ff. BGB"
+  ],
+  "frage": "Eine vom Notar vorformulierte Fortbildungsvereinbarung enthält eine zu lange Bindungsdauer. Was ist die Folge?",
+  "optionen": [
+   "Die Bindungsdauer wird auf das zulässige Maß reduziert",
+   "Die gesamte Fortbildungsvereinbarung ist nichtig",
+   "Die Klausel ist unwirksam; eine geltungserhaltende Reduktion findet nicht statt",
+   "Die Klausel bleibt wirksam, da es sich um eine Individualabrede handelt"
+  ],
+  "antwort": 2,
+  "erklaerung": "Eine vorformulierte Fortbildungsvereinbarung unterliegt als Formularvertrag der AGB-Kontrolle nach §§ 305 ff. BGB. Eine geltungserhaltende Reduktion unwirksamer Klauseln findet nicht statt; die Klausel wird also nicht auf ein zulässiges Maß zurückgeführt. Die Bindungsdauer muss sich deshalb von vornherein an der Dauer der Fortbildung orientieren."
+ },
+ {
+  "id": "orga2-050",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Arbeitsrecht im Notariat: Fortbildungsvereinbarungen und Rückzahlungsklauseln",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/arbeitsrecht-im-notariat-fortbildungsvereinbarungen-und-ruckzahlungsklauseln",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 22 BBiG",
+   "§§ 3 ff. BBiG"
+  ],
+  "frage": "Eine Notarfachangestellte absolviert ein berufsbegleitendes Studium mit Kostenübernahme durch den Notar. Gilt für sie der erschwerte Kündigungsschutz nach § 22 BBiG?",
+  "optionen": [
+   "Ja, da jede Fortbildung unter das BBiG fällt",
+   "Nein, eine berufsbegleitende Fortbildung ist keine berufliche Grundbildung, die §§ 3 ff. BBiG sind nicht anwendbar",
+   "Ja, aber nur während der Bindungsfrist",
+   "Nein, aber nur wenn keine Rückzahlungsklausel vereinbart ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Eine berufsbegleitende Fortbildung ist keine berufliche Grundbildung; die §§ 3 ff. BBiG sind deshalb nicht anwendbar, insbesondere nicht der erschwerte Kündigungsschutz nach § 22 BBiG. Die Fortbildungsvereinbarung richtet sich nach allgemeinem Vertragsrecht und unterliegt der AGB-Kontrolle."
+ },
+ {
+  "id": "orga2-051",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Arbeitsrecht im Notariat: Fortbildungsvereinbarungen und Rückzahlungsklauseln",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/arbeitsrecht-im-notariat-fortbildungsvereinbarungen-und-ruckzahlungsklauseln",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 307 BGB"
+  ],
+  "frage": "Ordne die Anforderungen an eine Rückzahlungsklausel ihrem Inhalt zu.",
+  "paare": [
+   [
+    "Transparenz",
+    "Umfang der Kosten und konkrete Rückzahlungsverpflichtung erkennbar, Zahlungsrisiko abschätzbar"
+   ],
+   [
+    "Beendigungsgrund",
+    "Nur Beendigung aus der Risiko- und Verantwortungssphäre des Arbeitnehmers"
+   ],
+   [
+    "Obergrenze",
+    "Höchstens die dem Arbeitgeber tatsächlich entstandenen Kosten"
+   ],
+   [
+    "Abschmelzen",
+    "Zeitanteilige, am besten monatliche Minderung während der Bindungsfrist"
+   ],
+   [
+    "Bindungsdauer",
+    "Abhängig von der Dauer der Fortbildung"
+   ]
+  ],
+  "erklaerung": "Die Rechtsprechung des BAG verlangt Transparenz (Urt. v. 06.08.2013 – 9 AZR 442/12), Anknüpfung an Beendigungsgründe aus der Sphäre des Arbeitnehmers (Urt. v. 11.04.2006 – 9 AZR 610/05), Begrenzung auf die tatsächlichen Kosten (Urt. v. 21.07.2005 – 6 AZR 452/04), zeitanteilige Minderung und eine an der Fortbildungsdauer orientierte Bindung (Urt. v. 14.01.2009 – 3 AZR 900/07). Eine Beispielberechnung ist empfehlenswert."
+ },
+ {
+  "id": "orga2-052",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Arbeitsrecht im Notariat: Nachweis in Textform und Entgelttransparenz",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/arbeitsrecht-im-notariat-nachweis-in-textform-und-entgelttransparenz",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2 Abs. 1 S. 2 NachwG",
+   "§ 126b BGB"
+  ],
+  "frage": "Welche Voraussetzung gehört nach § 2 Abs. 1 S. 2 NachwG zum zulässigen elektronischen Nachweis der wesentlichen Arbeitsbedingungen?",
+  "optionen": [
+   "Qualifizierte elektronische Signatur des Arbeitgebers",
+   "Der Arbeitgeber fordert den Arbeitnehmer bei der Übermittlung auf, den Empfang zu bestätigen",
+   "Zustimmung des Betriebsrats",
+   "Übermittlung ausschließlich über ein besonderes elektronisches Postfach"
+  ],
+  "antwort": 1,
+  "erklaerung": "Seit dem 01.01.2025 genügt Textform (§ 126b BGB), wenn das Dokument für den Arbeitnehmer zugänglich ist, er es speichern und ausdrucken kann und der Arbeitgeber ihn bei der Übermittlung zur Empfangsbestätigung auffordert. Eine qualifizierte elektronische Signatur ist nicht erforderlich. Die Empfangsbestätigung sollte aufbewahrt werden."
+ },
+ {
+  "id": "orga2-053",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Arbeitsrecht im Notariat: Nachweis in Textform und Entgelttransparenz",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/arbeitsrecht-im-notariat-nachweis-in-textform-und-entgelttransparenz",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 14 Abs. 4 TzBfG",
+   "§ 2 Abs. 1 S. 2 NachwG"
+  ],
+  "frage": "Ein Notar will den Arbeitsvertrag einer für ein Jahr befristet eingestellten Elternzeitvertretung wie bei unbefristeten Verträgen nur als PDF per E-Mail abschließen. Was ist zu beachten?",
+  "optionen": [
+   "Nichts, die Textform gilt seit 2025 für alle Arbeitsverträge",
+   "Die Befristung muss nur im Nachweis erwähnt werden",
+   "Ein PDF genügt, wenn der Name des Erklärenden am Vertragsende steht",
+   "Für befristete Arbeitsverträge gilt die Ausnahme des § 14 Abs. 4 TzBfG; der rein elektronische Abschluss wie bei unbefristeten Verträgen ist ein typischer Fehler"
+  ],
+  "antwort": 3,
+  "erklaerung": "Die Erleichterungen seit 2025 betreffen den Nachweis nach § 2 Abs. 1 S. 2 NachwG und unbefristete Verträge. Für befristete Arbeitsverträge gilt die Ausnahme des § 14 Abs. 4 TzBfG; sie wie unbefristete Verträge nur elektronisch abzuschließen, ist ein typischer Fehler."
+ },
+ {
+  "id": "orga2-054",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Arbeitsrecht im Notariat: Nachweis in Textform und Entgelttransparenz",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/arbeitsrecht-im-notariat-nachweis-in-textform-und-entgelttransparenz",
+  "typ": "zuordnung",
+  "schwierigkeit": 3,
+  "normen": [
+   "Art. 5 EU-Entgelttransparenz-RL",
+   "Art. 6 EU-Entgelttransparenz-RL",
+   "Art. 7 EU-Entgelttransparenz-RL",
+   "Art. 9 EU-Entgelttransparenz-RL"
+  ],
+  "frage": "Ordne die Pflichten nach der EU-Entgelttransparenz-Richtlinie der jeweiligen Regelung zur Arbeitgebergröße bzw. zum Inhalt zu.",
+  "paare": [
+   [
+    "Art. 5 Abs. 2",
+    "Verbot der Frage nach der bisherigen Entgeltentwicklung des Bewerbers"
+   ],
+   [
+    "Art. 6 Abs. 1 und 2",
+    "Information über Entgeltkriterien; Ausnahme für Arbeitgeber mit weniger als 50 Arbeitnehmern möglich"
+   ],
+   [
+    "Art. 7 Abs. 1",
+    "Auskunft über individuelle und durchschnittliche Entgelthöhen nach Geschlecht; keine Ausnahme für kleine Arbeitgeber"
+   ],
+   [
+    "Art. 9 Abs. 2 bis 4",
+    "Berichterstattungspflichten nur bei mindestens 100 Beschäftigten"
+   ]
+  ],
+  "erklaerung": "Die Richtlinie verbietet die Frage nach dem bisherigen Entgelt (Art. 5 Abs. 2), verlangt Information über Entgeltkriterien mit möglicher Ausnahme unter 50 Arbeitnehmern (Art. 6), gewährt den Auskunftsanspruch über Entgelthöhen ohne Kleinbetriebsausnahme (Art. 7 Abs. 1) und beschränkt Berichtspflichten auf Arbeitgeber ab 100 Beschäftigten (Art. 9). Für ein kleines Notariat ist daher vor allem Art. 7 relevant."
+ },
+ {
+  "id": "orga2-055",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Arbeitsrecht im Notariat: Überstunden – Pflicht, Vergütung und Abgeltung",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/arbeitsrecht-im-notariat-uberstunden-pflicht-vergutung-und-abgeltung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 612 Abs. 1 BGB"
+  ],
+  "frage": "Der Arbeitsvertrag einer Notarfachangestellten enthält keine Regelung zur Überstundenvergütung. Was gilt für angeordnete Überstunden?",
+  "optionen": [
+   "Sie sind mit dem Gehalt abgegolten",
+   "In der Regel besteht eine Vergütungserwartung nach § 612 Abs. 1 BGB, die Überstunden sind zu vergüten",
+   "Sie sind ausschließlich durch Freizeit auszugleichen",
+   "Eine Vergütung setzt eine tarifvertragliche Grundlage voraus"
+  ],
+  "antwort": 1,
+  "erklaerung": "Fehlt eine Regelung zur Überstundenvergütung oder ist sie unwirksam, besteht in der Regel eine Vergütungserwartung (§ 612 Abs. 1 BGB); die Überstunden sind zu vergüten. Eine stillschweigende Abgeltung mit dem Gehalt scheidet aus. Ausgleich kann durch Freizeit oder Vergütung erfolgen, die Wahl kann auch dem Arbeitnehmer überlassen werden."
+ },
+ {
+  "id": "orga2-056",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Arbeitsrecht im Notariat: Überstunden – Pflicht, Vergütung und Abgeltung",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/arbeitsrecht-im-notariat-uberstunden-pflicht-vergutung-und-abgeltung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 612 Abs. 1 BGB"
+  ],
+  "frage": "Bei welchem Mitarbeiter fehlt nach der Rechtsprechung regelmäßig eine Vergütungserwartung für Überstunden?",
+  "optionen": [
+   "Bei einer Teilzeitkraft im Front Office",
+   "Bei einer Auszubildenden",
+   "Bei einem Bürovorsteher, dessen Entgelt die Beitragsbemessungsgrenze der Rentenversicherung überschreitet",
+   "Bei jeder Mitarbeiterin mit mehr als zehn Jahren Betriebszugehörigkeit"
+  ],
+  "antwort": 2,
+  "erklaerung": "Eine Vergütungserwartung nach § 612 Abs. 1 BGB fehlt bei Diensten höherer Art, leitenden Angestellten und Besserverdienenden oberhalb der Beitragsbemessungsgrenze der Rentenversicherung (seit 01.01.2026: 8.450 Euro im Monat, 101.400 Euro im Jahr). Die Dauer der Betriebszugehörigkeit oder Teilzeit spielt dafür keine Rolle."
+ },
+ {
+  "id": "orga2-057",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Arbeitsrecht im Notariat: Überstunden – Pflicht, Vergütung und Abgeltung",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/arbeitsrecht-im-notariat-uberstunden-pflicht-vergutung-und-abgeltung",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 612 Abs. 1 BGB",
+   "§ 307 BGB"
+  ],
+  "frage": "Überstundenklage und Vertragsgestaltung",
+  "sachverhalt": "Notarfachangestellte F (Monatsgehalt 3.600 Euro) verlangt nach ihrem Ausscheiden Vergütung für 120 Überstunden. Ihr Arbeitsvertrag enthält die Klausel: „Sämtliche Überstunden sind mit dem Gehalt abgegolten.“ Notar N bestreitet, die Überstunden je angeordnet zu haben. N will künftige Verträge besser gestalten.",
+  "schritte": [
+   {
+    "frage": "Wie ist die Abgeltungsklausel zu bewerten?",
+    "optionen": [
+     "Wirksam, da sie klar formuliert ist",
+     "Problematisch: An pauschale Abgeltungsklauseln stellt das BAG strenge Anforderungen, besonders bei Arbeitnehmern mit Vergütungserwartung; eine Abgeltung sämtlicher Überstunden ohne Mengengrenze ist ein typischer Fehler",
+     "Unerheblich, da Überstunden stets durch Freizeit auszugleichen sind",
+     "Wirksam, weil F unterhalb der Beitragsbemessungsgrenze verdient"
+    ],
+    "antwort": 1,
+    "erklaerung": "F verdient deutlich unter der Beitragsbemessungsgrenze und hat daher eine objektive Vergütungserwartung. Eine pauschale Abgeltung sämtlicher Überstunden ohne Mengengrenze hält den strengen Anforderungen des BAG regelmäßig nicht stand; dann besteht eine Vergütungserwartung nach § 612 Abs. 1 BGB."
+   },
+   {
+    "frage": "Was muss F im Prozess darlegen und beweisen?",
+    "optionen": [
+     "Nur, dass sie länger im Büro anwesend war",
+     "Dass sie die Überstunden geleistet hat und dass N sie angeordnet, gebilligt oder geduldet hat oder sie für die geschuldete Arbeit erforderlich waren",
+     "Nichts; N muss beweisen, dass keine Überstunden angefallen sind",
+     "Nur, dass die Abgeltungsklausel unwirksam ist"
+    ],
+    "antwort": 1,
+    "erklaerung": "Nach der stetigen Rechtsprechung (BAG, Urt. v. 10.04.2013 – 5 AZR 122/12) trägt der Arbeitnehmer die Darlegungs- und Beweislast in zwei Stufen: tatsächliche Leistung der Überstunden und deren Anordnung, Billigung, Duldung oder Erforderlichkeit."
+   },
+   {
+    "frage": "Wie sollte N künftige Arbeitsverträge gestalten?",
+    "optionen": [
+     "Abgeltungsklausel auf eine bestimmte Zahl von Überstunden je Kalendermonat begrenzen und darüber hinaus eine gesonderte Vergütung auf Grundlage des Grundgehalts vorsehen; Überstundenpflicht ausdrücklich regeln",
+     "Überstunden im Vertrag gar nicht erwähnen",
+     "Alle Überstunden ausdrücklich unbegrenzt abgelten und Freizeitausgleich ausschließen",
+     "Überstunden nur mündlich anordnen, um keine Dokumentation zu schaffen"
+    ],
+    "antwort": 0,
+    "erklaerung": "Die Pflicht zu Überstunden ist ausdrücklich zu regeln, weil sonst regelmäßig keine Leistungspflicht besteht. Eine Abgeltungsklausel sollte auf eine bestimmte monatliche Zahl begrenzt und darüber hinausgehende Überstunden gesondert vergütet werden; angeordnete oder gebilligte Überstunden sind zu dokumentieren."
+   }
+  ],
+  "erklaerung": "Die unbegrenzte Abgeltungsklausel ist bei F mit Vergütungserwartung problematisch, sodass § 612 Abs. 1 BGB greift; F muss aber Leistung und Veranlassung der Überstunden darlegen und beweisen. Künftig gehören eine ausdrückliche Überstundenpflicht und eine mengenmäßig begrenzte Abgeltung in den Vertrag."
  }
 ]

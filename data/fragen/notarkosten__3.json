@@ -1,0 +1,356 @@
+[
+ {
+  "id": "kost3-001",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Übergabevertrag und vorbehaltene Rechte (§§ 97, 46, 52 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-ubergabevertrag-und-vorbehaltene-rechte-97-46-52-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 97 Abs. 3 GNotKG"
+  ],
+  "frage": "Der Erwerber übernimmt im Übergabevertrag Verbindlichkeiten, die durch eine Grundschuld über 200.000 € gesichert sind und noch mit 80.000 € valutieren. Welcher Betrag ist als Gegenleistung anzusetzen?",
+  "optionen": [
+   "Der Nennbetrag der Grundschuld von 200.000 €",
+   "Die tatsächlich übernommene Valuta von 80.000 €",
+   "Die Hälfte des Nennbetrags der Grundschuld, also 100.000 €",
+   "Kein Betrag, weil Schuldübernahmen das Abzugsverbot des § 38 GNotKG auslösen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Beim Austauschvertrag (§ 97 Abs. 3 GNotKG) zählt bei übernommenen Verbindlichkeiten der tatsächlich übernommene Betrag. Der Ansatz des Nennbetrags der Grundschuld ist ein typischer Fehler, weil die Grundschuld nur das Sicherungsmittel ist und nicht den Umfang der übernommenen Schuld abbildet."
+ },
+ {
+  "id": "kost3-002",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Übergabevertrag und vorbehaltene Rechte (§§ 97, 46, 52 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-ubergabevertrag-und-vorbehaltene-rechte-97-46-52-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 97 Abs. 3 GNotKG"
+  ],
+  "frage": "Eine im Übergabevertrag angeordnete Pflicht des Erwerbers, sich die Zuwendung auf seinen Pflichtteil anrechnen zu lassen, ist als Gegenleistung des Erwerbers nach § 97 Abs. 3 GNotKG zu bewerten.",
+  "antwort": false,
+  "erklaerung": "Ausgleichungs- und Anrechnungsbestimmungen sind einseitige Erklärungen des Veräußerers; sie sind keine Gegenleistung und beeinflussen die Kosten nicht. Anders ist es beim Erb- oder Pflichtteilsverzicht des Erwerbers gegenüber dem Veräußerer: Dieser ist eine Gegenleistung im Sinne des § 97 Abs. 3 GNotKG."
+ },
+ {
+  "id": "kost3-003",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Übergabevertrag und vorbehaltene Rechte (§§ 97, 46, 52 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-ubergabevertrag-und-vorbehaltene-rechte-97-46-52-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 97 Abs. 3 GNotKG",
+   "§ 36 GNotKG"
+  ],
+  "frage": "Mit welchem Wertansatz wird ein bedingtes vertragliches Rückforderungsrecht des Veräußerers bei der Wertbestimmung des Übergabevertrags empfohlen?",
+  "optionen": [
+   "Mit 10 % bis 20 % des Ausgangswerts",
+   "Mit 30 % bis 50 % des Ausgangswerts",
+   "Mit dem vollen Verkehrswert des Grundbesitzes",
+   "Gar nicht, weil es keine Gegenleistung des Erwerbers ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bedingte Rückforderungsrechte des Veräußerers sind nach § 97 Abs. 3 GNotKG eine Gegenleistung des Erwerbers. Wegen der engen Ausübungsvoraussetzungen wird ihr Wert nach billigem Ermessen gekürzt; empfohlen wird ein Ansatz von 30 % bis 50 % des Ausgangswerts. Der volle Verkehrswert verkennt, dass die Rückforderung nur unter Bedingungen eintritt."
+ },
+ {
+  "id": "kost3-004",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Übergabevertrag und vorbehaltene Rechte (§§ 97, 46, 52 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-ubergabevertrag-und-vorbehaltene-rechte-97-46-52-gnotkg",
+  "typ": "fall",
+  "frage": "Übergabe mit Wohnungsrecht und Pflege",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 97 Abs. 3 GNotKG",
+   "§ 52 Abs. 4 GNotKG",
+   "§ 95 GNotKG",
+   "§ 37 SGB XI"
+  ],
+  "sachverhalt": "V überträgt sein Hausgrundstück in Pforzheim auf seine Tochter T. V behält sich ein lebenslanges Wohnungsrecht an der Erdgeschosswohnung vor und trägt deren Nebenkosten nicht selbst; T verpflichtet sich zudem zur Pflege des V im Bedarfsfall. Den aktuellen Verkehrswert kennen V und T nicht genau.",
+  "schritte": [
+   {
+    "frage": "Wie kann der Notar den Verkehrswert ermitteln, wenn die Beteiligten ihn nicht kennen?",
+    "optionen": [
+     "Er muss zwingend ein Sachverständigengutachten einholen",
+     "Er schätzt anhand des Bodenrichtwerts (BORIS-BW) sowie Baujahr, Renovierungszustand und Wohnfläche",
+     "Er setzt den Einheitswert des Finanzamts an",
+     "Er setzt den Auffangwert von 5.000 € nach § 36 Abs. 3 GNotKG an"
+    ],
+    "antwort": 1,
+    "erklaerung": "Die Beteiligten müssen mitwirken (§ 95 S. 1 GNotKG); kennen sie den Wert nicht, hilft eine Schätzung über die Bodenrichtwerte (in Baden-Württemberg BORIS-BW), ergänzt um Baujahr, Renovierungszustand und Wohnfläche. Der Auffangwert des § 36 Abs. 3 GNotKG passt nicht, weil § 46 GNotKG den Wert regelt."
+   },
+   {
+    "frage": "Wie sind Wohnungsrecht und Pflegeverpflichtung zu bewerten?",
+    "optionen": [
+     "Als wiederkehrende Leistungen auf Lebenszeit nach § 52 Abs. 4 GNotKG kapitalisiert",
+     "Mit einem Pauschalwert von je 5.000 € nach § 36 Abs. 3 GNotKG",
+     "Nur das Wohnungsrecht ist zu bewerten, die Pflege ist eine Auflage ohne Wert",
+     "Mit dem Jahreswert, multipliziert mit dem Faktor 25"
+    ],
+    "antwort": 0,
+    "erklaerung": "Wohnungsrecht und Pflegeverpflichtung sind auf Lebenszeit beschränkte wiederkehrende Nutzungen bzw. Leistungen und nach § 52 Abs. 4 GNotKG zu kapitalisieren. Der Jahreswert der Pflege kann sich am Pflegegeld nach § 37 SGB XI orientieren; beim Wohnungsrecht ist der Nutzungswert maßgeblich."
+   },
+   {
+    "frage": "Wie wird der Geschäftswert des Übergabevertrags schließlich bestimmt?",
+    "optionen": [
+     "Verkehrswert abzüglich der Gegenleistungen",
+     "Summe aus Verkehrswert und allen Gegenleistungen",
+     "Vergleich von Verkehrswert und Summe der Gegenleistungen; der höhere Wert ist maßgeblich",
+     "Stets der Verkehrswert, Gegenleistungen bleiben unberücksichtigt"
+    ],
+    "antwort": 2,
+    "erklaerung": "Schuldet der Erwerber Gegenleistungen, liegt ein Austauschvertrag vor (§ 97 Abs. 3 GNotKG): Die Leistungen beider Seiten werden verglichen, der höhere Wert ist Geschäftswert. Ein Abzug der Gegenleistungen vom Verkehrswert widerspräche diesem Vergleichsprinzip."
+   }
+  ],
+  "erklaerung": "Der Verkehrswert wird mit Mitwirkung der Beteiligten über Bodenrichtwert und Gebäudedaten geschätzt. Wohnungsrecht und Pflege werden nach § 52 Abs. 4 GNotKG kapitalisiert und als Gegenleistung dem Verkehrswert gegenübergestellt; der höhere Wert ist nach § 97 Abs. 3 GNotKG der Geschäftswert."
+ },
+ {
+  "id": "kost3-005",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Verfügungen von Todes wegen und Verzichtsverträge (§ 102 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-verfugungen-von-todes-wegen-und-verzichtsvertrage-102-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 102 GNotKG",
+   "§ 38 GNotKG"
+  ],
+  "frage": "Erblasser E hat ein Aktivvermögen von 600.000 € und Verbindlichkeiten von 450.000 €. Welcher Geschäftswert gilt für ein Testament, das seinen gesamten Nachlass regelt?",
+  "optionen": [
+   "150.000 €",
+   "300.000 €",
+   "450.000 €",
+   "600.000 €"
+  ],
+  "antwort": 1,
+  "erklaerung": "Für eine Verfügung über den ganzen Nachlass gilt das modifizierte Reinvermögen (§ 102 GNotKG): Verbindlichkeiten werden abgezogen, aber höchstens bis zur Hälfte des Aktivvermögens. Von 600.000 € sind also höchstens 300.000 € abzuziehen. 150.000 € ergäbe der volle Schuldenabzug – der typische Fehler; 600.000 € wäre das Schuldenabzugsverbot des § 38 GNotKG, das hier gerade nicht gilt."
+ },
+ {
+  "id": "kost3-006",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Verfügungen von Todes wegen und Verzichtsverträge (§ 102 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-verfugungen-von-todes-wegen-und-verzichtsvertrage-102-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 102 Abs. 4 GNotKG",
+   "§ 97 Abs. 3 GNotKG"
+  ],
+  "frage": "Verzichten zwei Ehegatten wechselseitig auf ihr gesetzliches Erbrecht, sind die Werte beider Erbverzichte zu addieren.",
+  "antwort": false,
+  "erklaerung": "Stehen zwei Erbverzichte im Austauschverhältnis, ist nach § 97 Abs. 3 GNotKG nur der höherwertige Verzicht maßgeblich. Jeder Verzicht wird nach § 102 Abs. 4 i. V. m. Abs. 1 S. 1 GNotKG mit dem Teil des Reinvermögens bewertet, der der gedachten gesetzlichen Erbquote des Verzichtenden entspricht."
+ },
+ {
+  "id": "kost3-007",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Verfügungen von Todes wegen und Verzichtsverträge (§ 102 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-verfugungen-von-todes-wegen-und-verzichtsvertrage-102-gnotkg",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 102 GNotKG",
+   "§ 36 Abs. 1 GNotKG",
+   "§ 86 Abs. 2 GNotKG"
+  ],
+  "frage": "Ordne den erbrechtlichen Erklärungen die zutreffende Wertbestimmung zu.",
+  "paare": [
+   [
+    "Testament über den ganzen Nachlass",
+    "Aktivvermögen abzüglich Verbindlichkeiten, höchstens bis zur Hälfte des Aktivvermögens"
+   ],
+   [
+    "Erbverzichtsvertrag",
+    "Anteil am Reinvermögen entsprechend der gedachten gesetzlichen Erbquote des Verzichtenden"
+   ],
+   [
+    "Nachträgliche Anordnung der Testamentsvollstreckung",
+    "Billiges Ermessen nach § 36 Abs. 1 GNotKG, orientiert etwa an 20 % oder 30 %"
+   ],
+   [
+    "Pflichtteilsverzicht eines weichenden Geschwisters im Übergabevertrag",
+    "Eigener Gegenstand, gesondert bewertet und zum Übergabewert addiert"
+   ]
+  ],
+  "erklaerung": "§ 102 GNotKG erfasst Erbeinsetzungen und Verzichtsverträge (Abs. 4), nicht aber die nachträgliche Testamentsvollstreckung, die mangels Sondervorschrift unter § 36 Abs. 1 GNotKG fällt (Orientierung: § 40 Abs. 5 oder § 51 Abs. 1 GNotKG). Verzichte weichender Erben im Übergabevertrag sind nach § 86 Abs. 2 GNotKG ein verschiedener Gegenstand und werden nicht als Gegenleistung des Erwerbers erfasst."
+ },
+ {
+  "id": "kost3-008",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Vorsorgevollmacht, Betreuungs- und Patientenverfügung (§§ 98, 36, 109, 110 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-vorsorgevollmacht-betreuungs-und-patientenverfugung-98-36-109-110-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 98 Abs. 3 GNotKG",
+   "§ 98 Abs. 4 GNotKG",
+   "§ 38 GNotKG"
+  ],
+  "frage": "Von welchem Ausgangswert ist bei einer unbeschränkten General- und Vorsorgevollmacht auszugehen?",
+  "optionen": [
+   "Vom vollen Reinvermögen des Vollmachtgebers",
+   "Vom halben Aktivvermögen des Vollmachtgebers, ohne Schuldenabzug",
+   "Vom halben Reinvermögen des Vollmachtgebers",
+   "Vom Auffangwert von 5.000 € nach § 36 Abs. 3 GNotKG"
+  ],
+  "antwort": 1,
+  "erklaerung": "Ausgangspunkt ist nach § 98 Abs. 3 S. 2 GNotKG das halbe Aktivvermögen des Vollmachtgebers; Verbindlichkeiten werden nach § 38 GNotKG nicht abgezogen. Das halbe Reinvermögen ist daher falsch. Der Höchstwert beträgt 1 Mio. € (§ 98 Abs. 4 GNotKG), die Zahl der Bevollmächtigten ist unerheblich."
+ },
+ {
+  "id": "kost3-009",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Vorsorgevollmacht, Betreuungs- und Patientenverfügung (§§ 98, 36, 109, 110 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-vorsorgevollmacht-betreuungs-und-patientenverfugung-98-36-109-110-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 109 Abs. 2 S. 1 Nr. 1 GNotKG"
+  ],
+  "frage": "Betreuungsverfügung und Patientenverfügung in einer Urkunde sind derselbe Beurkundungsgegenstand; der Wert wird nur einmal angesetzt.",
+  "antwort": true,
+  "erklaerung": "Der Vorschlag zur Person eines Betreuers und eine Patientenverfügung sind nach § 109 Abs. 2 S. 1 Nr. 1 GNotKG derselbe Beurkundungsgegenstand; maßgeblich ist der höchste der in Frage kommenden Werte. Je einen eigenen Wert anzusetzen ist ein typischer Fehler. Die Gegenstandsgleichheit erfasst auch Betreuungsverfügungen mit Wünschen zur Führung der Betreuung."
+ },
+ {
+  "id": "kost3-010",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Vorsorgevollmacht, Betreuungs- und Patientenverfügung (§§ 98, 36, 109, 110 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-vorsorgevollmacht-betreuungs-und-patientenverfugung-98-36-109-110-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "KV 22200 GNotKG",
+   "§ 113 Abs. 1 GNotKG"
+  ],
+  "frage": "Der Notar soll weitere Ausfertigungen einer Vorsorgevollmacht dem Bevollmächtigten erst gegen ärztliche Bescheinigung der Geschäftsunfähigkeit erteilen. Welche kostenrechtliche Folge hat diese Anweisung?",
+  "optionen": [
+   "Eine 0,5-Betreuungsgebühr nach KV 22200 GNotKG entsteht sofort mit der Beurkundung",
+   "Eine 0,5-Betreuungsgebühr nach KV 22200 GNotKG entsteht erst, wenn der Notar um Erteilung der Ausfertigung ersucht wird",
+   "Eine 1,0-Gebühr nach KV 21200 GNotKG entsteht zusätzlich",
+   "Die Anweisung ist mit der Beurkundungsgebühr abgegolten"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Herausgabe nur unter bestimmten Voraussetzungen löst eine 0,5-Betreuungsgebühr nach KV 22200 Anm. Nr. 3 GNotKG aus, deren Wert der Wert des Beurkundungsverfahrens ist (§ 113 Abs. 1 GNotKG). Sie entsteht aber erst, sobald der Notar um Erteilung der Ausfertigung ersucht wird, nicht schon mit der Beurkundung."
+ },
+ {
+  "id": "kost3-011",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Vorsorgevollmacht, Betreuungs- und Patientenverfügung (§§ 98, 36, 109, 110 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-vorsorgevollmacht-betreuungs-und-patientenverfugung-98-36-109-110-gnotkg",
+  "typ": "fall",
+  "frage": "Vorsorgeurkunde mit Vollmacht und Verfügungen",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 98 Abs. 3 GNotKG",
+   "§ 36 Abs. 3 GNotKG",
+   "§ 110 Nr. 3 GNotKG",
+   "§ 35 Abs. 1 GNotKG"
+  ],
+  "sachverhalt": "Die verwitwete M (Aktivvermögen 800.000 €, keine Schulden) lässt eine General- und Vorsorgevollmacht für ihre beiden Söhne beurkunden. Im Innenverhältnis soll die Vollmacht nur bei Betreuungsbedürftigkeit gebraucht werden. In derselben Urkunde trifft M eine Patientenverfügung und eine Betreuungsverfügung; besondere Umstände für deren Bewertung liegen nicht vor.",
+  "schritte": [
+   {
+    "frage": "Welcher Ausgangswert gilt für die Vollmacht und wie wirkt sich die Ausübungsbeschränkung aus?",
+    "optionen": [
+     "400.000 €; davon ist ein Abschlag nach Ermessen von bis zu 50 % möglich",
+     "800.000 €; davon ist ein Abschlag von bis zu 50 % möglich",
+     "400.000 €; wegen der zwei Bevollmächtigten verdoppelt auf 800.000 €",
+     "1 Mio. € als Höchstwert nach § 98 Abs. 4 GNotKG"
+    ],
+    "antwort": 0,
+    "erklaerung": "Ausgangspunkt ist das halbe Aktivvermögen (§ 98 Abs. 3 S. 2 GNotKG), also 400.000 €. Die Beschränkung auf den Betreuungsfall rechtfertigt einen Abschlag von bis zu 50 %, der vom halbierten Aktivvermögen vorzunehmen ist. Die Zahl der Bevollmächtigten spielt keine Rolle."
+   },
+   {
+    "frage": "Wie sind Patienten- und Betreuungsverfügung zu bewerten?",
+    "optionen": [
+     "Je 5.000 €, also 10.000 €",
+     "Einmal 5.000 € nach § 36 Abs. 3 GNotKG",
+     "Gar nicht, da sie neben der Vollmacht gegenstandsgleich sind",
+     "Mit 10 % des Vollmachtswerts"
+    ],
+    "antwort": 1,
+    "erklaerung": "Beide sind nichtvermögensrechtlich (§ 36 Abs. 2, 3 GNotKG) und untereinander derselbe Gegenstand (§ 109 Abs. 2 S. 1 Nr. 1 GNotKG). Ohne besondere Umstände wird nach h. M. der Wert von 5.000 € einmal angesetzt."
+   },
+   {
+    "frage": "Wie verhalten sich die Werte von Vollmacht und Verfügungen zueinander?",
+    "optionen": [
+     "Nur der höhere Wert der Vollmacht zählt (§ 109 GNotKG)",
+     "Die Werte werden addiert; eine Vergleichsberechnung nach § 94 GNotKG entfällt, da einheitlich 1,0 gilt",
+     "Die Werte werden addiert und eine Vergleichsberechnung nach § 94 GNotKG ist durchzuführen",
+     "Für die Verfügungen fällt nur die Mindestgebühr von 60 € an"
+    ],
+    "antwort": 1,
+    "erklaerung": "Verfügungen nach § 109 Abs. 2 S. 1 Nr. 1 GNotKG und Vollmachten sind verschiedene Beurkundungsgegenstände (§ 110 Nr. 3 GNotKG), auch in einer Urkunde; die Werte werden nach § 35 Abs. 1 GNotKG addiert. Da für alle Erklärungen eine 1,0-Gebühr nach KV 21200 GNotKG gilt, entfällt die Vergleichsberechnung."
+   }
+  ],
+  "erklaerung": "Vollmachtswert: halbes Aktivvermögen von 400.000 €, gemindert um einen Ermessensabschlag bis 50 % wegen der Ausübungsbeschränkung. Patienten- und Betreuungsverfügung zählen zusammen einmal mit 5.000 €; dieser Wert wird nach § 110 Nr. 3, § 35 Abs. 1 GNotKG zum Vollmachtswert addiert und mit einer 1,0-Gebühr (KV 21200) abgerechnet."
+ },
+ {
+  "id": "kost3-012",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Auffangwert nach § 36 und Verhältnis zu § 97 GNotKG",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-auffangwert-nach-36-und-verhaltnis-zu-97-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 36 GNotKG"
+  ],
+  "frage": "Eine spezielle Wertvorschrift passt auf den Sachverhalt nur annähernd. Wie ist zu verfahren?",
+  "optionen": [
+   "Die Spezialvorschrift wird analog angewendet",
+   "Der Wert wird nach § 36 GNotKG bestimmt; die annähernd passende Vorschrift darf als Orientierung für das Ermessen dienen",
+   "Es ist zwingend der Ausgangswert von 5.000 € nach § 36 Abs. 3 GNotKG anzusetzen",
+   "Die nächstliegende Spezialvorschrift wird erweiternd ausgelegt und unmittelbar angewendet"
+  ],
+  "antwort": 1,
+  "erklaerung": "Spezielle Wertvorschriften sind eng auszulegen; sie passen nur, wenn der Sachverhalt ihren Tatbestand genau erfüllt, eine erweiternde Auslegung ist grundsätzlich unzulässig. Dann greift § 36 GNotKG, wobei die annähernd passende Norm als Ermessensorientierung dienen darf. Ihre unmittelbare Anwendung ist ein typischer Fehler."
+ },
+ {
+  "id": "kost3-013",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Auffangwert nach § 36 und Verhältnis zu § 97 GNotKG",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-auffangwert-nach-36-und-verhaltnis-zu-97-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 36 Abs. 2 GNotKG"
+  ],
+  "frage": "In nichtvermögensrechtlichen Angelegenheiten darf der Notar den Wert nach § 36 Abs. 2 GNotKG wegen besonderer Schwierigkeit und hohen Arbeitsaufwands in seinem Büro erhöhen.",
+  "antwort": false,
+  "erklaerung": "Umfang und Bedeutung der Sache sind objektiv zu beurteilen; Schwierigkeit oder Arbeitsaufwand für den konkreten Notar spielen keine Rolle, weil Notargebühren wertabhängig und nicht aufwandsabhängig sind. Zu berücksichtigen sind dagegen alle Umstände des Einzelfalls, insbesondere Vermögen und Einkommen der Beteiligten (§ 36 Abs. 2 GNotKG)."
+ },
+ {
+  "id": "kost3-014",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Auffangwert nach § 36 und Verhältnis zu § 97 GNotKG",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-auffangwert-nach-36-und-verhaltnis-zu-97-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 36 Abs. 3 GNotKG",
+   "§ 36 Abs. 2 GNotKG"
+  ],
+  "frage": "Welche Funktion hat der Wert von 5.000 € nach § 36 Abs. 3 GNotKG?",
+  "optionen": [
+   "Er ist ein fester Regelauffangwert wie früher § 30 Abs. 2 KostO",
+   "Er ist eine Ausgangsgröße für eine einzelfallgerechte Bewertung und kann etwa bei wohlhabenden Beteiligten vervielfacht werden",
+   "Er ist der Höchstwert in nichtvermögensrechtlichen Angelegenheiten",
+   "Er ist ein Mindestwert, der nur nach oben überschritten werden darf, wenn eine Spezialvorschrift dies erlaubt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Fehlen genügende Anhaltspunkte, ist nach § 36 Abs. 3 GNotKG von 5.000 € auszugehen – anders als beim früheren Regelwert nach § 30 Abs. 2 KostO als Ausgangsgröße für eine einzelfallgerechte Bewertung. Der Höchstwert in nichtvermögensrechtlichen Angelegenheiten beträgt 1 Mio. €. Den Betrag schematisch anzusetzen, obwohl Vermögen und Bedeutung mehr rechtfertigen, ist ein typischer Fehler."
+ }
+]
