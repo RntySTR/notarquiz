@@ -1,0 +1,255 @@
+[
+ {
+  "id": "wohn1-001",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Abgeschlossenheitsbescheinigung: Rechtsnatur und Prüfung durch Grundbuchamt und Notar",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/abgeschlossenheitsbescheinigung-rechtsnatur-und-prufung-durch-grundbuchamt-und-notar",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Die Baubehörde versagt die Abgeschlossenheitsbescheinigung. Welche Klageart ist statthaft?",
+  "optionen": [
+   "Verpflichtungsklage, weil die Bescheinigung ein begünstigender Verwaltungsakt ist",
+   "Allgemeine Leistungsklage, weil die Bescheinigung kein Verwaltungsakt ist",
+   "Anfechtungsklage gegen den Versagungsbescheid der Baubehörde",
+   "Beschwerde zum Grundbuchgericht nach den Vorschriften der GBO"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Abgeschlossenheitsbescheinigung ist kein Verwaltungsakt; bei Versagung ist daher die allgemeine Leistungsklage statthaft (BVerwG). Die naheliegende Verpflichtungsklage scheidet aus, weil sie den Erlass eines Verwaltungsakts voraussetzt."
+ },
+ {
+  "id": "wohn1-002",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Abgeschlossenheitsbescheinigung: Rechtsnatur und Prüfung durch Grundbuchamt und Notar",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/abgeschlossenheitsbescheinigung-rechtsnatur-und-prufung-durch-grundbuchamt-und-notar",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Bestehen begründete Zweifel an der Abgeschlossenheitsbescheinigung, darf das Grundbuchamt auch nachprüfen, ob die Baubehörde die bautechnischen Anforderungen zutreffend bejaht hat.",
+  "antwort": false,
+  "erklaerung": "Bei offensichtlichen Fehlern oder begründeten Zweifeln prüft das Grundbuchamt die Bescheinigung nach pflichtgemäßem Ermessen nur, soweit Rechtsfragen der räumlichen Gebäudeaufteilung betroffen sind. Ob bautechnische Anforderungen geprüft und zutreffend bejaht wurden, darf es gerade nicht nachprüfen; insoweit bleibt es bei der Beurteilung der Baubehörde."
+ },
+ {
+  "id": "wohn1-003",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Abgeschlossenheitsbescheinigung: Rechtsnatur und Prüfung durch Grundbuchamt und Notar",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/abgeschlossenheitsbescheinigung-rechtsnatur-und-prufung-durch-grundbuchamt-und-notar",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 7 Abs. 4 S. 1 Nr. 1 WEG"
+  ],
+  "frage": "Was ist Gegenstand der Prüfung des Grundbuchamts beim Antrag auf Anlegung der Wohnungsgrundbücher?",
+  "optionen": [
+   "Ob die tatsächliche Bauausführung mit dem Aufteilungsplan übereinstimmt",
+   "Ob das Gebäude dem geltenden Bauordnungsrecht genügt",
+   "Ob ein den gesetzlichen Anforderungen genügender Aufteilungsplan samt Abgeschlossenheitsbescheinigung vorliegt",
+   "Ob die Baubehörde die technischen Einzelheiten der Abgeschlossenheit richtig bewertet hat"
+  ],
+  "antwort": 2,
+  "erklaerung": "Das Grundbuchamt prüft formell nach allgemeinen grundbuchrechtlichen Grundsätzen, insbesondere ob ein Aufteilungsplan nach § 7 Abs. 4 S. 1 Nr. 1 WEG samt Abgeschlossenheitsbescheinigung vorliegt. Die tatsächliche Bauausführung ist nicht Gegenstand der Prüfung; maßgeblich ist nur die Übereinstimmung von Aufteilungsplan und Bescheinigung."
+ },
+ {
+  "id": "wohn1-004",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Abgeschlossenheitsbescheinigung: Rechtsnatur und Prüfung durch Grundbuchamt und Notar",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/abgeschlossenheitsbescheinigung-rechtsnatur-und-prufung-durch-grundbuchamt-und-notar",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [],
+  "frage": "Welche Pflicht trifft den Notar hinsichtlich einer ihm vorgelegten Abgeschlossenheitsbescheinigung ohne besondere Umstände?",
+  "optionen": [
+   "Er muss sie auf ihre Richtigkeit untersuchen und Abweichungen protokollieren",
+   "Er muss sie nicht auf ihre Richtigkeit untersuchen",
+   "Er muss eine Bestätigung der Baubehörde über ihre Aktualität einholen",
+   "Er muss die Bauausführung vor Ort mit dem Plan abgleichen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Ohne besondere Umstände muss der Notar eine vorgelegte Abgeschlossenheitsbescheinigung nicht auf ihre Richtigkeit untersuchen. Eine Pflicht zur inhaltlichen Kontrolle oder gar zum Abgleich mit der Bauausführung besteht nicht; die Planprüfung vor der Beurkundung ist lediglich ein Service für die Beteiligten."
+ },
+ {
+  "id": "wohn1-005",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Abgeschlossenheitsbescheinigung: Voraussetzungen nach der AVA",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/abgeschlossenheitsbescheinigung-voraussetzungen-nach-der-ava",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 3 Abs. 3 WEG"
+  ],
+  "frage": "Wohnungseigentum ist im Grundbuch eingetragen, die Einheit ist aber gegenüber der Nachbarwohnung nicht abgeschlossen. Welche Rechtsfolge gilt?",
+  "optionen": [
+   "Das Sondereigentum ist nichtig; es besteht nur Miteigentum",
+   "Das Sondereigentum ist binnen eines Jahres anfechtbar",
+   "Das Sondereigentum ist entstanden und weder nichtig noch anfechtbar",
+   "Das Sondereigentum ist schwebend unwirksam bis zur Herstellung der Abgeschlossenheit"
+  ],
+  "antwort": 2,
+  "erklaerung": "Abgeschlossenheit ist nach § 3 Abs. 3 WEG nur ein Sollerfordernis. Fehlt sie bei eingetragenem Wohnungseigentum, ist dieses weder nichtig noch anfechtbar; Sondereigentum entsteht auch ohne Abgeschlossenheit zwischen Einheiten oder zum Gemeinschaftseigentum. Die Annahme der Nichtigkeit verkennt den Charakter als Sollvorschrift."
+ },
+ {
+  "id": "wohn1-006",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Abgeschlossenheitsbescheinigung: Voraussetzungen nach der AVA",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/abgeschlossenheitsbescheinigung-voraussetzungen-nach-der-ava",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Nach der neu gefassten AVA kann Wohnungseigentum auch an Räumen ohne eigenes WC begründet werden, wenn die Bewohner nur ein WC im Treppenhaus mitbenutzen dürfen.",
+  "antwort": true,
+  "erklaerung": "Anders als ihre Vorgängerin fordert die AVA keine Mindestausstattung mehr; ob die Pläne WC, Bad und Küche zeigen, ist unerheblich (KG). Nach der bisherigen Rechtslage war dies anders beurteilt worden, weshalb die frühere Rechtsprechung insoweit nicht mehr maßgeblich ist."
+ },
+ {
+  "id": "wohn1-007",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Abgeschlossenheitsbescheinigung: Voraussetzungen nach der AVA",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/abgeschlossenheitsbescheinigung-voraussetzungen-nach-der-ava",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 5 Abs. 1 AVA",
+   "§ 5 Abs. 2 AVA",
+   "§ 6 AVA",
+   "§ 7 Abs. 2 AVA"
+  ],
+  "frage": "Ordne die Vorschriften der AVA ihrem Regelungsinhalt zu.",
+  "paare": [
+   [
+    "§ 5 Abs. 1 AVA",
+    "Bauliche Trennung und eigener, abschließbarer Zugang der Einheit"
+   ],
+   [
+    "§ 5 Abs. 2 AVA",
+    "Zusätzliche Räume außerhalb des Wohnungsabschlusses können zur Wohnung gehören"
+   ],
+   [
+    "§ 6 AVA",
+    "Maßangaben müssen Größe und Lage von einer Grundstücks- oder Gebäudegrenze aus bestimmbar machen"
+   ],
+   [
+    "§ 7 Abs. 2 AVA",
+    "Eindeutige Bezeichnung jedes Stellplatzes bei Mehrfachparkern"
+   ]
+  ],
+  "erklaerung": "§ 5 Abs. 1 AVA definiert die Abgeschlossenheit (bauliche Trennung und Zugangserfordernis), § 5 Abs. 2 AVA lässt Nebenräume außerhalb des Wohnungsabschlusses zu. § 6 AVA regelt die Bestimmbarkeit von Stellplätzen und Freiflächen über Maßangaben, § 7 Abs. 2 AVA die Bezeichnung einzelner Plätze bei Mehrfachparkern, etwa als oberer oder unterer Platz einer Nummer."
+ },
+ {
+  "id": "wohn1-008",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Abgeschlossenheitsbescheinigung: Voraussetzungen nach der AVA",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/abgeschlossenheitsbescheinigung-voraussetzungen-nach-der-ava",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 5 Abs. 1 AVA"
+  ],
+  "frage": "Welcher Zugang erfüllt das Zugangserfordernis nach § 5 Abs. 1 AVA nicht?",
+  "optionen": [
+   "Eigener, abschließbarer Eingang direkt aus dem Treppenhaus",
+   "Eigener, abschließbarer Eingang aus einem Vorraum",
+   "Zugang ausschließlich durch die Nachbarwohnung, die im Sondereigentum eines Dritten steht",
+   "Zugang über ein Nachbargrundstück, der dinglich gesichert ist"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 5 Abs. 1 AVA muss ein eigener, abschließbarer Eingang direkt aus dem Freien, einem Treppenhaus oder einem Vorraum führen; der Zugang darf nicht durch anderes Sondereigentum führen. Ein Weg über ein Nachbargrundstück ist nur ausgeschlossen, wenn er nicht dinglich gesichert ist; die gesicherte Variante genügt daher."
+ },
+ {
+  "id": "wohn1-009",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Abgeschlossenheitsbescheinigung: Voraussetzungen nach der AVA",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/abgeschlossenheitsbescheinigung-voraussetzungen-nach-der-ava",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 3 Abs. 3 WEG"
+  ],
+  "frage": "Im Aufteilungsplan fehlen für einen Stellplatz die nach § 3 Abs. 3 WEG vorgesehenen Maßangaben; seine Lage lässt sich aber anhand des Maßstabs des Plans bestimmen. Welche Folge hat das für das eingetragene Sondereigentum?",
+  "optionen": [
+   "Das Sondereigentum am Stellplatz ist unwirksam",
+   "Das Sondereigentum ist wirksam begründet",
+   "Am Stellplatz entsteht automatisch ein Sondernutzungsrecht statt Sondereigentum",
+   "Das Sondereigentum entsteht erst mit Nachreichung einer vermaßten Zeichnung"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Maßangaben sind wie die Abgeschlossenheit nur ein Sollerfordernis des § 3 Abs. 3 WEG. Ein Verstoß macht die Begründung des Sondereigentums nicht unwirksam, solange sich die Lage anhand des Maßstabs des Aufteilungsplans bestimmen lässt. Unwirksamkeit wäre nur bei fehlender Bestimmbarkeit zu erwägen."
+ },
+ {
+  "id": "wohn1-010",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Aufteilungsplan und Abgeschlossenheitsbescheinigung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/aufteilungsplan-und-abgeschlossenheitsbescheinigung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [],
+  "frage": "Innerhalb welcher Grenzen entsteht Sondereigentum nach der Rechtsprechung des BGH?",
+  "optionen": [
+   "Innerhalb der Grenzen der tatsächlichen Bauausführung",
+   "Innerhalb der Grenzen, die der Aufteilungsplan zieht",
+   "Innerhalb der Grenzen, die die Baugenehmigung festlegt",
+   "Innerhalb der Grenzen der verbalen Beschreibung im Kaufvertrag"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Aufteilungsplan ist für die Teilung das maßgebliche Dokument; Sondereigentum entsteht nur innerhalb der Grenzen, die er zieht (BGH, V ZR 284/14). Die tatsächliche Bauausführung ist hierfür nicht entscheidend, weshalb abweichende Pläne ein typischer Fehler sind."
+ },
+ {
+  "id": "wohn1-011",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Aufteilungsplan und Abgeschlossenheitsbescheinigung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/aufteilungsplan-und-abgeschlossenheitsbescheinigung",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [],
+  "frage": "Der Aufteilungsplan wird vom Notar anhand der Angaben der Beteiligten erstellt und der Baubehörde zur Bescheinigung vorgelegt.",
+  "antwort": false,
+  "erklaerung": "Der Notar erstellt den Aufteilungsplan nicht; die Beteiligten müssen ihn beschaffen und vorlegen. Der Notar sollte aber auf brauchbare Pläne hinwirken und sie vor der Beurkundung durchsehen."
+ },
+ {
+  "id": "wohn1-012",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Aufteilungsplan und Abgeschlossenheitsbescheinigung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/aufteilungsplan-und-abgeschlossenheitsbescheinigung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [],
+  "frage": "Welche Unterlagen gehören zum Aufteilungsplan?",
+  "optionen": [
+   "Lageplan, Grundrisse aller Geschosse, Schnitte und Ansichten",
+   "Grundrisse der Wohngeschosse und die Baubeschreibung",
+   "Lageplan, Baugenehmigung und Wohnflächenberechnung",
+   "Grundrisse aller Geschosse und der Auszug aus dem Liegenschaftskataster"
+  ],
+  "antwort": 0,
+  "erklaerung": "Der Aufteilungsplan ist eine Zusammenstellung von Bauzeichnungen: Lageplan, Grundrisse aller Geschosse sowie Schnitte und Ansichten. Entscheidend ist, dass Lage und Größe der Räume im Sonder- und Gemeinschaftseigentum erkennbar sind; Baubeschreibung oder Wohnflächenberechnung sind keine Bestandteile."
+ },
+ {
+  "id": "wohn1-013",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Aufteilungsplan und Abgeschlossenheitsbescheinigung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/aufteilungsplan-und-abgeschlossenheitsbescheinigung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Worauf sollte der Notar bei der Durchsicht der Pläne vor Beurkundung einer Teilungserklärung besonders achten?",
+  "optionen": [
+   "Dass nur die Wohnräume nummeriert sind, Balkone und Außenflächen dagegen nicht",
+   "Dass jeder Raum, Balkon und jede Außenfläche die Nummer der zugehörigen Einheit trägt und Gemeinschaftseigentum erkennbar ist",
+   "Dass die Pläne mindestens im Format DIN A1 vorgelegt werden",
+   "Dass die Pläne die geplante, nicht die tatsächliche Bauausführung zeigen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Jeder Raum, jeder Balkon und jede Außenfläche muss die Nummer der Einheit tragen, zu der sie gehört, und Gemeinschaftseigentum muss als solches erkennbar sein. Zudem sollen die Zeichnungen das tatsächlich Gebaute abbilden, vollständig sein und DIN A3 nicht überschreiten. Mängel der Pläne führen zu Vollzugshindernissen beim Grundbuchamt."
+ }
+]

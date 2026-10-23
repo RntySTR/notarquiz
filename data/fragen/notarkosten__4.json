@@ -532,5 +532,230 @@
   ],
   "antwort": 0,
   "erklaerung": "Verauslagt der Notar fremde Kosten auf Rechnung und im Auftrag eines Beteiligten, liegen durchlaufende Posten vor (KV 32015 GNotKG), etwa Registrierungsgebühren beim ZVR oder ZTR. Sie gelten als Auslagen des Notars und sind von der Vollstreckbarkeit der Kostenberechnung (§ 89 GNotKG) umfasst. Mit der Gebühr abgegolten sind nur die laufenden Bürokosten, nicht besondere Aufwendungen des einzelnen Geschäfts."
+ },
+ {
+  "id": "kost4-024",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: unrichtige Sachbehandlung und kostengünstigster Weg",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-unrichtige-sachbehandlung-und-kostengunstigster-weg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 21 GNotKG"
+  ],
+  "frage": "Welcher Maßstab gilt für die Annahme einer unrichtigen Sachbehandlung nach § 21 GNotKG?",
+  "optionen": [
+   "Jede vom Kostenschuldner beanstandete Gestaltung, die teurer als nötig war",
+   "Ein schuldhafter Pflichtverstoß des Notars, gemindert um ein Mitverschulden der Beteiligten",
+   "Ein offenkundiger Verstoß gegen eindeutige Gesetzesnormen oder ein offensichtliches Versehen, unabhängig von Verschulden",
+   "Nur eine vorsätzliche Gebührenerhöhung durch den Notar"
+  ],
+  "antwort": 2,
+  "erklaerung": "§ 21 GNotKG verlangt einen offenkundigen Verstoß gegen eindeutige Normen oder ein offensichtliches Versehen; auf Verschulden des Notars kommt es nicht an, ein Mitverschulden der Beteiligten ist unerheblich. Die Vorschrift ist sparsam anzuwenden und kein Mittel, Beteiligten aus Kulanz entgegenzukommen, weil das der Erhebungspflicht widerspräche."
+ },
+ {
+  "id": "kost4-025",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: unrichtige Sachbehandlung und kostengünstigster Weg",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-unrichtige-sachbehandlung-und-kostengunstigster-weg",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 21 GNotKG",
+   "KV 21101 Nr. 2 GNotKG",
+   "§ 109 Abs. 1 GNotKG"
+  ],
+  "frage": "Die getrennte Beurkundung der Auflassung ist nach dem BGH stets unrichtige Sachbehandlung, weil die Mitbeurkundung im Kaufvertrag wegen Gegenstandsgleichheit kostengünstiger ist.",
+  "antwort": false,
+  "erklaerung": "Zwar ist die Mitbeurkundung wegen Gegenstandsgleichheit (§ 109 Abs. 1 GNotKG) regelmäßig günstiger, während die isolierte Auflassung eine 0,5-Gebühr nach KV 21101 Nr. 2 GNotKG auslöst. Nach dem BGH ist die getrennte Auflassung aber nicht ohne Weiteres unrichtige Sachbehandlung, weil sie ein höheres Sicherheitsniveau bietet; die Wege sind nicht gleichwertig, sodass der Kostengesichtspunkt zurücktritt."
+ },
+ {
+  "id": "kost4-026",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: unrichtige Sachbehandlung und kostengünstigster Weg",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-unrichtige-sachbehandlung-und-kostengunstigster-weg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 21 GNotKG"
+  ],
+  "frage": "Der Kaufvertrag beauftragt den Notar pauschal, „alle erforderlichen Genehmigungen und Negativzeugnisse“ einzuholen. Der Notar holt für einen offensichtlich genehmigungsfreien Vertrag ein Negativattest ein. Was gilt für die Vollzugsgebühr?",
+  "optionen": [
+   "Sie entsteht, weil ein ausdrücklicher Auftrag vorliegt.",
+   "Sie entsteht nur zur Hälfte, weil die Tätigkeit überflüssig war.",
+   "Sie entsteht, ist aber auf Antrag nach Billigkeit zu erlassen.",
+   "Sie entsteht nicht, weil objektiv unnötige Kosten auch durch einen Auftrag nicht gerechtfertigt werden."
+  ],
+  "antwort": 3,
+  "erklaerung": "Objektiv unnötige Kosten rechtfertigt auch ein ausdrücklicher Auftrag nicht; bei einem offensichtlich genehmigungsfreien Vertrag entsteht für das Negativattest keine Vollzugsgebühr (§ 21 GNotKG). Die pauschale Vollzugsklausel ändert daran nichts. Ein Erlass aus Billigkeit ist ohnehin kein zulässiges Instrument."
+ },
+ {
+  "id": "kost4-027",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: unrichtige Sachbehandlung und kostengünstigster Weg",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-unrichtige-sachbehandlung-und-kostengunstigster-weg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 21 GNotKG"
+  ],
+  "frage": "Wie sind die Kosten zu berechnen, wenn eine unrichtige Sachbehandlung vorliegt?",
+  "optionen": [
+   "Es werden nur die Kosten angesetzt, die bei richtigem Vorgehen angefallen wären.",
+   "Sämtliche Kosten des Vorgangs entfallen ersatzlos.",
+   "Die Kosten werden pauschal um die Hälfte gekürzt.",
+   "Es werden die entstandenen Kosten angesetzt; der Schuldner hat nur einen Schadensersatzanspruch."
+  ],
+  "antwort": 0,
+  "erklaerung": "Bei unrichtiger Sachbehandlung sind nach § 21 GNotKG nur die Kosten anzusetzen, die bei richtigem Vorgehen entstanden wären; Gebühren für dann nicht angefallene Erklärungen oder Tatbestände entfallen. Das bedeutet nicht zwingend Kostenfreiheit; pauschal auf Null zu setzen ist ein Fehler, im Einzelfall ist lediglich anders zu berechnen."
+ },
+ {
+  "id": "kost4-028",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: unrichtige Sachbehandlung und kostengünstigster Weg",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-unrichtige-sachbehandlung-und-kostengunstigster-weg",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 21 GNotKG",
+   "§ 54a Abs. 2 Nr. 1 BeurkG"
+  ],
+  "frage": "Ordne die Konstellation der kostenrechtlichen Bewertung nach der Seite zu.",
+  "paare": [
+   [
+    "Notaranderkonto ohne Sicherungsinteresse",
+    "Unrichtige Sachbehandlung"
+   ],
+   [
+    "Getrennte Auflassung zur Erhöhung der Sicherheit",
+    "Keine unrichtige Sachbehandlung ohne Weiteres"
+   ],
+   [
+    "Vollzugsentwurf einer Genehmigung bei ohnehin entstehender Vollzugsgebühr",
+    "Keine Mehrkosten, daher keine unrichtige Sachbehandlung"
+   ],
+   [
+    "Neubeurkundung bei anderem Notar ohne Gelegenheit zur Nachbesserung",
+    "Kosten grundsätzlich nicht als Schaden ersatzfähig"
+   ]
+  ],
+  "erklaerung": "Die Abwicklung über Anderkonto ohne Sicherungsinteresse nach § 54a Abs. 2 Nr. 1 BeurkG wurde als unrichtige Sachbehandlung gewertet. Die getrennte Auflassung ist wegen des Sicherheitsgewinns nicht gleichwertig und daher zulässig. Der Entwurf einer Vollzugsurkunde ist nach dem GNotKG mit der Vollzugsgebühr abgegolten, sodass keine Mehrkosten entstehen. Bei Fehlern des Notars kann der Schuldner kostenlose Nachbesserung verlangen; übergeht er den Urkundsnotar, sind die Kosten der Neubeurkundung grundsätzlich nicht ersatzfähig."
+ },
+ {
+  "id": "kost4-029",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: Wertgebühr, Gebührentatbestand und Gebührensatz",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-wertgebuhr-gebuhrentatbestand-und-gebuhrensatz",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "KV 25100 GNotKG",
+   "KV 21201 GNotKG",
+   "KV 21200 GNotKG",
+   "§ 19 Abs. 4 GNotKG"
+  ],
+  "frage": "Teilungserklärung nach § 8 WEG",
+  "sachverhalt": "Bauträger B-GmbH will ihr Grundstück nach § 8 WEG aufteilen. Zunächst legt sie Notar N eine von ihrem Anwalt entworfene Teilungserklärung ohne Gemeinschaftsordnung vor. Nach Überarbeitung soll N die Teilungserklärung nun selbst mit einer Gemeinschaftsordnung errichten; die B-GmbH wünscht dafür eine Niederschrift, obwohl eine Beurkundung nicht vorgeschrieben ist.",
+  "schritte": [
+   {
+    "frage": "Welche Gebühr entsteht, wenn N nur die Unterschrift unter den Anwaltsentwurf beglaubigt?",
+    "optionen": [
+     "0,5-Gebühr nach KV 21201 GNotKG",
+     "Ausschließlich die Beglaubigungsgebühr mit 0,2 nach KV 25100 GNotKG",
+     "0,5-Gebühr nach KV 24102 GNotKG",
+     "1,0-Gebühr nach KV 21200 GNotKG"
+    ],
+    "antwort": 1,
+    "erklaerung": "Beglaubigt der Notar nur die Unterschrift unter einem fremden Entwurf, entsteht ausschließlich die Beglaubigungsgebühr mit 0,2 (KV 25100 GNotKG). Entwurfs- oder Beurkundungstatbestände setzen eine entsprechende Tätigkeit des Notars voraus; die Form bestimmt den Tatbestand."
+   },
+   {
+    "frage": "Aus welchem Hauptabschnitt ist der Tatbestand zu entnehmen, wenn N die Teilungserklärung als Niederschrift beurkundet?",
+    "optionen": [
+     "KV 24xxx GNotKG, weil eine Beurkundung nicht vorgeschrieben war",
+     "KV 25xxx GNotKG als sonstiges Geschäft",
+     "KV 21xxx GNotKG, weil allein die gewählte Form maßgeblich ist",
+     "KV 23xxx GNotKG als sonstiges notarielles Verfahren"
+    ],
+    "antwort": 2,
+    "erklaerung": "Welche Gebührengruppe gilt, hängt allein von der gewählten Form ab; ob die Form erforderlich war, spielt keine Rolle. Bei einer Niederschrift nach §§ 8 ff. BeurkG gelten stets KV 21xxx GNotKG (§ 85 Abs. 2 GNotKG). Eine Kostenberechnung mit einem Tatbestand aus KV 24xxx wäre unwirksam (§ 19 Abs. 2 Nr. 2, Abs. 4 GNotKG)."
+   },
+   {
+    "frage": "Welcher Gebührensatz gilt für die beurkundete Teilungserklärung mit Gemeinschaftsordnung?",
+    "optionen": [
+     "0,5 nach KV 21201 GNotKG",
+     "2,0 nach KV 21100 GNotKG",
+     "0,2 nach KV 25100 GNotKG",
+     "1,0 nach KV 21200 GNotKG als einseitige Erklärung"
+    ],
+    "antwort": 3,
+    "erklaerung": "Enthält die Teilungserklärung zusätzlich eine Gemeinschaftsordnung, liegt eine einseitige Erklärung mit 1,0 vor (KV 21200 GNotKG). Der ermäßigte Satz von 0,5 nach KV 21201 GNotKG gilt nur, wenn sich die Erklärung auf die für das Grundbuch nötigen Angaben nach § 8 Abs. 1 WEG beschränkt. 2,0 setzt einen Vertrag oder Beschluss voraus."
+   }
+  ],
+  "erklaerung": "Für die bloße Beglaubigung unter einem Fremdentwurf fällt nur die 0,2-Gebühr nach KV 25100 GNotKG an. Für die Niederschrift ist der Tatbestand wegen der gewählten Form KV 21xxx GNotKG zu entnehmen; mit Gemeinschaftsordnung beträgt der Satz 1,0 nach KV 21200 GNotKG."
+ },
+ {
+  "id": "kost4-030",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: Wertgebühr, Gebührentatbestand und Gebührensatz",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-wertgebuhr-gebuhrentatbestand-und-gebuhrensatz",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "KV 21100 GNotKG",
+   "KV 21200 GNotKG"
+  ],
+  "frage": "Welchen Gebührensatz lösen Verträge und Beschlüsse bei Beurkundung grundsätzlich aus?",
+  "optionen": [
+   "0,5",
+   "1,0",
+   "2,0",
+   "3,0"
+  ],
+  "antwort": 2,
+  "erklaerung": "Verträge und Beschlüsse als mehrseitige Erklärungen lösen grundsätzlich eine 2,0-Gebühr aus (KV 21100 GNotKG). Einseitige Erklärungen wie Testamente sowie Tatsachen und Vorgänge lösen nur 1,0 aus (KV 21200 GNotKG); 0,5 gilt für ermäßigte Fälle wie Folgeerklärungen."
+ },
+ {
+  "id": "kost4-031",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: Wertgebühr, Gebührentatbestand und Gebührensatz",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-wertgebuhr-gebuhrentatbestand-und-gebuhrensatz",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 34 GNotKG"
+  ],
+  "frage": "Der im Einzelfall tatsächlich angefallene Arbeitsaufwand des Notariats kann eine Erhöhung des Gebührensatzes rechtfertigen.",
+  "antwort": false,
+  "erklaerung": "Die Notargebühr ist eine Wertgebühr nach degressiver Tabelle und richtet sich nach dem Wert des geregelten Rechtsverhältnisses, nicht nach dem Arbeitsaufwand. Der typische Aufwand wird abstrakt über den Gebührensatz berücksichtigt; der tatsächliche Aufwand im Einzelfall ist unerheblich."
+ },
+ {
+  "id": "kost4-032",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: Wertgebühr, Gebührentatbestand und Gebührensatz",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-wertgebuhr-gebuhrentatbestand-und-gebuhrensatz",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 24101 GNotKG",
+   "KV 21200 GNotKG"
+  ],
+  "frage": "Der Notar fertigt den Entwurf einer einseitigen Erklärung vollständig und beglaubigt anschließend die Unterschrift. Wie verhält sich die Entwurfsgebühr zur Beurkundungsgebühr desselben Inhalts?",
+  "optionen": [
+   "Anderer Tatbestand aus KV 24xxx GNotKG, aber derselbe Gebührensatz wie bei Beurkundung",
+   "Derselbe Tatbestand aus KV 21xxx GNotKG und derselbe Satz",
+   "Anderer Tatbestand und stets der halbe Satz der Beurkundung",
+   "Es entsteht nur die Beglaubigungsgebühr nach KV 25100 GNotKG"
+  ],
+  "antwort": 0,
+  "erklaerung": "Beim Entwurf mit Unterschriftsbeglaubigung fällt eine Gebühr aus KV 24xxx GNotKG an. Fertigt der Notar den Entwurf vollständig, entspricht der Satz dem einer Beurkundung desselben Inhalts, da KV 24xxx auf KV 21xxx verweist; der Tatbestand ist ein anderer, der Satz derselbe. Die bloße Beglaubigungsgebühr gilt nur bei fremdem Entwurf."
  }
 ]

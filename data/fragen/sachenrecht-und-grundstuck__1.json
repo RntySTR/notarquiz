@@ -1142,5 +1142,212 @@
    ]
   ],
   "erklaerung": "Wohnungs- und Teileigentum (§ 7 WEG) und Erbbaurecht (§ 11 ErbbauRG) werden wie Grundstücke behandelt und können Gegenstand eines Kauf- oder Übergabevertrags sein. Regional kommen Bergwerkseigentum (§ 9 BBergG), Gebäudeeigentum in den neuen Ländern und im früheren Ost-Berlin (Art. 231 § 5 EGBGB) und echtes Stockwerkseigentum (Art. 182 EGBGB) hinzu."
+ },
+ {
+  "id": "sach1-048",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Grundstück: vermessene und unvermessene Teilflächen",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/grundstuck-vermessene-und-unvermessene-teilflachen",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 9 Abs. 1 S. 2 BeurkG"
+  ],
+  "frage": "Wie wird eine noch nicht vermessene Teilfläche im Kaufvertrag am besten bezeichnet, um dem Bestimmtheitsgrundsatz zu genügen?",
+  "optionen": [
+   "Durch Angabe der ungefähren Quadratmeterzahl",
+   "Durch verbale Beschreibung der Lage (z. B. „nördlicher Teil“)",
+   "Durch eine maßstäbliche Skizze als Anlage zur Niederschrift",
+   "Durch Verweis auf eine spätere Bestimmung durch den Vermesser"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Fläche muss so beschrieben sein, dass auch Außenstehende Lage und Grenzen sicher erkennen können; am besten geeignet ist eine maßstäbliche Skizze als Anlage zur Niederschrift (§ 9 Abs. 1 S. 2 BeurkG). Eine nur verbale Beschreibung ist ein typischer Fehler, weil Dritte die Grenzen dann nicht feststellen können."
+ },
+ {
+  "id": "sach1-049",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Grundstück: vermessene und unvermessene Teilflächen",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/grundstuck-vermessene-und-unvermessene-teilflachen",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 29 GBO"
+  ],
+  "frage": "Soll von einem aus mehreren Flurstücken bestehenden Grundstück nur ein Flurstück verkauft werden, ist vor der Teilung stets eine erneute Vermessung erforderlich.",
+  "antwort": false,
+  "erklaerung": "Bei einer bereits vermessenen Teilfläche entfällt die Vermessung, weil die Flurstücke bereits vermessen sind. Erforderlich ist die Teilung des Grundstücks, insbesondere ein Antrag des Eigentümers in der Form des § 29 GBO; sie kann zuvor oder als erster Abschnitt der Kaufurkunde erfolgen."
+ },
+ {
+  "id": "sach1-050",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Grundstück: vermessene und unvermessene Teilflächen",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/grundstuck-vermessene-und-unvermessene-teilflachen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 9 Abs. 1 S. 2 BeurkG",
+   "§ 29 GBO"
+  ],
+  "frage": "Was folgt beim Verkauf einer unvermessenen Teilfläche nach Vermessung und Erstellung des Fortführungsnachweises?",
+  "optionen": [
+   "Die Eigentumsumschreibung ohne weitere Erklärungen auf Grundlage des Kaufvertrags",
+   "Eine weitere Urkunde mit Messanerkennung und Identitätserklärung sowie Erklärung oder vorsorglicher Wiederholung der Auflassung",
+   "Die Neubeurkundung des gesamten Kaufvertrags",
+   "Eine Genehmigung des Vermessungsamts zur Abschreibung"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach Vermessung und Fortführungsnachweis folgen in einer weiteren Urkunde Messanerkennung und Identitätserklärung, gegebenenfalls als Eigenurkunde des Notars; zugleich wird die Auflassung erklärt oder vorsorglich wiederholt. Eine vollständige Neubeurkundung ist nicht erforderlich, die mehreren Urkunden verursachen aber Mehrkosten."
+ },
+ {
+  "id": "sach1-051",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Grundstück: vermessene und unvermessene Teilflächen",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/grundstuck-vermessene-und-unvermessene-teilflachen",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 9 Abs. 1 S. 2 BeurkG"
+  ],
+  "frage": "Der Kaufvertrag über eine unvermessene Teilfläche sollte regeln, ob bei Mehr- oder Minderfläche nach Vermessung eine Ausgleichszahlung erfolgt oder der Vertrag aufgehoben werden kann.",
+  "antwort": true,
+  "erklaerung": "Weil die tatsächliche Größe erst nach der Vermessung feststeht, sollte der Vertrag regeln, was bei größerer oder kleinerer Fläche gilt: Ausgleichszahlung oder Aufhebung des Vertrags. Die Bestimmtheit der Fläche selbst wird dagegen über die maßstäbliche Skizze (§ 9 Abs. 1 S. 2 BeurkG) gesichert."
+ },
+ {
+  "id": "sach1-052",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Grundstücksgrenzen: Grenzabmarkung, Grenzverwirrung und Grenzfeststellungsvertrag",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/grundstucksgrenzen-grenzabmarkung-grenzverwirrung-und-grenzfeststellungsvertrag",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 311b BGB"
+  ],
+  "frage": "Zwei Nachbarn wollen den Verlauf einer unklaren Grenze vertraglich feststellen, ohne Eigentum zu verschieben. Welche Form gilt für den Grenzfeststellungsvertrag?",
+  "optionen": [
+   "Notarielle Beurkundung nach § 311b BGB",
+   "Öffentliche Beglaubigung der Unterschriften",
+   "Er ist formlos gültig",
+   "Schriftform mit Zustimmung des Vermessungsamts"
+  ],
+  "antwort": 2,
+  "erklaerung": "Ohne Eigentumswechsel ist der Grenzfeststellungsvertrag formlos gültig und bedarf nicht der Form des § 311b BGB. Weicht die festgelegte Grenze dagegen von der bisherigen ab und wird damit Eigentum verschoben, ist § 311b BGB einzuhalten und eine Auflassung erforderlich – das ist die naheliegende Verwechslung."
+ },
+ {
+  "id": "sach1-053",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Grundstücksgrenzen: Grenzabmarkung, Grenzverwirrung und Grenzfeststellungsvertrag",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/grundstucksgrenzen-grenzabmarkung-grenzverwirrung-und-grenzfeststellungsvertrag",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 919 BGB",
+   "§ 920 BGB",
+   "§ 894 ZPO",
+   "§ 22 GBO"
+  ],
+  "frage": "Ordne die Normen ihrem Regelungsgegenstand im Grenzrecht zu.",
+  "paare": [
+   [
+    "§ 919 BGB",
+    "Mitwirkung des Nachbarn an der Erneuerung eines festen Grenzzeichens"
+   ],
+   [
+    "§ 920 BGB",
+    "Grenzscheidung, wenn sich die richtige Grenze nicht mehr ermitteln lässt"
+   ],
+   [
+    "§ 894 ZPO",
+    "Vollstreckung des Urteils auf Mitwirkung an der Abmarkung"
+   ],
+   [
+    "§ 22 GBO",
+    "Eintragung aufgrund des grenzgestaltenden Urteils ohne Auflassung und Berichtigungsbewilligung"
+   ]
+  ],
+  "erklaerung": "§ 919 BGB gewährt einen Anspruch auf Mitwirkung an der Abmarkung, durchgesetzt durch Klage und Vollstreckung nach § 894 ZPO. Bei Grenzverwirrung hilft die Grenzscheidungsklage (§ 920 BGB); das Urteil gestaltet die Grenze, belegt die Unrichtigkeit des Grundbuchs und ermöglicht die Eintragung nach § 22 GBO."
+ },
+ {
+  "id": "sach1-054",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Grundstücksgrenzen: Grenzabmarkung, Grenzverwirrung und Grenzfeststellungsvertrag",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/grundstucksgrenzen-grenzabmarkung-grenzverwirrung-und-grenzfeststellungsvertrag",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 311b BGB"
+  ],
+  "frage": "Eine vereinbarte Grenzregelung mit Eigentumswechsel ändert die Größe beider Flurstücke. Welche Schritte sind in Kataster und Grundbuch erforderlich?",
+  "optionen": [
+   "Nur ein Vermerk auf der Rückseite des Bestandsverzeichnisses",
+   "Im Kataster Zerlegung und anschließende Verschmelzung; sachenrechtlich Teilungen sowie Vereinigungen oder Zuschreibungen",
+   "Allein die Eintragung eines Widerspruchs bis zur Neuvermessung",
+   "Im Kataster nur Verschmelzung; im Grundbuch ist keine Eintragung erforderlich"
+  ],
+  "antwort": 1,
+  "erklaerung": "Ändert sich die Flurstücksgröße, muss das Kataster die Flurstücke zuerst zerlegen und die Teilflurstücke dann verschmelzen; sachenrechtlich sind entsprechend Teilungen sowie Vereinigungen oder Zuschreibungen vorzunehmen, deren Anträge in die Urkunde gehören. Der bloße Vermerk auf der Rückseite des Bestandsverzeichnisses betrifft nur Grenzänderungen ohne Größenänderung."
+ },
+ {
+  "id": "sach1-055",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Liegenschaftskataster: Flurkarte in der Vertragsvorbereitung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/liegenschaftskataster-flurkarte-in-der-vertragsvorbereitung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 917 BGB"
+  ],
+  "frage": "Das verkaufte Grundstück grenzt nicht an eine öffentliche Verkehrsfläche; eine Dienstbarkeit besteht nicht und wird nicht bestellt. Welche Rechtsfolge ergibt sich für den Käufer?",
+  "optionen": [
+   "Er hat keinerlei Zugangsrecht, bis eine Dienstbarkeit bestellt ist",
+   "Ihm steht ein unentgeltliches Notwegrecht zu",
+   "Ihm steht ein Notwegrecht zu, das jedoch entgeltlich ist",
+   "Die Gemeinde muss eine öffentliche Zuwegung herstellen"
+  ],
+  "antwort": 2,
+  "erklaerung": "Ohne Dienstbarkeit steht dem Käufer jedenfalls ein Notwegrecht nach § 917 BGB zu, entsprechend ein Notleitungsrecht; das Notwegrecht ist allerdings entgeltlich (§ 917 Abs. 2 BGB). Vorzugswürdig ist die Neubestellung einer Dienstbarkeit unter Mitwirkung des Nachbarn; in der Urkunde ist auf Notweg und Entgeltlichkeit hinzuweisen."
+ },
+ {
+  "id": "sach1-056",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Liegenschaftskataster: Flurkarte in der Vertragsvorbereitung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/liegenschaftskataster-flurkarte-in-der-vertragsvorbereitung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 917 BGB"
+  ],
+  "frage": "Fehlt im Bestandsverzeichnis des herrschenden Grundstücks ein Herrschvermerk, steht fest, dass keine Grunddienstbarkeit zu seinen Gunsten besteht.",
+  "antwort": false,
+  "erklaerung": "Der Herrschvermerk ist nicht vorgeschrieben; zwingend ist nur die Eintragung in Abteilung II des dienenden Grundstücks. Fehlt er, sind die Grundbücher der in Betracht kommenden dienenden Grundstücke abzurufen. Erst wenn keine Sicherung besteht, bleibt ohne Neubestellung nur das entgeltliche Notwegrecht (§ 917 BGB)."
+ },
+ {
+  "id": "sach1-057",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Liegenschaftskataster: Flurkarte in der Vertragsvorbereitung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/liegenschaftskataster-flurkarte-in-der-vertragsvorbereitung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 2 Abs. 2 GBO"
+  ],
+  "frage": "Welchen typischen Fehler hilft die Auswertung der Flurkarte bei der Vertragsvorbereitung zu vermeiden?",
+  "optionen": [
+   "Fehlende Belehrung über die Grunderwerbsteuer",
+   "Nichtmitverkauf einer auf eigenem Grundbuchblatt gebuchten Garage oder eines Wegeanteils",
+   "Fehlende Angabe des Geburtsdatums der Beteiligten",
+   "Unrichtige Angabe der Eigentümer in Abteilung I"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Flurkarte zeigt, ob nahe Stellplatz-, Garagen- oder Wegegrundstücke auf eigenen Blättern gebucht sind und mitverkauft werden müssen; den Beteiligten ist oft nicht klar, dass es sich um getrennte Grundstücke handelt. Das Grundbuch bezeichnet die Grundstücke nach dem Liegenschaftskataster (§ 2 Abs. 2 GBO). Die Eigentümer ergeben sich dagegen aus dem Grundbuch, nicht aus der Flurkarte."
  }
 ]

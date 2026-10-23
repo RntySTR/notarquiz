@@ -13,10 +13,10 @@
   ],
   "frage": "Ein Mann hat die Vaterschaft für ein Kind wirksam anerkannt. Der genetische Erzeuger beantragt beim Familiengericht die Feststellung seiner Vaterschaft nach § 1600d BGB. Wie ist der Antrag zu beurteilen?",
   "optionen": [
-   "Zulässig, weil der genetische Erzeuger stets antragsberechtigt ist",
+   "Unzulässig, weil nur Mutter und Kind antragsberechtigt sind",
    "Unzulässig, weil die gerichtliche Feststellung nachrangig ist und nur bei fehlender Vaterschaft nach § 1592 Nr. 1 und 2, § 1593 BGB in Betracht kommt",
-   "Zulässig, weil die Anerkennung mit Antragstellung automatisch erlischt",
-   "Unzulässig, weil nur Mutter und Kind antragsberechtigt sind"
+   "Zulässig, weil der genetische Erzeuger stets antragsberechtigt ist",
+   "Zulässig, weil die Anerkennung mit Antragstellung automatisch erlischt"
   ],
   "antwort": 1,
   "erklaerung": "Die gerichtliche Feststellung ist subsidiär: Sie kommt nur in Betracht, wenn keine Vaterschaft nach § 1592 Nr. 1 und 2 BGB, § 1593 BGB besteht. Solange die Anerkennung eines anderen Mannes besteht, ist die Feststellung unzulässig; der leibliche Vater muss stattdessen die bestehende Vaterschaft anfechten (§§ 1600 ff. BGB), wobei der stattgebende Beschluss zugleich seine Vaterschaft feststellt (§ 182 Abs. 1 FamFG). Die Antragsberechtigung des Erzeugers (neben Mutter und Kind) besteht zwar, hilft aber nicht über den Vorrang der bestehenden Vaterschaft hinweg.",
@@ -34,10 +34,10 @@
   ],
   "frage": "Ehegatten M und F lassen mit beiderseitiger Einwilligung eine künstliche Befruchtung mit dem Samen eines Dritten durchführen. Kann M die Vaterschaft für das in der Ehe geborene Kind später anfechten?",
   "optionen": [
+   "Nein, weil die Vaterschaft bei künstlicher Befruchtung stets gerichtlich festgestellt wird",
    "Ja, innerhalb der allgemeinen Anfechtungsfrist der §§ 1600 ff. BGB",
-   "Ja, aber nur gemeinsam mit der Mutter",
    "Nein, die Anfechtung durch M ist nach § 1600 Abs. 6 S. 1 BGB ausgeschlossen",
-   "Nein, weil die Vaterschaft bei künstlicher Befruchtung stets gerichtlich festgestellt wird"
+   "Ja, aber nur gemeinsam mit der Mutter"
   ],
   "antwort": 2,
   "erklaerung": "Ist das Kind mit Einwilligung des Mannes und der Mutter durch künstliche Befruchtung mittels Samenspende eines Dritten gezeugt worden, ist die Anfechtung durch den Mann ausgeschlossen (§ 1600 Abs. 6 S. 1 BGB). Die allgemeine Anfechtbarkeit der Vaterschaft kraft Ehe greift hier also nicht. Falsch ist auch die Annahme einer gerichtlichen Feststellung: M ist als Ehemann nach § 1592 Nr. 1 BGB Vater; deshalb empfiehlt die Praxis, die Ehegatten über den Anfechtungsausschluss zu belehren und dies notariell zu dokumentieren.",
@@ -107,12 +107,12 @@
   ],
   "frage": "Eine Frau trägt ein Kind aus, das aus der Eizelle einer anderen Frau stammt (Leihmutterschaft). Wer ist rechtlich Mutter des Kindes?",
   "optionen": [
-   "Die genetische Mutter, von der die Eizelle stammt",
-   "Die gebärende Frau, weil allein die Geburt maßgeblich ist (§ 1591 BGB)",
+   "Die Frau, die das Kind nach der Geburt in ihren Haushalt aufnimmt",
    "Beide Frauen gemeinsam bis zur gerichtlichen Klärung",
-   "Die Frau, die das Kind nach der Geburt in ihren Haushalt aufnimmt"
+   "Die gebärende Frau, weil allein die Geburt maßgeblich ist (§ 1591 BGB)",
+   "Die genetische Mutter, von der die Eizelle stammt"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Mutter ist die Frau, die das Kind geboren hat (§ 1591 BGB); rechtlich zählt allein die Geburt. Die genetische Herkunft der Eizelle ist unerheblich, sodass die Eizellspenderin nicht Mutter im Rechtssinn ist. Eine Anfechtung der Mutterschaft ist nicht vorgesehen; die Regeln zur Vaterschaftsanfechtung sind auf die Mutterschaft nicht entsprechend anwendbar.",
   "id": "fami1-005"
  },
@@ -132,11 +132,11 @@
   "frage": "Ehemann E stirbt am 1. Februar. Die Witwe W heiratet am 1. Juli den N; am 1. Oktober desselben Jahres wird das Kind K geboren. Wer ist Vater von K?",
   "optionen": [
    "Der verstorbene E, weil K binnen 300 Tagen nach seinem Tod geboren wurde (§ 1593 S. 1 BGB)",
-   "N, weil das Gesetz den Konflikt zugunsten des neuen, lebenden Ehemanns löst (§ 1593 S. 3 BGB)",
    "Niemand kraft Gesetzes; die Vaterschaft muss gerichtlich festgestellt werden",
+   "N, weil das Gesetz den Konflikt zugunsten des neuen, lebenden Ehemanns löst (§ 1593 S. 3 BGB)",
    "E und N gemeinsam, bis einer die Vaterschaft anficht"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "K wird binnen 300 Tagen nach dem Tod des E geboren, sodass an sich E nach § 1593 S. 1 BGB Vater wäre; zugleich besteht bei der Geburt die Ehe mit N (§ 1592 Nr. 1 BGB). Diesen Konflikt löst § 1593 S. 3 BGB zugunsten des neuen, lebenden Ehemanns N. Erst wenn N die Vaterschaft erfolgreich anficht, ist E Vater (§ 1593 S. 4 BGB); eine Doppelvaterschaft oder eine zwingende gerichtliche Feststellung sieht das Gesetz nicht vor.",
   "id": "fami1-006"
  },
@@ -145,15 +145,21 @@
   "abschnitt": "Abstammung und elterliche Sorge",
   "seite": "Abstammung: Mutterschaft und Vaterschaft kraft Ehe",
   "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/abstammung-mutterschaft-und-vaterschaft-kraft-ehe",
-  "typ": "rf",
-  "schwierigkeit": 2,
+  "typ": "mc",
+  "schwierigkeit": 1,
   "normen": [
    "§ 1592 Nr. 1 BGB"
   ],
-  "frage": "Wird ein Kind nach rechtskräftiger Scheidung, aber innerhalb von 300 Tagen nach der Scheidung geboren, ist der frühere Ehemann kraft Ehe Vater.",
-  "antwort": false,
+  "frage": "Das Kind K wird drei Monate nach rechtskräftiger Scheidung der Ehe von M und E geboren. Wer ist kraft Gesetzes Vater?",
+  "antwort": 2,
   "erklaerung": "Vater kraft Ehe ist der Ehemann nur, wenn die Ehe bei der Geburt besteht (§ 1592 Nr. 1 BGB). Wird das Kind erst nach rechtskräftiger Scheidung geboren, entsteht keine Vaterschaft des früheren Ehemanns. Die 300-Tage-Frist des § 1593 S. 1 BGB gilt nur für die Geburt nach dem Tod des Ehemanns, nicht nach Scheidung.",
-  "id": "fami1-007"
+  "id": "fami1-007",
+  "optionen": [
+   "E, sofern die Empfängnis während der Ehe stattfand",
+   "E, bis M einen anderen Mann als Vater benennt",
+   "Niemand kraft Ehe; E ist nicht Vater, weil die Ehe bei der Geburt nicht mehr bestand (§ 1592 Nr. 1 BGB)",
+   "E, weil K binnen 300 Tagen nach Auflösung der Ehe geboren wurde"
+  ]
  },
  {
   "kapitel": "familienrecht",
@@ -183,12 +189,12 @@
   ],
   "frage": "Welche Form verlangt das Gesetz für die Vaterschaftsanerkennung und die Zustimmungen von Mutter und Kind?",
   "optionen": [
-   "Schriftform mit beglaubigter Unterschrift",
    "Öffentliche Beurkundung (§ 1597 BGB)",
+   "Schriftform mit beglaubigter Unterschrift",
    "Erklärung zur Niederschrift des Familiengerichts",
    "Formfreie Erklärung gegenüber dem Standesamt"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Die Vaterschaftsanerkennung und die erforderlichen Zustimmungen müssen öffentlich beurkundet werden (§ 1597 BGB); ohne diese Form wird die Anerkennung nicht wirksam. Eine bloße Unterschriftsbeglaubigung genügt nicht. Anerkennung und Zustimmungen können dabei zu unterschiedlichen Zeitpunkten und vor unterschiedlichen Urkundspersonen erklärt werden; das Standesamt erhält anschließend beglaubigte Abschriften (§ 44 Abs. 3 PStG).",
   "id": "fami1-009"
  },
@@ -205,12 +211,12 @@
   ],
   "frage": "Die verheiratete M bringt ein Kind zur Welt; der Ehemann E ist kraft Ehe Vater. Der Lebensgefährte L erkennt die Vaterschaft beim Notar an, M stimmt zu. Welche Rechtslage besteht?",
   "optionen": [
-   "Die Anerkennung ist wirksam und verdrängt die Vaterschaft des E",
-   "Die Anerkennung ist nichtig; sie muss nach erfolgreicher Anfechtung neu beurkundet werden",
+   "Die Anerkennung ist wirksam, aber nur gegenüber M und L, nicht gegenüber E",
    "Die Anerkennung ist schwebend unwirksam und wird wirksam, sobald die Vaterschaft des E durch Anfechtung entfallen ist (§ 1594 Abs. 2 BGB)",
-   "Die Anerkennung ist wirksam, aber nur gegenüber M und L, nicht gegenüber E"
+   "Die Anerkennung ist wirksam und verdrängt die Vaterschaft des E",
+   "Die Anerkennung ist nichtig; sie muss nach erfolgreicher Anfechtung neu beurkundet werden"
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "Solange ein anderer Mann rechtlich Vater ist, ist die Anerkennung schwebend unwirksam (§ 1594 Abs. 2 BGB); sie wird wirksam, sobald die Vaterschaft des anderen Mannes durch erfolgreiche Anfechtung entfallen ist. Sie ist also weder nichtig noch verdrängt sie die Vaterschaft des E. Der Notar muss auf die schwebende Unwirksamkeit hinweisen; dies zu unterlassen ist ein typischer Fehler. Eine wirksame Anerkennung wirkt im Übrigen für und gegen jedermann, nicht nur relativ.",
   "id": "fami1-010"
  },
@@ -219,16 +225,22 @@
   "abschnitt": "Abstammung und elterliche Sorge",
   "seite": "Abstammung: Vaterschaftsanerkennung",
   "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/abstammung-vaterschaftsanerkennung",
-  "typ": "rf",
-  "schwierigkeit": 2,
+  "typ": "mc",
+  "schwierigkeit": 1,
   "normen": [
    "§ 1595 Abs. 1 BGB",
    "§ 1595 Abs. 2 BGB"
   ],
-  "frage": "Die Vaterschaftsanerkennung wird bereits mit der Zustimmung der Mutter wirksam; einer Zustimmung des Kindes bedarf es nicht.",
-  "antwort": false,
+  "frage": "Wessen Zustimmung bedarf die Vaterschaftsanerkennung?",
+  "antwort": 1,
   "erklaerung": "Die Anerkennung braucht sowohl die Zustimmung der Mutter (§ 1595 Abs. 1 BGB) als auch die Zustimmung des Kindes (§ 1595 Abs. 2 BGB). Ohne alle Zustimmungen wird die Anerkennung nicht wirksam; der Notar hat deshalb zu prüfen, ob die Zustimmungen bereits vorliegen oder gesondert beurkundet werden müssen. Fehlt der Mutter die Geschäftsfähigkeit, gilt § 1596 BGB.",
-  "id": "fami1-011"
+  "id": "fami1-011",
+  "optionen": [
+   "Der Zustimmung des Standesamts und der Mutter",
+   "Der Zustimmung der Mutter (§ 1595 Abs. 1 BGB) und des Kindes (§ 1595 Abs. 2 BGB)",
+   "Nur der Zustimmung der Mutter",
+   "Nur der Zustimmung des Kindes"
+  ]
  },
  {
   "kapitel": "familienrecht",
@@ -243,10 +255,10 @@
   ],
   "frage": "Welche Aussage zur Rechtsnatur und Wirkung der Vaterschaftsanerkennung trifft zu?",
   "optionen": [
-   "Sie ist eine empfangsbedürftige Willenserklärung, die der Mutter zugehen muss",
-   "Sie ist eine einseitige, nicht empfangsbedürftige Willenserklärung, deren Rechtswirkungen grundsätzlich erst ab Wirksamwerden geltend gemacht werden können",
    "Sie ist ein Vertrag zwischen Vater und Mutter mit Wirkung nur unter den Beteiligten",
-   "Sie wirkt ausschließlich für die Zukunft ab dem Tag der Beurkundung"
+   "Sie ist eine einseitige, nicht empfangsbedürftige Willenserklärung, deren Rechtswirkungen grundsätzlich erst ab Wirksamwerden geltend gemacht werden können",
+   "Sie wirkt ausschließlich für die Zukunft ab dem Tag der Beurkundung",
+   "Sie ist eine empfangsbedürftige Willenserklärung, die der Mutter zugehen muss"
   ],
   "antwort": 1,
   "erklaerung": "Die Vaterschaftsanerkennung ist eine einseitige, nicht empfangsbedürftige Willenserklärung mit absoluter Wirkung für und gegen jedermann. Sie wirkt zurück (§ 1594 Abs. 1 BGB), ihre Rechtswirkungen können aber grundsätzlich erst ab dem Zeitpunkt geltend gemacht werden, in dem sie wirksam wird, was unter anderem die Form des § 1597 BGB voraussetzt. Ein Vertrag ist sie nicht; die Zustimmungen von Mutter und Kind sind gesonderte Erklärungen.",
@@ -267,9 +279,9 @@
   "frage": "Welche Teilbereiche umfasst die elterliche Sorge nach dem Gesetz?",
   "optionen": [
    "Personensorge und Vermögenssorge (§ 1626 BGB), ergänzt um die Vertretung des Kindes (§ 1629 BGB)",
-   "Nur die Personensorge; die Vermögenssorge obliegt stets einem Pfleger",
    "Vermögenssorge und Vertretung; die Personensorge ist familiengerichtlich zu übertragen",
-   "Personensorge, Vermögenssorge und Erbrechtsvorsorge für das Kind"
+   "Personensorge, Vermögenssorge und Erbrechtsvorsorge für das Kind",
+   "Nur die Personensorge; die Vermögenssorge obliegt stets einem Pfleger"
   ],
   "antwort": 0,
   "erklaerung": "§ 1626 BGB unterscheidet die Personensorge (persönliche Angelegenheiten, insbesondere Pflege und Erziehung) und die Vermögenssorge; hinzu kommt die Vertretung des Kindes nach § 1629 BGB. Ein Pfleger übernimmt die Vermögenssorge nur ausnahmsweise, etwa bei Ausschluss durch einen Erblasser oder Zuwendenden nach § 1638 BGB. Eltern haften dem Kind aus der Sorgeausübung nur für die eigenübliche Sorgfalt (§ 1664 BGB).",
@@ -288,12 +300,12 @@
   ],
   "frage": "Die Großmutter G will ihrem minderjährigen Enkel K ein Grundstück schenken. Der Vater V ist Sohn der G, die Mutter M ist mit G nicht verwandt. Wer kann K beim Vertragsschluss nach der aktuellen Rechtsprechung vertreten?",
   "optionen": [
-   "Beide Eltern gemeinsam, weil § 1824 BGB nur den Betreuer, nicht die Eltern betrifft",
-   "Niemand aus dem Elternkreis; es muss stets ein Ergänzungspfleger bestellt werden",
    "M allein, weil nur V als Verwandter der G in gerader Linie nach § 1629 Abs. 2 S. 1 i. V. m. § 1824 BGB ausgeschlossen ist",
-   "V allein, weil er als Sohn der G deren Willen am besten kennt"
+   "V allein, weil er als Sohn der G deren Willen am besten kennt",
+   "Niemand aus dem Elternkreis; es muss stets ein Ergänzungspfleger bestellt werden",
+   "Beide Eltern gemeinsam, weil § 1824 BGB nur den Betreuer, nicht die Eltern betrifft"
   ],
-  "antwort": 2,
+  "antwort": 0,
   "erklaerung": "Der Vertretungsausschluss des § 1824 BGB trifft über § 1629 Abs. 2 S. 1 BGB auch die Eltern; V ist als Verwandter der G in gerader Linie ausgeschlossen. Nach bislang herrschender Meinung konnte dann auch der andere Elternteil nicht allein vertreten; die Rechtsprechung (BGH FamRZ 2021, 1127; OLG Düsseldorf RNotZ 2025, 281; OLG München ZEV 2025, 615) sieht inzwischen nur den betroffenen Elternteil als ausgeschlossen an, sodass M allein vertritt. In der Person der M ist gesondert zu prüfen, ob auch bei ihr ein Ausschlussgrund vorliegt.",
   "id": "fami1-014"
  },
@@ -308,8 +320,7 @@
    "§ 1641 BGB",
    "§ 1638 BGB",
    "§ 1643 BGB",
-   "§ 1782 BGB",
-   "§ 2064 BGB"
+   "§ 1782 BGB"
   ],
   "frage": "Ordne die Normen ihrer Regelung zur elterlichen Vertretung zu.",
   "paare": [
@@ -342,16 +353,22 @@
   "abschnitt": "Abstammung und elterliche Sorge",
   "seite": "Elterliche Sorge: Inhalt und gesetzliche Vertretung des Kindes",
   "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/elterliche-sorge-inhalt-und-gesetzliche-vertretung-des-kindes",
-  "typ": "rf",
+  "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
    "§ 1638 BGB",
    "§ 1811 BGB"
   ],
-  "frage": "Schließt ein Erblasser die elterliche Vermögenssorge nach § 1638 BGB aus, wirkt der Ausschluss erst ab der Bestellung des Pflegers; bis dahin verwalten die Eltern das Vermögen.",
-  "antwort": false,
+  "frage": "Ein Erblasser schließt im Testament die elterliche Vermögenssorge für das dem minderjährigen Erben zufallende Vermögen aus (§ 1638 BGB). Ab wann wirkt der Ausschluss?",
+  "antwort": 0,
   "erklaerung": "Der Ausschluss nach § 1638 BGB wirkt schon von Anfang an, nicht erst ab der Pflegerbestellung; die Verwaltung übernimmt ein Pfleger (§ 1811 BGB). Wird nur ein Elternteil ausgeschlossen, verwaltet und vertritt der andere insoweit allein (§ 1638 Abs. 3 BGB). Der Notar sollte daher vorab klären, ob ein Dritter die Vermögenssorge ausgeschlossen hat oder ein Pfleger bestellt ist.",
-  "id": "fami1-016"
+  "id": "fami1-016",
+  "optionen": [
+   "Von Anfang an; die Verwaltung übernimmt ein Pfleger (§ 1811 BGB)",
+   "Erst ab Bestellung des Pflegers; bis dahin verwalten die Eltern",
+   "Erst mit Volljährigkeit des Kindes",
+   "Erst mit Rechtskraft der familiengerichtlichen Genehmigung"
+  ]
  },
  {
   "kapitel": "familienrecht",
@@ -371,21 +388,21 @@
    {
     "frage": "Kann M das Kind K beim Erwerb allein vertreten?",
     "optionen": [
-     "Ja, weil jeder sorgeberechtigte Elternteil Einzelvertretungsmacht hat",
-     "Nein, Vater und Mutter handeln für das Kind grundsätzlich gemeinsam (§ 1629 BGB); Alleinvertretung besteht nur bei Alleinsorge oder Entscheidungsübertragung nach § 1628 BGB",
      "Nein, Minderjährige können Grundstücke überhaupt nicht erwerben",
-     "Ja, weil beim Erwerb von einem Fremden kein Interessenkonflikt besteht"
+     "Ja, weil jeder sorgeberechtigte Elternteil Einzelvertretungsmacht hat",
+     "Ja, weil beim Erwerb von einem Fremden kein Interessenkonflikt besteht",
+     "Nein, Vater und Mutter handeln für das Kind grundsätzlich gemeinsam (§ 1629 BGB); Alleinvertretung besteht nur bei Alleinsorge oder Entscheidungsübertragung nach § 1628 BGB"
     ],
-    "antwort": 1,
+    "antwort": 3,
     "erklaerung": "Nach § 1629 BGB vertreten Vater und Mutter das Kind grundsätzlich gemeinsam. Ein Elternteil handelt nur allein, wenn er allein sorgeberechtigt ist oder ihm das Familiengericht nach § 1628 BGB die Entscheidung übertragen hat. Das Fehlen eines Interessenkonflikts ändert an der Gesamtvertretung nichts."
    },
    {
     "frage": "Wie kann die Beurkundung dennoch durchgeführt werden?",
     "optionen": [
      "M handelt für V als vollmachtlose Vertreterin oder aufgrund der mündlichen Vollmacht; wegen § 29 GBO ist eine Nachgenehmigung bzw. Bestätigung des V in öffentlich beglaubigter Form einzuholen",
-     "Der Notar bestellt für K einen Ergänzungspfleger, der an Stelle des V mitwirkt",
      "Die Beurkundung muss verschoben werden, weil ein Elternteil den anderen nicht bevollmächtigen kann",
-     "M erklärt die Vollmacht des V zu Protokoll; weitere Nachweise sind für das Grundbuch nicht erforderlich"
+     "M erklärt die Vollmacht des V zu Protokoll; weitere Nachweise sind für das Grundbuch nicht erforderlich",
+     "Der Notar bestellt für K einen Ergänzungspfleger, der an Stelle des V mitwirkt"
     ],
     "antwort": 0,
     "erklaerung": "Ein Elternteil kann den anderen grundsätzlich bevollmächtigen, auch stillschweigend. Erscheint nur ein Elternteil, kann er für den anderen als vollmachtloser Vertreter oder mit mündlicher Vollmacht handeln; wegen § 29 GBO ist dann eine Nachgenehmigung bzw. Bestätigung in öffentlich beglaubigter Form einzuholen. Die bloße Protokollierung der mündlichen Vollmacht genügt dem Grundbuchamt nicht; einen Pfleger bestellt zudem nicht der Notar."
@@ -400,17 +417,17 @@
   "seite": "Elterliche Sorge: Sorgeberechtigung, Sorgeerklärung und Beistandschaft",
   "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/elterliche-sorge-sorgeberechtigung-sorgeerklarung-und-beistandschaft",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 1626a Abs. 1 Nr. 1 BGB",
    "§ 1626a Abs. 3 BGB"
   ],
   "frage": "Die nicht verheirateten Eltern M und V haben keine Sorgeerklärungen abgegeben und heiraten nicht. Wer ist für das Kind sorgeberechtigt?",
   "optionen": [
-   "Beide gemeinsam, weil die Vaterschaft anerkannt ist",
-   "Die Mutter allein (§ 1626a Abs. 1 Nr. 1, Abs. 3 BGB), sofern das Familiengericht nicht die gemeinsame Sorge überträgt",
    "Der Vater allein, wenn er den Unterhalt überwiegend leistet",
-   "Das Jugendamt als Beistand, bis die Eltern eine Vereinbarung treffen"
+   "Die Mutter allein (§ 1626a Abs. 1 Nr. 1, Abs. 3 BGB), sofern das Familiengericht nicht die gemeinsame Sorge überträgt",
+   "Das Jugendamt als Beistand, bis die Eltern eine Vereinbarung treffen",
+   "Beide gemeinsam, weil die Vaterschaft anerkannt ist"
   ],
   "antwort": 1,
   "erklaerung": "Sind die Eltern bei der Geburt nicht verheiratet, heiraten sie nicht und geben sie keine Sorgeerklärungen ab, steht der Mutter die Sorge allein zu (§ 1626a Abs. 1 Nr. 1, Abs. 3 BGB); Ausnahme ist die gerichtliche Übertragung der gemeinsamen Sorge (§ 1626a Abs. 1 Nr. 3, Abs. 2 BGB). Die Vaterschaftsanerkennung allein begründet keine gemeinsame Sorge, und eine originäre Alleinsorge des Vaters sieht das Gesetz nicht vor. In der Praxis sind daher Sorgeerklärungen oder die gerichtliche Entscheidung nachweisen zu lassen.",
@@ -444,12 +461,12 @@
   ],
   "frage": "Welche Aussage zur Beistandschaft des Jugendamts trifft zu?",
   "optionen": [
-   "Mit der Beistandschaft geht die Vermögenssorge für das Kind auf das Jugendamt über",
-   "Der Beistand ist im Aufgabenkreis Vaterschaftsfeststellung und Unterhalt gesetzlicher Vertreter des Kindes; die elterliche Sorge wird dadurch nicht eingeschränkt",
+   "Bei gemeinsamer Sorge müssen beide Eltern den Antrag gemeinsam stellen",
    "Die Beistandschaft kann nur das Familiengericht anordnen und beenden",
-   "Bei gemeinsamer Sorge müssen beide Eltern den Antrag gemeinsam stellen"
+   "Der Beistand ist im Aufgabenkreis Vaterschaftsfeststellung und Unterhalt gesetzlicher Vertreter des Kindes; die elterliche Sorge wird dadurch nicht eingeschränkt",
+   "Mit der Beistandschaft geht die Vermögenssorge für das Kind auf das Jugendamt über"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Das Jugendamt wird Beistand für die Feststellung der Vaterschaft sowie für die Geltendmachung von und Verfügung über Unterhaltsansprüche (§ 1712 BGB) und ist in diesem Aufgabenkreis gesetzlicher Vertreter des Kindes; die elterliche Sorge wird nicht eingeschränkt. Die Beistandschaft entsteht auf Antrag eines Elternteils (bei gemeinsamer Sorge des Elternteils, in dessen Obhut sich das Kind befindet, § 1713 Abs. 1 BGB) und endet, wenn der Antragsteller dies schriftlich verlangt; einer gerichtlichen Anordnung bedarf es nicht.",
   "id": "fami1-020"
  },
@@ -458,17 +475,23 @@
   "abschnitt": "Abstammung und elterliche Sorge",
   "seite": "Elterliche Sorge: Sorgeberechtigung, Sorgeerklärung und Beistandschaft",
   "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/elterliche-sorge-sorgeberechtigung-sorgeerklarung-und-beistandschaft",
-  "typ": "rf",
-  "schwierigkeit": 2,
+  "typ": "mc",
+  "schwierigkeit": 1,
   "normen": [
    "§ 1678 BGB",
    "§ 1680 BGB",
    "§ 1681 BGB"
   ],
-  "frage": "Stirbt bei gemeinsamer Sorge ein Elternteil, geht die Alleinsorge erst durch eine gerichtliche Entscheidung nach § 1671 BGB auf den überlebenden Elternteil über.",
-  "antwort": false,
+  "frage": "Bei gemeinsamer Sorge stirbt die Mutter. Wie ändert sich die Sorgeberechtigung für das Kind?",
+  "antwort": 2,
   "erklaerung": "Fällt ein Elternteil für die Sorge aus (etwa durch Tod), ändert sich die Sorgeberechtigung kraft Gesetzes ohne gerichtliche Entscheidung (§§ 1678, 1680, 1681 BGB). § 1671 BGB betrifft dagegen die Übertragung der Alleinsorge bei dauerhaft getrennt lebenden Eltern; Maßstab ist dort allein das Kindeswohl (§ 1697a BGB). Nur im Trennungsfall muss sich der Notar die familiengerichtliche Entscheidung vorlegen lassen.",
-  "id": "fami1-021"
+  "id": "fami1-021",
+  "optionen": [
+   "Die Sorge geht auf die Großeltern mütterlicherseits über",
+   "Das Jugendamt wird Vormund, bis das Familiengericht entscheidet",
+   "Die Sorgeberechtigung ändert sich kraft Gesetzes ohne gerichtliche Entscheidung; der Vater ist allein sorgeberechtigt",
+   "Der Vater erhält die Alleinsorge erst durch Beschluss nach § 1671 BGB"
+  ]
  },
  {
   "kapitel": "familienrecht",
@@ -483,10 +506,10 @@
   ],
   "frage": "In welchem Grad und in welcher Linie sind Onkel und Neffe miteinander verwandt?",
   "optionen": [
-   "Seitenlinie, zweiter Grad",
+   "Gerade Linie, dritter Grad",
    "Gerade Linie, zweiter Grad",
    "Seitenlinie, dritter Grad",
-   "Gerade Linie, dritter Grad"
+   "Seitenlinie, zweiter Grad"
   ],
   "antwort": 2,
   "erklaerung": "Onkel und Neffe stammen nicht voneinander ab, haben aber einen gemeinsamen Vorfahren und sind daher in der Seitenlinie verwandt (§ 1589 S. 2 BGB). Der Grad bemisst sich nach der Zahl der vermittelnden Geburten (§ 1589 S. 3 BGB), gezählt über den gemeinsamen Vorfahren: drei Geburten, also dritter Grad. Im zweiten Grad der Seitenlinie stehen Geschwister, gleich ob voll- oder halbbürtig.",
@@ -498,7 +521,7 @@
   "seite": "Verwandtschaft: Linien, Grade und Schwägerschaft",
   "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/verwandtschaft-linien-grade-und-schwagerschaft",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 1590 Abs. 1 S. 1 BGB",
    "§ 1590 Abs. 2 BGB"
@@ -506,11 +529,11 @@
   "frage": "Welche Aussage zur Schwägerschaft ist richtig?",
   "optionen": [
    "Die Schwägerschaft endet mit der Scheidung der sie vermittelnden Ehe",
-   "Zwischen den Verwandten beider Ehegatten besteht Schwägerschaft zweiten Grades",
+   "Die Schwägerschaft besteht auch nach Auflösung der Ehe durch Tod oder Scheidung fort (§ 1590 Abs. 2 BGB)",
    "Ehegatten sind miteinander im ersten Grad verschwägert",
-   "Die Schwägerschaft besteht auch nach Auflösung der Ehe durch Tod oder Scheidung fort (§ 1590 Abs. 2 BGB)"
+   "Zwischen den Verwandten beider Ehegatten besteht Schwägerschaft zweiten Grades"
   ],
-  "antwort": 3,
+  "antwort": 1,
   "erklaerung": "Die Verwandten eines Ehegatten sind mit dem anderen Ehegatten verschwägert (§ 1590 Abs. 1 S. 1 BGB), und diese Schwägerschaft besteht nach § 1590 Abs. 2 BGB fort, wenn die Ehe durch Tod oder Scheidung aufgelöst wird. Zwischen den Verwandten beider Ehegatten entsteht dagegen keine Schwägerschaft (Schwippschwägerschaft ist rechtlich bedeutungslos), und Ehegatten sind untereinander weder verwandt noch verschwägert.",
   "id": "fami1-023"
  },
@@ -520,7 +543,7 @@
   "seite": "Verwandtschaft: Linien, Grade und Schwägerschaft",
   "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/verwandtschaft-linien-grade-und-schwagerschaft",
   "typ": "rf",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 1590 BGB",
    "§§ 1924 ff. BGB",
@@ -578,12 +601,12 @@
   ],
   "frage": "Welches Mindestalter gilt für die Annahme eines minderjährigen Kindes?",
   "optionen": [
-   "Alleinannahme 25 Jahre, Stiefkindadoption 21 Jahre; bei gemeinsamer Annahme durch Ehegatten genügt 25 und 21 Jahre",
+   "Stets 21 Jahre, bei gemeinsamer Annahme beide 25 Jahre",
    "Stets 25 Jahre für jeden Annehmenden",
-   "Alleinannahme 21 Jahre, Stiefkindadoption 18 Jahre",
-   "Stets 21 Jahre, bei gemeinsamer Annahme beide 25 Jahre"
+   "Alleinannahme 25 Jahre, Stiefkindadoption 21 Jahre; bei gemeinsamer Annahme durch Ehegatten genügt 25 und 21 Jahre",
+   "Alleinannahme 21 Jahre, Stiefkindadoption 18 Jahre"
   ],
-  "antwort": 0,
+  "antwort": 2,
   "erklaerung": "Für die Alleinannahme gilt ein Mindestalter von 25 Jahren; wer das Kind seines Ehegatten annimmt, muss mindestens 21 Jahre alt sein. Nehmen Ehegatten gemeinsam an, genügt es, wenn einer 25 und der andere 21 Jahre alt ist (§ 1743 S. 2 BGB). Ein einheitliches Mindestalter von 25 Jahren für jeden Annehmenden verlangt das Gesetz nicht; ergänzend sehen die Richtlinien der Vermittlungsstellen einen Altersabstand von regelmäßig höchstens 40 Jahren vor.",
   "id": "fami1-026"
  },
@@ -600,12 +623,12 @@
   ],
   "frage": "Der verheiratete, von seiner Frau getrennt lebende A möchte ein fremdes Pflegekind allein adoptieren. Ist das möglich?",
   "optionen": [
-   "Ja, weil Getrenntleben die Alleinannahme ermöglicht",
-   "Nein, ein Ehepaar kann ein Kind nur gemeinschaftlich annehmen (§ 1741 Abs. 2 S. 2 BGB); eine Alleinannahme ist nur bei Stiefkindadoption oder Annahmeunfähigkeit des anderen Ehegatten zulässig",
    "Ja, sofern die Ehefrau schriftlich zustimmt",
-   "Nein, weil Verheiratete überhaupt nicht allein adoptieren können, auch Stiefkinder nicht"
+   "Ja, weil Getrenntleben die Alleinannahme ermöglicht",
+   "Nein, weil Verheiratete überhaupt nicht allein adoptieren können, auch Stiefkinder nicht",
+   "Nein, ein Ehepaar kann ein Kind nur gemeinschaftlich annehmen (§ 1741 Abs. 2 S. 2 BGB); eine Alleinannahme ist nur bei Stiefkindadoption oder Annahmeunfähigkeit des anderen Ehegatten zulässig"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Die gemeinschaftliche Annahme durch Ehegatten ist der Regelfall (§ 1741 Abs. 2 S. 2 BGB); solange die Ehe besteht, kann ein verheirateter Annehmender auch bei Getrenntleben nicht allein adoptieren. Ausnahmen sind die Stiefkindadoption und der Fall, dass der andere Ehegatte das Kind nicht annehmen kann, etwa wegen Geschäftsunfähigkeit (§ 1741 Abs. 2 S. 4 BGB). Eine bloße Zustimmung der Ehefrau eröffnet keine Alleinannahme; der Notar sollte vorab klären, ob ein Ausnahmefall vorliegt.",
   "id": "fami1-027"
  },
@@ -622,12 +645,12 @@
   ],
   "frage": "Unter welchen Voraussetzungen kann der nicht verheiratete Lebensgefährte das Kind seiner Partnerin annehmen?",
   "optionen": [
+   "Ohne weitere Voraussetzungen, da Unverheiratete stets allein annehmen können",
    "Gar nicht; eine Stiefkindadoption setzt stets eine Ehe oder eingetragene Lebenspartnerschaft voraus",
    "Nur gemeinsam mit der Partnerin als gemeinschaftliche Annahme",
-   "Bei verfestigter Lebensgemeinschaft nach § 1766a BGB, d. h. mindestens vierjähriges Zusammenleben oder ein weiteres gemeinsames Kind im Haushalt",
-   "Ohne weitere Voraussetzungen, da Unverheiratete stets allein annehmen können"
+   "Bei verfestigter Lebensgemeinschaft nach § 1766a BGB, d. h. mindestens vierjähriges Zusammenleben oder ein weiteres gemeinsames Kind im Haushalt"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "§ 1766a BGB lässt die Stiefkindadoption für Partner in verfestigter nichtehelicher Lebensgemeinschaft in engen Grenzen zu: Verfestigt ist die Gemeinschaft bei mindestens vierjährigem Zusammenleben oder wenn ein weiteres gemeinsames Kind im Haushalt lebt; keiner der Partner soll in der Regel mit einer dritten Person verheiratet sein. Eine gemeinschaftliche Annahme durch nichteheliche Lebensgefährten ist dagegen ausgeschlossen, weil Unverheiratete nur allein annehmen können (§ 1741 Abs. 2 S. 1 BGB).",
   "id": "fami1-028"
  },
@@ -637,7 +660,7 @@
   "seite": "Adoption Minderjähriger: Voraussetzungen",
   "quelle": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-minderjahriger-voraussetzungen",
   "typ": "rf",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 1742 BGB"
   ],
@@ -673,12 +696,12 @@
   ],
   "frage": "Der kinderlose Unternehmer U (62) will seinen langjährigen Prokuristen P (48) adoptieren, um ihm das Unternehmen erbschaftsteuergünstig zu übertragen; eine persönliche Nähe besteht nur im Berufsalltag. Wie ist die sittliche Rechtfertigung nach § 1767 Abs. 1 BGB zu beurteilen?",
   "optionen": [
-   "Sie liegt vor, weil die Steuerersparnis ein anerkanntes Motiv der Volljährigenadoption ist",
-   "Sie fehlt, weil ein Eltern-Kind-Verhältnis weder besteht noch zu erwarten ist und steuerliche Vorteile nicht ausschlaggebend sein dürfen",
+   "Sie fehlt allein wegen des Altersabstands von 14 Jahren",
    "Sie liegt vor, weil kein gemeinsamer Haushalt mehr erforderlich ist",
-   "Sie fehlt allein wegen des Altersabstands von 14 Jahren"
+   "Sie liegt vor, weil die Steuerersparnis ein anerkanntes Motiv der Volljährigenadoption ist",
+   "Sie fehlt, weil ein Eltern-Kind-Verhältnis weder besteht noch zu erwarten ist und steuerliche Vorteile nicht ausschlaggebend sein dürfen"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Sittlich gerechtfertigt ist die Annahme nur, wenn ein Eltern-Kind-Verhältnis schon besteht oder zu entstehen erwarten ist; die familiären Gründe müssen deutlich überwiegen, steuerliche Vorteile dürfen nur Nebenzweck sein. Rein wirtschaftliche Gründe rechtfertigen die Annahme nicht. Der Verzicht auf einen gemeinsamen Haushalt ändert daran nichts, und der Altersabstand von 14 Jahren ist hier nur ein zusätzliches Indiz gegen die Rechtfertigung (kritisch sind 10 bis 15 Jahre), nicht der alleinige Grund.",
   "id": "fami1-031"
  },
@@ -688,19 +711,19 @@
   "seite": "Adoption Volljähriger: Voraussetzungen und starke Wirkungen (§ 1772 BGB)",
   "quelle": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-volljahriger-voraussetzungen-und-starke-wirkungen-1772-bgb",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 1768 BGB",
    "§ 1768 Abs. 1 S. 2 BGB"
   ],
   "frage": "Welche Anträge und Einwilligungen sind für die Volljährigenadoption erforderlich?",
   "optionen": [
-   "Nur der notariell beurkundete Antrag des Annehmenden; der Anzunehmende stimmt formfrei zu",
    "Je ein notariell beurkundeter Antrag des Annehmenden und des Anzunehmenden (§ 1768 BGB); die Einwilligung der Eltern des Anzunehmenden ist entbehrlich",
-   "Gemeinsamer Antrag beider in einer einzigen Urkunde sowie die Einwilligung der leiblichen Eltern",
-   "Antrag des Annehmenden und Einwilligung des Jugendamts"
+   "Antrag des Annehmenden und Einwilligung des Jugendamts",
+   "Nur der notariell beurkundete Antrag des Annehmenden; der Anzunehmende stimmt formfrei zu",
+   "Gemeinsamer Antrag beider in einer einzigen Urkunde sowie die Einwilligung der leiblichen Eltern"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Annehmender und Anzunehmender müssen je einen Antrag stellen, beide notariell beurkundet (§ 1768 BGB); die Anträge müssen nicht in derselben Urkunde oder zur selben Zeit beurkundet werden. Die Einwilligung der Eltern des Anzunehmenden ist entbehrlich (§ 1768 Abs. 1 S. 2 BGB). Eine bloß formfreie Zustimmung des Anzunehmenden genügt nicht, weil er selbst Antragsteller ist.",
   "id": "fami1-032"
  },
@@ -733,8 +756,8 @@
   "frage": "In welchem Fall kann das Gericht die Annahme eines Volljährigen mit den starken Wirkungen einer Minderjährigenadoption aussprechen (§ 1772 BGB)?",
   "optionen": [
    "Wenn der Annehmende den Anzunehmenden bereits während dessen Minderjährigkeit in seine Familie aufgenommen hat",
-   "Wenn der Anzunehmende bei Erlass des Annahmebeschlusses das 25. Lebensjahr noch nicht vollendet hat",
    "Wenn die leiblichen Eltern des Anzunehmenden bereits verstorben sind",
+   "Wenn der Anzunehmende bei Erlass des Annahmebeschlusses das 25. Lebensjahr noch nicht vollendet hat",
    "Wenn beide Beteiligte dies übereinstimmend beantragen und ein Erbverzicht der leiblichen Eltern vorliegt"
   ],
   "antwort": 0,
@@ -763,19 +786,19 @@
   "seite": "Adoption: Antrag und Einwilligungen",
   "quelle": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-antrag-und-einwilligungen",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 1747 Abs. 2 BGB",
    "§ 1747 Abs. 3 BGB"
   ],
   "frage": "Ab wann können die Eltern wirksam in die Adoption ihres Kindes einwilligen?",
   "optionen": [
-   "Bereits vor der Geburt, beide Elternteile gleichermaßen",
-   "Frühestens, wenn das Kind acht Wochen alt ist (§ 1747 Abs. 2 BGB); nur der nicht mit der Mutter verheiratete Vater darf schon vor der Geburt einwilligen (§ 1747 Abs. 3 BGB)",
+   "Erst nach Ablauf der Pflegezeit nach § 1744 BGB",
    "Frühestens, wenn das Kind sechs Monate alt ist",
-   "Erst nach Ablauf der Pflegezeit nach § 1744 BGB"
+   "Bereits vor der Geburt, beide Elternteile gleichermaßen",
+   "Frühestens, wenn das Kind acht Wochen alt ist (§ 1747 Abs. 2 BGB); nur der nicht mit der Mutter verheiratete Vater darf schon vor der Geburt einwilligen (§ 1747 Abs. 3 BGB)"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Wirksam einwilligen können die Eltern frühestens, wenn das Kind acht Wochen alt ist (§ 1747 Abs. 2 BGB); das gilt auch für die gebärende Mutter bei Annahme durch deren Ehefrau und für eine ausländische Leihmutter bei anwendbarem deutschen Recht. Einzige Ausnahme ist der mit der Mutter nicht verheiratete Vater, der bereits vor der Geburt einwilligen darf (§ 1747 Abs. 3 BGB). Die Beurkundung der Elterneinwilligung vor Ablauf der acht Wochen ist ein typischer Praxisfehler.",
   "id": "fami1-036"
  },
@@ -792,12 +815,12 @@
   ],
   "frage": "Welche Aussage zum Adoptionsantrag trifft zu?",
   "optionen": [
+   "Der Antrag ist notariell zu beurkunden, bedingungs- und befristungsfeindlich und kann weder durch Bevollmächtigte noch gesetzliche Vertreter gestellt werden (§ 1752 BGB)",
    "Der Antrag kann durch einen notariell Bevollmächtigten gestellt werden, wenn der Annehmende verhindert ist",
    "Der Antrag kann unter der Bedingung gestellt werden, dass die Einwilligung der Eltern ersetzt wird",
-   "Der Antrag ist notariell zu beurkunden, bedingungs- und befristungsfeindlich und kann weder durch Bevollmächtigte noch gesetzliche Vertreter gestellt werden (§ 1752 BGB)",
    "Nach dem Tod des Annehmenden ist ein Ausspruch der Annahme in keinem Fall mehr möglich"
   ],
-  "antwort": 2,
+  "antwort": 0,
   "erklaerung": "Grundlage der Annahme ist ein notariell beurkundeter Antrag des Annehmenden ohne Bedingung und Befristung (§ 1752 BGB); weder ein Bevollmächtigter noch ein gesetzlicher Vertreter kann ihn stellen, sodass ein Geschäftsunfähiger nicht adoptieren kann. Nach dem Tod des Annehmenden kann das Gericht die Annahme aussprechen, wenn der Antrag bereits vorlag oder der Notar einen Einreichungsauftrag hatte (§ 1753 BGB); deshalb gehört der Einreichungsauftrag stets in den Antrag. Nur nach dem Tod des Anzunehmenden ist ein Ausspruch ausgeschlossen.",
   "id": "fami1-037"
  },
@@ -814,12 +837,12 @@
   ],
   "frage": "Das 15-jährige Kind K soll vom Stiefvater adoptiert werden. Wie wird die Einwilligung des K erklärt?",
   "optionen": [
-   "Allein durch den gesetzlichen Vertreter, weil K minderjährig ist",
    "Durch K selbst mit Zustimmung des gesetzlichen Vertreters; bis zum Wirksamwerden der Annahme kann K sie ohne diese Zustimmung durch öffentlich beglaubigte Erklärung widerrufen",
-   "Durch K selbst ohne Mitwirkung des gesetzlichen Vertreters, weil K über 14 ist",
-   "Durch das Jugendamt als Vormund kraft Gesetzes"
+   "Durch das Jugendamt als Vormund kraft Gesetzes",
+   "Allein durch den gesetzlichen Vertreter, weil K minderjährig ist",
+   "Durch K selbst ohne Mitwirkung des gesetzlichen Vertreters, weil K über 14 ist"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Ab 14 Jahren erklärt das Kind die Einwilligung selbst, mit Zustimmung des gesetzlichen Vertreters (§ 1746 Abs. 1 S. 3 BGB); bis zum Wirksamwerden der Annahme kann es sie ohne diese Zustimmung durch öffentlich beglaubigte Erklärung an das Gericht widerrufen (§ 1746 Abs. 2 BGB). Nur für Kinder unter 14 Jahren oder geschäftsunfähige Kinder willigt der gesetzliche Vertreter allein ein (§ 1746 Abs. 1 S. 2 BGB). Bei der Stiefkindadoption ruht die Sorge des mit dem Annehmenden verheirateten Elternteils nicht (§ 1751 Abs. 2 BGB), sodass das Jugendamt nicht Vormund wird.",
   "id": "fami1-038"
  },
@@ -859,30 +882,30 @@
     "frage": "Ist die Einwilligung des nicht sorgeberechtigten V überhaupt erforderlich?",
     "optionen": [
      "Nein, weil nur sorgeberechtigte Eltern einwilligen müssen",
-     "Ja, beide Elternteile müssen einwilligen, auch ohne Sorgerecht (§ 1747 Abs. 1 BGB)",
      "Nein, weil bei der Stiefkindadoption nur der Ehegatte des Annehmenden einwilligt",
+     "Ja, beide Elternteile müssen einwilligen, auch ohne Sorgerecht (§ 1747 Abs. 1 BGB)",
      "Ja, aber die Einwilligung kann durch die Zustimmung des Jugendamts ersetzt werden"
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Nach § 1747 Abs. 1 BGB müssen Vater und Mutter einwilligen, und zwar auch ohne Sorgerecht. Die Einwilligung des Ehegatten des Annehmenden (§ 1749 BGB) tritt hinzu, ersetzt die Elterneinwilligung aber nicht; das Jugendamt kann die Einwilligung nicht ersetzen."
    },
    {
     "frage": "Kann die fehlende Einwilligung des V ersetzt werden?",
     "optionen": [
+     "Nein, weil Stiefkindadoptionen ohne Einwilligung beider leiblicher Eltern ausgeschlossen sind",
      "Nein, die Ersetzung setzt stets eine anhaltend gröbliche Pflichtverletzung des V voraus",
-     "Ja, das Familiengericht kann sie nach § 1748 Abs. 4 BGB ersetzen, wenn das Unterbleiben der Annahme dem Kind zu unverhältnismäßigem Nachteil gereichen würde; ein Fehlverhalten des V ist nicht nötig, sein früheres Verhalten ist aber zu würdigen",
      "Ja, der Notar kann die Einwilligung durch eine Eigenurkunde ersetzen",
-     "Nein, weil Stiefkindadoptionen ohne Einwilligung beider leiblicher Eltern ausgeschlossen sind"
+     "Ja, das Familiengericht kann sie nach § 1748 Abs. 4 BGB ersetzen, wenn das Unterbleiben der Annahme dem Kind zu unverhältnismäßigem Nachteil gereichen würde; ein Fehlverhalten des V ist nicht nötig, sein früheres Verhalten ist aber zu würdigen"
     ],
-    "antwort": 1,
+    "antwort": 3,
     "erklaerung": "Beim Vater ohne elterliche Sorge genügt nach § 1748 Abs. 4 BGB ein unverhältnismäßiger Nachteil für das Kind bei Unterbleiben der Annahme; ein Fehlverhalten ist nicht nötig, und bei Stiefkindadoptionen wird ein solcher Nachteil häufig bejaht. Nach dem BVerfG genügt fehlende Zuwendung allein nicht, das frühere Verhalten des Vaters ist zu würdigen; fehlender Kontakt, ausgebliebener Unterhalt und bessere Eingliederung in die neue Familie tragen die Ersetzung. Ersetzen kann nur das Familiengericht, nicht der Notar."
    },
    {
     "frage": "Welche Folge hat die wirksame Einwilligung der M für ihre elterliche Sorge?",
     "optionen": [
-     "Ihre Sorge ruht nach § 1751 Abs. 1 BGB, und das Jugendamt wird Vormund",
-     "Ihre Sorge ruht nicht, weil sie mit dem Annehmenden verheiratet ist (§ 1751 Abs. 2 BGB)",
      "Ihre Sorge geht auf S über, sobald die Einwilligung beim Gericht eingeht",
+     "Ihre Sorge ruht nicht, weil sie mit dem Annehmenden verheiratet ist (§ 1751 Abs. 2 BGB)",
+     "Ihre Sorge ruht nach § 1751 Abs. 1 BGB, und das Jugendamt wird Vormund",
      "Ihre Sorge erlischt mit Zugang der Einwilligung beim Familiengericht"
     ],
     "antwort": 1,
@@ -898,15 +921,15 @@
   "seite": "Adoption: Aufhebung und Verfahren",
   "quelle": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-aufhebung-und-verfahren",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 9a Abs. 1 und 2 AdVermG"
   ],
   "frage": "Welche Unterlage muss dem Notar vorliegen, bevor er den Antrag auf Stiefkindadoption eines Minderjährigen beurkunden darf?",
   "optionen": [
-   "Ein Führungszeugnis des Annehmenden",
-   "Eine Bescheinigung der Adoptionsvermittlungsstelle (§ 9a Abs. 1 und 2 AdVermG)",
    "Die familiengerichtliche Vorabgenehmigung nach § 187 FamFG",
+   "Eine Bescheinigung der Adoptionsvermittlungsstelle (§ 9a Abs. 1 und 2 AdVermG)",
+   "Ein Führungszeugnis des Annehmenden",
    "Das ärztliche Zeugnis über den Anzunehmenden"
   ],
   "antwort": 1,
@@ -919,19 +942,19 @@
   "seite": "Adoption: Aufhebung und Verfahren",
   "quelle": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-aufhebung-und-verfahren",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 197 FamFG",
    "§ 197 Abs. 3 FamFG"
   ],
   "frage": "Wann wird der Annahmebeschluss wirksam und welche Rechtsmittel bestehen dagegen?",
   "optionen": [
+   "Mit Zustellung an das Jugendamt; sofortige Beschwerde der leiblichen Eltern",
    "Mit Verkündung; Beschwerde binnen eines Monats",
-   "Mit Zustellung an den Annehmenden (nach dessen Tod an den Angenommenen); der Beschluss ist unanfechtbar (§ 197 Abs. 3 FamFG)",
    "Mit Eintragung im Geburtenregister; Beschwerde binnen zwei Wochen",
-   "Mit Zustellung an das Jugendamt; sofortige Beschwerde der leiblichen Eltern"
+   "Mit Zustellung an den Annehmenden (nach dessen Tod an den Angenommenen); der Beschluss ist unanfechtbar (§ 197 Abs. 3 FamFG)"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Der Annahmebeschluss wird mit Zustellung an den Annehmenden wirksam, nach dessen Tod mit Zustellung an den Angenommenen (§ 197 FamFG); erst dann treten alle materiellen Wirkungen ein. Der Beschluss ist unanfechtbar (§ 197 Abs. 3 FamFG), sodass keine Beschwerde eröffnet ist. Bis zum Wirksamwerden kann der Adoptionsantrag noch zurückgenommen werden.",
   "id": "fami1-042"
  },
@@ -949,12 +972,12 @@
   ],
   "frage": "Unter welchen Voraussetzungen kann eine einfache Volljährigenadoption aufgehoben werden?",
   "optionen": [
-   "Von Amts wegen bei schwerwiegenden Gründen des Kindeswohls nach § 1763 BGB",
    "Auf Antrag von Annehmendem und Angenommenem aus wichtigem Grund (§ 1771 S. 1 BGB), etwa bei Zerrüttung oder wenn die Annahme von Anfang an nicht sittlich gerechtfertigt war; sonst nur in den Fällen des § 1760 BGB",
+   "Von Amts wegen bei schwerwiegenden Gründen des Kindeswohls nach § 1763 BGB",
    "Nur auf einseitigen Antrag des Annehmenden ohne weitere Voraussetzungen",
    "Überhaupt nicht, weil Annahmebeschlüsse unanfechtbar sind"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Die einfache Volljährigenadoption kann auf Antrag von Annehmendem und Angenommenem aus wichtigem Grund aufgehoben werden (§ 1771 S. 1 BGB); ein wichtiger Grund liegt bei Unzumutbarkeit des Fortbestehens vor, etwa nach schuldhaftem Fehlverhalten, bei Zerrüttung oder wenn die Annahme nur der Erbschaftsteuerersparnis diente. Sonst bleibt nur § 1760 BGB; bei Annahme mit den Wirkungen des § 1772 BGB ist allein § 1760 Abs. 1 BGB sinngemäß anwendbar. Die Aufhebung von Amts wegen nach § 1763 BGB betrifft nur Minderjährige. Die Unanfechtbarkeit des Beschlusses schließt die Aufhebung nicht aus.",
   "id": "fami1-043"
  },
@@ -963,15 +986,21 @@
   "abschnitt": "Adoption",
   "seite": "Adoption: Aufhebung und Verfahren",
   "quelle": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-aufhebung-und-verfahren",
-  "typ": "rf",
-  "schwierigkeit": 2,
+  "typ": "mc",
+  "schwierigkeit": 1,
   "normen": [
    "§ 1762 Abs. 3 BGB"
   ],
-  "frage": "Für den Antrag auf Aufhebung einer Minderjährigenadoption genügt die öffentliche Beglaubigung der Unterschrift.",
-  "antwort": false,
+  "frage": "In welcher Form ist der Antrag auf Aufhebung einer Minderjährigenadoption zu stellen?",
+  "antwort": 0,
   "erklaerung": "Der Aufhebungsantrag bedarf der notariellen Beurkundung (§ 1762 Abs. 3 BGB). Ein nur unterschriftsbeglaubigter Aufhebungsantrag ist ein typischer Praxisfehler. Die Aufhebung auf Antrag setzt zudem voraus, dass eine notwendige Erklärung (Antrag, Einwilligung des Kindes oder eines Elternteils) gefehlt hat oder unwirksam war (§ 1760 BGB).",
-  "id": "fami1-044"
+  "id": "fami1-044",
+  "optionen": [
+   "Notarielle Beurkundung (§ 1762 Abs. 3 BGB)",
+   "Öffentliche Beglaubigung der Unterschrift",
+   "Zur Niederschrift des Jugendamts",
+   "Schriftlich gegenüber dem Familiengericht"
+  ]
  },
  {
   "kapitel": "familienrecht",
@@ -1021,12 +1050,12 @@
   ],
   "frage": "Der volljährige A (Familienname Müller) wird von B (Familienname Schmidt) angenommen. Welche namensrechtlichen Gestaltungen stehen A offen?",
   "optionen": [
+   "A kann den Namen frei wählen, auch einen Namen, der mit keinem Beteiligten zusammenhängt",
    "A erhält zwingend den Namen Schmidt; eine Abweichung ist nur durch behördliche Namensänderung möglich",
    "A kann der Namensänderung widersprechen und Müller behalten oder einen Doppelnamen aus Müller und Schmidt bestimmen; die Erklärung bedarf öffentlicher Beglaubigung und muss vor dem Annahmebeschluss vorliegen",
-   "A kann den Namen frei wählen, auch einen Namen, der mit keinem Beteiligten zusammenhängt",
    "A behält automatisch Müller; nur auf Antrag erhält er Schmidt"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Bei der Volljährigenadoption gilt § 1757 BGB mit Maßgaben (§ 1767 Abs. 3 BGB): Der Angenommene behält seinen bisherigen Familiennamen, wenn er der Namensänderung widerspricht, oder bestimmt einen Doppelnamen aus bisherigem Namen und dem des Annehmenden. Ohne Erklärung erhält er den Namen des Annehmenden, nicht automatisch den alten Namen. Widerspruch und Namensbestimmung bedürfen öffentlicher Beglaubigung, sind an das Familiengericht zu richten und müssen vor dem Annahmebeschluss vorliegen (§ 1767 Abs. 5 BGB).",
   "id": "fami1-046"
  },
@@ -1058,12 +1087,12 @@
   ],
   "frage": "Die Ehegatten E (Name Bauer) und F (Name Vogel) führen keinen Ehenamen und nehmen gemeinsam ein Kind an. Welchen Geburtsnamen kann das Kind erhalten?",
   "optionen": [
-   "Nur den Namen des Ehemanns E",
    "Den Namen Bauer oder Vogel oder einen Doppelnamen aus beiden, der mangels anderer Bestimmung mit Bindestrich verbunden wird",
-   "Zwingend einen Doppelnamen Bauer-Vogel",
-   "Den bisherigen Geburtsnamen des Kindes, weil ohne Ehename keine Namensänderung eintritt"
+   "Nur den Namen des Ehemanns E",
+   "Den bisherigen Geburtsnamen des Kindes, weil ohne Ehename keine Namensänderung eintritt",
+   "Zwingend einen Doppelnamen Bauer-Vogel"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Nimmt ein Ehepaar ohne Ehenamen ein Kind an, gilt § 1757 Abs. 2 BGB mit Verweis auf § 1617 Abs. 1 bis 3 und 5 BGB: Die Ehegatten bestimmen als Geburtsnamen den Familiennamen eines von ihnen oder einen Doppelnamen aus beiden Namen, der ohne andere Bestimmung mit Bindestrich verbunden wird. Ein Zwang zum Doppelnamen besteht nicht; besteht ein Name aus mehreren Namen, darf für den Doppelnamen nur einer davon verwendet werden. Der bestimmte Geburtsname gilt auch für weitere gemeinsame Kinder.",
   "id": "fami1-048"
  },
@@ -1096,12 +1125,12 @@
   ],
   "frage": "A hat den volljährigen B einfach (ohne § 1772 BGB) adoptiert. A hat außerdem die leibliche Tochter T. Welche erbrechtliche Folge hat die Adoption?",
   "optionen": [
-   "B und T sind Geschwister und beerben einander gesetzlich",
-   "B wird gesetzlicher Erbe des A, ist aber mit T nicht verwandt; die Erbrechte gegenüber seiner leiblichen Familie bleiben bestehen",
    "B verliert sein gesetzliches Erbrecht gegenüber seinen leiblichen Eltern",
-   "B kann bei Erbfällen in der Familie des A an dessen Stelle treten"
+   "B kann bei Erbfällen in der Familie des A an dessen Stelle treten",
+   "B und T sind Geschwister und beerben einander gesetzlich",
+   "B wird gesetzlicher Erbe des A, ist aber mit T nicht verwandt; die Erbrechte gegenüber seiner leiblichen Familie bleiben bestehen"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Bei der einfachen Volljährigenadoption entstehen gegenseitige volle Erbrechte zwischen Angenommenem und Annehmendem; zu den Verwandten des Annehmenden entsteht aber keine Verwandtschaft (§ 1770 Abs. 1 BGB), sodass B und T keine Geschwister sind und einander nicht gesetzlich beerben. B kann bei Erbfällen in der Familie des A auch nicht an dessen Stelle treten. Die Verwandtschaft und damit die Erbrechte gegenüber der leiblichen Familie bleiben bestehen (§ 1770 Abs. 2 BGB); anders nur bei Annahme mit den Wirkungen des § 1772 BGB.",
   "id": "fami1-050"
  },
@@ -1118,12 +1147,12 @@
   ],
   "frage": "Der Ehemann S der Mutter M adoptiert deren minderjährigen Sohn K. Welche Verwandtschaftsverhältnisse erlöschen?",
   "optionen": [
-   "Alle bisherigen Verwandtschaftsverhältnisse des K, auch zu M",
    "Nur die Verwandtschaft zum anderen leiblichen Elternteil und dessen Verwandten (§ 1755 Abs. 2 BGB); die Verwandtschaft zu M und ihren Verwandten bleibt",
-   "Keine; bei der Stiefkindadoption kommen nur neue Verwandtschaften hinzu",
-   "Nur die Verwandtschaft zu den Großeltern väterlicherseits, nicht zum Vater selbst"
+   "Alle bisherigen Verwandtschaftsverhältnisse des K, auch zu M",
+   "Nur die Verwandtschaft zu den Großeltern väterlicherseits, nicht zum Vater selbst",
+   "Keine; bei der Stiefkindadoption kommen nur neue Verwandtschaften hinzu"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Bei der Stiefkindadoption erlischt nur die Verwandtschaft zum anderen leiblichen Elternteil und dessen Verwandten (§ 1755 Abs. 2 BGB); die Verwandtschaft zum Ehegatten des Annehmenden und dessen Verwandten bleibt. Ein vollständiges Erlöschen nach § 1755 Abs. 1 BGB tritt nur bei gemeinschaftlicher Annahme durch Fremde oder bei Einzeladoption ein. Ist der andere Elternteil verstorben und war er bis zum Tod sorgeberechtigt, bleibt nach § 1756 Abs. 2 BGB sogar die Verwandtschaft zu dessen Verwandten bestehen.",
   "id": "fami1-051"
  },
@@ -1158,11 +1187,11 @@
   "frage": "Welche Aussage zum Adoptionsgeheimnis bei der Minderjährigenadoption trifft zu?",
   "optionen": [
    "Das Adoptionsgeheimnis gilt auch gegenüber dem angenommenen Kind, das daher keine Einsicht in die Adoptionsakten erhält",
-   "Tatsachen, die die Annahme aufdecken können, dürfen nur mit Zustimmung von Annehmendem und Kind offenbart werden (§ 1758 BGB); gegenüber dem Kind selbst gilt das Geheimnis nicht",
    "Die leiblichen Eltern haben ein umfassendes Auskunftsrecht über den Verbleib des Kindes",
+   "Tatsachen, die die Annahme aufdecken können, dürfen nur mit Zustimmung von Annehmendem und Kind offenbart werden (§ 1758 BGB); gegenüber dem Kind selbst gilt das Geheimnis nicht",
    "Das Kind darf seine Personenstandsurkunden erst mit Volljährigkeit einsehen"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Nach § 1758 BGB dürfen Tatsachen, die die Annahme aufdecken können, nur mit Zustimmung von Annehmendem und Kind offenbart werden. Gegenüber dem Kind gilt § 1758 BGB nicht: Es darf ab Vollendung des 16. Lebensjahres seine Personenstandsurkunden und auch Einträge der leiblichen Eltern einsehen (§ 62 Abs. 1 PStG), Einsicht in die Akten der Adoptionsvermittlungsstelle verlangen (§ 9b AdVermG) und beim Notar die für es erklärte Einwilligung einsehen. Die leiblichen Eltern sind dagegen durch § 1758 BGB weitgehend von Informationen ausgeschlossen.",
   "id": "fami1-053"
  },
@@ -1215,12 +1244,12 @@
   ],
   "frage": "Zwei deutsche Staatsangehörige, die 2022 in Stuttgart geheiratet haben und dort leben, wollen die deutsch-französische Wahl-Zugewinngemeinschaft vereinbaren. Ist das möglich?",
   "optionen": [
-   "Nein, der Wahlgüterstand setzt voraus, dass mindestens ein Ehegatte die französische Staatsangehörigkeit besitzt",
-   "Ja, weil die EuGüVO zu deutschem Güterrecht führt und der Wahlgüterstand dann unabhängig von der Staatsangehörigkeit durch Ehevertrag vereinbart werden kann",
    "Nein, der Wahlgüterstand steht nur Ehegatten mit gewöhnlichem Aufenthalt in Frankreich offen",
-   "Ja, aber nur durch eine Rechtswahl nach Art. 22 EuGüVO zugunsten französischen Rechts"
+   "Ja, aber nur durch eine Rechtswahl nach Art. 22 EuGüVO zugunsten französischen Rechts",
+   "Ja, weil die EuGüVO zu deutschem Güterrecht führt und der Wahlgüterstand dann unabhängig von der Staatsangehörigkeit durch Ehevertrag vereinbart werden kann",
+   "Nein, der Wahlgüterstand setzt voraus, dass mindestens ein Ehegatte die französische Staatsangehörigkeit besitzt"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Den Wahlgüterstand kann jeder vereinbaren, dessen Güterstand dem Sachrecht eines der beiden Vertragsstaaten unterliegt (Art. 1 Abkommen). Für Ehen ab dem 29.01.2019 bestimmt die EuGüVO das Güterrechtsstatut; führt sie zu deutschem oder französischem Güterrecht, ist der Wahlgüterstand unabhängig von der Staatsangehörigkeit möglich und steht damit auch rein deutschen Ehen offen. Begründet wird er nur durch Ehevertrag (Art. 3 Abs. 1 Abkommen); eine Rechtswahl zugunsten französischen Rechts ist nicht nötig.",
   "id": "fami1-055"
  },
@@ -1239,11 +1268,11 @@
   "frage": "Ehemann M, der mit F im deutsch-französischen Wahlgüterstand lebt, will das ihm allein gehörende Haus verkaufen, in dem die Familie bis zur Trennung vor einem Jahr wohnte; F ist ausgezogen, die Scheidung ist noch nicht rechtskräftig. Welche Besonderheit muss der Notar beachten?",
   "optionen": [
    "Keine; nach der Trennung ist das Haus keine Familienwohnung mehr",
+   "M braucht keine Zustimmung, weil der Erwerber über § 1412 BGB geschützt ist, wenn der Güterstand nicht im Güterrechtsregister eingetragen ist",
    "M braucht die Zustimmung der F, weil die Wohnung bis zur rechtskräftigen Scheidung Familienwohnung bleibt (Art. 5 Abs. 1 2. Alt. Abkommen); ein Gutglaubensschutz des Erwerbers besteht nicht",
-   "M braucht die Zustimmung der F nur, wenn das Haus sein ganzes Vermögen ausmacht (§ 1365 BGB analog)",
-   "M braucht keine Zustimmung, weil der Erwerber über § 1412 BGB geschützt ist, wenn der Güterstand nicht im Güterrechtsregister eingetragen ist"
+   "M braucht die Zustimmung der F nur, wenn das Haus sein ganzes Vermögen ausmacht (§ 1365 BGB analog)"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Im Wahlgüterstand darf kein Ehegatte ohne Zustimmung des anderen über die ihm gehörende Familienwohnung verfügen (Art. 5 Abs. 1 2. Alt. Abkommen); Trennung und Auszug lassen die Eigenschaft als Familienwohnung nicht entfallen, erst die rechtskräftige Scheidung. Eine Beschränkung entsprechend § 1365 BGB kennt der Wahlgüterstand dagegen nicht. Einen Schutz des guten Glaubens Dritter gibt es nicht, da § 1412 BGB nach § 1519 S. 3 BGB ausdrücklich nicht anzuwenden ist; der Notar muss daher die Zustimmung der F einholen.",
   "id": "fami1-056"
  },
@@ -1252,16 +1281,22 @@
   "abschnitt": "Ehe und Güterrecht",
   "seite": "Deutsch-französische Wahl-Zugewinngemeinschaft: Voraussetzungen, Verwaltung und Familienwohnung",
   "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/deutsch-franzosische-wahl-zugewinngemeinschaft-voraussetzungen-verwaltung-und-familienwohnung",
-  "typ": "rf",
-  "schwierigkeit": 2,
+  "typ": "mc",
+  "schwierigkeit": 1,
   "normen": [
    "§ 1371 Abs. 1 BGB",
    "Art. 7 Abkommen"
   ],
-  "frage": "Stirbt ein Ehegatte im deutsch-französischen Wahlgüterstand, erhöht sich der gesetzliche Erbteil des Überlebenden wie in der Zugewinngemeinschaft nach § 1371 Abs. 1 BGB um ein Viertel.",
-  "antwort": false,
+  "frage": "Ein Ehegatte, der im deutsch-französischen Wahlgüterstand lebt, stirbt. Wie wirkt sich der Güterstand auf das gesetzliche Erbrecht des Überlebenden aus?",
+  "antwort": 2,
   "erklaerung": "Eine Erhöhung des gesetzlichen Erbteils nach § 1371 Abs. 1 BGB gibt es im Wahlgüterstand nicht, obwohl er sich im Übrigen weitgehend an die deutsche Zugewinngemeinschaft anlehnt (Art. 2 Abkommen). Der Tod eines Ehegatten beendet den Güterstand nach Art. 7 Abkommen; der Ausgleich richtet sich dann nach den Regeln des Abkommens über den Zugewinnausgleich.",
-  "id": "fami1-057"
+  "id": "fami1-057",
+  "optionen": [
+   "Der Überlebende erbt neben Kindern allein",
+   "Der Überlebende erhält stets die Hälfte des Nachlasses",
+   "Eine Erhöhung des gesetzlichen Erbteils nach § 1371 Abs. 1 BGB findet nicht statt",
+   "Der Erbteil erhöht sich wie in der Zugewinngemeinschaft um ein Viertel (§ 1371 Abs. 1 BGB)"
+  ]
  },
  {
   "kapitel": "familienrecht",
@@ -1269,7 +1304,7 @@
   "seite": "Deutsch-französische Wahl-Zugewinngemeinschaft: Voraussetzungen, Verwaltung und Familienwohnung",
   "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/deutsch-franzosische-wahl-zugewinngemeinschaft-voraussetzungen-verwaltung-und-familienwohnung",
   "typ": "rf",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "Art. 6 Abs. 1 Abkommen",
    "Art. 6 Abs. 2 Abkommen"
@@ -1292,10 +1327,10 @@
   ],
   "frage": "Ehefrau F brachte bei Begründung des Wahlgüterstands ein Grundstück im Wert von 200.000 EUR ein; bei Beendigung des Güterstands ist es 350.000 EUR wert. Mit welchem Wert ist das Grundstück im Anfangsvermögen anzusetzen?",
   "optionen": [
-   "Mit 200.000 EUR, dem Wert bei Beginn des Güterstands, indexiert um die Geldentwertung",
+   "Gar nicht, weil Grundstücke im Wahlgüterstand aus dem Zugewinnausgleich ausgenommen sind",
    "Mit 350.000 EUR, dem Wert bei Beendigung des Güterstands (Art. 9 Abs. 2 Abkommen)",
    "Mit dem Mittelwert aus beiden Stichtagen",
-   "Gar nicht, weil Grundstücke im Wahlgüterstand aus dem Zugewinnausgleich ausgenommen sind"
+   "Mit 200.000 EUR, dem Wert bei Beginn des Güterstands, indexiert um die Geldentwertung"
   ],
   "antwort": 1,
   "erklaerung": "Grundsätzlich wird das Anfangsvermögen mit dem Wert im Zeitpunkt des Erwerbs angesetzt (Art. 9 Abs. 1 Abkommen). Abweichend davon werden Grundstücke und grundstücksgleiche Rechte (außer Nießbrauch und Wohnrecht) mit ihrem Wert bei Beendigung des Güterstands bewertet (Art. 9 Abs. 2 Abkommen); wurde der Gegenstand veräußert oder ersetzt, gilt der Wert zu diesem Zeitpunkt. Die reine Wertsteigerung des Grundstücks fällt damit nicht in den Zugewinn – anders als nach deutschem Recht mit bloßer Indexierung.",
@@ -1357,17 +1392,17 @@
   "seite": "Deutsch-französische Wahl-Zugewinngemeinschaft: Zugewinnausgleich",
   "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/deutsch-franzosische-wahl-zugewinngemeinschaft-zugewinnausgleich",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "Art. 8 Abs. 1 S. 2 Abkommen",
    "Art. 10 Abs. 1 S. 2 Abkommen"
   ],
   "frage": "Wie werden Schulden bei der Ermittlung von Anfangs- und Endvermögen im Wahlgüterstand berücksichtigt?",
   "optionen": [
-   "Sie mindern das Vermögen nur bis auf null; ein negatives Anfangs- oder Endvermögen gibt es nicht",
-   "Sie mindern Anfangs- und Endvermögen auch über den Wert des Aktivvermögens hinaus",
    "Sie werden nur beim Endvermögen berücksichtigt",
-   "Sie bleiben außer Betracht, wenn sie vor der Ehe begründet wurden"
+   "Sie mindern Anfangs- und Endvermögen auch über den Wert des Aktivvermögens hinaus",
+   "Sie bleiben außer Betracht, wenn sie vor der Ehe begründet wurden",
+   "Sie mindern das Vermögen nur bis auf null; ein negatives Anfangs- oder Endvermögen gibt es nicht"
   ],
   "antwort": 1,
   "erklaerung": "Schulden mindern das Anfangsvermögen selbst über den Wert des Aktivvermögens hinaus (Art. 8 Abs. 1 S. 2 Abkommen), ebenso das Endvermögen (Art. 10 Abs. 1 S. 2 Abkommen); negatives Vermögen ist also möglich. Maßgeblich sind der Tag des Beginns bzw. der Beendigung des Güterstands. Eine Kappung bei null ist unzutreffend; die Begrenzung des Wahlgüterstands liegt stattdessen bei der Ausgleichsforderung (Art. 14 Abkommen).",
@@ -1385,12 +1420,12 @@
   ],
   "frage": "In welchem Fall kommt nach h. M. am ehesten eine konkludent vereinbarte Ehegatteninnengesellschaft in Betracht?",
   "optionen": [
-   "Die Ehefrau arbeitet jahrelang unentgeltlich im Handwerksbetrieb ihres Mannes mit",
+   "Die Ehefrau übernimmt Eigenleistungen beim Bau des gemeinsam bewohnten Hauses",
    "Der Ehemann stellt der Ehefrau Kapital für den Erwerb des Familienheims zur Verfügung",
-   "Die Ehegatten bauen gleichberechtigt gemeinsam einen Hotelbetrieb auf",
-   "Die Ehefrau übernimmt Eigenleistungen beim Bau des gemeinsam bewohnten Hauses"
+   "Die Ehefrau arbeitet jahrelang unentgeltlich im Handwerksbetrieb ihres Mannes mit",
+   "Die Ehegatten bauen gleichberechtigt gemeinsam einen Hotelbetrieb auf"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Nach ganz h. M. genügt nur ein gemeinsamer Zweck, der den üblichen Bereich des ehelichen Zusammenlebens überschreitet, etwa der gemeinsame Aufbau eines Unternehmens wie eines Hotelbetriebs; zudem müssen die Ehegatten im Vorhaben gleichberechtigt sein. Die bloße Mitarbeit im Betrieb des anderen oder die Bereitstellung von Kapital reicht nicht aus, ebenso wenig Leistungen für das Familienwohnheim. Die Innengesellschaft ist seit dem MoPeG in § 740 BGB geregelt.",
   "id": "fami1-063"
  },
@@ -1437,8 +1472,8 @@
   ],
   "frage": "Vor dem Standesamt heiratet die 17-jährige A den volljährigen B. Welche Rechtsfolge tritt ein?",
   "optionen": [
-   "Die Ehe ist wirksam, wenn das Familiengericht von der Volljährigkeit befreit hat",
    "Es liegt eine Nichtehe ohne jede Ehewirkung vor",
+   "Die Ehe ist wirksam, wenn das Familiengericht von der Volljährigkeit befreit hat",
    "Die Ehe ist aufhebbar (§ 1314 Abs. 1 Nr. 1 BGB), weil A bei der Eheschließung 16 oder 17 Jahre alt war",
    "Die Ehe ist voll wirksam und unangreifbar, weil A das 16. Lebensjahr vollendet hatte"
   ],
@@ -1458,12 +1493,12 @@
   ],
   "frage": "Unter welcher Voraussetzung wird eine Ehe, bei deren Schließung kein Standesbeamter mitgewirkt hat, nach § 1310 Abs. 3 BGB geheilt?",
   "optionen": [
-   "Die Ehegatten haben drei Jahre als Ehegatten zusammengelebt",
    "Eheschließungserklärungen wurden abgegeben, das Standesamt ist von einer gültigen Ehe ausgegangen, die Ehegatten haben zehn Jahre (bei vorherigem Tod eines Ehegatten fünf Jahre) zusammengelebt und es besteht kein Eheverbot",
+   "Ein Notar beurkundet die Eheschließungserklärungen nachträglich",
    "Ein Ehegatte bestätigt die Ehe nachträglich gegenüber dem Familiengericht",
-   "Ein Notar beurkundet die Eheschließungserklärungen nachträglich"
+   "Die Ehegatten haben drei Jahre als Ehegatten zusammengelebt"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "§ 1310 Abs. 3 BGB verlangt kumulativ abgegebene Eheschließungserklärungen, ein Verhalten des Standesamts, das von einer gültigen Ehe ausgeht (etwa Eintragung im Eheregister, Hinweis im Geburtenregister oder standesamtliche Bescheinigung), ein Zusammenleben als Ehegatten von zehn Jahren bzw. fünf Jahren bei vorherigem Tod eines Ehegatten und das Fehlen eines Eheverbots. Die Bestätigung schließt nur die Aufhebung einer aufhebbaren Ehe aus; sie heilt keine Nichtehe.",
   "id": "fami1-067"
  },
@@ -1472,15 +1507,21 @@
   "abschnitt": "Ehe und Güterrecht",
   "seite": "Eheschließung: Voraussetzungen, Nichtehe und Aufhebung",
   "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/eheschliessung-voraussetzungen-nichtehe-und-aufhebung",
-  "typ": "rf",
-  "schwierigkeit": 2,
+  "typ": "mc",
+  "schwierigkeit": 1,
   "normen": [
    "§ 1314 Abs. 2 Nr. 3 BGB"
   ],
-  "frage": "Eine arglistige Täuschung über die Vermögensverhältnisse berechtigt zur Aufhebung der Ehe.",
-  "antwort": false,
+  "frage": "Welche arglistige Täuschung berechtigt nach § 1314 Abs. 2 Nr. 3 BGB nicht zur Aufhebung der Ehe?",
+  "antwort": 0,
   "erklaerung": "Arglistige Täuschung ist zwar ein Aufhebungsgrund, ausdrücklich aber nicht, wenn sie sich auf die Vermögensverhältnisse bezieht (§ 1314 Abs. 2 Nr. 3 BGB). Weitere Aufhebungsgründe sind etwa widerrechtliche Drohung, Scheinehe, Doppelehe oder bedingte bzw. befristete Eheschließungserklärungen.",
-  "id": "fami1-068"
+  "id": "fami1-068",
+  "optionen": [
+   "Täuschung über die Vermögensverhältnisse",
+   "Täuschung über persönliche Eigenschaften, die von der Eheschließung abgehalten hätten",
+   "Täuschung über eine bestehende Lebenspartnerschaft",
+   "Täuschung über die Absicht, eine eheliche Lebensgemeinschaft zu führen"
+  ]
  },
  {
   "kapitel": "familienrecht",
@@ -1495,9 +1536,9 @@
   ],
   "frage": "Welche Aussage zu den Folgen der Eheaufhebung trifft zu?",
   "optionen": [
-   "Die Ehe gilt rückwirkend als nie geschlossen; Zugewinn- und Versorgungsausgleich finden nicht statt",
-   "Die Ehe ist mit Rechtskraft des Aufhebungsbeschlusses für die Zukunft aufgelöst; Unterhalt steht nur dem gutgläubigen, getäuschten oder bedrohten Ehegatten zu",
    "Beide Ehegatten haben stets gegenseitige Unterhaltsansprüche wie nach einer Scheidung",
+   "Die Ehe ist mit Rechtskraft des Aufhebungsbeschlusses für die Zukunft aufgelöst; Unterhalt steht nur dem gutgläubigen, getäuschten oder bedrohten Ehegatten zu",
+   "Die Ehe gilt rückwirkend als nie geschlossen; Zugewinn- und Versorgungsausgleich finden nicht statt",
    "Stirbt ein Ehegatte während des Verfahrens, behält der andere sein gesetzliches Ehegattenerbrecht in jedem Fall"
   ],
   "antwort": 1,
@@ -1551,12 +1592,12 @@
   ],
   "frage": "Welche Rechtsfolge hat es, wenn ein Ehevertrag die Wirksamkeitskontrolle besteht, aber an der Ausübungskontrolle nach § 242 BGB scheitert?",
   "optionen": [
+   "Der benachteiligte Ehegatte kann vom Vertrag zurücktreten",
    "Der Ehevertrag ist insgesamt nichtig; es gilt das gesetzliche Scheidungsfolgenrecht",
-   "Der Ehevertrag bleibt wirksam; das Gericht passt ihn nach dem mutmaßlichen Parteiwillen an die veränderten Verhältnisse an",
    "Nur die beanstandete Klausel ist nichtig, der Rest bleibt unverändert bestehen",
-   "Der benachteiligte Ehegatte kann vom Vertrag zurücktreten"
+   "Der Ehevertrag bleibt wirksam; das Gericht passt ihn nach dem mutmaßlichen Parteiwillen an die veränderten Verhältnisse an"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Anders als bei der Wirksamkeitskontrolle bleibt der Ehevertrag bei der Ausübungskontrolle wirksam; das Gericht passt ihn an die veränderten Verhältnisse an, gestützt auf den mutmaßlichen Parteiwillen und einen ausgewogenen Ausgleich der Belange. Je zentraler die Folge im Kernbereich steht, desto stärker orientiert sich die Anpassung am Gesetz; der benachteiligte Ehegatte darf aber nicht besser stehen als bei fortgesetzter Berufstätigkeit. Die Gesamtnichtigkeit ist dagegen die typische Folge eines sittenwidrigen Vertrags im Rahmen der Wirksamkeitskontrolle.",
   "id": "fami1-071"
  },
@@ -1572,12 +1613,12 @@
   ],
   "frage": "Welcher nachträglich eingetretene Umstand rechtfertigt nach der Rechtsprechung für sich allein keine Anpassung eines Unterhaltsverzichts im Wege der Ausübungskontrolle?",
   "optionen": [
-   "Ein ungeplantes gemeinsames Kind, dessen Betreuung ein Ehegatte übernimmt",
    "Die schwere Erkrankung eines bei Vertragsschluss wirtschaftlich selbständigen Ehegatten",
    "Ein unerwartet starker Einkommensanstieg eines Ehegatten nach Vertragsschluss",
+   "Ein ungeplantes gemeinsames Kind, dessen Betreuung ein Ehegatte übernimmt",
    "Eine von der Lebensplanung wesentlich abweichende, einvernehmlich gelebte Rollenverteilung"
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "Ein unerwartet starker Einkommensanstieg eines Ehegatten genügt allein nicht (BGH FamRZ 2007, 975; BGH FamRZ 2008, 386). Dagegen kann die spätere Erkrankung eines bei Vertragsschluss selbständigen Ehegatten eine Korrektur rechtfertigen (BGH FamRZ 2008, 582), und die Berufung auf einen Unterhaltsverzicht ist vor allem rechtsmissbräuchlich, wenn nachträglich schutzwürdige Interessen gemeinsamer Kinder berührt sind (BGH FamRZ 1997, 873). Typischer Anlass ist im Übrigen die wesentliche Abweichung der gelebten Ehe von der Lebensplanung bei Vertragsschluss.",
   "id": "fami1-072"
  },
@@ -1608,12 +1649,12 @@
   ],
   "frage": "Welche Ersatzregelung sollte der Notar in einem Ehevertrag mit Unterhaltsverzicht vorzugsweise aufnehmen, um das Risiko der Sittenwidrigkeit abzufedern?",
   "optionen": [
-   "Eine salvatorische Klausel, wonach der Vertrag im Übrigen wirksam bleibt, falls einzelne Regelungen sittenwidrig sind",
-   "Eine pauschale Ersetzungsklausel, wonach an die Stelle unwirksamer Regelungen das gesetzlich Zulässige tritt",
+   "Keine Ersatzregelung, da bei Sittenwidrigkeit ohnehin das Gericht den Vertrag anpasst",
    "Eine konkrete Ersatzregelung, die die Beteiligten vorab als zweitbeste Lösung ausgehandelt haben",
-   "Keine Ersatzregelung, da bei Sittenwidrigkeit ohnehin das Gericht den Vertrag anpasst"
+   "Eine salvatorische Klausel, wonach der Vertrag im Übrigen wirksam bleibt, falls einzelne Regelungen sittenwidrig sind",
+   "Eine pauschale Ersetzungsklausel, wonach an die Stelle unwirksamer Regelungen das gesetzlich Zulässige tritt"
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "Salvatorische Klauseln, die Teile eines insgesamt sittenwidrigen Ehevertrags halten sollen, sind unwirksam. Zulässig sind Ersetzungsklauseln, die die Ersatzregelung bestimmen; vorzugswürdig ist eine konkrete, vorab als zweitbeste Lösung ausgehandelte Ersatzregelung, weil pauschale Ersetzungsklauseln schwer auszulegen sind. Eine gerichtliche Anpassung gibt es nur bei der Ausübungskontrolle; ein sittenwidriger Ehevertrag ist dagegen meist insgesamt nichtig.",
   "id": "fami1-074"
  },
@@ -1635,8 +1676,8 @@
     "optionen": [
      "Beurkundung wie gewünscht; die Genehmigung der F heilt alle Verfahrensmängel",
      "Vorbesprechung mit beiden Ehegatten, bei Bedarf mit Dolmetscher, rechtzeitige Übersendung des Entwurfs an beide und persönliche Anwesenheit beider bei der Beurkundung; Vertretung und Genehmigung vermeiden",
-     "Beurkundung mit Vollmacht der F genügt, wenn F anwaltlich beraten ist",
-     "Der Notar beurkundet nur die Erklärung des U und lässt F später eine Unterschrift beglaubigen"
+     "Der Notar beurkundet nur die Erklärung des U und lässt F später eine Unterschrift beglaubigen",
+     "Beurkundung mit Vollmacht der F genügt, wenn F anwaltlich beraten ist"
     ],
     "antwort": 1,
     "erklaerung": "Der Notar sollte Vorbesprechungen mit beiden Ehegatten führen, bei Bedarf mit Dolmetscher (OLG Koblenz, FamRZ 2004, 200), den Entwurf beiden rechtzeitig übersenden und ausreichend Prüfungszeit lassen. Beide sollten persönlich anwesend sein; Beurkundung mit Vollmacht oder vorbehaltlich Genehmigung ist zu vermeiden. Zudem sollten möglichst beide anwaltlich beraten werden, da die Beratung nur eines Ehegatten eine Unterlegenheit begründen kann (OLG Hamm FamRZ 2010, 1904f.)."
@@ -1644,23 +1685,23 @@
    {
     "frage": "Wie sollte der Unterhaltsverzicht inhaltlich gestaltet werden?",
     "optionen": [
-     "Totalverzicht beibehalten, da Unterhalt nicht zum Kernbereich gehört",
      "Basisunterhalt wegen Kindesbetreuung und kindbezogenen Verlängerungsunterhalt ausnehmen und statt eines Totalverzichts eine zeitliche oder betragsmäßige Begrenzung wählen, die ehebedingte Nachteile sicher ausgleicht",
-     "Verzicht auf Betreuungsunterhalt gegen eine einmalige symbolische Abfindung",
-     "Den Verzicht unter die Bedingung stellen, dass keine Kinder geboren werden"
+     "Totalverzicht beibehalten, da Unterhalt nicht zum Kernbereich gehört",
+     "Den Verzicht unter die Bedingung stellen, dass keine Kinder geboren werden",
+     "Verzicht auf Betreuungsunterhalt gegen eine einmalige symbolische Abfindung"
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "Eine evident einseitige Lastenverteilung ist zu vermeiden; in den obersten Rangstufen des Kernbereichs sind mindestens ehebedingte Nachteile zu kompensieren. Basisunterhalt wegen Kindesbetreuung und kindbezogener Verlängerungsunterhalt sind regelmäßig vom Verzicht auszunehmen; statt eines Totalverzichts empfiehlt sich eine zeitliche oder betragsmäßige Begrenzung, die ehebedingte Nachteile sicher ausgleicht."
    },
    {
     "frage": "Was sollte zusätzlich in die Urkunde aufgenommen werden?",
     "optionen": [
-     "Nur die Regelungen selbst; Motive gehören nicht in die Urkunde",
      "Eine Präambel mit Beweggründen, Lebens- und Einkommenssituation, geplantem Ehezuschnitt, wirtschaftlicher Ausgangslage und Ablauf des Beurkundungsverfahrens sowie die Belehrung über eine mögliche gerichtliche Anpassung",
+     "Nur die Regelungen selbst; Motive gehören nicht in die Urkunde",
      "Eine Erklärung, dass der Vertrag unabhängig von künftigen Entwicklungen unverändert fortbesteht",
      "Eine salvatorische Klausel, die den Vertrag bei Sittenwidrigkeit einzelner Teile aufrechterhält"
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "Beweggründe, Lebens- und Einkommenssituation, geplanter Ehezuschnitt, wirtschaftliche Ausgangslage, alle für das subjektive Moment wichtigen Umstände und der Ablauf des Beurkundungsverfahrens gehören in die Urkunde. Die Beteiligten sind zu belehren, dass der Vertrag bei Änderung maßgeblicher Umstände gerichtlich angepasst werden kann; ein unveränderter Fortbestand ist nicht garantiert. Salvatorische Klauseln zur Rettung eines insgesamt sittenwidrigen Vertrags sind unwirksam."
    }
   ],
@@ -1680,12 +1721,12 @@
   ],
   "frage": "In welcher Reihenfolge prüft das Gericht einen Ehevertrag, und auf welchen Zeitpunkt kommt es bei der ersten Stufe an?",
   "optionen": [
-   "Zuerst Ausübungskontrolle (§ 242 BGB) nach den Verhältnissen bei Scheidung, dann Wirksamkeitskontrolle (§ 138 BGB)",
-   "Zuerst Wirksamkeitskontrolle (§ 138 BGB) nach den Verhältnissen bei Vertragsschluss, dann Ausübungskontrolle (§ 242 BGB)",
    "Nur eine einheitliche Billigkeitskontrolle nach den Verhältnissen bei Scheidung",
-   "Zuerst Wirksamkeitskontrolle nach den Verhältnissen bei Scheidung, dann Anfechtung nach § 123 BGB"
+   "Zuerst Ausübungskontrolle (§ 242 BGB) nach den Verhältnissen bei Scheidung, dann Wirksamkeitskontrolle (§ 138 BGB)",
+   "Zuerst Wirksamkeitskontrolle nach den Verhältnissen bei Scheidung, dann Anfechtung nach § 123 BGB",
+   "Zuerst Wirksamkeitskontrolle (§ 138 BGB) nach den Verhältnissen bei Vertragsschluss, dann Ausübungskontrolle (§ 242 BGB)"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Die gerichtliche Kontrolle hat zwei Stufen: Zuerst prüft das Gericht die Sittenwidrigkeit nach § 138 BGB, maßgeblich sind die Verhältnisse bei Vertragsschluss. Besteht der Vertrag diese Prüfung, folgt die Ausübungskontrolle nach § 242 BGB, die spätere Veränderungen der Lebensverhältnisse erfasst. Eine Umkehr der Reihenfolge oder ein Abstellen auf den Scheidungszeitpunkt bei der Wirksamkeitskontrolle ist falsch.",
   "id": "fami1-076"
  },
@@ -1695,7 +1736,7 @@
   "seite": "Ehevertrag: Wirksamkeitskontrolle und Kernbereichslehre",
   "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehevertrag-wirksamkeitskontrolle-und-kernbereichslehre",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 1570 BGB",
    "§ 1572 BGB",
@@ -1703,12 +1744,12 @@
   ],
   "frage": "Welche Scheidungsfolge genießt nach der Kernbereichslehre den höchsten Schutz?",
   "optionen": [
-   "Der Zugewinnausgleich",
-   "Der Aufstockungsunterhalt (§ 1573 Abs. 2 BGB)",
    "Der Betreuungsunterhalt (§ 1570 BGB) einschließlich des kindbezogenen Verlängerungsunterhalts",
-   "Der Unterhalt wegen Erwerbslosigkeit (§ 1573 Abs. 1 BGB)"
+   "Der Zugewinnausgleich",
+   "Der Unterhalt wegen Erwerbslosigkeit (§ 1573 Abs. 1 BGB)",
+   "Der Aufstockungsunterhalt (§ 1573 Abs. 2 BGB)"
   ],
-  "antwort": 2,
+  "antwort": 0,
   "erklaerung": "An der Spitze der Rangfolge steht der Betreuungsunterhalt nach § 1570 BGB, jedenfalls einschließlich des kindbezogenen Verlängerungsunterhalts. Es folgen Krankheits- und Altersunterhalt (§§ 1572, 1571 BGB) sowie auf gleicher Stufe der Versorgungsausgleich, danach Unterhalt wegen Erwerbslosigkeit und Vorsorgeunterhalt, dann Aufstockungs- und Ausbildungsunterhalt. Am weitesten disponibel sind Zugewinnausgleich und Ehegattenerbrecht.",
   "id": "fami1-077"
  },
@@ -1788,12 +1829,12 @@
   ],
   "frage": "Welcher Umstand spricht nach der Rechtsprechung regelmäßig dagegen, einen Ehevertrag subjektiv zu beanstanden?",
   "optionen": [
+   "Nur der begünstigte Ehegatte war anwaltlich beraten",
    "Der Vertrag wurde am Morgen der Hochzeit mit der schwangeren Verlobten geschlossen",
    "Die Ehefrau ist beim Ehemann angestellt",
-   "Die Initiative zum Ehevertrag ging während bestehender Ehe vom verzichtenden Ehegatten selbst aus",
-   "Nur der begünstigte Ehegatte war anwaltlich beraten"
+   "Die Initiative zum Ehevertrag ging während bestehender Ehe vom verzichtenden Ehegatten selbst aus"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Geht die Initiative zum Ehevertrag während bestehender Ehe vom verzichtenden Ehegatten selbst aus, ist der Vertrag subjektiv regelmäßig nicht zu beanstanden (OLG Stuttgart, FamRZ 2007, 292). Die übrigen Umstände sind Indizien einer unterlegenen Verhandlungsposition: Abschluss unter Hochzeitsdruck mit einer Schwangeren (BGH FamRZ 2005, 1444), wirtschaftliche Abhängigkeit durch ein Arbeitsverhältnis (BGH FamRZ 2005, 691) und anwaltliche Beratung nur eines Ehegatten (OLG Hamm, FamRZ 2010, 1904 f.). Indizien bleiben aber widerlegbar, etwa durch Vermögen oder Qualifikation des Belasteten.",
   "id": "fami1-081"
  },
@@ -1811,8 +1852,8 @@
   "optionen": [
    "Sie bleibt wirksam, weil Gütertrennung allein unbedenklich ist und das Güterrecht nicht zum Kernbereich gehört",
    "Sie ist unwirksam, weil sich die Sittenwidrigkeit des Versorgungsausgleichsausschlusses auf den ganzen Vertrag einschließlich der Gütertrennung erstreckt",
-   "Sie bleibt wirksam, wenn der Vertrag eine salvatorische Klausel enthält",
-   "Sie bleibt wirksam, wenn sie in einer gesonderten Urkunde am selben Tag beurkundet wurde"
+   "Sie bleibt wirksam, wenn sie in einer gesonderten Urkunde am selben Tag beurkundet wurde",
+   "Sie bleibt wirksam, wenn der Vertrag eine salvatorische Klausel enthält"
   ],
   "antwort": 1,
   "erklaerung": "Gütertrennung allein ist unbedenklich; der BGH sah aber den Ausschluss des Versorgungsausgleichs gegenüber einer schwangeren Ehefrau als sittenwidrig an und erstreckte die Sittenwidrigkeit auf den ganzen Vertrag einschließlich der Gütertrennung (FamRZ 2008, 2011 ff.). Eine Aufteilung auf mehrere zeitlich oder sachlich eng zusammenhängende Urkunden ändert daran nichts. Salvatorische Klauseln helfen regelmäßig nicht, wenn die Sittenwidrigkeit aus der Gesamtschau folgt.",
@@ -1860,10 +1901,10 @@
   ],
   "frage": "Wie lässt sich ein Ausschluss des Versorgungsausgleichs absichern, wenn absehbar ist, dass ein Ehegatte wegen Kinderbetreuung auf versorgungsbegründende Erwerbstätigkeit verzichtet?",
   "optionen": [
-   "Gar nicht; der Versorgungsausgleich ist in diesem Fall stets unverzichtbar",
+   "Durch eine Erklärung des Verzichtenden, dass er die Tragweite verstanden hat",
    "Durch eine Kompensation, etwa einen vertraglichen Altersunterhalt, der auch nach dem Tod des Verpflichteten fortläuft",
    "Durch die Vereinbarung von Gütertrennung als Ausgleich",
-   "Durch eine Erklärung des Verzichtenden, dass er die Tragweite verstanden hat"
+   "Gar nicht; der Versorgungsausgleich ist in diesem Fall stets unverzichtbar"
   ],
   "antwort": 1,
   "erklaerung": "Ein Ausschluss des Versorgungsausgleichs ohne Kompensation ist bedenklich, wenn ein Ehegatte Kinder betreut oder dies absehbar ist und dadurch Nachteile in der Altersvorsorge entstehen (OLG Köln, FamRZ 2010, 29 ff.; OLG Hamm, FamRZ 2010, 104 f.). Als Kompensation kommt ein vertraglicher Altersunterhalt in Betracht, der auch nach dem Tod des Verpflichteten fortläuft (OLG Karlsruhe, FamRZ 2010, 34 ff.). Gütertrennung kompensiert nichts, sondern verschärft die Nachteile; eine bloße Verständniserklärung beseitigt die objektive Einseitigkeit nicht.",
@@ -1882,11 +1923,11 @@
   "frage": "Ehefrau F investiert 100.000 EUR aus einer Erbschaft (Anfangsvermögen) in das Haus ihres Mannes M; die Ehegatten leben im gesetzlichen Güterstand und treffen keine Vereinbarung. Was erhält F bei Scheidung über den Zugewinnausgleich zurück?",
   "optionen": [
    "Den vollen Betrag von 100.000 EUR",
-   "Nur die Hälfte, also 50.000 EUR",
+   "Den Betrag nebst 5,5 Prozent Zinsen",
    "Nichts, weil die Erbschaft privilegiert ist",
-   "Den Betrag nebst 5,5 Prozent Zinsen"
+   "Nur die Hälfte, also 50.000 EUR"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Investiert ein Ehegatte Geld aus seinem Anfangsvermögen in die Immobilie des anderen, erhält er über den Zugewinnausgleich nur die Hälfte zurück, weil der Betrag nun den Zugewinn des Empfängers erhöht. Um dies zu vermeiden, kommen Darlehen, GbR-Lösung oder ehebedingte Zuwendung mit Rückforderungsrecht in Betracht. Die 5,5 Prozent nach dem BewG betreffen nur die schenkungsteuerliche Bewertung eines zinslosen Darlehens.",
   "id": "fami1-086"
  },
@@ -1917,12 +1958,12 @@
   ],
   "frage": "Welche Gestaltung ist nach dem Handbuch in der Regel die einfachste, damit ein Ehegatte einen aus seinem Anfangsvermögen in die Immobilie des anderen investierten Betrag im Scheidungsfall zurückerhält?",
   "optionen": [
-   "Ein verzinsliches Ehegattendarlehen mit 5,5 Prozent Zinsen",
    "Eine ehebedingte Zuwendung mit Rückforderungsrecht für den Scheidungsfall, gegebenenfalls gesichert durch eine Sicherungshypothek",
+   "Ein Pflichtteilsverzicht des Empfängers",
    "Eine konkludente Ehegatteninnengesellschaft",
-   "Ein Pflichtteilsverzicht des Empfängers"
+   "Ein verzinsliches Ehegattendarlehen mit 5,5 Prozent Zinsen"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Die einfachste Lösung ist in der Regel die ehebedingte Zuwendung mit Rückforderungsrecht im Scheidungsfall (gegebenenfalls auch im Todesfall); eine Verzinsung ist nicht erforderlich, weil nur eine Zuwendung rückabgewickelt wird, und der Anspruch kann durch eine Sicherungshypothek gesichert werden. Zu beachten ist die mögliche Schenkungsteuer auf die Zuwendung. Ein Darlehen ist möglich, doch ist eine Verzinsung zwischen Ehegatten oft nicht gewollt, und ein zinsloses Darlehen enthält eine Schenkung des Zinsanteils; auf eine konkludente Innengesellschaft sollte man sich wegen der hohen Anforderungen nicht verlassen.",
   "id": "fami1-088"
  },
@@ -1953,12 +1994,12 @@
   ],
   "frage": "Ein Italiener und eine Spanierin heiraten 2021 in Rom und begründen danach ihren ersten gemeinsamen gewöhnlichen Aufenthalt in München; eine Rechtswahl treffen sie nicht. Welches Güterrecht gilt?",
   "optionen": [
+   "Für unbewegliches Vermögen das Recht des Belegenheitsstaats, im Übrigen deutsches Recht",
    "Italienisches Recht als Recht des Eheschließungsorts",
    "Deutsches Recht als Recht des ersten gemeinsamen gewöhnlichen Aufenthalts nach der Eheschließung (Art. 26 Abs. 1 EuGüVO)",
-   "Für jeden Ehegatten sein Heimatrecht",
-   "Für unbewegliches Vermögen das Recht des Belegenheitsstaats, im Übrigen deutsches Recht"
+   "Für jeden Ehegatten sein Heimatrecht"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Für Ehen ab dem 29.01.2019 gilt die EuGüVO. Ohne Rechtswahl beruft Art. 26 Abs. 1 EuGüVO in erster Linie das Recht des Staates des ersten gemeinsamen gewöhnlichen Aufenthalts nach der Eheschließung, hier Deutschland; erst hilfsweise gilt die gemeinsame Staatsangehörigkeit, die hier fehlt. Der Eheschließungsort ist kein Anknüpfungspunkt, und nach Art. 21 EuGüVO gilt ein einheitliches Güterrecht für alle Vermögensgegenstände, gleich wo sie belegen sind.",
   "id": "fami1-090"
  },
@@ -1967,16 +2008,22 @@
   "abschnitt": "Ehe und Güterrecht",
   "seite": "Güterrecht mit Auslandsbezug: Altehen und Ehen ab 29.01.2019",
   "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/guterrecht-mit-auslandsbezug-altehen-und-ehen-ab-29012019",
-  "typ": "rf",
+  "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
    "Art. 15 Abs. 1 EGBGB aF",
    "Art. 14 EGBGB"
   ],
-  "frage": "Erwirbt ein Ehegatte einer 2010 geschlossenen Ehe zwischen zwei türkischen Staatsangehörigen später die deutsche Staatsangehörigkeit, gilt für die Ehe ab diesem Zeitpunkt deutsches Güterrecht.",
-  "antwort": false,
+  "frage": "Die Türken T und S heirateten 2010 in Istanbul und leben seit 2012 in Deutschland; 2020 wurde T eingebürgert. Welches Güterrecht gilt aus deutscher Sicht?",
+  "antwort": 2,
   "erklaerung": "Für Altehen vor dem 29.01.2019 verweist Art. 15 Abs. 1 EGBGB aF auf das Recht, das bei Eheschließung für die allgemeinen Ehewirkungen nach Art. 14 EGBGB maßgeblich war; die Anknüpfung ist unwandelbar. Ein späterer Wechsel der Staatsangehörigkeit ändert das Güterrechtsstatut daher nicht. Ohne Prüfung deutsches Güterrecht anzunehmen ist ein typischer Fehler.",
-  "id": "fami1-091"
+  "id": "fami1-091",
+  "optionen": [
+   "Für T deutsches, für S türkisches Recht",
+   "Deutsches Recht, weil die EuGüVO ab 29.01.2019 für alle Ehen gilt",
+   "Weiterhin das bei Eheschließung nach Art. 14 EGBGB maßgebliche Recht, weil die Anknüpfung nach Art. 15 Abs. 1 EGBGB aF unwandelbar ist",
+   "Deutsches Recht ab der Einbürgerung"
+  ]
  },
  {
   "kapitel": "familienrecht",
@@ -2050,8 +2097,8 @@
     "optionen": [
      "Nein, für Altehen gilt ausschließlich Art. 15 EGBGB aF",
      "Ja, die Kollisionsnormen der EuGüVO erfassen auch Rechtswahlen nach dem 29.01.2019; mit der Rechtswahl unterstellen sich die Ehegatten der Verordnung (Art. 69 Abs. 3 EuGüVO)",
-     "Nur mit Genehmigung des Familiengerichts",
-     "Nur wenn beide Ehegatten dieselbe Staatsangehörigkeit besitzen"
+     "Nur wenn beide Ehegatten dieselbe Staatsangehörigkeit besitzen",
+     "Nur mit Genehmigung des Familiengerichts"
     ],
     "antwort": 1,
     "erklaerung": "Nach Art. 69 Abs. 3 EuGüVO erfassen die Kollisionsnormen der Verordnung Ehen, die nach dem 29.01.2019 geschlossen wurden, und Rechtswahlen nach diesem Tag. Treffen Ehegatten einer Altehe eine Rechtswahl nach Art. 22 ff. EuGüVO, unterstellen sie sich damit der Verordnung."
@@ -2059,23 +2106,23 @@
    {
     "frage": "Welche Rechte stehen zur Wahl?",
     "optionen": [
-     "Nur das Recht des Eheschließungsorts",
-     "Das Recht des gewöhnlichen Aufenthalts oder das Heimatrecht jedes Ehegatten im Zeitpunkt der Rechtswahl, hier deutsches oder niederländisches Recht (Art. 22 Abs. 1 EuGüVO)",
      "Jedes beliebige Recht eines EU-Mitgliedstaats",
-     "Nur das Recht des Belegenheitsorts ihres Grundbesitzes"
+     "Nur das Recht des Belegenheitsorts ihres Grundbesitzes",
+     "Das Recht des gewöhnlichen Aufenthalts oder das Heimatrecht jedes Ehegatten im Zeitpunkt der Rechtswahl, hier deutsches oder niederländisches Recht (Art. 22 Abs. 1 EuGüVO)",
+     "Nur das Recht des Eheschließungsorts"
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Art. 22 Abs. 1 EuGüVO erlaubt die Wahl zwischen dem Aufenthaltsrecht und dem Heimatrecht jedes Ehegatten, jeweils bezogen auf den Zeitpunkt der Rechtswahl. Wählbar sind daher deutsches Recht (Aufenthalt beider, Staatsangehörigkeit der D) und niederländisches Recht (Staatsangehörigkeit des N). Eine Wahl des Belegenheitsrechts für Grundbesitz kannte nur Art. 15 Abs. 2 EGBGB aF."
    },
    {
     "frage": "Ab wann wirkt die Rechtswahl und in welcher Form ist sie zu treffen?",
     "optionen": [
-     "Rückwirkend ab Eheschließung; formfrei",
      "Nur für die Zukunft, sofern die Ehegatten nichts anderes vereinbaren; mindestens schriftlich, datiert und von beiden unterzeichnet, wobei strengere Formvorschriften des Aufenthaltsstaats gelten (Art. 22 Abs. 2, Art. 23 EuGüVO)",
      "Ab Eintragung in das Güterrechtsregister",
-     "Erst mit Ablauf eines Jahres nach der Erklärung"
+     "Erst mit Ablauf eines Jahres nach der Erklärung",
+     "Rückwirkend ab Eheschließung; formfrei"
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "Eine Rechtswahl während der Ehe wirkt nur für die Zukunft, wenn die Ehegatten nichts anderes vereinbaren; eine Rückwirkung darf Rechte Dritter nicht beeinträchtigen (Art. 22 Abs. 2, 3 EuGüVO). Die Rechtswahl muss schriftlich, datiert und von beiden unterzeichnet sein (Art. 23 Abs. 1 EuGüVO); sieht das Recht des Mitgliedstaats des gemeinsamen gewöhnlichen Aufenthalts strengere Formvorschriften für Güterstandsvereinbarungen vor, gelten diese (Art. 23 Abs. 2 bis 4 EuGüVO)."
    }
   ],

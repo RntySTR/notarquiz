@@ -1,0 +1,366 @@
+[
+ {
+  "id": "vorm1-001",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Bergwerkseigentum: Übertragung und Genehmigung nach dem BBergG",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/bergwerkseigentum-ubertragung-und-genehmigung-nach-dem-bbergg",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 23 Abs. 2 S. 2 BBergG"
+  ],
+  "frage": "Innerhalb welcher Frist muss die Genehmigung der Veräußerung von Bergwerkseigentum versagt werden, damit keine Genehmigungsfiktion eintritt?",
+  "optionen": [
+   "Innerhalb eines Monats nach Eingang des Antrags",
+   "Innerhalb von drei Monaten nach Abschluss des Rechtsgeschäfts",
+   "Innerhalb von zwei Monaten nach Eingang des Antrags",
+   "Innerhalb von sechs Wochen nach Eingang des Antrags"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 23 Abs. 2 S. 2 BBergG gilt die Genehmigung als erteilt, wenn sie nicht innerhalb von zwei Monaten nach Eingang des Antrags versagt wird. Die Monatsfrist ist aus § 22 BauGB bekannt, passt aber nicht für das Bergrecht. Maßgeblich ist der Antragseingang, nicht der Vertragsschluss; die Genehmigung kann sogar schon vor Abschluss des Rechtsgeschäfts beantragt werden."
+ },
+ {
+  "id": "vorm1-002",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Bergwerkseigentum: Übertragung und Genehmigung nach dem BBergG",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/bergwerkseigentum-ubertragung-und-genehmigung-nach-dem-bbergg",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 9 Abs. 2 BBergG"
+  ],
+  "frage": "Da auf das Bergwerkseigentum die Grundstücksvorschriften des BGB entsprechend anzuwenden sind, kann es mit einem Grundstück vereinigt werden.",
+  "antwort": false,
+  "erklaerung": "Trotz entsprechender Anwendung der Grundstücksvorschriften verbietet § 9 Abs. 2 BBergG ausdrücklich die Vereinigung von Bergwerkseigentum mit einem Grundstück. Die Gleichstellung betrifft etwa Übertragung (§ 925 BGB) und Beurkundungspflicht (§ 311b Abs. 1 S. 1 BGB), nicht aber die Vereinigung."
+ },
+ {
+  "id": "vorm1-003",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Bergwerkseigentum: Übertragung und Genehmigung nach dem BBergG",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/bergwerkseigentum-ubertragung-und-genehmigung-nach-dem-bbergg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 925 BGB",
+   "§ 311b Abs. 1 S. 1 BGB",
+   "§ 23 Abs. 1 BBergG"
+  ],
+  "frage": "Welche Anforderungen gelten für den Verkauf von Bergwerkseigentum?",
+  "optionen": [
+   "Beurkundung des Kaufvertrags, Auflassung und bergrechtliche Genehmigung der Veräußerung",
+   "Schriftform des Kaufvertrags und bergrechtliche Genehmigung, Übertragung durch Abtretung",
+   "Beurkundung des Kaufvertrags und Auflassung; eine Genehmigung ist nur bei Teilung erforderlich",
+   "Öffentliche Beglaubigung der Abtretungserklärung und Eintragung im Berggrundbuch"
+  ],
+  "antwort": 0,
+  "erklaerung": "Weil die Grundstücksvorschriften entsprechend gelten, wird Bergwerkseigentum nach § 925 BGB aufgelassen, und der Kaufvertrag bedarf nach § 311b Abs. 1 S. 1 BGB der Beurkundung. Zusätzlich ist die Veräußerung nach § 23 Abs. 1 BBergG genehmigungspflichtig. Die Genehmigungspflicht ist nicht auf Zusammenlegung und Teilung beschränkt; diese sind lediglich ebenfalls genehmigungsbedürftig."
+ },
+ {
+  "id": "vorm1-004",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Bergwerkseigentum: Übertragung und Genehmigung nach dem BBergG",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/bergwerkseigentum-ubertragung-und-genehmigung-nach-dem-bbergg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 23 Abs. 1 BBergG",
+   "§ 11 BBergG"
+  ],
+  "frage": "Aus welchem Grund darf die Genehmigung der Veräußerung von Bergwerkseigentum versagt werden?",
+  "optionen": [
+   "Wenn der Kaufpreis erheblich vom Verkehrswert abweicht",
+   "Wenn ein planvoller und sachgerechter Abbau der Bodenschätze gefährdet ist",
+   "Wenn die Gemeinde ein Vorkaufsrecht ausüben möchte",
+   "Wenn das Bergwerkseigentum mit Grundpfandrechten belastet ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Versagung ist nur aus Gründen des öffentlichen Wohls zulässig; diese liegen vor, wenn ein planvoller und sachgerechter Abbau der Bodenschätze gefährdet ist oder in der Person des Erwerbers Versagungsgründe im Sinne des § 11 BBergG bestehen. Eine Preiskontrolle, wie sie etwa das Grundstückverkehrsrecht kennt, sieht das Bergrecht nicht vor."
+ },
+ {
+  "id": "vorm1-005",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Genehmigung in Fremdenverkehrsgebieten nach § 22 BauGB: Genehmigungsanspruch, Grundbuchsperre und Verfahren",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/genehmigung-in-fremdenverkehrsgebieten-nach-22-baugb-genehmigungsanspruch-grundbuchsperre-und-verfahren",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [],
+  "frage": "Wie lange hat die Baugenehmigungsbehörde nach Antragseingang für die Entscheidung über eine Genehmigung nach § 22 BauGB Zeit, und wie weit kann diese Frist verlängert werden?",
+  "optionen": [
+   "Zwei Monate; Verlängerung einmalig um zwei Monate",
+   "Einen Monat; Verlängerung durch Zwischenbescheid um insgesamt höchstens drei Monate",
+   "Einen Monat; eine Verlängerung ist ausgeschlossen",
+   "Drei Monate; Verlängerung durch Zwischenbescheid um höchstens einen Monat"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Baugenehmigungsbehörde entscheidet im Einvernehmen mit der Gemeinde innerhalb eines Monats ab Antragseingang. Durch Zwischenbescheid kann die Frist, auch mehrfach, um insgesamt höchstens drei Monate verlängert werden. Nach Fristablauf ohne Entscheidung gilt die Genehmigung als erteilt; für den Grundbuchvollzug besteht Anspruch auf ein Fiktionszeugnis."
+ },
+ {
+  "id": "vorm1-006",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Genehmigung in Fremdenverkehrsgebieten nach § 22 BauGB: Genehmigungsanspruch, Grundbuchsperre und Verfahren",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/genehmigung-in-fremdenverkehrsgebieten-nach-22-baugb-genehmigungsanspruch-grundbuchsperre-und-verfahren",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 22 Abs. 6 S. 1 BauGB",
+   "§ 22 Abs. 2 S. 3 BauGB"
+  ],
+  "frage": "Unter welchen Voraussetzungen darf das Grundbuchamt nach der Rechtsprechung im Hinblick auf § 22 BauGB ein Negativzeugnis verlangen?",
+  "optionen": [
+   "Bei jeder Eintragung von Wohnungseigentum im gesamten Bundesgebiet",
+   "Nur wenn die Beteiligten im Vertrag eine Fremdenverkehrsnutzung angeben",
+   "Nur wenn die Gemeinde es über die Satzung unterrichtet hat oder es die Satzung sonst kennt",
+   "Nur wenn die Gemeinde zuvor ein allgemeines Negativattest durch Allgemeinverfügung erlassen hat"
+  ],
+  "antwort": 2,
+  "erklaerung": "Ob das Grundbuchamt pauschal ein Negativattest verlangen darf, ist unklar; nach der Rechtsprechung darf es ein Negativzeugnis nur fordern, wenn die Gemeinde es nach § 22 Abs. 2 S. 3 BauGB über die Satzung unterrichtet hat oder es die Satzung sonst kennt. Ein pauschales Verlangen bei jeder Aufteilung ist danach nicht gedeckt. Allgemeine Negativatteste durch Allgemeinverfügung darf die Gemeinde gar nicht erteilen."
+ },
+ {
+  "id": "vorm1-007",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Genehmigung in Fremdenverkehrsgebieten nach § 22 BauGB: Genehmigungsanspruch, Grundbuchsperre und Verfahren",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/genehmigung-in-fremdenverkehrsgebieten-nach-22-baugb-genehmigungsanspruch-grundbuchsperre-und-verfahren",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 22 Abs. 8 S. 4 BauGB"
+  ],
+  "frage": "Die Gemeinde kann die Grundbuchsperre nach § 22 BauGB für ihr gesamtes Gebiet durch ein allgemeines Negativattest im Wege der Allgemeinverfügung beseitigen.",
+  "antwort": false,
+  "erklaerung": "Allgemeine Negativatteste durch Allgemeinverfügung darf die Gemeinde nicht erteilen. Die Sperre entfällt nach § 22 Abs. 8 S. 4 BauGB erst, wenn die Gemeinde dem Grundbuchamt mitteilt, dass der Vorbehalt aufgehoben oder ein Grundstück freigestellt ist; im Einzelfall muss die Genehmigungsbehörde auf Antrag in der Regel ein Negativattest ausstellen."
+ },
+ {
+  "id": "vorm1-008",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Genehmigung in Fremdenverkehrsgebieten nach § 22 BauGB: Genehmigungsanspruch, Grundbuchsperre und Verfahren",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/genehmigung-in-fremdenverkehrsgebieten-nach-22-baugb-genehmigungsanspruch-grundbuchsperre-und-verfahren",
+  "typ": "fall",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 22 Abs. 4 S. 2 BauGB",
+   "§ 22 Abs. 6 S. 2 BauGB"
+  ],
+  "frage": "Ferienwohnung und Fremdenverkehrssatzung",
+  "sachverhalt": "E ist Eigentümer eines Hauses in einer Tourismusgemeinde. Im März verkauft er an K eine noch zu bildende Eigentumswohnung; zugunsten des K wird eine Vormerkung eingetragen. Im Juni wird eine Fremdenverkehrssatzung nach § 22 BauGB wirksam, die die Begründung von Wohnungseigentum unter Genehmigungsvorbehalt stellt. E beantragt im Juli die Genehmigung der Aufteilung nach § 8 WEG.",
+  "schritte": [
+   {
+    "frage": "Darf die Genehmigung versagt werden, wenn die Aufteilung die touristische Zweckbestimmung beeinträchtigt?",
+    "optionen": [
+     "Ja, bei einer Beeinträchtigung ist die Versagung stets zwingend",
+     "Nein, sie ist zu erteilen, weil sie zur Erfüllung des vor Wirksamwerden des Vorbehalts vorgemerkten Anspruchs des K nötig ist",
+     "Ja, Vormerkungen sind nur geschützt, wenn sie vor Beginn der Satzungsplanung eingetragen waren",
+     "Nein, Wohnungseigentum nach § 8 WEG wird von § 22 BauGB nicht erfasst"
+    ],
+    "antwort": 1,
+    "erklaerung": "Nach § 22 Abs. 4 S. 2 BauGB ist die Genehmigung auch bei Beeinträchtigung zu erteilen, wenn sie nötig ist, um Ansprüche Dritter zu erfüllen, die schon vor Wirksamwerden des Vorbehalts durch eine eingetragene oder beantragte Vormerkung gesichert waren; das gilt auch für eine Vormerkung auf Erwerb eines künftigen Wohnungseigentums. Die Begründung von Wohnungseigentum ist gerade ein erfasster Vorgang."
+   },
+   {
+    "frage": "Die Behörde entscheidet nicht innerhalb der Frist und erlässt auch keinen Zwischenbescheid. Was benötigt E für den Grundbuchvollzug?",
+    "optionen": [
+     "Eine Bestätigung der Gemeinde, dass die Satzung aufgehoben ist",
+     "Eine erneute Antragstellung beim Grundbuchamt mit Fristsetzung",
+     "Ein Fiktionszeugnis, weil die Genehmigung als erteilt gilt",
+     "Eine Entscheidung des Verwaltungsgerichts über die Untätigkeit"
+    ],
+    "antwort": 2,
+    "erklaerung": "Läuft die Monatsfrist ohne Entscheidung ab, gilt die Genehmigung als erteilt; für den Grundbuchvollzug besteht ein Anspruch auf ein Fiktionszeugnis. Eine Aufhebung des Vorbehalts ist nicht erforderlich."
+   },
+   {
+    "frage": "Angenommen, das Grundbuchamt hätte ohne die erforderliche Genehmigung eingetragen. Wie kann reagiert werden?",
+    "optionen": [
+     "Die Baugenehmigungsbehörde kann um die Eintragung eines Widerspruchs ersuchen",
+     "Die Eintragung ist von Amts wegen ohne Weiteres zu löschen",
+     "Die Gemeinde kann ihr Vorkaufsrecht im Grundbuch eintragen lassen",
+     "Die Eintragung wird nach drei Monaten automatisch wirksam und ist nicht mehr angreifbar"
+    ],
+    "antwort": 0,
+    "erklaerung": "Wurde unzulässigerweise eingetragen, kann die Baugenehmigungsbehörde nach § 22 Abs. 6 S. 2 BauGB um die Eintragung eines Widerspruchs ersuchen. Eine Löschung von Amts wegen sieht die Seite nicht vor."
+   }
+  ],
+  "erklaerung": "Die Genehmigung ist nach § 22 Abs. 4 S. 2 BauGB zu erteilen, weil der Anspruch des K vor Wirksamwerden des Vorbehalts vorgemerkt war. Nach ungenutztem Fristablauf gilt sie als erteilt, und E kann ein Fiktionszeugnis verlangen. Bei unzulässiger Eintragung kann die Baugenehmigungsbehörde einen Widerspruch eintragen lassen (§ 22 Abs. 6 S. 2 BauGB)."
+ },
+ {
+  "id": "vorm1-009",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Genehmigung in Fremdenverkehrsgebieten nach § 22 BauGB: Zweck, Satzung und erfasste Vorgänge",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/genehmigung-in-fremdenverkehrsgebieten-nach-22-baugb-zweck-satzung-und-erfasste-vorgange",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 22 Abs. 1 S. 1 Nr. 4 BauGB",
+   "§ 1010 BGB"
+  ],
+  "frage": "Wann unterliegt Bruchteilsmiteigentum mit dinglich gesicherter Miteigentümervereinbarung (§ 1010 BGB) dem Genehmigungsvorbehalt einer Fremdenverkehrssatzung?",
+  "optionen": [
+   "Stets, sobald eine Benutzungsregelung im Grundbuch eingetragen wird",
+   "Nur wenn die Vereinbarung schuldrechtlich oder gesellschaftsvertraglich getroffen wird",
+   "Wenn einzelnen Miteigentümern bestimmte Wohnräume zur alleinigen Nutzung zugeordnet und die Auseinandersetzung ausgeschlossen ist",
+   "Nur wenn die Miteigentümer die Räume tatsächlich als Zweitwohnung nutzen"
+  ],
+  "antwort": 2,
+  "erklaerung": "Für Miteigentum mit Miteigentümervereinbarung (§ 22 Abs. 1 S. 1 Nr. 4 BauGB) greift der Vorbehalt nur, wenn bestimmte Räume einzelnen Miteigentümern zur alleinigen Nutzung zugeordnet sind und die Auseinandersetzung der Gemeinschaft ausgeschlossen ist; dem Normzweck nach müssen Wohnräume betroffen sein. Nicht jede eingetragene Benutzungsregelung genügt; fehlt es an diesen Merkmalen, kann sie genehmigungsfrei eingetragen werden. Schuldrechtliche und gesellschaftsvertragliche Gestaltungen sind gerade nicht erfasst."
+ },
+ {
+  "id": "vorm1-010",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Genehmigung in Fremdenverkehrsgebieten nach § 22 BauGB: Zweck, Satzung und erfasste Vorgänge",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/genehmigung-in-fremdenverkehrsgebieten-nach-22-baugb-zweck-satzung-und-erfasste-vorgange",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [],
+  "frage": "Für den Erlass einer Fremdenverkehrssatzung genügt die Absicht der Gemeinde, ihren Ortsteil künftig touristisch auszurichten.",
+  "antwort": false,
+  "erklaerung": "Gemeinde oder Ortsteil müssen tatsächlich ganz oder überwiegend vom Fremdenverkehr geprägt sein; Tourismus und Übernachtungen müssen für die örtliche Wirtschaft erhebliches Gewicht haben. Eine bloße Absicht genügt nicht. Die Satzung muss sich grundsätzlich auf die geprägten Gemeindeteile beschränken."
+ },
+ {
+  "id": "vorm1-011",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Genehmigung in Fremdenverkehrsgebieten nach § 22 BauGB: Zweck, Satzung und erfasste Vorgänge",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/genehmigung-in-fremdenverkehrsgebieten-nach-22-baugb-zweck-satzung-und-erfasste-vorgange",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 22 Abs. 1 S. 1 Nr. 1 BauGB",
+   "§ 30 WEG",
+   "§ 31 WEG",
+   "§ 1010 BGB"
+  ],
+  "frage": "Ordne die von einer Fremdenverkehrssatzung erfassbaren Vorgänge der jeweils genannten Norm zu.",
+  "paare": [
+   [
+    "§ 22 Abs. 1 S. 1 Nr. 1 BauGB",
+    "Begründung und Teilung von Wohnungs- oder Teileigentum"
+   ],
+   [
+    "§ 30 WEG",
+    "Begründung von Wohnungserbbaurechten"
+   ],
+   [
+    "§ 31 WEG",
+    "Begründung von Dauerwohnrechten"
+   ],
+   [
+    "§ 1010 BGB",
+    "Miteigentum mit eingetragener Nutzungsregelung"
+   ]
+  ],
+  "erklaerung": "§ 22 Abs. 1 BauGB erlaubt es, die Begründung und Teilung von Wohnungs- oder Teileigentum, die Begründung von Wohnungserbbaurechten (§ 30 WEG) und Dauerwohnrechten (§ 31 WEG) sowie bei Grundstücken mit Wohngebäuden oder Beherbergungsbetrieben Miteigentum mit eingetragener Nutzungsregelung (§ 1010 BGB) unter Genehmigungsvorbehalt zu stellen. Bei § 1010 BGB gilt das bei Begründung wie bei späterer Eintragung."
+ },
+ {
+  "id": "vorm1-012",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Genehmigung in Fremdenverkehrsgebieten nach § 22 BauGB: Zweck, Satzung und erfasste Vorgänge",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/genehmigung-in-fremdenverkehrsgebieten-nach-22-baugb-zweck-satzung-und-erfasste-vorgange",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 22 Abs. 1 S. 3 BauGB"
+  ],
+  "frage": "In den Katalogfällen des § 22 Abs. 1 S. 3 BauGB wird die Beeinträchtigung der Zweckbestimmung vermutet; im Übrigen genügt für die Satzung die abstrakte Möglichkeit einer Beeinträchtigung.",
+  "antwort": true,
+  "erklaerung": "Für die Satzung genügt die abstrakte Möglichkeit, dass Zweckbestimmung und städtebauliche Entwicklung beeinträchtigt werden. In den Katalogfällen des § 22 Abs. 1 S. 3 BauGB wird die Beeinträchtigung der Zweckbestimmung vermutet; die Katalogfälle fingieren zudem die Zweckbestimmung. Weil der Katalog nur Beispiele nennt, kann eine touristische Prägung sogar im Außenbereich bestehen."
+ },
+ {
+  "id": "vorm1-013",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Genehmigungen nach Landesrecht und Kirchenrecht",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/genehmigungen-nach-landesrecht-und-kirchenrecht",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Ein Erbbaurecht zugunsten einer Gemeinde wird ohne kommunalaufsichtliche Genehmigung bestellt. Welche Rechtsfolge tritt ein?",
+  "optionen": [
+   "Das Erbbaurecht entsteht, die Zahlungspflicht der Gemeinde ist aber schwebend unwirksam",
+   "Der Vertrag ist wirksam; die fehlende Genehmigung begründet nur eine Ordnungswidrigkeit",
+   "Der Vertrag ist unwirksam; es entstehen weder das Erbbaurecht noch eine Zahlungspflicht der Gemeinde",
+   "Das Erbbaurecht entsteht, kann aber von der Aufsichtsbehörde binnen eines Jahres angefochten werden"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach der BGH-Rechtsprechung gehören Erbbaurechte zugunsten der Gemeinde zu den kreditähnlichen Geschäften; sie können nur mit kommunalaufsichtlicher Genehmigung wirksam bestellt werden. Ohne Genehmigung ist der Vertrag unwirksam, sodass weder das Erbbaurecht noch eine Zahlungspflicht entsteht. Eine Aufspaltung in wirksames dingliches Recht und unwirksame Zahlungspflicht scheidet aus."
+ },
+ {
+  "id": "vorm1-014",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Genehmigungen nach Landesrecht und Kirchenrecht",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/genehmigungen-nach-landesrecht-und-kirchenrecht",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 24 Abs. 1 LWaldG",
+   "§ 7 BauO NRW",
+   "§ 11 Abs. 1 LWaldG Schleswig-Holstein"
+  ],
+  "frage": "Ordne dem Land das jeweilige landesrechtliche Genehmigungserfordernis zu.",
+  "paare": [
+   [
+    "Baden-Württemberg",
+    "Teilung von Waldgrundstücken bedarf der Genehmigung der Forstbehörde"
+   ],
+   [
+    "Nordrhein-Westfalen",
+    "Teilung bedarf der Genehmigung der Bauaufsichtsbehörde"
+   ],
+   [
+    "Schleswig-Holstein",
+    "Teilung von Waldgrundstücken genehmigungspflichtig, wenn ein Grundstück unter drei Hektar entsteht"
+   ],
+   [
+    "Bayern",
+    "Veräußerung und Belastung von Almgrundstücken genehmigungspflichtig"
+   ],
+   [
+    "Sachsen",
+    "Jede Veräußerung von Grundbesitz durch die Gemeinde genehmigungspflichtig"
+   ]
+  ],
+  "erklaerung": "In Baden-Württemberg bedarf die Teilung von Waldgrundstücken der Genehmigung der Forstbehörde (§ 24 Abs. 1 LWaldG), in Nordrhein-Westfalen die Teilung der Genehmigung der Bauaufsichtsbehörde (§ 7 BauO NRW). Schleswig-Holstein verlangt eine Genehmigung bei Teilung von Waldgrundstücken, wenn ein Grundstück unter drei Hektar entsteht (§ 11 Abs. 1 LWaldG Schleswig-Holstein); Bayern erfasst Almgrundstücke (Art. 1, 19 BayAlmG), Sachsen jede Veräußerung von Grundbesitz durch die Gemeinde."
+ },
+ {
+  "id": "vorm1-015",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Genehmigungen nach Landesrecht und Kirchenrecht",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/genehmigungen-nach-landesrecht-und-kirchenrecht",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [],
+  "frage": "Nach Bundesrecht bedarf die Teilung eines Grundstücks der Genehmigung der Bauaufsichtsbehörde.",
+  "antwort": false,
+  "erklaerung": "Nach Bundesrecht ist für die Teilung keine Genehmigung erforderlich; die Beteiligten müssen nur vermeiden, dass baurechtswidrige Zustände entstehen, sonst kann die Bauaufsicht einschreiten. Ein Genehmigungserfordernis der Bauaufsichtsbehörde besteht nur nach Landesrecht, etwa in Nordrhein-Westfalen (§ 7 BauO NRW)."
+ },
+ {
+  "id": "vorm1-016",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Genehmigungen nach Landesrecht und Kirchenrecht",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/genehmigungen-nach-landesrecht-und-kirchenrecht",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 72 BeurkG"
+  ],
+  "frage": "Was gilt beim Verkauf eines Grundstücks durch eine kirchliche Einrichtung?",
+  "optionen": [
+   "Ab einem Wert von 5.000.000 € kann die Zustimmung des Heiligen Stuhls erforderlich sein; ein kirchenrechtlich verlangtes Siegel wird nach § 72 BeurkG ersetzt",
+   "Eine kirchliche Genehmigung ist nur bei Schenkungen erforderlich; das Siegel ist stets zusätzlich beizufügen",
+   "Die Genehmigung erteilt stets die staatliche Kommunalaufsicht; die Romgrenze liegt bei 500.000 €",
+   "Die Vertretung richtet sich einheitlich nach dem BGB-Stiftungsrecht, eine Genehmigung entfällt bei Orden"
+  ],
+  "antwort": 0,
+  "erklaerung": "Kirchliche Einrichtungen brauchen beim Verkauf in aller Regel die Genehmigung der kirchlichen Aufsichtsbehörde, üblicherweise des bischöflichen Ordinariats; teilweise muss der Heilige Stuhl zustimmen (Romgrenze 5.000.000 €). Verlangt das Kirchenrecht ein Siegel, wird es bei der Beurkundung nach § 72 BeurkG ersetzt. Für Stiftungen und Orden ist das jeweilige Eigenrecht maßgeblich, nicht einheitlich das BGB."
+ }
+]

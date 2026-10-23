@@ -858,5 +858,264 @@
    }
   ],
   "erklaerung": "Wegen der Beteiligung des Vaters sind beide Eltern ausgeschlossen; da ein echter Beitritt mit neuem Gesellschaftsvertrag vorliegt, braucht jedes Kind einen eigenen Ergänzungspfleger. Der Beitritt ist nach § 1852 BGB familiengerichtlich zu genehmigen, wobei allein das Kindeswohl maßgeblich ist."
+ },
+ {
+  "id": "vert1-038",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vertretungsausschluss und Zuwendungen",
+  "seite": "Schenkungsverbot und Schenkungen durch Betreuer",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/schenkungsverbot-und-schenkungen-durch-betreuer",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1641 BGB",
+   "§ 134 BGB"
+  ],
+  "frage": "Eltern verkaufen im Namen ihrer minderjährigen Tochter ein Grundstück an den Onkel bewusst zu einem Drittel des Verkehrswerts. Welche Rechtsfolge tritt nach h. M. ein?",
+  "optionen": [
+   "Der Vertrag ist schwebend unwirksam und kann vom Familiengericht genehmigt werden.",
+   "Der Vertrag ist als verdeckte gemischte Schenkung samt Erfüllungsgeschäften nach § 134 BGB nichtig.",
+   "Der Vertrag ist wirksam, weil ein Kaufvertrag und keine Schenkung vorliegt.",
+   "Der Vertrag ist schwebend unwirksam und kann von der Tochter nach Volljährigkeit genehmigt werden."
+  ],
+  "antwort": 1,
+  "erklaerung": "Ein scheinbar entgeltlicher Kauf ist eine gemischte Schenkung, wenn Leistung und Gegenleistung objektiv in einem Missverhältnis stehen und die Beteiligten teilweise Unentgeltlichkeit wollen. Auch gemischte Schenkungen fallen unter das Schenkungsverbot des § 1641 BGB; sie sind nach h. M. samt Erfüllungsgeschäften nach § 134 BGB nichtig. Weder eine gerichtliche Genehmigung noch eine Genehmigung der volljährig gewordenen Tochter heilt, weil §§ 177 ff. BGB nicht anwendbar sind."
+ },
+ {
+  "id": "vert1-039",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vertretungsausschluss und Zuwendungen",
+  "seite": "Schenkungsverbot und Schenkungen durch Betreuer",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/schenkungsverbot-und-schenkungen-durch-betreuer",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1854 Nr. 8 BGB"
+  ],
+  "frage": "Der Betreuer darf im Namen des Betreuten Schenkungen vornehmen; dafür benötigt er grundsätzlich die Genehmigung des Betreuungsgerichts nach § 1854 Nr. 8 BGB, angemessene Gelegenheitsgeschenke ausgenommen.",
+  "antwort": true,
+  "erklaerung": "Anders als Eltern, Vormund und Pfleger für Minderjährige unterliegt der Betreuer keinem Schenkungsverbot. Er braucht für Schenkungen die Genehmigung des Betreuungsgerichts nach § 1854 Nr. 8 BGB; angemessene Gelegenheitsgeschenke sind genehmigungsfrei. Dasselbe gilt für Pfleger, die nicht für Minderjährige bestellt sind (§ 1888 Abs. 1 BGB)."
+ },
+ {
+  "id": "vert1-040",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vertretungsausschluss und Zuwendungen",
+  "seite": "Schenkungsverbot und Schenkungen durch Betreuer",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/schenkungsverbot-und-schenkungen-durch-betreuer",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1854 Nr. 8 BGB",
+   "§ 1862 Abs. 1 BGB",
+   "§ 1821 Abs. 2 BGB"
+  ],
+  "frage": "Der Betreuer einer vermögenden Betreuten will einen Teil ihres Grundbesitzes auf ihre Kinder übertragen, um steuerliche Freibeträge zu nutzen. Was sollte im Genehmigungsantrag nach dem Handbuch ausdrücklich dargelegt werden?",
+  "optionen": [
+   "Dass die Schenkung wirtschaftlich vernünftig ist und das Vermögen der Betreuten mehrt.",
+   "Der früher geäußerte Wille der Betreuten zu dieser Zuwendung und ihr Festhalten daran, etwa belegt durch eine frühere Notarberatung oder einen Urkundsentwurf.",
+   "Dass die Schenkung einer sittlichen Pflicht oder einer Anstandsrücksicht entspricht.",
+   "Dass die Kinder zugleich zu Ergänzungsbetreuern bestellt werden."
+  ],
+  "antwort": 1,
+  "erklaerung": "Wünsche und mutmaßlicher Wille des Betreuten stehen im Mittelpunkt (§ 1821 Abs. 2 BGB) und binden grundsätzlich auch das Gericht (§ 1862 Abs. 1 BGB), selbst bei wirtschaftlich unvernünftigen Entscheidungen. Genehmigungsfähig ist eine Schenkung, die der Betreute vor Eintritt der Betreuungsbedürftigkeit gewünscht hat und die sein Vermögen nicht gefährdet; auch die Nutzung von Freibeträgen kann sie tragen, wenn sie seinem Willen entspricht. Die Ausnahme für Pflicht- und Anstandsschenkungen betrifft das Schenkungsverbot bei Minderjährigen, nicht § 1854 Nr. 8 BGB."
+ },
+ {
+  "id": "vert1-041",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vertretungsausschluss und Zuwendungen",
+  "seite": "Schenkungsverbot und Schenkungen durch Betreuer",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/schenkungsverbot-und-schenkungen-durch-betreuer",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1798 Abs. 3 BGB"
+  ],
+  "frage": "Ein zinsloses Darlehen, das der Vormund aus dem Vermögen des minderjährigen Mündels gewährt, fällt nach h. M. unter das Schenkungsverbot des § 1798 Abs. 3 BGB.",
+  "antwort": false,
+  "erklaerung": "Maßgeblich ist der Schenkungsbegriff des § 516 BGB. Leihe, Auftrag und zinsloses Darlehen fallen nach h. M. nicht unter das Schenkungsverbot. Erfasst sind dagegen auch gemischte Schenkungen; offen ist lediglich die Behandlung von Ausstattungen und unbenannten Zuwendungen."
+ },
+ {
+  "id": "vert1-042",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vertretungsausschluss und Zuwendungen",
+  "seite": "Vertretungsausschluss (§ 1824 BGB): Gesamtbetrachtung, Rechtsfolgen und Ergänzungspfleger",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/vertretungsausschluss-1824-bgb-gesamtbetrachtung-rechtsfolgen-und-erganzungspfleger",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1824 BGB",
+   "§ 566 BGB",
+   "§ 1629 Abs. 2 BGB"
+  ],
+  "frage": "Die Großmutter schenkt ihrem minderjährigen Enkel eine vermietete Eigentumswohnung. Können die Eltern den Enkel bei Schenkungsvertrag und Auflassung vertreten?",
+  "optionen": [
+   "Ja, weil die Schenkung als unentgeltliches Geschäft lediglich rechtlich vorteilhaft ist.",
+   "Ja, für den Schenkungsvertrag; nur die Auflassung bedarf eines Ergänzungspflegers.",
+   "Nein, weil der Eintritt in das Mietverhältnis (§ 566 BGB) rechtlich nachteilig ist und nach der Gesamtbetrachtung auch das Verpflichtungsgeschäft erfasst.",
+   "Ja, wenn das Familiengericht den Vertrag genehmigt."
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Großmutter ist mit den Eltern in gerader Linie verwandt, sodass § 1824 BGB i. V. m. § 1629 Abs. 2 BGB greift, sofern das Geschäft nicht lediglich rechtlich vorteilhaft ist. Nach der Gesamtbetrachtung zählt die Summe der Folgen von schuldrechtlichem und dinglichem Vertrag; ist das dingliche Geschäft wegen des Eintritts in das Mietverhältnis (§ 566 BGB) nachteilig, können die Eltern auch das Verpflichtungsgeschäft nicht abschließen. Eine gerichtliche Genehmigung ersetzt den fehlenden Ergänzungspfleger nicht."
+ },
+ {
+  "id": "vert1-043",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vertretungsausschluss und Zuwendungen",
+  "seite": "Vertretungsausschluss (§ 1824 BGB): Gesamtbetrachtung, Rechtsfolgen und Ergänzungspfleger",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/vertretungsausschluss-1824-bgb-gesamtbetrachtung-rechtsfolgen-und-erganzungspfleger",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1108 BGB",
+   "§ 566 BGB",
+   "§ 1824 BGB"
+  ],
+  "frage": "Ordne die Konstellation beim Erwerb durch einen Minderjährigen der Einordnung nach dem Handbuch zu.",
+  "paare": [
+   [
+    "Laufende Grundsteuer des geschenkten Grundstücks",
+    "Kein rechtlicher Nachteil"
+   ],
+   [
+    "Belastung des geschenkten Grundstücks mit einer Reallast",
+    "Nachteilig wegen persönlicher Haftung (§ 1108 BGB)"
+   ],
+   [
+    "Vorbehaltsnießbrauch an einem vermieteten Grundstück",
+    "Nießbrauch unschädlich, aber Mietverhältnis nachteilig"
+   ],
+   [
+    "Erwerb eines Miteigentumsanteils an einem nicht vermieteten Grundstück",
+    "Lediglich rechtlich vorteilhaft (BGH 2024)"
+   ],
+   [
+    "Schenkung eines GmbH-Geschäftsanteils",
+    "Nach wohl h. M. nie lediglich rechtlich vorteilhaft (Treuepflicht)"
+   ]
+  ],
+  "erklaerung": "Laufende öffentliche Lasten wie die Grundsteuer begründen keinen Nachteil, wohl aber drohende außergewöhnliche Abgaben wie Erschließungsbeiträge. Die Reallast ist wegen der persönlichen Haftung nach § 1108 BGB nachteilig; beim vorbehaltenen Nießbrauch an einem vermieteten Grundstück macht nicht der Nießbrauch, sondern das Mietverhältnis das Geschäft nachteilig. Der BGH hat den Erwerb eines Miteigentumsanteils an einem unvermieteten Grundstück als lediglich rechtlich vorteilhaft eingestuft; Gesellschaftsanteile sind wegen der Treuepflicht nach wohl h. M. stets nachteilig."
+ },
+ {
+  "id": "vert1-044",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vertretungsausschluss und Zuwendungen",
+  "seite": "Vertretungsausschluss (§ 1824 BGB): Gesamtbetrachtung, Rechtsfolgen und Ergänzungspfleger",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/vertretungsausschluss-1824-bgb-gesamtbetrachtung-rechtsfolgen-und-erganzungspfleger",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1824 BGB",
+   "§ 181 BGB",
+   "§ 177 BGB"
+  ],
+  "frage": "Der Vater schenkt seinem minderjährigen Sohn ein unbelastetes, nicht vermietetes Grundstück; der Schenkungsvertrag enthält einen Rückforderungsvorbehalt mit möglicher persönlicher Haftung des Sohnes. Der Vater handelt für beide Seiten. Wie behandelt der BGH den Fall?",
+  "optionen": [
+   "Beide Geschäfte sind nach der Gesamtbetrachtung schwebend unwirksam; das Grundbuchamt darf nicht eintragen.",
+   "Beide Geschäfte sind wirksam, weil der Erwerb eines unbelasteten Grundstücks lediglich rechtlich vorteilhaft ist.",
+   "Getrennte Betrachtung: Die Auflassung ist wirksam und wird eingetragen; der Schenkungsvertrag bleibt bis zur Genehmigung durch einen Ergänzungspfleger schwebend unwirksam.",
+   "Der Schenkungsvertrag ist nach § 134 BGB nichtig, die Auflassung wirksam."
+  ],
+  "antwort": 2,
+  "erklaerung": "Ist das dingliche Geschäft rein vorteilhaft, das schuldrechtliche aber nachteilig, etwa wegen eines Rückforderungsvorbehalts mit persönlicher Haftung, betrachtet der BGH beide Geschäfte getrennt (BGH FamRZ 2005, 1091). Das Grundbuchamt trägt den Eigentumswechsel ein; der Schenkungsvertrag bleibt nach § 177 BGB bis zur Genehmigung durch einen Ergänzungspfleger schwebend unwirksam und ist bei Verweigerung rückabzuwickeln. Die strikte Gesamtbetrachtung gilt nur für den umgekehrten Fall des nachteiligen dinglichen Geschäfts."
+ },
+ {
+  "id": "vert1-045",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vertretungsausschluss und Zuwendungen",
+  "seite": "Vertretungsausschluss (§ 1824 BGB): Gesamtbetrachtung, Rechtsfolgen und Ergänzungspfleger",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/vertretungsausschluss-1824-bgb-gesamtbetrachtung-rechtsfolgen-und-erganzungspfleger",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1824 BGB",
+   "§§ 177–180 BGB",
+   "§ 184 Abs. 1 BGB"
+  ],
+  "frage": "Schließt ein nach § 1824 BGB ausgeschlossener Vertreter einen Vertrag, wird der Mangel durch die familiengerichtliche Genehmigung des Vertrags geheilt.",
+  "antwort": false,
+  "erklaerung": "Handelt ein ausgeschlossener Vertreter, gelten §§ 177–180 BGB: Ein Vertrag ist schwebend unwirksam, ein einseitiges Rechtsgeschäft nichtig. Eine familien- oder betreuungsgerichtliche Genehmigung beseitigt den Mangel nicht. Genehmigen kann nur ein Ergänzungspfleger (§ 1809 BGB) bzw. Ergänzungsbetreuer oder der inzwischen voll geschäftsfähige Vertretene selbst rückwirkend (§ 184 Abs. 1 BGB)."
+ },
+ {
+  "id": "vert1-046",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vertretungsausschluss und Zuwendungen",
+  "seite": "Vertretungsausschluss (§ 1824 BGB): Gesamtbetrachtung, Rechtsfolgen und Ergänzungspfleger",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/vertretungsausschluss-1824-bgb-gesamtbetrachtung-rechtsfolgen-und-erganzungspfleger",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 181 BGB",
+   "§ 1809 BGB"
+  ],
+  "frage": "Nach dem Tod des Vaters setzen sich die Mutter und ihre drei minderjährigen Kinder über den Nachlass auseinander. Wie viele Ergänzungspfleger sind erforderlich?",
+  "optionen": [
+   "Einer für alle drei Kinder, weil sie gleichgerichtete Interessen haben.",
+   "Keiner, weil die Mutter mit familiengerichtlicher Genehmigung handeln kann.",
+   "Drei, weil die Kinder bei der Erbauseinandersetzung auch untereinander Verträge schließen.",
+   "Einer, sofern das Familiengericht ihn von § 181 BGB befreit."
+  ],
+  "antwort": 2,
+  "erklaerung": "Ein gemeinsamer Ergänzungspfleger genügt nur, wenn die Kinder gleichgerichtete Erklärungen abgeben. Bei der Erbauseinandersetzung mit mehreren Kindern und einem Elternteil schließen die Kinder auch untereinander Verträge (BGHZ 21, 229); wegen § 181 BGB braucht deshalb jedes Kind einen eigenen Pfleger nach § 1809 BGB. Die Mutter ist ausgeschlossen, und die gerichtliche Genehmigung ersetzt den Pfleger nicht."
+ },
+ {
+  "id": "vert1-047",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vertretungsausschluss und Zuwendungen",
+  "seite": "Zuwendungen an Minderjährige und Betreute: Verwaltungsanordnungen und Befreiungen",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/zuwendungen-an-minderjahrige-und-betreute-verwaltungsanordnungen-und-befreiungen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1639 BGB",
+   "§ 1837 BGB"
+  ],
+  "frage": "Was kann ein Erblasser durch Verwaltungsanordnung nach §§ 1639, 1837 BGB für das dem Minderjährigen zugewendete Vermögen nicht regeln?",
+  "optionen": [
+   "Die Vorgabe einer bestimmten Anlageform.",
+   "Die Befreiung von Anlagepflichten nach § 1848 BGB.",
+   "Den Ausschluss einer gerichtlichen Genehmigungspflicht, etwa nach § 1850 BGB.",
+   "Die Befreiung von der Sperrpflicht nach § 1845 BGB."
+  ],
+  "antwort": 2,
+  "erklaerung": "Verwaltungsanordnungen können die Verwaltung stärker beschränken (z. B. Anlageform) oder von gesetzlichen Pflichten befreien, etwa von Anlagepflichten nach § 1848 BGB oder der Sperrpflicht nach § 1845 BGB. Genehmigungspflichten und Vertretungsausschlüsse lassen sich durch Anordnungen dagegen weder erweitern noch ausschließen. Der Versuch, eine gerichtliche Genehmigungspflicht abzubedingen, ist der im Handbuch genannte typische Fehler."
+ },
+ {
+  "id": "vert1-048",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vertretungsausschluss und Zuwendungen",
+  "seite": "Zuwendungen an Minderjährige und Betreute: Verwaltungsanordnungen und Befreiungen",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/zuwendungen-an-minderjahrige-und-betreute-verwaltungsanordnungen-und-befreiungen",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1837 BGB",
+   "§ 1826 BGB",
+   "§ 1862 Abs. 3 BGB"
+  ],
+  "frage": "Verstößt der Betreuer gegen eine Verwaltungsanordnung des Zuwendenden, ist das vorgenommene Rechtsgeschäft mangels Vertretungsmacht schwebend unwirksam.",
+  "antwort": false,
+  "erklaerung": "Ein Verstoß gegen Verwaltungsanordnungen lässt die Vertretungsmacht unberührt; das Rechtsgeschäft ist grundsätzlich wirksam. Die Anordnung wirkt nur im Innenverhältnis: Der Vertreter haftet dem Vertretenen auf Schadensersatz (§§ 1794, 1826 BGB), und das Gericht schreitet aufsichtlich ein (§ 1862 Abs. 3 BGB)."
+ },
+ {
+  "id": "vert1-049",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vertretungsausschluss und Zuwendungen",
+  "seite": "Zuwendungen an Minderjährige und Betreute: Verwaltungsanordnungen und Befreiungen",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/zuwendungen-an-minderjahrige-und-betreute-verwaltungsanordnungen-und-befreiungen",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1811 Abs. 2 BGB",
+   "§ 1801 Abs. 3 BGB"
+  ],
+  "frage": "Ein Erblasser ordnet im Testament für das Erbe seiner minderjährigen Enkelin die Befreiung des „Pflegers“ von der Rechnungslegung an, ohne eine Person zu benennen. Das Familiengericht wählt einen Zuwendungspfleger aus. Ist dieser befreit?",
+  "optionen": [
+   "Ja, die Befreiung wirkt für jeden Zuwendungspfleger.",
+   "Nein, Befreiungen wirken nur für einen vom Erblasser oder Zuwendenden benannten Pfleger, nicht für einen vom Gericht ausgewählten.",
+   "Ja, sofern das Gericht die Befreiung bestätigt.",
+   "Nein, von der Rechnungslegung kann überhaupt nicht befreit werden."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 1811 Abs. 2 BGB (für den Vormund § 1801 Abs. 3 BGB) können Befreiungen, etwa von der Rechnungslegung nach § 1865 BGB, nur für einen benannten Pfleger oder Vormund angeordnet werden; für einen vom Gericht ausgewählten Vertreter wirken sie nicht. Die Befreiung von der Rechnungslegung ist also möglich, setzt aber die Benennung voraus. Gefährden Anordnungen die Interessen des Vertretenen, kann das Gericht sie aufheben (§ 1811 Abs. 3 BGB)."
  }
 ]

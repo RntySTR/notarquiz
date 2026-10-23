@@ -967,5 +967,495 @@
   ],
   "antwort": 1,
   "erklaerung": "Vereinbaren die Beteiligten eine Gegenleistung des Erwerbers wie Pflegeleistungen, ist die Zuwendung nicht vollständig unentgeltlich im Sinne des § 516 Abs. 1 BGB. Es liegt eine gemischte Schenkung vor. Ein Kaufvertrag kommt erst in Betracht, wenn der entgeltliche Teil überwiegt."
+ },
+ {
+  "id": "ueber1-044",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Grundlagen der Übergabe",
+  "seite": "Übergabevertrag: Schenkungsteuer, Freibeträge und steuerliche Belehrung",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/grundlagen-der-ubergabe/ubergabevertrag-schenkungsteuer-freibetrage-und-steuerliche-belehrung",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 16 Abs. 1 ErbStG"
+  ],
+  "frage": "Ordne dem Erwerber einer Schenkung seinen Freibetrag nach § 16 Abs. 1 ErbStG zu.",
+  "paare": [
+   [
+    "Ehegatte",
+    "500.000 €"
+   ],
+   [
+    "Kind",
+    "400.000 €"
+   ],
+   [
+    "Enkel (Eltern leben)",
+    "200.000 €"
+   ],
+   [
+    "Urenkel",
+    "100.000 €"
+   ],
+   [
+    "Geschwister",
+    "20.000 €"
+   ]
+  ],
+  "erklaerung": "§ 16 Abs. 1 ErbStG sieht 500.000 € für Ehegatten und eingetragene Lebenspartner, 400.000 € für Kinder und Stiefkinder, 200.000 € für Enkel, 100.000 € für Urenkel und 20.000 € für alle übrigen Erwerber vor, darunter Geschwister. Enkel erhalten 400.000 € nur, wenn ihre Eltern vorverstorben sind."
+ },
+ {
+  "id": "ueber1-045",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Grundlagen der Übergabe",
+  "seite": "Übergabevertrag: Schenkungsteuer, Freibeträge und steuerliche Belehrung",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/grundlagen-der-ubergabe/ubergabevertrag-schenkungsteuer-freibetrage-und-steuerliche-belehrung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 14 ErbStG"
+  ],
+  "frage": "Ein Vater schenkt seinem Sohn 2020 Geld und 2026 ein Grundstück. Wie werden die Erwerbe schenkungsteuerlich behandelt?",
+  "optionen": [
+   "Jeder Erwerb ist gesondert mit vollem Freibetrag zu versteuern",
+   "Beide Erwerbe werden zusammengerechnet, weil sie innerhalb von zehn Jahren von derselben Person stammen",
+   "Nur der Grundstückserwerb ist steuerbar",
+   "Die Zusammenrechnung erfasst nur Erwerbe innerhalb von fünf Jahren"
+  ],
+  "antwort": 1,
+  "erklaerung": "Mehrere Erwerbe von derselben Person innerhalb von zehn Jahren werden zusammengerechnet (§ 14 ErbStG); der Freibetrag steht in diesem Zeitraum nur einmal zur Verfügung. Erst nach Ablauf von zehn Jahren lebt er in voller Höhe wieder auf, weshalb bei großem Vermögen eine frühe Übergabe vorteilhaft ist."
+ },
+ {
+  "id": "ueber1-046",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Grundlagen der Übergabe",
+  "seite": "Übergabevertrag: Schenkungsteuer, Freibeträge und steuerliche Belehrung",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/grundlagen-der-ubergabe/ubergabevertrag-schenkungsteuer-freibetrage-und-steuerliche-belehrung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 16 Abs. 1 ErbStG"
+  ],
+  "frage": "Schenkt ein Kind seinen Eltern ein Grundstück, steht den Eltern ein Freibetrag von 100.000 € zu.",
+  "antwort": false,
+  "erklaerung": "Der Freibetrag von 100.000 € gilt für Eltern und Voreltern nur bei einem Erwerb von Todes wegen. Bei einer Schenkung gilt für sie der Freibetrag von 20.000 € (§ 16 Abs. 1 ErbStG)."
+ },
+ {
+  "id": "ueber1-047",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Grundlagen der Übergabe",
+  "seite": "Übergabevertrag: Schenkungsteuer, Freibeträge und steuerliche Belehrung",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/grundlagen-der-ubergabe/ubergabevertrag-schenkungsteuer-freibetrage-und-steuerliche-belehrung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 17 Abs. 1 BeurkG"
+  ],
+  "frage": "Wie weit reicht die Pflicht des Notars hinsichtlich der Schenkungsteuer beim Übergabevertrag?",
+  "optionen": [
+   "Er muss die Schenkungsteuer berechnen und in der Urkunde ausweisen",
+   "Er belehrt über die rechtliche Tragweite, wozu der Hinweis gehört, dass Schenkungsteuer anfallen kann; die Einzelprüfung übernehmen steuerberatende Berufe",
+   "Er hat keinerlei steuerliche Hinweise zu geben",
+   "Er muss eine verbindliche Auskunft des Finanzamts einholen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 17 Abs. 1 BeurkG belehrt der Notar über die rechtliche Tragweite; dazu gehört der Hinweis auf eine mögliche Schenkungsteuer. Notariate beraten nicht steuerlich; die Einzelprüfung obliegt den steuerberatenden Berufen. Den Beteiligten ist ausreichend Zeit zur steuerlichen Prüfung zwischen Entwurf und Beurkundung zu lassen."
+ },
+ {
+  "id": "ueber1-048",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Grundlagen der Übergabe",
+  "seite": "Übergabevertrag: Schenkungsteuer, Freibeträge und steuerliche Belehrung",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/grundlagen-der-ubergabe/ubergabevertrag-schenkungsteuer-freibetrage-und-steuerliche-belehrung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 15 Abs. 1 ErbStG"
+  ],
+  "frage": "In welche Steuerklasse fällt bei einer Schenkung das Schwiegerkind?",
+  "optionen": [
+   "Steuerklasse I",
+   "Steuerklasse II",
+   "Steuerklasse III",
+   "Es gilt die Steuerklasse des eigenen Ehegatten"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 15 Abs. 1 ErbStG fallen Eltern, Großeltern, Geschwister und Schwiegerkinder bei Schenkungen in Steuerklasse II. Steuerklasse I umfasst nur Ehegatten, Lebenspartner, Kinder, Stiefkinder und deren Abkömmlinge; beim Freibetrag erhält das Schwiegerkind nur 20.000 €."
+ },
+ {
+  "id": "ueber1-049",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Rückforderungsrechte",
+  "seite": "Übergabevertrag: freies Rückforderungsrecht",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-freies-ruckforderungsrecht",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 93 SGB XII"
+  ],
+  "frage": "Welcher Nachteil folgt aus der Pfändbarkeit eines freien Rückforderungsrechts?",
+  "optionen": [
+   "Gläubiger des Veräußerers können es im Wege der Doppelpfändung pfänden und ausüben",
+   "Gläubiger des Erwerbers können die Rückübertragung verlangen",
+   "Das Recht erlischt mit der ersten Pfändung",
+   "Die Pfändung führt zur Nichtigkeit des Übergabevertrags"
+  ],
+  "antwort": 0,
+  "erklaerung": "Das freie Rückforderungsrecht ist pfändbar und kann deshalb von Gläubigern des Veräußerers ausgeübt werden. Gepfändet werden im Wege der Doppelpfändung das Gestaltungsrecht (Rücktrittsrecht) und der Anspruch auf Rückübertragung nach erklärtem Rücktritt. Zudem kann der Sozialhilfeträger es auf sich überleiten."
+ },
+ {
+  "id": "ueber1-050",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Rückforderungsrechte",
+  "seite": "Übergabevertrag: freies Rückforderungsrecht",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-freies-ruckforderungsrecht",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 7 ErbStG"
+  ],
+  "frage": "Nach ständiger Rechtsprechung des BFH ist eine frei widerrufliche Schenkung schenkungsteuerlich nicht ausgeführt; eine Rückübertragung aufgrund des Widerrufs ist eine Rückschenkung.",
+  "antwort": false,
+  "erklaerung": "Nach ständiger BFH-Rechtsprechung ist die Schenkung trotz freier Widerruflichkeit ausgeführt und kann daher für eine steuerlich motivierte vorweggenommene Erbfolge genutzt werden. Die Rückübertragung aufgrund des vorbehaltenen Rechts ist keine Rückschenkung, weil sie nicht freiwillig erfolgt."
+ },
+ {
+  "id": "ueber1-051",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Rückforderungsrechte",
+  "seite": "Übergabevertrag: freies Rückforderungsrecht",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-freies-ruckforderungsrecht",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 883 BGB"
+  ],
+  "frage": "Weshalb ist ein freies Rückforderungsrecht für den Erwerber besonders nachteilig?",
+  "optionen": [
+   "Weil er die Grunderwerbsteuer doppelt zahlen muss",
+   "Weil er die Immobilie jederzeit verlieren kann, Investitionen unattraktiv werden und die Rückerwerbsvormerkung die Beleihung erschwert",
+   "Weil er für alle Mängel wie ein Verkäufer haftet",
+   "Weil die Auflassung erst nach dem Tod des Veräußerers erklärt werden kann"
+  ],
+  "antwort": 1,
+  "erklaerung": "Beim freien Rückforderungsrecht kann der Erwerber die Immobilie jederzeit ohne Grund verlieren; Renovierung, Umbau und langfristige Vermietung werden unattraktiv. Die Immobilie taugt nur eingeschränkt als Kreditsicherheit, weil die Rückerwerbsvormerkung (§ 883 BGB) für die meisten Banken ein Hindernis ist."
+ },
+ {
+  "id": "ueber1-052",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Rückforderungsrechte",
+  "seite": "Übergabevertrag: Rückforderung wegen Verarmung des Schenkers und Sozialhilferegress",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-ruckforderung-wegen-verarmung-des-schenkers-und-sozialhilferegress",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 529 Abs. 1 BGB"
+  ],
+  "frage": "Wann ist bei einer Grundstücksschenkung das Geschenk im Sinne des § 529 BGB geleistet?",
+  "optionen": [
+   "Mit Besitzübergang",
+   "Mit Beurkundung des Übergabevertrags und Stellung des Antrags auf Eigentumsumschreibung beim Grundbuchamt",
+   "Erst mit Erlöschen eines vorbehaltenen Nießbrauchs",
+   "Mit Eintragung einer Auflassungsvormerkung"
+  ],
+  "antwort": 1,
+  "erklaerung": "Für § 529 BGB ist das Geschenk geleistet, wenn der Übergabevertrag beurkundet und der Antrag auf Eintragung des Eigentumswechsels gestellt ist. Vorbehaltene Nutzungsrechte wie Nießbrauch oder Wohnungsrecht hindern den Lauf dieser Frist nicht, anders als bei § 2325 Abs. 3 BGB."
+ },
+ {
+  "id": "ueber1-053",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Rückforderungsrechte",
+  "seite": "Übergabevertrag: Rückforderung wegen Verarmung des Schenkers und Sozialhilferegress",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-ruckforderung-wegen-verarmung-des-schenkers-und-sozialhilferegress",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 529 BGB"
+  ],
+  "frage": "Ein vorbehaltener Nießbrauch verschiebt den Beginn der Zehnjahresfrist des § 529 BGB, nach deren Ablauf ein Sozialhilferegress ausgeschlossen ist.",
+  "antwort": false,
+  "erklaerung": "Vorbehaltene Nutzungsrechte wie Nießbrauch oder Wohnungsrecht hindern den Lauf der Frist des § 529 BGB nicht; die Annahme des Gegenteils bezeichnet die Praxis als typischen Fehler. Die Verwechslung rührt von § 2325 Abs. 3 BGB her, wo der Nießbrauch den Fristbeginn verhindert."
+ },
+ {
+  "id": "ueber1-054",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Rückforderungsrechte",
+  "seite": "Übergabevertrag: Rückforderung wegen Verarmung des Schenkers und Sozialhilferegress",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-ruckforderung-wegen-verarmung-des-schenkers-und-sozialhilferegress",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 528 BGB",
+   "§ 93 SGB XII"
+  ],
+  "frage": "Die Mutter gerät nach der Übergabe in ein Pflegeheim und bezieht Sozialhilfe, ohne das Haus zurückzufordern. Was kann der Sozialhilfeträger tun?",
+  "optionen": [
+   "Nichts, da die Mutter ihr Rückforderungsrecht nicht ausüben muss",
+   "Den Rückforderungsanspruch im Umfang seiner Leistungen auf sich überleiten und so Anspruchsinhaber werden",
+   "Die Übergabe nach dem Anfechtungsgesetz anfechten",
+   "Die Sozialhilfe wegen der Schenkung dauerhaft versagen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Schenker muss sein Recht nach § 528 BGB nicht ausüben; das widerspräche aber dem Nachrangprinzip. Deshalb kann der Sozialhilfeträger den Anspruch im Umfang seiner Leistungen auf sich überleiten (§ 93 SGB XII bzw. § 33 SGB II) und wird damit dessen Inhaber."
+ },
+ {
+  "id": "ueber1-055",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Rückforderungsrechte",
+  "seite": "Übergabevertrag: Rückforderung wegen Verarmung des Schenkers und Sozialhilferegress",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-ruckforderung-wegen-verarmung-des-schenkers-und-sozialhilferegress",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 528 BGB"
+  ],
+  "frage": "Welche Klausel zum Rückforderungsanspruch wegen Verarmung ist im Übergabevertrag unwirksam?",
+  "optionen": [
+   "Hinweis auf den möglichen Sozialhilferegress",
+   "Ausschluss der Rückforderung nach § 528 Abs. 1 BGB oder Verzicht des Schenkers darauf",
+   "Vereinbarung zusätzlicher vertraglicher Rückforderungsrechte",
+   "Regelung der Kostentragung des Vertrags"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Rückforderung nach § 528 Abs. 1 BGB kann nicht abbedungen werden; ein vertraglicher Ausschluss oder Verzicht wäre sittenwidrig, weil er zulasten der Allgemeinheit ginge. Der Hinweis auf den Sozialhilferegress soll dagegen gerade aufgenommen werden."
+ },
+ {
+  "id": "ueber1-056",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Rückforderungsrechte",
+  "seite": "Übergabevertrag: Rückforderung wegen Verarmung des Schenkers und Sozialhilferegress",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-ruckforderung-wegen-verarmung-des-schenkers-und-sozialhilferegress",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 528 BGB",
+   "§ 529 BGB"
+  ],
+  "frage": "Spätere Aufgabe des Nießbrauchs",
+  "sachverhalt": "V hat 2012 ein vermietetes Mehrfamilienhaus unter Nießbrauchsvorbehalt an seine Tochter T übergeben; der Umschreibungsantrag wurde 2012 gestellt. 2020 verzichtete V ohne Gegenleistung auf den Nießbrauch; seither erhält T die Mieten. 2026 wird V pflegebedürftig und kann die Heimkosten nicht tragen.",
+  "schritte": [
+   {
+    "frage": "Kann wegen der Übergabe von 2012 noch das Eigentum nach § 528 BGB zurückgefordert werden?",
+    "optionen": [
+     "Ja, weil der Nießbrauch den Fristbeginn bis 2020 hinausgeschoben hat",
+     "Nein, weil bei Eintritt der Bedürftigkeit seit der Leistung 2012 mehr als zehn Jahre verstrichen sind (§ 529 BGB)",
+     "Ja, weil § 529 BGB bei Grundstücken nicht gilt",
+     "Nein, weil Rückforderungsrechte durch den Nießbrauch ausgeschlossen sind"
+    ],
+    "antwort": 1,
+    "erklaerung": "Die Frist des § 529 BGB begann mit Beurkundung und Umschreibungsantrag 2012; der vorbehaltene Nießbrauch hindert ihren Lauf nicht. 2026 sind mehr als zehn Jahre verstrichen."
+   },
+   {
+    "frage": "Wie ist der Verzicht auf den Nießbrauch 2020 einzuordnen?",
+    "optionen": [
+     "Als bloße Ausübung des Eigentums der T",
+     "Als eigene Schenkung mit eigener Zehnjahresfrist",
+     "Als Teil der Schenkung von 2012 ohne eigene Bedeutung",
+     "Als entgeltliches Geschäft"
+    ],
+    "antwort": 1,
+    "erklaerung": "Gibt der Veräußerer ein vorbehaltenes Nutzungsrecht später ohne Gegenleistung auf, ist das seinerseits eine Schenkung, für die eine eigene Zehnjahresfrist läuft."
+   },
+   {
+    "frage": "Was kann V bzw. der Sozialhilfeträger nach § 528 BGB herausverlangen?",
+    "optionen": [
+     "Das Eigentum am Haus",
+     "Die aufgegebene Nutzung, also die seit 2020 von T erzielten Mieten",
+     "Nichts, da die Schenkung nur an T persönlich erfolgte",
+     "Den gesamten Verkehrswert des Hauses"
+    ],
+    "antwort": 1,
+    "erklaerung": "Der Anspruch aus § 528 BGB erfasst dann die aufgegebene Nutzung, beim vermieteten Objekt etwa die seit der Aufgabe erzielten Mieten, nicht das Eigentum."
+   }
+  ],
+  "erklaerung": "Für die Übergabe 2012 ist die Frist des § 529 BGB abgelaufen, weil der Nießbrauch ihren Lauf nicht hindert. Der unentgeltliche Nießbrauchsverzicht 2020 ist eine eigene Schenkung; insoweit können die seither gezogenen Mieten zurückgefordert und vom Sozialhilfeträger übergeleitet werden."
+ },
+ {
+  "id": "ueber1-057",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Rückforderungsrechte",
+  "seite": "Übergabevertrag: Rückforderungsrechte – Rechtsfolgen, Vererblichkeit und Rückerwerbsvormerkung",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-ruckforderungsrechte-rechtsfolgen-vererblichkeit-und-ruckerwerbsvormerkung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§§ 346 ff. BGB"
+  ],
+  "frage": "Welche Folge hat es, wenn der Übergabevertrag für den Fall der Rückforderung keine eigene Regelung enthält?",
+  "optionen": [
+   "Die Rückabwicklung richtet sich nach §§ 346 ff. BGB mit umfassendem Nutzungsersatz, etwa Herausgabe von Mieten und Wert der Eigennutzung",
+   "Die Immobilie ist ohne weitere Ansprüche im vorhandenen Zustand zurückzugeben",
+   "Der Erwerber erhält vollen Ersatz aller Aufwendungen",
+   "Die Rückforderung ist mangels Regelung ausgeschlossen"
+  ],
+  "antwort": 0,
+  "erklaerung": "Ohne abweichende Regelung gelten die Rücktrittsvorschriften (§§ 346 ff. BGB), die einen umfassenden Nutzungsersatz vorsehen. Das wollen die Beteiligten meist nicht; deshalb soll vertraglich etwa vereinbart werden, dass außer der Rückübereignung keine gegenseitigen Ansprüche bestehen."
+ },
+ {
+  "id": "ueber1-058",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Rückforderungsrechte",
+  "seite": "Übergabevertrag: Rückforderungsrechte – Rechtsfolgen, Vererblichkeit und Rückerwerbsvormerkung",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-ruckforderungsrechte-rechtsfolgen-vererblichkeit-und-ruckerwerbsvormerkung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 883 BGB"
+  ],
+  "frage": "Enthält der Übergabevertrag keine Regelung, gelten Rückforderungsrecht und Rückforderungsanspruch im Zweifel als übertragbar und vererblich.",
+  "antwort": true,
+  "erklaerung": "Schweigt der Vertrag, sind Rückforderungsrecht und -anspruch im Zweifel übertragbar und vererblich; sie bestünden zeitlich unbegrenzt fort und minderten den Wert der Immobilie. Deshalb lässt man das Recht meist mit dem Tod des (längerlebenden) Veräußerers erlöschen."
+ },
+ {
+  "id": "ueber1-059",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Rückforderungsrechte",
+  "seite": "Übergabevertrag: Rückforderungsrechte – Rechtsfolgen, Vererblichkeit und Rückerwerbsvormerkung",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-ruckforderungsrechte-rechtsfolgen-vererblichkeit-und-ruckerwerbsvormerkung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 22 GBO",
+   "§ 19 GBO",
+   "§ 35 Abs. 1 GBO"
+  ],
+  "frage": "Der vorgemerkte Rückforderungsanspruch ist vererblich ausgestaltet. Welche Gestaltung ermöglicht dennoch die Löschung der Vormerkung nach dem Tod des Veräußerers ohne Erbnachweis?",
+  "optionen": [
+   "Eine Vorlöschungsklausel nach § 23 Abs. 2 GBO",
+   "Eine auflösende Befristung der Vormerkung, etwa bis ein Jahr nach dem Tod des Veräußerers, mit Löschung nach § 22 GBO gegen Sterbeurkunde",
+   "Eine Löschungsbewilligung der Erben ohne Nachweis ihrer Erbenstellung",
+   "Eine Eintragung der Vormerkung im Rang vor dem Nießbrauch"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei vererblichem Anspruch müssten grundsätzlich die Erben die Löschung bewilligen (§ 19 GBO) und sich nach § 35 Abs. 1 GBO ausweisen. Ohne Erbnachweis kommt die Löschung etwa bei auflösender Befristung der Vormerkung nach § 22 GBO gegen Sterbeurkunde in Betracht, ebenso bei Löschungsbewilligung gegen Sterbeurkunde schon in der Urkunde oder bei Vollmacht an den Erwerber. Eine Vorlöschungsklausel nach § 23 Abs. 2 GBO kann bei einer Vormerkung nicht eingetragen werden."
+ },
+ {
+  "id": "ueber1-060",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Rückforderungsrechte",
+  "seite": "Übergabevertrag: Rückforderungsrechte – Rechtsfolgen, Vererblichkeit und Rückerwerbsvormerkung",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-ruckforderungsrechte-rechtsfolgen-vererblichkeit-und-ruckerwerbsvormerkung",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 22 GBO",
+   "§ 19 GBO",
+   "§ 29 GBO"
+  ],
+  "frage": "Ordne die Ausgestaltung des vorgemerkten Rückauflassungsanspruchs dem Löschungsweg nach dem Tod des Veräußerers zu.",
+  "paare": [
+   [
+    "höchstpersönlicher Anspruch",
+    "Löschung nach § 22 GBO aufgrund Sterbeurkunde"
+   ],
+   [
+    "vererblicher Anspruch ohne Sonderregelung",
+    "Bewilligung der Erben (§ 19 GBO) mit Erbnachweis"
+   ],
+   [
+    "vererblicher Anspruch mit transmortaler Vollmacht",
+    "Bewilligung durch den Bevollmächtigten, Vollmacht in Form des § 29 GBO"
+   ]
+  ],
+  "erklaerung": "Ist der Anspruch weder vererblich noch übertragbar, ist die Sterbeurkunde Unrichtigkeitsnachweis (§ 22 GBO). Sonst müssen die Erben bewilligen und sich durch Erbschein oder notarielles Testament ausweisen (§ 35 Abs. 1 GBO), oder ein trans- bzw. postmortal Bevollmächtigter bewilligt in der Form des § 29 GBO."
+ },
+ {
+  "id": "ueber1-061",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Rückforderungsrechte",
+  "seite": "Übergabevertrag: Rückforderungsrechte – Rechtsfolgen, Vererblichkeit und Rückerwerbsvormerkung",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-ruckforderungsrechte-rechtsfolgen-vererblichkeit-und-ruckerwerbsvormerkung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 883 BGB"
+  ],
+  "frage": "Der Veräußerer übt sein Rückforderungsrecht wirksam aus und stirbt vor Vollzug der Rückauflassung. Der Vertrag bestimmt nur, dass das Rückforderungsrecht mit seinem Tod erlischt. Was gilt?",
+  "optionen": [
+   "Der Rückforderungsanspruch erlischt mit dem Rückforderungsrecht",
+   "Der bereits entstandene Rückforderungsanspruch geht auf die Erben über, da seine Vererblichkeit nicht ausgeschlossen ist",
+   "Der Anspruch geht auf den Sozialhilfeträger über",
+   "Der Erwerber muss das Grundstück an den Nachlass verkaufen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Rückforderungsrecht und Rückforderungsanspruch sind zu unterscheiden; der Anspruch entsteht mit Ausübung des Rechts. Schließt der Vertrag nur das Fortbestehen des Rechts aus, nicht aber die Vererblichkeit des Anspruchs, geht dieser auf die Erben über. Soll das nicht gelten, muss der Vertrag es ausdrücklich bestimmen."
+ },
+ {
+  "id": "ueber1-062",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Rückforderungsrechte",
+  "seite": "Übergabevertrag: Schenkungswiderruf wegen groben Undanks (§§ 530–533 BGB)",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-schenkungswiderruf-wegen-groben-undanks-530-533-bgb",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 532 S. 1 BGB"
+  ],
+  "frage": "Wann ist der Widerruf einer Schenkung wegen groben Undanks ausgeschlossen?",
+  "optionen": [
+   "Nach Ablauf von drei Jahren seit der Schenkung",
+   "Wenn der Schenker verziehen hat oder seit Kenntnis von den Widerrufsvoraussetzungen ein Jahr verstrichen ist",
+   "Nach Ablauf von zehn Jahren seit Leistung des Geschenks",
+   "Sobald der Beschenkte das Grundstück belastet hat"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 532 S. 1 BGB ist der Widerruf bei Verzeihung oder nach Ablauf eines Jahres seit Kenntnis der Widerrufsvoraussetzungen ausgeschlossen; die Jahresfrist läuft für jede Verfehlung gesondert. Die Zehnjahresfrist betrifft dagegen die Rückforderung wegen Verarmung (§ 529 BGB)."
+ },
+ {
+  "id": "ueber1-063",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Rückforderungsrechte",
+  "seite": "Übergabevertrag: Schenkungswiderruf wegen groben Undanks (§§ 530–533 BGB)",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-schenkungswiderruf-wegen-groben-undanks-530-533-bgb",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 533 BGB",
+   "§ 530 BGB"
+  ],
+  "frage": "Der Übergabevertrag kann einen Verzicht des Schenkers auf das Widerrufsrecht wegen groben Undanks im Voraus wirksam vorsehen.",
+  "antwort": false,
+  "erklaerung": "Ein pauschaler Vorausverzicht auf das Widerrufsrecht nach § 530 BGB ist unwirksam. Verzichtet werden kann erst, sobald der Widerrufsberechtigte von der Verfehlung weiß (§ 533 BGB). Die Aufnahme eines solchen Verzichts gilt als typischer Fehler."
+ },
+ {
+  "id": "ueber1-064",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Rückforderungsrechte",
+  "seite": "Übergabevertrag: Schenkungswiderruf wegen groben Undanks (§§ 530–533 BGB)",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-schenkungswiderruf-wegen-groben-undanks-530-533-bgb",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 530 BGB"
+  ],
+  "frage": "Welche Aussage zum Widerrufsrecht nach § 530 BGB trifft zu?",
+  "optionen": [
+   "Es ist pfändbar und kann vom Sozialhilfeträger übergeleitet werden",
+   "Es ist höchstpersönlich, nicht pfändbar, nicht abtretbar und nicht vererblich",
+   "Es kann nach dem Tod des Beschenkten gegenüber dessen Erben ausgeübt werden",
+   "Es setzt einen gesetzlich festgelegten Katalog von Verfehlungen voraus"
+  ],
+  "antwort": 1,
+  "erklaerung": "Das Widerrufsrecht nach § 530 BGB ist höchstpersönlich: Gläubiger können es nicht pfänden, es kann weder abgetreten noch vererbt werden. Stirbt der Beschenkte, endet es; gegenüber seinen Erben kann nicht widerrufen werden. Fallgruppen nennt das Gesetz bewusst nicht."
+ },
+ {
+  "id": "ueber1-065",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Rückforderungsrechte",
+  "seite": "Übergabevertrag: Schenkungswiderruf wegen groben Undanks (§§ 530–533 BGB)",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-schenkungswiderruf-wegen-groben-undanks-530-533-bgb",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 530 Abs. 2 BGB"
+  ],
+  "frage": "Unter welcher Voraussetzung haben die Erben des Schenkers ein eigenes Widerrufsrecht wegen groben Undanks?",
+  "optionen": [
+   "Wenn der Schenker vor Ablauf der Jahresfrist verstorben ist",
+   "Wenn der Beschenkte den Schenker vorsätzlich und widerrechtlich getötet oder den Widerruf vereitelt hat",
+   "Wenn der Beschenkte einen nahen Angehörigen des Schenkers beleidigt hat",
+   "Wenn der Schenker den Widerruf testamentarisch angeordnet hat"
+  ],
+  "antwort": 1,
+  "erklaerung": "Grundsätzlich ist das Widerrufsrecht höchstpersönlich und unvererblich. Nach § 530 Abs. 2 BGB haben die Erben ausnahmsweise ein eigenes Widerrufsrecht, wenn der Beschenkte den Schenker vorsätzlich und widerrechtlich getötet oder den Widerruf vereitelt hat. Der bloße Tod des Schenkers innerhalb der Jahresfrist genügt nicht."
  }
 ]

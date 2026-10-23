@@ -13,12 +13,12 @@
   ],
   "frage": "Worüber belehrt der Notar die Geschäftsführer vor Abgabe der Versicherung, dass ihrer Bestellung keine Gründe nach § 6 Abs. 2 GmbHG entgegenstehen?",
   "optionen": [
-   "Über die Strafbarkeit einer unrichtigen Versicherung und die unbeschränkte Auskunftspflicht gegenüber dem Registergericht nach § 53 Abs. 2 BZRG",
    "Über die persönliche Haftung für die Einlagen nach § 7 Abs. 2 GmbHG",
+   "Über die Strafbarkeit einer unrichtigen Versicherung und die unbeschränkte Auskunftspflicht gegenüber dem Registergericht nach § 53 Abs. 2 BZRG",
    "Über die Pflicht zur Vorlage eines polizeilichen Führungszeugnisses beim Registergericht",
    "Über die Differenzhaftung nach § 9 GmbHG bei überbewerteten Sacheinlagen"
   ],
-  "antwort": 0,
+  "antwort": 1,
   "erklaerung": "Die Belehrung betrifft die Strafbarkeit einer falschen Versicherung und die unbeschränkte Auskunftspflicht nach § 53 Abs. 2 BZRG gegenüber dem Registergericht; sie ist vor der Versicherung vorzunehmen. Ein Führungszeugnis wird nicht verlangt – an seine Stelle tritt gerade die eigene, strafbewehrte Versicherung des Geschäftsführers. Die Einlagenhaftung und die Differenzhaftung betreffen die Einlagenversicherung, nicht die Bestellungshindernisse."
  },
  {
@@ -35,12 +35,12 @@
   ],
   "frage": "Welche Aussage zum Inhalt der Versicherung über Bestellungshindernisse nach § 6 Abs. 2 GmbHG trifft zu?",
   "optionen": [
-   "Maßgeblich ist ein Zeitraum von zehn Jahren seit Rechtskraft der Verurteilung",
-   "Nur Verurteilungen durch inländische Gerichte sind relevant; ausländische Urteile bleiben außer Betracht",
    "Verurteilungen wegen Betrugs (§§ 263 bis 264a StGB) sind nur bei einer Freiheitsstrafe von mindestens einem Jahr erfasst",
+   "Nur Verurteilungen durch inländische Gerichte sind relevant; ausländische Urteile bleiben außer Betracht",
+   "Maßgeblich ist ein Zeitraum von zehn Jahren seit Rechtskraft der Verurteilung",
    "Die Zeit einer behördlich angeordneten Anstaltsverwahrung wird in die Frist eingerechnet"
   ],
-  "antwort": 2,
+  "antwort": 0,
   "erklaerung": "Straftaten nach §§ 263 bis 264a StGB oder §§ 265b bis 266a StGB sind nur bei einer Freiheitsstrafe von mindestens einem Jahr erfasst, während Insolvenzstraftaten, Insolvenzverschleppung und falsche Angaben unabhängig vom Strafmaß zählen. Die Frist beträgt fünf Jahre, nicht zehn; eine Verurteilung im Ausland wegen einer vergleichbaren Tat steht gleich, und die Zeit einer Anstaltsverwahrung wird gerade nicht in die Fünfjahresfrist eingerechnet."
  },
  {
@@ -66,7 +66,7 @@
   "seite": "GmbH: Erstanmeldung, Versicherungen der Geschäftsführer und Online-Gründung",
   "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-erstanmeldung-versicherungen-der-geschaftsfuhrer-und-online-grundung",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 3,
   "normen": [
    "§ 2 Abs. 3 GmbHG",
    "§§ 16a bis 16e BeurkG"
@@ -74,11 +74,11 @@
   "frage": "Welche Aussage zur Online-Gründung einer GmbH mittels Videokommunikation ist richtig?",
   "optionen": [
    "Nur die Gründungsvollmacht, nicht der Gesellschaftsvertrag selbst, kann per Videokommunikation beurkundet werden",
-   "Der online beurkundete Gesellschaftsvertrag darf eine Pflicht zur Abtretung von Geschäftsanteilen an der Gesellschaft enthalten",
+   "Die Online-Gründung ist auch dann möglich, wenn andere Formvorschriften entgegenstehen",
    "Die Online-Gründung ist nur bei Gründung im vereinfachten Verfahren mit Musterprotokoll zulässig",
-   "Die Online-Gründung ist auch dann möglich, wenn andere Formvorschriften entgegenstehen"
+   "Der online beurkundete Gesellschaftsvertrag darf eine Pflicht zur Abtretung von Geschäftsanteilen an der Gesellschaft enthalten"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Nach § 2 Abs. 3 S. 1 Hs. 2 GmbHG darf eine Pflicht zur Abtretung von Geschäftsanteilen an der Gesellschaft in den online beurkundeten Gesellschaftsvertrag aufgenommen werden. Sowohl Gründungsvollmacht als auch Gesellschaftsvertrag können nach §§ 16a bis 16e BeurkG per Videokommunikation beurkundet werden (§ 2 Abs. 2 und 3 GmbHG); für den Gesellschaftsvertrag gilt dies aber nur, wenn keine anderen Formvorschriften entgegenstehen. Eine Beschränkung auf das Musterprotokoll nennt die Seite nicht."
  },
  {
@@ -169,9 +169,9 @@
   "normen": [
    "§ 46 Nr. 4 GmbHG"
   ],
-  "frage": "Soll nur ein Teil eines Geschäftsanteils verkauft werden, entscheidet der Geschäftsführer allein über die Teilung des Geschäftsanteils.",
-  "antwort": false,
-  "erklaerung": "Über die Teilung von Geschäftsanteilen beschließen die Gesellschafter (§ 46 Nr. 4 GmbHG), nicht der Geschäftsführer. Ohne Teilungsbeschluss kann nur der gesamte Geschäftsanteil übertragen werden; die Teilung wird dann in der Veränderungsspalte der neuen Gesellschafterliste vermerkt."
+  "frage": "Soll nur ein Teil eines Geschäftsanteils verkauft werden, muss der Anteil zuvor geteilt werden; über die Teilung beschließen die Gesellschafter (§ 46 Nr. 4 GmbHG).",
+  "antwort": true,
+  "erklaerung": "Die Teilung eines Geschäftsanteils ist Voraussetzung für den Verkauf nur eines Teils; zuständig ist nach § 46 Nr. 4 GmbHG die Gesellschafterversammlung, nicht der Geschäftsführer. Die Teilung wird anschließend in der Veränderungsspalte der neuen Gesellschafterliste vermerkt."
  },
  {
   "id": "hand1-009",
@@ -187,12 +187,12 @@
   ],
   "frage": "Was bestätigt die Notarbescheinigung auf der neuen Gesellschafterliste nach § 40 Abs. 2 S. 2 GmbHG?",
   "optionen": [
-   "Dass die Abtretung wirksam ist und der Erwerber den Kaufpreis gezahlt hat",
    "Dass die geänderten Eintragungen den Veränderungen aus der Notarurkunde entsprechen und die übrigen Eintragungen mit der zuletzt im Handelsregister aufgenommenen Liste übereinstimmen",
+   "Dass die Abtretung wirksam ist und der Erwerber den Kaufpreis gezahlt hat",
    "Dass der Veräußerer nach Prüfung der Satzung wirksam Inhaber des Anteils war und keine Zustimmungserfordernisse bestehen",
    "Dass die Gesellschafterliste von den Geschäftsführern unterzeichnet und freigegeben wurde"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Die Bescheinigung hat zwei Inhalte: Die geänderten Eintragungen entsprechen den Veränderungen aus der Urkunde des Notars, und die übrigen Eintragungen stimmen mit der zuletzt im Handelsregister aufgenommenen Liste überein. Sie bestätigt weder die Kaufpreiszahlung noch die materielle Berechtigung des Veräußerers; die Liste reicht der Notar selbst ein (§ 40 Abs. 2 GmbHG), eine Unterzeichnung durch die Geschäftsführer ist dafür nicht Gegenstand der Bescheinigung."
  },
  {
@@ -202,7 +202,7 @@
   "seite": "GmbH: Geschäftsanteilsübertragung und Gesellschafterliste",
   "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-geschaftsanteilsubertragung-und-gesellschafterliste",
   "typ": "fall",
-  "schwierigkeit": 2,
+  "schwierigkeit": 3,
   "normen": [
    "§ 40 Abs. 2 GmbHG",
    "§ 16 Abs. 1 GmbHG",
@@ -215,33 +215,33 @@
     "frage": "Welche Unterlagen sollte N vor dem Entwurf beschaffen und welche Besonderheit folgt aus dem Grundbesitz der GmbH?",
     "optionen": [
      "Nur den Handelsregisterauszug; der Grundbesitz der GmbH ist für die Anteilsübertragung unerheblich",
-     "Aktuelle Satzung, aktuelle Gesellschafterliste und Handelsregisterauszug; wegen des Grundbesitzes ist die Übertragung in Baden-Württemberg der Grunderwerbsteuerstelle (FA Schwetzingen) anzuzeigen",
+     "Nur die Satzung; wegen des Grundbesitzes muss das Grundbuchamt der Übertragung zustimmen",
      "Nur die Gesellschafterliste; wegen des Grundbesitzes ist zusätzlich eine Auflassung zu beurkunden",
-     "Nur die Satzung; wegen des Grundbesitzes muss das Grundbuchamt der Übertragung zustimmen"
+     "Aktuelle Satzung, aktuelle Gesellschafterliste und Handelsregisterauszug; wegen des Grundbesitzes ist die Übertragung in Baden-Württemberg der Grunderwerbsteuerstelle (FA Schwetzingen) anzuzeigen"
     ],
-    "antwort": 1,
+    "antwort": 3,
     "erklaerung": "Die Seite verlangt Satzung (Zustimmungserfordernisse, Vorkaufs- und Erwerbsrechte), Gesellschafterliste (Inhaberschaft, zustimmende Mitgesellschafter) und Registerauszug. Hat die GmbH Grundbesitz, ist die Übertragung in Baden-Württemberg der Grunderwerbsteuerstelle beim FA Schwetzingen anzuzeigen; eine Auflassung findet nicht statt, da das Grundstück bei der GmbH bleibt."
    },
    {
     "frage": "Wann reicht N die neue Gesellschafterliste zum Handelsregister ein?",
     "optionen": [
      "Unverzüglich nach der Beurkundung, da die Veränderung mit Vertragsschluss eintritt",
-     "Erst nach Wirksamwerden der Abtretung, also nach Eintritt der Bedingung (Kaufpreiszahlung)",
      "Erst nach Zustimmung des Registergerichts zur Übertragung",
+     "Erst nach Wirksamwerden der Abtretung, also nach Eintritt der Bedingung (Kaufpreiszahlung)",
      "Sobald K die Zahlung des Kaufpreises ankündigt"
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Nach § 40 Abs. 2 GmbHG reicht der Notar die Liste unverzüglich nach Wirksamwerden der Veränderung ein; bei einer aufschiebend bedingten Abtretung ist das der Bedingungseintritt. Eine Einreichung bereits nach Beurkundung wäre verfrüht, weil die Abtretung noch nicht wirksam ist."
    },
    {
     "frage": "Welche Regelung sollte N wegen der Bedingung in den Vertrag aufnehmen?",
     "optionen": [
-     "Eine Pflicht des Verkäufers, dem Notar den Zahlungseingang unverzüglich zu bestätigen",
      "Eine Vollmacht für K, die Gesellschafterliste selbst beim Registergericht einzureichen",
+     "Eine Pflicht des Verkäufers, dem Notar den Zahlungseingang unverzüglich zu bestätigen",
      "Eine Verpflichtung der GmbH, die Zahlung auf ein Notaranderkonto zu leisten",
      "Eine Verpflichtung des Registergerichts, den Eingang des Kaufpreises zu prüfen"
     ],
-    "antwort": 0,
+    "antwort": 1,
     "erklaerung": "Da der Notar erst nach Wirksamwerden einreichen darf, muss er vom Bedingungseintritt erfahren; der Praxishinweis empfiehlt deshalb die Verpflichtung des Verkäufers, den Zahlungseingang unverzüglich zu bestätigen. Die Einreichung obliegt bei notarieller Mitwirkung dem Notar (§ 40 Abs. 2 GmbHG), nicht dem Erwerber."
    }
   ],
@@ -260,12 +260,12 @@
   ],
   "frage": "Wie vertreten mehrere Geschäftsführer die GmbH, wenn der Gesellschaftsvertrag keine Regelung zur Vertretung enthält?",
   "optionen": [
-   "Jeder Geschäftsführer vertritt die Gesellschaft allein",
    "Nur gemeinschaftlich (Gesamtvertretung)",
+   "Jeder Geschäftsführer vertritt die Gesellschaft allein",
    "Zwei Geschäftsführer gemeinsam oder ein Geschäftsführer mit einem Prokuristen",
    "Der dienstälteste Geschäftsführer vertritt allein, die übrigen gemeinschaftlich"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Nach § 35 Abs. 2 S. 1 GmbHG gilt ohne abweichende Satzungsregelung Gesamtvertretung aller Geschäftsführer. Die unechte Gesamtvertretung (zwei Geschäftsführer gemeinsam oder ein Geschäftsführer mit Prokurist) ist zwar üblich, bedarf aber einer Satzungsregelung und ist nicht die gesetzliche Grundregel."
  },
  {
@@ -283,11 +283,11 @@
   "frage": "Geschäftsführer G will sein Amt niederlegen und sein Ausscheiden selbst zum Handelsregister anmelden. Wie muss die Niederlegung gestaltet werden?",
   "optionen": [
    "Mit sofortiger Wirkung, damit G bis zur Anmeldung noch im Amt ist",
-   "Unter der aufschiebenden Bedingung der Eintragung seines Ausscheidens im Handelsregister",
+   "Durch Erklärung gegenüber dem Registergericht, das die Niederlegung sodann einträgt",
    "Unter der auflösenden Bedingung, dass die Gesellschafterversammlung einen Nachfolger bestellt",
-   "Durch Erklärung gegenüber dem Registergericht, das die Niederlegung sodann einträgt"
+   "Unter der aufschiebenden Bedingung der Eintragung seines Ausscheidens im Handelsregister"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Nur wenn die Amtsniederlegung unter der aufschiebenden Bedingung der Registereintragung steht, ist G im Zeitpunkt der Anmeldung noch Geschäftsführer und darf sein Ausscheiden selbst anmelden. Eine Niederlegung mit sofortiger Wirkung ist der typische Fehler: G ist dann sofort ausgeschieden und nicht mehr anmeldebefugt. Empfänger der Niederlegung ist das Bestellungsorgan, ohne abweichende Satzung die Gesellschafterversammlung (§ 46 Nr. 5 GmbHG), nicht das Registergericht; der Zugang bei einem Gesellschafter genügt (entsprechend § 35 Abs. 2 S. 2 GmbHG)."
  },
  {
@@ -301,9 +301,9 @@
   "normen": [
    "§ 181 BGB"
   ],
-  "frage": "Die Gesellschafterversammlung kann einen Geschäftsführer durch einfachen Beschluss von den Beschränkungen des § 181 BGB befreien, auch wenn der Gesellschaftsvertrag diese Möglichkeit nicht vorsieht.",
-  "antwort": false,
-  "erklaerung": "Eine Befreiung von § 181 BGB ist nur möglich, wenn der Gesellschaftsvertrag diese Möglichkeit vorsieht. Fehlt eine solche Satzungsgrundlage, reicht ein bloßer Gesellschafterbeschluss nicht aus; die Satzung müsste zuvor geändert werden. Eine erteilte Befreiung ist in der Anmeldung anzugeben."
+  "frage": "Ein GmbH-Geschäftsführer kann nur dann von den Beschränkungen des § 181 BGB befreit werden, wenn der Gesellschaftsvertrag diese Möglichkeit vorsieht.",
+  "antwort": true,
+  "erklaerung": "Die Befreiung von § 181 BGB setzt eine Grundlage im Gesellschaftsvertrag voraus; ein bloßer Gesellschafterbeschluss ohne Satzungsgrundlage genügt nicht. Eine erteilte Befreiung ist in der Handelsregisteranmeldung anzugeben."
  },
  {
   "id": "hand1-014",
@@ -355,12 +355,12 @@
   ],
   "frage": "Unter welchen Voraussetzungen steht das vereinfachte Gründungsverfahren mit Musterprotokoll nach § 2 Abs. 1a GmbHG offen?",
   "optionen": [
-   "Höchstens drei Gesellschafter und ein einziger Geschäftsführer",
    "Höchstens zwei Gesellschafter und höchstens zwei Geschäftsführer",
+   "Höchstens drei Gesellschafter und ein einziger Geschäftsführer",
    "Höchstens drei Gesellschafter; die Zahl der Geschäftsführer ist unbegrenzt",
    "Nur Ein-Personen-Gesellschaften mit einem Geschäftsführer"
   ],
-  "antwort": 0,
+  "antwort": 1,
   "erklaerung": "§ 2 Abs. 1a GmbHG eröffnet das vereinfachte Verfahren nur für GmbH oder UG mit höchstens drei Gesellschaftern und einem einzigen Geschäftsführer. Die Gründung mit Musterprotokoll bei mehr als drei Gesellschaftern oder mehreren Geschäftsführern ist ein typischer Fehler. Das Musterprotokoll gibt es als Anlage a für die Ein-Personen- und Anlage b für die Mehrpersonengesellschaft, es ist also nicht auf Ein-Personen-Gründungen beschränkt."
  },
  {
@@ -392,12 +392,12 @@
   ],
   "frage": "Welche Aussage zum Inhalt des gesetzlichen Musterprotokolls ist richtig?",
   "optionen": [
-   "Das Musterprotokoll lässt Geld- und Sacheinlagen zu, sofern ein Sachgründungsbericht beigefügt wird",
    "Der Geschäftsführer ist nach dem Musterprotokoll von den Beschränkungen des § 181 BGB befreit",
+   "Das Musterprotokoll lässt Geld- und Sacheinlagen zu, sofern ein Sachgründungsbericht beigefügt wird",
    "Die Gründungskosten tragen stets die Gesellschafter persönlich im Verhältnis ihrer Nennbeträge",
    "Das Musterprotokoll ersetzt Gründungsurkunde und Gesellschaftsvertrag; die Gesellschafterliste ist gesondert zu erstellen"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Das Musterprotokoll befreit den Geschäftsführer von § 181 BGB. Es sieht ausschließlich Geldeinlagen vor (sofort vollständig oder zur Hälfte und im Übrigen nach Einforderungsbeschluss). Die Gründungskosten trägt die Gesellschaft bis zu einem festen Höchstbetrag, begrenzt auf die Höhe des Stammkapitals; nur übersteigende Kosten fallen den Gesellschaftern zur Last. Nach § 2 Abs. 1a S. 4 GmbHG vereinigt das Musterprotokoll Gründungsurkunde, Gesellschaftsvertrag und Gesellschafterliste."
  },
  {
@@ -416,11 +416,11 @@
   "frage": "Zwei Gründer wollen das Musterprotokoll verwenden, aber eine Vinkulierungsklausel für die Geschäftsanteile ergänzen, um Kosten zu sparen. Wie ist die Rechtslage?",
   "optionen": [
    "Die Ergänzung ist zulässig, solange sie nur fakultative Satzungsbestandteile betrifft",
-   "Jede Abweichung vom gesetzlichen Wortlaut ist unzulässig; für eine Vinkulierung ist die individuelle Gründung erforderlich",
+   "Die Ergänzung ist zulässig, wenn alle Gesellschafter dem Zusatz zustimmen",
    "Die Ergänzung ist zulässig, dann gilt aber der Mindestwert nach § 107 Abs. 1 S. 1 GNotKG",
-   "Die Ergänzung ist zulässig, wenn alle Gesellschafter dem Zusatz zustimmen"
+   "Jede Abweichung vom gesetzlichen Wortlaut ist unzulässig; für eine Vinkulierung ist die individuelle Gründung erforderlich"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Bei der Gründung mit Musterprotokoll ist jede Abweichung vom gesetzlichen Wortlaut unzulässig; das Musterprotokoll beschränkt sich auf die notwendigen Satzungsbestandteile und enthält gerade keine Regelungen zu Vinkulierung, Einziehung, Abfindung oder Vererbung. Wer solche Regelungen will, muss individuell gründen. Der Kostenvorteil des Musterprotokolls (kein Mindestwert nach § 107 Abs. 1 S. 1 GNotKG, vgl. § 107 Abs. 1 S. 2, § 105 Abs. 6 GNotKG) ist im Einzelfall ohnehin gering, weshalb in der Regel von der Mustergründung abzuraten ist."
  },
  {
@@ -437,11 +437,11 @@
   "frage": "Welche Form muss eine Vollmacht zur Gründung einer GmbH haben?",
   "optionen": [
    "Schriftform genügt, da die Vollmacht nach § 167 Abs. 2 BGB nicht der Form des Hauptgeschäfts bedarf",
-   "Notarielle Beurkundung oder Beglaubigung (§ 2 Abs. 2 GmbHG)",
    "Zwingend notarielle Beurkundung; eine Beglaubigung reicht nicht",
+   "Notarielle Beurkundung oder Beglaubigung (§ 2 Abs. 2 GmbHG)",
    "Keine Form; die Vollmacht kann auch mündlich erteilt werden, wenn der Vertreter das Gründungsprotokoll unterzeichnet"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "§ 2 Abs. 2 GmbHG verlangt für die Gründungsvollmacht notarielle Beurkundung oder Beglaubigung; die Beglaubigung reicht also aus. Diese Form gilt sowohl für die individuelle Gründung als auch für die Gründung mit Musterprotokoll. Der allgemeine Grundsatz der Formfreiheit der Vollmacht ist durch die Sondernorm verdrängt."
  },
  {
@@ -459,11 +459,11 @@
   "frage": "Der Alleingründer A ist verhindert; sein Bekannter B erscheint ohne Vollmacht beim Notar und errichtet in A's Namen eine Ein-Personen-GmbH. A will die Gründung anschließend genehmigen. Wie ist die Rechtslage?",
   "optionen": [
    "Die Genehmigung heilt die Gründung rückwirkend nach § 177 Abs. 1 BGB",
-   "Die Genehmigung muss notariell beglaubigt sein, dann ist die Gründung wirksam",
    "Die Vertretung ohne Vertretungsmacht ist bei der Ein-Personen-Gründung ausgeschlossen (§ 180 S. 1 BGB); die Gründung ist unwirksam",
+   "Die Genehmigung muss notariell beglaubigt sein, dann ist die Gründung wirksam",
    "Die Genehmigung ist nur wirksam, wenn das Registergericht vor Eintragung zustimmt"
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "Die Errichtung einer Ein-Personen-GmbH ist ein einseitiges Rechtsgeschäft, bei dem § 180 S. 1 BGB die Vertretung ohne Vertretungsmacht ausschließt; eine nachgereichte Genehmigung ist nicht möglich. Das ist der typische Fehler der Seite. B hätte eine nach § 2 Abs. 2 GmbHG beurkundete oder beglaubigte Vollmacht benötigt. Die Rückwirkung des § 177 BGB gilt nur bei mehrseitigen Geschäften (Mehrpersonengründung)."
  },
  {
@@ -473,7 +473,7 @@
   "seite": "GmbH: Gründungsurkunde, Belehrungen und Gründungsvollmacht",
   "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-grundungsurkunde-belehrungen-und-grundungsvollmacht",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 3,
   "normen": [
    "§ 19 Abs. 5 GmbHG"
   ],
@@ -551,11 +551,11 @@
   "frage": "Wer muss die Anmeldung einer Kapitalerhöhung zum Handelsregister unterzeichnen?",
   "optionen": [
    "Geschäftsführer in vertretungsberechtigter Zahl",
-   "Sämtliche Geschäftsführer",
+   "Alle Übernehmer der neuen Geschäftsanteile",
    "Der Vorsitzende der Gesellschafterversammlung und ein Geschäftsführer",
-   "Alle Übernehmer der neuen Geschäftsanteile"
+   "Sämtliche Geschäftsführer"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Nach § 78 GmbHG unterzeichnen sämtliche Geschäftsführer die Anmeldung der Kapitalerhöhung; dasselbe gilt für die Übernehmerliste (§§ 57 Abs. 3 Nr. 2, 78 GmbHG). Die Anmeldung in vertretungsberechtigter Zahl, wie sie etwa bei der Abberufung eines Geschäftsführers genügt, reicht hier nicht; die fehlende Unterzeichnung aller Geschäftsführer ist der typische Fehler."
  },
  {
@@ -645,11 +645,11 @@
   "frage": "Wann darf eine ordentliche Kapitalherabsetzung frühestens zum Handelsregister angemeldet werden?",
   "optionen": [
    "Unmittelbar nach Beurkundung des Herabsetzungsbeschlusses",
-   "Sechs Monate nach Benachrichtigung der bekannten Gläubiger",
    "Ein Jahr nach dem Tag der Veröffentlichung der Gläubigeraufforderung",
+   "Sechs Monate nach Benachrichtigung der bekannten Gläubiger",
    "Ein Jahr nach Beurkundung des Herabsetzungsbeschlusses"
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "Die Kapitalherabsetzung darf frühestens ein Jahr nach dem Tag der Veröffentlichung der Gläubigeraufforderung im Bundesanzeiger angemeldet werden. Fristauslösend ist die Veröffentlichung, nicht die Beurkundung des Beschlusses. In der Anmeldung versichern die Geschäftsführer nach § 58 Abs. 1 Nr. 4 GmbHG, dass widersprechende Gläubiger befriedigt oder sichergestellt sind."
  },
  {
@@ -663,9 +663,9 @@
   "normen": [
    "§ 60 GmbHG"
   ],
-  "frage": "Der Auflösungsbeschluss einer GmbH bedarf ebenso wie der Kapitalherabsetzungsbeschluss der notariellen Beurkundung.",
-  "antwort": false,
-  "erklaerung": "Der Kapitalherabsetzungsbeschluss ist eine Satzungsänderung und daher beurkundungspflichtig. Der Auflösungsbeschluss nach § 60 GmbHG bedarf zwar einer Mehrheit von drei Vierteln der abgegebenen Stimmen, aber keiner Beurkundung; die Liquidatoren reichen ihn mit der Anmeldung der Auflösung ein."
+  "frage": "Der Auflösungsbeschluss einer GmbH bedarf einer Mehrheit von drei Vierteln der abgegebenen Stimmen, aber keiner notariellen Beurkundung.",
+  "antwort": true,
+  "erklaerung": "Nach § 60 GmbHG erfordert der Auflösungsbeschluss eine Dreiviertelmehrheit der abgegebenen Stimmen; eine Beurkundung ist nicht erforderlich. Anders der Kapitalherabsetzungsbeschluss: Er ist eine Satzungsänderung und deshalb zu beurkunden. Die Liquidatoren reichen den Auflösungsbeschluss mit der Anmeldung ein."
  },
  {
   "id": "hand1-031",
@@ -719,12 +719,12 @@
    {
     "frage": "Wer vertritt die Gesellschaft nach der Auflösung und meldet die Auflösung an?",
     "optionen": [
-     "X und Y gemeinsam als Gesellschafter",
      "G als Liquidator, da ohne abweichende Satzungsregelung die Geschäftsführer zu Liquidatoren werden",
+     "X und Y gemeinsam als Gesellschafter",
      "Ein vom Registergericht zu bestellender Liquidator",
      "Der Notar, der den Auflösungsbeschluss entworfen hat"
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "Ohne abweichende Satzungsregelung werden die Geschäftsführer zu Liquidatoren. Die Liquidatoren vertreten die Liquidationsgesellschaft, melden die Auflösung zum Handelsregister an und reichen den Auflösungsbeschluss ein."
    },
    {
@@ -732,21 +732,21 @@
     "optionen": [
      "Ja, da alle bekannten Schulden getilgt sind",
      "Ja, sofern G versichert, dass keine weiteren Gläubiger existieren",
-     "Nein, die Verteilung ist erst nach Ablauf des Sperrjahrs zulässig, das mit Bekanntmachung der Auflösung und Gläubigeraufruf im Bundesanzeiger beginnt",
-     "Nein, das Restvermögen fällt nach Auflösung an den Fiskus"
+     "Nein, das Restvermögen fällt nach Auflösung an den Fiskus",
+     "Nein, die Verteilung ist erst nach Ablauf des Sperrjahrs zulässig, das mit Bekanntmachung der Auflösung und Gläubigeraufruf im Bundesanzeiger beginnt"
     ],
-    "antwort": 2,
+    "antwort": 3,
     "erklaerung": "Nach § 73 GmbHG ist die Verteilung an die Gesellschafter erst nach Ablauf des Sperrjahrs zulässig; dieses beginnt mit der Bekanntmachung der Auflösung im Bundesanzeiger und dem Gläubigeraufruf. Die Tilgung der bekannten Schulden genügt nicht – die vorzeitige Verteilung ist der typische Fehler."
    },
    {
     "frage": "Wie wird das Restvermögen nach Ablauf des Sperrjahrs verteilt, und was ist anschließend anzumelden?",
     "optionen": [
      "Nach Köpfen; anschließend die Löschung der Firma",
-     "Nach dem Verhältnis der Geschäftsanteile; anschließend das Erlöschen der Gesellschaft",
      "Nach dem Verhältnis der Geschäftsanteile; eine weitere Anmeldung ist nicht erforderlich",
+     "Nach dem Verhältnis der Geschäftsanteile; anschließend das Erlöschen der Gesellschaft",
      "Nach dem Verhältnis der geleisteten Einlagen; anschließend die Beendigung der Liquidatorenstellung"
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Verbleibendes Vermögen wird nach dem Verhältnis der Geschäftsanteile verteilt. Ist die Liquidation nach Ablauf des Sperrjahrs beendet, ist das Erlöschen der Gesellschaft zum Handelsregister anzumelden."
    }
   ],
@@ -766,11 +766,11 @@
   "frage": "Welche Angabe gehört nicht zum gesetzlichen Mindestinhalt der GmbH-Satzung nach § 3 GmbHG?",
   "optionen": [
    "Gegenstand des Unternehmens",
-   "Betrag des Stammkapitals",
    "Regelung zur Einziehung von Geschäftsanteilen",
+   "Betrag des Stammkapitals",
    "Zahl und Nennbeträge der von jedem Gesellschafter übernommenen Geschäftsanteile"
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "§ 3 GmbHG verlangt Firma und Sitz, Unternehmensgegenstand, Betrag des Stammkapitals sowie Zahl und Nennbeträge der übernommenen Geschäftsanteile. Die Einziehung (§ 34 GmbHG) ist ein fakultativer Satzungsbestandteil; sie ist zwar üblich, gehört aber nicht zum Mindestinhalt und fehlt daher etwa im Musterprotokoll."
  },
  {
@@ -803,12 +803,12 @@
   ],
   "frage": "Gründer A übernimmt bei Errichtung einer GmbH mit 25.000 € Stammkapital mehrere Geschäftsanteile. Welche Gestaltung ist zulässig?",
   "optionen": [
-   "Ein Anteil zu 0,50 € und ein Anteil zu 24.999,50 €",
    "Drei Anteile mit unterschiedlichen Nennbeträgen, deren Summe zusammen mit den Anteilen der übrigen Gründer 25.000 € ergibt",
+   "Ein Anteil zu 0,50 € und ein Anteil zu 24.999,50 €",
    "Zwei Anteile, deren Summe 26.000 € beträgt, da ein Agio zulässig ist",
    "Ein Anteil zu 12.500 €, wobei die Nennbeträge aller Gesellschafter nur mindestens 12.500 € ergeben müssen"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Ein Gründer darf mehrere Geschäftsanteile mit unterschiedlichen Nennbeträgen übernehmen (§ 5 Abs. 3 S. 1 GmbHG); jeder Nennbetrag muss auf mindestens 1 € lauten (§ 5 Abs. 2 GmbHG), weshalb 0,50 € unzulässig ist. Die Summe aller Nennbeträge muss immer dem Stammkapital entsprechen (§ 5 Abs. 3 S. 2 GmbHG) – eine Abweichung ist der typische Fehler."
  },
  {
@@ -826,11 +826,11 @@
   "frage": "Welche Aussage zum Unternehmensgegenstand und zu den Übernahmeangaben in der Satzung trifft zu?",
   "optionen": [
    "Die Angabe von Zahl und Nennbeträgen der übernommenen Geschäftsanteile darf erst nach vollständiger Einzahlung aller Einlagen aus der Satzung gestrichen werden",
-   "Bei der Komplementär-GmbH einer GmbH & Co. KG genügt als Unternehmensgegenstand die Geschäftsführung für die Kommanditgesellschaft",
+   "Fakultative Satzungsbestimmungen binden nur die Gründungsgesellschafter, nicht spätere Erwerber",
    "Der Unternehmensgegenstand dient allein der Information des Rechtsverkehrs und bindet die Geschäftsführer nicht",
-   "Fakultative Satzungsbestimmungen binden nur die Gründungsgesellschafter, nicht spätere Erwerber"
+   "Bei der Komplementär-GmbH einer GmbH & Co. KG genügt als Unternehmensgegenstand die Geschäftsführung für die Kommanditgesellschaft"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Für die Komplementär-GmbH genügt nach der Seite die Angabe der Geschäftsführung für die KG als Unternehmensgegenstand. Die Übernahmeangaben dürfen bei einer späteren Satzungsänderung auch dann gestrichen werden, wenn die Einlagen noch nicht voll eingezahlt sind. Der Unternehmensgegenstand schützt nach innen die Gesellschafter, da die Geschäftsführer an die Grenzen des Gesellschaftsvertrags gebunden sind (§ 37 Abs. 1 GmbHG); fakultative Bestimmungen sind mit der Mitgliedschaft verbunden und binden auch künftige Gesellschafter."
  },
  {
@@ -848,11 +848,11 @@
   "frage": "Welche Aussage zur Satzungsänderung bei der GmbH trifft zu?",
   "optionen": [
    "Der Beschluss bedarf der einfachen Mehrheit und wird mit Beurkundung wirksam",
-   "Der Beschluss bedarf mindestens drei Vierteln der abgegebenen Stimmen und wird erst mit Eintragung im Handelsregister wirksam",
    "Der Beschluss bedarf der Einstimmigkeit und wird mit Anmeldung wirksam",
+   "Der Beschluss bedarf mindestens drei Vierteln der abgegebenen Stimmen und wird erst mit Eintragung im Handelsregister wirksam",
    "Der Beschluss bedarf mindestens drei Vierteln des Stammkapitals und wird mit Beurkundung wirksam"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "§ 53 Abs. 2 GmbHG verlangt mindestens drei Viertel der abgegebenen Stimmen (nicht des Stammkapitals); die Satzung kann weitere Erfordernisse aufstellen. Wirksam wird die Änderung nach § 54 Abs. 3 GmbHG erst mit der Eintragung – die Eintragung ist konstitutiv, weshalb Rechtsfolgen erst ab diesem Zeitpunkt einzuplanen sind."
  },
  {
@@ -943,12 +943,12 @@
   ],
   "frage": "Gründer G bringt sein Einzelunternehmen als Sacheinlage in eine GmbH ein. Was muss der Sachgründungsbericht in diesem Fall zusätzlich enthalten?",
   "optionen": [
-   "Ein Wertgutachten eines öffentlich bestellten Sachverständigen",
    "Die Jahresergebnisse der beiden letzten Geschäftsjahre",
+   "Ein Wertgutachten eines öffentlich bestellten Sachverständigen",
    "Die Bilanzen der letzten drei Geschäftsjahre mit Testat",
    "Eine Versicherung des Geschäftsführers zur Werthaltigkeit"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Geht ein Unternehmen auf die Gesellschaft über, sind nach § 5 Abs. 4 GmbHG im Sachgründungsbericht die Jahresergebnisse der beiden letzten Geschäftsjahre anzugeben. Der Werthaltigkeitsnachweis (in der Regel ein Wertgutachten, § 8 Abs. 1 Nr. 5 GmbHG) ist eine eigene Anmeldungsunterlage und nicht Pflichtinhalt des Sachgründungsberichts."
  },
  {
@@ -985,12 +985,12 @@
   ],
   "frage": "Unter welcher Voraussetzung ist eine Vorratsgründung nach der Rechtsprechung des BGH zulässig?",
   "optionen": [
-   "Wenn der Unternehmensgegenstand offenlegt, dass die Gesellschaft für die künftige Aufnahme eines Geschäftsbetriebs bereitgehalten wird",
+   "Wenn die Gründer sich verpflichten, die Gesellschaft binnen eines Jahres zu aktivieren",
    "Wenn die Satzung einen fiktiven, aber branchenüblichen Unternehmensgegenstand enthält",
    "Wenn das Stammkapital vollständig eingezahlt und auf einem Sperrkonto hinterlegt ist",
-   "Wenn die Gründer sich verpflichten, die Gesellschaft binnen eines Jahres zu aktivieren"
+   "Wenn der Unternehmensgegenstand offenlegt, dass die Gesellschaft für die künftige Aufnahme eines Geschäftsbetriebs bereitgehalten wird"
   ],
-  "antwort": 0,
+  "antwort": 3,
   "erklaerung": "Zulässig ist nur die offene Vorratsgründung: Der Unternehmensgegenstand muss offenlegen, dass die Gesellschaft für einen künftigen Geschäftsbetrieb bereitgehalten wird, etwa durch den Gegenstand „Verwaltung des eigenen Vermögens“. Ein fiktiver Unternehmensgegenstand wäre gerade eine verdeckte Vorratsgründung und damit unzulässig."
  },
  {
@@ -1027,11 +1027,11 @@
     "frage": "Wie ist der Vorgang rechtlich einzuordnen?",
     "optionen": [
      "Als bloße Satzungsänderung ohne gründungsrechtliche Bedeutung",
-     "Als Mantelverwendung, die als wirtschaftliche Neugründung gilt",
      "Als offene Vorratsgründung",
+     "Als Mantelverwendung, die als wirtschaftliche Neugründung gilt",
      "Als Umwandlung nach dem UmwG"
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Eine früher aktive GmbH, die ihre Tätigkeit eingestellt hat und mit anderem Unternehmensgegenstand wieder in Betrieb genommen wird, ist ein Fall der Mantelverwendung; diese gilt als wirtschaftliche Neugründung. Eine Vorratsgesellschaft war nie wirtschaftlich tätig."
    },
    {
@@ -1048,12 +1048,12 @@
    {
     "frage": "Welche Haftungsfolgen drohen nach der BGH-Rechtsprechung, wenn K vor Offenlegung Geschäfte im Namen der Z-GmbH abschließt?",
     "optionen": [
-     "Keine, da die GmbH bereits eingetragen ist",
      "Unterbilanzhaftung und Handelndenhaftung analog § 11 Abs. 2 GmbHG",
+     "Keine, da die GmbH bereits eingetragen ist",
      "Nur eine Ordnungsgeldandrohung des Registergerichts",
      "Eine Haftung nur des Notars wegen unterlassener Belehrung"
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "Der BGH wendet auf Vorratsgründung und Mantelverwendung die Unterbilanzhaftung sowie die Handelndenhaftung analog § 11 Abs. 2 GmbHG an. Die bestehende Eintragung schützt K deshalb nicht."
    }
   ],
@@ -1073,11 +1073,11 @@
   "frage": "Welche Einzahlungsregel gilt bei Gründung einer UG (haftungsbeschränkt)?",
   "optionen": [
    "Mindestens ein Viertel je Geschäftsanteil, insgesamt mindestens die Hälfte des Stammkapitals",
-   "Volleinzahlung in Geld vor der Anmeldung",
+   "Mindestens die Hälfte des Stammkapitals in Geld, Rest innerhalb eines Jahres",
    "Volleinzahlung in Geld oder durch Sacheinlage vor der Anmeldung",
-   "Mindestens die Hälfte des Stammkapitals in Geld, Rest innerhalb eines Jahres"
+   "Volleinzahlung in Geld vor der Anmeldung"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Nach § 5a Abs. 2 GmbHG muss das Stammkapital der UG vor der Anmeldung vollständig in Geld eingezahlt sein; Sacheinlagen sind nach § 5a Abs. 2 S. 2 GmbHG bei Errichtung ausgeschlossen. Die Viertel-/Halbregel des § 7 Abs. 2 GmbHG gilt nur für die reguläre GmbH."
  },
  {
@@ -1109,11 +1109,11 @@
   "frage": "Eine UG (haftungsbeschränkt) mit 3.000 € Stammkapital will ihr Kapital durch Einbringung eines Fahrzeugs als Sacheinlage erhöhen. Wann ist das zulässig?",
   "optionen": [
    "Nie, da § 5a Abs. 2 S. 2 GmbHG Sacheinlagen bei der UG ausnahmslos verbietet",
-   "Nur wenn das Stammkapital nach der Sachkapitalerhöhung mindestens 25.000 € erreicht",
    "Immer, da das Sacheinlageverbot nur bei der Errichtung gilt",
+   "Nur wenn das Stammkapital nach der Sachkapitalerhöhung mindestens 25.000 € erreicht",
    "Nur wenn zuvor die gesetzliche Rücklage aufgelöst wurde"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Das Sacheinlageverbot des § 5a Abs. 2 S. 2 GmbHG schließt eine Sachkapitalerhöhung aus, wenn das Stammkapital danach unter 25.000 € bleibt. Erreicht es durch die Erhöhung mindestens 25.000 €, findet das Verbot keine Anwendung mehr, weil die UG sonst schlechter stünde als eine gewöhnliche GmbH. Ein ausnahmsloses Verbot wäre daher ebenso falsch wie eine Beschränkung auf die Gründungsphase."
  },
  {
@@ -1166,12 +1166,12 @@
   ],
   "frage": "Gesellschafter G einer GbR stirbt; er wird von seinen Kindern K1 und K2 zu je 1/2 beerbt. Der Gesellschaftsvertrag enthält keine Regelung zum Tod eines Gesellschafters. Was gilt?",
   "optionen": [
-   "Die GbR wird aufgelöst",
-   "Der Anteil fällt in die Erbengemeinschaft aus K1 und K2",
    "G scheidet aus der GbR aus; die Gesellschaft besteht unter den übrigen Gesellschaftern fort",
+   "Der Anteil fällt in die Erbengemeinschaft aus K1 und K2",
+   "Die GbR wird aufgelöst",
    "K1 und K2 werden kraft Gesetzes je zur Hälfte Gesellschafter"
   ],
-  "antwort": 2,
+  "antwort": 0,
   "erklaerung": "Nach § 723 Abs. 1 Nr. 1 BGB führt der Tod eines Gesellschafters ohne abweichende Vertragsregelung zu dessen Ausscheiden, nicht zur Auflösung. Nur wenn der Gesellschaftsvertrag eine Nachfolgeklausel enthält, geht der Anteil im Wege der Sondererbfolge (§ 711 Abs. 2 BGB) nach Erbquoten auf die Erben über – und auch dann nicht in die Erbengemeinschaft."
  },
  {
@@ -1244,9 +1244,9 @@
    "§ 15 Abs. 1 Nr. 2 GBV",
    "§ 47 Abs. 2 GBO"
   ],
-  "frage": "Bei einer im Grundbuch eingetragenen eGbR werden die Gesellschafter weiterhin im Grundbuch genannt, sodass ein Gesellschafterwechsel im Grundbuch zu berichtigen ist.",
-  "antwort": false,
-  "erklaerung": "Das Grundbuch führt die eGbR nur noch unter ihrem Namen mit Sitz und gegebenenfalls Registergericht und Registerblatt (§ 15 Abs. 1 Nr. 2 GBV). Die Gesellschafter erscheinen nicht mehr im Grundbuch; das war nur nach früherem Recht (§ 47 Abs. 2 GBO a. F., § 899a BGB a. F.) so. Ein Gesellschafterwechsel wird daher nur im Gesellschaftsregister vollzogen."
+  "frage": "Ein Gesellschafterwechsel bei einer im Grundbuch eingetragenen eGbR wird nur noch im Gesellschaftsregister vollzogen, nicht mehr im Grundbuch.",
+  "antwort": true,
+  "erklaerung": "Das Grundbuch führt die eGbR nur unter ihrem Namen mit Sitz und gegebenenfalls Registergericht und Registerblatt (§ 15 Abs. 1 Nr. 2 GBV); die Gesellschafter erscheinen dort nicht mehr. Nach früherem Recht (§ 47 Abs. 2 GBO a. F., § 899a BGB a. F.) war das anders, weshalb ein Wechsel damals im Grundbuch zu berichtigen war."
  },
  {
   "id": "hand1-056",
@@ -1262,11 +1262,11 @@
   "frage": "Welche Angabe ist nicht Pflichtinhalt der Erstanmeldung einer GbR zum Gesellschaftsregister nach § 707 Abs. 2 BGB?",
   "optionen": [
    "Die Vertretungsbefugnis der Gesellschafter",
-   "Die Beteiligungsquoten der Gesellschafter",
    "Die Versicherung, dass die Gesellschaft noch nicht im Handels- oder Partnerschaftsregister eingetragen ist",
+   "Die Beteiligungsquoten der Gesellschafter",
    "Name, Sitz und Anschrift der Gesellschaft in einem EU-Mitgliedstaat"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "§ 707 Abs. 2 BGB verlangt Name, Sitz und Anschrift, Angaben zu den Gesellschaftern, deren Vertretungsbefugnis und die Versicherung der Nichteintragung im Handels- oder Partnerschaftsregister. Beteiligungsquoten oder Gesellschaftsanteile werden im Gesellschaftsregister gerade nicht ausgewiesen – anders als die Nennbeträge in der GmbH-Gesellschafterliste."
  },
  {
@@ -1339,12 +1339,12 @@
   ],
   "frage": "Wann bedarf der Gesellschaftsvertrag einer GbR der notariellen Beurkundung?",
   "optionen": [
-   "Stets, wenn die GbR in das Gesellschaftsregister eingetragen werden soll",
    "Wenn ein Gesellschafter sich bei Gründung verpflichtet, Grundbesitz in die GbR einzubringen",
+   "Stets, wenn die GbR in das Gesellschaftsregister eingetragen werden soll",
    "Wenn die GbR als Außen-GbR am Rechtsverkehr teilnehmen soll",
    "Wenn mehr als zwei Gesellschafter beteiligt sind"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Der GbR-Vertrag ist grundsätzlich formfrei und kann sogar konkludent geschlossen werden (§ 705 Abs. 1 BGB). Beurkundungspflichtig ist er nur, wenn ein Gesellschafter schon bei Gründung die Pflicht zur Einbringung von Grundbesitz übernimmt (§ 311b BGB). Die Registereintragung verlangt nur eine beglaubigte Anmeldung, keinen beurkundeten Vertrag."
  },
  {
@@ -1369,7 +1369,7 @@
   "seite": "GbR: Gründung, Haftung, Geschäftsführung und Vertretung",
   "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/gbr-grundung-haftung-geschaftsfuhrung-und-vertretung",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 3,
   "normen": [
    "§ 715 Abs. 3 BGB",
    "§ 715 Abs. 4 BGB",
@@ -1379,10 +1379,10 @@
   "optionen": [
    "A darf handeln, da er einzelgeschäftsführungsbefugt ist",
    "Es entscheidet die Mehrheit der Gesellschafter, also A und C",
-   "Das Geschäft unterbleibt, da jeder andere geschäftsführungsbefugte Gesellschafter widersprechen kann",
-   "Das Geschäft unterbleibt nur, wenn es sich um ein Notgeschäft handelt"
+   "Das Geschäft unterbleibt nur, wenn es sich um ein Notgeschäft handelt",
+   "Das Geschäft unterbleibt, da jeder andere geschäftsführungsbefugte Gesellschafter widersprechen kann"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Ist nach § 715 Abs. 4 BGB jeder von mehreren geschäftsführungsbefugten Gesellschaftern allein handlungsbefugt, kann jeder andere geschäftsführungsbefugte Gesellschafter widersprechen; dann unterbleibt das Geschäft. Ohne Vertragsregelung gälte ohnehin Gesamtgeschäftsführung (§ 715 Abs. 3 BGB). Notgeschäfte nach § 715a BGB sind gerade eine Ausnahme vom Zustimmungserfordernis, kein Anwendungsfall des Widerspruchs."
  },
  {
@@ -1419,5 +1419,194 @@
    ]
   ],
   "erklaerung": "Die GbR ist rechtsfähig, wenn sie nach dem gemeinsamen Willen der Gesellschafter am Rechtsverkehr teilnimmt (§ 705 Abs. 2 S. 1 BGB); davon ist insbesondere beim Betrieb eines Unternehmens unter gemeinschaftlichem Namen auszugehen (§ 705 Abs. 3 BGB). Die Innen-GbR besitzt nach § 740 Abs. 1 BGB kein Vermögen. Gesetzlicher Regelfall der Vertretung ist nach § 720 BGB die Gesamtvertretung; Einzelbefugnisse müssen vertraglich vereinbart werden."
+ },
+ {
+  "id": "hand1-063",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "GmbH & Co. KG: Gründung, Firmierung, Anteilsverkauf und Einheitsgesellschaft",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/gmbh-co-kg-grundung-firmierung-anteilsverkauf-und-einheitsgesellschaft",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 15 Abs. 3 GmbHG",
+   "§ 15 Abs. 4 GmbHG"
+  ],
+  "frage": "Kommanditist K verkauft seinen Kommanditanteil an der X GmbH & Co. KG und zugleich seinen Geschäftsanteil an der Komplementär-GmbH an E. Welche Form ist einzuhalten?",
+  "optionen": [
+   "Nur der GmbH-Anteilsverkauf ist zu beurkunden; der Kommanditanteil kann formfrei übertragen werden",
+   "Beide Geschäfte sind formfrei, da die GmbH & Co. KG eine Personengesellschaft ist",
+   "Beide Geschäfte sind wegen ihrer rechtlichen Einheit notariell zu beurkunden",
+   "Es genügt die öffentliche Beglaubigung der Unterschriften unter beiden Verträgen"
+  ],
+  "antwort": 2,
+  "erklaerung": "Der Verkauf eines Kommanditanteils allein ist formfrei. Werden Kommanditanteil und GmbH-Geschäftsanteil aber gemeinsam veräußert, bilden die Geschäfte eine rechtliche Einheit, sodass die Beurkundungspflicht des § 15 Abs. 3 und 4 GmbHG auch den Kommanditanteilsverkauf erfasst. Die formlose Übertragung des Kommanditanteils in dieser Konstellation ist ein typischer Fehler."
+ },
+ {
+  "id": "hand1-064",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "GmbH & Co. KG: Gründung, Firmierung, Anteilsverkauf und Einheitsgesellschaft",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/gmbh-co-kg-grundung-firmierung-anteilsverkauf-und-einheitsgesellschaft",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 19 Abs. 2 HGB"
+  ],
+  "frage": "Die Firmen „Müller Bau GmbH“ (Komplementärin) und „Müller Bau GmbH & Co. KG“ sind hinreichend unterscheidbar, da sie verschiedene Rechtsformzusätze tragen.",
+  "antwort": false,
+  "erklaerung": "Die Firmen von Komplementär-GmbH und KG müssen sich über den Rechtsformzusatz hinaus unterscheiden; ein Unterschied allein im Rechtsformzusatz genügt nicht. In der Praxis erhält die Komplementärin deshalb häufig den Zusatz „Verwaltung“ (etwa „Müller Bau Verwaltungs-GmbH“). Der Zusatz „GmbH & Co. KG“ selbst ist nach § 19 Abs. 2 HGB zwingend."
+ },
+ {
+  "id": "hand1-065",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "GmbH & Co. KG: Gründung, Firmierung, Anteilsverkauf und Einheitsgesellschaft",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/gmbh-co-kg-grundung-firmierung-anteilsverkauf-und-einheitsgesellschaft",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 170 Abs. 2 HGB"
+  ],
+  "frage": "In einer Einheits-GmbH & Co. KG hält die KG sämtliche Geschäftsanteile der Komplementär-GmbH. Wer übt vorbehaltlich abweichender Vereinbarung das Stimmrecht der KG in der Gesellschafterversammlung der Komplementär-GmbH aus?",
+  "optionen": [
+   "Die Geschäftsführer der Komplementär-GmbH, da diese die KG vertritt",
+   "Die Kommanditisten aufgrund begrenzter organschaftlicher Vertretungsmacht nach § 170 Abs. 2 HGB",
+   "Ein von der Gesellschafterversammlung der GmbH bestellter Sonderbevollmächtigter",
+   "Niemand; Beschlüsse der Komplementär-GmbH sind in der Einheitsgesellschaft ausgeschlossen"
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 170 Abs. 2 HGB räumt den Kommanditisten einer Einheitsgesellschaft vorbehaltlich abweichender Vereinbarung eine begrenzte organschaftliche Vertretungsmacht für die Stimmabgabe der KG bei Beschlüssen der Komplementär-GmbH ein. Nach allgemeinen Regeln würde die Komplementär-GmbH durch ihre Geschäftsführer handeln – diese stimmten dann über ihre eigene Bestellung, Abberufung und Entlastung ab. Diesen Konflikt löst die Norm, die die frühere herrschende Auffassung kodifiziert."
+ },
+ {
+  "id": "hand1-066",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "GmbH & Co. KG: Gründung, Firmierung, Anteilsverkauf und Einheitsgesellschaft",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/gmbh-co-kg-grundung-firmierung-anteilsverkauf-und-einheitsgesellschaft",
+  "typ": "fall",
+  "schwierigkeit": 2,
+  "normen": [
+   "§§ 161 Abs. 2, 106, 162 Abs. 1 HGB",
+   "§ 19 Abs. 2 HGB"
+  ],
+  "frage": "Gründung einer GmbH & Co. KG",
+  "sachverhalt": "A und B wollen eine Spedition in der Rechtsform der GmbH & Co. KG betreiben. Eine Komplementärin existiert noch nicht. A und B sollen als Kommanditisten mit Haftsummen von je 10.000 € beteiligt sein. Notar N soll Gründung und Anmeldungen vorbereiten.",
+  "schritte": [
+   {
+    "frage": "Welche Formerfordernisse bestehen bei der Gründung?",
+    "optionen": [
+     "Nur die Errichtung der Verwaltungs-GmbH erfordert die notarielle Form; der KG-Vertrag ist formfrei",
+     "Sowohl der KG-Vertrag als auch die Errichtung der Verwaltungs-GmbH sind zu beurkunden",
+     "Nur der KG-Vertrag ist zu beurkunden, da die KG das Unternehmen betreibt",
+     "Keines der Geschäfte ist formbedürftig"
+    ],
+    "antwort": 0,
+    "erklaerung": "Die Errichtung der Verwaltungs-GmbH erfordert die notarielle Form. Für den KG-Vertrag gilt keine Formvorschrift; für die KG bleibt nur die Handelsregisteranmeldung durch alle Gesellschafter (§§ 161 Abs. 2, 106, 162 Abs. 1 HGB)."
+   },
+   {
+    "frage": "Was gehört in die Anmeldung der KG, solange die Komplementär-GmbH noch nicht eingetragen ist?",
+    "optionen": [
+     "Die Gesellschafter der Komplementär-GmbH mit ihren Nennbeträgen",
+     "Nur die Namen der Kommanditisten; die Komplementärin wird nachgemeldet",
+     "Die Pflichteinlagen der Kommanditisten und die Gesellschafterliste der GmbH",
+     "Die Komplementär-GmbH mit Sitz und Registergericht, Registernummer als „neu“, eine etwaige Befreiung von § 181 BGB und die Haftsummen der Kommanditisten"
+    ],
+    "antwort": 3,
+    "erklaerung": "Die Anmeldung nennt Firma, Sitz, Geschäftsanschrift, Gegenstand und Vertretungsregelung, bezeichnet die Komplementär-GmbH mit Sitz und Registergericht (Registernummer ggf. als „neu“), eine Befreiung von § 181 BGB und jeden Kommanditisten mit seiner Haftsumme – nicht mit der Pflichteinlage."
+   },
+   {
+    "frage": "Wann können die Anmeldungen von GmbH und KG eingereicht werden?",
+    "optionen": [
+     "Die KG erst nach Eintragung der GmbH",
+     "Beide zusammen sofort nach Beurkundung; eingetragen wird zuerst die KG",
+     "Beide zusammen, sobald die Stammkapitaleinzahlung der Verwaltungs-GmbH belegt ist; eingetragen wird zuerst die GmbH",
+     "Die GmbH erst nach Eintragung der KG"
+    ],
+    "antwort": 2,
+    "erklaerung": "Die Anmeldungen können zusammen eingereicht werden, sobald die Stammkapitaleinzahlung der Verwaltungs-GmbH belegt ist. Das Registergericht trägt zuerst die GmbH, danach die KG ein."
+   }
+  ],
+  "erklaerung": "N beurkundet die Errichtung der Verwaltungs-GmbH (mit über den Rechtsformzusatz hinaus unterscheidbarer Firma, etwa mit Zusatz „Verwaltung“); der KG-Vertrag ist formfrei. Die KG-Anmeldung aller Gesellschafter bezeichnet die Komplementärin (Registernummer „neu“) und die Haftsummen; beide Anmeldungen werden nach Nachweis der Stammkapitaleinzahlung gemeinsam eingereicht."
+ },
+ {
+  "id": "hand1-067",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "KG: Grundlagen, Gründung, Haftung vor Eintragung und Anmeldung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/kg-grundlagen-grundung-haftung-vor-eintragung-und-anmeldung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 176 Abs. 1 HGB"
+  ],
+  "frage": "Die neu gegründete X-KG schließt mit Zustimmung des Kommanditisten K vor ihrer Eintragung einen Liefervertrag mit Gläubiger G, der K's Kommanditistenstellung nicht kennt. Wie haftet K für diese Verbindlichkeit?",
+  "optionen": [
+   "Nur bis zur Höhe seiner vereinbarten Haftsumme",
+   "Wie ein persönlich haftender Gesellschafter, also unbeschränkt",
+   "Gar nicht, solange er seine Einlage geleistet hat",
+   "Nur subsidiär nach Inanspruchnahme des Komplementärs"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nimmt die KG vor Eintragung am Rechtsverkehr teil, haftet jeder zustimmende Kommanditist für Verbindlichkeiten aus dieser Zeit wie ein persönlich haftender Gesellschafter (§ 176 Abs. 1 HGB), es sei denn, der Gläubiger kennt seine Kommanditistenstellung. Die Beschränkung auf die Haftsumme und der Haftungsausschluss durch Einlageleistung (§§ 171, 172 HGB) greifen erst nach Eintragung."
+ },
+ {
+  "id": "hand1-068",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "KG: Grundlagen, Gründung, Haftung vor Eintragung und Anmeldung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/kg-grundlagen-grundung-haftung-vor-eintragung-und-anmeldung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 176 HGB"
+  ],
+  "frage": "Welche Gestaltung empfiehlt sich, um beim Beitritt eines Kommanditisten die Haftung nach § 176 HGB zu vermeiden?",
+  "optionen": [
+   "Der Beitritt wird unter die aufschiebende Bedingung seiner Eintragung im Handelsregister gestellt",
+   "Die Haftsumme wird bereits vor Eintragung vollständig eingezahlt",
+   "Der Kommanditist erteilt dem Komplementär Generalvollmacht",
+   "Der Beitritt wird notariell beurkundet statt formfrei vereinbart"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Seite empfiehlt, den Beitritt des Kommanditisten erst mit seiner Registereintragung wirksam werden zu lassen (aufschiebende Bedingung); dann ist er vor Eintragung noch nicht Gesellschafter und die Haftung nach § 176 HGB entsteht nicht. Die Einzahlung der Einlage schützt nach § 171 Abs. 1 HGB erst nach Eintragung, und eine Beurkundung ändert an § 176 HGB nichts."
+ },
+ {
+  "id": "hand1-069",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "KG: Grundlagen, Gründung, Haftung vor Eintragung und Anmeldung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/kg-grundlagen-grundung-haftung-vor-eintragung-und-anmeldung",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 161 Abs. 2 HGB",
+   "§ 106 Abs. 7 HGB"
+  ],
+  "frage": "Die Erstanmeldung einer KG zum Handelsregister unterzeichnet allein der Komplementär, da nur er zur Vertretung der KG berechtigt ist.",
+  "antwort": false,
+  "erklaerung": "Die Anmeldung der KG nehmen alle Gesellschafter vor, auch die Kommanditisten (§ 161 Abs. 2, § 106 Abs. 7 HGB). Dass Kommanditisten von Geschäftsführung und Vertretung ausgeschlossen sind (§§ 164, 170 HGB), ändert an ihrer Anmeldepflicht nichts. Die Unterzeichnung nur durch den Komplementär ist der typische Fehler."
+ },
+ {
+  "id": "hand1-070",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "KG: Grundlagen, Gründung, Haftung vor Eintragung und Anmeldung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/kg-grundlagen-grundung-haftung-vor-eintragung-und-anmeldung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 311b BGB",
+   "§ 15 Abs. 4 GmbHG"
+  ],
+  "frage": "Wann ist der Gesellschaftsvertrag einer KG notariell zu beurkunden?",
+  "optionen": [
+   "Immer, da die KG ein Handelsgewerbe betreibt",
+   "Wenn die Haftsumme eines Kommanditisten 25.000 € übersteigt",
+   "Wenn der Komplementär eine juristische Person ist",
+   "Wenn ein Gesellschafter nach dem Vertrag Grundbesitz oder GmbH-Geschäftsanteile einbringen muss"
+  ],
+  "antwort": 3,
+  "erklaerung": "Der KG-Vertrag ist wie bei GbR und OHG formfrei. Beurkundungsbedürftig ist er nur, wenn ein Gesellschafter zur Einbringung von Grundbesitz (§ 311b BGB) oder GmbH-Geschäftsanteilen (§ 15 Abs. 3 und 4 GmbHG) verpflichtet wird. Aus Beweisgründen empfiehlt sich gleichwohl ein schriftlicher Vertrag."
  }
 ]

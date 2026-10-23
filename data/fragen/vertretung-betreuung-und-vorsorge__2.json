@@ -1,0 +1,317 @@
+[
+ {
+  "id": "vert2-001",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Pflegschaft: Arten, Bestellung und Auswahl des Pflegers",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/pflegschaft-arten-bestellung-und-auswahl-des-pflegers",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1883 BGB"
+  ],
+  "frage": "Welche Stellung hat der Pfleger für ein Sammelvermögen nach § 1883 BGB?",
+  "optionen": [
+   "Er ist gesetzlicher Vertreter der Spender des Sammelvermögens.",
+   "Er ist Partei kraft Amtes und kein gesetzlicher Vertreter.",
+   "Er ist gewillkürter Vertreter des Veranstalters der Sammlung.",
+   "Er ist gesetzlicher Vertreter des Sammelvermögens als Pflegling."
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Pfleger für ein Sammelvermögen ist nach § 1883 BGB Partei kraft Amtes und gerade kein gesetzlicher Vertreter. Naheliegend, aber falsch ist die Annahme einer gesetzlichen Vertretung: Diese Stellung haben alle anderen Pfleger gegenüber dem Pflegling, nicht aber der Pfleger für ein Sammelvermögen."
+ },
+ {
+  "id": "vert2-002",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Pflegschaft: Arten, Bestellung und Auswahl des Pflegers",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/pflegschaft-arten-bestellung-und-auswahl-des-pflegers",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§§ 168f, 168a Abs. 2 FamFG"
+  ],
+  "frage": "Nach geltendem Recht beginnt das Amt des Pflegers erst mit einem Bestellungsakt, zu dem der Pfleger persönlich vor Gericht erscheinen muss.",
+  "antwort": false,
+  "erklaerung": "Seit dem 01.01.2023 beginnt das Pflegeramt, sobald der Bestellungsbeschluss dem Pfleger bekanntgegeben ist (§§ 168f, 168a Abs. 2 FamFG). Der Bestellungsakt mit persönlichem Erscheinen war nur bis 31.12.2022 maßgeblich; die Aussage beschreibt also die alte Rechtslage."
+ },
+ {
+  "id": "vert2-003",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Pflegschaft: Arten, Bestellung und Auswahl des Pflegers",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/pflegschaft-arten-bestellung-und-auswahl-des-pflegers",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 151 Nr. 5 FamFG",
+   "§ 340 Nr. 1 FamFG",
+   "§ 1776 BGB",
+   "§ 47 FamFG"
+  ],
+  "frage": "Ordne die Stichworte zur Pflegschaft der zutreffenden Aussage zu.",
+  "paare": [
+   [
+    "Ergänzungspflegschaft nach § 1809 BGB",
+    "Zuständig ist stets das Familiengericht (§ 151 Nr. 5 FamFG)."
+   ],
+   [
+    "Abwesenheitspflegschaft (§ 1884 BGB)",
+    "Betreuungsgerichtliche Zuweisungssache (§ 340 Nr. 1 FamFG)."
+   ],
+   [
+    "Zusätzlicher Pfleger (§ 1776 BGB)",
+    "Bestellung nur mit Einverständnis eines ehrenamtlichen Vormunds."
+   ],
+   [
+    "Aufhebung der Pflegerbestellung im Beschwerdeverfahren",
+    "Bereits vorgenommene Rechtsgeschäfte des Pflegers bleiben wirksam (§ 47 FamFG)."
+   ]
+  ],
+  "erklaerung": "Pflegschaften nach §§ 1809, 1811 BGB gehören stets zum Familiengericht (§ 151 Nr. 5 FamFG), die übrigen Pflegschaften als betreuungsgerichtliche Zuweisungssachen zum Betreuungsgericht (§ 340 Nr. 1 FamFG). Der zusätzliche Pfleger nach § 1776 BGB setzt Einwilligung und Einverständnis eines ehrenamtlichen Vormunds voraus. § 47 FamFG schützt den Rechtsverkehr: Die Aufhebung im Beschwerdeverfahren lässt bereits vorgenommene Geschäfte unberührt."
+ },
+ {
+  "id": "vert2-004",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Pflegschaft: Arten, Bestellung und Auswahl des Pflegers",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/pflegschaft-arten-bestellung-und-auswahl-des-pflegers",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1813 BGB",
+   "§§ 1778, 1779 BGB"
+  ],
+  "frage": "Unter den Angehörigen eines Kindes besteht ein für die Pflegschaft erheblicher Interessengegensatz. Was gilt für die Auswahl des Ergänzungspflegers?",
+  "optionen": [
+   "Der Pfleger muss vorrangig aus der Verwandtschaft stammen, der Elternwille bindet das Gericht.",
+   "Der Pfleger muss nicht aus der Verwandtschaft stammen; der erklärte oder mutmaßliche Elternwille ist unbeachtlich.",
+   "Das Gericht muss stets das Jugendamt als Amtspfleger bestellen.",
+   "Die Eltern dürfen den Pfleger verbindlich benennen, sofern sie nicht selbst Vertragspartei sind."
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei der Auswahl wendet das Gericht §§ 1778, 1779 BGB entsprechend an (§ 1813 BGB) und entscheidet nach Ermessen am Mündelwohl. Besteht ein erheblicher Interessengegensatz unter den Angehörigen, muss der Pfleger nicht aus der Verwandtschaft kommen und der Elternwille ist unbeachtlich. Ein Vorrang der Verwandten oder eine Bindung an den Elternwillen besteht in dieser Lage gerade nicht."
+ },
+ {
+  "id": "vert2-005",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Rechtliche Betreuung: ärztliche Maßnahmen und Patientenwille",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-arztliche-massnahmen-und-patientenwille",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1829 Abs. 4 BGB",
+   "§ 1827 BGB"
+  ],
+  "frage": "Wann ist die Nichteinwilligung des Betreuers in eine lebenserhaltende Behandlung trotz begründeter Todesgefahr nicht genehmigungsbedürftig?",
+  "optionen": [
+   "Wenn ein naher Angehöriger der Entscheidung schriftlich zustimmt.",
+   "Wenn Betreuer und behandelnder Arzt übereinstimmend davon ausgehen, dass die Entscheidung dem nach § 1827 BGB festgestellten Willen entspricht.",
+   "Wenn der Betreuer Berufsbetreuer ist und der Aufgabenkreis die Gesundheitssorge umfasst.",
+   "Wenn der Rechtspfleger des Betreuungsgerichts formlos zugestimmt hat."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 1829 Abs. 4 BGB entfällt die Genehmigung, wenn Betreuer und behandelnder Arzt Einvernehmen darüber haben, dass die Entscheidung dem nach § 1827 BGB festgestellten Willen des Betreuten entspricht. Die Zustimmung von Angehörigen ersetzt dieses Einvernehmen nicht. Auch eine Zustimmung des Rechtspflegers hilft nicht, da das Genehmigungsverfahren dem Richter vorbehalten ist."
+ },
+ {
+  "id": "vert2-006",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Rechtliche Betreuung: ärztliche Maßnahmen und Patientenwille",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-arztliche-massnahmen-und-patientenwille",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1829 Abs. 3 BGB"
+  ],
+  "frage": "Im Genehmigungsverfahren nach § 1829 BGB trifft das Betreuungsgericht eine eigene Behandlungsentscheidung nach dem objektiven Wohl des Betreuten.",
+  "antwort": false,
+  "erklaerung": "Das Betreuungsgericht trifft keine eigene Behandlungsentscheidung, sondern prüft die Entscheidung des Betreuers am Willen des Betreuten unter Beachtung der Patientenverfügung. Die Genehmigung ist zu erteilen, wenn Einwilligung, Nichteinwilligung oder Widerruf diesem Willen entsprechen (§ 1829 Abs. 3 BGB). Maßstab ist also der Wille, nicht ein objektives Wohl."
+ },
+ {
+  "id": "vert2-007",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Rechtliche Betreuung: ärztliche Maßnahmen und Patientenwille",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-arztliche-massnahmen-und-patientenwille",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1829 Abs. 1 BGB"
+  ],
+  "frage": "Unter welcher Voraussetzung darf eine nach § 1829 Abs. 1 BGB genehmigungsbedürftige ärztliche Maßnahme ohne gerichtliche Genehmigung durchgeführt werden?",
+  "optionen": [
+   "Wenn der Betreute nach ärztlicher Einschätzung einwilligungsunfähig ist.",
+   "Wenn der Betreuer die Maßnahme schriftlich angeordnet hat.",
+   "Wenn mit dem Aufschub Gefahr verbunden wäre.",
+   "Wenn der Eingriff ambulant durchgeführt wird."
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Einwilligung des Betreuers in eine Maßnahme mit begründeter Gefahr des Todes oder eines schweren und länger dauernden Schadens bedarf der Genehmigung des Betreuungsgerichts (§ 1829 Abs. 1 BGB). Ohne Genehmigung darf die Maßnahme nur durchgeführt werden, wenn ein Aufschub gefährlich wäre. Die Einwilligungsunfähigkeit des Betreuten ist gerade der Anlass für das Handeln des Betreuers und macht die Genehmigung nicht entbehrlich."
+ },
+ {
+  "id": "vert2-008",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Rechtliche Betreuung: Aufgabenkreis Vermögenssorge und einzelne Angelegenheiten",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-aufgabenkreis-vermogenssorge-und-einzelne-angelegenheiten",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1815 Abs. 1 BGB"
+  ],
+  "frage": "Welches Geschäft kann ein Betreuer mit dem Aufgabenkreis Vermögenssorge für den Betreuten nicht vornehmen?",
+  "optionen": [
+   "Vertretung im Erbscheinsverfahren",
+   "Veräußerung eines Grundstücks des Betreuten",
+   "Rücktritt des betreuten Erblassers von einem Erbvertrag",
+   "Unterwerfung unter die Zwangsvollstreckung wegen eines Kaufpreisanspruchs"
+  ],
+  "antwort": 2,
+  "erklaerung": "Der Rücktritt des Erblassers vom Erbvertrag ist ein höchstpersönliches Geschäft, das keine Vertretung zulässt; der Betreuer kann ihn unabhängig vom Aufgabenkreis nicht erklären. Erbscheinsverfahren, Veräußerung von Vermögensgegenständen und Vollstreckungsunterwerfung bei vermögensrechtlichen Ansprüchen deckt die Vermögenssorge dagegen grundsätzlich ab."
+ },
+ {
+  "id": "vert2-009",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Rechtliche Betreuung: Aufgabenkreis Vermögenssorge und einzelne Angelegenheiten",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-aufgabenkreis-vermogenssorge-und-einzelne-angelegenheiten",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1815 Abs. 1 BGB"
+  ],
+  "frage": "Ein Betreuer mit dem Aufgabenkreis Vermögenssorge will für den Betreuten eine Erbschaft ausschlagen. Wie sollte der Notar vorgehen?",
+  "optionen": [
+   "Ohne Weiteres beurkunden bzw. beglaubigen, da die Vermögenssorge die Ausschlagung unstreitig umfasst.",
+   "Die Ausschlagung ablehnen, da sie ein höchstpersönliches Geschäft ist.",
+   "Vorsorglich auf eine Ergänzung des Aufgabenkreises um „erbrechtliche Angelegenheiten“ hinwirken.",
+   "Eine Vorsorgevollmacht des Betreuers durch den Betreuten einholen lassen."
+  ],
+  "antwort": 2,
+  "erklaerung": "Ob die Vermögenssorge die Ausschlagung deckt, ist umstritten; nach richtiger Ansicht ja, nach anderer Ansicht ist ein eigener Aufgabenkreis nötig. Der Praxishinweis lautet daher, den Aufgabenkreis vorsorglich um „erbrechtliche Angelegenheiten“ ergänzen zu lassen. Die Annahme, die Frage sei unstreitig, übersieht diesen Streit; höchstpersönlich ist die Ausschlagung nicht."
+ },
+ {
+  "id": "vert2-010",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Rechtliche Betreuung: Aufgabenkreis Vermögenssorge und einzelne Angelegenheiten",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-aufgabenkreis-vermogenssorge-und-einzelne-angelegenheiten",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2356 BGB a. F."
+  ],
+  "frage": "Die im Erbscheinsverfahren erforderliche eidesstattliche Versicherung kann der Betreuer als gesetzlicher Vertreter als eigene Erklärung abgeben.",
+  "antwort": true,
+  "erklaerung": "Nach OLG Celle kann der Betreuer als gesetzlicher Vertreter die eidesstattliche Versicherung als eigene Erklärung abgeben. Für gewillkürte Vertreter lehnte die bisher h. M. dies ab; das OLG Celle lässt aber auch den Vorsorgebevollmächtigten die Erklärung im eigenen Namen abgeben."
+ },
+ {
+  "id": "vert2-011",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Rechtliche Betreuung: Aufgabenkreis Vermögenssorge und einzelne Angelegenheiten",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-aufgabenkreis-vermogenssorge-und-einzelne-angelegenheiten",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1815 Abs. 1 BGB"
+  ],
+  "frage": "Ein Betreuer hat den Aufgabenkreis „Regelung des Nachlasses nach V“. Welches Geschäft ist danach nach der Darstellung jedenfalls nicht gedeckt?",
+  "optionen": [
+   "Die Ausschlagung der Erbschaft nach V",
+   "Die Mitwirkung an der Erbauseinandersetzung",
+   "Die Mitwirkung am Verkauf von Nachlassgrundbesitz",
+   "Die Geltendmachung erbrechtlicher Ansprüche aus dem Nachlass"
+  ],
+  "antwort": 0,
+  "erklaerung": "Bei einem eng gefassten Aufgabenkreis zur Regelung eines bestimmten Nachlasses ist zweifelhaft, ob er Erbauseinandersetzung und Mitwirkung am Grundstücksverkauf der Erbengemeinschaft umfasst; die Ausschlagung umfasst er nicht. Die Erbauseinandersetzung ist damit nur unsicher, die Ausschlagung sicher nicht gedeckt. Im Zweifel ist eine Erweiterung als sicherster Weg herbeizuführen."
+ },
+ {
+  "id": "vert2-012",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Rechtliche Betreuung: Aufgabenkreis von Betreuer und Pfleger (Grundsätze und Erweiterung)",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-aufgabenkreis-von-betreuer-und-pfleger-grundsatze-und-erweiterung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1815 Abs. 1 BGB"
+  ],
+  "frage": "Ein Betreuer schließt ein Rechtsgeschäft ab, das sein Aufgabenkreis nicht deckt; das Betreuungsgericht genehmigt es. Welche Rechtsfolge gilt nach h. M.?",
+  "optionen": [
+   "Das Geschäft ist wirksam, weil die Genehmigung den Aufgabenkreis stillschweigend erweitert.",
+   "Das Geschäft ist nichtig und kann nicht mehr wirksam werden.",
+   "Das Geschäft bleibt schwebend unwirksam, weil der Betreuer ohne Vertretungsmacht handelt.",
+   "Das Geschäft ist wirksam, aber der Betreuer haftet dem Betreuten auf Schadensersatz."
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Vertretungsmacht des Betreuers endet an der Grenze des Aufgabenkreises. Die gerichtliche Genehmigung erweitert den Aufgabenkreis nach h. M. nicht, das Geschäft ist mangels Vertretungsmacht schwebend unwirksam. Die naheliegende Annahme, die Genehmigung heile den Mangel, ist daher falsch."
+ },
+ {
+  "id": "vert2-013",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Rechtliche Betreuung: Aufgabenkreis von Betreuer und Pfleger (Grundsätze und Erweiterung)",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-aufgabenkreis-von-betreuer-und-pfleger-grundsatze-und-erweiterung",
+  "typ": "zuordnung",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1815 Abs. 1 BGB"
+  ],
+  "frage": "Ordne den Aufgabenkreis der Rechtsprechung zu seiner Reichweite zu.",
+  "paare": [
+   [
+    "Pfleger mit Aufgabenkreis Grundstücksverkauf",
+    "Kann das Grundstück nicht mit einem Erbbaurecht belasten."
+   ],
+   [
+    "Betreuer für Geltendmachung von Ansprüchen und Rückübertragung eines Grundstücks",
+    "Kann die Löschung eines Nießbrauchs nicht bewilligen."
+   ],
+   [
+    "Betreuer mit Aufgabenkreis Verkauf einer Eigentumswohnung",
+    "Darf den Erwerber zur Bestellung einer Finanzierungsgrundschuld bevollmächtigen."
+   ]
+  ],
+  "erklaerung": "Die Rechtsprechung legt Aufgabenkreise eng aus: Die Erbbaurechtsbestellung geht über einen Verkauf hinaus (BayObLG), die Nießbrauchslöschung über die Rückübertragung (OLG Frankfurt a.M.). Die Finanzierungsvollmacht ist dagegen ein vom Verkaufsauftrag gedecktes Nebengeschäft (KG)."
+ },
+ {
+  "id": "vert2-014",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Rechtliche Betreuung: Aufgabenkreis von Betreuer und Pfleger (Grundsätze und Erweiterung)",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-aufgabenkreis-von-betreuer-und-pfleger-grundsatze-und-erweiterung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 293 Abs. 3 FamFG",
+   "§ 293 Abs. 1 FamFG"
+  ],
+  "frage": "Der Aufgabenkreis eines Betreuers soll für einen anstehenden Grundstücksverkauf erweitert werden; das Krankheitsbild ist unverändert. Was gilt für das ärztliche Gutachten?",
+  "optionen": [
+   "Ein neues Gutachten ist stets erforderlich, da alle Vorschriften der Erstbestellung gelten.",
+   "Ein neues Gutachten kann entbehrlich sein, weil die Erweiterung auf geänderten Lebensumständen beruht.",
+   "Ein Gutachten ist nie erforderlich, da die Erweiterung ein reines Verwaltungsverfahren ist.",
+   "Ein Gutachten ist nur entbehrlich, wenn der Betreute der Erweiterung schriftlich zustimmt."
+  ],
+  "antwort": 1,
+  "erklaerung": "Zwar gelten für die Erweiterung grundsätzlich die Verfahrensvorschriften der Erstbestellung (§ 293 Abs. 1 FamFG). Ein neues ärztliches Gutachten oder Zeugnis kann aber entbehrlich sein, wenn die Erweiterung nicht auf einem veränderten Krankheitsbild, sondern auf geänderten Lebensumständen beruht (§ 293 Abs. 3 FamFG). Erweiterungen für ein notarielles Geschäft beruhen in der Regel darauf."
+ },
+ {
+  "id": "vert2-015",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Rechtliche Betreuung: Aufgabenkreis von Betreuer und Pfleger (Grundsätze und Erweiterung)",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-aufgabenkreis-von-betreuer-und-pfleger-grundsatze-und-erweiterung",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1815 Abs. 1 BGB"
+  ],
+  "frage": "Nach neuem Recht darf der Betreuer den gewöhnlichen Aufenthalt des Betreuten im Ausland und dessen Umgang nur bestimmen, wenn der Bestellungsbeschluss diese Aufgabenbereiche ausdrücklich nennt.",
+  "antwort": true,
+  "erklaerung": "Der Aufgabenkreis setzt sich aus einzeln angeordneten Aufgabenbereichen zusammen (§ 1815 Abs. 1 BGB). Neu ist, dass Aufenthaltsbestimmung im Ausland und Umgangsbestimmung nur bei ausdrücklicher Nennung im Beschluss zulässig sind; das soll dem Rechtsverkehr Klarheit geben."
+ }
+]

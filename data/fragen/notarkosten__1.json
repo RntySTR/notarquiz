@@ -1286,5 +1286,255 @@
   ],
   "antwort": 2,
   "erklaerung": "Die Deckelung nach KV 22112 und 22113 GNotKG greift nur, wenn ausschließlich einfache Vollzugstätigkeiten anfallen. Die Zustimmung des Grundstückseigentümers nach § 5 ErbbauRG fällt unter Vorb. 2.2.1.1 Abs. 1 S. 2 Nr. 5 statt Nr. 1 KV GNotKG und ist keine einfache Tätigkeit. Kommt sie hinzu, entfällt die Deckelung."
+ },
+ {
+  "id": "kost1-057",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: Unterschriftsbeglaubigung (KV 25100, 25101 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-unterschriftsbeglaubigung-kv-25100-25101-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "KV 25100 GNotKG",
+   "§ 121 GNotKG"
+  ],
+  "frage": "Welche Gebühr fällt für die reine Beglaubigung einer Unterschrift nach KV 25100 GNotKG an?",
+  "optionen": [
+   "0,5-Gebühr, mindestens 30 €, höchstens 250 €",
+   "0,2-Gebühr, mindestens 20 €, höchstens 70 €",
+   "Festgebühr von 20 €",
+   "0,3-Gebühr, mindestens 15 €, ohne Höchstbetrag"
+  ],
+  "antwort": 1,
+  "erklaerung": "KV 25100 GNotKG sieht für die Beglaubigung einer Unterschrift oder eines Handzeichens eine 0,2-Gebühr vor, mindestens 20 € und höchstens 70 €; die Höchstgebühr greift ab Geschäftswerten von 140.000,01 €. Der Wert wird nach § 121 GNotKG so bestimmt, als würde die Erklärung beurkundet. Die Festgebühr von 20 € gilt nur für die Sonderfälle der KV 25101 GNotKG."
+ },
+ {
+  "id": "kost1-058",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: Unterschriftsbeglaubigung (KV 25100, 25101 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-unterschriftsbeglaubigung-kv-25100-25101-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 25101 GNotKG",
+   "KV 25100 GNotKG",
+   "§ 27 GBO"
+  ],
+  "frage": "Der Notar beglaubigt (ohne Entwurf) die Unterschriften der Bankvertreter unter einer Löschungsbewilligung für eine Grundschuld über 300.000 EUR sowie die Unterschrift des Eigentümers unter dessen Löschungszustimmung mit Löschungsantrag. Welche Gebühren fallen an?",
+  "optionen": [
+   "Zweimal die Festgebühr von 20 € nach KV 25101 GNotKG.",
+   "Für die Bank die Wertgebühr nach KV 25100 GNotKG, für den Eigentümer die Festgebühr von 20 € nach KV 25101 GNotKG.",
+   "Für beide die Wertgebühr nach KV 25100 GNotKG, jeweils höchstens 70 €.",
+   "Für die Bank die Festgebühr nach KV 25101 GNotKG, für den Eigentümer die Wertgebühr nach KV 25100 GNotKG."
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Festgebühr nach KV 25101 GNotKG gilt nur für die Löschungszustimmung des Eigentümers nach § 27 GBO mit dem verbundenen Löschungsantrag. Die Löschungsbewilligung der Bank ist keine solche Zustimmung; die Beglaubigung für die Bankvertreter kostet die Wertgebühr nach KV 25100 GNotKG (hier wegen des Werts die Höchstgebühr). Option 4 vertauscht die Zuordnung."
+ },
+ {
+  "id": "kost1-059",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: Unterschriftsbeglaubigung (KV 25100, 25101 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-unterschriftsbeglaubigung-kv-25100-25101-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 25100 GNotKG",
+   "KV 24100 ff. GNotKG",
+   "§ 4 BeurkG"
+  ],
+  "frage": "Prüft und ergänzt der Notar auftragsgemäß den Text einer ihm vorgelegten Erklärung vor der Unterschriftsbeglaubigung, ist dies mit der Gebühr nach KV 25100 GNotKG abgegolten.",
+  "antwort": false,
+  "erklaerung": "KV 25100 und 25101 GNotKG gelten nur für die reine Beglaubigung. Soll der Notar die Urkunde auftragsgemäß prüfen, ergänzen oder ändern, richten sich die Gebühren grundsätzlich nach KV 24100 ff. GNotKG. Teil der reinen Beglaubigung bleibt nur die gesetzlich gebotene Prüfung nach § 4 BeurkG, ob ein unredliches oder verbotenes Geschäft vorliegt."
+ },
+ {
+  "id": "kost1-060",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: Unterschriftsbeglaubigung (KV 25100, 25101 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-unterschriftsbeglaubigung-kv-25100-25101-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "KV 22124 GNotKG",
+   "KV 22125 GNotKG",
+   "KV 24200 GNotKG"
+  ],
+  "frage": "Nach reiner Unterschriftsbeglaubigung reicht der Notar auftragsgemäß die Erklärung beim Grundbuchamt ein und erstellt dafür XML-Strukturdaten. Welche zusätzlichen Gebühren kommen in Betracht?",
+  "optionen": [
+   "Keine, weil die Einreichung Teil der Beglaubigung ist.",
+   "Festgebühr von 20 € nach KV 22124 GNotKG für die Übermittlung und 0,5-Gebühr, höchstens 250 €, nach KV 22125 GNotKG für die XML-Daten.",
+   "Eine 0,5-Vollzugsgebühr nach KV 22110 GNotKG, die die XML-Erstellung mit abdeckt.",
+   "Eine Beratungsgebühr nach KV 24200 GNotKG für die Einreichung."
+  ],
+  "antwort": 1,
+  "erklaerung": "Übernimmt der Notar im Auftrag die Einreichung der beglaubigten Urkunde, fällt für die Übermittlung die Festgebühr von 20 € nach KV 22124 GNotKG an. Für die Erstellung von XML-Strukturdaten bei reiner Beglaubigung entsteht nach KV 22125 GNotKG eine 0,5-Gebühr, höchstens 250 €. Die Vollzugsgebühr nach KV 22110 GNotKG setzt dagegen eine Beurkundungs- oder Entwurfsgebühr voraus."
+ },
+ {
+  "id": "kost1-061",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: Verbrauchervertrag und vorzeitige Beendigung",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-verbrauchervertrag-und-vorzeitige-beendigung",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 17 Abs. 2a S. 2 Nr. 2 BeurkG",
+   "KV 21300 GNotKG",
+   "KV 21302 GNotKG",
+   "Vorb. 2.4.1 Abs. 1 KV GNotKG"
+  ],
+  "frage": "Abgesprungener Käufer beim Bauträgervertrag",
+  "sachverhalt": "Die B-GmbH (Bauträger) beauftragt Notar N mit der Beurkundung eines Kaufvertrags über eine Eigentumswohnung mit dem Verbraucher K. N übersendet K zwei Wochen vor dem Termin den beabsichtigten Text, in den er nur Name, Wohnung und Kaufpreis in den bereits abgerechneten Mustervertrag eingetragen hat. K sagt den Termin ab und nimmt vom Erwerb Abstand; die B-GmbH zieht den Beurkundungsauftrag zurück.",
+  "schritte": [
+   {
+    "frage": "Ist für die Übersendung des beabsichtigten Textes eine Entwurfsgebühr nach KV 24100 GNotKG entstanden?",
+    "optionen": [
+     "Ja, weil der Notar einen vollständigen Vertragstext gefertigt hat.",
+     "Nein, weil das Zurverfügungstellen des beabsichtigten Textes Amtspflicht ist und kein Entwurfsauftrag vorliegt.",
+     "Ja, aber nur in Höhe der Mindestgebühr von 120 €.",
+     "Nein, weil Entwurfsgebühren gegenüber Verbrauchern ausgeschlossen sind."
+    ],
+    "antwort": 1,
+    "erklaerung": "Die Entwurfsgebühr setzt einen konkreten Entwurfsauftrag außerhalb eines Beurkundungsverfahrens voraus (Vorb. 2.4.1 Abs. 1 KV GNotKG). Das Zurverfügungstellen des „beabsichtigten Textes“ nach § 17 Abs. 2a BeurkG ist Amtspflicht und setzt keinen Auftrag voraus; Verbraucher und regelmäßig auch Unternehmer erteilen keinen Entwurfsauftrag."
+   },
+   {
+    "frage": "Welche Gebühr ist wegen der Rücknahme des Beurkundungsauftrags anzusetzen?",
+    "optionen": [
+     "Die volle 2,0-Gebühr nach KV 21100 GNotKG.",
+     "Die Rahmengebühr nach KV 21302 GNotKG (0,5 bis 2,0), voll ausgeschöpft.",
+     "Die Festgebühr von 20 € nach KV 21300 GNotKG.",
+     "Keine Gebühr, weil die Beurkundung nicht stattgefunden hat."
+    ],
+    "antwort": 2,
+    "erklaerung": "Bei Rücknahme eines konkreten Beurkundungsauftrags ist die ermäßigte Verfahrensgebühr wegen vorzeitiger Beendigung angefallen. Wurde nur der unveränderte Mustertext zur Verfügung gestellt, kommt allein die Festgebühr von 20 € nach KV 21300 GNotKG in Betracht; KV 21302 GNotKG setzt einen echten Entwurf voraus."
+   },
+   {
+    "frage": "Wer schuldet die Gebühr?",
+    "optionen": [
+     "K als Verbraucher, weil er den Termin abgesagt hat.",
+     "Die B-GmbH als Auftraggeberin.",
+     "B-GmbH und K als Gesamtschuldner.",
+     "Niemand, weil die Gebühr wegen § 17 Abs. 2a BeurkG niederzuschlagen ist."
+    ],
+    "antwort": 1,
+    "erklaerung": "Kostenschuldner ist in der Regel der Unternehmer, der den Auftrag erteilt hat. Der Verbraucher schuldet nur, wenn er sich selbst in das Verfahren eingebracht hat, etwa durch eingearbeitete Änderungswünsche; dem Verbraucher, der nur den Text erhalten hat, die Kosten zu berechnen, ist ein typischer Fehler."
+   }
+  ],
+  "erklaerung": "Für die Übersendung des beabsichtigten Textes entsteht mangels Entwurfsauftrags keine Entwurfsgebühr. Wegen der Rücknahme des Beurkundungsauftrags fällt, da nur der unveränderte Mustertext übersandt wurde, die Festgebühr von 20 € nach KV 21300 GNotKG an, die die B-GmbH als Auftraggeberin schuldet."
+ },
+ {
+  "id": "kost1-062",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: Verbrauchervertrag und vorzeitige Beendigung",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-verbrauchervertrag-und-vorzeitige-beendigung",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "KV 21302 GNotKG",
+   "§ 17 Abs. 2a BeurkG"
+  ],
+  "frage": "Arbeitet der Notar nach einer Ansicht Sonderwünsche, einen abweichenden Bezugstermin oder Finanzierungsdaten in den Mustertext ein und bestand bereits ein Beurkundungsauftrag, ist bei Abstandnahme die vorzeitige Beendigung nach KV 21302 GNotKG abzurechnen.",
+  "antwort": true,
+  "erklaerung": "Nach einer Ansicht liegt ein kostenrechtlicher Entwurf vor, sobald der Notar mehr tut als Namen, Objekt und Kaufpreis einzutragen. Dann ist bei bestehendem Beurkundungsauftrag die vorzeitige Beendigung mit Entwurf (KV 21302 GNotKG, Rahmen 0,5 bis 2,0) abzurechnen, bei bloßem Entwurfsauftrag der isolierte Entwurf. Beim bloßen Ausfüllen eines vorhandenen Mustervertrags sollte der Rahmen nicht voll ausgeschöpft werden."
+ },
+ {
+  "id": "kost1-063",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: Verträge, Angebot, Annahme und isolierte Auflassung (KV 21100–21102 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-vertrage-angebot-annahme-und-isolierte-auflassung-kv-21100-21102-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "KV 21100 GNotKG",
+   "KV 21101 Nr. 1 GNotKG",
+   "Vorb. 2.1.1 Nr. 1 KV GNotKG"
+  ],
+  "frage": "Welche Gebührensätze gelten für die Beurkundung eines Kaufangebots und der rechtzeitigen, unveränderten Annahme?",
+  "optionen": [
+   "Angebot 1,0 nach KV 21200, Annahme 1,0 nach KV 21200 GNotKG",
+   "Angebot 2,0 nach KV 21100, Annahme 0,5 nach KV 21101 Nr. 1 GNotKG",
+   "Angebot 1,0 nach KV 21102, Annahme 0,5 nach KV 21201 GNotKG",
+   "Angebot 2,0 nach KV 21100, Annahme 1,0 nach KV 21102 GNotKG"
+  ],
+  "antwort": 1,
+  "erklaerung": "Für das Angebot gibt es keinen eigenen Tatbestand; nach Vorb. 2.1.1 Nr. 1 KV GNotKG gilt Abschnitt 1 auch für Vertragsangebote, so dass die 2,0-Gebühr nach KV 21100 GNotKG anfällt. Die Annahme kostet nach KV 21101 Nr. 1 GNotKG 0,5, weil sie im Kern nur das Einverständnis enthält. Option 1 verkennt, dass das Angebot trotz Einseitigkeit unter KV 21100 fällt."
+ },
+ {
+  "id": "kost1-064",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: Verträge, Angebot, Annahme und isolierte Auflassung (KV 21100–21102 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-vertrage-angebot-annahme-und-isolierte-auflassung-kv-21100-21102-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 150 BGB",
+   "KV 21100 GNotKG",
+   "KV 21101 Nr. 1 GNotKG"
+  ],
+  "frage": "Wird ein Kaufangebot nach Ablauf der Annahmefrist angenommen, fällt dennoch nur die 0,5-Gebühr nach KV 21101 Nr. 1 GNotKG an, weil die Urkunde als Annahme bezeichnet ist.",
+  "antwort": false,
+  "erklaerung": "Das Kostenrecht folgt dem Zivilrecht: Eine verspätete oder geänderte Annahme gilt nach § 150 BGB als neues Angebot. Abzurechnen ist dann nicht die Annahmegebühr, sondern die Angebotsgebühr von 2,0 nach KV 21100 GNotKG. Der Notar sollte daher prüfen, ob die Annahme rechtzeitig und ohne Änderung erklärt wird."
+ },
+ {
+  "id": "kost1-065",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: Verträge, Angebot, Annahme und isolierte Auflassung (KV 21100–21102 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-vertrage-angebot-annahme-und-isolierte-auflassung-kv-21100-21102-gnotkg",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 21100 GNotKG",
+   "KV 21101 Nr. 2 GNotKG",
+   "KV 21102 Nr. 1 GNotKG"
+  ],
+  "frage": "Ordne die gesondert beurkundeten Auflassungen dem zutreffenden Gebührensatz zu.",
+  "paare": [
+   [
+    "Kaufvertrag beurkundet, Auflassung durch denselben Notar",
+    "0,5 nach KV 21101 Nr. 2 GNotKG"
+   ],
+   [
+    "Kaufvertrag beurkundet, Auflassung durch einen anderen Notar",
+    "1,0 nach KV 21102 Nr. 1 GNotKG"
+   ],
+   [
+    "Vermächtnis in notariellem Testament, Auflassung durch den Testamentsnotar",
+    "1,0 nach KV 21102 Nr. 1 GNotKG"
+   ],
+   [
+    "Vermächtnis nur privatschriftlich angeordnet",
+    "2,0 nach KV 21100 GNotKG"
+   ]
+  ],
+  "erklaerung": "Die isolierte Auflassung ist eine eigene mehrseitige Erklärung nach KV 21100 GNotKG; Ermäßigungen gelten, weil das Grundgeschäft bereits beurkundet ist. 0,5 erhält derselbe Notar (KV 21101 Nr. 2), 1,0 ein anderer Notar oder bei einem notariellen Testament als Grundgeschäft (KV 21102 Nr. 1; KV 21101 Anm. 1 schließt das Testament von der 0,5-Stufe aus). In allen übrigen Fällen bleibt es bei 2,0."
+ },
+ {
+  "id": "kost1-066",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: Verträge, Angebot, Annahme und isolierte Auflassung (KV 21100–21102 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-vertrage-angebot-annahme-und-isolierte-auflassung-kv-21100-21102-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 21100 GNotKG",
+   "Vorb. 2.1.1 Nr. 2 KV GNotKG"
+  ],
+  "frage": "Welche Beurkundung fällt NICHT unter die 2,0-Gebühr nach KV 21100 GNotKG?",
+  "optionen": [
+   "Gemeinschaftliches Testament von Ehegatten",
+   "Begründung von Wohnungseigentum nach § 3 WEG",
+   "Teilung nach § 8 WEG mit Gemeinschaftsordnung",
+   "Gesellschafterbeschluss einer GmbH"
+  ],
+  "antwort": 2,
+  "erklaerung": "KV 21100 GNotKG erfasst mehrseitige Erklärungen unabhängig von ihrem rechtlichen Charakter, darunter die Begründung von Wohnungseigentum nach § 3 WEG, Beschlüsse und nach Vorb. 2.1.1 Nr. 2 KV GNotKG auch das gemeinschaftliche Testament. Die Teilung nach § 8 WEG ist dagegen eine einseitige Erklärung des Eigentümers und fällt unter KV 21200 GNotKG mit 1,0. Das gemeinschaftliche Testament ist zwar kein Vertrag, wird aber als seinem Wesen nach mehrseitige Erklärung erfasst."
  }
 ]
