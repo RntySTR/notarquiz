@@ -306,5 +306,361 @@
   ],
   "antwort": 1,
   "erklaerung": "Im Regelfall führen Anrechnung und bloße Berücksichtigung im Endvermögen zum selben Ergebnis. Abweichungen entstehen vor allem, wenn der Empfänger ohne die Zuwendung einen negativen Zugewinn hätte; dann begünstigt § 1380 BGB den Zuwendenden, der durch die Zuwendung nicht schlechter stehen soll. Bei bloßen Gelegenheitsgeschenken greift die Anrechnungsvermutung des § 1380 Abs. 1 S. 2 BGB gar nicht; § 1380 BGB setzt zudem einen Ausgleichsanspruch des Empfängers, nicht des Zuwendenden, voraus."
+ },
+ {
+  "id": "fami2-016",
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Zugewinnausgleich: Ehegattenzuwendung bei negativem Zugewinn, überhöhter Zuwendung und aus dem Anfangsvermögen",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinnausgleich-ehegattenzuwendung-bei-negativem-zugewinn-uberhohter-zuwendung-und-aus-dem-anfangsvermogen",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1380 BGB"
+  ],
+  "frage": "Der Zuwendungsempfänger hat nach Abzug des Zuwendungswerts einen negativen Zugewinn. Um wie viel mindert die Anrechnung nach § 1380 BGB seine Ausgleichsforderung zusätzlich?",
+  "optionen": [
+   "Um den vollen negativen Zugewinn, höchstens um den vollen Zuwendungswert",
+   "Um die Hälfte des negativen Zugewinns, höchstens um die Hälfte des Zuwendungswerts",
+   "Um die Hälfte des Zuwendungswerts, unabhängig von der Höhe des negativen Zugewinns",
+   "Gar nicht; ein negativer Zugewinn wird mit null angesetzt und bleibt ohne Einfluss auf die Anrechnung"
+  ],
+  "antwort": 1,
+  "erklaerung": "Liegt beim Empfänger nach Abzug des Zuwendungswerts das Endvermögen unter dem Anfangsvermögen, mindert die Anrechnung nach § 1380 BGB die Ausgleichsforderung zusätzlich um die Hälfte des negativen Zugewinns, höchstens um die Hälfte des Zuwendungswerts. Der Empfänger muss sich damit einen Wert anrechnen lassen, der in seinem Endvermögen nicht mehr vorhanden ist. Ein Ansatz mit null (Option 4) entspricht der bloßen Berücksichtigung im Endvermögen ohne Anrechnung und ist gerade der Fall, in dem § 1380 BGB abweicht."
+ },
+ {
+  "id": "fami2-017",
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Zugewinnausgleich: Ehegattenzuwendung bei negativem Zugewinn, überhöhter Zuwendung und aus dem Anfangsvermögen",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinnausgleich-ehegattenzuwendung-bei-negativem-zugewinn-uberhohter-zuwendung-und-aus-dem-anfangsvermogen",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1380 BGB",
+   "§ 1378 Abs. 2 BGB",
+   "§ 1374 Abs. 2 BGB"
+  ],
+  "frage": "Übertragung des ererbten Hauses auf die Ehefrau",
+  "sachverhalt": "M hat vor der Ehe ein Haus (Wert 400.000 €) geerbt; es gehört zu seinem Anfangsvermögen. Während der Ehe überträgt er einen hälftigen Miteigentumsanteil (200.000 €) unentgeltlich auf seine Frau F. Bei der Scheidung hat F außer dem Anteil kein Vermögen aufgebaut, M hat ebenfalls keinen weiteren Zugewinn erzielt. F fragt den Notar schon bei der Übertragung, was M im Scheidungsfall zurückbekäme.",
+  "schritte": [
+   {
+    "frage": "Wie wirkt sich die Übertragung rechnerisch beim Zuwendenden M aus?",
+    "optionen": [
+     "Der Wert bleibt in seinem Anfangsvermögen, fehlt aber in seinem Endvermögen; sein Zugewinn sinkt",
+     "Der Wert wird aus seinem Anfangsvermögen gestrichen; sein Zugewinn bleibt unverändert",
+     "Der Wert wird seinem Endvermögen hinzugerechnet; sein Zugewinn steigt",
+     "Der Wert wird als privilegierter Erwerb der F nach § 1374 Abs. 2 BGB behandelt"
+    ],
+    "antwort": 0,
+    "erklaerung": "Bei einer Zuwendung aus dem Anfangsvermögen bleibt der Wert im Anfangsvermögen des Zuwendenden, fehlt aber in seinem Endvermögen; beim Empfänger erhöht er den Zugewinn. § 1374 Abs. 2 BGB gilt für Ehegattenzuwendungen nicht."
+   },
+   {
+    "frage": "Ist § 1380 BGB im Beispiel anwendbar?",
+    "optionen": [
+     "Ja, weil jede Ehegattenzuwendung nach § 1380 BGB anzurechnen ist",
+     "Nein, weil F gegen M keinen Anspruch auf Zugewinnausgleich hat (überhöhte Zuwendung)",
+     "Ja, weil der Wert die üblichen Gelegenheitsgeschenke übersteigt",
+     "Nein, weil Zuwendungen aus dem Anfangsvermögen stets ausgleichsfrei sind"
+    ],
+    "antwort": 1,
+    "erklaerung": "§ 1380 BGB greift nur ein, wenn der Empfänger einen Ausgleichsanspruch gegen den Zuwendenden hat. Hier hat F den höheren Zugewinn, M den niedrigeren; ein Anspruch der F besteht nicht. Es liegt eine überhöhte Zuwendung vor, § 1380 BGB ist nicht anwendbar, die Zuwendung wird nur im Endvermögen der F berücksichtigt."
+   },
+   {
+    "frage": "Was erhält M über den Zugewinnausgleich zurück, und was ist F zusätzlich mitzuteilen?",
+    "optionen": [
+     "Den vollen Wert von 200.000 €, weil die Zuwendung aus seinem Anfangsvermögen stammt",
+     "Höchstens die Hälfte (100.000 €); hat F hohe Schulden, kann er nach § 1378 Abs. 2 BGB sogar leer ausgehen",
+     "Nichts, weil Zuwendungen unter Ehegatten güterrechtlich neutral sind",
+     "Die Hälfte, mindestens aber 100.000 € ohne Rücksicht auf Verbindlichkeiten der F"
+    ],
+    "antwort": 1,
+    "erklaerung": "Ohne Anwendung des § 1380 BGB folgt der Ausgleich den allgemeinen Regeln: M erhält über seinen Ausgleichsanspruch höchstens die Hälfte des zugewendeten Werts zurück. Die Ausgleichsforderung ist nach § 1378 Abs. 2 BGB auf das nach Abzug der Verbindlichkeiten vorhandene Vermögen der F begrenzt; bei hohen Schulden kann M nichts zurückerhalten."
+   }
+  ],
+  "erklaerung": "Bei Zuwendungen aus dem Anfangsvermögen an den Ehegatten ohne Ausgleichsanspruch greift § 1380 BGB nicht; der Zuwendende erhält über den Zugewinnausgleich höchstens die Hälfte zurück und wegen § 1378 Abs. 2 BGB unter Umständen nichts. Darauf ist in der Beratung hinzuweisen; abweichende Gestaltungen (Rückforderungsrecht, Herausnahme aus dem Zugewinn) sind zu erwägen."
+ },
+ {
+  "id": "fami2-018",
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Zugewinnausgleich: Ehegattenzuwendung bei negativem Zugewinn, überhöhter Zuwendung und aus dem Anfangsvermögen",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinnausgleich-ehegattenzuwendung-bei-negativem-zugewinn-uberhohter-zuwendung-und-aus-dem-anfangsvermogen",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1380 BGB"
+  ],
+  "frage": "Ein negativer Zugewinn des Zuwendungsempfängers kann nur entstehen, wenn der zugewendete Gegenstand selbst an Wert verloren hat oder nicht mehr vorhanden ist.",
+  "antwort": false,
+  "erklaerung": "Entscheidend ist allein die Höhe des Endvermögens; woher der Fehlbetrag stammt, ist gleichgültig. Ein negativer Zugewinn entsteht daher auch, wenn sonstiges Anfangsvermögen des Empfängers (etwa eine Erbschaft) aufgebraucht ist oder der Empfänger Schulden hat. Die Aussage verengt den Anwendungsbereich fälschlich auf den Wertverlust des Zuwendungsgegenstands."
+ },
+ {
+  "id": "fami2-019",
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Zugewinngemeinschaft: ehevertragliche Modifikationen",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinngemeinschaft-ehevertragliche-modifikationen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1408 BGB",
+   "§ 1371 Abs. 1 BGB"
+  ],
+  "frage": "Warum ist ein auf den Scheidungsfall beschränkter Ausschluss des Zugewinnausgleichs häufig günstiger als die Vereinbarung von Gütertrennung?",
+  "optionen": [
+   "Weil bei Gütertrennung die Verfügungsbeschränkungen der §§ 1365, 1369 BGB verschärft gelten",
+   "Weil Erb- und Pflichtteilsquoten des Ehegatten unverändert bleiben, wenn der Zugewinnausgleich für den Todesfall erhalten bleibt",
+   "Weil Gütertrennung nur vor der Eheschließung vereinbart werden kann",
+   "Weil bei Gütertrennung der Versorgungsausgleich automatisch entfällt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bleibt der Zugewinnausgleich für den Todesfall erhalten, ändern sich die Erb- und Pflichtteilsquoten des Ehegatten nicht (Erhöhung nach § 1371 Abs. 1 BGB). Bei Gütertrennung entfällt diese Erhöhung. Die Verfügungsbeschränkungen gelten bei Gütertrennung gar nicht, und Ehevertrag wie Versorgungsausgleich sind davon unabhängig."
+ },
+ {
+  "id": "fami2-020",
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Zugewinngemeinschaft: ehevertragliche Modifikationen",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinngemeinschaft-ehevertragliche-modifikationen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1377 Abs. 3 BGB"
+  ],
+  "frage": "Die Ehegatten verzichten im Ehevertrag ausdrücklich auf ein Verzeichnis des Anfangsvermögens und treffen keine Festlegung zu dessen Höhe. Welche Folge hat das für den späteren Zugewinnausgleich?",
+  "optionen": [
+   "Das Anfangsvermögen wird mit null angesetzt; ein Gegenbeweis ist ausgeschlossen",
+   "Das gesamte Endvermögen gilt bis zum Beweis des Gegenteils als Zugewinn (§ 1377 Abs. 3 BGB)",
+   "Der Verzicht ist unwirksam, weil ein Verzeichnis zwingend vorgeschrieben ist",
+   "Das Anfangsvermögen wird vom Familiengericht nach § 1365 Abs. 2 BGB geschätzt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Fehlt ein Verzeichnis, greift die Vermutung des § 1377 Abs. 3 BGB: Das gesamte Endvermögen gilt bis zum Beweis des Gegenteils als Zugewinn. Die Vermutung gilt auch, wenn der Ehevertrag auf ein Verzeichnis verzichtet. Sie ist widerleglich, sodass Option 1 zu weit geht; ein Verzeichnis ist nicht zwingend, Ehegatten können das Anfangsvermögen vielmehr frei festlegen."
+ },
+ {
+  "id": "fami2-021",
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Zugewinngemeinschaft: ehevertragliche Modifikationen",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinngemeinschaft-ehevertragliche-modifikationen",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1371 Abs. 1 BGB",
+   "§ 1408 BGB"
+  ],
+  "frage": "Unternehmer U will seine GmbH-Anteile ehevertraglich aus dem Zugewinnausgleich herausnehmen, und zwar auch für den Todesfall. Welche ergänzende Regelung sollte der Notar aufnehmen?",
+  "optionen": [
+   "Einen Antrag auf Eintragung in das Güterrechtsregister, damit die Herausnahme Dritten gegenüber wirkt",
+   "Einen gegenständlich beschränkten Pflichtteilsverzicht sowie die Klarstellung, dass die Erhöhung des Ehegattenerbteils unberührt bleibt",
+   "Die Vereinbarung von Gütertrennung, weil eine Herausnahme einzelner Gegenstände in der Zugewinngemeinschaft unzulässig ist",
+   "Die Anordnung eines periodischen Zugewinnausgleichs für die Anteile"
+  ],
+  "antwort": 1,
+  "erklaerung": "Gilt die Modifikation auch im Todesfall, ist ein zusätzlicher gegenständlich beschränkter Pflichtteilsverzicht ratsam, weil der überlebende Ehegatte sonst über die güterrechtliche Lösung (Ausschlagung, rechnerischer Zugewinnausgleich und kleiner Pflichtteil) wieder auf die Anteile zugreifen könnte. Bei Herausnahme von Unternehmen oder Gesellschaftsanteilen ist zudem klarzustellen, dass die Erhöhung des Ehegattenerbteils nach § 1371 Abs. 1 BGB unberührt bleibt. Die Herausnahme einzelner Vermögensteile ist in der Zugewinngemeinschaft zulässig; das Güterrechtsregister existiert nicht mehr."
+ },
+ {
+  "id": "fami2-022",
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Zugewinngemeinschaft: ehevertragliche Modifikationen",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinngemeinschaft-ehevertragliche-modifikationen",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1408 BGB"
+  ],
+  "frage": "Ehegatten können ehevertraglich ein negatives Anfangsvermögen vereinbaren, damit die Tilgung vorehelicher Schulden beim Zugewinn berücksichtigt wird.",
+  "antwort": true,
+  "erklaerung": "Die Seite nennt ausdrücklich die Möglichkeit, ein negatives Anfangsvermögen zu vereinbaren, sodass die Schuldentilgung als Zugewinn erfasst wird. Ehegatten können Wert und Höhe des Anfangsvermögens unabhängig vom tatsächlichen Bestand festlegen und Gegenstände in das Anfangsvermögen aufnehmen oder daraus herausnehmen."
+ },
+ {
+  "id": "fami2-023",
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Zugewinngemeinschaft: ehevertragliche Modifikationen",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinngemeinschaft-ehevertragliche-modifikationen",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1408 BGB"
+  ],
+  "frage": "Ehemann M ist selbständiger Unternehmer, Ehefrau F angestellt. Die Ehegatten schließen den Zugewinnausgleich für den Scheidungsfall aus. Woran sollte der Notar zusätzlich denken?",
+  "optionen": [
+   "An den Ausschluss des Versorgungsausgleichs, damit die angestellte F nicht ausgleichspflichtig wird",
+   "An die Vereinbarung von Gütergemeinschaft für das Unternehmen",
+   "An einen Verzicht der F auf Trennungsunterhalt",
+   "An eine Begrenzung des Endvermögens des M auf einen Bruchteil des Anfangsvermögens"
+  ],
+  "antwort": 0,
+  "erklaerung": "Ist ein Ehegatte selbständig und der andere angestellt, hat regelmäßig nur der Angestellte nennenswerte Versorgungsanrechte; ohne Ausschluss des Versorgungsausgleichs würde die angestellte F ausgleichspflichtig. Die Seite nennt diesen Hinweis ausdrücklich. Ein Verzicht auf Trennungsunterhalt ist nicht möglich; Gütergemeinschaft wäre für Unternehmer kontraproduktiv."
+ },
+ {
+  "id": "fami2-024",
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Zugewinngemeinschaft: Grundsätze, Zugewinnausgleich und privilegierter Erwerb",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinngemeinschaft-grundsatze-zugewinnausgleich-und-privilegierter-erwerb",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1374 Abs. 2 BGB"
+  ],
+  "frage": "Welcher Erwerb während der Ehe ist kein privilegierter Erwerb im Sinne des § 1374 Abs. 2 BGB?",
+  "optionen": [
+   "Erbschaft vom Vater",
+   "Ausstattung durch die Eltern",
+   "Lottogewinn",
+   "Schenkung eines Freundes"
+  ],
+  "antwort": 2,
+  "erklaerung": "§ 1374 Abs. 2 BGB privilegiert nur vier Fallgruppen: Erwerb von Todes wegen, Erwerb mit Rücksicht auf ein künftiges Erbrecht, Schenkung und Ausstattung. Ein Lottogewinn gehört nicht dazu und fällt in den ausgleichspflichtigen Zugewinn; ehevertraglich kann dazu allerdings eine abweichende Regelung getroffen werden. Die Privilegierung tritt kraft Gesetzes ein, ohne Anordnung des Zuwendenden."
+ },
+ {
+  "id": "fami2-025",
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Zugewinngemeinschaft: Grundsätze, Zugewinnausgleich und privilegierter Erwerb",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinngemeinschaft-grundsatze-zugewinnausgleich-und-privilegierter-erwerb",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1363 BGB"
+  ],
+  "frage": "In der Zugewinngemeinschaft entsteht kraft Gesetzes gemeinsames Vermögen der Ehegatten; beide haften für die während der Ehe begründeten Schulden gemeinsam.",
+  "antwort": false,
+  "erklaerung": "Im gesetzlichen Güterstand (§ 1363 BGB) bleibt jeder Ehegatte Verwalter seines eigenen Vermögens; weder gemeinsames Vermögen noch gemeinsame Schulden entstehen kraft Gesetzes. Die Zugewinngemeinschaft entspricht während ihres Bestehens im Grundsatz einer Gütertrennung; erst bei Beendigung wird der Zugewinn ausgeglichen. Gemeinschaftliches Vermögen (Gesamtgut) entsteht nur in der Gütergemeinschaft."
+ },
+ {
+  "id": "fami2-026",
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Zugewinngemeinschaft: Grundsätze, Zugewinnausgleich und privilegierter Erwerb",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinngemeinschaft-grundsatze-zugewinnausgleich-und-privilegierter-erwerb",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1374 Abs. 2 BGB"
+  ],
+  "frage": "F bringt ein Mietshaus (Wert 500.000 €) in die Ehe ein. Bei Scheidung ist es 800.000 € wert; davon sind 100.000 € reine Inflation, 200.000 € Marktwertsteigerung. Welcher Betrag bleibt ausgleichsfrei?",
+  "optionen": [
+   "500.000 €, weil nur der Nominalwert bei Eheschließung geschützt ist",
+   "600.000 €, weil der Ausgangswert einschließlich inflationsbedingter Wertsteigerung ausgleichsfrei bleibt",
+   "800.000 €, weil voreheliches Vermögen samt Wertsteigerung nicht ausgleichspflichtig ist",
+   "300.000 €, weil Wertsteigerungen stets hälftig vom Anfangsvermögen abgezogen werden"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei vorehelichem Vermögen und privilegiertem Erwerb bleibt nur der Ausgangswert einschließlich einer rein inflationsbedingten Wertsteigerung ausgleichsfrei. Außerordentliche Wertsteigerungen und Erträge fallen in den Zugewinn, sodass hier 200.000 € ausgleichspflichtig sind. Option 3 verkennt diese Begrenzung; eine ehevertragliche Abweichung wäre möglich."
+ },
+ {
+  "id": "fami2-027",
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Zugewinngemeinschaft: Verfügungsbeschränkungen (§§ 1365, 1369 BGB)",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinngemeinschaft-verfugungsbeschrankungen-1365-1369-bgb",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1365 Abs. 1 BGB"
+  ],
+  "frage": "Welches Rechtsgeschäft eines Ehegatten im gesetzlichen Güterstand kann nach § 1365 Abs. 1 BGB zustimmungsbedürftig sein?",
+  "optionen": [
+   "Übernahme einer Bürgschaft in Höhe des gesamten Vermögens",
+   "Bestellung einer Grundschuld am einzigen, nahezu das ganze Vermögen ausmachenden Grundstück",
+   "Ausschlagung einer Erbschaft, die das Vermögen verdoppelt hätte",
+   "Unterwerfung unter die sofortige Zwangsvollstreckung in das gesamte Vermögen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Verfügungen im Sinne des § 1365 BGB sind Übertragung, Belastung einschließlich Grundschuldbestellung, Aufhebung und Inhaltsänderung eines Rechts; auch ein Einzelgegenstand fällt darunter, wenn er nahezu das ganze Vermögen ausmacht. Bürgschaft, Erbausschlagung und Eingehung von Geldschulden sind keine Verfügungen, weil sie das Vermögen nicht unmittelbar berühren. Die Vollstreckungsunterwerfung ist eine prozessuale Erklärung und keine Verfügung."
+ },
+ {
+  "id": "fami2-028",
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Zugewinngemeinschaft: Verfügungsbeschränkungen (§§ 1365, 1369 BGB)",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinngemeinschaft-verfugungsbeschrankungen-1365-1369-bgb",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1365 Abs. 1 BGB"
+  ],
+  "frage": "Ehemann M (Gesamtvermögen ca. 600.000 €) verkauft sein Grundstück (540.000 €) an den Käufer K, der die Vermögensverhältnisse des M kennt. Greift § 1365 BGB?",
+  "optionen": [
+   "Nein, weil M mit 60.000 € mehr als 10 % seines Vermögens behält",
+   "Ja, weil bei großen Vermögen ein Rest von 10 % nicht genügt und mindestens 15 % verbleiben müssen",
+   "Nein, weil ein einzelnes Grundstück nie das Vermögen im Ganzen darstellt",
+   "Ja, weil jede Grundstücksveräußerung eines Ehegatten im gesetzlichen Güterstand zustimmungsbedürftig ist"
+  ],
+  "antwort": 0,
+  "erklaerung": "Ob ein Einzelgegenstand nahezu das ganze Vermögen darstellt, ergibt der Wertvergleich mit dem Restvermögen. Bei großen Vermögen (ab ca. 250.000 €) sollte ein Rest von 10 % verbleiben; die 15 %-Grenze gilt für kleine Vermögen (ca. 20.000 €). M behält hier 10 %, sodass § 1365 BGB grundsätzlich nicht greift. Ein Einzelgegenstand kann durchaus erfasst sein, aber nicht jede Grundstücksveräußerung ist zustimmungsbedürftig."
+ },
+ {
+  "id": "fami2-029",
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Zugewinngemeinschaft: Verfügungsbeschränkungen (§§ 1365, 1369 BGB)",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinngemeinschaft-verfugungsbeschrankungen-1365-1369-bgb",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1365 Abs. 1 BGB"
+  ],
+  "frage": "Kannte der Käufer bei Abschluss des Kaufvertrags die Vermögensverhältnisse des veräußernden Ehegatten nicht, erfährt er aber vor der Auflassung davon, bedarf jedenfalls die Auflassung der Zustimmung nach § 1365 BGB.",
+  "antwort": false,
+  "erklaerung": "Bei Verfügungen über Einzelgegenstände kommt es für die Kenntnis auf den Zeitpunkt der Verpflichtung an, nicht auf die Vollendung des Rechtserwerbs. Fehlte die Kenntnis beim Verpflichtungsgeschäft, braucht auch das Erfüllungsgeschäft keine Zustimmung, selbst wenn der Vertragspartner später davon erfährt. Die Aussage verlagert den maßgeblichen Zeitpunkt fälschlich auf die Auflassung."
+ },
+ {
+  "id": "fami2-030",
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Zugewinngemeinschaft: Verfügungsbeschränkungen (§§ 1365, 1369 BGB)",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinngemeinschaft-verfugungsbeschrankungen-1365-1369-bgb",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1369 BGB"
+  ],
+  "frage": "Ordne die Gegenstände ihrer Einordnung nach § 1369 BGB zu.",
+  "paare": [
+   [
+    "Familienhund",
+    "Haushaltsgegenstand: dient dem Zusammenleben der Familie"
+   ],
+   [
+    "Schmuck der Ehefrau",
+    "Kein Haushaltsgegenstand: Sache des persönlichen Gebrauchs"
+   ],
+   [
+    "Firmenwagen des selbständigen Ehemanns",
+    "Kein Haushaltsgegenstand: dient dem Beruf (Betriebsvermögen)"
+   ],
+   [
+    "Wertpapierdepot",
+    "Kein Haushaltsgegenstand: dient der Vermögensanlage"
+   ]
+  ],
+  "erklaerung": "Haushaltsgegenstände nach § 1369 BGB sind bewegliche Sachen einschließlich Haustieren, die der gemeinsamen Wohnung, der Hauswirtschaft und dem Familienleben dienen. Ausgenommen sind Sachen des persönlichen Gebrauchs wie Kleidung und Schmuck sowie Sachen, die dem Beruf oder der Vermögensanlage dienen. Die Vorschrift schützt die wirtschaftliche Grundlage des ehelichen Haushalts vor einseitigen Maßnahmen."
+ },
+ {
+  "id": "fami2-031",
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Zugewinngemeinschaft: Verfügungsbeschränkungen (§§ 1365, 1369 BGB)",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinngemeinschaft-verfugungsbeschrankungen-1365-1369-bgb",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1369 BGB"
+  ],
+  "frage": "Die Ehegatten leben seit zwei Jahren dauernd getrennt, der gemeinsame Haushalt ist aufgelöst, die Scheidung noch nicht rechtskräftig. Gilt § 1369 BGB noch?",
+  "optionen": [
+   "Nein, weil § 1369 BGB nur bei bestehendem gemeinsamem Haushalt gilt",
+   "Nein, weil mit der Trennung die Zugewinngemeinschaft endet",
+   "Ja, solange der Güterstand besteht",
+   "Ja, aber nur für Gegenstände, die im Miteigentum beider Ehegatten stehen"
+  ],
+  "antwort": 2,
+  "erklaerung": "§ 1369 BGB gilt, solange die Ehegatten einen gemeinsamen Haushalt führen oder planen; leben sie dauernd getrennt und ist der Haushalt aufgelöst, gilt die Vorschrift weiter, solange der Güterstand besteht. Die Trennung beendet den Güterstand nicht; er endet erst durch Ehevertrag, Scheidung oder Tod. Die Beschränkung erfasst Haushaltsgegenstände im Alleineigentum ebenso wie im Miteigentum."
  }
 ]

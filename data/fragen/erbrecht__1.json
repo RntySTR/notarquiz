@@ -13,12 +13,12 @@
   ],
   "frage": "Wie lang ist die Ausschlagungsfrist im Regelfall und wann verlängert sie sich auf sechs Monate?",
   "optionen": [
+   "Sechs Wochen; sechs Monate, wenn der Erbe minderjährig ist",
    "Sechs Wochen; sechs Monate, wenn der Erblasser seinen letzten Wohnsitz ausschließlich im Ausland hatte oder der Erbe sich bei Fristbeginn im Ausland aufhielt",
    "Sechs Wochen; sechs Monate, wenn der Nachlass Grundbesitz im Ausland enthält",
-   "Drei Monate; sechs Monate, wenn der Erbe durch Verfügung von Todes wegen berufen ist",
-   "Sechs Wochen; sechs Monate, wenn der Erbe minderjährig ist"
+   "Drei Monate; sechs Monate, wenn der Erbe durch Verfügung von Todes wegen berufen ist"
   ],
-  "antwort": 0,
+  "antwort": 1,
   "erklaerung": "Die Ausschlagungsfrist beträgt regelmäßig sechs Wochen (§ 1944 Abs. 1 BGB). Sechs Monate gelten nur, wenn der letzte Wohnsitz des Erblassers ausschließlich im Ausland lag oder sich der Erbe bei Fristbeginn im Ausland aufhielt (§ 1944 Abs. 3 BGB). Auslandsvermögen im Nachlass, die Berufungsart oder die Minderjährigkeit des Erben haben auf die Fristdauer keinen Einfluss; die Berufung durch Verfügung von Todes wegen wirkt sich nur auf den Fristbeginn aus (§ 1944 Abs. 2 S. 2 BGB)."
  },
  {
@@ -35,12 +35,12 @@
   ],
   "frage": "Der Erbe ist durch notarielles Testament zum Alleinerben eingesetzt und erfährt vom Tod des Erblassers am Tag der Beerdigung. Wann beginnt die Ausschlagungsfrist?",
   "optionen": [
-   "Mit dem Erbfall, weil die Berufung auf einer Verfügung von Todes wegen beruht",
+   "Mit der Beurkundung des Testaments, weil der Erbe seitdem vom Berufungsgrund weiß",
    "Mit Kenntnis vom Tod, weil damit Anfall und Berufungsgrund bekannt sind",
-   "Frühestens mit der Bekanntgabe der Verfügung durch das Nachlassgericht",
-   "Mit der Beurkundung des Testaments, weil der Erbe seitdem vom Berufungsgrund weiß"
+   "Mit dem Erbfall, weil die Berufung auf einer Verfügung von Todes wegen beruht",
+   "Frühestens mit der Bekanntgabe der Verfügung durch das Nachlassgericht"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Grundsätzlich beginnt die Frist mit Kenntnis vom Anfall und vom Berufungsgrund (§ 1944 Abs. 2 S. 1 BGB). Bei Berufung durch Verfügung von Todes wegen beginnt sie jedoch frühestens mit der Bekanntgabe der Verfügung durch das Nachlassgericht (§ 1944 Abs. 2 S. 2 BGB i. V. m. §§ 348, 350 FamFG). Die bloße Kenntnis vom Todesfall genügt daher nicht; der Erbfall selbst oder die frühere Beurkundung setzen die Frist erst recht nicht in Lauf."
  },
  {
@@ -114,20 +114,20 @@
    {
     "frage": "Wie lange läuft die Ausschlagungsfrist für S?",
     "optionen": [
-     "Sechs Monate, weil S in einer anderen Stadt als der Erblasser wohnt",
-     "Sechs Wochen ab Kenntnis von Anfall und Berufungsgrund",
      "Sechs Wochen ab Bekanntgabe durch das Nachlassgericht Pforzheim",
-     "Sechs Monate, weil der Nachlass überschuldet ist"
+     "Sechs Monate, weil der Nachlass überschuldet ist",
+     "Sechs Wochen ab Kenntnis von Anfall und Berufungsgrund",
+     "Sechs Monate, weil S in einer anderen Stadt als der Erblasser wohnt"
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Als gesetzlicher Erbe kennt S Anfall und Berufungsgrund mit der Kenntnis vom Tod; die Frist von sechs Wochen läuft ab diesem Zeitpunkt (§ 1944 Abs. 1, Abs. 2 S. 1 BGB). Die Sechsmonatsfrist gilt nur bei Auslandsbezug (§ 1944 Abs. 3 BGB); eine Bekanntgabe durch das Nachlassgericht ist nur bei Berufung durch Verfügung von Todes wegen maßgeblich."
    },
    {
     "frage": "Bei welchem Gericht kann S die Ausschlagung fristwahrend einreichen?",
     "optionen": [
-     "Nur beim Nachlassgericht Pforzheim, weil dort der letzte gewöhnliche Aufenthalt des Erblassers war",
-     "Beim Nachlassgericht Pforzheim oder beim Nachlassgericht an seinem Wohnsitz in Hamburg, das die Niederschrift weiterleitet",
      "Bei jedem beliebigen Amtsgericht in Deutschland",
+     "Beim Nachlassgericht Pforzheim oder beim Nachlassgericht an seinem Wohnsitz in Hamburg, das die Niederschrift weiterleitet",
+     "Nur beim Nachlassgericht Pforzheim, weil dort der letzte gewöhnliche Aufenthalt des Erblassers war",
      "Beim Notar, dessen Beurkundung die Frist wahrt"
     ],
     "antwort": 1,
@@ -137,20 +137,20 @@
     "frage": "S will die Ausschlagung nur erklären, 'falls der Nachlass tatsächlich überschuldet ist'. Wie ist die Rechtslage?",
     "optionen": [
      "Die Bedingung ist zulässig, weil sie den Schutzzweck der Ausschlagung verwirklicht",
+     "Die Bedingung gilt als nicht geschrieben, die Ausschlagung bleibt wirksam",
      "Die Bedingung ist unzulässig; eine bedingte Ausschlagung ist unwirksam (§ 1947 BGB)",
-     "Die Bedingung ist zulässig, wenn das Nachlassgericht zustimmt",
-     "Die Bedingung gilt als nicht geschrieben, die Ausschlagung bleibt wirksam"
+     "Die Bedingung ist zulässig, wenn das Nachlassgericht zustimmt"
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Eine Bedingung oder Zeitbestimmung bei der Ausschlagung ist unzulässig (§ 1947 BGB); dies ist ein typischer Praxisfehler. Der Notar muss S darauf hinweisen, dass nur eine unbedingte Ausschlagung in Betracht kommt. Eine Heilung durch Zustimmung des Gerichts ist nicht vorgesehen."
    },
    {
     "frage": "S schlägt form- und fristgerecht unbedingt aus. Welche Wirkung hat das für die Erbfolge?",
     "optionen": [
-     "S bleibt Erbe, haftet aber nur beschränkt mit dem Nachlass",
+     "Die Ausschlagung wirkt erst ab Zugang beim Nachlassgericht für die Zukunft",
      "Der Anfall gilt als nie erfolgt; S wird so behandelt, als wäre er vor E gestorben",
-     "Die Erbschaft fällt dem Staat als gesetzlichem Erben zu",
-     "Die Ausschlagung wirkt erst ab Zugang beim Nachlassgericht für die Zukunft"
+     "S bleibt Erbe, haftet aber nur beschränkt mit dem Nachlass",
+     "Die Erbschaft fällt dem Staat als gesetzlichem Erben zu"
     ],
     "antwort": 1,
     "erklaerung": "Die wirksame Ausschlagung wirkt auf den Erbfall zurück: Der Anfall gilt als nicht erfolgt (§ 1953 Abs. 1 BGB), und für die Erbfolge gilt S als vor dem Erblasser verstorben (§ 1953 Abs. 2 BGB). Eine Haftungsbeschränkung ist etwas anderes als die Ausschlagung; der Staat erbt erst, wenn kein anderer Erbe vorhanden ist."
@@ -172,12 +172,12 @@
   ],
   "frage": "Welche Tatsachen muss der Antragsteller im Erbscheinsverfahren zwingend durch öffentliche Urkunden nachweisen?",
   "optionen": [
-   "Tod und Todeszeitpunkt des Erblassers, bei gesetzlicher Erbfolge die Verwandtschaft sowie der Wegfall von Personen",
-   "Tod des Erblassers, den letzten gewöhnlichen Aufenthalt und die Staatsangehörigkeit",
    "Tod des Erblassers, die Existenz von Verfügungen von Todes wegen und das Fehlen eines Rechtsstreits",
-   "Die Erbquoten, die Annahme der Erbschaft und den Güterstand des Ehegatten"
+   "Tod des Erblassers, den letzten gewöhnlichen Aufenthalt und die Staatsangehörigkeit",
+   "Die Erbquoten, die Annahme der Erbschaft und den Güterstand des Ehegatten",
+   "Tod und Todeszeitpunkt des Erblassers, bei gesetzlicher Erbfolge die Verwandtschaft sowie der Wegfall von Personen"
   ],
-  "antwort": 0,
+  "antwort": 3,
   "erklaerung": "Nach § 352 Abs. 3 S. 1 FamFG sind durch öffentliche Urkunden (§ 415 ZPO) der Tod und der Todeszeitpunkt (§ 352 Abs. 1 S. 1 Nr. 1 FamFG), bei gesetzlicher Erbfolge die Verwandtschaft (Nr. 3) und der Wegfall von Personen (§ 352 Abs. 1 S. 2 FamFG) nachzuweisen. Letzter gewöhnlicher Aufenthalt, Staatsangehörigkeit, Verfügungen und Rechtsstreit sind zwar anzugeben, werden aber nicht zwingend durch öffentliche Urkunden belegt; die übrigen Tatsachen werden durch eidesstattliche Versicherung oder formlos nachgewiesen."
  },
  {
@@ -194,9 +194,9 @@
   ],
   "frage": "Unter welcher Voraussetzung darf der Berufungsgrund im Erbscheinsantrag alternativ (gesetzliche Erbfolge oder Testament) angegeben werden?",
   "optionen": [
-   "Immer, weil das Nachlassgericht den Berufungsgrund von Amts wegen ermittelt",
-   "Nur, wenn die Gültigkeit der Verfügung zweifelhaft ist und der Erbe nach Gesetz und Verfügung in gleichem Umfang berufen wäre",
    "Nur bei einem gemeinschaftlichen Erbschein, wenn alle Miterben zustimmen",
+   "Nur, wenn die Gültigkeit der Verfügung zweifelhaft ist und der Erbe nach Gesetz und Verfügung in gleichem Umfang berufen wäre",
+   "Immer, weil das Nachlassgericht den Berufungsgrund von Amts wegen ermittelt",
    "Nur, wenn das Testament privatschriftlich und nicht eröffnet ist"
   ],
   "antwort": 1,
@@ -269,12 +269,12 @@
   ],
   "frage": "Welche Aussage zu Antragserfordernis und Form des Erbscheinsantrags trifft zu?",
   "optionen": [
-   "Der Erbschein wird vom Nachlassgericht von Amts wegen erteilt, sobald ein Testament eröffnet ist",
-   "Der Erbschein wird nur auf Antrag erteilt; der Antrag ist formfrei, die eidesstattliche Versicherung ist gegenüber Gericht oder Notar abzugeben",
    "Der Erbschein wird nur auf Antrag erteilt; der Antrag bedarf der notariellen Beurkundung",
-   "Der Erbschein wird nur auf Antrag erteilt; die eidesstattliche Versicherung kann ausschließlich vor dem Nachlassgericht abgegeben werden"
+   "Der Erbschein wird nur auf Antrag erteilt; die eidesstattliche Versicherung kann ausschließlich vor dem Nachlassgericht abgegeben werden",
+   "Der Erbschein wird nur auf Antrag erteilt; der Antrag ist formfrei, die eidesstattliche Versicherung ist gegenüber Gericht oder Notar abzugeben",
+   "Der Erbschein wird vom Nachlassgericht von Amts wegen erteilt, sobald ein Testament eröffnet ist"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Der Erbschein wird nur auf Antrag erteilt (§ 2353 BGB, §§ 352 ff. FamFG). Der Antrag selbst ist formfrei (§ 23 FamFG); die erforderliche eidesstattliche Versicherung ist gegenüber dem Gericht oder einem Notar abzugeben (§ 352 Abs. 3 S. 3 FamFG). Eine Beurkundungspflicht für den Antrag besteht nicht; die Eröffnung von Verfügungen von Amts wegen (§ 348 FamFG) ersetzt den Antrag nicht."
  },
  {
@@ -292,11 +292,11 @@
   "frage": "Ein Gläubiger hat einen vollstreckbaren Titel gegen den Erblasser und braucht einen Erbschein, um gegen den Erben zu vollstrecken. Was gilt?",
   "optionen": [
    "Der Gläubiger ist nicht antragsberechtigt, weil er nur schuldrechtliche Ansprüche hat",
-   "Der Gläubiger ist antragsberechtigt wie der Erbe, muss aber dieselben Voraussetzungen erfüllen und die eidesstattliche Versicherung selbst abgeben",
    "Der Gläubiger ist antragsberechtigt, von der eidesstattlichen Versicherung aber befreit, weil er die Erbfolge nicht kennt",
+   "Der Gläubiger ist antragsberechtigt wie der Erbe, muss aber dieselben Voraussetzungen erfüllen und die eidesstattliche Versicherung selbst abgeben",
    "Der Gläubiger muss zunächst Nachlassverwaltung beantragen und den Verwalter den Antrag stellen lassen"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Ein Gläubiger mit vollstreckbarem Titel gegen Erblasser oder Erben hat ein Antragsrecht wie der Erbe, wenn er den Erbschein zur Vollstreckung benötigt (§§ 792, 896 ZPO). Er muss dieselben Erteilungsvoraussetzungen erfüllen wie der Schuldner und insbesondere die eidesstattliche Versicherung selbst abgeben. Der Grundsatz, dass bloß mittelbar Betroffene nicht antragsberechtigt sind, gilt für Gläubiger ohne Titel, nicht für den Titelgläubiger."
  },
  {
@@ -327,12 +327,12 @@
   ],
   "frage": "Welche Person ist zum Zeitpunkt des Vorerbfalls noch nicht antragsberechtigt für einen Erbschein?",
   "optionen": [
-   "Der Vorerbe",
    "Der Testamentsvollstrecker, soweit er den Erbschein zur Verwaltung braucht",
-   "Der Nacherbe",
-   "Der Erbteilserwerber"
+   "Der Erbteilserwerber",
+   "Der Vorerbe",
+   "Der Nacherbe"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Der Nacherbe ist erst ab dem Nacherbfall antragsberechtigt; der Vorerbe dagegen vom Vorerbfall bis zum Nacherbfall. Testamentsvollstrecker und Erbteilserwerber beantragen den Erbschein auf den Namen des Erben, der Testamentsvollstrecker nur, soweit er ihn für die Nachlassverwaltung benötigt. Die naheliegende Fehlvorstellung, der Nacherbe sei als Betroffener der Nacherbfolge schon jetzt antragsberechtigt, verkennt, dass sein Erbrecht erst mit dem Nacherbfall entsteht."
  },
  {
@@ -350,12 +350,12 @@
   ],
   "frage": "Welche Rechtswirkung hat der Erbschein?",
   "optionen": [
+   "Er ersetzt die Annahme der Erbschaft und schließt eine spätere Ausschlagung aus",
    "Er stellt das Erbrecht verbindlich fest und bindet auch die Prozessgerichte",
    "Er begründet eine widerlegliche Vermutung für das ausgewiesene Erbrecht und schützt gutgläubige Dritte beim Erwerb vom Erben und bei Leistungen an ihn",
-   "Er begründet eine unwiderlegliche Vermutung für das Erbrecht, schützt aber keine Dritten",
-   "Er ersetzt die Annahme der Erbschaft und schließt eine spätere Ausschlagung aus"
+   "Er begründet eine unwiderlegliche Vermutung für das Erbrecht, schützt aber keine Dritten"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Der Erbschein ist ein amtliches Zeugnis für den Rechtsverkehr ohne verbindliche Feststellung des Erbrechts. Er begründet die widerlegliche Vermutung, dass dem Ausgewiesenen das Erbrecht zusteht und er nur den angegebenen Beschränkungen unterliegt (§ 2365 BGB); sein öffentlicher Glaube schützt Dritte beim Erwerb vom Erben (§ 2366 BGB) und bei Leistungen an ihn (§ 2367 BGB). Die Vermutung ist gerade nicht unwiderleglich und keine verbindliche Feststellung."
  },
  {
@@ -372,11 +372,11 @@
   "frage": "Die Alleinerbin ist durch notarielles Testament eingesetzt und möchte das Grundbuch berichtigen lassen. Welcher Erbnachweis genügt gegenüber dem Grundbuchamt?",
   "optionen": [
    "Nur ein Erbschein, weil das Grundbuchamt an die Form des § 29 GBO gebunden ist",
-   "Das notarielle Testament zusammen mit der Eröffnungsniederschrift des Nachlassgerichts",
    "Eine beglaubigte Abschrift des Testaments ohne Eröffnungsniederschrift",
-   "Eine eidesstattliche Versicherung der Erbin vor dem Notar"
+   "Eine eidesstattliche Versicherung der Erbin vor dem Notar",
+   "Das notarielle Testament zusammen mit der Eröffnungsniederschrift des Nachlassgerichts"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Gegenüber dem Grundbuchamt genügt statt eines Erbscheins die öffentliche Urkunde (Testament oder Erbvertrag) zusammen mit der Niederschrift des Nachlassgerichts über die Eröffnung (§ 35 Abs. 1 GBO). Ein Erbschein ist daher nicht zwingend; die Eröffnungsniederschrift darf aber nicht fehlen. Eine eidesstattliche Versicherung ist Teil des Erbscheinsverfahrens, kein eigenständiger Erbnachweis gegenüber dem Grundbuchamt."
  },
  {
@@ -425,10 +425,10 @@
   "optionen": [
    "Ein Vermächtnis zugunsten der Enkelin",
    "Eine Teilungsanordnung über das Familienheim",
-   "Die Anordnung der Testamentsvollstreckung",
-   "Eine Auflage zur Grabpflege"
+   "Eine Auflage zur Grabpflege",
+   "Die Anordnung der Testamentsvollstreckung"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Der Erbschein nennt die vom Erblasser angeordneten Verfügungsbeschränkungen des Erben, insbesondere Nacherbfolge und Testamentsvollstreckung (§ 352b Abs. 1, 2 FamFG). Rein schuldrechtlich wirkende Belastungen wie Vermächtnisse, Pflichtteilsrechte, Auflagen und Teilungsanordnungen gehören nicht in den Erbschein; sie in den Antrag aufzunehmen ist ein typischer Fehler."
  },
  {
@@ -446,12 +446,12 @@
   ],
   "frage": "Was gilt für den Testamentsvollstreckervermerk im Erbschein?",
   "optionen": [
-   "Der Erbschein nennt den Testamentsvollstrecker mit Namen, damit Dritte wissen, mit wem sie verhandeln müssen",
-   "Der Erbschein vermerkt nur die Anordnung der Testamentsvollstreckung als Beschränkung des Erben; die Person ergibt sich aus dem Testamentsvollstreckerzeugnis",
    "Der Erbschein nennt den Testamentsvollstrecker und dessen Verwaltungsbeschränkungen, sodass ein Testamentsvollstreckerzeugnis entbehrlich ist",
-   "Die Testamentsvollstreckung wird nicht im Erbschein, sondern nur im Grundbuch vermerkt"
+   "Die Testamentsvollstreckung wird nicht im Erbschein, sondern nur im Grundbuch vermerkt",
+   "Der Erbschein vermerkt nur die Anordnung der Testamentsvollstreckung als Beschränkung des Erben; die Person ergibt sich aus dem Testamentsvollstreckerzeugnis",
+   "Der Erbschein nennt den Testamentsvollstrecker mit Namen, damit Dritte wissen, mit wem sie verhandeln müssen"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Der Erbschein vermerkt die Testamentsvollstreckung als Beschränkung des Erben (§ 352b Abs. 2 FamFG), nennt aber nicht den Namen des Testamentsvollstreckers; die Richtigkeitsvermutung erstreckt sich daher auf keinen Namen. Die Person und die Einschränkungen der Verwaltung ergeben sich aus dem Testamentsvollstreckerzeugnis (§ 2368 BGB, § 354 Abs. 2 FamFG). Die Fehlvorstellung, der Erbschein weise den Testamentsvollstrecker namentlich aus, ist verbreitet."
  },
  {
@@ -519,12 +519,12 @@
   ],
   "frage": "Der Erblasser hat seine Ehefrau zur Erbin eingesetzt mit der Maßgabe, dass bei Wiederverheiratung die Kinder Erben werden. Welchen Erbschein sollte der Notar beantragen?",
   "optionen": [
-   "Einen Alleinerbschein ohne Vermerk, weil die Wiederverheiratung ungewiss ist",
    "Einen Alleinerbschein mit Nacherbenvermerk, weil die bedingte Erbeinsetzung die Ehefrau zur Vorerbin macht",
-   "Einen gemeinschaftlichen Erbschein für Ehefrau und Kinder mit Bruchteilsquoten",
-   "Einen gegenständlich beschränkten Erbschein für die Ehefrau"
+   "Einen gegenständlich beschränkten Erbschein für die Ehefrau",
+   "Einen Alleinerbschein ohne Vermerk, weil die Wiederverheiratung ungewiss ist",
+   "Einen gemeinschaftlichen Erbschein für Ehefrau und Kinder mit Bruchteilsquoten"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Ein unter einer Bedingung eingesetzter Erbe, etwa durch Wiederverheiratungs- oder Verwirkungsklausel, ist Vorerbe; der Erbschein erhält einen Nacherbenvermerk mit Anordnung, Voraussetzungen des Nacherbfalls und Person des Nacherben (§ 352b Abs. 1 FamFG), ggf. mit Befreiungen von § 2113 BGB. Ein Erbschein ohne Vermerk wäre unrichtig; die Kinder sind nicht Miterben, sondern Nacherben."
  },
  {
@@ -541,10 +541,10 @@
   ],
   "frage": "Der Erblasser will seiner Tochter durch Testament 'das Haus in der Gartenstraße vererben', den Rest soll der Sohn erhalten. Welche erbrechtliche Konsequenz hat der Grundsatz der Gesamtrechtsnachfolge?",
   "optionen": [
-   "Die Tochter wird mit dem Erbfall unmittelbar Eigentümerin des Hauses, weil der Erblasser es ihr dinglich zugewiesen hat",
-   "Einzelne Gegenstände können nicht mit dinglicher Wirkung zugewiesen werden; die Zuwendung des Hauses ist als Vermächtnis (§ 1939 BGB) zu verstehen",
    "Die Tochter wird Miterbin zu 1/2, weil jede Zuwendung eines Nachlassgegenstands eine Erbeinsetzung ist",
-   "Die Verfügung ist nichtig, weil § 311b BGB Verträge über den Nachlass verbietet"
+   "Einzelne Gegenstände können nicht mit dinglicher Wirkung zugewiesen werden; die Zuwendung des Hauses ist als Vermächtnis (§ 1939 BGB) zu verstehen",
+   "Die Verfügung ist nichtig, weil § 311b BGB Verträge über den Nachlass verbietet",
+   "Die Tochter wird mit dem Erbfall unmittelbar Eigentümerin des Hauses, weil der Erblasser es ihr dinglich zugewiesen hat"
   ],
   "antwort": 1,
   "erklaerung": "Nach § 1922 Abs. 1 BGB geht das Vermögen als Einheit auf den oder die Erben über (Universalsukzession); ein Erwerb einzelner Gegenstände kraft Erbfolge ist ausgeschlossen. Die Zuweisung eines einzelnen Gegenstands kann daher nur als Vermächtnis (§ 1939 BGB) wirken, das einen schuldrechtlichen Anspruch gegen den Erben begründet. Die Annahme eines unmittelbaren dinglichen Erwerbs ist der typische Fehler; § 311b BGB betrifft Verträge über den Nachlass eines lebenden Dritten."
@@ -563,12 +563,12 @@
   ],
   "frage": "Wer ist beim Erbfall erbfähig, obwohl er in diesem Zeitpunkt noch nicht rechtsfähig ist?",
   "optionen": [
+   "Ein Verein, dessen Eintragung beim Erbfall beantragt, aber noch nicht erfolgt ist",
    "Eine GmbH, deren Gründung erst nach dem Erbfall beurkundet wird",
-   "Ein Kind, das beim Erbfall gezeugt, aber noch nicht geboren ist, sowie eine erst nach dem Erbfall anerkannte Stiftung",
    "Eine Erbengemeinschaft, die erst mit dem Erbfall entsteht",
-   "Ein Verein, dessen Eintragung beim Erbfall beantragt, aber noch nicht erfolgt ist"
+   "Ein Kind, das beim Erbfall gezeugt, aber noch nicht geboren ist, sowie eine erst nach dem Erbfall anerkannte Stiftung"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Die Rechtsfähigkeit muss grundsätzlich beim Erbfall vorliegen, weil das Vermögen in diesem Moment übergeht (§ 1922 Abs. 1 BGB). Ausnahmen: Der bereits gezeugte, noch nicht geborene Mensch gilt als vor dem Erbfall geboren (§ 1923 Abs. 2 BGB), und eine erst nach dem Erbfall anerkannte Stiftung gilt als vor dem Erbfall entstanden (§ 84 BGB). Für GmbH oder Verein, die beim Erbfall noch nicht rechtsfähig sind, nennt die Seite keine vergleichbare Fiktion."
  },
  {
@@ -641,12 +641,12 @@
   ],
   "frage": "Der Erblasser möchte in seinem Testament anordnen, dass sein Bruder nach dem Erbfall bestimmen soll, welches seiner drei Kinder Alleinerbe wird. Wie ist die Rechtslage?",
   "optionen": [
-   "Zulässig, weil der Erblasser den Kreis der möglichen Erben selbst festgelegt hat",
-   "Unzulässig, weil nur der Erblasser selbst die Person des Erben bestimmen kann (§ 2065 Abs. 2 BGB)",
+   "Unzulässig, weil die Bestimmung durch einen Dritten gegen den Formzwang des § 2247 BGB verstößt",
    "Zulässig, wenn der Bruder zugleich zum Testamentsvollstrecker ernannt wird",
-   "Unzulässig, weil die Bestimmung durch einen Dritten gegen den Formzwang des § 2247 BGB verstößt"
+   "Zulässig, weil der Erblasser den Kreis der möglichen Erben selbst festgelegt hat",
+   "Unzulässig, weil nur der Erblasser selbst die Person des Erben bestimmen kann (§ 2065 Abs. 2 BGB)"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Nach dem Grundsatz der Höchstpersönlichkeit kann nur der Erblasser selbst die Person des Erben bestimmen (§ 2065 Abs. 2 BGB); der Wille eines Dritten darf den Erblasserwillen nicht ersetzen. Die Überlassung der Erbenbestimmung an einen Dritten ist ein typischer Fehler, auch wenn der Kreis der Kandidaten feststeht. Drittbestimmung ist nur beim Vermächtnis, bei der Auflage und bei der Testamentsvollstreckung zugelassen (§§ 2151, 2193, 2198 BGB); die Ernennung zum Testamentsvollstrecker ändert an der Erbenbestimmung nichts."
  },
  {
@@ -664,12 +664,12 @@
   ],
   "frage": "Ein Vater will sich gegenüber seinem Sohn vertraglich verpflichten, ein Testament zu dessen Gunsten zu errichten und nicht mehr zu ändern. Was sollte der Notar empfehlen?",
   "optionen": [
-   "Den Verpflichtungsvertrag beurkunden, weil er mit der notariellen Form wirksam wird",
    "Auf die Nichtigkeit eines solchen Vertrags nach § 2302 BGB hinweisen und als Bindung einen Erbvertrag oder ein bindendes gemeinschaftliches Testament vorschlagen",
+   "Den Vertrag beurkunden, aber eine Vertragsstrafe für den Fall der Änderung aufnehmen",
    "Den Vertrag als Schenkungsversprechen von Todes wegen nach § 2301 BGB beurkunden",
-   "Den Vertrag beurkunden, aber eine Vertragsstrafe für den Fall der Änderung aufnehmen"
+   "Den Verpflichtungsvertrag beurkunden, weil er mit der notariellen Form wirksam wird"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Jeder Vertrag, der zur Errichtung, Nichterrichtung, Aufhebung oder Nichtaufhebung einer Verfügung von Todes wegen verpflichtet, ist nichtig (§ 2302 BGB); die notarielle Form heilt das nicht, allenfalls kommt eine Umdeutung nach § 140 BGB in Betracht. Eine Bindung erreicht der Erblasser nur durch Erbvertrag, der nicht frei widerruflich ist (§ 2289 Abs. 1 BGB), oder ein bindendes gemeinschaftliches Testament. Ein gemeinschaftliches Testament kommt zwischen Vater und Sohn allerdings nicht in Betracht."
  },
  {
@@ -704,11 +704,11 @@
   "frage": "Welche der folgenden Regelungen zählt die Seite nicht zu den Schranken der Testierfreiheit?",
   "optionen": [
    "Das Pflichtteilsrecht der engsten Angehörigen (§§ 2303 ff. BGB)",
+   "Das Betreuungsorganisationsgesetz, insbesondere § 30 BtOG",
    "Das Verbot gesetz- und sittenwidriger Rechtsgeschäfte (§§ 134, 138 BGB)",
-   "Die Vererblichkeit des Besitzes (§ 857 BGB)",
-   "Das Betreuungsorganisationsgesetz, insbesondere § 30 BtOG"
+   "Die Vererblichkeit des Besitzes (§ 857 BGB)"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Als Schranken der Testierfreiheit nennt die Seite Typen- und Formzwang, das Pflichtteilsrecht (§§ 2303 ff. BGB), §§ 134, 138 BGB, das Betreuungsorganisationsgesetz (§ 30 BtOG), die Höfeordnung und das Erbschaftsteuerrecht sowie die Selbstbindung durch Erbvertrag oder bindendes gemeinschaftliches Testament. § 857 BGB regelt dagegen nur die Vererblichkeit des Besitzes und beschränkt den Erblasser in seiner Gestaltung nicht."
  },
  {
@@ -724,12 +724,12 @@
   ],
   "frage": "Die Eheleute M und F haben sich in einem gemeinschaftlichen Testament gegenseitig zu Alleinerben eingesetzt, ohne Schlusserben zu bestimmen. Beide sterben bei einem Verkehrsunfall; die Reihenfolge des Versterbens lässt sich nicht klären. Wer erbt?",
   "optionen": [
-   "Jeder Ehegatte beerbt den anderen; die Nachlässe werden vereinigt und fallen an die gemeinsamen Erben beider",
-   "Es wird vermutet, dass beide gleichzeitig gestorben sind; sie beerben sich nicht, und für jeden gilt die gesetzliche Erbfolge",
+   "Der Nachlass fällt mangels Erben an den Staat",
    "Der jüngere Ehegatte gilt als länger lebend und beerbt den älteren",
-   "Der Nachlass fällt mangels Erben an den Staat"
+   "Es wird vermutet, dass beide gleichzeitig gestorben sind; sie beerben sich nicht, und für jeden gilt die gesetzliche Erbfolge",
+   "Jeder Ehegatte beerbt den anderen; die Nachlässe werden vereinigt und fallen an die gemeinsamen Erben beider"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Lässt sich nicht aufklären, wer zuerst verstorben ist, wird gleichzeitiges Versterben vermutet (§ 11 VerschG). Erbe kann nur werden, wer den Erblasser überlebt; bei vermutetem gleichzeitigem Tod beerben sich die Ehegatten daher trotz wechselseitiger Einsetzung nicht. Es liegen zwei getrennte Erbfälle vor, für die mangels weiterer Verfügung die gesetzliche Erbfolge gilt. Eine Altersvermutung kennt das Gesetz nicht."
  },
  {
@@ -764,11 +764,11 @@
   "frage": "Der Tod des Erblassers steht fest, der genaue Zeitpunkt ist aber unbekannt. Welches Verfahren kommt in Betracht?",
   "optionen": [
    "Todeserklärung nach dem VerschG, weil der Todeszeitpunkt nur dort festgestellt wird",
-   "Gerichtliche Feststellung von Tod und Todeszeit nach §§ 39 ff. VerschG",
    "Ausstellung einer Sterbeurkunde mit geschätztem Datum durch den Notar",
+   "Gerichtliche Feststellung von Tod und Todeszeit nach §§ 39 ff. VerschG",
    "Feststellung des Todeszeitpunkts im Erbscheinsverfahren durch eidesstattliche Versicherung"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Ist der Tod sicher, der Zeitpunkt aber offen, kann das Gericht Tod und Todeszeit nach §§ 39 ff. VerschG feststellen; die Feststellung begründet eine Vermutung für den Zeitpunkt (§ 44 Abs. 2 VerschG). Die Todeserklärung betrifft dagegen den Verschollenen, dessen Tod nicht feststeht. Nachgewiesen werden Tod und Todeszeitpunkt durch Sterbebuch oder Sterbeurkunde (§§ 54, 55, 60 PStG), die das Standesamt und nicht der Notar ausstellt."
  },
  {
@@ -785,12 +785,12 @@
   ],
   "frage": "Der unverheiratete, kinderlose E stirbt. Seine Mutter lebt, sein Vater ist vorverstorben. Der Vater hat aus erster Ehe einen Sohn H, den Halbbruder des E. Wie wird der Nachlass verteilt?",
   "optionen": [
-   "Die Mutter erbt allein, weil Halbgeschwister in der zweiten Ordnung nicht berücksichtigt werden",
    "Die Mutter erbt 1/2, H als Abkömmling des vorverstorbenen Vaters erhält dessen Hälfte",
+   "Die Mutter erbt 3/4, H erhält 1/4 wegen der nur halben Verwandtschaft",
    "Mutter und H erben je 1/2 nach Köpfen als Angehörige derselben Ordnung",
-   "Die Mutter erbt 3/4, H erhält 1/4 wegen der nur halben Verwandtschaft"
+   "Die Mutter erbt allein, weil Halbgeschwister in der zweiten Ordnung nicht berücksichtigt werden"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "In der zweiten Ordnung erben die Eltern je zur Hälfte (§ 1925 Abs. 2 BGB). Ist ein Elternteil vorverstorben, treten dessen Abkömmlinge an seine Stelle, und zwar auch Halbgeschwister des Erblassers (§ 1925 Abs. 3 S. 1 BGB). H erhält daher die Hälfte des Vaters; eine Kürzung wegen halber Verwandtschaft kennt das Gesetz nicht. Halbgeschwister zu übersehen ist ein typischer Fehler."
  },
  {
@@ -806,12 +806,12 @@
   ],
   "frage": "Erblasser E hinterlässt weder Abkömmlinge noch Eltern oder Geschwister. Von den Großeltern lebt nur noch die Großmutter mütterlicherseits; der Großvater mütterlicherseits ist kinderlos außer der Mutter des E vorverstorben. Die Großeltern väterlicherseits sind beide verstorben und hinterlassen eine Tochter T (Tante des E). Wie wird verteilt?",
   "optionen": [
-   "Die Großmutter erbt alles, weil sie als einzige Großelternteil lebt",
    "Die Großmutter erbt 1/2 (ihr Viertel und das Viertel ihres Ehemanns), T erhält 1/2 anstelle des väterlichen Großelternpaares",
-   "Die Großmutter erbt 1/4, T erhält 3/4",
-   "Großmutter und T erben je 1/3, das letzte Drittel fällt an den Staat"
+   "Großmutter und T erben je 1/3, das letzte Drittel fällt an den Staat",
+   "Die Großmutter erbt alles, weil sie als einzige Großelternteil lebt",
+   "Die Großmutter erbt 1/4, T erhält 3/4"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "In der dritten Ordnung erben die vier Großeltern zu gleichen Teilen (§ 1926 Abs. 1 BGB). Hinterlässt ein vorverstorbener Großelternteil keine eigenen Abkömmlinge, fällt sein Anteil dem anderen Teil desselben Großelternpaares zu; hier erhält die Großmutter also das Viertel ihres Mannes. Sind beide Großeltern einer Seite verstorben, treten deren Abkömmlinge an die Stelle des gesamten Paares (§ 1926 Abs. 3 S. 2 BGB), sodass T die väterliche Hälfte erhält. Die Großmutter verdrängt die väterliche Linie nicht."
  },
  {
@@ -879,11 +879,11 @@
   "frage": "Die verwitwete E stirbt ohne Testament. Ihr einziges Kind ist vorverstorben und hat einen Sohn (Enkel der E) hinterlassen. Die Eltern der E leben noch. Wer ist gesetzlicher Erbe?",
   "optionen": [
    "Die Eltern der E, weil der Enkel nur ein Verwandter zweiten Grades ist",
-   "Der Enkel allein, weil er als Abkömmling zur ersten Ordnung gehört und die Eltern als zweite Ordnung ausschließt",
    "Enkel und Eltern je zur Hälfte, weil beide gleich nah verwandt sind",
+   "Der Enkel allein, weil er als Abkömmling zur ersten Ordnung gehört und die Eltern als zweite Ordnung ausschließt",
    "Die Eltern zu 1/2 und der Enkel zu 1/2 als Eintretender für das vorverstorbene Kind"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Auch entferntere Abkömmlinge wie Enkel gehören zur ersten Ordnung (§ 1924 Abs. 1 BGB). Ein Verwandter einer niedrigeren Ordnung schließt alle Verwandten höherer Ordnungen aus (§ 1930 BGB); es genügt, dass ein einziger Verwandter der näheren Ordnung lebt. Der Enkel verdrängt daher die Eltern der E vollständig. Der Grad der Verwandtschaft ist erst ab der vierten Ordnung maßgeblich."
  },
  {
@@ -955,21 +955,21 @@
    {
     "frage": "Welche Ordnung ist zur Erbfolge berufen?",
     "optionen": [
-     "Die erste Ordnung, weil mit A, A1, A2 und B1 Abkömmlinge des E leben",
      "Die erste und zweite Ordnung nebeneinander, weil Mutter und Bruder gleich nah verwandt sind",
      "Die zweite Ordnung, weil zwei der drei Kinder vorverstorben sind",
+     "Die erste Ordnung, weil mit A, A1, A2 und B1 Abkömmlinge des E leben",
      "Die erste Ordnung nur für A, die zweite Ordnung für den Rest"
     ],
-    "antwort": 0,
+    "antwort": 2,
     "erklaerung": "Die erste Ordnung umfasst alle Abkömmlinge des E (§ 1924 Abs. 1 BGB). Lebt auch nur ein Verwandter der ersten Ordnung, sind alle Verwandten höherer Ordnungen ausgeschlossen (§ 1930 BGB). Mutter und Bruder des E (zweite Ordnung) erben daher nichts."
    },
    {
     "frage": "In wie viele Stämme wird der Nachlass geteilt und wie groß ist der Anteil jedes Stammes?",
     "optionen": [
-     "Drei Stämme (A, B, C) zu je 1/3; der Anteil des C fällt an die Mutter des E",
+     "Ein Stamm, weil nur A als Kind noch lebt",
      "Zwei Stämme (A und B) zu je 1/2, weil C ohne Abkömmlinge weggefallen ist",
      "Vier Stämme (A, A1, A2, B1) zu je 1/4",
-     "Ein Stamm, weil nur A als Kind noch lebt"
+     "Drei Stämme (A, B, C) zu je 1/3; der Anteil des C fällt an die Mutter des E"
     ],
     "antwort": 1,
     "erklaerung": "Jedes Kind begründet einen Stamm (§ 1924 Abs. 2, 3 BGB). C ist ohne Abkömmlinge weggefallen, sodass für ihn niemand eintreten kann; sein Stamm entfällt und der Nachlass wird auf die Stämme A und B je zur Hälfte verteilt. Die Enkel bilden keine eigenen Stämme neben ihren Eltern."
@@ -977,12 +977,12 @@
    {
     "frage": "Wie verteilt sich der Nachlass auf die einzelnen Personen?",
     "optionen": [
-     "A 1/2, B1 1/2; A1 und A2 erben nichts",
-     "A 1/4, A1 1/8, A2 1/8, B1 1/2",
      "A 1/3, A1 1/6, A2 1/6, B1 1/3",
-     "A 1/2, B1 1/4, A1 1/8, A2 1/8"
+     "A 1/2, B1 1/2; A1 und A2 erben nichts",
+     "A 1/2, B1 1/4, A1 1/8, A2 1/8",
+     "A 1/4, A1 1/8, A2 1/8, B1 1/2"
     ],
-    "antwort": 0,
+    "antwort": 1,
     "erklaerung": "Nach dem Repräsentationsprinzip schließt das nächstverwandte lebende Mitglied eines Stammes die übrigen aus (§ 1924 Abs. 2 BGB): A vertritt seinen Stamm allein, A1 und A2 erben nichts. Nach dem Eintrittsprinzip tritt B1 an die Stelle des vorverstorbenen B und erhält dessen Hälfte (§ 1924 Abs. 3 BGB)."
    }
   ],
@@ -1002,12 +1002,12 @@
   ],
   "frage": "Die Ehegatten lebten im gesetzlichen Güterstand. Der Erblasser hinterlässt die Ehefrau und drei Kinder, ein Testament gibt es nicht. Wie hoch ist der gesetzliche Erbteil der Ehefrau?",
   "optionen": [
+   "Ein Drittel wie jedes Kind",
    "Ein Viertel",
-   "Die Hälfte",
    "Drei Viertel",
-   "Ein Drittel wie jedes Kind"
+   "Die Hälfte"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Neben Verwandten der ersten Ordnung beträgt der Erbteil des Ehegatten nach § 1931 Abs. 1 BGB ein Viertel. Bei Zugewinngemeinschaft wird dieser Erbteil pauschal um ein weiteres Viertel erhöht (§ 1371 Abs. 1 BGB), sodass der große Erbteil die Hälfte beträgt. Ein Viertel wäre nur ohne Erhöhung richtig, etwa bei Gütertrennung mit mehr als zwei Kindern; die Gleichstellung mit den Kindern (§ 1931 Abs. 4 BGB) gilt nur bei Gütertrennung mit höchstens zwei Kindern."
  },
  {
@@ -1024,12 +1024,12 @@
   ],
   "frage": "Die Ehegatten haben durch Ehevertrag Gütertrennung vereinbart. Der Erblasser hinterlässt ohne Testament die Ehefrau und zwei Kinder. Welchen Erbteil erhält die Ehefrau?",
   "optionen": [
+   "Drei Viertel, weil die Kinder bei Gütertrennung zurücktreten",
    "Ein Viertel nach § 1931 Abs. 1 BGB",
    "Die Hälfte nach §§ 1371 Abs. 1, 1931 Abs. 1 BGB",
-   "Ein Drittel, weil sie neben höchstens zwei Kindern so viel wie jedes Kind erhält",
-   "Drei Viertel, weil die Kinder bei Gütertrennung zurücktreten"
+   "Ein Drittel, weil sie neben höchstens zwei Kindern so viel wie jedes Kind erhält"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Bei Gütertrennung ist § 1371 BGB nicht anwendbar; das Erbrecht richtet sich nur nach § 1931 BGB. Sind ein oder zwei Kinder neben dem Ehegatten gesetzliche Erben, erhält dieser so viel wie jedes Kind (§ 1931 Abs. 4 BGB), bei zwei Kindern also ein Drittel. Erst bei mehr als zwei Kindern bleibt es beim Viertel nach § 1931 Abs. 1 BGB; die Hälfte setzt den Erhöhungsviertel der Zugewinngemeinschaft voraus."
  },
  {
@@ -1047,12 +1047,12 @@
   ],
   "frage": "Der überlebende Ehegatte (Zugewinngemeinschaft) schlägt seinen gesetzlichen Erbteil aus. Welche Ansprüche hat er gegen die Erben?",
   "optionen": [
+   "Den großen Pflichtteil nach dem um ein Viertel erhöhten Erbteil",
    "Keine, weil der Ausschlagende weder Erbteil noch Pflichtteil erhält",
    "Den rechnerischen Zugewinnausgleich nach §§ 1372 ff. BGB und zusätzlich den kleinen Pflichtteil nach dem nicht erhöhten Erbteil",
-   "Den pauschalen Zugewinnausgleich von einem Viertel als Geldanspruch",
-   "Den großen Pflichtteil nach dem um ein Viertel erhöhten Erbteil"
+   "Den pauschalen Zugewinnausgleich von einem Viertel als Geldanspruch"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Durch die Ausschlagung vermeidet der Ehegatte die pauschale Abgeltung des Zugewinns und kann den Zugewinnausgleich nach der güterrechtlichen Lösung verlangen (§ 1371 Abs. 2, 3 BGB; Anspruch aus § 1378 Abs. 1 BGB). Daneben steht ihm ausnahmsweise trotz Ausschlagung ein Pflichtteil zu (§ 2303 Abs. 2 S. 2 BGB), berechnet nach dem nicht erhöhten gesetzlichen Erbteil (kleiner Pflichtteil). Der Grundsatz, dass Ausschlagende keinen Pflichtteil erhalten, gilt hier gerade nicht; das Erhöhungsviertel entfällt mit der Ausschlagung."
  },
  {
@@ -1091,34 +1091,34 @@
    {
     "frage": "Welchen gesetzlichen Erbteil erhält F, wenn sie die Erbschaft annimmt?",
     "optionen": [
-     "Ein Viertel",
-     "Ein Drittel wie jedes Kind",
      "Die Hälfte",
-     "Drei Viertel"
+     "Ein Viertel",
+     "Drei Viertel",
+     "Ein Drittel wie jedes Kind"
     ],
-    "antwort": 2,
+    "antwort": 0,
     "erklaerung": "Neben Abkömmlingen erbt der Ehegatte ein Viertel (§ 1931 Abs. 1 BGB); bei Zugewinngemeinschaft wird der Erbteil pauschal um ein Viertel erhöht (§ 1371 Abs. 1 BGB), also die Hälfte. Die Gleichstellung mit den Kindern nach § 1931 Abs. 4 BGB gilt nur bei Gütertrennung."
    },
    {
     "frage": "Was erhält F, wenn sie den Erbteil ausschlägt?",
     "optionen": [
+     "Nichts, weil der Anfall als nicht erfolgt gilt",
      "Nur den Zugewinnausgleich nach §§ 1372 ff. BGB, weil Ausschlagende keinen Pflichtteil erhalten",
      "Den Zugewinnausgleich nach §§ 1372 ff. BGB und den kleinen Pflichtteil von 1/8",
-     "Den Zugewinnausgleich und den großen Pflichtteil von 1/4",
-     "Nichts, weil der Anfall als nicht erfolgt gilt"
+     "Den Zugewinnausgleich und den großen Pflichtteil von 1/4"
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Nach Ausschlagung kann F den rechnerischen Zugewinnausgleich verlangen (§ 1371 Abs. 2, 3 BGB, § 1378 Abs. 1 BGB) und erhält daneben den kleinen Pflichtteil (§ 2303 Abs. 2 S. 2 BGB), also die Hälfte des nicht erhöhten Erbteils von 1/4, mithin 1/8. Der große Pflichtteil aus dem erhöhten Erbteil steht ihr nach Ausschlagung nicht zu."
    },
    {
     "frage": "Welche Überlegung spricht im Fall der F für die güterrechtliche Lösung?",
     "optionen": [
-     "Die güterrechtliche Lösung ist stets günstiger, weil der Zugewinnausgleich steuerfrei ist",
-     "M hat sein Vermögen überwiegend in der Ehe aufgebaut, sodass der rechnerische Zugewinnausgleich hoch ausfallen kann; zudem steht F als Nachlassgläubigerin mit sofort fälligem Anspruch außerhalb der Erbengemeinschaft",
+     "Die güterrechtliche Lösung vermeidet die Ausschlagungsfrist",
      "Die güterrechtliche Lösung sichert F das Erhöhungsviertel zusätzlich zum Zugewinnausgleich",
-     "Die güterrechtliche Lösung vermeidet die Ausschlagungsfrist"
+     "M hat sein Vermögen überwiegend in der Ehe aufgebaut, sodass der rechnerische Zugewinnausgleich hoch ausfallen kann; zudem steht F als Nachlassgläubigerin mit sofort fälligem Anspruch außerhalb der Erbengemeinschaft",
+     "Die güterrechtliche Lösung ist stets günstiger, weil der Zugewinnausgleich steuerfrei ist"
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Welche Lösung günstiger ist, hängt vom Einzelfall ab. Die güterrechtliche Lösung kann vorteilhaft sein, wenn der Erblasser sein Vermögen überwiegend erst im Güterstand aufgebaut hat, und weil der Ehegatte als Nachlassgläubiger mit sofort fälligem Pflichtteilsanspruch einfacher steht als in einer Erbengemeinschaft. Das Erhöhungsviertel entfällt mit der Ausschlagung; die Ausschlagung muss fristgerecht erfolgen."
    }
   ],
@@ -1139,12 +1139,12 @@
   ],
   "frage": "Die Eheleute leben seit zwei Jahren getrennt. Der Ehemann stirbt, bevor einer von beiden einen Scheidungsantrag gestellt hat. Ist die Ehefrau gesetzliche Erbin?",
   "optionen": [
-   "Nein, weil das Getrenntleben nach § 1567 BGB das Ehegattenerbrecht ausschließt",
    "Ja, weil die Ehe beim Erbfall bestand und § 1933 BGB einen Scheidungsantrag oder die Zustimmung des Erblassers voraussetzt",
    "Nein, weil nach einem Jahr Trennung die Scheidungsvoraussetzungen vorlagen (§ 1565 BGB)",
-   "Ja, aber nur zur Hälfte der sonst geltenden Quote"
+   "Ja, aber nur zur Hälfte der sonst geltenden Quote",
+   "Nein, weil das Getrenntleben nach § 1567 BGB das Ehegattenerbrecht ausschließt"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Der Ehegatte ist gesetzlicher Erbe, wenn er den Erblasser überlebt und die Ehe beim Erbfall rechtsgültig bestand; Dauer der Ehe und Getrenntleben (§ 1567 BGB) sind unerheblich. Das Erbrecht entfällt nach § 1933 S. 1 BGB nur, wenn die Scheidungsvoraussetzungen vorlagen und der Erblasser die Scheidung beantragt oder ihr zugestimmt hatte. Das bloße Vorliegen der Scheidungsvoraussetzungen ohne Antrag des Erblassers genügt nicht."
  },
  {
@@ -1209,11 +1209,11 @@
   "frage": "Die Geschwister des Erblassers machen geltend, die Witwe sei nach § 1933 BGB nicht Erbin geworden, weil der Erblasser die Scheidung beantragt hatte und die Ehe hätte geschieden werden können. Wer trägt hierfür die Beweislast?",
   "optionen": [
    "Die Witwe, weil sie ihr Erbrecht im Erbscheinsverfahren nachweisen muss",
+   "Das Familiengericht, bei dem der Scheidungsantrag anhängig war",
    "Die Geschwister als diejenigen, die der Witwe das Erbrecht absprechen",
-   "Das Nachlassgericht ermittelt von Amts wegen, eine Beweislast gibt es nicht",
-   "Das Familiengericht, bei dem der Scheidungsantrag anhängig war"
+   "Das Nachlassgericht ermittelt von Amts wegen, eine Beweislast gibt es nicht"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Wer behauptet, die Ehe wäre geschieden oder aufgehoben worden, trägt dafür die Beweislast. Im Fall des § 1933 BGB sind das regelmäßig die Verwandten des Erstverstorbenen, die dem überlebenden Ehegatten sein Erbrecht absprechen. Die Witwe muss nur Überleben und Bestehen der Ehe beim Erbfall darlegen; die Ausschlussvoraussetzungen des § 1933 BGB müssen die Verwandten beweisen."
  },
  {
@@ -1231,12 +1231,12 @@
   ],
   "frage": "Wo ist das gesetzliche Erbrecht des eingetragenen Lebenspartners geregelt und für welche Partnerschaften gilt es?",
   "optionen": [
-   "In § 1931 BGB, der seit 2017 auf Lebenspartner entsprechend anzuwenden ist, für alle gleichgeschlechtlichen Paare",
-   "In § 10 LPartG, für vor dem 1. Oktober 2017 in Deutschland begründete Lebenspartnerschaften sowie im Ausland begründete, soweit deutsches Recht gilt",
    "In § 10 LPartG, für alle seit 2001 begründeten und auch künftig begründbaren Lebenspartnerschaften",
-   "In § 1931 Abs. 4 BGB, für Lebenspartnerschaften, die nicht in eine Ehe umgewandelt wurden"
+   "In § 1931 Abs. 4 BGB, für Lebenspartnerschaften, die nicht in eine Ehe umgewandelt wurden",
+   "In § 10 LPartG, für vor dem 1. Oktober 2017 in Deutschland begründete Lebenspartnerschaften sowie im Ausland begründete, soweit deutsches Recht gilt",
+   "In § 1931 BGB, der seit 2017 auf Lebenspartner entsprechend anzuwenden ist, für alle gleichgeschlechtlichen Paare"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Das Erbrecht des Lebenspartners steht nicht im BGB, sondern in § 10 LPartG. Nach § 1 LPartG können seit dem 1. Oktober 2017 keine neuen Lebenspartnerschaften mehr begründet werden; das Gesetz gilt für vorher in Deutschland begründete und für im Ausland begründete Partnerschaften, soweit deutsches Recht anwendbar ist. Wird die Partnerschaft nach § 20a LPartG in eine Ehe umgewandelt, gelten die Ehegattenregeln."
  },
  {
@@ -1270,12 +1270,12 @@
   ],
   "frage": "Die Lebenspartner L1 und L2 lebten im gesetzlichen Güterstand der Zugewinngemeinschaft. L1 stirbt ohne Testament und hinterlässt L2 und ein Kind. Wie hoch ist der Erbteil des L2?",
   "optionen": [
-   "Ein Viertel nach § 10 Abs. 1 LPartG, weil § 1371 BGB nur für Ehegatten gilt",
-   "Die Hälfte, weil sich der Erbteil von einem Viertel um ein Viertel erhöht (§ 6 S. 2 LPartG, § 1371 Abs. 1 BGB)",
+   "Drei Viertel, weil der Zugewinn pauschal mit der Hälfte abgegolten wird",
    "Die Hälfte, weil L2 neben einem Kind so viel erhält wie das Kind (§ 10 Abs. 2 S. 2 LPartG)",
-   "Drei Viertel, weil der Zugewinn pauschal mit der Hälfte abgegolten wird"
+   "Die Hälfte, weil sich der Erbteil von einem Viertel um ein Viertel erhöht (§ 6 S. 2 LPartG, § 1371 Abs. 1 BGB)",
+   "Ein Viertel nach § 10 Abs. 1 LPartG, weil § 1371 BGB nur für Ehegatten gilt"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Neben Verwandten der ersten Ordnung erbt der Lebenspartner ein Viertel (§ 10 Abs. 1 LPartG). Im gesetzlichen Güterstand der Zugewinngemeinschaft (§ 6 LPartG) erhöht sich der Erbteil pauschal um ein Viertel (§ 6 S. 2 LPartG, § 1371 Abs. 1 BGB), unabhängig davon, ob tatsächlich Zugewinn erzielt wurde. Die Gleichstellung mit den Kindern nach § 10 Abs. 2 S. 2 LPartG gilt nur bei Gütertrennung; sie führt hier zwar zum selben Ergebnis, ist aber nicht die einschlägige Begründung."
  },
  {
@@ -1291,12 +1291,12 @@
   ],
   "frage": "Was gilt für den Voraus des überlebenden Lebenspartners?",
   "optionen": [
-   "Er umfasst die Gegenstände des gemeinsamen Haushalts ohne Grundstückszubehör und die Geschenke zur Begründung der Partnerschaft; neben Verwandten der ersten Ordnung nur, soweit er für einen angemessenen Haushalt benötigt wird",
-   "Er umfasst sämtliche beweglichen Sachen des Nachlasses und steht dem Lebenspartner neben allen Ordnungen uneingeschränkt zu",
+   "Er umfasst nur die Hochzeitsgeschenke und wird nach den Vorschriften über die Erbeinsetzung behandelt",
    "Er steht dem Lebenspartner nur neben Verwandten der zweiten Ordnung zu und erhöht seine Erbquote um ein Viertel",
-   "Er umfasst nur die Hochzeitsgeschenke und wird nach den Vorschriften über die Erbeinsetzung behandelt"
+   "Er umfasst sämtliche beweglichen Sachen des Nachlasses und steht dem Lebenspartner neben allen Ordnungen uneingeschränkt zu",
+   "Er umfasst die Gegenstände des gemeinsamen Haushalts ohne Grundstückszubehör und die Geschenke zur Begründung der Partnerschaft; neben Verwandten der ersten Ordnung nur, soweit er für einen angemessenen Haushalt benötigt wird"
   ],
-  "antwort": 0,
+  "antwort": 3,
   "erklaerung": "Als Voraus stehen dem Lebenspartner die Gegenstände des gemeinsamen Haushalts, soweit sie nicht Grundstückszubehör sind, sowie die Geschenke anlässlich der Begründung der Partnerschaft zu; neben Verwandten der ersten Ordnung nur, soweit er sie für einen angemessenen Haushalt braucht. Für den Voraus gelten die Vorschriften über Vermächtnisse; er erhöht die Erbquote nicht und ist von der Erhöhung nach § 1371 BGB zu unterscheiden."
  },
  {
@@ -1313,10 +1313,10 @@
   ],
   "frage": "Welche Aussage zur Stellung des Staates als gesetzlicher Erbe trifft zu?",
   "optionen": [
-   "Der Staat kann die Erbschaft wie jeder andere Erbe binnen sechs Wochen ausschlagen, wenn der Nachlass überschuldet ist",
-   "Der Staat ist Zwangserbe: Er kann weder auf sein gesetzliches Erbrecht verzichten noch ausschlagen, haftet aber praktisch nur mit dem Nachlass",
    "Der Staat erbt nur, wenn der Erblasser keine Verfügung von Todes wegen hinterlassen hat; bei Enterbung aller Verwandten erbt niemand",
-   "Der Staat haftet unbeschränkt, es sei denn, er errichtet ein Inventar"
+   "Der Staat ist Zwangserbe: Er kann weder auf sein gesetzliches Erbrecht verzichten noch ausschlagen, haftet aber praktisch nur mit dem Nachlass",
+   "Der Staat haftet unbeschränkt, es sei denn, er errichtet ein Inventar",
+   "Der Staat kann die Erbschaft wie jeder andere Erbe binnen sechs Wochen ausschlagen, wenn der Nachlass überschuldet ist"
   ],
   "antwort": 1,
   "erklaerung": "Der Staat wird gesetzlicher Erbe, wenn keine anderen Erben vorhanden sind (§§ 1936, 1938 BGB), auch wenn die Berechtigten durch Erbverzicht, Enterbung, Erbunwürdigkeit oder Ausschlagung wegfallen. Als Zwangserbe kann er weder verzichten noch ausschlagen; er haftet praktisch nur mit dem Nachlass, ohne dass Inventar oder Vorbehalt im Urteil nötig wären. Die Ausschlagungsmöglichkeit zu unterstellen ist der naheliegende Fehler."
@@ -1335,12 +1335,12 @@
   ],
   "frage": "Welcher Staat wird gesetzlicher Erbe, wenn der Erblasser ohne Erben verstirbt?",
   "optionen": [
-   "Stets der Bund, weil das Erbrecht Bundesrecht ist",
-   "Das Land, in dem der Erblasser beim Tod seinen Wohnsitz hatte, hilfsweise das Land des letzten Aufenthalts; im Übrigen der Bund",
    "Das Land, in dem der Erblasser geboren wurde",
-   "Das Land, in dem sich der wertvollste Nachlassgegenstand befindet"
+   "Das Land, in dem sich der wertvollste Nachlassgegenstand befindet",
+   "Stets der Bund, weil das Erbrecht Bundesrecht ist",
+   "Das Land, in dem der Erblasser beim Tod seinen Wohnsitz hatte, hilfsweise das Land des letzten Aufenthalts; im Übrigen der Bund"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Gesetzlicher Erbe ist das Land, in dem der Erblasser zur Zeit des Todes seinen Wohnsitz hatte; ist kein Wohnsitz feststellbar, entscheidet der letzte Aufenthalt (§ 1936 S. 1 BGB). Nur im Übrigen, also wenn sich danach kein Land bestimmen lässt, ist der Bund gesetzlicher Erbe (§ 1936 S. 2 BGB). Geburtsort oder Belegenheit des Nachlasses spielen keine Rolle."
  },
  {
@@ -1372,12 +1372,12 @@
   ],
   "frage": "Der Mieter einer Wohnung stirbt; mit ihm lebte seine Lebensgefährtin im gemeinsamen Haushalt. Alleinerbe ist sein Sohn, der in einer anderen Stadt wohnt. Wer wird Partei des Wohnraummietverhältnisses?",
   "optionen": [
-   "Der Sohn als Gesamtrechtsnachfolger nach § 1922 BGB",
    "Die Lebensgefährtin im Wege der Sonderrechtsnachfolge nach §§ 563, 563a BGB, wenn die Voraussetzungen vorliegen; mit dem Erben wird das Mietverhältnis nur ausnahmsweise fortgesetzt",
-   "Sohn und Lebensgefährtin gemeinsam als Mietergemeinschaft",
-   "Das Mietverhältnis endet automatisch mit dem Tod des Mieters"
+   "Das Mietverhältnis endet automatisch mit dem Tod des Mieters",
+   "Der Sohn als Gesamtrechtsnachfolger nach § 1922 BGB",
+   "Sohn und Lebensgefährtin gemeinsam als Mietergemeinschaft"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Den Eintritt in ein Wohnraummietverhältnis hat der Gesetzgeber bewusst aus dem Erbrecht herausgenommen (§§ 563 bis 564, 580 BGB). Bestimmte Personen, die mit dem Mieter einen gemeinsamen Haushalt führten, treten im Wege der Sonderrechtsnachfolge ein (§§ 563, 563a BGB); mit dem Erben wird das Mietverhältnis nur ausnahmsweise fortgesetzt (§ 564 BGB). Die Gesamtrechtsnachfolge nach § 1922 BGB ist hier gerade verdrängt; die Sonderregeln gelten nur beim Tod des Mieters, nicht des Vermieters."
  },
  {
@@ -1393,12 +1393,12 @@
   ],
   "frage": "Ein Mandant ist Gesellschafter einer OHG und will seinen Anteil durch Testament seiner Tochter zuwenden. Worauf muss der Notar vor der Beurkundung vorrangig achten?",
   "optionen": [
-   "Auf die Zustimmung der Mitgesellschafter zur Beurkundung, weil das Testament sonst formnichtig ist",
-   "Auf den Gesellschaftsvertrag: Die Erbin tritt nur ein, wenn eine Eintritts- oder Nachfolgeklausel dies erlaubt; sonst kann die Verfügung ins Leere gehen",
+   "Auf die Eintragung der Tochter im Handelsregister zu Lebzeiten des Mandanten",
    "Auf nichts Besonderes, weil Gesellschaftsanteile wie jeder Vermögensgegenstand nach § 1922 BGB vererblich sind",
-   "Auf die Eintragung der Tochter im Handelsregister zu Lebzeiten des Mandanten"
+   "Auf die Zustimmung der Mitgesellschafter zur Beurkundung, weil das Testament sonst formnichtig ist",
+   "Auf den Gesellschaftsvertrag: Die Erbin tritt nur ein, wenn eine Eintritts- oder Nachfolgeklausel dies erlaubt; sonst kann die Verfügung ins Leere gehen"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Personengesellschaften sind Zweck- und Vertrauensgemeinschaften; zum Schutz der Gesellschaftsautonomie hat das Gesellschaftsrecht Vorrang vor dem Erbrecht. Erben treten nur ein, wenn der Gesellschaftsvertrag dies durch Eintritts- oder (qualifizierte) Nachfolgeklauseln erlaubt; sonst kann der Anteil erlöschen oder die Erben werden abgefunden, und die Verfügung von Todes wegen läuft leer. Die uneingeschränkte Vererblichkeit nach § 1922 BGB gilt nur für Kapitalgesellschaftsanteile; Gesellschaftsvertrag und Verfügung sind aufeinander abzustimmen."
  },
  {
@@ -1469,12 +1469,12 @@
   ],
   "frage": "Im Übergabevertrag soll der übernehmende Sohn gegenüber dem Vater auf seinen Pflichtteil verzichten. Der Vater ist verhindert und möchte sich durch die Mutter mit notarieller Vollmacht vertreten lassen. Was gilt?",
   "optionen": [
-   "Die Vertretung ist zulässig, weil die Vollmacht notariell beurkundet ist",
    "Die Vertretung ist unzulässig; der Erblasser kann den Verzichtsvertrag nur persönlich schließen, der Verzichtende dagegen kann sich vertreten lassen",
-   "Die Vertretung ist zulässig, wenn der Sohn ebenfalls persönlich erscheint",
-   "Beide Beteiligte müssen stets persönlich anwesend sein"
+   "Beide Beteiligte müssen stets persönlich anwesend sein",
+   "Die Vertretung ist zulässig, weil die Vollmacht notariell beurkundet ist",
+   "Die Vertretung ist zulässig, wenn der Sohn ebenfalls persönlich erscheint"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Der Erblasser kann einen Erb- oder Pflichtteilsverzichtsvertrag nur persönlich schließen (§ 2347 S. 1 Hs. 1 BGB); eine Vollmacht für den Veräußerer genügt nicht, auch nicht in notarieller Form. Der Verzichtende hingegen kann sich vertreten lassen. Deshalb ist der Veräußerer persönlich zur Beurkundung zu laden; die notarielle Form des § 2348 BGB wird durch die Beurkundung des Übergabevertrags gewahrt."
  },
  {
@@ -1491,12 +1491,12 @@
   ],
   "frage": "Der Vater überträgt sein Hausgrundstück an die Tochter T. Der Sohn S soll nicht benachteiligt werden, aber auch keinen Streit um das Haus nach dem Erbfall auslösen. Welche Gestaltung empfiehlt die Seite für S?",
   "optionen": [
-   "Ein vollständiger Erbverzicht des S gegenüber dem Vater",
-   "Ein gegenständlich auf das Hausgrundstück beschränkter Verzicht des S auf Pflichtteilsergänzungsansprüche nach § 2325 BGB",
+   "Ein Verzicht des S auf die gesetzliche Erbfolge zugunsten der T",
    "Eine Anrechnungsbestimmung zulasten des S",
-   "Ein Verzicht des S auf die gesetzliche Erbfolge zugunsten der T"
+   "Ein gegenständlich auf das Hausgrundstück beschränkter Verzicht des S auf Pflichtteilsergänzungsansprüche nach § 2325 BGB",
+   "Ein vollständiger Erbverzicht des S gegenüber dem Vater"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Nicht begünstigte Pflichtteilsberechtigte können auf Pflichtteilsergänzungsansprüche (§ 2325 BGB) beschränkt auf den übergebenen Gegenstand verzichten; das schützt die Erben des Veräußerers und den Erwerber im späteren Erbfall, ohne S im Übrigen schlechter zu stellen. Ein vollständiger Erbverzicht ginge weit über das Ziel hinaus. Zusätzlich können die Geschwister untereinander vereinbaren, keine Pflichtteilsergänzungsansprüche geltend zu machen (§ 311b Abs. 5 BGB)."
  },
  {
@@ -1527,12 +1527,12 @@
   ],
   "frage": "Welche Aussage zur Rechtsnatur des Pflichtteilsanspruchs trifft zu?",
   "optionen": [
-   "Der Pflichtteilsberechtigte wird Miterbe mit der halben gesetzlichen Erbquote",
    "Der Pflichtteilsanspruch ist ein schuldrechtlicher Geldanspruch gegen die Erben; der Berechtigte wird nicht Erbe und kann keine Nachlassgegenstände verlangen",
    "Der Pflichtteilsberechtigte kann wahlweise Geld oder einzelne Nachlassgegenstände im Wert seines Pflichtteils verlangen",
-   "Der Pflichtteilsanspruch richtet sich gegen den Nachlass als Sondervermögen, nicht gegen die Erben"
+   "Der Pflichtteilsanspruch richtet sich gegen den Nachlass als Sondervermögen, nicht gegen die Erben",
+   "Der Pflichtteilsberechtigte wird Miterbe mit der halben gesetzlichen Erbquote"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Der Pflichtteilsanspruch (§§ 2303 ff. BGB) ist schuldrechtlich, richtet sich gegen die Erben und geht auf einen Geldbetrag in Höhe der Hälfte des gesetzlichen Erbteils. Der Berechtigte wird nicht Erbe und kann bestimmte Nachlassgegenstände nicht verlangen. Die Vorstellung einer Miterbenstellung oder eines Wahlrechts auf Gegenstände ist die typische Fehlvorstellung; Schuldner sind die Erben, bei mehreren als Gesamtschuldner (§§ 2058 ff. BGB)."
  },
  {
@@ -1549,12 +1549,12 @@
   ],
   "frage": "Der verwitwete E hat drei Kinder A, B und C. Durch Testament setzt er A zum Alleinerben ein. B hat zu Lebzeiten des E notariell auf sein Erbrecht verzichtet, C schlägt nach dem Erbfall aus. Wie hoch ist die Pflichtteilsquote des C?",
   "optionen": [
+   "C hat keinen Pflichtteil, weil er ausgeschlagen hat",
    "1/6, weil alle drei Kinder mitzuzählen sind",
-   "1/4, weil B wegen des Erbverzichts nicht mitgezählt wird, C aber trotz Ausschlagung",
    "1/2, weil nach Erbverzicht und Ausschlagung nur noch A übrig bleibt",
-   "C hat keinen Pflichtteil, weil er ausgeschlagen hat"
+   "1/4, weil B wegen des Erbverzichts nicht mitgezählt wird, C aber trotz Ausschlagung"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Für die Pflichtteilsquote ist zu bestimmen, wer gesetzlicher Erbe wäre; mitgezählt werden auch Personen, die wegen Enterbung, Ausschlagung oder Erbunwürdigkeit nicht Erben werden (§ 2310 BGB), nicht aber, wer auf sein Erbrecht verzichtet hat. B scheidet also aus, A und C bleiben: gesetzlicher Erbteil des C 1/2, Pflichtteil 1/4. Enterbte oder ausschlagende Personen wegzulassen ist der typische Fehler; dass der ausschlagende C selbst hier einen Pflichtteil hat, ergibt sich daraus, dass er durch das Testament von der Erbfolge ausgeschlossen ist."
  },
  {
@@ -1586,12 +1586,12 @@
   ],
   "frage": "Der Erblasser hinterlässt zwei Kinder und setzt Kind K1 zu 4/5 und Kind K2 zu 1/5 als Erben ein. Welchen Anspruch hat K2?",
   "optionen": [
-   "Keinen zusätzlichen Anspruch, weil K2 Erbe geworden ist und Erben keinen Pflichtteil erhalten",
-   "Den vollen Pflichtteil von 1/4 zusätzlich zum Erbteil",
    "Einen Zusatzpflichtteil nach § 2305 BGB in Höhe der Differenz zwischen 1/5 und der Hälfte des gesetzlichen Erbteils (1/4)",
-   "Das Recht, den Erbteil auszuschlagen und stattdessen den gesetzlichen Erbteil von 1/2 zu verlangen"
+   "Das Recht, den Erbteil auszuschlagen und stattdessen den gesetzlichen Erbteil von 1/2 zu verlangen",
+   "Den vollen Pflichtteil von 1/4 zusätzlich zum Erbteil",
+   "Keinen zusätzlichen Anspruch, weil K2 Erbe geworden ist und Erben keinen Pflichtteil erhalten"
   ],
-  "antwort": 2,
+  "antwort": 0,
   "erklaerung": "Bleibt das, was ein Pflichtteilsberechtigter durch Verfügung von Todes wegen erhält, unter der Hälfte seines gesetzlichen Erbteils, steht ihm ein Pflichtteilsrestanspruch (Zusatzpflichtteil) zu (§ 2305 BGB). Der gesetzliche Erbteil des K2 beträgt 1/2, die Pflichtteilsquote 1/4; der zugewendete Erbteil von 1/5 liegt darunter, sodass K2 die Differenz in Geld verlangen kann. Der volle Pflichtteil neben dem Erbteil stünde ihm nicht zu; eine Ausschlagung verschafft keinen gesetzlichen Erbteil."
  },
  {
