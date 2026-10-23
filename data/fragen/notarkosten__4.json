@@ -1310,5 +1310,86 @@
   ],
   "antwort": 0,
   "erklaerung": "Gegenüber beteiligten Gerichten einschließlich des Grundbuchamts muss der Notar bei Antragstellung den zugrunde gelegten Geschäftswert und bei zusammengesetzten Werten die Einzelwerte angeben; auf Verlangen hat er Auskunft zu erteilen (§ 39 Abs. 1 GNotKG). Die Kostenberechnung selbst ist nicht beizufügen; sie unter Ausfertigungen zu drucken, sollte schon aus Datenschutzgründen unterbleiben."
+ },
+ {
+  "id": "kost4-056",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Kostenberechnung: umsatzsteuerliche Rechnungsangaben und Korrektur",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/kostenberechnung-umsatzsteuerliche-rechnungsangaben-und-korrektur",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 14 Abs. 4 UStG",
+   "§ 15 Abs. 1 S. 2 UStG",
+   "§ 19 GNotKG"
+  ],
+  "frage": "Die Kostenberechnung eines Notars an eine GmbH enthält keine fortlaufende Rechnungsnummer. Welche Folge hat dies?",
+  "optionen": [
+   "Die Kostenberechnung ist nach § 19 Abs. 4 GNotKG unwirksam.",
+   "Die Kostenberechnung bleibt kostenrechtlich wirksam, die GmbH kann aber keinen Vorsteuerabzug geltend machen.",
+   "Der Notar darf keine Umsatzsteuer erheben.",
+   "Die Kostenberechnung kann nur nicht für vollstreckbar erklärt werden."
+  ],
+  "antwort": 1,
+  "erklaerung": "Die fortlaufende Rechnungsnummer ist eine umsatzsteuerliche Rechnungsangabe (§ 14 Abs. 4 Nr. 4 UStG). Ein Verstoß gegen das UStG macht die Kostenberechnung nicht nach § 19 GNotKG unwirksam; ein Unternehmer als Empfänger kann aber keinen Vorsteuerabzug geltend machen (§ 15 Abs. 1 S. 2 UStG)."
+ },
+ {
+  "id": "kost4-057",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Kostenberechnung: umsatzsteuerliche Rechnungsangaben und Korrektur",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/kostenberechnung-umsatzsteuerliche-rechnungsangaben-und-korrektur",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 17 Abs. 1 BNotO"
+  ],
+  "frage": "Bemerkt der Notar, dass seine Kostenberechnung inhaltlich unrichtig ist, steht eine Berichtigung in seinem Ermessen.",
+  "antwort": false,
+  "erklaerung": "Eine formal oder inhaltlich unrichtige Kostenberechnung darf der Notar nicht nur ändern, er muss sie berichtigen. Das folgt aus dem Gebot gesetzmäßiger Gebührenerhebung nach § 17 Abs. 1 BNotO."
+ },
+ {
+  "id": "kost4-058",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Kostenberechnung: umsatzsteuerliche Rechnungsangaben und Korrektur",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/kostenberechnung-umsatzsteuerliche-rechnungsangaben-und-korrektur",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 14c UStG"
+  ],
+  "frage": "Der Notar berichtigt eine Kostenberechnung mit zu hoch ausgewiesener Umsatzsteuer und übersendet die neue Fassung. Was muss er zusätzlich veranlassen?",
+  "optionen": [
+   "Nichts, da die neue Fassung die alte automatisch ersetzt",
+   "Eine Mitteilung an das Finanzamt über die Stornierung",
+   "Die ursprüngliche Rechnung zurückfordern",
+   "Einen Antrag auf gerichtliche Entscheidung nach § 127 GNotKG stellen"
+  ],
+  "antwort": 2,
+  "erklaerung": "Ein Steuerausweis kann nach § 14c UStG auch dann eine entsprechende Steuerschuld auslösen, wenn er falsch ist, und ermöglicht dem Empfänger den Vorsteuerabzug. Deshalb muss der Notar bei Berichtigung und Neuübersendung die ursprüngliche Rechnung zurückfordern; sie nicht einzuziehen, ist ein typischer Fehler."
+ },
+ {
+  "id": "kost4-059",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Kostenberechnung: umsatzsteuerliche Rechnungsangaben und Korrektur",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/kostenberechnung-umsatzsteuerliche-rechnungsangaben-und-korrektur",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 14 Abs. 4 Nr. 9 UStG",
+   "§ 14b Abs. 1 S. 5 UStG"
+  ],
+  "frage": "Bei welchen Kostenberechnungen muss der Notar auf die Aufbewahrungspflicht des Leistungsempfängers hinweisen?",
+  "optionen": [
+   "Bei Kostenberechnungen zu Grundstücksumsätzen wie Grundstückskaufverträgen",
+   "Bei allen Kostenberechnungen an Verbraucher",
+   "Nur bei Kostenberechnungen über 250 €",
+   "Bei Kostenberechnungen zu Testamenten und Erbverträgen"
+  ],
+  "antwort": 0,
+  "erklaerung": "Nach § 14 Abs. 4 Nr. 9 UStG ist gegebenenfalls auf die Aufbewahrungspflicht des Leistungsempfängers hinzuweisen. Im Notariat betrifft das Kostenberechnungen zu Grundstücksumsätzen wie Grundstückskaufverträgen (§ 14b Abs. 1 S. 5 i. V. m. § 14 Abs. 2 S. 1 Nr. 1 UStG)."
  }
 ]

@@ -12,12 +12,12 @@
   ],
   "frage": "Unter welcher Voraussetzung wird eine lebzeitige Übergabe an ein Kind auf dessen späteren Pflichtteil angerechnet?",
   "optionen": [
-   "Kraft Gesetzes bei jeder Zuwendung an einen Abkömmling",
    "Wenn der Veräußerer die Anrechnung bei der Zuwendung ausdrücklich bestimmt",
-   "Wenn der Veräußerer die Anrechnung später einseitig durch Testament anordnet",
-   "Wenn der Wert der Zuwendung die Hälfte des gesetzlichen Erbteils übersteigt"
+   "Kraft Gesetzes bei jeder Zuwendung an einen Abkömmling",
+   "Wenn der Wert der Zuwendung die Hälfte des gesetzlichen Erbteils übersteigt",
+   "Wenn der Veräußerer die Anrechnung später einseitig durch Testament anordnet"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Nach § 2315 Abs. 1 BGB findet eine Anrechnung nur statt, wenn der Veräußerer sie bei der Zuwendung ausdrücklich bestimmt. Eine spätere einseitige Anordnung, etwa im Testament, ist ausgeschlossen, weil der Erwerber die Zuwendung in Kenntnis ihrer Belastung annehmen soll. Eine automatische Anrechnung kraft Gesetzes gibt es nicht."
  },
  {
@@ -49,12 +49,12 @@
   ],
   "frage": "Wie wirkt eine bei der Übergabe angeordnete Ausgleichung im späteren Erbfall?",
   "optionen": [
-   "Die Erbquote des begünstigten Miterben verringert sich entsprechend dem Zuwendungswert",
-   "Der begünstigte Miterbe muss den Zuwendungswert an den Nachlass zurückzahlen",
    "Der Zuwendungswert wird dem Nachlass hinzugerechnet und beim Erbteil des Begünstigten abgezogen; die Erbquoten bleiben unverändert",
-   "Die Zuwendung wird nur auf einen etwaigen Pflichtteil des Begünstigten angerechnet"
+   "Die Zuwendung wird nur auf einen etwaigen Pflichtteil des Begünstigten angerechnet",
+   "Die Erbquote des begünstigten Miterben verringert sich entsprechend dem Zuwendungswert",
+   "Der begünstigte Miterbe muss den Zuwendungswert an den Nachlass zurückzahlen"
   ],
-  "antwort": 2,
+  "antwort": 0,
   "erklaerung": "Bei der Ausgleichung wird der Wert der lebzeitigen Zuwendung dem Nachlass hinzugerechnet und beim Erbteil des begünstigten Miterben abgezogen (§§ 2050 Abs. 3, 2055 BGB). Die Erbquoten ändern sich nicht; verschoben wird nur, was jeder Miterbe bei der Auseinandersetzung erhält. Eine Rückzahlungspflicht besteht nicht, auch nicht bei Mehrempfang (§ 2056 BGB)."
  },
  {
@@ -85,12 +85,12 @@
   ],
   "frage": "Welche Gestaltung ist bei einer Anrechnungsbestimmung im Übergabevertrag nach der Praxis geboten?",
   "optionen": [
-   "Der Erwerber sollte bei der Beurkundung anwesend sein, da die Anrechnungsbestimmung empfangsbedürftig ist",
-   "Die Anrechnungsbestimmung ist zusätzlich in einem Testament zu wiederholen, um wirksam zu werden",
    "Die Anrechnung ist nur aufzunehmen, wenn sie gewollt ist; ein Ausschluss ist nicht zu dokumentieren",
-   "Die Anrechnungsbestimmung bedarf der Zustimmung aller weiteren Pflichtteilsberechtigten"
+   "Die Anrechnungsbestimmung bedarf der Zustimmung aller weiteren Pflichtteilsberechtigten",
+   "Die Anrechnungsbestimmung ist zusätzlich in einem Testament zu wiederholen, um wirksam zu werden",
+   "Der Erwerber sollte bei der Beurkundung anwesend sein, da die Anrechnungsbestimmung empfangsbedürftig ist"
   ],
-  "antwort": 0,
+  "antwort": 3,
   "erklaerung": "Anrechnungsbestimmungen sind empfangsbedürftig; der Erwerber sollte deshalb bei der Beurkundung anwesend sein (§ 2315 BGB). Auch wenn keine Anrechnung gewollt ist, soll dies zur Dokumentation ausdrücklich in die Urkunde aufgenommen werden. Eine Wiederholung im Testament ist nicht erforderlich; eine spätere einseitige Anordnung wäre ohnehin unwirksam."
  },
  {
@@ -107,12 +107,12 @@
   ],
   "frage": "Wofür haftet der Veräußerer bei einer schenkweisen Übergabe kraft Gesetzes für Mängel?",
   "optionen": [
-   "Für alle Sachmängel wie ein Verkäufer",
    "Nur für arglistig verschwiegene Mängel",
+   "Nur für Rechtsmängel, nicht für Sachmängel",
    "Für Mängel, die er grob fahrlässig nicht kannte",
-   "Nur für Rechtsmängel, nicht für Sachmängel"
+   "Für alle Sachmängel wie ein Verkäufer"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Bei einer Schenkung haftet der Veräußerer kraft Gesetzes nur für arglistig verschwiegene Mängel (§§ 523, 524 BGB). Eine kaufrechtliche Haftung besteht nicht, weil der Beschenkte unentgeltlich erwirbt und daher weniger schutzbedürftig ist; eine abweichende Vereinbarung ist oft nicht geboten."
  },
  {
@@ -143,10 +143,10 @@
   ],
   "frage": "Wann ist beim Übergabevertrag eine Vormerkung für den Erwerber und eine Abwicklung wie beim Kauf angezeigt?",
   "optionen": [
-   "Stets, da die Auflassung erst nach Vorliegen aller Genehmigungen erklärt werden darf",
+   "Wenn der Vertragsgegenstand vermietet ist",
    "Wenn sich der Veräußerer ein Wohnungsrecht vorbehält",
    "Wenn die Umschreibung erst nach vollständiger Gegenleistung, etwa Zahlung eines Gleichstellungsgeldes, erfolgen soll",
-   "Wenn der Vertragsgegenstand vermietet ist"
+   "Stets, da die Auflassung erst nach Vorliegen aller Genehmigungen erklärt werden darf"
   ],
   "antwort": 2,
   "erklaerung": "Die Übergabe braucht meist keine Zug-um-Zug-Abwicklung; Auflassung, Bewilligung und Umschreibungsantrag können sofort in der Urkunde erfolgen. Eine Vormerkung ist nur angezeigt, wenn die Umschreibung erst nach vollständiger Gegenleistung erfolgen soll, etwa nach Zahlung einer Ausgleichszahlung oder eines Gleichstellungsgeldes oder nach Vorliegen der Schuldhaftentlassung. Ein vorbehaltenes Wohnungsrecht verlangt keine aufgeschobene Umschreibung."
@@ -164,12 +164,12 @@
   ],
   "frage": "Welche Regelung empfiehlt sich bei der Übergabe eines vermieteten Objekts ohne Nutzungsvorbehalt?",
   "optionen": [
-   "Vereinbaren, dass der Erwerber schon mit Besitzübergang in das Mietverhältnis eintritt",
    "Den Eintritt in das Mietverhältnis bis zur Löschung aller Belastungen aufschieben",
    "Die Mietverträge vor der Übergabe kündigen lassen",
-   "Den Erwerber erst nach Zahlung des Gleichstellungsgeldes eintreten lassen"
+   "Den Erwerber erst nach Zahlung des Gleichstellungsgeldes eintreten lassen",
+   "Vereinbaren, dass der Erwerber schon mit Besitzübergang in das Mietverhältnis eintritt"
   ],
-  "antwort": 0,
+  "antwort": 3,
   "erklaerung": "Kraft Gesetzes tritt der Erwerber erst mit der Eigentumsumschreibung in das Mietverhältnis ein (§ 566 BGB). Da Besitz, Nutzen und Lasten meist schon mit Vertragsschluss übergehen sollen, empfiehlt die Praxis, den Eintritt schon auf den Besitzübergang vorzuverlegen. Eine Kündigung ist weder nötig noch sachgerecht."
  },
  {
@@ -185,12 +185,12 @@
   ],
   "frage": "Wann sollte der Ehegatte des Veräußerers am Übergabevertrag beteiligt werden?",
   "optionen": [
-   "Stets, wenn der Veräußerer verheiratet ist",
    "Wenn der Veräußerer im gesetzlichen Güterstand über sein Vermögen im Ganzen verfügt",
+   "Wenn der Erwerber in Gütergemeinschaft lebt",
    "Nur wenn der Ehegatte im Grundbuch als Miteigentümer eingetragen ist",
-   "Wenn der Erwerber in Gütergemeinschaft lebt"
+   "Stets, wenn der Veräußerer verheiratet ist"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Verfügt der Veräußerer mit der Übergabe über sein wesentliches Vermögen, kann die Zustimmung seines Ehegatten nach § 1365 BGB erforderlich sein, typischerweise bei Übergabe des einzigen nennenswerten Vermögensgegenstands im gesetzlichen Güterstand. Die Gütergemeinschaft des Erwerbers betrifft dagegen die Mitwirkung des Ehegatten des Erwerbers."
  },
  {
@@ -255,9 +255,9 @@
   ],
   "frage": "Weshalb ist im Übergabevertrag das Verwandtschaftsverhältnis zwischen Veräußerer und Erwerber anzugeben?",
   "optionen": [
-   "Es ist Wirksamkeitsvoraussetzung der Auflassung",
-   "Es dient den Finanzbehörden zur Ermittlung der Schenkungsteuer",
    "Es bestimmt, ob die Übergabe der Grunderwerbsteuer unterliegt",
+   "Es dient den Finanzbehörden zur Ermittlung der Schenkungsteuer",
+   "Es ist Wirksamkeitsvoraussetzung der Auflassung",
    "Es ist für die Bestimmung des Geschäftswerts erforderlich"
   ],
   "antwort": 1,
@@ -278,11 +278,11 @@
   "frage": "Ein Sohn mit General- und Vorsorgevollmacht beauftragt allein die Übergabe des Hauses seiner Mutter an sich. Wie sollte der Notar vorgehen?",
   "optionen": [
    "Den Entwurf allein nach den Wünschen des Sohnes fertigen, da er bevollmächtigt ist",
-   "Möglichst schon vor dem Entwurf mit der Mutter sprechen und die Vollmacht auf § 181 BGB, Untervollmacht und Schenkungsbefugnis prüfen",
    "Die Beurkundung ablehnen, da Übertragungen an Bevollmächtigte unzulässig sind",
+   "Möglichst schon vor dem Entwurf mit der Mutter sprechen und die Vollmacht auf § 181 BGB, Untervollmacht und Schenkungsbefugnis prüfen",
    "Zwingend eine betreuungsgerichtliche Genehmigung einholen"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Maßgeblich ist der Wille der Veräußerin, auch wenn sie vertreten wird; der Notar muss ihn erforschen (§ 17 Abs. 1 BeurkG) und sollte daher früh mit ihr sprechen. Zudem ist zu prüfen, ob die Vollmacht von § 181 BGB befreit, Untervollmacht erlaubt und Schenkungen deckt. Unzulässig ist die Übertragung an den Bevollmächtigten nicht."
  },
  {
@@ -347,12 +347,12 @@
   ],
   "frage": "Eltern wollen ihrem 12-jährigen Kind schenkweise eine Eigentumswohnung übertragen. Was ist erforderlich?",
   "optionen": [
+   "Nur eine familiengerichtliche Genehmigung, vertreten durch die Eltern",
    "Nichts, da die Schenkung lediglich rechtlich vorteilhaft ist",
    "Nur ein Ergänzungspfleger",
-   "Ergänzungspfleger und familiengerichtliche Genehmigung",
-   "Nur eine familiengerichtliche Genehmigung, vertreten durch die Eltern"
+   "Ergänzungspfleger und familiengerichtliche Genehmigung"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Der Erwerb von Wohnungseigentum ist stets rechtlich nachteilig, sodass die Eltern nach §§ 1629 Abs. 2, 1824 BGB ausgeschlossen sind und ein Ergänzungspfleger (§ 1809 BGB) zu bestellen ist. Zusätzlich bedarf der unentgeltliche Erwerb von Wohnungseigentum der familiengerichtlichen Genehmigung (§ 1850 Nr. 4 BGB). Die bloße Unentgeltlichkeit macht das Geschäft nicht rechtlich vorteilhaft."
  },
  {
@@ -368,12 +368,12 @@
   ],
   "frage": "Wer bestellt den Ergänzungspfleger, wenn die Eltern das Kind bei der Übergabe nicht vertreten können?",
   "optionen": [
-   "Das Grundbuchamt am Ort des Grundstücks",
-   "Das Familiengericht am gewöhnlichen Aufenthalt des Kindes",
+   "Der beurkundende Notar",
    "Das Betreuungsgericht am Wohnsitz der Eltern",
-   "Der beurkundende Notar"
+   "Das Familiengericht am gewöhnlichen Aufenthalt des Kindes",
+   "Das Grundbuchamt am Ort des Grundstücks"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Der Ergänzungspfleger nach § 1809 BGB wird vom Familiengericht bestellt, in dessen Bezirk das Kind seinen gewöhnlichen Aufenthalt hat. Das Betreuungsgericht ist für Volljährige zuständig, das Grundbuchamt hat keine Bestellungskompetenz."
  },
  {
@@ -396,33 +396,33 @@
     "frage": "Können M und F die T beim Vertragsschluss grundsätzlich vertreten, obwohl sie selbst Vertragspartner sind?",
     "optionen": [
      "Nein, wegen §§ 1629 Abs. 2, 1824 BGB ist stets ein Ergänzungspfleger nötig",
-     "Ja, wenn das Geschäft für T lediglich rechtlich vorteilhaft ist (§ 107 BGB)",
+     "Nur mit Zustimmung des Jugendamts",
      "Ja, weil Eltern ihr Kind stets uneingeschränkt vertreten",
-     "Nur mit Zustimmung des Jugendamts"
+     "Ja, wenn das Geschäft für T lediglich rechtlich vorteilhaft ist (§ 107 BGB)"
     ],
-    "antwort": 1,
+    "antwort": 3,
     "erklaerung": "An sich greift der Vertretungsausschluss (§§ 1629 Abs. 2, 1824 iVm § 181 BGB). Er wird aber teleologisch reduziert, wenn das Geschäft für das beschränkt geschäftsfähige Kind lediglich rechtlich vorteilhaft ist (§ 107 BGB)."
    },
    {
     "frage": "Unter welcher Voraussetzung schadet das vorbehaltene Wohnungsrecht dem rechtlichen Vorteil nicht?",
     "optionen": [
+     "Wenn T das Haus mitbewohnt",
      "Wenn T keinen Aufwendungs- oder Kostenersatz schuldet",
      "Wenn das Wohnungsrecht als Reallast ausgestaltet wird",
-     "Wenn das Wohnungsrecht befristet ist",
-     "Wenn T das Haus mitbewohnt"
+     "Wenn das Wohnungsrecht befristet ist"
     ],
-    "antwort": 0,
+    "antwort": 1,
     "erklaerung": "Ein Wohnungsrecht des Veräußerers ist unschädlich, wenn das Kind keinen Aufwendungs- oder Kostenersatz schuldet. Eine Reallast wäre dagegen wegen der persönlichen Haftung des Eigentümers rechtlich nachteilig."
    },
    {
     "frage": "Welche Klausel sollte der Notar daher aufnehmen?",
     "optionen": [
+     "Eine Verpflichtung zur Pflege der Eltern",
      "Eine Pflicht der T zur Übernahme der Instandhaltungskosten",
-     "Eine ausdrückliche Freistellung der T von Aufwendungs- und Kostenersatz",
      "Eine Rückforderung mit Wertersatzpflicht der T",
-     "Eine Verpflichtung zur Pflege der Eltern"
+     "Eine ausdrückliche Freistellung der T von Aufwendungs- und Kostenersatz"
     ],
-    "antwort": 1,
+    "antwort": 3,
     "erklaerung": "Die Praxis empfiehlt, das Kind bei Wohnungsrecht oder Nießbrauch ausdrücklich von Aufwendungs- und Kostenersatz freizustellen. Kostentragungs-, Wertersatz- oder Pflegepflichten würden den lediglich rechtlichen Vorteil beseitigen."
    }
   ],
@@ -441,12 +441,12 @@
   ],
   "frage": "Nach welchem Maßstab ist der Grundbesitz im Übergabevertrag zu bezeichnen?",
   "optionen": [
-   "Es genügt die postalische Anschrift des Hauses",
    "So genau, dass nach dem Bestimmtheitsgrundsatz und § 28 S. 1 GBO kein Zweifel bleibt; Besonderheiten gegenüber dem Kauf bestehen nicht",
-   "Weniger streng als beim Kauf, da kein Kaufpreis geschuldet ist",
-   "Nur nach Flurstücksnummer, ohne Grundbuchstelle"
+   "Es genügt die postalische Anschrift des Hauses",
+   "Nur nach Flurstücksnummer, ohne Grundbuchstelle",
+   "Weniger streng als beim Kauf, da kein Kaufpreis geschuldet ist"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Der Vertragsgegenstand ist mit Blick auf den sachenrechtlichen Bestimmtheitsgrundsatz und § 28 S. 1 GBO zweifelsfrei zu bezeichnen. Gegenüber einem Kaufvertrag gibt es keine Besonderheiten; die Unentgeltlichkeit lockert die Anforderungen nicht."
  },
  {
@@ -478,12 +478,12 @@
   ],
   "frage": "Welcher Umstand ist kein Anzeichen dafür, dass ein eingetragenes Recht erledigt und löschbar sein könnte?",
   "optionen": [
+   "Das Recht ist im Rang nach einer Grundschuld eingetragen",
    "Eintragung des Grundpfandrechts in DM",
    "Lange zurückliegendes Geburtsjahr des Wohnungsberechtigten",
-   "Gläubiger existiert nicht mehr in dieser Form",
-   "Das Recht ist im Rang nach einer Grundschuld eingetragen"
+   "Gläubiger existiert nicht mehr in dieser Form"
   ],
-  "antwort": 3,
+  "antwort": 0,
   "erklaerung": "Anzeichen für erledigte Rechte sind ein lange zurückliegendes Geburtsjahr des Berechtigten, ein altes Bewilligungsdatum, eine Eintragung in DM und ein nicht mehr existierender Gläubiger. Die Rangstelle sagt über die Erledigung nichts aus."
  },
  {
@@ -500,10 +500,10 @@
   ],
   "frage": "Warum sollte der Notar die Übergabe nutzen, um erledigte Rechte löschen zu lassen?",
   "optionen": [
-   "Weil das Grundbuchamt die Umschreibung sonst verweigert",
-   "Weil später häufig die nötigen Unterlagen wie Sterbeurkunden, Löschungsbewilligungen oder Grundschuldbriefe fehlen",
    "Weil erledigte Rechte die Schenkungsteuer erhöhen",
-   "Weil eine Löschung nach der Übergabe nur noch mit Zustimmung des Veräußerers möglich ist"
+   "Weil später häufig die nötigen Unterlagen wie Sterbeurkunden, Löschungsbewilligungen oder Grundschuldbriefe fehlen",
+   "Weil eine Löschung nach der Übergabe nur noch mit Zustimmung des Veräußerers möglich ist",
+   "Weil das Grundbuchamt die Umschreibung sonst verweigert"
   ],
   "antwort": 1,
   "erklaerung": "Bleiben löschbare Rechte stehen, fehlen später oft die für die Löschung nötigen Unterlagen; das Problem zeigt sich meist erst, wenn die Löschung dringend wird, etwa bei Verkauf oder Beleihung. Die Löschung ist daher anzuregen, solange Unterlagen beschaffbar sind. Eine Verweigerung der Umschreibung wegen stehen gebliebener Rechte gibt es nicht."
@@ -522,10 +522,10 @@
   ],
   "frage": "Innerhalb welcher Frist kann ein Gläubiger des Veräußerers eine schenkweise Übergabe ohne Benachteiligungsvorsatz nach dem Anfechtungsgesetz anfechten?",
   "optionen": [
-   "Zwei Jahre vor der Anfechtung",
+   "Zehn Jahre vor dem Erbfall",
    "Vier Jahre vor der Anfechtung",
-   "Zehn Jahre vor der Anfechtung",
-   "Zehn Jahre vor dem Erbfall"
+   "Zwei Jahre vor der Anfechtung",
+   "Zehn Jahre vor der Anfechtung"
   ],
   "antwort": 1,
   "erklaerung": "Eine unentgeltliche Leistung ist nur anfechtbar, wenn sie nicht früher als vier Jahre vor der Anfechtung vorgenommen wurde (§ 4 Abs. 1 AnfG). Die Zehnjahresfrist gilt nur bei Vorsatzanfechtung, wenn der Veräußerer mit Benachteiligungsvorsatz handelte und der Erwerber dies kannte (§ 3 Abs. 1 S. 1 AnfG)."
@@ -559,12 +559,12 @@
   ],
   "frage": "Wodurch lässt sich bei einem durch Erbvertrag gebundenen Veräußerer die Beeinträchtigungsabsicht im Sinne des § 2287 BGB regelmäßig ausschließen?",
   "optionen": [
-   "Durch einen ausdrücklichen Hinweis auf § 2287 BGB in der Urkunde",
    "Durch ein lebzeitiges Eigeninteresse des Veräußerers, etwa angemessene Gegenleistungen wie Rente oder Pflege",
    "Durch Zustimmung des Erwerbers zur späteren Herausgabe",
-   "Durch Beurkundung nach Ablauf von vier Jahren seit Errichtung des Erbvertrags"
+   "Durch Beurkundung nach Ablauf von vier Jahren seit Errichtung des Erbvertrags",
+   "Durch einen ausdrücklichen Hinweis auf § 2287 BGB in der Urkunde"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Die Beeinträchtigungsabsicht fehlt meist, wenn die Übergabe einem lebzeitigen Eigeninteresse des Veräußerers diente, regelmäßig bei angemessenen Gegenleistungen wie Rente oder Pflege. Solche Gegenleistungen sind daher im Vertrag festzuhalten. Ein bloßer Hinweis auf § 2287 BGB schützt den Erwerber nicht, sondern erfüllt nur die Belehrung."
  },
  {
@@ -648,11 +648,11 @@
   "frage": "Welche Stellen erhalten nach der Praxis mindestens eine Abschrift des Übergabevertrags?",
   "optionen": [
    "Beteiligte, Grundbuchamt, Gutachterausschuss und Gemeinde",
-   "Beteiligte, Finanzamt (Grundstückswertstelle), Finanzamt (Schenkungsteuerstelle) und Grundbuchamt",
    "Beteiligte, Grundbuchamt und Verwalter",
+   "Beteiligte, Finanzamt (Grundstückswertstelle), Finanzamt (Schenkungsteuerstelle) und Grundbuchamt",
    "Grundbuchamt und Finanzamt (Grunderwerbsteuerstelle) des Wohnsitzes des Erwerbers"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Mindestens erhalten die Beteiligten, das Finanzamt (Grundstückswertstelle), das Finanzamt (Schenkungsteuerstelle) und das Grundbuchamt eine Abschrift; die Anzeigen an die Finanzämter sind Pflicht des Notars (§ 18 GrEStG, § 34 ErbStG). Verwalter, Landwirtschaftsbehörde oder Gläubiger kommen nur je nach Fall hinzu."
  },
  {
@@ -702,12 +702,12 @@
   ],
   "frage": "Welche Voraussetzung gehört nicht zum Begriff der Ausstattung nach § 1624 BGB?",
   "optionen": [
-   "Zuwendung von Eltern oder einem Elternteil an ein Kind",
+   "Vereinbarung einer Gegenleistung des Kindes",
    "Anlass Heirat oder Begründung bzw. Erhaltung einer selbständigen Lebensstellung",
    "Angemessenheit im Verhältnis zu den Vermögensverhältnissen der Eltern",
-   "Vereinbarung einer Gegenleistung des Kindes"
+   "Zuwendung von Eltern oder einem Elternteil an ein Kind"
   ],
-  "antwort": 3,
+  "antwort": 0,
   "erklaerung": "Eine Ausstattung setzt eine Zuwendung der Eltern an ein Kind aus Anlass der Heirat, Lebenspartnerschaft oder Begründung bzw. Erhaltung einer selbständigen Lebensstellung voraus, die den Vermögensverhältnissen der Eltern angemessen ist (§ 1624 BGB). Eine Gegenleistung des Kindes ist nicht erforderlich."
  },
  {
@@ -725,12 +725,12 @@
   ],
   "frage": "Welche Folge hat die Einordnung einer angemessenen Zuwendung als Ausstattung statt als Schenkung?",
   "optionen": [
-   "Sie unterliegt nicht der Rückforderung nach § 528 BGB und löst keine Pflichtteilsergänzung nach § 2325 BGB aus",
-   "Sie ist formfrei auch bei Grundstücken",
+   "Sie kann vom Veräußerer jederzeit frei widerrufen werden",
    "Sie ist stets auf den Pflichtteil anzurechnen",
-   "Sie kann vom Veräußerer jederzeit frei widerrufen werden"
+   "Sie ist formfrei auch bei Grundstücken",
+   "Sie unterliegt nicht der Rückforderung nach § 528 BGB und löst keine Pflichtteilsergänzung nach § 2325 BGB aus"
   ],
-  "antwort": 0,
+  "antwort": 3,
   "erklaerung": "Soweit die Ausstattung angemessen ist, ist sie keine Schenkung (§ 1624 BGB). Daher gelten die Rückforderungsrechte der §§ 528, 530 BGB nicht, was vor Sozialhilferegress schützt, und § 2325 BGB greift nicht, da er nur Schenkungen erfasst. Formfrei ist eine Grundstücksübertragung wegen § 311b Abs. 1 BGB dennoch nicht."
  },
  {
@@ -761,12 +761,12 @@
   ],
   "frage": "Ein Ehegatte hat dem anderen ehebedingt ein Grundstück zugewendet; die Ehe wird geschieden. Welche Rückforderungsmöglichkeit besteht ohne vertragliche Regelung?",
   "optionen": [
-   "Ein gesetzliches Rückforderungsrecht nach § 530 BGB wegen groben Undanks",
-   "Grundsätzlich keine; nur in seltenen Ausnahmefällen nach den Regeln über die gestörte Geschäftsgrundlage (§ 313 BGB)",
+   "Ein Rückforderungsrecht nach § 528 BGB unabhängig von Bedürftigkeit",
    "Ein freies Widerrufsrecht innerhalb von zehn Jahren",
-   "Ein Rückforderungsrecht nach § 528 BGB unabhängig von Bedürftigkeit"
+   "Grundsätzlich keine; nur in seltenen Ausnahmefällen nach den Regeln über die gestörte Geschäftsgrundlage (§ 313 BGB)",
+   "Ein gesetzliches Rückforderungsrecht nach § 530 BGB wegen groben Undanks"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Zwischen Ehegatten besteht für den Scheidungsfall grundsätzlich kein gesetzliches Rückforderungsrecht; denkbar ist eine Rückforderung nur ausnahmsweise nach § 313 BGB. Die Schenkungsvorschriften der §§ 528, 530 BGB greifen nicht, weil die ehebedingte Zuwendung zwischen den Ehegatten keine Schenkung ist. Deshalb empfiehlt sich ein vertragliches Rückforderungsrecht für den Scheidungsfall."
  },
  {
@@ -782,12 +782,12 @@
   ],
   "frage": "Mit welchem Anteil wird eine Schenkung bei der Pflichtteilsergänzung berücksichtigt, die vier volle Jahre vor dem Erbfall geleistet wurde (Schenkung im fünften Jahr vor dem Erbfall)?",
   "optionen": [
-   "Voll",
-   "Zu sechs Zehnteln",
+   "Gar nicht mehr",
    "Zu vier Zehnteln",
-   "Gar nicht mehr"
+   "Voll",
+   "Zu sechs Zehnteln"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Nach § 2325 Abs. 3 BGB wird eine Schenkung im letzten Jahr vor dem Erbfall voll berücksichtigt und für jedes weitere Jahr um ein Zehntel weniger. Im fünften Jahr sind vier Zehntel abgeschmolzen, sodass sechs Zehntel verbleiben. Erst nach zehn Jahren bleibt die Schenkung unberücksichtigt."
  },
  {
@@ -855,34 +855,34 @@
    {
     "frage": "Wie wirkt sich der vorbehaltene Nießbrauch auf die Zehnjahresfrist des § 2325 Abs. 3 BGB aus?",
     "optionen": [
-     "Die Frist beginnt mit Eigentumsumschreibung",
      "Die Frist beginnt nicht zu laufen",
      "Die Frist beginnt mit Beurkundung, wird aber gehemmt",
-     "Die Frist verlängert sich auf zwanzig Jahre"
+     "Die Frist verlängert sich auf zwanzig Jahre",
+     "Die Frist beginnt mit Eigentumsumschreibung"
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "Bei einer Übergabe unter Nießbrauchsvorbehalt beginnt die Zehnjahresfrist des § 2325 Abs. 3 BGB nicht zu laufen. Die Umschreibung allein setzt sie daher nicht in Gang."
    },
    {
     "frage": "Wie ist das freie Rückforderungsrecht im Hinblick auf das Ziel des W zu beurteilen?",
     "optionen": [
+     "Es setzt die Frist sofort in Gang",
      "Es ist unschädlich, da Rückforderungsrechte den Fristbeginn nie hindern",
-     "Es ist risikobehaftet, da ungeklärt ist, ob es den Fristbeginn hindert; die Praxis rät davon ab",
      "Es ist unzulässig und führt zur Nichtigkeit des Vertrags",
-     "Es setzt die Frist sofort in Gang"
+     "Es ist risikobehaftet, da ungeklärt ist, ob es den Fristbeginn hindert; die Praxis rät davon ab"
     ],
-    "antwort": 1,
+    "antwort": 3,
     "erklaerung": "Ob ein freies Rückforderungsrecht den Beginn der Frist hindert, ist nicht abschließend geklärt. Ist die Übergabe auf eine Verringerung von Pflichtteilsansprüchen angelegt, soll nach der Praxis von einem freien Rückforderungsrecht abgesehen werden."
    },
    {
     "frage": "Welcher Weg würde Pflichtteilsergänzungsansprüche des B am sichersten ausschließen?",
     "optionen": [
-     "Ein Verzicht des B auf Pflichtteilsergänzungsansprüche",
+     "Die Anordnung der Anrechnung auf den Pflichtteil des A",
      "Die Bezeichnung des Vertrags als Übertragung in vorweggenommener Erbfolge",
      "Ein Hinweis auf das Pflichtteilsrecht in der Urkunde",
-     "Die Anordnung der Anrechnung auf den Pflichtteil des A"
+     "Ein Verzicht des B auf Pflichtteilsergänzungsansprüche"
     ],
-    "antwort": 0,
+    "antwort": 3,
     "erklaerung": "Nicht begünstigte Pflichtteilsberechtigte können auf Pflichtteilsergänzungsansprüche verzichten. Die Anrechnungsbestimmung betrifft nur den Pflichtteil des Erwerbers A, nicht den des B. Da B nicht mitwirkt, bleibt es bei der Abschmelzung, die wegen des Nießbrauchs erst später beginnt."
    }
   ],
@@ -902,12 +902,12 @@
   ],
   "frage": "Aus welchen Gründen bedarf der schenkweise Übergabevertrag über ein Grundstück der notariellen Beurkundung?",
   "optionen": [
+   "Nur wegen § 518 BGB, da die Schenkung den Vertrag prägt",
    "Nur wegen § 925 BGB",
    "Wegen § 311b Abs. 1 BGB und zusätzlich wegen § 518 BGB für das Schenkungsversprechen",
-   "Nur wegen § 29 GBO",
-   "Nur wegen § 518 BGB, da die Schenkung den Vertrag prägt"
+   "Nur wegen § 29 GBO"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Der Übergabevertrag verpflichtet zur Übertragung von Grundstückseigentum und ist daher nach § 311b Abs. 1 BGB beurkundungspflichtig. Zusätzlich ist das Schenkungsversprechen nach § 518 BGB nur in notarieller Form wirksam. § 29 GBO betrifft lediglich den Nachweis gegenüber dem Grundbuchamt."
  },
  {
@@ -939,12 +939,12 @@
   ],
   "frage": "Welche Anforderung gilt für die Form der Auflassung im Übergabevertrag?",
   "optionen": [
-   "Veräußerer und Erwerber müssen persönlich und gleichzeitig anwesend sein",
-   "Gleichzeitige Anwesenheit vor dem Notar; Vertretung ist möglich",
+   "Eine öffentliche Beglaubigung der Unterschriften genügt",
    "Getrennte Beurkundung von Angebot und Annahme genügt",
-   "Eine öffentliche Beglaubigung der Unterschriften genügt"
+   "Gleichzeitige Anwesenheit vor dem Notar; Vertretung ist möglich",
+   "Veräußerer und Erwerber müssen persönlich und gleichzeitig anwesend sein"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Die Auflassung erfordert die gleichzeitige Anwesenheit von Veräußerer und Erwerber vor dem Notar (§ 925 BGB); persönliche Anwesenheit ist nicht erforderlich, Vertretung ist möglich. Eine Unterschriftsbeglaubigung reicht nicht, weil das Grundbuchamt die Einigung nach § 20 GBO nur anhand einer Niederschrift nach §§ 6 ff. BeurkG prüfen kann."
  },
  {
@@ -960,12 +960,12 @@
   ],
   "frage": "Eltern übertragen ihr Haus an die Tochter, die sich im Gegenzug zur Pflege der Eltern verpflichtet. Wie ist das Grundgeschäft einzuordnen?",
   "optionen": [
+   "Als Kaufvertrag",
    "Als reine Schenkung, da Pflegeleistungen keine Gegenleistung sind",
    "Als gemischte Schenkung, teils entgeltlich, teils unentgeltlich",
-   "Als Kaufvertrag",
    "Als Ausstattung"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Vereinbaren die Beteiligten eine Gegenleistung des Erwerbers wie Pflegeleistungen, ist die Zuwendung nicht vollständig unentgeltlich im Sinne des § 516 Abs. 1 BGB. Es liegt eine gemischte Schenkung vor. Ein Kaufvertrag kommt erst in Betracht, wenn der entgeltliche Teil überwiegt."
  },
  {
@@ -1017,10 +1017,10 @@
   ],
   "frage": "Ein Vater schenkt seinem Sohn 2020 Geld und 2026 ein Grundstück. Wie werden die Erwerbe schenkungsteuerlich behandelt?",
   "optionen": [
-   "Jeder Erwerb ist gesondert mit vollem Freibetrag zu versteuern",
+   "Die Zusammenrechnung erfasst nur Erwerbe innerhalb von fünf Jahren",
    "Beide Erwerbe werden zusammengerechnet, weil sie innerhalb von zehn Jahren von derselben Person stammen",
-   "Nur der Grundstückserwerb ist steuerbar",
-   "Die Zusammenrechnung erfasst nur Erwerbe innerhalb von fünf Jahren"
+   "Jeder Erwerb ist gesondert mit vollem Freibetrag zu versteuern",
+   "Nur der Grundstückserwerb ist steuerbar"
   ],
   "antwort": 1,
   "erklaerung": "Mehrere Erwerbe von derselben Person innerhalb von zehn Jahren werden zusammengerechnet (§ 14 ErbStG); der Freibetrag steht in diesem Zeitraum nur einmal zur Verfügung. Erst nach Ablauf von zehn Jahren lebt er in voller Höhe wieder auf, weshalb bei großem Vermögen eine frühe Übergabe vorteilhaft ist."
@@ -1053,12 +1053,12 @@
   ],
   "frage": "Wie weit reicht die Pflicht des Notars hinsichtlich der Schenkungsteuer beim Übergabevertrag?",
   "optionen": [
-   "Er muss die Schenkungsteuer berechnen und in der Urkunde ausweisen",
    "Er belehrt über die rechtliche Tragweite, wozu der Hinweis gehört, dass Schenkungsteuer anfallen kann; die Einzelprüfung übernehmen steuerberatende Berufe",
    "Er hat keinerlei steuerliche Hinweise zu geben",
+   "Er muss die Schenkungsteuer berechnen und in der Urkunde ausweisen",
    "Er muss eine verbindliche Auskunft des Finanzamts einholen"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Nach § 17 Abs. 1 BeurkG belehrt der Notar über die rechtliche Tragweite; dazu gehört der Hinweis auf eine mögliche Schenkungsteuer. Notariate beraten nicht steuerlich; die Einzelprüfung obliegt den steuerberatenden Berufen. Den Beteiligten ist ausreichend Zeit zur steuerlichen Prüfung zwischen Entwurf und Beurkundung zu lassen."
  },
  {
@@ -1074,12 +1074,12 @@
   ],
   "frage": "In welche Steuerklasse fällt bei einer Schenkung das Schwiegerkind?",
   "optionen": [
-   "Steuerklasse I",
-   "Steuerklasse II",
    "Steuerklasse III",
-   "Es gilt die Steuerklasse des eigenen Ehegatten"
+   "Es gilt die Steuerklasse des eigenen Ehegatten",
+   "Steuerklasse II",
+   "Steuerklasse I"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Nach § 15 Abs. 1 ErbStG fallen Eltern, Großeltern, Geschwister und Schwiegerkinder bei Schenkungen in Steuerklasse II. Steuerklasse I umfasst nur Ehegatten, Lebenspartner, Kinder, Stiefkinder und deren Abkömmlinge; beim Freibetrag erhält das Schwiegerkind nur 20.000 €."
  },
  {
@@ -1095,12 +1095,12 @@
   ],
   "frage": "Welcher Nachteil folgt aus der Pfändbarkeit eines freien Rückforderungsrechts?",
   "optionen": [
+   "Das Recht erlischt mit der ersten Pfändung",
    "Gläubiger des Veräußerers können es im Wege der Doppelpfändung pfänden und ausüben",
    "Gläubiger des Erwerbers können die Rückübertragung verlangen",
-   "Das Recht erlischt mit der ersten Pfändung",
    "Die Pfändung führt zur Nichtigkeit des Übergabevertrags"
   ],
-  "antwort": 0,
+  "antwort": 1,
   "erklaerung": "Das freie Rückforderungsrecht ist pfändbar und kann deshalb von Gläubigern des Veräußerers ausgeübt werden. Gepfändet werden im Wege der Doppelpfändung das Gestaltungsrecht (Rücktrittsrecht) und der Anspruch auf Rückübertragung nach erklärtem Rücktritt. Zudem kann der Sozialhilfeträger es auf sich überleiten."
  },
  {
@@ -1131,12 +1131,12 @@
   ],
   "frage": "Weshalb ist ein freies Rückforderungsrecht für den Erwerber besonders nachteilig?",
   "optionen": [
-   "Weil er die Grunderwerbsteuer doppelt zahlen muss",
    "Weil er die Immobilie jederzeit verlieren kann, Investitionen unattraktiv werden und die Rückerwerbsvormerkung die Beleihung erschwert",
+   "Weil er die Grunderwerbsteuer doppelt zahlen muss",
    "Weil er für alle Mängel wie ein Verkäufer haftet",
    "Weil die Auflassung erst nach dem Tod des Veräußerers erklärt werden kann"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Beim freien Rückforderungsrecht kann der Erwerber die Immobilie jederzeit ohne Grund verlieren; Renovierung, Umbau und langfristige Vermietung werden unattraktiv. Die Immobilie taugt nur eingeschränkt als Kreditsicherheit, weil die Rückerwerbsvormerkung (§ 883 BGB) für die meisten Banken ein Hindernis ist."
  },
  {
@@ -1152,12 +1152,12 @@
   ],
   "frage": "Wann ist bei einer Grundstücksschenkung das Geschenk im Sinne des § 529 BGB geleistet?",
   "optionen": [
+   "Mit Eintragung einer Auflassungsvormerkung",
    "Mit Besitzübergang",
-   "Mit Beurkundung des Übergabevertrags und Stellung des Antrags auf Eigentumsumschreibung beim Grundbuchamt",
    "Erst mit Erlöschen eines vorbehaltenen Nießbrauchs",
-   "Mit Eintragung einer Auflassungsvormerkung"
+   "Mit Beurkundung des Übergabevertrags und Stellung des Antrags auf Eigentumsumschreibung beim Grundbuchamt"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Für § 529 BGB ist das Geschenk geleistet, wenn der Übergabevertrag beurkundet und der Antrag auf Eintragung des Eigentumswechsels gestellt ist. Vorbehaltene Nutzungsrechte wie Nießbrauch oder Wohnungsrecht hindern den Lauf dieser Frist nicht, anders als bei § 2325 Abs. 3 BGB."
  },
  {
@@ -1190,11 +1190,11 @@
   "frage": "Die Mutter gerät nach der Übergabe in ein Pflegeheim und bezieht Sozialhilfe, ohne das Haus zurückzufordern. Was kann der Sozialhilfeträger tun?",
   "optionen": [
    "Nichts, da die Mutter ihr Rückforderungsrecht nicht ausüben muss",
+   "Die Sozialhilfe wegen der Schenkung dauerhaft versagen",
    "Den Rückforderungsanspruch im Umfang seiner Leistungen auf sich überleiten und so Anspruchsinhaber werden",
-   "Die Übergabe nach dem Anfechtungsgesetz anfechten",
-   "Die Sozialhilfe wegen der Schenkung dauerhaft versagen"
+   "Die Übergabe nach dem Anfechtungsgesetz anfechten"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Der Schenker muss sein Recht nach § 528 BGB nicht ausüben; das widerspräche aber dem Nachrangprinzip. Deshalb kann der Sozialhilfeträger den Anspruch im Umfang seiner Leistungen auf sich überleiten (§ 93 SGB XII bzw. § 33 SGB II) und wird damit dessen Inhaber."
  },
  {
@@ -1236,23 +1236,23 @@
    {
     "frage": "Kann wegen der Übergabe von 2012 noch das Eigentum nach § 528 BGB zurückgefordert werden?",
     "optionen": [
-     "Ja, weil der Nießbrauch den Fristbeginn bis 2020 hinausgeschoben hat",
-     "Nein, weil bei Eintritt der Bedürftigkeit seit der Leistung 2012 mehr als zehn Jahre verstrichen sind (§ 529 BGB)",
+     "Nein, weil Rückforderungsrechte durch den Nießbrauch ausgeschlossen sind",
      "Ja, weil § 529 BGB bei Grundstücken nicht gilt",
-     "Nein, weil Rückforderungsrechte durch den Nießbrauch ausgeschlossen sind"
+     "Nein, weil bei Eintritt der Bedürftigkeit seit der Leistung 2012 mehr als zehn Jahre verstrichen sind (§ 529 BGB)",
+     "Ja, weil der Nießbrauch den Fristbeginn bis 2020 hinausgeschoben hat"
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Die Frist des § 529 BGB begann mit Beurkundung und Umschreibungsantrag 2012; der vorbehaltene Nießbrauch hindert ihren Lauf nicht. 2026 sind mehr als zehn Jahre verstrichen."
    },
    {
     "frage": "Wie ist der Verzicht auf den Nießbrauch 2020 einzuordnen?",
     "optionen": [
      "Als bloße Ausübung des Eigentums der T",
-     "Als eigene Schenkung mit eigener Zehnjahresfrist",
+     "Als entgeltliches Geschäft",
      "Als Teil der Schenkung von 2012 ohne eigene Bedeutung",
-     "Als entgeltliches Geschäft"
+     "Als eigene Schenkung mit eigener Zehnjahresfrist"
     ],
-    "antwort": 1,
+    "antwort": 3,
     "erklaerung": "Gibt der Veräußerer ein vorbehaltenes Nutzungsrecht später ohne Gegenleistung auf, ist das seinerseits eine Schenkung, für die eine eigene Zehnjahresfrist läuft."
    },
    {
@@ -1282,12 +1282,12 @@
   ],
   "frage": "Welche Folge hat es, wenn der Übergabevertrag für den Fall der Rückforderung keine eigene Regelung enthält?",
   "optionen": [
-   "Die Rückabwicklung richtet sich nach §§ 346 ff. BGB mit umfassendem Nutzungsersatz, etwa Herausgabe von Mieten und Wert der Eigennutzung",
-   "Die Immobilie ist ohne weitere Ansprüche im vorhandenen Zustand zurückzugeben",
    "Der Erwerber erhält vollen Ersatz aller Aufwendungen",
+   "Die Immobilie ist ohne weitere Ansprüche im vorhandenen Zustand zurückzugeben",
+   "Die Rückabwicklung richtet sich nach §§ 346 ff. BGB mit umfassendem Nutzungsersatz, etwa Herausgabe von Mieten und Wert der Eigennutzung",
    "Die Rückforderung ist mangels Regelung ausgeschlossen"
   ],
-  "antwort": 0,
+  "antwort": 2,
   "erklaerung": "Ohne abweichende Regelung gelten die Rücktrittsvorschriften (§§ 346 ff. BGB), die einen umfassenden Nutzungsersatz vorsehen. Das wollen die Beteiligten meist nicht; deshalb soll vertraglich etwa vereinbart werden, dass außer der Rückübereignung keine gegenseitigen Ansprüche bestehen."
  },
  {
@@ -1321,11 +1321,11 @@
   "frage": "Der vorgemerkte Rückforderungsanspruch ist vererblich ausgestaltet. Welche Gestaltung ermöglicht dennoch die Löschung der Vormerkung nach dem Tod des Veräußerers ohne Erbnachweis?",
   "optionen": [
    "Eine Vorlöschungsklausel nach § 23 Abs. 2 GBO",
-   "Eine auflösende Befristung der Vormerkung, etwa bis ein Jahr nach dem Tod des Veräußerers, mit Löschung nach § 22 GBO gegen Sterbeurkunde",
    "Eine Löschungsbewilligung der Erben ohne Nachweis ihrer Erbenstellung",
+   "Eine auflösende Befristung der Vormerkung, etwa bis ein Jahr nach dem Tod des Veräußerers, mit Löschung nach § 22 GBO gegen Sterbeurkunde",
    "Eine Eintragung der Vormerkung im Rang vor dem Nießbrauch"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Bei vererblichem Anspruch müssten grundsätzlich die Erben die Löschung bewilligen (§ 19 GBO) und sich nach § 35 Abs. 1 GBO ausweisen. Ohne Erbnachweis kommt die Löschung etwa bei auflösender Befristung der Vormerkung nach § 22 GBO gegen Sterbeurkunde in Betracht, ebenso bei Löschungsbewilligung gegen Sterbeurkunde schon in der Urkunde oder bei Vollmacht an den Erwerber. Eine Vorlöschungsklausel nach § 23 Abs. 2 GBO kann bei einer Vormerkung nicht eingetragen werden."
  },
  {
@@ -1394,8 +1394,8 @@
   "optionen": [
    "Nach Ablauf von drei Jahren seit der Schenkung",
    "Wenn der Schenker verziehen hat oder seit Kenntnis von den Widerrufsvoraussetzungen ein Jahr verstrichen ist",
-   "Nach Ablauf von zehn Jahren seit Leistung des Geschenks",
-   "Sobald der Beschenkte das Grundstück belastet hat"
+   "Sobald der Beschenkte das Grundstück belastet hat",
+   "Nach Ablauf von zehn Jahren seit Leistung des Geschenks"
   ],
   "antwort": 1,
   "erklaerung": "Nach § 532 S. 1 BGB ist der Widerruf bei Verzeihung oder nach Ablauf eines Jahres seit Kenntnis der Widerrufsvoraussetzungen ausgeschlossen; die Jahresfrist läuft für jede Verfehlung gesondert. Die Zehnjahresfrist betrifft dagegen die Rückforderung wegen Verarmung (§ 529 BGB)."
@@ -1429,12 +1429,12 @@
   ],
   "frage": "Welche Aussage zum Widerrufsrecht nach § 530 BGB trifft zu?",
   "optionen": [
-   "Es ist pfändbar und kann vom Sozialhilfeträger übergeleitet werden",
    "Es ist höchstpersönlich, nicht pfändbar, nicht abtretbar und nicht vererblich",
-   "Es kann nach dem Tod des Beschenkten gegenüber dessen Erben ausgeübt werden",
-   "Es setzt einen gesetzlich festgelegten Katalog von Verfehlungen voraus"
+   "Es setzt einen gesetzlich festgelegten Katalog von Verfehlungen voraus",
+   "Es ist pfändbar und kann vom Sozialhilfeträger übergeleitet werden",
+   "Es kann nach dem Tod des Beschenkten gegenüber dessen Erben ausgeübt werden"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Das Widerrufsrecht nach § 530 BGB ist höchstpersönlich: Gläubiger können es nicht pfänden, es kann weder abgetreten noch vererbt werden. Stirbt der Beschenkte, endet es; gegenüber seinen Erben kann nicht widerrufen werden. Fallgruppen nennt das Gesetz bewusst nicht."
  },
  {
@@ -1450,12 +1450,12 @@
   ],
   "frage": "Unter welcher Voraussetzung haben die Erben des Schenkers ein eigenes Widerrufsrecht wegen groben Undanks?",
   "optionen": [
-   "Wenn der Schenker vor Ablauf der Jahresfrist verstorben ist",
    "Wenn der Beschenkte den Schenker vorsätzlich und widerrechtlich getötet oder den Widerruf vereitelt hat",
-   "Wenn der Beschenkte einen nahen Angehörigen des Schenkers beleidigt hat",
-   "Wenn der Schenker den Widerruf testamentarisch angeordnet hat"
+   "Wenn der Schenker vor Ablauf der Jahresfrist verstorben ist",
+   "Wenn der Schenker den Widerruf testamentarisch angeordnet hat",
+   "Wenn der Beschenkte einen nahen Angehörigen des Schenkers beleidigt hat"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Grundsätzlich ist das Widerrufsrecht höchstpersönlich und unvererblich. Nach § 530 Abs. 2 BGB haben die Erben ausnahmsweise ein eigenes Widerrufsrecht, wenn der Beschenkte den Schenker vorsätzlich und widerrechtlich getötet oder den Widerruf vereitelt hat. Der bloße Tod des Schenkers innerhalb der Jahresfrist genügt nicht."
  },
  {
@@ -1486,10 +1486,10 @@
   ],
   "frage": "Wie wirkt eine als auflösende Bedingung gestaltete Rückfallklausel für den Fall der Insolvenz des Erwerbers?",
   "optionen": [
-   "Der Veräußerer muss die Rückforderung innerhalb eines Jahres erklären",
-   "Mit Eröffnung des Insolvenzverfahrens entfällt der Rechtsgrund ohne Weiteres; der Veräußerer kann ohne eigene Erklärung die Rückübertragung verlangen",
    "Das Eigentum fällt mit Insolvenzeröffnung ohne Grundbucheintragung an den Veräußerer zurück",
-   "Der Insolvenzverwalter muss der Rückübertragung zustimmen"
+   "Mit Eröffnung des Insolvenzverfahrens entfällt der Rechtsgrund ohne Weiteres; der Veräußerer kann ohne eigene Erklärung die Rückübertragung verlangen",
+   "Der Insolvenzverwalter muss der Rückübertragung zustimmen",
+   "Der Veräußerer muss die Rückforderung innerhalb eines Jahres erklären"
   ],
   "antwort": 1,
   "erklaerung": "Bei der auflösenden Bedingung (automatische Rückfallklausel) wird die schuldrechtliche Übertragung unter die Bedingung der Insolvenzeröffnung gestellt; mit Bedingungseintritt entfällt der Rechtsgrund, und der Veräußerer kann unmittelbar Rückübertragung verlangen, ohne eine Erklärung abgeben zu müssen. Das Eigentum fällt dadurch nicht dinglich automatisch zurück; erforderlich bleibt die Rückübertragung. Beim Widerrufsrecht dagegen entscheidet der Veräußerer selbst über die Ausübung."
@@ -1539,8 +1539,8 @@
   "optionen": [
    "Dass jedes Kind bei Eintritt eines Rückforderungsgrunds beim anderen den gesamten Grundbesitz zurückgeben muss",
    "Das konkrete Berechtigungsverhältnis der Eltern, das alleinige Zustehen beim Längerlebenden und die Beschränkung der Rückforderung auf den Erwerb des Kindes, in dessen Person der Grund liegt",
-   "Dass das Rückforderungsrecht auf die Kinder vererbt wird",
-   "Dass Mitgläubigerschaft die Eintragung einer Rückerwerbsvormerkung ausschließt"
+   "Dass Mitgläubigerschaft die Eintragung einer Rückerwerbsvormerkung ausschließt",
+   "Dass das Rückforderungsrecht auf die Kinder vererbt wird"
   ],
   "antwort": 1,
   "erklaerung": "Bei Mitgläubigerschaft (§ 432 BGB) sollte das Berechtigungsverhältnis, etwa je zur Hälfte, festgelegt und das alleinige Zustehen beim Längerlebenden geregelt werden. Bei mehreren Erwerbern ist die Rückforderung auf das zu beschränken, was der Erwerber erhalten hat, in dessen Person der Rückforderungsgrund liegt."
@@ -1581,8 +1581,8 @@
   "optionen": [
    "Als Übergabevertrag mit Abstandszahlung ohne besondere Sicherungen",
    "Als Kaufvertrag mit Schenkungsanteil, da objektiv die Entgeltlichkeit überwiegt",
-   "Als reine Schenkung unter Auflage",
-   "Als Ausstattung"
+   "Als Ausstattung",
+   "Als reine Schenkung unter Auflage"
   ],
   "antwort": 1,
   "erklaerung": "Erreicht die Zahlung annähernd den Verkehrswert, überwiegt objektiv die Entgeltlichkeit; es liegt ein Kaufvertrag mit Schenkungsanteil vor. Die Urkunde sollte klarstellen, dass der übersteigende Teil unentgeltlich zugewendet wird. Eine Gestaltung als Übergabevertrag ohne Kaufvertragssicherungen gilt als typischer Fehler."
@@ -1637,12 +1637,12 @@
   ],
   "frage": "Die Abstandszahlung soll erst ein Jahr nach der Übergabe fällig werden, das Eigentum aber sofort übergehen. Welche Sicherung kommt für den Veräußerer in Betracht?",
   "optionen": [
-   "Eine Vormerkung für den Erwerber",
    "Ein Grundpfandrecht (Grundschuld oder Hypothek) für den Veräußerer",
    "Eine Rückerwerbsvormerkung ohne Rückforderungsrecht",
+   "Eine Vormerkung für den Erwerber",
    "Keine, da Abstandszahlungen nicht sicherbar sind"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Bei späterer Zahlung und sofortigem Eigentumsübergang kommt ein Grundpfandrecht für den Veräußerer in Betracht; daneben ist die Unterwerfung unter die sofortige Zwangsvollstreckung möglich. Die Vormerkung für den Erwerber schützt dagegen den Erwerber, nicht den Veräußerer."
  },
  {
@@ -1658,12 +1658,12 @@
   ],
   "frage": "Muss die Schwester bei der Beurkundung mitwirken, damit ein Gleichstellungsgeld zu ihren Gunsten wirksam vereinbart werden kann?",
   "optionen": [
-   "Ja, da sie Vertragspartei werden muss",
-   "Nein, es kann als Vertrag zugunsten Dritter (§ 328 BGB) ohne ihre Anwesenheit vereinbart werden",
    "Ja, wegen § 518 BGB",
-   "Nein, aber sie muss nachträglich in der Form des § 29 GBO genehmigen"
+   "Nein, aber sie muss nachträglich in der Form des § 29 GBO genehmigen",
+   "Nein, es kann als Vertrag zugunsten Dritter (§ 328 BGB) ohne ihre Anwesenheit vereinbart werden",
+   "Ja, da sie Vertragspartei werden muss"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Das Gleichstellungsgeld kann als Vertrag zugunsten Dritter (§ 328 BGB) vereinbart werden; der begünstigte Dritte muss nicht mitwirken. Ihre Anwesenheit ist dennoch sinnvoll, wenn empfangsbedürftige Anrechnungsbestimmungen oder Verzichtserklärungen gewünscht sind."
  },
  {
@@ -1694,12 +1694,12 @@
   ],
   "frage": "Der Erwerber kann kein Gleichstellungsgeld an seine Geschwister zahlen. Welche Alternative kommt nach der Praxis zur Gleichstellung in Betracht?",
   "optionen": [
-   "Eine Ausgleichung im Erbfall",
    "Eine Rückerwerbsvormerkung zugunsten der Geschwister",
-   "Eine Pflichtteilsanrechnung zulasten der Geschwister",
-   "Eine Grundschuld zugunsten der Geschwister ohne Zahlungspflicht"
+   "Eine Ausgleichung im Erbfall",
+   "Eine Grundschuld zugunsten der Geschwister ohne Zahlungspflicht",
+   "Eine Pflichtteilsanrechnung zulasten der Geschwister"
   ],
-  "antwort": 0,
+  "antwort": 1,
   "erklaerung": "Kann der Erwerber kein Gleichstellungsgeld zahlen, kommt eine Ausgleichung im Erbfall in Betracht (§§ 2050 ff. BGB), um mehrere Geschwister gleichzustellen. Eine Pflichtteilsanrechnung kann nur gegenüber dem Zuwendungsempfänger angeordnet werden, nicht zulasten der nicht beschenkten Geschwister."
  },
  {
@@ -1715,10 +1715,10 @@
   ],
   "frage": "Was ist das Leibgeding im Grundbuchrecht?",
   "optionen": [
-   "Ein eigenständiges dingliches Recht eigener Art",
+   "Eine Vormerkung zur Sicherung von Versorgungsansprüchen",
    "Eine zulässige Sammelbezeichnung für mehrere Einzelrechte (§ 49 GBO)",
    "Eine besondere Form des Nießbrauchs am gesamten Grundbesitz",
-   "Eine Vormerkung zur Sicherung von Versorgungsansprüchen"
+   "Ein eigenständiges dingliches Recht eigener Art"
   ],
   "antwort": 1,
   "erklaerung": "Das Leibgeding ist kein eigenes dingliches Recht, sondern eine im Grundbuch zulässige Sammelbezeichnung für mehrere Dienstbarkeiten und Reallasten (§ 49 GBO). Ein Nießbrauch am gesamten Grundbesitz ist gerade kein Leibgeding (Verbot des Totalnießbrauchs)."
@@ -1753,11 +1753,11 @@
   "frage": "In welchem Fall liegt kein Leibgeding vor?",
   "optionen": [
    "Wohnungsrecht, Pflegeverpflichtung und Leibrente zur Versorgung des Übergebers",
+   "Versorgungsleistungen bei Übergabe eines landwirtschaftlichen Anwesens",
    "Nießbrauch am gesamten übergebenen Grundbesitz",
-   "Wohnungsrecht kombiniert mit einer Pflegereallast",
-   "Versorgungsleistungen bei Übergabe eines landwirtschaftlichen Anwesens"
+   "Wohnungsrecht kombiniert mit einer Pflegereallast"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Ein Nießbrauch am gesamten übergebenen Grundbesitz ist wegen des Verbots des Totalnießbrauchs kein Leibgeding. Ebenso fehlt es bei bloßen Geldleistungen oder fehlender höchstpersönlicher Versorgung. Typischer Inhalt sind Wohnungsrecht, Pflegeverpflichtung und Leibrente."
  },
  {
@@ -1774,12 +1774,12 @@
   ],
   "frage": "Im Grundbuch ist ein altes Leibgeding mit pauschaler Vorlöschungsklausel eingetragen, das auch eine Grabpflegeverpflichtung enthält. Der Berechtigte ist verstorben. Wie ist vorzugehen?",
   "optionen": [
-   "Löschung des gesamten Leibgedings allein gegen Sterbeurkunde, da die Klausel eingetragen ist",
    "Bewilligungsurkunde einsehen; für die Grabpflegeverpflichtung ist trotz Eintragung die Bewilligung der Erben erforderlich",
+   "Löschung nur mit Zustimmung des Erwerbers",
    "Löschung von Amts wegen nach Ablauf eines Jahres",
-   "Löschung nur mit Zustimmung des Erwerbers"
+   "Löschung des gesamten Leibgedings allein gegen Sterbeurkunde, da die Klausel eingetragen ist"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Eine pauschal eingetragene Vorlöschungsklausel trägt nicht für Einzelrechte, die sie nicht zulassen; dort reicht der Todesnachweis nicht, sondern die Erben müssen bewilligen (§ 19 GBO). Vor der Löschung ist deshalb die Bewilligungsurkunde einzusehen, weil nur sie zeigt, welche Einzelrechte erfasst sind."
  },
  {
@@ -1795,10 +1795,10 @@
   ],
   "frage": "Wann wird der Wert einer Pflegeverpflichtung bei der Schenkungsteuer abgezogen?",
   "optionen": [
-   "Stets bei Vertragsschluss mit dem kapitalisierten Höchstwert",
-   "Erst wenn der Pflegefall eingetreten ist; der Wert ergibt sich aus einer Prognose zu Dauer, Lebenserwartung und Aufwand",
    "Nie, da Pflegeleistungen familiär selbstverständlich sind",
-   "Erst nach dem Tod des Berechtigten"
+   "Erst wenn der Pflegefall eingetreten ist; der Wert ergibt sich aus einer Prognose zu Dauer, Lebenserwartung und Aufwand",
+   "Erst nach dem Tod des Berechtigten",
+   "Stets bei Vertragsschluss mit dem kapitalisierten Höchstwert"
   ],
   "antwort": 1,
   "erklaerung": "Die Pflegeverpflichtung mindert als Gegenleistung den Wert der Schenkung, wird aber erst abgezogen, wenn der Pflegefall eingetreten ist. Ihr Wert ergibt sich aus einer Prognose: erwartete Pflegedauer, statistische Lebenserwartung und voraussichtlicher Aufwand. Deshalb sollte ein bereits eingetretener Pflegefall in der Urkunde festgestellt werden."
@@ -1832,12 +1832,12 @@
   ],
   "frage": "Welche Regelung zu Beginn und Dauer der Pflegeverpflichtung ist üblich?",
   "optionen": [
-   "Die Pflicht besteht unabhängig vom Aufenthaltsort des Berechtigten lebenslang fort",
    "Die Pflichten ruhen während eines Krankenhaus- oder Heimaufenthalts und soweit gesetzliche Leistungen wie Pflegegeld beansprucht werden können",
+   "Der Erwerber muss stets persönlich pflegen und darf sich keiner Dritten bedienen",
    "Die Pflicht beginnt erst mit dem Tod des längerlebenden Veräußerers",
-   "Der Erwerber muss stets persönlich pflegen und darf sich keiner Dritten bedienen"
+   "Die Pflicht besteht unabhängig vom Aufenthaltsort des Berechtigten lebenslang fort"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Üblich ist, dass die Leistungen nur geschuldet sind, solange der Berechtigte sich nicht selbst helfen kann und im übergebenen Objekt wohnt; sie ruhen bei Krankenhaus- oder Heimaufenthalt und soweit Anspruch auf gesetzliche Leistungen besteht. Der Erwerber kann berechtigt werden, sich Dritter zu bedienen, und die Pflicht kann über einen Pflegegrad begrenzt werden."
  },
  {
@@ -1853,12 +1853,462 @@
   ],
   "frage": "Wie lässt sich Streit über den Wert erbrachter Pflegeleistungen bei einer späteren Rückabwicklung des Übergabevertrags vermeiden?",
   "optionen": [
-   "Durch einen Ausschluss jeglicher Rückforderung",
    "Durch Vereinbarung eines festen Ausgleichsbetrags für jedes volle Jahr erbrachter Pflege",
    "Durch Rückgewähr der Pflegeleistungen in Natur",
-   "Durch Anrechnung der Pflege auf den Pflichtteil"
+   "Durch Anrechnung der Pflege auf den Pflichtteil",
+   "Durch einen Ausschluss jeglicher Rückforderung"
+  ],
+  "antwort": 0,
+  "erklaerung": "Pflegeleistungen können bei Rückabwicklung nicht in Natur zurückgewährt werden. Streit über ihren Wert lässt sich vermeiden, wenn der Vertrag für jedes volle Jahr erbrachter Pflege einen festen Ausgleichsbetrag vorsieht, statt es bei den Wertersatzregeln der §§ 346 ff. BGB zu belassen."
+ },
+ {
+  "id": "ueber1-086",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: Übernahme von Verbindlichkeiten",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-ubernahme-von-verbindlichkeiten",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 415 BGB"
+  ],
+  "frage": "Die dingliche Haftung des übergebenen Grundstücks für eine eingetragene Grundschuld bleibt vom Eigentumswechsel unberührt, gleich ob Erfüllungs- oder Schuldübernahme vereinbart wird.",
+  "antwort": true,
+  "erklaerung": "Der Eigentumswechsel ändert nichts an der dinglichen Haftung der Immobilie. Erfüllungs- und Schuldübernahme (§§ 414, 415 BGB) betreffen nur die persönliche Schuld aus dem Darlehen."
+ },
+ {
+  "id": "ueber1-087",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: Übernahme von Verbindlichkeiten",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-ubernahme-von-verbindlichkeiten",
+  "typ": "fall",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 414 BGB",
+   "§ 415 BGB"
+  ],
+  "frage": "Übernahme des Restdarlehens",
+  "sachverhalt": "Mutter M überträgt ihr Haus ohne Nutzungsvorbehalt an Sohn S. Auf dem Haus lastet eine Grundschuld der B-Bank, die ein Darlehen der M mit einer Restschuld von 80.000 € sichert. S soll die Raten künftig zahlen; M möchte mit dem Darlehen nichts mehr zu tun haben.",
+  "schritte": [
+   {
+    "frage": "S und M vereinbaren lediglich, dass S die Raten im Innenverhältnis zahlt. Wie ist die Lage, wenn S nicht zahlt?",
+    "optionen": [
+     "Das Darlehen erlischt mit der Eigentumsumschreibung",
+     "M schuldet im Außenverhältnis weiter und hat nur einen Freistellungsanspruch gegen S",
+     "Die B-Bank kann nur noch S persönlich in Anspruch nehmen",
+     "Die Grundschuld erlischt, da M nicht mehr Eigentümerin ist"
+    ],
+    "antwort": 1,
+    "erklaerung": "Bei der bloßen Erfüllungsübernahme schuldet im Außenverhältnis weiter M; die Bank hält sich an sie, und ihr bleibt nur ein Freistellungsanspruch gegen S. Sie haftet mit ihrem ganzen Vermögen, obwohl ihr die Sicherheit nicht mehr gehört."
+   },
+   {
+    "frage": "Was ist erforderlich, damit M aus der persönlichen Haftung entlassen wird?",
+    "optionen": [
+     "Eine Schuldübernahme nach §§ 414, 415 BGB mit Genehmigung der B-Bank oder eine Schuldhaftentlassung",
+     "Eine Erklärung von M und S gegenüber dem Grundbuchamt",
+     "Die Eintragung des S als Eigentümer",
+     "Die Löschung der Grundschuld"
+    ],
+    "antwort": 0,
+    "erklaerung": "Die Haftung des Veräußerers endet nur durch Schuldhaftentlassung oder Schuldübernahme nach §§ 414, 415 BGB, die der Genehmigung der Gläubigerin bedarf. Mitunter verlangt die Bank zusätzlich die Unterwerfung des Erwerbers unter die persönliche Zwangsvollstreckung."
+   },
+   {
+    "frage": "Wie sollte der Notar die Abwicklung gestalten, wenn die Umschreibung erst nach Vorliegen der Schuldhaftentlassung erfolgen soll?",
+    "optionen": [
+     "Kaufvertragsähnliche Abwicklung mit Vormerkung für S und aufgeschobener Umschreibung",
+     "Eintragung einer Rückerwerbsvormerkung für die Bank",
+     "Sofortige Umschreibung ohne Vormerkung",
+     "Umschreibung erst nach dem Tod der M"
+    ],
+    "antwort": 0,
+    "erklaerung": "Soll die Umschreibung erst nach Vorliegen der Schuldhaftentlassung erfolgen, ist eine kaufvertragsähnliche Abwicklung mit Vormerkung für den Erwerber angezeigt. Vor der Beurkundung ist bei der Bank anzufragen, ob und zu welchen Bedingungen sie genehmigt."
+   }
+  ],
+  "erklaerung": "Eine bloße Erfüllungsübernahme lässt M im Außenverhältnis haften und entspricht ihrem Ziel nicht (typischer Fehler). Erforderlich ist eine von der Bank genehmigte Schuldübernahme nach §§ 414, 415 BGB oder Schuldhaftentlassung; die Umschreibung kann daran mit kaufvertragsähnlicher Abwicklung geknüpft werden."
+ },
+ {
+  "id": "ueber1-088",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: Übernahme von Verbindlichkeiten",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-ubernahme-von-verbindlichkeiten",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 415 BGB"
+  ],
+  "frage": "Wer zahlt bei einer Übergabe unter Nießbrauchsvorbehalt meist die Raten eines noch valutierenden Darlehens weiter?",
+  "optionen": [
+   "Beide je zur Hälfte",
+   "Der Erwerber",
+   "Der Veräußerer",
+   "Die Bank stellt die Raten bis zum Tod des Veräußerers zurück"
+  ],
+  "antwort": 2,
+  "erklaerung": "Bei einem Nießbrauchsvorbehalt zahlt meist der Veräußerer die Raten weiter, da ihm auch die Nutzungen verbleiben. Die Übernahme der Restschuld durch den Erwerber kommt vor allem bei Übergang ohne Nutzungsvorbehalt in Betracht."
+ },
+ {
+  "id": "ueber1-089",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: vorbehaltene Nutzungsrechte – Rang, mehrere Berechtigte, Jahreswert und spätere Aufgabe",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-vorbehaltene-nutzungsrechte-rang-mehrere-berechtigte-jahreswert-und-spatere-aufgabe",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 883 BGB"
+  ],
+  "frage": "Welche Rangfolge ist bei vorbehaltenem Nießbrauch und Rückerwerbsvormerkung üblich?",
+  "optionen": [
+   "Gleichrang beider Rechte",
+   "Rückerwerbsvormerkung vor dem Nießbrauch",
+   "Nießbrauch nach allen Grundpfandrechten, Vormerkung an erster Stelle",
+   "Nießbrauch an bestmöglicher Rangstelle, Rückerwerbsvormerkung im Rang danach"
+  ],
+  "antwort": 3,
+  "erklaerung": "Nutzungsrechte sind an die bestmögliche Rangstelle zu setzen, weil sie bei einer Zwangsversteigerung aus einem vorrangigen Grundpfandrecht ersatzlos erlöschen können. Die Vormerkung für den bedingten Rückforderungsanspruch (§ 883 BGB) folgt üblicherweise im Rang."
+ },
+ {
+  "id": "ueber1-090",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: vorbehaltene Nutzungsrechte – Rang, mehrere Berechtigte, Jahreswert und spätere Aufgabe",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-vorbehaltene-nutzungsrechte-rang-mehrere-berechtigte-jahreswert-und-spatere-aufgabe",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 34 ErbStG",
+   "§ 8 ErbStDV"
+  ],
+  "frage": "Entwirft der Notar beim unentgeltlichen Verzicht auf einen Nießbrauch nur die Löschungsbewilligung und beglaubigt die Unterschrift, trifft ihn keine Anzeigepflicht gegenüber dem Finanzamt.",
+  "antwort": false,
+  "erklaerung": "Die unentgeltliche Aufgabe eines Nutzungsrechts ist eine Schenkung an den Eigentümer. Auch wenn der Notar nur die Löschungsbewilligung entwirft und beglaubigt, trifft ihn die Anzeigepflicht gegenüber der Schenkungsteuerstelle (§ 34 ErbStG, § 8 ErbStDV)."
+ },
+ {
+  "id": "ueber1-091",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: vorbehaltene Nutzungsrechte – Rang, mehrere Berechtigte, Jahreswert und spätere Aufgabe",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-vorbehaltene-nutzungsrechte-rang-mehrere-berechtigte-jahreswert-und-spatere-aufgabe",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 52 GNotKG"
+  ],
+  "frage": "Ordne dem Begriff aus der Bewertung vorbehaltener Nutzungsrechte seine Bedeutung zu.",
+  "paare": [
+   [
+    "Jahreswert",
+    "tatsächliche oder gedachte Jahreskaltmiete der betroffenen Räume"
+   ],
+   [
+    "Vervielfältiger",
+    "aus der statistischen Lebenserwartung nach Alter und Geschlecht, jährlich vom BMF veröffentlicht"
+   ],
+   [
+    "Kapitalwert",
+    "Jahreswert mal Vervielfältiger; wird regelmäßig vom Wert der Schenkung abgezogen"
+   ]
+  ],
+  "erklaerung": "Der Jahreswert ist in der Urkunde anzugeben und für Grundbuchkosten und Finanzamt bedeutsam. Multipliziert mit dem Vervielfältiger ergibt er den Kapitalwert der lebenslangen Nutzung, der den Wert der Schenkung mindert."
+ },
+ {
+  "id": "ueber1-092",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: vorbehaltene Nutzungsrechte – Rang, mehrere Berechtigte, Jahreswert und spätere Aufgabe",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-vorbehaltene-nutzungsrechte-rang-mehrere-berechtigte-jahreswert-und-spatere-aufgabe",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 7 ErbStG"
+  ],
+  "frage": "Der Alleineigentümer V übergibt sein Haus unter Nießbrauchsvorbehalt; seine Ehefrau F soll nach seinem Tod ebenfalls nießbrauchsberechtigt sein. Welche Gestaltung empfiehlt sich regelmäßig?",
+  "optionen": [
+   "Ein Nießbrauch des V, der kraft Gesetzes auf F übergeht",
+   "Ein auf den Tod des V aufschiebend befristeter Nießbrauch für F, ggf. auflösend bedingt für Trennung oder Scheidung",
+   "Keine Regelung, da F als Ehegattin ohnehin berechtigt ist",
+   "Ein Wohnungsrecht für F an einem ideellen Miteigentumsanteil"
   ],
   "antwort": 1,
-  "erklaerung": "Pflegeleistungen können bei Rückabwicklung nicht in Natur zurückgewährt werden. Streit über ihren Wert lässt sich vermeiden, wenn der Vertrag für jedes volle Jahr erbrachter Pflege einen festen Ausgleichsbetrag vorsieht, statt es bei den Wertersatzregeln der §§ 346 ff. BGB zu belassen."
+  "erklaerung": "Ist der Veräußerer Alleineigentümer, empfiehlt sich regelmäßig ein auf seinen Tod aufschiebend befristetes Nutzungsrecht für den Dritten; es kann auflösend bedingt für Trennung oder Scheidung gestaltet werden. Die Zuwendung an F ist eine Schenkung des V mit möglichen schenkungsteuerlichen Folgen. Der Nießbrauch erlischt mit dem Tod des Berechtigten und geht nicht von selbst über."
+ },
+ {
+  "id": "ueber1-093",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: vorbehaltenes Wohnungsrecht",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-vorbehaltenes-wohnungsrecht",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1093 BGB"
+  ],
+  "frage": "Was kann mit einem Wohnungsrecht nach § 1093 BGB nicht belastet werden?",
+  "optionen": [
+   "Ein Wohnungseigentum",
+   "Ein ideeller Miteigentumsanteil",
+   "Ein Grundstück als Ganzes",
+   "Ein Erbbaurecht"
+  ],
+  "antwort": 1,
+  "erklaerung": "Belastbar mit einem Wohnungsrecht sind nur das Grundstück als Ganzes, das Erbbaurecht sowie Wohnungs- und Teileigentum. Ein ideeller Miteigentumsanteil kann – anders als beim Nießbrauch – nicht belastet werden; hier hilft nur der Nießbrauch."
+ },
+ {
+  "id": "ueber1-094",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: vorbehaltenes Wohnungsrecht",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-vorbehaltenes-wohnungsrecht",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1093 Abs. 2 BGB"
+  ],
+  "frage": "Der Wohnungsberechtigte darf kraft Gesetzes seine Familie und die zu seiner Pflege nötigen Personen in die Wohnung aufnehmen.",
+  "antwort": true,
+  "erklaerung": "§ 1093 Abs. 2 BGB gestattet die Aufnahme der Familie und der Pflegepersonen. Eine Überlassung der Ausübung an Dritte sieht das Gesetz dagegen nicht vor; sie muss gesondert vereinbart werden."
+ },
+ {
+  "id": "ueber1-095",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: vorbehaltenes Wohnungsrecht",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-vorbehaltenes-wohnungsrecht",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1093 Abs. 1 BGB",
+   "§ 1041 BGB"
+  ],
+  "frage": "Welche Kosten trägt der Wohnungsberechtigte ohne abweichende Vereinbarung?",
+  "optionen": [
+   "Alle Kosten und Lasten einschließlich öffentlicher Lasten",
+   "Die Kosten außergewöhnlicher Ausbesserungen am Dach",
+   "Keine Kosten",
+   "Die Kosten der gewöhnlichen Unterhaltung der Räume, insbesondere Schönheitsreparaturen"
+  ],
+  "antwort": 3,
+  "erklaerung": "Nach § 1093 Abs. 1 iVm § 1041 BGB trägt der Wohnungsberechtigte die Kosten der gewöhnlichen Unterhaltung der Räume, insbesondere Schönheitsreparaturen. Andere Kosten trägt grundsätzlich der Eigentümer; darin liegt ein Unterschied zum Nießbrauch, bei dem der Nießbraucher kraft Gesetzes die meisten Kosten und Lasten trägt."
+ },
+ {
+  "id": "ueber1-096",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: vorbehaltenes Wohnungsrecht",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-vorbehaltenes-wohnungsrecht",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1093 BGB"
+  ],
+  "frage": "Unter welcher Voraussetzung können Gläubiger oder der Sozialhilfeträger auf ein vorbehaltenes Wohnungsrecht zugreifen?",
+  "optionen": [
+   "Wenn dem Berechtigten die Überlassung an Dritte gestattet ist; dann auf die Mieten",
+   "Stets, da das Wohnungsrecht einen Vermögenswert darstellt",
+   "Nur nach dem Tod des Berechtigten",
+   "Nie, da das Wohnungsrecht höchstpersönlich ist"
+  ],
+  "antwort": 0,
+  "erklaerung": "Bewohnt der Berechtigte die Räume selbst, sind Pfändung und Überleitung ausgeschlossen. Ist die Überlassung an Dritte gestattet, können Gläubiger und Sozialhilfeträger wie beim Nießbrauch auf die Mieten zugreifen."
+ },
+ {
+  "id": "ueber1-097",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: Vorbehaltsnießbrauch",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-vorbehaltsniessbrauch",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1041 BGB",
+   "§ 1045 BGB",
+   "§ 1047 BGB"
+  ],
+  "frage": "Ordne die vom Nießbraucher kraft Gesetzes zu tragende Last der Norm zu.",
+  "paare": [
+   [
+    "Erhaltungskosten",
+    "§ 1041 BGB"
+   ],
+   [
+    "Versicherungskosten",
+    "§ 1045 BGB"
+   ],
+   [
+    "öffentliche Lasten",
+    "§ 1047 BGB"
+   ]
+  ],
+  "erklaerung": "Kraft Gesetzes trägt der Nießbraucher die Erhaltungskosten (§ 1041 BGB), die Versicherungskosten (§ 1045 BGB) und die öffentlichen Lasten (§ 1047 BGB). Meist wird zusätzlich vereinbart, dass er alle Kosten und Lasten trägt."
+ },
+ {
+  "id": "ueber1-098",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: Vorbehaltsnießbrauch",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-vorbehaltsniessbrauch",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1030 BGB"
+  ],
+  "frage": "Was unterscheidet den Quotennießbrauch vom Nießbrauch an einem Miteigentumsanteil?",
+  "optionen": [
+   "Beim Quotennießbrauch ist nur ein Bruchteil des Grundstücks belastet",
+   "Der Quotennießbrauch ist nur an einzelnen Räumen zulässig",
+   "Der Quotennießbrauch erlischt nicht mit dem Tod des Berechtigten",
+   "Beim Quotennießbrauch ist der ganze Gegenstand belastet, der Nießbraucher zieht aber nur einen vereinbarten Anteil der Nutzungen"
+  ],
+  "antwort": 3,
+  "erklaerung": "Beim Quotennießbrauch ist der ganze Gegenstand belastet, der Nießbraucher erhält aber nur einen Anteil der Nutzungen, etwa die Hälfte der Mieten. Beim Nießbrauch an einem ideellen Miteigentumsanteil ist dagegen nur dieser Anteil belastet. Ein Nießbrauch an einzelnen, nicht als Sondereigentum gebildeten Räumen ist unzulässig."
+ },
+ {
+  "id": "ueber1-099",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: Vorbehaltsnießbrauch",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-vorbehaltsniessbrauch",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1030 BGB"
+  ],
+  "frage": "Der Vorbehaltsnießbraucher einer Eigentumswohnung hat in der Eigentümerversammlung kraft Gesetzes ein Stimmrecht.",
+  "antwort": false,
+  "erklaerung": "Der Nießbraucher hat kraft Gesetzes kein Stimmrecht; er braucht eine Vollmacht des Eigentümers, soweit die Teilungserklärung das zulässt. Vorsorglich sollte der Eigentümer verpflichtet werden, bei Abstimmungen den Weisungen des Nießbrauchers zu folgen."
+ },
+ {
+  "id": "ueber1-100",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: Vorbehaltsnießbrauch",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-vorbehaltsniessbrauch",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1030 BGB",
+   "§ 1093 BGB",
+   "§ 23 Abs. 2 GBO"
+  ],
+  "frage": "Wahl des Nutzungsvorbehalts",
+  "sachverhalt": "Witwe W ist Miteigentümerin zu 1/2 eines vermieteten Zweifamilienhauses; die andere Hälfte gehört ihrem Sohn S. W will ihren Hälfteanteil auf S übertragen und weiterhin die auf ihren Anteil entfallenden Mieten erhalten.",
+  "schritte": [
+   {
+    "frage": "Welches Nutzungsrecht kommt für W in Betracht?",
+    "optionen": [
+     "Ein Nießbrauch am übertragenen Miteigentumsanteil",
+     "Eine Reallast",
+     "Ein Wohnungsrecht an einzelnen Räumen mit Vermietungsbefugnis",
+     "Ein Wohnungsrecht am Miteigentumsanteil"
+    ],
+    "antwort": 0,
+    "erklaerung": "Ein ideeller Miteigentumsanteil kann nur mit einem Nießbrauch, nicht mit einem Wohnungsrecht belastet werden. W behält damit die Nutzungen dieses Anteils, also den entsprechenden Teil der Mieten."
+   },
+   {
+    "frage": "Wer kann nach der Übergabe über den Anteil verfügen, etwa ihn belasten?",
+    "optionen": [
+     "Niemand bis zum Erlöschen des Nießbrauchs",
+     "S als Eigentümer",
+     "W und S nur gemeinsam",
+     "W als Nießbraucherin"
+    ],
+    "antwort": 1,
+    "erklaerung": "Über die Immobilie verfügen kann nach der Übergabe nur der Erwerber als Eigentümer, nicht der Nießbraucher."
+   },
+   {
+    "frage": "Welche Eintragung erleichtert die spätere Löschung des Nießbrauchs nach dem Tod der W?",
+    "optionen": [
+     "Eine Vorlöschungsklausel nach § 23 Abs. 2 GBO",
+     "Eine Wegzugsklausel",
+     "Ein Rangvorbehalt",
+     "Eine Rückerwerbsvormerkung"
+    ],
+    "antwort": 0,
+    "erklaerung": "Der Nießbrauch erlischt mit dem Tod der Berechtigten (§ 1061 S. 1 BGB). Für die Löschung empfiehlt sich schon bei der Bestellung eine Vorlöschungsklausel nach § 23 Abs. 2 GBO."
+   }
+  ],
+  "erklaerung": "Da W nur einen Miteigentumsanteil überträgt und die Mieten behalten will, ist ein Nießbrauch am Anteil zu bestellen; ein Wohnungsrecht wäre unzulässig und gewährte keine Mieten. Verfügungsbefugt ist S; die Vorlöschungsklausel erleichtert die Löschung nach dem Tod der W."
+ },
+ {
+  "id": "ueber1-101",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: Wohnungsrecht – Wegzugsklausel und Löschung",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-wohnungsrecht-wegzugsklausel-und-loschung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1093 BGB"
+  ],
+  "frage": "Welchen Zweck verfolgt eine Wegzugsklausel beim vorbehaltenen Wohnungsrecht?",
+  "optionen": [
+   "Sie verhindert die Umdeutung eines nicht mehr ausgeübten Wohnungsrechts in einen auf den Sozialhilfeträger überleitbaren Zahlungsanspruch",
+   "Sie ermöglicht die Löschung des Wohnungsrechts allein aufgrund des Auszugs",
+   "Sie verlängert das Wohnungsrecht über den Tod des Berechtigten hinaus",
+   "Sie erlaubt dem Berechtigten die Vermietung nach Auszug"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Wegzugsklausel beendet das Wohnungsrecht schuldrechtlich bei freiwilligem, dauerhaftem Auszug und verhindert, dass es im Wege ergänzender Vertragsauslegung in einen überleitbaren Zahlungsanspruch umgedeutet wird. Sie macht das Recht aber nicht im Grundbuch löschbar; dafür sind § 19 GBO oder §§ 22, 23 GBO maßgeblich."
+ },
+ {
+  "id": "ueber1-102",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: Wohnungsrecht – Wegzugsklausel und Löschung",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-wohnungsrecht-wegzugsklausel-und-loschung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1093 BGB"
+  ],
+  "frage": "Eine Wegzugsklausel wirkt auch dann, wenn dem Wohnungsberechtigten die Vermietung der Räume an Dritte gestattet ist.",
+  "antwort": false,
+  "erklaerung": "Die Wegzugsklausel wirkt nur, wenn der Berechtigte die Ausübung keinem Dritten überlassen darf. Ist die Vermietung erlaubt, unterliegen die Mieten wie beim Nießbrauch der Pfändung und Überleitung; die Klausel ist daher nur mit einem nicht übertragbaren Wohnungsrecht zu kombinieren."
+ },
+ {
+  "id": "ueber1-103",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: Wohnungsrecht – Wegzugsklausel und Löschung",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-wohnungsrecht-wegzugsklausel-und-loschung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 22 GBO",
+   "§ 23 GBO"
+  ],
+  "frage": "Nach dem Tod der Wohnungsberechtigten soll ihr Wohnungsrecht gelöscht werden. Zum dinglichen Inhalt gehört die Pflicht des Eigentümers, die Bewohnbarkeit zu erhalten. Nach welcher Vorschrift richtet sich die Löschung?",
+  "optionen": [
+   "Nach § 35 GBO mit Erbschein",
+   "Nur nach § 19 GBO mit Bewilligung der Berechtigten",
+   "Nach § 23 GBO, da Rückstände möglich sind",
+   "Nach § 22 GBO, da Rückstände ausgeschlossen sind"
+  ],
+  "antwort": 2,
+  "erklaerung": "Gehört die Pflicht des Bestellers, die Bewohnbarkeit zu erhalten, zum dinglichen Inhalt, sind Rückstände möglich; dann gilt § 23 GBO. Nur wenn Rückstände nach dem dinglichen Inhalt ausgeschlossen sind, wird nach § 22 GBO aufgrund des Unrichtigkeitsnachweises gelöscht. Vor der Löschung ist deshalb die Bewilligung einzusehen."
+ },
+ {
+  "id": "ueber1-104",
+  "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+  "abschnitt": "Vorbehaltene Rechte und Gegenleistungen",
+  "seite": "Übergabevertrag: Wohnungsrecht – Wegzugsklausel und Löschung",
+  "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-wohnungsrecht-wegzugsklausel-und-loschung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 29 GBO",
+   "§ 19 GBO"
+  ],
+  "frage": "Welche Vorsorge empfiehlt sich bei Bestellung eines Wohnungsrechts für den Fall, dass der Berechtigte nach Umzug ins Pflegeheim dement wird und keine Löschungsbewilligung mehr abgeben kann?",
+  "optionen": [
+   "Keine; die Wegzugsklausel genügt für die Löschung",
+   "Vereinbarung konkreter Löschungserleichterungen, etwa Meldebescheinigung als Nachweis oder notarielle Eigenurkunde",
+   "Bestellung des Wohnungsrechts auf Lebenszeit des Erwerbers",
+   "Löschung nach § 22 GBO aufgrund eines Arztattests"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die freiwillige, endgültige Aufgabe lässt sich in der Form des § 29 GBO praktisch kaum als Unrichtigkeit nachweisen, und ohne Bewilligung nach § 19 GBO scheitert die Löschung. Deshalb sollten schon bei der Bestellung Löschungserleichterungen vereinbart werden, etwa eine Meldebescheinigung als Nachweis oder eine notarielle Eigenurkunde, die an Meldebescheinigung, Wegzugsbestätigung oder Heimvertrag geknüpft werden kann."
  }
 ]
