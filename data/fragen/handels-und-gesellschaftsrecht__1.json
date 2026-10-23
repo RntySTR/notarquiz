@@ -629,5 +629,127 @@
   "frage": "Bei der Anmeldung einer Kapitalerhöhung entfällt die Versicherung der Geschäftsführer über die Bewirkung der Einlagen, weil diese nur bei der Erstanmeldung nach § 8 GmbHG vorgesehen ist.",
   "antwort": false,
   "erklaerung": "Auch bei der Kapitalerhöhung versichern die Geschäftsführer, dass die Einlagen auf das neue Stammkapital nach § 7 Abs. 2 S. 1 und Abs. 3 GmbHG bewirkt sind und sich der Gegenstand endgültig in ihrer freien Verfügung befindet; § 8 Abs. 2 S. 2 GmbHG gilt nach § 57 Abs. 2 S. 2 GmbHG entsprechend. Bei Sachkapitalerhöhungen kommt die Versicherung hinzu, dass die Gegenstände übertragen sind und keine Rückgewähr an den Einleger stattgefunden hat."
+ },
+ {
+  "id": "hand1-029",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Kapitalherabsetzung, Auflösung und Liquidation",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-kapitalherabsetzung-auflosung-und-liquidation",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 58 Abs. 1 Nr. 4 GmbHG",
+   "§ 58 Abs. 1 Nr. 1 GmbHG"
+  ],
+  "frage": "Wann darf eine ordentliche Kapitalherabsetzung frühestens zum Handelsregister angemeldet werden?",
+  "optionen": [
+   "Unmittelbar nach Beurkundung des Herabsetzungsbeschlusses",
+   "Sechs Monate nach Benachrichtigung der bekannten Gläubiger",
+   "Ein Jahr nach dem Tag der Veröffentlichung der Gläubigeraufforderung",
+   "Ein Jahr nach Beurkundung des Herabsetzungsbeschlusses"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Kapitalherabsetzung darf frühestens ein Jahr nach dem Tag der Veröffentlichung der Gläubigeraufforderung im Bundesanzeiger angemeldet werden. Fristauslösend ist die Veröffentlichung, nicht die Beurkundung des Beschlusses. In der Anmeldung versichern die Geschäftsführer nach § 58 Abs. 1 Nr. 4 GmbHG, dass widersprechende Gläubiger befriedigt oder sichergestellt sind."
+ },
+ {
+  "id": "hand1-030",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Kapitalherabsetzung, Auflösung und Liquidation",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-kapitalherabsetzung-auflosung-und-liquidation",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 60 GmbHG"
+  ],
+  "frage": "Der Auflösungsbeschluss einer GmbH bedarf ebenso wie der Kapitalherabsetzungsbeschluss der notariellen Beurkundung.",
+  "antwort": false,
+  "erklaerung": "Der Kapitalherabsetzungsbeschluss ist eine Satzungsänderung und daher beurkundungspflichtig. Der Auflösungsbeschluss nach § 60 GmbHG bedarf zwar einer Mehrheit von drei Vierteln der abgegebenen Stimmen, aber keiner Beurkundung; die Liquidatoren reichen ihn mit der Anmeldung der Auflösung ein."
+ },
+ {
+  "id": "hand1-031",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Kapitalherabsetzung, Auflösung und Liquidation",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-kapitalherabsetzung-auflosung-und-liquidation",
+  "typ": "zuordnung",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 60 GmbHG",
+   "§ 399 FamFG",
+   "§ 394 FamFG"
+  ],
+  "frage": "Ordne die Auflösungsgründe nach § 60 GmbHG dem Zeitpunkt bzw. Ereignis zu, mit dem die Auflösung eintritt.",
+  "paare": [
+   [
+    "Masselosigkeit",
+    "Rechtskraft der Ablehnung der Insolvenzeröffnung mangels Masse"
+   ],
+   [
+    "Satzungsmangel",
+    "Rechtskraft einer registergerichtlichen Verfügung nach § 399 FamFG"
+   ],
+   [
+    "Vermögenslosigkeit",
+    "Löschung nach § 394 FamFG"
+   ],
+   [
+    "Gesellschafterbeschluss",
+    "Beschluss mit drei Vierteln der abgegebenen Stimmen"
+   ]
+  ],
+  "erklaerung": "§ 60 GmbHG knüpft die Auflösung an unterschiedliche Ereignisse: bei Masselosigkeit an die Rechtskraft der Ablehnung der Insolvenzeröffnung, beim Satzungsmangel an die Rechtskraft der Feststellungsverfügung nach § 399 FamFG (etwa bei bestandskräftig untersagtem Unternehmensgegenstand), bei Vermögenslosigkeit an die Löschung nach § 394 FamFG. Der praktisch häufigste Fall ist der Auflösungsbeschluss mit Dreiviertelmehrheit."
+ },
+ {
+  "id": "hand1-032",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Kapitalherabsetzung, Auflösung und Liquidation",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-kapitalherabsetzung-auflosung-und-liquidation",
+  "typ": "fall",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 60 GmbHG",
+   "§ 73 GmbHG"
+  ],
+  "frage": "Liquidation der A-GmbH",
+  "sachverhalt": "Die Gesellschafter X und Y der A-GmbH beschließen einstimmig die Auflösung. Geschäftsführer ist G; die Satzung enthält keine Regelung zur Liquidation. Nach Verwertung des Vermögens und Tilgung aller bekannten Schulden verbleiben 40.000 €. X und Y wollen das Geld sofort untereinander aufteilen.",
+  "schritte": [
+   {
+    "frage": "Wer vertritt die Gesellschaft nach der Auflösung und meldet die Auflösung an?",
+    "optionen": [
+     "X und Y gemeinsam als Gesellschafter",
+     "G als Liquidator, da ohne abweichende Satzungsregelung die Geschäftsführer zu Liquidatoren werden",
+     "Ein vom Registergericht zu bestellender Liquidator",
+     "Der Notar, der den Auflösungsbeschluss entworfen hat"
+    ],
+    "antwort": 1,
+    "erklaerung": "Ohne abweichende Satzungsregelung werden die Geschäftsführer zu Liquidatoren. Die Liquidatoren vertreten die Liquidationsgesellschaft, melden die Auflösung zum Handelsregister an und reichen den Auflösungsbeschluss ein."
+   },
+   {
+    "frage": "Dürfen X und Y die 40.000 € sofort verteilen?",
+    "optionen": [
+     "Ja, da alle bekannten Schulden getilgt sind",
+     "Ja, sofern G versichert, dass keine weiteren Gläubiger existieren",
+     "Nein, die Verteilung ist erst nach Ablauf des Sperrjahrs zulässig, das mit Bekanntmachung der Auflösung und Gläubigeraufruf im Bundesanzeiger beginnt",
+     "Nein, das Restvermögen fällt nach Auflösung an den Fiskus"
+    ],
+    "antwort": 2,
+    "erklaerung": "Nach § 73 GmbHG ist die Verteilung an die Gesellschafter erst nach Ablauf des Sperrjahrs zulässig; dieses beginnt mit der Bekanntmachung der Auflösung im Bundesanzeiger und dem Gläubigeraufruf. Die Tilgung der bekannten Schulden genügt nicht – die vorzeitige Verteilung ist der typische Fehler."
+   },
+   {
+    "frage": "Wie wird das Restvermögen nach Ablauf des Sperrjahrs verteilt, und was ist anschließend anzumelden?",
+    "optionen": [
+     "Nach Köpfen; anschließend die Löschung der Firma",
+     "Nach dem Verhältnis der Geschäftsanteile; anschließend das Erlöschen der Gesellschaft",
+     "Nach dem Verhältnis der Geschäftsanteile; eine weitere Anmeldung ist nicht erforderlich",
+     "Nach dem Verhältnis der geleisteten Einlagen; anschließend die Beendigung der Liquidatorenstellung"
+    ],
+    "antwort": 1,
+    "erklaerung": "Verbleibendes Vermögen wird nach dem Verhältnis der Geschäftsanteile verteilt. Ist die Liquidation nach Ablauf des Sperrjahrs beendet, ist das Erlöschen der Gesellschaft zum Handelsregister anzumelden."
+   }
+  ],
+  "erklaerung": "G wird mangels Satzungsregelung Liquidator und meldet die Auflösung an. Das Restvermögen darf erst nach Ablauf des Sperrjahrs (§ 73 GmbHG) nach dem Verhältnis der Geschäftsanteile verteilt werden; danach ist das Erlöschen anzumelden."
  }
 ]

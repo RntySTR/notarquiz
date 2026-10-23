@@ -13,12 +13,12 @@
   ],
   "frage": "Welche Formanforderung stellt § 925 Abs. 1 S. 1 BGB an die Auflassung?",
   "optionen": [
+   "Schriftliche Erklärung beider Teile gegenüber dem Grundbuchamt.",
    "Notarielle Beurkundung des schuldrechtlichen Kaufvertrags genügt, eine gesonderte dingliche Einigung ist entbehrlich.",
    "Erklärung beider Teile bei gleichzeitiger Anwesenheit vor einer zuständigen Stelle.",
-   "Öffentliche Beglaubigung der Unterschriften beider Teile, die auch getrennt erfolgen kann.",
-   "Schriftliche Erklärung beider Teile gegenüber dem Grundbuchamt."
+   "Öffentliche Beglaubigung der Unterschriften beider Teile, die auch getrennt erfolgen kann."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Die Auflassung ist die nach § 873 BGB erforderliche dingliche Einigung und muss nach § 925 Abs. 1 S. 1 BGB von beiden Teilen bei gleichzeitiger Anwesenheit vor einer zuständigen Stelle erklärt werden; zuständig ist jeder Notar (§ 925 Abs. 1 S. 2 BGB). Der schuldrechtliche Kaufvertrag ersetzt die dingliche Einigung nicht, da § 873 Abs. 1 BGB neben dem Verpflichtungsgeschäft die Einigung über den Rechtsübergang verlangt. Eine getrennte Beglaubigung scheitert am Erfordernis der gleichzeitigen Anwesenheit."
  },
  {
@@ -52,12 +52,12 @@
   ],
   "frage": "Ein WEG-Verwalter erteilt seine Zustimmung zur Veräußerung durch privatschriftliche Erklärung, deren Unterschrift der Notar beglaubigt. Wie ist diese Erklärung grundbuchrechtlich einzuordnen?",
   "optionen": [
-   "Sie genügt § 29 Abs. 1 GBO; öffentliche Urkunde im Sinne des § 415 ZPO ist allein der Beglaubigungsvermerk des Notars.",
+   "Sie genügt nur, wenn zusätzlich eine Genehmigung der Eigentümerversammlung in öffentlicher Urkunde vorgelegt wird.",
    "Sie genügt § 29 Abs. 1 GBO nicht, weil die Zustimmung eines Verwalters stets notariell beurkundet werden muss.",
-   "Sie ist insgesamt öffentliche Urkunde im Sinne des § 415 ZPO, weil der Notar an ihr mitgewirkt hat.",
-   "Sie genügt nur, wenn zusätzlich eine Genehmigung der Eigentümerversammlung in öffentlicher Urkunde vorgelegt wird."
+   "Sie genügt § 29 Abs. 1 GBO; öffentliche Urkunde im Sinne des § 415 ZPO ist allein der Beglaubigungsvermerk des Notars.",
+   "Sie ist insgesamt öffentliche Urkunde im Sinne des § 415 ZPO, weil der Notar an ihr mitgewirkt hat."
   ],
-  "antwort": 0,
+  "antwort": 2,
   "erklaerung": "Eine private Erklärung mit Beglaubigungsvermerk genügt der Form des § 29 Abs. 1 GBO (§ 129 BGB, vgl. § 39 BeurkG). Öffentliche Urkunde im Sinne des § 415 ZPO ist dabei nur der Vermerk des Notars, nicht die Privaterklärung selbst; das Grundbuchamt akzeptiert die beglaubigte Erklärung gleichwohl. Die Verwalterzustimmung mit Verwalternachweis ist gerade ein typischer Anwendungsfall; eine Beurkundungspflicht besteht nicht."
  },
  {
@@ -108,12 +108,12 @@
   ],
   "frage": "Warum muss der Grundstückskaufvertrag die Verkehrssicherungspflicht ausdrücklich regeln, obwohl er den Übergang von Nutzen und Lasten bereits festlegt?",
   "optionen": [
-   "Weil die Verkehrssicherungspflicht erst mit der Eigentumsumschreibung übergehen kann und der Vertrag sie vorverlegen muss.",
-   "Weil der BGH die Verkehrssicherungspflicht nicht den Lasten zuordnet und sie daher vom Übergang der Lasten nicht erfasst wird.",
    "Weil die Verkehrssicherungspflicht öffentlich-rechtlich ist und nur durch notarielle Vereinbarung übertragen werden kann.",
-   "Weil Räum- und Streupflichten nach der Gemeindesatzung stets beim Veräußerer verbleiben."
+   "Weil Räum- und Streupflichten nach der Gemeindesatzung stets beim Veräußerer verbleiben.",
+   "Weil der BGH die Verkehrssicherungspflicht nicht den Lasten zuordnet und sie daher vom Übergang der Lasten nicht erfasst wird.",
+   "Weil die Verkehrssicherungspflicht erst mit der Eigentumsumschreibung übergehen kann und der Vertrag sie vorverlegen muss."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Nach der Rechtsprechung des BGH gehört die Verkehrssicherungspflicht nicht zu den Lasten; eine Klausel zum Übergang von Nutzen und Lasten erfasst sie deshalb nicht. Der Kaufvertrag muss daher eigens regeln, dass die Verkehrssicherungspflicht (z. B. Räum- und Streupflicht) mit der Besitzübergabe auf den Erwerber übergeht. Eine Bindung an die Eigentumsumschreibung besteht nicht; maßgeblich ist der Besitzübergang."
  },
  {
@@ -145,9 +145,9 @@
   ],
   "frage": "Der Veräußerer soll die verkaufte Wohnung nach Besitzübergang noch drei Jahre bewohnen. Welche Gestaltung entspricht den Vorgaben der Seite?",
   "optionen": [
-   "Eine Nutzungsentschädigung genügt; ein Mietvertrag ist bei Weiternutzung durch den Veräußerer ausgeschlossen.",
-   "Ein Mietvertrag ab Besitzübergang mit dem Erwerber als Vermieter; ist er vertragswesentlich, gehören seine Eckpunkte in den Kaufvertrag, bei Befristung sind § 550 S. 1 und § 575 Abs. 1 BGB zu beachten.",
    "Der Besitzübergang wird um drei Jahre hinausgeschoben, damit Nutzen und Lasten beim Veräußerer bleiben; eine Mietregelung ist entbehrlich.",
+   "Ein Mietvertrag ab Besitzübergang mit dem Erwerber als Vermieter; ist er vertragswesentlich, gehören seine Eckpunkte in den Kaufvertrag, bei Befristung sind § 550 S. 1 und § 575 Abs. 1 BGB zu beachten.",
+   "Eine Nutzungsentschädigung genügt; ein Mietvertrag ist bei Weiternutzung durch den Veräußerer ausgeschlossen.",
    "Ein Mietvertrag ist nur zulässig, wenn der Kaufpreis bis zum Auszug gestundet wird."
   ],
   "antwort": 1,
@@ -172,22 +172,22 @@
     "frage": "Wie hat der Notar auf den Wunsch des K nach vorzeitiger Schlüsselübergabe zu reagieren?",
     "optionen": [
      "Er muss die Beurkundung ablehnen, weil ein Besitzübergang vor Zahlung unzulässig ist.",
+     "Er verlangt eine Bankbürgschaft des K in Höhe des Kaufpreises.",
      "Er belehrt über die ungesicherte Vorleistung und sicherere Gestaltungen und regelt erlaubte Arbeiten sowie Aufwendungsersatz oder Rückbau bei Rückabwicklung.",
-     "Er kann die Schlüsselübergabe ohne weitere Regelung beurkunden, da der Erwerber durch die Vormerkung ohnehin geschützt ist.",
-     "Er verlangt eine Bankbürgschaft des K in Höhe des Kaufpreises."
+     "Er kann die Schlüsselübergabe ohne weitere Regelung beurkunden, da der Erwerber durch die Vormerkung ohnehin geschützt ist."
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Weicht der Vertrag von der Zug-um-Zug-Übergabe ab, erbringt eine Seite eine ungesicherte Vorleistung; der Notar muss über die Risiken belehren und sicherere Gestaltungen aufzeigen (doppelte Belehrungspflicht). Der Vertrag sollte die erlaubten Arbeiten genau bezeichnen und festlegen, ob bei Rückabwicklung Aufwendungsersatz oder Rückbau geschuldet ist. Eine Beurkundungsverweigerung ist nicht geboten; der Vormerkungsschutz besteht erst ab Eintragung, weshalb K Arbeiten mindestens bis dahin zurückstellen sollte."
    },
    {
     "frage": "Wie lässt sich die Räumungspflicht des V nach den Grundsätzen der Seite sachgerecht absichern?",
     "optionen": [
-     "Durch Vertragsstrafe je angefangenem Verzugstag, Vollstreckungsunterwerfung des V wegen der Räumung (Waffengleichheit) und Verzicht auf Räumungsschutzfristen nach § 721 ZPO.",
+     "Durch Verwahrung eines Teils des Kaufpreises auf Notaranderkonto bis zur Räumung.",
      "Durch Anweisung an den Notar, die Räumung vor Erteilung der vollstreckbaren Ausfertigung persönlich zu prüfen und zu bescheinigen.",
-     "Allein durch Verschiebung des Besitzübergangs auf den Auszugstermin; eine weitere Absicherung ist nicht möglich.",
-     "Durch Verwahrung eines Teils des Kaufpreises auf Notaranderkonto bis zur Räumung."
+     "Durch Vertragsstrafe je angefangenem Verzugstag, Vollstreckungsunterwerfung des V wegen der Räumung (Waffengleichheit) und Verzicht auf Räumungsschutzfristen nach § 721 ZPO.",
+     "Allein durch Verschiebung des Besitzübergangs auf den Auszugstermin; eine weitere Absicherung ist nicht möglich."
     ],
-    "antwort": 0,
+    "antwort": 2,
     "erklaerung": "Für die Räumungspflicht kann eine Vertragsstrafe je angefangenem Verzugstag vereinbart werden. Hat sich der Erwerber wegen des Kaufpreises unterworfen, bietet sich paritätisch die Vollstreckungsunterwerfung des Veräußerers wegen der Räumungspflicht an; die vollstreckbare Ausfertigung kann dann ohne weitere Nachweise erteilt werden, die Beweislast verschiebt sich nicht. Zusätzlich kann der Veräußerer auf Räumungsschutzfristen verzichten (§ 721 ZPO). Der Notar überwacht und bescheinigt die Räumung typischerweise nicht."
    }
   ],
@@ -207,10 +207,10 @@
   ],
   "frage": "Welche Rechtsfolge hat eine Verfügung des Veräußerers über das Vertragsobjekt, die der eingetragenen Eigentumsvormerkung des Erwerbers widerspricht?",
   "optionen": [
-   "Sie ist absolut nichtig und wird vom Grundbuchamt von Amts wegen zurückgewiesen.",
-   "Sie ist dem Erwerber gegenüber relativ unwirksam (§ 883 Abs. 2 S. 1 BGB).",
    "Sie ist wirksam; der Erwerber hat lediglich einen Schadensersatzanspruch gegen den Veräußerer.",
-   "Sie ist schwebend unwirksam bis zur Genehmigung durch den Erwerber nach § 185 BGB."
+   "Sie ist dem Erwerber gegenüber relativ unwirksam (§ 883 Abs. 2 S. 1 BGB).",
+   "Sie ist schwebend unwirksam bis zur Genehmigung durch den Erwerber nach § 185 BGB.",
+   "Sie ist absolut nichtig und wird vom Grundbuchamt von Amts wegen zurückgewiesen."
   ],
   "antwort": 1,
   "erklaerung": "Nach § 883 Abs. 2 S. 1 BGB ist eine der Vormerkung widersprechende Verfügung dem Vormerkungsberechtigten gegenüber relativ unwirksam; sie bleibt im Übrigen wirksam und wird auch eingetragen. Absolute Nichtigkeit besteht nicht, weshalb der Erwerber zur Durchsetzung den Zustimmungsanspruch aus § 888 Abs. 1 BGB braucht. Daneben schützt die Vormerkung in der Insolvenz des Veräußerers (§ 106 Abs. 1 S. 1 InsO)."
@@ -229,9 +229,9 @@
   ],
   "frage": "Der Kaufvertrag enthält Bewilligung und Antrag, die Eigentumsvormerkung zugleich mit der Eigentumsumschreibung zu löschen. Wie ist diese Löschungsbewilligung auszugestalten?",
   "optionen": [
-   "Unbedingt, weil das Grundbuchamt bedingte Bewilligungen generell nicht vollziehen darf.",
-   "Aufschiebend bedingt darauf, dass bis dahin nichts eingetragen wurde, an dem der Erwerber nicht mitgewirkt oder dem er nicht zugestimmt hat.",
    "Auflösend bedingt durch den Eingang einer Eigenurkunde des Notars beim Grundbuchamt.",
+   "Aufschiebend bedingt darauf, dass bis dahin nichts eingetragen wurde, an dem der Erwerber nicht mitgewirkt oder dem er nicht zugestimmt hat.",
+   "Unbedingt, weil das Grundbuchamt bedingte Bewilligungen generell nicht vollziehen darf.",
    "Befristet auf drei Monate nach Fälligkeitsmitteilung."
   ],
   "antwort": 1,
@@ -248,9 +248,9 @@
   "normen": [
    "§ 883 BGB"
   ],
-  "frage": "Zur Kontrolle des rangrichtigen Eintragung der Eigentumsvormerkung vor Versand der Fälligkeitsmitteilung genügt die Eintragungsbekanntmachung des Grundbuchamts.",
-  "antwort": false,
-  "erklaerung": "Die Eintragungsbekanntmachung ist zwar auf Vollständigkeit (alle Grundstücke, Käufer und Beteiligungsverhältnis, gesicherter Anspruch) zu prüfen, für die Rangkontrolle reicht sie jedoch nicht aus. Zweckmäßig ist deshalb, mit dem Eintragungsantrag zugleich einen Grundbuchauszug anzufordern. Vorgehen dürfen nur Belastungen, die bei Vertragsschluss schon eingetragen waren oder mit Mitwirkung des Erwerbers eingetragen wurden, vor allem dessen Finanzierungsgrundpfandrechte."
+  "frage": "Für die Kontrolle des Rangs der Eigentumsvormerkung vor Versand der Fälligkeitsmitteilung reicht die Eintragungsbekanntmachung des Grundbuchamts nicht aus; zweckmäßig ist es, mit dem Eintragungsantrag zugleich einen Grundbuchauszug anzufordern.",
+  "antwort": true,
+  "erklaerung": "Die Eintragungsbekanntmachung ist zwar auf Vollständigkeit (alle Grundstücke, Käufer und Beteiligungsverhältnis, gesicherter Anspruch) zu prüfen, für die Rangkontrolle reicht sie jedoch nicht aus. Deshalb wird mit dem Eintragungsantrag zugleich ein Grundbuchauszug angefordert. Vorgehen dürfen nur Belastungen, die bei Vertragsschluss schon eingetragen waren oder mit Mitwirkung des Erwerbers eingetragen wurden, vor allem dessen Finanzierungsgrundpfandrechte (§ 883 BGB)."
  },
  {
   "id": "kauf1-012",
@@ -265,12 +265,12 @@
   ],
   "frage": "Die Eigentumsvormerkung ist auflösend bedingt durch den Eingang einer Löschungs-Eigenurkunde des Notars bestellt. Welche Voraussetzung gehört nach der Anweisung der Beteiligten NICHT zu den Bedingungen, unter denen der Notar die Eigenurkunde vorlegen darf?",
   "optionen": [
-   "Alle Fälligkeitsvoraussetzungen sind eingetreten.",
-   "Der Veräußerer hat dargelegt, wegen Zahlungsverzugs zurückgetreten zu sein.",
    "Der Erwerber hat nach einem Hinweisschreiben des Notars die vollständige Zahlung nicht fristgerecht nachgewiesen.",
-   "Das Grundbuchamt hat den Rücktritt des Veräußerers durch Beschluss festgestellt."
+   "Das Grundbuchamt hat den Rücktritt des Veräußerers durch Beschluss festgestellt.",
+   "Der Veräußerer hat dargelegt, wegen Zahlungsverzugs zurückgetreten zu sein.",
+   "Alle Fälligkeitsvoraussetzungen sind eingetreten."
   ],
-  "antwort": 3,
+  "antwort": 1,
   "erklaerung": "Die Eigenurkunde darf nur vorgelegt werden, wenn erstens alle Fälligkeitsvoraussetzungen eingetreten sind, zweitens der Veräußerer den Rücktritt wegen Zahlungsverzugs dargelegt hat und drittens der Erwerber nach Hinweisschreiben des Notars die vollständige Kaufpreiszahlung nicht fristgerecht nachgewiesen hat. Eine Feststellung des Rücktritts durch das Grundbuchamt gibt es nicht; das Grundbuchamt prüft nur den Eingang der Eigenurkunde als Bedingung. Bei Teilzahlung ist die Löschung nur Zug um Zug gegen Erstattung des Teilbetrags zulässig."
  },
  {
@@ -288,11 +288,11 @@
   "frage": "Wer schuldet der Gemeinde den Erschließungsbeitrag nach § 134 Abs. 1 S. 1 BauGB?",
   "optionen": [
    "Wer Eigentümer war, als die Erschließungsanlage fertiggestellt wurde.",
-   "Wer Eigentümer ist, wenn der Beitragsbescheid bekanntgegeben wird.",
    "Wer Eigentümer war, als mit dem Bau der Erschließungsanlage begonnen wurde.",
+   "Wer Eigentümer ist, wenn der Beitragsbescheid bekanntgegeben wird.",
    "Wer im Zeitpunkt des Kaufvertragsschlusses Eigentümer war."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Beitragsschuldner ist nach § 134 Abs. 1 S. 1 BauGB, wer im Zeitpunkt der Bekanntgabe des Beitragsbescheids Grundstückseigentümer ist; der Zeitpunkt des Baubeginns oder der Fertigstellung spielt für die öffentlich-rechtliche Beitragspflicht keine Rolle. Der bautechnische Beginn ist dagegen für die interne Verteilung zwischen Verkäufer und Käufer nach § 436 Abs. 1 BGB maßgeblich und darf nicht mit der Beitragsschuld verwechselt werden."
  },
  {
@@ -324,12 +324,12 @@
   ],
   "frage": "Der Kaufvertrag grenzt die Erschließungskosten nach der Fertigstellung der Anlagen ab. Welche Belehrung schuldet der Notar dem Erwerber in dieser Konstellation besonders?",
   "optionen": [
-   "Dass der Erwerber nach § 436 Abs. 1 BGB alle vor Beurkundung begonnenen Maßnahmen selbst zu tragen hat.",
    "Dass vor Beurkundung fertiggestellte Anlagen möglicherweise erst beim Erwerber abgerechnet werden und der Erstattungsanspruch gegen den Veräußerer gesichert werden sollte, etwa durch Bankbürgschaft.",
-   "Dass die Gemeinde bei dieser Gestaltung den Bescheid stets an den Veräußerer richten muss.",
-   "Dass die Abgrenzung nach Fertigstellung unwirksam ist, weil § 436 Abs. 1 BGB zwingend gilt."
+   "Dass die Abgrenzung nach Fertigstellung unwirksam ist, weil § 436 Abs. 1 BGB zwingend gilt.",
+   "Dass der Erwerber nach § 436 Abs. 1 BGB alle vor Beurkundung begonnenen Maßnahmen selbst zu tragen hat.",
+   "Dass die Gemeinde bei dieser Gestaltung den Bescheid stets an den Veräußerer richten muss."
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Bei der Abgrenzung nach Fertigstellung besteht das Risiko, dass die Gemeinde bereits fertige Anlagen erst nach der Beurkundung gegenüber dem Erwerber als neuem Eigentümer abrechnet (§ 134 Abs. 1 S. 1 BauGB); der Veräußerer muss dann erstatten. Der Notar hat den Erwerber bereits im Kaufvertrag auf Sicherungsmöglichkeiten wie eine Bankbürgschaft hinzuweisen. § 436 Abs. 1 BGB ist dispositiv, und die Gemeinde ist an die vertragliche Abrede nicht gebunden."
  },
  {
@@ -381,12 +381,12 @@
   ],
   "frage": "Welche Rechtsfolge ordnet § 566 Abs. 1 BGB bei der Veräußerung vermieteten Wohnraums nach Überlassung an den Mieter an?",
   "optionen": [
+   "Der Erwerber tritt erst mit der Besitzübergabe kraft Gesetzes in das Mietverhältnis ein.",
    "Das Mietverhältnis endet mit der Eigentumsumschreibung, der Erwerber kann einen neuen Mietvertrag schließen.",
    "Der Erwerber tritt für die Dauer seines Eigentums an die Stelle des Vermieters in die Rechte und Pflichten aus dem Mietverhältnis ein.",
-   "Der Veräußerer bleibt Vermieter, bis der Mieter dem Vermieterwechsel zustimmt.",
-   "Der Erwerber tritt erst mit der Besitzübergabe kraft Gesetzes in das Mietverhältnis ein."
+   "Der Veräußerer bleibt Vermieter, bis der Mieter dem Vermieterwechsel zustimmt."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Nach § 566 Abs. 1 BGB tritt der Erwerber für die Dauer seines Eigentums an die Stelle des Vermieters; die Regel gilt über § 581 Abs. 2 BGB auch für Pachtverträge. Der gesetzliche Eintritt knüpft an den Eigentumsübergang, nicht an die Besitzübergabe, und lässt sich von den Parteien zeitlich nicht verschieben. Eine Zustimmung des Mieters ist nicht erforderlich; das Mietverhältnis endet nicht."
  },
  {
@@ -419,11 +419,11 @@
   "frage": "Die Vermieterstellung soll wirtschaftlich bereits mit der Besitzübergabe auf den Erwerber übergehen, die Eigentumsumschreibung erfolgt aber erst Monate später. Welche Gestaltung empfiehlt die Seite?",
   "optionen": [
    "Vereinbarung, dass § 566 BGB bereits ab Besitzübergabe gilt; diese Vorverlegung ist zulässig.",
-   "Vollmacht zur Ausübung der Vermieterrechte und Abtretung sämtlicher mietvertraglicher Rechte und Forderungen ab Besitzübergang.",
    "Kündigung des Mietverhältnisses durch den Veräußerer und Neuabschluss durch den Erwerber ab Besitzübergabe.",
-   "Hinterlegung der Mieten auf Notaranderkonto bis zur Eigentumsumschreibung."
+   "Hinterlegung der Mieten auf Notaranderkonto bis zur Eigentumsumschreibung.",
+   "Vollmacht zur Ausübung der Vermieterrechte und Abtretung sämtlicher mietvertraglicher Rechte und Forderungen ab Besitzübergang."
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Den gesetzlichen Eintritt nach § 566 BGB können die Parteien zeitlich nicht verschieben; er knüpft an den Eigentumsübergang. Mit einer Vollmacht, die dem Erwerber die Ausübung der Vermieterrechte ermöglicht, und einer Abtretung aller mietvertraglichen Rechte und Forderungen ab Besitzübergang wird aber eine Lage erreicht, die § 566 BGB weitgehend entspricht. Kündigung und Neuabschluss sind weder nötig noch ohne Mitwirkung des Mieters möglich."
  },
  {
@@ -441,8 +441,8 @@
   "optionen": [
    "Immer, wenn die verkaufte Eigentumswohnung im Zeitpunkt des Verkaufs vermietet ist.",
    "Wenn das Wohnungseigentum begründet wurde, nachdem die Räume dem Mieter überlassen waren, und die Wohnung danach an einen Dritten verkauft wird.",
-   "Wenn das Mietverhältnis seit mindestens drei Jahren besteht und der Mieter die Wohnung selbst bewohnt.",
-   "Wenn der Erwerber Eigenbedarf geltend machen will."
+   "Wenn der Erwerber Eigenbedarf geltend machen will.",
+   "Wenn das Mietverhältnis seit mindestens drei Jahren besteht und der Mieter die Wohnung selbst bewohnt."
   ],
   "antwort": 1,
   "erklaerung": "§ 577 Abs. 1 S. 1 BGB setzt voraus, dass an den Wohnräumen Wohnungseigentum begründet wurde, nachdem sie dem Mieter überlassen waren, und dass die Wohnung danach an einen Dritten verkauft wird. Das bloße Bestehen eines Mietverhältnisses beim Verkauf genügt nicht; bei vermietetem Wohnungseigentum ist deshalb die zeitliche Reihenfolge von Überlassung und Begründung des Wohnungseigentums zu prüfen."
@@ -454,7 +454,7 @@
   "seite": "Grundstückskaufvertrag: Rechtsmängel und Übernahme von Belastungen",
   "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-rechtsmangel-und-ubernahme-von-belastungen",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 19 GBO",
    "§ 13 GBO",
@@ -462,12 +462,12 @@
   ],
   "frage": "Welche Erklärungen erfordert die Löschung eines Grundpfandrechts verfahrensrechtlich?",
   "optionen": [
-   "Bewilligung des Eigentümers (§ 19 GBO) und Antrag (§ 13 GBO); der Gläubiger muss nur angehört werden.",
-   "Bewilligung des Gläubigers (§ 19 GBO), Antrag (§ 13 GBO) und Zustimmung des Eigentümers (§ 27 GBO).",
    "Bewilligung des Gläubigers (§ 19 GBO) und Einigung nach § 20 GBO.",
-   "Antrag des Notars (§ 13 Abs. 1 S. 3 GBO) und Zustimmung des Eigentümers (§ 27 GBO)."
+   "Antrag des Notars (§ 13 Abs. 1 S. 3 GBO) und Zustimmung des Eigentümers (§ 27 GBO).",
+   "Bewilligung des Gläubigers (§ 19 GBO), Antrag (§ 13 GBO) und Zustimmung des Eigentümers (§ 27 GBO).",
+   "Bewilligung des Eigentümers (§ 19 GBO) und Antrag (§ 13 GBO); der Gläubiger muss nur angehört werden."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Die Löschung eines Grundpfandrechts verlangt die Bewilligung des betroffenen Gläubigers (§ 19 GBO), einen Antrag (§ 13 GBO) und zusätzlich die Zustimmung des Eigentümers (§ 27 GBO). Bewilligender ist der Gläubiger als Rechtsverlierender, nicht der Eigentümer; § 20 GBO betrifft nur Auflassung und Erbbaurecht. Die Eigentümerzustimmung nach § 27 GBO ist das besondere Zusatzerfordernis bei Grundpfandrechten."
  },
  {
@@ -483,12 +483,12 @@
   ],
   "frage": "Im Grundbuch ist in Abteilung III eine valutierte Grundschuld der Hausbank des Veräußerers eingetragen, die aus dem Kaufpreis abgelöst werden soll. Welche Fälligkeitsgestaltung ist richtig?",
   "optionen": [
-   "Die eingetragene Löschung der Grundschuld wird Fälligkeitsvoraussetzung, da sie bereits mit der Vormerkung beantragt werden kann.",
    "Die Löschung kann nicht Fälligkeitsvoraussetzung sein; der Notar muss zur Fälligkeit aber alle Löschungsunterlagen in Händen haben, und der Veräußerer kann in Höhe der Ablösebeträge nicht Zahlung an sich verlangen.",
-   "Der Veräußerer muss die Grundschuld vor Beurkundung aus eigenen Mitteln ablösen, sonst darf der Notar nicht beurkunden.",
-   "Die Grundschuld wird zwingend vom Erwerber übernommen, da sie valutiert."
+   "Die Grundschuld wird zwingend vom Erwerber übernommen, da sie valutiert.",
+   "Die eingetragene Löschung der Grundschuld wird Fälligkeitsvoraussetzung, da sie bereits mit der Vormerkung beantragt werden kann.",
+   "Der Veräußerer muss die Grundschuld vor Beurkundung aus eigenen Mitteln ablösen, sonst darf der Notar nicht beurkunden."
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Bei valutierten Grundpfandrechten werden die gesicherten Forderungen im Vollzug aus dem Kaufpreis getilgt; die Löschung erfolgt erst nach Zahlung und kann daher keine Fälligkeitsvoraussetzung sein. Zur Fälligkeit müssen dem Notar aber sämtliche Unterlagen für die Löschung mit der Eigentumsumschreibung vorliegen, und in Höhe der Ablösebeträge darf der Veräußerer nicht Zahlung an sich verlangen. Die Löschung als Fälligkeitsvoraussetzung passt nur bei nicht valutierten Grundpfandrechten. Eine Übernahmepflicht des Erwerbers besteht nie."
  },
  {
@@ -554,10 +554,10 @@
   ],
   "frage": "Wofür haftet der Veräußerer trotz eines vollständigen Haftungsausschlusses für Sachmängel?",
   "optionen": [
-   "Für alle verborgenen Mängel, die der Erwerber bei der Besichtigung nicht erkennen konnte.",
-   "Für Mängel, die er vorsätzlich oder arglistig verschwiegen hat (§ 444 BGB, § 276 Abs. 3 BGB).",
    "Für Mängel, die innerhalb von zwei Jahren nach Übergabe auftreten.",
-   "Für alle Mängel an mitverkauften beweglichen Sachen."
+   "Für Mängel, die er vorsätzlich oder arglistig verschwiegen hat (§ 444 BGB, § 276 Abs. 3 BGB).",
+   "Für alle Mängel an mitverkauften beweglichen Sachen.",
+   "Für alle verborgenen Mängel, die der Erwerber bei der Besichtigung nicht erkennen konnte."
   ],
   "antwort": 1,
   "erklaerung": "Nach § 444 BGB kann sich der Verkäufer auf den Haftungsausschluss nicht berufen, soweit er den Mangel arglistig verschwiegen hat; § 276 Abs. 3 BGB verbietet den Vorausverzicht auf die Haftung für Vorsatz. Der Ausschluss erfasst dagegen gerade auch verborgene Mängel, die der Erwerber trotz gründlicher Besichtigung nicht erkennen konnte. Eine Zweijahresfrist gilt nur für die Einordnung eines genutzten Gebäudes als Neubau."
@@ -576,12 +576,12 @@
   ],
   "frage": "Eine Immobilien-GmbH verkauft ein gebrauchtes Einfamilienhaus an einen Verbraucher unter vollständigem Ausschluss der Sachmängelhaftung. Welche Einschränkung muss der Notar vorsehen?",
   "optionen": [
+   "Die Verjährung der Mängelansprüche darf auf höchstens ein Jahr verkürzt werden, ein weitergehender Ausschluss ist unwirksam.",
    "Ein Haftungsausschluss ist im Verbrauchervertrag mit Unternehmer als Veräußerer generell unzulässig.",
-   "Der Ausschluss darf die Haftung für Schäden aus Verletzung von Leben, Körper oder Gesundheit bei fahrlässiger und für sonstige Schäden bei grob fahrlässiger Pflichtverletzung nicht erfassen (§ 309 Nr. 7 lit. a und b BGB).",
    "Der Ausschluss ist nur zulässig, wenn der Käufer vor Beurkundung ein Sachverständigengutachten erhalten hat.",
-   "Die Verjährung der Mängelansprüche darf auf höchstens ein Jahr verkürzt werden, ein weitergehender Ausschluss ist unwirksam."
+   "Der Ausschluss darf die Haftung für Schäden aus Verletzung von Leben, Körper oder Gesundheit bei fahrlässiger und für sonstige Schäden bei grob fahrlässiger Pflichtverletzung nicht erfassen (§ 309 Nr. 7 lit. a und b BGB)."
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Auch im Verbrauchervertrag mit einem Unternehmer als Veräußerer ist ein umfassender Haftungsausschluss grundsätzlich zulässig, unterliegt aber den §§ 305 ff. BGB. Nach § 309 Nr. 7 lit. a und b BGB darf die Haftung für Personenschäden bei Fahrlässigkeit und für sonstige Schäden bei grober Fahrlässigkeit nicht ausgeschlossen werden, auch nicht für gesetzliche Vertreter und Erfüllungsgehilfen; Schadensersatz lässt sich nur für leichte Fahrlässigkeit außerhalb von Leben, Körper und Gesundheit ausschließen. Die Ausnahmen wegzulassen ist der typische Fehler. Dieselbe Grenze gilt beim Verkauf von Unternehmer an Unternehmer."
  },
  {
@@ -618,21 +618,21 @@
    {
     "frage": "Welches Haftungsregime gilt für das Gebäude?",
     "optionen": [
-     "Kaufrecht mit zweijähriger Verjährung, weil V Verbraucher ist.",
-     "Werkvertragsrecht (§§ 633 ff. BGB) mit fünfjähriger Verjährung, weil ein genutztes Gebäude bis zwei Jahre ab Fertigstellung als neu gilt.",
+     "Werkvertragsrecht nur, wenn V selbst Bauunternehmer ist.",
      "Kaufrecht, weil das Gebäude bereits bewohnt wurde und damit gebraucht ist.",
-     "Werkvertragsrecht nur, wenn V selbst Bauunternehmer ist."
+     "Kaufrecht mit zweijähriger Verjährung, weil V Verbraucher ist.",
+     "Werkvertragsrecht (§§ 633 ff. BGB) mit fünfjähriger Verjährung, weil ein genutztes Gebäude bis zwei Jahre ab Fertigstellung als neu gilt."
     ],
-    "antwort": 1,
+    "antwort": 3,
     "erklaerung": "Verkauft jemand, auch ein Verbraucher, ein Grundstück mit einem neuen oder grundlegend sanierten Gebäude, gilt Werkvertragsrecht mit der fünfjährigen Verjährung. Ein bereits bewohntes Gebäude gilt bis zwei Jahre ab Fertigstellung als neu; bei 18 Monaten ist das der Fall. Die Nutzung macht das Gebäude innerhalb dieser Frist nicht zur Gebrauchtimmobilie."
    },
    {
     "frage": "Ist der von V gewünschte vollständige Haftungsausschluss möglich?",
     "optionen": [
-     "Nein, bei Neubauten ist ein Haftungsausschluss stets unwirksam.",
      "Nur innerhalb der Grenzen des § 309 Nr. 7 BGB, weil K Verbraucher ist.",
+     "Nur, wenn G dem Ausschluss zustimmt.",
      "Ja, weil V Verbraucher ist und die §§ 305 ff. BGB dann nicht anwendbar sind.",
-     "Nur, wenn G dem Ausschluss zustimmt."
+     "Nein, bei Neubauten ist ein Haftungsausschluss stets unwirksam."
     ],
     "antwort": 2,
     "erklaerung": "Ist der Veräußerer Verbraucher, bleibt der Haftungsausschluss auch beim Neubau möglich, weil die §§ 305 ff. BGB nicht anwendbar sind. Die Grenzen des § 309 Nr. 7 BGB greifen nur, wenn ein Unternehmer auf Veräußererseite steht. Auf die Verbrauchereigenschaft des Käufers kommt es hierfür nicht an."
@@ -641,11 +641,11 @@
     "frage": "Welche Gestaltung sollte der Notar mit dem Haftungsausschluss verbinden?",
     "optionen": [
      "Eine Garantie des V für die Mangelfreiheit des Rohbaus.",
+     "Eine Bürgschaft des G zugunsten des K.",
      "Die Abtretung aller Ansprüche des V gegen Baubeteiligte wie G, Architekten und Lieferanten an K, ohne Haftung des V für Bestand und Durchsetzbarkeit, verbunden mit eingehender Belehrung des K.",
-     "Eine Verlängerung der Verjährung auf zehn Jahre.",
-     "Eine Bürgschaft des G zugunsten des K."
+     "Eine Verlängerung der Verjährung auf zehn Jahre."
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Beim Haftungsausschluss für Neubau oder Sanierung sollte der Erwerber im Wege der Abtretung alle Ansprüche gegen Baubeteiligte erhalten; deren Haftung ersetzt dann die des Veräußerers. Für Bestand, Durchsetzbarkeit und Umfang der abgetretenen Ansprüche haftet V nicht, und der Notar muss K über die Folgen eingehend belehren. Eine Garantie würde die gewünschte Haftungsfreistellung gerade aufheben."
    }
   ],
@@ -664,12 +664,12 @@
   ],
   "frage": "Welche Bedeutung hat § 13 Abs. 1 S. 3 GBO für die Sicherung des Verkäufers gegen eine vorzeitige Eigentumsumschreibung?",
   "optionen": [
-   "Die Vorschrift sichert den Verkäufer ausreichend, weil nur der Notar den Umschreibungsantrag stellen kann.",
-   "Sie ist eine Soll-Vorschrift, die die vertraglichen Sicherungsgestaltungen nicht ersetzt; ein entgegen der Vorschrift vollzogener Eigentumsübergang ist wirksam.",
+   "Sie verpflichtet das Grundbuchamt, vor der Umschreibung die Kaufpreiszahlung zu prüfen.",
    "Sie führt zur Unwirksamkeit einer Eigentumsumschreibung, die nicht auf Antrag eines Notars erfolgt ist.",
-   "Sie verpflichtet das Grundbuchamt, vor der Umschreibung die Kaufpreiszahlung zu prüfen."
+   "Sie ist eine Soll-Vorschrift, die die vertraglichen Sicherungsgestaltungen nicht ersetzt; ein entgegen der Vorschrift vollzogener Eigentumsübergang ist wirksam.",
+   "Die Vorschrift sichert den Verkäufer ausreichend, weil nur der Notar den Umschreibungsantrag stellen kann."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Nach § 13 Abs. 1 S. 3 GBO soll das Grundbuchamt die Auflassung nur auf Antrag eines Notars eintragen. Als bloße Soll-Vorschrift ersetzt sie die vertragliche Umschreibungssperre nicht; vollzieht das Grundbuchamt dennoch, ist der Eigentumsübergang wirksam. Das Vertrauen auf diese Norm statt einer Bewilligungs- oder Ausfertigungssperre ist der typische Fehler. Eine Prüfung der Kaufpreiszahlung durch das Grundbuchamt findet nicht statt."
  },
  {
@@ -687,11 +687,11 @@
   "frage": "Warum ist die Bewilligungssperre mit aufschiebend bedingter Bewilligung des Verkäufers der Bewilligungssperre ohne Bewilligung vorzuziehen?",
   "optionen": [
    "Weil bei der bedingten Bewilligung keine Mitwirkung des Insolvenzverwalters mehr nötig ist.",
-   "Weil der Verkäufer selbst bewilligt und keine Vollmacht erteilt wird, die in seiner Insolvenz nach § 117 Abs. 1 InsO erlöschen könnte.",
    "Weil das Grundbuchamt eine durch Eigenurkunde des Notars abgegebene Bewilligung nicht akzeptiert.",
+   "Weil der Verkäufer selbst bewilligt und keine Vollmacht erteilt wird, die in seiner Insolvenz nach § 117 Abs. 1 InsO erlöschen könnte.",
    "Weil die bedingte Bewilligung keine Siegelung des Antragsschreibens erfordert."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Bei der Bewilligungssperre ohne Bewilligung gibt der Notar die Bewilligung nach § 19 GBO kraft Vollmacht des Verkäufers ab; in dessen Insolvenz erlöschen die Vollmachten (§ 117 Abs. 1 InsO), sodass der Notar nicht mehr bewilligen kann. Bewilligt der Verkäufer selbst, aufschiebend bedingt durch den Antrag des Notars in Eigenurkunde, fällt keine Vollmacht weg. Die Mitwirkung des Insolvenzverwalters bleibt gleichwohl erforderlich, und in beiden Varianten ist das Antragsschreiben zu siegeln."
  },
  {
@@ -756,10 +756,10 @@
   ],
   "frage": "Welche Voraussetzung gehört NICHT zu den vier Voraussetzungen einer wirksamen Ablösungsvereinbarung über Erschließungsbeiträge beim Kauf von der Gemeinde?",
   "optionen": [
-   "Der Beitrag ist noch nicht entstanden.",
    "Der Ablösungsbetrag ist im Kaufvertrag gesondert ausgewiesen.",
+   "Es bestehen ausreichende gemeindliche Ablösungsbestimmungen (Satzung oder Gemeinderatsbeschluss).",
    "Der Notar hat die Angemessenheit des Ablösungsbetrags rechnerisch geprüft und bestätigt.",
-   "Es bestehen ausreichende gemeindliche Ablösungsbestimmungen (Satzung oder Gemeinderatsbeschluss)."
+   "Der Beitrag ist noch nicht entstanden."
   ],
   "antwort": 2,
   "erklaerung": "Die vier Voraussetzungen sind: noch nicht entstandener Beitrag, gesonderter Ausweis des Ablösungsbetrags, ausreichende gemeindliche Ablösungsbestimmungen und Angemessenheit der Ablöseforderung. Die inhaltliche Prüfung der Ablösungsbestimmungen und der Angemessenheit ist nicht Aufgabe des Notars; von ihm kann nur eine Evidenzkontrolle verlangt werden. Eine spätere Abweichung des Ablösungsbetrags von der tatsächlichen Beitragshöhe ist unschädlich, weil die Ablösung ihrer Natur nach pauschaliert."
@@ -775,9 +775,9 @@
   "normen": [
    "§ 311b Abs. 1 BGB"
   ],
-  "frage": "Wurde die Ablösungsvereinbarung über Erschließungsbeiträge bereits vor dem Kaufvertrag mit der Gemeinde getroffen, ist sie formfrei und muss nicht mitbeurkundet werden.",
-  "antwort": false,
-  "erklaerung": "Die Ablösungsvereinbarung bildet für die Beteiligten typischerweise mit dem Kauf eine Einheit, weil der Kauf inhaltlich von ihr abhängt und sie wirtschaftlich den Gesamtpreis prägt; sie ist deshalb in der Regel beurkundungspflichtig. Daran ändert sich nichts, wenn sie schon vor dem Kaufvertrag vereinbart wurde. Nur wenn ausnahmsweise keine inhaltliche Verbindung besteht, ist sie für sich genommen formfrei."
+  "frage": "Eine Ablösungsvereinbarung über Erschließungsbeiträge mit der Gemeinde ist in der Regel mitzubeurkunden, auch wenn sie bereits vor dem Kaufvertrag getroffen wurde.",
+  "antwort": true,
+  "erklaerung": "Die Ablösungsvereinbarung bildet für die Beteiligten typischerweise mit dem Kauf eine Einheit, weil der Kauf inhaltlich von ihr abhängt und sie wirtschaftlich den Gesamtpreis prägt; sie ist deshalb nach § 311b Abs. 1 BGB in der Regel beurkundungspflichtig. Eine vorherige Vereinbarung ändert daran nichts. Nur wenn ausnahmsweise keine inhaltliche Verbindung besteht, ist sie für sich genommen formfrei."
  },
  {
   "id": "kauf1-035",
@@ -793,12 +793,12 @@
   ],
   "frage": "Warum kann nach der Rechtsprechung des BayVGH bei leitungsgebundenen Einrichtungen in Bayern für ein gemeindeeigenes Grundstück keine Ablösung mehr vereinbart werden, sobald die Anlagen fertiggestellt und gewidmet sind?",
   "optionen": [
-   "Weil der Beitrag nach Art. 5a KAG Bayern bereits entsteht, obwohl die Gemeinde noch Eigentümerin ist, und sofort durch Konfusion erlischt.",
    "Weil bayerisches Recht Ablösungsvereinbarungen generell verbietet.",
-   "Weil der Beitrag erst mit Veräußerung des Grundstücks entsteht und daher nicht abgelöst werden kann.",
-   "Weil die Ablösung nur bis zur Widmung der Straße, nicht aber bei Leitungen zulässig ist."
+   "Weil die Ablösung nur bis zur Widmung der Straße, nicht aber bei Leitungen zulässig ist.",
+   "Weil der Beitrag nach Art. 5a KAG Bayern bereits entsteht, obwohl die Gemeinde noch Eigentümerin ist, und sofort durch Konfusion erlischt.",
+   "Weil der Beitrag erst mit Veräußerung des Grundstücks entsteht und daher nicht abgelöst werden kann."
   ],
-  "antwort": 0,
+  "antwort": 2,
   "erklaerung": "Bundesrechtlich setzt die Beitragspflicht voraus, dass das Grundstück nicht mehr der Gemeinde gehört, weshalb eine Ablösung für gemeindliche Grundstücke immer möglich ist. Nach dem BayVGH entsteht bei leitungsgebundenen Einrichtungen der Beitrag nach Art. 5a KAG Bayern dagegen schon mit Abschluss und Widmung der Anlagen, auch wenn die Gemeinde Eigentümerin ist, und erlischt sofort durch Konfusion; ein noch nicht entstandener Beitrag als Ablösungsvoraussetzung fehlt dann. Die Gemeinde darf den Betrag in diesem Fall als Kaufpreisteil ohne gesonderten Ausweis einrechnen."
  },
  {
@@ -816,11 +816,11 @@
   "frage": "Beim Bauplatzkauf von der Gemeinde wird meist das Bescheidsmodell gewählt. Was kennzeichnet es?",
   "optionen": [
    "Die Gemeinde übernimmt sämtliche Erschließungskosten und erklärt sie als im Gesamtpreis enthalten.",
-   "Der Erwerber übernimmt alle Erschließungskosten, über die erst nach Vertragsschluss oder Besitzübergang ein Bescheid ergeht; er trägt ein Kostenrisiko, aber kein technisches Vorleistungsrisiko.",
    "Der Veräußerer trägt nach § 436 Abs. 1 BGB alle Maßnahmen, mit deren Bau vor Vertragsschluss begonnen wurde.",
+   "Der Erwerber übernimmt alle Erschließungskosten, über die erst nach Vertragsschluss oder Besitzübergang ein Bescheid ergeht; er trägt ein Kostenrisiko, aber kein technisches Vorleistungsrisiko.",
    "Der Erwerber leistet eine Vorauszahlung, die auf den späteren Beitrag angerechnet wird."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Beim Bescheidsmodell übernimmt der Erwerber sämtliche Erschließungskosten, über die erst nach Vertragsschluss (oder Besitzübergang) ein Bescheid ergeht; für den Veräußerer ist das klar kalkulierbar, für den Erwerber mit einem Risiko, aber nicht mit einem technischen Vorleistungsrisiko verbunden. Die gesetzliche Verteilung nach § 436 Abs. 1 BGB knüpft an den schwer feststellbaren bautechnischen Beginn an und ist praktisch nahezu bedeutungslos. Die Übernahme aller Kosten durch die Gemeinde als verdeckter Pauschalpreis ist öffentlich-rechtlich unzulässig."
  },
  {
@@ -837,12 +837,12 @@
   ],
   "frage": "Die Gemeinde G verkauft einen Bauplatz „vollerschlossen“ zu einem Gesamtpreis und erklärt, sämtliche Erschließungskosten seien darin enthalten. Wie ist diese Gestaltung zu beurteilen?",
   "optionen": [
-   "Zulässig, weil die Gemeinde als Verkäuferin frei über die Kostentragung im Innenverhältnis entscheiden kann.",
    "Unzulässig, weil Gemeinden nicht auf Abgaben verzichten dürfen und der Grundsatz der Abgabengerechtigkeit (Art. 3 Abs. 1 GG) eine Kontrolle der Gleichbehandlung erfordert; der Erschließungsanteil muss als Ablösung ausgewiesen werden.",
    "Zulässig, sofern der Notar den Erwerber über das Vorleistungsrisiko doppelt belehrt.",
+   "Zulässig, weil die Gemeinde als Verkäuferin frei über die Kostentragung im Innenverhältnis entscheiden kann.",
    "Unzulässig nur dann, wenn der Gesamtpreis unter dem Verkehrswert liegt."
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Ein verdeckter Pauschalpreis, bei dem die Gemeinde alle Erschließungskosten übernimmt und sie lediglich als im Gesamtpreis enthalten erklärt, ist mit öffentlichem Recht nicht vereinbar: Gemeinden dürfen nicht auf Abgaben und Beiträge verzichten, und nach Art. 3 Abs. 1 GG muss für Erwerber und andere Beitragspflichtige erkennbar bleiben, ob eine Ungleichbehandlung vorliegt. Die pauschale Abrechnung ist nur durch eine Ablösungsvereinbarung mit gesondertem Ausweis möglich. Die doppelte Belehrung betrifft das Vollerschließungsmodell bei privaten Veräußerern und heilt den öffentlich-rechtlichen Mangel nicht."
  },
  {
@@ -875,10 +875,10 @@
   ],
   "frage": "Nach welchem Regelwerk bestimmt sich das Güterrechtsstatut von Ehegatten, die am 15. März 2019 geheiratet haben?",
   "optionen": [
-   "Nach Art. 14, 15 EGBGB, weil die Ehe vor Inkrafttreten der EuGüVO geschlossen wurde.",
+   "Nach der EuErbVO, weil Güterrecht und Erbrecht einheitlich angeknüpft werden.",
    "Nach der EuGüVO, weil die Ehe nach dem 29. Januar 2019 geschlossen wurde.",
    "Nach dem Recht des Belegenheitsorts des Grundstücks.",
-   "Nach der EuErbVO, weil Güterrecht und Erbrecht einheitlich angeknüpft werden."
+   "Nach Art. 14, 15 EGBGB, weil die Ehe vor Inkrafttreten der EuGüVO geschlossen wurde."
   ],
   "antwort": 1,
   "erklaerung": "Stichtag ist der 29. Januar 2019: Für davor geschlossene Ehen gelten Art. 14, 15 EGBGB, für danach geschlossene Ehen die EuGüVO. Eine Heirat im März 2019 fällt damit unter die EuGüVO. Die Belegenheit des Grundstücks ist keine güterrechtliche Anknüpfung, und die EuErbVO betrifft nur das Erbrecht."
@@ -897,12 +897,12 @@
   ],
   "frage": "Ein rumänisches Ehepaar hat 2010 in Rumänien ohne Ehevertrag geheiratet und lebt seit 2015 mit gewöhnlichem Aufenthalt in Deutschland; beide sind weiterhin rumänische Staatsangehörige. Welches Güterrecht gilt beim Grundstückserwerb nach den Angaben der Seite?",
   "optionen": [
-   "Rumänisches Güterrecht, weil Art. 15 Abs. 1, 14 Abs. 1 Nr. 1 EGBGB unwandelbar an die gemeinsame Staatsangehörigkeit bei Heirat anknüpfen.",
-   "Deutsches Güterrecht, weil das EGBGB im Wege der Gesamtverweisung auf rumänisches Recht verweist und dieses wandelbar an den gemeinsamen gewöhnlichen Aufenthalt anknüpft.",
    "Rumänisches Güterrecht, weil die EuGüVO auf den gewöhnlichen Aufenthalt bei Heirat abstellt.",
-   "Deutsches Güterrecht, weil bei Altehen stets das Recht des aktuellen Aufenthalts gilt."
+   "Rumänisches Güterrecht, weil Art. 15 Abs. 1, 14 Abs. 1 Nr. 1 EGBGB unwandelbar an die gemeinsame Staatsangehörigkeit bei Heirat anknüpfen.",
+   "Deutsches Güterrecht, weil bei Altehen stets das Recht des aktuellen Aufenthalts gilt.",
+   "Deutsches Güterrecht, weil das EGBGB im Wege der Gesamtverweisung auf rumänisches Recht verweist und dieses wandelbar an den gemeinsamen gewöhnlichen Aufenthalt anknüpft."
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Für die 2010 geschlossene Altehe gilt Art. 15 Abs. 1, 14 Abs. 1 Nr. 1 EGBGB mit Anknüpfung an die gemeinsame Staatsangehörigkeit bei Heirat, also rumänisches Recht. Das EGBGB verweist aber im Wege der Gesamtverweisung einschließlich des rumänischen Kollisionsrechts; dieses knüpft wandelbar an den gemeinsamen gewöhnlichen Aufenthalt an, sodass der Umzug beider Ehegatten nach Deutschland zur Anwendung deutschen Güterrechts führt. Anders läge es bei kroatischem Recht, das wandelbar an das gemeinsame Heimatrecht anknüpft; die EuGüVO ist für Altehen nicht anwendbar."
  },
  {
@@ -933,12 +933,12 @@
   ],
   "frage": "Unter welchen Voraussetzungen greift § 1365 BGB nach der subjektiven Einzeltheorie bei der Veräußerung eines einzelnen Grundstücks?",
   "optionen": [
+   "Wenn das Grundstück die Ehewohnung darstellt, unabhängig von seinem Wertanteil.",
    "Wenn das Grundstück mindestens 50 % des Vermögens des Verfügenden ausmacht; auf die Kenntnis des Vertragspartners kommt es nicht an.",
-   "Wenn das Grundstück mindestens 85 % bis 90 % des Gesamtvermögens des Verfügenden ausmacht und der Vertragspartner dies positiv weiß.",
    "Wenn die Ehegatten in Gütergemeinschaft leben und das Grundstück zum Gesamtgut gehört.",
-   "Wenn das Grundstück die Ehewohnung darstellt, unabhängig von seinem Wertanteil."
+   "Wenn das Grundstück mindestens 85 % bis 90 % des Gesamtvermögens des Verfügenden ausmacht und der Vertragspartner dies positiv weiß."
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Nach der subjektiven Einzeltheorie erfasst § 1365 BGB auch die Verfügung über einen einzelnen Gegenstand, der mindestens 85 % bis 90 % des Gesamtvermögens ausmacht, sofern der Vertragspartner positiv weiß, dass der Gegenstand nahezu das ganze Vermögen darstellt. Ein gutgläubiger Käufer erwirbt wirksam. § 1365 BGB gilt nur im gesetzlichen Güterstand der Zugewinngemeinschaft, nicht bei Gütergemeinschaft, bei der ohnehin beide Ehegatten beteiligt werden müssen."
  },
  {
@@ -948,7 +948,7 @@
   "seite": "Ehegatten beim Grundstückskauf: § 1365 BGB, Gütergemeinschaft und Erwerbsverhältnis",
   "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/ehegatten-beim-grundstuckskauf-1365-bgb-gutergemeinschaft-und-erwerbsverhaltnis",
   "typ": "rf",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 47 Abs. 1 GBO"
   ],
@@ -1004,12 +1004,12 @@
   ],
   "frage": "Der Notar erfährt aus dem Datenblatt, dass das zu verkaufende Hausgrundstück das nahezu gesamte Vermögen des im gesetzlichen Güterstand lebenden Verkäufers V darstellt; der Käufer K weiß davon nichts, die Ehefrau des V ist zur Beurkundung nicht erreichbar. Wie sollte der Notar nach den Praxishinweisen vorgehen?",
   "optionen": [
+   "Er beurkundet mit der Auflage, dass die Ehefrau innerhalb von zwei Wochen nachgenehmigt, andernfalls ist der Vertrag nichtig.",
    "Er muss K über die Vermögensverhältnisse des V aufklären, damit K die Zustimmungsbedürftigkeit erkennt.",
    "Er darf K weder vor noch in der Beurkundung bösgläubig machen; ohne Kenntnis des K erwirbt dieser wirksam, da § 1365 BGB nach der subjektiven Einzeltheorie positive Kenntnis des Vertragspartners voraussetzt.",
-   "Er muss die Beurkundung ablehnen, weil ein absolutes Verfügungsverbot entgegensteht.",
-   "Er beurkundet mit der Auflage, dass die Ehefrau innerhalb von zwei Wochen nachgenehmigt, andernfalls ist der Vertrag nichtig."
+   "Er muss die Beurkundung ablehnen, weil ein absolutes Verfügungsverbot entgegensteht."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "§ 1365 BGB greift nach der subjektiven Einzeltheorie nur, wenn der Vertragspartner positiv weiß, dass der Gegenstand nahezu das ganze Vermögen des Verfügenden ausmacht; ein Käufer ohne diese Kenntnis erwirbt wirksam. Deshalb sollen Notar und Mitarbeiter den Käufer weder vor noch in der Beurkundung bösgläubig machen. Eine Aufklärungspflicht gegenüber K besteht gerade nicht, und eine Beurkundungsverweigerung ist nicht geboten."
  },
  {
@@ -1025,12 +1025,12 @@
   ],
   "frage": "Welcher Nachweis genügt dem Grundbuchamt nach § 35 Abs. 1 GBO zum Nachweis der Erbfolge nicht?",
   "optionen": [
+   "Notarieller Erbvertrag mit Eröffnungsniederschrift.",
    "Ausfertigung des Erbscheins.",
    "Beglaubigte Abschrift des Europäischen Nachlasszeugnisses innerhalb der Geltungsdauer.",
-   "Eigenhändiges Testament des Erblassers mit Eröffnungsniederschrift des Nachlassgerichts.",
-   "Notarieller Erbvertrag mit Eröffnungsniederschrift."
+   "Eigenhändiges Testament des Erblassers mit Eröffnungsniederschrift des Nachlassgerichts."
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Nach § 35 Abs. 1 S. 1 GBO wird die Erbfolge durch Erbschein oder Europäisches Nachlasszeugnis nachgewiesen; nach § 35 Abs. 1 S. 2 Hs. 1 GBO genügt auch eine öffentlich beurkundete Verfügung von Todes wegen, also ein notarielles Testament oder ein notarieller Erbvertrag, samt Eröffnungsniederschrift. Ein eigenhändiges Testament ist keine öffentliche Urkunde und reicht trotz Eröffnung nicht aus; dann ist ein Erbschein erforderlich."
  },
  {
@@ -1040,19 +1040,19 @@
   "seite": "Erben beim Grundstückskauf: Erbnachweis gegenüber dem Grundbuchamt",
   "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/erben-beim-grundstuckskauf-erbnachweis-gegenuber-dem-grundbuchamt",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 2361 BGB",
    "§ 47 BeurkG"
   ],
   "frage": "Warum muss dem Grundbuchamt die Ausfertigung des Erbscheins vorgelegt werden und nicht nur eine beglaubigte Abschrift?",
   "optionen": [
-   "Weil nur die Ausfertigung die Urschrift vertritt und zugleich belegt, dass der Erbschein fortbesteht und nicht eingezogen wurde.",
-   "Weil beglaubigte Abschriften nach § 29 GBO generell keine öffentlichen Urkunden sind.",
    "Weil der Erbschein nur in elektronischer Ausfertigung an das Grundbuchamt übermittelt werden darf.",
-   "Weil die beglaubigte Abschrift nur sechs Monate gültig ist."
+   "Weil nur die Ausfertigung die Urschrift vertritt und zugleich belegt, dass der Erbschein fortbesteht und nicht eingezogen wurde.",
+   "Weil die beglaubigte Abschrift nur sechs Monate gültig ist.",
+   "Weil beglaubigte Abschriften nach § 29 GBO generell keine öffentlichen Urkunden sind."
   ],
-  "antwort": 0,
+  "antwort": 1,
   "erklaerung": "Die Ausfertigung vertritt die Urschrift im Rechtsverkehr (§ 47 BeurkG) und belegt zugleich, dass der Erbschein nicht eingezogen wurde (§ 2361 BGB); eine beglaubigte Abschrift kann dies nicht leisten. Eine elektronische Ausfertigung des Erbscheins existiert nicht, er ist in Papierform zu übersenden. Die Sechsmonatsfrist gilt für beglaubigte Abschriften des Europäischen Nachlasszeugnisses (Art. 70 Abs. 3 S. 1 EuErbVO), nicht für den Erbschein."
  },
  {
@@ -1070,12 +1070,12 @@
   ],
   "frage": "Der notarielle Erbvertrag der Eheleute enthält eine automatisch wirkende Pflichtteilsstrafklausel; nach dem Tod des Längstlebenden verkaufen die als Schlusserben eingesetzten Kinder das Hausgrundstück. Was gilt nach OLG Schleswig (Beschluss vom 16. August 2024) für den Erbnachweis?",
   "optionen": [
+   "Das Grundbuchamt muss die Pflichtteilsfrage selbst durch Anfrage beim Nachlassgericht klären.",
    "Der Erbvertrag mit Eröffnungsniederschrift genügt, weil die Pflichtteilsstrafklausel nur schuldrechtlich wirkt.",
    "Eine eidesstattliche Versicherung der Erben ist im Grundbuchverfahren kein taugliches Mittel; es gilt aber ein allgemeiner Erfahrungssatz, wenn sämtliche potentiellen Erben erklären, dass nach ihrem Wissen keiner den Pflichtteil verlangt hat.",
-   "Der Nachweis des Nichteintritts der Bedingung ist stets nur durch Erbschein zu führen.",
-   "Das Grundbuchamt muss die Pflichtteilsfrage selbst durch Anfrage beim Nachlassgericht klären."
+   "Der Nachweis des Nichteintritts der Bedingung ist stets nur durch Erbschein zu führen."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Bei einer automatisch wirkenden Pflichtteilsstrafklausel steht die Erbeinsetzung unter einer auflösenden Bedingung, deren Nichteintritt dem Grundbuchamt in der Form des § 29 GBO nachzuweisen ist; die Verfügung allein ist kein tauglicher Erbnachweis. Nach OLG Schleswig ist die eidesstattliche Versicherung hier kein taugliches Mittel, weil das Gesetz sie gegenüber dem Grundbuchamt nur in Ausnahmefällen wie § 35 Abs. 3 S. 2 GBO vorsieht; zugleich erkennt das Gericht einen allgemeinen Erfahrungssatz an, wenn sämtliche potentiellen Erben erklären, dass keiner den Pflichtteil verlangt hat. Deshalb sind die Erklärungen aller potentiellen Erben in die Kaufvertragsurkunde aufzunehmen."
  },
  {
@@ -1143,12 +1143,12 @@
   ],
   "frage": "Die Großmutter G verkauft ein Grundstück an ihre minderjährige Enkelin E. Wer kann E beim Vertragsschluss vertreten?",
   "optionen": [
-   "Beide Eltern gemeinschaftlich, da sie die gesetzlichen Vertreter sind.",
-   "Nur der Elternteil, der nicht Kind der G ist, allein.",
+   "Der Elternteil, der Kind der G ist, allein, weil er die Familienverhältnisse am besten kennt.",
    "Keiner der beiden Elternteile; die Eltern sind nach § 1629 Abs. 2 S. 1 i. V. m. § 1824 Abs. 1 Nr. 1 BGB von der Vertretung ausgeschlossen.",
-   "Der Elternteil, der Kind der G ist, allein, weil er die Familienverhältnisse am besten kennt."
+   "Nur der Elternteil, der nicht Kind der G ist, allein.",
+   "Beide Eltern gemeinschaftlich, da sie die gesetzlichen Vertreter sind."
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "Nach § 1824 Abs. 1 Nr. 1 BGB kann ein Elternteil das Kind nicht bei einem Geschäft mit dem eigenen Elternteil, also einem Großelternteil des Kindes, vertreten; über § 1629 Abs. 2 S. 1 BGB gilt dieser Ausschluss für die Eltern. Da die Eltern das Kind nach §§ 1626 Abs. 1, 1629 Abs. 1 S. 2 BGB gemeinschaftlich vertreten, schlägt der Ausschluss eines Elternteils auf die gemeinschaftliche Vertretung durch; es ist ein Ergänzungspfleger zu bestellen."
  },
  {
@@ -1182,12 +1182,12 @@
   ],
   "frage": "Welche Aussage zur Vertretung durch den Betreuer beim Grundstückskauf trifft zu?",
   "optionen": [
-   "Die Betreuerbestellung führt zur Geschäftsunfähigkeit des Betreuten, sodass nur der Betreuer handeln kann.",
    "Der Betreuer kann durch das Betreuungsgericht von § 181 BGB befreit werden, um das Grundstück des Betreuten selbst zu erwerben.",
    "Ein voll geschäftsfähiger Betreuter kann grundsätzlich neben dem Betreuer selbst handeln, es sei denn, ein Einwilligungsvorbehalt nach § 1825 BGB ist angeordnet.",
-   "Der Aufgabenkreis „Gesundheitssorge“ umfasst den Grundstückskaufvertrag."
+   "Der Aufgabenkreis „Gesundheitssorge“ umfasst den Grundstückskaufvertrag.",
+   "Die Betreuerbestellung führt zur Geschäftsunfähigkeit des Betreuten, sodass nur der Betreuer handeln kann."
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "Die Betreuerbestellung setzt keine Geschäftsunfähigkeit voraus; ein voll geschäftsfähiger Betreuter kann neben dem Betreuer selbst handeln (§§ 104 Nr. 2, 105 Abs. 1 BGB). Nur bei einem Einwilligungsvorbehalt nach § 1825 BGB kann der Betreute im Bereich des Vorbehalts nicht ohne Einwilligung des Betreuers wirksam handeln. Der Betreuer ist von § 181 BGB nicht befreit und kann auch nicht befreit werden (§ 1824 Abs. 2 BGB); der Grundstückskauf ist erfasst, wenn der Aufgabenkreis etwa die Vermögenssorge umfasst."
  },
  {
@@ -1197,7 +1197,7 @@
   "seite": "Gesetzliche Vertretung beim Grundstückskauf: gerichtliche Genehmigung, Doppelvollmacht und Eigenurkunde",
   "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/gesetzliche-vertretung-beim-grundstuckskauf-gerichtliche-genehmigung-doppelvollmacht-und-eigenurkunde",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 1855 BGB",
    "§ 1856 Abs. 1 S. 2 BGB",
@@ -1206,11 +1206,11 @@
   "frage": "Wann wird die betreuungsgerichtliche Genehmigung eines Grundstückskaufvertrags gegenüber dem Vertragspartner wirksam?",
   "optionen": [
    "Mit Erlass des Genehmigungsbeschlusses durch das Betreuungsgericht.",
+   "Mit Eintragung der Auflassung im Grundbuch.",
    "Mit Zustellung des Beschlusses an den Vertragspartner durch das Gericht.",
-   "Wenn der Betreuer die rechtskräftig gewordene Genehmigung dem Vertragspartner mitteilt (§ 1856 Abs. 1 S. 2 BGB).",
-   "Mit Eintragung der Auflassung im Grundbuch."
+   "Wenn der Betreuer die rechtskräftig gewordene Genehmigung dem Vertragspartner mitteilt (§ 1856 Abs. 1 S. 2 BGB)."
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Das Gericht erklärt die Genehmigung nur gegenüber dem Betreuer (§ 1855 BGB); gegenüber dem Vertragspartner wird sie erst wirksam, wenn der Betreuer die wirksam gewordene Genehmigung mitteilt (§ 1856 Abs. 1 S. 2 BGB). Der Beschluss selbst wird erst mit Rechtskraft wirksam (§ 40 Abs. 2 S. 1 FamFG). Diese Reihenfolge ist zwingend und gilt über § 1644 Abs. 3 S. 1 BGB ebenso für die familiengerichtliche Genehmigung; eine Zustellung an den Vertragspartner durch das Gericht ersetzt die Mitteilung nicht."
  },
  {
@@ -1228,12 +1228,12 @@
   ],
   "frage": "Welche Befugnis umfasst die sogenannte Doppelvollmacht an den Notar im Kaufvertrag mit einem Betreuer NICHT?",
   "optionen": [
-   "Die Genehmigung für den Betreuer zu beantragen und entgegenzunehmen.",
-   "Die Genehmigung nach Rechtskraft der anderen Vertragspartei mitzuteilen.",
    "Die Mitteilung für die andere Vertragspartei zu empfangen.",
-   "Eine Aufforderung des Vertragspartners nach § 1856 Abs. 2 BGB für den Betreuer entgegenzunehmen."
+   "Eine Aufforderung des Vertragspartners nach § 1856 Abs. 2 BGB für den Betreuer entgegenzunehmen.",
+   "Die Genehmigung nach Rechtskraft der anderen Vertragspartei mitzuteilen.",
+   "Die Genehmigung für den Betreuer zu beantragen und entgegenzunehmen."
   ],
-  "antwort": 3,
+  "antwort": 1,
   "erklaerung": "Die Doppelvollmacht, genau genommen eine Dreifachvollmacht, ermächtigt den Notar, die Genehmigung für den Betreuer zu beantragen und zu empfangen, sie nach Rechtskraft der anderen Partei mitzuteilen und diese Mitteilung für die andere Partei zu empfangen; über diese Vorgänge errichtet er eine Eigenurkunde nach § 29 GBO, die wegen § 20 GBO die endgültige Wirksamkeit der Auflassung belegt. Auf die Entgegennahme einer Aufforderung nach § 1856 Abs. 2 BGB, die eine Zweimonatsfrist in Gang setzt, erstreckt sich die Vollmacht nicht; der Vertrag kann die Aufforderung während des laufenden Verfahrens ausschließen."
  },
  {
@@ -1256,32 +1256,32 @@
    {
     "frage": "Wie ist die Rechtslage unmittelbar nach der Beurkundung?",
     "optionen": [
-     "Der Vertrag ist wirksam, weil die Vermögenssorge den Grundstücksverkauf umfasst.",
-     "Kaufvertrag und Auflassung sind schwebend unwirksam, weil sie nach § 1850 Nr. 5 und Nr. 1 BGB der betreuungsgerichtlichen Genehmigung bedürfen (§ 1856 Abs. 1 S. 1 BGB).",
+     "Der Vertrag ist nichtig, weil der Betreuer vor Beurkundung keine Genehmigung eingeholt hat.",
      "Nur die Auflassung ist genehmigungsbedürftig, der Kaufvertrag ist sofort wirksam.",
-     "Der Vertrag ist nichtig, weil der Betreuer vor Beurkundung keine Genehmigung eingeholt hat."
+     "Kaufvertrag und Auflassung sind schwebend unwirksam, weil sie nach § 1850 Nr. 5 und Nr. 1 BGB der betreuungsgerichtlichen Genehmigung bedürfen (§ 1856 Abs. 1 S. 1 BGB).",
+     "Der Vertrag ist wirksam, weil die Vermögenssorge den Grundstücksverkauf umfasst."
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Der Betreuer braucht die Genehmigung für die Verfügung über das Grundstück, insbesondere die Auflassung (§ 1850 Nr. 1 BGB), und für die Verpflichtung dazu, also den Kaufvertrag (§ 1850 Nr. 5 BGB). Bis zur Genehmigung ist das Geschäft schwebend unwirksam (§ 1856 Abs. 1 S. 1 BGB), nicht nichtig. Der Aufgabenkreis begründet nur die Vertretungsmacht, ersetzt aber die Genehmigung nicht."
    },
    {
     "frage": "Darf der Notar jetzt die Eigenurkunde über Empfang und Mitteilung der Genehmigung errichten?",
     "optionen": [
-     "Ja, die Doppelvollmacht ermächtigt ihn dazu, sobald der Beschluss vorliegt.",
-     "Nein, erst wenn der Beschluss mit Rechtskraftvermerk vorliegt, weil die Genehmigung erst mit Rechtskraft wirksam wird (§ 40 Abs. 2 S. 1 FamFG).",
+     "Nein, die Eigenurkunde darf nur das Betreuungsgericht errichten.",
      "Ja, aber nur nach erneuter Rückfrage beim Betreuer.",
-     "Nein, die Eigenurkunde darf nur das Betreuungsgericht errichten."
+     "Nein, erst wenn der Beschluss mit Rechtskraftvermerk vorliegt, weil die Genehmigung erst mit Rechtskraft wirksam wird (§ 40 Abs. 2 S. 1 FamFG).",
+     "Ja, die Doppelvollmacht ermächtigt ihn dazu, sobald der Beschluss vorliegt."
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Ein Beschluss über die Genehmigung eines Rechtsgeschäfts wird erst mit Rechtskraft wirksam (§ 40 Abs. 2 S. 1 FamFG). Der Notar fertigt die Eigenurkunde nach § 29 GBO über Empfang, Mitteilung und Empfang der Mitteilung deshalb erst, sobald der Beschluss rechtskräftig vermerkt vorliegt, und verbindet sie üblicherweise als Vermerk auf der Rückseite der Beschlussausfertigung. Eine erneute Rückfrage beim Betreuer ist nicht nötig; der Notar weist bereits im Vertrag darauf hin, dass er die Vollmacht ohne Rückfrage ausübt."
    },
    {
     "frage": "Wie ist die Genehmigung im Fälligkeitsgefüge des Kaufvertrags zu behandeln?",
     "optionen": [
-     "Sie ist unerheblich für die Fälligkeit, da K durch die Vormerkung geschützt ist.",
-     "Die gerichtliche Genehmigung ist Fälligkeitsvoraussetzung; maßgeblich ist der rechtskräftig vermerkte Genehmigungsbeschluss.",
      "Die Fälligkeit tritt mit Antragstellung beim Betreuungsgericht ein.",
-     "Die Fälligkeit tritt mit Ablauf der Zweimonatsfrist des § 1856 Abs. 2 BGB ein."
+     "Die gerichtliche Genehmigung ist Fälligkeitsvoraussetzung; maßgeblich ist der rechtskräftig vermerkte Genehmigungsbeschluss.",
+     "Die Fälligkeit tritt mit Ablauf der Zweimonatsfrist des § 1856 Abs. 2 BGB ein.",
+     "Sie ist unerheblich für die Fälligkeit, da K durch die Vormerkung geschützt ist."
     ],
     "antwort": 1,
     "erklaerung": "Die gerichtliche Genehmigung ist zur Fälligkeitsvoraussetzung zu machen; in der Regel beantragt der Notar sie im Auftrag der Beteiligten, und maßgeblich ist der rechtskräftig vermerkte Beschluss. Die Zweimonatsfrist des § 1856 Abs. 2 BGB betrifft die Aufforderung des Vertragspartners an den Betreuer und ist wegen der Verfahrensdauer oft nicht einzuhalten; der Vertrag kann die Aufforderung während des laufenden Verfahrens ausschließen."
@@ -1302,12 +1302,12 @@
   ],
   "frage": "Wer ist Beteiligter der Beurkundung im Sinne des § 6 Abs. 2 BeurkG?",
   "optionen": [
-   "Jede Person, deren Rechte durch die Urkunde berührt werden, auch wenn sie nicht erschienen ist.",
-   "Die erschienenen Personen, deren Erklärungen beurkundet werden sollen, gleich ob für sich selbst oder für andere abgegeben.",
    "Nur die Personen, die im eigenen Namen handeln; Vertreter sind keine Beteiligten.",
-   "Alle anwesenden Personen einschließlich Dolmetscher und Zeugen."
+   "Alle anwesenden Personen einschließlich Dolmetscher und Zeugen.",
+   "Jede Person, deren Rechte durch die Urkunde berührt werden, auch wenn sie nicht erschienen ist.",
+   "Die erschienenen Personen, deren Erklärungen beurkundet werden sollen, gleich ob für sich selbst oder für andere abgegeben."
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Nach § 6 Abs. 2 BeurkG sind Beteiligte die erschienenen Personen, deren Erklärungen – im eigenen oder fremden Namen – beurkundet werden sollen; beim Grundstückskaufvertrag also Verkäufer und Käufer bzw. ihre erschienenen Vertreter. Nicht erschienene materiell Betroffene sind keine Beteiligten im formellen Sinn, und Dolmetscher oder Zeugen geben keine zu beurkundenden Erklärungen ab. Die Beteiligten sind nach § 9 Abs. 1 Nr. 1 BeurkG zu bezeichnen und nach § 10 BeurkG zu identifizieren."
  },
  {
@@ -1340,12 +1340,12 @@
   ],
   "frage": "Der Notar kennt den Verkäufer seit Jahren persönlich. Welche Folge hat das für die Identifizierung?",
   "optionen": [
-   "Die persönliche Bekanntheit genügt für das BeurkG; die Identifizierung nach dem GwG ist dennoch durchzuführen.",
    "Die persönliche Bekanntheit ersetzt sowohl die Identifizierung nach § 10 BeurkG als auch die nach dem GwG.",
-   "Die persönliche Bekanntheit ist unbeachtlich; stets ist ein amtlicher Lichtbildausweis vorzulegen.",
-   "Die Identifizierung darf nur durch Vorstellung durch eine zuverlässige dritte Person erfolgen."
+   "Die Identifizierung darf nur durch Vorstellung durch eine zuverlässige dritte Person erfolgen.",
+   "Die persönliche Bekanntheit genügt für das BeurkG; die Identifizierung nach dem GwG ist dennoch durchzuführen.",
+   "Die persönliche Bekanntheit ist unbeachtlich; stets ist ein amtlicher Lichtbildausweis vorzulegen."
   ],
-  "antwort": 0,
+  "antwort": 2,
   "erklaerung": "Nach § 10 Abs. 3 S. 1 BeurkG soll die Niederschrift angeben, ob die Beteiligten dem Notar bekannt sind oder wie er ihre Identität festgestellt hat; persönliche Bekanntheit genügt daher für das BeurkG. Die geldwäscherechtliche Identifizierung ist davon unabhängig und trotzdem durchzuführen. Neben Lichtbildausweis und persönlicher Bekanntheit ist auch die Vorstellung durch eine dem Notar persönlich bekannte, zuverlässige Person möglich."
  },
  {
@@ -1355,7 +1355,7 @@
   "seite": "Grundstückskaufvertrag: Urkundeneingang und Bezeichnung der Beteiligten",
   "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/grundstuckskaufvertrag-urkundeneingang-und-bezeichnung-der-beteiligten",
   "typ": "zuordnung",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 3 Abs. 3 S. 1 NotAktVV",
    "§ 9 BeurkG",

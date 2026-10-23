@@ -1278,5 +1278,99 @@
   "antwort": true,
   "erklaerung": "Im Wahlgüterstand verwaltet jeder Ehegatte sein Vermögen selbst. Nach Art. 6 Abs. 1 Abkommen darf jeder Ehegatte Verträge über die Haushaltsführung und den Kinderbedarf schließen, aus denen der andere als Gesamtschuldner haftet; die Befugnis besteht nach Art. 6 Abs. 2 Abkommen nur, soweit das Geschäft der Lebensführung der Ehegatten entspricht. Verfügungsbeschränkungen bestehen nur für Haushaltsgegenstände und die Familienwohnung (Art. 5 Abs. 1 Abkommen), nicht für Gesamtvermögensgeschäfte.",
   "id": "fami1-058"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Deutsch-französische Wahl-Zugewinngemeinschaft: Zugewinnausgleich",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/deutsch-franzosische-wahl-zugewinngemeinschaft-zugewinnausgleich",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "Art. 9 Abs. 1 Abkommen",
+   "Art. 9 Abs. 2 Abkommen"
+  ],
+  "frage": "Ehefrau F brachte bei Begründung des Wahlgüterstands ein Grundstück im Wert von 200.000 EUR ein; bei Beendigung des Güterstands ist es 350.000 EUR wert. Mit welchem Wert ist das Grundstück im Anfangsvermögen anzusetzen?",
+  "optionen": [
+   "Mit 200.000 EUR, dem Wert bei Beginn des Güterstands, indexiert um die Geldentwertung",
+   "Mit 350.000 EUR, dem Wert bei Beendigung des Güterstands (Art. 9 Abs. 2 Abkommen)",
+   "Mit dem Mittelwert aus beiden Stichtagen",
+   "Gar nicht, weil Grundstücke im Wahlgüterstand aus dem Zugewinnausgleich ausgenommen sind"
+  ],
+  "antwort": 1,
+  "erklaerung": "Grundsätzlich wird das Anfangsvermögen mit dem Wert im Zeitpunkt des Erwerbs angesetzt (Art. 9 Abs. 1 Abkommen). Abweichend davon werden Grundstücke und grundstücksgleiche Rechte (außer Nießbrauch und Wohnrecht) mit ihrem Wert bei Beendigung des Güterstands bewertet (Art. 9 Abs. 2 Abkommen); wurde der Gegenstand veräußert oder ersetzt, gilt der Wert zu diesem Zeitpunkt. Die reine Wertsteigerung des Grundstücks fällt damit nicht in den Zugewinn – anders als nach deutschem Recht mit bloßer Indexierung.",
+  "id": "fami1-059"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Deutsch-französische Wahl-Zugewinngemeinschaft: Zugewinnausgleich",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/deutsch-franzosische-wahl-zugewinngemeinschaft-zugewinnausgleich",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "Art. 8 Abs. 2 S. 1 Abkommen"
+  ],
+  "frage": "Im deutsch-französischen Wahlgüterstand wird ein während der Ehe gezahltes Schmerzensgeld – abweichend vom deutschen Recht – dem Anfangsvermögen hinzugerechnet.",
+  "antwort": true,
+  "erklaerung": "Nach Art. 8 Abs. 2 S. 1 Abkommen zählen Erbschaften, Schenkungen und abweichend vom deutschen Recht auch gezahltes Schmerzensgeld zum Anfangsvermögen und sind damit dem Ausgleich entzogen. Nicht zum Anfangsvermögen gehören dagegen die Früchte dieses Vermögens sowie Vermögenswerte, die ein Ehegatte Verwandten in gerader Linie schenkt (Art. 8 Abs. 3 Abkommen).",
+  "id": "fami1-060"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Deutsch-französische Wahl-Zugewinngemeinschaft: Zugewinnausgleich",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/deutsch-franzosische-wahl-zugewinngemeinschaft-zugewinnausgleich",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "Art. 8 Abs. 4 Abkommen",
+   "Art. 14 Abkommen",
+   "Art. 15 Abkommen",
+   "Art. 10 Abs. 2 Abkommen"
+  ],
+  "frage": "Ordne die Regelungen des Abkommens über den Wahlgüterstand ihrem Inhalt zu.",
+  "paare": [
+   [
+    "Art. 8 Abs. 4 Abkommen",
+    "Verzeichnis bei Ehevertragsschluss ändert die Beweislast für das Anfangsvermögen"
+   ],
+   [
+    "Art. 14 Abkommen",
+    "Ausgleichsforderung begrenzt auf die Hälfte des bei Beendigung vorhandenen Vermögens"
+   ],
+   [
+    "Art. 15 Abkommen",
+    "Verjährung der güterrechtlichen Ansprüche in drei Jahren"
+   ],
+   [
+    "Art. 10 Abs. 2 Abkommen",
+    "Hinzurechnung verschenkter Gegenstände zum Endvermögen, außer Geschenken im Lebenszuschnitt des Paares"
+   ]
+  ],
+  "erklaerung": "Wer sich auf Anfangsvermögen beruft, trägt grundsätzlich die Beweislast (Art. 8 Abs. 5 Abkommen), sofern nicht bei Abschluss des Ehevertrags ein Verzeichnis errichtet wurde (Art. 8 Abs. 4 Abkommen) – daher die Praxisempfehlung, ein solches Verzeichnis aufzunehmen. Besonderheit des Wahlgüterstands ist die Kappung der Ausgleichsforderung auf die Hälfte des noch vorhandenen Vermögens (Art. 14 Abkommen). Ansprüche verjähren in drei Jahren (Art. 15 Abkommen); Schenkungen werden dem Endvermögen grundsätzlich hinzugerechnet (Art. 10 Abs. 2 Abkommen).",
+  "id": "fami1-061"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Deutsch-französische Wahl-Zugewinngemeinschaft: Zugewinnausgleich",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/deutsch-franzosische-wahl-zugewinngemeinschaft-zugewinnausgleich",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "Art. 8 Abs. 1 S. 2 Abkommen",
+   "Art. 10 Abs. 1 S. 2 Abkommen"
+  ],
+  "frage": "Wie werden Schulden bei der Ermittlung von Anfangs- und Endvermögen im Wahlgüterstand berücksichtigt?",
+  "optionen": [
+   "Sie mindern das Vermögen nur bis auf null; ein negatives Anfangs- oder Endvermögen gibt es nicht",
+   "Sie mindern Anfangs- und Endvermögen auch über den Wert des Aktivvermögens hinaus",
+   "Sie werden nur beim Endvermögen berücksichtigt",
+   "Sie bleiben außer Betracht, wenn sie vor der Ehe begründet wurden"
+  ],
+  "antwort": 1,
+  "erklaerung": "Schulden mindern das Anfangsvermögen selbst über den Wert des Aktivvermögens hinaus (Art. 8 Abs. 1 S. 2 Abkommen), ebenso das Endvermögen (Art. 10 Abs. 1 S. 2 Abkommen); negatives Vermögen ist also möglich. Maßgeblich sind der Tag des Beginns bzw. der Beendigung des Güterstands. Eine Kappung bei null ist unzutreffend; die Begrenzung des Wahlgüterstands liegt stattdessen bei der Ausgleichsforderung (Art. 14 Abkommen).",
+  "id": "fami1-062"
  }
 ]
