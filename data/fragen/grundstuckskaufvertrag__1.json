@@ -1,0 +1,370 @@
+[
+ {
+  "id": "kauf1-001",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Auflassung und Form der Eintragungsunterlagen",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-auflassung-und-form-der-eintragungsunterlagen",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 925 Abs. 1 BGB",
+   "§ 873 Abs. 1 BGB"
+  ],
+  "frage": "Welche Formanforderung stellt § 925 Abs. 1 S. 1 BGB an die Auflassung?",
+  "optionen": [
+   "Notarielle Beurkundung des schuldrechtlichen Kaufvertrags genügt, eine gesonderte dingliche Einigung ist entbehrlich.",
+   "Erklärung beider Teile bei gleichzeitiger Anwesenheit vor einer zuständigen Stelle.",
+   "Öffentliche Beglaubigung der Unterschriften beider Teile, die auch getrennt erfolgen kann.",
+   "Schriftliche Erklärung beider Teile gegenüber dem Grundbuchamt."
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Auflassung ist die nach § 873 BGB erforderliche dingliche Einigung und muss nach § 925 Abs. 1 S. 1 BGB von beiden Teilen bei gleichzeitiger Anwesenheit vor einer zuständigen Stelle erklärt werden; zuständig ist jeder Notar (§ 925 Abs. 1 S. 2 BGB). Der schuldrechtliche Kaufvertrag ersetzt die dingliche Einigung nicht, da § 873 Abs. 1 BGB neben dem Verpflichtungsgeschäft die Einigung über den Rechtsübergang verlangt. Eine getrennte Beglaubigung scheitert am Erfordernis der gleichzeitigen Anwesenheit."
+ },
+ {
+  "id": "kauf1-002",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Auflassung und Form der Eintragungsunterlagen",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-auflassung-und-form-der-eintragungsunterlagen",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 925 Abs. 1 BGB",
+   "§ 29 Abs. 1 S. 1 GBO"
+  ],
+  "frage": "Die gleichzeitige Anwesenheit nach § 925 Abs. 1 S. 1 BGB verlangt die persönliche Anwesenheit beider Vertragsteile; eine Auflassung durch Bevollmächtigte ist formunwirksam.",
+  "antwort": false,
+  "erklaerung": "Die gleichzeitige Anwesenheit verlangt keine persönliche Anwesenheit; das Formerfordernis des § 925 BGB ist auch bei Vertretung eines Beteiligten gewahrt. Anders ist dies nur bei höchstpersönlichen Erklärungen wie dem Erbverzicht (§ 2347 S. 1 Hs. 1 BGB). Für den Grundbuchvollzug muss die Vollmacht allerdings in der Form des § 29 Abs. 1 S. 1 GBO vorliegen."
+ },
+ {
+  "id": "kauf1-003",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Auflassung und Form der Eintragungsunterlagen",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-auflassung-und-form-der-eintragungsunterlagen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 29 Abs. 1 S. 1 GBO",
+   "§ 129 BGB",
+   "§ 415 ZPO"
+  ],
+  "frage": "Ein WEG-Verwalter erteilt seine Zustimmung zur Veräußerung durch privatschriftliche Erklärung, deren Unterschrift der Notar beglaubigt. Wie ist diese Erklärung grundbuchrechtlich einzuordnen?",
+  "optionen": [
+   "Sie genügt § 29 Abs. 1 GBO; öffentliche Urkunde im Sinne des § 415 ZPO ist allein der Beglaubigungsvermerk des Notars.",
+   "Sie genügt § 29 Abs. 1 GBO nicht, weil die Zustimmung eines Verwalters stets notariell beurkundet werden muss.",
+   "Sie ist insgesamt öffentliche Urkunde im Sinne des § 415 ZPO, weil der Notar an ihr mitgewirkt hat.",
+   "Sie genügt nur, wenn zusätzlich eine Genehmigung der Eigentümerversammlung in öffentlicher Urkunde vorgelegt wird."
+  ],
+  "antwort": 0,
+  "erklaerung": "Eine private Erklärung mit Beglaubigungsvermerk genügt der Form des § 29 Abs. 1 GBO (§ 129 BGB, vgl. § 39 BeurkG). Öffentliche Urkunde im Sinne des § 415 ZPO ist dabei nur der Vermerk des Notars, nicht die Privaterklärung selbst; das Grundbuchamt akzeptiert die beglaubigte Erklärung gleichwohl. Die Verwalterzustimmung mit Verwalternachweis ist gerade ein typischer Anwendungsfall; eine Beurkundungspflicht besteht nicht."
+ },
+ {
+  "id": "kauf1-004",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Auflassung und Form der Eintragungsunterlagen",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-auflassung-und-form-der-eintragungsunterlagen",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 19 GBO",
+   "§ 20 GBO",
+   "§ 29 GBO",
+   "§ 415 ZPO"
+  ],
+  "frage": "Ordne die Normen ihrer Funktion im Grundbuchverfahren zu.",
+  "paare": [
+   [
+    "§ 20 GBO",
+    "Nachweis der Einigung bei der Auflassung, abweichend vom Bewilligungsgrundsatz"
+   ],
+   [
+    "§ 19 GBO",
+    "Allgemeiner Bewilligungsgrundsatz für Eintragungen"
+   ],
+   [
+    "§ 29 Abs. 1 S. 1 GBO",
+    "Form der Eintragungsunterlagen: öffentliche oder öffentlich beglaubigte Urkunden"
+   ],
+   [
+    "§ 415 ZPO",
+    "Definition der öffentlichen Urkunde"
+   ]
+  ],
+  "erklaerung": "Für die Auflassung gilt § 20 GBO, der anders als § 19 GBO den Nachweis der Einigung verlangt. § 29 Abs. 1 S. 1 GBO regelt die Form der Eintragungsunterlagen (öffentliche oder öffentlich beglaubigte Urkunden), § 29 Abs. 2 GBO präzisiert die Anforderungen. Was öffentliche Urkunde ist, bestimmt § 415 ZPO, etwa notarielle Urkunden, Urteile, Sterbeurkunden und Behördengenehmigungen."
+ },
+ {
+  "id": "kauf1-005",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Besitzübergang, Nutzen, Lasten und Räumung",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-besitzubergang-nutzen-lasten-und-raumung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 446 BGB"
+  ],
+  "frage": "Warum muss der Grundstückskaufvertrag die Verkehrssicherungspflicht ausdrücklich regeln, obwohl er den Übergang von Nutzen und Lasten bereits festlegt?",
+  "optionen": [
+   "Weil die Verkehrssicherungspflicht erst mit der Eigentumsumschreibung übergehen kann und der Vertrag sie vorverlegen muss.",
+   "Weil der BGH die Verkehrssicherungspflicht nicht den Lasten zuordnet und sie daher vom Übergang der Lasten nicht erfasst wird.",
+   "Weil die Verkehrssicherungspflicht öffentlich-rechtlich ist und nur durch notarielle Vereinbarung übertragen werden kann.",
+   "Weil Räum- und Streupflichten nach der Gemeindesatzung stets beim Veräußerer verbleiben."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach der Rechtsprechung des BGH gehört die Verkehrssicherungspflicht nicht zu den Lasten; eine Klausel zum Übergang von Nutzen und Lasten erfasst sie deshalb nicht. Der Kaufvertrag muss daher eigens regeln, dass die Verkehrssicherungspflicht (z. B. Räum- und Streupflicht) mit der Besitzübergabe auf den Erwerber übergeht. Eine Bindung an die Eigentumsumschreibung besteht nicht; maßgeblich ist der Besitzübergang."
+ },
+ {
+  "id": "kauf1-006",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Besitzübergang, Nutzen, Lasten und Räumung",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-besitzubergang-nutzen-lasten-und-raumung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 320 BGB"
+  ],
+  "frage": "Ist im Kaufvertrag die vollständige Räumung durch den Veräußerer geschuldet, aber nicht als Fälligkeitsvoraussetzung ausgestaltet, darf der Erwerber die Kaufpreiszahlung verweigern, solange sich noch Sachen des Veräußerers in der Immobilie befinden.",
+  "antwort": false,
+  "erklaerung": "Ohne Ausgestaltung als Fälligkeitsvoraussetzung muss der Erwerber auch dann zahlen, wenn die Immobilie noch mit Sachen des Veräußerers gefüllt ist; der Kaufpreis verliert seine Druckwirkung. Das ist der typische Gestaltungsfehler, den die Seite benennt. Wer die Räumung absichern will, macht sie zur Fälligkeitsvoraussetzung oder sichert sie über Vertragsstrafe und Vollstreckungsunterwerfung."
+ },
+ {
+  "id": "kauf1-007",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Besitzübergang, Nutzen, Lasten und Räumung",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-besitzubergang-nutzen-lasten-und-raumung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 550 S. 1 BGB",
+   "§ 575 Abs. 1 BGB"
+  ],
+  "frage": "Der Veräußerer soll die verkaufte Wohnung nach Besitzübergang noch drei Jahre bewohnen. Welche Gestaltung entspricht den Vorgaben der Seite?",
+  "optionen": [
+   "Eine Nutzungsentschädigung genügt; ein Mietvertrag ist bei Weiternutzung durch den Veräußerer ausgeschlossen.",
+   "Ein Mietvertrag ab Besitzübergang mit dem Erwerber als Vermieter; ist er vertragswesentlich, gehören seine Eckpunkte in den Kaufvertrag, bei Befristung sind § 550 S. 1 und § 575 Abs. 1 BGB zu beachten.",
+   "Der Besitzübergang wird um drei Jahre hinausgeschoben, damit Nutzen und Lasten beim Veräußerer bleiben; eine Mietregelung ist entbehrlich.",
+   "Ein Mietvertrag ist nur zulässig, wenn der Kaufpreis bis zum Auszug gestundet wird."
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei längerer Weiternutzung durch den Veräußerer kommt ein Mietvertrag ab Besitzübergang in Betracht, bei dem der Erwerber Vermieter und der Veräußerer Mieter ist. Ist der Mietvertrag vertragswesentlich, gehören zumindest Miethöhe und Zahlungsweise, Laufzeit, Befristung und ein etwaiger Kündigungsausschluss in den Kaufvertrag; bei Befristung sind das Schriftformerfordernis (§ 550 S. 1 BGB) und § 575 Abs. 1 BGB zu beachten. Eine bloße Nutzungsentschädigung passt nur, wenn der Veräußerer lediglich bis zu einem bestimmten Termin bleiben will."
+ },
+ {
+  "id": "kauf1-008",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Besitzübergang, Nutzen, Lasten und Räumung",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-besitzubergang-nutzen-lasten-und-raumung",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 721 ZPO",
+   "§ 794 Abs. 1 Nr. 5 ZPO"
+  ],
+  "frage": "Vorzeitiger Schlüssel und späte Räumung",
+  "sachverhalt": "V verkauft an K ein bebautes Grundstück. K möchte schon vor Kaufpreiszahlung mit Renovierungsarbeiten beginnen und bittet um die Schlüssel. V seinerseits will erst zwei Monate nach Besitzübergang ausziehen; K unterwirft sich wegen des Kaufpreises der sofortigen Zwangsvollstreckung.",
+  "schritte": [
+   {
+    "frage": "Wie hat der Notar auf den Wunsch des K nach vorzeitiger Schlüsselübergabe zu reagieren?",
+    "optionen": [
+     "Er muss die Beurkundung ablehnen, weil ein Besitzübergang vor Zahlung unzulässig ist.",
+     "Er belehrt über die ungesicherte Vorleistung und sicherere Gestaltungen und regelt erlaubte Arbeiten sowie Aufwendungsersatz oder Rückbau bei Rückabwicklung.",
+     "Er kann die Schlüsselübergabe ohne weitere Regelung beurkunden, da der Erwerber durch die Vormerkung ohnehin geschützt ist.",
+     "Er verlangt eine Bankbürgschaft des K in Höhe des Kaufpreises."
+    ],
+    "antwort": 1,
+    "erklaerung": "Weicht der Vertrag von der Zug-um-Zug-Übergabe ab, erbringt eine Seite eine ungesicherte Vorleistung; der Notar muss über die Risiken belehren und sicherere Gestaltungen aufzeigen (doppelte Belehrungspflicht). Der Vertrag sollte die erlaubten Arbeiten genau bezeichnen und festlegen, ob bei Rückabwicklung Aufwendungsersatz oder Rückbau geschuldet ist. Eine Beurkundungsverweigerung ist nicht geboten; der Vormerkungsschutz besteht erst ab Eintragung, weshalb K Arbeiten mindestens bis dahin zurückstellen sollte."
+   },
+   {
+    "frage": "Wie lässt sich die Räumungspflicht des V nach den Grundsätzen der Seite sachgerecht absichern?",
+    "optionen": [
+     "Durch Vertragsstrafe je angefangenem Verzugstag, Vollstreckungsunterwerfung des V wegen der Räumung (Waffengleichheit) und Verzicht auf Räumungsschutzfristen nach § 721 ZPO.",
+     "Durch Anweisung an den Notar, die Räumung vor Erteilung der vollstreckbaren Ausfertigung persönlich zu prüfen und zu bescheinigen.",
+     "Allein durch Verschiebung des Besitzübergangs auf den Auszugstermin; eine weitere Absicherung ist nicht möglich.",
+     "Durch Verwahrung eines Teils des Kaufpreises auf Notaranderkonto bis zur Räumung."
+    ],
+    "antwort": 0,
+    "erklaerung": "Für die Räumungspflicht kann eine Vertragsstrafe je angefangenem Verzugstag vereinbart werden. Hat sich der Erwerber wegen des Kaufpreises unterworfen, bietet sich paritätisch die Vollstreckungsunterwerfung des Veräußerers wegen der Räumungspflicht an; die vollstreckbare Ausfertigung kann dann ohne weitere Nachweise erteilt werden, die Beweislast verschiebt sich nicht. Zusätzlich kann der Veräußerer auf Räumungsschutzfristen verzichten (§ 721 ZPO). Der Notar überwacht und bescheinigt die Räumung typischerweise nicht."
+   }
+  ],
+  "erklaerung": "Beim Besitzübergang vor Zahlung trifft den Notar die doppelte Belehrungspflicht; erlaubte Arbeiten und die Folgen einer Rückabwicklung sind genau zu regeln. Die spätere Räumung durch V wird über Vertragsstrafe, paritätische Vollstreckungsunterwerfung und Verzicht auf Räumungsschutzfristen (§ 721 ZPO) abgesichert."
+ },
+ {
+  "id": "kauf1-009",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Eigentumsvormerkung, Rang und Löschung",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-eigentumsvormerkung-rang-und-loschung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 883 Abs. 2 S. 1 BGB",
+   "§ 106 Abs. 1 S. 1 InsO"
+  ],
+  "frage": "Welche Rechtsfolge hat eine Verfügung des Veräußerers über das Vertragsobjekt, die der eingetragenen Eigentumsvormerkung des Erwerbers widerspricht?",
+  "optionen": [
+   "Sie ist absolut nichtig und wird vom Grundbuchamt von Amts wegen zurückgewiesen.",
+   "Sie ist dem Erwerber gegenüber relativ unwirksam (§ 883 Abs. 2 S. 1 BGB).",
+   "Sie ist wirksam; der Erwerber hat lediglich einen Schadensersatzanspruch gegen den Veräußerer.",
+   "Sie ist schwebend unwirksam bis zur Genehmigung durch den Erwerber nach § 185 BGB."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 883 Abs. 2 S. 1 BGB ist eine der Vormerkung widersprechende Verfügung dem Vormerkungsberechtigten gegenüber relativ unwirksam; sie bleibt im Übrigen wirksam und wird auch eingetragen. Absolute Nichtigkeit besteht nicht, weshalb der Erwerber zur Durchsetzung den Zustimmungsanspruch aus § 888 Abs. 1 BGB braucht. Daneben schützt die Vormerkung in der Insolvenz des Veräußerers (§ 106 Abs. 1 S. 1 InsO)."
+ },
+ {
+  "id": "kauf1-010",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Eigentumsvormerkung, Rang und Löschung",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-eigentumsvormerkung-rang-und-loschung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 888 BGB",
+   "§ 883 BGB"
+  ],
+  "frage": "Der Kaufvertrag enthält Bewilligung und Antrag, die Eigentumsvormerkung zugleich mit der Eigentumsumschreibung zu löschen. Wie ist diese Löschungsbewilligung auszugestalten?",
+  "optionen": [
+   "Unbedingt, weil das Grundbuchamt bedingte Bewilligungen generell nicht vollziehen darf.",
+   "Aufschiebend bedingt darauf, dass bis dahin nichts eingetragen wurde, an dem der Erwerber nicht mitgewirkt oder dem er nicht zugestimmt hat.",
+   "Auflösend bedingt durch den Eingang einer Eigenurkunde des Notars beim Grundbuchamt.",
+   "Befristet auf drei Monate nach Fälligkeitsmitteilung."
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Löschungsbewilligung ist aufschiebend bedingt zu erklären; Bedingung ist das Fehlen von Zwischeneintragungen ohne Mitwirkung oder Zustimmung des Erwerbers. Diese bedingte Bewilligung ist ausnahmsweise zulässig, weil das Grundbuchamt den Bedingungseintritt selbst aus dem Grundbuch prüfen kann. Bei Zwischeneintragungen muss die Vormerkung stehen bleiben, sonst gehen Schutz und Anspruch aus § 888 BGB verloren. Die auflösende Bedingung mit Eigenurkunde betrifft den anderen Fall des Scheiterns des Vertrags."
+ },
+ {
+  "id": "kauf1-011",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Eigentumsvormerkung, Rang und Löschung",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-eigentumsvormerkung-rang-und-loschung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 883 BGB"
+  ],
+  "frage": "Zur Kontrolle des rangrichtigen Eintragung der Eigentumsvormerkung vor Versand der Fälligkeitsmitteilung genügt die Eintragungsbekanntmachung des Grundbuchamts.",
+  "antwort": false,
+  "erklaerung": "Die Eintragungsbekanntmachung ist zwar auf Vollständigkeit (alle Grundstücke, Käufer und Beteiligungsverhältnis, gesicherter Anspruch) zu prüfen, für die Rangkontrolle reicht sie jedoch nicht aus. Zweckmäßig ist deshalb, mit dem Eintragungsantrag zugleich einen Grundbuchauszug anzufordern. Vorgehen dürfen nur Belastungen, die bei Vertragsschluss schon eingetragen waren oder mit Mitwirkung des Erwerbers eingetragen wurden, vor allem dessen Finanzierungsgrundpfandrechte."
+ },
+ {
+  "id": "kauf1-012",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Eigentumsvormerkung, Rang und Löschung",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-eigentumsvormerkung-rang-und-loschung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 883 BGB"
+  ],
+  "frage": "Die Eigentumsvormerkung ist auflösend bedingt durch den Eingang einer Löschungs-Eigenurkunde des Notars bestellt. Welche Voraussetzung gehört nach der Anweisung der Beteiligten NICHT zu den Bedingungen, unter denen der Notar die Eigenurkunde vorlegen darf?",
+  "optionen": [
+   "Alle Fälligkeitsvoraussetzungen sind eingetreten.",
+   "Der Veräußerer hat dargelegt, wegen Zahlungsverzugs zurückgetreten zu sein.",
+   "Der Erwerber hat nach einem Hinweisschreiben des Notars die vollständige Zahlung nicht fristgerecht nachgewiesen.",
+   "Das Grundbuchamt hat den Rücktritt des Veräußerers durch Beschluss festgestellt."
+  ],
+  "antwort": 3,
+  "erklaerung": "Die Eigenurkunde darf nur vorgelegt werden, wenn erstens alle Fälligkeitsvoraussetzungen eingetreten sind, zweitens der Veräußerer den Rücktritt wegen Zahlungsverzugs dargelegt hat und drittens der Erwerber nach Hinweisschreiben des Notars die vollständige Kaufpreiszahlung nicht fristgerecht nachgewiesen hat. Eine Feststellung des Rücktritts durch das Grundbuchamt gibt es nicht; das Grundbuchamt prüft nur den Eingang der Eigenurkunde als Bedingung. Bei Teilzahlung ist die Löschung nur Zug um Zug gegen Erstattung des Teilbetrags zulässig."
+ },
+ {
+  "id": "kauf1-013",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Erschließungskosten",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-erschliessungskosten",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 134 Abs. 1 S. 1 BauGB",
+   "§ 127 Abs. 1 BauGB"
+  ],
+  "frage": "Wer schuldet der Gemeinde den Erschließungsbeitrag nach § 134 Abs. 1 S. 1 BauGB?",
+  "optionen": [
+   "Wer Eigentümer war, als die Erschließungsanlage fertiggestellt wurde.",
+   "Wer Eigentümer ist, wenn der Beitragsbescheid bekanntgegeben wird.",
+   "Wer Eigentümer war, als mit dem Bau der Erschließungsanlage begonnen wurde.",
+   "Wer im Zeitpunkt des Kaufvertragsschlusses Eigentümer war."
+  ],
+  "antwort": 1,
+  "erklaerung": "Beitragsschuldner ist nach § 134 Abs. 1 S. 1 BauGB, wer im Zeitpunkt der Bekanntgabe des Beitragsbescheids Grundstückseigentümer ist; der Zeitpunkt des Baubeginns oder der Fertigstellung spielt für die öffentlich-rechtliche Beitragspflicht keine Rolle. Der bautechnische Beginn ist dagegen für die interne Verteilung zwischen Verkäufer und Käufer nach § 436 Abs. 1 BGB maßgeblich und darf nicht mit der Beitragsschuld verwechselt werden."
+ },
+ {
+  "id": "kauf1-014",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Erschließungskosten",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-erschliessungskosten",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 436 Abs. 1 BGB"
+  ],
+  "frage": "Fehlt im Kaufvertrag eine Regelung zu den Erschließungskosten, trägt der Verkäufer nach § 436 Abs. 1 BGB die Erschließungs- und Anliegerbeiträge für Maßnahmen, die bis zum Tag des Vertragsschlusses bautechnisch begonnen wurden, unabhängig davon, wann die Beitragsschuld entsteht.",
+  "antwort": true,
+  "erklaerung": "§ 436 Abs. 1 BGB knüpft die interne Verteilung an den bautechnischen Beginn der Maßnahme bis zum Vertragsschluss; auf den Zeitpunkt der Entstehung der Beitragsschuld kommt es nicht an. Diese gesetzliche Verteilung greift, wenn der Vertrag keinen abweichenden Abgrenzungszeitpunkt (Bescheidzugang oder Fertigstellung) wählt. Gegenüber der Gemeinde haftet gleichwohl stets der Eigentümer bei Bescheidbekanntgabe (§ 134 Abs. 1 S. 1 BauGB)."
+ },
+ {
+  "id": "kauf1-015",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Erschließungskosten",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-erschliessungskosten",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 436 Abs. 1 BGB",
+   "§ 134 Abs. 1 S. 1 BauGB"
+  ],
+  "frage": "Der Kaufvertrag grenzt die Erschließungskosten nach der Fertigstellung der Anlagen ab. Welche Belehrung schuldet der Notar dem Erwerber in dieser Konstellation besonders?",
+  "optionen": [
+   "Dass der Erwerber nach § 436 Abs. 1 BGB alle vor Beurkundung begonnenen Maßnahmen selbst zu tragen hat.",
+   "Dass vor Beurkundung fertiggestellte Anlagen möglicherweise erst beim Erwerber abgerechnet werden und der Erstattungsanspruch gegen den Veräußerer gesichert werden sollte, etwa durch Bankbürgschaft.",
+   "Dass die Gemeinde bei dieser Gestaltung den Bescheid stets an den Veräußerer richten muss.",
+   "Dass die Abgrenzung nach Fertigstellung unwirksam ist, weil § 436 Abs. 1 BGB zwingend gilt."
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei der Abgrenzung nach Fertigstellung besteht das Risiko, dass die Gemeinde bereits fertige Anlagen erst nach der Beurkundung gegenüber dem Erwerber als neuem Eigentümer abrechnet (§ 134 Abs. 1 S. 1 BauGB); der Veräußerer muss dann erstatten. Der Notar hat den Erwerber bereits im Kaufvertrag auf Sicherungsmöglichkeiten wie eine Bankbürgschaft hinzuweisen. § 436 Abs. 1 BGB ist dispositiv, und die Gemeinde ist an die vertragliche Abrede nicht gebunden."
+ },
+ {
+  "id": "kauf1-016",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Erschließungskosten",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-erschliessungskosten",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 127 Abs. 1 BauGB",
+   "§ 134 Abs. 1 S. 1 BauGB",
+   "§ 436 Abs. 1 BGB",
+   "§ 135a BauGB"
+  ],
+  "frage": "Ordne die Normen ihrem Regelungsgehalt zu.",
+  "paare": [
+   [
+    "§ 127 Abs. 1 BauGB",
+    "Gemeinden erheben für Erschließungsanlagen einen Erschließungsbeitrag"
+   ],
+   [
+    "§ 134 Abs. 1 S. 1 BauGB",
+    "Beitragsschuldner ist der Eigentümer bei Bekanntgabe des Bescheids"
+   ],
+   [
+    "§ 436 Abs. 1 BGB",
+    "Interne Verteilung: Verkäufer trägt Beiträge für bis zum Vertragsschluss begonnene Maßnahmen"
+   ],
+   [
+    "§ 135a BauGB",
+    "Erstattungsbeträge, die bei Abgrenzung nach Bescheidzugang vom Veräußerer mit umfasst sind"
+   ]
+  ],
+  "erklaerung": "§ 127 Abs. 1 BauGB begründet die Beitragserhebung, § 134 Abs. 1 S. 1 BauGB bestimmt den Eigentümer bei Bescheidbekanntgabe als Schuldner. § 436 Abs. 1 BGB regelt nur das Innenverhältnis der Kaufvertragsparteien nach dem bautechnischen Beginn. Die vertragliche Abgrenzung nach Bescheidzugang erfasst beim Veräußerer auch Kostenerstattungen für Hausanschlüsse und Erstattungsbeträge nach § 135a BauGB."
+ }
+]

@@ -1084,5 +1084,290 @@
   ],
   "antwort": 1,
   "erklaerung": "Der Notar muss nach § 40 Abs. 3 BeurkG richtig angeben, ob die Unterschrift vor ihm vollzogen oder anerkannt wurde, weil dies materiell-rechtlich bedeutsam sein kann: Der Vollzug beweist, dass die Unterschrift vorher noch nicht existierte. Bei einer qualifizierten elektronischen Signatur kommt nur eine Anerkennung in Betracht (§ 40a BeurkG), und eine Fernbeglaubigung gibt es nicht; wer beglaubigen lässt, muss stets selbst erscheinen. Die Verwechslung von „anerkannt“ und „vollzogen“ ist ein typischer Fehler."
+ },
+ {
+  "id": "beur2-049",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Ablehnungspflichten und Ablehnungsrechte (§ 4 BeurkG, § 14 Abs. 2 BNotO)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/ablehnungspflichten-und-ablehnungsrechte-4-beurkg-14-abs-2-bnoto",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 4 BeurkG",
+   "§ 14 Abs. 2 BNotO",
+   "§ 15 Abs. 1 BNotO"
+  ],
+  "frage": "Wann muss der Notar die Beurkundung nach § 4 BeurkG und § 14 Abs. 2 BNotO ablehnen?",
+  "optionen": [
+   "Schon bei einem Verdacht, dass unredliche Zwecke verfolgt werden",
+   "Wenn er erkennen kann, dass mit der Beurkundung unerlaubte oder unredliche Zwecke verfolgt werden",
+   "Wenn er die Zwecke der Beteiligten trotz Nachforschung nicht aufklären kann",
+   "Wenn ein Beteiligter die Beurkundung in einer fremden Sprache verlangt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 4 BeurkG und § 14 Abs. 2 BNotO muss der Notar ablehnen, wenn erkennbar unerlaubte oder unredliche Zwecke verfolgt werden; ein Verdacht allein reicht nicht. Ohne besonderen Anlass muss er die Zwecke nicht erforschen und darf die Angaben als richtig unterstellen; weiß er von keinem solchen Zweck, ist er nach § 15 Abs. 1 BNotO zur Beurkundung verpflichtet. Die fremde Sprache begründet nur ein Ablehnungsrecht (§ 15 Abs. 1 S. 2 BNotO)."
+ },
+ {
+  "id": "beur2-050",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Ablehnungspflichten und Ablehnungsrechte (§ 4 BeurkG, § 14 Abs. 2 BNotO)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/ablehnungspflichten-und-ablehnungsrechte-4-beurkg-14-abs-2-bnoto",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 4 BeurkG",
+   "§ 16 Abs. 2 BNotO",
+   "§ 15 Abs. 1 S. 2 BNotO",
+   "§ 17 Abs. 2 BeurkG"
+  ],
+  "frage": "Ordne die Konstellationen der Rechtsfolge zu.",
+  "paare": [
+   [
+    "Beurkundung eines bewusst falschen Kaufpreises",
+    "Ablehnungspflicht (materielle Nichtigkeit)"
+   ],
+   [
+    "Befangenheit des Notars (§ 16 Abs. 2 BNotO)",
+    "Ablehnungsrecht ohne Ablehnungspflicht"
+   ],
+   [
+    "Bloße Zweifel an der Wirksamkeit der Vereinbarung",
+    "Kein Ablehnungsrecht; Zweifel in der Niederschrift festhalten (§ 17 Abs. 2 BeurkG)"
+   ],
+   [
+    "Willkürliche Verkürzung der Zwei-Wochen-Frist des § 17 Abs. 2a BeurkG",
+    "Ablehnungspflicht (Umgehung zwingender Verfahrensregeln)"
+   ]
+  ],
+  "erklaerung": "Ablehnen muss der Notar bei materieller Nichtigkeit (falscher Kaufpreis, nicht beurkundete Abrede) und bei Umgehung zwingender Verfahrensregeln wie der Zwei-Wochen-Frist. Befangenheit, Nichtzahlung des Kostenvorschusses und fremde Sprache begründen nur Ablehnungsrechte. Bei bloßen Wirksamkeitszweifeln besteht kein Ablehnungsrecht; der Notar bespricht die Bedenken und vermerkt sie in der Niederschrift."
+ },
+ {
+  "id": "beur2-051",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Ablehnungspflichten und Ablehnungsrechte (§ 4 BeurkG, § 14 Abs. 2 BNotO)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/ablehnungspflichten-und-ablehnungsrechte-4-beurkg-14-abs-2-bnoto",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 6 GwGMeldV-Immobilien",
+   "§ 4 BeurkG"
+  ],
+  "frage": "Ein Grundstück wird zwei Jahre nach dem Erwerb mit einem Aufschlag von 40 % weiterverkauft; die Erhöhung lässt sich nicht plausibel erklären. Welche Konsequenz folgt nach der Handbuchseite selbst dann, wenn kein Ablehnungsgrund vorliegt?",
+  "optionen": [
+   "Keine; ohne Ablehnungsgrund darf der Notar beurkunden und abwickeln, ohne weitere Pflichten",
+   "Es ist von einem Meldefall nach § 6 GwGMeldV-Immobilien auszugehen",
+   "Der Notar muss den Preisunterschied selbst durch ein Wertgutachten aufklären",
+   "Der Notar muss die Beurkundung nach § 4 BeurkG ablehnen, weil ein Preissprung stets unredlich ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Auch ohne Ablehnungsgrund ist von einem Meldefall auszugehen, wenn ein Grundstück binnen drei Jahren mit einem Preisaufschlag von mehr als 25 % weiterverkauft wird und die Erhöhung nicht plausibel ist (§ 6 GwGMeldV-Immobilien). Ein Preissprung deutet zwar auf unredliche Zwecke hin, greift aber nicht durch, wenn er sich erklären lässt; eine eigene Ermittlungspflicht per Gutachten besteht nicht."
+ },
+ {
+  "id": "beur2-052",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Ablehnungspflichten und Ablehnungsrechte (§ 4 BeurkG, § 14 Abs. 2 BNotO)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/ablehnungspflichten-und-ablehnungsrechte-4-beurkg-14-abs-2-bnoto",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 17 BeurkG",
+   "§ 4 BeurkG"
+  ],
+  "frage": "Eine ungewöhnliche Gestaltung mit hohem Schadensrisiko kann die Schutzfunktion des § 17 BeurkG zu einer Ablehnungspflicht verdichten, wenn ein Vertragsteil die drohenden Risiken mangels Erfahrung nicht erkennen kann.",
+  "antwort": true,
+  "erklaerung": "Richtig. Schadensträchtige, ungewöhnliche Gestaltungen können die Schutzfunktion aus § 17 BeurkG zu einer Pflicht zur Ablehnung verdichten, insbesondere wenn ein Vertragsteil mangels Erfahrung oder intellektueller Fähigkeit die Risiken nicht erkennen kann. Beurkundet der Notar dennoch, sollte die Niederschrift festhalten, dass er abgeraten hat; bei bloßen Wirksamkeitszweifeln genügt dagegen der Zweifelsvermerk."
+ },
+ {
+  "id": "beur2-053",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Notarbeschwerde: beschwerdefähige Maßnahmen und Untätigkeit (§ 15 Abs. 2 BNotO)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/notarbeschwerde-beschwerdefahige-massnahmen-und-untatigkeit-15-abs-2-bnoto",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 15 Abs. 2 BNotO"
+  ],
+  "frage": "Welches Gericht ist Beschwerdegericht für die Notarbeschwerde nach § 15 Abs. 2 BNotO?",
+  "optionen": [
+   "Das Amtsgericht, in dessen Bezirk der Notar seinen Amtssitz hat",
+   "Eine Zivilkammer des Landgerichts, in dessen Bezirk der Notar seinen Amtssitz hat",
+   "Das Oberlandesgericht als Aufsichtsbehörde des Notars",
+   "Der Senat für Notarsachen beim Bundesgerichtshof"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 15 Abs. 2 S. 2 BNotO ist Beschwerdegericht eine Zivilkammer des Landgerichts, in dessen Bezirk der Notar seinen Amtssitz hat; für das Verfahren gelten die Vorschriften des FamFG. Die Aufsichtsbehörde ist Adressat der Dienstaufsichtsbeschwerde nach § 93 Abs. 1 BNotO, nicht Beschwerdegericht."
+ },
+ {
+  "id": "beur2-054",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Notarbeschwerde: beschwerdefähige Maßnahmen und Untätigkeit (§ 15 Abs. 2 BNotO)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/notarbeschwerde-beschwerdefahige-massnahmen-und-untatigkeit-15-abs-2-bnoto",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 15 Abs. 2 S. 1 BNotO"
+  ],
+  "frage": "Der Notar kündigt in einem Vorbescheid an, die Eigentumsumschreibung trotz Widerspruchs des Verkäufers zu beantragen. Ist diese Ankündigung mit der Notarbeschwerde angreifbar?",
+  "optionen": [
+   "Nein, weil § 15 Abs. 2 S. 1 BNotO nur die Verweigerung einer Amtstätigkeit erfasst",
+   "Ja, über den Wortlaut hinaus ist auch die Ankündigung einer Amtshandlung trotz Widerspruchs beschwerdefähig (BGH, V ZB 67/14)",
+   "Nein, der Verkäufer ist auf die Dienstaufsichtsbeschwerde nach § 93 Abs. 1 BNotO beschränkt",
+   "Nur, wenn der Antrag beim Grundbuchamt bereits gestellt wurde"
+  ],
+  "antwort": 1,
+  "erklaerung": "Über den Wortlaut des § 15 Abs. 2 S. 1 BNotO hinaus ist auch die Ankündigung des Notars beschwerdefähig, eine Amtshandlung trotz Widerspruchs eines Beteiligten vorzunehmen (BGH, Beschluss vom 01.10.2015, V ZB 67/14). Eine solche Ankündigung enthält typischerweise der Vorbescheid. Dass die Amtshandlung schon abgeschlossen ist, ist keine Voraussetzung; eine beendete Amtshandlung ist nur ausnahmsweise Beschwerdegegenstand."
+ },
+ {
+  "id": "beur2-055",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Notarbeschwerde: beschwerdefähige Maßnahmen und Untätigkeit (§ 15 Abs. 2 BNotO)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/notarbeschwerde-beschwerdefahige-massnahmen-und-untatigkeit-15-abs-2-bnoto",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 15 Abs. 2 BNotO",
+   "§ 93 Abs. 1 BNotO",
+   "§ 67 Abs. 1 S. 2 BNotO"
+  ],
+  "frage": "Bleibt der Notar andauernd untätig, muss der Beteiligte zunächst eine Dienstaufsichtsbeschwerde bei der Aufsichtsbehörde einlegen, bevor die Notarbeschwerde nach § 15 Abs. 2 BNotO zulässig ist.",
+  "antwort": false,
+  "erklaerung": "Falsch. Andauernde Untätigkeit ist eine faktische Amtsverweigerung, die unmittelbar mit der Beschwerde nach § 15 Abs. 2 BNotO angreifbar ist; der Beteiligte muss sich nicht auf die Dienstaufsichtsbeschwerde (§ 93 Abs. 1 BNotO) oder die Beschwerde bei der Notarkammer (§ 67 Abs. 1 S. 2 BNotO) verweisen lassen. Diese aufsichtsrechtlichen Wege stehen zusätzlich offen, sind aber keine Zulässigkeitsvoraussetzung."
+ },
+ {
+  "id": "beur2-056",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Notarbeschwerde: Verfahrensgang nach Vorbescheid und Haftungsfolgen",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/notarbeschwerde-verfahrensgang-nach-vorbescheid-und-haftungsfolgen",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 68 Abs. 1 FamFG",
+   "§ 64 Abs. 3 FamFG",
+   "§ 70 FamFG",
+   "§ 15 Abs. 2 BNotO"
+  ],
+  "frage": "Ordne die Verfahrensschritte der Notarbeschwerde den Normen zu.",
+  "paare": [
+   [
+    "Abhilfe durch den Notar bei begründeter Beschwerde",
+    "§ 15 Abs. 2 S. 3 BNotO iVm § 68 Abs. 1 S. 1 Hs. 1 FamFG"
+   ],
+   [
+    "Vorlage an das Landgericht bei Nichtabhilfe",
+    "§ 15 Abs. 2 S. 3 BNotO iVm § 68 Abs. 1 S. 1 Hs. 2 FamFG"
+   ],
+   [
+    "Einstweilige Anordnung des Beschwerdegerichts von Amts wegen",
+    "§ 15 Abs. 2 S. 3 BNotO iVm § 64 Abs. 3 FamFG"
+   ],
+   [
+    "Rechtsbeschwerde gegen die Entscheidung des Beschwerdegerichts",
+    "§ 15 Abs. 2 S. 3 BNotO iVm § 70 FamFG"
+   ]
+  ],
+  "erklaerung": "Der Notar handelt als erste Instanz: Er hilft bei Begründetheit ab (§ 68 Abs. 1 S. 1 Hs. 1 FamFG) oder legt dem Landgericht vor (Hs. 2). Das Beschwerdegericht kann nach § 64 Abs. 3 FamFG die Vollziehung aussetzen und der Beschwerde so eine aufschiebende Wirkung verschaffen; gegen seine Entscheidung ist die Rechtsbeschwerde nach § 70 FamFG statthaft."
+ },
+ {
+  "id": "beur2-057",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Notarbeschwerde: Verfahrensgang nach Vorbescheid und Haftungsfolgen",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/notarbeschwerde-verfahrensgang-nach-vorbescheid-und-haftungsfolgen",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 15 Abs. 2 BNotO",
+   "§ 19 BNotO"
+  ],
+  "frage": "Das Landgericht weist den Notar auf eine Beschwerde hin an, die bisher verweigerte Eigentumsumschreibung zu beantragen. Welche haftungsrechtliche Folge hat die Befolgung der Anweisung?",
+  "optionen": [
+   "Die Vornahme der angewiesenen Amtshandlung ist keine Amtspflichtverletzung; eine Haftung kann aber aus der bisherigen Nichtvornahme folgen, da die Rechtskraft diese Frage nicht erfasst",
+   "Die Anweisung schließt jede Haftung des Notars aus, auch für die Zeit der Verweigerung",
+   "Die Befolgung der Anweisung ist eine Amtspflichtverletzung, wenn der Notar die Anweisung für falsch hält",
+   "Der Notar haftet nur, wenn er gegen die Anweisung Rechtsbeschwerde einlegt"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Anweisung des Beschwerdegerichts bindet den Notar und begründet seine Amtspflicht, sodass ihre Befolgung keine Amtspflichtverletzung sein kann. Betrifft sie jedoch eine bisher verweigerte Amtshandlung, kann eine Haftung aus der Nichtvornahme folgen; die Rechtskraft der Beschwerdeentscheidung erstreckt sich nicht auf diese Frage. Ein vollständiger Haftungsausschluss auch für die Verweigerungszeit besteht daher nicht."
+ },
+ {
+  "id": "beur2-058",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Notarbeschwerde: Verfahrensgang nach Vorbescheid und Haftungsfolgen",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/notarbeschwerde-verfahrensgang-nach-vorbescheid-und-haftungsfolgen",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 15 Abs. 2 BNotO"
+  ],
+  "frage": "Legt kein Beteiligter ein Rechtsmittel gegen den Vorbescheid ein, lässt sich eine Amtspflichtverletzung durch die angekündigte Amtshandlung kaum begründen, weil der Geschädigte schuldhaft keinen Primärrechtsschutz in Anspruch genommen hat.",
+  "antwort": true,
+  "erklaerung": "Richtig. Ohne Rechtsmittel gegen den Vorbescheid dürfte einem Amtshaftungsprozess die Grundlage fehlen, weil der Geschädigte schuldhaft keinen gerichtlichen Primärrechtsschutz gesucht hat; das gilt für die Vornahme der angekündigten wie für das Unterlassen der verweigerten Amtshandlung. Deshalb empfiehlt sich vor haftungsträchtigen Entscheidungen stets ein Vorbescheid."
+ },
+ {
+  "id": "beur2-059",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Urkundsgewährungspflicht und Amtsverweigerung (§ 15 Abs. 1 S. 1 BNotO)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/urkundsgewahrungspflicht-und-amtsverweigerung-15-abs-1-s-1-bnoto",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 15 Abs. 1 S. 1 BNotO",
+   "§§ 20–22 BNotO"
+  ],
+  "frage": "Für welche Tätigkeiten gilt die Urkundsgewährungspflicht nach § 15 Abs. 1 S. 1 BNotO?",
+  "optionen": [
+   "Für sämtliche Amtstätigkeiten einschließlich der Betreuungstätigkeit nach § 24 BNotO",
+   "Für die Verfahren nach §§ 20 bis 22 BNotO",
+   "Nur für Beurkundungen, die Wirksamkeitsvoraussetzung des Rechtsgeschäfts sind",
+   "Nur für Beurkundungen innerhalb der üblichen Geschäftsstunden"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Urkundsgewährungspflicht gilt für die Verfahren nach §§ 20 bis 22 BNotO; diesen Begriff der Urkundstätigkeit verwendet auch § 10a Abs. 2 BNotO. Für sonstige Amtstätigkeiten (§ 15 Abs. 2 S. 1 BNotO) gilt jedenfalls ein Willkürmaßstab, bei übernommener Betreuungstätigkeit nach Frenz der strengere Maßstab. Die Pflicht ist nicht auf formbedürftige Geschäfte beschränkt, auch wenn dort der Anspruch besonders durchsetzbar ist."
+ },
+ {
+  "id": "beur2-060",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Urkundsgewährungspflicht und Amtsverweigerung (§ 15 Abs. 1 S. 1 BNotO)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/urkundsgewahrungspflicht-und-amtsverweigerung-15-abs-1-s-1-bnoto",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 15 Abs. 1 S. 1 BNotO"
+  ],
+  "frage": "Eine Notarfachangestellte teilt einem Anrufer mit, der Notar beurkunde den gewünschten unliebsamen Vertrag nicht. Wie ist das zu beurteilen?",
+  "optionen": [
+   "Zulässig, weil für die Amtsverweigerung keine Formvorschriften bestehen",
+   "Zulässig, weil unliebsame Aufträge nicht der Urkundsgewährungspflicht unterliegen",
+   "Unzulässig, weil die Amtsverweigerung eine Verfahrensentscheidung ist, die der Notar selbst treffen muss und nicht auf Mitarbeitende übertragen kann",
+   "Zulässig, sofern der Notar die Entscheidung nachträglich genehmigt"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Amtsverweigerung ist eine Verfahrensentscheidung, die der Notar persönlich treffen muss; er kann sie nicht auf Mitarbeitende übertragen. Dass keine Formvorschrift besteht, ändert daran nichts. Auch unliebsame Beurkundungsaufträge sind in üblicher Weise zu bearbeiten; die Auswahl nur angenehmer Aufträge ist berufsrechtlich äußerst problematisch. Typischer Fehler ist genau diese Ablehnung durch Mitarbeitende ohne Entscheidung des Notars."
+ },
+ {
+  "id": "beur2-061",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Urkundsgewährungspflicht und Amtsverweigerung (§ 15 Abs. 1 S. 1 BNotO)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/urkundsgewahrungspflicht-und-amtsverweigerung-15-abs-1-s-1-bnoto",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 15 Abs. 1 S. 1 BNotO"
+  ],
+  "frage": "Die Amtsverweigerung ist nur im Vorverfahren möglich; hat der Notar mit der Beurkundung begonnen, kann er die Urkundstätigkeit nicht mehr verweigern.",
+  "antwort": false,
+  "erklaerung": "Falsch. Die Amtsverweigerung ist in jedem Stadium des Beurkundungsverfahrens möglich, also im Vorverfahren, im Hauptverfahren und im Nachverfahren. Ein ausreichender Grund im Sinne des § 15 Abs. 1 S. 1 BNotO liegt jedenfalls bei einer Verweigerungspflicht (etwa nach § 14 Abs. 2 BNotO, BeurkG, GwG) vor, im Einzelfall auch ohne sie, etwa bei Befangenheit, Gefahr für Leib oder Leben oder Nichtzahlung eines zu Recht angeforderten Kostenvorschusses."
  }
 ]

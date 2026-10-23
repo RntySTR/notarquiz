@@ -94,5 +94,380 @@
   ],
   "erklaerung": "Die homologe Insemination (Samen des Ehemanns, in vivo oder in vitro) ist rechtlich der Beiwohnung gleichgestellt, sodass die allgemeine Regel des § 1592 Nr. 1 BGB greift. Bei der heterologen Insemination stammt der Samen von einem Dritten; hier greift bei Einwilligung beider der Anfechtungsausschluss nach § 1600 Abs. 6 S. 1 BGB. Im Feststellungsverfahren gelten Zeugungsvermutung und Amtsermittlungsgrundsatz.",
   "id": "fami1-004"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Abstammung und elterliche Sorge",
+  "seite": "Abstammung: Mutterschaft und Vaterschaft kraft Ehe",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/abstammung-mutterschaft-und-vaterschaft-kraft-ehe",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1591 BGB"
+  ],
+  "frage": "Eine Frau trägt ein Kind aus, das aus der Eizelle einer anderen Frau stammt (Leihmutterschaft). Wer ist rechtlich Mutter des Kindes?",
+  "optionen": [
+   "Die genetische Mutter, von der die Eizelle stammt",
+   "Die gebärende Frau, weil allein die Geburt maßgeblich ist (§ 1591 BGB)",
+   "Beide Frauen gemeinsam bis zur gerichtlichen Klärung",
+   "Die Frau, die das Kind nach der Geburt in ihren Haushalt aufnimmt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Mutter ist die Frau, die das Kind geboren hat (§ 1591 BGB); rechtlich zählt allein die Geburt. Die genetische Herkunft der Eizelle ist unerheblich, sodass die Eizellspenderin nicht Mutter im Rechtssinn ist. Eine Anfechtung der Mutterschaft ist nicht vorgesehen; die Regeln zur Vaterschaftsanfechtung sind auf die Mutterschaft nicht entsprechend anwendbar.",
+  "id": "fami1-005"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Abstammung und elterliche Sorge",
+  "seite": "Abstammung: Mutterschaft und Vaterschaft kraft Ehe",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/abstammung-mutterschaft-und-vaterschaft-kraft-ehe",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1593 S. 1 BGB",
+   "§ 1593 S. 3 BGB",
+   "§ 1593 S. 4 BGB",
+   "§ 1592 Nr. 1 BGB"
+  ],
+  "frage": "Ehemann E stirbt am 1. Februar. Die Witwe W heiratet am 1. Juli den N; am 1. Oktober desselben Jahres wird das Kind K geboren. Wer ist Vater von K?",
+  "optionen": [
+   "Der verstorbene E, weil K binnen 300 Tagen nach seinem Tod geboren wurde (§ 1593 S. 1 BGB)",
+   "N, weil das Gesetz den Konflikt zugunsten des neuen, lebenden Ehemanns löst (§ 1593 S. 3 BGB)",
+   "Niemand kraft Gesetzes; die Vaterschaft muss gerichtlich festgestellt werden",
+   "E und N gemeinsam, bis einer die Vaterschaft anficht"
+  ],
+  "antwort": 1,
+  "erklaerung": "K wird binnen 300 Tagen nach dem Tod des E geboren, sodass an sich E nach § 1593 S. 1 BGB Vater wäre; zugleich besteht bei der Geburt die Ehe mit N (§ 1592 Nr. 1 BGB). Diesen Konflikt löst § 1593 S. 3 BGB zugunsten des neuen, lebenden Ehemanns N. Erst wenn N die Vaterschaft erfolgreich anficht, ist E Vater (§ 1593 S. 4 BGB); eine Doppelvaterschaft oder eine zwingende gerichtliche Feststellung sieht das Gesetz nicht vor.",
+  "id": "fami1-006"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Abstammung und elterliche Sorge",
+  "seite": "Abstammung: Mutterschaft und Vaterschaft kraft Ehe",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/abstammung-mutterschaft-und-vaterschaft-kraft-ehe",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1592 Nr. 1 BGB"
+  ],
+  "frage": "Wird ein Kind nach rechtskräftiger Scheidung, aber innerhalb von 300 Tagen nach der Scheidung geboren, ist der frühere Ehemann kraft Ehe Vater.",
+  "antwort": false,
+  "erklaerung": "Vater kraft Ehe ist der Ehemann nur, wenn die Ehe bei der Geburt besteht (§ 1592 Nr. 1 BGB). Wird das Kind erst nach rechtskräftiger Scheidung geboren, entsteht keine Vaterschaft des früheren Ehemanns. Die 300-Tage-Frist des § 1593 S. 1 BGB gilt nur für die Geburt nach dem Tod des Ehemanns, nicht nach Scheidung.",
+  "id": "fami1-007"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Abstammung und elterliche Sorge",
+  "seite": "Abstammung: Mutterschaft und Vaterschaft kraft Ehe",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/abstammung-mutterschaft-und-vaterschaft-kraft-ehe",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1592 Nr. 1 BGB"
+  ],
+  "frage": "Für die Vaterschaft kraft Ehe kommt es allein auf die Geburt während bestehender Ehe an; frühere Vermutungen zu Beiwohnung und Empfängnis gelten nicht mehr.",
+  "antwort": true,
+  "erklaerung": "Nach § 1592 Nr. 1 BGB ist Vater der Ehemann der Mutter, wenn die Ehe bei der Geburt besteht. Allein die Geburt während der Ehe begründet die Vaterschaft; die früheren Vermutungen zu Beiwohnung und Empfängniszeit sind abgeschafft. Eine Zeugungsvermutung spielt nur noch im gerichtlichen Feststellungsverfahren nach § 1600d Abs. 2 S. 1 BGB eine Rolle.",
+  "id": "fami1-008"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Abstammung und elterliche Sorge",
+  "seite": "Abstammung: Vaterschaftsanerkennung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/abstammung-vaterschaftsanerkennung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1597 BGB",
+   "§ 1595 BGB"
+  ],
+  "frage": "Welche Form verlangt das Gesetz für die Vaterschaftsanerkennung und die Zustimmungen von Mutter und Kind?",
+  "optionen": [
+   "Schriftform mit beglaubigter Unterschrift",
+   "Öffentliche Beurkundung (§ 1597 BGB)",
+   "Erklärung zur Niederschrift des Familiengerichts",
+   "Formfreie Erklärung gegenüber dem Standesamt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Vaterschaftsanerkennung und die erforderlichen Zustimmungen müssen öffentlich beurkundet werden (§ 1597 BGB); ohne diese Form wird die Anerkennung nicht wirksam. Eine bloße Unterschriftsbeglaubigung genügt nicht. Anerkennung und Zustimmungen können dabei zu unterschiedlichen Zeitpunkten und vor unterschiedlichen Urkundspersonen erklärt werden; das Standesamt erhält anschließend beglaubigte Abschriften (§ 44 Abs. 3 PStG).",
+  "id": "fami1-009"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Abstammung und elterliche Sorge",
+  "seite": "Abstammung: Vaterschaftsanerkennung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/abstammung-vaterschaftsanerkennung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1594 Abs. 2 BGB",
+   "§ 1592 Nr. 1 BGB"
+  ],
+  "frage": "Die verheiratete M bringt ein Kind zur Welt; der Ehemann E ist kraft Ehe Vater. Der Lebensgefährte L erkennt die Vaterschaft beim Notar an, M stimmt zu. Welche Rechtslage besteht?",
+  "optionen": [
+   "Die Anerkennung ist wirksam und verdrängt die Vaterschaft des E",
+   "Die Anerkennung ist nichtig; sie muss nach erfolgreicher Anfechtung neu beurkundet werden",
+   "Die Anerkennung ist schwebend unwirksam und wird wirksam, sobald die Vaterschaft des E durch Anfechtung entfallen ist (§ 1594 Abs. 2 BGB)",
+   "Die Anerkennung ist wirksam, aber nur gegenüber M und L, nicht gegenüber E"
+  ],
+  "antwort": 2,
+  "erklaerung": "Solange ein anderer Mann rechtlich Vater ist, ist die Anerkennung schwebend unwirksam (§ 1594 Abs. 2 BGB); sie wird wirksam, sobald die Vaterschaft des anderen Mannes durch erfolgreiche Anfechtung entfallen ist. Sie ist also weder nichtig noch verdrängt sie die Vaterschaft des E. Der Notar muss auf die schwebende Unwirksamkeit hinweisen; dies zu unterlassen ist ein typischer Fehler. Eine wirksame Anerkennung wirkt im Übrigen für und gegen jedermann, nicht nur relativ.",
+  "id": "fami1-010"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Abstammung und elterliche Sorge",
+  "seite": "Abstammung: Vaterschaftsanerkennung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/abstammung-vaterschaftsanerkennung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1595 Abs. 1 BGB",
+   "§ 1595 Abs. 2 BGB"
+  ],
+  "frage": "Die Vaterschaftsanerkennung wird bereits mit der Zustimmung der Mutter wirksam; einer Zustimmung des Kindes bedarf es nicht.",
+  "antwort": false,
+  "erklaerung": "Die Anerkennung braucht sowohl die Zustimmung der Mutter (§ 1595 Abs. 1 BGB) als auch die Zustimmung des Kindes (§ 1595 Abs. 2 BGB). Ohne alle Zustimmungen wird die Anerkennung nicht wirksam; der Notar hat deshalb zu prüfen, ob die Zustimmungen bereits vorliegen oder gesondert beurkundet werden müssen. Fehlt der Mutter die Geschäftsfähigkeit, gilt § 1596 BGB.",
+  "id": "fami1-011"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Abstammung und elterliche Sorge",
+  "seite": "Abstammung: Vaterschaftsanerkennung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/abstammung-vaterschaftsanerkennung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1594 Abs. 1 BGB",
+   "§ 1597 BGB"
+  ],
+  "frage": "Welche Aussage zur Rechtsnatur und Wirkung der Vaterschaftsanerkennung trifft zu?",
+  "optionen": [
+   "Sie ist eine empfangsbedürftige Willenserklärung, die der Mutter zugehen muss",
+   "Sie ist eine einseitige, nicht empfangsbedürftige Willenserklärung, deren Rechtswirkungen grundsätzlich erst ab Wirksamwerden geltend gemacht werden können",
+   "Sie ist ein Vertrag zwischen Vater und Mutter mit Wirkung nur unter den Beteiligten",
+   "Sie wirkt ausschließlich für die Zukunft ab dem Tag der Beurkundung"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Vaterschaftsanerkennung ist eine einseitige, nicht empfangsbedürftige Willenserklärung mit absoluter Wirkung für und gegen jedermann. Sie wirkt zurück (§ 1594 Abs. 1 BGB), ihre Rechtswirkungen können aber grundsätzlich erst ab dem Zeitpunkt geltend gemacht werden, in dem sie wirksam wird, was unter anderem die Form des § 1597 BGB voraussetzt. Ein Vertrag ist sie nicht; die Zustimmungen von Mutter und Kind sind gesonderte Erklärungen.",
+  "id": "fami1-012"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Abstammung und elterliche Sorge",
+  "seite": "Elterliche Sorge: Inhalt und gesetzliche Vertretung des Kindes",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/elterliche-sorge-inhalt-und-gesetzliche-vertretung-des-kindes",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1626 BGB",
+   "§ 1629 BGB",
+   "§ 1664 BGB"
+  ],
+  "frage": "Welche Teilbereiche umfasst die elterliche Sorge nach dem Gesetz?",
+  "optionen": [
+   "Personensorge und Vermögenssorge (§ 1626 BGB), ergänzt um die Vertretung des Kindes (§ 1629 BGB)",
+   "Nur die Personensorge; die Vermögenssorge obliegt stets einem Pfleger",
+   "Vermögenssorge und Vertretung; die Personensorge ist familiengerichtlich zu übertragen",
+   "Personensorge, Vermögenssorge und Erbrechtsvorsorge für das Kind"
+  ],
+  "antwort": 0,
+  "erklaerung": "§ 1626 BGB unterscheidet die Personensorge (persönliche Angelegenheiten, insbesondere Pflege und Erziehung) und die Vermögenssorge; hinzu kommt die Vertretung des Kindes nach § 1629 BGB. Ein Pfleger übernimmt die Vermögenssorge nur ausnahmsweise, etwa bei Ausschluss durch einen Erblasser oder Zuwendenden nach § 1638 BGB. Eltern haften dem Kind aus der Sorgeausübung nur für die eigenübliche Sorgfalt (§ 1664 BGB).",
+  "id": "fami1-013"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Abstammung und elterliche Sorge",
+  "seite": "Elterliche Sorge: Inhalt und gesetzliche Vertretung des Kindes",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/elterliche-sorge-inhalt-und-gesetzliche-vertretung-des-kindes",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1629 Abs. 2 S. 1 BGB",
+   "§ 1824 BGB"
+  ],
+  "frage": "Die Großmutter G will ihrem minderjährigen Enkel K ein Grundstück schenken. Der Vater V ist Sohn der G, die Mutter M ist mit G nicht verwandt. Wer kann K beim Vertragsschluss nach der aktuellen Rechtsprechung vertreten?",
+  "optionen": [
+   "Beide Eltern gemeinsam, weil § 1824 BGB nur den Betreuer, nicht die Eltern betrifft",
+   "Niemand aus dem Elternkreis; es muss stets ein Ergänzungspfleger bestellt werden",
+   "M allein, weil nur V als Verwandter der G in gerader Linie nach § 1629 Abs. 2 S. 1 i. V. m. § 1824 BGB ausgeschlossen ist",
+   "V allein, weil er als Sohn der G deren Willen am besten kennt"
+  ],
+  "antwort": 2,
+  "erklaerung": "Der Vertretungsausschluss des § 1824 BGB trifft über § 1629 Abs. 2 S. 1 BGB auch die Eltern; V ist als Verwandter der G in gerader Linie ausgeschlossen. Nach bislang herrschender Meinung konnte dann auch der andere Elternteil nicht allein vertreten; die Rechtsprechung (BGH FamRZ 2021, 1127; OLG Düsseldorf RNotZ 2025, 281; OLG München ZEV 2025, 615) sieht inzwischen nur den betroffenen Elternteil als ausgeschlossen an, sodass M allein vertritt. In der Person der M ist gesondert zu prüfen, ob auch bei ihr ein Ausschlussgrund vorliegt.",
+  "id": "fami1-014"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Abstammung und elterliche Sorge",
+  "seite": "Elterliche Sorge: Inhalt und gesetzliche Vertretung des Kindes",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/elterliche-sorge-inhalt-und-gesetzliche-vertretung-des-kindes",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1641 BGB",
+   "§ 1638 BGB",
+   "§ 1643 BGB",
+   "§ 1782 BGB",
+   "§ 2064 BGB"
+  ],
+  "frage": "Ordne die Normen ihrer Regelung zur elterlichen Vertretung zu.",
+  "paare": [
+   [
+    "§ 1641 BGB",
+    "Schenkungsverbot für Eltern"
+   ],
+   [
+    "§ 1638 BGB",
+    "Ausschluss der Vermögenssorge durch Erblasser oder Zuwendenden"
+   ],
+   [
+    "§ 1643 BGB",
+    "Genehmigung des Familiengerichts für bestimmte Geschäfte"
+   ],
+   [
+    "§ 1782 BGB",
+    "Benennung oder Ausschluss eines Vormunds durch die Eltern"
+   ],
+   [
+    "§ 2064 BGB",
+    "Testamentserrichtung als höchstpersönliches Geschäft"
+   ]
+  ],
+  "erklaerung": "Die Vertretungsmacht der Eltern ist durch das Schenkungsverbot (§ 1641 BGB) beschränkt; ein Erblasser oder Zuwendender kann die Vermögenssorge für zugewendetes Vermögen nach § 1638 BGB ausschließen, wobei der Ausschluss von Anfang an wirkt. Bei den Geschäften des § 1643 BGB bleiben die Eltern vertretungsbefugt, brauchen aber die Genehmigung des Familiengerichts (Maßstab: § 1644 BGB). Höchstpersönliche Geschäfte wie das Testament (§ 2064 BGB) können die Eltern nicht für das Kind vornehmen.",
+  "id": "fami1-015"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Abstammung und elterliche Sorge",
+  "seite": "Elterliche Sorge: Inhalt und gesetzliche Vertretung des Kindes",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/elterliche-sorge-inhalt-und-gesetzliche-vertretung-des-kindes",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1638 BGB",
+   "§ 1811 BGB"
+  ],
+  "frage": "Schließt ein Erblasser die elterliche Vermögenssorge nach § 1638 BGB aus, wirkt der Ausschluss erst ab der Bestellung des Pflegers; bis dahin verwalten die Eltern das Vermögen.",
+  "antwort": false,
+  "erklaerung": "Der Ausschluss nach § 1638 BGB wirkt schon von Anfang an, nicht erst ab der Pflegerbestellung; die Verwaltung übernimmt ein Pfleger (§ 1811 BGB). Wird nur ein Elternteil ausgeschlossen, verwaltet und vertritt der andere insoweit allein (§ 1638 Abs. 3 BGB). Der Notar sollte daher vorab klären, ob ein Dritter die Vermögenssorge ausgeschlossen hat oder ein Pfleger bestellt ist.",
+  "id": "fami1-016"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Abstammung und elterliche Sorge",
+  "seite": "Elterliche Sorge: Inhalt und gesetzliche Vertretung des Kindes",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/elterliche-sorge-inhalt-und-gesetzliche-vertretung-des-kindes",
+  "typ": "fall",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1629 BGB",
+   "§ 29 GBO",
+   "§ 1628 BGB"
+  ],
+  "frage": "Grundstückserwerb für ein minderjähriges Kind – nur ein Elternteil erscheint",
+  "sachverhalt": "Die Eheleute V und M sind gemeinsam sorgeberechtigt für ihren zwölfjährigen Sohn K. K soll von einem fremden Dritten D ein Grundstück erwerben. Zum Beurkundungstermin erscheint nur M; V ist beruflich verhindert und hat M telefonisch gebeten, die Sache allein zu erledigen.",
+  "schritte": [
+   {
+    "frage": "Kann M das Kind K beim Erwerb allein vertreten?",
+    "optionen": [
+     "Ja, weil jeder sorgeberechtigte Elternteil Einzelvertretungsmacht hat",
+     "Nein, Vater und Mutter handeln für das Kind grundsätzlich gemeinsam (§ 1629 BGB); Alleinvertretung besteht nur bei Alleinsorge oder Entscheidungsübertragung nach § 1628 BGB",
+     "Nein, Minderjährige können Grundstücke überhaupt nicht erwerben",
+     "Ja, weil beim Erwerb von einem Fremden kein Interessenkonflikt besteht"
+    ],
+    "antwort": 1,
+    "erklaerung": "Nach § 1629 BGB vertreten Vater und Mutter das Kind grundsätzlich gemeinsam. Ein Elternteil handelt nur allein, wenn er allein sorgeberechtigt ist oder ihm das Familiengericht nach § 1628 BGB die Entscheidung übertragen hat. Das Fehlen eines Interessenkonflikts ändert an der Gesamtvertretung nichts."
+   },
+   {
+    "frage": "Wie kann die Beurkundung dennoch durchgeführt werden?",
+    "optionen": [
+     "M handelt für V als vollmachtlose Vertreterin oder aufgrund der mündlichen Vollmacht; wegen § 29 GBO ist eine Nachgenehmigung bzw. Bestätigung des V in öffentlich beglaubigter Form einzuholen",
+     "Der Notar bestellt für K einen Ergänzungspfleger, der an Stelle des V mitwirkt",
+     "Die Beurkundung muss verschoben werden, weil ein Elternteil den anderen nicht bevollmächtigen kann",
+     "M erklärt die Vollmacht des V zu Protokoll; weitere Nachweise sind für das Grundbuch nicht erforderlich"
+    ],
+    "antwort": 0,
+    "erklaerung": "Ein Elternteil kann den anderen grundsätzlich bevollmächtigen, auch stillschweigend. Erscheint nur ein Elternteil, kann er für den anderen als vollmachtloser Vertreter oder mit mündlicher Vollmacht handeln; wegen § 29 GBO ist dann eine Nachgenehmigung bzw. Bestätigung in öffentlich beglaubigter Form einzuholen. Die bloße Protokollierung der mündlichen Vollmacht genügt dem Grundbuchamt nicht; einen Pfleger bestellt zudem nicht der Notar."
+   }
+  ],
+  "erklaerung": "Eltern vertreten ihr Kind grundsätzlich gemeinsam (§ 1629 BGB). Erscheint nur ein Elternteil, handelt er für den anderen als vollmachtloser Vertreter oder mit mündlicher Vollmacht; für das Grundbuch ist die Genehmigung bzw. Bestätigung des abwesenden Elternteils in der Form des § 29 GBO nachzureichen. Die Personalien beider Eltern gehören in die Urkunde.",
+  "id": "fami1-017"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Abstammung und elterliche Sorge",
+  "seite": "Elterliche Sorge: Sorgeberechtigung, Sorgeerklärung und Beistandschaft",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/elterliche-sorge-sorgeberechtigung-sorgeerklarung-und-beistandschaft",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1626a Abs. 1 Nr. 1 BGB",
+   "§ 1626a Abs. 3 BGB"
+  ],
+  "frage": "Die nicht verheirateten Eltern M und V haben keine Sorgeerklärungen abgegeben und heiraten nicht. Wer ist für das Kind sorgeberechtigt?",
+  "optionen": [
+   "Beide gemeinsam, weil die Vaterschaft anerkannt ist",
+   "Die Mutter allein (§ 1626a Abs. 1 Nr. 1, Abs. 3 BGB), sofern das Familiengericht nicht die gemeinsame Sorge überträgt",
+   "Der Vater allein, wenn er den Unterhalt überwiegend leistet",
+   "Das Jugendamt als Beistand, bis die Eltern eine Vereinbarung treffen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Sind die Eltern bei der Geburt nicht verheiratet, heiraten sie nicht und geben sie keine Sorgeerklärungen ab, steht der Mutter die Sorge allein zu (§ 1626a Abs. 1 Nr. 1, Abs. 3 BGB); Ausnahme ist die gerichtliche Übertragung der gemeinsamen Sorge (§ 1626a Abs. 1 Nr. 3, Abs. 2 BGB). Die Vaterschaftsanerkennung allein begründet keine gemeinsame Sorge, und eine originäre Alleinsorge des Vaters sieht das Gesetz nicht vor. In der Praxis sind daher Sorgeerklärungen oder die gerichtliche Entscheidung nachweisen zu lassen.",
+  "id": "fami1-018"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Abstammung und elterliche Sorge",
+  "seite": "Elterliche Sorge: Sorgeberechtigung, Sorgeerklärung und Beistandschaft",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/elterliche-sorge-sorgeberechtigung-sorgeerklarung-und-beistandschaft",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1626b Abs. 2 BGB"
+  ],
+  "frage": "Sorgeerklärungen nicht verheirateter Eltern können bereits vor der Geburt des Kindes abgegeben werden.",
+  "antwort": true,
+  "erklaerung": "§ 1626b Abs. 2 BGB lässt die Sorgeerklärung schon vor der Geburt des Kindes zu. Mit den Sorgeerklärungen erlangen nicht verheiratete Eltern die gemeinsame Sorge nach § 1626a Abs. 1 Nr. 1 BGB; ohne sie bleibt es bei der Alleinsorge der Mutter nach § 1626a Abs. 3 BGB.",
+  "id": "fami1-019"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Abstammung und elterliche Sorge",
+  "seite": "Elterliche Sorge: Sorgeberechtigung, Sorgeerklärung und Beistandschaft",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/elterliche-sorge-sorgeberechtigung-sorgeerklarung-und-beistandschaft",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1712 BGB",
+   "§ 1713 Abs. 1 BGB"
+  ],
+  "frage": "Welche Aussage zur Beistandschaft des Jugendamts trifft zu?",
+  "optionen": [
+   "Mit der Beistandschaft geht die Vermögenssorge für das Kind auf das Jugendamt über",
+   "Der Beistand ist im Aufgabenkreis Vaterschaftsfeststellung und Unterhalt gesetzlicher Vertreter des Kindes; die elterliche Sorge wird dadurch nicht eingeschränkt",
+   "Die Beistandschaft kann nur das Familiengericht anordnen und beenden",
+   "Bei gemeinsamer Sorge müssen beide Eltern den Antrag gemeinsam stellen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Das Jugendamt wird Beistand für die Feststellung der Vaterschaft sowie für die Geltendmachung von und Verfügung über Unterhaltsansprüche (§ 1712 BGB) und ist in diesem Aufgabenkreis gesetzlicher Vertreter des Kindes; die elterliche Sorge wird nicht eingeschränkt. Die Beistandschaft entsteht auf Antrag eines Elternteils (bei gemeinsamer Sorge des Elternteils, in dessen Obhut sich das Kind befindet, § 1713 Abs. 1 BGB) und endet, wenn der Antragsteller dies schriftlich verlangt; einer gerichtlichen Anordnung bedarf es nicht.",
+  "id": "fami1-020"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Abstammung und elterliche Sorge",
+  "seite": "Elterliche Sorge: Sorgeberechtigung, Sorgeerklärung und Beistandschaft",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/elterliche-sorge-sorgeberechtigung-sorgeerklarung-und-beistandschaft",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1678 BGB",
+   "§ 1680 BGB",
+   "§ 1681 BGB"
+  ],
+  "frage": "Stirbt bei gemeinsamer Sorge ein Elternteil, geht die Alleinsorge erst durch eine gerichtliche Entscheidung nach § 1671 BGB auf den überlebenden Elternteil über.",
+  "antwort": false,
+  "erklaerung": "Fällt ein Elternteil für die Sorge aus (etwa durch Tod), ändert sich die Sorgeberechtigung kraft Gesetzes ohne gerichtliche Entscheidung (§§ 1678, 1680, 1681 BGB). § 1671 BGB betrifft dagegen die Übertragung der Alleinsorge bei dauerhaft getrennt lebenden Eltern; Maßstab ist dort allein das Kindeswohl (§ 1697a BGB). Nur im Trennungsfall muss sich der Notar die familiengerichtliche Entscheidung vorlegen lassen.",
+  "id": "fami1-021"
  }
 ]

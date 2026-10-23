@@ -1,0 +1,357 @@
+[
+ {
+  "id": "grbu1-001",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Aufbau und Wirkungen des Grundbuchs",
+  "seite": "Grundbuch: Aufbau",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/aufbau-und-wirkungen-des-grundbuchs/grundbuch-aufbau",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 10 Abs. 1 GBV",
+   "§ 11 Abs. 1 GBV"
+  ],
+  "frage": "In welcher Abteilung des Grundbuchs wird ein Nacherbenvermerk eingetragen?",
+  "optionen": [
+   "Im Bestandsverzeichnis als Herrschvermerk",
+   "In Abteilung I neben dem Eigentümer",
+   "In Abteilung II bei den Lasten und Beschränkungen",
+   "In Abteilung III neben den Grundpfandrechten"
+  ],
+  "antwort": 2,
+  "erklaerung": "Abteilung II nimmt alle Lasten und Beschränkungen außer den Grundpfandrechten auf (§ 10 Abs. 1 GBV); dazu gehören Verfügungsbeschränkungen und Vermerke wie der Nacherben-, Testamentsvollstrecker- oder Insolvenzvermerk. Abteilung I enthält nur Eigentümer und Erwerbsgrundlage, Abteilung III ausschließlich Hypotheken, Grundschulden und Rentenschulden samt Vormerkungen und Widersprüchen dazu (§ 11 Abs. 1 GBV)."
+ },
+ {
+  "id": "grbu1-002",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Aufbau und Wirkungen des Grundbuchs",
+  "seite": "Grundbuch: Aufbau",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/aufbau-und-wirkungen-des-grundbuchs/grundbuch-aufbau",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 17 Abs. 2 GBV"
+  ],
+  "frage": "Ist eine Eintragung im Grundbuch gerötet, steht damit rechtlich fest, dass das Recht gelöscht ist.",
+  "antwort": false,
+  "erklaerung": "Die Rötung ist nur ein Hilfsmittel der Buchführung (§ 17 Abs. 2 GBV). Ob ein Recht gelöscht ist, entscheidet rechtlich allein der Löschungsvermerk. Deshalb ist zu jeder Rötung der zugehörige Löschungsvermerk zu suchen und umgekehrt."
+ },
+ {
+  "id": "grbu1-003",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Aufbau und Wirkungen des Grundbuchs",
+  "seite": "Grundbuch: Aufbau",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/aufbau-und-wirkungen-des-grundbuchs/grundbuch-aufbau",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 6 GBV"
+  ],
+  "frage": "Welche Bedeutung hat ein Herrschvermerk im Bestandsverzeichnis?",
+  "optionen": [
+   "Er bezeichnet ein weiteres Grundstück desselben Eigentümers auf dem Blatt",
+   "Er weist auf ein Recht hin, das zugunsten des gebuchten Grundstücks an einem anderen Grundstück besteht",
+   "Er kennzeichnet eine auf dem Grundstück lastende Grunddienstbarkeit",
+   "Er ist zwingend einzutragen, sobald eine Grunddienstbarkeit bestellt wird"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Herrschvermerk im Bestandsverzeichnis (§ 6 GBV) zeigt an, dass zugunsten des gebuchten (herrschenden) Grundstücks ein Recht an einem anderen Grundstück besteht, etwa ein Fahrtrecht. Er ist kein eigenes Grundstück und nicht vorgeschrieben; die Belastung selbst steht in Abteilung II des dienenden Grundstücks. Praktisch erschwert der Herrschvermerk die spätere Löschung des Rechts."
+ },
+ {
+  "id": "grbu1-004",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Aufbau und Wirkungen des Grundbuchs",
+  "seite": "Grundbuch: Aufbau",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/aufbau-und-wirkungen-des-grundbuchs/grundbuch-aufbau",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 5 GBV",
+   "§ 6 GBV",
+   "§ 10 GBV",
+   "§ 11 GBV"
+  ],
+  "frage": "Ordne die Teile des Grundbuchblatts ihrem Inhalt zu.",
+  "paare": [
+   [
+    "Aufschrift",
+    "Amtsgericht, Grundbuchbezirk und Blattnummer"
+   ],
+   [
+    "Bestandsverzeichnis",
+    "Katasterbezeichnung, Größe, Zu- und Abschreibungen"
+   ],
+   [
+    "Abteilung I",
+    "Eigentümer und Grundlage des Erwerbs"
+   ],
+   [
+    "Abteilung II",
+    "Lasten und Beschränkungen außer Grundpfandrechten"
+   ],
+   [
+    "Abteilung III",
+    "Hypotheken, Grundschulden und Rentenschulden"
+   ]
+  ],
+  "erklaerung": "Die Aufschrift nennt Amtsgericht, Bezirk und Blattnummer (§ 5 S. 1 GBV), das Bestandsverzeichnis beschreibt das Grundstück in acht Spalten (§ 6 GBV). Abteilung I enthält Eigentümer und Erwerbsgrund, Abteilung II alle Lasten außer Grundpfandrechten (§ 10 Abs. 1 GBV) und Abteilung III die Grundpfandrechte (§ 11 Abs. 1 GBV)."
+ },
+ {
+  "id": "grbu1-005",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Aufbau und Wirkungen des Grundbuchs",
+  "seite": "Grundbuch: Aufbau",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/aufbau-und-wirkungen-des-grundbuchs/grundbuch-aufbau",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 6 GBV",
+   "§ 4 Abs. 1 GBO"
+  ],
+  "frage": "Beim Lesen eines Grundbuchauszugs findet sich in Spalte 2 des Bestandsverzeichnisses eine bisherige laufende Nummer. Welche Gefahr verbindet sich damit?",
+  "optionen": [
+   "Das Grundstück gehört einem anderen Eigentümer als die übrigen Grundstücke des Blatts",
+   "Belastungen in den Abteilungen können noch unter der bisherigen laufenden Nummer eingetragen sein",
+   "Das Blatt ist wegen Verwirrungsgefahr nach § 4 Abs. 1 GBO zu schließen",
+   "Die Katasterbezeichnung in Spalte 3 ist nicht mehr gültig"
+  ],
+  "antwort": 1,
+  "erklaerung": "Spalte 2 des Bestandsverzeichnisses enthält die bisherige laufende Nummer, wenn das Grundstück nach Anlegung des Blatts verändert wurde (§ 6 GBV). Da sich die Abteilungen auf die laufende Nummer beziehen, können Belastungen noch unter der alten Nummer eingetragen sein; das Übersehen ist ein typischer Fehler. Ein abweichender Eigentümer ist ausgeschlossen, weil alle Eingetragenen in Abteilung I Eigentümer sämtlicher Grundstücke des Blatts sind, sonst wäre ein eigenes Blatt anzulegen."
+ },
+ {
+  "id": "grbu1-006",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Aufbau und Wirkungen des Grundbuchs",
+  "seite": "Grundbuch: Funktion, Eintragungswirkung, Vermutung und öffentlicher Glaube",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/aufbau-und-wirkungen-des-grundbuchs/grundbuch-funktion-eintragungswirkung-vermutung-und-offentlicher-glaube",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 873 BGB",
+   "§ 1922 BGB",
+   "§ 29 GBO"
+  ],
+  "frage": "In welchem Fall wirkt die Eintragung im Grundbuch nur deklaratorisch?",
+  "optionen": [
+   "Rechtsgeschäftliche Übertragung des Eigentums",
+   "Aufhebung einer Grunddienstbarkeit",
+   "Eigentumserwerb durch Erbfolge",
+   "Rangänderung zwischen zwei Grundschulden"
+  ],
+  "antwort": 2,
+  "erklaerung": "Beim Erwerb im Wege der Gesamtrechtsnachfolge durch Erbfolge (§§ 1922 ff. BGB) tritt die Rechtsänderung außerhalb des Grundbuchs ein; das Grundbuch wird nur berichtigt, die Erbfolge ist nach § 29 GBO durch öffentliche Urkunden nachzuweisen. Übertragung (§ 873 BGB), Aufhebung (§ 875 BGB) und Rangänderung (§ 880 BGB) setzen dagegen die Eintragung als Wirksamkeitsvoraussetzung voraus, die Eintragung ist konstitutiv."
+ },
+ {
+  "id": "grbu1-007",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Aufbau und Wirkungen des Grundbuchs",
+  "seite": "Grundbuch: Funktion, Eintragungswirkung, Vermutung und öffentlicher Glaube",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/aufbau-und-wirkungen-des-grundbuchs/grundbuch-funktion-eintragungswirkung-vermutung-und-offentlicher-glaube",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1154 Abs. 1 BGB",
+   "§ 1155 BGB",
+   "§ 29 GBO"
+  ],
+  "frage": "Gläubiger G tritt seine Briefgrundschuld durch privatschriftliche Erklärung an Z ab und übergibt den Brief. Welche Aussage trifft zu?",
+  "optionen": [
+   "Die Abtretung ist unwirksam, weil sie der öffentlichen Beglaubigung bedarf",
+   "Die Abtretung ist wirksam; für die Grundbuchberichtigung ist aber eine öffentlich beglaubigte Abtretungserklärung erforderlich",
+   "Die Abtretung wird erst mit Eintragung des Z im Grundbuch wirksam",
+   "Die Abtretung ist wirksam und das Grundbuchamt berichtigt auf Vorlage der schriftlichen Erklärung"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Abtretung einer Briefgrundschuld wird bereits durch schriftliche Abtretungserklärung und Briefübergabe wirksam (§§ 1154 Abs. 1, 1192 Abs. 1 BGB); die Eintragung ist nur deklaratorisch. Für die Grundbuchberichtigung reicht die Schriftform jedoch nicht, verlangt wird eine öffentlich beglaubigte Abtretungserklärung (§§ 26 Abs. 1, 39 Abs. 2 GBO i. V. m. § 1155 BGB), zu deren Erteilung der Zedent nach § 1154 Abs. 1 S. 2 BGB verpflichtet ist."
+ },
+ {
+  "id": "grbu1-008",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Aufbau und Wirkungen des Grundbuchs",
+  "seite": "Grundbuch: Funktion, Eintragungswirkung, Vermutung und öffentlicher Glaube",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/aufbau-und-wirkungen-des-grundbuchs/grundbuch-funktion-eintragungswirkung-vermutung-und-offentlicher-glaube",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 891 BGB",
+   "§ 892 BGB",
+   "§ 894 BGB",
+   "§ 902 BGB"
+  ],
+  "frage": "Ordne die Wirkungen der Grundbucheintragung der jeweiligen Norm zu.",
+  "paare": [
+   [
+    "§ 891 BGB",
+    "Vermutung, dass das eingetragene Recht besteht"
+   ],
+   [
+    "§ 892 BGB",
+    "Öffentlicher Glaube, gutgläubiger Erwerb"
+   ],
+   [
+    "§ 894 BGB",
+    "Anspruch auf Berichtigung des unrichtigen Grundbuchs"
+   ],
+   [
+    "§ 901 BGB",
+    "Schutz des eingetragenen Rechts vor Untergang durch Buchersitzung"
+   ],
+   [
+    "§ 902 BGB",
+    "Unverjährbarkeit der Ansprüche aus dem eingetragenen Recht"
+   ]
+  ],
+  "erklaerung": "Die Eintragung begründet die Vermutung des Bestehens (§ 891 BGB), an die der öffentliche Glaube (§§ 892 f. BGB) anknüpft. Bei Unrichtigkeit gewährt § 894 BGB dem wahren Berechtigten einen Berichtigungsanspruch. Die Eintragung schützt zudem vor dem Untergang durch Buchersitzung (§ 901 BGB) und macht die Ansprüche aus dem Recht unverjährbar (§ 902 BGB)."
+ },
+ {
+  "id": "grbu1-009",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Aufbau und Wirkungen des Grundbuchs",
+  "seite": "Grundbuch: Funktion, Eintragungswirkung, Vermutung und öffentlicher Glaube",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/aufbau-und-wirkungen-des-grundbuchs/grundbuch-funktion-eintragungswirkung-vermutung-und-offentlicher-glaube",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 894 BGB",
+   "§ 894 ZPO",
+   "§ 105 BGB"
+  ],
+  "frage": "War der Veräußerer bei der Auflassung geschäftsunfähig und wurde der Erwerber dennoch eingetragen, kann der wahre Eigentümer den Eingetragenen auf Abgabe der Berichtigungsbewilligung verklagen; mit Rechtskraft des Urteils gilt die Bewilligung als abgegeben.",
+  "antwort": true,
+  "erklaerung": "Bei Geschäftsunfähigkeit ist die dingliche Einigung unwirksam (§ 105 BGB), das Grundbuch wird durch die Umschreibung unrichtig. § 894 BGB gibt dem wahren Eigentümer einen Anspruch gegen den unrichtig Eingetragenen auf Abgabe der Berichtigungsbewilligung; dieser Anspruch kann eingeklagt werden, und die Erklärung gilt nach § 894 ZPO mit Rechtskraft des Urteils als abgegeben."
+ },
+ {
+  "id": "grbu1-010",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Aufbau und Wirkungen des Grundbuchs",
+  "seite": "Grundbuchrang: Rangverhältnis, Rangänderung, Rangvorbehalt und Zwangsversteigerung",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/aufbau-und-wirkungen-des-grundbuchs/grundbuchrang-rangverhaltnis-ranganderung-rangvorbehalt-und-zwangsversteigerung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 879 BGB"
+  ],
+  "frage": "Wie bestimmt sich nach § 879 BGB der Rang zwischen einer Grunddienstbarkeit in Abteilung II und einer Grundschuld in Abteilung III?",
+  "optionen": [
+   "Nach der laufenden Nummer der Eintragung",
+   "Nach dem Datum der Eintragung; bei gleichem Datum besteht Gleichrang",
+   "Rechte der Abteilung III gehen Rechten der Abteilung II stets vor",
+   "Nach dem Datum der Beurkundung der Bestellungsurkunde"
+  ],
+  "antwort": 1,
+  "erklaerung": "Innerhalb derselben Abteilung entscheidet die Reihenfolge der Eintragungen, also die laufende Nummer. Bei Rechten in verschiedenen Abteilungen geht nach § 879 BGB das Recht mit dem früheren Eintragungsdatum vor; bei gleichem Datum haben die Rechte Gleichrang. Die Abteilung selbst begründet keinen Vorrang, und auf das Beurkundungsdatum kommt es nicht an."
+ },
+ {
+  "id": "grbu1-011",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Aufbau und Wirkungen des Grundbuchs",
+  "seite": "Grundbuchrang: Rangverhältnis, Rangänderung, Rangvorbehalt und Zwangsversteigerung",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/aufbau-und-wirkungen-des-grundbuchs/grundbuchrang-rangverhaltnis-ranganderung-rangvorbehalt-und-zwangsversteigerung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 880 BGB",
+   "§ 19 GBO"
+  ],
+  "frage": "Eine eingetragene Grundschuld der Bank B soll hinter ein später eingetragenes Wohnungsrecht zurücktreten. Wessen Erklärungen braucht das Grundbuchamt regelmäßig?",
+  "optionen": [
+   "Nur die beglaubigte Rangrücktrittserklärung der Bank B",
+   "Die Rangrücktrittserklärung der Bank B und die Zustimmung des Eigentümers",
+   "Die Bewilligung des Wohnungsberechtigten und die Zustimmung des Eigentümers",
+   "Die Erklärungen aller in Abteilung II und III eingetragenen Berechtigten"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Rangänderung nach § 880 BGB erfordert materiell die Einigung der beteiligten Berechtigten und die Eintragung; verfahrensrechtlich genügt wegen des formellen Konsensprinzips (§ 19 GBO) regelmäßig die beglaubigte oder beurkundete Rangrücktrittserklärung des zurücktretenden Berechtigten. Tritt aber eine Hypothek oder Grundschuld zurück, muss zusätzlich der Eigentümer zustimmen. Der vortretende Berechtigte muss nicht bewilligen, da er nur begünstigt wird."
+ },
+ {
+  "id": "grbu1-012",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Aufbau und Wirkungen des Grundbuchs",
+  "seite": "Grundbuchrang: Rangverhältnis, Rangänderung, Rangvorbehalt und Zwangsversteigerung",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/aufbau-und-wirkungen-des-grundbuchs/grundbuchrang-rangverhaltnis-ranganderung-rangvorbehalt-und-zwangsversteigerung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 17 GBO",
+   "§ 45 GBO"
+  ],
+  "frage": "Nach § 17 GBO richtet sich die Rangfolge mehrerer Eintragungen nach der zeitlichen Abfolge der Anträge; § 45 GBO ordnet dagegen an, dass mehrere dasselbe Recht betreffende Anträge in der Reihenfolge ihres Eingangs zu erledigen sind.",
+  "antwort": false,
+  "erklaerung": "Die Normen sind vertauscht. § 17 GBO enthält das formelle Prioritätsprinzip (Vorrangprinzip): Mehrere Anträge, die dasselbe Recht betreffen, sind in der Reihenfolge ihres Eingangs zu erledigen. § 45 GBO enthält das formelle Rangprinzip: Die Rangfolge mehrerer Eintragungen richtet sich nach der zeitlichen Abfolge der Anträge; gleichzeitig gestellte Anträge erhalten innerhalb einer Abteilung Gleichrang, soweit nichts anderes bestimmt ist."
+ },
+ {
+  "id": "grbu1-013",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Aufbau und Wirkungen des Grundbuchs",
+  "seite": "Grundbuchrang: Rangverhältnis, Rangänderung, Rangvorbehalt und Zwangsversteigerung",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/aufbau-und-wirkungen-des-grundbuchs/grundbuchrang-rangverhaltnis-ranganderung-rangvorbehalt-und-zwangsversteigerung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 19 GBO",
+   "§ 880 BGB"
+  ],
+  "frage": "Ein Rangvorbehalt zugunsten einer späteren Grundschuld soll erst nachträglich, nach Eintragung eines Nießbrauchs, bestellt werden. Was ist verfahrensrechtlich erforderlich?",
+  "optionen": [
+   "Allein die Bewilligung des Eigentümers nach § 19 GBO",
+   "Die Bewilligung des Nießbrauchers; bei einem belasteten Grundpfandrecht zusätzlich die Zustimmung des Eigentümers",
+   "Die formlose Einigung zwischen Eigentümer und künftigem Grundschuldgläubiger",
+   "Die Bewilligung des künftigen Grundschuldgläubigers"
+  ],
+  "antwort": 1,
+  "erklaerung": "Wird der Rangvorbehalt zugleich mit dem belasteten Recht bestellt, reicht die Bewilligung des Eigentümers (§ 19 GBO). Wird er nachträglich vereinbart, muss der Inhaber des belasteten Rechts bewilligen, hier der Nießbraucher; bei Grundpfandrechten kommt die Zustimmung des Eigentümers hinzu. Die formlose Einigung zwischen Eigentümer und vortretendem Gläubiger ist erst für die spätere Ausnutzung des Vorbehalts nötig, bei der der zurücktretende Berechtigte nicht mehr mitwirken muss."
+ },
+ {
+  "id": "grbu1-014",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Aufbau und Wirkungen des Grundbuchs",
+  "seite": "Grundbuchrang: Rangverhältnis, Rangänderung, Rangvorbehalt und Zwangsversteigerung",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/aufbau-und-wirkungen-des-grundbuchs/grundbuchrang-rangverhaltnis-ranganderung-rangvorbehalt-und-zwangsversteigerung",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 879 BGB",
+   "§ 45 GBO",
+   "§ 52 ZVG",
+   "§ 91 ZVG"
+  ],
+  "frage": "Grundstücksteilung mit Wegerecht und Finanzierung",
+  "sachverhalt": "Eigentümer E teilt sein Grundstück und verkauft die hintere Teilfläche an K. Die hintere Fläche ist nur über die vordere, bei E verbleibende Fläche erreichbar; deshalb soll zugunsten der hinteren Fläche ein Geh- und Fahrtrecht am vorderen Grundstück bestellt werden. Am vorderen Grundstück ist bereits eine Grundschuld der Bank B über 400.000 Euro eingetragen. Zur Finanzierung des Kaufpreises bestellt K an der hinteren Fläche eine Grundschuld zugunsten der Sparkasse S; zugleich wird für K eine Eigentumsvormerkung beantragt.",
+  "schritte": [
+   {
+    "frage": "Das Geh- und Fahrtrecht wird am vorderen Grundstück nach der Grundschuld der B eingetragen. Was geschieht, wenn B aus ihrer Grundschuld die Zwangsversteigerung betreibt?",
+    "optionen": [
+     "Das Wegerecht bleibt bestehen, weil Dienstbarkeiten in der Zwangsversteigerung stets fortgelten",
+     "Das Wegerecht erlischt mit dem Zuschlag, weil es dem Recht des betreibenden Gläubigers im Rang nachgeht",
+     "Das Wegerecht bleibt bestehen und fällt in das geringste Gebot",
+     "Das Wegerecht erlischt nur, wenn B dies ausdrücklich beantragt"
+    ],
+    "antwort": 1,
+    "erklaerung": "Wird aus einem vorrangigen Recht versteigert, erlöschen alle nachrangigen Rechte mit dem Zuschlag (§§ 44 ff., 52, 91 ZVG). Nur Rechte, die dem Recht des betreibenden Gläubigers vorgehen, bleiben bestehen und fallen in das geringste Gebot. Das nachrangige Wegerecht kann lediglich zur Erlösverteilung angemeldet werden (§§ 14, 92 ZVG)."
+   },
+   {
+    "frage": "Wie sollte der Notar die Gestaltung anpassen, damit die Erschließung der hinteren Fläche dauerhaft gesichert ist?",
+    "optionen": [
+     "Das Wegerecht als Herrschvermerk im Bestandsverzeichnis der hinteren Fläche eintragen lassen",
+     "Einen Rangrücktritt der Bank B hinter das Wegerecht einholen, damit die Dienstbarkeit vorrangig ist",
+     "Das Wegerecht in Abteilung III eintragen lassen, damit es den Rang der Grundschuld teilt",
+     "Die Bank B über das Wegerecht belehren; mehr ist nicht möglich"
+    ],
+    "antwort": 1,
+    "erklaerung": "Dienstbarkeiten zur Sicherung von Zugang oder Ver- und Entsorgung sollten im Rang vor Grundschulden eingetragen werden, damit sie in einer Zwangsversteigerung nicht erlöschen. Dafür muss B den Rangrücktritt erklären (§ 880 BGB); da ein Grundpfandrecht zurücktritt, ist zusätzlich die Zustimmung des Eigentümers E nötig. Ein Herrschvermerk ändert am Rang nichts, und eine Dienstbarkeit gehört nicht in Abteilung III."
+   },
+   {
+    "frage": "Vormerkung für K und Grundschuld für S werden am selben Tag beantragt. Welche Rangbestimmung sollte der Notar in den Urkunden treffen?",
+    "optionen": [
+     "Vormerkung vor Grundschuld, damit der Erwerb des K vorrangig gesichert ist",
+     "Grundschuld vor Vormerkung, weil die finanzierende Bank die erste Rangstelle verlangt",
+     "Keine Rangbestimmung, weil Rechte verschiedener Abteilungen ohnehin Gleichrang erhalten",
+     "Eine Rangbestimmung nur im Antrag, abweichend von der Bewilligung"
+    ],
+    "antwort": 1,
+    "erklaerung": "Die Antragsteller können das Rangverhältnis gleichzeitig gestellter Anträge abweichend festlegen (§ 45 Abs. 3 Alt. 2 GBO). Der Praxishinweis lautet: Grundschuld vor Vormerkung, weil Banken die erste oder bestmögliche Rangstelle verlangen. Die Rangbestimmung gehört in die Eintragungsbewilligung oder in den Antrag, dort aber nicht mit abweichendem Inhalt."
+   }
+  ],
+  "erklaerung": "Nachrangige Rechte erlöschen in der Zwangsversteigerung aus einem vorrangigen Recht (§§ 52, 91 ZVG); eine Erschließungsdienstbarkeit ist deshalb durch Rangrücktritt der Grundschuld (§ 880 BGB, mit Eigentümerzustimmung) vorrangig zu stellen. Bei gleichzeitigen Anträgen auf Vormerkung und Finanzierungsgrundschuld ist nach § 45 Abs. 3 GBO die Rangbestimmung Grundschuld vor Vormerkung zu treffen."
+ }
+]

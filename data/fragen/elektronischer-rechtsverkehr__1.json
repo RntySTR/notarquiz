@@ -13,11 +13,11 @@
   "frage": "Wann entsteht bei der elektronischen Präsenzbeurkundung (ePb) die elektronische Urschrift?",
   "optionen": [
    "Mit der qualifizierten elektronischen Signatur des Notars auf dem PDF",
-   "Mit der Unterschrift des letzten Beteiligten auf dem Unterschriften-Pad",
    "Mit der Einstellung der signierten Urkunde in die elektronische Urkundensammlung",
+   "Mit der Unterschrift des letzten Beteiligten auf dem Unterschriften-Pad",
    "Mit der Vergabe der UVZ-Nummer im elektronischen Dokument"
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "Nach § 45 Abs. 3 BeurkG wird die signierte elektronische Urkunde erst mit der Einstellung in die elektronische Urkundensammlung zur elektronischen Urschrift. Die qeS des Notars ist zwar notwendige Voraussetzung, schließt aber nur den Signaturvorgang ab; die Urschrift entsteht erst im Urkundenverzeichnis. Die UVZ-Nummer muss bereits vor den Unterschriften eingetragen sein und begründet keine Urschrift."
  },
  {
@@ -34,10 +34,10 @@
   ],
   "frage": "Ein Lageplan muss nach § 14 BeurkG mitbeurkundet werden. Wie ist er bei der ePb zu behandeln?",
   "optionen": [
-   "Als eigene PDF-Datei nach der Signatur des Notars als „sonstiges Dokument“ in die Urkundensammlung einstellen",
+   "Nach der Signatur des Notars an die Datei anhängen und mit einem Nachtragsvermerk versehen",
    "Als PDF/A einscannen und vor den Unterschriften mit der Niederschrift in derselben Datei zusammenführen",
    "Auf Papier belassen und in die Papierurkundensammlung aufnehmen, da nur die Niederschrift elektronisch ist",
-   "Nach der Signatur des Notars an die Datei anhängen und mit einem Nachtragsvermerk versehen"
+   "Als eigene PDF-Datei nach der Signatur des Notars als „sonstiges Dokument“ in die Urkundensammlung einstellen"
   ],
   "antwort": 1,
   "erklaerung": "Beurkundungsbedürftige Anlagen nach § 14 BeurkG müssen Teil derselben Datei wie die Niederschrift sein; Papieranlagen werden als PDF/A eingescannt und vor den Unterschriften und der Signatur des Notars zusammengeführt. Ein nachträgliches Anfügen ist unzulässig und würde zudem die Signatur ungültig machen. Die getrennte Einstellung als „sonstiges Dokument“ ist nur für Anlagen ohne Beurkundungsbedarf (z. B. Vertretungsnachweise nach § 12 BeurkG) möglich."
@@ -70,12 +70,12 @@
   ],
   "frage": "Warum sollte eine Vollmacht bei der ePb als Niederschrift und nicht als elektronische Vermerkurkunde errichtet werden?",
   "optionen": [
-   "Weil Vermerkurkunden nach dem BeurkG generell nicht elektronisch errichtet werden dürfen",
    "Weil nur von Niederschriften Papierausfertigungen erteilt werden können, die als Rechtsscheinträger nach § 172 BGB taugen",
-   "Weil eine Vollmacht in Vermerkform stets der Schriftform nach § 126 BGB bedarf",
-   "Weil Vermerkurkunden nicht in die elektronische Urkundensammlung eingestellt werden können"
+   "Weil Vermerkurkunden nach dem BeurkG generell nicht elektronisch errichtet werden dürfen",
+   "Weil Vermerkurkunden nicht in die elektronische Urkundensammlung eingestellt werden können",
+   "Weil eine Vollmacht in Vermerkform stets der Schriftform nach § 126 BGB bedarf"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Die elektronische Urschrift ist nicht verkehrsfähig und daher kein Rechtsscheinträger im Sinne von § 172 BGB. Ein im Rechtsverkehr verwendbarer Rechtsschein setzt derzeit eine Papierausfertigung voraus, und Ausfertigungen lassen sich nur von Niederschriften erteilen. Elektronische Vermerkurkunden sind grundsätzlich zulässig; sie werden nur auf Verlangen verwahrt, sonst ausgehändigt."
  },
  {
@@ -107,12 +107,12 @@
   ],
   "frage": "In welchem System dürfen die Beteiligten bei der ePb ihre elektronische Unterschrift leisten?",
   "optionen": [
-   "In jedem Signatursystem, das eine qualifizierte elektronische Signatur nach eIDAS unterstützt",
    "Ausschließlich im XNP-Modul eBeurkundung der Bundesnotarkammer",
+   "In einem vom Landesjustizministerium zugelassenen Signaturdienst",
    "In der Notarsoftware, sofern sie eine PDF/A-Ausgabe erzeugt",
-   "In einem vom Landesjustizministerium zugelassenen Signaturdienst"
+   "In jedem Signatursystem, das eine qualifizierte elektronische Signatur nach eIDAS unterstützt"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Nach § 13b Abs. 1 BeurkG sollen elektronische Niederschriften mit einem staatlich bereitgestellten Signatursystem signiert werden; nur das XNP-Modul eBeurkundung der Bundesnotarkammer genügt diesen Anforderungen (§ 78 Abs. 1 S. 2 Nr. 11 BNotO). Elektronische Unterschriften in anderen Systemen sind beurkundungsrechtlich unzulässig, auch wenn sie technisch eine qeS ermöglichen würden."
  },
  {
@@ -130,9 +130,9 @@
   "frage": "Wissensdaten des Signatursystems eBeurkundung sind Unbefugten zugänglich geworden. Welche Pflicht trifft den Notar?",
   "optionen": [
    "Er muss unverzüglich Mitteilung machen; die Notarkammer unterrichtet die Bundesnotarkammer, wenn Daten anderer Stellen gefährdet sein könnten",
-   "Er muss innerhalb von zwei Wochen die Landesjustizverwaltung informieren und alle Signaturkarten austauschen",
+   "Er muss den Vorfall ausschließlich der Datenschutzaufsicht melden, da es sich um einen Datenschutzverstoß handelt",
    "Er muss nur dann Mitteilung machen, wenn tatsächlich eine Urkunde manipuliert wurde",
-   "Er muss den Vorfall ausschließlich der Datenschutzaufsicht melden, da es sich um einen Datenschutzverstoß handelt"
+   "Er muss innerhalb von zwei Wochen die Landesjustizverwaltung informieren und alle Signaturkarten austauschen"
   ],
   "antwort": 0,
   "erklaerung": "Nach § 34 S. 1 Nr. 3 BNotO muss der Notar unverzüglich Mitteilung machen, wenn Wissensdaten oder andere Schutzvorkehrungen des Signatursystems missbraucht, manipuliert oder Unbefugten zugänglich geworden sind. Die Notarkammer unterrichtet dann unverzüglich die Bundesnotarkammer, wenn auch Daten anderer Stellen gefährdet sein könnten (§ 34 S. 3 BNotO). Die Pflicht setzt keine tatsächliche Manipulation einer Urkunde voraus; der unbefugte Zugang genügt."
@@ -166,11 +166,11 @@
   "frage": "Ein Beteiligter kann wegen einer körperlichen Einschränkung keine Unterschrift auf dem Pad leisten; ein Schreibzeuge soll zugezogen werden. Was empfiehlt das Handbuch für die ePb?",
   "optionen": [
    "Der Schreibzeuge unterschreibt auf dem Pad; das Verfahren ist elektronisch unproblematisch",
+   "Der Notar unterschreibt für den Beteiligten auf dem Pad und vermerkt dies im Schlussvermerk",
    "Der Beteiligte muss zwingend eine eigene qeS verwenden, ein Schreibzeuge ist elektronisch ausgeschlossen",
-   "Wegen rechtlicher Unsicherheit empfiehlt sich in diesem Fall die Papierbeurkundung",
-   "Der Notar unterschreibt für den Beteiligten auf dem Pad und vermerkt dies im Schlussvermerk"
+   "Wegen rechtlicher Unsicherheit empfiehlt sich in diesem Fall die Papierbeurkundung"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Mit Dolmetscher oder körperlich eingeschränkten Beteiligten wird grundsätzlich elektronisch wie auf Papier verfahren. Rechtlich unsicher ist aber der Fall, dass ein Beteiligter über eine qeS verfügen könnte, eine elektronische Unterschrift jedoch nicht leisten kann und deshalb ein Schreibzeuge zugezogen werden soll; hierfür empfiehlt das Handbuch die Papierbeurkundung. Die schlichte Annahme, der Schreibzeuge könne elektronisch unproblematisch unterschreiben, verkennt diese Unsicherheit."
  },
  {
@@ -186,12 +186,12 @@
   ],
   "frage": "Welche elektronische Unterschrift kann der Notar nach § 40b BeurkG beglaubigen?",
   "optionen": [
+   "Eine zuvor mit qeS geleistete Signatur, deren Zertifikat der Notar prüft",
    "Jede elektronische Unterschrift, die der Beteiligte vor dem Notar als die seine anerkennt",
    "Nur eine elektronische Unterschrift, die vor dem Notar geleistet wird",
-   "Eine eingescannte Papierunterschrift, deren Echtheit der Notar durch Ausweisvorlage prüft",
-   "Eine zuvor mit qeS geleistete Signatur, deren Zertifikat der Notar prüft"
+   "Eine eingescannte Papierunterschrift, deren Echtheit der Notar durch Ausweisvorlage prüft"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Nach § 40b Abs. 1 BeurkG wird nur eine elektronische Unterschrift beglaubigt, die vor dem Notar geleistet wird; die Anerkennung einer elektronischen Unterschrift ist ausgeschlossen. Anders als bei der Papierbeglaubigung gibt es also keine Anerkennungsvariante. Das Einscannen einer bereits auf Papier geleisteten Unterschrift mit anschließender elektronischer Beglaubigung ist ausdrücklich verboten."
  },
  {
@@ -212,8 +212,8 @@
   "optionen": [
    "Die Liste wahrt die Schriftform, da die Pad-Unterschrift der elektronischen Form nach § 126a BGB entspricht",
    "Die Liste wahrt die Schriftform nicht, weil die Pad-Unterschrift weder § 126 noch § 126a BGB genügt",
-   "Die Liste ist wirksam, weil Gesellschafterlisten keiner Form bedürfen",
-   "Die Liste wahrt die Schriftform, sobald der Notar sie mit seiner qeS beim Handelsregister einreicht"
+   "Die Liste wahrt die Schriftform, sobald der Notar sie mit seiner qeS beim Handelsregister einreicht",
+   "Die Liste ist wirksam, weil Gesellschafterlisten keiner Form bedürfen"
   ],
   "antwort": 1,
   "erklaerung": "Eine Pad-Unterschrift genügt weder der Schriftform (§ 126 BGB) noch der elektronischen Form (§ 126a BGB), die eine qeS des Unterzeichners verlangt. Erst die notarielle Beglaubigung nach § 40b BeurkG macht die Erklärung öffentlich beglaubigt und damit nach § 129 Abs. 3 i. V. m. § 126 Abs. 4 BGB schriftlich. Die qeS des Notars bei der Einreichung ersetzt die fehlende Unterschrift des Geschäftsführers nicht."
@@ -305,12 +305,12 @@
   ],
   "frage": "Welcher Bestandteil kommt bei einer elektronischen Signaturbeglaubigung zu den allgemeinen Bestandteilen einer elektronischen Urkunde (Dokument, qeS des Notars, Bestätigung der Notareigenschaft) hinzu?",
   "optionen": [
-   "Die Dokumentation der Signaturprüfung",
-   "Ein digitales Siegelbild des Notars",
+   "Ein Vermerk über die Prüfung der Eintragungsfähigkeit",
    "Die Einstellung in die elektronische Urkundensammlung",
-   "Ein Vermerk über die Prüfung der Eintragungsfähigkeit"
+   "Ein digitales Siegelbild des Notars",
+   "Die Dokumentation der Signaturprüfung"
   ],
-  "antwort": 0,
+  "antwort": 3,
   "erklaerung": "Eine elektronische Urkunde entsteht aus dem elektronischen Dokument, der qeS des Notars und der Verbindung mit der Bestätigung der Notareigenschaft; bei Signaturbeglaubigungen tritt die Dokumentation der Signaturprüfung hinzu. Die Einstellung in die Urkundensammlung macht die Urkunde nach § 45 Abs. 3 BeurkG zur Urschrift, ist aber kein Bestandteil der Urkunde selbst. Das Siegelbild ist rechtlich unerheblich."
  },
  {
@@ -377,12 +377,12 @@
   ],
   "frage": "Ein Beteiligter kann sich im ePb-Termin nicht ausweisen und legt den Ausweis erst eine Woche später vor. Wie wird dies dokumentiert?",
   "optionen": [
-   "Der Notar trägt die Ausweisdaten nachträglich in die signierte Urschrift ein und signiert erneut",
    "In der Urschrift wird die fehlende Identifizierung vermerkt; die spätere Identifizierung wird in einem neuen elektronischen Vermerk nach den Regeln der Berichtigung festgehalten",
-   "Die Urkunde ist unwirksam und muss vollständig neu beurkundet werden",
-   "Die Identifizierung wird nur in der Nebenakte vermerkt, ein Vermerk zur Urkunde ist entbehrlich"
+   "Der Notar trägt die Ausweisdaten nachträglich in die signierte Urschrift ein und signiert erneut",
+   "Die Identifizierung wird nur in der Nebenakte vermerkt, ein Vermerk zur Urkunde ist entbehrlich",
+   "Die Urkunde ist unwirksam und muss vollständig neu beurkundet werden"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Kann sich ein Beteiligter im Termin nicht ausweisen, wird in der Urschrift vermerkt, dass die beurkundungs- oder geldwäscherechtliche Identifizierung nicht oder nicht vollständig erfolgen konnte. Die spätere Identifizierung wird in einem neuen elektronischen Vermerk festgehalten, für den dieselben Regeln wie für die Berichtigung gelten (gesondertes, qualifiziert signiertes Dokument in der elektronischen Urkundensammlung). Ein nachträglicher Eingriff in die signierte Urschrift würde die Signatur ungültig machen."
  },
  {
@@ -436,8 +436,8 @@
   "optionen": [
    "Die Vermerkurkunde wird gleichwohl in der elektronischen Urkundensammlung verwahrt, da alle elektronischen Urkunden dort einzustellen sind",
    "Das elektronische Dokument wird samt Vermerk auf einem geeigneten Datenträger ausgehändigt; eine elektronische Urschrift entsteht nicht",
-   "Das Dokument wird ausgehändigt, zugleich entsteht durch die Signatur des Notars eine elektronische Urschrift",
-   "Die Beglaubigung ist unzulässig, weil elektronische Vermerkurkunden zwingend verwahrt werden"
+   "Die Beglaubigung ist unzulässig, weil elektronische Vermerkurkunden zwingend verwahrt werden",
+   "Das Dokument wird ausgehändigt, zugleich entsteht durch die Signatur des Notars eine elektronische Urschrift"
   ],
   "antwort": 1,
   "erklaerung": "Nach § 45b Abs. 2 S. 1 BeurkG wird eine elektronische Vermerkurkunde ohne Verwahrungsverlangen nicht in der elektronischen Urkundensammlung verwahrt, sondern samt Vermerk auf einem geeigneten Datenträger ausgehändigt (§ 45b Abs. 2 S. 4 BeurkG). Da keine Einstellung in die Urkundensammlung erfolgt, entsteht keine elektronische Urschrift nach § 45 Abs. 3 BeurkG. Die zwingende Verwahrung gilt nur für elektronische Niederschriften (§ 45b Abs. 1 S. 1 BeurkG)."
@@ -472,12 +472,12 @@
   ],
   "frage": "Welche Voraussetzung muss erfüllt sein, bevor der Notar eine beglaubigte Abschrift oder Ausfertigung einer elektronischen Urkunde erteilt?",
   "optionen": [
+   "Der beglaubigte Ausdruck muss zur Papierurkundensammlung genommen worden sein",
    "Die Beteiligten müssen der Erteilung schriftlich zugestimmt haben",
    "Die Signatur der elektronischen Urkunde muss geprüft und das Ergebnis im Vermerk festgehalten sein",
-   "Der beglaubigte Ausdruck muss zur Papierurkundensammlung genommen worden sein",
    "Die Urkunde muss mindestens einen Tag im Urkundenverzeichnis eingestellt gewesen sein"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Nach §§ 39a Abs. 3 S. 1 und 42 Abs. 4 BeurkG darf eine beglaubigte Abschrift oder Ausfertigung einer elektronischen Urkunde erst erteilt werden, wenn deren Signatur geprüft ist; das Ergebnis ist im Vermerk festzuhalten. Entbehrlich ist die Prüfung nur ausnahmsweise, etwa bei zeitnahen einfachen Vermerken kurz nach der Beurkundung. Der Ausdruck zur Papierurkundensammlung ist eine eigenständige Pflicht und keine Voraussetzung der Erteilung."
  },
  {
@@ -500,12 +500,12 @@
    {
     "frage": "Darf N dem B unmittelbar nach dem Termin, vor Übernahme in das UVZ, eine Ausfertigung erteilen?",
     "optionen": [
-     "Ja, da die Urkunde mit der qeS des Notars abgeschlossen ist",
      "Nein, eine Ausfertigung darf erst nach Entstehen der Urschrift durch Eintragung im UVZ erteilt werden",
+     "Nein, Ausfertigungen elektronischer Urkunden sind generell unzulässig",
      "Ja, wenn B die Ausfertigung nur zur Vorlage bei einer Bank benötigt",
-     "Nein, Ausfertigungen elektronischer Urkunden sind generell unzulässig"
+     "Ja, da die Urkunde mit der qeS des Notars abgeschlossen ist"
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "Die elektronische Urschrift entsteht erst mit der Einstellung in die elektronische Urkundensammlung über das UVZ (§ 45 Abs. 3 BeurkG); die Signaturen allein genügen nicht. Eine Ausfertigung darf erst nach Entstehen der Urschrift erteilt werden, die Erteilung vorher ist ein typischer Fehler."
    },
    {
@@ -513,8 +513,8 @@
     "optionen": [
      "Nur eine einfache oder eine beglaubigte Abschrift",
      "Nur die elektronische Urschrift auf einem Datenträger",
-     "Eine Ausfertigung unter Vorbehalt der späteren UVZ-Eintragung",
-     "Nichts, bis der beglaubigte Ausdruck gefertigt ist"
+     "Nichts, bis der beglaubigte Ausdruck gefertigt ist",
+     "Eine Ausfertigung unter Vorbehalt der späteren UVZ-Eintragung"
     ],
     "antwort": 0,
     "erklaerung": "Vor Entstehen der Urschrift dürfen nach h. M. nur eine einfache Abschrift oder eine beglaubigte Abschrift herausgegeben werden. Die Begrenzung ist zwar fraglich, weil die beglaubigte Abschrift über § 130 Abs. 2 BGB im Rechtsverkehr fast wie eine Ausfertigung wirkt; eine Ausfertigung bleibt aber ausgeschlossen."
@@ -522,12 +522,12 @@
    {
     "frage": "Nach Einstellung im UVZ will N die Ausfertigung erteilen. Was muss er dabei beachten?",
     "optionen": [
-     "Die Signatur muss geprüft und das Ergebnis im Vermerk festgehalten sein; XNP prüft beim Einstellen automatisch",
-     "Die Ausfertigung muss auf einem Datenträger elektronisch erteilt werden, Papier ist ausgeschlossen",
      "Es bedarf einer erneuten Unterschrift der A auf dem Pad",
-     "Die Ausfertigung darf frühestens eine Woche nach der UVZ-Eintragung erteilt werden"
+     "Die Ausfertigung darf frühestens eine Woche nach der UVZ-Eintragung erteilt werden",
+     "Die Signatur muss geprüft und das Ergebnis im Vermerk festgehalten sein; XNP prüft beim Einstellen automatisch",
+     "Die Ausfertigung muss auf einem Datenträger elektronisch erteilt werden, Papier ist ausgeschlossen"
     ],
-    "antwort": 0,
+    "antwort": 2,
     "erklaerung": "Nach § 42 Abs. 4 BeurkG darf die Ausfertigung erst nach Prüfung der Signatur erteilt werden; das Ergebnis ist im Vermerk festzuhalten. XNP führt beim Einstellen in das UVZ automatisch eine Signaturprüfung durch, auf die sich der Notar nach vertretener Ansicht verlassen darf; alternativ kann er die Urschrift mit dem Dokumente-Modul prüfen. Für die Vollmacht wird die Ausfertigung auf Papier erteilt."
    }
   ],
@@ -547,12 +547,12 @@
   ],
   "frage": "Die elektronische Urschrift einer Niederschrift ist zerstört. Welche Grundlage kommt für die Ersetzung nach § 46 Abs. 3 BeurkG in Betracht?",
   "optionen": [
-   "Ausschließlich eine vorhandene Ausfertigung, da nur sie die Urschrift im Rechtsverkehr vertritt",
-   "Der beglaubigte Ausdruck, eine vorhandene Ausfertigung oder die elektronische Urkunde als Vervielfältigung",
    "Nur eine einfache Abschrift aus der Nebenakte des Notars",
-   "Nur ein neuer Beurkundungstermin mit allen Beteiligten"
+   "Ausschließlich eine vorhandene Ausfertigung, da nur sie die Urschrift im Rechtsverkehr vertritt",
+   "Nur ein neuer Beurkundungstermin mit allen Beteiligten",
+   "Der beglaubigte Ausdruck, eine vorhandene Ausfertigung oder die elektronische Urkunde als Vervielfältigung"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Nach § 46 Abs. 3 i. V. m. Abs. 2 S. 2 und 3 und Abs. 1 BeurkG kann die zerstörte elektronische Urschrift wiederhergestellt werden; Grundlage kann der beglaubigte Ausdruck, eine vorhandene Ausfertigung oder die elektronische Urkunde sein, die als Vervielfältigung mindestens die Form einer elektronischen beglaubigten Abschrift hat. Die Beschränkung auf die Ausfertigung verkennt, dass gerade der beglaubigte Ausdruck zur Papierurkundensammlung die typische Ersetzungsgrundlage ist."
  },
  {
@@ -570,12 +570,12 @@
   ],
   "frage": "Welche Beurkundung ist im Online-Verfahren per Videokommunikation nicht zugelassen?",
   "optionen": [
-   "Bargründung einer UG (haftungsbeschränkt)",
+   "Grundstückskaufvertrag zwischen zwei GmbHs",
    "Einstimmiger satzungsändernder Gesellschafterbeschluss einer GmbH",
    "Vollmacht zur Gründung einer GmbH",
-   "Grundstückskaufvertrag zwischen zwei GmbHs"
+   "Bargründung einer UG (haftungsbeschränkt)"
   ],
-  "antwort": 3,
+  "antwort": 0,
   "erklaerung": "Das Online-Verfahren ist nur in gesetzlich zugelassenen Fällen eröffnet (§ 16a Abs. 1 BeurkG): u. a. GmbH/UG-Gründung, Gründungsvollmachten (§ 2 Abs. 2 GmbHG), einstimmige satzungsändernde Beschlüsse (§ 53 Abs. 3 S. 2 GmbHG) und Übernahmeerklärungen bei der Kapitalerhöhung (§ 55 Abs. 1 S. 2 GmbHG). Der Grundstückskaufvertrag gehört nicht zum Katalog, auch wenn nur Gesellschaften beteiligt sind."
  },
  {
@@ -591,12 +591,12 @@
   ],
   "frage": "Notar N in Stuttgart soll die Online-Gründung einer GmbH mit Sitz in Hamburg beurkunden. Wann gilt die Beurkundung als im Amtsbereich des N vorgenommen?",
   "optionen": [
-   "Immer, da bei Videobeurkundungen keine Amtsbereichsbeschränkung gilt",
-   "Nur wenn alle Gründungsgesellschafter im Amtsbereich des N wohnen",
    "Wenn etwa ein Gesellschafter, dessen Stellung aus dem Handelsregister hervorgeht, oder ein organschaftlicher Vertreter Wohnsitz oder Sitz im Amtsbereich des N hat",
+   "Nur wenn alle Gründungsgesellschafter im Amtsbereich des N wohnen",
+   "Immer, da bei Videobeurkundungen keine Amtsbereichsbeschränkung gilt",
    "Nie, weil der Sitz der Gesellschaft außerhalb des Amtsbereichs liegt"
   ],
-  "antwort": 2,
+  "antwort": 0,
   "erklaerung": "Nach § 10a Abs. 3 BNotO gelten Urkundstätigkeiten nach §§ 16a bis 16e, 40a BeurkG nur dann als im Amtsbereich vorgenommen, wenn dort ein Anknüpfungsort liegt: Sitz der Gesellschaft, Wohnsitz oder Sitz eines organschaftlichen Vertreters oder eines im Register ausgewiesenen Gesellschafters, bei Auslandssitz die Zweigniederlassung. Es genügt ein Anknüpfungsort; dass alle Gesellschafter im Amtsbereich wohnen, ist nicht erforderlich."
  },
  {
@@ -686,12 +686,12 @@
   ],
   "frage": "Ein Mandant lässt bei der ePb eine Vollmacht nur elektronisch unterschriftsbeglaubigen (§ 40b BeurkG). Welches Problem entsteht?",
   "optionen": [
+   "Die Vollmacht kann nur gegenüber Behörden, nicht gegenüber Privaten verwendet werden",
    "Die Vollmacht ist formunwirksam, weil Vollmachten stets beurkundet werden müssen",
-   "Von der unterschriftsbeglaubigten Privaturkunde kann keine Ausfertigung erteilt werden, und es fehlt ein Rechtsscheinträger nach § 172 BGB",
    "Die Vollmacht darf nicht in der elektronischen Urkundensammlung verwahrt werden",
-   "Die Vollmacht kann nur gegenüber Behörden, nicht gegenüber Privaten verwendet werden"
+   "Von der unterschriftsbeglaubigten Privaturkunde kann keine Ausfertigung erteilt werden, und es fehlt ein Rechtsscheinträger nach § 172 BGB"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Eine Ausfertigung kann nur von der beurkundeten Vollmacht erteilt werden; von einer elektronischen Privaturkunde mit Unterschriftsbeglaubigung ist sie nicht möglich (§§ 47, 49 BeurkG). Da die elektronische Urschrift nicht verkehrsfähig ist, gibt es für die nur unterschriftsbeglaubigte elektronische Vollmacht keinen Rechtsscheinträger nach § 172 BGB; sie ist im Rechtsverkehr nicht verwendbar. Die Vollmacht ist nicht unwirksam, sie taugt nur nicht zum Nachweis."
  },
  {
@@ -724,10 +724,10 @@
   ],
   "frage": "Welche Stufe der elektronischen Signatur steht nach der eIDAS-Verordnung in ihrer Rechtswirkung der handschriftlichen Unterschrift gleich?",
   "optionen": [
+   "Jede Signatur, die von einem Vertrauensdiensteanbieter zeitgestempelt wurde",
    "Die einfache elektronische Signatur, sofern der Unterzeichner identifiziert wurde",
-   "Die fortgeschrittene elektronische Signatur nach Art. 26 eIDAS",
    "Die qualifizierte elektronische Signatur nach Art. 3 Nr. 12 eIDAS",
-   "Jede Signatur, die von einem Vertrauensdiensteanbieter zeitgestempelt wurde"
+   "Die fortgeschrittene elektronische Signatur nach Art. 26 eIDAS"
   ],
   "antwort": 2,
   "erklaerung": "Nur die qualifizierte elektronische Signatur (Art. 3 Nr. 12 eIDAS) steht nach Art. 25 Abs. 2 eIDAS der handschriftlichen Unterschrift gleich und ist in allen Mitgliedstaaten anzuerkennen; sie setzt eine fortgeschrittene Signatur, ein qualifiziertes Zertifikat und eine qualifizierte Signaturerstellungseinheit voraus. Die fortgeschrittene Signatur erfüllt zwar die Anforderungen des Art. 26 eIDAS, ist der Unterschrift aber rechtlich nicht ohne Weiteres gleichgestellt."
@@ -760,12 +760,12 @@
   ],
   "frage": "Wie läuft die Prüfung einer elektronischen Signatur beim Empfänger ab?",
   "optionen": [
-   "Der Empfänger entschlüsselt das Dokument mit dem privaten Schlüssel des Unterzeichners und vergleicht es mit dem Original",
    "Der Empfänger berechnet den Hashwert des Dokuments neu, wertet die Signatur mit dem öffentlichen Schlüssel aus und vergleicht beide Werte",
+   "Der Empfänger vergleicht das eingebettete Unterschriftsbild mit dem beim Vertrauensdiensteanbieter hinterlegten Muster",
    "Der Empfänger sendet das Dokument an den Vertrauensdiensteanbieter, der den privaten Schlüssel des Unterzeichners anwendet",
-   "Der Empfänger vergleicht das eingebettete Unterschriftsbild mit dem beim Vertrauensdiensteanbieter hinterlegten Muster"
+   "Der Empfänger entschlüsselt das Dokument mit dem privaten Schlüssel des Unterzeichners und vergleicht es mit dem Original"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Signiert wird der Hashwert des Dokuments mit dem privaten Schlüssel. Zur Prüfung berechnet der Empfänger den Hashwert neu, wertet die Signatur mit dem öffentlichen Schlüssel aus und vergleicht beide Werte; stimmen sie überein, ist das Dokument unverändert und die Signatur echt. Der private Schlüssel bleibt stets geheim beim Unterzeichner; dass der öffentliche Schlüssel einer bestimmten Person gehört, bestätigt der Vertrauensdiensteanbieter (Art. 3 Nr. 16 eIDAS)."
  },
  {
@@ -844,11 +844,11 @@
   "frage": "Wie wird die Vertraulichkeit im EGVP gewährleistet?",
   "optionen": [
    "Durch die qualifizierte elektronische Signatur des Absenders, die den Inhalt verschlüsselt",
-   "Durch die SAFE-ID, die jedem Teilnehmer der zuständige Verzeichnisdienst zuweist",
    "Durch zweistufige OSCI-Verschlüsselung, bei der Empfängerangaben und Inhalt getrennt verschlüsselt werden (doppelter Briefumschlag)",
+   "Durch die SAFE-ID, die jedem Teilnehmer der zuständige Verzeichnisdienst zuweist",
    "Durch die Pflicht zur höchstpersönlichen Nutzung des Postfachs mit Karte und Passwort"
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "Die Vertraulichkeit im EGVP beruht auf dem Transportprotokoll OSCI 1.2, das in zwei Stufen verschlüsselt: Empfängerangaben und Nachrichteninhalt werden getrennt verschlüsselt, für die Weiterleitung wird nur die äußere Hülle geöffnet (Prinzip des doppelten Briefumschlags). SAFE-ID, Karte und Passwort sowie die Höchstpersönlichkeit dienen der Authentizität; die Signatur sichert Integrität, nicht Geheimhaltung."
  },
  {
@@ -876,11 +876,11 @@
   "frage": "Was bezeichnet „XNotar“ im Verhältnis zu XNP?",
   "optionen": [
    "Die Hardwarekomponente (Registerbox), über die das Büro das Notarnetz erreicht",
-   "Die Zusammenfassung der Fachmodule in XNP, etwa Handelsregister, Grundbuch, Sonstige Anträge und eNoVA",
    "Das besondere elektronische Notarpostfach (beN) der Bundesnotarkammer",
+   "Die Zusammenfassung der Fachmodule in XNP, etwa Handelsregister, Grundbuch, Sonstige Anträge und eNoVA",
    "Die Gutachtendatenbank des DNotI im Notarnetz"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "XNP ist die von der BNotK bereitgestellte Basisanwendung, die Fachanwendungen in Modulen bündelt; unter „XNotar“ werden diese Module zusammengefasst (Handelsregister, Grundbuch, Sonstige Anträge, Präsenzbeglaubigung, eNoVA, Geldwäschebekämpfung, elektronische Präsenzbeurkundung). Registerbox bzw. Notarnetzbox sind dagegen die Hardware für den Zugang zum Notarnetz, über das beN, Urkundenarchiv, ZTR, ZVR und DNotI-Datenbank erreicht werden."
  },
  {
@@ -911,12 +911,12 @@
   ],
   "frage": "Welche Vorschriften gelten nach § 14 Abs. 2 FamFG für elektronische Dokumente in FamFG-Verfahren?",
   "optionen": [
-   "§ 130a ZPO, die darauf gestützten Rechtsverordnungen und § 298 ZPO entsprechend",
    "Ausschließlich die ERVV, da das FamFG keine eigene Verweisung enthält",
+   "§ 130a ZPO, die darauf gestützten Rechtsverordnungen und § 298 ZPO entsprechend",
    "§ 32a StPO und die BGH/BPatGERVV entsprechend",
    "Allein die ERV-Bekanntmachung des jeweiligen Landesjustizministeriums"
   ],
-  "antwort": 0,
+  "antwort": 1,
   "erklaerung": "§ 14 Abs. 2 FamFG verweist für elektronische Dokumente auf § 130a ZPO, die darauf gestützten Rechtsverordnungen (insbesondere die ERVV) und § 298 ZPO, die entsprechend gelten. Die ERVV allein genügt nicht, weil sie nach § 1 Abs. 1 ERVV an § 130a ZPO und die parallelen Vorschriften der anderen Verfahrensordnungen anknüpft. Die BGH/BPatGERVV ist für das Notarbüro praktisch ohne Bedeutung."
  },
  {
@@ -967,5 +967,579 @@
   "frage": "Die Länder erlassen Ausführungs- und Durchführungsrecht zum ERV, weil Amts- und Landgerichte Landesbehörden sind.",
   "antwort": true,
   "erklaerung": "Der Bund regelt die Verfahrensordnungen (GBO, FamFG, HGB), das notarielle Berufs- und Kostenrecht und die ERVV; die Länder erlassen Ausführungs- und Durchführungsrecht, weil Amts- und Landgerichte Landesbehörden sind. Das Notariat kommuniziert überwiegend mit dem Amtsgericht als Grundbuchamt, Nachlass-, Familien- und Registergericht, sodass neben dem Bundesrecht stets das Landesrecht (in Baden-Württemberg ERGA-VO, LERVVO) zu prüfen ist."
+ },
+ {
+  "id": "elek1-044",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "Elektronischer Rechtsverkehr: Strukturdaten (XML) und XML-Gebühr",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronischer-rechtsverkehr-strukturdaten-xml-und-xml-gebuhr",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 22114 GNotKG",
+   "KV 22115 GNotKG"
+  ],
+  "frage": "Der Notar erstellt für einen Grundbuchantrag den XML-Datensatz und nimmt daneben weitere Vollzugstätigkeiten nach KV 22110–22113 GNotKG vor. Welche Gebühr fällt für die Strukturdaten an?",
+  "optionen": [
+   "Keine gesonderte Gebühr, da die XML-Erstellung von der Vollzugsgebühr nach § 93 GNotKG abgegolten ist",
+   "Gebühr nach KV 22114 mit Satz 0,2, höchstens 125 €",
+   "Gebühr nach KV 22115 mit Satz 0,2, höchstens 250 €",
+   "Gebühr nach KV 22115 mit Satz 0,1, höchstens 125 €"
+  ],
+  "antwort": 3,
+  "erklaerung": "Entstehen neben der XML-Gebühr andere Gebühren nach KV 22110 bis 22113 GNotKG, sinkt der Satz nach KV 22115 von 0,2 auf 0,1, höchstens 125 €; KV 22114 mit 0,2 gilt nur, wenn keine weiteren Vollzugsgebühren anfallen. Die XML-Gebühr ist keine Vollzugsgebühr, sondern eine Gebühr im Vollzugsbereich, sodass § 93 GNotKG nicht anwendbar ist; sie als abgegolten zu behandeln ist ein typischer Fehler."
+ },
+ {
+  "id": "elek1-045",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "Elektronischer Rechtsverkehr: Strukturdaten (XML) und XML-Gebühr",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronischer-rechtsverkehr-strukturdaten-xml-und-xml-gebuhr",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 93c AO",
+   "§ 18 GrEStG"
+  ],
+  "frage": "Für das Grundbuchamt ist der beigefügte XML-Datensatz rechtlich maßgeblich; der Inhalt der übermittelten Dokumente dient nur der Weiterverarbeitung.",
+  "antwort": false,
+  "erklaerung": "Für Gerichte ist die XML-Datei nur eine Arbeitshilfe; rechtlich kommt es allein auf den Inhalt der übermittelten Dokumente an. Das gilt ebenso im Verwaltungsaustausch (eNoVA) mit Behörden und Gerichten. Nur gegenüber dem Finanzamt kehrt sich das Verhältnis um: Dort ist der amtlich vorgeschriebene Datensatz selbst die Anzeige (§ 18 GrEStG i. V. m. § 93c AO)."
+ },
+ {
+  "id": "elek1-046",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "Elektronischer Rechtsverkehr: Strukturdaten (XML) und XML-Gebühr",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronischer-rechtsverkehr-strukturdaten-xml-und-xml-gebuhr",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "Vorbem. 2.2.1.1 Abs. 1 S. 1 KV GNotKG",
+   "Vorbem. 2.2.1.1 Abs. 3 KV GNotKG",
+   "KV 22114 GNotKG"
+  ],
+  "frage": "Unter welcher Voraussetzung sind die XML-Gebühren nach KV 22114 und 22115 GNotKG anwendbar?",
+  "optionen": [
+   "Nur wenn der Notar die XML-Datei vollständig von Hand erstellt hat",
+   "Nur wenn das Gericht die Beifügung des Datensatzes ausdrücklich angefordert hat",
+   "Wenn dem Notar für das zugrunde liegende Geschäft eine Beurkundungs- oder Entwurfsgebühr zusteht und weder Gerichte noch Behörden des Auslands beteiligt sind",
+   "Nur wenn der Geschäftswert 125 € übersteigt"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach Vorbem. 2.2.1.1 Abs. 1 S. 1 und Abs. 3 KV GNotKG setzen KV 22114 und 22115 voraus, dass dem Notar für das zugrunde liegende Geschäft eine Beurkundungs- oder Entwurfsgebühr zusteht und weder Gerichte noch Behörden des Auslands beteiligt sind. Ob die XML-Datei von Hand oder aus der Notarsoftware erzeugt wird, ist für die Gebühr unerheblich; 125 € ist der Höchstbetrag der Gebühr, nicht eine Geschäftswertgrenze."
+ },
+ {
+  "id": "elek1-047",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "eNoVA: Ersatzeinreichung bei Störungen – Behörden und Gerichte, Finanzamt (ELSTER)",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-ersatzeinreichung-bei-storungen-behorden-und-gerichte-finanzamt-elster",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 18 Abs. 3 S. 3 GrEStG",
+   "§ 18 Abs. 1 S. 2 GrEStG",
+   "§ 93c AO"
+  ],
+  "frage": "ELSTER ist gestört, die Zwei-Wochen-Frist für die Veräußerungsanzeige läuft ab. Wie sollte der Notar vorgehen?",
+  "optionen": [
+   "Frühzeitig begründet die Verlängerung der Anzeigefrist nach § 18 Abs. 3 S. 3 GrEStG beantragen",
+   "Die Veräußerungsanzeige in Papierform an das Finanzamt senden und elektronisch nachreichen",
+   "Die Anzeige per Telefax übermitteln und die Störung nach § 130d S. 3 ZPO glaubhaft machen",
+   "Die Anzeige über das beN an das beBPo des Finanzamts übermitteln"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Anzeige an das Finanzamt ist allein elektronisch im amtlich vorgeschriebenen Datensatz zulässig (§ 18 Abs. 1 S. 2 GrEStG i. V. m. § 93c AO); die Ersatzregeln der ERVV gelten dort nicht, eine Papier-Ersatzeinreichung gibt es nicht. Bei ELSTER-Störungen ist der Weg die Verlängerung der Zwei-Wochen-Frist in begründeten Ausnahmefällen (§ 18 Abs. 3 S. 3 GrEStG, seit 01.10.2026). Die Papieranzeige ist ein typischer Fehler."
+ },
+ {
+  "id": "elek1-048",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "eNoVA: Ersatzeinreichung bei Störungen – Behörden und Gerichte, Finanzamt (ELSTER)",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-ersatzeinreichung-bei-storungen-behorden-und-gerichte-finanzamt-elster",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 16 Abs. 3 ERVV",
+   "§ 130d S. 3 ZPO"
+  ],
+  "frage": "Bei einer Ersatzeinreichung in Papierform an ein Gericht nach der ERVV muss der Notar die technische Störung wie nach § 130d S. 3 ZPO glaubhaft machen.",
+  "antwort": false,
+  "erklaerung": "Anders als § 130d S. 3 ZPO verlangt die ERVV (§ 16 Abs. 3, § 17 Abs. 3 ERVV für Gerichte; § 19 Abs. 5, § 20 Abs. 3 ERVV für Behörden) keine Glaubhaftmachung oder Darlegung der Störung. Erforderlich ist nur eine vorübergehende technische Störung, die die elektronische Übermittlung verhindert; auf Anforderung ist das Dokument elektronisch nachzureichen."
+ },
+ {
+  "id": "elek1-049",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "eNoVA: Ersatzeinreichung bei Störungen – Behörden und Gerichte, Finanzamt (ELSTER)",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-ersatzeinreichung-bei-storungen-behorden-und-gerichte-finanzamt-elster",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 19 Abs. 5 S. 2 ERVV",
+   "§ 19 Abs. 4 ERVV"
+  ],
+  "frage": "Die Übermittlung der Urkundenabschrift an den Gutachterausschuss gelingt, nur der Datensatz nach § 19 Abs. 4 ERVV lässt sich wegen einer Störung nicht übermitteln. Was gilt?",
+  "optionen": [
+   "Der Datensatz ist dem Gutachterausschuss per E-Mail als unsignierte XML-Datei zu übersenden",
+   "Die Mitteilung ist bis zur Behebung der Störung aufzuschieben; eine Ersatzeinreichung ist ausgeschlossen",
+   "Die gesamte Mitteilung muss in Papierform wiederholt werden, da Abschrift und Datensatz eine Einheit bilden",
+   "Es genügt, wenn der Gutachterausschuss nur die Urkundenabschrift auf Papier erhält (§ 19 Abs. 5 S. 2 ERVV)"
+  ],
+  "antwort": 3,
+  "erklaerung": "Für den Sonderfall, dass nur die Übermittlung des Datensatzes nach § 19 Abs. 4 ERVV scheitert, bestimmt § 19 Abs. 5 S. 2 ERVV, dass es ausreicht, wenn der Gutachterausschuss nur die Urkundenabschrift auf Papier erhält. Rechtlich maßgeblich ist ohnehin die Abschrift, der Datensatz dient nur der Weiterverarbeitung. Die spätere Anforderung des elektronischen Dokuments ist zu überwachen."
+ },
+ {
+  "id": "elek1-050",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "eNoVA: Genehmigungen, Vorkaufsrechtszeugnisse und Gutachterausschuss",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-genehmigungen-vorkaufsrechtszeugnisse-und-gutachterausschuss",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 213a Abs. 1 BauGB",
+   "§ 213a Abs. 4 BauGB",
+   "§ 213a Abs. 2 S. 2 BauGB"
+  ],
+  "frage": "An welches Postfach richtet der Notar über eNoVA den Antrag auf ein Vorkaufsrechtszeugnis, und wie antwortet die Gemeinde?",
+  "optionen": [
+   "An das Postfach des Landesbauministeriums, das den Antrag weiterleitet; die Antwort kommt auf Papier",
+   "An das beN der Gemeinde; die Gemeinde antwortet an das beBPo des Notars",
+   "An das EGVP-Bürgerpostfach (eBO) der Gemeinde; die Antwort kommt per De-Mail",
+   "An das beBPo der zuständigen Behörde oder ihres Rechtsträgers; die Behörde antwortet stets über das beN des Notars"
+  ],
+  "antwort": 3,
+  "erklaerung": "Empfänger eines Antrags ist das beBPo (besonderes elektronisches Behördenpostfach) der zuständigen Behörde, ersatzweise das Postfach ihres Rechtsträgers; die Empfängerbezeichnungen veröffentlicht das Landesbauministerium in der Liste für den elektronischen Notar-Verwaltungs-Austausch (§ 213a Abs. 2 S. 2 BauGB). Behörden antworten immer über das beN des Notars und sind nach § 213a Abs. 4 BauGB zur elektronischen Erteilung von Negativattest und Vorkaufsrechtszeugnis verpflichtet. beN ist das Notar-, nicht das Behördenpostfach."
+ },
+ {
+  "id": "elek1-051",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "eNoVA: Genehmigungen, Vorkaufsrechtszeugnisse und Gutachterausschuss",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-genehmigungen-vorkaufsrechtszeugnisse-und-gutachterausschuss",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 195 Abs. 2 BauGB",
+   "§ 195 Abs. 3 BauGB"
+  ],
+  "frage": "Der Notar muss die Vertragsbeteiligten auf ihre Mitteilungspflicht gegenüber dem Gutachterausschuss nach § 195 Abs. 2 BauGB hinweisen.",
+  "antwort": false,
+  "erklaerung": "Die Vertragsbeteiligten sind nach § 195 Abs. 2 BauGB selbst mitteilungspflichtig (Lage, Nutzung, Erträge, bauliche Anlagen, Energieausweis, Zubehör, Erbbauzins). Eine geplante Hinweispflicht des Notars (§ 20b BeurkG-E) ist entfallen; den Hinweis schuldet nach § 195 Abs. 3 BauGB der Gutachterausschuss. Der Notar übermittelt lediglich Abschrift und ab 01.01.2027 den Datensatz nach § 19 Abs. 4 ERVV."
+ },
+ {
+  "id": "elek1-052",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "eNoVA: Genehmigungen, Vorkaufsrechtszeugnisse und Gutachterausschuss",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-genehmigungen-vorkaufsrechtszeugnisse-und-gutachterausschuss",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 25 Abs. 2 GrdstVG",
+   "§ 12 Abs. 2 GVO",
+   "§ 137 Abs. 2 GBO"
+  ],
+  "frage": "Ab wann sind die Behörden verpflichtet, Genehmigungen nach dem GrdstVG und der GVO elektronisch zu erteilen, und welche Form haben die Bescheide?",
+  "optionen": [
+   "Ab 01.01.2028; die Bescheide haben die Form des § 126a BGB",
+   "Ab 01.01.2027; die Bescheide haben die Form des § 137 Abs. 2 GBO",
+   "Seit 01.03.2024; die Bescheide ergehen als einfache PDF ohne Signatur",
+   "Seit 01.10.2026; die Bescheide haben die Form des § 39a BeurkG"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 25 Abs. 2 GrdstVG und § 12 Abs. 2 GVO sind die Behörden ab dem 01.01.2027 zur elektronischen Erteilung verpflichtet; die elektronisch erteilten Bescheide haben die Form des § 137 Abs. 2 GBO. Der 01.10.2026 ist der Starttermin der Veräußerungsanzeige über ELSTER und der elektronischen Ersuchen an Gerichte; der 01.01.2028 betrifft die Unbedenklichkeitsbescheinigung der Finanzämter."
+ },
+ {
+  "id": "elek1-053",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "eNoVA: Zeitplan, Grundsätze und technische Voraussetzungen",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-zeitplan-grundsatze-und-technische-voraussetzungen",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 18 GrEStG",
+   "§ 195 BauGB",
+   "§ 25 Abs. 2 GrdstVG"
+  ],
+  "frage": "Ordne die eNoVA-Einführungsstufen den jeweiligen Neuerungen zu.",
+  "paare": [
+   [
+    "01.10.2026",
+    "Veräußerungsanzeige nach § 18 GrEStG elektronisch über ELSTER; elektronische Ersuchen an Betreuungs-, Familien-, Nachlass- und Landwirtschaftsgerichte um Genehmigungen und Rechtskraftzeugnisse"
+   ],
+   [
+    "01.01.2027",
+    "Genehmigungen, Zeugnisse und Bescheinigungen nach BauGB, GrdstVG, ASVG und GVO elektronisch; Abschriften und XML-Datensatz an die Gutachterausschüsse"
+   ],
+   [
+    "01.01.2028",
+    "Finanzämter übermitteln die Unbedenklichkeitsbescheinigung elektronisch an den Notar"
+   ],
+   [
+    "Noch ohne Termin",
+    "Elektronische Anzeigen an die Schenkung- und Erbschaftsteuerstelle; Abruf der Steuer-ID über die Schnittstelle"
+   ]
+  ],
+  "erklaerung": "eNoVA wird in Stufen verpflichtend: Seit 01.10.2026 laufen Veräußerungsanzeige über ELSTER und Gerichtsersuchen elektronisch, ab 01.01.2027 die behördlichen Genehmigungen und der Gutachterausschuss-Datensatz, ab 01.01.2028 die Unbedenklichkeitsbescheinigung in der Gegenrichtung. Für Erbschaft- und Schenkungsteuer gilt die elektronische Form erst nach Bekanntmachung durch das Bundesministerium der Finanzen."
+ },
+ {
+  "id": "elek1-054",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "eNoVA: Zeitplan, Grundsätze und technische Voraussetzungen",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-zeitplan-grundsatze-und-technische-voraussetzungen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 18 GrEStG",
+   "§ 93c AO",
+   "§ 18 Abs. 1 S. 3 GrEStG"
+  ],
+  "frage": "Worin unterscheidet sich die Veräußerungsanzeige an das Finanzamt über eNoVA rechtlich von einem Genehmigungsantrag an eine Behörde?",
+  "optionen": [
+   "Beim Finanzamt ist die beglaubigte Abschrift maßgeblich, bei Behörden der XML-Datensatz",
+   "Es gibt keinen Unterschied; in beiden Fällen ist allein der Strukturdatensatz rechtlich erheblich",
+   "Beim Finanzamt ist der amtlich vorgeschriebene Datensatz selbst die Anzeige, die Urkundenabschrift ist nur beizufügen; bei Behörden bleibt das signierte Dokument maßgeblich",
+   "Beim Finanzamt läuft die Übermittlung über das beBPo, bei Behörden über ELSTER"
+  ],
+  "antwort": 2,
+  "erklaerung": "Gegenüber Behörden und Gerichten bleibt die beglaubigte Abschrift bzw. das signierte Dokument rechtlich maßgeblich, der Strukturdatensatz dient nur der Weiterverarbeitung. Beim Finanzamt kehrt sich das um: Die Anzeige wird nach amtlich vorgeschriebenem Datensatz erstattet (§ 18 GrEStG i. V. m. § 93c AO), die Abschrift ist nur beizufügen (§ 18 Abs. 1 S. 3 GrEStG). Technisch läuft das Finanzamt über die ELSTER-Schnittstelle mit Organisationszertifikat, nicht über das beBPo."
+ },
+ {
+  "id": "elek1-055",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "eNoVA: Zeitplan, Grundsätze und technische Voraussetzungen",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-zeitplan-grundsatze-und-technische-voraussetzungen",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 18 GrEStG"
+  ],
+  "frage": "Für die Veräußerungsanzeige über eNoVA benötigt das Notariat ein ELSTER-Zertifikat, das in XNP zu hinterlegen ist.",
+  "antwort": true,
+  "erklaerung": "Die Übermittlung an das Finanzamt läuft über die ELSTER-Schnittstelle und setzt ein Organisationszertifikat voraus, entweder je Amtsträger oder je Sozietät; die Zertifikatsdatei ist in XNP zu hinterlegen. Ohne Zertifikat ist seit 01.10.2026 keine Veräußerungsanzeige nach § 18 GrEStG möglich, weshalb es rechtzeitig zu beschaffen ist."
+ },
+ {
+  "id": "elek1-056",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Register und Gerichte",
+  "seite": "Elektronischer Rechtsverkehr: Anträge an Gerichte nach § 14b FamFG",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/register-und-gerichte/elektronischer-rechtsverkehr-antrage-an-gerichte-nach-14b-famfg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 14b Abs. 1 FamFG",
+   "§ 14b Abs. 2 FamFG"
+  ],
+  "frage": "Welche Folge hat es, wenn der Notar einen schriftlich einzureichenden Erbscheinsantrag entgegen § 14b Abs. 1 FamFG auf Papier beim Nachlassgericht einreicht, ohne dass eine technische Störung vorliegt?",
+  "optionen": [
+   "Die Einreichung ist wirksam; das Gericht kann lediglich ein elektronisches Dokument nachfordern",
+   "Die Einreichung ist unwirksam, weil die elektronische Form für Notare Wirksamkeitsvoraussetzung ist",
+   "Die Einreichung ist wirksam, löst aber ein Ordnungsgeld gegen den Notar aus",
+   "Die Einreichung ist wirksam, wenn der Antrag öffentlich beglaubigt ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Für Notare gilt bei allen bisher schriftlichen Einreichungen bei Gericht die elektronische Form nach § 14b Abs. 1 S. 1 FamFG; die elektronische Einreichung ist Wirksamkeitsvoraussetzung. Nur bei vorübergehender technischer Unmöglichkeit bleibt die Ersatzeinreichung zulässig, die glaubhaft zu machen ist. Die bloße Nachforderung eines elektronischen Dokuments gilt nach § 14b Abs. 2 FamFG nur für sonstige Anträge und Erklärungen, bei denen die elektronische Übermittlung Sollvorschrift ist."
+ },
+ {
+  "id": "elek1-057",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Register und Gerichte",
+  "seite": "Elektronischer Rechtsverkehr: Anträge an Gerichte nach § 14b FamFG",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/register-und-gerichte/elektronischer-rechtsverkehr-antrage-an-gerichte-nach-14b-famfg",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 14b Abs. 1 FamFG",
+   "§ 130 Abs. 2 BGB",
+   "§ 14b Abs. 1 S. 3 FamFG"
+  ],
+  "frage": "Erbausschlagung über den Notar",
+  "sachverhalt": "E ist verstorben. Sein Sohn S will die Erbschaft ausschlagen und erklärt die Ausschlagung bei Notar N im Wege der elektronischen Präsenzbeurkundung. S bittet N, die Ausschlagung beim Nachlassgericht einzureichen. Kurz vor Fristablauf fällt das beN des N wegen einer Störung des Notarnetzes aus.",
+  "schritte": [
+   {
+    "frage": "In welcher Form darf N die Ausschlagung beim Nachlassgericht einreichen?",
+    "optionen": [
+     "Auf Papier als beglaubigter Ausdruck, da Erbausschlagungen nicht unter § 14b FamFG fallen",
+     "Nur als elektronisches Dokument nach § 14b Abs. 1 S. 1 FamFG (str.)",
+     "Wahlweise elektronisch oder auf Papier, da § 14b Abs. 2 FamFG nur eine Sollvorschrift ist",
+     "Nur per Telefax, da die Ausschlagung fristgebunden ist"
+    ],
+    "antwort": 1,
+    "erklaerung": "Reicht der Notar eine Erbausschlagung bei Gericht ein, darf er sie nach § 14b Abs. 1 S. 1 FamFG nur noch als elektronisches Dokument einreichen; dies ist streitig, aber die Einreichung auf Papier ist ein typischer Fehler. Die Sollvorschrift des Abs. 2 gilt nur für sonstige, nicht schriftlich einzureichende Erklärungen."
+   },
+   {
+    "frage": "Was muss N dem Gericht übermitteln, damit die Ausschlagung zugeht?",
+    "optionen": [
+     "Einen Papierauszug mit Siegelbild",
+     "Die elektronische Urschrift oder eine Vervielfältigung der elektronischen Urkunde",
+     "Eine einfache Abschrift mit Hinweis auf die UVZ-Nummer",
+     "Eine elektronische beglaubigte Abschrift der elektronischen Urkunde"
+    ],
+    "antwort": 1,
+    "erklaerung": "Geht dem Gericht nur eine elektronische beglaubigte Abschrift der elektronischen Urkunde zu, ist die Ausschlagung nach § 130 Abs. 2 BGB nicht zugegangen. Übermittelt werden muss die elektronische Urschrift oder eine Vervielfältigung; die Übermittlung nur als beglaubigte Abschrift ist ein typischer Fehler. Reicht der Notar ein, trägt er das Haftungsrisiko."
+   },
+   {
+    "frage": "Wie geht N wegen des beN-Ausfalls vor?",
+    "optionen": [
+     "Er reicht auf Papier ein; eine Glaubhaftmachung ist nach der ERVV nicht erforderlich",
+     "Er lässt S die Ausschlagung persönlich per E-Mail an das Gericht senden",
+     "Er wartet die Behebung ab; eine Ersatzeinreichung ist bei Erbausschlagungen ausgeschlossen",
+     "Er reicht nach den allgemeinen Vorschriften ein und macht die vorübergehende Unmöglichkeit mit der Ersatzeinreichung oder unverzüglich danach glaubhaft; auf Anforderung reicht er das elektronische Dokument nach"
+    ],
+    "antwort": 3,
+    "erklaerung": "Nach § 14b Abs. 1 S. 2 und 3 FamFG bleibt bei vorübergehender technischer Unmöglichkeit die Übermittlung nach den allgemeinen Vorschriften zulässig; die Unmöglichkeit ist mit der Ersatzeinreichung oder unverzüglich danach glaubhaft zu machen, und auf Anforderung ist ein elektronisches Dokument nachzureichen. Anders als die ERVV verlangt § 14b FamFG die Glaubhaftmachung ausdrücklich."
+   }
+  ],
+  "erklaerung": "Der Notar muss die Erbausschlagung nach § 14b Abs. 1 S. 1 FamFG elektronisch einreichen und dabei die elektronische Urschrift oder eine Vervielfältigung übermitteln, weil eine bloße elektronische beglaubigte Abschrift nach § 130 Abs. 2 BGB nicht zugeht. Bei technischer Störung ist die Ersatzeinreichung mit Glaubhaftmachung nach § 14b Abs. 1 S. 2 und 3 FamFG der Weg. Alternativ könnte S als Naturalbeteiligter die Ausschlagung auf Papier mit Unterschriftsbeglaubigung selbst einreichen."
+ },
+ {
+  "id": "elek1-058",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Register und Gerichte",
+  "seite": "Elektronischer Rechtsverkehr: Anträge an Gerichte nach § 14b FamFG",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/register-und-gerichte/elektronischer-rechtsverkehr-antrage-an-gerichte-nach-14b-famfg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 14b FamFG"
+  ],
+  "frage": "§ 14b FamFG erfasst auch Anträge im Grundbuchverfahren sowie Anmeldungen zum Handels-, Partnerschafts-, Genossenschafts- und Vereinsregister.",
+  "antwort": false,
+  "erklaerung": "Grundbuchverfahren sowie Handels-, Partnerschafts-, Genossenschafts- und Vereinsregister sind spezialgesetzlich geregelt und von § 14b FamFG nicht erfasst; ebenso wenig Apostillen und Legalisationen, für die Papierform nötig ist. Typische Anwendungsfälle des § 14b FamFG sind dagegen Erbscheinsanträge, Adoptionsanträge, Aufgebotsverfahren, Beschwerden und Anträge auf gerichtliche Genehmigung."
+ },
+ {
+  "id": "elek1-059",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Register und Gerichte",
+  "seite": "Elektronischer Rechtsverkehr: Handelsregister und weitere Register – Anmeldung und Einreichung",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/register-und-gerichte/elektronischer-rechtsverkehr-handelsregister-und-weitere-register-anmeldung-und-einreichung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 12 Abs. 1 S. 2 HGB",
+   "§ 12 Abs. 1 S. 3 HGB",
+   "§ 40a BeurkG"
+  ],
+  "frage": "Der Geschäftsführer G will die Registervollmacht für Prokurist P per Videokommunikation beglaubigen lassen, damit P die Handelsregisteranmeldung unterzeichnet. Ist das zulässig?",
+  "optionen": [
+   "Nein, Registervollmachten bedürfen stets der notariellen Beurkundung",
+   "Ja, da § 12 Abs. 1 S. 2 HGB die Videobeglaubigung für alle Erklärungen zum Handelsregister zulässt",
+   "Nein, § 12 Abs. 1 S. 3 HGB verlangt für die Vollmacht nur die öffentlich beglaubigte Form nach S. 1, nicht das Videoverfahren nach S. 2",
+   "Ja, sofern P die Anmeldung selbst ebenfalls per Video beglaubigen lässt"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Registervollmacht muss nach § 12 Abs. 1 S. 3 HGB öffentlich beglaubigt sein, aber nicht per Video: S. 3 knüpft nur an die Form nach S. 1 an, nicht an das Verfahren nach S. 2 (BegrRegE DiREG, BT-Drs. 20/1672, 18). Die Videobeglaubigung nach § 40a BeurkG ist nur für die Anmeldung selbst zugelassen; die Registervollmacht per Video zu beglaubigen ist ein typischer Fehler. Alternativ genügt eine Vollmachtsbescheinigung nach § 21 Abs. 3 BNotO."
+ },
+ {
+  "id": "elek1-060",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Register und Gerichte",
+  "seite": "Elektronischer Rechtsverkehr: Handelsregister und weitere Register – Anmeldung und Einreichung",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/register-und-gerichte/elektronischer-rechtsverkehr-handelsregister-und-weitere-register-anmeldung-und-einreichung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 12 Abs. 2 S. 2 HGB",
+   "§ 39a BeurkG"
+  ],
+  "frage": "Zum Handelsregister ist eine öffentlich beglaubigte Abschrift des Gesellschaftsvertrags einzureichen. Welche Qualität muss das elektronische Dokument haben?",
+  "optionen": [
+   "Eine einfache elektronische Aufzeichnung (Scan mit OCR) genügt",
+   "Eine elektronische Niederschrift nach § 16b BeurkG",
+   "Ein mit einfachem elektronischem Zeugnis nach § 39a BeurkG versehenes Dokument",
+   "Ein per Video beglaubigtes Dokument nach § 40a BeurkG"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 12 Abs. 2 S. 2 Hs. 2 HGB ist ein mit einfachem elektronischem Zeugnis (§ 39a BeurkG) versehenes Dokument zu übermitteln, wenn ein notariell beurkundetes Dokument oder eine öffentlich beglaubigte Abschrift einzureichen ist. Die bloße elektronische Aufzeichnung genügt nach Hs. 1 nur bei Urschrift, einfacher Abschrift oder schriftformbedürftigen Dokumenten. Unabhängig davon muss die Datei maschinenlesbar und durchsuchbar sein (OCR)."
+ },
+ {
+  "id": "elek1-061",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Register und Gerichte",
+  "seite": "Elektronischer Rechtsverkehr: Handelsregister und weitere Register – Anmeldung und Einreichung",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/register-und-gerichte/elektronischer-rechtsverkehr-handelsregister-und-weitere-register-anmeldung-und-einreichung",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 12 HGB",
+   "§ 5 Abs. 2 PartGG",
+   "§ 707b Nr. 2 BGB",
+   "§ 77 Abs. 1 S. 2 BGB"
+  ],
+  "frage": "Ordne die Register der Form ihrer Anmeldung zu.",
+  "paare": [
+   [
+    "Partnerschaftsregister",
+    "Wie Handelsregister über § 5 Abs. 2 PartGG i. V. m. § 12 HGB"
+   ],
+   [
+    "Gesellschaftsregister (GbR)",
+    "Wie Handelsregister über § 707b Nr. 2 BGB i. V. m. § 12 HGB"
+   ],
+   [
+    "Genossenschaftsregister",
+    "Wie Handelsregister nach §§ 157, 11 GenG"
+   ],
+   [
+    "Vereinsregister",
+    "Anmeldung in Urschrift oder öffentlich beglaubigter Abschrift, auf Papier oder elektronisch (§ 77 Abs. 1 S. 2 BGB); keine Pflicht des Notars zur elektronischen Einreichung nach Auffassung des DNotI"
+   ]
+  ],
+  "erklaerung": "Genossenschafts-, Partnerschafts- und Gesellschaftsregister folgen über ihre Verweisungsnormen der Form des § 12 HGB (elektronisch, öffentlich beglaubigt, OCR-Pflicht). Das Vereinsregister weicht ab: Nach § 77 Abs. 1 S. 2 BGB kann die Anmeldung auf Papier oder elektronisch eingereicht werden; eine Pflicht des Notars zur elektronischen Einreichung nach § 14b FamFG besteht nach Auffassung des DNotI nicht, elektronische Einreichung ist aber zulässig."
+ },
+ {
+  "id": "elek1-062",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Register und Gerichte",
+  "seite": "Elektronischer Rechtsverkehr: Schriftformersatz, qeS und sicherer Übermittlungsweg",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/register-und-gerichte/elektronischer-rechtsverkehr-schriftformersatz-qes-und-sicherer-ubermittlungsweg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 130a Abs. 3 ZPO",
+   "§ 130a Abs. 4 ZPO"
+  ],
+  "frage": "Notar N versendet einen Beschwerdeschriftsatz selbst aus seinem beN, ohne ihn qualifiziert elektronisch zu signieren. Was ist für den prozessualen Schriftformersatz nach § 130a ZPO zusätzlich erforderlich?",
+  "optionen": [
+   "Nichts; der Versand aus dem beN ersetzt jede Signatur",
+   "Ein digitales Siegelbild nach § 14a DONot",
+   "Der Namenszug des N als einfache Signatur im Dokument",
+   "Eine fortgeschrittene elektronische Signatur nach Art. 26 eIDAS"
+  ],
+  "antwort": 2,
+  "erklaerung": "§ 130a Abs. 3–4 ZPO eröffnet zwei gleichwertige Wege: qeS der verantwortenden Person oder einfache Signatur mit eigenem Versand auf einem sicheren Übermittlungsweg wie dem beN. Nach der Rechtsprechung ist beim sicheren Übermittlungsweg neben dem eigenen Versand ausdrücklich der Namenszug der verantwortenden Person im Dokument erforderlich, weil er die Übernahme der Verantwortung dokumentiert. Der beN-Versand allein genügt daher nicht."
+ },
+ {
+  "id": "elek1-063",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Register und Gerichte",
+  "seite": "Elektronischer Rechtsverkehr: Schriftformersatz, qeS und sicherer Übermittlungsweg",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/register-und-gerichte/elektronischer-rechtsverkehr-schriftformersatz-qes-und-sicherer-ubermittlungsweg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 130a ZPO",
+   "§ 39a BeurkG"
+  ],
+  "frage": "Versendet der Notar eine elektronische Beglaubigung für das Grundbuchamt selbst aus seinem beN, kann er auf die qualifizierte elektronische Signatur verzichten.",
+  "antwort": false,
+  "erklaerung": "Der Versand über das beN ersetzt bei elektronischen Beglaubigungen die qeS nicht: Das beN sichert nur den Transport und die formgerechte Einreichung, während die qeS die formgültige Beglaubigungshandlung abbildet und in Register- und Grundbuchsachen Wirksamkeitsvoraussetzung ist. Der Verzicht auf die qeS ist nur beim prozessualen Schriftformersatz nach § 130a ZPO (einfache Signatur plus sicherer Übermittlungsweg) möglich."
+ },
+ {
+  "id": "elek1-064",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Register und Gerichte",
+  "seite": "Elektronischer Rechtsverkehr: Schriftformersatz, qeS und sicherer Übermittlungsweg",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/register-und-gerichte/elektronischer-rechtsverkehr-schriftformersatz-qes-und-sicherer-ubermittlungsweg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 130a ZPO"
+  ],
+  "frage": "Welche Aufgabenteilung besteht zwischen qeS und sicherem Übermittlungsweg?",
+  "optionen": [
+   "Die qeS dient nur der Vertraulichkeit, der sichere Übermittlungsweg der Fristwahrung",
+   "Die qeS weist Echtheit und Unversehrtheit des Transports nach, der sichere Übermittlungsweg die Echtheit des Dokuments",
+   "Beide weisen gleichermaßen die Echtheit des Dokuments nach und sind deshalb stets kumulativ erforderlich",
+   "Der sichere Übermittlungsweg weist Echtheit und Unversehrtheit des Transports nach, die qeS die Echtheit des Dokuments selbst"
+  ],
+  "antwort": 3,
+  "erklaerung": "Der sichere Übermittlungsweg (etwa das beN) weist Echtheit und Unversehrtheit des Transports nach; die qeS weist die Echtheit des Dokuments selbst nach. Der Gesetzgeber hat den zweiten Weg des § 130a ZPO geschaffen, um die Hürden der qeS im Alltag zu senken, sodass beide Wege für die prozessuale Einreichung alternativ und nicht kumulativ gelten. Signaturprüfprotokolle belegen die Gültigkeit der qeS (Zertifikatskette, Zeitstempel, kein Widerruf)."
+ },
+ {
+  "id": "elek1-065",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Register und Gerichte",
+  "seite": "Elektronischer Rechtsverkehr: Zentrales Testamentsregister und Zentrales Vorsorgeregister",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/register-und-gerichte/elektronischer-rechtsverkehr-zentrales-testamentsregister-und-zentrales-vorsorgeregister",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 78f Abs. 1 BNotO"
+  ],
+  "frage": "Unter welcher Voraussetzung darf der Notar zu Lebzeiten des Erblassers das Zentrale Testamentsregister einsehen?",
+  "optionen": [
+   "Nur mit Einwilligung des Erblassers, soweit er die Einsicht für seine Aufgaben benötigt",
+   "Jederzeit, soweit er die Einsicht für seine Aufgaben benötigt",
+   "Gar nicht; zu Lebzeiten des Erblassers dürfen nur Gerichte einsehen",
+   "Nur auf Anordnung des Nachlassgerichts"
+  ],
+  "antwort": 0,
+  "erklaerung": "Nach § 78f Abs. 1 BNotO dürfen Notare das ZTR einsehen, soweit sie die Einsicht für ihre Aufgaben benötigen; solange der Erblasser lebt, aber nur mit dessen Einwilligung. Die Beschränkung auf Gerichte gilt nicht für das ZTR, sondern grundsätzlich für die Einsicht in das ZVR (§ 78b Abs. 1 S. 1 BNotO). Vor der Einsicht ist daher die Einwilligung des Erblassers einzuholen."
+ },
+ {
+  "id": "elek1-066",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Register und Gerichte",
+  "seite": "Elektronischer Rechtsverkehr: Zentrales Testamentsregister und Zentrales Vorsorgeregister",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/register-und-gerichte/elektronischer-rechtsverkehr-zentrales-testamentsregister-und-zentrales-vorsorgeregister",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 172 BGB",
+   "§ 20a BeurkG"
+  ],
+  "frage": "Mit der Funktionserweiterung des Zentralen Vorsorgeregisters ab Oktober 2026 können Vollmachten digital mit Rechtsscheinwirkung entsprechend § 172 BGB genutzt werden.",
+  "antwort": false,
+  "erklaerung": "Ab Oktober 2026 können elektronische Abschriften der Vorsorgedokumente in das ZVR hochgeladen werden; die Weiterentwicklung zu einem Register digital hinterlegter Vollmachten ist mit dem BMJV abgestimmt. Eine digitale Nutzung von Vollmachten mit Rechtsscheinwirkung entsprechend § 172 BGB ist damit aber noch nicht verbunden; dafür wäre eine Änderung des BGB nötig. Der Notar soll nach § 20a BeurkG bei Beurkundung einer Vorsorgevollmacht auf die Registrierungsmöglichkeit hinweisen."
+ },
+ {
+  "id": "elek1-067",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Register und Gerichte",
+  "seite": "Elektronischer Rechtsverkehr: Zugang, Zustellung und elektronisches Empfangsbekenntnis",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/register-und-gerichte/elektronischer-rechtsverkehr-zugang-zustellung-und-elektronisches-empfangsbekenntnis",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Eine Beschwerdefrist endet um 24:00 Uhr. Das Notariat versendet den Schriftsatz um 23:55 Uhr aus dem beN; das Eingangsprotokoll des Gerichts weist 00:02 Uhr aus. Ist die Frist gewahrt?",
+  "optionen": [
+   "Nein, maßgeblich ist der Zugang auf der Empfangseinrichtung des Gerichts, den das Eingangsprotokoll ausweist",
+   "Nein, weil elektronische Einreichungen nur bis 18:00 Uhr fristwahrend sind",
+   "Ja, maßgeblich ist der im Sendeprotokoll dokumentierte Versandzeitpunkt",
+   "Ja, weil der Versand über das beN als sicherer Übermittlungsweg den Zugang fingiert"
+  ],
+  "antwort": 0,
+  "erklaerung": "Für die Fristwahrung kommt es auf den Zugang auf der für den Empfang bestimmten Einrichtung des Gerichts an; ein Dokument ist eingegangen, sobald es im elektronischen Posteingang der Justiz gespeichert ist. Der Versandzeitpunkt ist unerheblich; das Eingangsprotokoll beweist im Streitfall die Fristwahrung. Der sichere Übermittlungsweg betrifft den Schriftformersatz, nicht den Zugangszeitpunkt."
+ },
+ {
+  "id": "elek1-068",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Register und Gerichte",
+  "seite": "Elektronischer Rechtsverkehr: Zugang, Zustellung und elektronisches Empfangsbekenntnis",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/register-und-gerichte/elektronischer-rechtsverkehr-zugang-zustellung-und-elektronisches-empfangsbekenntnis",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 173 Abs. 3 ZPO"
+  ],
+  "frage": "Welche Angaben enthält das elektronische Empfangsbekenntnis (eEB), das aus dem beN an das Gericht zurückgesandt wird?",
+  "optionen": [
+   "Den Hashwert des zugestellten Dokuments und das Signaturprüfprotokoll",
+   "Eine qualifiziert signierte Kopie des zugestellten Schriftstücks",
+   "Die SAFE-ID des Gerichts und den Versandzeitpunkt der Zustellung",
+   "Die Erklärung der Annahme, das Datum des Zugangs und die Identität der empfangenden Amtsperson"
+  ],
+  "antwort": 3,
+  "erklaerung": "Das eEB nach § 173 Abs. 3 ZPO wird aus dem beN in strukturierter Form an das Gericht zurückgesandt und enthält die Erklärung der Annahme, das Datum des Zugangs und die Identität der empfangenden Amtsperson. Es ist im ERV der Nachweis der Zustellung und Grundlage der Fristberechnung; Rücksendung, Zeitstempel und Metadaten werden protokolliert. Signaturprüfprotokolle und SAFE-ID betreffen andere Funktionen des ERV."
+ },
+ {
+  "id": "elek1-069",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Register und Gerichte",
+  "seite": "Elektronischer Rechtsverkehr: Zugang, Zustellung und elektronisches Empfangsbekenntnis",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/register-und-gerichte/elektronischer-rechtsverkehr-zugang-zustellung-und-elektronisches-empfangsbekenntnis",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [],
+  "frage": "Eine gerichtliche Zustellung an das Notariat über das beN gilt mit dem Zugang auf der Empfangseinrichtung des beN als bewirkt.",
+  "antwort": true,
+  "erklaerung": "Gerichte stellen dem Notariat im ERV über das beN als förmliche elektronische Zustellung zu; die Zustellung gilt mit dem Zugang auf der Empfangseinrichtung des beN als bewirkt, und die Systemprotokolle weisen den Zugang nach. Verlangt die Zustellung ein Empfangsbekenntnis, ist zusätzlich das eEB nach § 173 Abs. 3 ZPO aus dem beN abzugeben."
  }
 ]

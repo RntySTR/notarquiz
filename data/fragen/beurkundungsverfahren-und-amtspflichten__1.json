@@ -1207,5 +1207,237 @@
    ]
   ],
   "erklaerung": "§ 22 BeurkG regelt die Zuziehung von Zeuge oder zweitem Notar mit Möglichkeit des allseitigen Verzichts, § 24 BeurkG die Verständigungsperson bei fehlender schriftlicher Verständigungsmöglichkeit, § 25 BeurkG die Schreibunfähigkeit und § 26 BeurkG die Mitwirkungsverbote für Zeugen (Abs. 1 und 2) und zweiten Notar (nur Abs. 1). Die Ausschließungsgründe der §§ 6, 7 BeurkG gelten für Zeugen und zweiten Notar nicht."
+ },
+ {
+  "id": "beur1-054",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Niederschrift und Beteiligte",
+  "seite": "Geschäftsfähigkeit und Testierfähigkeit: Prüfung und Vermerke (§§ 11, 28 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/geschaftsfahigkeit-und-testierfahigkeit-prufung-und-vermerke-11-28-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 11 Abs. 1 S. 1 BeurkG",
+   "§ 11 Abs. 1 S. 2 BeurkG"
+  ],
+  "frage": "Der Notar hat nach dem Gespräch mit dem 88-jährigen Beteiligten B erhebliche Zweifel an dessen Geschäftsfähigkeit, ist aber nicht davon überzeugt, dass sie fehlt. Wie soll er vorgehen?",
+  "optionen": [
+   "Die Beurkundung ablehnen, weil erhebliche Zweifel der Überzeugung von der Geschäftsunfähigkeit gleichstehen.",
+   "Beurkunden und die Zweifel in der Niederschrift feststellen (§ 11 Abs. 1 S. 2 BeurkG); selbst erhebliche Zweifel sprechen in der Regel nicht gegen die Beurkundung.",
+   "Beurkunden, die Zweifel aber nicht vermerken, um die Verwendbarkeit der Urkunde nicht zu gefährden.",
+   "Die Beurkundung bis zur Vorlage eines hausärztlichen Attests aussetzen."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nur wenn der Notar überzeugt ist, dass die Geschäftsfähigkeit fehlt, soll er die Beurkundung ablehnen (§ 11 Abs. 1 S. 1 BeurkG). Bleiben Zweifel, soll er sie in der Niederschrift feststellen (§ 11 Abs. 1 S. 2 BeurkG); eine unberechtigte Ablehnung ist meist folgenreicher als eine später nichtige Urkunde. Das Verschweigen der Zweifel verletzt die Soll-Vorschrift; ein hausärztliches Attest ist im Streitfall ohnehin wenig aussagekräftig."
+ },
+ {
+  "id": "beur1-055",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Niederschrift und Beteiligte",
+  "seite": "Geschäftsfähigkeit und Testierfähigkeit: Prüfung und Vermerke (§§ 11, 28 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/geschaftsfahigkeit-und-testierfahigkeit-prufung-und-vermerke-11-28-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 28 BeurkG",
+   "§ 11 BeurkG"
+  ],
+  "frage": "Worin unterscheidet sich § 28 BeurkG von § 11 BeurkG hinsichtlich der Feststellungen zur Geschäftsfähigkeit?",
+  "optionen": [
+   "§ 28 BeurkG verlangt bei Verfügungen von Todes wegen ein ärztliches Attest, § 11 BeurkG nicht.",
+   "Nach § 28 BeurkG hält der Notar bei Verfügungen von Todes wegen ausnahmslos seine Wahrnehmungen zur Geschäftsfähigkeit fest, unabhängig von Zweifeln oder schwerer Krankheit.",
+   "§ 28 BeurkG gilt nur bei Beurkundungen im Krankenhaus, § 11 BeurkG in der Geschäftsstelle.",
+   "§ 28 BeurkG erlaubt den Verzicht auf den Zweifelsvermerk, wenn der Erblasser dies verlangt."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 11 BeurkG sind Feststellungen nur bei Zweifeln (Abs. 1 S. 2) oder schwerer Krankheit (Abs. 2) zu vermerken. § 28 BeurkG geht für Verfügungen von Todes wegen vor und verlangt, dass der Notar ausnahmslos festhält, was er zur Geschäftsfähigkeit des Erblassers wahrgenommen hat. Ein Attest ist auch dort nicht vorgeschrieben, sondern nur hilfreich."
+ },
+ {
+  "id": "beur1-056",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Niederschrift und Beteiligte",
+  "seite": "Geschäftsfähigkeit und Testierfähigkeit: Prüfung und Vermerke (§§ 11, 28 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/geschaftsfahigkeit-und-testierfahigkeit-prufung-und-vermerke-11-28-beurkg",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 11 Abs. 1 S. 2 BeurkG"
+  ],
+  "frage": "Nimmt der Notar in eine Vorsorgevollmacht einen Zweifelsvermerk nach § 11 Abs. 1 S. 2 BeurkG auf, muss er die Beteiligten deutlich darauf hinweisen, dass die Vollmacht dadurch praktisch kaum noch verwendbar ist.",
+  "antwort": true,
+  "erklaerung": "Der Zweifelsvermerk schließt die Verwendbarkeit mancher Urkunden, insbesondere von Vollmachten, praktisch aus. Darauf sollte der Notar die Beteiligten deutlich hinweisen; die Vorsorgevollmacht mit Zweifelsvermerk ohne diesen Hinweis ist der auf der Seite genannte typische Fehler."
+ },
+ {
+  "id": "beur1-057",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Niederschrift und Beteiligte",
+  "seite": "Geschäftsfähigkeit und Testierfähigkeit: Prüfung und Vermerke (§§ 11, 28 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/geschaftsfahigkeit-und-testierfahigkeit-prufung-und-vermerke-11-28-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 11 BeurkG"
+  ],
+  "frage": "Welche Vorgehensweise empfiehlt die Seite für das Gespräch zur Kontrolle von Zweifeln an der Geschäftsfähigkeit?",
+  "optionen": [
+   "Einen standardisierten Uhrentest durchführen und das Ergebnis vermerken.",
+   "Das Gespräch zunächst allein mit dem Beteiligten führen, offene Fragen statt Ja/Nein-Fragen stellen und sicherstellen, dass er Ort, Tag und die Rolle des Notars kennt.",
+   "Das Gespräch im Beisein des Begünstigten führen, damit dieser Verständnislücken ergänzen kann.",
+   "Ausschließlich Fragen zum beabsichtigten Rechtsgeschäft stellen, keine Themen außerhalb der Beurkundung."
+  ],
+  "antwort": 1,
+  "erklaerung": "Das Gespräch soll zunächst allein mit dem Beteiligten stattfinden, ohne einen Dritten, der vom Geschäft profitieren könnte. Ja/Nein-Fragen sind zu vermeiden; Gegenstand können das Geschäft und auch Themen außerhalb der Beurkundung sein. Mindestens sollte der Beteiligte wissen, wo er ist, welcher Tag ist und dass ihm ein Notar gegenübersitzt. Eigene Tests wie ein Uhrentest sind eher nicht zu empfehlen, weil die Beurteilung medizinisches Fachwissen erfordert."
+ },
+ {
+  "id": "beur1-058",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Niederschrift und Beteiligte",
+  "seite": "Identifizierung der Beteiligten (§ 10 BeurkG): Ausweise, Ersatzmittel und fehlender Nachweis",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/identifizierung-der-beteiligten-10-beurkg-ausweise-ersatzmittel-und-fehlender-nachweis",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 10 Abs. 3 S. 2 BeurkG"
+  ],
+  "frage": "Beteiligter B erscheint ohne Ausweis; der Notar kann sich keine Gewissheit über seine Identität verschaffen. B und die anderen Beteiligten verlangen gleichwohl die Beurkundung. Was gilt?",
+  "optionen": [
+   "Der Notar muss die Beurkundung ablehnen, weil § 10 BeurkG eine Muss-Vorschrift ist.",
+   "Der Notar muss beurkunden und den Sachverhalt in der Niederschrift angeben (§ 10 Abs. 3 S. 2 BeurkG); dasselbe gilt für die Unterschriftsbeglaubigung.",
+   "Der Notar muss beurkunden und den Sachverhalt in der Niederschrift angeben (§ 10 Abs. 3 S. 2 BeurkG); für die Unterschriftsbeglaubigung gilt das nicht.",
+   "Der Notar darf beurkunden, wenn ein Mitarbeiter die Identität später nachprüft."
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 10 Abs. 3 S. 2 BeurkG muss der Notar beurkunden, wenn die Beteiligten dies trotz fehlender Gewissheit verlangen, und den Sachverhalt in der Niederschrift angeben; die Identifizierung sollte möglichst bald von der beurkundenden Person nachgeholt werden. Für die Unterschriftsbeglaubigung gilt diese Regel gerade nicht. Eine Nachprüfung durch Mitarbeiter genügt nicht, weil die Identifizierungspflicht den Notar persönlich trifft."
+ },
+ {
+  "id": "beur1-059",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Niederschrift und Beteiligte",
+  "seite": "Identifizierung der Beteiligten (§ 10 BeurkG): Ausweise, Ersatzmittel und fehlender Nachweis",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/identifizierung-der-beteiligten-10-beurkg-ausweise-ersatzmittel-und-fehlender-nachweis",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 10 BeurkG"
+  ],
+  "frage": "Welches Dokument kommt nach der Seite als Ersatzmittel für die Identifizierung nach § 10 BeurkG nicht in Betracht?",
+  "optionen": [
+   "Ein abgelaufener Personalausweis.",
+   "Ein Führerschein.",
+   "Die eID-Karte.",
+   "Ein Schwerbehindertenausweis."
+  ],
+  "antwort": 2,
+  "erklaerung": "Als Ersatzmittel kommen sonstige amtliche Lichtbildausweise in Betracht, etwa ein abgelaufener Ausweis, Führerschein, Bootsführerschein, Schwerbehinderten- oder Dienstausweis. Die eID-Karte genügt nicht, weil sie kein Lichtbild hat. Für die Online-Beurkundung nach § 16c BeurkG gilt umgekehrt die eID-Karte als geeignet, was eine naheliegende Verwechslung ist."
+ },
+ {
+  "id": "beur1-060",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Niederschrift und Beteiligte",
+  "seite": "Identifizierung der Beteiligten (§ 10 BeurkG): Ausweise, Ersatzmittel und fehlender Nachweis",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/identifizierung-der-beteiligten-10-beurkg-ausweise-ersatzmittel-und-fehlender-nachweis",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 10 BeurkG",
+   "§§ 8, 11 ff. GwG"
+  ],
+  "frage": "Ein Führerschein, der als Ersatzmittel nach § 10 BeurkG genügt, reicht bei üblichem Geldwäscherisiko auch für die Identifizierung nach §§ 11 ff. GwG aus.",
+  "antwort": false,
+  "erklaerung": "Die Anforderungen des GwG sind strenger: Festzustellen sind Vor- und Nachname anhand eines gültigen Personalausweises oder Reisepasses, dazu Geburtsdatum, Geburtsort, Staatsangehörigkeit, Anschrift sowie Art, Nummer und ausstellende Behörde. Führerscheine oder abgelaufene Ausweise genügen bei üblichem Geldwäscherisiko nicht. Die ungeprüfte Übernahme eines § 10-BeurkG-Ersatzmittels für das GwG ist der typische Fehler."
+ },
+ {
+  "id": "beur1-061",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Niederschrift und Beteiligte",
+  "seite": "Identifizierung der Beteiligten (§ 10 BeurkG): Ausweise, Ersatzmittel und fehlender Nachweis",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/identifizierung-der-beteiligten-10-beurkg-ausweise-ersatzmittel-und-fehlender-nachweis",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 10 BeurkG"
+  ],
+  "frage": "Ein Asylbewerber legt eine Bescheinigung über die Aufenthaltsgestattung vor, die den Hinweis enthält, dass die Personendaten auf eigenen Angaben beruhen. Wie soll der Notar vorgehen, wenn er die Beurkundung nicht ablehnt?",
+  "optionen": [
+   "Die Bescheinigung wie einen Pass behandeln, weil sie von einer deutschen Behörde stammt.",
+   "Das Papier in der Urkunde genau bezeichnen und die Unsicherheit der Identifizierung offenlegen; ob es genügt, entscheidet der Notar nach Ermessen.",
+   "Die Beurkundung nach § 10 Abs. 3 S. 2 BeurkG ohne jeden Vermerk vornehmen.",
+   "Zusätzlich zwingend zwei Erkennungszeugen zuziehen."
+  ],
+  "antwort": 1,
+  "erklaerung": "Fehlt in einem behördlichen Ausweisersatzpapier der Hinweis auf eigene Angaben, darf der Notar von einer verlässlichen Prüfung der Daten ausgehen. Enthält das Papier den Hinweis, sollte die Urkunde oder der Beglaubigungsvermerk das Papier genau bezeichnen und die Unsicherheit offenlegen; die Entscheidung, ob das Papier genügt, liegt im Ermessen des Notars. Eine Gleichstellung mit dem Pass ist deshalb falsch, Erkennungszeugen sind nicht zwingend."
+ },
+ {
+  "id": "beur1-062",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Niederschrift und Beteiligte",
+  "seite": "Identifizierung der Beteiligten (§ 10 BeurkG): Ausweise, Ersatzmittel und fehlender Nachweis",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/identifizierung-der-beteiligten-10-beurkg-ausweise-ersatzmittel-und-fehlender-nachweis",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 10 Abs. 3 Var. 1 BeurkG"
+  ],
+  "frage": "Kennt der Notar den formell Beteiligten persönlich, ist eine weitere Identifizierung nach § 10 BeurkG verfahrensrechtlich entbehrlich.",
+  "antwort": true,
+  "erklaerung": "Nach § 10 Abs. 3 Var. 1 BeurkG bedarf es keiner weiteren Identifizierung, wenn der Notar den formell Beteiligten kennt. Das betrifft nur das Beurkundungsverfahren; die geldwäscherechtliche Identifizierung nach §§ 11 ff. GwG bleibt davon unberührt."
+ },
+ {
+  "id": "beur1-063",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Niederschrift und Beteiligte",
+  "seite": "Niederschrift: Bezeichnung der Beteiligten nach der DONot",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/niederschrift-bezeichnung-der-beteiligten-nach-der-donot",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 5 Abs. 1 DONot"
+  ],
+  "frage": "Welche Angaben zu einer natürlichen Person verlangt § 5 Abs. 1 DONot in der notariellen Urkunde?",
+  "optionen": [
+   "Vorname(n), Familienname mit abweichendem Geburtsnamen, Geburtsdatum, Wohnort und Anschrift.",
+   "Vorname, Familienname, Geburtsort, Staatsangehörigkeit und Ausweisnummer.",
+   "Familienname, Geburtsdatum, Beruf und Familienstand.",
+   "Vorname, Familienname, Anschrift und Steueridentifikationsnummer."
+  ],
+  "antwort": 0,
+  "erklaerung": "§ 5 Abs. 1 DONot verlangt Vorname oder Vornamen, Familienname einschließlich eines abweichenden Geburtsnamens, Geburtsdatum, Wohnort und Anschrift. Geburtsort, Staatsangehörigkeit und Ausweisdaten gehören zur geldwäscherechtlichen Identifizierung, nicht zur Bezeichnung nach der DONot; Ausweisnummern sollen bei elektronischer Registerübermittlung nach § 5a DONot gerade nicht aufgenommen werden."
+ },
+ {
+  "id": "beur1-064",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Niederschrift und Beteiligte",
+  "seite": "Niederschrift: Bezeichnung der Beteiligten nach der DONot",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/niederschrift-bezeichnung-der-beteiligten-nach-der-donot",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 5 Abs. 1 S. 4 DONot",
+   "§ 5 Abs. 1 S. 5 DONot"
+  ],
+  "frage": "Eine Handelsregisteranmeldung soll nach der DONot-Änderung zum 01.06.2023 ohne Wohnanschrift des Geschäftsführers gestaltet werden. Welche Angabe bleibt zwingend?",
+  "optionen": [
+   "Die Wohnanschrift; nur die Hausnummer darf entfallen.",
+   "Der Wohnort; die Wohnanschrift kann entfallen, wenn Zweifel und Verwechslungen ausgeschlossen sind (§ 5 Abs. 1 S. 4 DONot).",
+   "Keine Ortsangabe; Name und Geburtsdatum genügen.",
+   "Die Geschäftsanschrift der Gesellschaft ersetzt zwingend alle Angaben zur Person."
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei Urkunden zur Übermittlung an das Handelsregister oder ein ähnliches Register kann die Wohnanschrift nach § 5 Abs. 1 S. 4 DONot entfallen, wenn Zweifel und Verwechslungen ausgeschlossen sind; der Wohnort bleibt anzugeben. Alternativ kann bei geschäftlichem Auftreten nach § 5 Abs. 1 S. 5 DONot die Geschäfts- oder Dienstanschrift mit Geschäftsort angegeben werden, das ist aber eine Option, keine Pflicht."
+ },
+ {
+  "id": "beur1-065",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Niederschrift und Beteiligte",
+  "seite": "Niederschrift: Bezeichnung der Beteiligten nach der DONot",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/niederschrift-bezeichnung-der-beteiligten-nach-der-donot",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 5a S. 1 DONot"
+  ],
+  "frage": "Bei elektronischer Übermittlung eines öffentlich beglaubigten Dokuments an das Handelsregister sollen nach § 5a DONot Wohnanschriften, Ausweisseriennummern und Kontoverbindungen nicht aufgenommen oder unkenntlich gemacht werden; das gilt auch für Dokumente, deren Entwurf nicht vom übermittelnden Notar stammt.",
+  "antwort": false,
+  "erklaerung": "§ 5a S. 1 DONot sieht vor, dass Wohnanschriften, Seriennummern von Ausweisen und Kontoverbindungen bei elektronischer Registerübermittlung nicht aufgenommen oder unkenntlich gemacht werden sollen. Ausgenommen sind aber Dokumente, deren Entwurf nicht von der übermittelnden Stelle stammt. Der Fehler der Aussage liegt in der Erstreckung auf fremde Entwürfe."
  }
 ]

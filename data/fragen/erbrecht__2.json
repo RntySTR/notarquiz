@@ -1,0 +1,320 @@
+[
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Pflichtteil und Verzicht",
+  "seite": "Pflichtteil: Pflichtteilsergänzung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/pflichtteil-und-verzicht/pflichtteil-pflichtteilserganzung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 2325 Abs. 3 BGB"
+  ],
+  "frage": "Wie wirkt sich der Zeitablauf seit einer Schenkung auf den Pflichtteilsergänzungsanspruch aus?",
+  "optionen": [
+   "Der Anspruch bleibt zehn Jahre in voller Höhe bestehen und entfällt dann vollständig.",
+   "Der Anspruch sinkt für jedes seit der Schenkung verstrichene Jahr um ein Zehntel.",
+   "Der Anspruch sinkt für jedes verstrichene Jahr um ein Fünftel und entfällt nach fünf Jahren.",
+   "Der Anspruch bleibt zeitlich unbegrenzt in voller Höhe bestehen."
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 2325 Abs. 3 BGB sieht das Abschmelzungsmodell vor: Die Schenkung wird für jedes seit ihr verstrichene Jahr um ein Zehntel weniger berücksichtigt, nach zehn Jahren bleibt sie unberücksichtigt. Ein starrer Zehnjahreszeitraum mit voller Berücksichtigung (Option 1) entspricht der früheren Rechtslage, nicht dem geltenden Recht.",
+  "id": "erbr2-001"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Pflichtteil und Verzicht",
+  "seite": "Pflichtteil: Pflichtteilsergänzung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/pflichtteil-und-verzicht/pflichtteil-pflichtteilserganzung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 2325 Abs. 3 BGB"
+  ],
+  "frage": "Der Erblasser hat seiner Tochter vor zwölf Jahren ein Mietshaus unter Vorbehalt des lebenslangen Nießbrauchs geschenkt und bis zu seinem Tod die Mieten vereinnahmt. Wie ist die Schenkung bei der Pflichtteilsergänzung zu berücksichtigen?",
+  "optionen": [
+   "Gar nicht, weil seit der Schenkung mehr als zehn Jahre verstrichen sind.",
+   "Mit zwei Zehnteln, weil die Abschmelzung erst nach Ablauf der ersten zwei Jahre beginnt.",
+   "In voller Höhe, weil die Zehnjahresfrist wegen des vorbehaltenen Nießbrauchs nicht zu laufen begonnen hat.",
+   "Nur mit dem Wert des Nießbrauchs, weil nur dieser dem Erblasser verblieben ist."
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach ständiger Rechtsprechung des BGH beginnt die Frist des § 2325 Abs. 3 BGB bei einer Schenkung unter Nießbrauchsvorbehalt nicht, solange dem Erblasser der wesentliche wirtschaftliche Nutzen (Nutzung oder Fruchtziehung) vorbehalten bleibt. Da der Erblasser die Mieten bis zum Tod bezog, ist keine Abschmelzung eingetreten; der typische Fehler besteht darin, die Frist ab der Schenkung zu berechnen.",
+  "id": "erbr2-002"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Pflichtteil und Verzicht",
+  "seite": "Pflichtteil: Pflichtteilsergänzung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/pflichtteil-und-verzicht/pflichtteil-pflichtteilserganzung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2325 BGB",
+   "§ 2329 BGB"
+  ],
+  "frage": "Der Pflichtteilsergänzungsanspruch richtet sich gegen den Beschenkten und ist auf Herausgabe des verschenkten Gegenstands gerichtet.",
+  "antwort": false,
+  "erklaerung": "Der Ergänzungsanspruch nach § 2325 BGB richtet sich gegen den Erben und ist grundsätzlich auf Geld gerichtet, nicht auf Herausgabe des Gegenstands. Nur wenn der Nachlass unzulänglich ist, greift subsidiär § 2329 BGB gegen den Beschenkten.",
+  "id": "erbr2-003"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Erbvertrag: Abschluss, Form und Verwahrung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/erbvertrag-abschluss-form-und-verwahrung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2274 BGB",
+   "§§ 164 ff. BGB"
+  ],
+  "frage": "A will mit seiner Lebensgefährtin B einen Erbvertrag schließen, in dem allein A die B vertragsmäßig zur Alleinerbin einsetzt. B ist verhindert und lässt sich durch ihren Bruder mit notarieller Vollmacht vertreten. Ist der Erbvertrag wirksam?",
+  "optionen": [
+   "Nein, weil beim Erbvertrag jede Vertretung ausgeschlossen ist.",
+   "Ja, weil B nur die Erklärungen des A annimmt und sich daher vertreten lassen darf.",
+   "Nein, weil beide Teile persönlich anwesend sein müssen und eine Vollmacht die Anwesenheit nicht ersetzt.",
+   "Ja, aber nur wenn der Vertreter selbst unbeschränkt geschäftsfähig und nicht als Erbe bedacht ist."
+  ],
+  "antwort": 1,
+  "erklaerung": "Erblasser im Sinne des § 2274 BGB ist allein, wer vertragsmäßig verfügt. Der bloß annehmende Vertragspartner kann sich nach §§ 164 ff. BGB vertreten lassen; das gilt selbst dann, wenn er Pflichten unter Lebenden übernimmt oder auf sein Erbrecht verzichtet. Das Vertretungsverbot des § 2274 BGB trifft daher nur A, nicht B.",
+  "id": "erbr2-004"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Erbvertrag: Abschluss, Form und Verwahrung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/erbvertrag-abschluss-form-und-verwahrung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 34 Abs. 2 BeurkG",
+   "§ 2300 BGB",
+   "§ 344 FamFG"
+  ],
+  "frage": "Welche Besonderheit gilt für die besondere amtliche Verwahrung des Erbvertrags im Vergleich zum öffentlichen Testament?",
+  "optionen": [
+   "Der Erbvertrag wird stets beim Notar verwahrt, das öffentliche Testament beim Nachlassgericht.",
+   "Die Vertragschließenden können die besondere amtliche Verwahrung übereinstimmend ausschließen; beim öffentlichen Testament ist das nicht möglich.",
+   "Der Erbvertrag wird nur auf Antrag der Beteiligten in amtliche Verwahrung gebracht, das Testament von Amts wegen.",
+   "Der Erbvertrag wird beim Zentralen Testamentsregister verwahrt, das Testament beim Nachlassgericht."
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Notar bringt den Erbvertrag nach § 34 Abs. 2 BeurkG in die besondere amtliche Verwahrung beim Nachlassgericht (§ 2300 BGB, § 344 FamFG). Anders als beim öffentlichen Testament können die Vertragschließenden die Verwahrung übereinstimmend ausschließen; der Erbvertrag bleibt dann in der Urkundensammlung des Notars. Eine Verwahrung im Zentralen Testamentsregister gibt es nicht, dort wird nur registriert.",
+  "id": "erbr2-005"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Erbvertrag: Abschluss, Form und Verwahrung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/erbvertrag-abschluss-form-und-verwahrung",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 2276 Abs. 1 BGB",
+   "§ 2232 BGB"
+  ],
+  "frage": "Beim Erbvertrag müssen beide Teile gleichzeitig vor dem Notar anwesend sein; jeder Vertragschließende kann dabei eine andere der Erklärungsformen des § 2232 BGB wählen.",
+  "antwort": true,
+  "erklaerung": "§ 2276 Abs. 1 S. 1 BGB verlangt die gleichzeitige Anwesenheit beider Teile, der Erblasser in Person. Für die Erklärung verweist § 2276 Abs. 1 S. 2 BGB auf die Form des öffentlichen Testaments, sodass mündliche Erklärung oder Übergabe einer offenen oder verschlossenen Schrift (§ 2232 BGB) möglich ist, und zwar für jeden Vertragschließenden gesondert.",
+  "id": "erbr2-006"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Erbvertrag: Abschluss, Form und Verwahrung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/erbvertrag-abschluss-form-und-verwahrung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 2275 BGB",
+   "§ 2274 BGB"
+  ],
+  "frage": "Welche Anforderung an die Geschäftsfähigkeit stellt § 2275 BGB für den Erbvertrag?",
+  "optionen": [
+   "Unbeschränkte Geschäftsfähigkeit für jeden Beteiligten, der vertragsmäßig als Erblasser verfügt.",
+   "Testierfähigkeit ab dem 16. Lebensjahr wie beim Testament.",
+   "Unbeschränkte Geschäftsfähigkeit für alle Beteiligten, auch für den nur annehmenden Vertragspartner.",
+   "Beschränkte Geschäftsfähigkeit genügt, wenn der gesetzliche Vertreter zustimmt."
+  ],
+  "antwort": 0,
+  "erklaerung": "§ 2275 BGB verlangt unbeschränkte Geschäftsfähigkeit für jeden, der vertragsmäßig als Erblasser verfügt. Die bloße Testierfähigkeit Minderjähriger ab 16 Jahren gilt nur für das Testament, nicht für vertragsmäßige Verfügungen im Erbvertrag. Für den bloß annehmenden Vertragspartner gelten die allgemeinen Regeln, er kann sich sogar vertreten lassen.",
+  "id": "erbr2-007"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Erbvertrag: Aufhebung, Rücktritt und Anfechtung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/erbvertrag-aufhebung-rucktritt-und-anfechtung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2290 Abs. 1 BGB",
+   "§ 2293 BGB",
+   "§ 2297 BGB"
+  ],
+  "frage": "Die Eheleute M und F haben einen Erbvertrag ohne Rücktrittsvorbehalt geschlossen. Nach dem Tod der F möchte M die Bindung beseitigen und bittet den Notar um einen Aufhebungsvertrag mit den Kindern. Wie ist die Rechtslage?",
+  "optionen": [
+   "Der Aufhebungsvertrag ist mit den Erben der F möglich, da diese in ihre Vertragsstellung eingetreten sind.",
+   "Eine Aufhebung durch Vertrag ist nach dem Tod eines Vertragsbeteiligten nicht mehr möglich.",
+   "M kann nach dem Tod der F jederzeit einseitig durch beurkundete Erklärung zurücktreten.",
+   "Der Aufhebungsvertrag ist möglich, wenn das Nachlassgericht zustimmt."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 2290 Abs. 1 BGB kann der Erbvertrag nur durch Vertrag der Vertragschließenden aufgehoben werden; ist einer verstorben, scheidet die Aufhebung aus. Ein einseitiger Rücktritt nach dem Tod des anderen Teils (§ 2297 BGB) setzt einen Rücktrittsvorbehalt nach § 2293 BGB voraus, der hier fehlt. Das ist der typische Fehler: Die Aufhebung muss zu Lebzeiten beider erfolgen.",
+  "id": "erbr2-008"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Erbvertrag: Aufhebung, Rücktritt und Anfechtung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/erbvertrag-aufhebung-rucktritt-und-anfechtung",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2290 BGB",
+   "§ 2296 BGB",
+   "§ 2282 Abs. 3 BGB",
+   "§ 2283 BGB"
+  ],
+  "frage": "Ordne die Lösungsmöglichkeiten vom Erbvertrag ihren Voraussetzungen und Formen zu.",
+  "paare": [
+   [
+    "Aufhebungsvertrag (§ 2290 BGB)",
+    "Neuer Vertrag aller Beteiligten zu Lebzeiten; der vertragsmäßig Verfügende muss ihn selbst schließen"
+   ],
+   [
+    "Rücktritt (§§ 2293, 2296 BGB)",
+    "Setzt einen Vorbehalt voraus; persönliche, notariell beurkundete Erklärung gegenüber dem anderen Vertragschließenden"
+   ],
+   [
+    "Anfechtung durch den Erblasser (§§ 2281–2283 BGB)",
+    "Nur bei Willensmängeln nach §§ 2078, 2079 BGB; notariell beurkundete Erklärung innerhalb eines Jahres"
+   ],
+   [
+    "Zugang der Rücktrittserklärung (§ 130 BGB)",
+    "Dem anderen Teil muss die Urschrift oder eine Ausfertigung zugehen"
+   ]
+  ],
+  "erklaerung": "Der Aufhebungsvertrag ist die vertragliche Lösung (§ 2290 BGB), der Rücktritt die einseitige Lösung aufgrund Vorbehalts (§ 2293 BGB) mit Beurkundungspflicht (§ 2296 Abs. 2 S. 2 BGB), die Anfechtung die Lösung bei Willensmängeln (§ 2281 BGB) mit Beurkundungspflicht (§ 2282 Abs. 3 BGB) und Jahresfrist (§ 2283 BGB). Für den Zugang des Rücktritts genügt keine beglaubigte Abschrift, es muss Urschrift oder Ausfertigung sein.",
+  "id": "erbr2-009"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Erbvertrag: Aufhebung, Rücktritt und Anfechtung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/erbvertrag-aufhebung-rucktritt-und-anfechtung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2283 Abs. 1 BGB",
+   "§ 2283 Abs. 2 S. 1 BGB"
+  ],
+  "frage": "Die Frist für die Anfechtung des Erbvertrags durch den Erblasser beträgt ein Jahr und beginnt mit dem Abschluss des Erbvertrags.",
+  "antwort": false,
+  "erklaerung": "Die Frist beträgt zwar ein Jahr (§ 2283 Abs. 1 BGB), beginnt aber nicht mit Vertragsschluss, sondern mit der Kenntnis vom Irrtum bzw. mit dem Ende der Zwangslage (§ 2283 Abs. 2 S. 1 BGB). Ein Erblasser, der seinen Irrtum erst Jahre nach Abschluss erkennt, kann daher noch anfechten.",
+  "id": "erbr2-010"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Erbvertrag: Aufhebung, Rücktritt und Anfechtung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/erbvertrag-aufhebung-rucktritt-und-anfechtung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 2293 BGB"
+  ],
+  "frage": "Welche Gestaltung des Rücktrittsvorbehalts in einem Erbvertrag ist nach der Handbuchseite zulässig?",
+  "optionen": [
+   "Der Vorbehalt darf nur den gesamten Erbvertrag betreffen, nicht einzelne Verfügungen.",
+   "Der Vorbehalt kann auf einzelne Verfügungen beschränkt, bedingt oder befristet werden; die Vertragschließenden können sogar vereinbaren, dass die Rücktrittsgründe gerichtlich nicht überprüft werden.",
+   "Der Vorbehalt muss stets an einen gerichtlich überprüfbaren wichtigen Grund geknüpft sein.",
+   "Der Vorbehalt erlischt mit dem Tod des anderen Vertragschließenden und kann danach nicht mehr ausgeübt werden."
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Rücktrittsvorbehalt nach § 2293 BGB ist frei gestaltbar: Er kann auf einzelne Verfügungen beschränkt, an Bedingungen geknüpft oder befristet werden, und der Ausschluss der gerichtlichen Überprüfung vereinbarter Rücktrittsgründe ist wirksam. Option 4 ist falsch, weil der vorbehaltene Rücktritt nach § 2297 BGB grundsätzlich auch nach dem Tod des anderen Teils noch möglich ist.",
+  "id": "erbr2-011"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Erbvertrag: Inhalt und Bindungswirkung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/erbvertrag-inhalt-und-bindungswirkung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 2278 Abs. 2 BGB",
+   "§ 1941 Abs. 1 BGB",
+   "§ 2299 Abs. 1 BGB"
+  ],
+  "frage": "Welche Anordnung kann im Erbvertrag nicht vertragsmäßig, sondern nur einseitig getroffen werden?",
+  "optionen": [
+   "Die Einsetzung eines Dritten zum Erben.",
+   "Die Anordnung eines Vermächtnisses zugunsten des Vertragspartners.",
+   "Die Ernennung eines Testamentsvollstreckers.",
+   "Die Wahl des anzuwendenden Erbrechts."
+  ],
+  "antwort": 2,
+  "erklaerung": "Vertragsmäßig können nach § 2278 Abs. 2 BGB nur Erbeinsetzungen, Vermächtnisse, Auflagen und die Rechtswahl getroffen werden, auch zugunsten Dritter (§ 1941 Abs. 2 BGB). Die Ernennung eines Testamentsvollstreckers gehört nicht dazu und ist nur als einseitige Verfügung nach § 2299 Abs. 1 BGB möglich; sie als vertragsmäßig zu bezeichnen, ist ein typischer Gestaltungsfehler.",
+  "id": "erbr2-012"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Erbvertrag: Inhalt und Bindungswirkung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/erbvertrag-inhalt-und-bindungswirkung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2289 Abs. 1 BGB"
+  ],
+  "frage": "Erblasser E hat seinen Neffen N im Erbvertrag vertragsmäßig zum Alleinerben eingesetzt. Später errichtet er ein Testament, in dem er seiner Haushälterin H ein Geldvermächtnis von 50.000 Euro aussetzt. Wie ist das Vermächtnis zu beurteilen?",
+  "optionen": [
+   "Wirksam, weil Vermächtnisse von der erbvertraglichen Bindung nicht erfasst werden.",
+   "Unwirksam, weil es das Recht des vertragsmäßig Bedachten N beeinträchtigt (§ 2289 Abs. 1 S. 2 BGB).",
+   "Wirksam, weil der Erbvertrag nur frühere, nicht spätere Verfügungen erfasst.",
+   "Unwirksam nur dann, wenn N dem Vermächtnis nicht zustimmt."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 2289 Abs. 1 S. 2 BGB sind spätere Verfügungen von Todes wegen unwirksam, soweit sie das Recht des vertragsmäßig Bedachten beeinträchtigen. Eine Beeinträchtigung liegt vor, wenn die Zuwendung gegenstandslos gemacht, verringert, belastet oder beschränkt wird; ein den Erben belastendes Vermächtnis verringert dessen Zuwendung rechtlich. Frühere Verfügungen werden nach S. 1 aufgehoben, spätere sind unwirksam.",
+  "id": "erbr2-013"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Erbvertrag: Inhalt und Bindungswirkung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/erbvertrag-inhalt-und-bindungswirkung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2286 BGB",
+   "§§ 2287, 2288 BGB"
+  ],
+  "frage": "Der durch Erbvertrag gebundene Erblasser darf unter Lebenden weiterhin frei verfügen; der vertragsmäßig Bedachte ist gegen nachteilige Rechtsgeschäfte im Wesentlichen nur nach §§ 2287, 2288 BGB geschützt.",
+  "antwort": true,
+  "erklaerung": "§ 2286 BGB stellt klar, dass die erbvertragliche Bindung die Verfügungsfreiheit unter Lebenden nicht beschränkt; zulässig sind sogar Rechtsgeschäfte, deren Vollzug erst nach dem Erbfall eintritt (§ 331 BGB, Nachfolgeklauseln). Der Schutz des Bedachten beschränkt sich auf §§ 2287, 2288 BGB sowie in Einzelfällen auf §§ 134, 138 BGB.",
+  "id": "erbr2-014"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Erbvertrag: Inhalt und Bindungswirkung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/erbvertrag-inhalt-und-bindungswirkung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2289 BGB",
+   "§ 2299 Abs. 1 BGB"
+  ],
+  "frage": "Wen bindet eine vertragsmäßige Verfügung im Erbvertrag?",
+  "optionen": [
+   "Beide Vertragschließenden, weil es sich um einen Vertrag handelt.",
+   "Allein den Erblasser, der vertragsmäßig verfügt hat; der bedachte Vertragspartner bleibt frei.",
+   "Den Erblasser und seine Erben, nicht aber den Vertragspartner.",
+   "Niemanden, solange der Erblasser nicht auf den Rücktritt verzichtet hat."
+  ],
+  "antwort": 1,
+  "erklaerung": "Gebunden ist nur, wer vertragsmäßig verfügt hat (§ 2289 BGB); der bedachte Vertragspartner übernimmt durch die Annahme keine Bindung. Die naheliegende Vorstellung, der Vertragscharakter binde beide Seiten, ist falsch, weil der Vertragspartner seinerseits nur einseitige Verfügungen nach § 2299 Abs. 1 BGB getroffen oder gar nicht verfügt hat.",
+  "id": "erbr2-015"
+ }
+]

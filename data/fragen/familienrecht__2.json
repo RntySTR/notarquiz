@@ -1,0 +1,310 @@
+[
+ {
+  "id": "fami2-001",
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Güterrecht: Güterstände, Ehevertrag und Wegfall des Güterrechtsregisters",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/guterrecht-guterstande-ehevertrag-und-wegfall-des-guterrechtsregisters",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1410 BGB",
+   "§ 1408 BGB"
+  ],
+  "frage": "Welche Formanforderung stellt § 1410 BGB an den Ehevertrag?",
+  "optionen": [
+   "Schriftform mit notarieller Beglaubigung beider Unterschriften",
+   "Notarielle Niederschrift bei gleichzeitiger Anwesenheit beider Vertragsteile",
+   "Notarielle Niederschrift; die Erklärungen dürfen auch nacheinander beurkundet werden",
+   "Eintragung in das Güterrechtsregister beim Amtsgericht"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 1410 BGB bedarf der Ehevertrag der Niederschrift eines Notars bei gleichzeitiger Anwesenheit beider Teile. Eine sukzessive Beurkundung der Erklärungen, wie sie bei anderen Verträgen möglich ist, genügt hier nicht. Die Eintragung in das Güterrechtsregister war nie Wirksamkeitsvoraussetzung und ist seit dessen Abschaffung ohnehin gegenstandslos."
+ },
+ {
+  "id": "fami2-002",
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Güterrecht: Güterstände, Ehevertrag und Wegfall des Güterrechtsregisters",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/guterrecht-guterstande-ehevertrag-und-wegfall-des-guterrechtsregisters",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1410 BGB"
+  ],
+  "frage": "Die in § 1410 BGB geforderte gleichzeitige Anwesenheit beider Vertragsteile verlangt die höchstpersönliche Anwesenheit der Ehegatten; eine Vertretung beim Abschluss des Ehevertrags ist ausgeschlossen.",
+  "antwort": false,
+  "erklaerung": "Gleichzeitige Anwesenheit bedeutet keine höchstpersönliche Anwesenheit. Jeder Ehegatte darf sich beim Abschluss des Ehevertrags vertreten lassen; § 1410 BGB verlangt nur, dass beide Vertragsteile – gegebenenfalls durch Vertreter – gleichzeitig vor dem Notar erklären. Der Irrtum rührt von der Verwechslung mit höchstpersönlichen Geschäften wie dem Erbverzicht her."
+ },
+ {
+  "id": "fami2-003",
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Güterrecht: Güterstände, Ehevertrag und Wegfall des Güterrechtsregisters",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/guterrecht-guterstande-ehevertrag-und-wegfall-des-guterrechtsregisters",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§§ 1558–1563 BGB"
+  ],
+  "frage": "In einem älteren Ehevertragsmuster findet sich der Antrag, die vereinbarte Gütertrennung in das Güterrechtsregister einzutragen. Wie ist damit umzugehen?",
+  "optionen": [
+   "Der Antrag ist beizubehalten, weil die Eintragung Dritten gegenüber den Gutglaubensschutz sichert",
+   "Der Antrag ist zu streichen, weil das Güterrechtsregister zum 01.01.2023 abgeschafft und die §§ 1558–1563 BGB aufgehoben sind",
+   "Der Antrag ist auf das Handelsregister umzustellen, das die Funktion des Güterrechtsregisters übernommen hat",
+   "Der Antrag ist beizubehalten, weil die Eintragung Wirksamkeitsvoraussetzung des Ehevertrags ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Das Güterrechtsregister ist zum 01.01.2023 ersatzlos abgeschafft; die §§ 1558–1563 BGB wurden aufgehoben, weil der Gesetzgeber das Register für nicht mehr zeitgemäß und praktisch bedeutungslos hielt. Anträge und Erklärungen zum Güterrechtsregister in Altmustern sind gegenstandslos und werden gestrichen. Ein Nachfolgeregister gibt es nicht; die Eintragung war auch nie Wirksamkeitsvoraussetzung."
+ },
+ {
+  "id": "fami2-004",
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Güterrecht: Güterstände, Ehevertrag und Wegfall des Güterrechtsregisters",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/guterrecht-guterstande-ehevertrag-und-wegfall-des-guterrechtsregisters",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1519 BGB",
+   "§ 1408 BGB"
+  ],
+  "frage": "Welcher Güterstand kann ausschließlich durch Ehevertrag begründet werden und ist kein eigener Güterstand des BGB im engeren Sinne?",
+  "optionen": [
+   "Zugewinngemeinschaft",
+   "Gütertrennung",
+   "Deutsch-französische Wahl-Zugewinngemeinschaft",
+   "Gütergemeinschaft"
+  ],
+  "antwort": 2,
+  "erklaerung": "Das BGB kennt drei Güterstände: Zugewinngemeinschaft (gesetzlicher Güterstand, auch modifiziert), Gütertrennung und Gütergemeinschaft. Daneben steht die deutsch-französische Wahl-Zugewinngemeinschaft (§ 1519 BGB), die nur durch Ehevertrag begründet wird. Gütertrennung ist zwar ebenfalls vertraglicher Güterstand, kann aber auch kraft Gesetzes eintreten und gehört zu den drei BGB-Güterständen."
+ },
+ {
+  "id": "fami2-005",
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Güterrecht: Gütertrennung und Gütergemeinschaft",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/guterrecht-gutertrennung-und-gutergemeinschaft",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1416 BGB",
+   "§ 1417 BGB",
+   "§ 1418 BGB"
+  ],
+  "frage": "Ordne die Vermögensmassen der Gütergemeinschaft ihrer Beschreibung zu.",
+  "paare": [
+   [
+    "Gesamtgut (§ 1416 BGB)",
+    "Gemeinschaftliches Vermögen beider Ehegatten einschließlich späteren Erwerbs; grundsätzlich gemeinschaftliche Verwaltung"
+   ],
+   [
+    "Sondergut (§ 1417 BGB)",
+    "Gegenstände, die rechtsgeschäftlich nicht übertragbar sind, etwa unpfändbare Lohnansprüche; selbständige Verwaltung"
+   ],
+   [
+    "Vorbehaltsgut (§ 1418 BGB)",
+    "Durch Ehevertrag bestimmte Gegenstände, Erwerb von Dritten mit ausdrücklicher Bestimmung oder Surrogate; selbständige Verwaltung"
+   ]
+  ],
+  "erklaerung": "Das Gesamtgut (§ 1416 BGB) umfasst das Vermögen beider Ehegatten und auch späteren Erwerb; es wird mangels anderer Regelung gemeinschaftlich verwaltet (§§ 1421 ff., 1450 ff. BGB). Sondergut (§ 1417 BGB) sind nicht übertragbare Gegenstände, Vorbehaltsgut (§ 1418 BGB) entsteht durch Ehevertrag, ausdrückliche Bestimmung eines Dritten bei unentgeltlichem Erwerb oder dingliche Surrogation. Sondergut und Vorbehaltsgut verwaltet jeder Ehegatte selbständig."
+ },
+ {
+  "id": "fami2-006",
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Güterrecht: Gütertrennung und Gütergemeinschaft",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/guterrecht-gutertrennung-und-gutergemeinschaft",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1414 BGB",
+   "§ 1388 BGB"
+  ],
+  "frage": "Ehegatten vereinbaren im Ehevertrag nur: „Der Zugewinnausgleich wird ausgeschlossen.“ Weitere Regelungen fehlen. Welcher Güterstand gilt?",
+  "optionen": [
+   "Zugewinngemeinschaft ohne Zugewinnausgleich (modifizierte Zugewinngemeinschaft)",
+   "Gütertrennung",
+   "Gütergemeinschaft",
+   "Die Vereinbarung ist mangels Bestimmtheit unwirksam; es bleibt bei der Zugewinngemeinschaft"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 1414 BGB tritt Gütertrennung ein, wenn der Ehevertrag den Zugewinnausgleich ausschließt, ohne dass die Ehegatten etwas anderes vereinbaren. Der typische Fehler besteht darin, die Fortgeltung der Zugewinngemeinschaft im Übrigen nicht ausdrücklich zu regeln; dann entfallen auch die Verfügungsbeschränkungen der §§ 1365, 1369 BGB. Eine modifizierte Zugewinngemeinschaft entsteht nur, wenn die Fortgeltung im Übrigen ausdrücklich vereinbart wird."
+ },
+ {
+  "id": "fami2-007",
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Güterrecht: Gütertrennung und Gütergemeinschaft",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/guterrecht-gutertrennung-und-gutergemeinschaft",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1414 BGB"
+  ],
+  "frage": "Bei Gütertrennung sind Ausgleichsansprüche zwischen den Ehegatten nach Scheidung vollständig ausgeschlossen, da kein güterrechtlicher Ausgleich stattfindet.",
+  "antwort": false,
+  "erklaerung": "Zwar findet bei Gütertrennung (§ 1414 BGB) kein güterrechtlicher Ausgleich statt. Ausnahmsweise bestehen aber Ausgleichsansprüche auf anderer Grundlage, insbesondere wegen Störung der Geschäftsgrundlage oder aus einer Ehegatteninnengesellschaft. Die Aussage verwechselt den Ausschluss des güterrechtlichen Ausgleichs mit einem Ausschluss jeglicher Ausgleichsansprüche."
+ },
+ {
+  "id": "fami2-008",
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Güterrecht: Gütertrennung und Gütergemeinschaft",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/guterrecht-gutertrennung-und-gutergemeinschaft",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1418 BGB"
+  ],
+  "frage": "Ehefrau F lebt in Gütergemeinschaft. Ihr Vater schenkt ihr ein Grundstück und bestimmt dabei ausdrücklich, dass es ihr allein gehören soll. Welcher Vermögensmasse fällt das Grundstück zu?",
+  "optionen": [
+   "Dem Gesamtgut, weil späterer Erwerb stets in das Gesamtgut fällt",
+   "Dem Sondergut, weil Schenkungen Dritter nicht übertragbar sind",
+   "Dem Vorbehaltsgut, weil der Zuwendende dies ausdrücklich bestimmt hat",
+   "Dem Gesamtgut, weil nur der Ehevertrag Vorbehaltsgut bestimmen kann"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 1418 BGB wird Vorbehaltsgut nicht nur durch Ehevertrag bestimmt, sondern auch ein Erwerb durch Erbfall, Vermächtnis oder unentgeltliche Zuwendung eines Dritten, wenn der Erblasser oder Zuwendende dies ausdrücklich anordnet. Ohne diese Bestimmung fiele die Schenkung als späterer Erwerb in das Gesamtgut (§ 1416 BGB). Sondergut (§ 1417 BGB) erfasst nur rechtsgeschäftlich nicht übertragbare Gegenstände, was auf ein Grundstück nicht zutrifft."
+ },
+ {
+  "id": "fami2-009",
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Verlöbnis: Begriff und Rechtswirkungen",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/verlobnis-begriff-und-rechtswirkungen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2265 BGB",
+   "§ 2275 BGB",
+   "§ 1408 BGB"
+  ],
+  "frage": "Verlobte A und B möchten gemeinsam und wechselbezüglich von Todes wegen verfügen. Welche Form ist zulässig?",
+  "optionen": [
+   "Gemeinschaftliches Testament, da Verlobte den Ehegatten gleichgestellt sind",
+   "Erbvertrag, da Verlobte kein gemeinschaftliches Testament errichten können",
+   "Ehevertrag mit erbrechtlichen Regelungen nach § 1408 BGB",
+   "Zwei Einzeltestamente mit Bindungsklausel"
+  ],
+  "antwort": 1,
+  "erklaerung": "Verlobte können kein gemeinschaftliches Testament errichten (§ 2265 BGB); das ist der typische Fehler. Richtige Form ist der Erbvertrag, den Verlobte schließen können, wobei der als Erblasser Verfügende unbeschränkt geschäftsfähig sein muss (§ 2275 BGB). Der Ehevertrag (§ 1408 BGB) regelt nur die güterrechtlichen Verhältnisse, nicht die Erbfolge; Einzeltestamente erzeugen keine Bindung."
+ },
+ {
+  "id": "fami2-010",
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Verlöbnis: Begriff und Rechtswirkungen",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/verlobnis-begriff-und-rechtswirkungen",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1297 Abs. 2 BGB"
+  ],
+  "frage": "Das Eheversprechen kann durch eine vereinbarte Vertragsstrafe für den Fall des Rücktritts vom Verlöbnis wirksam abgesichert werden.",
+  "antwort": false,
+  "erklaerung": "§ 1297 Abs. 2 BGB erklärt das Versprechen einer Strafe für den Fall der Nichteingehung der Ehe für nichtig. Ebenso wenig kann auf Eingehung der Ehe geklagt (§ 1297 Abs. 1 BGB) oder die Pflicht vollstreckt werden (§ 120 Abs. 3 FamFG). Die Eheschließungsfreiheit darf nicht mittelbar durch Strafdruck beschränkt werden."
+ },
+ {
+  "id": "fami2-011",
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Verlöbnis: Begriff und Rechtswirkungen",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/verlobnis-begriff-und-rechtswirkungen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 383 Abs. 1 Nr. 1 ZPO",
+   "§ 52 Abs. 1 Nr. 1 StPO",
+   "§ 11 Abs. 1 Nr. 1 StGB"
+  ],
+  "frage": "Worauf kommt es für die straf- und prozessrechtlichen Wirkungen des Verlöbnisses (Zeugnisverweigerungsrecht, Angehörigeneigenschaft) nach der Seite entscheidend an?",
+  "optionen": [
+   "Auf die Einordnung des Verlöbnisses als familienrechtlicher Vertrag",
+   "Auf eine schriftliche oder notarielle Dokumentation des Eheversprechens",
+   "Auf die tatsächliche Enge der Bindung zwischen den Verlobten",
+   "Auf die Anmeldung der Eheschließung beim Standesamt"
+  ],
+  "antwort": 2,
+  "erklaerung": "Für die Wirkungen des Verlöbnisses im Straf- und Prozessrecht (§ 11 Abs. 1 Nr. 1 Buchst. a StGB; § 383 Abs. 1 Nr. 1 ZPO; §§ 52 Abs. 1 Nr. 1, 61 StPO) ist die Rechtsnatur des Verlöbnisses unerheblich. Entscheidend ist, wie eng die Verlobten tatsächlich miteinander verbunden sind. Eine Form oder standesamtliche Anmeldung verlangt das Gesetz für das Verlöbnis nicht."
+ },
+ {
+  "id": "fami2-012",
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Zugewinnausgleich: Anrechnung von Ehegattenzuwendungen (§ 1380 BGB)",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinnausgleich-anrechnung-von-ehegattenzuwendungen-1380-bgb",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1374 Abs. 2 BGB",
+   "§ 1380 BGB"
+  ],
+  "frage": "Ehemann M schenkt seiner Frau F während der Ehe 100.000 €. Wie wird dieser Betrag beim Zugewinnausgleich auf Seiten der F behandelt?",
+  "optionen": [
+   "Als privilegierter Erwerb wird er dem Anfangsvermögen der F hinzugerechnet (§ 1374 Abs. 2 BGB)",
+   "Er bleibt gänzlich außer Betracht, weil Zuwendungen unter Ehegatten güterrechtlich neutral sind",
+   "Er ist kein privilegierter Erwerb; § 1380 BGB ordnet stattdessen die Anrechnung auf die Ausgleichsforderung an",
+   "Er wird dem Anfangsvermögen des M hinzugerechnet, um dessen Zugewinn zu mindern"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach ganz h. M. gilt § 1374 Abs. 2 BGB für Ehegattenzuwendungen nicht; die Zuwendung gehört nicht zum Anfangsvermögen des Empfängers. Begründung ist § 1380 BGB, der für Ehegattenzuwendungen gerade die Anrechnung auf die Ausgleichsforderung anordnet. Die naheliegende Einordnung als privilegierter Erwerb verkennt, dass § 1374 Abs. 2 BGB nur den Erwerb von Dritten erfasst."
+ },
+ {
+  "id": "fami2-013",
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Zugewinnausgleich: Anrechnung von Ehegattenzuwendungen (§ 1380 BGB)",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinnausgleich-anrechnung-von-ehegattenzuwendungen-1380-bgb",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1380 Abs. 2 BGB"
+  ],
+  "frage": "Wie verläuft der Rechenweg der Anrechnung nach § 1380 Abs. 2 BGB?",
+  "optionen": [
+   "Der Zuwendungswert wird dem Endvermögen des Zuwendenden hinzugerechnet, beim Empfänger herausgerechnet und anschließend von der Ausgleichsforderung des Empfängers abgezogen",
+   "Der Zuwendungswert wird dem Anfangsvermögen des Empfängers hinzugerechnet und von der Ausgleichsforderung des Zuwendenden abgezogen",
+   "Der Zuwendungswert wird nur von der Ausgleichsforderung des Empfängers abgezogen; die Endvermögen bleiben unverändert",
+   "Der Zuwendungswert wird beiden Endvermögen hälftig zugeschlagen und dann vom Zugewinn des Empfängers abgezogen"
+  ],
+  "antwort": 0,
+  "erklaerung": "§ 1380 Abs. 2 S. 1 BGB rechnet den Wert der Zuwendung dem Zugewinn des Zuwendenden hinzu; spiegelbildlich wird er beim Empfänger aus dem Endvermögen herausgerechnet. Aus den angepassten Zugewinnen ergibt sich die Ausgleichsforderung, von der sodann der Zuwendungswert abgezogen wird (§ 1380 Abs. 1 BGB). Ein bloßer Abzug ohne Anpassung der Endvermögen (Option 3) übersieht die erste Stufe des Verfahrens."
+ },
+ {
+  "id": "fami2-014",
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Zugewinnausgleich: Anrechnung von Ehegattenzuwendungen (§ 1380 BGB)",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinnausgleich-anrechnung-von-ehegattenzuwendungen-1380-bgb",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1380 Abs. 2 S. 2 BGB"
+  ],
+  "frage": "Für die Anrechnung nach § 1380 BGB ist der Wert der Zuwendung im Zeitpunkt der Beendigung des Güterstands maßgeblich.",
+  "antwort": false,
+  "erklaerung": "Nach § 1380 Abs. 2 S. 2 BGB zählt der Wert der Zuwendung im Zeitpunkt der Zuwendung, nicht bei Beendigung des Güterstands. Dieser Wert ist zudem inflationsbereinigt anzusetzen. Die Aussage überträgt fälschlich den Stichtag für das Endvermögen auf die Bewertung der Zuwendung."
+ },
+ {
+  "id": "fami2-015",
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Zugewinnausgleich: Anrechnung von Ehegattenzuwendungen (§ 1380 BGB)",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinnausgleich-anrechnung-von-ehegattenzuwendungen-1380-bgb",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1380 Abs. 1 BGB"
+  ],
+  "frage": "In welchem Fall weicht das Ergebnis der Anrechnung nach § 1380 BGB von der bloßen Berücksichtigung der Zuwendung im Endvermögen des Empfängers ab?",
+  "optionen": [
+   "Immer, weil die Anrechnung den Zugewinn des Zuwendenden erhöht",
+   "Wenn der Zuwendungsempfänger ohne die Zuwendung einen negativen Zugewinn hätte",
+   "Wenn die Zuwendung den Wert üblicher Gelegenheitsgeschenke nicht übersteigt",
+   "Wenn der Zuwendende keinen Anspruch auf Zugewinnausgleich hat"
+  ],
+  "antwort": 1,
+  "erklaerung": "Im Regelfall führen Anrechnung und bloße Berücksichtigung im Endvermögen zum selben Ergebnis. Abweichungen entstehen vor allem, wenn der Empfänger ohne die Zuwendung einen negativen Zugewinn hätte; dann begünstigt § 1380 BGB den Zuwendenden, der durch die Zuwendung nicht schlechter stehen soll. Bei bloßen Gelegenheitsgeschenken greift die Anrechnungsvermutung des § 1380 Abs. 1 S. 2 BGB gar nicht; § 1380 BGB setzt zudem einen Ausgleichsanspruch des Empfängers, nicht des Zuwendenden, voraus."
+ }
+]

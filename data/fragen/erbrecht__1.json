@@ -1123,5 +1123,336 @@
    }
   ],
   "erklaerung": "F kann wählen: Als Erbin erhält sie den großen Erbteil von 1/2 (§§ 1931 Abs. 1, 1371 Abs. 1 BGB). Schlägt sie aus, erhält sie den rechnerischen Zugewinnausgleich (§ 1371 Abs. 2, 3 BGB, § 1378 Abs. 1 BGB) und den kleinen Pflichtteil von 1/8. Weil M sein Vermögen fast vollständig in der Ehe aufgebaut hat, kann die güterrechtliche Lösung günstiger sein; der Notar muss beide Wege und die Ausschlagungsfrist erläutern."
+ },
+ {
+  "id": "erbr1-047",
+  "kapitel": "erbrecht",
+  "abschnitt": "Grundlagen und gesetzliche Erbfolge",
+  "seite": "Gesetzliches Erbrecht des Ehegatten: Voraussetzungen und Quoten",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/gesetzliches-erbrecht-des-ehegatten-voraussetzungen-und-quoten",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1933 S. 1 BGB",
+   "§ 1565 BGB",
+   "§ 1567 BGB"
+  ],
+  "frage": "Die Eheleute leben seit zwei Jahren getrennt. Der Ehemann stirbt, bevor einer von beiden einen Scheidungsantrag gestellt hat. Ist die Ehefrau gesetzliche Erbin?",
+  "optionen": [
+   "Nein, weil das Getrenntleben nach § 1567 BGB das Ehegattenerbrecht ausschließt",
+   "Ja, weil die Ehe beim Erbfall bestand und § 1933 BGB einen Scheidungsantrag oder die Zustimmung des Erblassers voraussetzt",
+   "Nein, weil nach einem Jahr Trennung die Scheidungsvoraussetzungen vorlagen (§ 1565 BGB)",
+   "Ja, aber nur zur Hälfte der sonst geltenden Quote"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Ehegatte ist gesetzlicher Erbe, wenn er den Erblasser überlebt und die Ehe beim Erbfall rechtsgültig bestand; Dauer der Ehe und Getrenntleben (§ 1567 BGB) sind unerheblich. Das Erbrecht entfällt nach § 1933 S. 1 BGB nur, wenn die Scheidungsvoraussetzungen vorlagen und der Erblasser die Scheidung beantragt oder ihr zugestimmt hatte. Das bloße Vorliegen der Scheidungsvoraussetzungen ohne Antrag des Erblassers genügt nicht."
+ },
+ {
+  "id": "erbr1-048",
+  "kapitel": "erbrecht",
+  "abschnitt": "Grundlagen und gesetzliche Erbfolge",
+  "seite": "Gesetzliches Erbrecht des Ehegatten: Voraussetzungen und Quoten",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/gesetzliches-erbrecht-des-ehegatten-voraussetzungen-und-quoten",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1931 Abs. 1 BGB",
+   "§ 1931 Abs. 2 BGB"
+  ],
+  "frage": "Ordne den Erbteil des Ehegatten nach § 1931 BGB (ohne güterrechtliche Erhöhung) den miterbenden Verwandten zu.",
+  "paare": [
+   [
+    "Neben Verwandten der ersten Ordnung",
+    "Ein Viertel"
+   ],
+   [
+    "Neben Verwandten der zweiten Ordnung oder neben Großeltern",
+    "Die Hälfte"
+   ],
+   [
+    "Neben Abkömmlingen von Großeltern, wenn keine Großeltern mehr leben",
+    "Der ganze Nachlass"
+   ],
+   [
+    "Neben Verwandten ab der vierten Ordnung",
+    "Alleinerbe nach § 1931 Abs. 2 BGB"
+   ]
+  ],
+  "erklaerung": "§ 1931 BGB staffelt den Erbteil nach der Ordnung der Verwandten: ein Viertel neben der ersten Ordnung, die Hälfte neben der zweiten Ordnung und neben Großeltern. Leben keine Großeltern mehr, sondern nur deren Abkömmlinge, erhält der Ehegatte den ganzen Nachlass; neben Verwandten ab der vierten Ordnung ist er ohnehin Alleinerbe (§ 1931 Abs. 2 BGB). Der Güterstand kann diese Quoten erhöhen oder verändern (§ 1371, § 1931 Abs. 4 BGB)."
+ },
+ {
+  "id": "erbr1-049",
+  "kapitel": "erbrecht",
+  "abschnitt": "Grundlagen und gesetzliche Erbfolge",
+  "seite": "Gesetzliches Erbrecht des Ehegatten: Voraussetzungen und Quoten",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/gesetzliches-erbrecht-des-ehegatten-voraussetzungen-und-quoten",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1932 BGB"
+  ],
+  "frage": "Der Voraus nach § 1932 BGB steht dem überlebenden Ehegatten als gesetzliches Vorausvermächtnis zu, wenn er neben Verwandten der ersten oder zweiten Ordnung erbt.",
+  "antwort": true,
+  "erklaerung": "Der Voraus ist ein gesetzliches Vorausvermächtnis (§ 1932 BGB), das dem überlebenden Ehegatten zusätzlich zu seinem Erbteil bestimmte Haushaltsgegenstände zuweist. Er steht ihm zu, wenn er neben Verwandten der ersten oder der zweiten Ordnung erbt. Er ist vom Erbteil zu unterscheiden und erhöht die Erbquote nicht."
+ },
+ {
+  "id": "erbr1-050",
+  "kapitel": "erbrecht",
+  "abschnitt": "Grundlagen und gesetzliche Erbfolge",
+  "seite": "Gesetzliches Erbrecht des Ehegatten: Voraussetzungen und Quoten",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/gesetzliches-erbrecht-des-ehegatten-voraussetzungen-und-quoten",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1933 BGB"
+  ],
+  "frage": "Die Geschwister des Erblassers machen geltend, die Witwe sei nach § 1933 BGB nicht Erbin geworden, weil der Erblasser die Scheidung beantragt hatte und die Ehe hätte geschieden werden können. Wer trägt hierfür die Beweislast?",
+  "optionen": [
+   "Die Witwe, weil sie ihr Erbrecht im Erbscheinsverfahren nachweisen muss",
+   "Die Geschwister als diejenigen, die der Witwe das Erbrecht absprechen",
+   "Das Nachlassgericht ermittelt von Amts wegen, eine Beweislast gibt es nicht",
+   "Das Familiengericht, bei dem der Scheidungsantrag anhängig war"
+  ],
+  "antwort": 1,
+  "erklaerung": "Wer behauptet, die Ehe wäre geschieden oder aufgehoben worden, trägt dafür die Beweislast. Im Fall des § 1933 BGB sind das regelmäßig die Verwandten des Erstverstorbenen, die dem überlebenden Ehegatten sein Erbrecht absprechen. Die Witwe muss nur Überleben und Bestehen der Ehe beim Erbfall darlegen; die Ausschlussvoraussetzungen des § 1933 BGB müssen die Verwandten beweisen."
+ },
+ {
+  "id": "erbr1-051",
+  "kapitel": "erbrecht",
+  "abschnitt": "Grundlagen und gesetzliche Erbfolge",
+  "seite": "Gesetzliches Erbrecht des Lebenspartners",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/gesetzliches-erbrecht-des-lebenspartners",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 10 Abs. 1 LPartG",
+   "§ 1 LPartG",
+   "§ 20a LPartG"
+  ],
+  "frage": "Wo ist das gesetzliche Erbrecht des eingetragenen Lebenspartners geregelt und für welche Partnerschaften gilt es?",
+  "optionen": [
+   "In § 1931 BGB, der seit 2017 auf Lebenspartner entsprechend anzuwenden ist, für alle gleichgeschlechtlichen Paare",
+   "In § 10 LPartG, für vor dem 1. Oktober 2017 in Deutschland begründete Lebenspartnerschaften sowie im Ausland begründete, soweit deutsches Recht gilt",
+   "In § 10 LPartG, für alle seit 2001 begründeten und auch künftig begründbaren Lebenspartnerschaften",
+   "In § 1931 Abs. 4 BGB, für Lebenspartnerschaften, die nicht in eine Ehe umgewandelt wurden"
+  ],
+  "antwort": 1,
+  "erklaerung": "Das Erbrecht des Lebenspartners steht nicht im BGB, sondern in § 10 LPartG. Nach § 1 LPartG können seit dem 1. Oktober 2017 keine neuen Lebenspartnerschaften mehr begründet werden; das Gesetz gilt für vorher in Deutschland begründete und für im Ausland begründete Partnerschaften, soweit deutsches Recht anwendbar ist. Wird die Partnerschaft nach § 20a LPartG in eine Ehe umgewandelt, gelten die Ehegattenregeln."
+ },
+ {
+  "id": "erbr1-052",
+  "kapitel": "erbrecht",
+  "abschnitt": "Grundlagen und gesetzliche Erbfolge",
+  "seite": "Gesetzliches Erbrecht des Lebenspartners",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/gesetzliches-erbrecht-des-lebenspartners",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 10 Abs. 3 LPartG",
+   "§ 15 Abs. 2 LPartG"
+  ],
+  "frage": "Das gesetzliche Erbrecht des Lebenspartners ist nach § 10 Abs. 3 LPartG bereits ausgeschlossen, wenn der Erblasser die Aufhebung beantragt hatte, auch wenn die Frist des § 15 Abs. 2 LPartG von 12 bzw. 36 Monaten noch nicht abgelaufen war.",
+  "antwort": false,
+  "erklaerung": "Der Ausschluss nach § 10 Abs. 3 LPartG ist § 1933 BGB nachgebildet und setzt voraus, dass die Aufhebungsvoraussetzungen nach § 15 Abs. 2 Nr. 1 oder 2 LPartG vorlagen und der Erblasser die Aufhebung beantragt oder ihr zugestimmt hatte, oder dass er einen begründeten Härteantrag nach § 15 Abs. 2 Nr. 3 LPartG gestellt hatte. Nach dem eindeutigen Wortlaut muss zusätzlich die Frist des § 15 Abs. 2 LPartG von 12 bzw. 36 Monaten abgelaufen sein. Der bloße Antrag vor Fristablauf genügt nicht."
+ },
+ {
+  "id": "erbr1-053",
+  "kapitel": "erbrecht",
+  "abschnitt": "Grundlagen und gesetzliche Erbfolge",
+  "seite": "Gesetzliches Erbrecht des Lebenspartners",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/gesetzliches-erbrecht-des-lebenspartners",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 6 S. 2 LPartG",
+   "§ 1371 Abs. 1 BGB",
+   "§ 10 Abs. 2 S. 2 LPartG"
+  ],
+  "frage": "Die Lebenspartner L1 und L2 lebten im gesetzlichen Güterstand der Zugewinngemeinschaft. L1 stirbt ohne Testament und hinterlässt L2 und ein Kind. Wie hoch ist der Erbteil des L2?",
+  "optionen": [
+   "Ein Viertel nach § 10 Abs. 1 LPartG, weil § 1371 BGB nur für Ehegatten gilt",
+   "Die Hälfte, weil sich der Erbteil von einem Viertel um ein Viertel erhöht (§ 6 S. 2 LPartG, § 1371 Abs. 1 BGB)",
+   "Die Hälfte, weil L2 neben einem Kind so viel erhält wie das Kind (§ 10 Abs. 2 S. 2 LPartG)",
+   "Drei Viertel, weil der Zugewinn pauschal mit der Hälfte abgegolten wird"
+  ],
+  "antwort": 1,
+  "erklaerung": "Neben Verwandten der ersten Ordnung erbt der Lebenspartner ein Viertel (§ 10 Abs. 1 LPartG). Im gesetzlichen Güterstand der Zugewinngemeinschaft (§ 6 LPartG) erhöht sich der Erbteil pauschal um ein Viertel (§ 6 S. 2 LPartG, § 1371 Abs. 1 BGB), unabhängig davon, ob tatsächlich Zugewinn erzielt wurde. Die Gleichstellung mit den Kindern nach § 10 Abs. 2 S. 2 LPartG gilt nur bei Gütertrennung; sie führt hier zwar zum selben Ergebnis, ist aber nicht die einschlägige Begründung."
+ },
+ {
+  "id": "erbr1-054",
+  "kapitel": "erbrecht",
+  "abschnitt": "Grundlagen und gesetzliche Erbfolge",
+  "seite": "Gesetzliches Erbrecht des Lebenspartners",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/gesetzliches-erbrecht-des-lebenspartners",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 10 Abs. 1 LPartG"
+  ],
+  "frage": "Was gilt für den Voraus des überlebenden Lebenspartners?",
+  "optionen": [
+   "Er umfasst die Gegenstände des gemeinsamen Haushalts ohne Grundstückszubehör und die Geschenke zur Begründung der Partnerschaft; neben Verwandten der ersten Ordnung nur, soweit er für einen angemessenen Haushalt benötigt wird",
+   "Er umfasst sämtliche beweglichen Sachen des Nachlasses und steht dem Lebenspartner neben allen Ordnungen uneingeschränkt zu",
+   "Er steht dem Lebenspartner nur neben Verwandten der zweiten Ordnung zu und erhöht seine Erbquote um ein Viertel",
+   "Er umfasst nur die Hochzeitsgeschenke und wird nach den Vorschriften über die Erbeinsetzung behandelt"
+  ],
+  "antwort": 0,
+  "erklaerung": "Als Voraus stehen dem Lebenspartner die Gegenstände des gemeinsamen Haushalts, soweit sie nicht Grundstückszubehör sind, sowie die Geschenke anlässlich der Begründung der Partnerschaft zu; neben Verwandten der ersten Ordnung nur, soweit er sie für einen angemessenen Haushalt braucht. Für den Voraus gelten die Vorschriften über Vermächtnisse; er erhöht die Erbquote nicht und ist von der Erhöhung nach § 1371 BGB zu unterscheiden."
+ },
+ {
+  "id": "erbr1-055",
+  "kapitel": "erbrecht",
+  "abschnitt": "Grundlagen und gesetzliche Erbfolge",
+  "seite": "Gesetzliches Erbrecht des Staates",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/gesetzliches-erbrecht-des-staates",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1936 BGB",
+   "§ 1938 BGB"
+  ],
+  "frage": "Welche Aussage zur Stellung des Staates als gesetzlicher Erbe trifft zu?",
+  "optionen": [
+   "Der Staat kann die Erbschaft wie jeder andere Erbe binnen sechs Wochen ausschlagen, wenn der Nachlass überschuldet ist",
+   "Der Staat ist Zwangserbe: Er kann weder auf sein gesetzliches Erbrecht verzichten noch ausschlagen, haftet aber praktisch nur mit dem Nachlass",
+   "Der Staat erbt nur, wenn der Erblasser keine Verfügung von Todes wegen hinterlassen hat; bei Enterbung aller Verwandten erbt niemand",
+   "Der Staat haftet unbeschränkt, es sei denn, er errichtet ein Inventar"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Staat wird gesetzlicher Erbe, wenn keine anderen Erben vorhanden sind (§§ 1936, 1938 BGB), auch wenn die Berechtigten durch Erbverzicht, Enterbung, Erbunwürdigkeit oder Ausschlagung wegfallen. Als Zwangserbe kann er weder verzichten noch ausschlagen; er haftet praktisch nur mit dem Nachlass, ohne dass Inventar oder Vorbehalt im Urteil nötig wären. Die Ausschlagungsmöglichkeit zu unterstellen ist der naheliegende Fehler."
+ },
+ {
+  "id": "erbr1-056",
+  "kapitel": "erbrecht",
+  "abschnitt": "Grundlagen und gesetzliche Erbfolge",
+  "seite": "Gesetzliches Erbrecht des Staates",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/gesetzliches-erbrecht-des-staates",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1936 S. 1 BGB",
+   "§ 1936 S. 2 BGB"
+  ],
+  "frage": "Welcher Staat wird gesetzlicher Erbe, wenn der Erblasser ohne Erben verstirbt?",
+  "optionen": [
+   "Stets der Bund, weil das Erbrecht Bundesrecht ist",
+   "Das Land, in dem der Erblasser beim Tod seinen Wohnsitz hatte, hilfsweise das Land des letzten Aufenthalts; im Übrigen der Bund",
+   "Das Land, in dem der Erblasser geboren wurde",
+   "Das Land, in dem sich der wertvollste Nachlassgegenstand befindet"
+  ],
+  "antwort": 1,
+  "erklaerung": "Gesetzlicher Erbe ist das Land, in dem der Erblasser zur Zeit des Todes seinen Wohnsitz hatte; ist kein Wohnsitz feststellbar, entscheidet der letzte Aufenthalt (§ 1936 S. 1 BGB). Nur im Übrigen, also wenn sich danach kein Land bestimmen lässt, ist der Bund gesetzlicher Erbe (§ 1936 S. 2 BGB). Geburtsort oder Belegenheit des Nachlasses spielen keine Rolle."
+ },
+ {
+  "id": "erbr1-057",
+  "kapitel": "erbrecht",
+  "abschnitt": "Grundlagen und gesetzliche Erbfolge",
+  "seite": "Gesetzliches Erbrecht des Staates",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/gesetzliches-erbrecht-des-staates",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1936 BGB"
+  ],
+  "frage": "Setzt der Erblasser das Land Baden-Württemberg durch Testament zum Alleinerben ein, kann das Land die Erbschaft nicht ausschlagen, weil der Staat stets Zwangserbe ist.",
+  "antwort": false,
+  "erklaerung": "Nur als gesetzlicher Erbe nach § 1936 BGB ist der Staat Zwangserbe ohne Verzichts- und Ausschlagungsmöglichkeit. Setzt der Erblasser den Staat durch Verfügung von Todes wegen ein, steht er jedem anderen gewillkürten Erben gleich und unterliegt den allgemeinen Regeln, kann also auch ausschlagen. Die Gleichsetzung beider Fälle ist ein typischer Fehler."
+ },
+ {
+  "id": "erbr1-058",
+  "kapitel": "erbrecht",
+  "abschnitt": "Grundlagen und gesetzliche Erbfolge",
+  "seite": "Rechtsnachfolge außerhalb des Erbrechts: Höfe, Miete, Versorgung, Gesellschaftsanteile",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/rechtsnachfolge-ausserhalb-des-erbrechts-hofe-miete-versorgung-gesellschaftsanteile",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§§ 563, 563a BGB",
+   "§ 564 BGB"
+  ],
+  "frage": "Der Mieter einer Wohnung stirbt; mit ihm lebte seine Lebensgefährtin im gemeinsamen Haushalt. Alleinerbe ist sein Sohn, der in einer anderen Stadt wohnt. Wer wird Partei des Wohnraummietverhältnisses?",
+  "optionen": [
+   "Der Sohn als Gesamtrechtsnachfolger nach § 1922 BGB",
+   "Die Lebensgefährtin im Wege der Sonderrechtsnachfolge nach §§ 563, 563a BGB, wenn die Voraussetzungen vorliegen; mit dem Erben wird das Mietverhältnis nur ausnahmsweise fortgesetzt",
+   "Sohn und Lebensgefährtin gemeinsam als Mietergemeinschaft",
+   "Das Mietverhältnis endet automatisch mit dem Tod des Mieters"
+  ],
+  "antwort": 1,
+  "erklaerung": "Den Eintritt in ein Wohnraummietverhältnis hat der Gesetzgeber bewusst aus dem Erbrecht herausgenommen (§§ 563 bis 564, 580 BGB). Bestimmte Personen, die mit dem Mieter einen gemeinsamen Haushalt führten, treten im Wege der Sonderrechtsnachfolge ein (§§ 563, 563a BGB); mit dem Erben wird das Mietverhältnis nur ausnahmsweise fortgesetzt (§ 564 BGB). Die Gesamtrechtsnachfolge nach § 1922 BGB ist hier gerade verdrängt; die Sonderregeln gelten nur beim Tod des Mieters, nicht des Vermieters."
+ },
+ {
+  "id": "erbr1-059",
+  "kapitel": "erbrecht",
+  "abschnitt": "Grundlagen und gesetzliche Erbfolge",
+  "seite": "Rechtsnachfolge außerhalb des Erbrechts: Höfe, Miete, Versorgung, Gesellschaftsanteile",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/rechtsnachfolge-ausserhalb-des-erbrechts-hofe-miete-versorgung-gesellschaftsanteile",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1922 BGB"
+  ],
+  "frage": "Ein Mandant ist Gesellschafter einer OHG und will seinen Anteil durch Testament seiner Tochter zuwenden. Worauf muss der Notar vor der Beurkundung vorrangig achten?",
+  "optionen": [
+   "Auf die Zustimmung der Mitgesellschafter zur Beurkundung, weil das Testament sonst formnichtig ist",
+   "Auf den Gesellschaftsvertrag: Die Erbin tritt nur ein, wenn eine Eintritts- oder Nachfolgeklausel dies erlaubt; sonst kann die Verfügung ins Leere gehen",
+   "Auf nichts Besonderes, weil Gesellschaftsanteile wie jeder Vermögensgegenstand nach § 1922 BGB vererblich sind",
+   "Auf die Eintragung der Tochter im Handelsregister zu Lebzeiten des Mandanten"
+  ],
+  "antwort": 1,
+  "erklaerung": "Personengesellschaften sind Zweck- und Vertrauensgemeinschaften; zum Schutz der Gesellschaftsautonomie hat das Gesellschaftsrecht Vorrang vor dem Erbrecht. Erben treten nur ein, wenn der Gesellschaftsvertrag dies durch Eintritts- oder (qualifizierte) Nachfolgeklauseln erlaubt; sonst kann der Anteil erlöschen oder die Erben werden abgefunden, und die Verfügung von Todes wegen läuft leer. Die uneingeschränkte Vererblichkeit nach § 1922 BGB gilt nur für Kapitalgesellschaftsanteile; Gesellschaftsvertrag und Verfügung sind aufeinander abzustimmen."
+ },
+ {
+  "id": "erbr1-060",
+  "kapitel": "erbrecht",
+  "abschnitt": "Grundlagen und gesetzliche Erbfolge",
+  "seite": "Rechtsnachfolge außerhalb des Erbrechts: Höfe, Miete, Versorgung, Gesellschaftsanteile",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/rechtsnachfolge-ausserhalb-des-erbrechts-hofe-miete-versorgung-gesellschaftsanteile",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "HöfeO"
+  ],
+  "frage": "Die Höfeordnung gilt bundesweit, sodass in Baden-Württemberg ein landwirtschaftlicher Hof stets nach ihren Regeln vererbt wird.",
+  "antwort": false,
+  "erklaerung": "Die Höfeordnung gilt nur in Hamburg, Niedersachsen, Nordrhein-Westfalen und Schleswig-Holstein, nicht etwa in Bayern, im Saarland, in Berlin und in den neuen Bundesländern. In Baden-Württemberg bestehen landesgesetzliche Regelungen wie das badische Hofgütergesetz; landesrechtliches Hoferbenrecht gibt es auch in Bremen, Hessen und Rheinland-Pfalz. Der Hof und das hoffreie Vermögen sind dabei getrennt zu betrachten."
+ },
+ {
+  "id": "erbr1-061",
+  "kapitel": "erbrecht",
+  "abschnitt": "Grundlagen und gesetzliche Erbfolge",
+  "seite": "Rechtsnachfolge außerhalb des Erbrechts: Höfe, Miete, Versorgung, Gesellschaftsanteile",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/rechtsnachfolge-ausserhalb-des-erbrechts-hofe-miete-versorgung-gesellschaftsanteile",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§§ 563 ff. BGB",
+   "§ 1968 BGB",
+   "§§ 16 ff. BeamtVG",
+   "§§ 56 bis 59 SGB I"
+  ],
+  "frage": "Ordne die Todesfolgen dem Rechtsgebiet bzw. der Regelung zu, die sie außerhalb der Gesamtrechtsnachfolge bestimmt.",
+  "paare": [
+   [
+    "Eintritt in das Wohnraummietverhältnis",
+    "Sonderrechtsnachfolge nach §§ 563 ff. BGB"
+   ],
+   [
+    "Hinterbliebenenversorgung des Beamten",
+    "Eigene Ansprüche nach §§ 16 ff. BeamtVG"
+   ],
+   [
+    "Sozialleistungsansprüche nach dem Tod",
+    "§§ 56 bis 59 SGB I"
+   ],
+   [
+    "Bestattung",
+    "Nur die Kostentragung ist erbrechtlich geregelt (§ 1968 BGB)"
+   ],
+   [
+    "Apotheken- oder Gaststättenkonzession",
+    "Öffentliches Recht, z. B. § 13 ApothekenG, § 10 GaststättenG"
+   ]
+  ],
+  "erklaerung": "Zahlreiche Todesfolgen folgen nicht der Gesamtrechtsnachfolge: Der Eintritt in Wohnraummietverhältnisse ist Sonderrechtsnachfolge (§§ 563 ff. BGB), Beamtenversorgung (§§ 16 ff. BeamtVG) und Sozialleistungen (§§ 56 bis 59 SGB I) sind eigene Ansprüche der Hinterbliebenen, bei der Bestattung regelt das Erbrecht nur die Kosten (§ 1968 BGB), und Konzessionen folgen dem öffentlichen Recht. Nur Kapitalgesellschaftsanteile gehen regulär erbrechtlich über."
  }
 ]
