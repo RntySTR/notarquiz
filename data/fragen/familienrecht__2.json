@@ -662,5 +662,318 @@
   ],
   "antwort": 2,
   "erklaerung": "§ 1369 BGB gilt, solange die Ehegatten einen gemeinsamen Haushalt führen oder planen; leben sie dauernd getrennt und ist der Haushalt aufgelöst, gilt die Vorschrift weiter, solange der Güterstand besteht. Die Trennung beendet den Güterstand nicht; er endet erst durch Ehevertrag, Scheidung oder Tod. Die Beschränkung erfasst Haushaltsgegenstände im Alleineigentum ebenso wie im Miteigentum."
+ },
+ {
+  "id": "fami2-032",
+  "kapitel": "familienrecht",
+  "abschnitt": "Scheidung, Unterhalt und Partnerschaften",
+  "seite": "Ehebedingte Zuwendung: Einordnung und Abgrenzung zur Schenkung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/ehebedingte-zuwendung-einordnung-und-abgrenzung-zur-schenkung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 516 BGB"
+  ],
+  "frage": "Warum ordnet der BGH objektiv unentgeltliche Zuwendungen unter Ehegatten in der Regel nicht als Schenkung ein?",
+  "optionen": [
+   "Weil Schenkungen unter Ehegatten gesetzlich verboten sind",
+   "Weil es an der Einigung über die Unentgeltlichkeit fehlt; die Zuwendung dient der Ausgestaltung der Lebensgemeinschaft",
+   "Weil der Zuwendungsgegenstand kraft Gesetzes in das Gesamtgut fällt",
+   "Weil Ehegattenzuwendungen stets als Ausstattung gelten"
+  ],
+  "antwort": 1,
+  "erklaerung": "Ehegatten einigen sich regelmäßig nicht darüber, dass die Leistung unentgeltlich sein soll; die Zuwendung dient dem Aufbau, der Ausgestaltung und dem Fortbestand der Lebensgemeinschaft. Ohne Einigung über die Unentgeltlichkeit fehlt das subjektive Merkmal der Schenkung. Der BGH qualifiziert die unbenannte Zuwendung als familienrechtlichen Vertrag sui generis; echte Schenkungen unter Ehegatten bleiben möglich und sind nicht verboten."
+ },
+ {
+  "id": "fami2-033",
+  "kapitel": "familienrecht",
+  "abschnitt": "Scheidung, Unterhalt und Partnerschaften",
+  "seite": "Ehebedingte Zuwendung: Einordnung und Abgrenzung zur Schenkung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/ehebedingte-zuwendung-einordnung-und-abgrenzung-zur-schenkung",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2325 BGB",
+   "§ 134 InsO",
+   "§§ 528, 530 BGB"
+  ],
+  "frage": "Ordne die Rechtsgebiete der Behandlung der ehebedingten Zuwendung zu.",
+  "paare": [
+   [
+    "Rückforderung wegen Verarmung oder groben Undanks (§§ 528, 530 BGB)",
+    "Nach noch h. M. nicht analog anwendbar"
+   ],
+   [
+    "Pflichtteilsergänzung (§ 2325 BGB) und § 2287 BGB",
+    "Steht einer Schenkung gleich (Ausnahme: angemessene Altersversorgung, Vergütung langjähriger Dienste)"
+   ],
+   [
+    "Gläubiger- und Insolvenzanfechtung (§ 4 AnfG, § 134 InsO)",
+    "Unentgeltlich, sogar wenn die Zuwendung eine Zugewinnausgleichsforderung abdecken soll"
+   ],
+   [
+    "Scheitern der Ehe",
+    "Wegfall der Geschäftsgrundlage, Prüfung nach § 313 BGB"
+   ]
+  ],
+  "erklaerung": "Die Abgrenzung zur Schenkung ist vor allem für die §§ 528, 530 BGB relevant, die nach noch h. M. nicht analog gelten. Im Erbrecht (§§ 2325, 2287 BGB; BGHZ 116, 167) und im Anfechtungsrecht steht die ehebedingte Zuwendung dagegen einer Schenkung gleich, weil § 4 AnfG und § 134 InsO weder eine Einigung über die Unentgeltlichkeit noch eine Bereicherung des Empfängers verlangen. Das Fortbestehen der Ehe ist Geschäftsgrundlage, deren Wegfall über § 313 BGB zu prüfen ist."
+ },
+ {
+  "id": "fami2-034",
+  "kapitel": "familienrecht",
+  "abschnitt": "Scheidung, Unterhalt und Partnerschaften",
+  "seite": "Ehebedingte Zuwendung: Einordnung und Abgrenzung zur Schenkung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/ehebedingte-zuwendung-einordnung-und-abgrenzung-zur-schenkung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 740 BGB"
+  ],
+  "frage": "Welcher Sachverhalt stellt nach der Seite in der Regel keine ehebedingte Zuwendung dar?",
+  "optionen": [
+   "Ehemann bringt beim Erwerb des Familienheims das gesamte Eigenkapital auf, Eigentum wird hälftig eingetragen",
+   "Ehefrau arbeitet jahrelang unentgeltlich im Betrieb des Ehemanns mit",
+   "Ehemann räumt der Ehefrau ein Bezugsrecht aus seiner Lebensversicherung ein",
+   "Ehefrau zahlt regelmäßig über ihren hälftigen Anteil hinaus auf das Konto des Ehemanns ein"
+  ],
+  "antwort": 1,
+  "erklaerung": "Mitarbeit im Haus oder Unternehmen des anderen Ehegatten ist in der Regel keine ehebedingte Zuwendung, weil das Vermögen des Mitarbeitenden nicht gemindert wird; Ausgleichsansprüche können sich aus einer Ehegatteninnengesellschaft oder einem Kooperationsvertrag ergeben. Eigenkapital für das Familienheim, Bezugsrechte aus Lebensversicherungen und Kontozahlungen über den hälftigen Anteil hinaus sind dagegen typische Fallgruppen. Nur wenn der Ehegatte wegen der Mitarbeit auf eigenes Einkommen verzichtet, kann eine Zuwendung vorliegen."
+ },
+ {
+  "id": "fami2-035",
+  "kapitel": "familienrecht",
+  "abschnitt": "Scheidung, Unterhalt und Partnerschaften",
+  "seite": "Ehebedingte Zuwendung: Einordnung und Abgrenzung zur Schenkung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/ehebedingte-zuwendung-einordnung-und-abgrenzung-zur-schenkung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 516 BGB",
+   "§ 313 BGB"
+  ],
+  "frage": "Bezeichnet der Notar eine Grundstücksübertragung unter Ehegatten in der Urkunde als Schenkung, liegt in der Regel eine Schenkung vor; eine Rückforderung bei Scheitern der Ehe scheidet dann regelmäßig aus.",
+  "antwort": true,
+  "erklaerung": "Einigen sich die Ehegatten wirklich über die Unentgeltlichkeit, liegt eine echte Schenkung vor; die notarielle Bezeichnung als Schenkung indiziert das. Die Ehe bildet dann keine Geschäftsgrundlage, sodass Rückforderung oder Ausgleich bei Scheitern der Ehe in der Regel ausscheiden. Deshalb ist in der Urkunde eindeutig festzulegen, ob Schenkung oder ehebedingte Zuwendung gewollt ist."
+ },
+ {
+  "id": "fami2-036",
+  "kapitel": "familienrecht",
+  "abschnitt": "Scheidung, Unterhalt und Partnerschaften",
+  "seite": "Ehebedingte Zuwendung: Rückabwicklung nach Güterstand",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/ehebedingte-zuwendung-ruckabwicklung-nach-guterstand",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 313 BGB"
+  ],
+  "frage": "Unter welcher Voraussetzung besteht im gesetzlichen Güterstand neben dem Zugewinnausgleich ein Anspruch aus § 313 BGB auf Rückübertragung oder Ausgleich einer ehebedingten Zuwendung?",
+  "optionen": [
+   "Immer, wenn die Ehe gescheitert ist, weil damit die Geschäftsgrundlage entfällt",
+   "Wenn der Zuwendungsempfänger die Trennung verschuldet hat",
+   "Nur, wenn der Zugewinnausgleich für den Zuwendenden ein schlechthin untragbares Ergebnis liefert",
+   "Wenn der Zuwendende über den Zugewinnausgleich weniger als die Hälfte des Werts zurückerhält"
+  ],
+  "antwort": 2,
+  "erklaerung": "In der Zugewinngemeinschaft hat das Güterrecht Vorrang; der Zugewinnausgleich führt in der Regel zu einem angemessenen Ergebnis. § 313 BGB greift nur, wenn das Ergebnis für den Zuwendenden schlechthin untragbar ist; der Maßstab ist besonders streng. Nach dem BGH ist selbst ein Ausgleich unter der Hälfte des Werts nicht schlechthin untragbar; Eheverfehlungen und Trennungsverschulden spielen keine Rolle."
+ },
+ {
+  "id": "fami2-037",
+  "kapitel": "familienrecht",
+  "abschnitt": "Scheidung, Unterhalt und Partnerschaften",
+  "seite": "Ehebedingte Zuwendung: Rückabwicklung nach Güterstand",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/ehebedingte-zuwendung-ruckabwicklung-nach-guterstand",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 313 BGB",
+   "§ 287 ZPO"
+  ],
+  "frage": "In welchem Fall kommt eine dingliche Rückgewähr des zugewendeten Grundstücks (statt Geldausgleich) in Betracht?",
+  "optionen": [
+   "Wenn der Zuwendende das Grundstück aus seinem Anfangsvermögen zugewendet hat",
+   "Wenn das Grundstück für das Unternehmen des Zuwendenden eingerichtet ist und ein besonderes schützenswertes Interesse am Gegenstand besteht",
+   "Wenn die Ehe kürzer als drei Jahre gedauert hat",
+   "Wenn der Empfänger keine eigenen Investitionen in das Grundstück getätigt hat"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Rückgabe des Gegenstands selbst ist die Ausnahme und setzt ein besonderes, schützenswertes Interesse des Zuwendenden voraus; es müsste unerträglich erscheinen, dass der Empfänger das Eigentum gegen angemessenen Ausgleich behält (BGHZ 115, 132). Beispiele sind die behindertengerecht ausgebaute Wohnung, das für das Unternehmen eingerichtete Grundstück oder das Interesse am Verbleib in der Familie. Die Herkunft aus dem Anfangsvermögen berechtigt für sich nicht zur Rückforderung; auch die Rückübertragung erfolgt nur gegen angemessenen, nach § 287 ZPO geschätzten Ausgleich."
+ },
+ {
+  "id": "fami2-038",
+  "kapitel": "familienrecht",
+  "abschnitt": "Scheidung, Unterhalt und Partnerschaften",
+  "seite": "Ehebedingte Zuwendung: Rückabwicklung nach Güterstand",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/ehebedingte-zuwendung-ruckabwicklung-nach-guterstand",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 313 BGB",
+   "§ 1414 BGB"
+  ],
+  "frage": "Bei Gütertrennung ist § 313 BGB unbeschränkt anwendbar, weil ein güterrechtlicher Ausgleich der Zuwendung fehlt.",
+  "antwort": false,
+  "erklaerung": "Zwar fehlt bei Gütertrennung der güterrechtliche Ausgleich, § 313 BGB ist aber gerade nicht unbeschränkt anwendbar. Nach dem BGH gehört es auch bei Gütertrennung zum Wesen der Ehe, dass beide Ehegatten am gemeinsam Erwirtschafteten teilhaben; der Maßstab ist streng, nur etwas milder als bei der Zugewinngemeinschaft, und eine Korrektur bleibt auf Ausnahmefälle beschränkt. Ein Ausgleich scheidet etwa aus, wenn die Zuwendung eine angemessene Beteiligung am gemeinsam Erarbeiteten darstellt."
+ },
+ {
+  "id": "fami2-039",
+  "kapitel": "familienrecht",
+  "abschnitt": "Scheidung, Unterhalt und Partnerschaften",
+  "seite": "Ehebedingte Zuwendung: Rückabwicklung nach Güterstand",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/ehebedingte-zuwendung-ruckabwicklung-nach-guterstand",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 313 BGB",
+   "§ 1380 BGB"
+  ],
+  "frage": "Ehegatten in Zugewinngemeinschaft möchten im Ehevertrag verhindern, dass bei Scheidung neben dem Zugewinnausgleich noch Ausgleichsansprüche wegen früherer Zuwendungen geltend gemacht werden. Welche Regelung ist sachgerecht?",
+  "optionen": [
+   "Vereinbarung von Gütertrennung, weil dort § 313 BGB nicht gilt",
+   "Regelung, dass Rückforderungs- oder Ausgleichsansprüche wegen Zuwendungen nur bei ausdrücklichem Vorbehalt bestehen",
+   "Ausschluss der Anrechnung nach § 1380 BGB",
+   "Regelung, dass Zuwendungen stets als Schenkungen gelten und nach §§ 528, 530 BGB zurückgefordert werden können"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Seite empfiehlt, schon im Ehevertrag zu regeln, dass Rückforderungs- oder Ausgleichsansprüche wegen Zuwendungen nur bei ausdrücklichem Vorbehalt bestehen; eine „zweite Spur“ neben dem Güterrecht gibt es dann nur kraft Vorbehalts. Gütertrennung schließt § 313 BGB nicht aus, sondern eröffnet ihn mit etwas milderem Maßstab. Der Ausschluss der Anrechnung nach § 1380 BGB betrifft nur die Berechnung des Zugewinns, nicht die zweite Spur; die Schenkungsfiktion würde die Rückforderungsmöglichkeiten erweitern statt beschränken."
+ },
+ {
+  "id": "fami2-040",
+  "kapitel": "familienrecht",
+  "abschnitt": "Scheidung, Unterhalt und Partnerschaften",
+  "seite": "Ehegattenunterhalt: nachehelicher Unterhalt und Betreuungsunterhalt",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/ehegattenunterhalt-nachehelicher-unterhalt-und-betreuungsunterhalt",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1570 Abs. 1 BGB"
+  ],
+  "frage": "Wie lange besteht der Betreuungsunterhalt nach § 1570 Abs. 1 S. 1 BGB ohne weitere Billigkeitsprüfung?",
+  "optionen": [
+   "Bis zur Einschulung des Kindes",
+   "In den ersten drei Lebensjahren des gemeinsamen Kindes",
+   "In den ersten acht Lebensjahren des gemeinsamen Kindes",
+   "Bis zur Volljährigkeit des gemeinsamen Kindes"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 1570 Abs. 1 S. 1 BGB besteht der Betreuungsunterhalt in den ersten drei Lebensjahren des Kindes. Danach besteht er nur fort, wenn und soweit es die Billigkeit verlangt, wobei kindbezogene (Abs. 1 S. 2 und 3) und elternbezogene Gründe (Abs. 2) maßgeblich sind. Ein abrupter Wechsel in Vollzeit ist regelmäßig nicht verlangt, ein gestufter Übergang möglich."
+ },
+ {
+  "id": "fami2-041",
+  "kapitel": "familienrecht",
+  "abschnitt": "Scheidung, Unterhalt und Partnerschaften",
+  "seite": "Ehegattenunterhalt: nachehelicher Unterhalt und Betreuungsunterhalt",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/ehegattenunterhalt-nachehelicher-unterhalt-und-betreuungsunterhalt",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1569 BGB",
+   "§§ 1570–1576 BGB"
+  ],
+  "frage": "Welche Aussage zur Struktur des nachehelichen Unterhalts trifft zu?",
+  "optionen": [
+   "Der nacheheliche Unterhalt beruht auf einer Generalklausel, die jede Bedürftigkeit nach der Scheidung erfasst",
+   "Neben Bedarf und Bedürftigkeit ist ein Unterhaltstatbestand der §§ 1570–1576 BGB erforderlich; die Tatbestände sind abschließend",
+   "Die Leistungsfähigkeit des Pflichtigen ist anspruchsbegründende Voraussetzung, die der Berechtigte beweisen muss",
+   "Ein Einsatzzeitpunkt ist bei allen Unterhaltstatbeständen ohne Ausnahme erforderlich"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der nacheheliche Unterhalt verlangt neben Bedarf, Bedürftigkeit und familienrechtlichem Grundverhältnis einen der abschließend geregelten Unterhaltstatbestände der §§ 1570–1576 BGB; eine Generalklausel wie in vielen ausländischen Rechten fehlt. Die Leistungsfähigkeit ist eine Einwendung. Der Tatbestand muss grundsätzlich zu einem Einsatzzeitpunkt vorliegen, Ausnahmen gelten für §§ 1570 und 1576 BGB."
+ },
+ {
+  "id": "fami2-042",
+  "kapitel": "familienrecht",
+  "abschnitt": "Scheidung, Unterhalt und Partnerschaften",
+  "seite": "Ehegattenunterhalt: nachehelicher Unterhalt und Betreuungsunterhalt",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/ehegattenunterhalt-nachehelicher-unterhalt-und-betreuungsunterhalt",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1570 BGB",
+   "§ 1576 BGB"
+  ],
+  "frage": "Die Betreuung eines gemeinschaftlichen Pflegekindes begründet einen Anspruch auf Betreuungsunterhalt nach § 1570 BGB.",
+  "antwort": false,
+  "erklaerung": "§ 1570 BGB setzt die Betreuung eines gemeinsamen Kindes voraus; ein gemeinschaftliches Pflegekind genügt nicht (BGH FamRZ 1984, 361). Bei Betreuung eines Pflegekindes oder eines Kindes nur eines Ehegatten kommt im Einzelfall nur der Billigkeitstatbestand des § 1576 BGB in Betracht. Dagegen kann der Anspruch aus § 1570 BGB fortbestehen, wenn ein volljähriges Kind etwa wegen Behinderung weiter gepflegt werden muss."
+ },
+ {
+  "id": "fami2-043",
+  "kapitel": "familienrecht",
+  "abschnitt": "Scheidung, Unterhalt und Partnerschaften",
+  "seite": "Ehegattenunterhalt: nachehelicher Unterhalt und Betreuungsunterhalt",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/ehegattenunterhalt-nachehelicher-unterhalt-und-betreuungsunterhalt",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1578 BGB"
+  ],
+  "frage": "F war während der Ehe haushaltsführend und nimmt nach der Scheidung eine Erwerbstätigkeit auf. Wie wird ihr Einkommen bei der Bedarfsbemessung nach den ehelichen Lebensverhältnissen behandelt?",
+  "optionen": [
+   "Es bleibt außer Betracht, weil es die ehelichen Lebensverhältnisse nicht geprägt hat (Anrechnungsmethode)",
+   "Es prägt als Surrogat der früheren Familienarbeit die ehelichen Lebensverhältnisse",
+   "Es wird nur zur Hälfte berücksichtigt, weil der Halbteilungsgrundsatz gilt",
+   "Es wird nur berücksichtigt, wenn es den Bedarf nach § 1578 BGB übersteigt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach BGH FamRZ 2001, 986 prägt das nach Trennung oder Scheidung erzielte Einkommen des bisher haushaltsführenden Ehegatten als Surrogat der Familienarbeit die ehelichen Lebensverhältnisse; die frühere Anrechnungsmethode ist aufgegeben. Bedarfsprägend sind dabei nur nachhaltig erzielte Einkünfte. Der Halbteilungsgrundsatz betrifft die Verteilung des Gesamteinkommens, nicht die nur hälftige Berücksichtigung eines Einkommens."
+ },
+ {
+  "id": "fami2-044",
+  "kapitel": "familienrecht",
+  "abschnitt": "Scheidung, Unterhalt und Partnerschaften",
+  "seite": "Ehegattenunterhalt: Trennungsunterhalt",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/ehegattenunterhalt-trennungsunterhalt",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1361 Abs. 4 BGB",
+   "§ 1614 BGB"
+  ],
+  "frage": "Die Ehegatten M und F wollen in der Trennungsvereinbarung regeln, dass F auf jeglichen künftigen Trennungsunterhalt verzichtet. Wie ist die Rechtslage?",
+  "optionen": [
+   "Der Verzicht ist wirksam, wenn er notariell beurkundet wird",
+   "Der Verzicht ist unwirksam (§§ 1361 Abs. 4, 1360a, 1614 BGB); nur die Ausgestaltung des Unterhalts ist in Grenzen regelbar",
+   "Der Verzicht ist wirksam, wenn F über eigenes Einkommen verfügt",
+   "Der Verzicht ist nur für die Zeit nach Ablauf des Trennungsjahres wirksam"
+  ],
+  "antwort": 1,
+  "erklaerung": "Auf künftigen Trennungsunterhalt kann nicht verzichtet werden (§§ 1361 Abs. 4, 1360a, 1614 BGB); auch ein pactum de non petendo ist voraussichtlich unwirksam. Zu unterscheiden ist zwischen dem nicht disponiblen Ob und dem regelbaren Wie des Unterhalts; die Rechtsprechung lässt teilweise Abweichungen von höchstens 20 % zu, eine Kürzung um ein Drittel hält das OLG Hamm für unzulässig. Die notarielle Form heilt den Verstoß nicht."
+ },
+ {
+  "id": "fami2-045",
+  "kapitel": "familienrecht",
+  "abschnitt": "Scheidung, Unterhalt und Partnerschaften",
+  "seite": "Ehegattenunterhalt: Trennungsunterhalt",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/ehegattenunterhalt-trennungsunterhalt",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1361 BGB",
+   "§ 767 ZPO"
+  ],
+  "frage": "Was gilt für einen Titel über Trennungsunterhalt nach Rechtskraft der Scheidung?",
+  "optionen": [
+   "Aus ihm kann als Titel über nachehelichen Unterhalt weiter vollstreckt werden",
+   "Aus ihm kann nicht mehr vollstreckt werden; der Schuldner kann sich mit der Vollstreckungsabwehrklage nach § 767 ZPO wehren",
+   "Er bleibt bis zu einer Abänderung nach § 238 FamFG vollstreckbar",
+   "Er wandelt sich kraft Gesetzes in einen Titel über Geschiedenenunterhalt um"
+  ],
+  "antwort": 1,
+  "erklaerung": "Trennungsunterhalt und nachehelicher Unterhalt sind zwei eigenständige Ansprüche; mit Rechtskraft der Scheidung endet der Trennungsunterhalt (OLG Hamm, FamRZ 2005, 366). Aus einem Titel über Trennungsunterhalt kann danach nicht mehr vollstreckt werden, der Schuldner wehrt sich mit § 767 ZPO. Deshalb sind beide Ansprüche getrennt zu regeln und die Vollstreckungsunterwerfung auf beide zu erstrecken."
+ },
+ {
+  "id": "fami2-046",
+  "kapitel": "familienrecht",
+  "abschnitt": "Scheidung, Unterhalt und Partnerschaften",
+  "seite": "Ehegattenunterhalt: Trennungsunterhalt",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/ehegattenunterhalt-trennungsunterhalt",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1361 Abs. 2 BGB",
+   "§ 1565 Abs. 2 BGB"
+  ],
+  "frage": "Im ersten Jahr nach der Trennung muss sich der bisher haushaltsführende Ehegatte in der Regel nicht auf eine eigene Erwerbstätigkeit verweisen lassen; nach dem Trennungsjahr nähern sich die Anforderungen gleitend denen des nachehelichen Unterhalts an.",
+  "antwort": true,
+  "erklaerung": "Im Trennungsjahr soll die Stellung des haushaltsführenden Ehegatten nicht angetastet werden, um eine Versöhnung zu ermöglichen; der Trennungsunterhalt steht ihm als Vertrauensschutz aus ehelicher Solidarität zu, außer etwa bei kurzer Ehedauer. Nach Ablauf eines Jahres gelten im Grundsatz dieselben Anforderungen wie nach §§ 1569 ff. BGB, weil § 1565 Abs. 2 BGB von einer Scheidung nach dem Trennungsjahr ausgeht; der Übergang ist gleitend, nicht stichtagsgenau. § 1361 Abs. 2 BGB ist dabei eng auszulegen."
  }
 ]

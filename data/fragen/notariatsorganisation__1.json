@@ -1,0 +1,432 @@
+[
+ {
+  "id": "orga1-001",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Akten und Verzeichnisse: Aufbewahrungsfristen",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/akten-und-verzeichnisse-aufbewahrungsfristen",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 50 Abs. 1 NotAktVV"
+  ],
+  "frage": "Wie lange sind Dokumente in der elektronischen Urkundensammlung nach § 50 Abs. 1 NotAktVV aufzubewahren?",
+  "optionen": [
+   "7 Jahre",
+   "30 Jahre",
+   "50 Jahre",
+   "100 Jahre"
+  ],
+  "antwort": 3,
+  "erklaerung": "Für die elektronische Urkundensammlung gilt nach § 50 Abs. 1 NotAktVV eine Frist von 100 Jahren, ebenso für UVZ-Eintragungen, Erbvertrags- und Sondersammlung. Die 30-Jahres-Frist gilt nur für die Urkundensammlung in Papierform und das VVZ; sie auf die elektronische Sammlung zu übertragen, ist der typische Fehler."
+ },
+ {
+  "id": "orga1-002",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Akten und Verzeichnisse: Aufbewahrungsfristen",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/akten-und-verzeichnisse-aufbewahrungsfristen",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 50 Abs. 1 NotAktVV"
+  ],
+  "frage": "Ordne den Unterlagen die Aufbewahrungsfrist nach § 50 Abs. 1 NotAktVV zu (Unterlagen ab 01.01.2022).",
+  "paare": [
+   [
+    "Eintragungen im Urkundenverzeichnis",
+    "100 Jahre"
+   ],
+   [
+    "Eintragungen im Verwahrungsverzeichnis",
+    "30 Jahre"
+   ],
+   [
+    "Dokumente in der Nebenakte",
+    "7 Jahre"
+   ],
+   [
+    "Dokumente in der Urkundensammlung in Papierform",
+    "30 Jahre (Papierform)"
+   ]
+  ],
+  "erklaerung": "UVZ-Eintragungen, Erbvertragssammlung, elektronische Urkundensammlung und Sondersammlung sind 100 Jahre aufzubewahren; VVZ-Eintragungen und die Papier-Urkundensammlung 30 Jahre; Nebenakten 7 Jahre (§ 50 Abs. 1 NotAktVV). Die elektronische Urkundensammlung ist gerade nicht auf 30 Jahre beschränkt."
+ },
+ {
+  "id": "orga1-003",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Akten und Verzeichnisse: Aufbewahrungsfristen",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/akten-und-verzeichnisse-aufbewahrungsfristen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 50 Abs. 2 Nr. 4 NotAktVV"
+  ],
+  "frage": "Wann beginnt die Aufbewahrungsfrist einer Nebenakte zu laufen?",
+  "optionen": [
+   "Mit dem Kalenderjahr nach der letzten Bearbeitung der Akte",
+   "Mit dem Kalenderjahr nach dem Abschluss des Amtsgeschäfts, zu dem die Akte geführt wurde",
+   "Mit dem Kalenderjahr nach der Beurkundung",
+   "Mit dem Tag der Anlage der Nebenakte"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 50 Abs. 2 Nr. 4 NotAktVV beginnt die Frist mit dem Kalenderjahr, das auf den Abschluss des Amtsgeschäfts folgt. Die letzte Bearbeitung ist gerade nicht maßgeblich; das ist der typische Fehler. Bei Verwahrungen ist das Amtsgeschäft erst mit Vollzug und Abrechnung der Verwahrungsmasse abgeschlossen."
+ },
+ {
+  "id": "orga1-004",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Akten und Verzeichnisse: Aufbewahrungsfristen",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/akten-und-verzeichnisse-aufbewahrungsfristen",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 50 Abs. 1 NotAktVV",
+   "§ 50 Abs. 2 NotAktVV"
+  ],
+  "frage": "Die 30-jährige Aufbewahrungsfrist des Verwahrungsverzeichnisses erstreckt sich auch auf die Nebenakte zu derselben Verwahrung.",
+  "antwort": false,
+  "erklaerung": "Die 30-Jahres-Frist nach § 50 Abs. 1 NotAktVV betrifft nur die Eintragungen im VVZ. Für die Nebenakte zur selben Verwahrung gilt die kürzere Nebenaktenfrist von 7 Jahren; beide Fristen laufen getrennt nebeneinander. Nur der Fristbeginn ist jeweils an den Abschluss der Verwahrung geknüpft."
+ },
+ {
+  "id": "orga1-005",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Akten und Verzeichnisse: Aufbewahrungsfristen",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/akten-und-verzeichnisse-aufbewahrungsfristen",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 50 Abs. 2 Nr. 4 NotAktVV",
+   "§ 52 NotAktVV",
+   "§ 50 Abs. 1 NotAktVV"
+  ],
+  "frage": "Sammelakte mit offener Verwahrung",
+  "sachverhalt": "Notar N führt für drei Grundstücksgeschäfte der A-GmbH eine gemeinsame Nebenakte. Zwei Geschäfte wurden 2022 vollständig abgewickelt. Zum dritten Geschäft hat N eine Treuhandverwahrung übernommen, die erst 2026 abgerechnet wird. N möchte die Sammelakte wegen eines laufenden Rechtsstreits außerdem länger als üblich aufbewahren.",
+  "schritte": [
+   {
+    "frage": "Wann beginnt die Aufbewahrungsfrist für den Teil der Sammelakte, der die Treuhandverwahrung betrifft?",
+    "optionen": [
+     "Mit dem Kalenderjahr nach der Beurkundung des dritten Geschäfts",
+     "Mit dem Kalenderjahr nach Übernahme der Verwahrung",
+     "Mit dem Kalenderjahr nach Abschluss der Verwahrung, also nach Vollzug und Abrechnung",
+     "Mit dem Kalenderjahr nach dem Abschluss der beiden anderen Geschäfte"
+    ],
+    "antwort": 2,
+    "erklaerung": "Bei Verwahrungen ist das Amtsgeschäft erst mit vollständigem Vollzug und Abrechnung der Verwahrungsmasse abgeschlossen; die Frist beginnt mit dem folgenden Kalenderjahr (§ 50 Abs. 2 Nr. 4 NotAktVV). Die Beurkundung ist nicht der Abschluss des Amtsgeschäfts."
+   },
+   {
+    "frage": "Darf N die Unterlagen zu den beiden 2022 abgeschlossenen Geschäften vor Ablauf der Frist für die Verwahrung aussondern?",
+    "optionen": [
+     "Nein, die gesamte Sammelakte darf bis zum Ablauf der Frist des zuletzt abgeschlossenen Amtsgeschäfts aufbewahrt bleiben",
+     "Ja, jedes Amtsgeschäft ist zwingend getrennt auszusondern",
+     "Nein, Sammelakten sind stets 30 Jahre aufzubewahren",
+     "Ja, aber nur nach Genehmigung der Aufsichtsbehörde"
+    ],
+    "antwort": 0,
+    "erklaerung": "§ 52 NotAktVV erlaubt, die Sammel-Nebenakte vollständig aufzubewahren, bis die Frist des zuletzt abgeschlossenen Amtsgeschäfts abgelaufen ist. Eine offene Verwahrung verlängert damit die Aufbewahrung der ganzen Sammelakte. Eine feste 30-Jahres-Frist für Sammelakten gibt es nicht."
+   },
+   {
+    "frage": "Wie lange darf N die Aufbewahrung der Nebenakte wegen des Rechtsstreits höchstens verlängern?",
+    "optionen": [
+     "Auf höchstens 10 Jahre",
+     "Auf höchstens 30 Jahre, bei berechtigtem Interesse und mit Dokumentation",
+     "Auf höchstens 100 Jahre wie das UVZ",
+     "Eine Verlängerung ist nicht zulässig"
+    ],
+    "antwort": 1,
+    "erklaerung": "Der Notar kann bei berechtigtem Interesse eine längere Aufbewahrungsfrist für Nebenakten bestimmen, Höchstdauer 30 Jahre; die Verlängerung ist zu dokumentieren und bindet eine nachfolgende Verwahrstelle. Die 100-Jahres-Frist gilt nur für Verzeichnisse und Sammlungen."
+   }
+  ],
+  "erklaerung": "Die Nebenaktenfrist von 7 Jahren beginnt erst nach Abschluss des Amtsgeschäfts, bei Verwahrungen also nach Abrechnung der Masse (§ 50 Abs. 2 Nr. 4 NotAktVV). Eine Sammelakte bleibt nach § 52 NotAktVV bis zum Fristablauf des zuletzt abgeschlossenen Geschäfts erhalten, und der Notar kann die Frist bei berechtigtem Interesse dokumentiert auf höchstens 30 Jahre verlängern."
+ },
+ {
+  "id": "orga1-006",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Akten und Verzeichnisse: Rechtsgrundlagen und Schutzziele",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/akten-und-verzeichnisse-rechtsgrundlagen-und-schutzziele",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 35 Abs. 1 BNotO"
+  ],
+  "frage": "Welche vier Schutzziele muss der Notar nach § 35 Abs. 1 BNotO bei der Führung von Akten und Verzeichnissen gewährleisten?",
+  "optionen": [
+   "Verfügbarkeit, Integrität, Transparenz, Vertraulichkeit",
+   "Verfügbarkeit, Authentizität, Revisionssicherheit, Vertraulichkeit",
+   "Vollständigkeit, Integrität, Nachvollziehbarkeit, Datensparsamkeit",
+   "Verfügbarkeit, Integrität, Belastbarkeit, Vertraulichkeit"
+  ],
+  "antwort": 0,
+  "erklaerung": "§ 35 Abs. 1 BNotO nennt Verfügbarkeit, Integrität, Transparenz und Vertraulichkeit; an diesen vier Zielen richten sich alle technischen und organisatorischen Maßnahmen aus. Begriffe wie Revisionssicherheit oder Belastbarkeit entstammen der IT-Sicherheit bzw. Art. 32 DSGVO, sind aber nicht die gesetzlichen Schutzziele des § 35 BNotO."
+ },
+ {
+  "id": "orga1-007",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Akten und Verzeichnisse: Rechtsgrundlagen und Schutzziele",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/akten-und-verzeichnisse-rechtsgrundlagen-und-schutzziele",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 36 BNotO",
+   "NotAktVV"
+  ],
+  "frage": "Worin unterscheidet sich die NotAktVV ihrer Rechtsnatur nach von der früheren DONot?",
+  "optionen": [
+   "Die NotAktVV ist eine Verwaltungsvorschrift der Bundesnotarkammer, die DONot war ein Bundesgesetz",
+   "Die NotAktVV ist eine Rechtsverordnung des Bundes auf Grundlage des § 36 BNotO, die DONot war eine Verwaltungsvorschrift der Länder",
+   "Beide sind Rechtsverordnungen, die NotAktVV jedoch der Länder",
+   "Die NotAktVV ist eine Satzung der Notarkammern, die DONot war eine Rechtsverordnung des Bundes"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die NotAktVV beruht auf der Ermächtigung in § 36 BNotO, wurde am 29. Oktober 2020 verkündet und gilt als Rechtsverordnung des Bundes bundeseinheitlich. Die DONot war dagegen eine Verwaltungsvorschrift der Länder. Gerade daraus folgt der Gewinn an einheitlichen Standards und Rechtssicherheit."
+ },
+ {
+  "id": "orga1-008",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Akten und Verzeichnisse: Rechtsgrundlagen und Schutzziele",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/akten-und-verzeichnisse-rechtsgrundlagen-und-schutzziele",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 35 BNotO",
+   "NotAktVV"
+  ],
+  "frage": "Urkundenverzeichnis und Verwahrungsverzeichnis werden dezentral in der Kanzleisoftware des jeweiligen Notars geführt; Exporte für die Aufsicht hängen deshalb vom eingesetzten Programm ab.",
+  "antwort": false,
+  "erklaerung": "UVZ und VVZ werden zentral im Elektronischen Urkundenarchiv der Bundesnotarkammer geführt. Das sichert bundeseinheitliche Prüfungen der Eingaben, gleichbleibende Datenqualität und Ausfallsicherheit; Exporte für Aufsicht und Amtswechsel sind normativ vorgegeben und gerade nicht von der Kanzleisoftware abhängig."
+ },
+ {
+  "id": "orga1-009",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Akten und Verzeichnisse: Rechtsgrundlagen und Schutzziele",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/akten-und-verzeichnisse-rechtsgrundlagen-und-schutzziele",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 35 Abs. 1 BNotO"
+  ],
+  "frage": "Ordne den Schutzzielen des § 35 Abs. 1 BNotO ihre Bedeutung zu.",
+  "paare": [
+   [
+    "Verfügbarkeit",
+    "Akten und Verzeichnisse sind jederzeit zugänglich, auch für Aufsicht und berechtigte Anfragen"
+   ],
+   [
+    "Integrität",
+    "Der Inhalt ist vollständig und unverändert"
+   ],
+   [
+    "Transparenz",
+    "Die Amtstätigkeit ist nachvollziehbar und kontrollierbar"
+   ],
+   [
+    "Vertraulichkeit",
+    "Personenbezogene und geschäftliche Daten sind vor unbefugtem Zugriff geschützt"
+   ]
+  ],
+  "erklaerung": "Die Seite definiert die vier Schutzziele des § 35 Abs. 1 BNotO genau so: Verfügbarkeit meint Zugänglichkeit, Integrität Vollständigkeit und Unverändertheit, Transparenz Nachvollziehbarkeit der Amtstätigkeit, Vertraulichkeit Schutz vor unbefugtem Zugriff. Integrität und Transparenz werden leicht verwechselt; Transparenz betrifft die Kontrollierbarkeit der Tätigkeit, nicht den Inhalt der Akte."
+ },
+ {
+  "id": "orga1-010",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Akten und Verzeichnisse: Rechtslage bis 2021 (DONot) und Übergang",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/akten-und-verzeichnisse-rechtslage-bis-2021-donot-und-ubergang",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "DONot"
+  ],
+  "frage": "Welche Aussage zum Massenbuch nach der DONot trifft zu?",
+  "optionen": [
+   "Es wies den Gesamtbestand aller Verwahrungen aus und war wöchentlich zu aktualisieren",
+   "Es wies jede einzelne Verwahrungsmasse mit Eingängen, Ausgängen und Beteiligten aus; jede Buchung war noch am selben Tag einzutragen",
+   "Es erfasste alle auf den Namen des Notars geführten Anderkonten",
+   "Es verzeichnete alle Urkundsgeschäfte mit fortlaufender Nummer"
+  ],
+  "antwort": 1,
+  "erklaerung": "Das Massenbuch wies jede einzelne Verwahrungsmasse mit Ein- und Ausgängen sowie Beteiligten aus; Buchungen waren taggleich einzutragen, und eine bloße EDV-Erfassung genügte nicht. Den Gesamtbestand aller Verwahrungen wies das Verwahrungsbuch aus, die Anderkonten erfasste die Anderkontenliste, die Urkundsgeschäfte die Urkundenrolle."
+ },
+ {
+  "id": "orga1-011",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Akten und Verzeichnisse: Rechtslage bis 2021 (DONot) und Übergang",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/akten-und-verzeichnisse-rechtslage-bis-2021-donot-und-ubergang",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "DONot",
+   "NotAktVV"
+  ],
+  "frage": "Für eine am 15. Mai 2022 errichtete Urkunde gilt hinsichtlich der Urkundensammlung welche Regelung?",
+  "optionen": [
+   "Die Urkunde ist in die elektronische Urkundensammlung nach NotAktVV aufzunehmen, weil die NotAktVV seit 01.01.2022 gilt",
+   "Die Verwahrung richtet sich weiter nach der DONot, weil die elektronische Urkundensammlung erst zum 01.07.2022 in Betrieb ging",
+   "Der Notar hat ein Wahlrecht zwischen DONot und NotAktVV",
+   "Die Urkunde ist in der Sondersammlung nach § 50 NotAktVV zu verwahren"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Inbetriebnahme der elektronischen Urkundensammlung wurde auf den 1. Juli 2022 verschoben; nach einer Anordnung der Bundesnotarkammer galten für Urkunden mit Errichtungsdatum bis 30.06.2022 die alten Regeln der DONot zur Urkundensammlung fort, einschließlich der Vermerkblätter. Dass die NotAktVV im Übrigen seit 2022 gilt, ändert daran nichts."
+ },
+ {
+  "id": "orga1-012",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Akten und Verzeichnisse: Rechtslage bis 2021 (DONot) und Übergang",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/akten-und-verzeichnisse-rechtslage-bis-2021-donot-und-ubergang",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "DONot"
+  ],
+  "frage": "Nach der DONot waren Verwahrungsbuch, Massenbuch und Anderkontenliste regelmäßig 30 Jahre, die Urkundenrolle und die Urkundensammlung dagegen 100 Jahre aufzubewahren.",
+  "antwort": true,
+  "erklaerung": "Die DONot sah für Urkundenrolle, Erbvertragsverzeichnis, Namensverzeichnis zur Urkundenrolle und Urkundensammlung 100 Jahre vor, für Verwahrungsbuch, Massenbuch, Namensverzeichnis zum Massenbuch, Anderkontenliste und Generalakten regelmäßig 30 Jahre. Diese längeren Fristen gelten für Altbestände vor 2022 fort."
+ },
+ {
+  "id": "orga1-013",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Nebenakten: Anlass, Inhalt und Führung in Papierform",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/nebenakten-anlass-inhalt-und-fuhrung-in-papierform",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 40 Abs. 1 NotAktVV"
+  ],
+  "frage": "Wann ist der Notar zur Führung einer Nebenakte verpflichtet?",
+  "optionen": [
+   "Zu jedem Amtsgeschäft ohne Ausnahme",
+   "Nur zu Beurkundungen, nicht zu sonstigen Amtsgeschäften",
+   "Wenn das Amtsgeschäft eine Nebenakte erfordert; im Übrigen kann er eine Nebenakte führen",
+   "Nur auf Verlangen der Aufsichtsbehörde"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 40 Abs. 1 S. 1–2 NotAktVV kann der Notar zu jedem Amtsgeschäft eine Nebenakte führen; Pflicht ist sie, wenn das Amtsgeschäft sie erfordert. Eine ausnahmslose Pflicht für jedes Amtsgeschäft besteht nicht."
+ },
+ {
+  "id": "orga1-014",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Nebenakten: Anlass, Inhalt und Führung in Papierform",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/nebenakten-anlass-inhalt-und-fuhrung-in-papierform",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 40 Abs. 1 S. 3 NotAktVV",
+   "§ 41 Abs. 1 NotAktVV"
+  ],
+  "frage": "Unter welchen Voraussetzungen darf der Notar eine Sammelakte für mehrere Amtsgeschäfte führen, und wo liegt die Grenze?",
+  "optionen": [
+   "Bei sachlichem Grund und gesicherter geordneter Aktenführung; für Verwahrungsgeschäfte ist eine Sammelakte unzulässig",
+   "Nur mit Zustimmung aller Beteiligten; für Verwahrungsgeschäfte ist sie zulässig",
+   "Immer, sofern dieselben Beteiligten betroffen sind; Verwahrungen sind einbezogen",
+   "Nur für Beglaubigungen; für Beurkundungen ist eine Sammelakte unzulässig"
+  ],
+  "antwort": 0,
+  "erklaerung": "§ 40 Abs. 1 S. 3 NotAktVV erlaubt die Sammelakte bei sachlichem Grund und gesicherter geordneter Aktenführung. § 41 Abs. 1 NotAktVV nimmt Verwahrungsgeschäfte aus: Jedes Verwahrungsgeschäft braucht eine eigene Nebenakte. Eine Zustimmung der Beteiligten verlangt die Verordnung nicht."
+ },
+ {
+  "id": "orga1-015",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Nebenakten: Anlass, Inhalt und Führung in Papierform",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/nebenakten-anlass-inhalt-und-fuhrung-in-papierform",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 40 Abs. 2 Nr. 4 NotAktVV"
+  ],
+  "frage": "Gesundheitsdaten eines Testierenden, etwa ein ärztliches Attest zur Testierfähigkeit, dürfen in die Nebenakte aufgenommen werden, soweit dies zur Erfüllung der Amtspflicht erforderlich ist.",
+  "antwort": true,
+  "erklaerung": "§ 40 Abs. 2 Nr. 4 NotAktVV lässt besondere Kategorien personenbezogener Daten in der Nebenakte zu, soweit sie zur Erfüllung der Amtspflicht erforderlich sind; es gelten Erforderlichkeit und Datenminimierung. Ein generelles Verbot besteht ebenso wenig wie eine unbegrenzte Speicherbefugnis."
+ },
+ {
+  "id": "orga1-016",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Nebenakten: Anlass, Inhalt und Führung in Papierform",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/nebenakten-anlass-inhalt-und-fuhrung-in-papierform",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 40 Abs. 2 NotAktVV",
+   "§ 42 NotAktVV"
+  ],
+  "frage": "Welche Unterlage gehört typischerweise nicht in die Nebenakte?",
+  "optionen": [
+   "Die Urschrift der beurkundeten Urkunde",
+   "Entwürfe und Korrespondenz mit Beteiligten, Gerichten und Behörden",
+   "Identifizierungsunterlagen mit Ausweiskopien",
+   "Vermerke über durchgeführte beurkundungsrechtliche Prüfungen"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Nebenakte dokumentiert Vorbereitung, Durchführung und Abwicklung des Amtsgeschäfts (Entwürfe, Korrespondenz, Ausweiskopien, Prüfvermerke, § 40 Abs. 2 NotAktVV) und wird gerade nicht Teil der Urkundensammlung. Die Urschrift gehört in die Urkundensammlung, nicht in die Nebenakte."
+ },
+ {
+  "id": "orga1-017",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Nebenakten: elektronische Führung, Misch- und Parallelführung",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/nebenakten-elektronische-fuhrung-misch-und-parallelfuhrung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 43 Abs. 1 NotAktVV",
+   "§ 43 Abs. 2 NotAktVV"
+  ],
+  "frage": "Welche Voraussetzungen müssen zusammen erfüllt sein, damit eine elektronische Nebenakte der Papierakte rechtlich gleichwertig ist?",
+  "optionen": [
+   "Strukturdatensatz für Akte und jedes Dokument, von der Bundesnotarkammer bekannt gemachte Dateiformate, jederzeitige Exportfähigkeit in das Format der elektronischen Urkundensammlung",
+   "Qualifizierte elektronische Signatur jedes Dokuments, Speicherung im Elektronischen Urkundenarchiv, jährlicher Ausdruck",
+   "Strukturdatensatz nur für die Akte, beliebige Dateiformate, Export nur bei Amtswechsel",
+   "Freigabe des Kanzleisystems durch die Notarkammer, Zwei-Faktor-Zugang, Papierkopie der Stammdaten"
+  ],
+  "antwort": 0,
+  "erklaerung": "§ 43 Abs. 1 NotAktVV verlangt einen Strukturdatensatz für jede elektronische Nebenakte und jedes Dokument sowie die Beachtung der von der Bundesnotarkammer festgelegten Dateiformate; § 43 Abs. 2 verlangt, dass die Akte jederzeit in das Dateiformat der elektronischen Urkundensammlung überführt werden kann. Ausdrucke sind gerade nicht mehr nötig, und der Strukturdatensatz gilt pro Dokument, nicht nur pro Akte."
+ },
+ {
+  "id": "orga1-018",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Nebenakten: elektronische Führung, Misch- und Parallelführung",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/nebenakten-elektronische-fuhrung-misch-und-parallelfuhrung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 44 Abs. 1 NotAktVV",
+   "§ 44 Abs. 2 NotAktVV"
+  ],
+  "frage": "Notar N führt die Nebenakte zum Kaufvertrag teils in Papier (Originalvollmachten) und teils elektronisch (Korrespondenz). Was verlangt § 44 Abs. 2 NotAktVV?",
+  "optionen": [
+   "Die Papierteile sind binnen eines Monats zu digitalisieren und zu vernichten",
+   "Durch geeignete Vorkehrungen sind Transparenz, Vollständigkeit und Verfügbarkeit des gesamten Akteninhalts jederzeit zu wahren, etwa durch wechselseitige Verweise",
+   "Die Mischführung ist unzulässig; N muss sich für eine Form entscheiden",
+   "Die elektronischen Teile sind auszudrucken und zur Papierakte zu nehmen"
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 44 Abs. 2 NotAktVV erlaubt die Mischführung innerhalb einer Akte, verlangt aber Vorkehrungen, die Transparenz, Vollständigkeit und Verfügbarkeit des gesamten Inhalts sichern; beide Teile sind durch Verweise und Zuordnungen zu verbinden. Ein Verbot der Mischführung oder eine Pflicht zum Ausdruck enthält die NotAktVV nicht. § 44 Abs. 1 betrifft dagegen die Parallelführung verschiedener Akten."
+ },
+ {
+  "id": "orga1-019",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Nebenakten: elektronische Führung, Misch- und Parallelführung",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/nebenakten-elektronische-fuhrung-misch-und-parallelfuhrung",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 43 Abs. 2 NotAktVV"
+  ],
+  "frage": "Bei einem Amtswechsel muss der Nachfolger das gesamte IT-System des Vorgängers übernehmen, damit die elektronischen Nebenakten verfügbar bleiben.",
+  "antwort": false,
+  "erklaerung": "Zweck des Strukturdatensatzes und der Exportpflicht nach § 43 Abs. 2 NotAktVV ist gerade, dass die Nebenakte beim Amtswechsel verfügbar ist, ohne dass das ganze IT-System übernommen werden muss. Es genügt, die strukturierten Daten und Dokumente über die vorgegebenen Export- und Importwege zu überführen; Langzeitverfügbarkeit hängt nicht vom Kanzleisystem ab."
+ }
+]

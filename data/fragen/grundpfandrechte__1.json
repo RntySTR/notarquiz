@@ -588,5 +588,279 @@
   ],
   "antwort": 1,
   "erklaerung": "Ob ein abstraktes Schuldversprechen mit Unterwerfung nach § 794 Abs. 1 Nr. 5 ZPO schon bei der Bestellung der Eigentümergrundschuld abgegeben werden kann, ist umstritten. Der Praxishinweis lautet daher, das persönliche Schuldversprechen mit Unterwerfung erst in die Abtretungsurkunde aufzunehmen. Die dingliche Unterwerfung gegenüber dem künftigen Gläubiger ist dagegen schon in der Bestellung möglich."
+ },
+ {
+  "id": "grpf1-027",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundschuld",
+  "seite": "Sicherungsgrundschuld: Rückgewähranspruch und Zahlungen",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/sicherungsgrundschuld-ruckgewahranspruch-und-zahlungen",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 262 BGB",
+   "§§ 1154, 1168, 1183 BGB"
+  ],
+  "frage": "Welche Rechtsnatur hat der Rückgewähranspruch des Sicherungsgebers nach Abwicklung des Kreditverhältnisses?",
+  "optionen": [
+   "Ein dinglicher Anspruch auf Grundbuchberichtigung nach § 894 BGB, weil die Grundschuld mit der Tilgung zur Eigentümergrundschuld wird",
+   "Ein schuldrechtlicher Anspruch aus dem Sicherungsvertrag auf Rückübertragung, Verzicht oder Löschung als Wahlschuld (§ 262 BGB)",
+   "Ein gesetzlicher Löschungsanspruch nach § 1179a BGB, der durch fingierte Vormerkung gesichert ist",
+   "Ein Bereicherungsanspruch nach § 812 BGB, weil der Rechtsgrund für die Grundschuld entfallen ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Rückgewähranspruch folgt aus dem Sicherungsvertrag und ist ein schuldrechtlicher Anspruch auf Abtretung (§§ 1154, 1192 BGB), Verzicht (§§ 1168, 1192 BGB) oder Aufhebung (§§ 1183, 1192, 875 BGB) als Wahlschuld nach § 262 BGB. Eine Grundbuchberichtigung scheidet aus, weil die Grundschuld durch Tilgung der Forderung Fremdgrundschuld bleibt. Nur bei unwirksamer Sicherungsabrede ergeben sich die Rückgewähransprüche aus § 812 BGB."
+ },
+ {
+  "id": "grpf1-028",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundschuld",
+  "seite": "Sicherungsgrundschuld: Rückgewähranspruch und Zahlungen",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/sicherungsgrundschuld-ruckgewahranspruch-und-zahlungen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§§ 1183, 1192 BGB",
+   "§ 875 Abs. 1 BGB",
+   "§ 27 GBO"
+  ],
+  "frage": "Das Darlehen ist vollständig auf die Forderung zurückgezahlt; die Bank erteilt eine Löschungsbewilligung. Was ist für die Löschung der Grundschuld im Grundbuch zusätzlich erforderlich?",
+  "optionen": [
+   "Nichts; die Bewilligung der Bank als Gläubigerin genügt nach § 19 GBO",
+   "Die Zustimmung des Eigentümers, weil die Aufhebung materiell seiner Zustimmung bedarf (§§ 1183, 1192 BGB, § 27 GBO)",
+   "Eine löschungsfähige Quittung des Eigentümers, weil er die Grundschuld durch Zahlung erworben hat",
+   "Die Vorlage des Darlehensvertrags zum Nachweis der Tilgung"
+  ],
+  "antwort": 1,
+  "erklaerung": "Zahlungen auf die Forderung berühren die Grundschuld nicht; sie bleibt Fremdgrundschuld. Für die Löschung sind daher die Löschungsbewilligung der Bank und zusätzlich die Zustimmung des Eigentümers nötig (§§ 1183, 1192 BGB, § 875 Abs. 1 BGB, § 27 GBO). Der typische Fehler besteht darin, nur die Bewilligung der Bank einzureichen. Eine löschungsfähige Quittung passt nur, wenn auf die Grundschuld selbst gezahlt wurde."
+ },
+ {
+  "id": "grpf1-029",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundschuld",
+  "seite": "Sicherungsgrundschuld: Rückgewähranspruch und Zahlungen",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/sicherungsgrundschuld-ruckgewahranspruch-und-zahlungen",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 196 BGB",
+   "§ 202 Abs. 2 BGB"
+  ],
+  "frage": "Rückgewähransprüche aus dem Sicherungsvertrag verjähren in der regelmäßigen Verjährungsfrist von drei Jahren nach § 195 BGB.",
+  "antwort": false,
+  "erklaerung": "Rückgewähransprüche verjähren in zehn Jahren ab Fälligkeit (§ 196 BGB), nicht in der dreijährigen Regelfrist. Weil Grundschulden oft stehen gelassen werden, kann zusätzlich eine Verlängerung der Verjährung nach § 202 Abs. 2 BGB vereinbart werden."
+ },
+ {
+  "id": "grpf1-030",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundschuld",
+  "seite": "Sicherungsgrundschuld: Rückgewähranspruch und Zahlungen",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/sicherungsgrundschuld-ruckgewahranspruch-und-zahlungen",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 366 Abs. 1 BGB",
+   "§ 1143 BGB",
+   "§§ 1142, 1143 BGB analog"
+  ],
+  "frage": "Zahlung des nicht persönlich haftenden Eigentümers",
+  "sachverhalt": "E ist Eigentümerin eines Grundstücks, das mit einer Sicherungsgrundschuld über 150.000 EUR zugunsten der B-Bank belastet ist. Das gesicherte Darlehen hat allein ihr Bruder S aufgenommen; E ist nicht persönliche Schuldnerin. S gerät in Zahlungsverzug, die B-Bank droht E die Zwangsvollstreckung aus der Grundschuld an. E zahlt daraufhin 150.000 EUR an die Bank. Der Sicherungsvertrag enthält eine Abrede, wonach Zahlungen stets zuerst auf die persönliche Forderung verrechnet werden.",
+  "schritte": [
+   {
+    "frage": "Worauf leistet E im Zweifel?",
+    "optionen": [
+     "Auf die Darlehensforderung des S, weil sie nach § 267 BGB als Dritte auf fremde Schuld zahlt",
+     "Auf die Grundschuld, weil ein nicht persönlich haftender Eigentümer im Zweifel sein Grundstück freimachen will",
+     "Je zur Hälfte auf Forderung und Grundschuld, weil § 366 Abs. 2 BGB eine verhältnismäßige Tilgung anordnet",
+     "Auf das abstrakte Schuldversprechen, weil dieses die Grundschuldansprüche abbildet"
+    ],
+    "antwort": 1,
+    "erklaerung": "Ein Eigentümer, der nicht persönlicher Schuldner ist, will im Zweifel die Grundschuld ablösen, um sein Grundstück freizumachen, und zahlt daher auf die Grundschuld."
+   },
+   {
+    "frage": "Welche Bedeutung hat die Verrechnungsabrede zugunsten der persönlichen Forderung nach der Vollstreckungsandrohung?",
+    "optionen": [
+     "Sie bindet E weiterhin, weil der Sicherungsvertrag Vorrang vor der Tilgungsbestimmung hat",
+     "Sie bindet E nicht mehr, weil der Gläubiger die Vollstreckung aus der Grundschuld angedroht hat",
+     "Sie ist von Anfang an nach § 307 BGB unwirksam",
+     "Sie gilt nur, wenn E sie in der Form des § 29 GBO bestätigt hat"
+    ],
+    "antwort": 1,
+    "erklaerung": "Hat der Gläubiger die Vollstreckung aus der Grundschuld angedroht oder eingeleitet, bindet den nicht persönlich haftenden Eigentümer eine abweichende Verrechnungsabrede zugunsten der persönlichen Forderung nicht mehr."
+   },
+   {
+    "frage": "Welche Rechtsfolge tritt hinsichtlich Grundschuld und Darlehensforderung ein?",
+    "optionen": [
+     "Grundschuld und Forderung erlöschen vollständig durch Erfüllung",
+     "E erwirbt die Grundschuld analog § 1143 BGB; die Forderung gegen S besteht fort, darf von der Bank aber nicht mehr geltend gemacht werden und ist bei Rückgriff an E abzutreten",
+     "Die Grundschuld bleibt Fremdgrundschuld der Bank; E erhält nur einen Rückgewähranspruch",
+     "E erwirbt die Darlehensforderung nach § 268 Abs. 3 BGB, die Grundschuld bleibt bei der Bank"
+    ],
+    "antwort": 1,
+    "erklaerung": "Wird die Grundschuld vollständig bezahlt, erwirbt sie der Eigentümer als Eigentümergrundschuld (§§ 1142, 1143 BGB analog). Die persönliche Forderung gegen den Schuldner besteht fort, darf vom Gläubiger aber nicht mehr geltend gemacht werden; hat der Eigentümer Rückgriff gegen den Schuldner, ist sie an ihn abzutreten."
+   }
+  ],
+  "erklaerung": "Der nicht persönlich haftende Eigentümer zahlt im Zweifel auf die Grundschuld; nach Vollstreckungsandrohung bindet ihn eine abweichende Verrechnungsabrede nicht mehr. Mit voller Zahlung auf die Grundschuld erwirbt er sie analog §§ 1142, 1143 BGB als Eigentümergrundschuld, während die fortbestehende Forderung gegen den Schuldner bei Rückgriff an ihn abzutreten ist."
+ },
+ {
+  "id": "grpf1-031",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundschuld",
+  "seite": "Sicherungsgrundschuld: Rückgewähranspruch und Zahlungen",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/sicherungsgrundschuld-ruckgewahranspruch-und-zahlungen",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 91 ZVG"
+  ],
+  "frage": "Ein nachrangiger Gläubiger hat sich den Rückgewähranspruch gegen die vorrangige, nur teilweise valutierte Grundschuld abtreten lassen. Die Grundschuld erlischt in der Zwangsversteigerung durch Zuschlag. Wie gelangt der nachrangige Gläubiger an den nicht valutierten Erlösanteil?",
+  "optionen": [
+   "Das Versteigerungsgericht teilt ihm den nicht valutierten Teil von Amts wegen zu, weil er Inhaber des Rückgewähranspruchs ist",
+   "Der Erlös wird dem Grundschuldgläubiger in voller Nennbetragshöhe zugeteilt; der nachrangige Gläubiger kann schuldrechtlich Herausgabe des Übererlöses verlangen und erhält ihn nur dann direkt vom Gericht, wenn ihm der Anspruch auf den nicht valutierten Erlösanteil vor dem Verteilungstermin abgetreten wurde",
+   "Er muss Widerspruch gegen den Teilungsplan erheben und den Betrag im Klagewege nach § 115 ZVG erstreiten",
+   "Der nicht valutierte Teil fällt an den Eigentümer, gegen den der nachrangige Gläubiger vollstrecken muss"
+  ],
+  "antwort": 1,
+  "erklaerung": "Erlischt die Grundschuld durch Zuschlag, tritt der Erlös an die Stelle des Grundstücks und wird grundsätzlich dem Grundschuldgläubiger in Höhe des vollen Nennbetrags zugeteilt. Der Inhaber des Rückgewähranspruchs kann vom Gläubiger schuldrechtlich die Herausgabe des Übererlöses verlangen; unmittelbar vom Versteigerungsgericht erhält er den Betrag nur, wenn der Gläubiger ihm vor dem Verteilungstermin den Anspruch auf den nicht valutierten Erlösanteil abgetreten hat. Eine Zuteilung von Amts wegen findet nicht statt."
+ },
+ {
+  "id": "grpf1-032",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundschuld",
+  "seite": "Sicherungsgrundschuld: Sicherungsvertrag und Einreden",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/sicherungsgrundschuld-sicherungsvertrag-und-einreden",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1192 Abs. 1a BGB"
+  ],
+  "frage": "Was kennzeichnet eine Sicherungsgrundschuld im Sinne des § 1192 Abs. 1a BGB?",
+  "optionen": [
+   "Eine Eigentümergrundschuld, die der Eigentümer zur späteren Abtretung an einen Geldgeber bestellt",
+   "Eine Fremdgrundschuld, bei der ein Vertrag zwischen Eigentümer und Gläubiger festlegt, dass sie einen schuldrechtlichen Anspruch des Gläubigers gegen den Eigentümer oder einen Dritten sichert",
+   "Eine Grundschuld, deren Sicherungszweck im Grundbuch eingetragen ist und die deshalb akzessorisch wird",
+   "Eine Hypothek, die ein abstraktes Schuldversprechen nach §§ 780, 781 BGB sichert"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Sicherungsgrundschuld ist eine Fremdgrundschuld, die aufgrund eines Vertrags zwischen Eigentümer und Gläubiger einen schuldrechtlichen Anspruch des Gläubigers gegen den Eigentümer oder einen Dritten absichert (§ 1192 Abs. 1a BGB). Der Sicherungszweck wird gerade nicht eingetragen und macht die Grundschuld nicht akzessorisch; sie bleibt forderungsunabhängig."
+ },
+ {
+  "id": "grpf1-033",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundschuld",
+  "seite": "Sicherungsgrundschuld: Sicherungsvertrag und Einreden",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/sicherungsgrundschuld-sicherungsvertrag-und-einreden",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1192 Abs. 1a S. 1 BGB",
+   "§§ 1192 Abs. 1, 1157 BGB",
+   "§§ 19, 29 GBO"
+  ],
+  "frage": "Welche Aussage zur Eintragungsfähigkeit von Abreden bei der Sicherungsgrundschuld trifft zu?",
+  "optionen": [
+   "Der Sicherungszweck ist in der Bewilligung anzugeben, damit der Eigentümer Einreden aus dem Sicherungsvertrag auch Erwerbern entgegenhalten kann",
+   "Abreden aus dem Sicherungsvertrag sind nicht eintragungsfähig; Einreden daraus wirken gleichwohl gegen jeden Erwerber (§ 1192 Abs. 1a S. 1 BGB), während ein Abtretungsverbot als die Grundschuld selbst betreffende Einrede eintragbar ist",
+   "Weder der Sicherungszweck noch ein Abtretungsverbot sind eintragbar, weil die Grundschuld abstrakt ist",
+   "Der Sicherungszweck ist eintragbar, ein Abtretungsverbot dagegen nicht, weil § 1157 BGB nur für Hypotheken gilt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Wegen der Abstraktheit der Grundschuld darf der Sicherungszweck weder in der Bewilligung noch im Grundbuch erscheinen; das ist ein typischer Fehler. Dennoch kann der Eigentümer Einreden aus dem Sicherungsvertrag jedem Erwerber entgegenhalten, ein gutgläubig einredefreier Erwerb ist ausgeschlossen (§ 1192 Abs. 1a S. 1 BGB). Eintragungsfähig sind nur Einreden, die die Grundschuld selbst betreffen, etwa ein Abtretungsverbot (§§ 1192 Abs. 1, 1157 BGB)."
+ },
+ {
+  "id": "grpf1-034",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundschuld",
+  "seite": "Sicherungsgrundschuld: Sicherungsvertrag und Einreden",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/sicherungsgrundschuld-sicherungsvertrag-und-einreden",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 280 BGB"
+  ],
+  "frage": "Im Außenverhältnis steht dem Gläubiger einer Sicherungsgrundschuld die volle Rechtsmacht aus der Grundschuld zu; im Innenverhältnis ist er durch den Sicherungsvertrag treuhänderisch gebunden und bei Verletzung dieser Pflichten nach § 280 BGB schadensersatzpflichtig.",
+  "antwort": true,
+  "erklaerung": "Der Sicherungsvertrag ist Rechtsgrund für Bestellung und Fortbestand der Grundschuld. Im Außenverhältnis hat der Gläubiger die volle Rechtsmacht, im Innenverhältnis ist deren Ausübung auf den Rahmen des Sicherungsvertrags beschränkt; er muss die Interessen des Eigentümers vor allem bei Abtretung und Verwertung wahren. Eine vertragswidrige Trennung von Forderung und Grundschuld kann ebenfalls Schadensersatzansprüche nach § 280 BGB auslösen."
+ },
+ {
+  "id": "grpf1-035",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundschuld",
+  "seite": "Sicherungsgrundschuld: Sicherungsvertrag und Einreden",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/sicherungsgrundschuld-sicherungsvertrag-und-einreden",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 873 Abs. 1 BGB",
+   "§§ 19, 29 GBO",
+   "§ 1117 Abs. 2 BGB"
+  ],
+  "frage": "Welche Voraussetzungen genügen zur Entstehung einer Sicherungsgrundschuld als Buchrecht?",
+  "optionen": [
+   "Dingliche Einigung, Eintragung aufgrund einseitiger Bewilligung des Eigentümers in der Form der §§ 19, 29 GBO und Abschluss eines schriftlichen Sicherungsvertrags",
+   "Dingliche Einigung (§ 873 Abs. 1 BGB) und Eintragung aufgrund einseitiger Bewilligung des Eigentümers in der Form der §§ 19, 29 GBO",
+   "Dingliche Einigung, Eintragung und Valutierung des gesicherten Darlehens",
+   "Beurkundete Bewilligung des Eigentümers, Eintragung und Briefübergabe nach § 1117 Abs. 2 BGB"
+  ],
+  "antwort": 1,
+  "erklaerung": "Zur Entstehung genügen dingliche Einigung (§ 873 Abs. 1 BGB) und Eintragung aufgrund einseitiger Bewilligung des Eigentümers in der Form der §§ 19, 29 GBO; beim Briefrecht kommt die Briefübergabe oder Aushändigungsabrede (§ 1117 Abs. 2 BGB) hinzu. Der Sicherungsvertrag ist formfrei und keine Entstehungsvoraussetzung; eine Valutierung ist wegen der Forderungsunabhängigkeit nicht nötig, die Grundschuld ist schon vor der Valutierung Fremdgrundschuld."
+ },
+ {
+  "id": "grpf1-036",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundschuld",
+  "seite": "Sicherungsgrundschuld: Zweckerklärung, Kaufpreisfinanzierung und dingliche Zinsen",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/sicherungsgrundschuld-zweckerklarung-kaufpreisfinanzierung-und-dingliche-zinsen",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 305c Abs. 1 BGB"
+  ],
+  "frage": "Die Ehefrau F stellt ihr Alleineigentum als Sicherheit für ein bestimmtes Geschäftsdarlehen ihres Mannes M zur Verfügung. Das Bankformular enthält eine weite Zweckerklärung, wonach die Grundschuld alle gegenwärtigen und künftigen Forderungen gegen M sichert. Wie ist die Klausel zu beurteilen?",
+  "optionen": [
+   "Sie ist wirksam, weil die weite Zweckerklärung bei Bankgrundschulden üblich und daher nicht überraschend ist",
+   "Sie kann als überraschende Klausel nach § 305c Abs. 1 BGB unwirksam sein, weil F als Sicherungsgeberin für einen bestimmten Kredit nicht mit der Haftung für alle künftigen Forderungen gegen M rechnen muss; maßgeblich ist der Einzelfall",
+   "Sie ist nach § 1192 Abs. 1a BGB unwirksam, weil Sicherungsabreden nicht eintragungsfähig sind",
+   "Sie ist wirksam, aber die Grundschuld haftet kraft Gesetzes nur für das Darlehen, das bei Bestellung bereits valutiert war"
+  ],
+  "antwort": 1,
+  "erklaerung": "Wer sein Grundstück lediglich als Sicherheit für einen bestimmten Kredit hergibt, muss nach der Rechtsprechung nicht damit rechnen, dass die Grundschuld alle künftigen Forderungen gegen den Kreditnehmer sichert, es sei denn, eine besondere Vereinbarung mit dem Eigentümer sieht dies vor. Eine vorformulierte weite Zweckerklärung kann insoweit nach § 305c Abs. 1 BGB als überraschende Klausel unwirksam sein; es kommt auf den Einzelfall an. Die Üblichkeit weiter Zweckerklärungen bei eigenen Schulden des Eigentümers ändert daran nichts; der Notar sollte die Reichweite bei Drittsicherheiten besonders prüfen."
+ },
+ {
+  "id": "grpf1-037",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundschuld",
+  "seite": "Sicherungsgrundschuld: Zweckerklärung, Kaufpreisfinanzierung und dingliche Zinsen",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/sicherungsgrundschuld-zweckerklarung-kaufpreisfinanzierung-und-dingliche-zinsen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1115 Abs. 1 BGB",
+   "§§ 1118, 1192 BGB"
+  ],
+  "frage": "Welche Aussage zu Grundschuldzinsen und Nebenleistungen trifft zu?",
+  "optionen": [
+   "Ein variabler Zinssatz ist eintragbar, wenn er sich auf einen objektiven Referenzzins bezieht",
+   "Gesetzliche Nebenleistungen müssen eingetragen werden, vertragliche Nebenleistungen sind nicht eintragbar",
+   "Zinssatz und Betrag der vertraglichen Nebenleistung müssen ausdrücklich im Grundbuch stehen; ein variabler Zinssatz ist wegen des Bestimmtheitsgrundsatzes nicht eintragbar, gesetzliche Nebenleistungen sind nicht eintragbar",
+   "Der Grundschuldzins muss dem Darlehenszins entsprechen, damit die Grundschuld nicht übersichert"
+  ],
+  "antwort": 2,
+  "erklaerung": "Zinssatz und Betrag der Nebenleistung müssen ausdrücklich im Grundbuch stehen (§ 1115 Abs. 1 BGB); vertragliche Nebenleistungen sind einzutragen (§§ 1115, 1192 BGB), gesetzliche Nebenleistungen dagegen nicht (§§ 1118, 1192 BGB). Ein variabler Zinssatz ist wegen des Bestimmtheitsgrundsatzes nicht eintragbar, weil nachrangige Gläubiger erkennen müssen, was ihnen vorgeht. Der Grundschuldzins ist ein vom Darlehenszins unabhängiger dinglicher Zins und weicht stets von ihm ab."
+ },
+ {
+  "id": "grpf1-038",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundschuld",
+  "seite": "Sicherungsgrundschuld: Zweckerklärung, Kaufpreisfinanzierung und dingliche Zinsen",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/sicherungsgrundschuld-zweckerklarung-kaufpreisfinanzierung-und-dingliche-zinsen",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1192 Abs. 1a BGB"
+  ],
+  "frage": "Bestellt der Verkäufer vor Eigentumsübergang am Kaufobjekt eine Finanzierungsgrundschuld für den Käufer, ist die Verwertung der Grundschuld bis zur vollständigen Kaufpreiszahlung beschränkt; mit dem Eigentumsübergang ist der Sicherungsvertrag des Verkäufers erledigt.",
+  "antwort": true,
+  "erklaerung": "Der Verkäufer haftet in dieser Konstellation für fremde Schuld, weshalb die Verwertung der Finanzierungsgrundschuld bis zur vollständigen Kaufpreiszahlung beschränkt ist; abgesichert wird das durch einen Urkundszusatz oder eine Bestätigung des Gläubigers. Mit dem Eigentumsübergang gilt nur noch die Zweckvereinbarung zwischen Käufer und Kreditinstitut."
  }
 ]

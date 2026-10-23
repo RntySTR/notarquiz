@@ -1,0 +1,436 @@
+[
+ {
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 21 Abs. 1 BNotO"
+  ],
+  "frage": "Wie dokumentiert der Notar im Grundstückskaufvertrag das Ergebnis seiner Registereinsicht zur Vertretungsbefugnis des für eine GmbH Handelnden?",
+  "optionen": [
+   "Durch eine Vollmachtsbescheinigung nach § 21 Abs. 3 BNotO",
+   "Durch eine Bescheinigung nach § 21 Abs. 1 S. 1 Nr. 1 und Nr. 2 BNotO im Kaufvertrag",
+   "Durch Beifügung einer beglaubigten Abschrift des Gesellschaftsvertrags nach § 12 BeurkG",
+   "Durch einen Vermerk über die Vorlage der Gesellschafterliste"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Notar sieht möglichst am Beurkundungstag in das elektronische Register ein und nimmt das Ergebnis als Bescheinigung nach § 21 Abs. 1 S. 1 Nr. 1 und Nr. 2 BNotO in den Kaufvertrag auf; sie bestätigt Eintragung unter der Registernummer und Vertretungsbefugnis des Erschienenen. Die Vollmachtsbescheinigung nach § 21 Abs. 3 BNotO betrifft rechtsgeschäftliche Vollmachten, nicht die organschaftliche Vertretung aus dem Register.",
+  "id": "kauf2-001",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Vertretung beim Grundstückskauf: Gesellschaften und juristische Personen",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/vertretung-beim-grundstuckskauf-gesellschaften-und-juristische-personen"
+ },
+ {
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 720 BGB",
+   "§ 124 HGB",
+   "§ 35 GmbHG",
+   "§ 78 AktG",
+   "§ 26 BGB"
+  ],
+  "frage": "Ordne die Rechtsform der Norm zu, die ihre Vertretung regelt.",
+  "paare": [
+   [
+    "GbR / eGbR",
+    "§ 720 BGB"
+   ],
+   [
+    "OHG",
+    "§ 124 HGB"
+   ],
+   [
+    "GmbH / UG (haftungsbeschränkt)",
+    "§ 35 GmbHG"
+   ],
+   [
+    "AG",
+    "§ 78 AktG"
+   ],
+   [
+    "Verein",
+    "§ 26 BGB"
+   ]
+  ],
+  "erklaerung": "Die Vertretung der rechtsfähigen GbR regelt § 720 BGB, die der OHG § 124 HGB (KG: § 170 Abs. 1 HGB), die der GmbH und UG § 35 GmbHG, die der AG § 78 AktG und die des Vereins § 26 BGB. Die Rechtsfähigkeit folgt jeweils aus anderen Normen (§ 705 Abs. 2 BGB, § 105 Abs. 2 HGB, § 13 Abs. 1 GmbHG, § 1 Abs. 1 AktG, §§ 21, 22 BGB).",
+  "id": "kauf2-002",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Vertretung beim Grundstückskauf: Gesellschaften und juristische Personen",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/vertretung-beim-grundstuckskauf-gesellschaften-und-juristische-personen"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "Art. 229 § 21 Abs. 1 EGBGB",
+   "Art. 229 § 21 Abs. 2 EGBGB",
+   "§ 47 Abs. 2 GBO"
+  ],
+  "frage": "Eine im Grundbuch als Eigentümerin eingetragene, bisher nicht registrierte GbR will ihr Grundstück verkaufen. Was ist vor dem Grundbuchvollzug erforderlich?",
+  "optionen": [
+   "Nur die Berichtigung des Grundbuchs auf die Gesellschafter als Miteigentümer",
+   "Eintragung der GbR im Gesellschaftsregister und anschließend Berichtigung des Grundbuchs auf die eGbR",
+   "Nur die Beglaubigung der Registeranmeldung unmittelbar vor der Beurkundung",
+   "Eine Eigenurkunde des Notars über die Identität von GbR und Veräußerin"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei der GbR als Veräußerin gilt der Voreintragungsgrundsatz in zweifacher Hinsicht: Zuerst muss die GbR im Gesellschaftsregister eingetragen werden (Art. 229 § 21 Abs. 1 EGBGB), danach die eGbR im Wege der Berichtigung im Grundbuch (Art. 229 § 21 Abs. 2 EGBGB, § 47 Abs. 2 GBO); die Berichtigungsbewilligung darf schon im Kaufvertrag stehen. Die beglaubigte Registeranmeldung mit Eigenurkunde des Notars ist der Weg für die GbR als Erwerberin, nicht als Veräußerin.",
+  "id": "kauf2-003",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Vertretung beim Grundstückskauf: Gesellschaften und juristische Personen",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/vertretung-beim-grundstuckskauf-gesellschaften-und-juristische-personen"
+ },
+ {
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 707 BGB",
+   "§ 707a Abs. 2 S. 1 BGB"
+  ],
+  "frage": "Erwirbt eine nicht registrierte GbR ein Grundstück und wird die Registeranmeldung erst unmittelbar vor der Beurkundung beglaubigt, kann die Eigentumsvormerkung sofort nach der Beurkundung beantragt werden.",
+  "antwort": false,
+  "erklaerung": "Bei diesem Weg nimmt der Kaufvertrag auf die Anmeldung Bezug, und der Notar wird bevollmächtigt, nach Eintragung der eGbR deren Identität mit der Erwerberin durch Eigenurkunde festzustellen. Erst danach kann die Eintragung der Eigentumsvormerkung beantragt werden; zudem greift kein Gutglaubensschutz. Vorzugswürdig ist daher die Eintragung der GbR im Gesellschaftsregister vor der Beurkundung (§ 707 BGB).",
+  "id": "kauf2-004",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Vertretung beim Grundstückskauf: Gesellschaften und juristische Personen",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/vertretung-beim-grundstuckskauf-gesellschaften-und-juristische-personen"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 35 Abs. 2 GBO",
+   "§ 2368 BGB"
+  ],
+  "frage": "Womit kann ein Testamentsvollstrecker seine Vertretungsmacht beim Verkauf von Nachlassgrundbesitz gegenüber dem Grundbuchamt nachweisen?",
+  "optionen": [
+   "Nur durch ein Testamentsvollstreckerzeugnis nach § 2368 BGB",
+   "Durch Testamentsvollstreckerzeugnis, Europäisches Nachlasszeugnis oder notarielle Verfügung von Todes wegen nebst Eröffnungsniederschrift",
+   "Durch die Bestellungsurkunde des Nachlassgerichts in Urschrift",
+   "Durch eine gesiegelte Eingangsbestätigung des Nachlassgerichts"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 35 Abs. 2 Hs. 1 GBO genügt ein Testamentsvollstreckerzeugnis (§ 2368 BGB) oder ein Europäisches Nachlasszeugnis; alternativ reicht nach § 35 Abs. 2 Hs. 2 GBO eine notarielle Verfügung von Todes wegen mit Eröffnungsniederschrift, dann aber nur mit zusätzlichem Nachweis der Amtsannahme. Die Bestellungsurkunde in Urschrift ist der Nachweis für Nachlassverwalter und Nachlasspfleger, nicht für den Testamentsvollstrecker.",
+  "id": "kauf2-005",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Vertretung beim Grundstückskauf: Testamentsvollstrecker, Nachlassverwalter und Nachlasspfleger",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/vertretung-beim-grundstuckskauf-testamentsvollstrecker-nachlassverwalter-und-nachlasspfleger"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2202 BGB",
+   "§ 29 GBO",
+   "§ 35 Abs. 2 Hs. 2 GBO"
+  ],
+  "frage": "Ein Testamentsvollstrecker legt das notarielle Testament mit Eröffnungsniederschrift vor, war aber bei der Eröffnung nicht anwesend. Was muss zusätzlich vor Abschluss des Kaufvertrags vorliegen?",
+  "optionen": [
+   "Eine Erbenvollmacht aller Erben in öffentlich beglaubigter Form",
+   "Ein Nachweis der Amtsannahme nach § 2202 BGB in der Form des § 29 GBO",
+   "Eine gesiegelte Eingangsbestätigung des Nachlassgerichts über seine Annahmeerklärung",
+   "Eine Bestellungsurkunde des Nachlassgerichts in Urschrift"
+  ],
+  "antwort": 1,
+  "erklaerung": "Beim Nachweis über die öffentliche Verfügung muss zusätzlich in der Form des § 29 GBO belegt werden, dass gerade dieser Testamentsvollstrecker das Amt nach § 2202 BGB angenommen hat, und zwar vor Vertragsschluss. Eine bloße Eingangsbestätigung bescheinigt nur eine Tatsache und genügt nur, wenn die Annahmeerklärung öffentlich beglaubigt oder vom Amtsgericht protokolliert ist.",
+  "id": "kauf2-006",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Vertretung beim Grundstückskauf: Testamentsvollstrecker, Nachlassverwalter und Nachlasspfleger",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/vertretung-beim-grundstuckskauf-testamentsvollstrecker-nachlassverwalter-und-nachlasspfleger"
+ },
+ {
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1975 BGB",
+   "§ 1960 BGB",
+   "§ 35 Abs. 2 GBO"
+  ],
+  "frage": "Ordne den Vertreter dem Nachweis seiner Vertretungsmacht zu.",
+  "paare": [
+   [
+    "Nachlassverwalter (§ 1975 BGB)",
+    "Bestellungsurkunde des Nachlassgerichts in Urschrift"
+   ],
+   [
+    "Testamentsvollstrecker mit Zeugnis",
+    "Testamentsvollstreckerzeugnis oder Europäisches Nachlasszeugnis"
+   ],
+   [
+    "Testamentsvollstrecker ohne Zeugnis",
+    "Notarielle Verfügung von Todes wegen mit Eröffnungsniederschrift und Nachweis der Amtsannahme"
+   ]
+  ],
+  "erklaerung": "Nachlassverwalter (§ 1975 BGB) und Nachlasspfleger (§ 1960 BGB) weisen ihre gesetzliche Vertretungsmacht durch die Bestellungsurkunde in Urschrift nach. Der Testamentsvollstrecker nutzt das Zeugnis nach § 35 Abs. 2 Hs. 1 GBO oder die öffentliche Verfügung nebst Eröffnungsniederschrift und formgerechtem Annahmenachweis nach § 35 Abs. 2 Hs. 2 GBO.",
+  "id": "kauf2-007",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Vertretung beim Grundstückskauf: Testamentsvollstrecker, Nachlassverwalter und Nachlasspfleger",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/vertretung-beim-grundstuckskauf-testamentsvollstrecker-nachlassverwalter-und-nachlasspfleger"
+ },
+ {
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 29 GBO",
+   "§ 2202 BGB"
+  ],
+  "frage": "Ein vom Nachlassgericht erteiltes Amtsannahmezeugnis ist ein auf die wirksame Annahme des Amtes beschränktes Testamentsvollstreckerzeugnis und wahrt die Form des § 29 GBO.",
+  "antwort": true,
+  "erklaerung": "Das Amtsannahmezeugnis bzw. die Amtsannahmebestätigung des Nachlassgerichts ist ein Testamentsvollstreckerzeugnis, das sich auf die wirksame Annahme des Amtes nach § 2202 BGB beschränkt, und gehört zu den formgerechten Annahmenachweisen. Ebenso genügen die Eröffnungsniederschrift bei persönlicher Anwesenheit des Testamentsvollstreckers oder eine eigene Niederschrift des Nachlassgerichts über die Annahmeerklärung.",
+  "id": "kauf2-008",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Vertretung beim Grundstückskauf: Testamentsvollstrecker, Nachlassverwalter und Nachlasspfleger",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/vertretung-beim-grundstuckskauf-testamentsvollstrecker-nachlassverwalter-und-nachlasspfleger"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 167 Abs. 2 BGB",
+   "§ 29 Abs. 1 S. 1 GBO"
+  ],
+  "frage": "Welche Form muss eine Vollmacht zum Abschluss eines Grundstückskaufvertrags haben, damit der Vertrag im Grundbuch vollzogen werden kann?",
+  "optionen": [
+   "Materiell und für den Grundbuchvollzug stets notarielle Beurkundung",
+   "Materiell formfrei; für den Grundbuchvollzug öffentliche oder öffentlich beglaubigte Urkunde",
+   "Materiell Schriftform; für den Grundbuchvollzug einfache Abschrift",
+   "Materiell formfrei; auch für den Grundbuchvollzug genügt privatschriftliche Vollmacht"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Vollmacht bedarf materiell grundsätzlich keiner Form (§ 167 Abs. 2 BGB). Im Grundbuchverfahren ist die Vertretungsmacht jedoch nach § 29 Abs. 1 S. 1 GBO durch öffentliche oder öffentlich beglaubigte Urkunde zu belegen; eine beurkundete oder mindestens notariell beglaubigte Vollmacht genügt. Beurkundung ist nur bei der unwiderruflichen Vollmacht nötig (§ 311b Abs. 1 S. 1 BGB), weil sie den Vollmachtgeber schon mit Erteilung bindet.",
+  "id": "kauf2-009",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Vertretung beim Grundstückskauf: Vollmacht, Prüfung und Nachweis",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/vertretung-beim-grundstuckskauf-vollmacht-prufung-und-nachweis"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 47 BeurkG",
+   "§ 31 Abs. 1 Nr. 2 NotAktVV",
+   "§ 172 BGB"
+  ],
+  "frage": "Der Bevollmächtigte legt im Beurkundungstermin eine einfache Abschrift der notariell beurkundeten Generalvollmacht vor. Wie ist das zu beurteilen?",
+  "optionen": [
+   "Ausreichend, da die Urschrift ohnehin beim Notar verbleibt",
+   "Nicht ausreichend; vorzulegen ist die Ausfertigung nach § 47 BeurkG",
+   "Ausreichend, wenn der Notar die Vollmacht in seiner eigenen Urkundensammlung einsehen kann",
+   "Nicht ausreichend; vorzulegen ist die Urschrift der Vollmacht"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Urschrift einer beurkundeten Vollmacht bleibt in der Urkundensammlung (§ 31 Abs. 1 Nr. 2 NotAktVV); an ihre Stelle tritt im Rechtsverkehr die Ausfertigung (§ 47 BeurkG), die bei der Beurkundung vorliegen muss. Nur Original und Ausfertigung erzeugen Rechtsschein nach § 172 BGB; eine Abschrift sichert den Fortbestand nicht. Die Urschrift ist nur bei einer beglaubigten Vollmacht vorzulegen, weil der Notar diese herausgeben darf.",
+  "id": "kauf2-010",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Vertretung beim Grundstückskauf: Vollmacht, Prüfung und Nachweis",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/vertretung-beim-grundstuckskauf-vollmacht-prufung-und-nachweis"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 181 BGB"
+  ],
+  "frage": "In welchem Fall liegt ein Insichgeschäft vor, sodass die Vollmacht eine Befreiung von § 181 BGB enthalten muss?",
+  "optionen": [
+   "Der Bevollmächtigte vertritt seinen Miteigentümer, beide verkaufen gemeinsam",
+   "Ein Miterbe vertritt die übrigen Miterben, und der Kaufvertrag regelt zugleich die Verteilung des Kaufpreises unter den Miterben",
+   "Der Bevollmächtigte vertritt den Verkäufer, der Käufer erscheint persönlich",
+   "Der Geschäftsführer handelt für die verkaufende GmbH gegenüber einem fremden Käufer"
+  ],
+  "antwort": 1,
+  "erklaerung": "Kein Insichgeschäft liegt vor, wenn Vertreter und Vertretener auf derselben Vertragsseite stehen, etwa als gemeinsame Verkäufer. Setzen sich Miterben im Kaufvertrag aber zugleich über die Verteilung des Kaufpreises auseinander, kontrahieren sie untereinander; dann greift § 181 BGB und die Vollmacht muss die Befreiung enthalten.",
+  "id": "kauf2-011",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Vertretung beim Grundstückskauf: Vollmacht, Prüfung und Nachweis",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/vertretung-beim-grundstuckskauf-vollmacht-prufung-und-nachweis"
+ },
+ {
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 181 BGB",
+   "§ 35 GmbHG"
+  ],
+  "frage": "Ein GmbH-Geschäftsführer, der selbst nicht von § 181 BGB befreit ist, kann einem Bevollmächtigten wirksam Befreiung von § 181 BGB erteilen.",
+  "antwort": false,
+  "erklaerung": "Nur wer selbst von § 181 BGB befreit ist, kann einen Bevollmächtigten davon befreien. Ein nicht befreiter Geschäftsführer kann also keine befreiende Vollmacht erteilen; der Notar prüft daher bei der Registereinsicht die Befreiung des Organvertreters.",
+  "id": "kauf2-012",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Vertretung beim Grundstückskauf: Vollmacht, Prüfung und Nachweis",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/vertretung-beim-grundstuckskauf-vollmacht-prufung-und-nachweis"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 12 Abs. 1 S. 1 BeurkG",
+   "§ 12 Abs. 1 S. 3 BeurkG",
+   "§ 21 Abs. 3 BNotO"
+  ],
+  "frage": "Wann ersetzt eine Vollmachtsbescheinigung des Notars nach § 21 Abs. 3 BNotO die Beifügung der Vollmacht zur Niederschrift?",
+  "optionen": [
+   "Immer, weil § 21 Abs. 3 BNotO als Spezialregelung § 12 BeurkG vorgeht",
+   "Nur, wenn sich die Vertretungsberechtigung aus dem Handelsregister oder einem ähnlichen Register ergibt",
+   "Immer bei General- und Vorsorgevollmachten, um sachfremde Inhalte aus dem Rechtsverkehr herauszuhalten",
+   "Nur, wenn die Vollmacht in Ausfertigung vorgelegen hat"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 12 Abs. 1 S. 3 BeurkG genügt eine Bescheinigung nach § 21 BNotO anstelle der Beifügung nur, soweit sich die Vertretungsberechtigung aus einer Eintragung im Handelsregister oder einem ähnlichen Register ergibt. Eine rechtsgeschäftliche Vollmacht, etwa mit mitbeurkundeter Patientenverfügung, soll dagegen nach § 12 Abs. 1 S. 1 BeurkG in Urschrift oder beglaubigter Abschrift beigefügt werden, auch wenn die Bescheinigung sachfremde Inhalte etwa bei der Anzeige nach § 18 GrEStG heraushalten würde.",
+  "id": "kauf2-013",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Vertretung beim Grundstückskauf: Vollmacht, Prüfung und Nachweis",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/vertretung-beim-grundstuckskauf-vollmacht-prufung-und-nachweis"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 177 Abs. 2 S. 2 BGB"
+  ],
+  "frage": "Der Käufer fordert den vollmachtlos vertretenen Verkäufer zur Erklärung über die Genehmigung auf. Binnen welcher Frist kann die Genehmigung noch erklärt werden?",
+  "optionen": [
+   "Binnen einer Woche ab Empfang der Aufforderung",
+   "Binnen zwei Wochen ab Empfang der Aufforderung",
+   "Binnen eines Monats ab Vertragsschluss",
+   "Binnen zwei Wochen ab Beurkundung"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 177 Abs. 2 S. 2 Hs. 1 BGB kann die Genehmigung nach einer Aufforderung nur binnen zwei Wochen ab deren Empfang erklärt werden; bleibt sie aus, gilt sie als verweigert (§ 177 Abs. 2 S. 2 Hs. 2 BGB). Die Frist läuft ab Empfang der Aufforderung, nicht ab Beurkundung. Der Notar sollte eine solche Fristsetzung nur auf schriftliche Weisung eines Beteiligten vornehmen.",
+  "id": "kauf2-014",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Vertretung beim Grundstückskauf: vollmachtlose Vertretung und Nachgenehmigung",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/vertretung-beim-grundstuckskauf-vollmachtlose-vertretung-und-nachgenehmigung"
+ },
+ {
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 167 Abs. 2 BGB",
+   "§ 29 GBO"
+  ],
+  "frage": "Ein aufgrund mündlicher Vollmacht geschlossener Grundstückskaufvertrag ist schwebend unwirksam, bis der Vertretene die Vollmacht in der Form des § 29 GBO bestätigt.",
+  "antwort": false,
+  "erklaerung": "Der aufgrund mündlicher Vollmacht geschlossene Vertrag ist von Anfang an wirksam, weil die Vollmacht materiell formfrei ist (§ 167 Abs. 2 BGB). Die Vollmachtsbestätigung in der Form des § 29 GBO ist nur für den Grundbuchvollzug nachzuholen. Schwebend unwirksam ist dagegen der Vertrag des Vertreters ohne Vertretungsmacht (§ 177 Abs. 2 BGB).",
+  "id": "kauf2-015",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Vertretung beim Grundstückskauf: vollmachtlose Vertretung und Nachgenehmigung",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/vertretung-beim-grundstuckskauf-vollmachtlose-vertretung-und-nachgenehmigung"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 182 Abs. 1 BGB",
+   "§ 177 BGB"
+  ],
+  "frage": "Weshalb sollte der Kaufvertrag dem Notar eine Empfangsvollmacht für die Nachgenehmigung erteilen?",
+  "optionen": [
+   "Weil die Genehmigung nach § 29 GBO nur gegenüber dem Notar formgerecht erklärt werden kann",
+   "Weil die Genehmigung erst mit Zugang bei der Gegenseite oder dem vollmachtlosen Vertreter wirksam wird und so die Weiterleitung entfällt",
+   "Weil der Notar die Genehmigung sonst nicht beim Grundbuchamt einreichen darf",
+   "Weil die Zweiwochenfrist des § 177 Abs. 2 BGB sonst nicht ausgelöst wird"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Genehmigung ist eine empfangsbedürftige Willenserklärung (§ 182 Abs. 1 BGB) und wird erst mit Zugang bei der Gegenseite oder dem vollmachtlosen Vertreter wirksam. Mit Empfangsvollmacht des Notars entfällt die Weiterleitung und der Notar hat Klarheit über die Wirksamkeit. Fehlt sie, muss die Genehmigung der Gegenseite gesondert zugehen; das ist der typische Fehler.",
+  "id": "kauf2-016",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Vertretung beim Grundstückskauf: vollmachtlose Vertretung und Nachgenehmigung",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/vertretung-beim-grundstuckskauf-vollmachtlose-vertretung-und-nachgenehmigung"
+ },
+ {
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 177 Abs. 2 BGB",
+   "§ 184 Abs. 1 BGB",
+   "§ 179 Abs. 1 BGB",
+   "§ 29 GBO"
+  ],
+  "frage": "Vollmachtlos vertretener Käufer",
+  "sachverhalt": "V verkauft sein Hausgrundstück an K. K ist im Ausland; sein Bruder B erscheint im Termin und erklärt, K habe ihn telefonisch bevollmächtigt. Eine Vollmachtsurkunde liegt nicht vor. Der Notar beurkundet den Vertrag, wobei B für K handelt. V möchte, dass die Vormerkung möglichst schnell eingetragen wird.",
+  "schritte": [
+   {
+    "frage": "Wie ist der Vertrag unmittelbar nach der Beurkundung zu beurteilen, wenn K die Vollmacht tatsächlich mündlich erteilt hat?",
+    "optionen": [
+     "Schwebend unwirksam bis zur Genehmigung nach § 177 BGB",
+     "Von Anfang an wirksam; für den Grundbuchvollzug ist eine Vollmachtsbestätigung nach § 29 GBO nachzuholen",
+     "Nichtig, weil eine Vollmacht zum Grundstückskauf der Beurkundung bedarf",
+     "Wirksam, ein weiterer Nachweis ist für den Vollzug entbehrlich"
+    ],
+    "antwort": 1,
+    "erklaerung": "Die mündliche Vollmacht ist materiell wirksam (§ 167 Abs. 2 BGB), der Vertrag daher von Anfang an wirksam. Für den Grundbuchvollzug muss die Vollmacht aber nach § 29 GBO nachgewiesen werden, also eine Vollmachtsbestätigung in dieser Form nachgeholt werden."
+   },
+   {
+    "frage": "Worüber muss der Notar B belehren?",
+    "optionen": [
+     "Über die Grunderwerbsteuerpflicht des B",
+     "Über die persönliche Haftung des B auf Erfüllung oder Schadensersatz nach § 179 Abs. 1 BGB, falls K die Vollmacht nicht bestätigt",
+     "Über die Pflicht des B, binnen zwei Wochen eine Genehmigung beizubringen",
+     "Über die Unwirksamkeit des Vertrags mangels Vollmachtsurkunde"
+    ],
+    "antwort": 1,
+    "erklaerung": "Wer sich auf eine mündliche Vollmacht beruft, haftet nach § 179 Abs. 1 BGB persönlich auf Erfüllung oder Schadensersatz, wenn sich die Vollmacht nicht belegen lässt und der Vertretene keine Bestätigung abgibt. Darüber ist B zu belehren."
+   },
+   {
+    "frage": "Welche Regelung sollte der Vertrag zum Antrag auf Eintragung der Eigentumsvormerkung enthalten, und worüber ist V zu belehren, wenn die Vormerkung sofort beantragt wird?",
+    "optionen": [
+     "Die Vormerkung ist stets erst nach Genehmigung zu beantragen; eine Belehrung ist entbehrlich",
+     "Der Vertrag muss festlegen, ob die Vormerkung vor oder nach der Genehmigung beantragt wird; bei sofortigem Antrag ist V zu belehren, dass die Löschung bei Scheitern eine Löschungsbewilligung des K braucht",
+     "Die Vormerkung ist sofort zu beantragen; die Löschungsvollmacht im Kaufvertrag sichert V bereits ab",
+     "Der Antrag darf erst nach Erteilung der Unbedenklichkeitsbescheinigung gestellt werden"
+    ],
+    "antwort": 1,
+    "erklaerung": "Bei vollmachtloser Vertretung des Erwerbers muss der Vertrag regeln, wann der Vormerkungsantrag gestellt wird. Wird die Vormerkung schon vor der Genehmigung beantragt, ist V zu belehren, dass bei Scheitern des Vertrags die Löschung eine Löschungsbewilligung des Erwerbers braucht; eine Löschungsvollmacht im Kaufvertrag wirkt erst nach der Genehmigung."
+   },
+   {
+    "frage": "K bestätigt die Vollmacht zwei Monate später in öffentlich beglaubigter Form. Welche steuerliche Folge hat das?",
+    "optionen": [
+     "Steuerlich wirkt die Bestätigung wie zivilrechtlich auf den Vertragsschluss zurück",
+     "Steuerlich wird der Vertrag erst mit Abgabe der Genehmigung bzw. Bestätigung wirksam, nur für die Zukunft",
+     "Die Grunderwerbsteuer entsteht erst mit Eintragung der Vormerkung",
+     "Die verspätete Bestätigung führt zur Nichtigkeit nach § 177 Abs. 2 BGB"
+    ],
+    "antwort": 1,
+    "erklaerung": "Die zivilrechtliche Rückwirkung des § 184 Abs. 1 BGB gilt steuerlich nicht; steuerlich wird der Vertrag erst mit Abgabe der Genehmigung und nur für die Zukunft wirksam. Nach Eingang ist die Wirksamkeit festzustellen und gegebenenfalls das Finanzamt zu unterrichten."
+   }
+  ],
+  "erklaerung": "Die mündliche Vollmacht macht den Vertrag sofort wirksam (§ 167 Abs. 2 BGB), bedarf aber für den Vollzug der Bestätigung nach § 29 GBO; der Vertreter ist über § 179 Abs. 1 BGB zu belehren. Der Vertrag muss den Zeitpunkt des Vormerkungsantrags regeln und die Fälligkeit vom Vorliegen der grundbuchtauglichen Bestätigung abhängig machen. Steuerlich wirkt die spätere Bestätigung nur für die Zukunft.",
+  "id": "kauf2-017",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Vertretung beim Grundstückskauf: vollmachtlose Vertretung und Nachgenehmigung",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/vertretung-beim-grundstuckskauf-vollmachtlose-vertretung-und-nachgenehmigung"
+ },
+ {
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 17 BeurkG"
+  ],
+  "frage": "Planmäßiges Beurkunden mit vollmachtlosen Vertretern ist nach Abschn. II der Richtlinien der Notarkammer Baden-Württemberg untersagt; der Notar soll darauf hinwirken, dass die materiell Beteiligten selbst erscheinen.",
+  "antwort": true,
+  "erklaerung": "Die Richtlinien der Notarkammer Baden-Württemberg verbieten in Abschn. II das planmäßige Beurkunden mit vollmachtlosen Vertretern. Im Sinne des § 17 BeurkG soll der Notar darauf hinwirken, dass alle materiell Beteiligten selbst erscheinen; die vollmachtlose Vertretung bleibt die Ausnahme für den Einzelfall.",
+  "id": "kauf2-018",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Vertretung beim Grundstückskauf: vollmachtlose Vertretung und Nachgenehmigung",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/vertretung-beim-grundstuckskauf-vollmachtlose-vertretung-und-nachgenehmigung"
+ }
+]

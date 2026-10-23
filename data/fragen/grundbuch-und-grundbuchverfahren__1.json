@@ -605,5 +605,363 @@
    }
   ],
   "erklaerung": "Die Aktualität des Grundbuchabrufs bestimmt der Notar nach Ermessen (§ 21 BeurkG) und kann sie über das Datum der letzten Änderung prüfen. Ein offener Antrag in der Antragsliste (§ 12a GBO) ist aufzuklären; unzureichende Löschungsunterlagen sind durch Löschungserklärungen im Vertrag und Fälligkeitsregelung abzufangen, ein die Rangstelle blockierender Antrag (§ 17 GBO) erfordert die Abstimmung mit der Bank und gegebenenfalls einen Rangrücktritt."
+ },
+ {
+  "id": "grbu1-026",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Antragstellung durch den Notar (§ 15 GBO)",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-antragstellung-durch-den-notar-15-gbo",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 15 Abs. 2 GBO"
+  ],
+  "frage": "Welche Rechtsnatur hat die Ermächtigung des Notars nach § 15 Abs. 2 GBO?",
+  "optionen": [
+   "Ein eigenes Antragsrecht des Notars kraft Amtes",
+   "Eine widerlegliche Vermutung der Vollmacht, im Namen eines Antragsberechtigten zu beantragen",
+   "Eine unwiderlegliche gesetzliche Vertretungsmacht für alle Eintragungserklärungen",
+   "Eine Botenstellung ohne eigene Erklärungsbefugnis"
+  ],
+  "antwort": 1,
+  "erklaerung": "Hat der Notar die zur Eintragung erforderliche Erklärung beurkundet oder beglaubigt, gilt er nach § 15 Abs. 2 GBO als ermächtigt, im Namen eines Antragsberechtigten die Eintragung zu beantragen. Das ist eine widerlegliche Vermutung der Vollmacht; ein eigenes Antragsrecht hat der Notar nicht. Die Ermächtigung erstreckt sich nur auf den Antrag, nicht auf Bewilligungen oder andere Erklärungen, für die eine eigene Vollmacht nötig ist."
+ },
+ {
+  "id": "grbu1-027",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Antragstellung durch den Notar (§ 15 GBO)",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-antragstellung-durch-den-notar-15-gbo",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 24 Abs. 3 BNotO",
+   "§ 15 Abs. 2 GBO"
+  ],
+  "frage": "Notar N hat den Kaufvertrag nur mit der Bitte um Vollzug der von den Beteiligten selbst gestellten Anträge eingereicht. Der Verkäufer möchte den Antrag auf Eigentumsumschreibung zurücknehmen. Was gilt?",
+  "optionen": [
+   "N kann die Anträge nach § 24 Abs. 3 BNotO mit Unterschrift und Siegel zurücknehmen",
+   "Nur die Beteiligten selbst können ihre Anträge zurücknehmen; N war lediglich Bote",
+   "N kann zurücknehmen, da § 15 Abs. 2 GBO auch die Rücknahme umfasst",
+   "Eine Rücknahme ist ausgeschlossen, weil der Antrag bereits eingegangen ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bittet der Notar lediglich um Vollzug der Anträge der Beteiligten, wird er als Bote tätig; dann können nur die Beteiligten ihre Anträge zurücknehmen, sie erhalten die Entscheidungen und sind allein beschwerdeberechtigt. Die Rücknahmeermächtigung nach § 24 Abs. 3 BNotO gilt nur für Anträge, die der Notar selbst kraft § 15 Abs. 2 GBO im Namen der Beteiligten gestellt hat. Diesen Unterschied muss der Notar bei der Wahl des Vorgehens bedenken."
+ },
+ {
+  "id": "grbu1-028",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Antragstellung durch den Notar (§ 15 GBO)",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-antragstellung-durch-den-notar-15-gbo",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 15 Abs. 3 GBO",
+   "§ 39a BeurkG"
+  ],
+  "frage": "Welchen Maßstab hat die Prüfung der Eintragungsfähigkeit nach § 15 Abs. 3 S. 1 GBO bei beglaubigten Erklärungen?",
+  "optionen": [
+   "Umfassende materielle Prüfung einschließlich Grundbucheinsicht",
+   "Prüfung, ob die Erklärung abstrakt die gewünschte Eintragung herbeiführen kann; eine Grundbucheinsicht ist nicht erforderlich",
+   "Prüfung der Verfügungsbefugnis des Erklärenden anhand des Grundbuchs",
+   "Prüfung nur der Form der Beglaubigung"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Maßstab des § 15 Abs. 3 S. 1 GBO ist niedrig: Zu klären ist nur, ob die Erklärung abstrakt, losgelöst vom Einzelfall, die gewünschte Eintragung, Löschung oder Inhaltsänderung herbeiführen kann; eine Grundbucheinsicht ist dafür nicht nötig. Das Ergebnis wird neben dem Beglaubigungsvermerk festgehalten oder als einfaches elektronisches Zeugnis nach § 39a BeurkG im Vorlageschreiben. Bei beurkundeten Erklärungen gilt die Prüfpflicht nicht, weil die strengere Prüfung nach dem BeurkG erfolgt."
+ },
+ {
+  "id": "grbu1-029",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Antragstellung durch den Notar (§ 15 GBO)",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-antragstellung-durch-den-notar-15-gbo",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 24 Abs. 3 BNotO"
+  ],
+  "frage": "Die Rücknahmeerklärung des Notars für einen von ihm nach § 15 Abs. 2 GBO gestellten Antrag ist wirksam, wenn sie Unterschrift und Amtssiegel des Notars trägt; eine Beglaubigung der Unterschrift ist nicht erforderlich.",
+  "antwort": true,
+  "erklaerung": "§ 24 Abs. 3 S. 1 und 2 BNotO ermächtigt den Notar, die kraft Gesetzes von ihm gestellten Anträge zurückzunehmen; die Rücknahmeerklärung ist wirksam, wenn sie mit Unterschrift und Amtssiegel versehen ist, eine Beglaubigung der Unterschrift ist nicht erforderlich. Anders bei der Rücknahme durch die Beteiligten selbst, die nach § 31 GBO der Form des § 29 GBO bedarf."
+ },
+ {
+  "id": "grbu1-030",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Eintragungsantrag",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-eintragungsantrag",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 13 Abs. 1 S. 2 GBO"
+  ],
+  "frage": "Bei der Löschung einer erstrangigen Grundschuld rückt die zweitrangige Grundschuld der Bank Z auf. Ist Z antragsberechtigt?",
+  "optionen": [
+   "Ja, weil Z durch das Aufrücken im Rang begünstigt wird",
+   "Ja, weil jeder in Abteilung III Eingetragene antragsberechtigt ist",
+   "Nein, weil Z nur mittelbar profitiert; antragsberechtigt sind Rechtsinhaber und Eigentümer",
+   "Nein, weil Löschungen nur vom Grundbuchamt von Amts wegen vorgenommen werden"
+  ],
+  "antwort": 2,
+  "erklaerung": "Antragsberechtigt ist nach § 13 Abs. 1 S. 2 GBO, wessen Recht von der Eintragung betroffen wird oder zu wessen Gunsten sie erfolgen soll; maßgeblich ist die dingliche Rechtsstellung, nicht ein wirtschaftlicher Vorteil. Bei einer Löschung sind das der Rechtsinhaber und der Eigentümer. Wer nur mittelbar profitiert, etwa durch Aufrücken im Rang, ist nicht antragsberechtigt."
+ },
+ {
+  "id": "grbu1-031",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Eintragungsantrag",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-eintragungsantrag",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 16 Abs. 1 GBO",
+   "§ 16 Abs. 2 GBO"
+  ],
+  "frage": "Beim Übergabevertrag soll die Eigentumsumschreibung nur zusammen mit der Eintragung des Nießbrauchs für den Übergeber erfolgen. Wie ist das verfahrensrechtlich umzusetzen?",
+  "optionen": [
+   "Durch einen bedingten Eintragungsantrag nach § 16 Abs. 1 GBO",
+   "Durch Verbindung der Anträge, dass keine Eintragung ohne die andere erfolgen soll (§ 16 Abs. 2 GBO)",
+   "Gar nicht; jeder Antrag ist zwingend gesondert zu erledigen",
+   "Durch Rangbestimmung nach § 45 Abs. 3 GBO"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Eintragungsantrag darf nicht unter einer Bedingung gestellt werden (§ 16 Abs. 1 GBO). Zulässig ist aber, mehrere Anträge so zu verbinden, dass keine Eintragung ohne die andere erfolgen soll (§ 16 Abs. 2 GBO); der Übergabevertrag mit Eigentumsumschreibung und Nießbrauch ist der Beispielsfall. Eine Rangbestimmung regelt nur das Rangverhältnis, nicht die Abhängigkeit der Eintragungen voneinander."
+ },
+ {
+  "id": "grbu1-032",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Eintragungsantrag",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-eintragungsantrag",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 31 GBO",
+   "§ 29 GBO"
+  ],
+  "frage": "Weil der Eintragungsantrag keiner besonderen Form bedarf, kann er auch privatschriftlich zurückgenommen werden.",
+  "antwort": false,
+  "erklaerung": "Der Antrag selbst ist formfrei (vgl. § 13 Abs. 2 GBO), die Rücknahme aber nicht: Nach § 31 GBO bedarf sie der in § 29 Abs. 1 S. 1 und Abs. 3 GBO vorgeschriebenen Form, also der öffentlichen Beglaubigung. Die nur privatschriftlich erklärte Antragsrücknahme ist ein typischer Fehler. Stellen beide Vertragsteile den Antrag, bleibt zudem die Rücknahme durch nur einen von ihnen wirkungslos."
+ },
+ {
+  "id": "grbu1-033",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Eintragungsantrag",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-eintragungsantrag",
+  "typ": "zuordnung",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 878 BGB",
+   "§ 892 Abs. 2 BGB",
+   "§ 17 GBO",
+   "§ 30 GBO"
+  ],
+  "frage": "Ordne die Wirkungen und Regeln des Eintragungsantrags der jeweiligen Norm zu.",
+  "paare": [
+   [
+    "§ 878 BGB",
+    "Verfügungsbeschränkungen nach Antragstellung stehen dem Erwerb nicht entgegen"
+   ],
+   [
+    "§ 892 Abs. 2 BGB",
+    "Für die den gutgläubigen Erwerb ausschließende Kenntnis ist der Zeitpunkt der Antragstellung maßgeblich"
+   ],
+   [
+    "§ 17 GBO",
+    "Der früher gestellte Antrag ist vor dem späteren zu erledigen"
+   ],
+   [
+    "§ 30 GBO",
+    "Form des § 29 GBO nur, wenn der Antrag zugleich eine Eintragungserklärung ersetzt"
+   ]
+  ],
+  "erklaerung": "Der Antrag hat materielle Wirkungen: Nach Antragstellung eintretende Verfügungsbeschränkungen wie die Insolvenzeröffnung schaden nicht (§ 878 BGB), und spätere Kenntnis von der Unrichtigkeit hindert den gutgläubigen Erwerb nicht (§ 892 Abs. 2 BGB). § 17 GBO enthält den Prioritätsgrundsatz. § 30 GBO verlangt die Form des § 29 GBO für den Antrag nur, wenn er zugleich eine zur Eintragung erforderliche Erklärung ersetzen soll."
+ },
+ {
+  "id": "grbu1-034",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Eintragungsbewilligung und formelles Konsensprinzip",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-eintragungsbewilligung-und-formelles-konsensprinzip",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 19 GBO"
+  ],
+  "frage": "Wer muss nach § 19 GBO eine Eintragung bewilligen?",
+  "optionen": [
+   "Alle im Grundbuchblatt eingetragenen Personen",
+   "Derjenige, dessen Recht von der Eintragung betroffen wird",
+   "Der Begünstigte und der Betroffene gemeinsam",
+   "Der Eigentümer in jedem Fall, auch bei Löschung fremder Rechte"
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 19 GBO: Eine Eintragung erfolgt, wenn derjenige sie bewilligt, dessen Recht von ihr betroffen wird. Betroffen ist nur, wer durch die Eintragung rechtlich schlechter gestellt wird; der Begünstigte muss nicht bewilligen. Bei der Grundschuldbestellung bewilligt daher der Eigentümer, bei der Löschung einer Grundschuld zumindest deren Inhaber."
+ },
+ {
+  "id": "grbu1-035",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Eintragungsbewilligung und formelles Konsensprinzip",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-eintragungsbewilligung-und-formelles-konsensprinzip",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 19 GBO",
+   "§ 894 BGB"
+  ],
+  "frage": "Was besagt das formelle Konsensprinzip für die Prüfung des Grundbuchamts?",
+  "optionen": [
+   "Das Grundbuchamt prüft die dingliche Einigung anhand der vorgelegten Urkunden",
+   "Das Grundbuchamt prüft die materiellen Voraussetzungen nicht; die formgerechte Bewilligung der richtigen Person genügt",
+   "Das Grundbuchamt verlangt neben der Bewilligung stets den Nachweis des schuldrechtlichen Grundgeschäfts",
+   "Eine bewilligte Eintragung heilt das Fehlen der Einigung"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Bewilligung tritt regelmäßig an die Stelle einer Prüfung der materiellen Voraussetzungen; ob die Beteiligten sich wirksam geeinigt haben, untersucht das Grundbuchamt nicht, zusätzliche Nachweise sind entbehrlich (§ 19 GBO). Deshalb genügen bei der Grundschuldbestellung Antrag und Bewilligung des Eigentümers, die Einigung mit der Bank erfolgt privatschriftlich außerhalb der Grundbuchunterlagen. Eine Heilung tritt nicht ein: Fehlt die Einigung, wird das Grundbuch unrichtig und der Betroffene kann Berichtigung nach § 894 BGB verlangen."
+ },
+ {
+  "id": "grbu1-036",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Eintragungsbewilligung und formelles Konsensprinzip",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-eintragungsbewilligung-und-formelles-konsensprinzip",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 28 GBO",
+   "§ 23 Abs. 2 GBO"
+  ],
+  "frage": "Welche Aussage zur Bedingung in der Eintragungsbewilligung trifft zu?",
+  "optionen": [
+   "Weder die Bewilligung noch das bewilligte Recht dürfen bedingt oder befristet sein",
+   "Die Bewilligung darf nicht bedingt sein; das bewilligte Recht selbst darf aber bedingt oder befristet sein",
+   "Die Bewilligung darf bedingt sein, wenn das Grundbuchamt den Bedingungseintritt leicht prüfen kann",
+   "Ein Wohnungsrecht darf nur bedingt bestellt werden, wenn der Todesnachweis nach § 23 Abs. 2 GBO vereinbart ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Bewilligung muss bestimmt sein und darf nicht unter einer Bedingung stehen; das Grundstück ist nach § 28 GBO übereinstimmend mit dem Grundbuch zu bezeichnen. Das bewilligte Recht selbst darf dagegen bedingt oder befristet sein, etwa ein auf den Tod befristetes Wohnungsrecht oder ein durch das Erlöschen eines anderen Nießbrauchs aufschiebend bedingter Nießbrauch; im Grundbuch erscheint nur der Hinweis, den Inhalt erschließt die Bewilligung. Die Eintragung, dass der Todesnachweis zur Löschung genügt (§ 23 Abs. 2 GBO), ist eine Alternative zur Befristung, keine Voraussetzung."
+ },
+ {
+  "id": "grbu1-037",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Eintragungsbewilligung und formelles Konsensprinzip",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-eintragungsbewilligung-und-formelles-konsensprinzip",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 19 GBO",
+   "§ 874 BGB"
+  ],
+  "frage": "Eine dem Grundbuchamt mit Willen des Bewilligenden in Ausfertigung ausgehändigte Bewilligung kann bis zur Eintragung frei widerrufen werden.",
+  "antwort": false,
+  "erklaerung": "Die Bewilligung wird wirksam, wenn sie mit Willen des Bewilligenden dem Grundbuchamt oder dem Begünstigten in Urschrift, Ausfertigung oder beglaubigter Abschrift ausgehändigt ist; ab diesem Zeitpunkt kann sie nicht mehr widerrufen werden. Zurückgenommen werden kann nur der Antrag, der sich später erneut stellen lässt. Über die Bezugnahme nach § 874 BGB wird die Bewilligung Inhalt des Grundbuchs."
+ },
+ {
+  "id": "grbu1-038",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Eintragungsbewilligung und formelles Konsensprinzip",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-eintragungsbewilligung-und-formelles-konsensprinzip",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 876 S. 1 BGB",
+   "§ 19 GBO"
+  ],
+  "frage": "Eine Grundschuld soll gelöscht werden, die ihrerseits mit einem Pfandrecht des D belastet ist. Wer muss bewilligen?",
+  "optionen": [
+   "Nur der Grundschuldgläubiger als Inhaber des zu löschenden Rechts",
+   "Der Grundschuldgläubiger und D, weil D durch die Löschung mittelbar betroffen ist (§ 876 S. 1 BGB)",
+   "Nur D, weil sein Pfandrecht das jüngere Recht ist",
+   "Nur der Eigentümer, weil die Löschung ihn begünstigt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bewilligen muss, wer durch die Eintragung eine dingliche Rechtsstellung einbüßt oder einbüßen könnte. Mittelbare Betroffenheit genügt, etwa wenn an dem zu löschenden Recht seinerseits ein Drittrecht lastet (§ 876 S. 1 BGB). Daher müssen neben dem Grundschuldgläubiger auch D bewilligen. Der Eigentümer ist Begünstigter und bewilligt nicht nach § 19 GBO; seine Zustimmung zur Löschung von Grundpfandrechten beruht auf einer anderen Regelung."
+ },
+ {
+  "id": "grbu1-039",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: elektronische Antragstellung und Nachweise",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-elektronische-antragstellung-und-nachweise",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 137 Abs. 1 S. 3 GBO"
+  ],
+  "frage": "Welche Unterlage kann der Notar nicht allein durch elektronische Einreichung nachweisen, sondern muss zusätzlich den Besitz der Urschrift oder Ausfertigung belegen?",
+  "optionen": [
+   "Die Vorkaufsrechtsbescheinigung nach § 28 BauGB",
+   "Die Eigenurkunde des Notars mit der Eigentumsumschreibungsbewilligung",
+   "Den Erbschein",
+   "Die öffentlich beglaubigte Löschungsbewilligung"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 137 Abs. 1 S. 3 GBO bleibt ein etwaiges Erfordernis, dem Grundbuchamt den Besitz der Urschrift oder Ausfertigung nachzuweisen, unberührt, weil sich nicht jeder Nachweis elektronisch gleichwertig führen lässt. Wichtigste Fälle sind Erbschein, Europäisches Nachlasszeugnis (str.), Testamentsvollstreckerzeugnis und Grundpfandrechtsbrief. Elektronisch errichtete Notarurkunden und Behördenurkunden wie die Vorkaufsrechtsbescheinigung können dagegen nach § 137 Abs. 1 S. 2 GBO ohne Weiteres elektronisch eingereicht werden."
+ },
+ {
+  "id": "grbu1-040",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: elektronische Antragstellung und Nachweise",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-elektronische-antragstellung-und-nachweise",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 136 Abs. 1 S. 1 GBO",
+   "§ 136 Abs. 3 S. 1 GBO"
+  ],
+  "frage": "Wann ist ein elektronisch übermittelter Grundbuchantrag beim Grundbuchamt eingegangen?",
+  "optionen": [
+   "Sobald der Notar die Nachricht versendet hat",
+   "Sobald die zuständige Empfangseinrichtung des Grundbuchamts das Dokument aufgezeichnet hat, sofern es bearbeitbar ist",
+   "Sobald ein Mitarbeiter des Grundbuchamts das Dokument geöffnet und den Eingangsvermerk angebracht hat",
+   "Sobald das Dokument einer zur Entgegennahme zuständigen Person vorgelegt ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Ein elektronisches Dokument geht nur wirksam ein, wenn das Grundbuchamt es bearbeiten kann (§ 136 Abs. 3 S. 1 GBO). Ist es bearbeitbar, ist es bereits eingegangen, sobald die zuständige Empfangseinrichtung, das EGVP-Postfach des Grundbuchamts, es aufgezeichnet hat (§ 136 Abs. 1 S. 1 GBO). Die Vorlage an eine zur Entgegennahme zuständige Person ist der Maßstab des Papierwegs (§ 13 Abs. 2 S. 2 GBO)."
+ },
+ {
+  "id": "grbu1-041",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: elektronische Antragstellung und Nachweise",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-elektronische-antragstellung-und-nachweise",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 137 Abs. 4 S. 1 GBO"
+  ],
+  "frage": "Ein reiner Eintragungsantrag kann im elektronischen Rechtsverkehr als elektronisches Dokument übermittelt werden, das den Namen des Ausstellers enthält; eine Signatur ist nicht erforderlich.",
+  "antwort": true,
+  "erklaerung": "Nach § 137 Abs. 4 S. 1 GBO genügt für den reinen Antrag im ERV ein elektronisches Dokument, das den Namen des Ausstellers enthält; eine Signatur ist nicht nötig. Anders der gemischte Antrag, der zugleich eine Eintragungserklärung ersetzt: Für ihn verweist § 137 Abs. 4 S. 2 GBO auf die allgemeinen Nachweisregeln der §§ 30, 29 GBO."
+ },
+ {
+  "id": "grbu1-042",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: elektronische Antragstellung und Nachweise",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-elektronische-antragstellung-und-nachweise",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 22 Abs. 2 GrEStG",
+   "§ 25 Abs. 2 GrdstVG",
+   "§ 137 Abs. 2 GBO"
+  ],
+  "frage": "Ab wann übermittelt das Finanzamt die grunderwerbsteuerliche Unbedenklichkeitsbescheinigung elektronisch, und wie kann der Notar sie dann dem Grundbuchamt vorlegen?",
+  "optionen": [
+   "Ab 01.01.2027; nur elektronisch in der Form des § 137 Abs. 2 GBO",
+   "Ab 01.01.2028; abweichend von §§ 29, 137 GBO als Ausdruck oder elektronisch",
+   "Ab 01.01.2028; nur nach Medientransfer als Vermerkdokument nach § 39a BeurkG",
+   "Ab 01.01.2027; nur als Ausdruck mit Besitznachweis der Urschrift"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Unbedenklichkeitsbescheinigung übermittelt das Finanzamt ab dem 01.01.2028 elektronisch; der Notar kann sie dem Grundbuchamt dann abweichend von §§ 29, 137 GBO als Ausdruck oder elektronisch vorlegen (§ 22 Abs. 2 S. 5–7 GrEStG). Das Datum 01.01.2027 betrifft dagegen Genehmigungen, Zeugnisse und Bescheinigungen nach GrdstVG und GVO, die dann in der Form des § 137 Abs. 2 GBO elektronisch zu erteilen sind (§ 25 Abs. 2 GrdstVG, § 12 Abs. 2 GVO)."
  }
 ]

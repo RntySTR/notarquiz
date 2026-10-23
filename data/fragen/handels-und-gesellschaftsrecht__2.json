@@ -1,0 +1,489 @@
+[
+ {
+  "id": "hand2-001",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "KG: Kommanditistenwechsel, Anteilsübertragung und Tod",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/kg-kommanditistenwechsel-anteilsubertragung-und-tod",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 176 Abs. 2 HGB"
+  ],
+  "frage": "Wie haftet ein neu in eine KG eintretender Kommanditist für Verbindlichkeiten der Gesellschaft in der Zeit zwischen seinem Eintritt und seiner Eintragung im Handelsregister?",
+  "optionen": [
+   "Beschränkt auf die vereinbarte Haftsumme",
+   "Gar nicht, da die Haftung erst mit Eintragung beginnt",
+   "Persönlich und unbeschränkt",
+   "Nur subsidiär nach erfolgloser Inanspruchnahme der Komplementäre"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 176 Abs. 2 HGB haftet ein neu eintretender Kommanditist ab seinem Eintritt bis zu seiner Eintragung persönlich für die Verbindlichkeiten der KG. Die Beschränkung auf die Haftsumme greift erst mit der Eintragung; deshalb ist die Anmeldung äußerst eilig. Eine Haftungsfreiheit vor Eintragung gibt es gerade nicht."
+ },
+ {
+  "id": "hand2-002",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "KG: Kommanditistenwechsel, Anteilsübertragung und Tod",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/kg-kommanditistenwechsel-anteilsubertragung-und-tod",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 176 Abs. 2 HGB"
+  ],
+  "frage": "Welche Gestaltung empfiehlt sich beim Beitritt eines neuen Kommanditisten, um dessen persönliche Haftung nach § 176 Abs. 2 HGB zu vermeiden?",
+  "optionen": [
+   "Den Beitritt unter die aufschiebende Bedingung der Handelsregistereintragung stellen und die Anmeldung dennoch unverzüglich einreichen",
+   "Den Beitritt unter die auflösende Bedingung der Eintragung stellen und mit der Anmeldung bis zur Einzahlung der Einlage warten",
+   "Den Kommanditisten zunächst als Komplementär eintragen lassen und später den Statuswechsel anmelden",
+   "Eine Haftungsfreistellung durch die übrigen Gesellschafter im Gesellschaftsvertrag vereinbaren"
+  ],
+  "antwort": 0,
+  "erklaerung": "Der Beitritt sollte aufschiebend bedingt auf die Eintragung vereinbart werden; die Anmeldung bezeichnet den Eintritt dann als erst mit Eintragung wirksam, sodass keine Zwischenphase mit persönlicher Haftung entsteht. Unabhängig davon ist die Anmeldung unverzüglich vorzunehmen. Eine auflösende Bedingung oder eine interne Freistellung ändert an der Außenhaftung nach § 176 Abs. 2 HGB nichts."
+ },
+ {
+  "id": "hand2-003",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "KG: Kommanditistenwechsel, Anteilsübertragung und Tod",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/kg-kommanditistenwechsel-anteilsubertragung-und-tod",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 711 Abs. 1 BGB",
+   "§ 161 Abs. 2 HGB",
+   "§ 106 Abs. 6 HGB"
+  ],
+  "frage": "Ein Kommanditanteil wird im Wege der Sonderrechtsnachfolge übertragen. Darf das Registergericht die früher übliche Versicherung über die Abfindungsfreiheit des ausscheidenden Kommanditisten noch verlangen?",
+  "optionen": [
+   "Ja, die Versicherung ist weiterhin zwingende Eintragungsvoraussetzung",
+   "Nein, die Versicherung ist seit dem MoPeG unzulässig und darf nicht mehr abgegeben werden",
+   "Nicht routinemäßig; eine eindeutige Anmeldung der Sonderrechtsnachfolge genügt regelmäßig, bei konkreten Zweifeln sind weitere Nachweise möglich",
+   "Nur, wenn der Erwerber zugleich Komplementär wird"
+  ],
+  "antwort": 2,
+  "erklaerung": "Seit der Neufassung von § 711 Abs. 1 BGB genügt regelmäßig eine eindeutige Anmeldung der Sonderrechtsnachfolge; das Registergericht darf die Abfindungsversicherung nicht routinemäßig verlangen (OLG München, 31 Wx 294/24 e). Die Versicherung bleibt aber zulässig, und bei konkreten Zweifeln kann das Gericht weitere Nachweise anfordern. Sie ist also weder zwingend noch unzulässig."
+ },
+ {
+  "id": "hand2-004",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "KG: Kommanditistenwechsel, Anteilsübertragung und Tod",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/kg-kommanditistenwechsel-anteilsubertragung-und-tod",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 177 HGB"
+  ],
+  "frage": "Stirbt ein Kommanditist, wird die Erbengemeinschaft als solche Kommanditistin der KG und ist mit einer gemeinsamen Haftsumme zum Handelsregister anzumelden.",
+  "antwort": false,
+  "erklaerung": "Beim Tod eines Kommanditisten wird die KG mit den Erben fortgesetzt (§ 177 HGB), aber im Wege der Sondererbfolge: Die Erbengemeinschaft wird nicht Kommanditistin, sondern jeder Erbe erhält unmittelbar eine seiner Erbquote entsprechende Kommanditbeteiligung. Die Anmeldung nennt das Ausscheiden des Verstorbenen und den Eintritt der einzelnen Erben mit jeweils eigener Haftsumme."
+ },
+ {
+  "id": "hand2-005",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "KG: Kommanditistenwechsel, Anteilsübertragung und Tod",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/kg-kommanditistenwechsel-anteilsubertragung-und-tod",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 176 Abs. 2 HGB",
+   "§ 177 HGB",
+   "§ 35 Abs. 1 S. 2 GBO"
+  ],
+  "frage": "Ordne die Vorgänge beim Kommanditistenwechsel der jeweils zutreffenden Aussage zu.",
+  "paare": [
+   [
+    "Sonderrechtsnachfolge",
+    "Erwerber übernimmt die beschränkte Haftung des bisherigen Kommanditisten; Vertrag und Anmeldung müssen sie ausdrücklich bezeichnen"
+   ],
+   [
+    "Austritt und Neueintritt",
+    "Typischer Gestaltungsfehler; Erwerber riskiert persönliche Haftung nach § 176 Abs. 2 HGB"
+   ],
+   [
+    "Teilübertragung",
+    "Erwerber tritt mit der übertragenen Haftsumme ein; Haftsumme des Übertragenden verringert sich entsprechend"
+   ],
+   [
+    "Erbnachweis zum Handelsregister",
+    "Erbschein oder notarielles Testament mit Eröffnungsprotokoll entsprechend § 35 Abs. 1 S. 2 GBO"
+   ],
+   [
+    "Dauertestamentsvollstreckung",
+    "Im Handelsregister eintragungsfähig und zum Register anzumelden"
+   ]
+  ],
+  "erklaerung": "Die Sonderrechtsnachfolge verhindert die Haftungsfolgen, die bei bloß zeitgleichem Austritt und Neueintritt nach § 176 Abs. 2 HGB entstünden. Bei der Teilübertragung gibt die Anmeldung die übertragene und die herabgesetzte Haftsumme an. Der Erbnachweis folgt entsprechend § 35 Abs. 1 S. 2 GBO; die Dauertestamentsvollstreckung ist nach BGH eintragungsfähig."
+ },
+ {
+  "id": "hand2-006",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "KG: Komplementärwechsel, Haftsummenänderung und Liquidation",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/kg-komplementarwechsel-haftsummenanderung-und-liquidation",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 24 Abs. 2 HGB"
+  ],
+  "frage": "Bei einer KG scheidet der Komplementär aus und ein neuer Komplementär tritt ein. Wie ist dieser Vorgang zum Handelsregister anzumelden?",
+  "optionen": [
+   "Als Sonderrechtsnachfolge des neuen in die Stellung des bisherigen Komplementärs",
+   "Getrennt als Ausscheiden des bisherigen und Eintritt des neuen Komplementärs mit dessen Vertretungsbefugnis",
+   "Als Umwandlung des Komplementäranteils in einen Kommanditanteil",
+   "Nur als Änderung der Vertretungsbefugnis, da die Gesellschafteridentität unverändert bleibt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Beim Austausch des Komplementärs liegt keine Rechtsnachfolge vor, auch wenn der Anteil übertragen wird. Angemeldet werden daher nur das Ausscheiden des bisherigen und der Eintritt des neuen Komplementärs unter Angabe seiner Vertretungsbefugnis. Die Sonderrechtsnachfolge ist ein Institut des Kommanditistenwechsels, nicht des Komplementärwechsels."
+ },
+ {
+  "id": "hand2-007",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "KG: Komplementärwechsel, Haftsummenänderung und Liquidation",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/kg-komplementarwechsel-haftsummenanderung-und-liquidation",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 171 HGB"
+  ],
+  "frage": "Ein Komplementär wechselt in die Stellung eines Kommanditisten. Wie lange haftet er für Altverbindlichkeiten der KG weiterhin unbeschränkt persönlich?",
+  "optionen": [
+   "Drei Jahre ab Eintragung des Ausscheidens als Komplementär",
+   "Fünf Jahre ab Eintragung des Ausscheidens als Komplementär",
+   "Bis zur Eintragung als Kommanditist, danach nur noch bis zur Haftsumme",
+   "Zehn Jahre ab Fälligkeit der jeweiligen Verbindlichkeit"
+  ],
+  "antwort": 1,
+  "erklaerung": "Für Altverbindlichkeiten bleibt die unbeschränkte persönliche Haftung fünf Jahre lang ab Eintragung des Ausscheidens als Komplementär bestehen. Erst für Neuverbindlichkeiten ist die Haftung ab Eintragung als Kommanditist auf die Haftsumme begrenzt (vgl. § 171 HGB). Die Dreijahresfrist ist eine häufige Verwechslung."
+ },
+ {
+  "id": "hand2-008",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "KG: Komplementärwechsel, Haftsummenänderung und Liquidation",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/kg-komplementarwechsel-haftsummenanderung-und-liquidation",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 174 HGB",
+   "§ 175 HGB"
+  ],
+  "frage": "Die Herabsetzung der Haftsumme eines Kommanditisten wirkt gegenüber den Gläubigern bereits mit dem Gesellschafterbeschluss, die Anmeldung nach § 175 HGB hat nur deklaratorische Bedeutung.",
+  "antwort": false,
+  "erklaerung": "Nach § 174 HGB wirkt eine verringerte Einlage gegenüber den Gläubigern erst ab Eintragung im Handelsregister; die Anmeldung nach § 175 HGB ist deshalb nicht bloß deklaratorisch für die Außenwirkung. Der Notar hat die Beteiligten auf diese Rechtsfolge hinzuweisen und die Anmeldung zügig einzureichen."
+ },
+ {
+  "id": "hand2-009",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "KG: Komplementärwechsel, Haftsummenänderung und Liquidation",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/kg-komplementarwechsel-haftsummenanderung-und-liquidation",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 144 Abs. 1 HGB",
+   "§ 144 Abs. 4 HGB"
+  ],
+  "frage": "Wer ist bei der Liquidation einer KG kraft Gesetzes Liquidator, wenn Gesellschaftsvertrag und Gesellschafterbeschluss keine abweichende Regelung treffen?",
+  "optionen": [
+   "Nur die Komplementäre, da Kommanditisten von der Geschäftsführung ausgeschlossen sind",
+   "Sämtliche Gesellschafter, also auch die Kommanditisten",
+   "Ein vom Registergericht zu bestellender Liquidator",
+   "Der Kommanditist mit der höchsten Haftsumme"
+  ],
+  "antwort": 1,
+  "erklaerung": "Für die Liquidation der KG gelten grundsätzlich die OHG-Regeln; abweichend davon sind bei der KG auch die Kommanditisten Liquidatoren (§ 144 Abs. 1 HGB). Nur wenn Gesellschafterbeschluss oder Gesellschaftsvertrag die Abwicklung bestimmten Gesellschaftern oder Dritten zuweisen, gilt etwas anderes (§ 144 Abs. 4 HGB). Der Ausschluss der Kommanditisten von der Geschäftsführung trägt hier also nicht."
+ },
+ {
+  "id": "hand2-010",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "KG: Komplementärwechsel, Haftsummenänderung und Liquidation",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/kg-komplementarwechsel-haftsummenanderung-und-liquidation",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 24 Abs. 2 HGB",
+   "§ 171 HGB",
+   "§ 175 HGB"
+  ],
+  "frage": "Statuswechsel des Komplementärs",
+  "sachverhalt": "Die „Müller & Co. KG“ hat den Komplementär Max Müller und die Kommanditistin K mit einer Haftsumme von 10.000 Euro. Müller möchte sich aus Altersgründen zurückziehen und künftig nur noch als Kommanditist mit einer Haftsumme von 20.000 Euro beteiligt sein. Die neu gegründete M-Verwaltungs-GmbH soll als Komplementärin eintreten. Zugleich soll die Haftsumme der K auf 5.000 Euro herabgesetzt werden. Die Firma soll unverändert bleiben.",
+  "schritte": [
+   {
+    "frage": "Unter welcher Voraussetzung kann Müller überhaupt in die Kommanditistenstellung wechseln?",
+    "optionen": [
+     "Nur wenn K der Haftsummenerhöhung Müllers zustimmt",
+     "Nur wenn gleichzeitig ein weiterer oder neuer Komplementär vorhanden ist, hier die M-Verwaltungs-GmbH",
+     "Nur wenn Müller seine Altverbindlichkeiten vollständig getilgt hat",
+     "Nur nach vorheriger Eintragung der Haftsummenherabsetzung der K"
+    ],
+    "antwort": 1,
+    "erklaerung": "Die KG braucht stets mindestens einen persönlich haftenden Gesellschafter. Ein Komplementär kann daher nur Kommanditist werden, wenn ein weiterer oder neuer Komplementär vorhanden ist oder gleichzeitig eintritt."
+   },
+   {
+    "frage": "Was ist hinsichtlich der Firma „Müller & Co. KG“ zu beachten?",
+    "optionen": [
+     "Die Firma muss geändert werden, da Müller nicht mehr Komplementär ist",
+     "Die Firma darf nur mit Zustimmung Müllers fortgeführt werden; die Fortführung wird mit angemeldet",
+     "Die Firma darf ohne Weiteres fortgeführt werden, da Müller Gesellschafter bleibt",
+     "Die Firma muss den Zusatz „GmbH & Co. KG“ erst nach Ablauf von fünf Jahren erhalten"
+    ],
+    "antwort": 1,
+    "erklaerung": "Enthält die Firma den Namen des ausscheidenden Komplementärs, ist die Fortführung nur mit dessen Zustimmung zulässig (§ 24 Abs. 2 HGB). Die Fortführung mit Zustimmung wird mit angemeldet."
+   },
+   {
+    "frage": "Worauf muss der Notar die Beteiligten im Hinblick auf die Herabsetzung der Haftsumme der K hinweisen?",
+    "optionen": [
+     "Die Herabsetzung wirkt gegenüber den Gläubigern erst ab Eintragung im Handelsregister",
+     "Die Herabsetzung ist nur mit Zustimmung aller Gläubiger zulässig",
+     "Die Herabsetzung bedarf keiner Anmeldung, da nur Erhöhungen anmeldepflichtig sind",
+     "Die Herabsetzung wirkt rückwirkend auf den Zeitpunkt des Gesellschafterbeschlusses"
+    ],
+    "antwort": 0,
+    "erklaerung": "Jede Haftsummenänderung ist anzumelden (§ 175 HGB); die verringerte Einlage wirkt gegenüber Gläubigern erst ab Eintragung (§ 174 HGB). Darauf ist hinzuweisen und die Anmeldung zügig einzureichen."
+   }
+  ],
+  "erklaerung": "Der Statuswechsel Müllers setzt den gleichzeitigen Eintritt der GmbH als Komplementärin voraus; Müller haftet für Altverbindlichkeiten noch fünf Jahre ab Eintragung seines Ausscheidens als Komplementär unbeschränkt. Die Firmenfortführung bedarf seiner Zustimmung nach § 24 Abs. 2 HGB. Die Haftsummenherabsetzung der K wirkt nach § 174 HGB erst mit Eintragung."
+ },
+ {
+  "id": "hand2-011",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "OHG: Gründung und Handelsregisteranmeldung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/ohg-grundung-und-handelsregisteranmeldung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 15 Abs. 3 GmbHG",
+   "§ 15 Abs. 4 GmbHG"
+  ],
+  "frage": "In welchem Fall bedarf der Gesellschaftsvertrag einer OHG ausnahmsweise der notariellen Beurkundung?",
+  "optionen": [
+   "Wenn eine juristische Person Gesellschafterin wird",
+   "Wenn sich ein Gesellschafter zur Einbringung einer Immobilie oder eines GmbH-Geschäftsanteils verpflichtet",
+   "Wenn die OHG mehr als zwei Gesellschafter hat",
+   "Wenn Gesamtvertretung vereinbart wird"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die OHG kann wie die GbR formfrei gegründet werden. Beurkundungspflichtig ist der Vertrag nur ausnahmsweise, wenn sich ein Gesellschafter bei der Gründung zur Einbringung einer Immobilie oder eines GmbH-Geschäftsanteils verpflichtet (§ 15 Abs. 3 und 4 GmbHG). Die Beteiligung einer juristischen Person oder die Vertretungsregelung lösen keine Formpflicht aus."
+ },
+ {
+  "id": "hand2-012",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "OHG: Gründung und Handelsregisteranmeldung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/ohg-grundung-und-handelsregisteranmeldung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 106 Abs. 7 HGB",
+   "§ 106 Abs. 7 S. 3 HGB"
+  ],
+  "frage": "Wer hat die Erstanmeldung einer OHG zum Handelsregister vorzunehmen?",
+  "optionen": [
+   "Nur die vertretungsberechtigten Gesellschafter in vertretungsberechtigter Zahl",
+   "Alle Gesellschafter, auch die von der Vertretung ausgeschlossenen",
+   "Die Gesellschaft, vertreten durch einen Gesellschafter",
+   "Mindestens zwei Gesellschafter, da die OHG mindestens zwei Gesellschafter hat"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 106 Abs. 7 HGB nehmen alle Gesellschafter die Anmeldung vor, auch solche, die von der Vertretung ausgeschlossen sind. Die Anmeldung durch vertretungsberechtigte Gesellschafter in vertretungsberechtigter Zahl ist ein typischer Fehler; nur bei einer späteren Änderung allein der Geschäftsanschrift meldet die Gesellschaft selbst an (§ 106 Abs. 7 S. 3 HGB)."
+ },
+ {
+  "id": "hand2-013",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "OHG: Gründung und Handelsregisteranmeldung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/ohg-grundung-und-handelsregisteranmeldung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 106 Abs. 7 HGB"
+  ],
+  "frage": "Für die Anmeldung einer OHG zum Handelsregister ist ein schriftlicher Gesellschaftsvertrag als Gründungsnachweis vorzulegen.",
+  "antwort": false,
+  "erklaerung": "Im Handelsregister A gilt das Anmeldeprinzip: Die Anmeldung belegt im Regelfall zugleich den angemeldeten Rechtsakt. Da sämtliche Gesellschafter die Anmeldung vornehmen müssen (§ 106 Abs. 7 HGB) und der OHG-Vertrag formfrei ist, liegt spätestens mit Unterzeichnung der Anmeldung ein Gesellschaftsvertrag vor. Ein schriftlicher Vertrag ist trotzdem dringend zu empfehlen, aber kein Eintragungsnachweis."
+ },
+ {
+  "id": "hand2-014",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "OHG: Gründung und Handelsregisteranmeldung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/ohg-grundung-und-handelsregisteranmeldung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 106 Abs. 3 HGB",
+   "§ 106 Abs. 4 HGB"
+  ],
+  "frage": "Eine im Gesellschaftsregister eingetragene GbR soll als OHG im Handelsregister eingetragen werden. Welche Voraussetzungen müssen nach § 106 Abs. 4 HGB kumulativ erfüllt sein?",
+  "optionen": [
+   "Anmeldung des Statuswechsels beim Gesellschaftsregister, Eintragung des Statuswechselvermerks dort und Abgabe des Verfahrens an das Handelsregistergericht",
+   "Löschung der GbR im Gesellschaftsregister, Neugründung der OHG und Vorlage des beurkundeten Gesellschaftsvertrags",
+   "Anmeldung der OHG direkt beim Handelsregister mit der Versicherung, dass die Gesellschaft noch in keinem anderen Register eingetragen ist",
+   "Einstimmiger Gesellschafterbeschluss, Zustimmung des Gesellschaftsregisters und Veröffentlichung im Bundesanzeiger"
+  ],
+  "antwort": 0,
+  "erklaerung": "Ist die Gesellschaft bereits im Gesellschafts- oder Partnerschaftsregister eingetragen, wird der Statuswechsel bei diesem Register angemeldet (§ 106 Abs. 3 HGB). Die Eintragung im Handelsregister erfolgt nach § 106 Abs. 4 HGB nur, wenn der Statuswechsel dort angemeldet, der Statuswechselvermerk eingetragen und das Verfahren an das Handelsregistergericht abgegeben ist. Eine Direktanmeldung mit der Versicherung der Nichteintragung wäre hier unzutreffend, da die Versicherung gerade nicht abgegeben werden kann."
+ },
+ {
+  "id": "hand2-015",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "OHG: Gründung und Handelsregisteranmeldung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/ohg-grundung-und-handelsregisteranmeldung",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 105 Abs. 1 HGB",
+   "§ 107 Abs. 1 S. 1 HGB",
+   "§ 24 HRV",
+   "§ 106 Abs. 1 HGB"
+  ],
+  "frage": "Ordne die Aussagen zur OHG-Gründung dem jeweils zutreffenden Regelungsgehalt zu.",
+  "paare": [
+   [
+    "§ 105 Abs. 1 HGB",
+    "Gewerbe, das nach Umfang einen kaufmännischen Geschäftsbetrieb erfordert; GbR wird bei Anwachsen automatisch OHG"
+   ],
+   [
+    "§ 107 Abs. 1 S. 1 HGB",
+    "Eingetragene OHG bleibt bestehen, auch wenn der Geschäftsumfang später absinkt"
+   ],
+   [
+    "§ 24 HRV",
+    "Unternehmensgegenstand wird nicht eingetragen, ist dem Register aber mitzuteilen"
+   ],
+   [
+    "§ 106 Abs. 1 HGB",
+    "Zuständig ist das Registergericht am Sitz der Gesellschaft"
+   ]
+  ],
+  "erklaerung": "§ 105 Abs. 1 HGB definiert das für die OHG erforderliche Handelsgewerbe; eine GbR mit entsprechendem Umfang wird automatisch OHG. Nach § 107 Abs. 1 S. 1 HGB bleibt die eingetragene OHG trotz Absinkens des Umfangs bestehen. Der Unternehmensgegenstand ist nach § 24 HRV nur mitzuteilen, nicht einzutragen; die Zuständigkeit folgt aus § 106 Abs. 1 HGB."
+ },
+ {
+  "id": "hand2-016",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "OHG: Haftung, Vertretung, Gesellschafterwechsel und Liquidation",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/ohg-haftung-vertretung-gesellschafterwechsel-und-liquidation",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 124 HGB",
+   "§ 124 Abs. 4 HGB"
+  ],
+  "frage": "Wie ist die Vertretung der OHG gesetzlich ausgestaltet?",
+  "optionen": [
+   "Jeder Gesellschafter ist einzelvertretungsbefugt, sofern der Gesellschaftsvertrag ihn nicht ausschließt; die Befugnis erfasst sachlich alle Geschäfte",
+   "Die Gesellschafter vertreten stets gemeinschaftlich, Einzelvertretung muss im Gesellschaftsvertrag angeordnet werden",
+   "Die OHG wird durch einen von den Gesellschaftern bestellten Geschäftsführer vertreten, der auch Nichtgesellschafter sein kann",
+   "Die Vertretungsbefugnis ist auf Geschäfte des gewöhnlichen Betriebs beschränkt"
+  ],
+  "antwort": 0,
+  "erklaerung": "Für die OHG gilt die Selbstorganschaft: Jeder Gesellschafter ist zur Vertretung befugt, sofern der Gesellschaftsvertrag ihn nicht ausschließt (§ 124 HGB), und die Vertretungsmacht erfasst sachlich alle Geschäfte (§ 124 Abs. 4 HGB). Gesamtvertretung ist nur bei Anordnung im Gesellschaftsvertrag vorgesehen (§ 124 Abs. 2 HGB); eine Fremdorganschaft durch Nichtgesellschafter als Geschäftsführer gibt es bei der OHG nicht."
+ },
+ {
+  "id": "hand2-017",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "OHG: Haftung, Vertretung, Gesellschafterwechsel und Liquidation",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/ohg-haftung-vertretung-gesellschafterwechsel-und-liquidation",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 130 Abs. 1 Nr. 1 HGB"
+  ],
+  "frage": "Der Tod eines Gesellschafters führt kraft Gesetzes zur Auflösung der OHG, sofern der Gesellschaftsvertrag keine Fortsetzungsklausel enthält.",
+  "antwort": false,
+  "erklaerung": "Der Tod eines Gesellschafters löst die OHG kraft Gesetzes nicht auf; der verstorbene Gesellschafter scheidet vielmehr aus (§ 130 Abs. 1 Nr. 1 HGB), und der Abfindungsanspruch fällt in den Nachlass. Der Tod ist auch nicht unter den Auflösungsgründen des § 138 HGB genannt. Eine Nachfolgeklausel ist nur nötig, wenn Erben Gesellschafter werden sollen."
+ },
+ {
+  "id": "hand2-018",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "OHG: Haftung, Vertretung, Gesellschafterwechsel und Liquidation",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/ohg-haftung-vertretung-gesellschafterwechsel-und-liquidation",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 143 Abs. 1 HGB",
+   "§ 150 HGB"
+  ],
+  "frage": "Wer meldet nach Abschluss der Liquidation das Erlöschen der Firma einer OHG zum Handelsregister an, und welche zusätzliche Angabe enthält diese Anmeldung?",
+  "optionen": [
+   "Alle Gesellschafter; Angabe der Verteilung des Restvermögens",
+   "Sämtliche Liquidatoren; Angabe des Verwahrers der Bücher und Papiere",
+   "Der Verwahrer der Bücher und Papiere; Angabe der getilgten Verbindlichkeiten",
+   "Das Registergericht von Amts wegen; keine weitere Angabe"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 150 HGB melden sämtliche Liquidatoren das Erlöschen der Firma an; die Anmeldung benennt auch den Verwahrer der Bücher und Papiere. Davon zu unterscheiden ist die Anmeldung der Auflösung, die alle Gesellschafter vornehmen und die die Liquidatoren mit ihrer Vertretungsbefugnis bezeichnet (§ 143 Abs. 1 HGB)."
+ },
+ {
+  "id": "hand2-019",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "OHG: Haftung, Vertretung, Gesellschafterwechsel und Liquidation",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/ohg-haftung-vertretung-gesellschafterwechsel-und-liquidation",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 148 Abs. 2 HGB",
+   "§ 148 Abs. 5 S. 1 HGB",
+   "§ 148 Abs. 8 HGB"
+  ],
+  "frage": "In welcher Reihenfolge verfahren die Liquidatoren einer aufgelösten OHG mit dem Gesellschaftsvermögen?",
+  "optionen": [
+   "Verteilung nach Kapitalanteilen an die Gesellschafter, danach Befriedigung der verbleibenden Gläubiger aus dem Privatvermögen",
+   "Laufende Geschäfte beenden, Forderungen einziehen, Vermögen zu Geld machen; zunächst Gläubiger befriedigen; den Rest nach Kapitalanteilen verteilen",
+   "Vermögen nach Köpfen an die Gesellschafter verteilen, die ihrerseits die Gläubiger befriedigen",
+   "Gläubiger befriedigen und Rest an die Gesellschafter nach Gewinnbeteiligungsquote verteilen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Liquidatoren beenden die laufenden Geschäfte, ziehen Forderungen ein und machen das Vermögen zu Geld (§ 148 Abs. 2 HGB); aus dem Vermögen befriedigen sie zunächst die Gläubiger (§ 148 Abs. 5 S. 1 HGB), und was übrig bleibt, verteilen sie entsprechend den Kapitalanteilen (§ 148 Abs. 8 HGB). Eine Verteilung nach Köpfen oder nach Gewinnquote sieht das Gesetz nicht vor."
+ },
+ {
+  "id": "hand2-020",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Personengesellschaften",
+  "seite": "OHG: Haftung, Vertretung, Gesellschafterwechsel und Liquidation",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/ohg-haftung-vertretung-gesellschafterwechsel-und-liquidation",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 106 Abs. 6 HGB",
+   "§ 106 Abs. 7 HGB",
+   "§ 53 HGB",
+   "§ 24 Abs. 2 HGB"
+  ],
+  "frage": "Ordne den Registervorgang bei der OHG den jeweils erforderlichen Anmeldenden zu.",
+  "paare": [
+   [
+    "Eintritt eines Gesellschafters",
+    "Alle bisherigen Gesellschafter und der Eintretende"
+   ],
+   [
+    "Ausscheiden eines Gesellschafters",
+    "Alle verbleibenden Gesellschafter und der Ausscheidende"
+   ],
+   [
+    "Änderung nur der Geschäftsanschrift",
+    "Die Gesellschaft selbst"
+   ],
+   [
+    "Erteilung einer Prokura",
+    "Gesellschafter in vertretungsberechtigter Zahl"
+   ],
+   [
+    "Erlöschen der Firma",
+    "Sämtliche Liquidatoren"
+   ]
+  ],
+  "erklaerung": "Anmeldungen nach § 106 Abs. 6 HGB nehmen grundsätzlich sämtliche Gesellschafter vor (§ 106 Abs. 7 S. 1 HGB), beim Ein- und Austritt zusätzlich der betroffene Gesellschafter. Nur bei bloßer Änderung der Geschäftsanschrift meldet die Gesellschaft an (§ 106 Abs. 7 S. 3 HGB); die Prokura melden die Gesellschafter in vertretungsberechtigter Zahl an (§ 53 HGB), das Erlöschen die Liquidatoren (§ 150 HGB)."
+ }
+]

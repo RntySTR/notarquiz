@@ -1,0 +1,426 @@
+[
+ {
+  "id": "hand1-001",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Erstanmeldung, Versicherungen der Geschäftsführer und Online-Gründung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-erstanmeldung-versicherungen-der-geschaftsfuhrer-und-online-grundung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 6 Abs. 2 GmbHG",
+   "§ 53 Abs. 2 BZRG"
+  ],
+  "frage": "Worüber belehrt der Notar die Geschäftsführer vor Abgabe der Versicherung, dass ihrer Bestellung keine Gründe nach § 6 Abs. 2 GmbHG entgegenstehen?",
+  "optionen": [
+   "Über die Strafbarkeit einer unrichtigen Versicherung und die unbeschränkte Auskunftspflicht gegenüber dem Registergericht nach § 53 Abs. 2 BZRG",
+   "Über die persönliche Haftung für die Einlagen nach § 7 Abs. 2 GmbHG",
+   "Über die Pflicht zur Vorlage eines polizeilichen Führungszeugnisses beim Registergericht",
+   "Über die Differenzhaftung nach § 9 GmbHG bei überbewerteten Sacheinlagen"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Belehrung betrifft die Strafbarkeit einer falschen Versicherung und die unbeschränkte Auskunftspflicht nach § 53 Abs. 2 BZRG gegenüber dem Registergericht; sie ist vor der Versicherung vorzunehmen. Ein Führungszeugnis wird nicht verlangt – an seine Stelle tritt gerade die eigene, strafbewehrte Versicherung des Geschäftsführers. Die Einlagenhaftung und die Differenzhaftung betreffen die Einlagenversicherung, nicht die Bestellungshindernisse."
+ },
+ {
+  "id": "hand1-002",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Erstanmeldung, Versicherungen der Geschäftsführer und Online-Gründung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-erstanmeldung-versicherungen-der-geschaftsfuhrer-und-online-grundung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 6 Abs. 2 S. 2 Nr. 3 GmbHG",
+   "§ 6 Abs. 2 S. 3 GmbHG"
+  ],
+  "frage": "Welche Aussage zum Inhalt der Versicherung über Bestellungshindernisse nach § 6 Abs. 2 GmbHG trifft zu?",
+  "optionen": [
+   "Maßgeblich ist ein Zeitraum von zehn Jahren seit Rechtskraft der Verurteilung",
+   "Nur Verurteilungen durch inländische Gerichte sind relevant; ausländische Urteile bleiben außer Betracht",
+   "Verurteilungen wegen Betrugs (§§ 263 bis 264a StGB) sind nur bei einer Freiheitsstrafe von mindestens einem Jahr erfasst",
+   "Die Zeit einer behördlich angeordneten Anstaltsverwahrung wird in die Frist eingerechnet"
+  ],
+  "antwort": 2,
+  "erklaerung": "Straftaten nach §§ 263 bis 264a StGB oder §§ 265b bis 266a StGB sind nur bei einer Freiheitsstrafe von mindestens einem Jahr erfasst, während Insolvenzstraftaten, Insolvenzverschleppung und falsche Angaben unabhängig vom Strafmaß zählen. Die Frist beträgt fünf Jahre, nicht zehn; eine Verurteilung im Ausland wegen einer vergleichbaren Tat steht gleich, und die Zeit einer Anstaltsverwahrung wird gerade nicht in die Fünfjahresfrist eingerechnet."
+ },
+ {
+  "id": "hand1-003",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Erstanmeldung, Versicherungen der Geschäftsführer und Online-Gründung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-erstanmeldung-versicherungen-der-geschaftsfuhrer-und-online-grundung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 7 Abs. 2 GmbHG",
+   "§ 7 Abs. 3 GmbHG"
+  ],
+  "frage": "Die Versicherung der Geschäftsführer zu den Einlagen umfasst auch die Erklärung, dass die geleisteten Einlagen nicht an die Einleger zurückgeflossen sind.",
+  "antwort": true,
+  "erklaerung": "Die Geschäftsführer versichern, dass die Leistungen nach § 7 Abs. 2 und 3 GmbHG bewirkt sind, sich der Gegenstand endgültig in ihrer freien Verfügung befindet und die Einlagen nicht an die Einleger zurückgeflossen sind. Bei Sacheinlagen kommt die Versicherung hinzu, dass die Gegenstände auf die Gesellschaft übertragen wurden."
+ },
+ {
+  "id": "hand1-004",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Erstanmeldung, Versicherungen der Geschäftsführer und Online-Gründung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-erstanmeldung-versicherungen-der-geschaftsfuhrer-und-online-grundung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2 Abs. 3 GmbHG",
+   "§§ 16a bis 16e BeurkG"
+  ],
+  "frage": "Welche Aussage zur Online-Gründung einer GmbH mittels Videokommunikation ist richtig?",
+  "optionen": [
+   "Nur die Gründungsvollmacht, nicht der Gesellschaftsvertrag selbst, kann per Videokommunikation beurkundet werden",
+   "Der online beurkundete Gesellschaftsvertrag darf eine Pflicht zur Abtretung von Geschäftsanteilen an der Gesellschaft enthalten",
+   "Die Online-Gründung ist nur bei Gründung im vereinfachten Verfahren mit Musterprotokoll zulässig",
+   "Die Online-Gründung ist auch dann möglich, wenn andere Formvorschriften entgegenstehen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 2 Abs. 3 S. 1 Hs. 2 GmbHG darf eine Pflicht zur Abtretung von Geschäftsanteilen an der Gesellschaft in den online beurkundeten Gesellschaftsvertrag aufgenommen werden. Sowohl Gründungsvollmacht als auch Gesellschaftsvertrag können nach §§ 16a bis 16e BeurkG per Videokommunikation beurkundet werden (§ 2 Abs. 2 und 3 GmbHG); für den Gesellschaftsvertrag gilt dies aber nur, wenn keine anderen Formvorschriften entgegenstehen. Eine Beschränkung auf das Musterprotokoll nennt die Seite nicht."
+ },
+ {
+  "id": "hand1-005",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Erstanmeldung, Versicherungen der Geschäftsführer und Online-Gründung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-erstanmeldung-versicherungen-der-geschaftsfuhrer-und-online-grundung",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 8 Abs. 4 Nr. 1 GmbHG",
+   "§ 1825 BGB",
+   "§ 6 Abs. 2 GmbHG"
+  ],
+  "frage": "Ordne die Bestandteile der GmbH-Erstanmeldung ihrem Inhalt zu.",
+  "paare": [
+   [
+    "Versicherung zur Betreuung",
+    "Keine Betreuung und kein Einwilligungsvorbehalt nach § 1825 BGB in Vermögensangelegenheiten"
+   ],
+   [
+    "Versicherung zur Vorbelastung",
+    "Gesellschaftsvermögen außer durch Gründungsaufwand bis zu einem bezifferten Höchstbetrag nicht mit Verbindlichkeiten belastet"
+   ],
+   [
+    "Angabe nach § 8 Abs. 4 Nr. 1 GmbHG",
+    "Lage der Geschäftsräume als inländische Geschäftsanschrift"
+   ],
+   [
+    "Versicherung zum Berufsverbot",
+    "Kein Verbot der Berufs- oder Gewerbeausübung durch Urteil oder vollziehbare Verwaltungsentscheidung, auch nicht in EU/EWR-Staaten"
+   ]
+  ],
+  "erklaerung": "Die Erstanmeldung bündelt mehrere Erklärungen: die Betreuungsversicherung bezieht sich auf § 1825 BGB, die Vorbelastungsangabe auf das Gesellschaftsvermögen außer Gründungsaufwand, die Geschäftsanschrift folgt aus § 8 Abs. 4 Nr. 1 GmbHG und die Berufsverbotsversicherung erstreckt sich auch auf vergleichbare Verbote in EU- und EWR-Staaten sowie ausdrücklich auf das Tätigkeitsfeld der Gesellschaft."
+ },
+ {
+  "id": "hand1-006",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Geschäftsanteilsübertragung und Gesellschafterliste",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-geschaftsanteilsubertragung-und-gesellschafterliste",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 15 Abs. 3 GmbHG",
+   "§ 15 Abs. 4 GmbHG"
+  ],
+  "frage": "Welche Vereinbarungen beim Verkauf eines GmbH-Geschäftsanteils bedürfen der notariellen Beurkundung?",
+  "optionen": [
+   "Nur die dingliche Abtretung; der schuldrechtliche Kaufvertrag ist formfrei",
+   "Nur der Kaufvertrag; die Abtretung kann privatschriftlich erfolgen",
+   "Abtretung, Verpflichtung zur Abtretung und sämtliche im Zusammenhang mit der Veräußerung getroffenen Vereinbarungen",
+   "Nur Abtretung und Kaufvertrag; Nebenabreden können privatschriftlich getroffen werden"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 15 Abs. 3 und 4 GmbHG sind sowohl die Abtretung als auch die Verpflichtung zur Abtretung (Kaufvertrag) beurkundungspflichtig, und zwar einschließlich sämtlicher Vereinbarungen, die im Zusammenhang mit der Veräußerung getroffen werden. Der typische Fehler, Nebenabreden außerhalb der Urkunde zu treffen, verletzt gerade diese umfassende Formpflicht."
+ },
+ {
+  "id": "hand1-007",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Geschäftsanteilsübertragung und Gesellschafterliste",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-geschaftsanteilsubertragung-und-gesellschafterliste",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 16 Abs. 1 GmbHG"
+  ],
+  "frage": "Der Erwerber eines Geschäftsanteils stimmt in einer Gesellschafterversammlung ab, bevor die neue Gesellschafterliste im Handelsregister aufgenommen ist. Welche Aussage trifft zu?",
+  "optionen": [
+   "Die Stimmabgabe ist wirksam, weil die Abtretung mit Beurkundung dinglich vollzogen ist",
+   "Die Stimmabgabe gilt als von Anfang an wirksam, wenn die Liste unverzüglich nach der Rechtshandlung in das Handelsregister aufgenommen wird",
+   "Die Stimmabgabe ist endgültig unwirksam, weil nur der Listengesellschafter abstimmen darf",
+   "Die Stimmabgabe ist wirksam, sobald der Notar die Liste beim Registergericht eingereicht hat"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 16 Abs. 1 S. 1 GmbHG gilt im Verhältnis zur Gesellschaft nur als Gesellschafter, wer in der im Handelsregister aufgenommenen Liste steht; der Erwerber hat daher grundsätzlich kein Stimmrecht. § 16 Abs. 1 S. 2 GmbHG heilt dies jedoch, wenn die Liste unverzüglich nach der Rechtshandlung aufgenommen wird. Maßgeblich ist die Aufnahme im Handelsregister, nicht bereits die Einreichung oder die dingliche Wirksamkeit der Abtretung."
+ },
+ {
+  "id": "hand1-008",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Geschäftsanteilsübertragung und Gesellschafterliste",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-geschaftsanteilsubertragung-und-gesellschafterliste",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 46 Nr. 4 GmbHG"
+  ],
+  "frage": "Soll nur ein Teil eines Geschäftsanteils verkauft werden, entscheidet der Geschäftsführer allein über die Teilung des Geschäftsanteils.",
+  "antwort": false,
+  "erklaerung": "Über die Teilung von Geschäftsanteilen beschließen die Gesellschafter (§ 46 Nr. 4 GmbHG), nicht der Geschäftsführer. Ohne Teilungsbeschluss kann nur der gesamte Geschäftsanteil übertragen werden; die Teilung wird dann in der Veränderungsspalte der neuen Gesellschafterliste vermerkt."
+ },
+ {
+  "id": "hand1-009",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Geschäftsanteilsübertragung und Gesellschafterliste",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-geschaftsanteilsubertragung-und-gesellschafterliste",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 40 Abs. 2 S. 2 GmbHG",
+   "§ 40 Abs. 2 GmbHG"
+  ],
+  "frage": "Was bestätigt die Notarbescheinigung auf der neuen Gesellschafterliste nach § 40 Abs. 2 S. 2 GmbHG?",
+  "optionen": [
+   "Dass die Abtretung wirksam ist und der Erwerber den Kaufpreis gezahlt hat",
+   "Dass die geänderten Eintragungen den Veränderungen aus der Notarurkunde entsprechen und die übrigen Eintragungen mit der zuletzt im Handelsregister aufgenommenen Liste übereinstimmen",
+   "Dass der Veräußerer nach Prüfung der Satzung wirksam Inhaber des Anteils war und keine Zustimmungserfordernisse bestehen",
+   "Dass die Gesellschafterliste von den Geschäftsführern unterzeichnet und freigegeben wurde"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Bescheinigung hat zwei Inhalte: Die geänderten Eintragungen entsprechen den Veränderungen aus der Urkunde des Notars, und die übrigen Eintragungen stimmen mit der zuletzt im Handelsregister aufgenommenen Liste überein. Sie bestätigt weder die Kaufpreiszahlung noch die materielle Berechtigung des Veräußerers; die Liste reicht der Notar selbst ein (§ 40 Abs. 2 GmbHG), eine Unterzeichnung durch die Geschäftsführer ist dafür nicht Gegenstand der Bescheinigung."
+ },
+ {
+  "id": "hand1-010",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Geschäftsanteilsübertragung und Gesellschafterliste",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-geschaftsanteilsubertragung-und-gesellschafterliste",
+  "typ": "fall",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 40 Abs. 2 GmbHG",
+   "§ 16 Abs. 1 GmbHG",
+   "§ 15 Abs. 4 GmbHG"
+  ],
+  "frage": "Anteilsverkauf unter Kaufpreisbedingung",
+  "sachverhalt": "V ist mit einem Geschäftsanteil von 25.000 € an der X-GmbH beteiligt, die ein Betriebsgrundstück in Stuttgart hält. V verkauft seinen Anteil an K; die Abtretung soll aufschiebend bedingt durch die vollständige Kaufpreiszahlung erfolgen. In der Satzung ist ein Zustimmungserfordernis der Gesellschafterversammlung enthalten. Notar N beurkundet den Vertrag.",
+  "schritte": [
+   {
+    "frage": "Welche Unterlagen sollte N vor dem Entwurf beschaffen und welche Besonderheit folgt aus dem Grundbesitz der GmbH?",
+    "optionen": [
+     "Nur den Handelsregisterauszug; der Grundbesitz der GmbH ist für die Anteilsübertragung unerheblich",
+     "Aktuelle Satzung, aktuelle Gesellschafterliste und Handelsregisterauszug; wegen des Grundbesitzes ist die Übertragung in Baden-Württemberg der Grunderwerbsteuerstelle (FA Schwetzingen) anzuzeigen",
+     "Nur die Gesellschafterliste; wegen des Grundbesitzes ist zusätzlich eine Auflassung zu beurkunden",
+     "Nur die Satzung; wegen des Grundbesitzes muss das Grundbuchamt der Übertragung zustimmen"
+    ],
+    "antwort": 1,
+    "erklaerung": "Die Seite verlangt Satzung (Zustimmungserfordernisse, Vorkaufs- und Erwerbsrechte), Gesellschafterliste (Inhaberschaft, zustimmende Mitgesellschafter) und Registerauszug. Hat die GmbH Grundbesitz, ist die Übertragung in Baden-Württemberg der Grunderwerbsteuerstelle beim FA Schwetzingen anzuzeigen; eine Auflassung findet nicht statt, da das Grundstück bei der GmbH bleibt."
+   },
+   {
+    "frage": "Wann reicht N die neue Gesellschafterliste zum Handelsregister ein?",
+    "optionen": [
+     "Unverzüglich nach der Beurkundung, da die Veränderung mit Vertragsschluss eintritt",
+     "Erst nach Wirksamwerden der Abtretung, also nach Eintritt der Bedingung (Kaufpreiszahlung)",
+     "Erst nach Zustimmung des Registergerichts zur Übertragung",
+     "Sobald K die Zahlung des Kaufpreises ankündigt"
+    ],
+    "antwort": 1,
+    "erklaerung": "Nach § 40 Abs. 2 GmbHG reicht der Notar die Liste unverzüglich nach Wirksamwerden der Veränderung ein; bei einer aufschiebend bedingten Abtretung ist das der Bedingungseintritt. Eine Einreichung bereits nach Beurkundung wäre verfrüht, weil die Abtretung noch nicht wirksam ist."
+   },
+   {
+    "frage": "Welche Regelung sollte N wegen der Bedingung in den Vertrag aufnehmen?",
+    "optionen": [
+     "Eine Pflicht des Verkäufers, dem Notar den Zahlungseingang unverzüglich zu bestätigen",
+     "Eine Vollmacht für K, die Gesellschafterliste selbst beim Registergericht einzureichen",
+     "Eine Verpflichtung der GmbH, die Zahlung auf ein Notaranderkonto zu leisten",
+     "Eine Verpflichtung des Registergerichts, den Eingang des Kaufpreises zu prüfen"
+    ],
+    "antwort": 0,
+    "erklaerung": "Da der Notar erst nach Wirksamwerden einreichen darf, muss er vom Bedingungseintritt erfahren; der Praxishinweis empfiehlt deshalb die Verpflichtung des Verkäufers, den Zahlungseingang unverzüglich zu bestätigen. Die Einreichung obliegt bei notarieller Mitwirkung dem Notar (§ 40 Abs. 2 GmbHG), nicht dem Erwerber."
+   }
+  ],
+  "erklaerung": "Vor dem Entwurf sind Satzung, Gesellschafterliste und Registerauszug zu prüfen und der Grundbesitz zu klären (Anzeige an das FA Schwetzingen). Der Notar reicht die Liste erst nach Bedingungseintritt ein und sichert sich die Kenntnis vom Zahlungseingang durch eine Bestätigungspflicht des Verkäufers; bis zur Aufnahme der Liste gilt K gegenüber der Gesellschaft nicht als Gesellschafter (§ 16 Abs. 1 GmbHG)."
+ },
+ {
+  "id": "hand1-011",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Geschäftsführer – Vertretung, Bestellung, Abberufung, Amtsniederlegung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-geschaftsfuhrer-vertretung-bestellung-abberufung-amtsniederlegung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 35 Abs. 2 S. 1 GmbHG"
+  ],
+  "frage": "Wie vertreten mehrere Geschäftsführer die GmbH, wenn der Gesellschaftsvertrag keine Regelung zur Vertretung enthält?",
+  "optionen": [
+   "Jeder Geschäftsführer vertritt die Gesellschaft allein",
+   "Nur gemeinschaftlich (Gesamtvertretung)",
+   "Zwei Geschäftsführer gemeinsam oder ein Geschäftsführer mit einem Prokuristen",
+   "Der dienstälteste Geschäftsführer vertritt allein, die übrigen gemeinschaftlich"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 35 Abs. 2 S. 1 GmbHG gilt ohne abweichende Satzungsregelung Gesamtvertretung aller Geschäftsführer. Die unechte Gesamtvertretung (zwei Geschäftsführer gemeinsam oder ein Geschäftsführer mit Prokurist) ist zwar üblich, bedarf aber einer Satzungsregelung und ist nicht die gesetzliche Grundregel."
+ },
+ {
+  "id": "hand1-012",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Geschäftsführer – Vertretung, Bestellung, Abberufung, Amtsniederlegung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-geschaftsfuhrer-vertretung-bestellung-abberufung-amtsniederlegung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 46 Nr. 5 GmbHG",
+   "§ 35 Abs. 2 S. 2 GmbHG"
+  ],
+  "frage": "Geschäftsführer G will sein Amt niederlegen und sein Ausscheiden selbst zum Handelsregister anmelden. Wie muss die Niederlegung gestaltet werden?",
+  "optionen": [
+   "Mit sofortiger Wirkung, damit G bis zur Anmeldung noch im Amt ist",
+   "Unter der aufschiebenden Bedingung der Eintragung seines Ausscheidens im Handelsregister",
+   "Unter der auflösenden Bedingung, dass die Gesellschafterversammlung einen Nachfolger bestellt",
+   "Durch Erklärung gegenüber dem Registergericht, das die Niederlegung sodann einträgt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nur wenn die Amtsniederlegung unter der aufschiebenden Bedingung der Registereintragung steht, ist G im Zeitpunkt der Anmeldung noch Geschäftsführer und darf sein Ausscheiden selbst anmelden. Eine Niederlegung mit sofortiger Wirkung ist der typische Fehler: G ist dann sofort ausgeschieden und nicht mehr anmeldebefugt. Empfänger der Niederlegung ist das Bestellungsorgan, ohne abweichende Satzung die Gesellschafterversammlung (§ 46 Nr. 5 GmbHG), nicht das Registergericht; der Zugang bei einem Gesellschafter genügt (entsprechend § 35 Abs. 2 S. 2 GmbHG)."
+ },
+ {
+  "id": "hand1-013",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Geschäftsführer – Vertretung, Bestellung, Abberufung, Amtsniederlegung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-geschaftsfuhrer-vertretung-bestellung-abberufung-amtsniederlegung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 181 BGB"
+  ],
+  "frage": "Die Gesellschafterversammlung kann einen Geschäftsführer durch einfachen Beschluss von den Beschränkungen des § 181 BGB befreien, auch wenn der Gesellschaftsvertrag diese Möglichkeit nicht vorsieht.",
+  "antwort": false,
+  "erklaerung": "Eine Befreiung von § 181 BGB ist nur möglich, wenn der Gesellschaftsvertrag diese Möglichkeit vorsieht. Fehlt eine solche Satzungsgrundlage, reicht ein bloßer Gesellschafterbeschluss nicht aus; die Satzung müsste zuvor geändert werden. Eine erteilte Befreiung ist in der Anmeldung anzugeben."
+ },
+ {
+  "id": "hand1-014",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Geschäftsführer – Vertretung, Bestellung, Abberufung, Amtsniederlegung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-geschaftsfuhrer-vertretung-bestellung-abberufung-amtsniederlegung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 6 Abs. 3 S. 2 GmbHG",
+   "§ 46 Nr. 5 GmbHG"
+  ],
+  "frage": "Wer meldet die Abberufung eines Geschäftsführers zum Handelsregister an?",
+  "optionen": [
+   "Der abberufene Geschäftsführer selbst, da er sein eigenes Ausscheiden anzumelden hat",
+   "Die Gesellschafter, die den Abberufungsbeschluss gefasst haben, in vertretungsberechtigter Zahl",
+   "Verbleibende oder neue Geschäftsführer in vertretungsberechtigter Zahl",
+   "Der Notar, der die Niederschrift des Abberufungsbeschlusses beurkundet hat"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach der Abberufung ist der frühere Geschäftsführer nicht mehr anmeldebefugt; die Anmeldung erfolgt durch ein oder mehrere verbleibende oder neue Geschäftsführer in vertretungsberechtigter Zahl. Die Gesellschafter fassen zwar den Beschluss (dessen Niederschrift der Anmeldung beizufügen ist), sind aber nicht Vertretungsorgan und melden nicht an."
+ },
+ {
+  "id": "hand1-015",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Geschäftsführer – Vertretung, Bestellung, Abberufung, Amtsniederlegung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-geschaftsfuhrer-vertretung-bestellung-abberufung-amtsniederlegung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 6 Abs. 3 S. 2 GmbHG"
+  ],
+  "frage": "Die Bestellung eines Geschäftsführers wird erst mit Annahme wirksam; die Annahme kann darin liegen, dass der Geschäftsführer die Handelsregisteranmeldung über seine Bestellung unterschreibt.",
+  "antwort": true,
+  "erklaerung": "Die Bestellung ist ein Rechtsgeschäft, das der Annahme durch den Bestellten bedarf. Eine gesonderte Annahmeerklärung ist nicht erforderlich, weil bereits die Unterzeichnung der Registeranmeldung als Annahme gilt; wegen der Versicherungen muss der neue Geschäftsführer die Anmeldung ohnehin höchstpersönlich unterzeichnen."
+ },
+ {
+  "id": "hand1-016",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Gründung im vereinfachten Verfahren (Musterprotokoll)",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-grundung-im-vereinfachten-verfahren-musterprotokoll",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 2 Abs. 1a GmbHG"
+  ],
+  "frage": "Unter welchen Voraussetzungen steht das vereinfachte Gründungsverfahren mit Musterprotokoll nach § 2 Abs. 1a GmbHG offen?",
+  "optionen": [
+   "Höchstens drei Gesellschafter und ein einziger Geschäftsführer",
+   "Höchstens zwei Gesellschafter und höchstens zwei Geschäftsführer",
+   "Höchstens drei Gesellschafter; die Zahl der Geschäftsführer ist unbegrenzt",
+   "Nur Ein-Personen-Gesellschaften mit einem Geschäftsführer"
+  ],
+  "antwort": 0,
+  "erklaerung": "§ 2 Abs. 1a GmbHG eröffnet das vereinfachte Verfahren nur für GmbH oder UG mit höchstens drei Gesellschaftern und einem einzigen Geschäftsführer. Die Gründung mit Musterprotokoll bei mehr als drei Gesellschaftern oder mehreren Geschäftsführern ist ein typischer Fehler. Das Musterprotokoll gibt es als Anlage a für die Ein-Personen- und Anlage b für die Mehrpersonengesellschaft, es ist also nicht auf Ein-Personen-Gründungen beschränkt."
+ },
+ {
+  "id": "hand1-017",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Gründung im vereinfachten Verfahren (Musterprotokoll)",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-grundung-im-vereinfachten-verfahren-musterprotokoll",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 2 Abs. 1a GmbHG"
+  ],
+  "frage": "Bei der Gründung mit Musterprotokoll entfällt die notarielle Beurkundung; es genügt die Beglaubigung der Unterschriften der Gründer unter dem gesetzlichen Mustertext.",
+  "antwort": false,
+  "erklaerung": "Das Musterprotokoll bedarf der notariellen Beurkundung; der Gesetzgeber hat das Beurkundungserfordernis bewusst auch für das vereinfachte Verfahren beibehalten. Auch eine Vollmacht zur Gründung mit Musterprotokoll muss notariell beurkundet oder beglaubigt sein. Die Vereinfachung liegt im vorgegebenen Text und der Kostenfolge, nicht im Wegfall der Beurkundung."
+ },
+ {
+  "id": "hand1-018",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Gründung im vereinfachten Verfahren (Musterprotokoll)",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-grundung-im-vereinfachten-verfahren-musterprotokoll",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2 Abs. 1a S. 4 GmbHG",
+   "§ 181 BGB"
+  ],
+  "frage": "Welche Aussage zum Inhalt des gesetzlichen Musterprotokolls ist richtig?",
+  "optionen": [
+   "Das Musterprotokoll lässt Geld- und Sacheinlagen zu, sofern ein Sachgründungsbericht beigefügt wird",
+   "Der Geschäftsführer ist nach dem Musterprotokoll von den Beschränkungen des § 181 BGB befreit",
+   "Die Gründungskosten tragen stets die Gesellschafter persönlich im Verhältnis ihrer Nennbeträge",
+   "Das Musterprotokoll ersetzt Gründungsurkunde und Gesellschaftsvertrag; die Gesellschafterliste ist gesondert zu erstellen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Das Musterprotokoll befreit den Geschäftsführer von § 181 BGB. Es sieht ausschließlich Geldeinlagen vor (sofort vollständig oder zur Hälfte und im Übrigen nach Einforderungsbeschluss). Die Gründungskosten trägt die Gesellschaft bis zu einem festen Höchstbetrag, begrenzt auf die Höhe des Stammkapitals; nur übersteigende Kosten fallen den Gesellschaftern zur Last. Nach § 2 Abs. 1a S. 4 GmbHG vereinigt das Musterprotokoll Gründungsurkunde, Gesellschaftsvertrag und Gesellschafterliste."
+ },
+ {
+  "id": "hand1-019",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Gründung im vereinfachten Verfahren (Musterprotokoll)",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-grundung-im-vereinfachten-verfahren-musterprotokoll",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 107 Abs. 1 S. 2 GNotKG",
+   "§ 105 Abs. 6 GNotKG",
+   "§ 2 Abs. 1a GmbHG"
+  ],
+  "frage": "Zwei Gründer wollen das Musterprotokoll verwenden, aber eine Vinkulierungsklausel für die Geschäftsanteile ergänzen, um Kosten zu sparen. Wie ist die Rechtslage?",
+  "optionen": [
+   "Die Ergänzung ist zulässig, solange sie nur fakultative Satzungsbestandteile betrifft",
+   "Jede Abweichung vom gesetzlichen Wortlaut ist unzulässig; für eine Vinkulierung ist die individuelle Gründung erforderlich",
+   "Die Ergänzung ist zulässig, dann gilt aber der Mindestwert nach § 107 Abs. 1 S. 1 GNotKG",
+   "Die Ergänzung ist zulässig, wenn alle Gesellschafter dem Zusatz zustimmen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei der Gründung mit Musterprotokoll ist jede Abweichung vom gesetzlichen Wortlaut unzulässig; das Musterprotokoll beschränkt sich auf die notwendigen Satzungsbestandteile und enthält gerade keine Regelungen zu Vinkulierung, Einziehung, Abfindung oder Vererbung. Wer solche Regelungen will, muss individuell gründen. Der Kostenvorteil des Musterprotokolls (kein Mindestwert nach § 107 Abs. 1 S. 1 GNotKG, vgl. § 107 Abs. 1 S. 2, § 105 Abs. 6 GNotKG) ist im Einzelfall ohnehin gering, weshalb in der Regel von der Mustergründung abzuraten ist."
+ }
+]

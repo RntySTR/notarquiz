@@ -366,5 +366,650 @@
    ]
   ],
   "erklaerung": "§ 127 Abs. 1 BauGB begründet die Beitragserhebung, § 134 Abs. 1 S. 1 BauGB bestimmt den Eigentümer bei Bescheidbekanntgabe als Schuldner. § 436 Abs. 1 BGB regelt nur das Innenverhältnis der Kaufvertragsparteien nach dem bautechnischen Beginn. Die vertragliche Abgrenzung nach Bescheidzugang erfasst beim Veräußerer auch Kostenerstattungen für Hausanschlüsse und Erstattungsbeträge nach § 135a BauGB."
+ },
+ {
+  "id": "kauf1-017",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Miet- und Pachtverhältnisse und Mietervorkaufsrecht",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-miet-und-pachtverhaltnisse-und-mietervorkaufsrecht",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 566 Abs. 1 BGB",
+   "§ 581 Abs. 2 BGB"
+  ],
+  "frage": "Welche Rechtsfolge ordnet § 566 Abs. 1 BGB bei der Veräußerung vermieteten Wohnraums nach Überlassung an den Mieter an?",
+  "optionen": [
+   "Das Mietverhältnis endet mit der Eigentumsumschreibung, der Erwerber kann einen neuen Mietvertrag schließen.",
+   "Der Erwerber tritt für die Dauer seines Eigentums an die Stelle des Vermieters in die Rechte und Pflichten aus dem Mietverhältnis ein.",
+   "Der Veräußerer bleibt Vermieter, bis der Mieter dem Vermieterwechsel zustimmt.",
+   "Der Erwerber tritt erst mit der Besitzübergabe kraft Gesetzes in das Mietverhältnis ein."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 566 Abs. 1 BGB tritt der Erwerber für die Dauer seines Eigentums an die Stelle des Vermieters; die Regel gilt über § 581 Abs. 2 BGB auch für Pachtverträge. Der gesetzliche Eintritt knüpft an den Eigentumsübergang, nicht an die Besitzübergabe, und lässt sich von den Parteien zeitlich nicht verschieben. Eine Zustimmung des Mieters ist nicht erforderlich; das Mietverhältnis endet nicht."
+ },
+ {
+  "id": "kauf1-018",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Miet- und Pachtverhältnisse und Mietervorkaufsrecht",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-miet-und-pachtverhaltnisse-und-mietervorkaufsrecht",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 566a S. 2 BGB"
+  ],
+  "frage": "Nach § 566a S. 2 BGB bleibt der Veräußerer zur Rückgewähr der Mietsicherheit verpflichtet, wenn der Mieter sie bei Mietende vom Erwerber nicht erhält, es sei denn, der Mieter war mit dem Übergang der Sicherheit auf den Erwerber einverstanden.",
+  "antwort": true,
+  "erklaerung": "§ 566a S. 2 BGB ordnet die fortbestehende Haftung des Veräußerers für die Mietsicherheit an; sie entfällt nur, wenn der Mieter mit dem Übergang der Sicherheit auf den Erwerber einverstanden ist. Der Notar hat den Veräußerer auf diese Nachhaftung hinzuweisen. Die Abtretung mietvertraglicher Rechte an den Erwerber ändert daran im Verhältnis zum Mieter nichts."
+ },
+ {
+  "id": "kauf1-019",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Miet- und Pachtverhältnisse und Mietervorkaufsrecht",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-miet-und-pachtverhaltnisse-und-mietervorkaufsrecht",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 566 BGB",
+   "§ 435 S. 1 BGB"
+  ],
+  "frage": "Die Vermieterstellung soll wirtschaftlich bereits mit der Besitzübergabe auf den Erwerber übergehen, die Eigentumsumschreibung erfolgt aber erst Monate später. Welche Gestaltung empfiehlt die Seite?",
+  "optionen": [
+   "Vereinbarung, dass § 566 BGB bereits ab Besitzübergabe gilt; diese Vorverlegung ist zulässig.",
+   "Vollmacht zur Ausübung der Vermieterrechte und Abtretung sämtlicher mietvertraglicher Rechte und Forderungen ab Besitzübergang.",
+   "Kündigung des Mietverhältnisses durch den Veräußerer und Neuabschluss durch den Erwerber ab Besitzübergabe.",
+   "Hinterlegung der Mieten auf Notaranderkonto bis zur Eigentumsumschreibung."
+  ],
+  "antwort": 1,
+  "erklaerung": "Den gesetzlichen Eintritt nach § 566 BGB können die Parteien zeitlich nicht verschieben; er knüpft an den Eigentumsübergang. Mit einer Vollmacht, die dem Erwerber die Ausübung der Vermieterrechte ermöglicht, und einer Abtretung aller mietvertraglichen Rechte und Forderungen ab Besitzübergang wird aber eine Lage erreicht, die § 566 BGB weitgehend entspricht. Kündigung und Neuabschluss sind weder nötig noch ohne Mitwirkung des Mieters möglich."
+ },
+ {
+  "id": "kauf1-020",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Miet- und Pachtverhältnisse und Mietervorkaufsrecht",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-miet-und-pachtverhaltnisse-und-mietervorkaufsrecht",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 577 Abs. 1 S. 1 BGB"
+  ],
+  "frage": "Unter welcher Voraussetzung steht dem Mieter beim Verkauf einer Eigentumswohnung das Vorkaufsrecht nach § 577 Abs. 1 S. 1 BGB zu?",
+  "optionen": [
+   "Immer, wenn die verkaufte Eigentumswohnung im Zeitpunkt des Verkaufs vermietet ist.",
+   "Wenn das Wohnungseigentum begründet wurde, nachdem die Räume dem Mieter überlassen waren, und die Wohnung danach an einen Dritten verkauft wird.",
+   "Wenn das Mietverhältnis seit mindestens drei Jahren besteht und der Mieter die Wohnung selbst bewohnt.",
+   "Wenn der Erwerber Eigenbedarf geltend machen will."
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 577 Abs. 1 S. 1 BGB setzt voraus, dass an den Wohnräumen Wohnungseigentum begründet wurde, nachdem sie dem Mieter überlassen waren, und dass die Wohnung danach an einen Dritten verkauft wird. Das bloße Bestehen eines Mietverhältnisses beim Verkauf genügt nicht; bei vermietetem Wohnungseigentum ist deshalb die zeitliche Reihenfolge von Überlassung und Begründung des Wohnungseigentums zu prüfen."
+ },
+ {
+  "id": "kauf1-021",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Rechtsmängel und Übernahme von Belastungen",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-rechtsmangel-und-ubernahme-von-belastungen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 19 GBO",
+   "§ 13 GBO",
+   "§ 27 GBO"
+  ],
+  "frage": "Welche Erklärungen erfordert die Löschung eines Grundpfandrechts verfahrensrechtlich?",
+  "optionen": [
+   "Bewilligung des Eigentümers (§ 19 GBO) und Antrag (§ 13 GBO); der Gläubiger muss nur angehört werden.",
+   "Bewilligung des Gläubigers (§ 19 GBO), Antrag (§ 13 GBO) und Zustimmung des Eigentümers (§ 27 GBO).",
+   "Bewilligung des Gläubigers (§ 19 GBO) und Einigung nach § 20 GBO.",
+   "Antrag des Notars (§ 13 Abs. 1 S. 3 GBO) und Zustimmung des Eigentümers (§ 27 GBO)."
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Löschung eines Grundpfandrechts verlangt die Bewilligung des betroffenen Gläubigers (§ 19 GBO), einen Antrag (§ 13 GBO) und zusätzlich die Zustimmung des Eigentümers (§ 27 GBO). Bewilligender ist der Gläubiger als Rechtsverlierender, nicht der Eigentümer; § 20 GBO betrifft nur Auflassung und Erbbaurecht. Die Eigentümerzustimmung nach § 27 GBO ist das besondere Zusatzerfordernis bei Grundpfandrechten."
+ },
+ {
+  "id": "kauf1-022",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Rechtsmängel und Übernahme von Belastungen",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-rechtsmangel-und-ubernahme-von-belastungen",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 435 BGB"
+  ],
+  "frage": "Im Grundbuch ist in Abteilung III eine valutierte Grundschuld der Hausbank des Veräußerers eingetragen, die aus dem Kaufpreis abgelöst werden soll. Welche Fälligkeitsgestaltung ist richtig?",
+  "optionen": [
+   "Die eingetragene Löschung der Grundschuld wird Fälligkeitsvoraussetzung, da sie bereits mit der Vormerkung beantragt werden kann.",
+   "Die Löschung kann nicht Fälligkeitsvoraussetzung sein; der Notar muss zur Fälligkeit aber alle Löschungsunterlagen in Händen haben, und der Veräußerer kann in Höhe der Ablösebeträge nicht Zahlung an sich verlangen.",
+   "Der Veräußerer muss die Grundschuld vor Beurkundung aus eigenen Mitteln ablösen, sonst darf der Notar nicht beurkunden.",
+   "Die Grundschuld wird zwingend vom Erwerber übernommen, da sie valutiert."
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei valutierten Grundpfandrechten werden die gesicherten Forderungen im Vollzug aus dem Kaufpreis getilgt; die Löschung erfolgt erst nach Zahlung und kann daher keine Fälligkeitsvoraussetzung sein. Zur Fälligkeit müssen dem Notar aber sämtliche Unterlagen für die Löschung mit der Eigentumsumschreibung vorliegen, und in Höhe der Ablösebeträge darf der Veräußerer nicht Zahlung an sich verlangen. Die Löschung als Fälligkeitsvoraussetzung passt nur bei nicht valutierten Grundpfandrechten. Eine Übernahmepflicht des Erwerbers besteht nie."
+ },
+ {
+  "id": "kauf1-023",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Rechtsmängel und Übernahme von Belastungen",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-rechtsmangel-und-ubernahme-von-belastungen",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 435 S. 1 BGB"
+  ],
+  "frage": "Baulasten und altrechtliche Grunddienstbarkeiten muss der Veräußerer zur Herstellung der Lastenfreiheit regelmäßig beseitigen, da sie Rechte Dritter im Sinne des § 435 S. 1 BGB sind.",
+  "antwort": false,
+  "erklaerung": "Nicht im Grundbuch eingetragene Lasten wie Baulasten oder altrechtliche Grunddienstbarkeiten braucht der Veräußerer regelmäßig nicht zu beseitigen. Die vertragliche Lastenfreistellung bezieht sich auf die Belastungen in Abteilung II und III, für die festgelegt wird, ob der Erwerber übernimmt oder der Veräußerer löschen lässt. Der Notar weist nur darauf hin, dass die Gemeinde das Baulastenverzeichnis führt und die Beteiligten es selbst einsehen können."
+ },
+ {
+  "id": "kauf1-024",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Rechtsmängel und Übernahme von Belastungen",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-rechtsmangel-und-ubernahme-von-belastungen",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 435 BGB",
+   "§ 19 GBO",
+   "§ 27 GBO"
+  ],
+  "frage": "Ordne die Belastungen der typischen Behandlung im Grundstückskaufvertrag zu.",
+  "paare": [
+   [
+    "Geh-, Fahr- und Leitungsrechte (Abt. II)",
+    "Übernahme durch den Erwerber, da regelmäßig nicht wertmindernd"
+   ],
+   [
+    "Nießbrauch, Wohnungsrecht, Vormerkung (Abt. II)",
+    "Löschung; bei Mitwirkung des Berechtigten Bewilligung und Antrag in der Urkunde"
+   ],
+   [
+    "Nicht valutiertes Grundpfandrecht (Abt. III)",
+    "Löschungsunterlagen vom Veräußerer schon zum Termin beschaffbar; Löschung kann Fälligkeitsvoraussetzung sein"
+   ],
+   [
+    "Valutiertes Grundpfandrecht (Abt. III)",
+    "Ablösung aus dem Kaufpreis; Löschung erst nach Zahlung, keine Fälligkeitsvoraussetzung"
+   ]
+  ],
+  "erklaerung": "Wertneutrale Dienstbarkeiten werden übernommen, wobei der Erwerber in die Rechte und Pflichten aus der Eintragungsbewilligung eintritt. Nießbrauch, Wohnungsrechte und Vormerkungen werden regelmäßig gelöscht (§§ 19, 13 GBO). Bei nicht valutierten Grundpfandrechten kann der Veräußerer die Löschung ohne Weiteres veranlassen und der Löschungsantrag mit der Vormerkung gestellt werden; bei valutierten Rechten erfolgt die Löschung erst nach Ablösung aus dem Kaufpreis."
+ },
+ {
+  "id": "kauf1-025",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Sachmängelhaftung und Haftungsausschluss",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-sachmangelhaftung-und-haftungsausschluss",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 444 BGB",
+   "§ 276 Abs. 3 BGB"
+  ],
+  "frage": "Wofür haftet der Veräußerer trotz eines vollständigen Haftungsausschlusses für Sachmängel?",
+  "optionen": [
+   "Für alle verborgenen Mängel, die der Erwerber bei der Besichtigung nicht erkennen konnte.",
+   "Für Mängel, die er vorsätzlich oder arglistig verschwiegen hat (§ 444 BGB, § 276 Abs. 3 BGB).",
+   "Für Mängel, die innerhalb von zwei Jahren nach Übergabe auftreten.",
+   "Für alle Mängel an mitverkauften beweglichen Sachen."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 444 BGB kann sich der Verkäufer auf den Haftungsausschluss nicht berufen, soweit er den Mangel arglistig verschwiegen hat; § 276 Abs. 3 BGB verbietet den Vorausverzicht auf die Haftung für Vorsatz. Der Ausschluss erfasst dagegen gerade auch verborgene Mängel, die der Erwerber trotz gründlicher Besichtigung nicht erkennen konnte. Eine Zweijahresfrist gilt nur für die Einordnung eines genutzten Gebäudes als Neubau."
+ },
+ {
+  "id": "kauf1-026",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Sachmängelhaftung und Haftungsausschluss",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-sachmangelhaftung-und-haftungsausschluss",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 309 Nr. 7 BGB",
+   "§ 305 ff. BGB"
+  ],
+  "frage": "Eine Immobilien-GmbH verkauft ein gebrauchtes Einfamilienhaus an einen Verbraucher unter vollständigem Ausschluss der Sachmängelhaftung. Welche Einschränkung muss der Notar vorsehen?",
+  "optionen": [
+   "Ein Haftungsausschluss ist im Verbrauchervertrag mit Unternehmer als Veräußerer generell unzulässig.",
+   "Der Ausschluss darf die Haftung für Schäden aus Verletzung von Leben, Körper oder Gesundheit bei fahrlässiger und für sonstige Schäden bei grob fahrlässiger Pflichtverletzung nicht erfassen (§ 309 Nr. 7 lit. a und b BGB).",
+   "Der Ausschluss ist nur zulässig, wenn der Käufer vor Beurkundung ein Sachverständigengutachten erhalten hat.",
+   "Die Verjährung der Mängelansprüche darf auf höchstens ein Jahr verkürzt werden, ein weitergehender Ausschluss ist unwirksam."
+  ],
+  "antwort": 1,
+  "erklaerung": "Auch im Verbrauchervertrag mit einem Unternehmer als Veräußerer ist ein umfassender Haftungsausschluss grundsätzlich zulässig, unterliegt aber den §§ 305 ff. BGB. Nach § 309 Nr. 7 lit. a und b BGB darf die Haftung für Personenschäden bei Fahrlässigkeit und für sonstige Schäden bei grober Fahrlässigkeit nicht ausgeschlossen werden, auch nicht für gesetzliche Vertreter und Erfüllungsgehilfen; Schadensersatz lässt sich nur für leichte Fahrlässigkeit außerhalb von Leben, Körper und Gesundheit ausschließen. Die Ausnahmen wegzulassen ist der typische Fehler. Dieselbe Grenze gilt beim Verkauf von Unternehmer an Unternehmer."
+ },
+ {
+  "id": "kauf1-027",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Sachmängelhaftung und Haftungsausschluss",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-sachmangelhaftung-und-haftungsausschluss",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 434 Abs. 2 Nr. 1 BGB"
+  ],
+  "frage": "Die Angabe des Veräußerers im Kaufvertrag, der Keller sei bei Starkregen in der Vergangenheit feucht geworden, ist eine Beschaffenheitsvereinbarung nach § 434 Abs. 2 Nr. 1 BGB.",
+  "antwort": false,
+  "erklaerung": "Die Offenlegung bekannter Mängel im Vertrag ist rechtlich eine bloße Wissenserklärung und keine Beschaffenheitsvereinbarung nach § 434 Abs. 2 Nr. 1 BGB. Sie schließt den Vorwurf des arglistigen Verschweigens aus und informiert den Erwerber über die Ausgangslage. Soll der Veräußerer für Umstände einstehen, sind Beschaffenheitsvereinbarungen oder Garantien ausdrücklich aufzunehmen; eine Garantie begründet eine verschuldensunabhängige Haftung."
+ },
+ {
+  "id": "kauf1-028",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Sachmängelhaftung und Haftungsausschluss",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-sachmangelhaftung-und-haftungsausschluss",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§§ 633 ff. BGB",
+   "§ 305 ff. BGB",
+   "§ 437 BGB"
+  ],
+  "frage": "Verkauf eines fast neuen Hauses durch Privatperson",
+  "sachverhalt": "Die Privatperson V hat vor 18 Monaten ein Einfamilienhaus durch den Generalunternehmer G errichten lassen und seither bewohnt. Nun verkauft V das Haus an den Verbraucher K und wünscht einen vollständigen Ausschluss der Mängelhaftung.",
+  "schritte": [
+   {
+    "frage": "Welches Haftungsregime gilt für das Gebäude?",
+    "optionen": [
+     "Kaufrecht mit zweijähriger Verjährung, weil V Verbraucher ist.",
+     "Werkvertragsrecht (§§ 633 ff. BGB) mit fünfjähriger Verjährung, weil ein genutztes Gebäude bis zwei Jahre ab Fertigstellung als neu gilt.",
+     "Kaufrecht, weil das Gebäude bereits bewohnt wurde und damit gebraucht ist.",
+     "Werkvertragsrecht nur, wenn V selbst Bauunternehmer ist."
+    ],
+    "antwort": 1,
+    "erklaerung": "Verkauft jemand, auch ein Verbraucher, ein Grundstück mit einem neuen oder grundlegend sanierten Gebäude, gilt Werkvertragsrecht mit der fünfjährigen Verjährung. Ein bereits bewohntes Gebäude gilt bis zwei Jahre ab Fertigstellung als neu; bei 18 Monaten ist das der Fall. Die Nutzung macht das Gebäude innerhalb dieser Frist nicht zur Gebrauchtimmobilie."
+   },
+   {
+    "frage": "Ist der von V gewünschte vollständige Haftungsausschluss möglich?",
+    "optionen": [
+     "Nein, bei Neubauten ist ein Haftungsausschluss stets unwirksam.",
+     "Nur innerhalb der Grenzen des § 309 Nr. 7 BGB, weil K Verbraucher ist.",
+     "Ja, weil V Verbraucher ist und die §§ 305 ff. BGB dann nicht anwendbar sind.",
+     "Nur, wenn G dem Ausschluss zustimmt."
+    ],
+    "antwort": 2,
+    "erklaerung": "Ist der Veräußerer Verbraucher, bleibt der Haftungsausschluss auch beim Neubau möglich, weil die §§ 305 ff. BGB nicht anwendbar sind. Die Grenzen des § 309 Nr. 7 BGB greifen nur, wenn ein Unternehmer auf Veräußererseite steht. Auf die Verbrauchereigenschaft des Käufers kommt es hierfür nicht an."
+   },
+   {
+    "frage": "Welche Gestaltung sollte der Notar mit dem Haftungsausschluss verbinden?",
+    "optionen": [
+     "Eine Garantie des V für die Mangelfreiheit des Rohbaus.",
+     "Die Abtretung aller Ansprüche des V gegen Baubeteiligte wie G, Architekten und Lieferanten an K, ohne Haftung des V für Bestand und Durchsetzbarkeit, verbunden mit eingehender Belehrung des K.",
+     "Eine Verlängerung der Verjährung auf zehn Jahre.",
+     "Eine Bürgschaft des G zugunsten des K."
+    ],
+    "antwort": 1,
+    "erklaerung": "Beim Haftungsausschluss für Neubau oder Sanierung sollte der Erwerber im Wege der Abtretung alle Ansprüche gegen Baubeteiligte erhalten; deren Haftung ersetzt dann die des Veräußerers. Für Bestand, Durchsetzbarkeit und Umfang der abgetretenen Ansprüche haftet V nicht, und der Notar muss K über die Folgen eingehend belehren. Eine Garantie würde die gewünschte Haftungsfreistellung gerade aufheben."
+   }
+  ],
+  "erklaerung": "Ein bewohntes Gebäude gilt bis zwei Jahre ab Fertigstellung als neu, sodass Werkvertragsrecht mit fünfjähriger Verjährung gilt. Da V Verbraucher ist, bleibt der Haftungsausschluss möglich; er ist mit der Abtretung der Ansprüche gegen die Baubeteiligten und einer eingehenden Belehrung des Erwerbers zu verbinden."
+ },
+ {
+  "id": "kauf1-029",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Sicherung des Verkäufers bis zur Eigentumsumschreibung",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-sicherung-des-verkaufers-bis-zur-eigentumsumschreibung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 13 Abs. 1 S. 3 GBO"
+  ],
+  "frage": "Welche Bedeutung hat § 13 Abs. 1 S. 3 GBO für die Sicherung des Verkäufers gegen eine vorzeitige Eigentumsumschreibung?",
+  "optionen": [
+   "Die Vorschrift sichert den Verkäufer ausreichend, weil nur der Notar den Umschreibungsantrag stellen kann.",
+   "Sie ist eine Soll-Vorschrift, die die vertraglichen Sicherungsgestaltungen nicht ersetzt; ein entgegen der Vorschrift vollzogener Eigentumsübergang ist wirksam.",
+   "Sie führt zur Unwirksamkeit einer Eigentumsumschreibung, die nicht auf Antrag eines Notars erfolgt ist.",
+   "Sie verpflichtet das Grundbuchamt, vor der Umschreibung die Kaufpreiszahlung zu prüfen."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 13 Abs. 1 S. 3 GBO soll das Grundbuchamt die Auflassung nur auf Antrag eines Notars eintragen. Als bloße Soll-Vorschrift ersetzt sie die vertragliche Umschreibungssperre nicht; vollzieht das Grundbuchamt dennoch, ist der Eigentumsübergang wirksam. Das Vertrauen auf diese Norm statt einer Bewilligungs- oder Ausfertigungssperre ist der typische Fehler. Eine Prüfung der Kaufpreiszahlung durch das Grundbuchamt findet nicht statt."
+ },
+ {
+  "id": "kauf1-030",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Sicherung des Verkäufers bis zur Eigentumsumschreibung",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-sicherung-des-verkaufers-bis-zur-eigentumsumschreibung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 117 Abs. 1 InsO",
+   "§ 19 GBO"
+  ],
+  "frage": "Warum ist die Bewilligungssperre mit aufschiebend bedingter Bewilligung des Verkäufers der Bewilligungssperre ohne Bewilligung vorzuziehen?",
+  "optionen": [
+   "Weil bei der bedingten Bewilligung keine Mitwirkung des Insolvenzverwalters mehr nötig ist.",
+   "Weil der Verkäufer selbst bewilligt und keine Vollmacht erteilt wird, die in seiner Insolvenz nach § 117 Abs. 1 InsO erlöschen könnte.",
+   "Weil das Grundbuchamt eine durch Eigenurkunde des Notars abgegebene Bewilligung nicht akzeptiert.",
+   "Weil die bedingte Bewilligung keine Siegelung des Antragsschreibens erfordert."
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei der Bewilligungssperre ohne Bewilligung gibt der Notar die Bewilligung nach § 19 GBO kraft Vollmacht des Verkäufers ab; in dessen Insolvenz erlöschen die Vollmachten (§ 117 Abs. 1 InsO), sodass der Notar nicht mehr bewilligen kann. Bewilligt der Verkäufer selbst, aufschiebend bedingt durch den Antrag des Notars in Eigenurkunde, fällt keine Vollmacht weg. Die Mitwirkung des Insolvenzverwalters bleibt gleichwohl erforderlich, und in beiden Varianten ist das Antragsschreiben zu siegeln."
+ },
+ {
+  "id": "kauf1-031",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Sicherung des Verkäufers bis zur Eigentumsumschreibung",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-sicherung-des-verkaufers-bis-zur-eigentumsumschreibung",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 19 GBO",
+   "§ 117 Abs. 1 InsO"
+  ],
+  "frage": "Ordne die Sicherungsgestaltungen ihrem Mechanismus zu.",
+  "paare": [
+   [
+    "Bewilligungssperre ohne Bewilligung",
+    "Auflassung ohne Bewilligung und Antrag; Notar bewilligt nach Zahlungsnachweis durch Eigenurkunde kraft Vollmacht"
+   ],
+   [
+    "Bewilligungssperre mit bedingter Bewilligung",
+    "Verkäufer bewilligt selbst, aufschiebend bedingt durch den Antrag des Notars in Eigenurkunde"
+   ],
+   [
+    "Ausfertigungssperre",
+    "Auflassung mit unbedingter Bewilligung; bis zum Zahlungsnachweis nur auszugsweise Ausfertigungen ohne Auflassung"
+   ],
+   [
+    "Gesonderte Auflassung",
+    "Auflassung wird erst nach vollständiger Zahlung in zweiter Urkunde beurkundet, mit Mehrkosten"
+   ]
+  ],
+  "erklaerung": "Alle vier Gestaltungen verhindern, dass die Beteiligten die Umschreibung vor vollständiger Kaufpreiszahlung selbst herbeiführen. Die Bewilligungssperre ohne Bewilligung ist wegen § 117 Abs. 1 InsO insolvenzanfällig, die bedingte Bewilligung vermeidet den Vollmachtswegfall. Die Ausfertigungssperre beruht auf der Anweisung, nur auszugsweise Ausfertigungen zu erteilen; die gesonderte Auflassung verursacht eine zweite Urkunde mit zusätzlichen Kosten."
+ },
+ {
+  "id": "kauf1-032",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Grundstückskaufvertrag: Sicherung des Verkäufers bis zur Eigentumsumschreibung",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-sicherung-des-verkaufers-bis-zur-eigentumsumschreibung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 16a GwG"
+  ],
+  "frage": "Vor dem Umschreibungsantrag benötigt der Notar das Einverständnis des Verkäufers mit dem Vollzug der Auflassung und muss die Prüfpflichten nach § 16a GwG erfüllt haben.",
+  "antwort": true,
+  "erklaerung": "Die Umschreibung setzt die Auflassungseinverständniserklärung des Verkäufers voraus, regelmäßig in Form der originalschriftlichen Zahlungsbestätigung über den gesamten Kaufpreis, ersatzweise einer Bankbestätigung des Erwerbers. Zusätzlich muss der Notar die Prüfpflichten nach § 16a GwG erfüllen, bevor er den Antrag stellt. Nach dem Endvollzug ist die Eintragungsbekanntmachung mit jedem Antrag der Urkunde abzugleichen."
+ },
+ {
+  "id": "kauf1-033",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Verträge mit der Gemeinde: Ablösungsvereinbarung über Erschließungsbeiträge",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/vertrage-mit-der-gemeinde-ablosungsvereinbarung-uber-erschliessungsbeitrage",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 133 BauGB",
+   "§ 139 BGB"
+  ],
+  "frage": "Welche Voraussetzung gehört NICHT zu den vier Voraussetzungen einer wirksamen Ablösungsvereinbarung über Erschließungsbeiträge beim Kauf von der Gemeinde?",
+  "optionen": [
+   "Der Beitrag ist noch nicht entstanden.",
+   "Der Ablösungsbetrag ist im Kaufvertrag gesondert ausgewiesen.",
+   "Der Notar hat die Angemessenheit des Ablösungsbetrags rechnerisch geprüft und bestätigt.",
+   "Es bestehen ausreichende gemeindliche Ablösungsbestimmungen (Satzung oder Gemeinderatsbeschluss)."
+  ],
+  "antwort": 2,
+  "erklaerung": "Die vier Voraussetzungen sind: noch nicht entstandener Beitrag, gesonderter Ausweis des Ablösungsbetrags, ausreichende gemeindliche Ablösungsbestimmungen und Angemessenheit der Ablöseforderung. Die inhaltliche Prüfung der Ablösungsbestimmungen und der Angemessenheit ist nicht Aufgabe des Notars; von ihm kann nur eine Evidenzkontrolle verlangt werden. Eine spätere Abweichung des Ablösungsbetrags von der tatsächlichen Beitragshöhe ist unschädlich, weil die Ablösung ihrer Natur nach pauschaliert."
+ },
+ {
+  "id": "kauf1-034",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Verträge mit der Gemeinde: Ablösungsvereinbarung über Erschließungsbeiträge",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/vertrage-mit-der-gemeinde-ablosungsvereinbarung-uber-erschliessungsbeitrage",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 311b Abs. 1 BGB"
+  ],
+  "frage": "Wurde die Ablösungsvereinbarung über Erschließungsbeiträge bereits vor dem Kaufvertrag mit der Gemeinde getroffen, ist sie formfrei und muss nicht mitbeurkundet werden.",
+  "antwort": false,
+  "erklaerung": "Die Ablösungsvereinbarung bildet für die Beteiligten typischerweise mit dem Kauf eine Einheit, weil der Kauf inhaltlich von ihr abhängt und sie wirtschaftlich den Gesamtpreis prägt; sie ist deshalb in der Regel beurkundungspflichtig. Daran ändert sich nichts, wenn sie schon vor dem Kaufvertrag vereinbart wurde. Nur wenn ausnahmsweise keine inhaltliche Verbindung besteht, ist sie für sich genommen formfrei."
+ },
+ {
+  "id": "kauf1-035",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Verträge mit der Gemeinde: Ablösungsvereinbarung über Erschließungsbeiträge",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/vertrage-mit-der-gemeinde-ablosungsvereinbarung-uber-erschliessungsbeitrage",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "Art. 5a KAG Bayern",
+   "§ 139 BGB"
+  ],
+  "frage": "Warum kann nach der Rechtsprechung des BayVGH bei leitungsgebundenen Einrichtungen in Bayern für ein gemeindeeigenes Grundstück keine Ablösung mehr vereinbart werden, sobald die Anlagen fertiggestellt und gewidmet sind?",
+  "optionen": [
+   "Weil der Beitrag nach Art. 5a KAG Bayern bereits entsteht, obwohl die Gemeinde noch Eigentümerin ist, und sofort durch Konfusion erlischt.",
+   "Weil bayerisches Recht Ablösungsvereinbarungen generell verbietet.",
+   "Weil der Beitrag erst mit Veräußerung des Grundstücks entsteht und daher nicht abgelöst werden kann.",
+   "Weil die Ablösung nur bis zur Widmung der Straße, nicht aber bei Leitungen zulässig ist."
+  ],
+  "antwort": 0,
+  "erklaerung": "Bundesrechtlich setzt die Beitragspflicht voraus, dass das Grundstück nicht mehr der Gemeinde gehört, weshalb eine Ablösung für gemeindliche Grundstücke immer möglich ist. Nach dem BayVGH entsteht bei leitungsgebundenen Einrichtungen der Beitrag nach Art. 5a KAG Bayern dagegen schon mit Abschluss und Widmung der Anlagen, auch wenn die Gemeinde Eigentümerin ist, und erlischt sofort durch Konfusion; ein noch nicht entstandener Beitrag als Ablösungsvoraussetzung fehlt dann. Die Gemeinde darf den Betrag in diesem Fall als Kaufpreisteil ohne gesonderten Ausweis einrechnen."
+ },
+ {
+  "id": "kauf1-036",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Verträge mit der Gemeinde: Erschließungskosten, Bescheids- und Vollerschließungsmodell",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/vertrage-mit-der-gemeinde-erschliessungskosten-bescheids-und-vollerschliessungsmodell",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 436 Abs. 1 BGB",
+   "§§ 127 ff. BauGB"
+  ],
+  "frage": "Beim Bauplatzkauf von der Gemeinde wird meist das Bescheidsmodell gewählt. Was kennzeichnet es?",
+  "optionen": [
+   "Die Gemeinde übernimmt sämtliche Erschließungskosten und erklärt sie als im Gesamtpreis enthalten.",
+   "Der Erwerber übernimmt alle Erschließungskosten, über die erst nach Vertragsschluss oder Besitzübergang ein Bescheid ergeht; er trägt ein Kostenrisiko, aber kein technisches Vorleistungsrisiko.",
+   "Der Veräußerer trägt nach § 436 Abs. 1 BGB alle Maßnahmen, mit deren Bau vor Vertragsschluss begonnen wurde.",
+   "Der Erwerber leistet eine Vorauszahlung, die auf den späteren Beitrag angerechnet wird."
+  ],
+  "antwort": 1,
+  "erklaerung": "Beim Bescheidsmodell übernimmt der Erwerber sämtliche Erschließungskosten, über die erst nach Vertragsschluss (oder Besitzübergang) ein Bescheid ergeht; für den Veräußerer ist das klar kalkulierbar, für den Erwerber mit einem Risiko, aber nicht mit einem technischen Vorleistungsrisiko verbunden. Die gesetzliche Verteilung nach § 436 Abs. 1 BGB knüpft an den schwer feststellbaren bautechnischen Beginn an und ist praktisch nahezu bedeutungslos. Die Übernahme aller Kosten durch die Gemeinde als verdeckter Pauschalpreis ist öffentlich-rechtlich unzulässig."
+ },
+ {
+  "id": "kauf1-037",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Verträge mit der Gemeinde: Erschließungskosten, Bescheids- und Vollerschließungsmodell",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/vertrage-mit-der-gemeinde-erschliessungskosten-bescheids-und-vollerschliessungsmodell",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "Art. 3 Abs. 1 GG",
+   "§ 436 Abs. 1 BGB"
+  ],
+  "frage": "Die Gemeinde G verkauft einen Bauplatz „vollerschlossen“ zu einem Gesamtpreis und erklärt, sämtliche Erschließungskosten seien darin enthalten. Wie ist diese Gestaltung zu beurteilen?",
+  "optionen": [
+   "Zulässig, weil die Gemeinde als Verkäuferin frei über die Kostentragung im Innenverhältnis entscheiden kann.",
+   "Unzulässig, weil Gemeinden nicht auf Abgaben verzichten dürfen und der Grundsatz der Abgabengerechtigkeit (Art. 3 Abs. 1 GG) eine Kontrolle der Gleichbehandlung erfordert; der Erschließungsanteil muss als Ablösung ausgewiesen werden.",
+   "Zulässig, sofern der Notar den Erwerber über das Vorleistungsrisiko doppelt belehrt.",
+   "Unzulässig nur dann, wenn der Gesamtpreis unter dem Verkehrswert liegt."
+  ],
+  "antwort": 1,
+  "erklaerung": "Ein verdeckter Pauschalpreis, bei dem die Gemeinde alle Erschließungskosten übernimmt und sie lediglich als im Gesamtpreis enthalten erklärt, ist mit öffentlichem Recht nicht vereinbar: Gemeinden dürfen nicht auf Abgaben und Beiträge verzichten, und nach Art. 3 Abs. 1 GG muss für Erwerber und andere Beitragspflichtige erkennbar bleiben, ob eine Ungleichbehandlung vorliegt. Die pauschale Abrechnung ist nur durch eine Ablösungsvereinbarung mit gesondertem Ausweis möglich. Die doppelte Belehrung betrifft das Vollerschließungsmodell bei privaten Veräußerern und heilt den öffentlich-rechtlichen Mangel nicht."
+ },
+ {
+  "id": "kauf1-038",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Besitz, Haftung und Eigentumsübergang",
+  "seite": "Verträge mit der Gemeinde: Erschließungskosten, Bescheids- und Vollerschließungsmodell",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/vertrage-mit-der-gemeinde-erschliessungskosten-bescheids-und-vollerschliessungsmodell",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§§ 127 ff. BauGB"
+  ],
+  "frage": "Für Beiträge zu leitungsgebundenen Einrichtungen wie Wasser-, Abwasser-, Strom- und Gasleitungen gelten die §§ 127 ff. BauGB, soweit die Länder nichts Abweichendes geregelt haben.",
+  "antwort": false,
+  "erklaerung": "Die §§ 127 ff. BauGB gelten nur für die Straßenerschließung (Straßen, Wege, Plätze, Sammelstraßen, selbständige Parkflächen und Grünanlagen), und auch das nur, soweit Länder wie Bayern und Baden-Württemberg keine eigenen Regelungen erlassen haben. Für leitungsgebundene Einrichtungen und Ausbaubeiträge gilt von vornherein ausschließlich Landesrecht."
+ },
+ {
+  "id": "kauf1-039",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Ehegatten beim Grundstückskauf: ausländisches Güterrecht",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/ehegatten-beim-grundstuckskauf-auslandisches-guterrecht",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "Art. 14 EGBGB",
+   "Art. 15 EGBGB",
+   "EuGüVO"
+  ],
+  "frage": "Nach welchem Regelwerk bestimmt sich das Güterrechtsstatut von Ehegatten, die am 15. März 2019 geheiratet haben?",
+  "optionen": [
+   "Nach Art. 14, 15 EGBGB, weil die Ehe vor Inkrafttreten der EuGüVO geschlossen wurde.",
+   "Nach der EuGüVO, weil die Ehe nach dem 29. Januar 2019 geschlossen wurde.",
+   "Nach dem Recht des Belegenheitsorts des Grundstücks.",
+   "Nach der EuErbVO, weil Güterrecht und Erbrecht einheitlich angeknüpft werden."
+  ],
+  "antwort": 1,
+  "erklaerung": "Stichtag ist der 29. Januar 2019: Für davor geschlossene Ehen gelten Art. 14, 15 EGBGB, für danach geschlossene Ehen die EuGüVO. Eine Heirat im März 2019 fällt damit unter die EuGüVO. Die Belegenheit des Grundstücks ist keine güterrechtliche Anknüpfung, und die EuErbVO betrifft nur das Erbrecht."
+ },
+ {
+  "id": "kauf1-040",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Ehegatten beim Grundstückskauf: ausländisches Güterrecht",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/ehegatten-beim-grundstuckskauf-auslandisches-guterrecht",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "Art. 15 Abs. 1 EGBGB",
+   "Art. 14 Abs. 1 Nr. 1 EGBGB"
+  ],
+  "frage": "Ein rumänisches Ehepaar hat 2010 in Rumänien ohne Ehevertrag geheiratet und lebt seit 2015 mit gewöhnlichem Aufenthalt in Deutschland; beide sind weiterhin rumänische Staatsangehörige. Welches Güterrecht gilt beim Grundstückserwerb nach den Angaben der Seite?",
+  "optionen": [
+   "Rumänisches Güterrecht, weil Art. 15 Abs. 1, 14 Abs. 1 Nr. 1 EGBGB unwandelbar an die gemeinsame Staatsangehörigkeit bei Heirat anknüpfen.",
+   "Deutsches Güterrecht, weil das EGBGB im Wege der Gesamtverweisung auf rumänisches Recht verweist und dieses wandelbar an den gemeinsamen gewöhnlichen Aufenthalt anknüpft.",
+   "Rumänisches Güterrecht, weil die EuGüVO auf den gewöhnlichen Aufenthalt bei Heirat abstellt.",
+   "Deutsches Güterrecht, weil bei Altehen stets das Recht des aktuellen Aufenthalts gilt."
+  ],
+  "antwort": 1,
+  "erklaerung": "Für die 2010 geschlossene Altehe gilt Art. 15 Abs. 1, 14 Abs. 1 Nr. 1 EGBGB mit Anknüpfung an die gemeinsame Staatsangehörigkeit bei Heirat, also rumänisches Recht. Das EGBGB verweist aber im Wege der Gesamtverweisung einschließlich des rumänischen Kollisionsrechts; dieses knüpft wandelbar an den gemeinsamen gewöhnlichen Aufenthalt an, sodass der Umzug beider Ehegatten nach Deutschland zur Anwendung deutschen Güterrechts führt. Anders läge es bei kroatischem Recht, das wandelbar an das gemeinsame Heimatrecht anknüpft; die EuGüVO ist für Altehen nicht anwendbar."
+ },
+ {
+  "id": "kauf1-041",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Ehegatten beim Grundstückskauf: ausländisches Güterrecht",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/ehegatten-beim-grundstuckskauf-auslandisches-guterrecht",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "Art. 15 EGBGB"
+  ],
+  "frage": "Leben erwerbende Ehegatten in einer ausländischen Errungenschaftsgemeinschaft, kann ein Ehegatte das Grundstück nur dann zu Alleineigentum erwerben, wenn die Ehegatten beim Kaufvertrag ehevertraglich bestimmen, dass der Vertragsgegenstand Vorbehaltsgut wird.",
+  "antwort": true,
+  "erklaerung": "In der Errungenschaftsgemeinschaft fällt das während der Ehe erworbene Grundstück grundsätzlich in das Gesamtgut, sodass ein Erwerb zu Alleineigentum ausgeschlossen ist. Die Ehegatten können jedoch beim Kaufvertrag ehevertraglich eine Vorbehaltsgutsregelung treffen. Der typische Fehler ist, Alleineigentum oder Bruchteilserwerb vorzusehen, ohne das Güterrechtsstatut vorher geklärt zu haben."
+ },
+ {
+  "id": "kauf1-042",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Ehegatten beim Grundstückskauf: § 1365 BGB, Gütergemeinschaft und Erwerbsverhältnis",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/ehegatten-beim-grundstuckskauf-1365-bgb-gutergemeinschaft-und-erwerbsverhaltnis",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1365 BGB"
+  ],
+  "frage": "Unter welchen Voraussetzungen greift § 1365 BGB nach der subjektiven Einzeltheorie bei der Veräußerung eines einzelnen Grundstücks?",
+  "optionen": [
+   "Wenn das Grundstück mindestens 50 % des Vermögens des Verfügenden ausmacht; auf die Kenntnis des Vertragspartners kommt es nicht an.",
+   "Wenn das Grundstück mindestens 85 % bis 90 % des Gesamtvermögens des Verfügenden ausmacht und der Vertragspartner dies positiv weiß.",
+   "Wenn die Ehegatten in Gütergemeinschaft leben und das Grundstück zum Gesamtgut gehört.",
+   "Wenn das Grundstück die Ehewohnung darstellt, unabhängig von seinem Wertanteil."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach der subjektiven Einzeltheorie erfasst § 1365 BGB auch die Verfügung über einen einzelnen Gegenstand, der mindestens 85 % bis 90 % des Gesamtvermögens ausmacht, sofern der Vertragspartner positiv weiß, dass der Gegenstand nahezu das ganze Vermögen darstellt. Ein gutgläubiger Käufer erwirbt wirksam. § 1365 BGB gilt nur im gesetzlichen Güterstand der Zugewinngemeinschaft, nicht bei Gütergemeinschaft, bei der ohnehin beide Ehegatten beteiligt werden müssen."
+ },
+ {
+  "id": "kauf1-043",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Ehegatten beim Grundstückskauf: § 1365 BGB, Gütergemeinschaft und Erwerbsverhältnis",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/ehegatten-beim-grundstuckskauf-1365-bgb-gutergemeinschaft-und-erwerbsverhaltnis",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 47 Abs. 1 GBO"
+  ],
+  "frage": "Erwerben mehrere Personen gemeinsam, ist nach § 47 Abs. 1 GBO stets anzugeben, zu welchen Bruchteilen oder in welchem Rechtsverhältnis sie erwerben.",
+  "antwort": true,
+  "erklaerung": "§ 47 Abs. 1 GBO verlangt bei mehreren Erwerbern die Angabe der Anteile als Bruchteile oder des für die Gemeinschaft maßgebenden Rechtsverhältnisses. Die fehlende Angabe des Erwerbsverhältnisses ist der auf der Seite genannte typische Fehler. Bei Ehegatten in Gütergemeinschaft erwerben beide zum Gesamtgut und sind zwingend an der Urkunde zu beteiligen."
+ },
+ {
+  "id": "kauf1-044",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Ehegatten beim Grundstückskauf: § 1365 BGB, Gütergemeinschaft und Erwerbsverhältnis",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/ehegatten-beim-grundstuckskauf-1365-bgb-gutergemeinschaft-und-erwerbsverhaltnis",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1365 BGB",
+   "§§ 1415 ff. BGB",
+   "§ 749 Abs. 1 BGB",
+   "§ 47 Abs. 1 GBO"
+  ],
+  "frage": "Ordne die Rechtslage dem Personenkreis beim Grundstückskauf zu.",
+  "paare": [
+   [
+    "Ehegatte in Zugewinngemeinschaft verkauft nahezu sein gesamtes Vermögen",
+    "Zustimmung des anderen Ehegatten im Beurkundungstermin nach § 1365 BGB, sofern der Käufer dies weiß"
+   ],
+   [
+    "Ehegatten in Gütergemeinschaft",
+    "Gesamthandsgemeinschaft; ein Ehegatte allein kann weder verkaufen noch erwerben"
+   ],
+   [
+    "Partner einer nichtehelichen Lebensgemeinschaft erwerben gemeinsam",
+    "Bruchteilsgemeinschaft; jeder kann frei über seinen Anteil verfügen und nach § 749 Abs. 1 BGB die Aufhebung verlangen"
+   ],
+   [
+    "Mehrere Erwerber allgemein",
+    "Angabe des Erwerbsverhältnisses nach § 47 Abs. 1 GBO zwingend"
+   ]
+  ],
+  "erklaerung": "§ 1365 BGB gilt nur im gesetzlichen Güterstand und greift nach der subjektiven Einzeltheorie bei Verfügung über einen Gegenstand von 85 bis 90 % des Vermögens mit Kenntnis des Vertragspartners. Bei Gütergemeinschaft (§§ 1415 ff. BGB) bilden die Ehegatten eine Gesamthandsgemeinschaft und sind beide zu beteiligen. Nichteheliche Partner erwerben in Bruchteilsgemeinschaft ohne gegenseitiges Vorkaufsrecht und mit jederzeitigem Aufhebungsrecht (§ 749 Abs. 1 BGB); bei mehreren Erwerbern ist das Erwerbsverhältnis nach § 47 Abs. 1 GBO anzugeben."
+ },
+ {
+  "id": "kauf1-045",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Ehegatten beim Grundstückskauf: § 1365 BGB, Gütergemeinschaft und Erwerbsverhältnis",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/ehegatten-beim-grundstuckskauf-1365-bgb-gutergemeinschaft-und-erwerbsverhaltnis",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1365 BGB"
+  ],
+  "frage": "Der Notar erfährt aus dem Datenblatt, dass das zu verkaufende Hausgrundstück das nahezu gesamte Vermögen des im gesetzlichen Güterstand lebenden Verkäufers V darstellt; der Käufer K weiß davon nichts, die Ehefrau des V ist zur Beurkundung nicht erreichbar. Wie sollte der Notar nach den Praxishinweisen vorgehen?",
+  "optionen": [
+   "Er muss K über die Vermögensverhältnisse des V aufklären, damit K die Zustimmungsbedürftigkeit erkennt.",
+   "Er darf K weder vor noch in der Beurkundung bösgläubig machen; ohne Kenntnis des K erwirbt dieser wirksam, da § 1365 BGB nach der subjektiven Einzeltheorie positive Kenntnis des Vertragspartners voraussetzt.",
+   "Er muss die Beurkundung ablehnen, weil ein absolutes Verfügungsverbot entgegensteht.",
+   "Er beurkundet mit der Auflage, dass die Ehefrau innerhalb von zwei Wochen nachgenehmigt, andernfalls ist der Vertrag nichtig."
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 1365 BGB greift nach der subjektiven Einzeltheorie nur, wenn der Vertragspartner positiv weiß, dass der Gegenstand nahezu das ganze Vermögen des Verfügenden ausmacht; ein Käufer ohne diese Kenntnis erwirbt wirksam. Deshalb sollen Notar und Mitarbeiter den Käufer weder vor noch in der Beurkundung bösgläubig machen. Eine Aufklärungspflicht gegenüber K besteht gerade nicht, und eine Beurkundungsverweigerung ist nicht geboten."
  }
 ]

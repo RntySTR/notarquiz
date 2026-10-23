@@ -660,5 +660,427 @@
   "antwort": false,
   "erklaerung": "§ 1745 BGB schützt die Interessen weiterer Kinder des Annehmenden, die selbst nicht einwilligen müssen: Die Annahme unterbleibt nur, wenn überwiegende Interessen dieser Kinder entgegenstehen. Vermögensinteressen geben dabei nicht den Ausschlag; geringere Erb- und Unterhaltsansprüche sind grundsätzlich hinzunehmen. Anders kann es nur liegen, wenn der Annehmende in knappen wirtschaftlichen Verhältnissen lebt und die Annahme den Unterhalt der vorhandenen Kinder gefährdet.",
   "id": "fami1-030"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Adoption",
+  "seite": "Adoption Volljähriger: Voraussetzungen und starke Wirkungen (§ 1772 BGB)",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-volljahriger-voraussetzungen-und-starke-wirkungen-1772-bgb",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1767 Abs. 1 BGB"
+  ],
+  "frage": "Der kinderlose Unternehmer U (62) will seinen langjährigen Prokuristen P (48) adoptieren, um ihm das Unternehmen erbschaftsteuergünstig zu übertragen; eine persönliche Nähe besteht nur im Berufsalltag. Wie ist die sittliche Rechtfertigung nach § 1767 Abs. 1 BGB zu beurteilen?",
+  "optionen": [
+   "Sie liegt vor, weil die Steuerersparnis ein anerkanntes Motiv der Volljährigenadoption ist",
+   "Sie fehlt, weil ein Eltern-Kind-Verhältnis weder besteht noch zu erwarten ist und steuerliche Vorteile nicht ausschlaggebend sein dürfen",
+   "Sie liegt vor, weil kein gemeinsamer Haushalt mehr erforderlich ist",
+   "Sie fehlt allein wegen des Altersabstands von 14 Jahren"
+  ],
+  "antwort": 1,
+  "erklaerung": "Sittlich gerechtfertigt ist die Annahme nur, wenn ein Eltern-Kind-Verhältnis schon besteht oder zu entstehen erwarten ist; die familiären Gründe müssen deutlich überwiegen, steuerliche Vorteile dürfen nur Nebenzweck sein. Rein wirtschaftliche Gründe rechtfertigen die Annahme nicht. Der Verzicht auf einen gemeinsamen Haushalt ändert daran nichts, und der Altersabstand von 14 Jahren ist hier nur ein zusätzliches Indiz gegen die Rechtfertigung (kritisch sind 10 bis 15 Jahre), nicht der alleinige Grund.",
+  "id": "fami1-031"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Adoption",
+  "seite": "Adoption Volljähriger: Voraussetzungen und starke Wirkungen (§ 1772 BGB)",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-volljahriger-voraussetzungen-und-starke-wirkungen-1772-bgb",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1768 BGB",
+   "§ 1768 Abs. 1 S. 2 BGB"
+  ],
+  "frage": "Welche Anträge und Einwilligungen sind für die Volljährigenadoption erforderlich?",
+  "optionen": [
+   "Nur der notariell beurkundete Antrag des Annehmenden; der Anzunehmende stimmt formfrei zu",
+   "Je ein notariell beurkundeter Antrag des Annehmenden und des Anzunehmenden (§ 1768 BGB); die Einwilligung der Eltern des Anzunehmenden ist entbehrlich",
+   "Gemeinsamer Antrag beider in einer einzigen Urkunde sowie die Einwilligung der leiblichen Eltern",
+   "Antrag des Annehmenden und Einwilligung des Jugendamts"
+  ],
+  "antwort": 1,
+  "erklaerung": "Annehmender und Anzunehmender müssen je einen Antrag stellen, beide notariell beurkundet (§ 1768 BGB); die Anträge müssen nicht in derselben Urkunde oder zur selben Zeit beurkundet werden. Die Einwilligung der Eltern des Anzunehmenden ist entbehrlich (§ 1768 Abs. 1 S. 2 BGB). Eine bloß formfreie Zustimmung des Anzunehmenden genügt nicht, weil er selbst Antragsteller ist.",
+  "id": "fami1-032"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Adoption",
+  "seite": "Adoption Volljähriger: Voraussetzungen und starke Wirkungen (§ 1772 BGB)",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-volljahriger-voraussetzungen-und-starke-wirkungen-1772-bgb",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1768 Abs. 1 S. 2 BGB",
+   "§ 1742 BGB"
+  ],
+  "frage": "Nach Eintritt der Volljährigkeit können die leiblichen Eltern ihr seinerzeit zur Adoption freigegebenes Kind zurückadoptieren, weil das Verbot der Zweitadoption bei der Volljährigenadoption nicht gilt.",
+  "antwort": true,
+  "erklaerung": "Das Verbot der Zweitadoption (§ 1742 BGB) ist bei der Volljährigenadoption nicht anwendbar (§ 1768 Abs. 1 S. 2 BGB); deshalb können nach Eintritt der Volljährigkeit auch die leiblichen Eltern ihr Kind zurückadoptieren. Ebenso entfällt das Erfordernis einer Pflegezeit (§ 1744 BGB). Bei der Minderjährigenadoption wäre die Rückadoption dagegen ohne Aufhebung des bestehenden Annahmeverhältnisses ausgeschlossen.",
+  "id": "fami1-033"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Adoption",
+  "seite": "Adoption Volljähriger: Voraussetzungen und starke Wirkungen (§ 1772 BGB)",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-volljahriger-voraussetzungen-und-starke-wirkungen-1772-bgb",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1772 BGB"
+  ],
+  "frage": "In welchem Fall kann das Gericht die Annahme eines Volljährigen mit den starken Wirkungen einer Minderjährigenadoption aussprechen (§ 1772 BGB)?",
+  "optionen": [
+   "Wenn der Annehmende den Anzunehmenden bereits während dessen Minderjährigkeit in seine Familie aufgenommen hat",
+   "Wenn der Anzunehmende bei Erlass des Annahmebeschlusses das 25. Lebensjahr noch nicht vollendet hat",
+   "Wenn die leiblichen Eltern des Anzunehmenden bereits verstorben sind",
+   "Wenn beide Beteiligte dies übereinstimmend beantragen und ein Erbverzicht der leiblichen Eltern vorliegt"
+  ],
+  "antwort": 0,
+  "erklaerung": "§ 1772 BGB nennt vier Fälle: Annahme eines minderjährigen Geschwisterteils, Aufnahme des Anzunehmenden in die Familie bereits während der Minderjährigkeit, Annahme eines Kindes des Ehegatten und Minderjährigkeit des Anzunehmenden bei Antragseingang. Eine bloße Altersgrenze oder der übereinstimmende Antrag genügen nicht. Da bei § 1772 BGB die Verwandtschaft zu den leiblichen Eltern endet, darf die Annahme deren vorrangige materielle und immaterielle Belange nicht verletzen, und es ist abzuwägen, ob nicht die gewöhnlichen Wirkungen genügen.",
+  "id": "fami1-034"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Adoption",
+  "seite": "Adoption Volljähriger: Voraussetzungen und starke Wirkungen (§ 1772 BGB)",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-volljahriger-voraussetzungen-und-starke-wirkungen-1772-bgb",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1769 BGB",
+   "§ 1745 BGB"
+  ],
+  "frage": "Bei der Volljährigenadoption genügen nach § 1769 BGB bereits materielle Interessen vorhandener Kinder, etwa die Schmälerung ihrer Erb- und Unterhaltsansprüche, um die Annahme zu hindern.",
+  "antwort": true,
+  "erklaerung": "Nach § 1769 BGB darf die Annahme nicht ausgesprochen werden, wenn vorrangige Belange von Kindern des Annehmenden oder des Anzunehmenden entgegenstehen; materielle Interessen genügen und stehen regelmäßig im Vordergrund, einschließlich der Schmälerung von Erb- und Unterhaltsansprüchen. Das ist der Unterschied zur Minderjährigenadoption, bei der nach § 1745 BGB Vermögensinteressen nicht den Ausschlag geben. Nach dem BayObLG kann einem solchen Interesse durch einen Erbverzichtsvertrag Rechnung getragen werden; die Kinder sind anzuhören.",
+  "id": "fami1-035"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Adoption",
+  "seite": "Adoption: Antrag und Einwilligungen",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-antrag-und-einwilligungen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1747 Abs. 2 BGB",
+   "§ 1747 Abs. 3 BGB"
+  ],
+  "frage": "Ab wann können die Eltern wirksam in die Adoption ihres Kindes einwilligen?",
+  "optionen": [
+   "Bereits vor der Geburt, beide Elternteile gleichermaßen",
+   "Frühestens, wenn das Kind acht Wochen alt ist (§ 1747 Abs. 2 BGB); nur der nicht mit der Mutter verheiratete Vater darf schon vor der Geburt einwilligen (§ 1747 Abs. 3 BGB)",
+   "Frühestens, wenn das Kind sechs Monate alt ist",
+   "Erst nach Ablauf der Pflegezeit nach § 1744 BGB"
+  ],
+  "antwort": 1,
+  "erklaerung": "Wirksam einwilligen können die Eltern frühestens, wenn das Kind acht Wochen alt ist (§ 1747 Abs. 2 BGB); das gilt auch für die gebärende Mutter bei Annahme durch deren Ehefrau und für eine ausländische Leihmutter bei anwendbarem deutschen Recht. Einzige Ausnahme ist der mit der Mutter nicht verheiratete Vater, der bereits vor der Geburt einwilligen darf (§ 1747 Abs. 3 BGB). Die Beurkundung der Elterneinwilligung vor Ablauf der acht Wochen ist ein typischer Praxisfehler.",
+  "id": "fami1-036"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Adoption",
+  "seite": "Adoption: Antrag und Einwilligungen",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-antrag-und-einwilligungen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1752 BGB",
+   "§ 1753 BGB"
+  ],
+  "frage": "Welche Aussage zum Adoptionsantrag trifft zu?",
+  "optionen": [
+   "Der Antrag kann durch einen notariell Bevollmächtigten gestellt werden, wenn der Annehmende verhindert ist",
+   "Der Antrag kann unter der Bedingung gestellt werden, dass die Einwilligung der Eltern ersetzt wird",
+   "Der Antrag ist notariell zu beurkunden, bedingungs- und befristungsfeindlich und kann weder durch Bevollmächtigte noch gesetzliche Vertreter gestellt werden (§ 1752 BGB)",
+   "Nach dem Tod des Annehmenden ist ein Ausspruch der Annahme in keinem Fall mehr möglich"
+  ],
+  "antwort": 2,
+  "erklaerung": "Grundlage der Annahme ist ein notariell beurkundeter Antrag des Annehmenden ohne Bedingung und Befristung (§ 1752 BGB); weder ein Bevollmächtigter noch ein gesetzlicher Vertreter kann ihn stellen, sodass ein Geschäftsunfähiger nicht adoptieren kann. Nach dem Tod des Annehmenden kann das Gericht die Annahme aussprechen, wenn der Antrag bereits vorlag oder der Notar einen Einreichungsauftrag hatte (§ 1753 BGB); deshalb gehört der Einreichungsauftrag stets in den Antrag. Nur nach dem Tod des Anzunehmenden ist ein Ausspruch ausgeschlossen.",
+  "id": "fami1-037"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Adoption",
+  "seite": "Adoption: Antrag und Einwilligungen",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-antrag-und-einwilligungen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1746 Abs. 1 S. 3 BGB",
+   "§ 1746 Abs. 2 BGB"
+  ],
+  "frage": "Das 15-jährige Kind K soll vom Stiefvater adoptiert werden. Wie wird die Einwilligung des K erklärt?",
+  "optionen": [
+   "Allein durch den gesetzlichen Vertreter, weil K minderjährig ist",
+   "Durch K selbst mit Zustimmung des gesetzlichen Vertreters; bis zum Wirksamwerden der Annahme kann K sie ohne diese Zustimmung durch öffentlich beglaubigte Erklärung widerrufen",
+   "Durch K selbst ohne Mitwirkung des gesetzlichen Vertreters, weil K über 14 ist",
+   "Durch das Jugendamt als Vormund kraft Gesetzes"
+  ],
+  "antwort": 1,
+  "erklaerung": "Ab 14 Jahren erklärt das Kind die Einwilligung selbst, mit Zustimmung des gesetzlichen Vertreters (§ 1746 Abs. 1 S. 3 BGB); bis zum Wirksamwerden der Annahme kann es sie ohne diese Zustimmung durch öffentlich beglaubigte Erklärung an das Gericht widerrufen (§ 1746 Abs. 2 BGB). Nur für Kinder unter 14 Jahren oder geschäftsunfähige Kinder willigt der gesetzliche Vertreter allein ein (§ 1746 Abs. 1 S. 2 BGB). Bei der Stiefkindadoption ruht die Sorge des mit dem Annehmenden verheirateten Elternteils nicht (§ 1751 Abs. 2 BGB), sodass das Jugendamt nicht Vormund wird.",
+  "id": "fami1-038"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Adoption",
+  "seite": "Adoption: Antrag und Einwilligungen",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-antrag-und-einwilligungen",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1750 Abs. 2 S. 2 BGB",
+   "§ 1750 Abs. 4 BGB"
+  ],
+  "frage": "Die Einwilligung eines Elternteils in die Adoption wird mit Zugang beim Familiengericht unwiderruflich, verliert aber ihre Kraft, wenn die Annahme nicht binnen drei Jahren ab Wirksamwerden erfolgt.",
+  "antwort": true,
+  "erklaerung": "Mit Zugang beim Familiengericht wird die Einwilligung wirksam und unwiderruflich (§ 1750 Abs. 2 S. 2 BGB); darauf hat der Notar bei der Beurkundung hinzuweisen. Nach § 1750 Abs. 4 BGB verliert die Einwilligung eines Elternteils ihre Kraft, wenn die Annahme nicht binnen drei Jahren ab Wirksamwerden erfolgt. Die Einwilligung ist notariell zu beurkunden und an das Familiengericht zu richten, ohne Bedingung, Befristung oder Vertretung (§ 1750 Abs. 1, 3 BGB).",
+  "id": "fami1-039"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Adoption",
+  "seite": "Adoption: Antrag und Einwilligungen",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-antrag-und-einwilligungen",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1747 Abs. 1 BGB",
+   "§ 1748 Abs. 4 BGB",
+   "§ 1751 Abs. 2 BGB",
+   "§ 1749 BGB"
+  ],
+  "frage": "Stiefkindadoption gegen den Willen des leiblichen Vaters",
+  "sachverhalt": "M ist allein sorgeberechtigte Mutter des neunjährigen K. Sie ist seit fünf Jahren mit S verheiratet, der K wie ein eigenes Kind großzieht. Der leibliche Vater V hat K nie gesehen, nie Unterhalt gezahlt und verweigert jede Einwilligung in die Adoption durch S. S will K annehmen.",
+  "schritte": [
+   {
+    "frage": "Ist die Einwilligung des nicht sorgeberechtigten V überhaupt erforderlich?",
+    "optionen": [
+     "Nein, weil nur sorgeberechtigte Eltern einwilligen müssen",
+     "Ja, beide Elternteile müssen einwilligen, auch ohne Sorgerecht (§ 1747 Abs. 1 BGB)",
+     "Nein, weil bei der Stiefkindadoption nur der Ehegatte des Annehmenden einwilligt",
+     "Ja, aber die Einwilligung kann durch die Zustimmung des Jugendamts ersetzt werden"
+    ],
+    "antwort": 1,
+    "erklaerung": "Nach § 1747 Abs. 1 BGB müssen Vater und Mutter einwilligen, und zwar auch ohne Sorgerecht. Die Einwilligung des Ehegatten des Annehmenden (§ 1749 BGB) tritt hinzu, ersetzt die Elterneinwilligung aber nicht; das Jugendamt kann die Einwilligung nicht ersetzen."
+   },
+   {
+    "frage": "Kann die fehlende Einwilligung des V ersetzt werden?",
+    "optionen": [
+     "Nein, die Ersetzung setzt stets eine anhaltend gröbliche Pflichtverletzung des V voraus",
+     "Ja, das Familiengericht kann sie nach § 1748 Abs. 4 BGB ersetzen, wenn das Unterbleiben der Annahme dem Kind zu unverhältnismäßigem Nachteil gereichen würde; ein Fehlverhalten des V ist nicht nötig, sein früheres Verhalten ist aber zu würdigen",
+     "Ja, der Notar kann die Einwilligung durch eine Eigenurkunde ersetzen",
+     "Nein, weil Stiefkindadoptionen ohne Einwilligung beider leiblicher Eltern ausgeschlossen sind"
+    ],
+    "antwort": 1,
+    "erklaerung": "Beim Vater ohne elterliche Sorge genügt nach § 1748 Abs. 4 BGB ein unverhältnismäßiger Nachteil für das Kind bei Unterbleiben der Annahme; ein Fehlverhalten ist nicht nötig, und bei Stiefkindadoptionen wird ein solcher Nachteil häufig bejaht. Nach dem BVerfG genügt fehlende Zuwendung allein nicht, das frühere Verhalten des Vaters ist zu würdigen; fehlender Kontakt, ausgebliebener Unterhalt und bessere Eingliederung in die neue Familie tragen die Ersetzung. Ersetzen kann nur das Familiengericht, nicht der Notar."
+   },
+   {
+    "frage": "Welche Folge hat die wirksame Einwilligung der M für ihre elterliche Sorge?",
+    "optionen": [
+     "Ihre Sorge ruht nach § 1751 Abs. 1 BGB, und das Jugendamt wird Vormund",
+     "Ihre Sorge ruht nicht, weil sie mit dem Annehmenden verheiratet ist (§ 1751 Abs. 2 BGB)",
+     "Ihre Sorge geht auf S über, sobald die Einwilligung beim Gericht eingeht",
+     "Ihre Sorge erlischt mit Zugang der Einwilligung beim Familiengericht"
+    ],
+    "antwort": 1,
+    "erklaerung": "Grundsätzlich ruht mit wirksamer Einwilligung die elterliche Sorge (§ 1751 Abs. 1 BGB) und nach Einwilligung beider sorgeberechtigter Eltern wird das Jugendamt kraft Gesetzes Vormund. Bei der Stiefkindadoption ruht die Sorge des Elternteils, der mit dem Annehmenden verheiratet ist, jedoch nicht (§ 1751 Abs. 2 BGB). Ein Übergang der Sorge auf S erfolgt erst durch den Annahmebeschluss."
+   }
+  ],
+  "erklaerung": "Für die Stiefkindadoption müssen beide leiblichen Eltern einwilligen, auch der nicht sorgeberechtigte Vater (§ 1747 Abs. 1 BGB). Verweigert er, kann das Familiengericht die Einwilligung nach § 1748 Abs. 4 BGB ersetzen, wenn das Unterbleiben der Annahme für das Kind einen unverhältnismäßigen Nachteil bedeutet. Die Sorge der mit dem Annehmenden verheirateten Mutter ruht trotz ihrer Einwilligung nicht (§ 1751 Abs. 2 BGB).",
+  "id": "fami1-040"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Adoption",
+  "seite": "Adoption: Aufhebung und Verfahren",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-aufhebung-und-verfahren",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 9a Abs. 1 und 2 AdVermG"
+  ],
+  "frage": "Welche Unterlage muss dem Notar vorliegen, bevor er den Antrag auf Stiefkindadoption eines Minderjährigen beurkunden darf?",
+  "optionen": [
+   "Ein Führungszeugnis des Annehmenden",
+   "Eine Bescheinigung der Adoptionsvermittlungsstelle (§ 9a Abs. 1 und 2 AdVermG)",
+   "Die familiengerichtliche Vorabgenehmigung nach § 187 FamFG",
+   "Das ärztliche Zeugnis über den Anzunehmenden"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei der Stiefkindadoption eines Minderjährigen darf der Notar den Antrag nur beurkunden, wenn ihm eine Bescheinigung der Adoptionsvermittlungsstelle vorliegt (§ 9a Abs. 1 und 2 AdVermG); sie ist vor der Beurkundung anzufordern. Führungszeugnis und ärztliche Zeugnisse gehören zu den Unterlagen, die das Familiengericht mit Antrag und Einwilligungen erhält, sind aber keine Beurkundungsvoraussetzung. § 187 FamFG regelt nur die Zuständigkeit.",
+  "id": "fami1-041"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Adoption",
+  "seite": "Adoption: Aufhebung und Verfahren",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-aufhebung-und-verfahren",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 197 FamFG",
+   "§ 197 Abs. 3 FamFG"
+  ],
+  "frage": "Wann wird der Annahmebeschluss wirksam und welche Rechtsmittel bestehen dagegen?",
+  "optionen": [
+   "Mit Verkündung; Beschwerde binnen eines Monats",
+   "Mit Zustellung an den Annehmenden (nach dessen Tod an den Angenommenen); der Beschluss ist unanfechtbar (§ 197 Abs. 3 FamFG)",
+   "Mit Eintragung im Geburtenregister; Beschwerde binnen zwei Wochen",
+   "Mit Zustellung an das Jugendamt; sofortige Beschwerde der leiblichen Eltern"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Annahmebeschluss wird mit Zustellung an den Annehmenden wirksam, nach dessen Tod mit Zustellung an den Angenommenen (§ 197 FamFG); erst dann treten alle materiellen Wirkungen ein. Der Beschluss ist unanfechtbar (§ 197 Abs. 3 FamFG), sodass keine Beschwerde eröffnet ist. Bis zum Wirksamwerden kann der Adoptionsantrag noch zurückgenommen werden.",
+  "id": "fami1-042"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Adoption",
+  "seite": "Adoption: Aufhebung und Verfahren",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-aufhebung-und-verfahren",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1771 S. 1 BGB",
+   "§ 1760 BGB",
+   "§ 1772 BGB"
+  ],
+  "frage": "Unter welchen Voraussetzungen kann eine einfache Volljährigenadoption aufgehoben werden?",
+  "optionen": [
+   "Von Amts wegen bei schwerwiegenden Gründen des Kindeswohls nach § 1763 BGB",
+   "Auf Antrag von Annehmendem und Angenommenem aus wichtigem Grund (§ 1771 S. 1 BGB), etwa bei Zerrüttung oder wenn die Annahme von Anfang an nicht sittlich gerechtfertigt war; sonst nur in den Fällen des § 1760 BGB",
+   "Nur auf einseitigen Antrag des Annehmenden ohne weitere Voraussetzungen",
+   "Überhaupt nicht, weil Annahmebeschlüsse unanfechtbar sind"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die einfache Volljährigenadoption kann auf Antrag von Annehmendem und Angenommenem aus wichtigem Grund aufgehoben werden (§ 1771 S. 1 BGB); ein wichtiger Grund liegt bei Unzumutbarkeit des Fortbestehens vor, etwa nach schuldhaftem Fehlverhalten, bei Zerrüttung oder wenn die Annahme nur der Erbschaftsteuerersparnis diente. Sonst bleibt nur § 1760 BGB; bei Annahme mit den Wirkungen des § 1772 BGB ist allein § 1760 Abs. 1 BGB sinngemäß anwendbar. Die Aufhebung von Amts wegen nach § 1763 BGB betrifft nur Minderjährige. Die Unanfechtbarkeit des Beschlusses schließt die Aufhebung nicht aus.",
+  "id": "fami1-043"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Adoption",
+  "seite": "Adoption: Aufhebung und Verfahren",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-aufhebung-und-verfahren",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1762 Abs. 3 BGB"
+  ],
+  "frage": "Für den Antrag auf Aufhebung einer Minderjährigenadoption genügt die öffentliche Beglaubigung der Unterschrift.",
+  "antwort": false,
+  "erklaerung": "Der Aufhebungsantrag bedarf der notariellen Beurkundung (§ 1762 Abs. 3 BGB). Ein nur unterschriftsbeglaubigter Aufhebungsantrag ist ein typischer Praxisfehler. Die Aufhebung auf Antrag setzt zudem voraus, dass eine notwendige Erklärung (Antrag, Einwilligung des Kindes oder eines Elternteils) gefehlt hat oder unwirksam war (§ 1760 BGB).",
+  "id": "fami1-044"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Adoption",
+  "seite": "Adoption: Aufhebung und Verfahren",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-aufhebung-und-verfahren",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 187 Abs. 1 FamFG",
+   "§ 192 FamFG",
+   "§ 197 FamFG",
+   "§ 130 Abs. 2 BGB"
+  ],
+  "frage": "Ordne die Verfahrensregeln des Adoptionsverfahrens ihrer Norm zu.",
+  "paare": [
+   [
+    "§ 187 Abs. 1 FamFG",
+    "Ausschließliche örtliche Zuständigkeit am gewöhnlichen Aufenthalt des Annehmenden"
+   ],
+   [
+    "§ 192 FamFG",
+    "Persönliche Anhörung des Kindes"
+   ],
+   [
+    "§ 197 FamFG",
+    "Rücknahme des Antrags bis zum Wirksamwerden des Annahmebeschlusses"
+   ],
+   [
+    "§ 130 Abs. 2 BGB",
+    "Zugang der beurkundeten Erklärung beim Gericht durch öffentlich beglaubigte Abschrift der Urschrift"
+   ]
+  ],
+  "erklaerung": "Sachlich zuständig ist das Amtsgericht als Familiengericht, örtlich ausschließlich das Gericht am gewöhnlichen Aufenthalt des Annehmenden (§ 187 Abs. 1 FamFG). Das Kind ist persönlich anzuhören (§ 192 FamFG); Eltern, die eingewilligt haben, werden nicht angehört, bei der Volljährigenadoption dagegen schon. Der Antrag kann bis zum Wirksamwerden des Beschlusses zurückgenommen werden (§ 197 FamFG). Antrag und Einwilligungen sind amtsempfangsbedürftig; seit 29.12.2025 genügt für den Zugang eine öffentlich beglaubigte Abschrift der Urschrift (§ 130 Abs. 2 BGB), zuvor war eine Ausfertigung nötig.",
+  "id": "fami1-045"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Adoption",
+  "seite": "Adoption: Namensrecht (Rechtslage ab 01.05.2025)",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-namensrecht-rechtslage-ab-01052025",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1767 Abs. 3 BGB",
+   "§ 1767 Abs. 5 BGB"
+  ],
+  "frage": "Der volljährige A (Familienname Müller) wird von B (Familienname Schmidt) angenommen. Welche namensrechtlichen Gestaltungen stehen A offen?",
+  "optionen": [
+   "A erhält zwingend den Namen Schmidt; eine Abweichung ist nur durch behördliche Namensänderung möglich",
+   "A kann der Namensänderung widersprechen und Müller behalten oder einen Doppelnamen aus Müller und Schmidt bestimmen; die Erklärung bedarf öffentlicher Beglaubigung und muss vor dem Annahmebeschluss vorliegen",
+   "A kann den Namen frei wählen, auch einen Namen, der mit keinem Beteiligten zusammenhängt",
+   "A behält automatisch Müller; nur auf Antrag erhält er Schmidt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei der Volljährigenadoption gilt § 1757 BGB mit Maßgaben (§ 1767 Abs. 3 BGB): Der Angenommene behält seinen bisherigen Familiennamen, wenn er der Namensänderung widerspricht, oder bestimmt einen Doppelnamen aus bisherigem Namen und dem des Annehmenden. Ohne Erklärung erhält er den Namen des Annehmenden, nicht automatisch den alten Namen. Widerspruch und Namensbestimmung bedürfen öffentlicher Beglaubigung, sind an das Familiengericht zu richten und müssen vor dem Annahmebeschluss vorliegen (§ 1767 Abs. 5 BGB).",
+  "id": "fami1-046"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Adoption",
+  "seite": "Adoption: Namensrecht (Rechtslage ab 01.05.2025)",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-namensrecht-rechtslage-ab-01052025",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1767 Abs. 4 BGB"
+  ],
+  "frage": "Wird ein verheirateter Volljähriger angenommen, erstreckt sich die Änderung seines Geburtsnamens automatisch auf den gemeinsamen Ehenamen.",
+  "antwort": false,
+  "erklaerung": "Die Änderung des Geburtsnamens erfasst den Ehenamen des Angenommenen nur, wenn sich der Ehegatte der Namensänderung anschließt (§ 1767 Abs. 4 BGB); ohne Anschluss bleibt der Ehename unverändert und nur der Geburtsname ändert sich. Die Anschlusserklärung bedarf öffentlicher Beglaubigung und muss vor dem Annahmebeschluss beim Familiengericht vorliegen (§ 1767 Abs. 5 BGB). Der Ehegatte ist daher sowohl zur Einwilligung in die Annahme als auch zum Anschluss zu beteiligen.",
+  "id": "fami1-047"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Adoption",
+  "seite": "Adoption: Namensrecht (Rechtslage ab 01.05.2025)",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-namensrecht-rechtslage-ab-01052025",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1757 Abs. 2 BGB",
+   "§ 1617 Abs. 1 bis 3 und 5 BGB"
+  ],
+  "frage": "Die Ehegatten E (Name Bauer) und F (Name Vogel) führen keinen Ehenamen und nehmen gemeinsam ein Kind an. Welchen Geburtsnamen kann das Kind erhalten?",
+  "optionen": [
+   "Nur den Namen des Ehemanns E",
+   "Den Namen Bauer oder Vogel oder einen Doppelnamen aus beiden, der mangels anderer Bestimmung mit Bindestrich verbunden wird",
+   "Zwingend einen Doppelnamen Bauer-Vogel",
+   "Den bisherigen Geburtsnamen des Kindes, weil ohne Ehename keine Namensänderung eintritt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nimmt ein Ehepaar ohne Ehenamen ein Kind an, gilt § 1757 Abs. 2 BGB mit Verweis auf § 1617 Abs. 1 bis 3 und 5 BGB: Die Ehegatten bestimmen als Geburtsnamen den Familiennamen eines von ihnen oder einen Doppelnamen aus beiden Namen, der ohne andere Bestimmung mit Bindestrich verbunden wird. Ein Zwang zum Doppelnamen besteht nicht; besteht ein Name aus mehreren Namen, darf für den Doppelnamen nur einer davon verwendet werden. Der bestimmte Geburtsname gilt auch für weitere gemeinsame Kinder.",
+  "id": "fami1-048"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Adoption",
+  "seite": "Adoption: Namensrecht (Rechtslage ab 01.05.2025)",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-namensrecht-rechtslage-ab-01052025",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1617c Abs. 2 BGB",
+   "§ 1617c Abs. 1 BGB"
+  ],
+  "frage": "Die Namensänderung des Angenommenen erstreckt sich auf dessen eigenes Kind nur dann automatisch, wenn das Kind jünger als fünf Jahre ist; ein älteres Kind muss sich durch öffentlich beglaubigte Erklärung anschließen.",
+  "antwort": true,
+  "erklaerung": "Nach § 1617c Abs. 2, Abs. 1 BGB erstreckt sich die Namensänderung auf ein Kind des Angenommenen, das jünger als fünf Jahre ist, kraft Gesetzes; ein älteres Kind wird nur erfasst, wenn es sich durch öffentlich beglaubigte Erklärung anschließt. Die Fünfjahresgrenze entspricht der Grenze, ab der bei der Annahme durch eine Einzelperson die Einwilligung des Kindes in die Namenserteilung nötig ist.",
+  "id": "fami1-049"
  }
 ]

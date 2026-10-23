@@ -656,5 +656,314 @@
   "antwort": 2,
   "erklaerung": "Das Verwahrgericht eröffnet nach § 344 Abs. 6 FamFG, auch wenn es nicht das nach § 343 FamFG (in Baden-Württemberg §§ 1, 38 LFGG) zuständige Gericht ist. Ein Eröffnungstermin ist möglich, aber nicht vorgeschrieben (§ 348 Abs. 2 FamFG); die Urschrift bleibt in den Nachlassakten und wird auch dem Erben nicht ausgehändigt; funktionell zuständig ist der Rechtspfleger (§ 3 Nr. 2c RPflG), eine Gültigkeitsprüfung findet bei der Eröffnung nicht statt.",
   "id": "erbr2-029"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Testament: eigenhändiges Testament, Selbstbindung und Widerruf",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/testament-eigenhandiges-testament-selbstbindung-und-widerruf",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2247 Abs. 1 BGB",
+   "§ 125 BGB"
+  ],
+  "frage": "Erblasser E schreibt sein Testament handschriftlich und unterschreibt es. Die Verteilung seines Hausrats regelt er in einer mit dem Computer erstellten Liste, die er dem Testament beilegt und auf die er im Testament verweist. Wie ist die Rechtslage?",
+  "optionen": [
+   "Testament und Anlage sind wirksam, weil die Anlage durch die Bezugnahme Teil des unterschriebenen Testaments wird.",
+   "Das Testament ist insgesamt formnichtig, weil es auf eine nicht eigenhändige Anlage verweist.",
+   "Das Testament ist wirksam, die nicht eigenhändig geschriebene Anlage ist jedoch unwirksam.",
+   "Die Anlage ist wirksam, wenn E sie zusätzlich eigenhändig unterschreibt."
+  ],
+  "antwort": 2,
+  "erklaerung": "Anlagen, auf die ein eigenhändiges Testament verweist, müssen ebenfalls eigenhändig geschrieben sein (§ 2247 Abs. 1 BGB); eine maschinenschriftliche Anlage ist unwirksam, auch mit Unterschrift, weil die Unterschrift die Eigenhändigkeit des Textes nicht ersetzt. Das Testament selbst bleibt wirksam; der typische Fehler besteht gerade in maschinenschriftlichen Teilen oder Anlagen beim privatschriftlichen Testament.",
+  "id": "erbr2-030"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Testament: eigenhändiges Testament, Selbstbindung und Widerruf",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/testament-eigenhandiges-testament-selbstbindung-und-widerruf",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2254 BGB",
+   "§ 2255 BGB",
+   "§ 2256 BGB",
+   "§ 2258 BGB"
+  ],
+  "frage": "Ordne die gesetzlichen Arten des Testamentswiderrufs der jeweiligen Norm zu.",
+  "paare": [
+   [
+    "§ 2254 BGB",
+    "Widerrufstestament"
+   ],
+   [
+    "§ 2255 BGB",
+    "Veränderung oder Vernichtung der Testamentsurkunde"
+   ],
+   [
+    "§ 2256 BGB",
+    "Rücknahme des notariellen Testaments aus der amtlichen Verwahrung"
+   ],
+   [
+    "§ 2258 BGB",
+    "Späteres Testament, das dem früheren widerspricht oder es abändert"
+   ]
+  ],
+  "erklaerung": "Das Gesetz kennt vier Wege des Widerrufs: das ausdrückliche Widerrufstestament (§ 2254 BGB), die Vernichtung oder Veränderung (§ 2255 BGB), die Rücknahme aus der Verwahrung (§ 2256 BGB) und den Widerruf durch späteres widersprechendes Testament (§ 2258 BGB). Jeder Widerruf ist selbst eine letztwillige Verfügung und setzt Testierfähigkeit voraus.",
+  "id": "erbr2-031"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Testament: eigenhändiges Testament, Selbstbindung und Widerruf",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/testament-eigenhandiges-testament-selbstbindung-und-widerruf",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2253 BGB",
+   "§ 2302 BGB"
+  ],
+  "frage": "Verpflichtet sich der Erblasser gegenüber dem Bedachten vertraglich, sein Testament nicht zu widerrufen, ist er an diese Abrede gebunden und kann nur noch mit Zustimmung des Bedachten widerrufen.",
+  "antwort": false,
+  "erklaerung": "Das Widerrufsrecht nach § 2253 BGB ist Teil der Testierfreiheit; eine Verpflichtung, ein Testament nicht zu widerrufen, ist nach § 2302 BGB nichtig. Eine Bindung kann nur durch Erbvertrag (§ 2289 BGB) oder wechselbezügliche Verfügungen im gemeinschaftlichen Testament (§§ 2270, 2271 BGB) entstehen, nicht durch schuldrechtliche Abrede.",
+  "id": "erbr2-032"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Testament: eigenhändiges Testament, Selbstbindung und Widerruf",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/testament-eigenhandiges-testament-selbstbindung-und-widerruf",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 2247 Abs. 1 BGB",
+   "§ 2247 Abs. 4 BGB"
+  ],
+  "frage": "Welche Aussage zur Eigenhändigkeit des privatschriftlichen Testaments ist richtig?",
+  "optionen": [
+   "Ein Dritter darf dem gebrechlichen Erblasser die Hand führen, solange der Text dem Willen des Erblassers entspricht.",
+   "Ein blinder Erblasser darf sein eigenhändiges Testament in Blindenschrift errichten.",
+   "Menschen mit Behinderung dürfen mit dem Mund, dem Fuß oder einer Prothese schreiben; ein Dritter darf stützen, aber nicht Hand oder Arm führen.",
+   "Das Testament muss in deutscher Sprache abgefasst sein, damit das Nachlassgericht es eröffnen kann."
+  ],
+  "antwort": 2,
+  "erklaerung": "Eigenhändigkeit verlangt, dass der Erblasser den gesamten Text selbst schreibt; dies kann auch mit Mund, Fuß oder Prothese geschehen. Stützen durch Dritte ist erlaubt, das Führen von Hand oder Arm nicht. Blindenschrift und Maschinenschrift sind nur beim öffentlichen Testament möglich; Leseunkundige sind vom eigenhändigen Testament ausgeschlossen (§ 2247 Abs. 4 BGB). Jede Sprache ist zulässig, die der Erblasser beherrscht und lesen kann.",
+  "id": "erbr2-033"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Testament: Testamentsformen, persönliche Errichtung und Verwahrung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/testament-testamentsformen-personliche-errichtung-und-verwahrung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 344 Abs. 1 S. 1 Nr. 1 FamFG",
+   "§ 344 Abs. 1 S. 2 FamFG"
+  ],
+  "frage": "Welches Gericht ist für die Verwahrung eines vom Notar beurkundeten Testaments zuständig?",
+  "optionen": [
+   "Das Amtsgericht am Wohnsitz des Erblassers.",
+   "Das Amtsgericht, zu dessen Bezirk der Amtssitz des beurkundenden Notars gehört; auf Verlangen des Erblassers muss ein anderes Amtsgericht übernehmen.",
+   "Das Amtsgericht Schöneberg in Berlin als zentrale Verwahrstelle.",
+   "Das Amtsgericht am Geburtsort des Erblassers, weil dort das Zentrale Testamentsregister geführt wird."
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 344 Abs. 1 S. 1 Nr. 1 FamFG knüpft an den Amtssitz des beurkundenden Notars an, nicht an den Wohnsitz des Erblassers. Nach § 344 Abs. 1 S. 2 FamFG kann der Erblasser jederzeit verlangen, dass ein anderes Amtsgericht die Verwahrung übernimmt; darauf sollte der Notar hinweisen. Das Zentrale Testamentsregister registriert nur, es verwahrt nicht.",
+  "id": "erbr2-034"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Testament: Testamentsformen, persönliche Errichtung und Verwahrung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/testament-testamentsformen-personliche-errichtung-und-verwahrung",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 2248 BGB",
+   "§ 346 Abs. 3 FamFG"
+  ],
+  "frage": "Ein eigenhändiges Testament kann auf Verlangen des Erblassers in die besondere amtliche Verwahrung gegeben werden; über die Verwahrung soll der Erblasser einen Hinterlegungsschein erhalten.",
+  "antwort": true,
+  "erklaerung": "§ 2248 BGB eröffnet dem Erblasser die besondere amtliche Verwahrung auch für das eigenhändige Testament nach § 2247 BGB. Nach § 346 Abs. 3 FamFG soll er darüber einen Hinterlegungsschein erhalten. Die Verwahrung ist beim privatschriftlichen Testament freiwillig, beim öffentlichen Testament hingegen die Regel.",
+  "id": "erbr2-035"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Testament: Testamentsformen, persönliche Errichtung und Verwahrung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/testament-testamentsformen-personliche-errichtung-und-verwahrung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2064 BGB",
+   "§ 2274 BGB",
+   "§ 2347 S. 1 BGB"
+  ],
+  "frage": "Für welche erbrechtlichen Rechtsgeschäfte gilt nach der Handbuchseite der Grundsatz der persönlichen Errichtung?",
+  "optionen": [
+   "Nur für das Testament; beim Erbvertrag und beim Erbverzicht ist Vertretung zulässig.",
+   "Für Testament, Erbvertrag (auf Seiten des Erblassers) und Erbverzicht (auf Seiten des Erblassers).",
+   "Für Testament und Erbvertrag auf beiden Seiten, nicht aber für den Erbverzicht.",
+   "Nur für das öffentliche Testament, weil der Notar den Willen des Erblassers persönlich feststellen muss."
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Grundsatz der persönlichen Errichtung gilt für das Testament (§ 2064 BGB), für den Erblasser beim Erbvertrag (§ 2274 BGB) und für den Erblasser beim Erbverzicht (§ 2347 S. 1 Hs. 1 BGB), weil die Verfügung von Todes wegen den persönlichen Willen des Erblassers ausdrückt. Der andere Vertragsteil beim Erbvertrag kann sich dagegen vertreten lassen; auch das eigenhändige Testament wird persönlich errichtet.",
+  "id": "erbr2-036"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Testament: Testierfähigkeit und Prüfung durch den Notar",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/testament-testierfahigkeit-und-prufung-durch-den-notar",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2229 Abs. 1 BGB",
+   "§ 2247 Abs. 4 BGB",
+   "§ 2275 BGB"
+  ],
+  "frage": "Der 17-jährige Auszubildende A möchte seine Freundin als Erbin einsetzen. Welche Gestaltung ist zulässig?",
+  "optionen": [
+   "A errichtet ein eigenhändiges Testament, weil er mit 16 Jahren testierfähig geworden ist.",
+   "A schließt mit seiner Freundin einen Erbvertrag, dem seine Eltern zustimmen.",
+   "A errichtet ein öffentliches Testament durch mündliche Erklärung oder Übergabe einer offenen Schrift vor dem Notar.",
+   "A muss bis zur Volljährigkeit warten, weil Minderjährige nicht testieren können."
+  ],
+  "antwort": 2,
+  "erklaerung": "Mit 16 Jahren ist A testierfähig (§ 2229 Abs. 1 BGB), aber auf das öffentliche Testament und das Bürgermeistertestament durch mündliche Erklärung oder Übergabe einer offenen Schrift beschränkt (§§ 2232, 2233 Abs. 1, 2249 Abs. 1 BGB). Das eigenhändige Testament ist Minderjährigen nach § 2247 Abs. 4 BGB verwehrt. Ein Erbvertrag setzt als Erblasser unbeschränkte Geschäftsfähigkeit voraus (§ 2275 BGB); die Zustimmung der Eltern ersetzt sie nicht.",
+  "id": "erbr2-037"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Testament: Testierfähigkeit und Prüfung durch den Notar",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/testament-testierfahigkeit-und-prufung-durch-den-notar",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 11 Abs. 1 BeurkG",
+   "§ 28 BeurkG"
+  ],
+  "frage": "Der Notar hat bei einer 88-jährigen Erblasserin leichte Zweifel an der Testierfähigkeit, ist aber nicht von ihrer Testierunfähigkeit überzeugt. Wie soll er verfahren?",
+  "optionen": [
+   "Die Beurkundung nach § 11 Abs. 1 BeurkG ablehnen, weil Zweifel zu Lasten der Erblasserin gehen.",
+   "Beurkunden, die Zweifel aber in der Urkunde vermerken (§ 28 BeurkG).",
+   "Beurkunden, ohne die Zweifel zu vermerken, weil ein Vermerk das Testament angreifbar machen würde.",
+   "Die Beurkundung bis zur Vorlage eines fachärztlichen Gutachtens zwingend zurückstellen."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 11 Abs. 1 BeurkG soll der Notar nur ablehnen, wenn er frei davon überzeugt ist, dass die Testierfähigkeit fehlt. Bei bloßen Zweifeln beurkundet er mit Blick auf Urkundsgewährungsanspruch und Testierfreiheit, hält seine Wahrnehmungen und Zweifel aber nach § 28 BeurkG in der Niederschrift fest. Ein Verschweigen der Zweifel verletzt die Vermerkpflicht.",
+  "id": "erbr2-038"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Testament: Testierfähigkeit und Prüfung durch den Notar",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/testament-testierfahigkeit-und-prufung-durch-den-notar",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2229 Abs. 4 BGB"
+  ],
+  "frage": "Wer im Erbscheinsverfahren die Testierunfähigkeit des Erblassers behauptet, trägt dafür die Beweislast; bloße Zweifel reichen für die Feststellung der Testierunfähigkeit nicht aus.",
+  "antwort": true,
+  "erklaerung": "Geistesstörungen im Sinne des § 2229 Abs. 4 BGB sind die Ausnahme, deshalb gilt der Erblasser als testierfähig, bis das Gegenteil bewiesen ist. Die Beweislast trägt, wer die Testierfähigkeit bestreitet und daraus eigene Rechte ableitet. Ein von einem Testierunfähigen errichtetes Testament ist allerdings nichtig, und diese Nichtigkeit kann anders als die Anfechtung ohne Frist geltend gemacht werden.",
+  "id": "erbr2-039"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Testament: Testierfähigkeit und Prüfung durch den Notar",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/testament-testierfahigkeit-und-prufung-durch-den-notar",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2229 BGB"
+  ],
+  "frage": "Welche Aussage zum Verhältnis von Testierfähigkeit und Geschäftsfähigkeit trifft zu?",
+  "optionen": [
+   "Testierfähigkeit und Geschäftsfähigkeit sind identisch und treten beide mit 18 Jahren ein.",
+   "Es gibt eine partielle Testierfähigkeit für einfache Verfügungen, auch wenn für komplexe Regelungen die Fähigkeit fehlt.",
+   "Die Testierfähigkeit ist ein Unterfall der Geschäftsfähigkeit, aber eigenständig in § 2229 BGB geregelt; eine partielle oder relative Testierfähigkeit gibt es nicht.",
+   "Die Testierfähigkeit muss im Zeitpunkt des Erbfalls vorliegen, nicht bei Errichtung."
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Testierfähigkeit ist in § 2229 BGB eigenständig geregelt und beginnt mit 16 Jahren, also nicht gleichzusetzen mit der Geschäftsfähigkeit. Nach herrschender Meinung ist eine Person testierfähig oder nicht; eine nach Lebensbereichen oder Schwierigkeit abgestufte Fähigkeit wird abgelehnt. Maßgeblicher Zeitpunkt ist die Errichtung des Testaments.",
+  "id": "erbr2-040"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Verfügung von Todes wegen: Arten und mögliche Anordnungen",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/verfugung-von-todes-wegen-arten-und-mogliche-anordnungen",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1937 BGB",
+   "§ 1938 BGB",
+   "§ 1939 BGB",
+   "§ 1940 BGB"
+  ],
+  "frage": "Ordne die in §§ 1937–1940 BGB genannten Anordnungen der jeweiligen Norm zu.",
+  "paare": [
+   [
+    "§ 1937 BGB",
+    "Erbeinsetzung durch Testament"
+   ],
+   [
+    "§ 1938 BGB",
+    "Enterbung von Verwandten, Ehegatten oder Lebenspartner"
+   ],
+   [
+    "§ 1939 BGB",
+    "Zuwendung eines Vermächtnisses"
+   ],
+   [
+    "§ 1940 BGB",
+    "Auflage an Erben oder Vermächtnisnehmer"
+   ]
+  ],
+  "erklaerung": "Die §§ 1937–1940 BGB stellen klar, dass der Erblasser die gesetzliche Erbfolge durch Erbeinsetzung, Enterbung, Vermächtnis und Auflage ersetzen kann; die Einzelheiten regeln §§ 2147 ff. BGB (Vermächtnis) und §§ 2192 ff. BGB (Auflage). Die Aufzählung ist nicht abschließend, daneben stehen etwa Teilungsanordnung (§ 2048 BGB) und Testamentsvollstreckung (§ 2197 BGB).",
+  "id": "erbr2-041"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Verfügung von Todes wegen: Arten und mögliche Anordnungen",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/verfugung-von-todes-wegen-arten-und-mogliche-anordnungen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§§ 2265 ff. BGB",
+   "§ 1941 BGB"
+  ],
+  "frage": "Wie ist das gemeinschaftliche Testament rechtlich einzuordnen?",
+  "optionen": [
+   "Als zweiseitiges Rechtsgeschäft wie der Erbvertrag, weil beide Ehegatten mitwirken.",
+   "Als besondere Form des Testaments, in der jeder Ehegatte eigene einseitige Verfügungen trifft; rechtlich liegen zwei einseitige Verfügungen von Todes wegen vor.",
+   "Als Unterfall des Erbvertrags mit Formerleichterung für Ehegatten.",
+   "Als einheitliche gemeinsame Verfügung beider Ehegatten, die nur gemeinsam widerrufen werden kann."
+  ],
+  "antwort": 1,
+  "erklaerung": "Das gemeinschaftliche Testament ist eine besondere Form des Testaments (§§ 2265 ff. BGB); jeder Beteiligte trifft darin als Erblasser eigene einseitige Verfügungen, sodass rechtlich zwei einseitige Verfügungen von Todes wegen vorliegen. Nur der Erbvertrag ist ein zweiseitiges Rechtsgeschäft (§ 1941 BGB); die Nähe zur Erbvertragsbindung besteht nur bei wechselbezüglichen Verfügungen nach dem ersten Erbfall.",
+  "id": "erbr2-042"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Verfügung von Todes wegen: Arten und mögliche Anordnungen",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/verfugung-von-todes-wegen-arten-und-mogliche-anordnungen",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§§ 1924–1936 BGB"
+  ],
+  "frage": "Eine wirksame Verfügung von Todes wegen beschränkt den Erblasser zu Lebzeiten darin, über die den eingesetzten Erben zugedachten Vermögensgegenstände zu verfügen.",
+  "antwort": false,
+  "erklaerung": "Die Errichtung einer letztwilligen Verfügung oder eines Erbvertrags beschränkt den Erblasser grundsätzlich nicht in seinen Verfügungen unter Lebenden; die Verfügung von Todes wegen erfasst nur das beim Tod noch vorhandene Vermögen. Ein eingesetzter Erbe kann Verfügungen des Erblassers über einzelne Gegenstände grundsätzlich nicht verhindern.",
+  "id": "erbr2-043"
  }
 ]

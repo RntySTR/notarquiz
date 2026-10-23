@@ -1,0 +1,244 @@
+[
+ {
+  "id": "kauf3-001",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Verträge mit der Gemeinde: Bindungen, Angemessenheit nach § 11 BauGB und Schenkungsverbot",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/vertrage-mit-der-gemeinde-bindungen-angemessenheit-nach-11-baugb-und-schenkungsverbot",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 11 Abs. 2 S. 1 BauGB",
+   "§ 11 Abs. 1 S. 2 BauGB"
+  ],
+  "frage": "Die Gemeinde verkauft einen Bauplatz und verpflichtet den Erwerber zur Selbstnutzung. Welcher Prüfungsmaßstab gilt für die Angemessenheit der vereinbarten Leistungen?",
+  "optionen": [
+   "§ 138 BGB als alleiniger Maßstab, da ein reiner Kaufvertrag vorliegt",
+   "§ 11 Abs. 2 BauGB, weil die Selbstnutzungspflicht den Vertrag zum städtebaulichen Vertrag macht",
+   "§ 11 Abs. 2 BauGB nur, wenn die Gemeinde zugleich einen Bebauungsplan aufstellt",
+   "§ 56 VwVfG, weil die Gemeinde als Hoheitsträger handelt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bau-, Nutzungs- oder Selbstnutzungspflichten sichern die gemeindliche Bauleitplanung ab und machen den Vertrag deshalb immer zu einem städtebaulichen Vertrag, für den § 11 Abs. 2 S. 1 BauGB die Angemessenheit von Leistung und Gegenleistung in ihrer Gesamtheit verlangt. Ein reiner Kauf wäre zwar kein städtebaulicher Vertrag, hier liegt aber mehr als ein Kauf vor; der Katalog des § 11 Abs. 1 S. 2 BauGB ist zudem nicht abschließend, sodass bei jeder über den Kauf hinausgehenden Regelung von einem städtebaulichen Vertrag auszugehen ist."
+ },
+ {
+  "id": "kauf3-002",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Verträge mit der Gemeinde: Bindungen, Angemessenheit nach § 11 BauGB und Schenkungsverbot",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/vertrage-mit-der-gemeinde-bindungen-angemessenheit-nach-11-baugb-und-schenkungsverbot",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 11 Abs. 2 BauGB",
+   "§§ 305 ff. BGB"
+  ],
+  "frage": "Worin liegt der wesentliche praktische Unterschied zwischen der Angemessenheitskontrolle nach § 11 Abs. 2 BauGB und der AGB-Kontrolle nach §§ 305 ff. BGB bei Bauplatzverträgen der Gemeinde?",
+  "optionen": [
+   "§ 11 Abs. 2 BauGB betrachtet den Vertrag als Ganzes und erlaubt den Ausgleich nachteiliger durch vorteilhafte Klauseln; die AGB-Kontrolle prüft jede Klausel einzeln",
+   "Die AGB-Kontrolle gilt nur gegenüber Unternehmern, § 11 Abs. 2 BauGB nur gegenüber Verbrauchern",
+   "§ 11 Abs. 2 BauGB führt stets zur Gesamtnichtigkeit, die AGB-Kontrolle nur zur Unwirksamkeit der Klausel",
+   "Die AGB-Kontrolle ist durch § 11 Abs. 2 BauGB nach gefestigter BGH-Rechtsprechung auch für Verträge nach 1994 ausgeschlossen"
+  ],
+  "antwort": 0,
+  "erklaerung": "§ 11 Abs. 2 BauGB stellt auf die Angemessenheit in der Gesamtheit ab, sodass eine nachteilige Klausel durch eine vorteilhafte kompensiert werden kann; nach §§ 305 ff. BGB ist dagegen jede Klausel für sich zu prüfen. Die vierte Option ist falsch: Der BGH hat die AGB-Kontrolle nur für Verträge bis 1994 verneint, für spätere Verträge die Frage offengelassen; wegen der europarechtlichen Grundlage der Klauselrichtlinie ist die AGB-Kontrolle richtigerweise neben § 11 Abs. 2 BauGB anzuwenden."
+ },
+ {
+  "id": "kauf3-003",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Verträge mit der Gemeinde: Bindungen, Angemessenheit nach § 11 BauGB und Schenkungsverbot",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/vertrage-mit-der-gemeinde-bindungen-angemessenheit-nach-11-baugb-und-schenkungsverbot",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 134 BGB"
+  ],
+  "frage": "Verstößt ein Bauplatzkaufvertrag der Gemeinde gegen das Schenkungsverbot, weil unter Marktwert verkauft wird, ist regelmäßig nur die Kaufpreisabrede teilnichtig und der Vertrag im Übrigen wirksam.",
+  "antwort": false,
+  "erklaerung": "Ein gegen das Schenkungsverbot verstoßender Vertrag ist nach § 134 BGB nichtig; regelmäßig tritt Gesamtnichtigkeit ein. Eine Teilnichtigkeit nur hinsichtlich des zu niedrigen Preises kommt lediglich ausnahmsweise in Betracht. Das Schenkungsverbot folgt aus Landesverfassungen, Kommunalgesetzen oder hilfsweise aus dem Gebot wirtschaftlicher und sparsamer Haushaltsführung."
+ },
+ {
+  "id": "kauf3-004",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Verträge mit der Gemeinde: Bindungen, Angemessenheit nach § 11 BauGB und Schenkungsverbot",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/vertrage-mit-der-gemeinde-bindungen-angemessenheit-nach-11-baugb-und-schenkungsverbot",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 11 Abs. 2 S. 2 BauGB"
+  ],
+  "frage": "Die Gemeinde verlangt in einem städtebaulichen Vertrag eine Gegenleistung für eine Leistung, auf die der private Vertragspartner ohnehin einen Anspruch hat. Wie ist das zu beurteilen?",
+  "optionen": [
+   "Zulässig, sofern die Gegenleistung in der Gesamtbetrachtung angemessen ist",
+   "Zulässig, wenn die Gegenleistung den Bodenwertanstieg nicht übersteigt",
+   "Unzulässig, weil § 11 Abs. 2 S. 2 BauGB die Vereinbarung einer Gegenleistung in diesem Fall ausschließt",
+   "Unzulässig nur dann, wenn die Gegenleistung in Geld besteht"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 11 Abs. 2 S. 2 BauGB darf keine Gegenleistung vereinbart werden, wenn der Private auf die Leistung der Gemeinde ohnehin Anspruch hat; das Koppelungsverbot greift unabhängig von der Angemessenheit. Die erste Option übersieht, dass die Gesamtangemessenheit nach § 11 Abs. 2 S. 1 BauGB erst dort relevant wird, wo eine Gegenleistung überhaupt vereinbart werden darf; der Bodenwertanstieg ist nur ein Indikator für die Angemessenheit, nicht für die Zulässigkeit der Koppelung."
+ },
+ {
+  "id": "kauf3-005",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Verträge mit der Gemeinde: Erschließungsverträge und Bebauungspläne nach § 13b BauGB",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/vertrage-mit-der-gemeinde-erschliessungsvertrage-und-bebauungsplane-nach-13b-baugb",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 12 Abs. 1 BauGB",
+   "§ 10 Abs. 1 BauGB"
+  ],
+  "frage": "Ordne die Vertragstypen ihrer Beschreibung zu.",
+  "paare": [
+   [
+    "Echter Erschließungsvertrag",
+    "Privater übernimmt Erschließung rechtlich, technisch und finanziell; kein umlagefähiger Aufwand der Gemeinde"
+   ],
+   [
+    "Unechter Erschließungsvertrag",
+    "Privater erschließt rechtlich und technisch und stellt die Kosten der Gemeinde in Rechnung; Umlage über Beiträge unter Beachtung des Selbstbehalts"
+   ],
+   [
+    "Durchführungsvertrag",
+    "Privater übernimmt auch die Planungskosten; Voraussetzung für den vorhabenbezogenen Bebauungsplan nach § 12 Abs. 1 BauGB"
+   ]
+  ],
+  "erklaerung": "Beim echten Erschließungsvertrag trägt die Gemeinde keine Kosten, sodass kein umlagefähiger Aufwand entsteht und der Private seine Kosten über die Kaufpreise refinanzieren muss. Beim unechten Erschließungsvertrag entsteht durch die Kostenerstattung ein umlagefähiger Aufwand der Gemeinde, der über Beiträge auf die Anlieger verteilt wird. Der Durchführungsvertrag mit Planungskostenübernahme ist nach § 12 Abs. 1 BauGB Voraussetzung des Beschlusses nach § 10 Abs. 1 BauGB über einen vorhabenbezogenen Bebauungsplan."
+ },
+ {
+  "id": "kauf3-006",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Verträge mit der Gemeinde: Erschließungsverträge und Bebauungspläne nach § 13b BauGB",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/vertrage-mit-der-gemeinde-erschliessungsvertrage-und-bebauungsplane-nach-13b-baugb",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 311b Abs. 1 BGB"
+  ],
+  "frage": "Wann ist ein an sich formfreier Erschließungsvertrag wegen seiner Verknüpfung mit einem Grundstückskaufvertrag mitzubeurkunden?",
+  "optionen": [
+   "Immer, wenn der Kaufvertrag unter der Bedingung des Abschlusses des Erschließungsvertrags steht",
+   "Wenn der Kaufvertrag inhaltlich vom Erschließungsvertrag abhängt, es den Beteiligten also auf dessen Inhalt ankommt",
+   "Nur, wenn beide Verträge nach der Formel vom „Stehen und Fallen“ miteinander verknüpft sind",
+   "Nie, weil der Erschließungsvertrag ein öffentlich-rechtlicher Vertrag ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Pflicht zur Mitbeurkundung nach § 311b Abs. 1 BGB besteht, wenn das beurkundungsbedürftige Geschäft inhaltlich vom nicht beurkundungsbedürftigen abhängt, wenn also die Beteiligten bestimmte Inhalte des Erschließungsvertrags als unverzichtbar vereinbaren. Eine bloße Bedingung genügt nicht, denn es reicht nicht, dass der Bestand des einen Vertrags vom Abschluss irgendeines anderen Vertrags abhängt. Auf die frühere Formel vom „Stehen und Fallen“ stellt der BGH nicht mehr ab."
+ },
+ {
+  "id": "kauf3-007",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Verträge mit der Gemeinde: Erschließungsverträge und Bebauungspläne nach § 13b BauGB",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/vertrage-mit-der-gemeinde-erschliessungsvertrage-und-bebauungsplane-nach-13b-baugb",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 13b BauGB",
+   "§ 214 Abs. 1 S. 1 Nr. 3 BauGB",
+   "§ 215 BauGB"
+  ],
+  "frage": "Ein Bauplatz liegt in einem Bebauungsplan, der vor acht Monaten im Verfahren nach § 13b BauGB aufgestellt wurde. Welche Konsequenz zieht der Notar aus der Rechtsprechung des BVerwG?",
+  "optionen": [
+   "Keine, weil der Bebauungsplan mit Bekanntmachung bestandskräftig ist",
+   "Der Vertrag ist wegen Nichtigkeit des Bebauungsplans nicht beurkundungsfähig",
+   "Beiderseitige Sicherungen wie Rücktrittsrechte oder angepasste Fristen vorsehen, weil die Jahresfrist des § 215 BauGB noch läuft",
+   "Die Beurkundung ist bis zur Nachholung der Umweltprüfung auszusetzen"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach BVerwG ist § 13b BauGB wegen Verstoßes gegen die SUP-Richtlinie nicht anzuwenden; ein so erlassener Bebauungsplan ist nach § 214 Abs. 1 S. 1 Nr. 3 BauGB beachtlich fehlerhaft, der Fehler wird erst nach Ablauf der Jahresfrist des § 215 BauGB unbeachtlich. Innerhalb der Jahresfrist sind deshalb Sicherungen und angepasste Fristen im Bauplatzvertrag vorzusehen. Die erste Option verkennt, dass der Fehler innerhalb der Jahresfrist beachtlich bleibt; eine Beurkundungssperre oder Nichtigkeit des Vertrags folgt daraus nicht."
+ },
+ {
+  "id": "kauf3-008",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Verträge mit der Gemeinde: Erschließungsverträge und Bebauungspläne nach § 13b BauGB",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/vertrage-mit-der-gemeinde-erschliessungsvertrage-und-bebauungsplane-nach-13b-baugb",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 311b Abs. 1 BGB"
+  ],
+  "frage": "Ein Erschließungsvertrag, in dem sich der Private zur Übereignung der Straßenflächen an die Gemeinde verpflichtet, bedarf der notariellen Beurkundung.",
+  "antwort": true,
+  "erklaerung": "Der Erschließungsvertrag als solcher ist formfrei; enthält er aber die Verpflichtung, Straßen- und andere Erschließungsflächen an die Gemeinde zu übereignen, greift § 311b Abs. 1 BGB und löst die Beurkundungspflicht aus. Der häufige Fehler liegt darin, aus der grundsätzlichen Formfreiheit des Erschließungsvertrags auf die Formfreiheit auch der enthaltenen Übereignungspflicht zu schließen."
+ },
+ {
+  "id": "kauf3-009",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Verträge mit der Gemeinde: Erstwohnsitz, Einheimischenmodelle und Bebauungsplanregelungen",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/vertrage-mit-der-gemeinde-erstwohnsitz-einheimischenmodelle-und-bebauungsplanregelungen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 11 Abs. 2 BauGB"
+  ],
+  "frage": "Die Gemeinde will den Bauplatzerwerber verpflichten, seinen Erstwohnsitz in die Gemeinde zu verlegen. Wie ist die Klausel nach der Handbuchseite zu beurteilen?",
+  "optionen": [
+   "Zulässig, weil sie die Selbstnutzung des Grundstücks absichert",
+   "Zulässig, weil der BGH sie ausdrücklich gebilligt hat",
+   "Unzulässig, weil kein anerkennenswertes öffentliches Interesse sie trägt; sie dient nur dem Steuer- und Umlageaufkommen",
+   "Unzulässig nur bei einem subventionierten Erwerb unter Marktwert"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Erstwohnsitzklausel verschafft der Gemeinde Steuern und Umlagen; das ist öffentlich-rechtlich nicht schützenswert und städtebaulich belanglos, weil bereits die Selbstnutzungsverpflichtung sicherstellt, dass keine anderen Bewohner einziehen. Die erste Option verwechselt Erstwohnsitz- und Selbstnutzungspflicht: Nur Letztere hat einen städtebaulichen Zweck. Der BGH hat die Erstwohnsitzklausel bislang nicht beurteilt."
+ },
+ {
+  "id": "kauf3-010",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Verträge mit der Gemeinde: Erstwohnsitz, Einheimischenmodelle und Bebauungsplanregelungen",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/vertrage-mit-der-gemeinde-erstwohnsitz-einheimischenmodelle-und-bebauungsplanregelungen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Welche Vorgabe enthalten die zwischen EU-Kommission, Bund und Freistaat Bayern ausgehandelten Leitlinien zu Einheimischenmodellen?",
+  "optionen": [
+   "Kriterien der Ortsansässigkeit dürfen höchstens die Hälfte der Gewichtung ausmachen; Bindungen sind nur für zehn Jahre zulässig",
+   "Kriterien der Ortsansässigkeit dürfen höchstens ein Drittel der Gewichtung ausmachen; Bindungen sind nur für fünf Jahre zulässig",
+   "Einkommen und Vermögen dürfen keine Rolle spielen; Bindungen sind nur für zehn Jahre zulässig",
+   "Ortsansässigkeit darf nur als Ausschlusskriterium verwendet werden; Bindungen sind für fünfzehn Jahre zulässig"
+  ],
+  "antwort": 0,
+  "erklaerung": "Nach den Leitlinien kommt es vor allem auf soziale Kriterien wie Einkommen und Vermögen an; Kriterien, die an Ortsansässigkeit und Dauer anknüpfen, dürfen höchstens die Hälfte der Gewichtung ausmachen, und Bindungen des Erwerbers sind nur für zehn Jahre zulässig. Werden die Leitlinien eingehalten, verzichtet die Kommission auf Einwände wegen Verstoßes gegen Niederlassungsfreiheit und Diskriminierungsverbot. Die Fristen von fünf oder fünfzehn Jahren und die Drittelgrenze sind falsch."
+ },
+ {
+  "id": "kauf3-011",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Verträge mit der Gemeinde: Erstwohnsitz, Einheimischenmodelle und Bebauungsplanregelungen",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/vertrage-mit-der-gemeinde-erstwohnsitz-einheimischenmodelle-und-bebauungsplanregelungen",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [],
+  "frage": "Die Auswahlentscheidung der Gemeinde im Einheimischenmodell hat der Notar grundsätzlich nicht zu überprüfen; der einzelne Bewerber kann aber verlangen, dass die Gemeinde ermessensfehlerfrei nach eindeutigen, nachvollziehbaren und gleichheitsgerechten Kriterien entscheidet.",
+  "antwort": true,
+  "erklaerung": "Einheimischenmodelle sind grundsätzlich eine Frage der Auswahlentscheidung der Gemeinde, die der Notar nicht zu überprüfen hat. Unabhängig davon hat jeder Bewerber nach der Rechtsprechung des VGH Mannheim einen Anspruch auf ermessensfehlerfreie Entscheidung anhand eindeutiger, nachvollziehbarer und gleichheitsgerechter Vergabekriterien. Beide Aussagen schließen sich nicht aus, weil die Prüfung dem Verwaltungsrechtsweg und nicht dem Notar obliegt."
+ },
+ {
+  "id": "kauf3-012",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Verträge mit der Gemeinde: Erstwohnsitz, Einheimischenmodelle und Bebauungsplanregelungen",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/vertrage-mit-der-gemeinde-erstwohnsitz-einheimischenmodelle-und-bebauungsplanregelungen",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 11 BauGB"
+  ],
+  "frage": "Ein städtebaulicher Vertrag betrifft einen noch zu erlassenden Bebauungsplan, ohne dass die Gemeinde dem Privaten eine Subvention gewährt. Welche Bindungen dürfen vereinbart werden?",
+  "optionen": [
+   "Alle Bindungen, die auch in subventionierten Einheimischenmodellen zulässig sind",
+   "Höchstens solche Regelungen, die auch bei einem Erwerb ohne Subvention denkbar wären",
+   "Keine Bindungen, weil ohne Subvention kein städtebaulicher Vertrag vorliegt",
+   "Nur Bindungen mit einer Dauer von höchstens zehn Jahren"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei Verträgen über einen künftigen Bebauungsplan oder eine Satzung, etwa eine Abrundungssatzung, gewährt die Gemeinde keine Subvention; zulässig sind deshalb höchstens Regelungen, die auch bei einem nicht subventionierten Erwerb denkbar wären. Die erste Option überträgt die Bindungsmöglichkeiten des subventionierten Einheimischenmodells auf einen Fall ohne Gegenleistung der Gemeinde; die Zehn-Jahres-Grenze stammt aus den EU-Leitlinien zu Einheimischenmodellen und ist hier nicht der Maßstab."
+ }
+]
