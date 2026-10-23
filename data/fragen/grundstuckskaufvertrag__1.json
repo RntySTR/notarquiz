@@ -1011,5 +1011,376 @@
   ],
   "antwort": 1,
   "erklaerung": "§ 1365 BGB greift nach der subjektiven Einzeltheorie nur, wenn der Vertragspartner positiv weiß, dass der Gegenstand nahezu das ganze Vermögen des Verfügenden ausmacht; ein Käufer ohne diese Kenntnis erwirbt wirksam. Deshalb sollen Notar und Mitarbeiter den Käufer weder vor noch in der Beurkundung bösgläubig machen. Eine Aufklärungspflicht gegenüber K besteht gerade nicht, und eine Beurkundungsverweigerung ist nicht geboten."
+ },
+ {
+  "id": "kauf1-046",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Erben beim Grundstückskauf: Erbnachweis gegenüber dem Grundbuchamt",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/erben-beim-grundstuckskauf-erbnachweis-gegenuber-dem-grundbuchamt",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 35 Abs. 1 GBO"
+  ],
+  "frage": "Welcher Nachweis genügt dem Grundbuchamt nach § 35 Abs. 1 GBO zum Nachweis der Erbfolge nicht?",
+  "optionen": [
+   "Ausfertigung des Erbscheins.",
+   "Beglaubigte Abschrift des Europäischen Nachlasszeugnisses innerhalb der Geltungsdauer.",
+   "Eigenhändiges Testament des Erblassers mit Eröffnungsniederschrift des Nachlassgerichts.",
+   "Notarieller Erbvertrag mit Eröffnungsniederschrift."
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 35 Abs. 1 S. 1 GBO wird die Erbfolge durch Erbschein oder Europäisches Nachlasszeugnis nachgewiesen; nach § 35 Abs. 1 S. 2 Hs. 1 GBO genügt auch eine öffentlich beurkundete Verfügung von Todes wegen, also ein notarielles Testament oder ein notarieller Erbvertrag, samt Eröffnungsniederschrift. Ein eigenhändiges Testament ist keine öffentliche Urkunde und reicht trotz Eröffnung nicht aus; dann ist ein Erbschein erforderlich."
+ },
+ {
+  "id": "kauf1-047",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Erben beim Grundstückskauf: Erbnachweis gegenüber dem Grundbuchamt",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/erben-beim-grundstuckskauf-erbnachweis-gegenuber-dem-grundbuchamt",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2361 BGB",
+   "§ 47 BeurkG"
+  ],
+  "frage": "Warum muss dem Grundbuchamt die Ausfertigung des Erbscheins vorgelegt werden und nicht nur eine beglaubigte Abschrift?",
+  "optionen": [
+   "Weil nur die Ausfertigung die Urschrift vertritt und zugleich belegt, dass der Erbschein fortbesteht und nicht eingezogen wurde.",
+   "Weil beglaubigte Abschriften nach § 29 GBO generell keine öffentlichen Urkunden sind.",
+   "Weil der Erbschein nur in elektronischer Ausfertigung an das Grundbuchamt übermittelt werden darf.",
+   "Weil die beglaubigte Abschrift nur sechs Monate gültig ist."
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Ausfertigung vertritt die Urschrift im Rechtsverkehr (§ 47 BeurkG) und belegt zugleich, dass der Erbschein nicht eingezogen wurde (§ 2361 BGB); eine beglaubigte Abschrift kann dies nicht leisten. Eine elektronische Ausfertigung des Erbscheins existiert nicht, er ist in Papierform zu übersenden. Die Sechsmonatsfrist gilt für beglaubigte Abschriften des Europäischen Nachlasszeugnisses (Art. 70 Abs. 3 S. 1 EuErbVO), nicht für den Erbschein."
+ },
+ {
+  "id": "kauf1-048",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Erben beim Grundstückskauf: Erbnachweis gegenüber dem Grundbuchamt",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/erben-beim-grundstuckskauf-erbnachweis-gegenuber-dem-grundbuchamt",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 29 GBO",
+   "§ 35 Abs. 1 S. 2 GBO",
+   "§ 35 Abs. 3 S. 2 GBO"
+  ],
+  "frage": "Der notarielle Erbvertrag der Eheleute enthält eine automatisch wirkende Pflichtteilsstrafklausel; nach dem Tod des Längstlebenden verkaufen die als Schlusserben eingesetzten Kinder das Hausgrundstück. Was gilt nach OLG Schleswig (Beschluss vom 16. August 2024) für den Erbnachweis?",
+  "optionen": [
+   "Der Erbvertrag mit Eröffnungsniederschrift genügt, weil die Pflichtteilsstrafklausel nur schuldrechtlich wirkt.",
+   "Eine eidesstattliche Versicherung der Erben ist im Grundbuchverfahren kein taugliches Mittel; es gilt aber ein allgemeiner Erfahrungssatz, wenn sämtliche potentiellen Erben erklären, dass nach ihrem Wissen keiner den Pflichtteil verlangt hat.",
+   "Der Nachweis des Nichteintritts der Bedingung ist stets nur durch Erbschein zu führen.",
+   "Das Grundbuchamt muss die Pflichtteilsfrage selbst durch Anfrage beim Nachlassgericht klären."
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei einer automatisch wirkenden Pflichtteilsstrafklausel steht die Erbeinsetzung unter einer auflösenden Bedingung, deren Nichteintritt dem Grundbuchamt in der Form des § 29 GBO nachzuweisen ist; die Verfügung allein ist kein tauglicher Erbnachweis. Nach OLG Schleswig ist die eidesstattliche Versicherung hier kein taugliches Mittel, weil das Gesetz sie gegenüber dem Grundbuchamt nur in Ausnahmefällen wie § 35 Abs. 3 S. 2 GBO vorsieht; zugleich erkennt das Gericht einen allgemeinen Erfahrungssatz an, wenn sämtliche potentiellen Erben erklären, dass keiner den Pflichtteil verlangt hat. Deshalb sind die Erklärungen aller potentiellen Erben in die Kaufvertragsurkunde aufzunehmen."
+ },
+ {
+  "id": "kauf1-049",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Erben beim Grundstückskauf: Erbnachweis gegenüber dem Grundbuchamt",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/erben-beim-grundstuckskauf-erbnachweis-gegenuber-dem-grundbuchamt",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2040 Abs. 1 BGB",
+   "§ 2033 Abs. 2 BGB"
+  ],
+  "frage": "Beim Verkauf eines Nachlassgrundstücks durch eine Erbengemeinschaft genügt die Mitwirkung der Mehrheit der Miterben, da die Veräußerung eine Maßnahme ordnungsgemäßer Verwaltung ist.",
+  "antwort": false,
+  "erklaerung": "Miterben können über Nachlassgegenstände nur gemeinschaftlich verfügen (§§ 2033 Abs. 2, 2040 Abs. 1 BGB). Am Kaufvertrag sind deshalb alle Miterben zu beteiligen; jeder muss persönlich erscheinen oder sich durch einen anderen Vertragsbeteiligten vertreten lassen. Eine Mehrheitsentscheidung reicht für die Verfügung über das Grundstück nicht aus."
+ },
+ {
+  "id": "kauf1-050",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Erben beim Grundstückskauf: Erbnachweis gegenüber dem Grundbuchamt",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/erben-beim-grundstuckskauf-erbnachweis-gegenuber-dem-grundbuchamt",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2366 BGB",
+   "Art. 70 Abs. 3 EuErbVO",
+   "§ 1922 Abs. 1 BGB",
+   "§ 2353 BGB"
+  ],
+  "frage": "Ordne die Normen ihrem Inhalt zu.",
+  "paare": [
+   [
+    "§ 1922 Abs. 1 BGB",
+    "Gesamtrechtsnachfolge kraft Gesetzes mit dem Tod des Erblassers"
+   ],
+   [
+    "§ 2353 BGB",
+    "Zuständigkeit des Nachlassgerichts für den Erbschein auf Antrag"
+   ],
+   [
+    "§ 2366 BGB",
+    "Öffentlicher Glaube des Erbscheins; gutgläubiger Erwerb vom Erbscheinserben"
+   ],
+   [
+    "Art. 70 Abs. 3 S. 1 EuErbVO",
+    "Beglaubigte Abschriften des Europäischen Nachlasszeugnisses gelten nur sechs Monate"
+   ]
+  ],
+  "erklaerung": "Das Vermögen geht nach § 1922 Abs. 1 BGB ohne Erklärung der Erben über; das Grundbuch wird dadurch unrichtig und kann binnen zwei Jahren gebührenfrei berichtigt werden. Den Erbschein erteilt das Nachlassgericht nur auf Antrag (§ 2353 BGB); er genießt öffentlichen Glauben (§ 2366 BGB). Die Ausstellungsbehörde des Europäischen Nachlasszeugnisses erteilt beglaubigte Abschriften, die nach Art. 70 Abs. 3 S. 1 EuErbVO nur sechs Monate gelten; die Verwendung nach Fristablauf ist ein typischer Fehler."
+ },
+ {
+  "id": "kauf1-051",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Gesetzliche Vertretung beim Grundstückskauf: Eltern, Betreuer und Vormund",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/gesetzliche-vertretung-beim-grundstuckskauf-eltern-betreuer-und-vormund",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1629 Abs. 2 S. 1 BGB",
+   "§ 1824 Abs. 1 Nr. 1 BGB"
+  ],
+  "frage": "Die Großmutter G verkauft ein Grundstück an ihre minderjährige Enkelin E. Wer kann E beim Vertragsschluss vertreten?",
+  "optionen": [
+   "Beide Eltern gemeinschaftlich, da sie die gesetzlichen Vertreter sind.",
+   "Nur der Elternteil, der nicht Kind der G ist, allein.",
+   "Keiner der beiden Elternteile; die Eltern sind nach § 1629 Abs. 2 S. 1 i. V. m. § 1824 Abs. 1 Nr. 1 BGB von der Vertretung ausgeschlossen.",
+   "Der Elternteil, der Kind der G ist, allein, weil er die Familienverhältnisse am besten kennt."
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 1824 Abs. 1 Nr. 1 BGB kann ein Elternteil das Kind nicht bei einem Geschäft mit dem eigenen Elternteil, also einem Großelternteil des Kindes, vertreten; über § 1629 Abs. 2 S. 1 BGB gilt dieser Ausschluss für die Eltern. Da die Eltern das Kind nach §§ 1626 Abs. 1, 1629 Abs. 1 S. 2 BGB gemeinschaftlich vertreten, schlägt der Ausschluss eines Elternteils auf die gemeinschaftliche Vertretung durch; es ist ein Ergänzungspfleger zu bestellen."
+ },
+ {
+  "id": "kauf1-052",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Gesetzliche Vertretung beim Grundstückskauf: Eltern, Betreuer und Vormund",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/gesetzliche-vertretung-beim-grundstuckskauf-eltern-betreuer-und-vormund",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 290 FamFG"
+  ],
+  "frage": "Für den Nachweis seiner Vertretungsmacht gegenüber dem Notar genügt es, wenn der Betreuer eine Kopie des Betreuerausweises vorlegt.",
+  "antwort": false,
+  "erklaerung": "Der Betreuer belegt die Vertretungsmacht durch Vorlage der Bestellungsurkunde im Original (§ 290 FamFG), weil nur das Original zeigt, dass das Betreueramt fortbesteht. Der Urkunde wird eine beglaubigte Abschrift beigefügt. Die Vorlage nur in Kopie ist der auf der Seite genannte typische Fehler."
+ },
+ {
+  "id": "kauf1-053",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Gesetzliche Vertretung beim Grundstückskauf: Eltern, Betreuer und Vormund",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/gesetzliche-vertretung-beim-grundstuckskauf-eltern-betreuer-und-vormund",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1823 BGB",
+   "§ 1825 BGB",
+   "§ 1824 Abs. 2 BGB",
+   "§ 181 BGB"
+  ],
+  "frage": "Welche Aussage zur Vertretung durch den Betreuer beim Grundstückskauf trifft zu?",
+  "optionen": [
+   "Die Betreuerbestellung führt zur Geschäftsunfähigkeit des Betreuten, sodass nur der Betreuer handeln kann.",
+   "Der Betreuer kann durch das Betreuungsgericht von § 181 BGB befreit werden, um das Grundstück des Betreuten selbst zu erwerben.",
+   "Ein voll geschäftsfähiger Betreuter kann grundsätzlich neben dem Betreuer selbst handeln, es sei denn, ein Einwilligungsvorbehalt nach § 1825 BGB ist angeordnet.",
+   "Der Aufgabenkreis „Gesundheitssorge“ umfasst den Grundstückskaufvertrag."
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Betreuerbestellung setzt keine Geschäftsunfähigkeit voraus; ein voll geschäftsfähiger Betreuter kann neben dem Betreuer selbst handeln (§§ 104 Nr. 2, 105 Abs. 1 BGB). Nur bei einem Einwilligungsvorbehalt nach § 1825 BGB kann der Betreute im Bereich des Vorbehalts nicht ohne Einwilligung des Betreuers wirksam handeln. Der Betreuer ist von § 181 BGB nicht befreit und kann auch nicht befreit werden (§ 1824 Abs. 2 BGB); der Grundstückskauf ist erfasst, wenn der Aufgabenkreis etwa die Vermögenssorge umfasst."
+ },
+ {
+  "id": "kauf1-054",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Gesetzliche Vertretung beim Grundstückskauf: gerichtliche Genehmigung, Doppelvollmacht und Eigenurkunde",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/gesetzliche-vertretung-beim-grundstuckskauf-gerichtliche-genehmigung-doppelvollmacht-und-eigenurkunde",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1855 BGB",
+   "§ 1856 Abs. 1 S. 2 BGB",
+   "§ 40 Abs. 2 S. 1 FamFG"
+  ],
+  "frage": "Wann wird die betreuungsgerichtliche Genehmigung eines Grundstückskaufvertrags gegenüber dem Vertragspartner wirksam?",
+  "optionen": [
+   "Mit Erlass des Genehmigungsbeschlusses durch das Betreuungsgericht.",
+   "Mit Zustellung des Beschlusses an den Vertragspartner durch das Gericht.",
+   "Wenn der Betreuer die rechtskräftig gewordene Genehmigung dem Vertragspartner mitteilt (§ 1856 Abs. 1 S. 2 BGB).",
+   "Mit Eintragung der Auflassung im Grundbuch."
+  ],
+  "antwort": 2,
+  "erklaerung": "Das Gericht erklärt die Genehmigung nur gegenüber dem Betreuer (§ 1855 BGB); gegenüber dem Vertragspartner wird sie erst wirksam, wenn der Betreuer die wirksam gewordene Genehmigung mitteilt (§ 1856 Abs. 1 S. 2 BGB). Der Beschluss selbst wird erst mit Rechtskraft wirksam (§ 40 Abs. 2 S. 1 FamFG). Diese Reihenfolge ist zwingend und gilt über § 1644 Abs. 3 S. 1 BGB ebenso für die familiengerichtliche Genehmigung; eine Zustellung an den Vertragspartner durch das Gericht ersetzt die Mitteilung nicht."
+ },
+ {
+  "id": "kauf1-055",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Gesetzliche Vertretung beim Grundstückskauf: gerichtliche Genehmigung, Doppelvollmacht und Eigenurkunde",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/gesetzliche-vertretung-beim-grundstuckskauf-gerichtliche-genehmigung-doppelvollmacht-und-eigenurkunde",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1856 Abs. 2 BGB",
+   "§ 29 GBO",
+   "§ 20 GBO"
+  ],
+  "frage": "Welche Befugnis umfasst die sogenannte Doppelvollmacht an den Notar im Kaufvertrag mit einem Betreuer NICHT?",
+  "optionen": [
+   "Die Genehmigung für den Betreuer zu beantragen und entgegenzunehmen.",
+   "Die Genehmigung nach Rechtskraft der anderen Vertragspartei mitzuteilen.",
+   "Die Mitteilung für die andere Vertragspartei zu empfangen.",
+   "Eine Aufforderung des Vertragspartners nach § 1856 Abs. 2 BGB für den Betreuer entgegenzunehmen."
+  ],
+  "antwort": 3,
+  "erklaerung": "Die Doppelvollmacht, genau genommen eine Dreifachvollmacht, ermächtigt den Notar, die Genehmigung für den Betreuer zu beantragen und zu empfangen, sie nach Rechtskraft der anderen Partei mitzuteilen und diese Mitteilung für die andere Partei zu empfangen; über diese Vorgänge errichtet er eine Eigenurkunde nach § 29 GBO, die wegen § 20 GBO die endgültige Wirksamkeit der Auflassung belegt. Auf die Entgegennahme einer Aufforderung nach § 1856 Abs. 2 BGB, die eine Zweimonatsfrist in Gang setzt, erstreckt sich die Vollmacht nicht; der Vertrag kann die Aufforderung während des laufenden Verfahrens ausschließen."
+ },
+ {
+  "id": "kauf1-056",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Gesetzliche Vertretung beim Grundstückskauf: gerichtliche Genehmigung, Doppelvollmacht und Eigenurkunde",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/gesetzliche-vertretung-beim-grundstuckskauf-gerichtliche-genehmigung-doppelvollmacht-und-eigenurkunde",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1850 Nr. 1 BGB",
+   "§ 1850 Nr. 5 BGB",
+   "§ 1856 BGB",
+   "§ 40 Abs. 2 FamFG"
+  ],
+  "frage": "Verkauf durch den Betreuer",
+  "sachverhalt": "Betreuer B verkauft für die betreute M, deren Aufgabenkreis die Vermögenssorge umfasst, ein Mietshaus an K. Der Notar beurkundet Kaufvertrag und Auflassung. Zwei Wochen nach Beurkundung erhält der Notar den Genehmigungsbeschluss des Betreuungsgerichts, noch ohne Rechtskraftvermerk.",
+  "schritte": [
+   {
+    "frage": "Wie ist die Rechtslage unmittelbar nach der Beurkundung?",
+    "optionen": [
+     "Der Vertrag ist wirksam, weil die Vermögenssorge den Grundstücksverkauf umfasst.",
+     "Kaufvertrag und Auflassung sind schwebend unwirksam, weil sie nach § 1850 Nr. 5 und Nr. 1 BGB der betreuungsgerichtlichen Genehmigung bedürfen (§ 1856 Abs. 1 S. 1 BGB).",
+     "Nur die Auflassung ist genehmigungsbedürftig, der Kaufvertrag ist sofort wirksam.",
+     "Der Vertrag ist nichtig, weil der Betreuer vor Beurkundung keine Genehmigung eingeholt hat."
+    ],
+    "antwort": 1,
+    "erklaerung": "Der Betreuer braucht die Genehmigung für die Verfügung über das Grundstück, insbesondere die Auflassung (§ 1850 Nr. 1 BGB), und für die Verpflichtung dazu, also den Kaufvertrag (§ 1850 Nr. 5 BGB). Bis zur Genehmigung ist das Geschäft schwebend unwirksam (§ 1856 Abs. 1 S. 1 BGB), nicht nichtig. Der Aufgabenkreis begründet nur die Vertretungsmacht, ersetzt aber die Genehmigung nicht."
+   },
+   {
+    "frage": "Darf der Notar jetzt die Eigenurkunde über Empfang und Mitteilung der Genehmigung errichten?",
+    "optionen": [
+     "Ja, die Doppelvollmacht ermächtigt ihn dazu, sobald der Beschluss vorliegt.",
+     "Nein, erst wenn der Beschluss mit Rechtskraftvermerk vorliegt, weil die Genehmigung erst mit Rechtskraft wirksam wird (§ 40 Abs. 2 S. 1 FamFG).",
+     "Ja, aber nur nach erneuter Rückfrage beim Betreuer.",
+     "Nein, die Eigenurkunde darf nur das Betreuungsgericht errichten."
+    ],
+    "antwort": 1,
+    "erklaerung": "Ein Beschluss über die Genehmigung eines Rechtsgeschäfts wird erst mit Rechtskraft wirksam (§ 40 Abs. 2 S. 1 FamFG). Der Notar fertigt die Eigenurkunde nach § 29 GBO über Empfang, Mitteilung und Empfang der Mitteilung deshalb erst, sobald der Beschluss rechtskräftig vermerkt vorliegt, und verbindet sie üblicherweise als Vermerk auf der Rückseite der Beschlussausfertigung. Eine erneute Rückfrage beim Betreuer ist nicht nötig; der Notar weist bereits im Vertrag darauf hin, dass er die Vollmacht ohne Rückfrage ausübt."
+   },
+   {
+    "frage": "Wie ist die Genehmigung im Fälligkeitsgefüge des Kaufvertrags zu behandeln?",
+    "optionen": [
+     "Sie ist unerheblich für die Fälligkeit, da K durch die Vormerkung geschützt ist.",
+     "Die gerichtliche Genehmigung ist Fälligkeitsvoraussetzung; maßgeblich ist der rechtskräftig vermerkte Genehmigungsbeschluss.",
+     "Die Fälligkeit tritt mit Antragstellung beim Betreuungsgericht ein.",
+     "Die Fälligkeit tritt mit Ablauf der Zweimonatsfrist des § 1856 Abs. 2 BGB ein."
+    ],
+    "antwort": 1,
+    "erklaerung": "Die gerichtliche Genehmigung ist zur Fälligkeitsvoraussetzung zu machen; in der Regel beantragt der Notar sie im Auftrag der Beteiligten, und maßgeblich ist der rechtskräftig vermerkte Beschluss. Die Zweimonatsfrist des § 1856 Abs. 2 BGB betrifft die Aufforderung des Vertragspartners an den Betreuer und ist wegen der Verfahrensdauer oft nicht einzuhalten; der Vertrag kann die Aufforderung während des laufenden Verfahrens ausschließen."
+   }
+  ],
+  "erklaerung": "Kaufvertrag und Auflassung des Betreuers sind nach § 1850 Nr. 5 und Nr. 1 BGB genehmigungsbedürftig und bis dahin schwebend unwirksam. Die Genehmigung wird erst mit Rechtskraft wirksam und gegenüber dem Vertragspartner erst mit Mitteilung; der Notar errichtet die Eigenurkunde kraft Doppelvollmacht erst nach Rechtskraftvermerk, und die Genehmigung ist Fälligkeitsvoraussetzung."
+ },
+ {
+  "id": "kauf1-057",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Grundstückskaufvertrag: Urkundeneingang und Bezeichnung der Beteiligten",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/grundstuckskaufvertrag-urkundeneingang-und-bezeichnung-der-beteiligten",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 6 Abs. 2 BeurkG"
+  ],
+  "frage": "Wer ist Beteiligter der Beurkundung im Sinne des § 6 Abs. 2 BeurkG?",
+  "optionen": [
+   "Jede Person, deren Rechte durch die Urkunde berührt werden, auch wenn sie nicht erschienen ist.",
+   "Die erschienenen Personen, deren Erklärungen beurkundet werden sollen, gleich ob für sich selbst oder für andere abgegeben.",
+   "Nur die Personen, die im eigenen Namen handeln; Vertreter sind keine Beteiligten.",
+   "Alle anwesenden Personen einschließlich Dolmetscher und Zeugen."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 6 Abs. 2 BeurkG sind Beteiligte die erschienenen Personen, deren Erklärungen – im eigenen oder fremden Namen – beurkundet werden sollen; beim Grundstückskaufvertrag also Verkäufer und Käufer bzw. ihre erschienenen Vertreter. Nicht erschienene materiell Betroffene sind keine Beteiligten im formellen Sinn, und Dolmetscher oder Zeugen geben keine zu beurkundenden Erklärungen ab. Die Beteiligten sind nach § 9 Abs. 1 Nr. 1 BeurkG zu bezeichnen und nach § 10 BeurkG zu identifizieren."
+ },
+ {
+  "id": "kauf1-058",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Grundstückskaufvertrag: Urkundeneingang und Bezeichnung der Beteiligten",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/grundstuckskaufvertrag-urkundeneingang-und-bezeichnung-der-beteiligten",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 10 Abs. 3 S. 1 BeurkG",
+   "§ 16 BeurkG"
+  ],
+  "frage": "Familienstand, Güterstand und Staatsangehörigkeit der Beteiligten sind Pflichtangaben zur Identifizierung im Urkundeneingang eines Grundstückskaufvertrags.",
+  "antwort": false,
+  "erklaerung": "Zur Identifizierung sind nach § 5 Abs. 1 DONot Vornamen, Familienname, abweichender Geburtsname, Geburtsdatum, Wohnort und Anschrift anzugeben; Familienstand, Güterstand und Staatsangehörigkeit müssen im Urkundeneingang nicht stehen. Die Staatsangehörigkeit ist gleichwohl früh zu klären, weil wegen § 16 BeurkG über einen Dolmetscher zu entscheiden ist und sie bei Ehegatten den Güterstand beeinflussen kann. Die Niederschrift soll zudem nach § 10 Abs. 3 S. 1 BeurkG angeben, wie die Identität festgestellt wurde."
+ },
+ {
+  "id": "kauf1-059",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Grundstückskaufvertrag: Urkundeneingang und Bezeichnung der Beteiligten",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/grundstuckskaufvertrag-urkundeneingang-und-bezeichnung-der-beteiligten",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 10 BeurkG",
+   "§ 11 GwG"
+  ],
+  "frage": "Der Notar kennt den Verkäufer seit Jahren persönlich. Welche Folge hat das für die Identifizierung?",
+  "optionen": [
+   "Die persönliche Bekanntheit genügt für das BeurkG; die Identifizierung nach dem GwG ist dennoch durchzuführen.",
+   "Die persönliche Bekanntheit ersetzt sowohl die Identifizierung nach § 10 BeurkG als auch die nach dem GwG.",
+   "Die persönliche Bekanntheit ist unbeachtlich; stets ist ein amtlicher Lichtbildausweis vorzulegen.",
+   "Die Identifizierung darf nur durch Vorstellung durch eine zuverlässige dritte Person erfolgen."
+  ],
+  "antwort": 0,
+  "erklaerung": "Nach § 10 Abs. 3 S. 1 BeurkG soll die Niederschrift angeben, ob die Beteiligten dem Notar bekannt sind oder wie er ihre Identität festgestellt hat; persönliche Bekanntheit genügt daher für das BeurkG. Die geldwäscherechtliche Identifizierung ist davon unabhängig und trotzdem durchzuführen. Neben Lichtbildausweis und persönlicher Bekanntheit ist auch die Vorstellung durch eine dem Notar persönlich bekannte, zuverlässige Person möglich."
+ },
+ {
+  "id": "kauf1-060",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Beteiligte und Vertretung",
+  "seite": "Grundstückskaufvertrag: Urkundeneingang und Bezeichnung der Beteiligten",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/grundstuckskaufvertrag-urkundeneingang-und-bezeichnung-der-beteiligten",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 3 Abs. 3 S. 1 NotAktVV",
+   "§ 9 BeurkG",
+   "§ 5 DONot",
+   "§ 15 Abs. 1 GBV"
+  ],
+  "frage": "Ordne die Vorschriften ihrem Regelungsgegenstand im Urkundeneingang zu.",
+  "paare": [
+   [
+    "§ 3 Abs. 3 S. 1 NotAktVV",
+    "Urkundenverzeichnisnummer und Jahreszahl auf der Urschrift"
+   ],
+   [
+    "§ 9 Abs. 2 BeurkG",
+    "Angabe von Ort und Tag der Verhandlung"
+   ],
+   [
+    "§ 5 Abs. 2 DONot",
+    "Bezeichnung juristischer Personen mit Firma, Rechtsform, Sitz, Register und Registernummer"
+   ],
+   [
+    "§ 15 Abs. 1 Nr. 1 und 2 GBV",
+    "Angaben, mit denen Berechtigte im Grundbuch eingetragen werden"
+   ]
+  ],
+  "erklaerung": "Die Urschrift trägt nach § 3 Abs. 3 S. 1 NotAktVV UVZ-Nummer und Jahreszahl; Ort und Tag der Verhandlung soll die Niederschrift nach § 9 Abs. 2 BeurkG nennen, den Notar und die Beteiligten nach § 9 Abs. 1 S. 1 Nr. 1 BeurkG. § 5 Abs. 1 DONot regelt die Angaben zu natürlichen, § 5 Abs. 2 DONot zu juristischen Personen und Gesellschaften; sie entsprechen den Eintragungsangaben nach § 15 Abs. 1 Nr. 1 und 2 GBV."
  }
 ]

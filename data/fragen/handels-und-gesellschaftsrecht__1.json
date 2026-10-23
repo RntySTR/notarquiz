@@ -535,5 +535,99 @@
   "frage": "Ein Gesellschafter darf gegen die Bareinlageforderung der GmbH mit jeder fälligen Gegenforderung aufrechnen, sofern die Gegenforderung vollwertig ist.",
   "antwort": false,
   "erklaerung": "Die Bareinlage wird grundsätzlich nur durch tatsächliche Zahlung von Geld zur endgültig freien Verfügung der Geschäftsführer erfüllt. Eine Aufrechnung ist nur zulässig, wenn die Gegenforderung aus der Überlassung von Vermögensgegenständen stammt und die Anrechnung auf die Einlage unter Beachtung der Sacheinlagevorschriften vereinbart wurde. Die bloße Vollwertigkeit einer beliebigen Gegenforderung reicht nicht."
+ },
+ {
+  "id": "hand1-025",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Kapitalerhöhung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-kapitalerhohung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 78 GmbHG",
+   "§ 57 Abs. 3 Nr. 2 GmbHG"
+  ],
+  "frage": "Wer muss die Anmeldung einer Kapitalerhöhung zum Handelsregister unterzeichnen?",
+  "optionen": [
+   "Geschäftsführer in vertretungsberechtigter Zahl",
+   "Sämtliche Geschäftsführer",
+   "Der Vorsitzende der Gesellschafterversammlung und ein Geschäftsführer",
+   "Alle Übernehmer der neuen Geschäftsanteile"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 78 GmbHG unterzeichnen sämtliche Geschäftsführer die Anmeldung der Kapitalerhöhung; dasselbe gilt für die Übernehmerliste (§§ 57 Abs. 3 Nr. 2, 78 GmbHG). Die Anmeldung in vertretungsberechtigter Zahl, wie sie etwa bei der Abberufung eines Geschäftsführers genügt, reicht hier nicht; die fehlende Unterzeichnung aller Geschäftsführer ist der typische Fehler."
+ },
+ {
+  "id": "hand1-026",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Kapitalerhöhung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-kapitalerhohung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 57 Abs. 1 GmbHG",
+   "§ 55 GmbHG"
+  ],
+  "frage": "Welche Aussage zur Kapitalerhöhung einer GmbH trifft zu?",
+  "optionen": [
+   "Die Kapitalerhöhung wird mit dem notariell beurkundeten Beschluss wirksam; die Eintragung hat nur deklaratorische Bedeutung",
+   "Der Kapitalerhöhungsbeschluss bedarf der einfachen Mehrheit, da er keine Satzungsänderung ist",
+   "Die Kapitalerhöhung ist anzumelden, sobald das erhöhte Kapital durch Übernahme der neuen Geschäftsanteile gedeckt ist",
+   "Eine Vollmacht zur Übernahme eines neuen Geschäftsanteils ist formfrei"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 57 Abs. 1 GmbHG erfolgt die Anmeldung, sobald das erhöhte Kapital durch Übernahme gedeckt ist. Die Kapitalerhöhung ist eine Satzungsänderung: Der Beschluss wird beurkundet, braucht mindestens drei Viertel der abgegebenen Stimmen und wird erst mit Eintragung wirksam (konstitutiv). Die Übernahmevollmacht muss notariell beglaubigt sein (§ 55, § 2 Abs. 2 analog GmbHG)."
+ },
+ {
+  "id": "hand1-027",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Kapitalerhöhung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-kapitalerhohung",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 57 Abs. 3 GmbHG",
+   "§ 54 Abs. 1 GmbHG",
+   "§ 56 GmbHG"
+  ],
+  "frage": "Ordne die mit der Anmeldung der Kapitalerhöhung einzureichenden Unterlagen ihrer Funktion zu.",
+  "paare": [
+   [
+    "Übernehmerliste",
+    "Von allen Geschäftsführern unterzeichnete Liste der Personen, die neue Geschäftsanteile übernommen haben"
+   ],
+   [
+    "Satzungswortlaut mit Bescheinigung nach § 54 Abs. 1 GmbHG",
+    "Vollständiger neuer Text des Gesellschaftsvertrags mit Notarbescheinigung"
+   ],
+   [
+    "Verträge nach § 56 GmbHG und Werthaltigkeitsunterlagen",
+    "Nur bei Sachkapitalerhöhung beizufügen"
+   ],
+   [
+    "Gesellschafterliste mit Veränderungsspalte",
+    "Kann auch erst nach Eintragung der Kapitalerhöhung folgen"
+   ]
+  ],
+  "erklaerung": "§ 57 Abs. 3 GmbHG nennt die Anlagen: Beschluss, Übernahmeerklärungen, Übernehmerliste (von sämtlichen Geschäftsführern unterzeichnet), neuer Satzungswortlaut mit Bescheinigung nach § 54 Abs. 1 GmbHG und bei Sacheinlagen die Verträge nach § 56 GmbHG samt Werthaltigkeitsnachweisen. Die Gesellschafterliste mit Notarbescheinigung ist genau genommen erst nach Eintragung einzureichen; wird sie vorab eingereicht, ist bei Eintragung zu prüfen, ob sie durch zwischenzeitliche Anteilsübertragungen überholt ist."
+ },
+ {
+  "id": "hand1-028",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Kapitalerhöhung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-kapitalerhohung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 57 Abs. 2 S. 2 GmbHG",
+   "§ 8 Abs. 2 S. 2 GmbHG"
+  ],
+  "frage": "Bei der Anmeldung einer Kapitalerhöhung entfällt die Versicherung der Geschäftsführer über die Bewirkung der Einlagen, weil diese nur bei der Erstanmeldung nach § 8 GmbHG vorgesehen ist.",
+  "antwort": false,
+  "erklaerung": "Auch bei der Kapitalerhöhung versichern die Geschäftsführer, dass die Einlagen auf das neue Stammkapital nach § 7 Abs. 2 S. 1 und Abs. 3 GmbHG bewirkt sind und sich der Gegenstand endgültig in ihrer freien Verfügung befindet; § 8 Abs. 2 S. 2 GmbHG gilt nach § 57 Abs. 2 S. 2 GmbHG entsprechend. Bei Sachkapitalerhöhungen kommt die Versicherung hinzu, dass die Gegenstände übertragen sind und keine Rückgewähr an den Einleger stattgefunden hat."
  }
 ]

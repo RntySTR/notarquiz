@@ -1,0 +1,299 @@
+[
+ {
+  "id": "sach1-001",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Eigentum",
+  "seite": "Eigentum: Allein-, Mit- und Gesamthandseigentum",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/eigentum/eigentum-allein-mit-und-gesamthandseigentum",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1008 BGB",
+   "§ 47 GBO"
+  ],
+  "frage": "Mehrere Personen erwerben ein Grundstück rechtsgeschäftlich zu Miteigentum nach Bruchteilen. Was hält jeder Miteigentümer?",
+  "optionen": [
+   "Eine reale Teilfläche des Grundstücks, die seinem Anteil entspricht",
+   "Einen gedachten (ideellen) Anteil am ganzen Grundstück",
+   "Eine Beteiligung an einem Sondervermögen, nicht am Grundstück selbst",
+   "Ein Nutzungsrecht an bestimmten Räumen, das Eigentum bleibt beim Veräußerer"
+  ],
+  "antwort": 1,
+  "erklaerung": "Beim Miteigentum nach Bruchteilen (§§ 1008 ff. BGB) hält jeder Miteigentümer einen ideellen Anteil am ganzen Grundstück, nicht an einer realen Teilfläche; die Anteile sind beim Erwerb nach § 47 GBO anzugeben. Die Beteiligung nur am Sondervermögen als Ganzem kennzeichnet dagegen das Gesamthandseigentum, nicht das Bruchteilseigentum."
+ },
+ {
+  "id": "sach1-002",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Eigentum",
+  "seite": "Eigentum: Allein-, Mit- und Gesamthandseigentum",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/eigentum/eigentum-allein-mit-und-gesamthandseigentum",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 749 Abs. 2 BGB",
+   "§ 1010 Abs. 1 BGB"
+  ],
+  "frage": "Zwei Miteigentümer schließen den Anspruch auf Aufhebung der Gemeinschaft dauerhaft aus. Welche Maßnahme ist erforderlich, damit auch ein späterer Erwerber eines Miteigentumsanteils daran gebunden ist?",
+  "optionen": [
+   "Die Vereinbarung muss notariell beurkundet werden",
+   "Die Vereinbarung muss im Grundbuch als Belastung des jeweiligen Anteils eingetragen werden",
+   "Der Ausschluss muss auf höchstens 30 Jahre befristet werden",
+   "Die Vereinbarung muss in Abteilung I beim Eigentümer vermerkt werden"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 1010 Abs. 1 BGB binden Benutzungs- und Verwaltungsregelungen sowie der Ausschluss des Aufhebungsanspruchs (§ 749 Abs. 2 BGB) Sondernachfolger eines Miteigentümers nur, wenn sie als Belastung des Anteils im Grundbuch eingetragen sind. Die Beurkundung allein bewirkt keine Bindung Dritter; eine Befristung ist zwar zulässig (§ 749 Abs. 2 BGB), aber nicht Voraussetzung der Drittwirkung."
+ },
+ {
+  "id": "sach1-003",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Eigentum",
+  "seite": "Eigentum: Allein-, Mit- und Gesamthandseigentum",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/eigentum/eigentum-allein-mit-und-gesamthandseigentum",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2033 BGB"
+  ],
+  "frage": "Ein Gesamthänder kann über seinen Anteil an einem einzelnen zum Gesamthandsvermögen gehörenden Grundstück ohne Mitwirkung der übrigen Gesamthänder verfügen.",
+  "antwort": false,
+  "erklaerung": "Gesamthänder können über ihren Anteil an einzelnen Vermögensgegenständen nicht verfügen; der Einzelne ist nur am Sondervermögen als Ganzem beteiligt. Nur bei der Erbengemeinschaft kann der Miterbe nach § 2033 BGB über seinen Anteil am Nachlass insgesamt verfügen (Erbteilsverkauf, Erbteilsübertragung), nicht aber über seinen Anteil an einem einzelnen Nachlassgrundstück. Die freie Verfügung über den eigenen Anteil kennzeichnet dagegen das Bruchteilseigentum."
+ },
+ {
+  "id": "sach1-004",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Eigentum",
+  "seite": "Eigentum: Allein-, Mit- und Gesamthandseigentum",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/eigentum/eigentum-allein-mit-und-gesamthandseigentum",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 745 BGB",
+   "§ 749 BGB",
+   "§ 1010 BGB",
+   "§ 2033 BGB"
+  ],
+  "frage": "Ordne die Normen ihrem Regelungsgegenstand zu.",
+  "paare": [
+   [
+    "§ 745 BGB",
+    "Regelung von Verwaltung und Benutzung unter Miteigentümern"
+   ],
+   [
+    "§ 749 Abs. 1 BGB",
+    "Anspruch auf Aufhebung der Gemeinschaft, durchgesetzt durch Teilungsversteigerung"
+   ],
+   [
+    "§ 1010 Abs. 1 BGB",
+    "Bindung von Sondernachfolgern nur bei Eintragung als Belastung des Anteils"
+   ],
+   [
+    "§ 2033 BGB",
+    "Verfügung des Miterben über seinen Anteil am Nachlass"
+   ]
+  ],
+  "erklaerung": "§ 745 BGB erlaubt Miteigentümern Benutzungs- und Verwaltungsregelungen, § 749 Abs. 1 BGB gewährt den jederzeitigen Aufhebungsanspruch (Teilungsversteigerung), der nach § 749 Abs. 2 BGB ausgeschlossen werden kann. § 1010 Abs. 1 BGB macht die Drittwirkung solcher Regelungen von der Grundbucheintragung abhängig. § 2033 BGB ist die Ausnahme vom Verfügungsverbot der Gesamthänder und betrifft nur den Erbteil als Ganzes."
+ },
+ {
+  "id": "sach1-005",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Eigentum",
+  "seite": "Eigentum: gutgläubiger und gesetzlicher Erwerb",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/eigentum/eigentum-gutglaubiger-und-gesetzlicher-erwerb",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 892 BGB",
+   "§ 932 Abs. 2 BGB"
+  ],
+  "frage": "Welcher Umstand schließt beim Grundstückserwerb den guten Glauben des Erwerbers nach § 892 BGB aus?",
+  "optionen": [
+   "Grob fahrlässige Unkenntnis der Unrichtigkeit des Grundbuchs",
+   "Positive Kenntnis der Unrichtigkeit des Grundbuchs",
+   "Unterlassen zumutbarer Nachforschungen zur Eigentümerstellung",
+   "Jede einfach fahrlässige Unkenntnis der wahren Rechtslage"
+  ],
+  "antwort": 1,
+  "erklaerung": "Beim Grundstückserwerb entfällt der gute Glaube erst bei positiver Kenntnis der Unrichtigkeit; grob fahrlässige Unkenntnis schadet nicht und Nachforschungspflichten bestehen nicht (§ 892 BGB). Die Schädlichkeit grober Fahrlässigkeit gilt nur für bewegliche Sachen (§ 932 Abs. 2 BGB) und ist die naheliegende Verwechslung."
+ },
+ {
+  "id": "sach1-006",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Eigentum",
+  "seite": "Eigentum: gutgläubiger und gesetzlicher Erwerb",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/eigentum/eigentum-gutglaubiger-und-gesetzlicher-erwerb",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 900 Abs. 1 BGB"
+  ],
+  "frage": "Nach welcher Zeit erwirbt derjenige das Eigentum, der zu Unrecht als Eigentümer im Grundbuch eingetragen ist (Buchersitzung)?",
+  "optionen": [
+   "10 Jahre",
+   "20 Jahre",
+   "30 Jahre",
+   "40 Jahre"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 900 Abs. 1 BGB erwirbt das Eigentum, wer 30 Jahre lang zu Unrecht als Eigentümer eingetragen ist; guter Glaube an die eigene Berechtigung ist nicht erforderlich. Die kürzeren Fristen entsprechen anderen Verjährungs- oder Ersitzungsregeln, nicht der Buchersitzung am Grundstück."
+ },
+ {
+  "id": "sach1-007",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Eigentum",
+  "seite": "Eigentum: gutgläubiger und gesetzlicher Erwerb",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/eigentum/eigentum-gutglaubiger-und-gesetzlicher-erwerb",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 892 BGB"
+  ],
+  "frage": "Ist eine Testamentsvollstreckung nicht im Grundbuch vermerkt, kann ein gutgläubiger Erwerber trotz fehlender Verfügungsbefugnis des veräußernden Erben Eigentum am Grundstück erwerben.",
+  "antwort": true,
+  "erklaerung": "§ 892 BGB schützt beim Grundstückserwerb auch das Vertrauen darauf, dass keine nicht eingetragene Verfügungsbeschränkung besteht. Ein nicht vermerkter Testamentsvollstreckervermerk hindert den gutgläubigen Erwerb daher nicht. Anders läge es bei einem eingetragenen Widerspruch, der den Erwerb ausschließt."
+ },
+ {
+  "id": "sach1-008",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Eigentum",
+  "seite": "Eigentum: gutgläubiger und gesetzlicher Erwerb",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/eigentum/eigentum-gutglaubiger-und-gesetzlicher-erwerb",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 946 BGB",
+   "§ 951 BGB",
+   "§ 900 BGB",
+   "§ 1922 BGB"
+  ],
+  "frage": "Ordne die gesetzlichen Erwerbstatbestände und Folgen der jeweiligen Norm zu.",
+  "paare": [
+   [
+    "§ 946 BGB",
+    "Eigentumserwerb des Grundstückseigentümers an einer wesentlich verbundenen beweglichen Sache"
+   ],
+   [
+    "§ 951 BGB",
+    "Entschädigung des früheren Eigentümers der verbundenen Sache"
+   ],
+   [
+    "§ 900 Abs. 1 BGB",
+    "Eigentumserwerb durch 30-jährige unrichtige Eintragung ohne guten Glauben"
+   ],
+   [
+    "§ 1922 BGB",
+    "Gesamtrechtsnachfolge der Erben in das gesamte Vermögen"
+   ]
+  ],
+  "erklaerung": "Verbindung (§ 946 BGB) führt zum Eigentumserwerb am wesentlichen Bestandteil mit Entschädigung nach § 951 BGB. Die Buchersitzung (§ 900 Abs. 1 BGB) setzt 30 Jahre unrichtige Eintragung, aber keinen guten Glauben voraus. Die Erbfolge (§ 1922 BGB) ist der praktisch wichtigste gesetzliche Erwerb; die Grundbucheintragung des Erben ist nur Berichtigung."
+ },
+ {
+  "id": "sach1-009",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Eigentum",
+  "seite": "Eigentum: Inhalt, Besitz und Auflassung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/eigentum/eigentum-inhalt-besitz-und-auflassung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 925 Abs. 2 BGB"
+  ],
+  "frage": "Welche Aussage zur Auflassung trifft zu?",
+  "optionen": [
+   "Die Auflassung darf unter die Bedingung der vollständigen Kaufpreiszahlung gestellt werden",
+   "Die Auflassung darf weder bedingt noch befristet erklärt werden",
+   "Die Auflassung bedarf kraft Gesetzes zwingend der notariellen Beurkundung",
+   "Die Auflassung ersetzt die Eintragung, die nur noch deklaratorisch wirkt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 925 Abs. 2 BGB ist die Auflassung bedingungs- und befristungsfeindlich; soll der Vollzug von der Kaufpreiszahlung abhängen, ist er auf anderem Weg hinauszuschieben. Eine bestimmte Form schreibt das Gesetz für die Auflassung selbst nicht vor, sie wird nur in der Regel beurkundet; die Eintragung bleibt konstitutiv."
+ },
+ {
+  "id": "sach1-010",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Eigentum",
+  "seite": "Eigentum: Inhalt, Besitz und Auflassung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/eigentum/eigentum-inhalt-besitz-und-auflassung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 866 BGB",
+   "§ 854 BGB"
+  ],
+  "frage": "Eigentümer E hat sein Haus an M vermietet. Wie ist die Besitzlage?",
+  "optionen": [
+   "E ist unmittelbarer Besitzer, M bloßer Besitzdiener",
+   "M ist unmittelbarer Besitzer, E mittelbarer Besitzer",
+   "M ist unmittelbarer Besitzer, E hat keinen Besitz mehr",
+   "E und M sind gleichrangige Mitbesitzer"
+  ],
+  "antwort": 1,
+  "erklaerung": "Besitz ist die tatsächliche Sachherrschaft (§ 854 BGB). Bei der Vermietung fallen Eigentum und Besitz auseinander: Der Mieter ist unmittelbarer, der vermietende Eigentümer mittelbarer Besitzer (§ 866 BGB). Der Eigentümer verliert durch die Vermietung nicht jeden Besitz, sondern behält den mittelbaren Besitz."
+ },
+ {
+  "id": "sach1-011",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Eigentum",
+  "seite": "Eigentum: Inhalt, Besitz und Auflassung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/eigentum/eigentum-inhalt-besitz-und-auflassung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 873 BGB"
+  ],
+  "frage": "Gegenüber dem Grundbuchamt genügt für die Eigentumsumschreibung die Eintragungsbewilligung des Veräußerers; die Auflassung selbst muss nicht nachgewiesen werden.",
+  "antwort": false,
+  "erklaerung": "Wegen des materiellen Konsensprinzips genügt die Bewilligung des Veräußerers bei der Eigentumsübertragung nicht; dem Grundbuchamt ist die Auflassung nachzuweisen. Die bloße Bewilligung reicht nur bei Eintragungen, die dem formellen Konsensprinzip unterliegen. Verstöße gegen Verfahrensvorschriften machen einen vollzogenen Erwerb allerdings nicht unwirksam."
+ },
+ {
+  "id": "sach1-012",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Eigentum",
+  "seite": "Eigentum: Inhalt, Besitz und Auflassung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/eigentum/eigentum-inhalt-besitz-und-auflassung",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 925 Abs. 2 BGB",
+   "§ 873 Abs. 2 BGB",
+   "§ 892 BGB"
+  ],
+  "frage": "Auflassung unter Vorbehalt",
+  "sachverhalt": "V verkauft sein Grundstück an K. K möchte sicherstellen, dass er erst nach vollständiger Kaufpreiszahlung Eigentümer wird; V will umgekehrt sicher sein, dass er nicht das Eigentum verliert, bevor er sein Geld hat. V schlägt vor, die Auflassung nur unter der aufschiebenden Bedingung der Kaufpreiszahlung zu erklären. In Abteilung II des Grundbuchs ist ein Testamentsvollstreckervermerk zugunsten T eingetragen, weil V das Grundstück geerbt hat.",
+  "schritte": [
+   {
+    "frage": "Kann die Auflassung unter die aufschiebende Bedingung der Kaufpreiszahlung gestellt werden?",
+    "optionen": [
+     "Ja, da die Vorschriften des Allgemeinen Teils über Bedingungen auch für die Auflassung gelten",
+     "Nein, § 925 Abs. 2 BGB verbietet eine bedingte oder befristete Auflassung",
+     "Ja, sofern die Bedingung notariell beurkundet wird",
+     "Nein, weil Bedingungen bei dinglichen Geschäften generell unzulässig sind"
+    ],
+    "antwort": 1,
+    "erklaerung": "§ 925 Abs. 2 BGB erklärt die bedingte oder befristete Auflassung für unzulässig. Zwar gelten die Vorschriften des Allgemeinen Teils grundsätzlich auch für die Auflassung, § 925 Abs. 2 BGB ist aber eine Sonderregel; ein allgemeines Bedingungsverbot für dingliche Geschäfte besteht nicht."
+   },
+   {
+    "frage": "Wie kann das Sicherungsinteresse des V stattdessen gewahrt werden?",
+    "optionen": [
+     "Durch einen Rücktrittsvorbehalt in der Auflassungserklärung",
+     "Indem der Grundbuchvollzug der Auflassung auf anderem Weg bis zur Kaufpreiszahlung hinausgeschoben wird",
+     "Durch Vereinbarung, dass die Eintragung nur deklaratorisch wirken soll",
+     "Durch Befristung der Auflassung auf den Tag der Kaufpreiszahlung"
+    ],
+    "antwort": 1,
+    "erklaerung": "Von der unzulässigen Bedingung ist zu unterscheiden, den Grundbuchvollzug auf anderem Weg hinauszuschieben; das ist der von der Seite empfohlene Weg. Rücktrittsvorbehalt und Befristung in der Auflassung selbst scheitern ebenfalls an § 925 Abs. 2 BGB, und die Eintragung ist stets konstitutiv."
+   },
+   {
+    "frage": "Welche Bedeutung hat der eingetragene Testamentsvollstreckervermerk für die Beurkundung?",
+    "optionen": [
+     "Keine, da K das Grundstück nach § 892 BGB gutgläubig erwerben kann",
+     "V ist in seiner Verfügungsbefugnis beschränkt; der gutgläubige Erwerb scheidet wegen der Eintragung aus",
+     "Der Vermerk betrifft nur den Nachlass insgesamt, nicht das einzelne Grundstück",
+     "Der Vermerk ist unbeachtlich, weil V bereits als Eigentümer eingetragen ist"
+    ],
+    "antwort": 1,
+    "erklaerung": "Der Veräußerer darf in seiner Verfügungsbefugnis nicht beschränkt sein, etwa durch Testamentsvollstreckung. Gutgläubiger Erwerb hinsichtlich der Verfügungsbefugnis kommt nach § 892 BGB nur bei nicht eingetragener Beschränkung in Betracht; hier ist der Vermerk eingetragen. Deshalb sind Verfügungsbeschränkungen vor der Beurkundung in Abteilung II zu prüfen."
+   }
+  ],
+  "erklaerung": "Die Auflassung ist nach § 925 Abs. 2 BGB bedingungsfeindlich; das Sicherungsinteresse des Verkäufers wird durch Hinausschieben des Grundbuchvollzugs gewahrt. Daneben muss der Veräußerer verfügungsbefugt sein; eine eingetragene Testamentsvollstreckung schließt den gutgläubigen Erwerb aus und ist vor Beurkundung in Abteilung II zu prüfen."
+ }
+]

@@ -711,5 +711,181 @@
    }
   ],
   "erklaerung": "Die Firmenfortführung setzt die Einwilligung Vogts voraus (§ 22 Abs. 1 HGB) und löst die Erwerberhaftung nach § 25 Abs. 1 HGB aus. Diese lässt sich nur durch den im Handelsregister eingetragenen und bekanntgemachten Ausschluss nach § 25 Abs. 2 HGB vermeiden, der mit dem Inhaberwechsel anzumelden und in seiner Eintragung zu überwachen ist."
+ },
+ {
+  "id": "hand2-030",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Gesellschaftsrecht: öffentlich-rechtliche Genehmigungen und Registereintragung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/gesellschaftsrecht-offentlich-rechtliche-genehmigungen-und-registereintragung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 8 Abs. 1 Nr. 6 GmbHG a.F.",
+   "§ 61 GmbHG"
+  ],
+  "frage": "Eine GmbH soll ein genehmigungspflichtiges Gewerbe betreiben; die Genehmigung liegt bei Anmeldung noch nicht vor. Wie hat das Registergericht zu verfahren?",
+  "optionen": [
+   "Es trägt die GmbH ein, da öffentlich-rechtliche Genehmigungen für die Eintragung grundsätzlich unbeachtlich sind",
+   "Es setzt die Eintragung bis zur Vorlage der Genehmigung aus",
+   "Es weist die Anmeldung zurück, da der Gesellschaftszweck ohne Genehmigung nicht erreichbar ist",
+   "Es trägt nur ein, wenn die Gesellschafter die Erteilung der Genehmigung versichern"
+  ],
+  "antwort": 0,
+  "erklaerung": "Seit Wegfall des § 8 Abs. 1 Nr. 6 GmbHG a.F. sind Gesellschaftsgründung und Tätigkeitsbeginn vollständig getrennt: Das Registergericht darf nicht prüfen, ob Genehmigungen eingeholt sind, und muss auch bei bekannt fehlender Genehmigung eintragen. Die Gesellschaft entsteht, darf ihren Betrieb aber noch nicht aufnehmen. Erst bei endgültiger Verweigerung kommt eine Auflösungsklage nach § 61 GmbHG in Betracht."
+ },
+ {
+  "id": "hand2-031",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Gesellschaftsrecht: öffentlich-rechtliche Genehmigungen und Registereintragung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/gesellschaftsrecht-offentlich-rechtliche-genehmigungen-und-registereintragung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 43 Abs. 1 KWG",
+   "§ 32 Abs. 1 KWG"
+  ],
+  "frage": "Welche Ausnahme vom Grundsatz der Entkoppelung von Genehmigung und Registereintragung gilt für Unternehmen, die Bankgeschäfte oder Finanzdienstleistungen betreiben wollen?",
+  "optionen": [
+   "Keine; auch hier ist ohne Genehmigung einzutragen, die BaFin wird lediglich benachrichtigt",
+   "Das Registergericht darf nur eintragen, wenn ihm die KWG-Genehmigung vorliegt; das gilt für Abteilung A und B und auch für Einzelkaufleute",
+   "Die Eintragung erfolgt nur in Abteilung B, da Einzelkaufleute keine Bankgeschäfte betreiben dürfen",
+   "Das Registergericht trägt ein, verlangt aber stets ein amtliches Negativattest der BaFin"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 43 Abs. 1 KWG darf das Registergericht nur eintragen, wenn ihm die erforderliche KWG-Genehmigung vorliegt; die Vorschrift geht der Streichung des § 8 Abs. 1 Nr. 6 GmbHG a.F. vor und gilt für HRA und HRB einschließlich Einzelkaufleuten. Ein Negativattest darf das Gericht gerade nicht verlangen, wenn der Unternehmensgegenstand Bankgeschäfte und Finanzdienstleistungen ausdrücklich ausnimmt und keine anderen Anhaltspunkte bestehen."
+ },
+ {
+  "id": "hand2-032",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Gesellschaftsrecht: öffentlich-rechtliche Genehmigungen und Registereintragung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/gesellschaftsrecht-offentlich-rechtliche-genehmigungen-und-registereintragung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 59f BRAO",
+   "§ 107 Abs. 1 S. 2 HGB"
+  ],
+  "frage": "Für die Eintragung einer Rechtsanwalts-GmbH & Co. KG im Handelsregister muss die Zulassung nach § 59f BRAO vorgelegt werden, weil die Gesellschaft ohne Zulassung nicht entstehen kann.",
+  "antwort": false,
+  "erklaerung": "Die Zulassung oder Anerkennung beschränkt nur die Aufnahme der Geschäftstätigkeit, nicht die Entstehung der Gesellschaft; für die Eintragung der Berufsausübungsgesellschaft als solche ist ihre Vorlage daher nicht erforderlich. Vorzulegen ist die Zulassung aber, wenn die Firma die Berufsbezeichnung enthält, weil diese ohne Zulassung nicht geführt werden darf. Die GmbH & Co. KG steht Rechtsanwälten seit 01.01.2024 nach § 107 Abs. 1 S. 2 HGB offen."
+ },
+ {
+  "id": "hand2-033",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Gesellschaftsrecht: öffentlich-rechtliche Genehmigungen und Registereintragung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/gesellschaftsrecht-offentlich-rechtliche-genehmigungen-und-registereintragung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 32 Abs. 1 KWG",
+   "§ 43 Abs. 1 KWG"
+  ],
+  "frage": "Welche Gestaltung empfiehlt sich bei einer Gesellschaft mit weit gefasstem Unternehmensgegenstand, um Nachfragen des Registergerichts nach dem KWG zu vermeiden?",
+  "optionen": [
+   "Ein amtliches Negativattest der BaFin mit der Anmeldung einreichen",
+   "Den Unternehmensgegenstand auf eine einzige Tätigkeit beschränken",
+   "Bankgeschäfte und Finanzdienstleistungen im Unternehmensgegenstand ausdrücklich ausnehmen",
+   "Die Versicherung der Geschäftsführer aufnehmen, dass keine Erlaubnis nach § 32 KWG erforderlich ist"
+  ],
+  "antwort": 2,
+  "erklaerung": "Maßgeblich für die Erlaubnispflicht ist nach § 32 Abs. 1 KWG, ob das Unternehmen auf Bankgeschäfte oder Finanzdienstleistungen gerichtet ist. Enthält der Unternehmensgegenstand die Klarstellung, dass solche Geschäfte nicht erfasst sind, darf das Registergericht ohne weitere Anhaltspunkte kein amtliches Negativattest verlangen. Das Negativattest ist also gerade das, was durch die Klarstellung entbehrlich wird."
+ },
+ {
+  "id": "hand2-034",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Handelsrecht: Kaufmannsbegriff und Freiberufler",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/handelsrecht-kaufmannsbegriff-und-freiberufler",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1 Abs. 1 HGB",
+   "§ 2 S. 1 HGB",
+   "§ 3 Abs. 2 HGB",
+   "§ 6 Abs. 1 HGB"
+  ],
+  "frage": "Ordne die Arten der Kaufmannseigenschaft der jeweils zutreffenden Beschreibung zu.",
+  "paare": [
+   [
+    "Istkaufmann (§ 1 Abs. 1 HGB)",
+    "Betreibt ein Handelsgewerbe und ist zur Anmeldung verpflichtet"
+   ],
+   [
+    "Kannkaufmann (§ 2 S. 1 HGB)",
+    "Kleingewerbetreibender, der die Eintragung freiwillig herbeiführen darf"
+   ],
+   [
+    "Land- und Forstwirt (§ 3 Abs. 2 HGB)",
+    "Darf die Eintragung herbeiführen; nach h. M. auch bei kleingewerblichem Betrieb"
+   ],
+   [
+    "Formkaufmann (§ 6 Abs. 1 HGB)",
+    "Handelsgesellschaft, die kraft Rechtsform Kaufmann ist, auch ohne Handelsgewerbe"
+   ]
+  ],
+  "erklaerung": "Der Istkaufmann betreibt ein Handelsgewerbe (§ 1 Abs. 1 HGB) und muss sich nach § 29 HGB anmelden. Kleingewerbetreibende (§ 2 S. 1 HGB) sowie Land- und Forstwirte (§ 3 Abs. 2 HGB) haben ein Wahlrecht. Handelsgesellschaften sind nach § 6 Abs. 1 HGB kraft Rechtsform Kaufmann und müssen eingetragen werden."
+ },
+ {
+  "id": "hand2-035",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Handelsrecht: Kaufmannsbegriff und Freiberufler",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/handelsrecht-kaufmannsbegriff-und-freiberufler",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1 Abs. 1 HGB"
+  ],
+  "frage": "Ab welchem Jahresumsatz ist nach der Seite regelmäßig ein Handelsgewerbe anzunehmen, das einen kaufmännisch eingerichteten Geschäftsbetrieb erfordert?",
+  "optionen": [
+   "Über 100.000,00 €",
+   "Über 250.000,00 €",
+   "Über 500.000,00 €",
+   "Über 1.000.000,00 €"
+  ],
+  "antwort": 1,
+  "erklaerung": "Ob ein kaufmännisch eingerichteter Geschäftsbetrieb erforderlich ist, hängt vor allem vom Umsatz ab; ein Handelsgewerbe ist regelmäßig anzunehmen, wenn der Jahresumsatz 250.000,00 € übersteigt. Unterhalb dieser Schwelle bleibt der Betreiber Kleingewerbetreibender mit dem Wahlrecht nach § 2 S. 1 HGB."
+ },
+ {
+  "id": "hand2-036",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Handelsrecht: Kaufmannsbegriff und Freiberufler",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/handelsrecht-kaufmannsbegriff-und-freiberufler",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 107 Abs. 1 S. 2 HGB"
+  ],
+  "frage": "Unter welcher Voraussetzung können Freiberufler seit dem MoPeG ihren Beruf in einer OHG oder KG ausüben?",
+  "optionen": [
+   "Ohne weitere Voraussetzung, da das MoPeG das Handelsregister für alle Freien Berufe geöffnet hat",
+   "Nur, wenn das jeweilige Berufsrecht dies ausdrücklich erlaubt",
+   "Nur, wenn die Gesellschaft zusätzlich im Partnerschaftsregister eingetragen bleibt",
+   "Nur, wenn mindestens ein Gesellschafter Gewerbetreibender ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Seit dem 01.01.2024 können Freiberufler nach § 107 Abs. 1 S. 2 HGB ihren Beruf in einer OHG oder KG ausüben, sofern das Berufsrecht dies ausdrücklich erlaubt. Für Rechtsanwälte, Steuerberater und Wirtschaftsprüfer ist das derzeit der Fall; für Heilberufe und Architekten ist die Zulassung Sache der Länder. Eine generelle Öffnung ohne berufsrechtliche Erlaubnis gibt es nicht."
+ },
+ {
+  "id": "hand2-037",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Handelsrecht: Kaufmannsbegriff und Freiberufler",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/handelsrecht-kaufmannsbegriff-und-freiberufler",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 29 HGB",
+   "§ 14 HGB",
+   "§ 24 Abs. 4 HRV"
+  ],
+  "frage": "Meldet ein Istkaufmann seine Firma entgegen § 29 HGB nicht zum Handelsregister an, hält ihn das Registergericht durch Zwangsgeld nach § 14 HGB zur Anmeldung an.",
+  "antwort": true,
+  "erklaerung": "Der Istkaufmann muss nach § 29 HGB Firma, Ort der Handelsniederlassung und inländische Geschäftsanschrift anmelden, den Unternehmensgegenstand zusätzlich nach § 24 Abs. 4 HRV, wenn er sich nicht aus der Firma ergibt. Unterbleibt die Anmeldung, setzt das Registergericht Zwangsgeld nach § 14 HGB fest. Anders als beim Kannkaufmann besteht hier eine Pflicht, kein Wahlrecht."
  }
 ]

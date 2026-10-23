@@ -1,0 +1,312 @@
+[
+ {
+  "id": "vert1-001",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Gerichtliche Genehmigung",
+  "seite": "Gerichtliche Genehmigung: genehmigungsbedürftige Geschäfte",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-genehmigungsbedurftige-geschafte",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1850 Nr. 1 BGB",
+   "§ 1849 BGB",
+   "§ 1643 Abs. 2 BGB"
+  ],
+  "frage": "Ein Betreuer tritt eine Grundschuld des Betreuten an einen Dritten ab. Nach welcher Vorschrift ist die Verfügung seit der Reform des Vormundschafts- und Betreuungsrechts genehmigungsbedürftig?",
+  "optionen": [
+   "§ 1849 Abs. 1 BGB (Verfügung über ein Recht auf Geldleistung)",
+   "§ 1850 Nr. 1 BGB (Verfügung über ein Grundstücksrecht)",
+   "§ 1852 Nr. 1 BGB (Veräußerung eines Erwerbsgeschäfts)",
+   "§ 1854 Nr. 2 BGB (Kreditaufnahme)"
+  ],
+  "antwort": 1,
+  "erklaerung": "Grundpfandrechte sind Grundstücksrechte; ihre Verfügung fällt seit der Reform unter § 1850 Nr. 1 BGB. Der typische Fehler ist die Einordnung unter § 1849 BGB, der nur Rechte auf Geldleistung oder Wertpapiere, Wertpapiere selbst und hinterlegte Wertgegenstände erfasst und gegenüber § 1812 BGB aF deutlich enger ist. Bei Eltern wäre die Verfügung über ein Grundpfandrecht nach § 1643 Abs. 2 BGB sogar genehmigungsfrei."
+ },
+ {
+  "id": "vert1-002",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Gerichtliche Genehmigung",
+  "seite": "Gerichtliche Genehmigung: genehmigungsbedürftige Geschäfte",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-genehmigungsbedurftige-geschafte",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1849 BGB",
+   "Art. 229 § 54 Abs. 2 EGBGB"
+  ],
+  "frage": "Im Fall des § 1849 BGB genehmigt stets das Familien- bzw. Betreuungsgericht, weil Gegenvormund und Gegenbetreuer seit dem 01.01.2023 abgeschafft sind.",
+  "antwort": true,
+  "erklaerung": "Gegenvormundschaft und Gegenbetreuung wurden zum 01.01.2023 abgeschafft; früher angeordnete Gegenvormundschaften und Gegenbetreuungen sind mit Ablauf des 31.12.2022 erloschen (Art. 229 § 54 Abs. 2 EGBGB). Die Genehmigung nach § 1849 BGB erteilt daher ausschließlich das Gericht; eine Genehmigung durch einen Gegenvormund, wie sie das alte Recht kannte, gibt es nicht mehr."
+ },
+ {
+  "id": "vert1-003",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Gerichtliche Genehmigung",
+  "seite": "Gerichtliche Genehmigung: genehmigungsbedürftige Geschäfte",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-genehmigungsbedurftige-geschafte",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1850 BGB",
+   "§ 1852 BGB",
+   "§ 1854 BGB"
+  ],
+  "frage": "Ordne die genehmigungsbedürftigen Geschäfte der einschlägigen Vorschrift zu.",
+  "paare": [
+   [
+    "Erwerb eines Anteils an einer Gesellschaft, die ein Erwerbsgeschäft betreibt",
+    "§ 1852 Nr. 1 BGB"
+   ],
+   [
+    "Unentgeltlicher Erwerb von Wohnungseigentum",
+    "§ 1850 Nr. 4 BGB"
+   ],
+   [
+    "Verpflichtung zur Verfügung über das Vermögen im Ganzen",
+    "§ 1854 Nr. 1 BGB"
+   ],
+   [
+    "Vertrag über den entgeltlichen Erwerb eines Grundstücks",
+    "§ 1850 Nr. 6 BGB"
+   ],
+   [
+    "Erteilung einer Prokura",
+    "§ 1852 Nr. 3 BGB"
+   ]
+  ],
+  "erklaerung": "§ 1850 BGB bündelt die Grundstücks- und Schiffsgeschäfte (Nr. 4 unentgeltlicher Erwerb von Wohnungs- oder Teileigentum, Nr. 6 entgeltlicher Grundstückserwerb), § 1852 BGB die Geschäfte rund um das Erwerbsgeschäft (Nr. 1 Erwerb oder Veräußerung, Nr. 3 Prokura) und § 1854 BGB die Vermögens- und Kreditgeschäfte (Nr. 1 Vermögen im Ganzen, Nr. 2–5 Kredit, Wechsel, Schuldübernahme, Bürgschaft). Häufige Verwechslung: Der Grundstückskauf steht nicht in § 1854 BGB, sondern in § 1850 Nr. 6 BGB."
+ },
+ {
+  "id": "vert1-004",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Gerichtliche Genehmigung",
+  "seite": "Gerichtliche Genehmigung: genehmigungsbedürftige Geschäfte",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-genehmigungsbedurftige-geschafte",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1643 Abs. 4 BGB",
+   "§ 1853 S. 1 Nr. 1 BGB"
+  ],
+  "frage": "Die Eltern schließen für ihr 16-jähriges Kind einen Pachtvertrag über ein Grundstück des Kindes mit einer Laufzeit von fünf Jahren. Bedarf der Vertrag der familiengerichtlichen Genehmigung?",
+  "optionen": [
+   "Nein, Miet- und Pachtverträge sind nach § 1853 S. 1 Nr. 1 BGB stets genehmigungsfrei.",
+   "Ja, nach § 1643 Abs. 4 BGB, weil der Vertrag länger als ein Jahr nach Eintritt der Volljährigkeit fortdauern soll.",
+   "Ja, nach § 1850 Nr. 6 BGB, weil ein Vertrag über ein Grundstück vorliegt.",
+   "Nur, wenn der Vertrag länger als vier Jahre nach Vertragsschluss läuft."
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 1643 Abs. 4 BGB verlangt abweichend von § 1853 S. 1 Nr. 1 BGB eine Genehmigung für Miet-, Pacht- und andere Verträge über wiederkehrende Leistungen des Kindes, wenn der Vertrag länger als ein Jahr nach Eintritt der Volljährigkeit fortdauern soll. Das Kind wird in zwei Jahren volljährig, der Vertrag läuft drei weitere Jahre. Die pauschale Freistellung nach § 1853 S. 1 Nr. 1 BGB greift bei Eltern gerade nicht; § 1850 Nr. 6 BGB betrifft den entgeltlichen Erwerb eines Grundstücks, nicht dessen Verpachtung."
+ },
+ {
+  "id": "vert1-005",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Gerichtliche Genehmigung",
+  "seite": "Gerichtliche Genehmigung: genehmigungsbedürftige Geschäfte",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-genehmigungsbedurftige-geschafte",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1849 Abs. 1 BGB",
+   "§§ 1855 ff. BGB",
+   "§ 1859 Abs. 1 BGB"
+  ],
+  "frage": "Welche Aussage zur Genehmigung nach § 1849 BGB trifft zu?",
+  "optionen": [
+   "Sie ist eine reine Innengenehmigung; ihr Fehlen berührt die Wirksamkeit gegenüber Dritten nicht.",
+   "Sie beschränkt die Vertretungsmacht, ist Außengenehmigung und unterliegt den §§ 1855 ff. BGB.",
+   "Sie ist auch bei befreiter Betreuung und bei Betreuung durch die Betreuungsbehörde uneingeschränkt erforderlich.",
+   "Sie erfasst Verfügungen über Wertpapiere nur, wenn diese nicht hinterlegt sind."
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Genehmigung nach § 1849 BGB beschränkt die Vertretungsmacht und ist Außengenehmigung, sodass §§ 1855 ff. BGB über Mitteilung und Wirksamwerden anzuwenden sind. Die Annahme einer bloßen Innengenehmigung verkennt diese Außenwirkung. Bei befreiter Vormundschaft, Pflegschaft oder Betreuung sowie bei Amts- und Vereinsvormundschaft und Betreuung durch Betreuungsverein oder -behörde gilt § 1849 BGB ganz oder teilweise nicht (§§ 1801, 1811 Abs. 2, 1859, 1813, 1888 BGB); hinterlegte Wertgegenstände sind ausdrücklich erfasst."
+ },
+ {
+  "id": "vert1-006",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Gerichtliche Genehmigung",
+  "seite": "Gerichtliche Genehmigung: Grundpfandrechte und Eigentümerrechte",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-grundpfandrechte-und-eigentumerrechte",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1850 Nr. 1 BGB",
+   "§ 1854 Nr. 7 BGB",
+   "§ 1849 BGB"
+  ],
+  "frage": "Der Betreuer bewilligt die Löschung einer Grundschuld, die dem Betreuten zusteht; die gesicherte Forderung ist vollständig getilgt. Ist die Löschungsbewilligung genehmigungsbedürftig?",
+  "optionen": [
+   "Nein, weil ohne zu sichernde Forderung kein schutzwürdiges Interesse des Betreuten besteht.",
+   "Ja, stets nach § 1850 Nr. 1 BGB; bestünde die Forderung noch, käme § 1854 Nr. 7 BGB hinzu.",
+   "Ja, nach § 1849 Abs. 1 BGB, weil ein Recht auf Geldleistung betroffen ist.",
+   "Nur nach § 1854 Nr. 7 BGB, weil es sich um den Erlass einer Forderung handelt."
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Löschungsbewilligung für ein Grundpfandrecht des Vertretenen bedarf stets der Genehmigung nach § 1850 Nr. 1 BGB, auch wenn keine zu sichernde Forderung mehr besteht. Besteht die gesicherte Forderung noch, ist zusätzlich § 1854 Nr. 7 BGB einschlägig. Die Einordnung unter § 1849 BGB ist der typische Fehler: Grundpfandrechte fallen seit der Reform unter § 1850 Nr. 1 BGB."
+ },
+ {
+  "id": "vert1-007",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Gerichtliche Genehmigung",
+  "seite": "Gerichtliche Genehmigung: Grundpfandrechte und Eigentümerrechte",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-grundpfandrechte-und-eigentumerrechte",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1643 Abs. 2 BGB",
+   "§ 1850 Nr. 1 BGB"
+  ],
+  "frage": "Eltern benötigen für die Abtretung einer Grundschuld ihres minderjährigen Kindes eine familiengerichtliche Genehmigung nach § 1643 Abs. 1 i. V. m. § 1850 Nr. 1 BGB.",
+  "antwort": false,
+  "erklaerung": "Für Eltern nimmt § 1643 Abs. 2 BGB Verfügungen über Grundpfandrechte und die Verpflichtung dazu ausdrücklich von der Genehmigung aus. Die Genehmigungspflicht nach § 1850 Nr. 1 BGB trifft nur Vormund, Pfleger und Betreuer; für sie kennt das neue Recht keine Ausnahme mehr wie § 1821 Abs. 2 BGB aF. Die Annahme einer Genehmigungspflicht bei Eltern ist der im Handbuch genannte typische Fehler."
+ },
+ {
+  "id": "vert1-008",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Gerichtliche Genehmigung",
+  "seite": "Gerichtliche Genehmigung: Grundpfandrechte und Eigentümerrechte",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-grundpfandrechte-und-eigentumerrechte",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1183 BGB",
+   "§ 1850 Nr. 1 BGB",
+   "§ 1850 Nr. 2 BGB"
+  ],
+  "frage": "Am Grundstück des Mündels lastet eine Fremdgrundschuld der Bank. Der Vormund erklärt als Eigentümer die Zustimmung zur Löschung (§ 1183 BGB). Wie ist die Genehmigungsbedürftigkeit nach neuem Recht zu beurteilen?",
+  "optionen": [
+   "Keine Genehmigung, weil nur über ein fremdes Recht verfügt wird.",
+   "Genehmigung nach § 1849 Abs. 1 BGB, wie nach § 1812 BGB aF.",
+   "Genehmigung nach § 1850 Nr. 1 BGB und daneben nach § 1850 Nr. 2 BGB, weil die Zustimmung zugleich über den Rückgewähranspruch verfügt.",
+   "Genehmigung allein nach § 1854 Nr. 7 BGB, weil der Eigentümer auf eine Forderung verzichtet."
+  ],
+  "antwort": 2,
+  "erklaerung": "Hinter der Löschungszustimmung des Eigentümers steht die Eigentümergrundschuld bzw. das Anwartschaftsrecht darauf; deshalb war sie schon nach altem Recht genehmigungsbedürftig (BayObLG, OLG Hamm). Nach neuem Recht greift § 1850 Nr. 1 BGB und daneben § 1850 Nr. 2 BGB, weil die Zustimmung zugleich eine Verfügung über den Rückgewähranspruch enthält. Die Annahme, es werde nur über ein fremdes Recht verfügt, übersieht das dahinterstehende Eigentümerrecht; § 1849 BGB ist seit der Reform für Grundpfandrechte nicht mehr einschlägig."
+ },
+ {
+  "id": "vert1-009",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Gerichtliche Genehmigung",
+  "seite": "Gerichtliche Genehmigung: Grundpfandrechte und Eigentümerrechte",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-grundpfandrechte-und-eigentumerrechte",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1850 Nr. 1 BGB"
+  ],
+  "frage": "Die Verfügung eines Betreuers über eine Eigentümergrundschuld ist nur genehmigungsbedürftig, wenn der Betreute Alleinberechtigter ist; bei bloßer Mitberechtigung in einer Erbengemeinschaft entfällt die Genehmigungspflicht.",
+  "antwort": false,
+  "erklaerung": "Verfügt der Vertreter über eine Eigentümergrundschuld des Vertretenen, ist das stets nach § 1850 Nr. 1 BGB genehmigungsbedürftig. Die Genehmigungspflicht besteht ausdrücklich auch bei bloßer Mitberechtigung, etwa in einer Erbengemeinschaft. Der Fehler der Aussage liegt in der Beschränkung auf die Alleinberechtigung, die das Gesetz nicht vorsieht."
+ },
+ {
+  "id": "vert1-010",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Gerichtliche Genehmigung",
+  "seite": "Gerichtliche Genehmigung: Mitteilung nach § 1856 BGB und Doppelvollmacht",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-mitteilung-nach-1856-bgb-und-doppelvollmacht",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1856 Abs. 1 S. 2 BGB",
+   "§ 40 Abs. 2 FamFG"
+  ],
+  "frage": "Ein Betreuer hat einen Kaufvertrag ohne Vorabgenehmigung geschlossen. Wann wird die nachträglich erteilte betreuungsgerichtliche Genehmigung gegenüber dem Käufer wirksam?",
+  "optionen": [
+   "Mit Eingang des Genehmigungsbeschlusses beim beurkundenden Notar.",
+   "Mit Erlass des Genehmigungsbeschlusses durch das Betreuungsgericht.",
+   "Wenn der Betreuer die Genehmigung dem Käufer mitteilt (§ 1856 Abs. 1 S. 2 BGB).",
+   "Automatisch mit Eintritt der Rechtskraft des Beschlusses nach § 40 Abs. 2 FamFG."
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 1856 Abs. 1 S. 2 BGB wird die Genehmigung gegenüber dem anderen Teil erst wirksam, wenn der gesetzliche Vertreter sie ihm mitteilt; dasselbe gilt für die Verweigerung. Das Wirksamwerden des Beschlusses (Rechtskraft, § 40 Abs. 2 FamFG) ist vom Wirksamwerden des Vertrags zu trennen. Eine Abrede, die Genehmigung solle schon mit Eingang beim Notar wirksam werden, ist unwirksam."
+ },
+ {
+  "id": "vert1-011",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Gerichtliche Genehmigung",
+  "seite": "Gerichtliche Genehmigung: Mitteilung nach § 1856 BGB und Doppelvollmacht",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-mitteilung-nach-1856-bgb-und-doppelvollmacht",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1856 Abs. 2 BGB"
+  ],
+  "frage": "Binnen welcher Frist muss der Vormund, Betreuer oder Pfleger nach einer Aufforderung des Vertragspartners gemäß § 1856 Abs. 2 BGB die wirksame Genehmigung mitteilen, damit der Vertrag nicht endgültig unwirksam wird?",
+  "optionen": [
+   "Zwei Wochen",
+   "Einen Monat",
+   "Zwei Monate",
+   "Sechs Monate"
+  ],
+  "antwort": 2,
+  "erklaerung": "§ 1856 Abs. 2 BGB räumt dem Vertragspartner das Recht ein, den Vertreter zur Mitteilung der wirksamen Genehmigung binnen zwei Monaten aufzufordern; bleibt die Mitteilung aus, ist der Vertrag endgültig unwirksam. Die zweiwöchige Frist ist die Beschwerdefrist gegen den Beschluss, nicht die Mitteilungsfrist. Die Frist darf vertraglich verlängert werden; das Handbuch empfiehlt etwa drei Monate ab Aufforderung."
+ },
+ {
+  "id": "vert1-012",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Gerichtliche Genehmigung",
+  "seite": "Gerichtliche Genehmigung: Mitteilung nach § 1856 BGB und Doppelvollmacht",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-mitteilung-nach-1856-bgb-und-doppelvollmacht",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1856 BGB",
+   "§ 40 Abs. 2 FamFG"
+  ],
+  "frage": "Teilt der Notar aufgrund der Doppelvollmacht die Genehmigung schon vor Rechtskraft des Beschlusses mit, wird die Mitteilung mit dem späteren Eintritt der Rechtskraft wirksam.",
+  "antwort": false,
+  "erklaerung": "Nach h. M. ist die Mitteilung nach § 1856 BGB erst zulässig, wenn der Beschluss rechtskräftig ist. Eine frühere Mitteilung ist wirkungslos, der spätere Eintritt der Rechtskraft heilt sie nicht; sie muss wiederholt werden. Die Eigenurkunde ist deshalb frühestens nach Vorliegen des Rechtskraftzeugnisses zu fertigen."
+ },
+ {
+  "id": "vert1-013",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Gerichtliche Genehmigung",
+  "seite": "Gerichtliche Genehmigung: Mitteilung nach § 1856 BGB und Doppelvollmacht",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-mitteilung-nach-1856-bgb-und-doppelvollmacht",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1856 Abs. 2 BGB",
+   "§ 1855 BGB",
+   "§ 29 GBO"
+  ],
+  "frage": "Doppelvollmacht und Aufforderungsfrist beim Mündelgrundstück",
+  "sachverhalt": "Vormund V verkauft für den Mündel M ein Grundstück an K. Notar N beurkundet den Vertrag ohne Vorabgenehmigung; V und K erteilen N eine Doppelvollmacht. Das Familiengericht erlässt den Genehmigungsbeschluss; ein Rechtskraftzeugnis liegt noch nicht vor. K hatte V bereits unmittelbar nach der Beurkundung schriftlich aufgefordert, die Genehmigung mitzuteilen.",
+  "schritte": [
+   {
+    "frage": "Darf N die Eigenurkunde über Empfang und Mitteilung der Genehmigung sofort nach Zugang des Beschlusses fertigen?",
+    "optionen": [
+     "Ja, weil der Beschluss mit Erlass wirksam ist.",
+     "Nein, erst nach Vorliegen des Rechtskraftzeugnisses; eine frühere Mitteilung ist wirkungslos.",
+     "Ja, wenn alle Beteiligten auf Rechtsmittel verzichtet haben, auch ohne Rechtskraftzeugnis.",
+     "Nein, die Mitteilung kann nur V persönlich, nicht N vornehmen."
+    ],
+    "antwort": 1,
+    "erklaerung": "Die in der Eigenurkunde liegende Mitteilung nach § 1856 BGB ist nach h. M. erst nach Rechtskraft zulässig; eine frühere Mitteilung ist wirkungslos und wird durch den späteren Rechtskrafteintritt nicht geheilt. N darf die Eigenurkunde daher frühestens nach Vorliegen des Rechtskraftzeugnisses fertigen."
+   },
+   {
+    "frage": "Ist die Aufforderung des K, die unmittelbar nach Vertragsschluss und vor Erteilung der Genehmigung erklärt wurde, nach § 1856 Abs. 2 BGB wirksam?",
+    "optionen": [
+     "Nein, die Aufforderung setzt voraus, dass die Genehmigung bereits erteilt ist.",
+     "Nein, eine Aufforderung ist erst nach Ablauf einer angemessenen Bearbeitungszeit des Gerichts zulässig.",
+     "Ja, die Aufforderung ist auch vor Erteilung der Genehmigung oder unmittelbar nach Vertragsschluss wirksam; die Zweimonatsfrist läuft.",
+     "Ja, aber die Frist beginnt erst mit Erlass des Genehmigungsbeschlusses."
+    ],
+    "antwort": 2,
+    "erklaerung": "Die Aufforderung nach § 1856 Abs. 2 BGB ist eine empfangsbedürftige Erklärung und wirkt auch dann, wenn sie vor Erteilung der Genehmigung oder unmittelbar nach Vertragsschluss erklärt wird (RGZ 130, 148 ff.). Wird die wirksame Genehmigung nicht binnen zwei Monaten mitgeteilt, ist der Vertrag endgültig unwirksam."
+   },
+   {
+    "frage": "Welche Gestaltung hätte N im Vertrag vorsehen sollen, um das Risiko der endgültigen Unwirksamkeit zu mindern?",
+    "optionen": [
+     "Eine Abrede, dass die Genehmigung bereits mit Eingang beim Notar wirksam wird.",
+     "Eine vertragliche Verlängerung der Frist des § 1856 Abs. 2 BGB, etwa auf drei Monate ab Aufforderung.",
+     "Einen Ausschluss des Aufforderungsrechts des K.",
+     "Eine Vollmacht an eine Notariatsangestellte zur Entgegennahme des Beschlusses."
+    ],
+    "antwort": 1,
+    "erklaerung": "Die Frist des § 1856 Abs. 2 BGB darf vertraglich verlängert werden; wegen Wertgutachten, Bestellung eines Verfahrensbeistands oder Ergänzungspflegers und der zweiwöchigen Beschwerdefrist ist eine maßvolle Verlängerung auf etwa drei Monate angezeigt. Eine Abrede, die Genehmigung werde schon mit Eingang beim Notar wirksam, ist unwirksam; Vollmachten an Notariatsangestellte werden nicht empfohlen."
+   }
+  ],
+  "erklaerung": "Die Mitteilung der Genehmigung nach § 1856 BGB setzt Rechtskraft voraus und ist dem Grundbuchamt in der Form des § 29 GBO nachzuweisen, wofür die Doppelvollmacht mit Eigenurkunde dient. Die Aufforderung nach § 1856 Abs. 2 BGB wirkt auch sofort nach Vertragsschluss, weshalb der Notar die Zweimonatsfrist vertraglich maßvoll verlängern sollte."
+ }
+]

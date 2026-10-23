@@ -1200,5 +1200,83 @@
   ],
   "erklaerung": "Die Minderjährigenadoption durch fremde Ehegatten ist Volladoption mit Erlöschen aller bisherigen Verwandtschaft (§ 1755 BGB). Bei der Stiefkindadoption erlischt nur die Linie des anderen leiblichen Elternteils (§ 1755 Abs. 2 BGB), bei der Verwandtenadoption im zweiten oder dritten Grad nur die Beziehung zu den leiblichen Eltern (§ 1756 Abs. 1 BGB), wobei erbrechtlich § 1925 Abs. 4 BGB zu beachten ist. Die einfache Volljährigenadoption schafft zusätzliche Elternverhältnisse ohne Verwandtschaft zur Adoptivfamilie im Übrigen (§ 1770 Abs. 1, 2 BGB).",
   "id": "fami1-054"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Deutsch-französische Wahl-Zugewinngemeinschaft: Voraussetzungen, Verwaltung und Familienwohnung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/deutsch-franzosische-wahl-zugewinngemeinschaft-voraussetzungen-verwaltung-und-familienwohnung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1519 BGB",
+   "Art. 1 Abkommen",
+   "EuGüVO"
+  ],
+  "frage": "Zwei deutsche Staatsangehörige, die 2022 in Stuttgart geheiratet haben und dort leben, wollen die deutsch-französische Wahl-Zugewinngemeinschaft vereinbaren. Ist das möglich?",
+  "optionen": [
+   "Nein, der Wahlgüterstand setzt voraus, dass mindestens ein Ehegatte die französische Staatsangehörigkeit besitzt",
+   "Ja, weil die EuGüVO zu deutschem Güterrecht führt und der Wahlgüterstand dann unabhängig von der Staatsangehörigkeit durch Ehevertrag vereinbart werden kann",
+   "Nein, der Wahlgüterstand steht nur Ehegatten mit gewöhnlichem Aufenthalt in Frankreich offen",
+   "Ja, aber nur durch eine Rechtswahl nach Art. 22 EuGüVO zugunsten französischen Rechts"
+  ],
+  "antwort": 1,
+  "erklaerung": "Den Wahlgüterstand kann jeder vereinbaren, dessen Güterstand dem Sachrecht eines der beiden Vertragsstaaten unterliegt (Art. 1 Abkommen). Für Ehen ab dem 29.01.2019 bestimmt die EuGüVO das Güterrechtsstatut; führt sie zu deutschem oder französischem Güterrecht, ist der Wahlgüterstand unabhängig von der Staatsangehörigkeit möglich und steht damit auch rein deutschen Ehen offen. Begründet wird er nur durch Ehevertrag (Art. 3 Abs. 1 Abkommen); eine Rechtswahl zugunsten französischen Rechts ist nicht nötig.",
+  "id": "fami1-055"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Deutsch-französische Wahl-Zugewinngemeinschaft: Voraussetzungen, Verwaltung und Familienwohnung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/deutsch-franzosische-wahl-zugewinngemeinschaft-voraussetzungen-verwaltung-und-familienwohnung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "Art. 5 Abs. 1 Abkommen",
+   "§ 1519 S. 3 BGB",
+   "§ 1412 BGB"
+  ],
+  "frage": "Ehemann M, der mit F im deutsch-französischen Wahlgüterstand lebt, will das ihm allein gehörende Haus verkaufen, in dem die Familie bis zur Trennung vor einem Jahr wohnte; F ist ausgezogen, die Scheidung ist noch nicht rechtskräftig. Welche Besonderheit muss der Notar beachten?",
+  "optionen": [
+   "Keine; nach der Trennung ist das Haus keine Familienwohnung mehr",
+   "M braucht die Zustimmung der F, weil die Wohnung bis zur rechtskräftigen Scheidung Familienwohnung bleibt (Art. 5 Abs. 1 2. Alt. Abkommen); ein Gutglaubensschutz des Erwerbers besteht nicht",
+   "M braucht die Zustimmung der F nur, wenn das Haus sein ganzes Vermögen ausmacht (§ 1365 BGB analog)",
+   "M braucht keine Zustimmung, weil der Erwerber über § 1412 BGB geschützt ist, wenn der Güterstand nicht im Güterrechtsregister eingetragen ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Im Wahlgüterstand darf kein Ehegatte ohne Zustimmung des anderen über die ihm gehörende Familienwohnung verfügen (Art. 5 Abs. 1 2. Alt. Abkommen); Trennung und Auszug lassen die Eigenschaft als Familienwohnung nicht entfallen, erst die rechtskräftige Scheidung. Eine Beschränkung entsprechend § 1365 BGB kennt der Wahlgüterstand dagegen nicht. Einen Schutz des guten Glaubens Dritter gibt es nicht, da § 1412 BGB nach § 1519 S. 3 BGB ausdrücklich nicht anzuwenden ist; der Notar muss daher die Zustimmung der F einholen.",
+  "id": "fami1-056"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Deutsch-französische Wahl-Zugewinngemeinschaft: Voraussetzungen, Verwaltung und Familienwohnung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/deutsch-franzosische-wahl-zugewinngemeinschaft-voraussetzungen-verwaltung-und-familienwohnung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1371 Abs. 1 BGB",
+   "Art. 7 Abkommen"
+  ],
+  "frage": "Stirbt ein Ehegatte im deutsch-französischen Wahlgüterstand, erhöht sich der gesetzliche Erbteil des Überlebenden wie in der Zugewinngemeinschaft nach § 1371 Abs. 1 BGB um ein Viertel.",
+  "antwort": false,
+  "erklaerung": "Eine Erhöhung des gesetzlichen Erbteils nach § 1371 Abs. 1 BGB gibt es im Wahlgüterstand nicht, obwohl er sich im Übrigen weitgehend an die deutsche Zugewinngemeinschaft anlehnt (Art. 2 Abkommen). Der Tod eines Ehegatten beendet den Güterstand nach Art. 7 Abkommen; der Ausgleich richtet sich dann nach den Regeln des Abkommens über den Zugewinnausgleich.",
+  "id": "fami1-057"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Deutsch-französische Wahl-Zugewinngemeinschaft: Voraussetzungen, Verwaltung und Familienwohnung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/deutsch-franzosische-wahl-zugewinngemeinschaft-voraussetzungen-verwaltung-und-familienwohnung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "Art. 6 Abs. 1 Abkommen",
+   "Art. 6 Abs. 2 Abkommen"
+  ],
+  "frage": "Im deutsch-französischen Wahlgüterstand verwaltet jeder Ehegatte sein Vermögen selbst; aus Geschäften zur Haushaltsführung und zum Kinderbedarf haftet der andere Ehegatte als Gesamtschuldner, soweit das Geschäft der Lebensführung der Ehegatten entspricht.",
+  "antwort": true,
+  "erklaerung": "Im Wahlgüterstand verwaltet jeder Ehegatte sein Vermögen selbst. Nach Art. 6 Abs. 1 Abkommen darf jeder Ehegatte Verträge über die Haushaltsführung und den Kinderbedarf schließen, aus denen der andere als Gesamtschuldner haftet; die Befugnis besteht nach Art. 6 Abs. 2 Abkommen nur, soweit das Geschäft der Lebensführung der Ehegatten entspricht. Verfügungsbeschränkungen bestehen nur für Haushaltsgegenstände und die Familienwohnung (Art. 5 Abs. 1 Abkommen), nicht für Gesamtvermögensgeschäfte.",
+  "id": "fami1-058"
  }
 ]

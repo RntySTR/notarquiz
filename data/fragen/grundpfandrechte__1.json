@@ -862,5 +862,301 @@
   "frage": "Bestellt der Verkäufer vor Eigentumsübergang am Kaufobjekt eine Finanzierungsgrundschuld für den Käufer, ist die Verwertung der Grundschuld bis zur vollständigen Kaufpreiszahlung beschränkt; mit dem Eigentumsübergang ist der Sicherungsvertrag des Verkäufers erledigt.",
   "antwort": true,
   "erklaerung": "Der Verkäufer haftet in dieser Konstellation für fremde Schuld, weshalb die Verwertung der Finanzierungsgrundschuld bis zur vollständigen Kaufpreiszahlung beschränkt ist; abgesichert wird das durch einen Urkundszusatz oder eine Bestätigung des Gläubigers. Mit dem Eigentumsübergang gilt nur noch die Zweckvereinbarung zwischen Käufer und Kreditinstitut."
+ },
+ {
+  "id": "grpf1-039",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: Begriff, Schuld und Haftung, Akzessorietät",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-begriff-schuld-und-haftung-akzessorietat",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1113 BGB",
+   "§ 1147 BGB"
+  ],
+  "frage": "Welchen Anspruch hat der Hypothekengläubiger gegen den Eigentümer, der nicht persönlicher Schuldner ist?",
+  "optionen": [
+   "Einen Zahlungsanspruch in Höhe des Hypothekenbetrags, der in das gesamte Vermögen des Eigentümers vollstreckt werden kann",
+   "Keinen Zahlungsanspruch; der Eigentümer muss nur die Zwangsvollstreckung in das Grundstück dulden (§ 1147 BGB)",
+   "Einen Zahlungsanspruch, der auf den Wert des Grundstücks begrenzt ist",
+   "Einen Anspruch wie gegen einen Bürgen nach § 765 BGB, aber mit Einrede der Vorausklage"
+  ],
+  "antwort": 1,
+  "erklaerung": "Gegen den Eigentümer hat der Hypothekengläubiger keinen Zahlungsanspruch; der Eigentümer ist nur verpflichtet, den Vollstreckungszugriff auf das Grundstück hinzunehmen (§ 1147 BGB). Aus der Hypothek kann nur in das belastete Grundstück vollstreckt werden (§§ 1113, 1147 BGB), aus der Darlehensforderung dagegen in das gesamte Vermögen des Schuldners. Wer sein Grundstück für fremde Schuld einsetzt, steht deshalb günstiger als ein Bürge, dessen ganzes Vermögen haftet."
+ },
+ {
+  "id": "grpf1-040",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: Begriff, Schuld und Haftung, Akzessorietät",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-begriff-schuld-und-haftung-akzessorietat",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1153 Abs. 1 BGB",
+   "§ 1153 Abs. 2 BGB",
+   "§ 1163 Abs. 1 BGB"
+  ],
+  "frage": "Welche Folge hat die Akzessorietät der Hypothek für ihre Übertragung?",
+  "optionen": [
+   "Die Hypothek kann ohne die Forderung übertragen werden, die Forderung aber nicht ohne die Hypothek",
+   "Mit der Übertragung der Forderung geht die Hypothek ohne Weiteres über; eine getrennte Übertragung ist ausgeschlossen (§ 1153 BGB)",
+   "Forderung und Hypothek können getrennt übertragen werden, solange der Schuldner zustimmt",
+   "Die Hypothek ist unübertragbar; nur die Forderung kann abgetreten werden"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 1153 Abs. 1 BGB geht die Hypothek mit der Übertragung der Forderung ohne Weiteres über; getrennt voneinander können Forderung und Hypothek nach § 1153 Abs. 2 BGB nicht übertragen werden. Eine Trennung ist nur auf Schuldnerseite möglich, weil Kreditschuldner und Eigentümer verschiedene Personen sein können. Diese strenge Bindung macht die Hypothek für Banken unattraktiv."
+ },
+ {
+  "id": "grpf1-041",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: Begriff, Schuld und Haftung, Akzessorietät",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-begriff-schuld-und-haftung-akzessorietat",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1163 Abs. 1 S. 2 BGB",
+   "§ 1179a BGB"
+  ],
+  "frage": "Erlischt die durch eine Hypothek gesicherte Forderung, erwirbt der Eigentümer die Hypothek nach § 1163 Abs. 1 S. 2 BGB; die Rangfolge im Grundbuch bleibt unverändert, nachrangige Grundpfandrechtsgläubiger erhalten aber den gesetzlichen Löschungsanspruch nach § 1179a BGB.",
+  "antwort": true,
+  "erklaerung": "Wegen der Akzessorietät erwirbt der Eigentümer die Hypothek mit Erlöschen der Forderung (§ 1163 Abs. 1 S. 2 BGB). Ein automatisches Aufrücken nachrangiger Rechte gibt es nicht; die Rangfolge bleibt unverändert. Ausgleich schafft der gesetzliche Löschungsanspruch nachrangiger Grundpfandrechtsgläubiger nach § 1179a BGB."
+ },
+ {
+  "id": "grpf1-042",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: Brief- und Buchhypothek, Entstehung",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-brief-und-buchhypothek-entstehung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1117 BGB",
+   "§ 1117 Abs. 2 BGB",
+   "§ 60 GBO",
+   "§ 1163 Abs. 1 S. 1 BGB"
+  ],
+  "frage": "Eine Briefhypothek für ein bereits ausgezahltes Darlehen ist eingetragen. Wann entsteht sie für den Gläubiger als Fremdrecht, wenn eine Aushändigungsabrede nach § 1117 Abs. 2 BGB getroffen wurde?",
+  "optionen": [
+   "Erst mit tatsächlicher Übergabe des Briefs durch den Eigentümer an den Gläubiger",
+   "Bereits mit der Eintragung, weil die Forderung besteht und die Aushändigungsabrede die Briefübergabe ersetzt",
+   "Erst mit Zugang des Briefs beim Gläubiger nach Versand durch das Grundbuchamt",
+   "Erst mit Eintragung des Briefausschlusses nach § 1116 Abs. 2 BGB"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Briefhypothek setzt neben Forderung, Einigung und Eintragung grundsätzlich die Übergabe des Hypothekenbriefs voraus (§ 1117 BGB). Mit einer Aushändigungsabrede (§ 1117 Abs. 2 BGB, § 60 GBO) entsteht die Hypothek aber bereits, sobald sie eingetragen und die Forderung entstanden ist. Deshalb lautet der Praxishinweis, die Aushändigung durch das Grundbuchamt an den Gläubiger zu vereinbaren, wenn das Recht sofort als Fremdrecht entstehen soll."
+ },
+ {
+  "id": "grpf1-043",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: Brief- und Buchhypothek, Entstehung",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-brief-und-buchhypothek-entstehung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1116 Abs. 1 BGB",
+   "§ 1116 Abs. 2 BGB"
+  ],
+  "frage": "Die Beteiligten wollen eine Buchhypothek. Der Notar beantragt die Eintragung der Hypothek, ohne den Briefausschluss zur Eintragung zu beantragen. Was entsteht?",
+  "optionen": [
+   "Eine Buchhypothek, weil die Buchhypothek der gesetzliche Regelfall ist",
+   "Eine Briefhypothek, weil der Briefausschluss ausdrücklich eingetragen werden muss (§ 1116 Abs. 2 BGB) und die Briefhypothek Regelfall ist (§ 1116 Abs. 1 BGB)",
+   "Keine Hypothek, weil die Einigung auf eine Buchhypothek und die Eintragung auseinanderfallen",
+   "Eine Sicherungshypothek, weil ohne Brief nur ein streng akzessorisches Recht entstehen kann"
+  ],
+  "antwort": 1,
+  "erklaerung": "Gesetzlicher Regelfall ist die Briefhypothek (§ 1116 Abs. 1 BGB). Eine Buchhypothek setzt voraus, dass der Ausschluss des Briefs ausdrücklich im Grundbuch eingetragen wird (§ 1116 Abs. 2 BGB). Wird das versäumt, entsteht eine Briefhypothek; das ist ein typischer Fehler. Brief- und Buchrecht können nachträglich ineinander umgewandelt werden (§ 1116 Abs. 2, 3 BGB)."
+ },
+ {
+  "id": "grpf1-044",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: Brief- und Buchhypothek, Entstehung",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-brief-und-buchhypothek-entstehung",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 15 GBO",
+   "§ 13 GBO"
+  ],
+  "frage": "Hat der Notar den Eintragungsantrag für die Hypothek nach § 15 GBO zugleich für den Gläubiger gestellt, kann der Eigentümer den Antrag nicht mehr allein zurücknehmen.",
+  "antwort": true,
+  "erklaerung": "Grundbuchrechtlich erforderlich sind die formgerechte Bewilligung des Eigentümers (§§ 19, 29 GBO) und der Antrag eines Beteiligten (§ 13 GBO), in der Regel durch den Notar. Stellt der Notar den Antrag nach § 15 GBO zugleich für den Gläubiger, ist eine Rücknahme durch den Eigentümer nicht mehr möglich, weil der Antrag auch dem Gläubiger zuzurechnen ist."
+ },
+ {
+  "id": "grpf1-045",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: Eigentümergrundschuld und Eigentümerhypothek kraft Gesetzes",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-eigentumergrundschuld-und-eigentumerhypothek-kraft-gesetzes",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1163 Abs. 1 S. 1 BGB",
+   "§ 1163 Abs. 1 S. 2 BGB",
+   "§ 1163 Abs. 2 BGB",
+   "§ 1143 Abs. 1 BGB"
+  ],
+  "frage": "Ordne die Situation dem Eigentümerrecht zu, das kraft Gesetzes aus einer Hypothek entsteht.",
+  "paare": [
+   [
+    "Hypothek eingetragen, Darlehen noch nicht ausgezahlt",
+    "Auflösend bedingte Eigentümergrundschuld (§§ 1163 Abs. 1 S. 1, 1177 Abs. 1 BGB)"
+   ],
+   [
+    "Eigentümer-Schuldner zahlt die Forderung vollständig zurück",
+    "Eigentümergrundschuld (§§ 1163 Abs. 1 S. 2, 1177 Abs. 1 BGB)"
+   ],
+   [
+    "Briefhypothek eingetragen, Brief noch nicht an den Gläubiger gelangt",
+    "Eigentümergrundschuld bis zur Briefübergabe (§§ 1117 Abs. 1 S. 1, 1163 Abs. 2 BGB)"
+   ],
+   [
+    "Eigentümer, der nicht Schuldner ist, befriedigt den Gläubiger",
+    "Eigentümerhypothek durch Forderungsübergang (§§ 1143 Abs. 1, 1153 Abs. 1, 1177 Abs. 2 BGB)"
+   ]
+  ],
+  "erklaerung": "Die verdeckte Eigentümergrundschuld entsteht in drei Fallgruppen: vor Valutierung (§ 1163 Abs. 1 S. 1 BGB), bei Erlöschen der Forderung (§ 1163 Abs. 1 S. 2 BGB) und beim Briefrecht vor Übergabe des Briefs (§ 1163 Abs. 2 BGB), jeweils i. V. m. § 1177 Abs. 1 BGB. Zahlt dagegen ein Eigentümer, der nicht Schuldner ist, geht die Forderung nach § 1143 Abs. 1 BGB auf ihn über und mit ihr die Hypothek (§ 1153 Abs. 1 BGB); diese Eigentümerhypothek wird nach § 1177 Abs. 2 BGB wie eine Eigentümergrundschuld behandelt."
+ },
+ {
+  "id": "grpf1-046",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: Eigentümergrundschuld und Eigentümerhypothek kraft Gesetzes",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-eigentumergrundschuld-und-eigentumerhypothek-kraft-gesetzes",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1197 Abs. 1 BGB",
+   "§ 1197 Abs. 2 BGB"
+  ],
+  "frage": "Welche Aussage zu den Rechten aus einer kraft Gesetzes entstandenen Eigentümergrundschuld trifft zu?",
+  "optionen": [
+   "Der Eigentümer kann aus ihr die Zwangsversteigerung seines Grundstücks betreiben, um nachrangige Gläubiger auszuschalten",
+   "Der Eigentümer kann nicht selbst vollstrecken (§ 1197 Abs. 1 BGB) und erhält Zinsen nur bei Zwangsverwaltung (§ 1197 Abs. 2 BGB); ein Pfändungsgläubiger der Eigentümergrundschuld darf dagegen aus ihr vollstrecken",
+   "Weder der Eigentümer noch ein Pfändungsgläubiger können aus der Eigentümergrundschuld vollstrecken",
+   "Bei Veräußerung des Grundstücks geht die Eigentümergrundschuld kraft Gesetzes auf den Erwerber über"
+  ],
+  "antwort": 1,
+  "erklaerung": "Aus einer kraft Gesetzes entstandenen Eigentümergrundschuld kann der Eigentümer nicht selbst die Zwangsvollstreckung in sein Grundstück betreiben (§ 1197 Abs. 1 BGB), Zinsen stehen ihm nur bei Zwangsverwaltung zu (§ 1197 Abs. 2 BGB). Ein Gläubiger, der die Eigentümergrundschuld gepfändet hat, darf dagegen aus ihr vollstrecken. Bei Veräußerung des Grundstücks geht das Eigentümerrecht nicht auf den Erwerber über, sondern wird Fremdrecht des Veräußerers."
+ },
+ {
+  "id": "grpf1-047",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: Eigentümergrundschuld und Eigentümerhypothek kraft Gesetzes",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-eigentumergrundschuld-und-eigentumerhypothek-kraft-gesetzes",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§§ 780, 781 BGB",
+   "§ 1163 Abs. 1 S. 1 BGB"
+  ],
+  "frage": "Welche Folgen hat es, wenn der Hypothek statt des Darlehens ein abstraktes Schuldversprechen als gesicherte Forderung zugrunde gelegt wird?",
+  "optionen": [
+   "Die Hypothek wird dadurch zur Grundschuld, weil das Schuldversprechen abstrakt ist",
+   "Die Hypothek entsteht sofort mit der Eintragung, weil eine bestehende Forderung gesichert wird; der Gläubiger muss nur das Schuldversprechen beweisen, Einwendungen aus dem Grundgeschäft hat der Schuldner zu beweisen",
+   "Die Hypothek entsteht erst mit Auszahlung des Kredits, weil das Schuldversprechen das Darlehen nur bestätigt",
+   "Die Hypothek kann nur als Sicherungshypothek eingetragen werden, weil das Schuldversprechen keine Verkehrsforderung ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Sichert die Hypothek ein abstraktes Schuldversprechen oder Schuldanerkenntnis, muss der Gläubiger nur dessen Bestehen beweisen, während der Schuldner Einwendungen aus dem Grundgeschäft wie Zahlung oder Aufrechnung vollständig beweisen muss. Zudem entsteht die Hypothek sofort mit der Eintragung, weil sie eine bereits bestehende Forderung sichert und nicht von der Auszahlung des Kredits abhängt; eine Eigentümergrundschuld nach § 1163 Abs. 1 S. 1 BGB entsteht insoweit nicht. Die Hypothek bleibt dabei akzessorisch und wird nicht zur Grundschuld."
+ },
+ {
+  "id": "grpf1-048",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: Einreden und Einwendungen des Eigentümers",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-einreden-und-einwendungen-des-eigentumers",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1137 BGB",
+   "§ 771 BGB"
+  ],
+  "frage": "Die Bank nimmt E aus einer Hypothek in Anspruch, die ein Darlehen ihres Sohnes S sichert. E verlangt, die Bank solle zuerst gegen S vorgehen. Zu Recht?",
+  "optionen": [
+   "Ja, weil E wie ein Bürge die Einrede der Vorausklage nach § 771 BGB geltend machen kann",
+   "Nein, weil § 1137 BGB nicht auf § 771 BGB verweist; eine Einrede der Vorausklage gibt es bei der Hypothek nicht",
+   "Ja, weil der Eigentümer nach § 1142 BGB erst nach erfolgloser Vollstreckung gegen den Schuldner haftet",
+   "Nein, weil der Eigentümer der Hypothek überhaupt keine Einreden des Schuldners entgegenhalten kann"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Eigentümer kann der Hypothek zwar die Einreden des persönlichen Schuldners und die Einreden nach § 770 BGB entgegenhalten (§ 1137 BGB), nicht aber die Einrede der Vorausklage, weil § 1137 BGB nicht auf § 771 BGB verweist. Der typische Fehler besteht darin, den Eigentümer wie einen Bürgen auf die vorrangige Inanspruchnahme des Schuldners zu verweisen. § 1142 BGB regelt nur das Befriedigungsrecht, keine Haftungsreihenfolge."
+ },
+ {
+  "id": "grpf1-049",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: Einreden und Einwendungen des Eigentümers",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-einreden-und-einwendungen-des-eigentumers",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 216 Abs. 1, 3 BGB"
+  ],
+  "frage": "Ist die durch eine Hypothek gesicherte Hauptforderung verjährt, kann der Eigentümer die Verjährung der Inanspruchnahme aus der Hypothek in vollem Umfang entgegenhalten.",
+  "antwort": false,
+  "erklaerung": "Die Verjährung der Forderung kann der Eigentümer gegenüber der Hypothek nur hinsichtlich der Zinsen geltend machen (§ 216 Abs. 1, 3 BGB). Wegen der Hauptforderung bleibt die Hypothek trotz Verjährung durchsetzbar; der typische Fehler besteht darin, die Verjährung der Hauptforderung als Verteidigung gegen die Hypothek anzusehen."
+ },
+ {
+  "id": "grpf1-050",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: Einreden und Einwendungen des Eigentümers",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-einreden-und-einwendungen-des-eigentumers",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1142 BGB",
+   "§ 267 Abs. 1 BGB",
+   "§§ 267 Abs. 2, 268 BGB"
+  ],
+  "frage": "Welche Besonderheit gilt für das Befriedigungsrecht des Eigentümers nach § 1142 BGB gegenüber der allgemeinen Regel über die Leistung durch Dritte?",
+  "optionen": [
+   "Der Eigentümer darf nur mit Zustimmung des persönlichen Schuldners zahlen (§ 267 Abs. 2 BGB)",
+   "Der Eigentümer darf den Gläubiger auch dann befriedigen, wenn der persönliche Schuldner widerspricht",
+   "Der Eigentümer darf nur zahlen, wenn der Gläubiger bereits die Zwangsversteigerung beantragt hat",
+   "Der Eigentümer darf jederzeit zahlen, auch wenn die Forderung noch nicht fällig ist und der Schuldner noch nicht leisten dürfte"
+  ],
+  "antwort": 1,
+  "erklaerung": "Das Befriedigungsrecht nach § 1142 BGB setzt voraus, dass die Forderung gegenüber dem Eigentümer fällig ist oder der persönliche Schuldner leisten dürfte. Als Sonderregel gegenüber §§ 267 Abs. 2, 268 BGB gilt es auch dann, wenn der persönliche Schuldner widerspricht. Ein Zahlungsrecht vor Fälligkeit besteht nicht, und ein Vollstreckungsantrag des Gläubigers ist nicht Voraussetzung."
+ },
+ {
+  "id": "grpf1-051",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Hypothek",
+  "seite": "Hypothek: Einreden und Einwendungen des Eigentümers",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-einreden-und-einwendungen-des-eigentumers",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1137 Abs. 1 S. 2 BGB",
+   "§ 1137 Abs. 2 BGB",
+   "§ 770 BGB"
+  ],
+  "frage": "Ordne die Konstellation der Rechtsfolge für die Verteidigung des Eigentümers gegen die Hypothek zu.",
+  "paare": [
+   [
+    "Der persönliche Schuldner stirbt und seine Erben haften beschränkt",
+    "Eigentümer kann sich nicht auf die beschränkte Erbenhaftung berufen (§ 1137 Abs. 1 S. 2 BGB)"
+   ],
+   [
+    "Der persönliche Schuldner verzichtet auf eine Einrede",
+    "Eigentümer behält die Einrede trotzdem (§ 1137 Abs. 2 BGB)"
+   ],
+   [
+    "Der Schuldner könnte das Grundgeschäft anfechten oder aufrechnen",
+    "Eigentümer kann dies als Einrede nach §§ 1137 Abs. 1 S. 1, 770 BGB geltend machen"
+   ],
+   [
+    "Das Darlehen wurde nie ausgezahlt",
+    "Einwendung: Forderung nicht entstanden, Hypothek steht dem Gläubiger nicht zu"
+   ]
+  ],
+  "erklaerung": "§ 1137 BGB gibt dem Eigentümer die Einreden des Schuldners und die bürgenähnlichen Einreden des § 770 BGB, etwa Anfechtbarkeit oder Aufrechenbarkeit. Die beschränkte Erbenhaftung ist ausgenommen (§ 1137 Abs. 1 S. 2 BGB), und ein Verzicht des Schuldners nimmt dem Eigentümer die Einrede nicht (§ 1137 Abs. 2 BGB). Fehlende Valutierung ist dagegen keine Einrede, sondern eine rechtsvernichtende Einwendung aus der Akzessorietät."
  }
 ]

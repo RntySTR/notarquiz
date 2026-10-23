@@ -963,5 +963,411 @@
   ],
   "antwort": 1,
   "erklaerung": "Die Unbedenklichkeitsbescheinigung übermittelt das Finanzamt ab dem 01.01.2028 elektronisch; der Notar kann sie dem Grundbuchamt dann abweichend von §§ 29, 137 GBO als Ausdruck oder elektronisch vorlegen (§ 22 Abs. 2 S. 5–7 GrEStG). Das Datum 01.01.2027 betrifft dagegen Genehmigungen, Zeugnisse und Bescheinigungen nach GrdstVG und GVO, die dann in der Form des § 137 Abs. 2 GBO elektronisch zu erteilen sind (§ 25 Abs. 2 GrdstVG, § 12 Abs. 2 GVO)."
+ },
+ {
+  "id": "grbu1-043",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Form der Eintragungsunterlagen und Erbnachweis (§§ 29, 35 GBO)",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-form-der-eintragungsunterlagen-und-erbnachweis-29-35-gbo",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 29 Abs. 1 S. 1 GBO",
+   "§ 29 Abs. 1 S. 2 GBO"
+  ],
+  "frage": "Welche Form verlangt § 29 Abs. 1 GBO für die Eintragungsbewilligung einerseits und für andere Eintragungsvoraussetzungen wie die Erbfolge andererseits?",
+  "optionen": [
+   "Bewilligung: Schriftform; andere Voraussetzungen: öffentliche Urkunde",
+   "Bewilligung: öffentliche oder öffentlich beglaubigte Urkunde; andere Voraussetzungen: öffentliche Urkunde, soweit nicht offenkundig",
+   "Bewilligung: notarielle Beurkundung; andere Voraussetzungen: Glaubhaftmachung",
+   "Bewilligung und andere Voraussetzungen: jeweils öffentlich beglaubigte Urkunde"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 29 Abs. 1 S. 1 GBO sind Eintragungsbewilligung und sonstige zur Eintragung erforderliche Erklärungen durch öffentliche oder öffentlich beglaubigte Urkunden nachzuweisen. Andere Voraussetzungen ohne Erklärungscharakter, etwa Erbfolge, Lebensalter oder die Stellung als Insolvenzverwalter, bedürfen nach § 29 Abs. 1 S. 2 GBO des Nachweises durch öffentliche Urkunden, soweit sie nicht beim Grundbuchamt offenkundig sind. Eine bloße Beglaubigung reicht für diese zweite Gruppe nicht."
+ },
+ {
+  "id": "grbu1-044",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Form der Eintragungsunterlagen und Erbnachweis (§§ 29, 35 GBO)",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-form-der-eintragungsunterlagen-und-erbnachweis-29-35-gbo",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 35 Abs. 1 GBO"
+  ],
+  "frage": "Warum ist der Erbschein dem Grundbuchamt in Urschrift oder Ausfertigung und nicht in beglaubigter Abschrift vorzulegen?",
+  "optionen": [
+   "Weil § 35 Abs. 1 GBO dies ausdrücklich anordnet",
+   "Weil das Nachlassgericht den Erbschein bis zur Eintragung einziehen kann und nur die Ausfertigung der Einziehung unterliegt",
+   "Weil beglaubigte Abschriften im Grundbuchverfahren generell nicht zugelassen sind",
+   "Weil der Erbschein eine Eintragungserklärung im Sinne des § 29 Abs. 1 S. 1 GBO ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 35 GBO sagt das nicht ausdrücklich; das Erfordernis folgt daraus, dass das Nachlassgericht den Erbschein bis zur Eintragung als unrichtig einziehen kann. Eine Ausfertigung unterliegt der Einziehung, eine beglaubigte Abschrift nicht. Beruht die Erbfolge dagegen auf einem notariellen Testament mit Eröffnungsniederschrift (§ 35 Abs. 1 S. 2 GBO), genügt die elektronisch beglaubigte Abschrift, weil dort eine Einziehung ausscheidet."
+ },
+ {
+  "id": "grbu1-045",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Form der Eintragungsunterlagen und Erbnachweis (§§ 29, 35 GBO)",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-form-der-eintragungsunterlagen-und-erbnachweis-29-35-gbo",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 29 Abs. 1 S. 1 GBO",
+   "§ 794 Abs. 1 Nr. 5 ZPO"
+  ],
+  "frage": "Für die Unterwerfung unter die sofortige Zwangsvollstreckung genügt gegenüber dem Grundbuchamt eine öffentlich beglaubigte Erklärung.",
+  "antwort": false,
+  "erklaerung": "Die Vollstreckungsunterwerfung zählt zu den Wirksamkeitserklärungen, die § 29 Abs. 1 S. 1 GBO erfasst; ihre Formanforderung folgt aus § 794 Abs. 1 Nr. 5 ZPO, der eine notarielle Beurkundung verlangt. Eine bloße Unterschriftsbeglaubigung reicht dafür nicht aus; die nur beglaubigte statt beurkundete Unterwerfung ist ein typischer Fehler."
+ },
+ {
+  "id": "grbu1-046",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Form der Eintragungsunterlagen und Erbnachweis (§§ 29, 35 GBO)",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-form-der-eintragungsunterlagen-und-erbnachweis-29-35-gbo",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 29 Abs. 3 GBO"
+  ],
+  "frage": "Eine Sparkasse in Baden-Württemberg reicht eine von ihr selbst unterschriebene und gesiegelte Löschungsbewilligung ein. Ist die Form gewahrt?",
+  "optionen": [
+   "Nein, Löschungsbewilligungen bedürfen stets der notariellen Beglaubigung",
+   "Ja, weil Sparkassen in Baden-Württemberg siegelführend sind und Behördenerklärungen nach § 29 Abs. 3 GBO Unterschrift und Siegel genügen",
+   "Ja, weil Kreditinstitute allgemein von § 29 GBO befreit sind",
+   "Nein, weil § 29 Abs. 3 GBO nur für Gerichte und Verwaltungsbehörden gilt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Erklärungen einer Behörde sind nach § 29 Abs. 3 GBO zu unterschreiben und mit Siegel oder Stempel zu versehen. Sparkassen können ihre Löschungsbewilligungen deshalb selbst ausstellen, weil sie jedenfalls in Baden-Württemberg siegelführend sind. Die Siegelbefugnis ergibt sich aus dem jeweiligen Landessparkassengesetz; bei Sparkassen anderer Länder ist sie zu prüfen. Eine allgemeine Befreiung von Kreditinstituten gibt es nicht."
+ },
+ {
+  "id": "grbu1-047",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Form der Eintragungsunterlagen und Erbnachweis (§§ 29, 35 GBO)",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-form-der-eintragungsunterlagen-und-erbnachweis-29-35-gbo",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 35 Abs. 2 GBO",
+   "§ 2202 Abs. 2 BGB"
+  ],
+  "frage": "Die Testamentsvollstreckung beruht auf einem notariellen Testament. Was muss der Notar prüfen, wenn er statt des Testamentsvollstreckerzeugnisses Testament und Eröffnungsniederschrift vorlegen will?",
+  "optionen": [
+   "Ob die Eröffnungsniederschrift belegt, dass der Testamentsvollstrecker das Amt gegenüber dem Nachlassgericht angenommen hat; sonst ist eine Annahmebescheinigung beizufügen",
+   "Ob das Testament jünger als ein Jahr ist, da sonst das Zeugnis in Ausfertigung nötig ist",
+   "Ob alle Erben der Vorlage des Testaments zugestimmt haben",
+   "Nichts weiter; das notarielle Testament ersetzt das Zeugnis stets vollständig"
+  ],
+  "antwort": 0,
+  "erklaerung": "Das Testamentsvollstreckerzeugnis ist grundsätzlich in Ausfertigung vorzulegen (§ 35 Abs. 2 GBO). Bei notariellem Testament gilt die Ausnahme nach § 35 Abs. 2 Hs. 2, Abs. 1 S. 2 GBO; ergibt die Eröffnungsniederschrift aber nicht, dass der Testamentsvollstrecker das Amt gegenüber dem Nachlassgericht angenommen hat (vgl. § 2202 Abs. 2 BGB), ist zusätzlich eine Bescheinigung des Nachlassgerichts über die Annahme vorzulegen. Weder eine Jahresfrist noch eine Zustimmung der Erben spielt hier eine Rolle."
+ },
+ {
+  "id": "grbu1-048",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Grundbuchberichtigung und Richtigstellung",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-grundbuchberichtigung-und-richtigstellung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 22 GBO"
+  ],
+  "frage": "Auf welchen zwei Wegen lässt § 22 GBO die Berichtigung eines unrichtigen Grundbuchs zu?",
+  "optionen": [
+   "Berichtigungsbewilligung oder Unrichtigkeitsnachweis",
+   "Berichtigungsklage oder Amtsverfahren",
+   "Berichtigungsbewilligung oder Zwischenverfügung",
+   "Unrichtigkeitsnachweis oder Widerspruch nach § 899 BGB"
+  ],
+  "antwort": 0,
+  "erklaerung": "§ 22 GBO lässt die Berichtigung entweder aufgrund einer Berichtigungsbewilligung aller Betroffenen (Form: § 29 Abs. 1 S. 1 GBO) oder aufgrund eines Unrichtigkeitsnachweises (Form: § 29 Abs. 1 S. 2 GBO) zu. Die Klage nach § 894 BGB dient nur dazu, eine verweigerte Berichtigungsbewilligung zu ersetzen (§ 894 ZPO); der Widerspruch sichert einen Berichtigungsanspruch, berichtigt aber nicht."
+ },
+ {
+  "id": "grbu1-049",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Grundbuchberichtigung und Richtigstellung",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-grundbuchberichtigung-und-richtigstellung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 22 Abs. 2 GBO"
+  ],
+  "frage": "Die Ehegatten M und F vereinbaren notariell Gütergemeinschaft; M ist als Alleineigentümer eingetragen. Welcher Weg der Berichtigung erspart die Mitwirkung der F?",
+  "optionen": [
+   "Berichtigungsbewilligung des M, weil F als Begünstigte nicht mitwirken muss",
+   "Unrichtigkeitsnachweis durch den notariellen Ehevertrag, weil dann die Zustimmung nach § 22 Abs. 2 GBO entfällt",
+   "Richtigstellung von Amts wegen, weil nur eine Tatsache berichtigt wird",
+   "Keiner; F muss in jedem Fall zustimmen, weil sie Eigentümerin wird"
+  ],
+  "antwort": 1,
+  "erklaerung": "Soll ein Eigentümer eingetragen werden, muss er bei einer Berichtigungsbewilligung nach § 22 Abs. 2 GBO zustimmen; beim Unrichtigkeitsnachweis entfällt dies. Bewilligt M, müsste F daher zustimmen; wird die Unrichtigkeit dagegen durch den notariellen Ehevertrag über die Gütergemeinschaft nachgewiesen, muss F nicht mitwirken. Eine Richtigstellung scheidet aus, weil sich die Rechtslage und nicht nur eine Tatsachenangabe geändert hat."
+ },
+ {
+  "id": "grbu1-050",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Grundbuchberichtigung und Richtigstellung",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-grundbuchberichtigung-und-richtigstellung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 22 GBO"
+  ],
+  "frage": "Die Änderung des Namens der eingetragenen Eigentümerin nach Heirat ist ein Fall der Grundbuchberichtigung nach § 22 GBO, der einen förmlichen Antrag voraussetzt.",
+  "antwort": false,
+  "erklaerung": "Die Namensänderung betrifft keine Rechtsverhältnisse, sondern eine unrichtig wiedergegebene Tatsache; das ist ein Fall der Richtigstellung, nicht der Berichtigung nach § 22 GBO. Die GBO kennt dafür kein Antragsverfahren, das Grundbuchamt stellt von Amts wegen richtig. Entsprechende „Anträge“ sind nur Anregungen, mit denen dem Grundbuchamt die nötigen Unterlagen zugeleitet werden."
+ },
+ {
+  "id": "grbu1-051",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Grundbuchberichtigung und Richtigstellung",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-grundbuchberichtigung-und-richtigstellung",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 22 GBO",
+   "§ 29 GBO",
+   "§ 35 GBO"
+  ],
+  "frage": "Ordne dem jeweiligen Berichtigungsfall den typischen Unrichtigkeitsnachweis zu.",
+  "paare": [
+   [
+    "Löschung eines erloschenen höchstpersönlichen Rechts",
+    "Sterbeurkunde"
+   ],
+   [
+    "Eintragung des Erben bei gesetzlicher Erbfolge",
+    "Erbschein in Urschrift oder Ausfertigung"
+   ],
+   [
+    "Eintragung des Erben bei notariellem Testament",
+    "Beglaubigte Abschrift des Testaments mit Eröffnungsniederschrift"
+   ],
+   [
+    "Eintragung beider Ehegatten nach Vereinbarung der Gütergemeinschaft",
+    "Notarieller Ehevertrag"
+   ],
+   [
+    "Löschung des Testamentsvollstreckervermerks",
+    "Testamentsvollstreckerzeugnis mit Beendigungsvermerk des Nachlassgerichts"
+   ]
+  ],
+  "erklaerung": "Als Unrichtigkeitsnachweis nach § 22 GBO in der Form des § 29 Abs. 1 S. 2 GBO dienen typischerweise die Sterbeurkunde für erloschene höchstpersönliche Rechte, der Erbschein in Urschrift oder Ausfertigung, die notariell beurkundete letztwillige Verfügung in beglaubigter Abschrift mit Eröffnungsniederschrift, der notarielle Ehevertrag über die Gütergemeinschaft sowie das Testamentsvollstreckerzeugnis mit dem Beendigungsvermerk des Nachlassgerichts."
+ },
+ {
+  "id": "grbu1-052",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Grundbuchberichtigung und Richtigstellung",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-grundbuchberichtigung-und-richtigstellung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 22 GBO",
+   "§ 13 Abs. 1 S. 3 GBO"
+  ],
+  "frage": "Welche Aussage zur Grundbuchberichtigung bei Eigentumswechsel durch Erbfall trifft zu?",
+  "optionen": [
+   "§ 13 Abs. 1 S. 3 GBO verlangt, dass ein Notar den Berichtigungsantrag einreicht",
+   "Eine Unbedenklichkeitsbescheinigung des Finanzamts ist nicht erforderlich, weil kein Erwerbsgeschäft vorliegt",
+   "Die Unbedenklichkeitsbescheinigung ist auch bei der Berichtigung des Eigentums erforderlich; § 13 Abs. 1 S. 3 GBO gilt nicht",
+   "Der Erbe muss zusätzlich nach § 22 Abs. 2 GBO seiner eigenen Eintragung zustimmen"
+  ],
+  "antwort": 2,
+  "erklaerung": "Betrifft die Berichtigung das Eigentum, ist auch bei der Grundbuchberichtigung die Unbedenklichkeitsbescheinigung des Finanzamts erforderlich. § 13 Abs. 1 S. 3 GBO gilt für die Berichtigung nicht, weil er nur Eintragungen nach § 20 GBO erfasst; der Erbe kann den Antrag mit formgerechtem Erbnachweis selbst stellen. Die Zustimmung nach § 22 Abs. 2 GBO ist nur bei einer Berichtigungsbewilligung nötig, nicht beim Unrichtigkeitsnachweis durch Erbschein."
+ },
+ {
+  "id": "grbu1-053",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Legalitätsprinzip und Verfahrensarten",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-legalitatsprinzip-und-verfahrensarten",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 891 BGB",
+   "§ 29 GBO",
+   "Art. 20 Abs. 3 GG"
+  ],
+  "frage": "Unter welcher Voraussetzung darf sich das Grundbuchamt nach dem Legalitätsprinzip über die Vermutung des § 891 BGB hinwegsetzen?",
+  "optionen": [
+   "Nur wenn ihm die Unrichtigkeit in der Form des § 29 GBO nachgewiesen wird",
+   "Wenn ihm Tatsachen bekannt oder nachgewiesen sind, die die Unrichtigkeit zweifelsfrei ergeben; die Form des § 29 GBO ist nicht erforderlich",
+   "Bereits bei begründeten Zweifeln an der Richtigkeit des Grundbuchs",
+   "Nie, weil die Vermutung des § 891 BGB das Grundbuchamt stets bindet"
+  ],
+  "antwort": 1,
+  "erklaerung": "Das aus Art. 20 Abs. 3 GG hergeleitete Legalitätsprinzip verbietet dem Grundbuchamt, wissentlich an einer Unrichtigkeit mitzuwirken. Über die Vermutung des § 891 BGB darf es sich aber erst hinwegsetzen, wenn ihm Tatsachen bekannt oder nachgewiesen sind, die die Unrichtigkeit zweifelsfrei ergeben; diese Tatsachen müssen nicht in der Form des § 29 GBO vorliegen. Bloße Zweifel genügen hier nicht, anders als beim Erbschein, an den das Grundbuchamt schon bei begründeten Zweifeln nicht gebunden ist."
+ },
+ {
+  "id": "grbu1-054",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Legalitätsprinzip und Verfahrensarten",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-legalitatsprinzip-und-verfahrensarten",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 38 GBO",
+   "§ 32 Abs. 1 InsO",
+   "§ 51 GBO"
+  ],
+  "frage": "Wie gelangt der Insolvenzvermerk in das Grundbuch?",
+  "optionen": [
+   "Auf Antrag des Insolvenzverwalters nach § 13 GBO",
+   "Auf Ersuchen des Insolvenzgerichts nach § 38 GBO",
+   "Von Amts wegen durch das Grundbuchamt nach § 51 GBO",
+   "Auf Antrag eines Gläubigers in der Form des § 29 GBO"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Insolvenzeröffnung ist nach § 32 Abs. 1 InsO einzutragen; die Eintragung erfolgt auf Ersuchen des Insolvenzgerichts nach § 38 GBO, ebenso wie Zwangsversteigerungs-, Sanierungs- und Umlegungsvermerk. Von Amts wegen trägt das Grundbuchamt dagegen den Mitbelastungsvermerk (§ 48 GBO) sowie Nacherben- und Testamentsvollstreckervermerk (§§ 51, 52 GBO) ein."
+ },
+ {
+  "id": "grbu1-055",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Legalitätsprinzip und Verfahrensarten",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-legalitatsprinzip-und-verfahrensarten",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 13 GBO",
+   "§ 22 GBO",
+   "§ 84 GBO",
+   "§ 38 GBO"
+  ],
+  "frage": "Ordne die Verfahrensarten und Eintragungswege der GBO ihrem Anwendungsfall zu.",
+  "paare": [
+   [
+    "Eintragungsverfahren (§§ 13 ff. GBO)",
+    "Konstitutive Eintragung nach § 873 BGB auf Antrag"
+   ],
+   [
+    "Berichtigungsverfahren (§§ 13, 22 GBO)",
+    "Deklaratorische Eintragung, etwa nach Erbfall"
+   ],
+   [
+    "Löschung gegenstandsloser Eintragungen (§§ 84 ff. GBO)",
+    "Amtsverfahren mit Amtsermittlungsgrundsatz"
+   ],
+   [
+    "Ersuchen nach § 38 GBO",
+    "Zwangsversteigerungsvermerk auf Veranlassung des Vollstreckungsgerichts"
+   ]
+  ],
+  "erklaerung": "Das Eintragungsverfahren ist das vom Antragsgrundsatz beherrschte Regelverfahren für rechtsändernde Eintragungen (§ 873 BGB). Das Berichtigungsverfahren nach §§ 13, 22 GBO dient deklaratorischen Eintragungen wie nach § 1922 BGB. In den Verfahren zur Löschung gegenstandsloser Eintragungen (§§ 84 ff. GBO) und zur Klarstellung von Rangverhältnissen (§§ 90 ff. GBO) gilt der Amtsermittlungsgrundsatz. Behörden wie das Vollstreckungsgericht erwirken Eintragungen durch Ersuchen nach § 38 GBO."
+ },
+ {
+  "id": "grbu1-056",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Legalitätsprinzip und Verfahrensarten",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-legalitatsprinzip-und-verfahrensarten",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 873 BGB"
+  ],
+  "frage": "Ein Verstoß des Grundbuchamts gegen formelles Grundbuchrecht macht die vorgenommene Eintragung materiell unwirksam.",
+  "antwort": false,
+  "erklaerung": "Das formelle Grundbuchrecht regelt nur, unter welchen Voraussetzungen eingetragen werden darf. Verfahrensfehler lassen die materiellen Wirkungen einer Eintragung unberührt; die Rechtsänderung nach § 873 BGB tritt bei Einigung und Eintragung gleichwohl ein. Verfahrensfehler können aber Amtshaftungsansprüche auslösen."
+ },
+ {
+  "id": "grbu1-057",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Löschung bei Herrschvermerk und bei auf Lebenszeit beschränkten Rechten",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-loschung-bei-herrschvermerk-und-bei-auf-lebenszeit-beschrankten-rechten",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 21 GBO",
+   "§ 876 S. 2 BGB"
+  ],
+  "frage": "Ein Wegerecht zugunsten des jeweiligen Eigentümers des Grundstücks H soll gelöscht werden. Auf dem Blatt von H ist ein Herrschvermerk eingetragen; H ist in Abteilung III mit einer Grundschuld belastet. Wessen Bewilligung verlangt das Grundbuchamt?",
+  "optionen": [
+   "Nur die des Eigentümers von H, weil Grundpfandrechte vom Wegerecht nicht berührt werden",
+   "Die des Eigentümers von H und des Grundschuldgläubigers, weil wegen des Herrschvermerks § 21 GBO die Bewilligung der nach § 876 S. 2 BGB Zustimmungsberechtigten verlangt",
+   "Nur die des Eigentümers des dienenden Grundstücks als Begünstigtem der Löschung",
+   "Die des Grundschuldgläubigers allein, weil er das wirtschaftlich stärkste Recht hält"
+  ],
+  "antwort": 1,
+  "erklaerung": "Steht das betroffene Recht dem jeweiligen Eigentümer eines Grundstücks zu, verlangt § 21 GBO die Bewilligung der nach § 876 S. 2 BGB zustimmungsberechtigten Personen, wenn das Recht auf dem Blatt des herrschenden Grundstücks vermerkt ist. Bei eingetragenem Herrschvermerk sind daher grundsätzlich die Bewilligungen aller in Abteilung II und III des herrschenden Grundstücks Eingetragenen beizubringen. Der Eigentümer des dienenden Grundstücks ist Begünstigter und bewilligt nicht."
+ },
+ {
+  "id": "grbu1-058",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Löschung bei Herrschvermerk und bei auf Lebenszeit beschränkten Rechten",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-loschung-bei-herrschvermerk-und-bei-auf-lebenszeit-beschrankten-rechten",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 21 GBO",
+   "§ 876 S. 2 BGB"
+  ],
+  "frage": "Fehlt der Herrschvermerk auf dem Blatt des herrschenden Grundstücks, sind die Zustimmungen der dort eingetragenen Berechtigten nach § 876 S. 2 BGB zur Aufhebung der Grunddienstbarkeit auch materiell entbehrlich.",
+  "antwort": false,
+  "erklaerung": "Der Herrschvermerk ist nicht vorgeschrieben; § 21 GBO entbindet ohne ihn nur verfahrensrechtlich von der Vorlage der Bewilligungen. Materiell bleiben die Zustimmungen nach § 876 S. 2 BGB erforderlich, weil der Wegfall des Rechts die Belastungen des herrschenden Grundstücks berührt. Wird ohne sie gelöscht, ist die Löschung fehlerhaft und das Grundbuch unrichtig; der Notar sollte die Zustimmungen daher auch ohne Herrschvermerk einholen."
+ },
+ {
+  "id": "grbu1-059",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Grundbuchverfahren",
+  "seite": "Grundbuchverfahren: Löschung bei Herrschvermerk und bei auf Lebenszeit beschränkten Rechten",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-loschung-bei-herrschvermerk-und-bei-auf-lebenszeit-beschrankten-rechten",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 23 Abs. 1 GBO",
+   "§ 23 Abs. 2 GBO",
+   "§ 22 GBO",
+   "§ 29 GBO"
+  ],
+  "frage": "Löschung eines Nießbrauchs nach dem Tod der Berechtigten",
+  "sachverhalt": "Die Übergeberin U hatte sich bei der Übergabe des Hauses an ihren Sohn S einen lebenslangen Nießbrauch vorbehalten; eine Vorlöschungsklausel wurde nicht eingetragen. U ist vor vier Monaten verstorben. S möchte das Haus verkaufen und bittet Notar N, den Nießbrauch sofort löschen zu lassen. S legt die Sterbeurkunde vor und erklärt, Alleinerbe der U zu sein; ein Erbschein liegt nicht vor.",
+  "schritte": [
+   {
+    "frage": "Genügt die Sterbeurkunde für die sofortige Löschung des Nießbrauchs?",
+    "optionen": [
+     "Ja, weil der Nießbrauch mit dem Tod erlischt und das Grundbuch nach § 22 GBO unrichtig ist",
+     "Nein; da seit dem Tod kein Jahr vergangen ist und keine Vorlöschungsklausel eingetragen ist, bedarf es der Bewilligung des Rechtsnachfolgers (§ 23 Abs. 1 GBO)",
+     "Nein, weil ein Nießbrauch stets nur mit Bewilligung aller Erben gelöscht werden kann",
+     "Ja, weil S als Eigentümer bewilligen kann"
+    ],
+    "antwort": 1,
+    "erklaerung": "Der Nießbrauch ist ein auf Lebenszeit beschränktes Recht, bei dem Rückstände von Leistungen nicht ausgeschlossen sind (§ 23 Abs. 1 GBO), etwa offene Nebenkostenrückzahlungen. Soll vor Ablauf eines Jahres seit dem Tod gelöscht werden, ist die Bewilligung des Rechtsnachfolgers nötig; die Sterbeurkunde allein reicht nur nach Ablauf des Jahres ohne Widerspruch oder bei eingetragener Vorlöschungsklausel (§ 23 Abs. 2 GBO)."
+   },
+   {
+    "frage": "Welche Unterlagen muss N für die sofortige Löschung beschaffen?",
+    "optionen": [
+     "Löschungsbewilligung des S als Erbe, Erbnachweis in der Form des § 29 GBO und Antrag",
+     "Nur eine eidesstattliche Versicherung des S über seine Erbenstellung",
+     "Sterbeurkunde und privatschriftliche Erklärung des S, keine Rückstände zu beanspruchen",
+     "Zustimmung der Grundschuldgläubiger des Hauses"
+    ],
+    "antwort": 0,
+    "erklaerung": "Greift weder § 23 Abs. 1 noch Abs. 2 GBO zugunsten der Löschung, ist die Bewilligung des Erben erforderlich; sein Erbrecht ist durch einen Erbnachweis in der Form des § 29 GBO zu belegen, also Erbschein oder notarielles Testament mit Eröffnungsniederschrift. Hinzu kommt der Antrag. Dass S zugleich Eigentümer ist, ersetzt den Erbnachweis nicht, da er als Rechtsnachfolger der Berechtigten bewilligen muss."
+   },
+   {
+    "frage": "Wie hätte N bei der Bestellung des Nießbrauchs die spätere Löschung erleichtern können?",
+    "optionen": [
+     "Durch Befristung des Nießbrauchs auf zehn Jahre",
+     "Durch Eintragung der Vorlöschungsklausel nach § 23 Abs. 2 GBO, dass zur Löschung der Todesnachweis genügt",
+     "Durch Eintragung eines Herrschvermerks im Bestandsverzeichnis",
+     "Durch Ausschluss der Vererblichkeit des Nießbrauchs"
+    ],
+    "antwort": 1,
+    "erklaerung": "Nach § 23 Abs. 2 GBO ist die Bewilligung des Rechtsnachfolgers entbehrlich, wenn im Grundbuch eingetragen ist, dass zur Löschung der Nachweis des Todes genügen soll. Bei Nießbrauchsrechten und Wohnungsrechten mit möglichen Rückständen sollte diese Vorlöschungsklausel bei der Bestellung bedacht werden. Der Herrschvermerk betrifft nur subjektiv-dingliche Rechte und erschwert die Löschung sogar."
+   }
+  ],
+  "erklaerung": "Nießbrauchsrechte fallen unter § 23 Abs. 1 GBO; binnen eines Jahres nach dem Tod ist ohne Vorlöschungsklausel die Bewilligung des Erben mit Erbnachweis nach § 29 GBO erforderlich, die Sterbeurkunde allein genügt nicht. Die Vorlöschungsklausel nach § 23 Abs. 2 GBO bei der Bestellung vermeidet diesen Aufwand."
  }
 ]

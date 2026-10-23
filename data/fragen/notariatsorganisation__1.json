@@ -428,5 +428,363 @@
   "frage": "Bei einem Amtswechsel muss der Nachfolger das gesamte IT-System des Vorgängers übernehmen, damit die elektronischen Nebenakten verfügbar bleiben.",
   "antwort": false,
   "erklaerung": "Zweck des Strukturdatensatzes und der Exportpflicht nach § 43 Abs. 2 NotAktVV ist gerade, dass die Nebenakte beim Amtswechsel verfügbar ist, ohne dass das ganze IT-System übernommen werden muss. Es genügt, die strukturierten Daten und Dokumente über die vorgegebenen Export- und Importwege zu überführen; Langzeitverfügbarkeit hängt nicht vom Kanzleisystem ab."
+ },
+ {
+  "id": "orga1-020",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Nebenakten: Verwahrungsgeschäfte",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/nebenakten-verwahrungsgeschafte",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 41 Abs. 3 NotAktVV"
+  ],
+  "frage": "Notar N führt die Nebenakten zu laufenden Verwahrungen in Papierform und will ab 1. April auf elektronische Führung umstellen. Was gilt?",
+  "optionen": [
+   "Der Wechsel ist jederzeit zulässig, wenn er aktenkundig gemacht wird",
+   "Der Wechsel ist nur zum Jahresbeginn zulässig; ein Wechsel zum 1. April bedarf der Genehmigung der Aufsichtsbehörde",
+   "Der Wechsel ist unzulässig, solange noch eine Verwahrung läuft",
+   "Der Wechsel ist nur mit Zustimmung aller Treugeber zulässig"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 41 Abs. 3 NotAktVV sind alle Nebenakten zu laufenden Verwahrungen einheitlich zu führen; die Form darf nur zum Jahresbeginn gewechselt werden, Abweichungen bedürfen der Genehmigung der Aufsichtsbehörde. Für vor dem Wechsel eingetragene Massen darf die bisherige Form beibehalten werden; ein völliges Verbot während laufender Verwahrungen besteht daher nicht."
+ },
+ {
+  "id": "orga1-021",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Nebenakten: Verwahrungsgeschäfte",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/nebenakten-verwahrungsgeschafte",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 41 Abs. 4 NotAktVV"
+  ],
+  "frage": "Wie sind Belege über Einnahmen und Ausgaben in der Verwahrungs-Nebenakte zu kennzeichnen?",
+  "optionen": [
+   "Nur mit dem Eingangsdatum",
+   "Mit der UVZ-Nummer der zugrunde liegenden Urkunde",
+   "Mit Massennummer und Buchungsnummer",
+   "Nur mit der Massennummer"
+  ],
+  "antwort": 2,
+  "erklaerung": "§ 41 Abs. 4 NotAktVV verlangt für Belege über Einnahmen und Ausgaben Massennummer und Buchungsnummer; Kontoauszüge erhalten nur die Massennummer. Ein Eingangsvermerk auf Kontoauszügen ist nicht mehr erforderlich. Die Kennzeichnung sichert die lückenlose Nachverfolgung der Geldflüsse und den Abgleich mit dem VVZ."
+ },
+ {
+  "id": "orga1-022",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Nebenakten: Verwahrungsgeschäfte",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/nebenakten-verwahrungsgeschafte",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 41 Abs. 5 NotAktVV"
+  ],
+  "frage": "Sind Kontoauszüge elektronisch im Verwahrungsverzeichnis abgelegt, entfällt ihre Aufbewahrung in der Nebenakte; andere Belege bleiben dennoch im Original in der Nebenakte.",
+  "antwort": true,
+  "erklaerung": "§ 41 Abs. 5 NotAktVV sieht genau diese Erleichterung vor: Elektronisch im VVZ abgelegte Kontoauszüge und Bankmitteilungen müssen nicht zusätzlich in der Nebenakte aufbewahrt werden. Sonstige Belege verbleiben im Original, es sei denn, die gewählte Aktenform erfordert eine zulässige Formatübertragung."
+ },
+ {
+  "id": "orga1-023",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Urkundensammlung: elektronisch und in Papierform",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundensammlung-elektronisch-und-in-papierform",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 45 Abs. 2 BeurkG"
+  ],
+  "frage": "Welche Rechtsfolge hat die Übertragung der Urschrift in ein elektronisches Dokument und dessen Verwahrung in der elektronischen Urkundensammlung?",
+  "optionen": [
+   "Die Papierurschrift verliert ihre Urkundsqualität und darf vernichtet werden",
+   "Die elektronische Fassung steht der Papierurschrift gleich; Ausfertigungen und Abschriften können unmittelbar aus ihr erteilt werden",
+   "Die elektronische Fassung ist nur eine Sicherungskopie ohne eigene Beweiskraft",
+   "Ausfertigungen dürfen weiterhin nur von der Papierurschrift erteilt werden"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 45 Abs. 2 BeurkG steht die in der elektronischen Urkundensammlung verwahrte elektronische Fassung der Urschrift der Papierform gleich; Ausfertigungen und Abschriften können deshalb aus ihr erteilt werden. Die Papier-Urkundensammlung besteht gleichwohl weiter (§ 31 NotAktVV); die Urschrift wird nicht vernichtet."
+ },
+ {
+  "id": "orga1-024",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Urkundensammlung: elektronisch und in Papierform",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundensammlung-elektronisch-und-in-papierform",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 55 Abs. 3 BeurkG",
+   "§ 31 NotAktVV",
+   "§ 32 NotAktVV"
+  ],
+  "frage": "Ordne den Sammlungen ihren Inhalt zu.",
+  "paare": [
+   [
+    "Elektronische Urkundensammlung",
+    "Seit 01.07.2022 alle neu errichteten Urkunden als elektronische Fassung"
+   ],
+   [
+    "Urkundensammlung in Papierform",
+    "Papierurkunden, jahrgangsweise und fortlaufend geordnet (§ 31 NotAktVV)"
+   ],
+   [
+    "Erbvertragssammlung",
+    "Erbverträge in notarieller Verwahrung (§ 32 NotAktVV)"
+   ],
+   [
+    "Sondersammlung",
+    "Dokumente, die sich nicht oder nur mit unverhältnismäßigem Aufwand elektronisch übertragen lassen"
+   ]
+  ],
+  "erklaerung": "§ 55 Abs. 3 BeurkG nennt Urkundensammlung, elektronische Urkundensammlung und Erbvertragssammlung; die Sondersammlung nimmt nicht übertragbare Dokumente in Papierform auf, auf die die elektronische Sammlung verweist. Die Erbvertragssammlung ist auf Erbverträge in notarieller Verwahrung beschränkt (§ 32 NotAktVV)."
+ },
+ {
+  "id": "orga1-025",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Urkundensammlung: elektronisch und in Papierform",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundensammlung-elektronisch-und-in-papierform",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 31 NotAktVV"
+  ],
+  "frage": "Bei Amtsende darf der Notar einzelne Urkunden der Papier-Urkundensammlung gesondert an die Verwahrstelle abgeben, solange der Jahrgang insgesamt vollständig bleibt.",
+  "antwort": false,
+  "erklaerung": "Die Abgabe der Urkundensammlung an die zuständige Verwahrstelle bei Amtsende oder Amtssitzverlegung erfolgt jahrgangsweise. Einzelabgaben würden die fortlaufende Sammlung zerreißen und sind deshalb nicht vorgesehen; die jahrgangsweise, fortlaufende und prüffähige Ordnung (§ 31 NotAktVV) ist beizubehalten."
+ },
+ {
+  "id": "orga1-026",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Urkundensammlung: Gleichlauf, Sondersammlung, Vermerke und Nachträge",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundensammlung-gleichlauf-sondersammlung-vermerke-und-nachtrage",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 37 NotAktVV",
+   "§ 56 Abs. 1 BeurkG"
+  ],
+  "frage": "Zu einem Kaufvertrag gehört ein gebundener Lageplan im Format DIN A1 als Anlage. Wie ist er zu verwahren?",
+  "optionen": [
+   "Teilweise scannen, soweit der Scanner es zulässt, und den Rest in die Papier-Urkundensammlung nehmen",
+   "Ausschließlich in der Sondersammlung; zusätzlich darf eine Abschrift mit Vermerk nach § 37 Abs. 2 NotAktVV in beide Urkundensammlungen aufgenommen werden",
+   "Nur in der Papier-Urkundensammlung ohne elektronischen Hinweis",
+   "Durch Fotografie in die elektronische Urkundensammlung, die Papierfassung wird vernichtet"
+  ],
+  "antwort": 1,
+  "erklaerung": "Ist die elektronische Übertragung unzumutbar, etwa wegen Bindung oder eines Formats über DIN A3, wird die Papierurkunde ausschließlich in der Sondersammlung verwahrt (§ 37 NotAktVV). Eine nur teilweise elektronische Fassung ist unzulässig; das ist der typische Fehler. Zulässig ist allein die zusätzliche Abschrift mit Vermerk, der erklärt, warum die Übertragung nach § 56 Abs. 1 BeurkG unterblieb."
+ },
+ {
+  "id": "orga1-027",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Urkundensammlung: Gleichlauf, Sondersammlung, Vermerke und Nachträge",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundensammlung-gleichlauf-sondersammlung-vermerke-und-nachtrage",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 31 Abs. 1 Nr. 1a NotAktVV",
+   "§ 31 Abs. 5 NotAktVV",
+   "§ 34 Abs. 1 NotAktVV"
+  ],
+  "frage": "Welches Dokument ist vom Kongruenzgrundsatz zwischen Papier-Urkundensammlung und elektronischer Urkundensammlung ausgenommen?",
+  "optionen": [
+   "Der Vertretungsnachweis nach § 12 BeurkG",
+   "Die Anlage nach § 44 S. 2 BeurkG",
+   "Die beglaubigte Abschrift einer in amtliche Verwahrung gegebenen letztwilligen Verfügung",
+   "Die ZTR-Registrierungsbestätigung"
+  ],
+  "antwort": 2,
+  "erklaerung": "Ausgenommen vom Gleichlauf sind nur die beglaubigte Abschrift einer in amtliche Verwahrung gegebenen letztwilligen Verfügung (§ 31 Abs. 1 Nr. 1a NotAktVV) und die Ausfertigung, die an die Stelle einer herausgegebenen oder zerstörten Urschrift tritt (§ 31 Abs. 5 NotAktVV). Vertretungsnachweise, Anlagen und die ZTR-Bestätigung gehören dagegen auch in die elektronische Sammlung; Vertretungsnachweise nur zur Papierurschrift zu nehmen, ist der typische Fehler."
+ },
+ {
+  "id": "orga1-028",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Urkundensammlung: Gleichlauf, Sondersammlung, Vermerke und Nachträge",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundensammlung-gleichlauf-sondersammlung-vermerke-und-nachtrage",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 44b Abs. 1 S. 3 BeurkG"
+  ],
+  "frage": "Eine Nachtragsurkunde, die eine frühere Urkunde ergänzt, erhält keinen eigenen UVZ-Eintrag, sondern wird unter der UVZ-Nummer der Haupturkunde geführt.",
+  "antwort": false,
+  "erklaerung": "Eine Urkunde, die eine andere berichtigt, ändert, ergänzt oder aufhebt, ist eine eigene Urkunde mit eigenem UVZ-Eintrag. Sie kann lediglich zusammen mit der Haupturkunde verwahrt werden (§ 44b Abs. 1 S. 3 BeurkG), und die Software verbindet beide in der elektronischen Urkundensammlung technisch. Davon zu unterscheiden ist der Nachtragsvermerk nach § 44a Abs. 2 BeurkG, der mit der Urkunde verbunden wird."
+ },
+ {
+  "id": "orga1-029",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Urkundensammlung: Gleichlauf, Sondersammlung, Vermerke und Nachträge",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundensammlung-gleichlauf-sondersammlung-vermerke-und-nachtrage",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 44a Abs. 2 BeurkG",
+   "§ 34 Abs. 2 NotAktVV"
+  ],
+  "frage": "Die Urschrift ist bereits eingescannt. Nun ist ein Vermerk anzubringen, der auf die Urschrift gehört. Wie ist vorzugehen?",
+  "optionen": [
+   "Der Vermerk wird auf ein gesondertes Blatt gesetzt, mit der Urkunde verbunden und auch elektronisch verwahrt",
+   "Der Vermerk wird nur handschriftlich auf der Papierurschrift angebracht; ein erneuter Scan ist unzulässig",
+   "Der Vermerk wird ausschließlich elektronisch als Kommentar in der Urkundensammlung hinterlegt",
+   "Die Urschrift wird gelöscht und mit Vermerk vollständig neu gescannt"
+  ],
+  "antwort": 0,
+  "erklaerung": "Ist die Urschrift bereits eingescannt, wird der Vermerk auf ein gesondertes Blatt gesetzt und mit der Urkunde verbunden; Vermerke und Nachtragsvermerke (§ 44a Abs. 2 BeurkG) werden stets auch elektronisch verwahrt, in der Regel als elektronische Fassung, entweder mit der Urkunde gescannt oder als „Sonstiges Dokument“ zugeordnet. Ein rein handschriftlicher oder rein elektronischer Vermerk verletzt den Kongruenzgrundsatz."
+ },
+ {
+  "id": "orga1-030",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Urkundenverzeichnis (UVZ)",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundenverzeichnis-uvz",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 18 S. 1 NotAktVV"
+  ],
+  "frage": "Innerhalb welcher Höchstfrist ist eine Beurkundung in das Urkundenverzeichnis einzutragen?",
+  "optionen": [
+   "Noch am Tag der Beurkundung",
+   "Spätestens 7 Tage nach der Beurkundung",
+   "Spätestens 14 Tage nach der Beurkundung",
+   "Spätestens einen Monat nach der Beurkundung"
+  ],
+  "antwort": 2,
+  "erklaerung": "§ 18 S. 1 NotAktVV verlangt die Eintragung zeitnah, spätestens 14 Tage nach der Beurkundung oder sonstigen Amtshandlung. Die taggleiche Eintragung galt nach der DONot für Buchungen im Massenbuch, nicht für das UVZ; die 14 Tage sind zudem eine Höchstfrist, die nicht ausgeschöpft werden soll."
+ },
+ {
+  "id": "orga1-031",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Urkundenverzeichnis (UVZ)",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundenverzeichnis-uvz",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "NotAktVV"
+  ],
+  "frage": "Welche Beteiligtenangabe ist im UVZ zwingend zu erfassen?",
+  "optionen": [
+   "Die steuerliche Identifikationsnummer",
+   "Das Geburtsdatum",
+   "Die Anschrift",
+   "Die Staatsangehörigkeit"
+  ],
+  "antwort": 1,
+  "erklaerung": "Das Geburtsdatum der Beteiligten ist im UVZ zwingend zu erfassen; damit verlangt das UVZ mehr als die frühere Urkundenrolle. Anschrift und steuerliche Identifikationsnummer können zusätzlich aufgenommen werden, wenn dies Identifizierung und Auswertung erleichtert, sind aber keine Pflichtangaben."
+ },
+ {
+  "id": "orga1-032",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Urkundenverzeichnis (UVZ)",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundenverzeichnis-uvz",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "NotAktVV"
+  ],
+  "frage": "Bei einer Eigentümerversammlung mit 60 Wohnungseigentümern, die sämtlich Erklärungen zur Niederschrift abgeben, darf der Notar die Beteiligten im UVZ zusammenfassend bezeichnen.",
+  "antwort": false,
+  "erklaerung": "Eine zusammenfassende Bezeichnung ist zwar erst bei einer hohen Zahl von Beteiligten zulässig, aber ausgeschlossen für Beteiligte, die Erklärungen zur Niederschrift abgegeben haben. Geben alle 60 Eigentümer Erklärungen ab, sind sie einzeln mit Geburtsdatum zu erfassen; die hohe Zahl allein genügt nicht."
+ },
+ {
+  "id": "orga1-033",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Urkundenverzeichnis (UVZ)",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundenverzeichnis-uvz",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "NotAktVV"
+  ],
+  "frage": "Ordne den früheren Büchern nach der DONot zu, was sie seit 2022 ersetzt.",
+  "paare": [
+   [
+    "Urkundenrolle",
+    "Urkundenverzeichnis (UVZ) mit UVZ-Nummern"
+   ],
+   [
+    "Namensverzeichnis zur Urkundenrolle",
+    "Im UVZ aufgegangen (Beteiligtenangaben)"
+   ],
+   [
+    "Erbvertragsverzeichnis",
+    "Im UVZ aufgegangen (Urkundenart Verfügung von Todes wegen)"
+   ],
+   [
+    "Verwahrungsbuch und Massenbuch",
+    "Verwahrungsverzeichnis (VVZ)"
+   ]
+  ],
+  "erklaerung": "Das UVZ hat zum 1. Januar 2022 Urkundenrolle, Namensverzeichnis zur Urkundenrolle und Erbvertragsverzeichnis abgelöst; statt Rollennummern gibt es UVZ-Nummern. Verwahrungsbuch und Massenbuch sind dagegen im Verwahrungsverzeichnis aufgegangen, nicht im UVZ."
+ },
+ {
+  "id": "orga1-034",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Urkundenverzeichnis: Angaben bei Verfügungen von Todes wegen (§ 16 NotAktVV)",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundenverzeichnis-angaben-bei-verfugungen-von-todes-wegen-16-notaktvv",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 16 Abs. 1 NotAktVV",
+   "§ 34 BeurkG"
+  ],
+  "frage": "Notar N hat ein Testament beurkundet und zur besonderen amtlichen Verwahrung an das Amtsgericht abgeliefert. Wie wird die Ablieferung dokumentiert?",
+  "optionen": [
+   "Auf einem gesonderten Vermerkblatt in der Urkundensammlung",
+   "Durch Eintragung des Ablieferungsdatums zur UVZ-Eintragung, in der Praxis im Bemerkungsfeld",
+   "Durch Löschung der UVZ-Eintragung, weil die Urkunde nicht mehr beim Notar ist",
+   "Durch einen Vermerk in der Erbvertragssammlung"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 16 Abs. 1 NotAktVV wird das Datum der Ablieferung in die besondere amtliche Verwahrung (§ 34 BeurkG) zur UVZ-Eintragung vermerkt, praktisch im Bemerkungsfeld. Das gesonderte Vermerkblatt der DONot a. F. ist entfallen. Die UVZ-Eintragung bleibt bestehen; die Erbvertragssammlung betrifft nur notariell verwahrte Erbverträge."
+ },
+ {
+  "id": "orga1-035",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Urkundenverzeichnis: Angaben bei Verfügungen von Todes wegen (§ 16 NotAktVV)",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundenverzeichnis-angaben-bei-verfugungen-von-todes-wegen-16-notaktvv",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 38 NotAktVV",
+   "§ 33 NotAktVV",
+   "§ 16 Abs. 3 NotAktVV"
+  ],
+  "frage": "Ein notariell verwahrter Erbvertrag wird den Vertragsschließenden aus der Verwahrung zurückgegeben. Welche Folgen hat das für Urkundensammlung und UVZ?",
+  "optionen": [
+   "Die elektronische Abschrift bleibt in der elektronischen Urkundensammlung; im UVZ wird nichts vermerkt",
+   "Die elektronische Abschrift wird gelöscht, ein Vermerk wird in die elektronische Urkundensammlung eingestellt und die Rückgabe im Bemerkungsfeld des UVZ vermerkt",
+   "Die UVZ-Eintragung wird gelöscht und die Papierurkunde in der Sondersammlung verwahrt",
+   "Die elektronische Abschrift wird in die Erbvertragssammlung verschoben"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei Rückgabe aus der notariellen Verwahrung ist die elektronische Abschrift nach § 38 NotAktVV zu löschen; an ihre Stelle tritt ein Vermerk in der elektronischen Urkundensammlung (§§ 38, 33 NotAktVV). Die Rückgabe ist als späteres Ereignis im Bemerkungsfeld zu vermerken (§ 16 Abs. 3 NotAktVV). Die UVZ-Eintragung selbst bleibt bestehen."
+ },
+ {
+  "id": "orga1-036",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Urkundenverzeichnis: Angaben bei Verfügungen von Todes wegen (§ 16 NotAktVV)",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundenverzeichnis-angaben-bei-verfugungen-von-todes-wegen-16-notaktvv",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 16 Abs. 2 NotAktVV"
+  ],
+  "frage": "Bleibt ein Erbvertrag in der Verwahrung des Notars, ist dies bei der UVZ-Eintragung ausdrücklich anzugeben.",
+  "antwort": true,
+  "erklaerung": "§ 16 Abs. 2 NotAktVV verlangt, bei der Eintragung anzugeben, dass es sich um einen notariell verwahrten Erbvertrag handelt. Spätere Ereignisse wie die nachträgliche Verbringung in die amtliche Verwahrung oder die Rückgabe werden dann im Bemerkungsfeld vermerkt (§ 16 Abs. 3 NotAktVV)."
  }
 ]

@@ -965,5 +965,368 @@
   "antwort": false,
   "erklaerung": "Die Errichtung einer letztwilligen Verfügung oder eines Erbvertrags beschränkt den Erblasser grundsätzlich nicht in seinen Verfügungen unter Lebenden; die Verfügung von Todes wegen erfasst nur das beim Tod noch vorhandene Vermögen. Ein eingesetzter Erbe kann Verfügungen des Erblassers über einzelne Gegenstände grundsätzlich nicht verhindern.",
   "id": "erbr2-043"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Verfügung von Todes wegen: Auflage und Anordnung der Testamentsvollstreckung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/verfugung-von-todes-wegen-auflage-und-anordnung-der-testamentsvollstreckung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1940 BGB",
+   "§ 2194 BGB"
+  ],
+  "frage": "Erblasser E verpflichtet seinen Alleinerben A im Testament durch Auflage, das Grab des E 20 Jahre lang zu pflegen und dem Tierschutzverein T jährlich 1.000 Euro zu zahlen. Welche Rechtsstellung hat T?",
+  "optionen": [
+   "T hat einen eigenen Anspruch gegen A auf die jährliche Zahlung, weil die Auflage ihn begünstigt.",
+   "T hat keinen Anspruch auf Erfüllung; die Vollziehung der Auflage können nur die in § 2194 BGB genannten Personen verlangen, sofern E keinen Vollziehungsberechtigten bestimmt hat.",
+   "T ist Vermächtnisnehmer und kann nach § 2174 BGB Erfüllung verlangen.",
+   "T kann die Vollziehung nur über das Nachlassgericht erzwingen."
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Auflage verpflichtet den Beschwerten zu einer Leistung, ohne dass jemand ein Recht auf die Leistung erhält (§ 1940 BGB); auch der Begünstigte erwirbt keinen Erfüllungsanspruch. Darin liegt der Unterschied zum Vermächtnis mit seinem Anspruch aus § 2174 BGB. Die Vollziehung kann eine andere Person als der Begünstigte verlangen; fehlt eine Bestimmung des Erblassers, gilt § 2194 BGB, weshalb der Notar einen Vollziehungsberechtigten festlegen sollte.",
+  "id": "erbr2-044"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Verfügung von Todes wegen: Auflage und Anordnung der Testamentsvollstreckung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/verfugung-von-todes-wegen-auflage-und-anordnung-der-testamentsvollstreckung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 2197 BGB",
+   "§ 2198 BGB",
+   "§ 2200 BGB"
+  ],
+  "frage": "Auf welche Weise kann der Erblasser die Person des Testamentsvollstreckers bestimmen?",
+  "optionen": [
+   "Nur durch namentliche Benennung im Testament selbst.",
+   "Durch Benennung im Testament, durch Übertragung der Auswahl auf einen Dritten (§ 2198 BGB) oder durch Bitte um Ernennung durch das Nachlassgericht (§ 2200 BGB).",
+   "Durch Benennung im Testament oder durch Beschluss der Erbengemeinschaft nach dem Erbfall.",
+   "Nur durch Ernennung des Nachlassgerichts, das den Testamentsvollstrecker nach pflichtgemäßem Ermessen auswählt."
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Erblasser ordnet die Testamentsvollstreckung an (§§ 2197 ff. BGB), um Verwaltung und Verteilung des Nachlasses zu sichern. Er kann den Testamentsvollstrecker selbst benennen, die Auswahl einem Dritten überlassen (§ 2198 BGB) oder das Nachlassgericht um Ernennung bitten (§ 2200 BGB). Eine Bestimmung durch die Erben sieht das Gesetz nicht vor.",
+  "id": "erbr2-045"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Verfügung von Todes wegen: Enterbung und bedingte Erbeinsetzung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/verfugung-von-todes-wegen-enterbung-und-bedingte-erbeinsetzung",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1938 BGB"
+  ],
+  "frage": "Ein Testament, das keinen Erben einsetzt, sondern lediglich einen gesetzlichen Erben von der Erbfolge ausschließt, ist unwirksam, weil jede letztwillige Verfügung eine Erbeinsetzung enthalten muss.",
+  "antwort": false,
+  "erklaerung": "Ein Testament muss keinen Erben einsetzen; der Erblasser kann sich nach § 1938 BGB auf die Enterbung eines gesetzlichen Erben beschränken. Die Enterbung kann ausdrücklich oder stillschweigend erfolgen, meist durch Einsetzung anderer Personen. Die Erbfolge im Übrigen richtet sich dann nach der gesetzlichen Erbfolge ohne den Enterbten.",
+  "id": "erbr2-046"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Verfügung von Todes wegen: Enterbung und bedingte Erbeinsetzung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/verfugung-von-todes-wegen-enterbung-und-bedingte-erbeinsetzung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§§ 2074 ff. BGB",
+   "§ 1940 BGB"
+  ],
+  "frage": "Erblasser E will erreichen, dass sein Sohn S die Erbenstellung verliert, wenn er das Testament anficht oder sich einer von der Mehrheit der Miterben beschlossenen Nachlassteilung widersetzt. Wie lässt sich das rechtlich umsetzen?",
+  "optionen": [
+   "Durch eine Auflage an S, weil nur diese sein Verhalten steuern kann.",
+   "Durch eine auflösend bedingte Erbeinsetzung (Verwirkungsklausel), die an das Vorgehen gegen letztwillige Anordnungen anknüpft und mit einer Auflage verbunden werden kann.",
+   "Gar nicht, weil Bedingungen bei der Erbeinsetzung unzulässig sind.",
+   "Nur durch eine aufschiebende Bedingung, weil ein einmal angefallenes Erbrecht nicht mehr entzogen werden kann."
+  ],
+  "antwort": 1,
+  "erklaerung": "Eine letztwillige Verfügung kann aufschiebend oder auflösend bedingt sein (§§ 2074 ff. BGB). Die Verwirkungsklausel ist eine auflösende Bedingung, die an ein Vorgehen des Bedachten gegen die Anordnungen des Erblassers anknüpft; sie kann mit einer Auflage verbunden werden und erhält dann durch die Auflage ihren besonderen Inhalt. Eine Auflage allein (§ 1940 BGB) begründet nur eine Pflicht, nimmt aber nicht die Erbenstellung.",
+  "id": "erbr2-047"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Verfügung von Todes wegen: Enterbung und bedingte Erbeinsetzung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/verfugung-von-todes-wegen-enterbung-und-bedingte-erbeinsetzung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1938 BGB"
+  ],
+  "frage": "Wie kann die Enterbung eines gesetzlichen Erben erklärt werden?",
+  "optionen": [
+   "Nur ausdrücklich unter Nennung des Enterbten und des Grundes.",
+   "Ausdrücklich oder stillschweigend; meist ergibt sie sich daraus, dass der Erblasser andere Personen als Erben einsetzt.",
+   "Nur in notarieller Form, weil die Enterbung dem Pflichtteilsrecht vorgreift.",
+   "Nur stillschweigend, da eine ausdrückliche Enterbung als Pflichtteilsentziehung gilt."
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 1938 BGB erlaubt den Ausschluss eines gesetzlichen Erben ohne Erbeinsetzung; die Enterbung kann ausdrücklich oder stillschweigend erfolgen und ergibt sich meist aus der Einsetzung anderer Personen. Eine Begründung ist nicht erforderlich; die Angabe eines Grundes ist nur für die Pflichtteilsentziehung (§§ 2333 ff. BGB) vorgeschrieben, die von der bloßen Enterbung zu unterscheiden ist.",
+  "id": "erbr2-048"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Verfügung von Todes wegen: Erbeinsetzung, Miterben und Ersatzerbe",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/verfugung-von-todes-wegen-erbeinsetzung-miterben-und-ersatzerbe",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2048 BGB",
+   "§ 2150 BGB"
+  ],
+  "frage": "Erblasser E setzt seine Kinder A und B zu je 1/2 als Erben ein und bestimmt, dass A das Ferienhaus (Wert 200.000 Euro) erhalten soll; der Wert soll auf den Erbteil angerechnet werden. Welche Anordnung liegt vor und welche Wirkung hat sie?",
+  "optionen": [
+   "Ein Vorausvermächtnis; A erhält das Ferienhaus zusätzlich zu seinem hälftigen Erbteil.",
+   "Eine Teilungsanordnung; A hat einen schuldrechtlichen Anspruch gegen die Erbengemeinschaft auf Übereignung, der Wert wird auf seinen Erbteil angerechnet.",
+   "Eine Teilungsanordnung; A wird mit dem Erbfall unmittelbar Eigentümer des Ferienhauses.",
+   "Ein Stückvermächtnis; A ist hinsichtlich des Ferienhauses nicht Erbe, sondern Vermächtnisnehmer."
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Teilungsanordnung nach § 2048 BGB weist einem Miterben einen Nachlassgegenstand zu und gibt ihm einen schuldrechtlichen Anspruch gegen die gesamthänderisch gebundene Erbengemeinschaft auf Übereignung; der Wert wird auf den Erbteil angerechnet. Ein unmittelbarer Eigentumsübergang findet nicht statt. Beim Vorausvermächtnis (§ 2150 BGB) unterbliebe die Anrechnung; die angeordnete Anrechnung schließt es hier aus.",
+  "id": "erbr2-049"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Verfügung von Todes wegen: Erbeinsetzung, Miterben und Ersatzerbe",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/verfugung-von-todes-wegen-erbeinsetzung-miterben-und-ersatzerbe",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2096 BGB",
+   "§ 1923 BGB",
+   "§ 2352 BGB",
+   "§ 1953 BGB"
+  ],
+  "frage": "Ordne die Wegfallgründe des zunächst berufenen Erben (§ 2096 BGB) danach ein, ob sie vor oder nach dem Erbfall eintreten.",
+  "paare": [
+   [
+    "Tod des Berufenen vor dem Erblasser (§ 1923 BGB)",
+    "Wegfall vor dem Erbfall"
+   ],
+   [
+    "Erbverzicht des Berufenen (§ 2352 BGB)",
+    "Wegfall vor dem Erbfall, durch Vertrag mit dem Erblasser"
+   ],
+   [
+    "Ausschlagung der Erbschaft (§ 1953 BGB)",
+    "Wegfall nach dem Erbfall, mit Rückwirkung auf den Anfall"
+   ],
+   [
+    "Erbunwürdigkeit (§ 2344 BGB)",
+    "Wegfall nach dem Erbfall, nach Anfechtung des Erbschaftserwerbs"
+   ]
+  ],
+  "erklaerung": "§ 2096 BGB erfasst beide Fallgruppen: Der Ersatzerbe rückt ein, wenn der Berufene vor dem Erbfall wegfällt (Tod, Erbverzicht) oder danach (Ausschlagung, Erbunwürdigkeit, Tod vor Bedingungseintritt, Anfechtung der Einsetzung). Rechtlich gilt der Ersatzerbe in allen Fällen als Erbe bereits ab dem Tod des Erblassers.",
+  "id": "erbr2-050"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Verfügung von Todes wegen: Erbeinsetzung, Miterben und Ersatzerbe",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/verfugung-von-todes-wegen-erbeinsetzung-miterben-und-ersatzerbe",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 2091 BGB",
+   "§ 2032 BGB"
+  ],
+  "frage": "Setzt der Erblasser mehrere Personen als Erben ein, ohne Erbquoten zu bestimmen, so erben sie zu gleichen Teilen.",
+  "antwort": true,
+  "erklaerung": "§ 2091 BGB enthält die Auslegungsregel, dass mehrere ohne Quotenbestimmung eingesetzte Erben zu gleichen Teilen erben. Sie bilden mit dem Erbfall eine Gesamthandsgemeinschaft, in der jedem das ganze Vermögen beschränkt durch die Rechte der übrigen zusteht (§ 2032 BGB). Sind ungleiche Teile gewollt, muss der Notar die Quoten ausdrücklich festlegen.",
+  "id": "erbr2-051"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Verfügung von Todes wegen: Erbeinsetzung, Miterben und Ersatzerbe",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/verfugung-von-todes-wegen-erbeinsetzung-miterben-und-ersatzerbe",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 2096 BGB"
+  ],
+  "frage": "Welche Aussage zur Erbeinsetzung trifft nach der Handbuchseite zu?",
+  "optionen": [
+   "Der Erbe muss im Testament namentlich bezeichnet werden; eine Umschreibung durch Merkmale genügt nicht.",
+   "Eine Erbeinsetzung, die mehrere Personen wahlweise nebeneinander stellt, ist grundsätzlich unzulässig, doch ist zuvor zu prüfen, ob die Auslegung zu einem eindeutigen Ergebnis führt.",
+   "Für die Person des Erben ist der Wille des Erblassers im Zeitpunkt des Erbfalls maßgeblich.",
+   "Der Ersatzerbe wird erst mit dem Wegfall des zunächst Berufenen Erbe, nicht schon mit dem Tod des Erblassers."
+  ],
+  "antwort": 1,
+  "erklaerung": "Eine alternative Erbeinsetzung ist grundsätzlich unzulässig, wobei stets vorrangig die Auslegung zu versuchen ist. Eine namentliche Nennung ist nicht erforderlich, es genügen individualisierende Merkmale; maßgeblich ist der Wille des Erblassers bei Errichtung, nicht beim Erbfall; der Ersatzerbe nach § 2096 BGB gilt rechtlich bereits ab dem Tod des Erblassers als Erbe.",
+  "id": "erbr2-052"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Vermächtnis: Wirkung und Arten",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/vermachtnis-wirkung-und-arten",
+  "typ": "fall",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2174 BGB",
+   "§ 2087 Abs. 2 BGB",
+   "§ 2150 BGB",
+   "§§ 873, 925 BGB"
+  ],
+  "frage": "Das Grundstück für die Tochter",
+  "sachverhalt": "Erblasser E hinterlässt seine Kinder T und S. In seinem handschriftlichen Testament heißt es: „Meine Tochter T soll als Erbin mein Hausgrundstück in Pforzheim bekommen. Alles andere erhalten T und S zu gleichen Teilen.“ Das Grundstück macht etwa ein Drittel des Nachlasses aus. Nach dem Erbfall verlangt T die Umschreibung des Grundstücks allein auf sich und meint, sie sei insoweit mit dem Erbfall Eigentümerin geworden.",
+  "schritte": [
+   {
+    "frage": "Wie ist die Zuwendung des Grundstücks an T rechtlich einzuordnen?",
+    "optionen": [
+     "Als Erbeinsetzung hinsichtlich des Grundstücks, weil E die T ausdrücklich als „Erbin“ bezeichnet hat.",
+     "Als Vermächtnis (Stückvermächtnis), weil die Zuwendung eines einzelnen Gegenstands trotz der Bezeichnung als Erbin nach § 2087 Abs. 2 BGB im Zweifel keine Erbeinsetzung ist.",
+     "Als Teilungsanordnung mit Anrechnung auf den Erbteil der T.",
+     "Als Auflage zugunsten der T."
+    ],
+    "antwort": 1,
+    "erklaerung": "Wer nur einen einzelnen Nachlassgegenstand erhalten soll, bleibt Vermächtnisnehmer; die Bezeichnung als Erbe ändert daran nichts (§ 2087 Abs. 2 BGB). Das ist der typische Fehler privatschriftlicher Testamente. Da T daneben Miterbin ist und das Grundstück zusätzlich erhalten soll, liegt ein Vorausvermächtnis nach § 2150 BGB vor."
+   },
+   {
+    "frage": "Ist T mit dem Erbfall Eigentümerin des Grundstücks geworden?",
+    "optionen": [
+     "Ja, der Vermächtnisgegenstand geht mit dem Erbfall unmittelbar auf den Vermächtnisnehmer über.",
+     "Nein, T hat nur einen schuldrechtlichen Anspruch auf Übertragung (§ 2174 BGB); zur Erfüllung sind Auflassung und Eintragung nach §§ 873, 925 BGB erforderlich.",
+     "Ja, weil T als Miterbin ohnehin Mitglied der Erbengemeinschaft ist.",
+     "Nein, das Eigentum geht erst mit Erteilung des Erbscheins über."
+    ],
+    "antwort": 1,
+    "erklaerung": "Das Vermächtnis wirkt nur schuldrechtlich: Der Vermächtnisnehmer erhält einen Anspruch gegen den Beschwerten auf Übertragung (§ 2174 BGB). Für Grundstücke bedarf es eines gesonderten Verfügungsgeschäfts durch Auflassung und Eintragung (§§ 873, 925 BGB). Der Erbschein betrifft nur den Nachweis der Erbfolge, nicht den Vermächtniserwerb."
+   },
+   {
+    "frage": "Wird der Wert des Grundstücks auf den Erbteil der T angerechnet?",
+    "optionen": [
+     "Ja, weil Zuwendungen an Miterben stets auf den Erbteil angerechnet werden.",
+     "Nein, beim Vorausvermächtnis (§ 2150 BGB) erhält der Miterbe den Gegenstand zusätzlich zu seinem Erbteil ohne Anrechnung.",
+     "Ja, weil es sich um eine Teilungsanordnung nach § 2048 BGB handelt.",
+     "Nur zur Hälfte, weil T und S zu gleichen Teilen erben."
+    ],
+    "antwort": 1,
+    "erklaerung": "Beim Vorausvermächtnis nach § 2150 BGB erhält der Miterbe den Gegenstand neben seinem Erbteil; der Wert wird nicht angerechnet. Genau darin liegt der Unterschied zur Teilungsanordnung (§ 2048 BGB), bei der der Wert auf den Erbteil angerechnet wird. Soll ein Miterbe etwas ohne Anrechnung erhalten, ist daher das Vorausvermächtnis zu wählen."
+   }
+  ],
+  "erklaerung": "Die Zuwendung eines einzelnen Gegenstands ist trotz der Bezeichnung als Erbin ein Vermächtnis (§ 2087 Abs. 2 BGB), hier ein Vorausvermächtnis an die Miterbin T (§ 2150 BGB). T wird nicht mit dem Erbfall Eigentümerin, sondern hat einen Anspruch nach § 2174 BGB, der durch Auflassung und Eintragung erfüllt wird; eine Anrechnung auf ihren Erbteil findet anders als bei der Teilungsanordnung nicht statt.",
+  "id": "erbr2-053"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Vermächtnis: Wirkung und Arten",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/vermachtnis-wirkung-und-arten",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2170 BGB",
+   "§ 2155 BGB",
+   "§ 2154 BGB",
+   "§ 2191 BGB"
+  ],
+  "frage": "Ordne die besonderen Vermächtnisformen ihrer Beschreibung zu.",
+  "paare": [
+   [
+    "Verschaffungsvermächtnis (§ 2170 BGB)",
+    "Der vermachte Gegenstand gehört nicht zum Nachlass"
+   ],
+   [
+    "Gattungsvermächtnis (§ 2155 BGB)",
+    "Die Sache ist nur der Gattung nach bestimmt"
+   ],
+   [
+    "Wahlvermächtnis (§ 2154 BGB)",
+    "Der Bedachte erhält eine Sache aus mehreren"
+   ],
+   [
+    "Nachvermächtnis (§ 2191 BGB)",
+    "Der Vorvermächtnisnehmer muss den Gegenstand ab einem bestimmten Zeitpunkt an einen weiteren Bedachten übertragen"
+   ],
+   [
+    "Ersatzvermächtnis (§ 2190 BGB)",
+    "Ein anderer erhält den Gegenstand, falls der zuerst Bedachte das Vermächtnis nicht erwirbt"
+   ]
+  ],
+  "erklaerung": "Weil das Vermächtnis einen schuldrechtlichen Anspruch begründet, kann Gegenstand alles sein, worüber ein schuldrechtlicher Vertrag geschlossen werden könnte, auch nachlassfremde Gegenstände (Verschaffungsvermächtnis). Nach- und Ersatzvermächtnis entsprechen Nacherbschaft und Ersatzerbschaft auf Vermächtnisebene; ein Anwendungsfall des Ersatzvermächtnisses ist die Ausschlagung (§§ 2176, 2180 BGB).",
+  "id": "erbr2-054"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Vermächtnis: Wirkung und Arten",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/vermachtnis-wirkung-und-arten",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 2147 BGB",
+   "§ 2174 BGB"
+  ],
+  "frage": "Beschwerter eines Vermächtnisses ist grundsätzlich der Erbe; der Vermächtnisnehmer hat gegen ihn einen schuldrechtlichen Anspruch auf Übertragung des Gegenstands.",
+  "antwort": true,
+  "erklaerung": "Nach § 2147 BGB ist grundsätzlich der Erbe Beschwerter; der Vermächtnisnehmer wird mit dem Erbfall nicht Inhaber des Gegenstands, sondern erwirbt den Anspruch aus § 2174 BGB. Zur Erfüllung ist ein gesondertes Verfügungsgeschäft nötig (bewegliche Sachen §§ 929 ff. BGB, Grundstücke §§ 873, 925 BGB, Forderungen § 398 BGB).",
+  "id": "erbr2-055"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Vor- und Nacherbschaft: Anordnung und Rechtsstellung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/vor-und-nacherbschaft-anordnung-und-rechtsstellung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2100 BGB"
+  ],
+  "frage": "Erblasser E setzt seine Ehefrau F zur Vorerbin und seinen Sohn S zum Nacherben ein; Nacherbfall ist der Tod der F. Wie ist das Verhältnis von F und S zueinander?",
+  "optionen": [
+   "F und S bilden eine Miterbengemeinschaft nach E, in der F die Verwaltung zusteht.",
+   "F und S beerben E nacheinander; S beerbt nicht F, und beide bilden keine Miterbengemeinschaft.",
+   "S beerbt beim Nacherbfall die F, weil der Nachlass des E in deren Vermögen aufgegangen ist.",
+   "S ist bis zum Nacherbfall Vermächtnisnehmer der F."
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei der Vor- und Nacherbschaft nach § 2100 BGB beerben Vorerbe und Nacherbe beide den Erblasser, jedoch in zeitlicher Reihenfolge; der Nacherbe beerbt den Vorerben nicht. Eine Miterbengemeinschaft setzt gleichzeitige Erbenstellung voraus und scheidet daher aus. S hat bis zum Nacherbfall ein Anwartschaftsrecht am Nachlass, das mit dem Nacherbfall zum Vollrecht wird.",
+  "id": "erbr2-056"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Vor- und Nacherbschaft: Anordnung und Rechtsstellung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/vor-und-nacherbschaft-anordnung-und-rechtsstellung",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 2100 BGB"
+  ],
+  "frage": "Bis zum Nacherbfall steht dem Nacherben am Nachlass ein Anwartschaftsrecht zu, das mit dem Nacherbfall zum Vollrecht erstarkt.",
+  "antwort": true,
+  "erklaerung": "Der Nachlass geht zunächst als Ganzes auf den Vorerben über, dessen Erbenstellung zeitlich begrenzt ist; der Nacherbe hat bis zum Nacherbfall ein Anwartschaftsrecht und erhält dann, was vom Nachlass noch vorhanden ist. Der Vorerbe soll bis dahin die Nutzungen ziehen, vergleichbar einem Nießbraucher, während die Substanz dem Nacherben zukommen soll.",
+  "id": "erbr2-057"
+ },
+ {
+  "kapitel": "erbrecht",
+  "abschnitt": "Verfügungen von Todes wegen",
+  "seite": "Vor- und Nacherbschaft: Anordnung und Rechtsstellung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/vor-und-nacherbschaft-anordnung-und-rechtsstellung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2100 BGB",
+   "§ 2096 BGB"
+  ],
+  "frage": "Unternehmer U will, dass sein Vermögen nach dem Tod seiner zweiten Ehefrau Z an seine Kinder aus erster Ehe fällt, und zugleich verhindern, dass Z über den Verbleib des ererbten Vermögens frei bestimmt. Welche Gestaltung entspricht diesem Ziel?",
+  "optionen": [
+   "Einsetzung der Z als Alleinerbin und der Kinder als Ersatzerben nach § 2096 BGB.",
+   "Einsetzung der Z als Vorerbin und der Kinder als Nacherben nach § 2100 BGB.",
+   "Einsetzung der Z und der Kinder als Miterben zu gleichen Teilen mit Teilungsanordnung.",
+   "Einsetzung der Kinder als Erben und ein Nießbrauchsvermächtnis zugunsten der Z."
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Nacherbfolge nach § 2100 BGB kommt gerade in Betracht, wenn der Erblasser ausschließen will, dass sein Erbe frei bestimmt, wer das ererbte Vermögen später erhält; Z zieht als Vorerbin die Nutzungen, die Substanz fällt den Kindern als Nacherben zu. Der Ersatzerbe nach § 2096 BGB rückt dagegen nur ein, wenn der zunächst Berufene wegfällt, und bindet die Alleinerbin Z nicht.",
+  "id": "erbr2-058"
  }
 ]
