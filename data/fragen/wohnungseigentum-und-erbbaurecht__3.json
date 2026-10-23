@@ -790,5 +790,266 @@
   ],
   "antwort": 1,
   "erklaerung": "An jedem von mehreren selbständigen Gebäuden auf demselben Grundstück kann Wohnungseigentum gebildet werden; die konstruktiven Teile bleiben aber nach § 5 Abs. 2 WEG Gemeinschaftseigentum. Deshalb erhält jeder Eigentümer ein umfassendes Sondernutzungsrecht am zwingenden Gemeinschaftseigentum seines Hauses und an der zugehörigen Fläche mit alleiniger Entscheidungsbefugnis und Kostentragung. Die Sondernutzungsflächen sind in einem Plan bestimmt zu bezeichnen."
+ },
+ {
+  "id": "wohn3-036",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Hausgeld: Beitragspflicht, Fälligkeit, Schuldner und Erwerberhaftung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/hausgeld-beitragspflicht-falligkeit-schuldner-und-erwerberhaftung",
+  "typ": "fall",
+  "frage": "Hausgeldrückstände beim Eigentümerwechsel",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 7 Abs. 3 S. 2 WEG",
+   "§ 56 S. 2 ZVG"
+  ],
+  "sachverhalt": "V verkauft seine Eigentumswohnung an K. V schuldet der GdWE Hausgeld für die letzten acht Monate. Die Gemeinschaftsordnung enthält keine Regelung zur Haftung von Erwerbern. Die Eigentumsumschreibung auf K erfolgt am 1. Juli. Die Verwalterin verlangt von K Zahlung der Rückstände des V.",
+  "schritte": [
+   {
+    "frage": "Haftet K für die Hausgeldrückstände des V?",
+    "optionen": [
+     "Ja, als Rechtsnachfolger im Wohnungseigentum haftet er für alle Rückstände.",
+     "Ja, aber nur für die Rückstände des laufenden Wirtschaftsjahres.",
+     "Nein, der Erwerber haftet nicht für Rückstände des Veräußerers.",
+     "Nein, es haftet nur die GdWE gegenüber ihren Gläubigern."
+    ],
+    "antwort": 2,
+    "erklaerung": "Nach der Fälligkeitstheorie haftet der Erwerber erst ab Eigentumsumschreibung und nur für danach fällig werdende Beiträge, nicht für Rückstände des Veräußerers. Eine Haftung kraft Rechtsnachfolge besteht ohne Regelung in der Gemeinschaftsordnung nicht."
+   },
+   {
+    "frage": "Im August wird ein Hausgeldvorschuss fällig, der Kosten aus dem Frühjahr betrifft. Wer schuldet ihn?",
+    "optionen": [
+     "V, weil die Kosten in seine Eigentumszeit fallen",
+     "K, weil er grundsätzlich für nach der Umschreibung fällig werdende Beiträge haftet, auch wenn sie Kosten aus der Zeit davor betreffen",
+     "V und K als Gesamtschuldner",
+     "Niemand, bis eine Jahresabrechnung beschlossen ist"
+    ],
+    "antwort": 1,
+    "erklaerung": "Maßgeblich ist die Fälligkeit, nicht der Zeitraum der Kostenentstehung: Der Erwerber haftet grundsätzlich für alle nach der Umschreibung fällig werdenden Beiträge, auch wenn sie Kosten aus der Zeit davor betreffen."
+   },
+   {
+    "frage": "Was sollte der Notar in künftigen Gemeinschaftsordnungen vorsehen, damit Erwerber für Rückstände des Vorgängers einstehen?",
+    "optionen": [
+     "Eine Erwerberhaftung für den rechtsgeschäftlichen Erwerb, die im Eintragungsvermerk ausdrücklich eingetragen wird",
+     "Eine Erwerberhaftung auch für den Erwerb in der Zwangsversteigerung",
+     "Einen Mehrheitsbeschluss der ersten Eigentümerversammlung zur Erwerberhaftung",
+     "Eine Bürgschaft des Verwalters für alle Rückstände"
+    ],
+    "antwort": 0,
+    "erklaerung": "Die Gemeinschaftsordnung kann für den rechtsgeschäftlichen Erwerb eine Haftung für Rückstände des Vorgängers vorsehen; sie muss im Eintragungsvermerk ausdrücklich eingetragen sein (§ 7 Abs. 3 S. 2 WEG). Für den Erwerb in der Zwangsversteigerung ist eine solche Regel unzulässig (§ 56 S. 2 ZVG). Sinnvoll ist ergänzend eine Pflicht des Verwalters zur Hausgeldschuldenfreiheitsbescheinigung."
+   }
+  ],
+  "erklaerung": "K haftet nach der Fälligkeitstheorie nur für ab der Umschreibung fällig werdende Beiträge, nicht für die Rückstände des V. Abhilfe schafft eine im Eintragungsvermerk eingetragene Erwerberhaftung der Gemeinschaftsordnung für den rechtsgeschäftlichen Erwerb (§ 7 Abs. 3 S. 2 WEG), die für Ersteher in der Zwangsversteigerung nicht vereinbart werden kann (§ 56 S. 2 ZVG)."
+ },
+ {
+  "id": "wohn3-037",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Hausgeld: Beitragspflicht, Fälligkeit, Schuldner und Erwerberhaftung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/hausgeld-beitragspflicht-falligkeit-schuldner-und-erwerberhaftung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 10 Abs. 1 Nr. 2 ZVG",
+   "§ 74a Abs. 5 S. 1 ZVG"
+  ],
+  "frage": "In welchem Umfang genießen Hausgeldansprüche der GdWE in der Zwangsversteigerung das Vorrecht der Rangklasse 2?",
+  "optionen": [
+   "Unbegrenzt für alle Rückstände",
+   "Bis höchstens 5 % des Verkehrswerts und für Rückstände aus dem Jahr der Beschlagnahme und den zwei Jahren davor",
+   "Bis höchstens 10 % des Verkehrswerts und für Rückstände der letzten vier Jahre",
+   "Nur für Rückstände nach der Beschlagnahme"
+  ],
+  "antwort": 1,
+  "erklaerung": "Hausgeldansprüche werden in Rangklasse 2 befriedigt (§ 10 Abs. 1 Nr. 2 ZVG). Das Vorrecht gegenüber insbesondere Grundpfandgläubigern ist auf höchstens 5 % des Verkehrswerts (§ 74a Abs. 5 S. 1 ZVG) und auf Rückstände aus dem Jahr der Beschlagnahme und den zwei Jahren davor beschränkt. Ein unbegrenzter Vorrang besteht daher nicht."
+ },
+ {
+  "id": "wohn3-038",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Hausgeld: Beitragspflicht, Fälligkeit, Schuldner und Erwerberhaftung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/hausgeld-beitragspflicht-falligkeit-schuldner-und-erwerberhaftung",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [],
+  "frage": "Die Pflicht jedes Eigentümers, im Wechsel das Treppenhaus zu reinigen, kann durch Mehrheitsbeschluss im Rahmen ordnungsmäßiger Verwaltung begründet werden.",
+  "antwort": false,
+  "erklaerung": "Der Beitrag zu Kosten und Lasten besteht grundsätzlich in Geld. Persönliche Dienstleistungspflichten wie Räum- und Streupflicht oder Treppenhausreinigung können nicht durch Beschluss begründet werden, auch nicht im Rahmen ordnungsmäßiger Verwaltung. Möglich ist dies nur durch Vereinbarung."
+ },
+ {
+  "id": "wohn3-039",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Hausgeld: Beitragspflicht, Fälligkeit, Schuldner und Erwerberhaftung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/hausgeld-beitragspflicht-falligkeit-schuldner-und-erwerberhaftung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 28 Abs. 1 S. 1 WEG",
+   "§ 271 Abs. 1 BGB"
+  ],
+  "frage": "Die Eigentümer beschließen den Wirtschaftsplan mit den Hausgeldvorschüssen, ohne eine Fälligkeit zu bestimmen. Wann ist das Hausgeld fällig?",
+  "optionen": [
+   "Erst nach Anforderung durch den Verwalter",
+   "Monatlich zum dritten Werktag kraft Gesetzes",
+   "Sofort nach § 271 Abs. 1 BGB",
+   "Erst mit Beschluss über die Jahresabrechnung"
+  ],
+  "antwort": 2,
+  "erklaerung": "Ohne Bestimmung im Beschluss ist das Hausgeld sofort fällig (§ 271 Abs. 1 BGB). Einer Anforderung durch den Verwalter bedarf es anders als früher nicht mehr. Die Eigentümer können die Fälligkeit aber beschließen, meist monatlich; vor dem Beschluss nach § 28 Abs. 1 S. 1 WEG besteht dagegen überhaupt keine vollwirksame Forderung."
+ },
+ {
+  "id": "wohn3-040",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Kosten und Lasten des gemeinschaftlichen Eigentums: Heizkostenverordnung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/kosten-und-lasten-des-gemeinschaftlichen-eigentums-heizkostenverordnung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 7 Abs. 1 S. 1 HeizkostenV"
+  ],
+  "frage": "Welcher Anteil der Heizkosten ist nach der HeizkostenV grundsätzlich nach erfasstem Verbrauch zu verteilen?",
+  "optionen": [
+   "Mindestens 30 % und höchstens 50 %",
+   "Mindestens 50 % und höchstens 70 %",
+   "Mindestens 70 % und höchstens 100 %",
+   "Genau 50 %"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 7 Abs. 1 S. 1 HeizkostenV sind, abgesehen von Ausnahmen, mindestens 50 % und höchstens 70 % der Heizkosten nach erfasstem Verbrauch zu verteilen, der Rest nach Wohn- oder Nutzfläche oder umbautem Raum. Die HeizkostenV hat Vorrang vor § 16 Abs. 2 WEG und geht abweichenden Vereinbarungen und Beschlüssen vor (§ 3 S. 1 HeizkostenV)."
+ },
+ {
+  "id": "wohn3-041",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Kosten und Lasten des gemeinschaftlichen Eigentums: Heizkostenverordnung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/kosten-und-lasten-des-gemeinschaftlichen-eigentums-heizkostenverordnung",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 10 HeizkostenV"
+  ],
+  "frage": "Ein Verbrauchsanteil von 80 % bei den Heizkosten kann von den Wohnungseigentümern auch ohne Öffnungsklausel mit einfacher Mehrheit beschlossen werden.",
+  "antwort": false,
+  "erklaerung": "Einen höheren Verbrauchsanteil als 70 % kann nach § 10 HeizkostenV eine Vereinbarung bestimmen. Ein Beschluss ist hierfür nur aufgrund einer Öffnungsklausel möglich (a.A. Becker). Ohne Öffnungsklausel bleibt es beim Rahmen von 50 bis 70 % nach § 7 Abs. 1 S. 1 HeizkostenV."
+ },
+ {
+  "id": "wohn3-042",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Kosten und Lasten des gemeinschaftlichen Eigentums: Heizkostenverordnung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/kosten-und-lasten-des-gemeinschaftlichen-eigentums-heizkostenverordnung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 4 Nr. 4 WoFlV"
+  ],
+  "frage": "Welche Regelung zur Heizkostenverteilung ist für eine Gemeinschaftsordnung üblich und sachgerecht, wenn die Einheiten sehr unterschiedlich große Terrassen haben?",
+  "optionen": [
+   "100 % nach Verbrauch, ohne Flächenanteil",
+   "70 % nach Verbrauch, 30 % nach Wohnfläche unter Verweis auf die WoFlV, ohne Einrechnung von Balkonen und Terrassen",
+   "50 % nach Miteigentumsanteilen, 50 % nach Verbrauch",
+   "70 % nach Verbrauch, 30 % nach Wohnfläche einschließlich voller Terrassenflächen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Üblich ist eine Umlage zu 70 % nach Verbrauch und 30 % nach Wohnfläche; für die Flächenberechnung kann auf die WoFlV verwiesen werden. Balkone, Loggien, Dachgärten und Terrassen (§ 4 Nr. 4 WoFlV) sollten bei größeren Unterschieden zwischen den Einheiten nicht eingerechnet werden, da sie nicht beheizt werden. Eine reine Verbrauchsabrechnung ohne Flächenanteil verlässt den Rahmen des § 7 Abs. 1 HeizkostenV ohne Vereinbarung."
+ },
+ {
+  "id": "wohn3-043",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Kosten und Lasten des gemeinschaftlichen Eigentums: Verteilung, Rücklage und Versicherung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/kosten-und-lasten-des-gemeinschaftlichen-eigentums-verteilung-rucklage-und-versicherung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 134 Abs. 1 S. 4 BauGB",
+   "§ 16 Abs. 2 WEG"
+  ],
+  "frage": "Welche der folgenden Belastungen ist eine Last des Sondereigentums und keine nach § 16 Abs. 2 WEG zu verteilende Last des gemeinschaftlichen Eigentums?",
+  "optionen": [
+   "Zinsen aus einem Grundpfandrecht am ganzen Grundstück",
+   "Kosten der erstmaligen mangelfreien Herstellung des Gemeinschaftseigentums",
+   "Der Erschließungsbeitrag nach dem BauGB",
+   "Die Prämie für die Gebäudeversicherung des Gemeinschaftseigentums"
+  ],
+  "antwort": 2,
+  "erklaerung": "Erschließungsbeiträge nach dem BauGB treffen die einzelnen Eigentümer nach ihrem Anteil (§ 134 Abs. 1 S. 4 BauGB); ebenso wird die Grundsteuer für jedes Wohnungseigentum gesondert erhoben. Beides sind Lasten des Sondereigentums. Zinsen aus Grundpfandrechten am Grundstück sind dagegen privatrechtliche Lasten des gemeinschaftlichen Eigentums, und Herstellungskosten unterfallen dem Schlüssel nach Miteigentumsanteilen."
+ },
+ {
+  "id": "wohn3-044",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Kosten und Lasten des gemeinschaftlichen Eigentums: Verteilung, Rücklage und Versicherung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/kosten-und-lasten-des-gemeinschaftlichen-eigentums-verteilung-rucklage-und-versicherung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 16 Abs. 2 S. 2 WEG"
+  ],
+  "frage": "Die Beschlusskompetenz nach § 16 Abs. 2 S. 2 WEG umfasst auch Beschlüsse, die einzelne Eigentümer von bestimmten Kosten ganz befreien oder erstmals belasten.",
+  "antwort": true,
+  "erklaerung": "Für einzelne Kosten oder bestimmte Kostenarten können die Eigentümer eine abweichende Verteilung beschließen (§ 16 Abs. 2 S. 2 WEG); dies umfasst auch eine vollständige Befreiung oder erstmalige Belastung. Der Beschluss muss ordnungsmäßiger Verwaltung entsprechen, maßgeblich ist eine gerechte Verteilung nach Nutzungsmöglichkeit, Verbrauch und Verursachung. Eine Änderung der Gemeinschaftsordnung insgesamt erfordert dagegen grundsätzlich eine Vereinbarung."
+ },
+ {
+  "id": "wohn3-045",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Kosten und Lasten des gemeinschaftlichen Eigentums: Verteilung, Rücklage und Versicherung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/kosten-und-lasten-des-gemeinschaftlichen-eigentums-verteilung-rucklage-und-versicherung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 19 Abs. 2 Nr. 3 WEG"
+  ],
+  "frage": "Die Gemeinschaftsordnung enthält keine Regelung zur Versicherung. Kann ein Eigentümer den Abschluss einer Gebäudeversicherung verlangen?",
+  "optionen": [
+   "Nein, ohne Regelung in der Gemeinschaftsordnung besteht keine Versicherungspflicht.",
+   "Ja, eine angemessene Versicherung des Gemeinschaftseigentums zum Neuwert gehört zur ordnungsmäßigen Verwaltung.",
+   "Ja, aber nur zum Zeitwert und nur bei einstimmigem Beschluss.",
+   "Nur wenn ein Grundpfandgläubiger dies verlangt."
+  ],
+  "antwort": 1,
+  "erklaerung": "Auch ohne Regelung in der Gemeinschaftsordnung gehören eine angemessene Neuwertversicherung des Gemeinschaftseigentums und eine Haus- und Grundbesitzerhaftpflicht zur ordnungsmäßigen Verwaltung (§ 19 Abs. 2 Nr. 3 WEG); jeder Eigentümer kann sie verlangen. Die Pflicht betrifft nur das Gemeinschaftseigentum. Den Umfang sollte die Gemeinschaftsordnung ausdrücklich regeln, um Streit zu vermeiden."
+ },
+ {
+  "id": "wohn3-046",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Kosten und Lasten des gemeinschaftlichen Eigentums: Verteilung, Rücklage und Versicherung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/kosten-und-lasten-des-gemeinschaftlichen-eigentums-verteilung-rucklage-und-versicherung",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 16 Abs. 2 WEG",
+   "§ 19 Abs. 2 Nr. 4 WEG",
+   "§ 21 WEG"
+  ],
+  "frage": "Ordne die Position der zutreffenden Behandlung bei der Kostentragung zu.",
+  "paare": [
+   [
+    "Grundsteuer",
+    "Last des Sondereigentums, für jede Einheit gesondert erhoben"
+   ],
+   [
+    "Kosten der erstmaligen mangelfreien Herstellung",
+    "Verteilung nach Miteigentumsanteilen"
+   ],
+   [
+    "Erhaltungsrücklage",
+    "Pflicht zur Bildung; gehört zum Gemeinschaftsvermögen"
+   ],
+   [
+    "Kosten baulicher Veränderungen",
+    "Sonderregel des § 21 WEG"
+   ],
+   [
+    "Vom Versorger nur gegenüber einer Einheit abgerechnete Kaltwasserkosten",
+    "Trägt der betroffene Eigentümer allein"
+   ]
+  ],
+  "erklaerung": "Die Grundsteuer wird für jedes Wohnungseigentum gesondert erhoben und ist Last des Sondereigentums. Erhaltungs- und Herstellungskosten folgen dem Schlüssel nach Miteigentumsanteilen; die Erhaltungsrücklage ist nach § 19 Abs. 2 Nr. 4 WEG zu bilden und Teil des Gemeinschaftsvermögens. Für bauliche Veränderungen gilt § 21 WEG; Aufwendungen, die nur eine Einheit betreffen, sind keine Kosten nach § 16 Abs. 2 WEG."
  }
 ]

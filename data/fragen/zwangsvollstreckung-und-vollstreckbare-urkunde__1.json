@@ -324,5 +324,303 @@
   "frage": "Schriftlich einzureichende Vollstreckungsanträge von Rechtsanwälten, Behörden und juristischen Personen des öffentlichen Rechts sind als elektronisches Dokument zu übermitteln.",
   "antwort": true,
   "erklaerung": "§ 130d S. 1 ZPO ordnet für diesen Personenkreis die elektronische Übermittlung an. Ob die Pflicht auch Notare trifft, ist umstritten; die Aussage beschränkt sich bewusst auf die in der Norm ausdrücklich genannten Antragsteller."
+ },
+ {
+  "id": "zwan1-016",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Zwangsvollstreckung: Grundbegriffe, Verfahrensarten und Vollstreckungsorgane",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-grundbegriffe-verfahrensarten-und-vollstreckungsorgane",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 753 ZPO",
+   "§ 764 ZPO",
+   "§ 887 ZPO",
+   "§ 866 ZPO"
+  ],
+  "frage": "Ordne die Vollstreckungsorgane ihrer Zuständigkeit zu.",
+  "paare": [
+   [
+    "Gerichtsvollzieher (§ 753 ZPO)",
+    "Zwangsvollstreckung, soweit sie nicht den Gerichten zugewiesen ist, im Auftrag des Gläubigers"
+   ],
+   [
+    "Amtsgericht als Vollstreckungsgericht (§ 764 ZPO)",
+    "Vollstreckungsmaßnahmen, für die ein Gericht zuständig ist"
+   ],
+   [
+    "Prozessgericht des ersten Rechtszuges (§ 887 ZPO)",
+    "Vollstreckung von Ansprüchen auf Handeln, Dulden oder Unterlassen"
+   ],
+   [
+    "Grundbuchamt (§ 866 ZPO i. V. m. § 1 GBO)",
+    "Eintragung von Sicherungshypotheken im Wege der Zwangsvollstreckung"
+   ]
+  ],
+  "erklaerung": "Der Gerichtsvollzieher ist das Auffangorgan für alle nicht den Gerichten zugewiesenen Vollstreckungen (§ 753 ZPO). Ist ein Gericht zuständig, handelt das Amtsgericht als Vollstreckungsgericht (§ 764 ZPO); für Handlungs-, Duldungs- und Unterlassungsansprüche dagegen das Prozessgericht des ersten Rechtszuges (§ 887 ZPO). Die Zwangshypothek trägt das Grundbuchamt ein (§ 866 ZPO). Welches Organ zuständig ist, hängt deshalb zuerst von der Verfahrensart ab."
+ },
+ {
+  "id": "zwan1-017",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Zwangsvollstreckung: Grundbegriffe, Verfahrensarten und Vollstreckungsorgane",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-grundbegriffe-verfahrensarten-und-vollstreckungsorgane",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [],
+  "frage": "Wie wird ein Anspruch auf Abgabe einer Willenserklärung, etwa einer Auflassungserklärung, vollstreckt?",
+  "optionen": [
+   "Durch Festsetzung von Ordnungsgeld und Ordnungshaft gegen den Schuldner",
+   "Durch Ermächtigung des Gläubigers zur Ersatzvornahme",
+   "Die Erklärung wird fingiert",
+   "Durch Wegnahme der Urkunde durch den Gerichtsvollzieher"
+  ],
+  "antwort": 2,
+  "erklaerung": "Bei der Vollstreckung auf Abgabe einer Willenserklärung wird die Erklärung fingiert, etwa eine Bewilligung oder Auflassungserklärung. Ordnungsgeld und Ordnungshaft sind die Zwangsmittel der Duldungs- und Unterlassungsvollstreckung, die Ersatzvornahme gehört zur Vollstreckung auf Vornahme einer Handlung."
+ },
+ {
+  "id": "zwan1-018",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Zwangsvollstreckung: Grundbegriffe, Verfahrensarten und Vollstreckungsorgane",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-grundbegriffe-verfahrensarten-und-vollstreckungsorgane",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 764 ZPO"
+  ],
+  "frage": "Welches Amtsgericht ist als Vollstreckungsgericht örtlich zuständig?",
+  "optionen": [
+   "Das Amtsgericht am Wohnsitz des Gläubigers",
+   "Das Amtsgericht, in dessen Bezirk die Vollstreckungshandlung stattfinden soll",
+   "Das Amtsgericht, in dessen Bezirk der Titel errichtet wurde",
+   "Das Amtsgericht am Amtssitz des Notars, der die vollstreckbare Ausfertigung erteilt hat"
+  ],
+  "antwort": 1,
+  "erklaerung": "Ist für eine Vollstreckungsmaßnahme ein Gericht zuständig, handelt das Amtsgericht als Vollstreckungsgericht (§ 764 ZPO), und zwar das Amtsgericht, in dessen Bezirk die Vollstreckungshandlung stattfinden soll. Der Ort der Titelerrichtung oder der Klauselerteilung ist für die Zuständigkeit des Vollstreckungsgerichts ohne Bedeutung."
+ },
+ {
+  "id": "zwan1-019",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Zwangsvollstreckung: Rechtsbehelfe",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-rechtsbehelfe",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 767 Abs. 2 ZPO",
+   "§ 797 Abs. 4 ZPO"
+  ],
+  "frage": "Der Gläubiger vollstreckt aus einer notariellen Urkunde. Der Schuldner wendet mit der Vollstreckungsabwehrklage ein, die Forderung sei ihm schon vor der Beurkundung gestundet worden. Ist der Einwand zulässig?",
+  "optionen": [
+   "Nein, Einwendungen, die vor der Beurkundung entstanden sind, sind nach § 767 Abs. 2 ZPO ausgeschlossen",
+   "Nein, Einwendungen aus der Zeit vor der Beurkundung sind nur mit der Klauselerinnerung geltend zu machen",
+   "Ja, aber nur, wenn der Schuldner die Stundung durch öffentliche Urkunde nachweist",
+   "Ja, denn die Präklusion nach § 767 Abs. 2 ZPO gilt für notarielle Urkunden nicht"
+  ],
+  "antwort": 3,
+  "erklaerung": "Nach § 797 Abs. 4 ZPO gilt der Ausschluss nach § 767 Abs. 2 ZPO für notarielle Urkunden nicht, weil sie nicht in Rechtskraft erwachsen. Der Schuldner kann daher alle Einwendungen und Einreden aus Kausalverhältnis und Bestellungsakt vorbringen, auch wenn sie schon vor der Beurkundung bestanden, etwa Stundung, Verjährung, Aufrechnung, Erlass oder Verzicht. Die Präklusion betrifft nur Urteile."
+ },
+ {
+  "id": "zwan1-020",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Zwangsvollstreckung: Rechtsbehelfe",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-rechtsbehelfe",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 767 ZPO",
+   "§ 771 ZPO",
+   "§ 766 ZPO",
+   "§ 732 ZPO"
+  ],
+  "frage": "Ordne den Einwand dem statthaften Rechtsbehelf zu.",
+  "paare": [
+   [
+    "Die titulierte Forderung ist bezahlt",
+    "Vollstreckungsabwehrklage (§ 767 ZPO)"
+   ],
+   [
+    "Der gepfändete Gegenstand gehört einem Dritten",
+    "Drittwiderspruchsklage (§ 771 ZPO)"
+   ],
+   [
+    "Der Gerichtsvollzieher hat eine unpfändbare Sache gepfändet",
+    "Erinnerung (§ 766 ZPO)"
+   ],
+   [
+    "Ein unzuständiger Notar hat die Vollstreckungsklausel erteilt",
+    "Klauselerinnerung (§§ 732, 795 ZPO)"
+   ],
+   [
+    "Am gepfändeten Gegenstand besteht ein Vermieterpfandrecht",
+    "Klage auf vorzugsweise Befriedigung (§ 805 ZPO)"
+   ]
+  ],
+  "erklaerung": "Materielle Einwendungen gegen den Anspruch selbst gehören in die Vollstreckungsabwehrklage (§ 767 ZPO). Fehler des Vollstreckungsorgans bei Art und Weise der Vollstreckung rügt die Erinnerung (§ 766 ZPO), Mängel der Klausel selbst die Klauselerinnerung (§§ 732, 795 ZPO). Der Eigentümer einer fremden gepfändeten Sache erhebt Drittwiderspruchsklage (§ 771 ZPO), der Inhaber eines besitzlosen Pfandrechts wie des Vermieterpfandrechts Klage auf vorzugsweise Befriedigung (§ 805 ZPO)."
+ },
+ {
+  "id": "zwan1-021",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Zwangsvollstreckung: Rechtsbehelfe",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-rechtsbehelfe",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 309 Nr. 12 BGB",
+   "§ 812 BGB"
+  ],
+  "frage": "Der Gläubiger vollstreckt aus einem notariell beurkundeten abstrakten Schuldanerkenntnis. Wer trägt die Beweislast für die Einwendungen des Schuldners, und ist diese Verteilung mit § 309 Nr. 12 BGB vereinbar?",
+  "optionen": [
+   "Der Gläubiger; eine Beweislast des Schuldners verstieße gegen § 309 Nr. 12 BGB",
+   "Der Schuldner; die Verteilung verstößt nicht gegen § 309 Nr. 12 BGB, weil Schuldversprechen und Schuldanerkenntnis gesetzlich anerkannte Rechtsinstitute sind",
+   "Der Schuldner; § 309 Nr. 12 BGB ist auf notarielle Urkunden generell nicht anwendbar",
+   "Der Gläubiger, weil § 797 Abs. 4 ZPO die Präklusion ausschließt und ihm damit den vollen Beweis auferlegt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Beim abstrakten Schuldversprechen oder Schuldanerkenntnis trägt der Schuldner die Beweislast für seine Einwendungen. Das verstößt nicht gegen § 309 Nr. 12 BGB, weil es sich um gesetzlich anerkannte Rechtsinstitute handelt, nicht weil das AGB-Recht auf notarielle Urkunden unanwendbar wäre. Den vollen Beweis muss der Gläubiger nur beim titulierten Anspruch aus dem Kausalverhältnis führen. Entfällt der Rechtsgrund nachträglich, kann der Schuldner das Schuldversprechen nach § 812 BGB herausverlangen."
+ },
+ {
+  "id": "zwan1-022",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Zwangsvollstreckung: Rechtsbehelfe",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-rechtsbehelfe",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 769 ZPO"
+  ],
+  "frage": "Macht der Schuldner glaubhaft, dass Einwendungen gegen den titulierten Anspruch bestehen, wird die Zwangsvollstreckung in der Regel einstweilen eingestellt, gegebenenfalls gegen Sicherheitsleistung.",
+  "antwort": true,
+  "erklaerung": "§ 769 ZPO ermöglicht die einstweilige Einstellung der Zwangsvollstreckung, wenn Einwendungen gegen den titulierten Anspruch glaubhaft gemacht sind; sie kann von einer Sicherheitsleistung abhängig gemacht werden. Damit wird verhindert, dass vor der Entscheidung über die Vollstreckungsabwehrklage vollendete Tatsachen geschaffen werden."
+ },
+ {
+  "id": "zwan1-023",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Zwangsvollstreckung: Vollstreckungsarten nach Gegenstand und Anspruch",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-vollstreckungsarten-nach-gegenstand-und-anspruch",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 829 ZPO"
+  ],
+  "frage": "Wann wird die Pfändung einer Geldforderung wirksam?",
+  "optionen": [
+   "Mit Erlass des Pfändungsbeschlusses durch das Vollstreckungsgericht",
+   "Mit Zustellung des Pfändungsbeschlusses an den Schuldner",
+   "Mit Zustellung des Pfändungsbeschlusses an den Drittschuldner",
+   "Mit Überweisung der Forderung an den Gläubiger zur Einziehung"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Forderungspfändung erfolgt durch Pfändungsbeschluss des Vollstreckungsgerichts (§§ 829 ff. ZPO), der dem Drittschuldner die Zahlung an den Schuldner und dem Schuldner jede Verfügung verbietet. Wirksam wird sie mit der Zustellung an den Drittschuldner durch den Gerichtsvollzieher, die der Gläubiger veranlasst. Nur bei sonstigen Vermögensrechten ohne Drittschuldner genügt die Zustellung an den Schuldner."
+ },
+ {
+  "id": "zwan1-024",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Zwangsvollstreckung: Vollstreckungsarten nach Gegenstand und Anspruch",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-vollstreckungsarten-nach-gegenstand-und-anspruch",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Kann der Gerichtsvollzieher Grundstückszubehör im Wege der Mobiliarvollstreckung pfänden?",
+  "optionen": [
+   "Ja, solange das Zubehör eine bewegliche Sache ist",
+   "Ja, wenn auf dem Grundstück kein Grundpfandrecht eingetragen ist",
+   "Nein, nur mit Zustimmung des Grundstückseigentümers",
+   "Nein, weil Zubehör der Hypothekenhaftung unterliegt, unabhängig davon, ob eine Hypothek besteht"
+  ],
+  "antwort": 3,
+  "erklaerung": "Sachen, die der Hypothekenhaftung unterliegen, also Grundstückszubehör, Grundstücksbestandteile und Grundstückserzeugnisse, sind nicht im Wege der Mobiliarvollstreckung pfändbar. Ob tatsächlich eine Hypothek besteht, ist unerheblich; deshalb ändert auch ein unbelastetes Grundstück nichts. Diese Sachen werden von der Immobiliarvollstreckung mit erfasst."
+ },
+ {
+  "id": "zwan1-025",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Zwangsvollstreckung: Vollstreckungsarten nach Gegenstand und Anspruch",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-vollstreckungsarten-nach-gegenstand-und-anspruch",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "In welcher Form wird eine gepfändete Geldforderung dem Gläubiger überwiesen?",
+  "optionen": [
+   "Nach Wahl des Gläubigers zur Einziehung oder an Zahlungs statt zum Nennwert",
+   "Stets an Zahlungs statt zum Nennwert, also als Forderungsübergang",
+   "Stets nur zur Einziehung, ein Forderungsübergang ist ausgeschlossen",
+   "Nach Wahl des Drittschuldners zur Einziehung oder an Zahlungs statt"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die gepfändete Geldforderung wird dem Gläubiger nach seiner Wahl überwiesen: zur Einziehung als Einziehungsermächtigung oder an Zahlungs statt zum Nennwert als Forderungsübergang. Das Wahlrecht liegt beim Gläubiger, nicht beim Drittschuldner."
+ },
+ {
+  "id": "zwan1-026",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Zwangsvollstreckung: Vollstreckungsarten nach Gegenstand und Anspruch",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-vollstreckungsarten-nach-gegenstand-und-anspruch",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 794 Abs. 1 Nr. 5 ZPO"
+  ],
+  "frage": "Eine notarielle Räumungsverpflichtung mit Unterwerfung nach § 794 Abs. 1 Nr. 5 ZPO kann Grundlage der Räumungsvollstreckung auch für eine Mietwohnung sein.",
+  "antwort": false,
+  "erklaerung": "Grundlage der Räumungsvollstreckung kann ein Räumungsurteil oder eine notarielle Räumungsverpflichtung nach § 794 Abs. 1 Nr. 5 ZPO sein, Letztere aber nur, sofern es nicht um eine Mietwohnung geht. Für die Mietwohnung bleibt der Vermieter auf das Räumungsurteil verwiesen."
+ },
+ {
+  "id": "zwan1-027",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Zwangsvollstreckung: Vollstreckungsarten nach Gegenstand und Anspruch",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-vollstreckungsarten-nach-gegenstand-und-anspruch",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 894 ZPO",
+   "§ 794 Abs. 1 Nr. 5 ZPO"
+  ],
+  "frage": "Verweigerte Auflassung",
+  "sachverhalt": "V hat an K ein Grundstück verkauft. Im notariellen Kaufvertrag hat V sich wegen seiner Pflicht zur Erklärung der Auflassung der sofortigen Zwangsvollstreckung unterworfen. Nach Kaufpreiszahlung verweigert V die Auflassung. K erhebt Klage; V wird zur Erklärung der Auflassung verurteilt. K erscheint mit dem Urteil beim Notar N.",
+  "schritte": [
+   {
+    "frage": "Konnte K aus der Unterwerfungserklärung im Kaufvertrag die Auflassung vollstrecken?",
+    "optionen": [
+     "Ja, nach § 894 ZPO mit Erteilung der vollstreckbaren Ausfertigung",
+     "Ja, nach § 888 ZPO durch Zwangsgeld gegen V",
+     "Nein, § 794 Abs. 1 Nr. 5 ZPO erfasst keinen Anspruch auf Abgabe einer Willenserklärung",
+     "Nein, weil die Unterwerfung einen Nachweisverzicht hätte enthalten müssen"
+    ],
+    "antwort": 2,
+    "erklaerung": "§ 794 Abs. 1 Nr. 5 ZPO setzt einen Anspruch voraus, der nicht auf Abgabe einer Willenserklärung gerichtet ist. Eine notarielle Urkunde kann die Pflicht zur Auflassung deshalb nicht vollstreckbar machen. Die Vollstreckung nach § 888 ZPO betrifft den gerichtlichen Vergleich, nicht die notarielle Urkunde."
+   },
+   {
+    "frage": "Wann gilt die Auflassungserklärung des V als abgegeben?",
+    "optionen": [
+     "Mit Verkündung des Urteils",
+     "Mit Rechtskraft des Urteils",
+     "Mit Zustellung des Urteils an V",
+     "Mit Erteilung der vollstreckbaren Ausfertigung"
+    ],
+    "antwort": 1,
+    "erklaerung": "Ist der Schuldner zur Abgabe einer Willenserklärung verurteilt, gilt die Erklärung mit Rechtskraft des Urteils als abgegeben (§§ 894 ff. ZPO). Voraussetzung ist, dass der Titel die Erklärung so bestimmt bezeichnet, dass klar ist, welche Erklärung als abgegeben gilt."
+   },
+   {
+    "frage": "Wie verfährt N bei der Beurkundung?",
+    "optionen": [
+     "N beurkundet die Auflassungserklärungen beider Seiten; V wird vom Gerichtsvollzieher vorgeführt",
+     "N beurkundet nur die Auflassungserklärung des K und fügt eine vollstreckbare Ausfertigung des rechtskräftigen Urteils bei",
+     "N beurkundet nichts; das Grundbuchamt trägt K allein aufgrund des Urteils ein",
+     "N beurkundet die Erklärung des K und fügt eine einfache Abschrift des nicht rechtskräftigen Urteils bei"
+    ],
+    "antwort": 1,
+    "erklaerung": "Ist der Verkäufer zur Auflassung verurteilt, beurkundet der Notar nur noch die Erklärung des Käufers zur Auflassung und fügt eine vollstreckbare Ausfertigung des Urteils bei. Vorher prüft er, ob das Urteil rechtskräftig ist und die Erklärung bestimmt bezeichnet."
+   }
+  ],
+  "erklaerung": "Die Unterwerfung wegen der Auflassungspflicht ging ins Leere, weil § 794 Abs. 1 Nr. 5 ZPO Ansprüche auf Abgabe einer Willenserklärung ausnimmt. Mit Rechtskraft des Urteils gilt die Erklärung des V als abgegeben (§ 894 ZPO); N beurkundet nur die Erklärung des K und fügt eine vollstreckbare Ausfertigung des Urteils bei."
  }
 ]

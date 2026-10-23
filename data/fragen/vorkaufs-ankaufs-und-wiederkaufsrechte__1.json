@@ -1060,5 +1060,276 @@
   ],
   "antwort": 1,
   "erklaerung": "Dinglich wirkende Vorkaufsrechte wie das naturschutzrechtliche (§ 66 Abs. 3 BNatSchG) wirken ohne Grundbucheintragung wie eine Vormerkung; sie sind deshalb „Zeitbomben“, die aus dem Grundbuch nicht ersichtlich sind. Die Erklärung der zuständigen Stelle ist daher vor Fälligkeit einzuholen. Eine Vormerkung zugunsten der Stelle ist weder vorgesehen noch nötig."
+ },
+ {
+  "id": "vork1-048",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Gesetzliche Vorkaufsrechte",
+  "seite": "Öffentlich-rechtliche Vorkaufsrechte: Vertrag mit dem Vorkaufsberechtigten, Kosten und Nachbeurkundung",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/offentlich-rechtliche-vorkaufsrechte-vertrag-mit-dem-vorkaufsberechtigten-kosten-und-nachbeurkundung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 464 Abs. 2 BGB",
+   "§ 925 BGB"
+  ],
+  "frage": "Die Gemeinde hat ihr Vorkaufsrecht wirksam ausgeübt. Warum ist regelmäßig eine Nachbeurkundung mit ihr erforderlich?",
+  "optionen": [
+   "Weil der durch die Ausübung entstandene Vertrag erst durch Beurkundung wirksam wird.",
+   "Weil die Gemeinde die Vollstreckungsunterwerfung des Erstkäufers neu bestätigen muss.",
+   "Weil ihr eine Vormerkung bewilligt werden muss, ohne die sie nicht erwerben kann.",
+   "Weil durch die Ausübung keine Auflassung entsteht und diese neu zu erklären ist."
+  ],
+  "antwort": 3,
+  "erklaerung": "Die Ausübung lässt einen selbständigen Vertrag mit dem Inhalt des Erstvertrags entstehen; eine Auflassung entsteht dadurch aber nicht, sie ist neu zu erklären. Deshalb ist regelmäßig eine zusätzliche Beurkundung erforderlich. Eine Vormerkung für den Vorkaufsberechtigten kann entbehrlich sein, und Vollstreckungsunterwerfungen gelten ihm gegenüber ohnehin nicht."
+ },
+ {
+  "id": "vork1-049",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Gesetzliche Vorkaufsrechte",
+  "seite": "Öffentlich-rechtliche Vorkaufsrechte: Vertrag mit dem Vorkaufsberechtigten, Kosten und Nachbeurkundung",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/offentlich-rechtliche-vorkaufsrechte-vertrag-mit-dem-vorkaufsberechtigten-kosten-und-nachbeurkundung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 464 Abs. 2 BGB"
+  ],
+  "frage": "Die Gemeinde muss nach der Rechtsprechung des BGH eine im Kaufvertrag als konstitutive Maklerklausel vereinbarte Maklercourtage nach Ausübung ihres Vorkaufsrechts zahlen.",
+  "antwort": true,
+  "erklaerung": "Die öffentliche Hand ist an „Fremdkörper“, die nur wegen der drohenden Ausübung aufgenommen wurden, nicht gebunden. Eine Maklerklausel ist nach dem BGH aber kein solcher Fremdkörper; die Gemeinde muss die Courtage daher zahlen, wenn sie als konstitutive Maklerklausel im Kaufvertrag steht."
+ },
+ {
+  "id": "vork1-050",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Gesetzliche Vorkaufsrechte",
+  "seite": "Öffentlich-rechtliche Vorkaufsrechte: Vertrag mit dem Vorkaufsberechtigten, Kosten und Nachbeurkundung",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/offentlich-rechtliche-vorkaufsrechte-vertrag-mit-dem-vorkaufsberechtigten-kosten-und-nachbeurkundung",
+  "typ": "zuordnung",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 464 Abs. 2 BGB"
+  ],
+  "frage": "Ordne zu, ob die Regelung des Erstvertrags bzw. die Kostenposition nach Ausübung eines öffentlich-rechtlichen Vorkaufsrechts die öffentliche Hand trifft.",
+  "paare": [
+   [
+    "Beschaffenheitsvereinbarungen und Garantien des Erstvertrags",
+    "Gelten auch gegenüber dem Vorkaufsberechtigten"
+   ],
+   [
+    "Vollzugsvollmachten und Vollstreckungsunterwerfung",
+    "Gelten nicht gegenüber dem Vorkaufsberechtigten"
+   ],
+   [
+    "Kosten der Vormerkung des Erstkäufers",
+    "Trägt die öffentliche Hand"
+   ],
+   [
+    "Kosten der Finanzierungsgrundschuld des Erstkäufers",
+    "Trägt die öffentliche Hand nicht"
+   ]
+  ],
+  "erklaerung": "Der neue Vertrag entspricht inhaltlich den Abreden zwischen Verkäufer und Käufer, daher gelten Beschaffenheitsvereinbarungen, Garantien und Wissenszurechnung fort. Vollzugsvollmachten werden nicht Vertragsinhalt, Vollstreckungsunterwerfungen wirken nicht gegenüber dem Berechtigten. Die öffentliche Hand trägt die Kosten der Vormerkung des Erstkäufers (nach h. M. wohl auch die Löschungskosten), nicht aber die der Finanzierungsgrundschuld."
+ },
+ {
+  "id": "vork1-051",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Gesetzliche Vorkaufsrechte",
+  "seite": "Vorkaufsrecht der Gemeinde nach dem BauGB: Ausschluss, Abwendung und Wohl der Allgemeinheit",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/vorkaufsrecht-der-gemeinde-nach-dem-baugb-ausschluss-abwendung-und-wohl-der-allgemeinheit",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 26 Nr. 1 BauGB"
+  ],
+  "frage": "Bei welchem Verkauf ist das gemeindliche Vorkaufsrecht nach § 26 Nr. 1 BauGB ausgeschlossen?",
+  "optionen": [
+   "Verkauf an eine GbR, deren Gesellschafter ausschließlich die Kinder des Verkäufers sind.",
+   "Verkauf an den Neffen des Verkäufers.",
+   "Verkauf an den Cousin des Verkäufers.",
+   "Verkauf an den langjährigen Lebensgefährten des Verkäufers."
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 26 Nr. 1 BauGB privilegiert Ehegatten, in gerader Linie Verwandte oder Verschwägerte und Seitenverwandte bis zum dritten Grad; der Neffe ist im dritten Grad verwandt, der Cousin erst im vierten. Der Verkauf an eine Gesellschaft fällt auch dann nicht unter den Ausschluss, wenn sämtliche Gesellschafter privilegierte Angehörige sind, da Personengesellschaften materiell-rechtlich nicht transparent sind."
+ },
+ {
+  "id": "vork1-052",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Gesetzliche Vorkaufsrechte",
+  "seite": "Vorkaufsrecht der Gemeinde nach dem BauGB: Ausschluss, Abwendung und Wohl der Allgemeinheit",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/vorkaufsrecht-der-gemeinde-nach-dem-baugb-ausschluss-abwendung-und-wohl-der-allgemeinheit",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 24 Abs. 1 S. 1 Nr. 6 BauGB",
+   "§ 27 BauGB",
+   "§ 311b Abs. 1 S. 1 BGB"
+  ],
+  "frage": "Abwendung beim unbebauten Grundstück",
+  "sachverhalt": "V verkauft an K ein unbebautes Grundstück im Geltungsbereich eines Bebauungsplans, der dort Wohnbebauung festsetzt. Die Gemeinde G erwägt die Ausübung ihres Vorkaufsrechts nach § 24 Abs. 1 S. 1 Nr. 6 BauGB. K möchte selbst bauen und die Ausübung verhindern. G schlägt eine Vereinbarung mit Bauverpflichtung vor, gesichert durch ein Ankaufsrecht der Gemeinde bei Nichterfüllung.",
+  "schritte": [
+   {
+    "frage": "Unter welchen Voraussetzungen kann K die Ausübung nach § 27 BauGB abwenden?",
+    "optionen": [
+     "Nur wenn K der Gemeinde eine Bankbürgschaft über den Kaufpreis stellt.",
+     "Wenn die Verwendung hinreichend festgelegt ist, K sie in angemessener Zeit verwirklichen kann und er sich vor Ablauf der Frist nach § 28 Abs. 2 S. 1 BauGB dazu verpflichtet.",
+     "Wenn K mit V in gerader Linie verwandt ist.",
+     "Wenn K nachweist, dass in der Gemeinde kein Wohnbedarf besteht."
+    ],
+    "antwort": 1,
+    "erklaerung": "§ 27 BauGB setzt voraus, dass Baurecht oder städtebauliche Ziele die Verwendung hinreichend festlegen, der Käufer sie in angemessener Zeit verwirklichen kann und sich vor Ablauf der Ausübungsfrist (§ 28 Abs. 2 S. 1 BauGB) gegenüber der Gemeinde verpflichtet. Die Erfüllung muss wahrscheinlich sein; die wirtschaftliche Leistungsfähigkeit kann eine Rolle spielen. Sicherheiten darf die Gemeinde nicht fordern."
+   },
+   {
+    "frage": "Welche Form gilt für die von G vorgeschlagene Vereinbarung mit Ankaufsrecht?",
+    "optionen": [
+     "Keine; die Abwendungserklärung ist stets formfrei.",
+     "Schriftform nach § 126 BGB genügt.",
+     "Notarielle Beurkundung nach § 311b Abs. 1 S. 1 BGB wegen des Ankaufsrechts.",
+     "Öffentliche Beglaubigung der Unterschrift des K."
+    ],
+    "antwort": 2,
+    "erklaerung": "Die bloße einseitige Abwendungsverpflichtung ist an sich formfrei. Wird die Bauverpflichtung aber durch ein Ankaufsrecht der Gemeinde gesichert, entsteht eine bedingte Übereignungspflicht, sodass nach § 311b Abs. 1 S. 1 BGB zu beurkunden ist; der Notar sollte die Vereinbarung mitbeurkunden."
+   },
+   {
+    "frage": "K lehnt das Ankaufsrecht ab und gibt nur eine einseitige Verpflichtungserklärung nach § 27 BauGB ab. Was gilt?",
+    "optionen": [
+     "Die Abwendung ist unwirksam, weil G zusätzliche Sicherheiten verlangen darf.",
+     "Die Abwendung ist wirksam; G darf keine zusätzlichen Sicherheiten fordern, K ist aber durchsetzbar zur Erfüllung verpflichtet.",
+     "Die Abwendung ist wirksam, begründet aber keine durchsetzbare Pflicht des K.",
+     "Die Abwendung wirkt erst, wenn G ihr zustimmt."
+    ],
+    "antwort": 1,
+    "erklaerung": "Für die Abwendung nach § 27 BauGB reicht die einseitige Erklärung des Erwerbers; zusätzliche Sicherheiten darf die Gemeinde nicht fordern. Der Erwerber ist dann allerdings durchsetzbar zur Erfüllung der übernommenen Verpflichtung verpflichtet."
+   }
+  ],
+  "erklaerung": "K kann die Ausübung abwenden, weil der Bebauungsplan die Verwendung festlegt, sofern er sich fristgerecht zur Bebauung verpflichtet und dies wahrscheinlich erfüllen kann. Eine Vereinbarung mit Ankaufsrecht ist beurkundungspflichtig, darf aber nicht erzwungen werden; die einseitige Erklärung genügt und bindet K durchsetzbar."
+ },
+ {
+  "id": "vork1-053",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Gesetzliche Vorkaufsrechte",
+  "seite": "Vorkaufsrecht der Gemeinde nach dem BauGB: Ausschluss, Abwendung und Wohl der Allgemeinheit",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/vorkaufsrecht-der-gemeinde-nach-dem-baugb-ausschluss-abwendung-und-wohl-der-allgemeinheit",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 24 Abs. 3 BauGB"
+  ],
+  "frage": "Die Gemeinde darf ihr Vorkaufsrecht zum Wohl der Allgemeinheit auch ausüben, um im Rahmen einer allgemeinen Bodenvorratspolitik Flächen für künftige, noch unbestimmte Zwecke zu erwerben.",
+  "antwort": false,
+  "erklaerung": "Nach § 24 Abs. 3 BauGB muss das Wohl der Allgemeinheit die Ausübung rechtfertigen; erforderlich ist ein gebilligter bodenpolitischer, eigentumspolitischer oder städtebaulicher Zweck. Eine allgemeine Bodenvorratspolitik genügt nicht. Der Wohnbedarf kann die Ausübung tragen, wenn nachweislich Wohnraum nachgefragt wird, den der freie Markt nicht bereitstellt."
+ },
+ {
+  "id": "vork1-054",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Gesetzliche Vorkaufsrechte",
+  "seite": "Vorkaufsrecht der Gemeinde nach dem BauGB: Ausschluss, Abwendung und Wohl der Allgemeinheit",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/vorkaufsrecht-der-gemeinde-nach-dem-baugb-ausschluss-abwendung-und-wohl-der-allgemeinheit",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 26 Nr. 2 BauGB"
+  ],
+  "frage": "Eine öffentlich-rechtliche Kirche kauft ein Grundstück, um dort eine Kindertagesstätte mit karitativer Ausrichtung zu betreiben. Ist das gemeindliche Vorkaufsrecht ausgeschlossen?",
+  "optionen": [
+   "Nein, § 26 Nr. 2 BauGB erfasst nur Grundstücke für den Gottesdienst.",
+   "Nein, Kirchen sind keine öffentlichen Bedarfsträger.",
+   "Ja, aber nur, wenn das Grundstück bereits mit einer Kirche bebaut ist.",
+   "Ja, weil der Begriff der Seelsorge weit zu verstehen ist und alle karitativen Zwecke umfasst."
+  ],
+  "antwort": 3,
+  "erklaerung": "Nach § 26 Nr. 2 BauGB ist das Vorkaufsrecht ausgeschlossen, wenn eine öffentlich-rechtliche Kirche oder Religionsgesellschaft für Gottesdienst oder Seelsorge kauft. Der Begriff der Seelsorge ist weit zu verstehen und umfasst alle karitativen Zwecke. Andere als die in Nr. 2 genannten Zwecke genügen dagegen nicht."
+ },
+ {
+  "id": "vork1-055",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Gesetzliche Vorkaufsrechte",
+  "seite": "Vorkaufsrecht der Gemeinde nach dem BauGB: Gestaltung im Grundstückskaufvertrag",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/vorkaufsrecht-der-gemeinde-nach-dem-baugb-gestaltung-im-grundstuckskaufvertrag",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 24 BauGB",
+   "§ 28 BauGB"
+  ],
+  "frage": "Bei welchem Kaufgegenstand besteht das gemeindliche Vorkaufsrecht nach dem BauGB nicht?",
+  "optionen": [
+   "Unbebautes Grundstück im Bebauungsplangebiet.",
+   "Miteigentumsanteil an einem Grundstück.",
+   "Wohnungseigentum.",
+   "Bebautes Grundstück im Sanierungsgebiet."
+  ],
+  "antwort": 2,
+  "erklaerung": "Erfasst sind Kaufverträge über Grundstücke und Miteigentumsanteile an Grundstücken. Beim Verkauf von Erbbaurechten und von Wohnungseigentum besteht das gemeindliche Vorkaufsrecht nicht. Der Miteigentumsanteil ist daher der naheliegende Fehlschluss: Er ist anders als Wohnungseigentum erfasst."
+ },
+ {
+  "id": "vork1-056",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Gesetzliche Vorkaufsrechte",
+  "seite": "Vorkaufsrecht der Gemeinde nach dem BauGB: Gestaltung im Grundstückskaufvertrag",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/vorkaufsrecht-der-gemeinde-nach-dem-baugb-gestaltung-im-grundstuckskaufvertrag",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 28 Abs. 1 S. 2 BauGB",
+   "§ 28 Abs. 1 S. 3 BauGB"
+  ],
+  "frage": "Welche Wirkung hat das gemeindliche Vorkaufsrecht für den Grundbuchvollzug des Kaufvertrags?",
+  "optionen": [
+   "Das Grundbuchamt darf den Käufer erst nach Nachweis eintragen, dass das Vorkaufsrecht nicht besteht oder nicht ausgeübt wird.",
+   "Das Grundbuchamt trägt den Käufer ein und vermerkt das Vorkaufsrecht in Abteilung II.",
+   "Das Grundbuchamt darf eine Eigentumsvormerkung für den Käufer erst nach Vorlage des Negativattests eintragen.",
+   "Das Vorkaufsrecht hat keine grundbuchrechtliche Wirkung, weil es nicht eingetragen ist."
+  ],
+  "antwort": 0,
+  "erklaerung": "Nach § 28 Abs. 1 S. 2 BauGB darf das Grundbuchamt den Käufer ohne Nachweis, dass das Vorkaufsrecht nicht besteht oder nicht ausgeübt wird, nicht als Eigentümer eintragen (Grundbuchsperre). Das Recht selbst wird nicht eingetragen. Den Nachweis erbringt das Zeugnis der Gemeinde nach § 28 Abs. 1 S. 3 BauGB."
+ },
+ {
+  "id": "vork1-057",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Gesetzliche Vorkaufsrechte",
+  "seite": "Vorkaufsrecht der Gemeinde nach dem BauGB: Gestaltung im Grundstückskaufvertrag",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/vorkaufsrecht-der-gemeinde-nach-dem-baugb-gestaltung-im-grundstuckskaufvertrag",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 28 Abs. 1 S. 3 BauGB"
+  ],
+  "frage": "Für die Anfrage bei der Gemeinde ist das einstufige Verfahren mit sofortiger Übersendung einer vollständigen Vertragsabschrift aus Datenschutzgründen vorzuziehen.",
+  "antwort": false,
+  "erklaerung": "Aus Datenschutzgründen ist das zweistufige Verfahren vorzuziehen: Die Gemeinde erhält zunächst nur Angaben zu Grundstück, Verkäufer und Käufer; eine Abschrift folgt nur auf ihren Wunsch. Diese Angaben reichen der Gemeinde meist schon für ihre Entscheidung."
+ },
+ {
+  "id": "vork1-058",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Gesetzliche Vorkaufsrechte",
+  "seite": "Vorkaufsrecht der Gemeinde nach dem BauGB: Gestaltung im Grundstückskaufvertrag",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/vorkaufsrecht-der-gemeinde-nach-dem-baugb-gestaltung-im-grundstuckskaufvertrag",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 20 BeurkG",
+   "§ 18 BeurkG",
+   "§ 28 Abs. 1 S. 3 BauGB"
+  ],
+  "frage": "Ordne die Gestaltungs- und Prüfungspunkte beim gemeindlichen Vorkaufsrecht der zutreffenden Aussage zu.",
+  "paare": [
+   [
+    "§ 20 BeurkG",
+    "Hinweis auf ein in Betracht kommendes gesetzliches Vorkaufsrecht und Vermerk in der Niederschrift"
+   ],
+   [
+    "§ 18 BeurkG",
+    "Hinweis auf erforderliche behördliche Genehmigungen und Zweifel daran"
+   ],
+   [
+    "Fälligkeitsvoraussetzung",
+    "Auflagenfreies Vorliegen des Negativattests der Gemeinde"
+   ],
+   [
+    "Grundbuchtaugliches Zeugnis",
+    "Unterschrift des Bürgermeisters oder eines vertretungsbefugten Gemeindebeamten und Dienstsiegel"
+   ]
+  ],
+  "erklaerung": "§ 20 BeurkG verlangt den Hinweis auf gesetzliche Vorkaufsrechte, § 18 BeurkG den auf Genehmigungen, jeweils mit Vermerk in der Niederschrift. Das auflagenfreie Negativattest gehört unbedingt zu den Fälligkeitsvoraussetzungen. Das eingehende Zeugnis ist auf Grundbuchtauglichkeit (Unterschrift, Dienstsiegel) zu prüfen."
  }
 ]

@@ -1487,5 +1487,108 @@
    ]
   ],
   "erklaerung": "Gegen die LG-Entscheidung ist die Beschwerde ohne Rücksicht auf den Beschwerdewert statthaft (§ 129 Abs. 1 GNotKG), die Rechtsbeschwerde gegen OLG-Entscheidungen nur bei Zulassung (§ 70 FamFG). Für das landgerichtliche Verfahren fehlt ein Gebührentatbestand. Rechtsbehelfe haben nach § 130 GNotKG keine aufschiebende Wirkung, das Gericht kann sie aber anordnen; Anwaltszwang besteht vor dem LG nicht."
+ },
+ {
+  "id": "kost4-064",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Notarkosten: Beitreibung – Titel, Klausel, Zustellung, Vollstreckung",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/notarkosten-beitreibung-titel-klausel-zustellung-vollstreckung",
+  "typ": "fall",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 89 GNotKG",
+   "§ 798 ZPO",
+   "§ 788 ZPO",
+   "§ 766 ZPO"
+  ],
+  "frage": "Beitreibung einer offenen Kostenberechnung",
+  "sachverhalt": "Notar N hat dem Käufer K eine Kostenberechnung mit einem Zahlungsziel von zwei Wochen übersandt. Darin war bereits eine Betreuungsgebühr für die Fälligkeitsmitteilung enthalten, die wegen Rücktritts vom Vertrag nicht mehr anfallen wird. K zahlt trotz Ablauf des Zahlungsziels nicht. N will die Forderung beitreiben.",
+  "schritte": [
+   {
+    "frage": "Was benötigt N, um gegen K vollstrecken zu können?",
+    "optionen": [
+     "Ein Urteil nach Leistungsklage vor dem Amtsgericht",
+     "Einen Vollstreckungsbescheid im Mahnverfahren",
+     "Eine von ihm selbst mit Vollstreckungsklausel versehene, zugestellte Ausfertigung der Kostenberechnung",
+     "Eine Festsetzung der Kosten durch das Landgericht"
+    ],
+    "antwort": 2,
+    "erklaerung": "Nach § 89 S. 1 GNotKG schafft sich der Notar den Titel selbst: Er versieht eine Ausfertigung der Kostenberechnung mit seiner Vollstreckungsklausel, unterschreibt und siegelt sie. Klage oder Mahnverfahren sind nicht nötig; erforderlich sind Titel, Klausel und Zustellung (vgl. § 750 ZPO)."
+   },
+   {
+    "frage": "Wie ist mit der nicht mehr anfallenden Betreuungsgebühr umzugehen?",
+    "optionen": [
+     "Sie wird in der Ausfertigung abgesetzt; der Ausfertigungsvermerk muss die Abweichung nennen.",
+     "Sie bleibt in der Ausfertigung stehen, da die Urschrift maßgeblich ist.",
+     "Sie darf nur nach vorheriger Zustimmung des K abgesetzt werden.",
+     "Die Beitreibung ist insgesamt ausgeschlossen, bis eine neue Urkunde errichtet ist."
+    ],
+    "antwort": 0,
+    "erklaerung": "Weicht die Ausfertigung von der ursprünglichen Kostenberechnung ab, etwa weil ein nicht verdienter Vorschuss für eine Betreuungstätigkeit abgesetzt wird, muss der Ausfertigungsvermerk die Abweichung nennen; üblicherweise wird er mit der Klausel zusammengefasst. Vor einer Vollstreckung ist zu prüfen, ob die vorab berechnete Tätigkeit tatsächlich erbracht wurde."
+   },
+   {
+    "frage": "Wann darf N nach Zustellung der vollstreckbaren Ausfertigung frühestens mit der Vollstreckung beginnen?",
+    "optionen": [
+     "Sofort nach Zustellung",
+     "Nach Ablauf eines Monats",
+     "Erst nach erfolgloser schriftlicher Mahnung",
+     "Nach Ablauf von zwei Wochen"
+    ],
+    "antwort": 3,
+    "erklaerung": "§ 89 S. 1 Hs. 2 GNotKG verweist auf § 798 ZPO: Zwischen Zustellung der vollstreckbaren Ausfertigung und Vollstreckungsbeginn müssen zwei Wochen liegen; die Frist ist von Amts wegen zu beachten. Eine vorherige Mahnung ist nach fruchtlosem Ablauf des Zahlungsziels nicht erforderlich. Die Monatsfrist betrifft den Zinsbeginn nach § 88 GNotKG."
+   },
+   {
+    "frage": "N beauftragt einen Rechtsanwalt mit der Beitreibung. Muss K dessen Kosten tragen?",
+    "optionen": [
+     "Ja, als notwendige Kosten der Zwangsvollstreckung nach § 788 ZPO",
+     "Regelmäßig nein, weil ein Rechtsanwalt für den rechtskundigen Notar nicht erforderlich ist",
+     "Ja, aber nur zur Hälfte",
+     "Nur wenn die Kostenberechnung dies ausdrücklich vorsieht"
+    ],
+    "antwort": 1,
+    "erklaerung": "Der Schuldner trägt nur notwendige Vollstreckungskosten (§ 788 ZPO). Ein Rechtsanwalt ist für den rechtskundigen Notar regelmäßig nicht erforderlich, sodass K dessen Kosten regelmäßig nicht tragen muss; die Seite nennt dies als typischen Fehler. Für Klausel, Zustellungs- und Vollstreckungsauftrag erhält der Notar selbst keine Gebühr, nur notwendige Auslagen."
+   }
+  ],
+  "erklaerung": "N kann ohne Klage aus einer selbst mit Klausel versehenen Ausfertigung der Kostenberechnung vollstrecken (§ 89 GNotKG), muss die abgesetzte Betreuungsgebühr im Ausfertigungsvermerk offenlegen und nach Zustellung zwei Wochen warten (§ 798 ZPO). Anwaltskosten sind regelmäßig keine notwendigen Vollstreckungskosten."
+ },
+ {
+  "id": "kost4-065",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Notarkosten: Beitreibung – Titel, Klausel, Zustellung, Vollstreckung",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/notarkosten-beitreibung-titel-klausel-zustellung-vollstreckung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 89 GNotKG",
+   "§ 127 GNotKG",
+   "§ 766 ZPO"
+  ],
+  "frage": "Einwendungen des Schuldners gegen die Erteilung der Vollstreckungsklausel durch den Notar sind mit der Erinnerung nach § 766 ZPO beim Vollstreckungsgericht geltend zu machen.",
+  "antwort": false,
+  "erklaerung": "Die Erinnerung nach § 766 ZPO betrifft nur Einwendungen gegen Art und Weise der Vollstreckung. Einwendungen gegen die Erteilung der Klausel sind im Verfahren nach §§ 127 ff. GNotKG beim Landgericht geltend zu machen."
+ },
+ {
+  "id": "kost4-066",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Notarkosten: Beitreibung – Titel, Klausel, Zustellung, Vollstreckung",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/notarkosten-beitreibung-titel-klausel-zustellung-vollstreckung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 89 GNotKG",
+   "§ 32 Abs. 1 GNotKG"
+  ],
+  "frage": "Käufer K1 und K2 schulden die Notarkosten als Gesamtschuldner. Welche Aussage zur Klauselerteilung ist zutreffend?",
+  "optionen": [
+   "Die Klausel darf nur gegen den Schuldner erteilt werden, der die Rechnung erhalten hat.",
+   "Der Notar muss gegen jeden Gesamtschuldner nur dessen Kopfteil titulieren.",
+   "Der Notar kann die Klausel gegen beide erteilen oder später erstrecken, darf den Anspruch aber insgesamt nur einmal vollstrecken.",
+   "Gegen mehrere Gesamtschuldner ist eine Klausel nur mit Zustimmung des Landgerichts zulässig."
+  ],
+  "antwort": 2,
+  "erklaerung": "Der Notar kann die Klausel gegen alle Gesamtschuldner erteilen, zunächst nur gegen einen und später erstrecken oder gesonderte Klauseln erteilen. Vollstreckt werden darf der Anspruch insgesamt aber nur ein einziges Mal. Eine Beschränkung auf Kopfteile widerspräche der Gesamtschuld nach § 32 Abs. 1 GNotKG."
  }
 ]
