@@ -1369,5 +1369,249 @@
   "frage": "Die Amtsverweigerung ist nur im Vorverfahren möglich; hat der Notar mit der Beurkundung begonnen, kann er die Urkundstätigkeit nicht mehr verweigern.",
   "antwort": false,
   "erklaerung": "Falsch. Die Amtsverweigerung ist in jedem Stadium des Beurkundungsverfahrens möglich, also im Vorverfahren, im Hauptverfahren und im Nachverfahren. Ein ausreichender Grund im Sinne des § 15 Abs. 1 S. 1 BNotO liegt jedenfalls bei einer Verweigerungspflicht (etwa nach § 14 Abs. 2 BNotO, BeurkG, GwG) vor, im Einzelfall auch ohne sie, etwa bei Befangenheit, Gefahr für Leib oder Leben oder Nichtzahlung eines zu Recht angeforderten Kostenvorschusses."
+ },
+ {
+  "id": "beur2-062",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Vollzugspflicht des Notars (§ 53 BeurkG): Voraussetzungen, Teilvollzug und Weisungen",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vollzugspflicht-des-notars-53-beurkg-voraussetzungen-teilvollzug-und-weisungen",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 53 BeurkG"
+  ],
+  "frage": "Welche der folgenden Urkunden löst die Vollzugspflicht nach § 53 BeurkG grundsätzlich nicht aus?",
+  "optionen": [
+   "Beurkundete Auflassung mit Eintragungsbewilligung",
+   "Beurkundete Grundschuldbestellung mit Eintragungsantrag",
+   "Unterschriftsbeglaubigung unter einer Handelsregisteranmeldung",
+   "Beurkundete Abtretung von GmbH-Geschäftsanteilen mit Gesellschafterliste"
+  ],
+  "antwort": 2,
+  "erklaerung": "§ 53 BeurkG setzt voraus, dass der Notar Willenserklärungen beurkundet hat (§§ 6 ff. BeurkG), die beim Grundbuchamt oder Registergericht einzureichen sind, und dass die Urkunde vollzugsreif ist. Unterschriftsbeglaubigungen und Tatsachenbeurkundungen lösen grundsätzlich keine Vollzugspflicht aus, auch wenn die beglaubigte Erklärung beim Register einzureichen ist."
+ },
+ {
+  "id": "beur2-063",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Vollzugspflicht des Notars (§ 53 BeurkG): Voraussetzungen, Teilvollzug und Weisungen",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vollzugspflicht-des-notars-53-beurkg-voraussetzungen-teilvollzug-und-weisungen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 53 BeurkG"
+  ],
+  "frage": "Der Käufer erklärt dem Notar nach der Beurkundung, er wolle den Vertrag nicht mehr, und verlangt, die Auflassungsvormerkung nicht einzutragen. Der Verkäufer besteht auf Vollzug. Wie hat der Notar zu verfahren?",
+  "optionen": [
+   "Den Vollzug einstellen, bis sich die Beteiligten geeinigt haben",
+   "Den Vollzug betreiben, weil der einseitige, streitige Widerspruch grundsätzlich unbeachtlich ist, sofern keine der engen Ausnahmen vorliegt",
+   "Den Vollzug von Amts wegen aussetzen und das Prozessgericht entscheiden lassen",
+   "Nur den Teil der Urkunde vollziehen, dem beide Seiten noch zustimmen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Eine einseitige, zwischen den Beteiligten streitige Weisung ist grundsätzlich unbeachtlich; der Notar vollzieht unverzüglich, sofern nicht alle Beteiligten gemeinsam etwas anderes verlangen. Beachtlich ist der Widerspruch nur ausnahmsweise, etwa bei substantiiert geltend gemachter Nichtigkeit, offensichtlicher Unwirksamkeit oder drohender Grundbuchunrichtigkeit. Typischer Fehler ist die Einstellung des Vollzugs allein wegen des Widerspruchs; der beabsichtigte Vollzug ist dann regelmäßig durch Vorbescheid anzukündigen."
+ },
+ {
+  "id": "beur2-064",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Vollzugspflicht des Notars (§ 53 BeurkG): Voraussetzungen, Teilvollzug und Weisungen",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vollzugspflicht-des-notars-53-beurkg-voraussetzungen-teilvollzug-und-weisungen",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 53 BeurkG",
+   "§ 139 BGB"
+  ],
+  "frage": "Enthält eine Urkunde mehrere Willenserklärungen, die nach § 139 BGB kein einheitliches Rechtsgeschäft bilden, ist der Notar zum Teilvollzug verpflichtet.",
+  "antwort": true,
+  "erklaerung": "Richtig. § 53 BeurkG verlangt grundsätzlich keinen Teilvollzug; ausnahmsweise besteht die Pflicht aber, wenn die Urkundsbeteiligten ihn verlangen oder wenn die Urkunde mehrere Willenserklärungen enthält, die kein einheitliches Rechtsgeschäft bilden. Maßstab für die Einheitlichkeit ist § 139 BGB."
+ },
+ {
+  "id": "beur2-065",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Vollzugspflicht des Notars (§ 53 BeurkG): Voraussetzungen, Teilvollzug und Weisungen",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vollzugspflicht-des-notars-53-beurkg-voraussetzungen-teilvollzug-und-weisungen",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 53 BeurkG"
+  ],
+  "frage": "Nach welchem Maßstab darf der Notar den Vollzug eines Vertretergeschäfts verweigern (BGH, V ZB 119/18)?",
+  "optionen": [
+   "Bei jedem begründeten Zweifel an der Reichweite der Vollmacht",
+   "Nur, wenn er ohne vernünftigen Zweifel erkennt, dass eine wirksame Vollmacht offensichtlich fehlt oder ein evidenter Vollmachtsmissbrauch vorliegt",
+   "Nur, wenn der Vertretene dem Vollzug schriftlich widerspricht",
+   "Nie, weil die Prüfung der Vollmacht allein dem Grundbuchamt obliegt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Es gilt der Evidenzmaßstab: Der Notar darf ein Vertretergeschäft nicht vollziehen, wenn er ohne vernünftigen Zweifel erkennt, dass eine wirksame Vollmacht offensichtlich fehlt, oder bei evidentem Missbrauch einer im Außenverhältnis unbeschränkten Vollmacht unter Verstoß gegen Beschränkungen im Innenverhältnis (BGH, V ZB 119/18). Bloße Zweifel oder ein einseitiger Widerspruch genügen nicht."
+ },
+ {
+  "id": "beur2-066",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Vollzugspflicht des Notars (§ 53 BeurkG): Voraussetzungen, Teilvollzug und Weisungen",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vollzugspflicht-des-notars-53-beurkg-voraussetzungen-teilvollzug-und-weisungen",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 53 BeurkG"
+  ],
+  "frage": "Stellen alle Beteiligten den Vollzug gemeinsam bis zum Nachweis der Kaufpreiszahlung zurück, soll der Notar auf die mit der Verzögerung verbundenen Gefahren hinweisen.",
+  "antwort": true,
+  "erklaerung": "Richtig. Nach § 53 BeurkG berücksichtigt der Notar gemeinsame Weisungen aller Beteiligten, soll aber auf die mit einer Verzögerung verbundenen Gefahren hinweisen; der Hinweis sollte dokumentiert werden. Die Zurückstellung des Vollzugs bis zum Zahlungsnachweis ist ein sehr häufiger Anwendungsfall einer solchen gemeinsamen Weisung."
+ },
+ {
+  "id": "beur2-067",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Vorbescheid: Funktion, Inhalt, Bekanntgabe und Fristen",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vorbescheid-funktion-inhalt-bekanntgabe-und-fristen",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 15 Abs. 2 BNotO",
+   "§ 53 BeurkG"
+  ],
+  "frage": "Wie lange ist die Vollzugspflicht des Notars mit der Bekanntgabe eines Vorbescheids zunächst ausgesetzt?",
+  "optionen": [
+   "Eine Woche",
+   "14 Tage",
+   "Einen Monat",
+   "Bis zur rechtskräftigen Entscheidung über eine Notarbeschwerde"
+  ],
+  "antwort": 1,
+  "erklaerung": "Mit der Bekanntgabe des Vorbescheids ist die Vollzugspflicht für 14 Tage ausgesetzt; ob diese Frist zwingend ist, ist offen. Über die 14 Tage hinaus bleibt sie nur ausgesetzt, wenn der widersprechende Beteiligte nachweist, dass er eine einstweilige Verfügung oder im Rahmen der Notarbeschwerde eine einstweilige Anordnung beantragt hat. Typischer Fehler ist der Vollzug vor Ablauf der 14 Tage."
+ },
+ {
+  "id": "beur2-068",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Vorbescheid: Funktion, Inhalt, Bekanntgabe und Fristen",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vorbescheid-funktion-inhalt-bekanntgabe-und-fristen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§§ 166–195 ZPO",
+   "§ 15 Abs. 2 BNotO"
+  ],
+  "frage": "Welche Bestandteile gehören in einen Vorbescheid, mit dem der Notar den Vollzug trotz Widerspruchs ankündigt?",
+  "optionen": [
+   "Sachverhalt, genau bezeichnete Amtshandlung, Begründung, Rechtsbehelfsbelehrung und Hinweis auf den Vollzug nach Ablauf von 14 Tagen",
+   "Nur die Mitteilung, dass vollzogen wird; eine Begründung würde den Notar unzulässig festlegen",
+   "Sachverhalt und Begründung; eine Rechtsbehelfsbelehrung ist entbehrlich, weil die Notarbeschwerde gesetzlich geregelt ist",
+   "Die Aufforderung an den Widersprechenden, binnen 14 Tagen Klage zur Hauptsache zu erheben"
+  ],
+  "antwort": 0,
+  "erklaerung": "Der Vorbescheid stellt den Sachverhalt dar, bezeichnet als Kern die angekündigte oder verweigerte Amtshandlung genau, enthält eine Begründung und eine Rechtsbehelfsbelehrung; bei einer Ankündigung weist er darauf hin, dass nach Ablauf von 14 Tagen vollzogen wird, und kann auf den Eilrechtsschutz hinweisen. Für die Bekanntgabe empfiehlt sich die Zustellung nach §§ 166–195 ZPO, damit der Fristbeginn nachweisbar ist."
+ },
+ {
+  "id": "beur2-069",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Vorbescheid: Funktion, Inhalt, Bekanntgabe und Fristen",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vorbescheid-funktion-inhalt-bekanntgabe-und-fristen",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 64 Abs. 3 FamFG",
+   "§ 15 Abs. 2 BNotO"
+  ],
+  "frage": "Weist der widersprechende Beteiligte nach, dass er eine einstweilige Verfügung beantragt hat, bleibt die Vollzugspflicht über die 14 Tage hinaus bis zur ersten gerichtlichen Entscheidung ausgesetzt.",
+  "antwort": true,
+  "erklaerung": "Richtig. Die Vollzugspflicht bleibt über die 14 Tage hinaus ausgesetzt, wenn der Widersprechende nachweist, dass er eine einstweilige Verfügung beantragt oder Notarbeschwerde mit Antrag auf einstweilige Anordnung (§ 64 Abs. 3 FamFG) eingelegt hat. Die weitere Aussetzung endet mit der ersten gerichtlichen Entscheidung oder einem anderweitigen Ende des Verfahrens; die bloße Notarbeschwerde ohne Eilantrag genügt nicht."
+ },
+ {
+  "id": "beur2-070",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Vorbescheid: Pflicht bei Widerspruch gegen den Urkundenvollzug (BGH, V ZB 37/24)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vorbescheid-pflicht-bei-widerspruch-gegen-den-urkundenvollzug-bgh-v-zb-3724",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 53 BeurkG",
+   "§ 15 Abs. 2 BNotO"
+  ],
+  "frage": "Ein Beteiligter legt gegen den Vorbescheid Notarbeschwerde ein, beantragt aber keine einstweilige Anordnung. Welche Wirkung hat die Beschwerde auf den Vollzug nach Ablauf der Zwei-Wochen-Frist?",
+  "optionen": [
+   "Die Notarbeschwerde hat aufschiebende Wirkung; der Notar muss die Entscheidung des Landgerichts abwarten",
+   "Die Notarbeschwerde hindert den Vollzug nicht; nur eine einstweilige Anordnung nach § 64 Abs. 3 FamFG oder eine einstweilige Verfügung setzt ihn aus",
+   "Der Notar muss den Vollzug bis zur Entscheidung über die Rechtsbeschwerde aussetzen",
+   "Die Notarbeschwerde ist unzulässig, weil sie ohne Eilantrag gestellt wurde"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach BGH, V ZB 37/24 hindert eine Notarbeschwerde ohne Antrag auf einstweilige Anordnung den Vollzug nicht. Der Widersprechende ist in erster Linie auf eine einstweilige Verfügung beim Prozessgericht verwiesen, daneben kann er im Rahmen der Notarbeschwerde eine einstweilige Anordnung nach § 15 Abs. 2 S. 3 BNotO iVm § 64 Abs. 3 FamFG beantragen. Erst dadurch erhält die Beschwerde eine aufschiebende Wirkung."
+ },
+ {
+  "id": "beur2-071",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Vorbescheid: Pflicht bei Widerspruch gegen den Urkundenvollzug (BGH, V ZB 37/24)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vorbescheid-pflicht-bei-widerspruch-gegen-den-urkundenvollzug-bgh-v-zb-3724",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 15 Abs. 2 BNotO",
+   "§ 53 BeurkG"
+  ],
+  "frage": "Lehnt das Gericht den beantragten vorläufigen Rechtsschutz ab, handelt der Notar ermessensfehlerhaft, wenn er vollzieht, ohne die Entscheidung über ein dagegen eingelegtes Rechtsmittel abzuwarten.",
+  "antwort": false,
+  "erklaerung": "Falsch. Nach dem dritten Leitsatz von BGH, V ZB 37/24 darf der Notar die Urkunde vollziehen, wenn das Gericht den beantragten vorläufigen Rechtsschutz ablehnt; er handelt nicht ermessensfehlerhaft, wenn er die Entscheidung über ein eingelegtes Rechtsmittel nicht abwartet. Die Aussetzung der Vollzugspflicht endet mit der ersten gerichtlichen Entscheidung."
+ },
+ {
+  "id": "beur2-072",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Vorbescheid: Pflicht bei Widerspruch gegen den Urkundenvollzug (BGH, V ZB 37/24)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vorbescheid-pflicht-bei-widerspruch-gegen-den-urkundenvollzug-bgh-v-zb-3724",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 53 BeurkG",
+   "§ 15 Abs. 2 BNotO",
+   "§ 64 Abs. 3 FamFG"
+  ],
+  "frage": "Rückauflassung nach Rücktritt",
+  "sachverhalt": "V hat sein Grundstück an K verkauft und ist nach Zahlungsverzug vom Kaufvertrag zurückgetreten. Im Kaufvertrag hatte K dem V eine im Außenverhältnis unbeschränkte Vollmacht erteilt, die im Innenverhältnis auf den Rücktrittsfall beschränkt ist. V erklärt vor Notar N die Rückauflassung zugleich im Namen des K und beantragt die Eigentumsumschreibung. K teilt N schriftlich mit, der Rücktritt sei unwirksam, und widerspricht dem Vollzug.",
+  "schritte": [
+   {
+    "frage": "Wie hat N auf den Widerspruch des K zu reagieren?",
+    "optionen": [
+     "N vollzieht sofort, weil der einseitige Widerspruch unbeachtlich ist",
+     "N kündigt den beabsichtigten Vollzug regelmäßig durch Vorbescheid an und wartet zwei Wochen ab",
+     "N setzt den Vollzug aus, bis K und V sich über die Wirksamkeit des Rücktritts geeinigt haben",
+     "N verweigert den Vollzug, weil die Vollmacht im Innenverhältnis beschränkt ist"
+    ],
+    "antwort": 1,
+    "erklaerung": "Nach dem vierten Leitsatz von BGH, V ZB 37/24 muss der Notar den beabsichtigten Vollzug einer Urkunde im Sinne des § 53 BeurkG regelmäßig durch Vorbescheid ankündigen, wenn ein Urkundsbeteiligter widerspricht, und dann zwei Wochen abwarten, ob vorläufiger Rechtsschutz beantragt wird. Sofortiger Vollzug ohne Vorbescheid ist der typische Fehler; eine Verweigerung kommt nur bei Evidenz in Betracht."
+   },
+   {
+    "frage": "Welchen Rechtsschutz muss K in erster Linie ergreifen, um den Vollzug zu verhindern?",
+    "optionen": [
+     "Dienstaufsichtsbeschwerde bei der Aufsichtsbehörde nach § 93 Abs. 1 BNotO",
+     "Einstweilige Verfügung beim Prozessgericht, die V verpflichtet, dem Notar den vorläufigen Nichtvollzug vorzugeben",
+     "Klage zur Hauptsache auf Feststellung der Unwirksamkeit des Rücktritts",
+     "Antrag an das Grundbuchamt auf Zurückweisung des Eintragungsantrags"
+    ],
+    "antwort": 1,
+    "erklaerung": "Nach dem zweiten Leitsatz ist der widersprechende Beteiligte in erster Linie auf eine einstweilige Verfügung beim Prozessgericht verwiesen, mit der die Gegenseite verpflichtet wird, dem Notar den vorläufigen Nichtvollzug vorzugeben. Daneben kann er im Rahmen der Notarbeschwerde eine einstweilige Anordnung nach § 64 Abs. 3 FamFG beantragen. Die Hauptsacheklage allein hemmt den Vollzug nicht."
+   },
+   {
+    "frage": "K legt Notarbeschwerde ein und trägt vor, der Rücktritt sei materiell unwirksam. Wie weit prüft das Beschwerdegericht diesen Einwand?",
+    "optionen": [
+     "Vollständig, weil das Beschwerdegericht an die Stelle des Notars tritt",
+     "Nur eingeschränkt; materiell-rechtliche Einwände gegen die Wirksamkeit sind außer bei Evidenz ausschließlich vor dem Prozessgericht vorzubringen",
+     "Gar nicht, weil die Notarbeschwerde nur Verfahrensfehler des Notars erfasst",
+     "Vollständig, aber nur wenn K zugleich eine einstweilige Anordnung beantragt hat"
+    ],
+    "antwort": 1,
+    "erklaerung": "Im Verfahren der Notarbeschwerde gilt ein eingeschränkter Prüfungsmaßstab: Materiell-rechtliche Einwände gegen die Wirksamkeit der zu vollziehenden Erklärungen kann ein Beteiligter außer bei Evidenz nur vor dem Prozessgericht vorbringen. Entsprechend darf der Notar den Vollzug bei Widerspruch nur ausnahmsweise nach dem Evidenzmaßstab verweigern, etwa bei offensichtlich fehlender Vollmacht oder evidentem Vollmachtsmissbrauch."
+   }
+  ],
+  "erklaerung": "Beim Widerspruch eines Urkundsbeteiligten gegen den Vollzug muss der Notar nach BGH, V ZB 37/24 regelmäßig einen Vorbescheid erlassen und zwei Wochen abwarten. Der Widersprechende muss vorläufigen Rechtsschutz suchen, vorrangig durch einstweilige Verfügung beim Prozessgericht oder durch einstweilige Anordnung im Notarbeschwerdeverfahren; eine Notarbeschwerde ohne Eilantrag hindert den Vollzug nicht. Materiell-rechtliche Einwände gehören außer bei Evidenz vor das Prozessgericht."
  }
 ]

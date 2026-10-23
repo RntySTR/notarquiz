@@ -1126,5 +1126,509 @@
   "frage": "Bei getrennten Grundstücks- und Bauverträgen müssen Kaufvertrag und Bauvertrag zwingend in einer gemeinsamen Urkunde beurkundet werden.",
   "antwort": false,
   "erklaerung": "Falsch. Eine gemeinsame Urkunde empfiehlt sich, zwei getrennte Urkunden sind aber ebenfalls möglich. In jedem Fall sind die Pflichten scharf zu trennen (Verkäufer: Übergabe und Eigentumsverschaffung; Werkunternehmer: Bauleistung), und die Urkunde muss regeln, wie sich Leistungsstörungen in einem Vertrag, namentlich ein Rücktritt, auf den anderen auswirken. Beurkundungspflichtig nach § 311b Abs. 1 S. 1 BGB sind regelmäßig beide Verträge."
+ },
+ {
+  "id": "baut1-050",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Zahlung und Sicherheiten",
+  "seite": "Bauträgervertrag: Abschlagszahlungen, Ratenplan und Vorleistungsverbot",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/zahlung-und-sicherheiten/bautragervertrag-abschlagszahlungen-ratenplan-und-vorleistungsverbot",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 650v BGB",
+   "Art. 244 EGBGB",
+   "§ 1 HausbauVO",
+   "§ 632a BGB"
+  ],
+  "frage": "Auf welcher Rechtsgrundlage kann der Bauträger vom Erwerber Abschlagszahlungen verlangen?",
+  "optionen": [
+   "Unmittelbar aus § 632a BGB, der Abschlagszahlungen für alle Werkverträge abschließend regelt.",
+   "Nach § 650v BGB nur, soweit die Abschläge nach einer Verordnung auf Grund von Art. 244 EGBGB vereinbart sind; das ist die HausbauVO, die auf § 3 Abs. 1 und 2 MaBV verweist.",
+   "Unmittelbar aus § 3 Abs. 2 MaBV, der als öffentliches Recht zwingend für jeden Bauträgervertrag gilt.",
+   "Aus § 641 Abs. 1 BGB, der die Vergütung nach Baufortschritt fällig stellt."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 650v BGB kann der Unternehmer Abschläge nur verlangen, soweit sie nach einer Verordnung auf Grund von Art. 244 EGBGB vereinbart sind, also nach der HausbauVO; § 1 HausbauVO erlaubt Abschläge entsprechend § 3 Abs. 2 MaBV unter den Voraussetzungen des § 3 Abs. 1 MaBV. Erst über § 1 HausbauVO werden die öffentlich-rechtlichen §§ 3, 7 MaBV Teil der Vertragsgestaltung. Ob § 632a BGB daneben gilt, ist streitig; die Gestaltung ist an § 650v BGB auszurichten. § 641 Abs. 1 BGB stellt die Vergütung erst mit der Abnahme fällig."
+ },
+ {
+  "id": "baut1-051",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Zahlung und Sicherheiten",
+  "seite": "Bauträgervertrag: Abschlagszahlungen, Ratenplan und Vorleistungsverbot",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/zahlung-und-sicherheiten/bautragervertrag-abschlagszahlungen-ratenplan-und-vorleistungsverbot",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 3 Abs. 2 MaBV"
+  ],
+  "frage": "Welche Vorgaben macht § 3 Abs. 2 MaBV für den Ratenplan beim Bauträgervertrag?",
+  "optionen": [
+   "Aus dreizehn Bauabschnitten dürfen höchstens sieben Raten gebildet werden; die erste Rate nach Beginn der Erdarbeiten beträgt höchstens 30 % bei Grundstückseigentum und 20 % beim Erbbaurecht.",
+   "Es sind genau dreizehn Raten in der gesetzlichen Reihenfolge zu vereinbaren; die erste Rate beträgt 30 %.",
+   "Aus sieben Bauabschnitten dürfen höchstens dreizehn Raten gebildet werden; die erste Rate beträgt höchstens 25 %.",
+   "Die Raten sind frei vereinbar, solange keine Rate 30 % der Vertragssumme übersteigt."
+  ],
+  "antwort": 0,
+  "erklaerung": "§ 3 Abs. 2 MaBV erlaubt, aus den dort genannten dreizehn Bauabschnitten höchstens sieben Raten nach dem Bauablauf zu bilden; die Reihenfolge ist nicht zwingend, und entfallende Leistungen werden auf die übrigen Raten umgelegt (§ 3 Abs. 2 S. 3 MaBV). Die erste Rate nach Beginn der Erdarbeiten beträgt höchstens 30 % bei Grundstückseigentum und 20 % beim Erbbaurecht. Die Prozentsätze sind Obergrenzen, keine freie Verteilung."
+ },
+ {
+  "id": "baut1-052",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Zahlung und Sicherheiten",
+  "seite": "Bauträgervertrag: Abschlagszahlungen, Ratenplan und Vorleistungsverbot",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/zahlung-und-sicherheiten/bautragervertrag-abschlagszahlungen-ratenplan-und-vorleistungsverbot",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 641 Abs. 1 BGB",
+   "§ 650v BGB"
+  ],
+  "frage": "Die Abschlagsvereinbarung im Bauträgervertrag erweist sich als unwirksam. Wann wird die Vergütung fällig?",
+  "optionen": [
+   "Mit Beginn der Erdarbeiten in Höhe von 30 % und im Übrigen nach dem gesetzlichen Ratenplan des § 3 Abs. 2 MaBV.",
+   "Mit der Abnahme nach § 641 Abs. 1 BGB, weil ohne wirksame Abschlagsvereinbarung die werkvertragliche Grundregel gilt.",
+   "Mit Eintragung der Vormerkung, weil dann die Fälligkeitsvoraussetzungen des § 3 Abs. 1 MaBV erfüllt sind.",
+   "Sofort, weil die Unwirksamkeit der Abschlagsvereinbarung zugunsten des Bauträgers wirkt."
+  ],
+  "antwort": 1,
+  "erklaerung": "Abschlagszahlungen müssen im Bauträgervertrag nicht vereinbart werden; fehlt eine Vereinbarung oder ist sie unwirksam, bleibt es bei der Fälligkeit mit Abnahme nach § 641 Abs. 1 BGB. Der Ratenplan des § 3 Abs. 2 MaBV gilt nicht kraft Gesetzes, sondern nur bei wirksamer Vereinbarung über § 650v BGB und § 1 HausbauVO. Eine Vorleistung des Erwerbers wäre zudem nach dem Vorleistungsverbot unzulässig."
+ },
+ {
+  "id": "baut1-053",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Zahlung und Sicherheiten",
+  "seite": "Bauträgervertrag: Abschlagszahlungen, Ratenplan und Vorleistungsverbot",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/zahlung-und-sicherheiten/bautragervertrag-abschlagszahlungen-ratenplan-und-vorleistungsverbot",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 3 Abs. 2 MaBV",
+   "§ 650v BGB"
+  ],
+  "frage": "Hält der Ratenplan die Höchstsätze des § 3 Abs. 2 MaBV ein, ist eine unzulässige Vorleistung des Erwerbers ausgeschlossen, und der Notar muss das Wertverhältnis von Raten und Leistung nicht weiter prüfen.",
+  "antwort": false,
+  "erklaerung": "Falsch. Die Prozentsätze des § 3 Abs. 2 MaBV sind Obergrenzen; Vorleistungen bleiben auch innerhalb des Ratenplans unzulässig. Für einen MaBV-konformen Ratenplan spricht nur eine gewisse Vermutung des Gleichgewichts, von der der Notar regelmäßig ausgehen darf. Ist ein Missverhältnis für ihn aber sicher erkennbar, etwa bei sehr geringem Grundstückswert oder umfangreichen Eigenleistungen schon im Rohbau, muss er auf die Risiken hinweisen und eine hinter dem Ratenplan zurückbleibende Zahlungsweise vereinbaren."
+ },
+ {
+  "id": "baut1-054",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Zahlung und Sicherheiten",
+  "seite": "Bauträgervertrag: Fälligkeitsvoraussetzungen nach § 3 Abs. 1 MaBV",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/zahlung-und-sicherheiten/bautragervertrag-falligkeitsvoraussetzungen-nach-3-abs-1-mabv",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 3 Abs. 1 MaBV"
+  ],
+  "frage": "Ordne die Nummern des § 3 Abs. 1 MaBV der jeweiligen Fälligkeitsvoraussetzung zu.",
+  "paare": [
+   [
+    "§ 3 Abs. 1 Nr. 1 MaBV",
+    "Wirksamkeit des Vertrags: Genehmigungen liegen vor, kein vertragliches Rücktrittsrecht des Bauträgers"
+   ],
+   [
+    "§ 3 Abs. 1 Nr. 2 MaBV",
+    "Eigentumsvormerkung an der vereinbarten Rangstelle eingetragen; bei Wohnungseigentum Teilung vollzogen"
+   ],
+   [
+    "§ 3 Abs. 1 Nr. 3 MaBV",
+    "Freistellung von nicht übernommenen Grundpfandrechten gesichert"
+   ],
+   [
+    "§ 3 Abs. 1 Nr. 4 MaBV",
+    "Baugenehmigung erteilt oder Ersatzbestätigung, bei Bestätigung des Bauträgers mit Monatsfrist"
+   ]
+  ],
+  "erklaerung": "§ 3 Abs. 1 MaBV bündelt vier Fälligkeitsvoraussetzungen: Wirksamkeit des Vertrags ohne Rücktrittsrecht (Nr. 1), eingetragene Vormerkung und bei Wohnungseigentum Vollzug der Teilung (Nr. 2), gesicherte Lastenfreistellung (Nr. 3) und Baugenehmigung bzw. abgestufte Ersatzbestätigungen (Nr. 4). Der Notar prüft Nr. 1 bis 3 und nimmt sie in die Fälligkeitsmitteilung auf; Nr. 4 prüft er regelmäßig nicht."
+ },
+ {
+  "id": "baut1-055",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Zahlung und Sicherheiten",
+  "seite": "Bauträgervertrag: Fälligkeitsvoraussetzungen nach § 3 Abs. 1 MaBV",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/zahlung-und-sicherheiten/bautragervertrag-falligkeitsvoraussetzungen-nach-3-abs-1-mabv",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 3 Abs. 1 S. 1 Nr. 2 MaBV"
+  ],
+  "frage": "Der Bauträger ist selbst noch nicht Eigentümer, sondern durch eine Vormerkung gesichert. Er tritt dem Erwerber seinen Eigentumsverschaffungsanspruch ab; die Abtretung wird bei der Vormerkung des Bauträgers im Grundbuch vermerkt. Genügt das für § 3 Abs. 1 Nr. 2 MaBV?",
+  "optionen": [
+   "Ja, weil die Vormerkung durch die Abtretung kraft Gesetzes auf den Erwerber übergeht und ihn vollständig sichert.",
+   "Nein, erforderlich ist eine eigene Vormerkung für den Erwerber; die Abtretung schützt ihn nur gegen die Insolvenz des ursprünglichen Eigentümers, nicht gegen die des Bauträgers.",
+   "Ja, sofern der Erwerber zusätzlich den Antrag auf Eintragung einer eigenen Vormerkung beim Grundbuchamt eingereicht hat.",
+   "Nein, weil Vormerkungen zugunsten eines Nichteigentümers nicht abtretbar sind."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 3 Abs. 1 S. 1 Nr. 2 MaBV ist eine eigene, an der vereinbarten Rangstelle eingetragene Vormerkung für den Erwerber erforderlich. Die Abtretung des Anspruchs des Bauträgers mit Berichtigung bei dessen Vormerkung genügt nicht, weil sie den Erwerber nur gegen die Insolvenz des ursprünglichen Eigentümers schützt, nicht gegen die des Bauträgers. Auch die bloße Einreichung des Eintragungsantrags reicht nicht; die Vormerkung muss eingetragen sein."
+ },
+ {
+  "id": "baut1-056",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Zahlung und Sicherheiten",
+  "seite": "Bauträgervertrag: Fälligkeitsvoraussetzungen nach § 3 Abs. 1 MaBV",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/zahlung-und-sicherheiten/bautragervertrag-falligkeitsvoraussetzungen-nach-3-abs-1-mabv",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 3 Abs. 1 Nr. 1 MaBV",
+   "§ 12 WEG",
+   "§§ 24, 28 BauGB"
+  ],
+  "frage": "Welche Unterlage ist für die Fälligkeit nach § 3 Abs. 1 Nr. 1 MaBV (Wirksamkeit des Vertrags) nicht erforderlich?",
+  "optionen": [
+   "Die Zustimmung des Verwalters nach § 12 WEG, wenn die Teilungserklärung sie auch für die Erstveräußerung verlangt.",
+   "Die steuerliche Unbedenklichkeitsbescheinigung des Finanzamts.",
+   "Behördliche Genehmigungen zum Bauträgervertrag, sofern solche nötig sind.",
+   "Rechtsgeschäftliche Genehmigungen, etwa bei Vertretung ohne Vertretungsmacht."
+  ],
+  "antwort": 1,
+  "erklaerung": "Für § 3 Abs. 1 Nr. 1 MaBV müssen sämtliche rechtsgeschäftlichen und behördlichen Genehmigungen wirksam vorliegen; die Verwalterzustimmung nach § 12 WEG ist nach dem BGH auch bei der Erstveräußerung nötig, sofern die Teilungserklärung nichts anderes bestimmt. Nicht erforderlich ist die steuerliche Unbedenklichkeitsbescheinigung. Erklärungen zu Vorkaufsrechten (§§ 24, 28 Abs. 1 S. 2 BauGB) sind keine Genehmigungen und daher ebenfalls nicht erfasst; die Fälligkeit sollte aber vertraglich zusätzlich an sie geknüpft werden."
+ },
+ {
+  "id": "baut1-057",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Zahlung und Sicherheiten",
+  "seite": "Bauträgervertrag: Fälligkeitsvoraussetzungen nach § 3 Abs. 1 MaBV",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/zahlung-und-sicherheiten/bautragervertrag-falligkeitsvoraussetzungen-nach-3-abs-1-mabv",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 3 Abs. 1 Nr. 1 MaBV",
+   "§ 3 Abs. 1 S. 1 Nr. 2 HS. 2 MaBV",
+   "§ 3 Abs. 1 Nr. 4 MaBV",
+   "§ 24 BNotO"
+  ],
+  "frage": "Fälligkeitsmitteilung mit Hindernissen",
+  "sachverhalt": "Die B-GmbH verkauft an Verbraucher E eine Eigentumswohnung im Bauträgervertrag. Der Vertrag räumt der B-GmbH ein Rücktrittsrecht für den Fall ein, dass die Gemeinde ihr Vorkaufsrecht ausübt. Die B-GmbH erklärt im Vertrag, die Baugenehmigung liege bereits vor. Zwei Wochen nach Beurkundung ist die Vormerkung für E eingetragen und die Gemeinde hat auf das Vorkaufsrecht verzichtet; die Teilungserklärung ist beim Grundbuchamt eingereicht, aber noch nicht vollzogen. Die B-GmbH bittet den Notar um die Fälligkeitsmitteilung.",
+  "schritte": [
+   {
+    "frage": "Steht das vertragliche Rücktrittsrecht der B-GmbH der Fälligkeit entgegen?",
+    "optionen": [
+     "Nein, weil die Gemeinde bereits verzichtet hat und das Rücktrittsrecht damit gegenstandslos ist.",
+     "Ja, solange ein vertragliches Rücktrittsrecht des Bauträgers besteht, darf er keine Zahlungen annehmen; der Vertrag sollte regeln, dass es mit der Fälligkeitsmitteilung oder der Anforderung der ersten Rate erlischt.",
+     "Nein, weil § 3 Abs. 1 Nr. 1 MaBV nur gesetzliche Rücktrittsrechte erfasst.",
+     "Ja, weil Erklärungen zu Vorkaufsrechten Genehmigungen im Sinne von § 3 Abs. 1 Nr. 1 MaBV sind."
+    ],
+    "antwort": 1,
+    "erklaerung": "Nach § 3 Abs. 1 Nr. 1 MaBV dürfen vertragliche Rücktrittsrechte des Bauträgers nicht mehr bestehen; ein Rücktrittsrecht für den Fall der Vorkaufsrechtsausübung schadet der Fälligkeit. Besteht der Bauträger darauf, sollte klargestellt werden, dass es mit der Fälligkeitsmitteilung oder der Anforderung der ersten Rate erlischt. Der Verzicht der Gemeinde beseitigt das vertraglich fortbestehende Rücktrittsrecht nicht automatisch, und Vorkaufsrechtserklärungen sind keine Genehmigungen."
+   },
+   {
+    "frage": "Genügt die Einreichung der Teilungserklärung beim Grundbuchamt für § 3 Abs. 1 Nr. 2 MaBV?",
+    "optionen": [
+     "Ja, weil die Vormerkung für E bereits eingetragen ist und das Vollzugsrisiko damit abgedeckt ist.",
+     "Nein, bei Wohnungseigentum muss die Teilungserklärung im Grundbuch vollzogen sein; das Vollzugsrisiko darf nicht beim Erwerber liegen.",
+     "Ja, wenn E eine Vormerkung auf Bildung und Übertragung der bestimmten Einheit erhält.",
+     "Nein, weil die Vormerkung erst nach Vollzug der Teilung wirksam eingetragen werden kann."
+    ],
+    "antwort": 1,
+    "erklaerung": "Bei Wohnungs- oder Teileigentum muss zusätzlich zur Vormerkung die Teilungserklärung im Grundbuch vollzogen sein (§ 3 Abs. 1 S. 1 Nr. 2 HS. 2 MaBV). Eine Vormerkung für den Anspruch auf Bildung und Übertragung einer bestimmten Einheit ist als frühe Sicherung sinnvoll, ersetzt den Vollzug für die Fälligkeit aber nicht."
+   },
+   {
+    "frage": "Welche Bedeutung hat die Erklärung der B-GmbH, die Baugenehmigung liege vor, für den Zeitpunkt der ersten Zahlung?",
+    "optionen": [
+     "Keine; der Notar prüft die Baugenehmigung und bestätigt sie in der Fälligkeitsmitteilung.",
+     "Der Vertrag sollte regeln, dass Zahlungen selbst bei Erfüllung aller anderen Voraussetzungen erst einen Monat nach dem Beurkundungstag verlangt werden können, entsprechend der Monatsfrist des § 3 Abs. 1 Nr. 4 MaBV für Bestätigungen des Bauträgers.",
+     "Die Erklärung ersetzt die Baugenehmigung, sodass sofort gezahlt werden darf.",
+     "Die Erklärung ist unbeachtlich, weil nur die Behörde die Genehmigung bestätigen darf."
+    ],
+    "antwort": 1,
+    "erklaerung": "Liegt die Baugenehmigung bei Beurkundung vor, kann der Bauträger dies im Vertrag erklären. Da bei Bestätigungen des Bauträgers nach § 3 Abs. 1 Nr. 4 MaBV eine Wartefrist von einem Monat gilt, sollte der Vertrag regeln, dass Zahlungen erst einen Monat nach dem Beurkundungstag verlangt werden können. Die Prüfung der Baugenehmigung übernimmt der Notar üblicherweise nicht; tut er es doch, haftet er dafür, dass die Genehmigung das geschuldete Vorhaben abdeckt."
+   }
+  ],
+  "erklaerung": "Die Fälligkeitsmitteilung des Notars (§ 24 BNotO) setzt voraus, dass kein vertragliches Rücktrittsrecht mehr besteht, die eigene Vormerkung des Erwerbers eingetragen und bei Wohnungseigentum die Teilung vollzogen ist. Die Baugenehmigung prüft der Notar regelmäßig nicht; bei Bestätigung durch den Bauträger ist die Monatsfrist des § 3 Abs. 1 Nr. 4 MaBV vertraglich abzubilden. Die Fälligkeitsmitteilung sollte stets als Fälligkeitsvoraussetzung ausgestaltet sein."
+ },
+ {
+  "id": "baut1-058",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Zahlung und Sicherheiten",
+  "seite": "Bauträgervertrag: Fälligkeitsvoraussetzungen nach § 3 Abs. 1 MaBV",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/zahlung-und-sicherheiten/bautragervertrag-falligkeitsvoraussetzungen-nach-3-abs-1-mabv",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 3 Abs. 1 MaBV",
+   "§ 24 BNotO"
+  ],
+  "frage": "Welche Voraussetzungen des § 3 Abs. 1 MaBV sollte der Notar in seine Fälligkeitsmitteilung einbeziehen?",
+  "optionen": [
+   "Nur Nr. 1, weil die MaBV ausdrücklich nur hierzu eine schriftliche Mitteilung des Notars verlangt.",
+   "Nr. 1 bis 3; Nr. 4 (Baugenehmigung) prüft der Notar regelmäßig nicht, weil er die Übereinstimmung von Genehmigung und Bauvorhaben kaum beurteilen kann.",
+   "Alle vier Nummern, weil die Betreuungstätigkeit nach § 24 BNotO eine vollständige Prüfung verlangt.",
+   "Nr. 2 und 3, weil Nr. 1 vom Bauträger und Nr. 4 von der Baubehörde zu bestätigen ist."
+  ],
+  "antwort": 1,
+  "erklaerung": "Die MaBV verlangt eine schriftliche Mitteilung des Notars ausdrücklich nur zu § 3 Abs. 1 Nr. 1 MaBV; aus der Betreuungstätigkeit nach § 24 BNotO folgt aber, dass der Notar auch Nr. 2 und Nr. 3 prüfen und einbeziehen sollte. Die Baugenehmigung nach Nr. 4 prüft er regelmäßig nicht; übernimmt er die Prüfung dennoch, haftet er dafür, dass die Genehmigung das geschuldete Vorhaben abdeckt. Im Vertrag sollte die Mitteilung stets als Fälligkeitsvoraussetzung ausgestaltet werden."
+ },
+ {
+  "id": "baut1-059",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Zahlung und Sicherheiten",
+  "seite": "Bauträgervertrag: Insolvenz des Bauträgers und Abtretung von Mängelansprüchen",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/zahlung-und-sicherheiten/bautragervertrag-insolvenz-des-bautragers-und-abtretung-von-mangelanspruchen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 106 Abs. 1 S. 1 InsO",
+   "§ 103 InsO"
+  ],
+  "frage": "Über das Vermögen der B-GmbH wird nach Fertigstellung des Rohbaus das Insolvenzverfahren eröffnet; E ist durch Vormerkung gesichert. Welche Rechtsstellung hat E gegenüber dem Insolvenzverwalter?",
+  "optionen": [
+   "Der Verwalter kann nach § 103 InsO die Erfüllung des gesamten Vertrags ablehnen, sodass E weder Eigentum noch Fertigstellung verlangen kann.",
+   "E kann nach § 106 Abs. 1 S. 1 InsO Auflassung und Eintragungsbewilligung verlangen, da die Vormerkung dem Wahlrecht des § 103 InsO vorgeht; für die offenen Bauleistungen hat der Verwalter dagegen das Wahlrecht und kann die Fertigstellung ablehnen.",
+   "E kann nach § 103 InsO die Fertigstellung durch die Masse verlangen, muss aber den vollen Kaufpreis an den Verwalter zahlen.",
+   "Die Vormerkung erlischt mit Eröffnung des Insolvenzverfahrens; E wird einfacher Insolvenzgläubiger."
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Vormerkung sichert den Eigentumsverschaffungsanspruch auch in der Insolvenz des Bauträgers (§ 106 Abs. 1 S. 1 InsO) und geht dem Wahlrecht des Verwalters nach § 103 InsO vor; dieser kann Auflassung und Eintragungsbewilligung nicht wegen der Insolvenz verweigern, wobei E den Preis nur schuldet, soweit gebaut wurde. Für die noch offenen Bauleistungen hat der Verwalter das Wahlrecht nach § 103 InsO und kann die Fertigstellung ablehnen; E muss dann selbst fertigstellen, was deutlich teurer werden kann."
+ },
+ {
+  "id": "baut1-060",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Zahlung und Sicherheiten",
+  "seite": "Bauträgervertrag: Insolvenz des Bauträgers und Abtretung von Mängelansprüchen",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/zahlung-und-sicherheiten/bautragervertrag-insolvenz-des-bautragers-und-abtretung-von-mangelanspruchen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 103 InsO",
+   "§ 398 BGB"
+  ],
+  "frage": "Warum sollte der Bauträgervertrag eine Abtretung der Ansprüche des Bauträgers gegen Handwerker, Architekten und Subunternehmer an den Erwerber vorsehen?",
+  "optionen": [
+   "Weil der Erwerber sonst keine Mängelansprüche gegen den Bauträger selbst hat.",
+   "Weil die am Bau Beteiligten Vertragspartner des Bauträgers sind und der Erwerber ohne Abtretung nicht gegen sie vorgehen kann, wenn Ansprüche gegen den insolventen Bauträger nach § 103 InsO nicht mehr durchsetzbar sind.",
+   "Weil die MaBV in § 3 Abs. 1 Nr. 3 die Abtretung als Fälligkeitsvoraussetzung verlangt.",
+   "Weil die Abtretung die Verjährung der Mängelansprüche von fünf auf zehn Jahre verlängert."
+  ],
+  "antwort": 1,
+  "erklaerung": "Handwerker, Architekten und sonstige Subunternehmer sind Vertragspartner des Bauträgers, nicht des Erwerbers. Gewährleistungsansprüche gegen den insolventen Bauträger lassen sich oft nicht mehr durchsetzen, weil der Verwalter die Erfüllung nach § 103 InsO ablehnen kann. Damit der Erwerber direkt gegen die am Bau Beteiligten vorgehen kann, sollte der Vertrag die Abtretung dieser Ansprüche vorsehen. Mit der Fälligkeit nach § 3 MaBV oder der Verjährung hat das nichts zu tun."
+ },
+ {
+  "id": "baut1-061",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Zahlung und Sicherheiten",
+  "seite": "Bauträgervertrag: Insolvenz des Bauträgers und Abtretung von Mängelansprüchen",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/zahlung-und-sicherheiten/bautragervertrag-insolvenz-des-bautragers-und-abtretung-von-mangelanspruchen",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 17 BeurkG",
+   "§ 106 InsO"
+  ],
+  "frage": "Welche Regelung zum Steckenbleiben des Baus sollte der Notar in den Bauträgervertrag aufnehmen, und wann ist ein Hinweis auf das Fertigstellungsrisiko zwingend?",
+  "optionen": [
+   "Eine Pflicht des Erwerbers zur vollständigen Zahlung vor Umschreibung; der Hinweis ist nur bei ausdrücklicher Nachfrage des Erwerbers geboten.",
+   "Ein Recht des Erwerbers, bei feststehendem Unvermögen des Bauträgers die Umschreibung vor vollständiger Zahlung Zug um Zug gegen den dem Bautenstand entsprechenden Preisanteil zu verlangen; der Hinweis ist zwingend, wenn der Erwerber das Risiko erkennbar nicht überblickt oder konkrete Anhaltspunkte die Finanzierbarkeit fraglich erscheinen lassen.",
+   "Eine Bürgschaft nach § 7 MaBV als Pflichtsicherheit; der Hinweis ist stets entbehrlich, weil die Bürgschaft das Risiko abdeckt.",
+   "Ein Rücktrittsrecht des Erwerbers bei Insolvenzeröffnung; der Hinweis ist nur bei gewerblichen Erwerbern erforderlich."
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Seite empfiehlt eine Regelung, nach der der Erwerber bei feststehendem Unvermögen des Bauträgers die Eigentumsumschreibung schon vor vollständiger Zahlung verlangen kann, Zug um Zug gegen den dem erreichten Bautenstand entsprechenden Preisanteil. Auf das Fertigstellungsrisiko ist stets hinzuweisen; zwingend ist der Hinweis, wenn erkennbar ist, dass der Erwerber das Risiko nicht überblickt, oder wenn konkrete Anhaltspunkte die Finanzierbarkeit fraglich erscheinen lassen. Eine Pflichtbürgschaft nach § 7 MaBV gibt es nicht."
+ },
+ {
+  "id": "baut1-062",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Zahlung und Sicherheiten",
+  "seite": "Bauträgervertrag: Lastenfreistellung und Steckenbleiben des Baus",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/zahlung-und-sicherheiten/bautragervertrag-lastenfreistellung-und-steckenbleiben-des-baus",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 3 Abs. 1 S. 1 Nr. 3 MaBV"
+  ],
+  "frage": "Was ist eine Freistellungsverpflichtung des Globalgrundschuldgläubigers im Sinne von § 3 Abs. 1 S. 1 Nr. 3 MaBV?",
+  "optionen": [
+   "Eine grundbuchtaugliche Pfandfreigabe, mit der die Einheit sofort aus der Mithaft entlassen wird.",
+   "Eine schuldrechtliche Verpflichtung des Gläubigers, unter bestimmten Voraussetzungen eine grundbuchtaugliche Löschungsbewilligung oder Pfandfreigabe abzugeben.",
+   "Eine Löschungsbewilligung mit Treuhandauflage, die der Notar nur gegen Zahlung des Ablösebetrags verwenden darf.",
+   "Eine Erklärung des Bauträgers, die Globalgrundschuld nach Fertigstellung löschen zu lassen."
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei der Freistellungsverpflichtung verpflichtet sich der (Global-)Grundschuldgläubiger schuldrechtlich, unter bestimmten Voraussetzungen eine grundbuchtaugliche Löschungsbewilligung oder Pfandfreigabe abzugeben; vollzogen werden kann die Löschung erst mit dieser späteren Erklärung. Davon zu unterscheiden sind die bereits vorliegende Löschungsbewilligung bei Einzelgrundschulden und die Pfandfreigabeerklärung bei Globalbelastung, jeweils gegebenenfalls mit Treuhandauflage. Eine Erklärung des Bauträgers sichert nichts."
+ },
+ {
+  "id": "baut1-063",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Zahlung und Sicherheiten",
+  "seite": "Bauträgervertrag: Lastenfreistellung und Steckenbleiben des Baus",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/zahlung-und-sicherheiten/bautragervertrag-lastenfreistellung-und-steckenbleiben-des-baus",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 3 Abs. 1 S. 2 MaBV"
+  ],
+  "frage": "Die B-GmbH stellt die Bauarbeiten wegen Zahlungsschwierigkeiten für vier Monate ein und überschreitet den Fertigstellungstermin. Liegt ein Steckenbleiben des Baus im Sinne von § 3 Abs. 1 S. 2 MaBV vor, das die Freistellung gegen Zahlung des Bautenstandsanteils auslöst?",
+  "optionen": [
+   "Ja, jede Überschreitung des Fertigstellungstermins ist ein Steckenbleiben.",
+   "Nein, Steckenbleiben meint den endgültigen Abbruch des Vorhabens, nicht eine vorübergehende Baueinstellung oder Terminüberschreitung.",
+   "Ja, sobald die Baueinstellung länger als drei Monate dauert.",
+   "Nein, ein Steckenbleiben setzt die Eröffnung des Insolvenzverfahrens über das Vermögen des Bauträgers voraus."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 3 Abs. 1 S. 2 MaBV ist die Freistellung gesichert, wenn die Löschung bei Vollendung nach Zahlung der vollen Vertragssumme und andernfalls nach Zahlung des dem Baufortschritt entsprechenden Anteils gewährleistet ist. Steckenbleiben meint dabei den endgültigen Abbruch, nicht schon eine vorübergehende Baueinstellung oder Terminüberschreitung. Eine feste Dreimonatsfrist oder eine Insolvenzeröffnung als Voraussetzung nennt die Seite nicht."
+ },
+ {
+  "id": "baut1-064",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Zahlung und Sicherheiten",
+  "seite": "Bauträgervertrag: Lastenfreistellung und Steckenbleiben des Baus",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/zahlung-und-sicherheiten/bautragervertrag-lastenfreistellung-und-steckenbleiben-des-baus",
+  "typ": "zuordnung",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 3 Abs. 1 S. 2 MaBV"
+  ],
+  "frage": "Ordne die Methoden zur Bemessung des dem Baufortschritt entsprechenden Anteils ihrem Berechnungsansatz zu.",
+  "paare": [
+   [
+    "Aufrechnungsmethode",
+    "Von der ursprünglichen Vertragssumme werden sämtliche Gegenansprüche des Erwerbers aus Nicht- oder Schlechterfüllung abgezogen"
+   ],
+   [
+    "Selbstkostenmethode",
+    "Aufwand des Bauträgers für den erbrachten Teil im Verhältnis zu den insgesamt kalkulierten Kosten, bei Eigenleistungen des Bauträgers zuzüglich kalkuliertem Gewinn"
+   ],
+   [
+    "Verkehrswertmethode",
+    "Verhältnis des Verkehrswerts des Erreichten (Grundstück mit unfertigem Gebäude) zum hypothetischen Verkehrswert des fertigen Objekts, jeweils abzüglich Eigenleistungen"
+   ]
+  ],
+  "erklaerung": "Für den Bautenstandsanteil nach § 3 Abs. 1 S. 2 MaBV werden drei Methoden vertreten: Die Aufrechnungsmethode geht von der Vertragssumme aus und zieht Gegenansprüche wie Minderung oder Schadensersatz ab; die Selbstkostenmethode stellt auf die tatsächlichen Aufwendungen des Bauträgers im Verhältnis zur Gesamtkalkulation ab; die Verkehrswertmethode vergleicht den Verkehrswert des Erreichten mit dem hypothetischen Verkehrswert des fertigen Objekts."
+ },
+ {
+  "id": "baut1-065",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Zahlung und Sicherheiten",
+  "seite": "Bauträgervertrag: Lastenfreistellung und Steckenbleiben des Baus",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/zahlung-und-sicherheiten/bautragervertrag-lastenfreistellung-und-steckenbleiben-des-baus",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 3 Abs. 1 S. 3 MaBV",
+   "§ 3 Abs. 2 MaBV"
+  ],
+  "frage": "Unter welchen Voraussetzungen darf sich der Globalgläubiger nach § 3 Abs. 1 S. 3 MaBV vorbehalten, bei Nichtvollendung statt freizustellen die gezahlten Beträge zu erstatten?",
+  "optionen": [
+   "Der Vorbehalt gilt kraft Gesetzes für jede Freistellungsverpflichtung; die Erstattung ist auf die Hälfte der gezahlten Beträge begrenzt.",
+   "Der Gläubiger muss den Rückzahlungsvorbehalt ausdrücklich erklären, die Erstattung erfasst die nach § 3 Abs. 2 MaBV vertragsgemäß gezahlten Beträge höchstens bis zum anteiligen Objektwert, und der Bauträgervertrag muss ausdrücklich bestimmen, dass eine Freistellungsverpflichtung mit diesem Vorbehalt als vertragsgemäß gilt.",
+   "Der Vorbehalt ist nur zulässig, wenn der Erwerber ihm nach Eintritt des Steckenbleibens gesondert zustimmt.",
+   "Der Vorbehalt setzt voraus, dass der Gläubiger auf die Verwertung seines Grundpfandrechts verzichtet."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 3 Abs. 1 S. 3 MaBV darf sich der Gläubiger für den Fall der Nichtvollendung vorbehalten, statt freizustellen die nach § 3 Abs. 2 MaBV vertragsgemäß gezahlten Beträge zu erstatten, höchstens bis zum anteiligen Objektwert; er muss den Vorbehalt ausdrücklich erklären. Der Vorbehalt kommt nur in Betracht, wenn der Bauträgervertrag ausdrücklich bestimmt, dass eine Freistellungsverpflichtung mit diesem Vorbehalt als vertragsgemäß gilt. Macht der Gläubiger davon Gebrauch, kann er sein Grundpfandrecht frei verwerten; ein Verwertungsverzicht ist also gerade nicht Voraussetzung."
+ },
+ {
+  "id": "baut1-066",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Zahlung und Sicherheiten",
+  "seite": "Bauträgervertrag: Sicherheit nach § 650m Abs. 2 BGB und Bürgschaft nach § 7 MaBV",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/zahlung-und-sicherheiten/bautragervertrag-sicherheit-nach-650m-abs-2-bgb-und-burgschaft-nach-7-mabv",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 650m Abs. 2 BGB",
+   "§ 3 Abs. 2 MaBV"
+  ],
+  "frage": "Welche Sicherheit steht dem Verbraucher beim Bauträgervertrag mit Abschlagszahlungen nach § 650m Abs. 2 BGB zu, und wie wird sie in der Praxis meist erbracht?",
+  "optionen": [
+   "10 % der Gesamtvergütung, erbracht durch Bankbürgschaft bei Vertragsschluss.",
+   "5 % der vereinbarten Gesamtvergütung mit der ersten Abschlagszahlung, in der Praxis meist durch Einbehalt, sodass die erste Rate von 30 % auf 25 % sinkt.",
+   "5 % jeder einzelnen Rate, erbracht durch Hinterlegung auf einem Notaranderkonto.",
+   "3 % der Gesamtvergütung, erbracht durch Einbehalt von der Schlussrate."
+  ],
+  "antwort": 1,
+  "erklaerung": "Sind beim Verbraucherbauvertrag Abschläge vereinbart, ist dem Verbraucher mit der ersten Abschlagszahlung eine Sicherheit von 5 % der vereinbarten Gesamtvergütung für die rechtzeitige Herstellung ohne wesentliche Mängel zu leisten. In der Praxis überwiegt der Einbehalt: Die erste Rate des Ratenplans sinkt von 30 % auf 25 %. Alternativ kann der Bauträger eine Erfüllungsbürgschaft eines inländischen Kreditinstituts oder Kreditversicherers stellen."
+ },
+ {
+  "id": "baut1-067",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Zahlung und Sicherheiten",
+  "seite": "Bauträgervertrag: Sicherheit nach § 650m Abs. 2 BGB und Bürgschaft nach § 7 MaBV",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/zahlung-und-sicherheiten/bautragervertrag-sicherheit-nach-650m-abs-2-bgb-und-burgschaft-nach-7-mabv",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 650m Abs. 2 BGB",
+   "§ 641 BGB"
+  ],
+  "frage": "Der Ratenplan im Bauträgervertrag mit Verbraucher E enthält keine Regelung zur Sicherheit nach § 650m Abs. 2 BGB. Welche Folge hat das?",
+  "optionen": [
+   "Die Sicherheit gilt kraft Gesetzes als vereinbart; der Ratenplan bleibt im Übrigen wirksam.",
+   "Der Ratenplan ist unwirksam; die Zahlungsvereinbarung entfällt insgesamt, und die Vergütung wird nach § 641 BGB mit der Abnahme fällig.",
+   "Nur die erste Rate ist um 5 % zu kürzen; die übrigen Raten bleiben unberührt.",
+   "Der Vertrag ist insgesamt nichtig, weil die Sicherheit zum beurkundungspflichtigen Mindestinhalt gehört."
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Ansprüche nach § 650m Abs. 2 BGB sind ausdrücklich und nachvollziehbar zu regeln, am besten bei den Zahlungsbestimmungen. Sieht der Ratenplan keine Sicherheit vor, ist er unwirksam; die Zahlungsvereinbarung entfällt insgesamt, und es gelten die gesetzlichen Regeln, vor allem die Fälligkeit mit Abnahme nach § 641 BGB. Eine geltungserhaltende Reduktion auf eine gekürzte erste Rate findet nicht statt; der Vertrag im Übrigen bleibt aber wirksam."
+ },
+ {
+  "id": "baut1-068",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Zahlung und Sicherheiten",
+  "seite": "Bauträgervertrag: Sicherheit nach § 650m Abs. 2 BGB und Bürgschaft nach § 7 MaBV",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/zahlung-und-sicherheiten/bautragervertrag-sicherheit-nach-650m-abs-2-bgb-und-burgschaft-nach-7-mabv",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 650m Abs. 2 BGB"
+  ],
+  "frage": "Steigt die Vergütung infolge von Vertragsänderungen um mehr als 10 %, sind bei der nächsten Abschlagszahlung weitere 5 % des Mehrbetrags zu sichern.",
+  "antwort": true,
+  "erklaerung": "Richtig. § 650m Abs. 2 BGB sieht neben der Grundsicherheit von 5 % der Gesamtvergütung vor, dass bei einer Erhöhung der Vergütung um mehr als 10 % infolge von Anordnungen oder sonstigen Vertragsänderungen bei der nächsten Abschlagszahlung weitere 5 % des Mehrbetrags zu sichern sind. Der Einbehalt wird fällig bzw. die Sicherheit zurückgegeben, wenn die Bauleistung rechtzeitig und ohne wesentliche Mängel erbracht ist, in der Regel nach der Abnahme."
+ },
+ {
+  "id": "baut1-069",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Zahlung und Sicherheiten",
+  "seite": "Bauträgervertrag: Sicherheit nach § 650m Abs. 2 BGB und Bürgschaft nach § 7 MaBV",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/zahlung-und-sicherheiten/bautragervertrag-sicherheit-nach-650m-abs-2-bgb-und-burgschaft-nach-7-mabv",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 7 MaBV",
+   "§ 3 Abs. 1 MaBV",
+   "§ 3 Abs. 2 MaBV",
+   "§ 650m Abs. 2 BGB"
+  ],
+  "frage": "Bürgschaft statt Ratenplan",
+  "sachverhalt": "Die B-GmbH möchte beim Verkauf von Eigentumswohnungen an Verbraucher die Kaufpreise früher als nach dem Ratenplan erhalten, um die Zwischenfinanzierung zu senken. Sie bietet an, jedem Erwerber eine selbstschuldnerische Bürgschaft ihrer Hausbank über den vollen Kaufpreis zu stellen. Erwerber E zahlt daraufhin den gesamten Kaufpreis vor Baubeginn. Nach vollständiger Fertigstellung und Abnahme verlangt die B-GmbH die Bürgschaftsurkunde zurück; die Vormerkung für E ist wegen eines Grundbuchrückstands noch nicht eingetragen.",
+  "schritte": [
+   {
+    "frage": "Darf die B-GmbH gegen Stellung der Bankbürgschaft vom Ratenplan und den Fälligkeitsvoraussetzungen des § 3 Abs. 1 MaBV abweichen?",
+    "optionen": [
+     "Nein, der Ratenplan nach § 3 Abs. 2 MaBV ist zwingend und kann durch keine Sicherheit ersetzt werden.",
+     "Ja, sichert der Bauträger die Rückgewähransprüche des Erwerbers insgesamt durch Bürgschaft nach § 7 MaBV, ist er von den §§ 2–6 MaBV befreit, insbesondere von § 3 Abs. 1 und 2 MaBV.",
+     "Ja, aber nur, wenn zusätzlich der Einbehalt nach § 650m Abs. 2 BGB bestehen bleibt.",
+     "Nein, weil § 650v BGB Abschläge nur nach dem Ratenplan der HausbauVO zulässt."
+    ],
+    "antwort": 1,
+    "erklaerung": "Sichert der Bauträger die Rückgewähransprüche des Erwerbers insgesamt ab, ist er nach § 7 MaBV von den Pflichten aus § 3 Abs. 1 und 2 MaBV befreit; bei einer selbstschuldnerischen Bankbürgschaft ist er von den §§ 2–6 MaBV gelöst. § 1 HausbauVO lässt diese Abweichung ausdrücklich zu. In der Praxis ist die Bürgschaft nach § 7 MaBV allerdings selten."
+   },
+   {
+    "frage": "Muss die B-GmbH die Bürgschaft nach Fertigstellung und Abnahme zurückerhalten?",
+    "optionen": [
+     "Ja, weil mit Abnahme die Vergütung nach § 641 BGB fällig und das Sicherungsbedürfnis entfallen ist.",
+     "Nein, die Sicherheit nach § 7 MaBV muss bestehen bleiben, bis die Voraussetzungen des § 3 Abs. 1 MaBV vorliegen und das Objekt fertiggestellt ist; da sie auch den Eigentumsverschaffungsanspruch sichert, kann sie vor Eintragung der Vormerkung nicht zurückgegeben werden.",
+     "Ja, weil die Bürgschaft nur die Bauleistung, nicht den Eigentumserwerb sichert.",
+     "Nein, die Bürgschaft ist erst nach Ablauf der fünfjährigen Mängelverjährung zurückzugeben."
+    ],
+    "antwort": 1,
+    "erklaerung": "Die Sicherheit nach § 7 MaBV muss bestehen bleiben, bis die Voraussetzungen von § 3 Abs. 1 MaBV vorliegen und das Objekt vollständig fertiggestellt ist. Da die Bürgschaft auch den Anspruch auf Eigentumsverschaffung sichert, kann sie vor Eintragung der Vormerkung selbst nach vollständiger Fertigstellung nicht zurückgegeben werden. Eine Bindung bis zum Ablauf der Mängelverjährung sieht die Seite nicht vor."
+   },
+   {
+    "frage": "Wäre statt der Bürgschaft nach § 7 MaBV ein Ratenplan mit Einbehalt vereinbart worden: Wann wäre der 5-%-Einbehalt nach § 650m Abs. 2 BGB an die B-GmbH auszuzahlen?",
+    "optionen": [
+     "Mit Eintragung der Vormerkung für E.",
+     "Wenn die Bauleistung rechtzeitig und ohne wesentliche Mängel erbracht ist, in der Regel also nach der Abnahme.",
+     "Mit Zahlung der letzten Rate des Ratenplans unabhängig vom Bauzustand.",
+     "Erst nach Ablauf der fünfjährigen Verjährung der Mängelansprüche."
+    ],
+    "antwort": 1,
+    "erklaerung": "Der Einbehalt wird fällig bzw. die Sicherheit nach § 650m Abs. 2 BGB zurückgegeben, wenn die Bauleistung rechtzeitig und ohne wesentliche Mängel erbracht ist, in der Regel nach der Abnahme. Anders als die Bürgschaft nach § 7 MaBV sichert der Einbehalt nicht den Eigentumserwerb, sondern die rechtzeitige mangelfreie Herstellung; auf die Vormerkung oder den Ablauf der Mängelverjährung kommt es nicht an."
+   }
+  ],
+  "erklaerung": "Die Bürgschaft nach § 7 MaBV befreit den Bauträger vom Ratenplan und den Fälligkeitsvoraussetzungen des § 3 MaBV, muss aber bis zur Fertigstellung und zum Vorliegen der Voraussetzungen des § 3 Abs. 1 MaBV bestehen bleiben; da sie auch den Eigentumserwerb sichert, ist ihre Rückgabe vor Eintragung der Vormerkung ausgeschlossen. Die Sicherheit nach § 650m Abs. 2 BGB hat dagegen einen anderen Zweck und wird mit der rechtzeitigen mangelfreien Herstellung, regelmäßig nach Abnahme, frei."
  }
 ]

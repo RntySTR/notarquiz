@@ -38,8 +38,12 @@ for datei in QUELLEN:
         fehler.append(f'{wo}: kein gültiges JSON ({e})'); continue
     if not isinstance(liste, list):
         fehler.append(f'{wo}: kein Array'); continue
+    praefixe = Counter(q['id'].split('-')[0] for q in liste if isinstance(q.get('id'), str) and '-' in q['id'])
+    erwartet_pref = praefixe.most_common(1)[0][0] if praefixe and '__' in wo else None
     for i, q in enumerate(liste):
         pfad = f'#{i} ({q.get("id","?")})'
+        if erwartet_pref and isinstance(q.get('id'), str) and not q['id'].startswith(erwartet_pref + '-'):
+            warn.append(f'{wo}: {pfad} fremdes Präfix, übersprungen'); continue
         ok = True
         for feld in ('id', 'kapitel', 'seite', 'quelle', 'typ', 'schwierigkeit', 'erklaerung'):
             if feld not in q or q[feld] in ('', None):

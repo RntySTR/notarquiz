@@ -1454,5 +1454,64 @@
    ]
   ],
   "erklaerung": "Zahlreiche Todesfolgen folgen nicht der Gesamtrechtsnachfolge: Der Eintritt in Wohnraummietverhältnisse ist Sonderrechtsnachfolge (§§ 563 ff. BGB), Beamtenversorgung (§§ 16 ff. BeamtVG) und Sozialleistungen (§§ 56 bis 59 SGB I) sind eigene Ansprüche der Hinterbliebenen, bei der Bestattung regelt das Erbrecht nur die Kosten (§ 1968 BGB), und Konzessionen folgen dem öffentlichen Recht. Nur Kapitalgesellschaftsanteile gehen regulär erbrechtlich über."
+ },
+ {
+  "id": "erbr1-062",
+  "kapitel": "erbrecht",
+  "abschnitt": "Pflichtteil und Verzicht",
+  "seite": "Erb- und Pflichtteilsverzicht im Übergabevertrag",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/pflichtteil-und-verzicht/erb-und-pflichtteilsverzicht-im-ubergabevertrag",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2347 S. 1 Hs. 1 BGB",
+   "§ 2348 BGB"
+  ],
+  "frage": "Im Übergabevertrag soll der übernehmende Sohn gegenüber dem Vater auf seinen Pflichtteil verzichten. Der Vater ist verhindert und möchte sich durch die Mutter mit notarieller Vollmacht vertreten lassen. Was gilt?",
+  "optionen": [
+   "Die Vertretung ist zulässig, weil die Vollmacht notariell beurkundet ist",
+   "Die Vertretung ist unzulässig; der Erblasser kann den Verzichtsvertrag nur persönlich schließen, der Verzichtende dagegen kann sich vertreten lassen",
+   "Die Vertretung ist zulässig, wenn der Sohn ebenfalls persönlich erscheint",
+   "Beide Beteiligte müssen stets persönlich anwesend sein"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Erblasser kann einen Erb- oder Pflichtteilsverzichtsvertrag nur persönlich schließen (§ 2347 S. 1 Hs. 1 BGB); eine Vollmacht für den Veräußerer genügt nicht, auch nicht in notarieller Form. Der Verzichtende hingegen kann sich vertreten lassen. Deshalb ist der Veräußerer persönlich zur Beurkundung zu laden; die notarielle Form des § 2348 BGB wird durch die Beurkundung des Übergabevertrags gewahrt."
+ },
+ {
+  "id": "erbr1-063",
+  "kapitel": "erbrecht",
+  "abschnitt": "Pflichtteil und Verzicht",
+  "seite": "Erb- und Pflichtteilsverzicht im Übergabevertrag",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/pflichtteil-und-verzicht/erb-und-pflichtteilsverzicht-im-ubergabevertrag",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 2325 BGB",
+   "§ 311b Abs. 5 BGB"
+  ],
+  "frage": "Der Vater überträgt sein Hausgrundstück an die Tochter T. Der Sohn S soll nicht benachteiligt werden, aber auch keinen Streit um das Haus nach dem Erbfall auslösen. Welche Gestaltung empfiehlt die Seite für S?",
+  "optionen": [
+   "Ein vollständiger Erbverzicht des S gegenüber dem Vater",
+   "Ein gegenständlich auf das Hausgrundstück beschränkter Verzicht des S auf Pflichtteilsergänzungsansprüche nach § 2325 BGB",
+   "Eine Anrechnungsbestimmung zulasten des S",
+   "Ein Verzicht des S auf die gesetzliche Erbfolge zugunsten der T"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nicht begünstigte Pflichtteilsberechtigte können auf Pflichtteilsergänzungsansprüche (§ 2325 BGB) beschränkt auf den übergebenen Gegenstand verzichten; das schützt die Erben des Veräußerers und den Erwerber im späteren Erbfall, ohne S im Übrigen schlechter zu stellen. Ein vollständiger Erbverzicht ginge weit über das Ziel hinaus. Zusätzlich können die Geschwister untereinander vereinbaren, keine Pflichtteilsergänzungsansprüche geltend zu machen (§ 311b Abs. 5 BGB)."
+ },
+ {
+  "id": "erbr1-064",
+  "kapitel": "erbrecht",
+  "abschnitt": "Pflichtteil und Verzicht",
+  "seite": "Erb- und Pflichtteilsverzicht im Übergabevertrag",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/pflichtteil-und-verzicht/erb-und-pflichtteilsverzicht-im-ubergabevertrag",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 2303 BGB"
+  ],
+  "frage": "Hat der Erwerber im Übergabevertrag auf seinen Pflichtteil verzichtet, bleibt der Verzicht zwingend auch dann bestehen, wenn der Veräußerer das Grundstück später aufgrund seines Rückforderungsrechts zurückverlangt.",
+  "antwort": false,
+  "erklaerung": "Das Verhältnis von Pflichtteilsverzicht und Rückforderungsrecht ist gestaltbar und im Vertrag ausdrücklich klarzustellen: Der Verzicht kann auflösend bedingt durch die Ausübung der Rückforderung gestaltet werden oder unabhängig von ihr fortbestehen. Eine zwingende Fortgeltung sieht das Gesetz nicht vor; die fehlende Regelung ist ein Gestaltungsrisiko, weil der Erwerber sonst trotz Rückgabe des Grundstücks ohne Pflichtteil bliebe."
  }
 ]
