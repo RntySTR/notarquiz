@@ -596,5 +596,304 @@
    }
   ],
   "erklaerung": "Die Fensterreparatur fällt als untergeordnete Maßnahme in die Entscheidungskompetenz der V nach § 27 Abs. 1 Nr. 1 WEG. Der auffällige Anstrich ist trotz geringer Kosten wegen der optischen Veränderung von den Eigentümern zu beschließen. Die Kompetenzen lassen sich nach § 27 Abs. 2 WEG am besten durch einen beschlossenen Aufgabenkatalog konkretisieren."
+ },
+ {
+  "id": "wohn4-028",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Verwalternachweis gegenüber dem Grundbuchamt: Grundsatz und Prüfung durch das Grundbuchamt",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalternachweis-gegenuber-dem-grundbuchamt-grundsatz-und-prufung-durch-das-grundbuchamt",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 26 Abs. 4 WEG",
+   "§ 24 Abs. 6 S. 2 WEG",
+   "§ 29 GBO"
+  ],
+  "frage": "Wessen öffentlich beglaubigte Unterschriften muss die Niederschrift über den Bestellungsbeschluss tragen, um die Verwaltereigenschaft gegenüber dem Grundbuchamt nachzuweisen (Anlage mit Verwaltungsbeirat)?",
+  "optionen": [
+   "Des Verwalters, des Versammlungsvorsitzenden und des Beiratsvorsitzenden",
+   "Aller in der Versammlung anwesenden Wohnungseigentümer",
+   "Des Versammlungsvorsitzenden, eines Wohnungseigentümers und des Beiratsvorsitzenden oder seines Vertreters",
+   "Des Versammlungsvorsitzenden und zweier Wohnungseigentümer"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 26 Abs. 4 WEG i.V.m. § 24 Abs. 6 S. 2 WEG genügt eine Niederschrift mit öffentlich beglaubigten Unterschriften des Versammlungsvorsitzenden, eines Wohnungseigentümers und, falls ein Verwaltungsbeirat besteht, dessen Vorsitzenden oder Vertreters. Die Unterschrift des Verwalters selbst ist nicht vorgesehen. Die Unterschriften aller Eigentümer sind nur bei Umlaufbeschlüssen nach herrschender Meinung erforderlich."
+ },
+ {
+  "id": "wohn4-029",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Verwalternachweis gegenüber dem Grundbuchamt: Grundsatz und Prüfung durch das Grundbuchamt",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalternachweis-gegenuber-dem-grundbuchamt-grundsatz-und-prufung-durch-das-grundbuchamt",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 23 Abs. 4 S. 2 WEG"
+  ],
+  "frage": "Der Bestellungsbeschluss ist angefochten worden; über die Anfechtungsklage ist noch nicht entschieden. Wie verhält sich das Grundbuchamt gegenüber der ordnungsgemäß beglaubigten Niederschrift?",
+  "optionen": [
+   "Es muss den Beschluss als vorläufig wirksam hinnehmen; der Nachweis ist geführt",
+   "Es muss das Verfahren bis zur rechtskräftigen Entscheidung über die Anfechtung aussetzen",
+   "Es muss den Nachweis zurückweisen, weil die Bestandskraft nicht feststeht",
+   "Es darf den Nachweis nur gegen Vorlage einer Bestätigung aller Eigentümer anerkennen"
+  ],
+  "antwort": 0,
+  "erklaerung": "Ein bloß anfechtbarer Beschluss ist vorläufig wirksam (vgl. § 23 Abs. 4 S. 2 WEG); das Grundbuchamt muss ihn hinnehmen. Anders liegt es nur, wenn für das Grundbuchamt erkennbar ist, dass der Bestellungsbeschluss nichtig ist; dann ist der Nachweis nicht geführt. Die fehlende Bestandskraft allein hindert den Nachweis nicht."
+ },
+ {
+  "id": "wohn4-030",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Verwalternachweis gegenüber dem Grundbuchamt: Grundsatz und Prüfung durch das Grundbuchamt",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalternachweis-gegenuber-dem-grundbuchamt-grundsatz-und-prufung-durch-das-grundbuchamt",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Das Grundbuchamt muss sich die Bestellung des Verwaltungsbeirats nachweisen lassen, bevor es die Unterschrift des Beiratsvorsitzenden auf der Niederschrift berücksichtigt.",
+  "antwort": false,
+  "erklaerung": "Nach herrschender Rechtsprechung prüft das Grundbuchamt nicht, ob die Unterzeichner tatsächlich Versammlungsleiter oder Beiratsvorsitzender sind; insbesondere ist die Bestellung des Verwaltungsbeirats nicht nachzuweisen (KG, ZWE 2018, 263). Die Gegenansicht des OLG Hamm hat sich nicht durchgesetzt."
+ },
+ {
+  "id": "wohn4-031",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Verwalternachweis gegenüber dem Grundbuchamt: Grundsatz und Prüfung durch das Grundbuchamt",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalternachweis-gegenuber-dem-grundbuchamt-grundsatz-und-prufung-durch-das-grundbuchamt",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Der erste Verwalter wurde in der Teilungserklärung bestellt. Wie wird seine Verwaltereigenschaft gegenüber dem Grundbuchamt nachgewiesen?",
+  "optionen": [
+   "Nur durch eine Niederschrift über einen bestätigenden Bestellungsbeschluss",
+   "Durch die Teilungserklärung; das Fortbestehen der Verwalterstellung kann nur bei begründeten Zweifeln verlangt werden",
+   "Durch die Teilungserklärung zusammen mit einer stets vorzulegenden Bestätigung über den Fortbestand",
+   "Durch eine Eigenerklärung des Verwalters mit beglaubigter Unterschrift"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei Bestellung in der Teilungserklärung genügt diese als Nachweis (OLG Oldenburg, DNotZ 1979, 33). Einen Nachweis über das Fortbestehen der Verwalterstellung kann das Grundbuchamt nur bei begründeten Zweifeln verlangen (BayObLG, NJW-RR 1991, 978). Eine regelmäßige Bestätigung ist daher nicht erforderlich."
+ },
+ {
+  "id": "wohn4-032",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Verwalternachweis gegenüber dem Grundbuchamt: Unterschriften auf der Niederschrift",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalternachweis-gegenuber-dem-grundbuchamt-unterschriften-auf-der-niederschrift",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 24 Abs. 6 WEG"
+  ],
+  "frage": "Nach ganz herrschender Meinung kann die Niederschrift über den Bestellungsbeschluss nur unterschreiben, wer in der Versammlung persönlich anwesend war.",
+  "antwort": true,
+  "erklaerung": "Nach ganz herrschender Meinung ist persönliche Anwesenheit in der Versammlung Voraussetzung für die Unterschrift nach § 24 Abs. 6 WEG. Leitet der Vorsitzende die Versammlung als Vertreter aller Eigentümer, kann nur er unterschreiben. Die Gegenansicht (F. Schmidt) hat sich nicht durchgesetzt."
+ },
+ {
+  "id": "wohn4-033",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Verwalternachweis gegenüber dem Grundbuchamt: Unterschriften auf der Niederschrift",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalternachweis-gegenuber-dem-grundbuchamt-unterschriften-auf-der-niederschrift",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 24 Abs. 6 WEG"
+  ],
+  "frage": "In einer Versammlung ohne Verwaltungsbeirat sind nur die Versammlungsleiterin L, die zugleich Wohnungseigentümerin ist, und ein weiterer Eigentümer anwesend. L möchte die Niederschrift allein in beiden Funktionen unterzeichnen. Ist das zulässig?",
+  "optionen": [
+   "Ja, weil L beide Funktionen tatsächlich innehat",
+   "Ja, sofern beide Funktionsangaben bei der Unterschrift vermerkt werden",
+   "Nein, sie muss zusätzlich die Unterschrift des Verwalters beibringen",
+   "Nein, § 24 Abs. 6 WEG verlangt verschiedene Personen; der weitere Eigentümer muss als Wohnungseigentümer unterschreiben"
+  ],
+  "antwort": 3,
+  "erklaerung": "Wer als Vorsitzender oder Beiratsvorsitzender unterschreibt, kann nicht zugleich als Wohnungseigentümer unterzeichnen; § 24 Abs. 6 WEG verlangt verschiedene Personen (KG, RNotZ 2015, 214). Die Funktionsangabe ändert daran nichts. Umstritten ist nur, ob der Versammlungsvorsitzende zugleich als Beiratsvorsitzender unterschreiben kann."
+ },
+ {
+  "id": "wohn4-034",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Verwalternachweis gegenüber dem Grundbuchamt: Unterschriften auf der Niederschrift",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalternachweis-gegenuber-dem-grundbuchamt-unterschriften-auf-der-niederschrift",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 26 Abs. 4 WEG",
+   "§ 24 Abs. 6 WEG"
+  ],
+  "frage": "Beglaubigung des Verwalterprotokolls",
+  "sachverhalt": "In der Anlage „Lindenhof“ wurde V in der Versammlung zum Verwalter bestellt. Es wurde ein Verwaltungsbeirat aus einem Mitglied ohne Vorsitzenden gewählt. Die Niederschrift unterschreiben Versammlungsleiter L in Stuttgart und der anwesende Eigentümer E zwei Wochen später bei einem Notar in Hamburg; bei E fehlt jede Funktionsangabe, die sich auch nicht aus dem Protokoll ergibt.",
+  "schritte": [
+   {
+    "frage": "Ist die Unterschrift eines Beiratsmitglieds erforderlich?",
+    "optionen": [
+     "Ja, jedes Beiratsmitglied muss unterschreiben",
+     "Ja, das einzige Beiratsmitglied unterschreibt als Vorsitzender",
+     "Nein, weil kein Beirat mit Vorsitzendem gewählt wurde; das Grundbuchamt muss diesen negativen Umstand nicht nachgewiesen bekommen",
+     "Nein, aber das Grundbuchamt muss sich die Beiratswahl nachweisen lassen"
+    ],
+    "antwort": 2,
+    "erklaerung": "Die Unterschrift des Beiratsvorsitzenden oder seines Stellvertreters ist nur nötig, wenn ein Beirat mit diesen Funktionsträgern gewählt wurde und diese teilgenommen haben. Ein Beirat ohne Vorsitzenden lässt das Unterschriftserfordernis entfallen; einen Nachweis dieser negativen Umstände muss das Grundbuchamt nicht verlangen (KG, ZWE 2018, 263)."
+   },
+   {
+    "frage": "Schadet es, dass L und E ihre Unterschriften zeitlich versetzt bei verschiedenen Notaren beglaubigen ließen?",
+    "optionen": [
+     "Ja, alle Unterschriften müssen in einer Beglaubigung erfolgen",
+     "Ja, die Unterschriften müssen am Versammlungstag geleistet werden",
+     "Nein, aber nur, wenn beide Notare im selben Bundesland amtieren",
+     "Nein, Unterschriften können nachgeholt und in getrennten Beglaubigungen bei verschiedenen Notaren anerkannt werden"
+    ],
+    "antwort": 3,
+    "erklaerung": "Unterschriften können später nachgeholt werden (OLG München, NJW 2008, 156; a.A. OLG Düsseldorf). Die Unterzeichner können ihre Unterschriften in getrennten Beglaubigungen bei verschiedenen Notaren anerkennen (Böhringer, DNotZ 2016, 831, 844)."
+   },
+   {
+    "frage": "Wie ist mit der fehlenden Funktionsangabe bei E umzugehen?",
+    "optionen": [
+     "Die Funktionsangabe kann nachgeholt werden, weil das Grundbuchamt die Funktion erkennen können muss",
+     "Sie ist unschädlich, weil das Grundbuchamt die Funktionen nicht prüft",
+     "Die Niederschrift ist endgültig unbrauchbar; die Versammlung muss wiederholt werden",
+     "E muss die Unterschrift mit dem Zusatz „Beirat“ versehen"
+    ],
+    "antwort": 0,
+    "erklaerung": "Das Grundbuchamt muss erkennen können, in welcher Funktion jemand unterschreibt; die Angabe kann nachgeholt werden (OLG München, ZWE 2016, 331). Sie wäre nur entbehrlich, wenn sich die Funktionen aus dem Protokoll ergäben. Ein Zusatz „Beirat“ genügt nach dem OLG Düsseldorf gerade nicht als Unterschrift eines Wohnungseigentümers."
+   }
+  ],
+  "erklaerung": "Eine Beiratsunterschrift ist entbehrlich, weil kein Beirat mit Vorsitzendem gewählt wurde. Die versetzten, getrennten Beglaubigungen sind unschädlich. Die fehlende Funktionsangabe bei E ist nachzuholen; bei der Beglaubigung sollte von vornherein auf Funktionsangaben geachtet werden."
+ },
+ {
+  "id": "wohn4-035",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Verwalternachweis gegenüber dem Grundbuchamt: Unterschriften auf der Niederschrift",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalternachweis-gegenuber-dem-grundbuchamt-unterschriften-auf-der-niederschrift",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 26 Abs. 4 WEG"
+  ],
+  "frage": "Der Verwalter wird im Umlaufverfahren bestellt. Welches Vorgehen ist für den Nachweis gegenüber dem Grundbuchamt zu empfehlen?",
+  "optionen": [
+   "Niederschrift mit drei Unterschriften entsprechend § 24 Abs. 6 WEG, weil Umlaufbeschlüsse heute mit Mehrheit zulässig sind",
+   "Eigenerklärung des Verwalters mit beglaubigter Unterschrift",
+   "Vorsorglich die Unterschriften aller Eigentümer beglaubigen lassen",
+   "Beglaubigte Unterschrift nur des Beiratsvorsitzenden"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach herrschender Meinung gilt § 26 Abs. 4 WEG nicht für Umlaufbeschlüsse; dann müssen die Unterschriften aller Eigentümer beglaubigt werden (OLG Köln, ZWE 2022, 77). Die Gegenansicht lässt seit Zulassung von Mehrheitsbeschlüssen im Umlaufverfahren drei Unterschriften entsprechend § 24 Abs. 6 WEG genügen. Wegen des Meinungsstands sollten vorsorglich alle Unterschriften beglaubigt werden."
+ },
+ {
+  "id": "wohn4-036",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Wirtschaftsplan, Jahresabrechnung, Sonderumlage und Verwaltungsbeirat",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/wirtschaftsplan-jahresabrechnung-sonderumlage-und-verwaltungsbeirat",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 28 Abs. 2 S. 1 WEG"
+  ],
+  "frage": "Worüber beschließen die Wohnungseigentümer nach Ablauf des Kalenderjahres auf Grundlage der Jahresabrechnung?",
+  "optionen": [
+   "Über die Genehmigung der Jahresabrechnung als Zahlenwerk",
+   "Über die Einforderung von Nachschüssen oder die Anpassung der Vorschüsse",
+   "Über die Entlastung des Verwalters als zwingenden Bestandteil der Abrechnung",
+   "Über die Aufstellung der Jahresabrechnung durch den Verwalter"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Verwalter stellt die Jahresabrechnung auf (§ 28 Abs. 2 S. 2 WEG); die Eigentümer beschließen über die Einforderung von Nachschüssen oder die Anpassung der Vorschüsse (§ 28 Abs. 2 S. 1 WEG). Die Jahresabrechnung selbst ist nicht Beschlussgegenstand. Entsprechend sind beim Wirtschaftsplan die Vorschüsse, nicht das Zahlenwerk, Gegenstand des Beschlusses."
+ },
+ {
+  "id": "wohn4-037",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Wirtschaftsplan, Jahresabrechnung, Sonderumlage und Verwaltungsbeirat",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/wirtschaftsplan-jahresabrechnung-sonderumlage-und-verwaltungsbeirat",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [],
+  "frage": "Die Gemeinschaftsordnung kann wirksam bestimmen, dass die Jahresabrechnung als genehmigt gilt, wenn kein Eigentümer innerhalb eines Monats nach Zugang widerspricht.",
+  "antwort": false,
+  "erklaerung": "Klauseln, nach denen die Jahresabrechnung ohne Beschluss wirksam wird, wenn niemand fristgerecht widerspricht, sind in jeder Form unwirksam. Eine solche Genehmigungsfiktion sollte daher nicht in die Gemeinschaftsordnung aufgenommen werden. Erforderlich bleibt der Beschluss über Nachschüsse oder die Anpassung der Vorschüsse."
+ },
+ {
+  "id": "wohn4-038",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Wirtschaftsplan, Jahresabrechnung, Sonderumlage und Verwaltungsbeirat",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/wirtschaftsplan-jahresabrechnung-sonderumlage-und-verwaltungsbeirat",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 29 Abs. 1 S. 2 WEG",
+   "§ 29 Abs. 2 S. 2 WEG",
+   "§ 29 Abs. 3 WEG"
+  ],
+  "frage": "Ordne die Fragen zum Verwaltungsbeirat der zutreffenden Regel zu.",
+  "paare": [
+   [
+    "Mindestzahl der Mitglieder",
+    "Nicht vorgeschrieben; eine Person genügt"
+   ],
+   [
+    "Vorsitzender und Stellvertreter",
+    "Bei mehreren Mitgliedern zu bestimmen"
+   ],
+   [
+    "Wirtschaftsplan und Jahresabrechnung",
+    "Vor der Beschlussfassung prüfen und mit Stellungnahme versehen"
+   ],
+   [
+    "Haftung unentgeltlich tätiger Mitglieder",
+    "Nur für Vorsatz und grobe Fahrlässigkeit"
+   ],
+   [
+    "Verwalter als Beiratsmitglied",
+    "Ausgeschlossen"
+   ]
+  ],
+  "erklaerung": "Eine Mindestzahl ist nicht vorgeschrieben; bei mehreren Mitgliedern sind ein Vorsitzender und ein Stellvertreter zu bestimmen (§ 29 Abs. 1 S. 2 WEG). Der Beirat soll Wirtschaftsplan und Jahresabrechnung vor der Beschlussfassung prüfen und mit einer Stellungnahme versehen (§ 29 Abs. 2 S. 2 WEG). Unentgeltlich tätige Mitglieder haften nur für Vorsatz und grobe Fahrlässigkeit (§ 29 Abs. 3 WEG); der Verwalter kann nicht zugleich Beiratsmitglied sein."
+ },
+ {
+  "id": "wohn4-039",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Wirtschaftsplan, Jahresabrechnung, Sonderumlage und Verwaltungsbeirat",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/wirtschaftsplan-jahresabrechnung-sonderumlage-und-verwaltungsbeirat",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 28 Abs. 3 WEG",
+   "§ 271 Abs. 1 BGB"
+  ],
+  "frage": "Die Eigentümer beschließen die Vorschüsse nach dem Wirtschaftsplan, ohne eine Fälligkeit festzulegen. Wann ist das Hausgeld fällig?",
+  "optionen": [
+   "Sofort, ohne dass es einer Anforderung durch den Verwalter bedarf",
+   "Erst nach Anforderung durch den Verwalter",
+   "Monatlich zum Dritten, wie es § 28 Abs. 3 WEG als Regelfall vorsieht",
+   "Erst mit Genehmigung der Jahresabrechnung"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Eigentümer können die Fälligkeit nach § 28 Abs. 3 WEG beschließen, meist monatlich. Fehlt ein solcher Beschluss, ist das Hausgeld sofort fällig (§ 271 Abs. 1 BGB); eine Anforderung durch den Verwalter ist nicht mehr nötig. § 28 Abs. 3 WEG gibt nur die Beschlusskompetenz, aber keinen gesetzlichen Fälligkeitstermin vor."
+ },
+ {
+  "id": "wohn4-040",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Wirtschaftsplan, Jahresabrechnung, Sonderumlage und Verwaltungsbeirat",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/wirtschaftsplan-jahresabrechnung-sonderumlage-und-verwaltungsbeirat",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 29 Abs. 1 S. 1 WEG"
+  ],
+  "frage": "Was gilt für die Bestellung von Mitgliedern des Verwaltungsbeirats?",
+  "optionen": [
+   "Sie setzt eine Öffnungsklausel in der Gemeinschaftsordnung voraus",
+   "Sie bedarf einer Vereinbarung aller Eigentümer",
+   "Sie erfolgt mit einfacher Mehrheit; bestellt werden können auch Nichteigentümer",
+   "Sie erfolgt mit einfacher Mehrheit; bestellt werden können nur Wohnungseigentümer"
+  ],
+  "antwort": 3,
+  "erklaerung": "Die Eigentümer können Wohnungseigentümer mit einfacher Mehrheit zu Beiratsmitgliedern bestellen (vgl. § 29 Abs. 1 S. 1 WEG); einer Regelung in der Gemeinschaftsordnung bedarf es nicht. Mitglied kann nur ein Wohnungseigentümer sein; mit dem Verlust des Wohnungseigentums endet die Mitgliedschaft. Die Bestellung ist frei widerruflich."
  }
 ]

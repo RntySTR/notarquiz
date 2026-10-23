@@ -138,9 +138,7 @@
   "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-besitzubergang-mangel-mietverhaltnis-und-auflassung",
   "typ": "mc",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 883 BGB"
-  ],
+  "normen": [],
   "frage": "Wann ist beim Übergabevertrag eine Vormerkung für den Erwerber und eine Abwicklung wie beim Kauf angezeigt?",
   "optionen": [
    "Wenn der Vertragsgegenstand vermietet ist",
@@ -250,9 +248,7 @@
   "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-beteiligte-ehegattenzustimmung-und-vollmacht",
   "typ": "mc",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 15 ErbStG"
-  ],
+  "normen": [],
   "frage": "Weshalb ist im Übergabevertrag das Verwandtschaftsverhältnis zwischen Veräußerer und Erwerber anzugeben?",
   "optionen": [
    "Es bestimmt, ob die Übergabe der Grunderwerbsteuer unterliegt",
@@ -457,9 +453,7 @@
   "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-grundbuchstand-vertragsgegenstand-und-loschung-alter-rechte",
   "typ": "rf",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 415 BGB"
-  ],
+  "normen": [],
   "frage": "Sichert eine eingetragene Grundschuld noch ein Darlehen, muss der Übergabevertrag vor allem regeln, ob der Erwerber die weiteren Raten zahlt oder der Veräußerer das Darlehen weiter tilgt.",
   "antwort": true,
   "erklaerung": "Bei valutierenden Grundpfandrechten ist zentral, wer das gesicherte Darlehen weiter bedient. Allgemein ist für jede Belastung in Abteilung II und III festzulegen, ob der Erwerber sie übernimmt oder ob sie gelöscht wird."
@@ -472,10 +466,7 @@
   "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-grundbuchstand-vertragsgegenstand-und-loschung-alter-rechte",
   "typ": "mc",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 875 BGB",
-   "§ 19 GBO"
-  ],
+  "normen": [],
   "frage": "Welcher Umstand ist kein Anzeichen dafür, dass ein eingetragenes Recht erledigt und löschbar sein könnte?",
   "optionen": [
    "Das Recht ist im Rang nach einer Grundschuld eingetragen",
@@ -494,10 +485,7 @@
   "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-grundbuchstand-vertragsgegenstand-und-loschung-alter-rechte",
   "typ": "mc",
   "schwierigkeit": 3,
-  "normen": [
-   "§ 19 GBO",
-   "§ 29 GBO"
-  ],
+  "normen": [],
   "frage": "Warum sollte der Notar die Übergabe nutzen, um erledigte Rechte löschen zu lassen?",
   "optionen": [
    "Weil erledigte Rechte die Schenkungsteuer erhöhen",
@@ -605,9 +593,7 @@
   "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-vorkaufsrechte-genehmigungen-verwalterzustimmung-und-anzeigen",
   "typ": "rf",
   "schwierigkeit": 1,
-  "normen": [
-   "§ 24 BauGB"
-  ],
+  "normen": [],
   "frage": "Das gemeindliche Vorkaufsrecht kommt bei einer Übergabe in der Regel nicht zum Zug, weil kein Verkaufsfall vorliegt.",
   "antwort": true,
   "erklaerung": "Gemeindliche, wasser-, wald- und naturschutzrechtliche Vorkaufsrechte setzen einen Verkaufsfall voraus. Die schenkweise Übergabe ist kein Kauf, sodass diese Vorkaufsrechte in der Regel nicht ausgelöst werden."
@@ -1090,9 +1076,7 @@
   "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-freies-ruckforderungsrecht",
   "typ": "mc",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 93 SGB XII"
-  ],
+  "normen": [],
   "frage": "Welcher Nachteil folgt aus der Pfändbarkeit eines freien Rückforderungsrechts?",
   "optionen": [
    "Das Recht erlischt mit der ersten Pfändung",
@@ -1111,9 +1095,7 @@
   "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-freies-ruckforderungsrecht",
   "typ": "rf",
   "schwierigkeit": 3,
-  "normen": [
-   "§ 7 ErbStG"
-  ],
+  "normen": [],
   "frage": "Nach ständiger Rechtsprechung des BFH ist eine frei widerrufliche Schenkung schenkungsteuerlich nicht ausgeführt; eine Rückübertragung aufgrund des Widerrufs ist eine Rückschenkung.",
   "antwort": false,
   "erklaerung": "Nach ständiger BFH-Rechtsprechung ist die Schenkung trotz freier Widerruflichkeit ausgeführt und kann daher für eine steuerlich motivierte vorweggenommene Erbfolge genutzt werden. Die Rückübertragung aufgrund des vorbehaltenen Rechts ist keine Rückschenkung, weil sie nicht freiwillig erfolgt."
@@ -1126,9 +1108,7 @@
   "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-freies-ruckforderungsrecht",
   "typ": "mc",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 883 BGB"
-  ],
+  "normen": [],
   "frage": "Weshalb ist ein freies Rückforderungsrecht für den Erwerber besonders nachteilig?",
   "optionen": [
    "Weil er die Immobilie jederzeit verlieren kann, Investitionen unattraktiv werden und die Rückerwerbsvormerkung die Beleihung erschwert",
@@ -1466,9 +1446,7 @@
   "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-vertragliche-ruckforderungsrechte-grunde-gestaltung-und-mehrere-beteiligte",
   "typ": "rf",
   "schwierigkeit": 1,
-  "normen": [
-   "§ 158 Abs. 2 BGB"
-  ],
+  "normen": [],
   "frage": "Bedingte Rückforderungsrechte sollten nach der Praxis standardmäßig in den Übergabevertrag aufgenommen werden, weil sie den Erwerber nicht belasten und den Verbleib der Immobilie in der Familie schützen.",
   "antwort": true,
   "erklaerung": "Beteiligte lehnen Rückforderungsrechte oft ab, weil sie Misstrauen ausdrücken sollen. Bedingte Rückforderungsrechte schützen aber vor allem bei Insolvenz oder Scheidung des Erwerbers den Verbleib der Immobilie in der Familie und belasten ihn nicht; sie sollten daher standardmäßig vereinbart werden."
@@ -1481,9 +1459,7 @@
   "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-vertragliche-ruckforderungsrechte-grunde-gestaltung-und-mehrere-beteiligte",
   "typ": "mc",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 158 Abs. 2 BGB"
-  ],
+  "normen": [],
   "frage": "Wie wirkt eine als auflösende Bedingung gestaltete Rückfallklausel für den Fall der Insolvenz des Erwerbers?",
   "optionen": [
    "Das Eigentum fällt mit Insolvenzeröffnung ohne Grundbucheintragung an den Veräußerer zurück",
@@ -1553,9 +1529,7 @@
   "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-vertragliche-ruckforderungsrechte-grunde-gestaltung-und-mehrere-beteiligte",
   "typ": "mc",
   "schwierigkeit": 1,
-  "normen": [
-   "§ 1363 BGB"
-  ],
+  "normen": [],
   "frage": "Welcher Fall gehört nicht zu den üblichen vertraglichen Rückforderungsgründen im Übergabevertrag?",
   "optionen": [
    "Veräußerung oder Belastung ohne vorherige Zustimmung des Veräußerers",
@@ -1574,9 +1548,7 @@
   "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-abstandszahlung-rente-und-abgrenzung-zum-kaufvertrag",
   "typ": "mc",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 516 Abs. 1 BGB"
-  ],
+  "normen": [],
   "frage": "Die Tochter soll für das Haus der Eltern (Verkehrswert 400.000 €) eine Zahlung von 380.000 € leisten. Wie ist der Vertrag zu gestalten?",
   "optionen": [
    "Als Übergabevertrag mit Abstandszahlung ohne besondere Sicherungen",
@@ -1632,9 +1604,7 @@
   "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-abstandszahlung-rente-und-abgrenzung-zum-kaufvertrag",
   "typ": "mc",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 794 Abs. 1 Nr. 5 ZPO"
-  ],
+  "normen": [],
   "frage": "Die Abstandszahlung soll erst ein Jahr nach der Übergabe fällig werden, das Eigentum aber sofort übergehen. Welche Sicherung kommt für den Veräußerer in Betracht?",
   "optionen": [
    "Ein Grundpfandrecht (Grundschuld oder Hypothek) für den Veräußerer",
@@ -1689,9 +1659,7 @@
   "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-gleichstellungsgeld",
   "typ": "mc",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 2050 BGB"
-  ],
+  "normen": [],
   "frage": "Der Erwerber kann kein Gleichstellungsgeld an seine Geschwister zahlen. Welche Alternative kommt nach der Praxis zur Gleichstellung in Betracht?",
   "optionen": [
    "Eine Rückerwerbsvormerkung zugunsten der Geschwister",
@@ -1848,9 +1816,7 @@
   "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-pflegeverpflichtung",
   "typ": "mc",
   "schwierigkeit": 3,
-  "normen": [
-   "§§ 346 ff. BGB"
-  ],
+  "normen": [],
   "frage": "Wie lässt sich Streit über den Wert erbrachter Pflegeleistungen bei einer späteren Rückabwicklung des Übergabevertrags vermeiden?",
   "optionen": [
    "Durch Vereinbarung eines festen Ausgleichsbetrags für jedes volle Jahr erbrachter Pflege",
@@ -1956,9 +1922,7 @@
   "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-vorbehaltene-nutzungsrechte-rang-mehrere-berechtigte-jahreswert-und-spatere-aufgabe",
   "typ": "mc",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 883 BGB"
-  ],
+  "normen": [],
   "frage": "Welche Rangfolge ist bei vorbehaltenem Nießbrauch und Rückerwerbsvormerkung üblich?",
   "optionen": [
    "Gleichrang beider Rechte",
@@ -2021,9 +1985,7 @@
   "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-vorbehaltene-nutzungsrechte-rang-mehrere-berechtigte-jahreswert-und-spatere-aufgabe",
   "typ": "mc",
   "schwierigkeit": 3,
-  "normen": [
-   "§ 7 ErbStG"
-  ],
+  "normen": [],
   "frage": "Der Alleineigentümer V übergibt sein Haus unter Nießbrauchsvorbehalt; seine Ehefrau F soll nach seinem Tod ebenfalls nießbrauchsberechtigt sein. Welche Gestaltung empfiehlt sich regelmäßig?",
   "optionen": [
    "Ein Nießbrauch des V, der kraft Gesetzes auf F übergeht",
@@ -2189,7 +2151,6 @@
   "schwierigkeit": 3,
   "normen": [
    "§ 1030 BGB",
-   "§ 1093 BGB",
    "§ 23 Abs. 2 GBO"
   ],
   "frage": "Wahl des Nutzungsvorbehalts",
@@ -2239,9 +2200,7 @@
   "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-wohnungsrecht-wegzugsklausel-und-loschung",
   "typ": "mc",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 1093 BGB"
-  ],
+  "normen": [],
   "frage": "Welchen Zweck verfolgt eine Wegzugsklausel beim vorbehaltenen Wohnungsrecht?",
   "optionen": [
    "Sie verhindert die Umdeutung eines nicht mehr ausgeübten Wohnungsrechts in einen auf den Sozialhilfeträger überleitbaren Zahlungsanspruch",
@@ -2260,9 +2219,7 @@
   "quelle": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-wohnungsrecht-wegzugsklausel-und-loschung",
   "typ": "rf",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 1093 BGB"
-  ],
+  "normen": [],
   "frage": "Eine Wegzugsklausel wirkt auch dann, wenn dem Wohnungsberechtigten die Vermietung der Räume an Dritte gestattet ist.",
   "antwort": false,
   "erklaerung": "Die Wegzugsklausel wirkt nur, wenn der Berechtigte die Ausübung keinem Dritten überlassen darf. Ist die Vermietung erlaubt, unterliegen die Mieten wie beim Nießbrauch der Pfändung und Überleitung; die Klausel ist daher nur mit einem nicht übertragbaren Wohnungsrecht zu kombinieren."

@@ -1391,5 +1391,101 @@
   ],
   "antwort": 0,
   "erklaerung": "Nach § 14 Abs. 4 Nr. 9 UStG ist gegebenenfalls auf die Aufbewahrungspflicht des Leistungsempfängers hinzuweisen. Im Notariat betrifft das Kostenberechnungen zu Grundstücksumsätzen wie Grundstückskaufverträgen (§ 14b Abs. 1 S. 5 i. V. m. § 14 Abs. 2 S. 1 Nr. 1 UStG)."
+ },
+ {
+  "id": "kost4-060",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Notarkosten: Antrag auf gerichtliche Entscheidung (§§ 127–130 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/notarkosten-antrag-auf-gerichtliche-entscheidung-127-130-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 127 GNotKG",
+   "§ 767 ZPO"
+  ],
+  "frage": "Ein Kostenschuldner meint, er habe die Notarkosten bereits durch Aufrechnung getilgt, und will gegen die Vollstreckung aus der Kostenberechnung vorgehen. Welcher Weg ist eröffnet?",
+  "optionen": [
+   "Vollstreckungsgegenklage nach § 767 ZPO vor dem Prozessgericht",
+   "Leistungsklage vor dem Amtsgericht auf Feststellung der Erfüllung",
+   "Antrag auf gerichtliche Entscheidung beim Landgericht am Amtssitz des Notars nach §§ 127 ff. GNotKG",
+   "Beschwerde bei der Notarkammer als Dienstaufsicht"
+  ],
+  "antwort": 2,
+  "erklaerung": "Einwendungen gegen Kostenanspruch und Kostenberechnung können ausschließlich im Verfahren nach §§ 127 ff. GNotKG beim Landgericht am Amtssitz des Notars verfolgt werden; der ordentliche Rechtsweg ist ausgeschlossen. Das gilt ausdrücklich auch für Einwendungen, die sonst mit der Vollstreckungsgegenklage (§ 767 ZPO) geltend zu machen wären; der Weg über § 767 ZPO ist ein typischer Fehler."
+ },
+ {
+  "id": "kost4-061",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Notarkosten: Antrag auf gerichtliche Entscheidung (§§ 127–130 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/notarkosten-antrag-auf-gerichtliche-entscheidung-127-130-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 127 Abs. 1 S. 2 GNotKG"
+  ],
+  "frage": "Der Notar kann den Antrag auf gerichtliche Entscheidung jederzeit selbst stellen, um die Richtigkeit seiner Kostenberechnung klären zu lassen.",
+  "antwort": false,
+  "erklaerung": "Antragsberechtigt ist grundsätzlich nur der Kostenschuldner. Der Notar kann den Antrag nur stellen, wenn der Schuldner die Kostenberechnung ihm gegenüber beanstandet hat (§ 127 Abs. 1 S. 2 GNotKG). Unabhängig davon kann ihn die Dienstbehörde anweisen, das Landgericht anzurufen (§ 130 Abs. 2 S. 1 GNotKG)."
+ },
+ {
+  "id": "kost4-062",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Notarkosten: Antrag auf gerichtliche Entscheidung (§§ 127–130 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/notarkosten-antrag-auf-gerichtliche-entscheidung-127-130-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 130 Abs. 2 S. 1 GNotKG"
+  ],
+  "frage": "Bei der Dienstprüfung hält der Prüfer einen Kostenansatz des Notars für zu niedrig. Wie darf er vorgehen?",
+  "optionen": [
+   "Er darf den Kostenansatz selbst berichtigen.",
+   "Er darf dem Notar aufgeben, die Kostenberechnung zu ändern.",
+   "Er darf nur auf Antrag des Kostenschuldners tätig werden.",
+   "Die Dienstaufsicht kann den Notar nur anweisen, eine gerichtliche Entscheidung herbeizuführen."
+  ],
+  "antwort": 3,
+  "erklaerung": "Der Prüfer darf einen aus seiner Sicht falschen Kostenansatz weder selbst ändern noch dem Notar die Änderung aufgeben. Die Dienstaufsicht kann den Notar nur anweisen, das Landgericht anzurufen oder Rechtsmittel einzulegen (§ 130 Abs. 2 S. 1 GNotKG); dann kann das Gericht auch höhere Kosten festsetzen, weil das Verschlechterungsverbot nur bei alleinigem Antrag des Schuldners gilt."
+ },
+ {
+  "id": "kost4-063",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Notarkosten: Antrag auf gerichtliche Entscheidung (§§ 127–130 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/notarkosten-antrag-auf-gerichtliche-entscheidung-127-130-gnotkg",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 129 Abs. 1 GNotKG",
+   "§ 130 GNotKG",
+   "§ 70 FamFG"
+  ],
+  "frage": "Ordne dem Verfahrensaspekt der Kostenbeschwerde die zutreffende Regel zu.",
+  "paare": [
+   [
+    "Beschwerde gegen die Entscheidung des Landgerichts",
+    "Statthaft ohne Rücksicht auf den Beschwerdewert"
+   ],
+   [
+    "Rechtsbeschwerde gegen die Entscheidung des OLG",
+    "Nur bei Zulassung"
+   ],
+   [
+    "Gerichtsgebühren im landgerichtlichen Verfahren",
+    "Fallen nicht an"
+   ],
+   [
+    "Wirkung des Antrags auf die Zahlungspflicht",
+    "Keine aufschiebende Wirkung, sofern das Gericht nichts anderes anordnet"
+   ],
+   [
+    "Anwaltszwang vor dem Landgericht",
+    "Besteht nicht"
+   ]
+  ],
+  "erklaerung": "Gegen die LG-Entscheidung ist die Beschwerde ohne Rücksicht auf den Beschwerdewert statthaft (§ 129 Abs. 1 GNotKG), die Rechtsbeschwerde gegen OLG-Entscheidungen nur bei Zulassung (§ 70 FamFG). Für das landgerichtliche Verfahren fehlt ein Gebührentatbestand. Rechtsbehelfe haben nach § 130 GNotKG keine aufschiebende Wirkung, das Gericht kann sie aber anordnen; Anwaltszwang besteht vor dem LG nicht."
  }
 ]

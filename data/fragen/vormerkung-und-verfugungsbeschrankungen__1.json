@@ -709,5 +709,352 @@
   ],
   "antwort": 0,
   "erklaerung": "Entsteht die Genehmigungspflicht erst nach Stellung des Eintragungsantrags, schützt § 878 BGB die Beteiligten, sofern im Zeitpunkt des Eintritts der Genehmigungspflicht alle übrigen Voraussetzungen für den Vollzug vorlagen. Allein die Beurkundung ohne Antrag genügt nicht; auf Vormerkung oder Kaufpreiszahlung kommt es nicht an."
+ },
+ {
+  "id": "vorm1-032",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Sanierungsgenehmigung: genehmigungspflichtige Rechtsvorgänge und Ausnahmen (§ 144 BauGB)",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/sanierungsgenehmigung-genehmigungspflichtige-rechtsvorgange-und-ausnahmen-144-baugb",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 144 BauGB"
+  ],
+  "frage": "Bei welcher Beteiligung entfällt die Pflicht zur Sanierungsgenehmigung für einen Grundstücksverkauf im Sanierungsgebiet grundsätzlich?",
+  "optionen": [
+   "Wenn die Belegenheitsgemeinde als Vertragspartnerin beteiligt ist",
+   "Wenn das Land als Erwerber beteiligt ist",
+   "Wenn eine Nachbargemeinde das Grundstück erwirbt",
+   "Wenn der Sanierungsträger auf eigene Rechnung an eine Tochtergesellschaft veräußert"
+  ],
+  "antwort": 0,
+  "erklaerung": "Ist die Gemeinde oder der Sanierungsträger als Vertragspartner oder Eigentümer beteiligt, entfällt die Genehmigungspflicht grundsätzlich; gemeint ist allein die Belegenheitsgemeinde. Eine andere Gemeinde, Bund, Länder oder Gemeindeverbände genügen nicht. Handelt der Sanierungsträger auf eigene Rechnung (§ 159 BauGB) oder veräußert er an eine Tochtergesellschaft, soll die Freistellung nicht gelten."
+ },
+ {
+  "id": "vorm1-033",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Sanierungsgenehmigung: genehmigungspflichtige Rechtsvorgänge und Ausnahmen (§ 144 BauGB)",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/sanierungsgenehmigung-genehmigungspflichtige-rechtsvorgange-und-ausnahmen-144-baugb",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 153 Abs. 3 S. 1 BauGB",
+   "§ 134 BGB"
+  ],
+  "frage": "Überschreitet ein Kaufvertrag mit der Gemeinde im Sanierungsgebiet die Preisgrenze des § 153 Abs. 3 S. 1 BauGB, ist er nach § 134 BGB nichtig.",
+  "antwort": true,
+  "erklaerung": "Ist die Gemeinde oder der Sanierungsträger beteiligt, entfällt zwar die Genehmigungspflicht, doch § 153 Abs. 3 S. 1 BauGB begrenzt die zulässige Gegenleistung. Diese Preisgrenze ist ein gesetzliches Verbot im Sinne des § 134 BGB; ein Verstoß führt zur Nichtigkeit, nicht bloß zu schwebender Unwirksamkeit."
+ },
+ {
+  "id": "vorm1-034",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Sanierungsgenehmigung: genehmigungspflichtige Rechtsvorgänge und Ausnahmen (§ 144 BauGB)",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/sanierungsgenehmigung-genehmigungspflichtige-rechtsvorgange-und-ausnahmen-144-baugb",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 144 BauGB"
+  ],
+  "frage": "Der Zuschlag in der Zwangsversteigerung eines Grundstücks im Sanierungsgebiet bedarf der Sanierungsgenehmigung.",
+  "antwort": false,
+  "erklaerung": "Maßnahmen der Zwangsversteigerung sind von der Sanierungsgenehmigung nicht erfasst. Genehmigungspflichtig nach § 144 BauGB ist die rechtsgeschäftliche Veräußerung einschließlich der Veräußerung von Miteigentumsbruchteilen; die Rechtsprechung rechnet auch die Eigentumsaufgabe hierzu. Ebenso ist die Eintragung einer Zwangssicherungshypothek genehmigungsfrei."
+ },
+ {
+  "id": "vorm1-035",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Sanierungsgenehmigung: genehmigungspflichtige Rechtsvorgänge und Ausnahmen (§ 144 BauGB)",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/sanierungsgenehmigung-genehmigungspflichtige-rechtsvorgange-und-ausnahmen-144-baugb",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 144 BauGB"
+  ],
+  "frage": "Für einen Grundstückskaufvertrag im Sanierungsgebiet liegt die Sanierungsgenehmigung des schuldrechtlichen Vertrags vor. Was gilt für die Auflassung?",
+  "optionen": [
+   "Sie bedarf einer gesonderten Sanierungsgenehmigung",
+   "Sie braucht keine weitere Sanierungsgenehmigung",
+   "Sie ist nur mit Negativattest vollziehbar",
+   "Sie ist genehmigungspflichtig, wenn sie in einer gesonderten Urkunde erklärt wird"
+  ],
+  "antwort": 1,
+  "erklaerung": "Genehmigungspflichtig ist bereits die schuldrechtliche Verpflichtung zur Veräußerung oder Belastung, auch wenn kein dinglicher Vollzug folgt. Ist der schuldrechtliche Vertrag genehmigt, braucht das dingliche Geschäft keine weitere Sanierungsgenehmigung. Ein Negativattest ist nur bei fehlender Genehmigungspflicht einschlägig."
+ },
+ {
+  "id": "vorm1-036",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Sanierungsgenehmigung: genehmigungspflichtige Rechtsvorgänge und Ausnahmen (§ 144 BauGB)",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/sanierungsgenehmigung-genehmigungspflichtige-rechtsvorgange-und-ausnahmen-144-baugb",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 144 BauGB"
+  ],
+  "frage": "Übergabe im Sanierungsgebiet",
+  "sachverhalt": "Witwer W, Vater zweier Kinder S und T, überträgt sein Hausgrundstück im förmlich festgelegten Sanierungsgebiet an seinen Sohn S. W behält sich ein Wohnungsrecht vor. S verpflichtet sich, an T ein Gleichstellungsgeld zu zahlen, das durch eine Grundschuld zugunsten der T gesichert wird. Zur Finanzierung des Gleichstellungsgelds soll S eine Grundschuld für seine Bank bestellen.",
+  "schritte": [
+   {
+    "frage": "Bedarf die Übertragung an S einer Sanierungsgenehmigung?",
+    "optionen": [
+     "Ja, jede Veräußerung im Sanierungsgebiet ist genehmigungspflichtig",
+     "Nein, weil Veräußerungen zur vorweggenommenen Erbfolge an gesetzliche Erben freigestellt sind",
+     "Nein, weil unentgeltliche Geschäfte nie genehmigungspflichtig sind",
+     "Ja, weil die Freistellung nur für Erbauseinandersetzungen gilt"
+    ],
+    "antwort": 1,
+    "erklaerung": "Genehmigungsfrei sind Veräußerungen und Belastungen zum Zweck der vorweggenommenen Erbfolge samt schuldrechtlichem Vertrag; maßgeblich ist allein die gesetzliche Erbfolge. S ist gesetzlicher Erbe des W. Auf die Unentgeltlichkeit kommt es nicht an; bei Belastungen ist sie ausdrücklich unerheblich. Erbauseinandersetzungen sind gerade nicht freigestellt."
+   },
+   {
+    "frage": "Wie sind Wohnungsrecht für W und Grundschuld für T zu behandeln?",
+    "optionen": [
+     "Beide sind als Teil der vorweggenommenen Erbfolge genehmigungsfrei",
+     "Beide sind als Belastungen genehmigungspflichtig",
+     "Nur das Wohnungsrecht ist frei, die Grundschuld für T ist genehmigungspflichtig",
+     "Nur die Grundschuld ist frei, weil sie in Abteilung III eingetragen wird"
+    ],
+    "antwort": 0,
+    "erklaerung": "Innerhalb des Rahmens der vorweggenommenen Erbfolge sind alle Geschäfte freigestellt, auch ein Wohnungsrecht für den Übergeber und dingliche Sicherungen für weichende Erben. Ob das Recht in Abteilung II oder III eingetragen wird, spielt für die Genehmigungspflicht keine Rolle."
+   },
+   {
+    "frage": "Wie ist die Finanzierungsgrundschuld der Bank des S zu behandeln?",
+    "optionen": [
+     "Sie ist genehmigungsfrei, weil sie der vorweggenommenen Erbfolge dient",
+     "Sie ist genehmigungsfrei, weil Grundschulden von Kreditinstituten freigestellt sind",
+     "Sie ist wohl nicht freigestellt und daher genehmigungspflichtig",
+     "Sie ist unzulässig, weil im Sanierungsgebiet keine Grundschulden bestellt werden dürfen"
+    ],
+    "antwort": 2,
+    "erklaerung": "Grundschulden zur Finanzierung einer Hinauszahlung sind wohl nicht freigestellt; sie als genehmigungsfrei zu behandeln, ist ein typischer Fehler. Die Belastung ist daher nach § 144 BauGB genehmigungspflichtig, sofern keine allgemeine Vorabgenehmigung nach § 144 Abs. 3 BauGB besteht."
+   }
+  ],
+  "erklaerung": "Die Übergabe an den gesetzlichen Erben S ist als vorweggenommene Erbfolge genehmigungsfrei, einschließlich Wohnungsrecht des Übergebers und Sicherung der weichenden Erbin. Die Finanzierungsgrundschuld des Übernehmers ist dagegen wohl nicht freigestellt und braucht die Sanierungsgenehmigung."
+ },
+ {
+  "id": "vorm1-037",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Umgehung von Genehmigungen und Vorkaufsrechten durch gesellschaftsrechtliche Gestaltungen",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/umgehung-von-genehmigungen-und-vorkaufsrechten-durch-gesellschaftsrechtliche-gestaltungen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Wann liegt nach dem BGH bei einer gesellschaftsrechtlichen Konstruktion eine Umgehung von Genehmigungs- oder Vorkaufsrechtsnormen vor?",
+  "optionen": [
+   "Wenn die Beteiligten nachweislich mit Umgehungsabsicht gehandelt haben",
+   "Wenn die Auslegung ergibt, dass die Beteiligten ungeachtet der Form den Eigentumsübergang am Grundstück gegen einen bestimmten Preis wollten",
+   "Nur wenn zwischen Einbringung und Anteilsverkauf weniger als ein Jahr liegt",
+   "Nur wenn die Gesellschaft eigens zum Zweck des Anteilsverkaufs gegründet wurde"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach dem BGH liegt eine Umgehung vor, wenn die Auslegung nach den Interessen der Beteiligten zeigt, dass sie ungeachtet der formalen Gestaltung den Eigentumsübergang (auch) am Grundstück gegen einen bestimmten Preis wollten; gleiches soll gelten, wenn sich wirtschaftlich dasselbe ergibt wie bei Grundstücksverkauf mit anschließender Einbringung. Eine Umgehungsabsicht ist nach herrschender Meinung nicht erforderlich; die Prüfung erfolgt objektiv."
+ },
+ {
+  "id": "vorm1-038",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Umgehung von Genehmigungen und Vorkaufsrechten durch gesellschaftsrechtliche Gestaltungen",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/umgehung-von-genehmigungen-und-vorkaufsrechten-durch-gesellschaftsrechtliche-gestaltungen",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [],
+  "frage": "Der Verkauf sämtlicher Anteile an einer grundstückshaltenden Gesellschaft löst grundsätzlich eine Genehmigungspflicht und ein Vorkaufsrecht für das Grundstück aus.",
+  "antwort": false,
+  "erklaerung": "Grundsätzlich entstehen beim Verkauf einer grundstückshaltenden Gesellschaft weder Genehmigungspflicht noch Vorkaufsrecht, weil beides voraussetzt, dass der Vertrag das Grundstück selbst betrifft. Erst unter dem Gesichtspunkt der Umgehung werden Genehmigungs- und Vorkaufsrechtsnormen analog angewendet."
+ },
+ {
+  "id": "vorm1-039",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Umgehung von Genehmigungen und Vorkaufsrechten durch gesellschaftsrechtliche Gestaltungen",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/umgehung-von-genehmigungen-und-vorkaufsrechten-durch-gesellschaftsrechtliche-gestaltungen",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [],
+  "frage": "A bringt ein Grundstück in eine neu gegründete GmbH ein, die außer diesem Grundstück kein Vermögen hat, und verkauft unmittelbar danach alle Geschäftsanteile an B. Wie ist die Gestaltung zu beurteilen?",
+  "optionen": [
+   "Sie vermeidet sicher Genehmigungspflichten und Vorkaufsrechte, weil nur Anteile verkauft werden",
+   "Genehmigungs- und Vorkaufsrechtsnormen sind analog anzuwenden; wirkt der Notar an einer offensichtlichen Umgehung mit, verletzt er seine Amtspflichten",
+   "Sie ist nichtig, weil Grundstücke nicht in eine GmbH eingebracht werden dürfen",
+   "Sie ist nur dann eine Umgehung, wenn der Notar eine Umgehungsabsicht feststellt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der BGH stellt die Veräußerung einer Gesellschaft, deren einziger Zweck die Verwaltung ihrer Grundstücke ist, wirtschaftlich dem Grundstücksverkauf gleich; Einbringung mit unmittelbar folgender Anteilsübertragung führt zur analogen Anwendung der Genehmigungs- und Vorkaufsrechtsnormen. Konsequent genügt schon, dass die Gesellschaft keine sonstigen Aktiva hat. Die Annahme, der Anteilsverkauf vermeide sicher diese Pflichten, ist ein typischer Fehler; die Mitwirkung an offensichtlicher Umgehung ist eine Amtspflichtverletzung."
+ },
+ {
+  "id": "vorm1-040",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Umwandlungsgenehmigung in Erhaltungsgebieten (§ 172 Abs. 1 S. 4 BauGB)",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/umwandlungsgenehmigung-in-erhaltungsgebieten-172-abs-1-s-4-baugb",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 172 Abs. 1 S. 4 BauGB",
+   "§ 172 Abs. 1 S. 1 Nr. 2 BauGB"
+  ],
+  "frage": "Unter welchen Voraussetzungen ist die Begründung von Wohnungseigentum nach § 172 Abs. 1 S. 4 BauGB genehmigungspflichtig?",
+  "optionen": [
+   "Wenn das Grundstück im Geltungsbereich einer Erhaltungssatzung nach § 172 Abs. 1 S. 1 Nr. 2 BauGB und einer entsprechenden Landesverordnung liegt",
+   "Wenn das Grundstück im Geltungsbereich einer Erhaltungssatzung liegt; eine Landesverordnung ist entbehrlich",
+   "Wenn eine Landesverordnung besteht; einer gemeindlichen Satzung bedarf es nicht",
+   "Wenn das Grundstück in einem Gebiet mit angespanntem Wohnungsmarkt nach § 201a BauGB liegt"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Genehmigungspflicht besteht nur, wenn das Grundstück sowohl im Geltungsbereich einer Erhaltungssatzung (Milieuschutz) nach § 172 Abs. 1 S. 1 Nr. 2 BauGB als auch einer Landesverordnung nach § 172 Abs. 1 S. 4 BauGB liegt; eine solche Verordnung hat auch Baden-Württemberg erlassen. Das Gebiet mit angespanntem Wohnungsmarkt betrifft die gesonderte Umwandlungsgenehmigung nach § 250 BauGB."
+ },
+ {
+  "id": "vorm1-041",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Umwandlungsgenehmigung in Erhaltungsgebieten (§ 172 Abs. 1 S. 4 BauGB)",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/umwandlungsgenehmigung-in-erhaltungsgebieten-172-abs-1-s-4-baugb",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 172 Abs. 4 S. 3 BauGB"
+  ],
+  "frage": "Ordne die Fälle, in denen die Genehmigung nach § 172 Abs. 4 S. 3 BauGB zu erteilen ist, ihrer Nummer zu.",
+  "paare": [
+   [
+    "Nr. 2",
+    "Aufteilung eines Nachlassgrundstücks für Miterben oder Vermächtnisnehmer"
+   ],
+   [
+    "Nr. 3",
+    "Übertragung an Familienangehörige zur Eigennutzung"
+   ],
+   [
+    "Nr. 4",
+    "Für Bildung und Übertragung von Sondereigentum ist bereits eine Vormerkung eingetragen"
+   ],
+   [
+    "Nr. 5",
+    "Gebäude wird bei Antragstellung nicht zu Wohnzwecken genutzt"
+   ],
+   [
+    "Nr. 6",
+    "Eigentümer verpflichtet sich, Wohnungen binnen sieben Jahren nur an Mieter zu veräußern"
+   ]
+  ],
+  "erklaerung": "§ 172 Abs. 4 S. 3 BauGB gewährt in diesen Fällen einen Anspruch auf Genehmigung. Bei Nr. 3 besteht der Anspruch nur für die Einheit, die der Familienangehörige bewohnen soll, und je Angehörigem nur für eine Wohnung. Bei Nr. 6 kann die Genehmigung Verkäufe ihrerseits unter Genehmigungsvorbehalt stellen, der auf Ersuchen der Gemeinde eingetragen wird und eine Grundbuchsperre bewirkt."
+ },
+ {
+  "id": "vorm1-042",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Umwandlungsgenehmigung in Erhaltungsgebieten (§ 172 Abs. 1 S. 4 BauGB)",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/umwandlungsgenehmigung-in-erhaltungsgebieten-172-abs-1-s-4-baugb",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 172 Abs. 1 S. 5 BauGB"
+  ],
+  "frage": "Fehlt die Genehmigung der Aufteilung nach § 172 Abs. 1 S. 4 BauGB, ist ein gutgläubiger Erwerb von Wohnungseigentumseinheiten grundsätzlich möglich.",
+  "antwort": true,
+  "erklaerung": "Nach § 172 Abs. 1 S. 5 BauGB ist ein gutgläubiger Erwerb von Wohnungseigentumseinheiten bei fehlender Genehmigung grundsätzlich möglich. Anders als im Sanierungsgebiet, wo ein gutgläubiger Erwerb ausgeschlossen ist, wird der Rechtsverkehr hier geschützt. Unabhängig davon besteht eine Grundbuchsperre, und bei unzulässiger Eintragung ist auf Ersuchen ein Widerspruch einzutragen."
+ },
+ {
+  "id": "vorm1-043",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Umwandlungsgenehmigung in Erhaltungsgebieten (§ 172 Abs. 1 S. 4 BauGB)",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/umwandlungsgenehmigung-in-erhaltungsgebieten-172-abs-1-s-4-baugb",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 172 Abs. 1 S. 4 BauGB"
+  ],
+  "frage": "Welcher Vorgang ist im Milieuschutzgebiet mit Landesverordnung nach § 172 Abs. 1 S. 4 BauGB genehmigungspflichtig?",
+  "optionen": [
+   "Die Begründung eines Dauerwohnrechts nach § 31 WEG",
+   "Die Eintragung einer Miteigentümervereinbarung nach § 1010 BGB",
+   "Die Begründung eines Wohnungserbbaurechts nach § 30 WEG",
+   "Eine Änderung der Teilungserklärung, durch die zusätzliches Sondereigentum gebildet wird"
+  ],
+  "antwort": 3,
+  "erklaerung": "Genehmigungspflichtig ist die Begründung von Wohnungs- oder Teileigentum; eine spätere Änderung der Teilungserklärung nur, wenn zusätzliches Sondereigentum gebildet wird. Anders als bei § 22 und § 250 BauGB sind Wohnungserbbaurechte, Dauerwohnrechte und Miteigentum mit Vereinbarung nach § 1010 BGB nicht erfasst. Die Aufteilung von Neubauten fällt richtigerweise ebenfalls nicht darunter."
+ },
+ {
+  "id": "vorm1-044",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Umwandlungsgenehmigung nach § 250 BauGB: erfasste Vorgänge, Gebiete und Wohngebäude",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/umwandlungsgenehmigung-nach-250-baugb-erfasste-vorgange-gebiete-und-wohngebaude",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 250 Abs. 1 S. 2 BauGB",
+   "§ 250 Abs. 1 S. 6 BauGB"
+  ],
+  "frage": "Welche Gebäude sind von der Umwandlungsgenehmigung nach § 250 BauGB grundsätzlich ausgenommen?",
+  "optionen": [
+   "Gebäude mit nicht mehr als drei Wohnungen; die Verordnung kann die Grenze auf bis zu zehn anheben",
+   "Gebäude mit nicht mehr als fünf Wohnungen; die Verordnung kann die Grenze zwischen 3 und 15 Wohnungen festlegen",
+   "Gebäude mit nicht mehr als zehn Wohnungen; eine abweichende Festlegung ist ausgeschlossen",
+   "Gebäude mit nicht mehr als fünf Wohnungseigentumseinheiten einschließlich Gewerbeeinheiten"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 250 Abs. 1 S. 2 BauGB sind Gebäude mit nicht mehr als fünf Wohnungen ausgenommen; die Verordnung kann die Grenze nach § 250 Abs. 1 S. 6 BauGB im Bereich von 3 bis 15 Wohnungen abweichend festlegen. Maßgeblich sind die baurechtlichen Wohnungen, nicht die Wohnungseigentumseinheiten; Gewerbeeinheiten zählen nicht mit."
+ },
+ {
+  "id": "vorm1-045",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Umwandlungsgenehmigung nach § 250 BauGB: erfasste Vorgänge, Gebiete und Wohngebäude",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/umwandlungsgenehmigung-nach-250-baugb-erfasste-vorgange-gebiete-und-wohngebaude",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 250 Abs. 1 S. 1 BauGB"
+  ],
+  "frage": "Nach § 250 BauGB ist sowohl die Unterteilung als auch die Zusammenlegung von Wohnungseigentumseinheiten genehmigungspflichtig.",
+  "antwort": false,
+  "erklaerung": "Genehmigungspflichtig ist neben der Begründung von Wohnungs- oder Teileigentum (Teilung nach § 3 und § 8 WEG) die Unterteilung von Einheiten; die Zusammenlegung ist nicht erfasst. Nach dem KG unterfällt auch die Änderung von Wohnungs- in Teileigentum der Genehmigungspflicht."
+ },
+ {
+  "id": "vorm1-046",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Umwandlungsgenehmigung nach § 250 BauGB: erfasste Vorgänge, Gebiete und Wohngebäude",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/umwandlungsgenehmigung-nach-250-baugb-erfasste-vorgange-gebiete-und-wohngebaude",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 250 Abs. 1 S. 2 BauGB"
+  ],
+  "frage": "Wie wird bei § 250 BauGB die Zahl der Wohnungen für die Ausnahme kleiner Gebäude richtigerweise ermittelt?",
+  "optionen": [
+   "Nach der Zahl der in der Teilungserklärung geplanten Wohnungseigentumseinheiten",
+   "Nach der Zahl der tatsächlich bewohnten Einheiten",
+   "Nach der Zahl der baurechtlichen Wohnungen laut Baugenehmigung, ohne Gewerbeeinheiten",
+   "Nach der Zahl aller abgeschlossenen Einheiten einschließlich Gewerbe"
+  ],
+  "antwort": 2,
+  "erklaerung": "Maßgeblich ist richtigerweise die Zahl der baurechtlichen Wohnungen nach der Baugenehmigung, nicht die Zahl der Wohnungseigentumseinheiten; Gewerbeeinheiten zählen nicht mit. Lässt die Baugenehmigung eine Wohnnutzung zu, zählt die Einheit mit, gleich ob sie bewohnt wird; bei zugelassener Wohn- und Gewerbenutzung entscheidet die tatsächliche Bauausführung. Eigenständig ist eine Wohnung nur, wenn sie abgeschlossen ist."
+ },
+ {
+  "id": "vorm1-047",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Umwandlungsgenehmigung nach § 250 BauGB: erfasste Vorgänge, Gebiete und Wohngebäude",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/umwandlungsgenehmigung-nach-250-baugb-erfasste-vorgange-gebiete-und-wohngebaude",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 250 Abs. 1 S. 2 BauGB"
+  ],
+  "frage": "Ein bestehendes Mehrfamilienhaus im Gebiet einer Verordnung nach § 250 Abs. 1 S. 3 BauGB wird aufgestockt; nur das neue Dachgeschoss soll in Wohnungseigentum aufgeteilt werden. Was gilt?",
+  "optionen": [
+   "Für den neu geschaffenen Wohnraum gilt die Genehmigungspflicht nicht",
+   "Die Aufteilung ist genehmigungspflichtig, weil das Gebäude bei Erlass der Verordnung bestand",
+   "Die Aufteilung ist nur mit Zustimmung aller Mieter zulässig",
+   "Die Genehmigungspflicht entfällt nur, wenn das gesamte Gebäude erstmals nach dem Ausbau aufgeteilt wird"
+  ],
+  "antwort": 0,
+  "erklaerung": "Wird ein Gebäude aufgestockt oder erweitert und nur der neue Teil aufgeteilt, kommt es allein auf diesen Teil an; für Flächen, auf denen zusätzlicher Wohnraum geschaffen wird, gilt die Genehmigungspflicht nicht (§ 250 Abs. 1 S. 2 BauGB). Wird dagegen das Gebäude erst nach einem Ausbau insgesamt erstmals aufgeteilt, ist es ein Bestandsgebäude; die letzte Option verkehrt das ins Gegenteil."
  }
 ]

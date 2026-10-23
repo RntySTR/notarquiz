@@ -1307,5 +1307,277 @@
   "frage": "Da sich die Gesellschafter nach § 705 BGB gegenseitig verpflichten, ist ein Gesellschaftsvertrag ein Austauschvertrag, dessen Wert nach § 97 Abs. 3 GNotKG die höherwertige Leistung bildet.",
   "antwort": false,
   "erklaerung": "Der Gesellschaftsvertrag ist kein Austauschvertrag im Sinne des § 97 Abs. 3 GNotKG, sondern ein Leistungsvereinigungsvertrag: Die Gesellschafter führen ihre Beiträge in der Gesellschaft zusammen. Die Formulierung „gegenseitig verpflichten“ in § 705 BGB ändert daran nichts. Geschäftswert ist die Summe aller Gesellschafterleistungen, in den Grenzen von 30.000 € bis 10.000.000 € (§ 107 Abs. 1 GNotKG)."
+ },
+ {
+  "id": "kost2-058",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Registeranmeldungen (§§ 105, 106 GNotKG) – Grundsätze, Höchstwert, Musterprotokoll",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-registeranmeldungen-105-106-gnotkg-grundsatze-hochstwert-musterprotokoll",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 105 Abs. 5 GNotKG"
+  ],
+  "frage": "Welcher Geschäftswert gilt für die Anmeldung der Änderung der inländischen Geschäftsanschrift einer GmbH?",
+  "optionen": [
+   "30.000 € (Mindestwert)",
+   "1 % des Stammkapitals, mindestens 30.000 €",
+   "5.000 € als Anmeldung ohne wirtschaftliche Bedeutung",
+   "Wert nach billigem Ermessen gemäß § 36 GNotKG"
+  ],
+  "antwort": 2,
+  "erklaerung": "Für wirtschaftlich unbedeutende Anmeldungen ist der Geschäftswert nach § 105 Abs. 5 GNotKG auf 5.000 € festgelegt; der Mindestwert von 30.000 € gilt hier nicht. Hierzu zählt insbesondere die Änderung der inländischen Geschäftsanschrift. 1 % des Stammkapitals, mindestens 30.000 €, betrifft sonstige spätere Anmeldungen einer Kapitalgesellschaft nach § 105 Abs. 4 Nr. 1 GNotKG."
+ },
+ {
+  "id": "kost2-059",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Registeranmeldungen (§§ 105, 106 GNotKG) – Grundsätze, Höchstwert, Musterprotokoll",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-registeranmeldungen-105-106-gnotkg-grundsatze-hochstwert-musterprotokoll",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 106 GNotKG",
+   "§ 111 Nr. 3 GNotKG",
+   "§ 35 Abs. 1 GNotKG"
+  ],
+  "frage": "Enthält eine Urkunde mehrere Registeranmeldungen, werden deren Einzelwerte addiert; der Höchstwert von 1 Mio. € nach § 106 GNotKG gilt dann für jede Anmeldung gesondert und nicht für die Summe.",
+  "antwort": false,
+  "erklaerung": "Mehrere Anmeldungen in einer Urkunde sind stets besondere Beurkundungsgegenstände (§ 111 Nr. 3 GNotKG); ihre Einzelwerte werden addiert (§ 35 Abs. 1 GNotKG). Der Höchstwert von 1 Mio. € gilt nach dem Wortlaut des § 106 GNotKG aber auch für die Summe mehrerer Anmeldungen in einer Urkunde."
+ },
+ {
+  "id": "kost2-060",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Registeranmeldungen (§§ 105, 106 GNotKG) – Grundsätze, Höchstwert, Musterprotokoll",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-registeranmeldungen-105-106-gnotkg-grundsatze-hochstwert-musterprotokoll",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 105 Abs. 6 GNotKG",
+   "§ 105 Abs. 1 S. 2 GNotKG"
+  ],
+  "frage": "Eine mit Musterprotokoll gegründete UG (haftungsbeschränkt) ändert ihre Satzung und fügt Regelungen zur Einziehung von Geschäftsanteilen und zum Stimmrecht ein. Welcher Wert gilt für die Anmeldung der Satzungsänderung?",
+  "optionen": [
+   "1 % des Stammkapitals ohne Mindestwert, da Musterprotokollgesellschaft",
+   "5.000 € als Anmeldung ohne wirtschaftliche Bedeutung",
+   "Mindestwert von 30.000 €, da die Satzung nicht mehr als Musterprotokoll errichtet werden könnte",
+   "Nominales Stammkapital"
+  ],
+  "antwort": 2,
+  "erklaerung": "Satzungsänderungen einer Musterprotokollgesellschaft sind nach § 105 Abs. 6 S. 1 Nr. 2 GNotKG nur dann vom Mindestwert befreit, wenn die geänderte Satzung selbst noch als Musterprotokoll errichtet werden könnte. Regelungen zur Einziehung oder zum Stimmrecht gehen darüber hinaus, sodass der Mindestwert von 30.000 € gilt. Nur bei privilegierter Änderung ohne Kapitalbezug wären 1 % des Stammkapitals ohne Mindestwert anzusetzen."
+ },
+ {
+  "id": "kost2-061",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Registeranmeldungen (§§ 105, 106 GNotKG) – Grundsätze, Höchstwert, Musterprotokoll",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-registeranmeldungen-105-106-gnotkg-grundsatze-hochstwert-musterprotokoll",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 36 GNotKG",
+   "§ 105 GNotKG"
+  ],
+  "frage": "Wonach bestimmt sich der Geschäftswert einer Anmeldung zum Vereinsregister?",
+  "optionen": [
+   "Nach § 105 Abs. 4 Nr. 4 GNotKG mit 30.000 €",
+   "Nach billigem Ermessen gemäß § 36 GNotKG",
+   "Nach § 105 Abs. 3 Nr. 3 GNotKG mit 60.000 €",
+   "Nach § 105 Abs. 5 GNotKG mit festen 5.000 €"
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 105 GNotKG erfasst Anmeldungen zum Handels-, Gesellschafts-, Genossenschafts- und Partnerschaftsregister, nicht aber zum Vereinsregister. Dort wird der Geschäftswert nach billigem Ermessen gemäß § 36 GNotKG bestimmt. Die Festwerte des § 105 Abs. 3 bis 5 GNotKG sind daher nicht anwendbar."
+ },
+ {
+  "id": "kost2-062",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Registeranmeldungen (§§ 105, 106 GNotKG) – Werte mit und ohne bestimmten Geldwert",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-registeranmeldungen-105-106-gnotkg-werte-mit-und-ohne-bestimmten-geldwert",
+  "typ": "fall",
+  "frage": "Gründung und Änderung einer KG",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 105 Abs. 1 S. 1 Nr. 5 GNotKG",
+   "§ 105 Abs. 1 S. 1 Nr. 6 GNotKG",
+   "§ 105 Abs. 1 S. 2 GNotKG",
+   "§ 105 Abs. 4 Nr. 3 GNotKG"
+  ],
+  "sachverhalt": "Die X-KG wird erstmals zum Handelsregister angemeldet. Persönlich haftende Gesellschafter sind A und B; Kommanditisten sind C mit einer Hafteinlage von 50.000 € und D mit einer Hafteinlage von 20.000 €. Zwei Jahre später erhöht C seine Hafteinlage um 10.000 €. Danach scheidet B als Komplementär aus.",
+  "schritte": [
+   {
+    "frage": "Welcher Geschäftswert gilt für die Erstanmeldung der KG?",
+    "optionen": [
+     "45.000 € nach § 105 Abs. 3 Nr. 2 GNotKG",
+     "100.000 €",
+     "115.000 €",
+     "70.000 €"
+    ],
+    "antwort": 2,
+    "erklaerung": "Für die Erstanmeldung einer KG gilt § 105 Abs. 1 S. 1 Nr. 5 GNotKG, nicht § 105 Abs. 3 GNotKG: 30.000 € für den ersten Komplementär, 15.000 € für jeden weiteren und die Summe der Hafteinlagen (70.000 €); insgesamt 115.000 €."
+   },
+   {
+    "frage": "Welcher Wert gilt für die Anmeldung der Erhöhung der Hafteinlage des C?",
+    "optionen": [
+     "10.000 €",
+     "30.000 €",
+     "60.000 €",
+     "5.000 €"
+    ],
+    "antwort": 1,
+    "erklaerung": "Maßgeblich ist der einfache Änderungsbetrag der Hafteinlage (§ 105 Abs. 1 S. 1 Nr. 6 und 7 GNotKG), hier 10.000 €; der Geschäftswert beträgt aber stets mindestens 30.000 € (§ 105 Abs. 1 S. 2 GNotKG)."
+   },
+   {
+    "frage": "Wonach richtet sich der Wert der Anmeldung des Ausscheidens von B?",
+    "optionen": [
+     "§ 105 Abs. 1 S. 1 Nr. 5 GNotKG mit 15.000 €",
+     "§ 105 Abs. 4 Nr. 3 GNotKG als Anmeldung ohne bestimmten Geldwert",
+     "§ 105 Abs. 5 GNotKG mit 5.000 €",
+     "§ 105 Abs. 1 S. 1 Nr. 6 GNotKG nach der Hafteinlage"
+    ],
+    "antwort": 1,
+    "erklaerung": "Änderungen bei den Komplementären sind Anmeldungen ohne bestimmten Geldwert nach § 105 Abs. 4 Nr. 3 GNotKG (rechtsfähige Personengesellschaft: 30.000 €). Hier einen Wert nach § 105 Abs. 1 GNotKG anzusetzen, ist ein typischer Fehler."
+   }
+  ],
+  "erklaerung": "Die Erstanmeldung der KG wird nach § 105 Abs. 1 S. 1 Nr. 5 GNotKG mit 115.000 € bewertet. Die Hafteinlagenerhöhung zählt mit dem Änderungsbetrag, mindestens 30.000 €. Das Ausscheiden eines Komplementärs ist eine Anmeldung ohne bestimmten Geldwert nach § 105 Abs. 4 Nr. 3 GNotKG."
+ },
+ {
+  "id": "kost2-063",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Registeranmeldungen (§§ 105, 106 GNotKG) – Werte mit und ohne bestimmten Geldwert",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-registeranmeldungen-105-106-gnotkg-werte-mit-und-ohne-bestimmten-geldwert",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 105 Abs. 1 S. 1 Nr. 3 GNotKG",
+   "§ 108 GNotKG"
+  ],
+  "frage": "Die GmbH erhöht ihr Stammkapital um 40.000 € gegen ein Agio von 360.000 €. Welcher Geschäftswert gilt für die Handelsregisteranmeldung der Kapitalerhöhung?",
+  "optionen": [
+   "40.000 €",
+   "400.000 €",
+   "30.000 €",
+   "1 % des neuen Stammkapitals"
+  ],
+  "antwort": 0,
+  "erklaerung": "Für die Anmeldung zählt nach § 105 Abs. 1 S. 1 Nr. 3 GNotKG nur der einzutragende Änderungsbetrag, also der Nominalbetrag von 40.000 € (über dem Mindestwert von 30.000 €). Das Agio bleibt außer Betracht. Anders beim Kapitalerhöhungsbeschluss, der nach § 108 GNotKG mit dem gesamten Inhalt einschließlich Agio bewertet wird."
+ },
+ {
+  "id": "kost2-064",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Registeranmeldungen (§§ 105, 106 GNotKG) – Werte mit und ohne bestimmten Geldwert",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-registeranmeldungen-105-106-gnotkg-werte-mit-und-ohne-bestimmten-geldwert",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 105 Abs. 3 GNotKG",
+   "§ 105 Abs. 1 S. 1 Nr. 1 GNotKG"
+  ],
+  "frage": "Ordne der Erstanmeldung den Geschäftswert zu.",
+  "paare": [
+   [
+    "Einzelkaufmann",
+    "30.000 €"
+   ],
+   [
+    "OHG mit drei Gesellschaftern",
+    "60.000 €"
+   ],
+   [
+    "Genossenschaft",
+    "60.000 € nach § 105 Abs. 3 Nr. 3 GNotKG"
+   ],
+   [
+    "GmbH mit 100.000 € Stammkapital und 50.000 € genehmigtem Kapital",
+    "150.000 €"
+   ]
+  ],
+  "erklaerung": "Erstanmeldungen ohne bestimmten Geldwert haben Festwerte nach § 105 Abs. 3 GNotKG: Einzelkaufmann 30.000 €, GbR/OHG/PartG mit zwei Gesellschaftern 45.000 € zuzüglich 15.000 € für jeden weiteren, Genossenschaft 60.000 €. Bei der Erstanmeldung einer Kapitalgesellschaft zählt das einzutragende Kapital zuzüglich eines genehmigten Kapitals (§ 105 Abs. 1 S. 1 Nr. 1 GNotKG)."
+ },
+ {
+  "id": "kost2-065",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Scheidungsvereinbarung und Ehevertrag mit weiteren Regelungen (§§ 111 Nr. 2, 97, 51 Abs. 2, 52 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-scheidungsvereinbarung-und-ehevertrag-mit-weiteren-regelungen-111-nr-2-97-51-abs-2-52-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 111 Nr. 2 GNotKG",
+   "§ 35 GNotKG",
+   "§ 46 GNotKG"
+  ],
+  "frage": "In einer Scheidungsfolgenvereinbarung vereinbaren die Eheleute Gütertrennung und übertragen zur Erfüllung des Zugewinnausgleichs den Miteigentumsanteil der Ehefrau am Familienheim auf den Ehemann. Wie ist zu bewerten?",
+  "optionen": [
+   "Nur nach § 100 GNotKG, da die Übertragung Teil des Ehevertrags ist",
+   "Ehevertrag nach § 100 GNotKG und Übertragung (Wert des Anteils nach § 46 GNotKG) gesondert bewerten und addieren",
+   "Nur die Übertragung, da sie gegenstandsgleich mit dem Ehevertrag ist (§ 109 Abs. 1 GNotKG)",
+   "Ehevertrag und Übertragung getrennt mit zwei Gebühren abrechnen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Ehevertrag ist nach § 111 Nr. 2 GNotKG stets ein besonderer Beurkundungsgegenstand; die Übertragung zur Erfüllung des Zugewinnausgleichs gehört nicht zu ihm und wird gesondert nach § 46 GNotKG ohne Schuldenabzug bewertet. Die Werte werden addiert (§ 35 GNotKG), und es wird eine einzige Gebühr aus dem Gesamtwert erhoben (§ 93 Abs. 1 GNotKG). Die Übertragung als Teil des Ehevertrags zu behandeln, ist ein typischer Fehler."
+ },
+ {
+  "id": "kost2-066",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Scheidungsvereinbarung und Ehevertrag mit weiteren Regelungen (§§ 111 Nr. 2, 97, 51 Abs. 2, 52 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-scheidungsvereinbarung-und-ehevertrag-mit-weiteren-regelungen-111-nr-2-97-51-abs-2-52-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 97 GNotKG",
+   "§ 100 GNotKG"
+  ],
+  "frage": "Ein Ehevertrag, der ausschließlich den Versorgungsausgleich regelt, ist nach § 97 GNotKG zu bewerten und nicht durch das modifizierte Reinvermögen begrenzt.",
+  "antwort": true,
+  "erklaerung": "Verträge, deren einziger Inhalt der Versorgungsausgleich ist, fallen nicht unter § 100 GNotKG; der Wert wird nach § 97 GNotKG bestimmt und nicht durch das modifizierte Reinvermögen begrenzt. Bei wechselseitiger Übertragung von Anrechten ist entsprechend § 97 Abs. 3 GNotKG die höherwertige Seite maßgeblich; bei gleich hohen Anrechten gilt der Auffangwert von 5.000 €."
+ },
+ {
+  "id": "kost2-067",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Scheidungsvereinbarung und Ehevertrag mit weiteren Regelungen (§§ 111 Nr. 2, 97, 51 Abs. 2, 52 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-scheidungsvereinbarung-und-ehevertrag-mit-weiteren-regelungen-111-nr-2-97-51-abs-2-52-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 51 Abs. 2 GNotKG",
+   "§ 1365 BGB"
+  ],
+  "frage": "Ein Ehevertrag hebt nur die Verfügungsbeschränkungen der §§ 1365, 1369 BGB auf; das betroffene Aktivvermögen beträgt 800.000 €. Welcher Geschäftswert gilt?",
+  "optionen": [
+   "800.000 € (Aktivwert)",
+   "400.000 € (Hälfte des Aktivwerts)",
+   "240.000 € (30 % des Aktivwerts entsprechend § 51 Abs. 2 GNotKG)",
+   "5.000 € (Auffangwert)"
+  ],
+  "antwort": 2,
+  "erklaerung": "Hebt ein Ehevertrag nur die Verfügungsbeschränkungen der §§ 1365, 1369 BGB auf, beträgt der Wert entsprechend § 51 Abs. 2 GNotKG 30 % des Aktivwerts des betroffenen Vermögens. Dieser Wert bleibt stets unter dem modifizierten Reinvermögen nach § 100 GNotKG, das wegen der Begrenzung des Schuldenabzugs mindestens die Hälfte des Aktivvermögens beträgt."
+ },
+ {
+  "id": "kost2-068",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Scheidungsvereinbarung und Ehevertrag mit weiteren Regelungen (§§ 111 Nr. 2, 97, 51 Abs. 2, 52 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-scheidungsvereinbarung-und-ehevertrag-mit-weiteren-regelungen-111-nr-2-97-51-abs-2-52-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 52 Abs. 2 S. 1 GNotKG"
+  ],
+  "frage": "Wie wird eine Unterhaltsvereinbarung zwischen getrennt lebenden Ehegatten in einer Scheidungsvereinbarung bewertet?",
+  "optionen": [
+   "Nach § 52 Abs. 2 S. 1 GNotKG mit dem Jahreswert, ohne Begünstigung unter Verwandten",
+   "Mit dem halben Jahreswert wegen der Verwandtenprivilegierung",
+   "Gar nicht, da Unterhaltsabreden nach § 61 Abs. 1 Nr. 2 BeurkG gebührenfrei sind",
+   "Als Teil des Ehevertrags nach § 100 GNotKG"
+  ],
+  "antwort": 0,
+  "erklaerung": "Unterhaltsvereinbarungen werden nach § 52 Abs. 2 S. 1 GNotKG mit dem Jahreswert bewertet; eine Begünstigung unter Verwandten sieht das Gesetz nicht mehr vor. Sie sind neben dem Ehevertrag gesondert zu bewerten. Gebührenfrei ist nur die bloße Verpflichtung eines Elternteils gegenüber dem Kind ohne Verteilungsabrede zwischen den Eltern (Vorb. 2 Abs. 3 KV GNotKG i. V. m. § 61 Abs. 1 Nr. 2 BeurkG)."
  }
 ]
