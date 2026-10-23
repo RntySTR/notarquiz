@@ -55,9 +55,9 @@
    "§ 1945 Abs. 3 BGB",
    "§ 21 Abs. 3 BNotO"
   ],
-  "frage": "Ein Bevollmächtigter kann die Ausschlagung wirksam erklären, wenn er eine privatschriftliche Vollmacht vorlegt; eine Beglaubigung ist nicht erforderlich.",
-  "antwort": false,
-  "erklaerung": "Die Ausschlagung durch einen Bevollmächtigten setzt eine öffentlich beglaubigte Vollmacht voraus (§ 1945 Abs. 3 BGB); die Ausschlagung ohne beglaubigte Vollmacht ist ein typischer Praxisfehler. Alternativ kann die Vertretungsmacht durch eine notarielle Vertretungsbescheinigung nachgewiesen werden (§ 21 Abs. 3 BNotO, § 1945 Abs. 3 S. 3 BGB), die auch nachgereicht werden darf. Eine privatschriftliche Vollmacht genügt nicht."
+  "frage": "Die Vertretungsmacht eines Bevollmächtigten für die Ausschlagung kann statt durch öffentlich beglaubigte Vollmacht auch durch eine notarielle Vertretungsbescheinigung nach § 21 Abs. 3 BNotO nachgewiesen werden, die auch nachgereicht werden darf.",
+  "antwort": true,
+  "erklaerung": "Die Ausschlagung durch einen Bevollmächtigten setzt grundsätzlich eine öffentlich beglaubigte Vollmacht voraus (§ 1945 Abs. 3 BGB). Alternativ kann die Vertretungsmacht durch eine notarielle Vertretungsbescheinigung nachgewiesen werden (§ 21 Abs. 3 BNotO, § 1945 Abs. 3 S. 3 BGB); die Bescheinigung kann der Ausschlagung beigefügt oder nachgereicht werden. Eine privatschriftliche Vollmacht genügt dagegen nicht; das ist ein typischer Praxisfehler."
  },
  {
   "id": "erbr1-004",
@@ -310,9 +310,9 @@
   "normen": [
    "§ 2353 BGB"
   ],
-  "frage": "Wird über den Nachlass das Nachlassinsolvenzverfahren eröffnet, verliert der Erbe sein Recht, einen Erbschein zu beantragen; antragsberechtigt ist dann nur noch der Nachlassinsolvenzverwalter.",
-  "antwort": false,
-  "erklaerung": "Nachlasspflegschaft, Nachlassinsolvenzverfahren und Nachlassverwaltung lassen das Antragsrecht des Erben unberührt, weil der Erbe Eigentümer des Nachlasses bleibt, auch wenn er teilweise nicht verfügen darf. Der Nachlassinsolvenzverwalter ist daneben antragsberechtigt, aber nur, soweit er den Erbschein für die Verwaltung des Nachlasses braucht; er beantragt ihn auf den Namen des Erben."
+  "frage": "Die Eröffnung des Nachlassinsolvenzverfahrens lässt das Antragsrecht des Erben auf Erteilung eines Erbscheins unberührt, weil der Erbe Eigentümer des Nachlasses bleibt.",
+  "antwort": true,
+  "erklaerung": "Nachlasspflegschaft, Nachlassinsolvenzverfahren und Nachlassverwaltung lassen das Antragsrecht des Erben unberührt, weil der Erbe Eigentümer des Nachlasses bleibt, auch wenn er teilweise nicht verfügen darf. Der Nachlassinsolvenzverwalter ist daneben antragsberechtigt, aber nur, soweit er den Erbschein für die Verwaltung des Nachlasses braucht; er beantragt ihn auf den Namen des Erben. Die Fehlvorstellung, allein der Verwalter sei antragsberechtigt, ist verbreitet."
  },
  {
   "id": "erbr1-013",
@@ -825,9 +825,9 @@
   "normen": [
    "§ 1770 Abs. 1 S. 1 BGB"
   ],
-  "frage": "Ein als Volljähriger Adoptierter wird gesetzlicher Erbe auch der Eltern des Annehmenden, weil die Adoption ihn in die gesamte Familie des Annehmenden eingliedert.",
-  "antwort": false,
-  "erklaerung": "Bei der Volljährigenadoption beerbt der Angenommene grundsätzlich nur den Annehmenden selbst, nicht dessen Verwandte (§ 1770 Abs. 1 S. 1 BGB). Die Eingliederung in die gesamte Familie mit voller Stellung eines ehelichen Kindes gilt nur für die Minderjährigenadoption. In der Praxis ist zu prüfen, ob die Annahme ausnahmsweise weiter wirkt."
+  "frage": "Bei der Volljährigenadoption beerbt der Angenommene grundsätzlich nur den Annehmenden selbst, nicht dessen Verwandte.",
+  "antwort": true,
+  "erklaerung": "Bei der Volljährigenadoption beerbt der Angenommene grundsätzlich nur den Annehmenden selbst, nicht dessen Verwandte (§ 1770 Abs. 1 S. 1 BGB). Die volle Eingliederung in die Familie mit der Stellung eines ehelichen Kindes gilt nur für die Minderjährigenadoption. In der Praxis ist zu prüfen, ob die Annahme ausnahmsweise weiter wirkt."
  },
  {
   "id": "erbr1-037",
@@ -1354,9 +1354,9 @@
   "normen": [
    "§ 1936 BGB"
   ],
-  "frage": "Setzt der Erblasser das Land Baden-Württemberg durch Testament zum Alleinerben ein, kann das Land die Erbschaft nicht ausschlagen, weil der Staat stets Zwangserbe ist.",
-  "antwort": false,
-  "erklaerung": "Nur als gesetzlicher Erbe nach § 1936 BGB ist der Staat Zwangserbe ohne Verzichts- und Ausschlagungsmöglichkeit. Setzt der Erblasser den Staat durch Verfügung von Todes wegen ein, steht er jedem anderen gewillkürten Erben gleich und unterliegt den allgemeinen Regeln, kann also auch ausschlagen. Die Gleichsetzung beider Fälle ist ein typischer Fehler."
+  "frage": "Setzt der Erblasser das Land Baden-Württemberg durch Testament zum Alleinerben ein, steht das Land jedem anderen gewillkürten Erben gleich und kann die Erbschaft ausschlagen.",
+  "antwort": true,
+  "erklaerung": "Nur als gesetzlicher Erbe nach § 1936 BGB ist der Staat Zwangserbe ohne Verzichts- und Ausschlagungsmöglichkeit. Setzt der Erblasser den Staat durch Verfügung von Todes wegen ein, steht er jedem anderen gewillkürten Erben gleich und unterliegt den allgemeinen Regeln, kann also auch ausschlagen. Beide Fälle gleichzusetzen ist ein typischer Fehler."
  },
  {
   "id": "erbr1-058",

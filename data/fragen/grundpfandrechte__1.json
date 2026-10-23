@@ -1,258 +1,592 @@
 [
  {
-  "id": "elek1-044",
-  "kapitel": "elektronischer-rechtsverkehr",
-  "abschnitt": "Grundlagen und Infrastruktur",
-  "seite": "Elektronischer Rechtsverkehr: Strukturdaten (XML) und XML-Gebühr",
-  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronischer-rechtsverkehr-strukturdaten-xml-und-xml-gebuhr",
+  "id": "grpf1-001",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundlagen und Löschungsanspruch",
+  "seite": "Grundpfandrechte: Arten, Schuld und Haftung, Form der Bestellung",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundlagen-und-loschungsanspruch/grundpfandrechte-arten-schuld-und-haftung-form-der-bestellung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1192 Abs. 1 BGB",
+   "§§ 1113 ff. BGB",
+   "§§ 1199 ff. BGB"
+  ],
+  "frage": "Welches Grundpfandrecht ist der gesetzliche Grundtypus, auf dessen Vorschriften das Recht der übrigen Grundpfandrechte weitgehend verweist?",
+  "optionen": [
+   "Die Grundschuld, weil sie in der Praxis die häufigste Form ist",
+   "Die Hypothek, auf deren Vorschriften § 1192 Abs. 1 BGB verweist",
+   "Die Rentenschuld als älteste Form der Grundstücksbelastung",
+   "Die Reallast, von der die Rentenschuld abgeleitet ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Gesetzlicher Grundtypus ist die Hypothek (§§ 1113–1190 BGB); das Grundschuldrecht verweist über § 1192 Abs. 1 BGB weitgehend auf sie, und die Rentenschuld ist eine Sonderform der Grundschuld (§§ 1199–1203 BGB). Dass die Grundschuld die Hypothek praktisch fast vollständig abgelöst hat, ändert an der gesetzlichen Systematik nichts. Die Reallast ist kein Grundpfandrecht."
+ },
+ {
+  "id": "grpf1-002",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundlagen und Löschungsanspruch",
+  "seite": "Grundpfandrechte: Arten, Schuld und Haftung, Form der Bestellung",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundlagen-und-loschungsanspruch/grundpfandrechte-arten-schuld-und-haftung-form-der-bestellung",
   "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
-   "KV 22114 GNotKG",
-   "KV 22115 GNotKG"
+   "§ 29 GBO",
+   "§ 800 ZPO",
+   "§ 794 Abs. 1 Nr. 5 ZPO"
   ],
-  "frage": "Der Notar erstellt für einen Grundbuchantrag den XML-Datensatz und nimmt daneben weitere Vollzugstätigkeiten nach KV 22110–22113 GNotKG vor. Welche Gebühr fällt für die Strukturdaten an?",
+  "frage": "Ein Eigentümer bestellt eine Grundschuld und soll sich zugleich der sofortigen Zwangsvollstreckung in das Grundstück unterwerfen. Welche Form ist erforderlich?",
   "optionen": [
-   "Keine gesonderte Gebühr, da die XML-Erstellung von der Vollzugsgebühr nach § 93 GNotKG abgegolten ist",
-   "Gebühr nach KV 22114 mit Satz 0,2, höchstens 125 €",
-   "Gebühr nach KV 22115 mit Satz 0,1, höchstens 125 €",
-   "Gebühr nach KV 22115 mit Satz 0,2, höchstens 250 €"
+   "Unterschriftsbeglaubigung genügt, da § 29 GBO für die Bewilligung nur öffentlich beglaubigte Form verlangt",
+   "Schriftform mit notarieller Beglaubigung der Unterschrift des Gläubigers",
+   "Notarielle Beurkundung nach § 800 ZPO i. V. m. § 794 Abs. 1 Nr. 5 ZPO",
+   "Eintragungsantrag in der Form des § 13 GBO ohne besondere Formvorgabe"
   ],
   "antwort": 2,
-  "erklaerung": "Entstehen neben der XML-Gebühr andere Gebühren nach KV 22110 bis 22113 GNotKG, sinkt der Satz nach KV 22115 von 0,2 auf 0,1, höchstens 125 €; KV 22114 mit 0,2 gilt nur, wenn keine weiteren Vollzugsgebühren anfallen. Die XML-Gebühr ist keine Vollzugsgebühr, sondern eine Gebühr im Vollzugsbereich, sodass § 93 GNotKG nicht anwendbar ist; sie als abgegolten zu behandeln ist ein typischer Fehler."
+  "erklaerung": "Für die bloße Eintragungsbewilligung genügt die Form des § 29 GBO, also eine Unterschriftsbeglaubigung. Soll sich der Eigentümer aber der dinglichen Zwangsvollstreckung unterwerfen, ist Beurkundung erforderlich (§ 800 ZPO i. V. m. § 794 Abs. 1 Nr. 5 ZPO), ebenso für eine persönliche Unterwerfung. Der typische Fehler, ein Grundpfandrecht mit Unterwerfung nur beglaubigen zu lassen, führt dazu, dass kein Vollstreckungstitel entsteht."
  },
  {
-  "id": "elek1-045",
-  "kapitel": "elektronischer-rechtsverkehr",
-  "abschnitt": "Grundlagen und Infrastruktur",
-  "seite": "Elektronischer Rechtsverkehr: Strukturdaten (XML) und XML-Gebühr",
-  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronischer-rechtsverkehr-strukturdaten-xml-und-xml-gebuhr",
+  "id": "grpf1-003",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundlagen und Löschungsanspruch",
+  "seite": "Grundpfandrechte: Arten, Schuld und Haftung, Form der Bestellung",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundlagen-und-loschungsanspruch/grundpfandrechte-arten-schuld-und-haftung-form-der-bestellung",
   "typ": "rf",
   "schwierigkeit": 2,
   "normen": [
-   "§ 93c AO",
-   "§ 18 GrEStG"
+   "§ 14 Abs. 1 S. 2 und 3 BeurkG",
+   "§ 17 BeurkG"
   ],
-  "frage": "Für das Grundbuchamt ist der beigefügte XML-Datensatz rechtlich maßgeblich; der Inhalt der übermittelten Dokumente dient nur der Weiterverarbeitung.",
+  "frage": "Weil für Nebenabreden zum Sicherungszweck und zur Abtretung von Rückgewähransprüchen bei der Grundpfandrechtsbestellung die Vorlesungspflicht eingeschränkt ist (§ 14 Abs. 1 S. 2 und 3 BeurkG), entfällt auch die Prüfungs- und Belehrungspflicht des Notars nach § 17 BeurkG für diese Anlagen.",
   "antwort": false,
-  "erklaerung": "Für Gerichte ist die XML-Datei nur eine Arbeitshilfe; rechtlich kommt es allein auf den Inhalt der übermittelten Dokumente an. Das gilt ebenso im Verwaltungsaustausch (eNoVA) mit Behörden und Gerichten. Nur gegenüber dem Finanzamt kehrt sich das Verhältnis um: Dort ist der amtlich vorgeschriebene Datensatz selbst die Anzeige (§ 18 GrEStG i. V. m. § 93c AO)."
+  "erklaerung": "Die Beurkundungserleichterung des § 14 Abs. 1 S. 2 und 3 BeurkG betrifft nur die Vorlesungspflicht. Der Notar hat auch die Anlagen zu Sicherungszweck, Abtretung von Rückgewähransprüchen, Anrechnung sowie Versicherungs-, Werterhaltungs- und Anzeigepflichten nach § 17 BeurkG zu prüfen; seine Belehrung erstreckt sich ebenfalls darauf."
  },
  {
-  "id": "elek1-046",
-  "kapitel": "elektronischer-rechtsverkehr",
-  "abschnitt": "Grundlagen und Infrastruktur",
-  "seite": "Elektronischer Rechtsverkehr: Strukturdaten (XML) und XML-Gebühr",
-  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronischer-rechtsverkehr-strukturdaten-xml-und-xml-gebuhr",
+  "id": "grpf1-004",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundlagen und Löschungsanspruch",
+  "seite": "Grundpfandrechte: Arten, Schuld und Haftung, Form der Bestellung",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundlagen-und-loschungsanspruch/grundpfandrechte-arten-schuld-und-haftung-form-der-bestellung",
   "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
-   "Vorbem. 2.2.1.1 Abs. 1 S. 1 KV GNotKG",
-   "Vorbem. 2.2.1.1 Abs. 3 KV GNotKG",
-   "KV 22114 GNotKG"
+   "§ 1199 Abs. 1 BGB",
+   "§ 1201 BGB"
   ],
-  "frage": "Unter welcher Voraussetzung sind die XML-Gebühren nach KV 22114 und 22115 GNotKG anwendbar?",
+  "frage": "Worin unterscheidet sich die Rentenschuld von der Reallast?",
   "optionen": [
-   "Nur wenn der Notar die XML-Datei vollständig von Hand erstellt hat",
-   "Wenn dem Notar für das zugrunde liegende Geschäft eine Beurkundungs- oder Entwurfsgebühr zusteht und weder Gerichte noch Behörden des Auslands beteiligt sind",
-   "Nur wenn das Gericht die Beifügung des Datensatzes ausdrücklich angefordert hat",
-   "Nur wenn der Geschäftswert 125 € übersteigt"
+   "Bei der Rentenschuld haftet niemand über das Grundstück hinaus persönlich, und nur Geldleistungen sind erfasst",
+   "Die Rentenschuld sichert einen einmaligen Kapitalbetrag, die Reallast wiederkehrende Leistungen",
+   "Die Rentenschuld kann nur zugunsten des Eigentümers bestellt werden, die Reallast nur für Dritte",
+   "Die Rentenschuld ist akzessorisch zur gesicherten Forderung, die Reallast nicht"
   ],
-  "antwort": 1,
-  "erklaerung": "Nach Vorbem. 2.2.1.1 Abs. 1 S. 1 und Abs. 3 KV GNotKG setzen KV 22114 und 22115 voraus, dass dem Notar für das zugrunde liegende Geschäft eine Beurkundungs- oder Entwurfsgebühr zusteht und weder Gerichte noch Behörden des Auslands beteiligt sind. Ob die XML-Datei von Hand oder aus der Notarsoftware erzeugt wird, ist für die Gebühr unerheblich; 125 € ist der Höchstbetrag der Gebühr, nicht eine Geschäftswertgrenze."
+  "antwort": 0,
+  "erklaerung": "Die Rentenschuld ist eine Grundschuld, aus der in regelmäßig wiederkehrenden Terminen eine bestimmte Geldsumme aus dem Grundstück zu zahlen ist (§ 1199 Abs. 1 BGB); gesichert werden laufende Zahlungen, kein einmaliger Kapitalbetrag. Von der Reallast unterscheidet sie sich dadurch, dass niemand über das Grundstück hinaus persönlich haftet und nur Geldleistungen erfasst sind. Praktisch ist sie wegen § 1201 BGB bedeutungslos; wiederkehrende Geldleistungen werden über eine Reallast gesichert."
  },
  {
-  "id": "elek1-047",
-  "kapitel": "elektronischer-rechtsverkehr",
-  "abschnitt": "Grundlagen und Infrastruktur",
-  "seite": "eNoVA: Ersatzeinreichung bei Störungen – Behörden und Gerichte, Finanzamt (ELSTER)",
-  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-ersatzeinreichung-bei-storungen-behorden-und-gerichte-finanzamt-elster",
-  "typ": "mc",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 18 Abs. 3 S. 3 GrEStG",
-   "§ 18 Abs. 1 S. 2 GrEStG",
-   "§ 93c AO"
-  ],
-  "frage": "ELSTER ist gestört, die Zwei-Wochen-Frist für die Veräußerungsanzeige läuft ab. Wie sollte der Notar vorgehen?",
-  "optionen": [
-   "Die Veräußerungsanzeige in Papierform an das Finanzamt senden und elektronisch nachreichen",
-   "Die Anzeige über das beN an das beBPo des Finanzamts übermitteln",
-   "Frühzeitig begründet die Verlängerung der Anzeigefrist nach § 18 Abs. 3 S. 3 GrEStG beantragen",
-   "Die Anzeige per Telefax übermitteln und die Störung nach § 130d S. 3 ZPO glaubhaft machen"
-  ],
-  "antwort": 2,
-  "erklaerung": "Die Anzeige an das Finanzamt ist allein elektronisch im amtlich vorgeschriebenen Datensatz zulässig (§ 18 Abs. 1 S. 2 GrEStG i. V. m. § 93c AO); die Ersatzregeln der ERVV gelten dort nicht, eine Papier-Ersatzeinreichung gibt es nicht. Bei ELSTER-Störungen ist der Weg die Verlängerung der Zwei-Wochen-Frist in begründeten Ausnahmefällen (§ 18 Abs. 3 S. 3 GrEStG, seit 01.10.2026). Die Papieranzeige ist ein typischer Fehler."
- },
- {
-  "id": "elek1-048",
-  "kapitel": "elektronischer-rechtsverkehr",
-  "abschnitt": "Grundlagen und Infrastruktur",
-  "seite": "eNoVA: Ersatzeinreichung bei Störungen – Behörden und Gerichte, Finanzamt (ELSTER)",
-  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-ersatzeinreichung-bei-storungen-behorden-und-gerichte-finanzamt-elster",
-  "typ": "rf",
-  "schwierigkeit": 3,
-  "normen": [
-   "§ 16 Abs. 3 ERVV",
-   "§ 130d S. 3 ZPO"
-  ],
-  "frage": "Bei einer Ersatzeinreichung in Papierform an ein Gericht nach der ERVV muss der Notar die technische Störung wie nach § 130d S. 3 ZPO glaubhaft machen.",
-  "antwort": false,
-  "erklaerung": "Anders als § 130d S. 3 ZPO verlangt die ERVV (§ 16 Abs. 3, § 17 Abs. 3 ERVV für Gerichte; § 19 Abs. 5, § 20 Abs. 3 ERVV für Behörden) keine Glaubhaftmachung oder Darlegung der Störung. Erforderlich ist nur eine vorübergehende technische Störung, die die elektronische Übermittlung verhindert; auf Anforderung ist das Dokument elektronisch nachzureichen."
- },
- {
-  "id": "elek1-049",
-  "kapitel": "elektronischer-rechtsverkehr",
-  "abschnitt": "Grundlagen und Infrastruktur",
-  "seite": "eNoVA: Ersatzeinreichung bei Störungen – Behörden und Gerichte, Finanzamt (ELSTER)",
-  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-ersatzeinreichung-bei-storungen-behorden-und-gerichte-finanzamt-elster",
-  "typ": "mc",
-  "schwierigkeit": 3,
-  "normen": [
-   "§ 19 Abs. 5 S. 2 ERVV",
-   "§ 19 Abs. 4 ERVV"
-  ],
-  "frage": "Die Übermittlung der Urkundenabschrift an den Gutachterausschuss gelingt, nur der Datensatz nach § 19 Abs. 4 ERVV lässt sich wegen einer Störung nicht übermitteln. Was gilt?",
-  "optionen": [
-   "Die gesamte Mitteilung muss in Papierform wiederholt werden, da Abschrift und Datensatz eine Einheit bilden",
-   "Es genügt, wenn der Gutachterausschuss nur die Urkundenabschrift auf Papier erhält (§ 19 Abs. 5 S. 2 ERVV)",
-   "Die Mitteilung ist bis zur Behebung der Störung aufzuschieben; eine Ersatzeinreichung ist ausgeschlossen",
-   "Der Datensatz ist dem Gutachterausschuss per E-Mail als unsignierte XML-Datei zu übersenden"
-  ],
-  "antwort": 1,
-  "erklaerung": "Für den Sonderfall, dass nur die Übermittlung des Datensatzes nach § 19 Abs. 4 ERVV scheitert, bestimmt § 19 Abs. 5 S. 2 ERVV, dass es ausreicht, wenn der Gutachterausschuss nur die Urkundenabschrift auf Papier erhält. Rechtlich maßgeblich ist ohnehin die Abschrift, der Datensatz dient nur der Weiterverarbeitung. Die spätere Anforderung des elektronischen Dokuments ist zu überwachen."
- },
- {
-  "id": "elek1-050",
-  "kapitel": "elektronischer-rechtsverkehr",
-  "abschnitt": "Grundlagen und Infrastruktur",
-  "seite": "eNoVA: Genehmigungen, Vorkaufsrechtszeugnisse und Gutachterausschuss",
-  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-genehmigungen-vorkaufsrechtszeugnisse-und-gutachterausschuss",
-  "typ": "mc",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 213a Abs. 1 BauGB",
-   "§ 213a Abs. 4 BauGB",
-   "§ 213a Abs. 2 S. 2 BauGB"
-  ],
-  "frage": "An welches Postfach richtet der Notar über eNoVA den Antrag auf ein Vorkaufsrechtszeugnis, und wie antwortet die Gemeinde?",
-  "optionen": [
-   "An das beN der Gemeinde; die Gemeinde antwortet an das beBPo des Notars",
-   "An das beBPo der zuständigen Behörde oder ihres Rechtsträgers; die Behörde antwortet stets über das beN des Notars",
-   "An das EGVP-Bürgerpostfach (eBO) der Gemeinde; die Antwort kommt per De-Mail",
-   "An das Postfach des Landesbauministeriums, das den Antrag weiterleitet; die Antwort kommt auf Papier"
-  ],
-  "antwort": 1,
-  "erklaerung": "Empfänger eines Antrags ist das beBPo (besonderes elektronisches Behördenpostfach) der zuständigen Behörde, ersatzweise das Postfach ihres Rechtsträgers; die Empfängerbezeichnungen veröffentlicht das Landesbauministerium in der Liste für den elektronischen Notar-Verwaltungs-Austausch (§ 213a Abs. 2 S. 2 BauGB). Behörden antworten immer über das beN des Notars und sind nach § 213a Abs. 4 BauGB zur elektronischen Erteilung von Negativattest und Vorkaufsrechtszeugnis verpflichtet. beN ist das Notar-, nicht das Behördenpostfach."
- },
- {
-  "id": "elek1-051",
-  "kapitel": "elektronischer-rechtsverkehr",
-  "abschnitt": "Grundlagen und Infrastruktur",
-  "seite": "eNoVA: Genehmigungen, Vorkaufsrechtszeugnisse und Gutachterausschuss",
-  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-genehmigungen-vorkaufsrechtszeugnisse-und-gutachterausschuss",
-  "typ": "rf",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 195 Abs. 2 BauGB",
-   "§ 195 Abs. 3 BauGB"
-  ],
-  "frage": "Der Notar muss die Vertragsbeteiligten auf ihre Mitteilungspflicht gegenüber dem Gutachterausschuss nach § 195 Abs. 2 BauGB hinweisen.",
-  "antwort": false,
-  "erklaerung": "Die Vertragsbeteiligten sind nach § 195 Abs. 2 BauGB selbst mitteilungspflichtig (Lage, Nutzung, Erträge, bauliche Anlagen, Energieausweis, Zubehör, Erbbauzins). Eine geplante Hinweispflicht des Notars (§ 20b BeurkG-E) ist entfallen; den Hinweis schuldet nach § 195 Abs. 3 BauGB der Gutachterausschuss. Der Notar übermittelt lediglich Abschrift und ab 01.01.2027 den Datensatz nach § 19 Abs. 4 ERVV."
- },
- {
-  "id": "elek1-052",
-  "kapitel": "elektronischer-rechtsverkehr",
-  "abschnitt": "Grundlagen und Infrastruktur",
-  "seite": "eNoVA: Genehmigungen, Vorkaufsrechtszeugnisse und Gutachterausschuss",
-  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-genehmigungen-vorkaufsrechtszeugnisse-und-gutachterausschuss",
-  "typ": "mc",
-  "schwierigkeit": 3,
-  "normen": [
-   "§ 25 Abs. 2 GrdstVG",
-   "§ 12 Abs. 2 GVO",
-   "§ 137 Abs. 2 GBO"
-  ],
-  "frage": "Ab wann sind die Behörden verpflichtet, Genehmigungen nach dem GrdstVG und der GVO elektronisch zu erteilen, und welche Form haben die Bescheide?",
-  "optionen": [
-   "Seit 01.10.2026; die Bescheide haben die Form des § 39a BeurkG",
-   "Ab 01.01.2027; die Bescheide haben die Form des § 137 Abs. 2 GBO",
-   "Ab 01.01.2028; die Bescheide haben die Form des § 126a BGB",
-   "Seit 01.03.2024; die Bescheide ergehen als einfache PDF ohne Signatur"
-  ],
-  "antwort": 1,
-  "erklaerung": "Nach § 25 Abs. 2 GrdstVG und § 12 Abs. 2 GVO sind die Behörden ab dem 01.01.2027 zur elektronischen Erteilung verpflichtet; die elektronisch erteilten Bescheide haben die Form des § 137 Abs. 2 GBO. Der 01.10.2026 ist der Starttermin der Veräußerungsanzeige über ELSTER und der elektronischen Ersuchen an Gerichte; der 01.01.2028 betrifft die Unbedenklichkeitsbescheinigung der Finanzämter."
- },
- {
-  "id": "elek1-053",
-  "kapitel": "elektronischer-rechtsverkehr",
-  "abschnitt": "Grundlagen und Infrastruktur",
-  "seite": "eNoVA: Zeitplan, Grundsätze und technische Voraussetzungen",
-  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-zeitplan-grundsatze-und-technische-voraussetzungen",
+  "id": "grpf1-005",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundlagen und Löschungsanspruch",
+  "seite": "Grundpfandrechte: Arten, Schuld und Haftung, Form der Bestellung",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundlagen-und-loschungsanspruch/grundpfandrechte-arten-schuld-und-haftung-form-der-bestellung",
   "typ": "zuordnung",
   "schwierigkeit": 2,
   "normen": [
-   "§ 18 GrEStG",
-   "§ 195 BauGB",
-   "§ 25 Abs. 2 GrdstVG"
+   "§ 1142 BGB",
+   "§ 1147 BGB",
+   "§§ 1120–1131 BGB"
   ],
-  "frage": "Ordne die eNoVA-Einführungsstufen den jeweiligen Neuerungen zu.",
+  "frage": "Ordne die Rechtslage des Eigentümers bei der Vollstreckung aus einem Grundpfandrecht dem passenden Instrument zu.",
   "paare": [
    [
-    "01.10.2026",
-    "Veräußerungsanzeige nach § 18 GrEStG elektronisch über ELSTER; elektronische Ersuchen an Betreuungs-, Familien-, Nachlass- und Landwirtschaftsgerichte um Genehmigungen und Rechtskraftzeugnisse"
+    "Berechtigte Vollstreckung abwenden",
+    "Zahlung nach § 1142 BGB"
    ],
    [
-    "01.01.2027",
-    "Genehmigungen, Zeugnisse und Bescheinigungen nach BauGB, GrdstVG, ASVG und GVO elektronisch; Abschriften und XML-Datensatz an die Gutachterausschüsse"
+    "Formeller Fehler der Vollstreckung",
+    "Erinnerung"
    ],
    [
-    "01.01.2028",
-    "Finanzämter übermitteln die Unbedenklichkeitsbescheinigung elektronisch an den Notar"
+    "Materielle Einwendung wie bereits erfolgte Zahlung",
+    "Vollstreckungsgegenklage"
    ],
    [
-    "Noch ohne Termin",
-    "Elektronische Anzeigen an die Schenkung- und Erbschaftsteuerstelle; Abruf der Steuer-ID über die Schnittstelle"
+    "Mitverwertung von Maschinen, Vieh und Ernte eines Hofs",
+    "Hypothekarischer Haftungsverband (§§ 1120–1131 BGB)"
    ]
   ],
-  "erklaerung": "eNoVA wird in Stufen verpflichtend: Seit 01.10.2026 laufen Veräußerungsanzeige über ELSTER und Gerichtsersuchen elektronisch, ab 01.01.2027 die behördlichen Genehmigungen und der Gutachterausschuss-Datensatz, ab 01.01.2028 die Unbedenklichkeitsbescheinigung in der Gegenrichtung. Für Erbschaft- und Schenkungsteuer gilt die elektronische Form erst nach Bekanntmachung durch das Bundesministerium der Finanzen."
+  "erklaerung": "Gegen eine unberechtigte Vollstreckung stehen dem Eigentümer die vollstreckungsrechtlichen Rechtsbehelfe zu: die Erinnerung bei formellen Fehlern, die Vollstreckungsgegenklage bei materiellen Einwendungen. Eine berechtigte Vollstreckung wendet er durch Zahlung ab (§ 1142 BGB). Verwertet wird alles, was zum Haftungsverband nach §§ 1120–1131 BGB zählt, bei landwirtschaftlichen Betrieben grundsätzlich auch Maschinen, Vieh, Ernte und Pachtforderungen."
  },
  {
-  "id": "elek1-054",
-  "kapitel": "elektronischer-rechtsverkehr",
-  "abschnitt": "Grundlagen und Infrastruktur",
-  "seite": "eNoVA: Zeitplan, Grundsätze und technische Voraussetzungen",
-  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-zeitplan-grundsatze-und-technische-voraussetzungen",
+  "id": "grpf1-006",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundlagen und Löschungsanspruch",
+  "seite": "Löschungsanspruch: gesetzlicher Löschungsanspruch nach § 1179a BGB",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundlagen-und-loschungsanspruch/loschungsanspruch-gesetzlicher-loschungsanspruch-nach-1179a-bgb",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1179a BGB",
+   "§ 875 BGB"
+  ],
+  "frage": "Was kann der Gläubiger eines nachrangigen Grundpfandrechts nach § 1179a BGB vom Eigentümer verlangen?",
+  "optionen": [
+   "Die Abtretung des vorrangigen Grundpfandrechts an sich selbst, sobald es dem Eigentümer zusteht",
+   "Die Löschung eines vor- oder gleichrangigen Grundpfandrechts, sobald und soweit es sich mit dem Eigentum vereinigt",
+   "Den Rangtausch mit dem vorrangigen Recht nach § 880 BGB bei Tilgung der gesicherten Forderung",
+   "Die Eintragung einer Löschungsvormerkung auf Bewilligung des vorrangigen Gläubigers"
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 1179a BGB gibt dem Hypothekengläubiger (über § 1192 BGB auch dem Grundschuldgläubiger) einen Anspruch darauf, dass der Eigentümer ein vor- oder gleichrangiges Grundpfandrecht löschen lässt, sobald und soweit Recht und Eigentum demselben zustehen; es handelt sich um einen Aufhebungsanspruch im Sinne des § 875 BGB zur Rangverbesserung. Ein Anspruch auf Abtretung des Eigentümerrechts besteht nicht; eine Löschungsvormerkung muss nicht eingetragen werden, weil das Gesetz sie fingiert."
+ },
+ {
+  "id": "grpf1-007",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundlagen und Löschungsanspruch",
+  "seite": "Löschungsanspruch: gesetzlicher Löschungsanspruch nach § 1179a BGB",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundlagen-und-loschungsanspruch/loschungsanspruch-gesetzlicher-loschungsanspruch-nach-1179a-bgb",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1179a Abs. 2 S. 1 BGB",
+   "§ 1163 Abs. 1 S. 1 BGB"
+  ],
+  "frage": "Eine Hypothek ist eingetragen, das Darlehen aber noch nicht ausgezahlt; sie steht dem Eigentümer vorläufig als Eigentümergrundschuld zu. Besteht in diesem Stadium ein gesetzlicher Löschungsanspruch des nachrangigen Gläubigers?",
+  "optionen": [
+   "Ja, weil jede Vereinigung von Eigentum und Grundpfandrecht den Anspruch auslöst",
+   "Ja, aber er ist bis zur Auszahlung des Darlehens gehemmt",
+   "Nein, erst wenn feststeht, dass das Kreditverhältnis nicht zustande kommt und Forderung und Hypothek nicht mehr entstehen werden",
+   "Nein, weil bei vorläufigen Eigentümergrundschulden nur eine Löschungsvormerkung nach § 1179 BGB hilft"
+  ],
+  "antwort": 2,
+  "erklaerung": "Der gesetzliche Löschungsanspruch soll das erstmalige Entstehen einer Hypothek nicht vereiteln. Die nach § 1163 Abs. 1 S. 1 BGB auflösend bedingte Eigentümergrundschuld vor Valutierung löst ihn deshalb noch nicht aus; er entsteht erst mit dem endgültigen Eigentümerrecht, also wenn feststeht, dass Forderung und Hypothek nicht mehr entstehen werden (§ 1179a Abs. 2 S. 1 BGB). Die Formel, dass jede Vereinigung erfasst sei, gilt für endgültige Vereinigungen, auch solche, die bei Eintragung des nachrangigen Rechts schon bestanden."
+ },
+ {
+  "id": "grpf1-008",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundlagen und Löschungsanspruch",
+  "seite": "Löschungsanspruch: gesetzlicher Löschungsanspruch nach § 1179a BGB",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundlagen-und-loschungsanspruch/loschungsanspruch-gesetzlicher-loschungsanspruch-nach-1179a-bgb",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1179a Abs. 1 S. 3 BGB",
+   "§ 883 Abs. 2 BGB"
+  ],
+  "frage": "Die gesetzlich fingierte Vormerkung nach § 1179a Abs. 1 S. 3 BGB hindert den Eigentümer daran, über die entstandene Eigentümergrundschuld zu verfügen; eine Abtretung an einen Dritten ist absolut nichtig.",
+  "antwort": false,
+  "erklaerung": "Die fingierte Vormerkung hindert weder das Entstehen der Eigentümergrundschuld noch Verfügungen des Eigentümers darüber. Vormerkungswidrige Verfügungen sind nur dem Berechtigten gegenüber unwirksam (§§ 1179a Abs. 1 S. 3, 883 Abs. 2 BGB); dieser hat gegen den Eigentümer einen Aufhebungs- und gegen den Erwerber einen Zustimmungsanspruch (§ 888 Abs. 1 BGB). Gutgläubiger Erwerb scheidet aus, weil die Vormerkung als eingetragen gilt."
+ },
+ {
+  "id": "grpf1-009",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundlagen und Löschungsanspruch",
+  "seite": "Löschungsanspruch: gesetzlicher Löschungsanspruch nach § 1179a BGB",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundlagen-und-loschungsanspruch/loschungsanspruch-gesetzlicher-loschungsanspruch-nach-1179a-bgb",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1192 BGB",
+   "§ 1163 Abs. 1 S. 2 BGB",
+   "§ 1179a BGB"
+  ],
+  "frage": "Warum läuft der gesetzliche Löschungsanspruch gegenüber einer vorrangigen Grundschuld in der Regel leer, und wie behilft sich der nachrangige Gläubiger?",
+  "optionen": [
+   "Weil § 1192 BGB den § 1179a BGB für Grundschulden ausschließt; Abhilfe schafft nur eine Löschungsvormerkung nach § 1179 BGB",
+   "Weil die Grundschuld bei Tilgung nicht nach § 1163 Abs. 1 S. 2 BGB zur Eigentümergrundschuld wird, sondern Fremdrecht bleibt; der Gläubiger lässt sich daher die Rückgewähransprüche des Eigentümers abtreten",
+   "Weil der Löschungsanspruch bei Grundschulden nur mit Eintragung im Grundbuch entsteht; der Gläubiger beantragt daher dessen Eintragung",
+   "Weil die Grundschuld mit der Tilgung kraft Gesetzes erlischt und es nichts mehr zu löschen gibt; der Gläubiger rückt automatisch auf"
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 1179a BGB gilt über § 1192 BGB auch für Grundschulden. Weil die Grundschuld aber forderungsunabhängig besteht, wird sie durch Tilgung nicht zur Eigentümergrundschuld, sondern bleibt Fremdrecht, so dass die Vereinigung von Recht und Eigentum meist ausbleibt. Nachrangige Grundschuldgläubiger lassen sich deshalb die Ansprüche des Eigentümers aus dem Sicherungsvertrag auf Rückübertragung, Verzicht oder Löschung abtreten."
+ },
+ {
+  "id": "grpf1-010",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundlagen und Löschungsanspruch",
+  "seite": "Löschungsanspruch: gesetzlicher Löschungsanspruch nach § 1179a BGB",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundlagen-und-loschungsanspruch/loschungsanspruch-gesetzlicher-loschungsanspruch-nach-1179a-bgb",
+  "typ": "zuordnung",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1179a Abs. 4 BGB",
+   "§ 1179a Abs. 5 BGB",
+   "§ 1196 Abs. 3 BGB",
+   "§ 50 ZVG"
+  ],
+  "frage": "Ordne die Konstellationen zum gesetzlichen Löschungsanspruch der zutreffenden Rechtsfolge zu.",
+  "paare": [
+   [
+    "Rangrücktritt eines nach dem 31.12.1977 begründeten Grundpfandrechts",
+    "Löschungsanspruch gegenüber dem vortretenden Recht für alle bestehenden und künftigen Vereinigungsfälle (§ 1179a Abs. 4 BGB)"
+   ],
+   [
+    "Vereinbarter Verzicht auf den Löschungsanspruch",
+    "Wirkt nur mit Eintragung beim begünstigten Grundpfandrecht (§ 1179a Abs. 5 BGB)"
+   ],
+   [
+    "Von vornherein für den Eigentümer bestellte Grundschuld",
+    "Löschungsanspruch erst nach Abtretung und Rückerwerb durch den Eigentümer (§ 1196 Abs. 3 BGB)"
+   ],
+   [
+    "Vorrangiges Eigentümerrecht bleibt im geringsten Gebot bestehen, begünstigtes Recht erlischt, Anspruch im Verteilungsverfahren geltend gemacht",
+    "Zuzahlungspflicht des Erstehers (§§ 50 Abs. 1, 125 Abs. 1 ZVG)"
+   ]
+  ],
+  "erklaerung": "Beim Rangrücktritt entsteht nach § 1179a Abs. 4 BGB ein Löschungsanspruch gegenüber dem vortretenden Recht. Der Ausschluss nach § 1179a Abs. 5 BGB ist beim begünstigten Recht einzutragen und wirkt erst damit. Die ursprüngliche Eigentümergrundschuld unterliegt dem Anspruch nach § 1196 Abs. 3 BGB erst, wenn sie Fremdrecht geworden und zurückgelangt ist. In der Zwangsversteigerung entfällt bei Fortbestehen des Eigentümerrechts im geringsten Gebot die Vormerkungswirkung; wird der Anspruch im Verteilungsverfahren geltend gemacht, trifft den Ersteher eine Zuzahlungspflicht."
+ },
+ {
+  "id": "grpf1-011",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundlagen und Löschungsanspruch",
+  "seite": "Löschungsanspruch: Löschung des eigenen Rechts und Löschungsvormerkung (§§ 1179b, 1179 BGB)",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundlagen-und-loschungsanspruch/loschungsanspruch-loschung-des-eigenen-rechts-und-loschungsvormerkung-1179b-1179-bgb",
   "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
-   "§ 18 GrEStG",
-   "§ 93c AO",
-   "§ 18 Abs. 1 S. 3 GrEStG"
+   "§ 1179b BGB"
   ],
-  "frage": "Worin unterscheidet sich die Veräußerungsanzeige an das Finanzamt über eNoVA rechtlich von einem Genehmigungsantrag an eine Behörde?",
+  "frage": "Welchem Zweck dient der Anspruch des Grundpfandrechtsgläubigers auf Löschung seines eigenen Rechts nach § 1179b BGB?",
   "optionen": [
-   "Beim Finanzamt ist der amtlich vorgeschriebene Datensatz selbst die Anzeige, die Urkundenabschrift ist nur beizufügen; bei Behörden bleibt das signierte Dokument maßgeblich",
-   "Beim Finanzamt ist die beglaubigte Abschrift maßgeblich, bei Behörden der XML-Datensatz",
-   "Es gibt keinen Unterschied; in beiden Fällen ist allein der Strukturdatensatz rechtlich erheblich",
-   "Beim Finanzamt läuft die Übermittlung über das beBPo, bei Behörden über ELSTER"
+   "Der Rangverbesserung nachrangiger Gläubiger nach Rückführung des Darlehens",
+   "Der Sicherung des Eigentümers gegen eine Abtretung der getilgten Grundschuld",
+   "Dem Gläubiger soll ermöglicht werden, nach Darlehensrückführung die Löschung durchzusetzen und die Akten zu schließen, statt später in Beweisnot zu geraten",
+   "Der Vermeidung einer Eigentümergrundschuld, die dem Zugriff von Pfändungsgläubigern unterläge"
   ],
-  "antwort": 0,
-  "erklaerung": "Gegenüber Behörden und Gerichten bleibt die beglaubigte Abschrift bzw. das signierte Dokument rechtlich maßgeblich, der Strukturdatensatz dient nur der Weiterverarbeitung. Beim Finanzamt kehrt sich das um: Die Anzeige wird nach amtlich vorgeschriebenem Datensatz erstattet (§ 18 GrEStG i. V. m. § 93c AO), die Abschrift ist nur beizufügen (§ 18 Abs. 1 S. 3 GrEStG). Technisch läuft das Finanzamt über die ELSTER-Schnittstelle mit Organisationszertifikat, nicht über das beBPo."
+  "antwort": 2,
+  "erklaerung": "Der Anspruch aus § 1179b BGB dient nicht der Rangverbesserung; das ist Zweck des § 1179a BGB. Er soll dem Gläubiger erlauben, nach Rückführung des Darlehens die Löschung gegenüber dem Eigentümer durchzusetzen und die Akten zu schließen, statt Jahrzehnte später wegen Löschungsunterlagen in Beweisnot zu geraten."
  },
  {
-  "id": "elek1-055",
-  "kapitel": "elektronischer-rechtsverkehr",
-  "abschnitt": "Grundlagen und Infrastruktur",
-  "seite": "eNoVA: Zeitplan, Grundsätze und technische Voraussetzungen",
-  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-zeitplan-grundsatze-und-technische-voraussetzungen",
+  "id": "grpf1-012",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundlagen und Löschungsanspruch",
+  "seite": "Löschungsanspruch: Löschung des eigenen Rechts und Löschungsvormerkung (§§ 1179b, 1179 BGB)",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundlagen-und-loschungsanspruch/loschungsanspruch-loschung-des-eigenen-rechts-und-loschungsvormerkung-1179b-1179-bgb",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1179 Nr. 1 BGB",
+   "§ 1179 Nr. 2 BGB"
+  ],
+  "frage": "Für wen kommt die eintragungsbedürftige Löschungsvormerkung nach § 1179 BGB in Betracht?",
+  "optionen": [
+   "Für nachrangige Grundpfandrechtsgläubiger, denen § 1179a BGB keinen Anspruch gibt",
+   "Für Berechtigte gleich- oder nachrangiger Rechte, die keine Grundpfandrechte sind, etwa Wohnungsberechtigte oder Nießbraucher, sowie für Personen mit Anspruch auf Bestellung eines solchen Rechts oder auf Übereignung",
+   "Für den Eigentümer selbst zur Sicherung seines Rückgewähranspruchs gegen den Grundschuldgläubiger",
+   "Für den vorrangigen Grundpfandrechtsgläubiger, der die Löschung seines eigenen Rechts verlangen will"
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 1179 BGB erfasst Berechtigte gleich- oder nachrangiger Grundstücksrechte, die keine Grundpfandrechte sind (Nr. 1, etwa Wohnungsrecht oder Nießbrauch), sowie Personen, die die Bestellung eines solchen Rechts oder die Übereignung des Grundstücks beanspruchen können (Nr. 2). Nachrangige Grundpfandrechtsgläubiger sind durch den gesetzlichen Löschungsanspruch nach § 1179a BGB mit fingierter Vormerkung geschützt und brauchen § 1179 BGB nicht. Die Löschungsvormerkung wird auf Bewilligung des Eigentümers eingetragen."
+ },
+ {
+  "id": "grpf1-013",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundlagen und Löschungsanspruch",
+  "seite": "Löschungsanspruch: Löschung des eigenen Rechts und Löschungsvormerkung (§§ 1179b, 1179 BGB)",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundlagen-und-loschungsanspruch/loschungsanspruch-loschung-des-eigenen-rechts-und-loschungsvormerkung-1179b-1179-bgb",
   "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1179 BGB",
+   "§§ 883 Abs. 2, 888 Abs. 1 BGB"
+  ],
+  "frage": "Die Löschungsvormerkung nach § 1179 BGB schützt den Berechtigten auch gegen eine Verfügung des Hypothekengläubigers an einen gutgläubigen Erwerber.",
+  "antwort": false,
+  "erklaerung": "Die Löschungsvormerkung sichert nur die Verpflichtung des Eigentümers, das vorgehende Grundpfandrecht bei Vereinigung mit dem Eigentum löschen zu lassen. Sie schützt daher gegen Abtretung oder Belastung der Eigentümergrundschuld, Forderungsauswechslung und Umwandlungen nach §§ 1180, 1186, 1198 BGB (§§ 883 Abs. 2, 888 Abs. 1 BGB), nicht aber gegen Verfügungen des Hypothekengläubigers an einen gutgläubigen Erwerber, weil sich der gesicherte Anspruch nur gegen den Eigentümer richtet."
+ },
+ {
+  "id": "grpf1-014",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundschuld",
+  "seite": "Grundschuld: abstraktes Schuldanerkenntnis und persönliche Unterwerfung",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/grundschuld-abstraktes-schuldanerkenntnis-und-personliche-unterwerfung",
+  "typ": "mc",
   "schwierigkeit": 1,
   "normen": [
-   "§ 18 GrEStG"
+   "§§ 780, 781 BGB",
+   "§ 794 Abs. 1 Nr. 5 ZPO"
   ],
-  "frage": "Für die Veräußerungsanzeige über eNoVA benötigt das Notariat ein ELSTER-Zertifikat, das in XNP zu hinterlegen ist.",
+  "frage": "Wie ist die in Grundschuldbestellungsurkunden übliche Übernahme der persönlichen Haftung mit dem ganzen Vermögen rechtlich einzuordnen?",
+  "optionen": [
+   "Als Schuldbeitritt zum Darlehensvertrag, der die Darlehensforderung um einen weiteren Schuldner erweitert",
+   "Als abstraktes Schuldversprechen bzw. Schuldanerkenntnis nach §§ 780, 781 BGB, das ein eigenständiges Schuldverhältnis begründet",
+   "Als selbstschuldnerische Bürgschaft nach § 765 BGB für die Darlehensforderung",
+   "Als dingliche Unterwerfung nach § 800 ZPO mit Wirkung gegen den jeweiligen Eigentümer"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Übernahme der persönlichen Haftung wegen der Grundschuldansprüche ist ein abstraktes Schuldversprechen bzw. Schuldanerkenntnis (§§ 780, 781 BGB), das ein eigenständiges, vom Darlehen losgelöstes Schuldverhältnis begründet und in aller Regel mit der Unterwerfung nach § 794 Abs. 1 Nr. 5 ZPO verbunden wird. Es ist weder Schuldbeitritt noch Bürgschaft; die dingliche Unterwerfung nach § 800 ZPO betrifft nur die Vollstreckung in das Grundstück."
+ },
+ {
+  "id": "grpf1-015",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundschuld",
+  "seite": "Grundschuld: abstraktes Schuldanerkenntnis und persönliche Unterwerfung",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/grundschuld-abstraktes-schuldanerkenntnis-und-personliche-unterwerfung",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 415 BGB",
+   "§§ 1922, 1967 BGB",
+   "§§ 727, 795, 797 Abs. 2 S. 1 ZPO"
+  ],
+  "frage": "Ordne den Vorgang der Folge für dinglichen und persönlichen Anspruch aus einer Grundschuld mit Schuldversprechen zu.",
+  "paare": [
+   [
+    "Abtretung der Grundschuld",
+    "Anspruch aus dem Schuldversprechen geht nicht von selbst mit über, sondern muss gesondert abgetreten werden"
+   ],
+   [
+    "Veräußerung des Grundstücks",
+    "Nur die dingliche Haftung geht über; die persönliche Verpflichtung nur mit Genehmigung des Gläubigers (§ 415 BGB)"
+   ],
+   [
+    "Erbfall",
+    "Dinglicher und persönlicher Anspruch gehen beide über (§§ 1922, 1967 BGB)"
+   ],
+   [
+    "Umschreibung der Vollstreckungsklausel",
+    "Gesonderte Prüfung, wem dinglicher und wem persönlicher Anspruch zusteht (§§ 727, 795, 797 Abs. 2 S. 1 ZPO)"
+   ]
+  ],
+  "erklaerung": "Dinglicher und persönlicher Titel können getrennte Wege gehen. Die Abtretung der Grundschuld erfasst das Schuldversprechen nicht automatisch; beim Grundstücksverkauf übernimmt der Erwerber die persönliche Verpflichtung nur mit Gläubigergenehmigung nach § 415 BGB; nur im Erbfall gehen beide über, weil der Erbe das ganze Vermögen übernimmt. Bei der Klauselumschreibung ist deshalb jeweils gesondert zu prüfen, wem welcher Anspruch zusteht."
+ },
+ {
+  "id": "grpf1-016",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundschuld",
+  "seite": "Grundschuld: abstraktes Schuldanerkenntnis und persönliche Unterwerfung",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/grundschuld-abstraktes-schuldanerkenntnis-und-personliche-unterwerfung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 307 Abs. 2 Nr. 1 BGB",
+   "§ 305c Abs. 1 BGB"
+  ],
+  "frage": "Die Eltern E bestellen an ihrem Grundstück eine Grundschuld zur Sicherung eines Darlehens, das allein ihr Sohn S aufnimmt. Das Bankformular sieht vor, dass E die persönliche Haftung übernehmen und sich der Zwangsvollstreckung in ihr gesamtes Vermögen unterwerfen. Wie sollte der Notar verfahren?",
+  "optionen": [
+   "Die persönliche Unterwerfung von E beurkunden, weil der Sicherungsvertrag eine doppelte Inanspruchnahme ohnehin verhindert",
+   "Das persönliche Schuldversprechen nur von S abgeben lassen, weil eine persönliche Unterwerfung eines Nichtschuldners nach § 307 Abs. 2 Nr. 1 BGB und ggf. § 305c Abs. 1 BGB unwirksam sein kann",
+   "Die Beurkundung insgesamt ablehnen, weil Grundschuld und Darlehen verschiedenen Personen zugeordnet sind",
+   "E nur dinglich unterwerfen und S anstelle von E die Grundschuld bestellen lassen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Ist der Eigentümer nicht zugleich Kreditnehmer, sollte das persönliche Schuldversprechen nur der Kreditnehmer abgeben. Die persönliche Unterwerfung eines Nichtschuldners kann nach § 307 Abs. 2 Nr. 1 BGB und gegebenenfalls nach § 305c Abs. 1 BGB unwirksam sein, und an unwirksamen Urkunden soll der Notar nicht mitwirken. Die dingliche Haftung von E mit dem Grundstück ist dagegen unproblematisch; eine Ablehnung der gesamten Beurkundung ist nicht geboten."
+ },
+ {
+  "id": "grpf1-017",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundschuld",
+  "seite": "Grundschuld: abstraktes Schuldanerkenntnis und persönliche Unterwerfung",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/grundschuld-abstraktes-schuldanerkenntnis-und-personliche-unterwerfung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§§ 780, 781 BGB",
+   "§ 794 Abs. 1 Nr. 5 ZPO"
+  ],
+  "frage": "Fällt der Gläubiger einer Grundschuld mit abstraktem Schuldversprechen und Unterwerfung in der Zwangsversteigerung teilweise aus, kann er wegen des Restes aus dem persönlichen Titel in das übrige Vermögen des Erklärenden vollstrecken; eine doppelte Befriedigung in voller Höhe verhindert der Sicherungsvertrag.",
   "antwort": true,
-  "erklaerung": "Die Übermittlung an das Finanzamt läuft über die ELSTER-Schnittstelle und setzt ein Organisationszertifikat voraus, entweder je Amtsträger oder je Sozietät; die Zertifikatsdatei ist in XNP zu hinterlegen. Ohne Zertifikat ist seit 01.10.2026 keine Veräußerungsanzeige nach § 18 GrEStG möglich, weshalb es rechtzeitig zu beschaffen ist."
+  "erklaerung": "Der Gläubiger hält einen dinglichen Titel für das belastete Objekt und einen persönlichen Titel für das ganze Vermögen des Erklärenden, etwa Arbeitseinkommen oder bewegliche Sachen. Bei einem Ausfall in der Zwangsversteigerung greift er wegen des Restes auf das Schuldversprechen zurück. Der Sicherungsvertrag begrenzt ihn darauf, nur ein einziges Mal und beschränkt auf die gesicherte Forderung zu vollstrecken."
+ },
+ {
+  "id": "grpf1-018",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundschuld",
+  "seite": "Grundschuld: Abstraktheit, Unterschiede zur Hypothek, Brief- und Buchrecht, Abtretung",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/grundschuld-abstraktheit-unterschiede-zur-hypothek-brief-und-buchrecht-abtretung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1117 BGB"
+  ],
+  "frage": "Im Grundbuch ist in Abteilung III lediglich „Grundschuld zu 200.000 EUR für die B-Bank“ eingetragen; ein Briefausschluss ist nicht vermerkt. Um welche Art von Recht handelt es sich?",
+  "optionen": [
+   "Um eine Buchgrundschuld, weil Buchrechte heute der gesetzliche Regelfall sind",
+   "Um eine Briefgrundschuld, weil ohne Ausschluss der Brieferteilung ein Briefrecht entsteht",
+   "Um eine Sicherungshypothek, weil kein Brief erteilt wurde",
+   "Um eine Eigentümergrundschuld, bis der Brief an die Bank übergeben ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Wird die Brieferteilung bei der Bestellung nicht ausgeschlossen, entsteht eine Briefgrundschuld (§ 1117 BGB); lautet die Eintragung nur auf „Grundschuld“, liegt ein Briefrecht vor. Eine Buchgrundschuld setzt die ausdrückliche Bezeichnung als „Buchgrundschuld“ oder „Grundschuld ohne Brief“ voraus. Der typische Fehler besteht darin, eine solche Grundschuld für ein Buchrecht zu halten."
+ },
+ {
+  "id": "grpf1-019",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundschuld",
+  "seite": "Grundschuld: Abstraktheit, Unterschiede zur Hypothek, Brief- und Buchrecht, Abtretung",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/grundschuld-abstraktheit-unterschiede-zur-hypothek-brief-und-buchrecht-abtretung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1193 BGB",
+   "§ 1193 Abs. 2 S. 2 BGB"
+  ],
+  "frage": "Wann wird das Kapital einer Grundschuld, die der Sicherung einer Geldforderung dient, fällig?",
+  "optionen": [
+   "Mit Fälligkeit der gesicherten Darlehensforderung, weil § 1192 BGB auf die Hypothekenvorschriften verweist",
+   "Erst nach Kündigung durch Eigentümer oder Gläubiger mit einer Frist von sechs Monaten; davon kann nicht abgewichen werden",
+   "Sofort mit Eintragung, sofern die Parteien nichts anderes vereinbaren",
+   "Nach Kündigung mit einer Frist von drei Monaten, die durch Vereinbarung verkürzt werden kann"
+  ],
+  "antwort": 1,
+  "erklaerung": "Das Grundschuldkapital wird erst nach Kündigung fällig; kündigen können Eigentümer und Gläubiger, die Frist beträgt sechs Monate (§ 1193 BGB). Dient die Grundschuld der Sicherung einer Geldforderung, kann von dieser Kündigungsregelung nicht abgewichen werden (§ 1193 Abs. 2 S. 2 BGB). Eine Kopplung an die Fälligkeit der Forderung widerspricht der Abstraktheit der Grundschuld."
+ },
+ {
+  "id": "grpf1-020",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundschuld",
+  "seite": "Grundschuld: Abstraktheit, Unterschiede zur Hypothek, Brief- und Buchrecht, Abtretung",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/grundschuld-abstraktheit-unterschiede-zur-hypothek-brief-und-buchrecht-abtretung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1154 Abs. 1 BGB",
+   "§ 1154 Abs. 3 BGB",
+   "§ 1155 BGB",
+   "§ 29 GBO"
+  ],
+  "frage": "Wie wird eine Briefgrundschuld rechtsgeschäftlich auf einen neuen Gläubiger übertragen?",
+  "optionen": [
+   "Durch schriftliche Abtretungserklärung und Briefübergabe; eine Grundbucheintragung ist nicht erforderlich (analog § 1154 Abs. 1 BGB)",
+   "Durch Einigung und Eintragung im Grundbuch, weil die Eintragung für jede Grundschuldabtretung konstitutiv ist (analog § 1154 Abs. 3 BGB)",
+   "Durch Abtretung der gesicherten Darlehensforderung, der die Grundschuld nach § 1153 BGB folgt",
+   "Durch notariell beurkundeten Abtretungsvertrag und Briefübergabe, da § 29 GBO für die Abtretung gilt"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Briefgrundschuld wird analog § 1154 Abs. 1 BGB durch schriftliche Abtretung (Vertrag zwischen altem und neuem Gläubiger) und Briefübergabe übertragen; eine Eintragung ist nicht nötig, weshalb man von Verkehrsgrundschulden spricht. Nur bei der Buchgrundschuld bleibt die Eintragung konstitutiv (analog § 1154 Abs. 3 BGB). Die Form des § 29 GBO wird erst für die berichtigende Eintragung gebraucht; § 1153 BGB gilt mangels Akzessorietät nicht."
+ },
+ {
+  "id": "grpf1-021",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundschuld",
+  "seite": "Grundschuld: Abstraktheit, Unterschiede zur Hypothek, Brief- und Buchrecht, Abtretung",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/grundschuld-abstraktheit-unterschiede-zur-hypothek-brief-und-buchrecht-abtretung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1163 Abs. 1 S. 2 BGB",
+   "§ 1177 Abs. 1 BGB",
+   "§ 1192 Abs. 1 BGB"
+  ],
+  "frage": "Ist die durch eine Grundschuld gesicherte Darlehensforderung vollständig zurückgezahlt, wird die Grundschuld nach §§ 1163 Abs. 1 S. 2, 1177 Abs. 1 BGB kraft Gesetzes zur Eigentümergrundschuld.",
+  "antwort": false,
+  "erklaerung": "Die genannten Vorschriften gelten nur für die akzessorische Hypothek. Bei der Grundschuld entsteht nach vollständiger Erfüllung der gesicherten Forderung keine Eigentümergrundschuld; sie bleibt in voller Höhe Fremdgrundschuld, weil ihr Fortbestand nicht von einer Forderung abhängt (§ 1192 Abs. 1 BGB). Der Eigentümer ist auf den Rückgewähranspruch aus dem Sicherungsvertrag verwiesen."
+ },
+ {
+  "id": "grpf1-022",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundschuld",
+  "seite": "Grundschuld: Abstraktheit, Unterschiede zur Hypothek, Brief- und Buchrecht, Abtretung",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/grundschuld-abstraktheit-unterschiede-zur-hypothek-brief-und-buchrecht-abtretung",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1153 BGB",
+   "§ 1137 BGB",
+   "§ 1163 Abs. 1 S. 1 BGB",
+   "§ 1193 BGB"
+  ],
+  "frage": "Ordne die Hypothekenvorschrift der Aussage zu, warum sie auf die Grundschuld nicht (oder anders) anzuwenden ist.",
+  "paare": [
+   [
+    "§ 1153 BGB",
+    "Grundschuld und Forderung können getrennt abgetreten werden und verschiedene Gläubiger haben"
+   ],
+   [
+    "§ 1137 BGB",
+    "Einreden aus der gesicherten Forderung wirken nicht gegen die Grundschuld"
+   ],
+   [
+    "§ 1163 Abs. 1 S. 1 BGB",
+    "Keine vorläufige Eigentümergrundschuld, weil keine Forderung zur Entstehung nötig ist"
+   ],
+   [
+    "§ 1193 BGB",
+    "Grundschuldkapital wird erst nach Kündigung mit sechsmonatiger Frist fällig"
+   ]
+  ],
+  "erklaerung": "Die Hypothekenvorschriften gelten für die Grundschuld nur, soweit nicht das Fehlen einer Forderung entgegensteht (§ 1192 Abs. 1 BGB). Deshalb entfallen § 1153 BGB (Verbindung von Forderung und Recht), § 1137 BGB (Einreden aus der Forderung) und § 1163 Abs. 1 S. 1 BGB (vorläufige Eigentümergrundschuld). § 1193 BGB ist dagegen eine grundschuldspezifische Fälligkeitsregel."
+ },
+ {
+  "id": "grpf1-023",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundschuld",
+  "seite": "Grundschuld: Eigentümergrundschuld (§ 1196 BGB)",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/grundschuld-eigentumergrundschuld-1196-bgb",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1197 Abs. 1 BGB",
+   "§ 1197 BGB"
+  ],
+  "frage": "Welche Beschränkung trifft den Eigentümer, der zugleich Gläubiger einer für ihn bestellten Grundschuld ist?",
+  "optionen": [
+   "Er kann die Grundschuld nicht abtreten, solange sie nicht im Grundbuch auf einen Dritten umgeschrieben ist",
+   "Er kann nicht zu seiner Befriedigung die Zwangsvollstreckung aus der Grundschuld betreiben und erhält Zinsen nur während einer von einem Dritten beantragten Zwangsverwaltung",
+   "Er muss die Eigentümergrundschuld innerhalb von sechs Monaten an einen Geldgeber abtreten, sonst erlischt sie",
+   "Er kann die Grundschuld nur als Buchrecht und nicht als Briefrecht halten"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 1197 Abs. 1 BGB kann der Eigentümer als Gläubiger nicht zu seiner Befriedigung die Zwangsvollstreckung aus der Grundschuld betreiben; dies gilt auch für eine zur Eigentümergrundschuld gewordene Hypothek (§§ 1177 Abs. 2, 1197 BGB). Zinsen erhält er nur während einer von einem Dritten beantragten Beschlagnahme zur Zwangsverwaltung (§ 1197 BGB). Abtretbar ist die Eigentümergrundschuld dagegen ohne weiteres, gerade als Briefrecht."
+ },
+ {
+  "id": "grpf1-024",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundschuld",
+  "seite": "Grundschuld: Eigentümergrundschuld (§ 1196 BGB)",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/grundschuld-eigentumergrundschuld-1196-bgb",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§§ 794 Abs. 1 Nr. 5, 800 ZPO",
+   "§ 1196 BGB"
+  ],
+  "frage": "Ein Eigentümer bestellt eine Eigentümer-Briefgrundschuld und unterwirft sich in der Bestellungsurkunde hinsichtlich des Grundstücks der sofortigen Zwangsvollstreckung gegenüber dem künftigen Gläubiger. Wann darf der Notar die vollstreckbare Ausfertigung erteilen?",
+  "optionen": [
+   "Sofort nach Eintragung der Grundschuld, weil die Unterwerfung nach § 800 ZPO gegen den jeweiligen Eigentümer wirkt",
+   "Erst, wenn die Abtretung an den Gläubiger durch öffentliche bzw. öffentlich beglaubigte Urkunde belegt ist, weil Selbstvollstreckung verboten ist",
+   "Nie, weil eine Unterwerfung gegenüber einem noch unbestimmten Gläubiger unzulässig ist",
+   "Erst nach Eintragung der Abtretung im Grundbuch, weil nur der eingetragene Gläubiger vollstrecken kann"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die dingliche Unterwerfung gegenüber einem noch unbestimmten künftigen Gläubiger ist bei der Bestellung einer Eigentümergrundschuld zulässig (§§ 794 Abs. 1 Nr. 5, 800 ZPO). Wegen des Verbots der Selbstvollstreckung darf der Notar die vollstreckbare Ausfertigung jedoch erst erteilen, wenn die Abtretung durch öffentliche bzw. öffentlich beglaubigte Urkunde nachgewiesen ist. Eine Grundbucheintragung der Abtretung ist nicht erforderlich; sie wird meist sogar bewusst unterlassen."
+ },
+ {
+  "id": "grpf1-025",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundschuld",
+  "seite": "Grundschuld: Eigentümergrundschuld (§ 1196 BGB)",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/grundschuld-eigentumergrundschuld-1196-bgb",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1196 Abs. 3 BGB",
+   "§ 1179a Abs. 5 BGB"
+  ],
+  "frage": "Der gute Glaube des Zessionars einer Eigentümergrundschuld schützt ihn davor, dass gesetzliche Löschungsansprüche nachrangiger Gläubiger wegen einer ihm unbekannten früheren Abtretung wieder aufleben.",
+  "antwort": false,
+  "erklaerung": "Löschungsansprüche nach §§ 1179a, 1179b BGB bestehen bei der Eigentümergrundschuld erst, wenn sie einmal einem anderen als dem Eigentümer zugestanden hat, und leben nach mehrfacher Abtretung wieder auf. Für den Erwerber ist eine frühere Abtretung nicht erkennbar, und sein guter Glaube schützt ihn gegen den gesetzlichen Löschungsanspruch gerade nicht. Abhilfe kann nur der Ausschluss nach § 1179a Abs. 5 BGB schaffen, auf den der Notar hinweisen sollte."
+ },
+ {
+  "id": "grpf1-026",
+  "kapitel": "grundpfandrechte",
+  "abschnitt": "Grundschuld",
+  "seite": "Grundschuld: Eigentümergrundschuld (§ 1196 BGB)",
+  "quelle": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/grundschuld-eigentumergrundschuld-1196-bgb",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 794 Abs. 1 Nr. 5 ZPO",
+   "§ 1196 BGB"
+  ],
+  "frage": "Wo sollte nach den Praxishinweisen das persönliche Schuldversprechen mit Unterwerfung bei einer Eigentümergrundschuld aufgenommen werden?",
+  "optionen": [
+   "Bereits in der Bestellungsurkunde, damit der Zessionar sofort einen persönlichen Titel erhält",
+   "Erst in der Abtretungsurkunde an den Geldgeber, weil die Zulässigkeit bei der Bestellung umstritten ist",
+   "In einer gesonderten Urkunde nach Eintragung der Abtretung im Grundbuch",
+   "Gar nicht, weil bei Eigentümergrundschulden kein persönliches Schuldversprechen möglich ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Ob ein abstraktes Schuldversprechen mit Unterwerfung nach § 794 Abs. 1 Nr. 5 ZPO schon bei der Bestellung der Eigentümergrundschuld abgegeben werden kann, ist umstritten. Der Praxishinweis lautet daher, das persönliche Schuldversprechen mit Unterwerfung erst in die Abtretungsurkunde aufzunehmen. Die dingliche Unterwerfung gegenüber dem künftigen Gläubiger ist dagegen schon in der Bestellung möglich."
  }
 ]
