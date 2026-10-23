@@ -31,9 +31,9 @@
   "normen": [
    "§§ 168f, 168a Abs. 2 FamFG"
   ],
-  "frage": "Nach geltendem Recht beginnt das Amt des Pflegers erst mit einem Bestellungsakt, zu dem der Pfleger persönlich vor Gericht erscheinen muss.",
-  "antwort": false,
-  "erklaerung": "Seit dem 01.01.2023 beginnt das Pflegeramt, sobald der Bestellungsbeschluss dem Pfleger bekanntgegeben ist (§§ 168f, 168a Abs. 2 FamFG). Der Bestellungsakt mit persönlichem Erscheinen war nur bis 31.12.2022 maßgeblich; die Aussage beschreibt also die alte Rechtslage."
+  "frage": "Nach geltendem Recht beginnt das Amt des Pflegers, sobald der Bestellungsbeschluss dem Pfleger bekanntgegeben ist; ein Bestellungsakt mit persönlichem Erscheinen ist nicht mehr erforderlich.",
+  "antwort": true,
+  "erklaerung": "Seit dem 01.01.2023 beginnt das Pflegeramt mit der Bekanntgabe des Bestellungsbeschlusses an den Pfleger (§§ 168f, 168a Abs. 2 FamFG). Der Bestellungsakt, für den der Pfleger persönlich erscheinen musste, war nur bis 31.12.2022 maßgeblich."
  },
  {
   "id": "vert2-003",
@@ -373,7 +373,7 @@
   "seite": "Rechtliche Betreuung: Verfügungen über selbstgenutzten Wohnraum (§ 1833 Abs. 3 S. 1 Nr. 4 BGB)",
   "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-verfugungen-uber-selbstgenutzten-wohnraum-1833-abs-3-s-1-nr-4-bgb",
   "typ": "rf",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 1833 Abs. 3 S. 1 Nr. 4 BGB"
   ],
@@ -457,9 +457,9 @@
   "normen": [
    "§ 1868 BGB"
   ],
-  "frage": "Mit der Entlassung des Betreuers nach § 1868 BGB endet zugleich die Betreuung als solche.",
-  "antwort": false,
-  "erklaerung": "Nach der Entlassung bestellt das Gericht einen neuen Betreuer; die Betreuung als solche besteht fort. Die Betreuung endet erst mit ihrer Aufhebung nach § 1871 Abs. 1 BGB, wenn ihre Voraussetzungen wegfallen."
+  "frage": "Wird der Betreuer nach § 1868 BGB entlassen, besteht die Betreuung als solche fort; das Gericht bestellt einen neuen Betreuer.",
+  "antwort": true,
+  "erklaerung": "Die Entlassung betrifft nur die Person des Betreuers (§ 1868 BGB); die Betreuung besteht fort, und das Gericht bestellt einen neuen Betreuer. Die Betreuung selbst endet erst mit ihrer Aufhebung nach § 1871 Abs. 1 BGB, wenn ihre Voraussetzungen wegfallen."
  },
  {
   "id": "vert2-022",
@@ -581,7 +581,7 @@
   "seite": "Vormundschaft: Amtsstellung, Anordnung und Bestellung des Vormunds",
   "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/vormundschaft-amtsstellung-anordnung-und-bestellung-des-vormunds",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 1774 Abs. 2 BGB",
    "§ 1781 Abs. 3 BGB"
@@ -639,7 +639,7 @@
   "seite": "Vormundschaft: Aufgaben, Vertretungsmacht und Genehmigungen",
   "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/vormundschaft-aufgaben-vertretungsmacht-und-genehmigungen",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 1789 Abs. 1 BGB"
   ],
@@ -782,5 +782,370 @@
   "frage": "Die ärztliche Bescheinigung nach § 1358 Abs. 4 BGB begründet das Vertretungsrecht des Ehegatten und genießt guten Glauben.",
   "antwort": false,
   "erklaerung": "Die Bescheinigung weist die Voraussetzungen des § 1358 Abs. 1 BGB und den spätesten Zeitpunkt ihres Eintritts aus, begründet das Vertretungsrecht aber nicht und genießt keinen guten Glauben. Allenfalls entsteht ein Rechtsschein, wenn der Arzt die Feststellung trotz Kenntnis eines Ausschlussgrundes abgibt."
+ },
+ {
+  "id": "vert2-037",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vorsorgevollmacht und Patientenverfügung",
+  "seite": "Patientenverfügung: Wirkung, Voraussetzungen und Form",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vorsorgevollmacht-und-patientenverfugung/patientenverfugung-wirkung-voraussetzungen-und-form",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1827 BGB"
+  ],
+  "frage": "Welche Form schreibt das Gesetz für die Patientenverfügung vor?",
+  "optionen": [
+   "Notarielle Beurkundung",
+   "Öffentliche Beglaubigung der Unterschrift",
+   "Einfache Schriftform",
+   "Keine Form; eine mündliche Erklärung genügt stets"
+  ],
+  "antwort": 2,
+  "erklaerung": "§ 1827 BGB setzt eine schriftliche Festlegung eines einwilligungsfähigen Volljährigen voraus; es genügt die einfache Schriftform. Eine notarielle Beglaubigung oder Beurkundung ist nicht erforderlich, aber ratsam, weil sie Identität und gegebenenfalls Geschäftsfähigkeit belegt."
+ },
+ {
+  "id": "vert2-038",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vorsorgevollmacht und Patientenverfügung",
+  "seite": "Patientenverfügung: Wirkung, Voraussetzungen und Form",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vorsorgevollmacht-und-patientenverfugung/patientenverfugung-wirkung-voraussetzungen-und-form",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1827 BGB"
+  ],
+  "frage": "Welche Fähigkeit muss der Verfasser einer Patientenverfügung nach h. M. bei ihrer Abgabe besitzen?",
+  "optionen": [
+   "Volle Geschäftsfähigkeit, da es sich um eine Willenserklärung handelt",
+   "Testierfähigkeit im Sinne des Erbrechts",
+   "Einwilligungsfähigkeit, also natürliche Einsichts- und Urteilsfähigkeit",
+   "Beschränkte Geschäftsfähigkeit genügt bei Zustimmung eines Angehörigen"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Patientenverfügung ist nach h. M. eine Willenskundgabe und geschäftsähnliche Handlung; erforderlich ist nur natürliche Einsichts- und Urteilsfähigkeit. Jeder einwilligungsfähige Volljährige kann sie errichten (§ 1827 BGB), Geschäftsfähigkeit ist nicht zwingend. Die Einordnung als Willenserklärung mit Geschäftsfähigkeitserfordernis ist der naheliegende Fehler."
+ },
+ {
+  "id": "vert2-039",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vorsorgevollmacht und Patientenverfügung",
+  "seite": "Patientenverfügung: Wirkung, Voraussetzungen und Form",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vorsorgevollmacht-und-patientenverfugung/patientenverfugung-wirkung-voraussetzungen-und-form",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 216 StGB",
+   "§ 1827 BGB"
+  ],
+  "frage": "Welche Anordnung kann in einer Patientenverfügung nicht wirksam getroffen werden?",
+  "optionen": [
+   "Die Untersagung einer lebensverlängernden Intensivbehandlung",
+   "Die Ablehnung bestimmter Operationen",
+   "Der Ausschluss der Basisversorgung",
+   "Die Einwilligung in intensivmedizinische Behandlung"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Patientenverfügung bindet nur im Rahmen der Rechtsordnung: Die Basisversorgung kann sie nicht ausschließen, und aktive Sterbehilfe kann wegen § 216 StGB nicht wirksam verlangt werden. Die Untersagung einer Intensivbehandlung ist dagegen zulässig; eine lebensverlängernde Intensivbehandlung darf dann nach h. M. nicht fortgesetzt werden."
+ },
+ {
+  "id": "vert2-040",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vorsorgevollmacht und Patientenverfügung",
+  "seite": "Patientenverfügung: Wirkung, Voraussetzungen und Form",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vorsorgevollmacht-und-patientenverfugung/patientenverfugung-wirkung-voraussetzungen-und-form",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1827 BGB",
+   "§ 1829 BGB"
+  ],
+  "frage": "Behandlungsabbruch nach Patientenverfügung",
+  "sachverhalt": "P hat vor acht Jahren als einwilligungsfähige Volljährige schriftlich festgelegt, dass sie im Fall eines dauerhaften Wachkomas keine künstliche Ernährung wünscht. Seither hat sie die Verfügung nicht erneut unterschrieben. P liegt nun nach einem Unfall im Wachkoma. Ihre Tochter T ist Bevollmächtigte; die Vollmacht umfasst den Behandlungsabbruch eindeutig. Der behandelnde Arzt A hält die Verfügung ebenfalls für einschlägig.",
+  "schritte": [
+   {
+    "frage": "Ist die Patientenverfügung wegen ihres Alters unwirksam?",
+    "optionen": [
+     "Ja, Patientenverfügungen verfallen nach fünf Jahren.",
+     "Nein, das Gesetz sieht kein Verfallsdatum vor; eine regelmäßige Bestätigung wird nur empfohlen.",
+     "Ja, wenn sie nicht notariell beurkundet ist.",
+     "Nein, aber nur, wenn ein Arzt sie bei Errichtung bestätigt hat."
+    ],
+    "antwort": 1,
+    "erklaerung": "Der Gesetzgeber hat kein Verfallsdatum vorgesehen. Eine regelmäßige Bestätigung durch erneute Unterschrift wird empfohlen, um die Aktualität des Willens zu belegen, ist aber keine Wirksamkeitsvoraussetzung. Auch eine ärztliche Aufklärung ist für die Wirksamkeit nicht erforderlich."
+   },
+   {
+    "frage": "Was hat T als Vertreterin zu prüfen?",
+    "optionen": [
+     "Ob der Abbruch medizinisch dem objektiven Wohl der P entspricht.",
+     "Ob die Verfügung auf die aktuelle Behandlungslage passt und nicht widerrufen ist.",
+     "Ob alle Angehörigen dem Abbruch zustimmen.",
+     "Nichts, da die Verfügung unmittelbar ohne Umsetzung wirkt."
+    ],
+    "antwort": 1,
+    "erklaerung": "Nach dem BGH setzt der Vertreter die Patientenverfügung um. Er prüft, ob sie auf die aktuelle Behandlungslage passt und nicht widerrufen ist; trifft das zu, muss er dem Patientenwillen Geltung verschaffen. Maßstab ist der Wille der P, nicht ein objektives Wohl."
+   },
+   {
+    "frage": "Bedarf der Behandlungsabbruch einer Genehmigung des Betreuungsgerichts?",
+    "optionen": [
+     "Ja, ein Behandlungsabbruch ist stets genehmigungsbedürftig.",
+     "Ja, weil T nur Bevollmächtigte und keine Betreuerin ist.",
+     "Nein, eine Genehmigung ist nur bei Dissens zwischen Arzt und Vertreter erforderlich.",
+     "Nein, weil Bevollmächtigte nie einer Genehmigung bedürfen."
+    ],
+    "antwort": 2,
+    "erklaerung": "Eine gerichtliche Genehmigung ist nur bei Dissens oder Konflikt zwischen Arzt und Vertreter erforderlich. Der Bevollmächtigte steht insoweit dem Betreuer gleich, wenn die Vollmacht den Behandlungsabbruch eindeutig umfasst. Da T und A übereinstimmen, ist keine Genehmigung nötig."
+   }
+  ],
+  "erklaerung": "Die Patientenverfügung ist trotz ihres Alters wirksam, da es kein Verfallsdatum gibt. T prüft, ob die Verfügung die aktuelle Lage erfasst und nicht widerrufen ist, und verschafft ihr Geltung. Bei Einvernehmen mit dem Arzt ist keine betreuungsgerichtliche Genehmigung erforderlich."
+ },
+ {
+  "id": "vert2-041",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vorsorgevollmacht und Patientenverfügung",
+  "seite": "Vorsorgevollmacht: Begriff, Grenzen der Vertretung und Form",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vorsorgevollmacht-und-patientenverfugung/vorsorgevollmacht-begriff-grenzen-der-vertretung-und-form",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1820 Abs. 2 BGB",
+   "§ 1831 BGB"
+  ],
+  "frage": "Eine privatschriftliche Vorsorgevollmacht berechtigt allgemein „zur Vertretung in allen persönlichen Angelegenheiten“. Kann der Bevollmächtigte in eine freiheitsentziehende Unterbringung einwilligen?",
+  "optionen": [
+   "Ja, die allgemeine Formulierung deckt auch die Unterbringung.",
+   "Nein, erforderlich ist eine notariell beurkundete Vollmacht.",
+   "Nein, die Vollmacht muss schriftlich sein und die Unterbringung ausdrücklich umfassen.",
+   "Ja, sofern der Vollmachtgeber geschäftsunfähig ist."
+  ],
+  "antwort": 2,
+  "erklaerung": "§ 1820 Abs. 2 BGB setzt für Unterbringung und freiheitsentziehende Maßnahmen (§ 1831 BGB) voraus, dass die Vollmacht schriftlich erteilt ist und diese Maßnahmen ausdrücklich umfasst. Die Schriftform ist hier gewahrt, es fehlt aber die ausdrückliche Benennung. Eine notarielle Form verlangt § 1820 Abs. 2 BGB nicht."
+ },
+ {
+  "id": "vert2-042",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vorsorgevollmacht und Patientenverfügung",
+  "seite": "Vorsorgevollmacht: Begriff, Grenzen der Vertretung und Form",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vorsorgevollmacht-und-patientenverfugung/vorsorgevollmacht-begriff-grenzen-der-vertretung-und-form",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 2064 BGB",
+   "§ 1311 S. 1 BGB"
+  ],
+  "frage": "Welches Geschäft kann ein Generalbevollmächtigter mit umfassender Vorsorgevollmacht für den Vollmachtgeber vornehmen?",
+  "optionen": [
+   "Errichtung eines Testaments",
+   "Eheschließung",
+   "Anerkennung der Vaterschaft",
+   "Verkauf eines Grundstücks"
+  ],
+  "antwort": 3,
+  "erklaerung": "Auch eine umfassende Vollmacht deckt keine Geschäfte, bei denen Vertretung ausgeschlossen ist, etwa Testamentserrichtung (§ 2064 BGB), Eheschließung (§ 1311 S. 1 BGB) oder Anerkennung der Vaterschaft (§ 1596 Abs. 4 BGB). Der Grundstücksverkauf ist dagegen vertretbar; für die Grundbuchabwicklung ist allerdings eine beglaubigte oder beurkundete Vollmacht nötig (§ 29 GBO)."
+ },
+ {
+  "id": "vert2-043",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vorsorgevollmacht und Patientenverfügung",
+  "seite": "Vorsorgevollmacht: Begriff, Grenzen der Vertretung und Form",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vorsorgevollmacht-und-patientenverfugung/vorsorgevollmacht-begriff-grenzen-der-vertretung-und-form",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 11 BeurkG"
+  ],
+  "frage": "Welcher Nachteil spricht nach der Darstellung gegen eine nur unterschriftsbeglaubigte Vorsorgevollmacht, insbesondere bei mehreren Bevollmächtigten?",
+  "optionen": [
+   "Sie genügt nicht der Form des § 29 GBO.",
+   "Es existiert nur ein Original; Ausfertigungen können nicht erteilt werden.",
+   "Sie erlischt mit Eintritt der Geschäftsunfähigkeit.",
+   "Sie ist nicht im Zentralen Vorsorgeregister registrierbar."
+  ],
+  "antwort": 1,
+  "erklaerung": "Von einer nur beglaubigten Vollmacht existiert lediglich ein Original; Ausfertigungen können nicht erteilt werden, was bei mehreren Bevollmächtigten hinderlich ist. Die Form des § 29 GBO wahrt auch die Beglaubigung. Bei der Beurkundung prüft der Notar zudem die Geschäftsfähigkeit (§ 11 BeurkG)."
+ },
+ {
+  "id": "vert2-044",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vorsorgevollmacht und Patientenverfügung",
+  "seite": "Vorsorgevollmacht: Begriff, Grenzen der Vertretung und Form",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vorsorgevollmacht-und-patientenverfugung/vorsorgevollmacht-begriff-grenzen-der-vertretung-und-form",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1820 BGB"
+  ],
+  "frage": "Der Vollmachtgeber einer Vorsorgevollmacht muss bei Erteilung nach h. M. auch für nichtvermögensrechtliche Angelegenheiten geschäftsfähig sein; bloße Einwilligungsfähigkeit genügt nicht.",
+  "antwort": true,
+  "erklaerung": "Der Vollmachtgeber muss bei Erteilung der Vollmacht geschäftsfähig sein; nach h. M. genügt auch für nichtvermögensrechtliche Angelegenheiten die Einwilligungsfähigkeit nicht. Anders liegt es bei der Patientenverfügung, für die Einwilligungsfähigkeit ausreicht (§ 1827 BGB)."
+ },
+ {
+  "id": "vert2-045",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vorsorgevollmacht und Patientenverfügung",
+  "seite": "Vorsorgevollmacht: Kontrolle, Widerruf und Beglaubigung durch die Betreuungsbehörde",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vorsorgevollmacht-und-patientenverfugung/vorsorgevollmacht-kontrolle-widerruf-und-beglaubigung-durch-die-betreuungsbehorde",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 7 BtOG",
+   "§ 29 Abs. 1 GBO"
+  ],
+  "frage": "Eine von der Betreuungsbehörde beglaubigte Vorsorgevollmacht wird nach dem Tod des Vollmachtgebers dem Grundbuchamt vorgelegt. Was gilt?",
+  "optionen": [
+   "Die Vollmacht ist mit dem Tod erloschen, auch wenn sie transmortal erteilt ist.",
+   "Die Vollmacht bleibt wirksam, die behördliche Beglaubigung verliert aber ihre Wirkung, sodass die Form des § 29 GBO fehlt.",
+   "Die Beglaubigung bleibt wirksam, solange die Vollmacht über den Tod hinaus gilt.",
+   "Das Grundbuchamt muss die Vollmacht ohne Weiteres akzeptieren, da die Behörde öffentliche Urkunden errichtet."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 7 Abs. 1 S. 2 BtOG verliert die behördliche Beglaubigung mit dem Tod des Vollmachtgebers ihre Wirkung; die Vollmacht selbst bleibt wirksam. Für Grundbuchgeschäfte fehlt dann die nach § 29 Abs. 1 GBO erforderliche Form, weshalb Grundbuchämter eine Lebensbescheinigung verlangen. Notarielle Vollmachten sind daher stets vorzuziehen."
+ },
+ {
+  "id": "vert2-046",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vorsorgevollmacht und Patientenverfügung",
+  "seite": "Vorsorgevollmacht: Kontrolle, Widerruf und Beglaubigung durch die Betreuungsbehörde",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vorsorgevollmacht-und-patientenverfugung/vorsorgevollmacht-kontrolle-widerruf-und-beglaubigung-durch-die-betreuungsbehorde",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1820 Abs. 3 BGB"
+  ],
+  "frage": "Wann darf das Betreuungsgericht trotz Anlass zur Kontrolle keinen Kontrollbetreuer bestellen?",
+  "optionen": [
+   "Wenn die Vollmacht notariell beurkundet ist.",
+   "Wenn der Vollmachtgeber selbst einen Bevollmächtigten mit der Überwachung betraut hat.",
+   "Wenn der Bevollmächtigte ein naher Angehöriger ist.",
+   "Wenn die Vollmacht im Zentralen Vorsorgeregister registriert ist."
+  ],
+  "antwort": 1,
+  "erklaerung": "Hat der Vollmachtgeber selbst einen Bevollmächtigten mit der Überwachung betraut, fehlt die Erforderlichkeit eines Kontrollbetreuers (§ 1820 Abs. 3 BGB). Deshalb empfiehlt es sich, bei mehreren Bevollmächtigten jedem ein Überwachungs- und gegebenenfalls Widerrufsrecht einzuräumen. Die notarielle Form der Vollmacht schließt die Kontrollbetreuung dagegen nicht aus."
+ },
+ {
+  "id": "vert2-047",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vorsorgevollmacht und Patientenverfügung",
+  "seite": "Vorsorgevollmacht: Kontrolle, Widerruf und Beglaubigung durch die Betreuungsbehörde",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vorsorgevollmacht-und-patientenverfugung/vorsorgevollmacht-kontrolle-widerruf-und-beglaubigung-durch-die-betreuungsbehorde",
+  "typ": "zuordnung",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1829 BGB",
+   "§ 1830 BGB",
+   "§ 1831 BGB",
+   "§ 1816 Abs. 6 BGB"
+  ],
+  "frage": "Ordne die Maßnahme trotz bestehender Vorsorgevollmacht der zutreffenden Rechtsfolge zu.",
+  "paare": [
+   [
+    "Ärztliche Maßnahme mit Lebensgefahr (§ 1829 BGB)",
+    "Kein Betreuer nötig, aber dieselbe Genehmigung wie für einen Betreuer."
+   ],
+   [
+    "Sterilisation (§ 1830 BGB)",
+    "Bestellung eines Sterilisationsbetreuers erforderlich."
+   ],
+   [
+    "Fixierung mit Beckengurt (§ 1831 BGB)",
+    "Einwilligung des Bevollmächtigten bedarf der Genehmigung des Betreuungsgerichts."
+   ],
+   [
+    "Bevollmächtigung von Heimpersonal",
+    "Vollmacht verdrängt die Betreuung nicht (§ 1814 Abs. 3 S. 2 Nr. 1 i. V. m. § 1816 Abs. 6 BGB)."
+   ]
+  ],
+  "erklaerung": "Eine wirksame Vorsorgevollmacht macht den Betreuer nicht in jedem Fall entbehrlich. Bei § 1829 BGB genügt der Bevollmächtigte mit Genehmigung, bei der Sterilisation ist ein Sterilisationsbetreuer nötig, freiheitsentziehende Maßnahmen bedürfen der gerichtlichen Genehmigung. Die Bevollmächtigung von Heimpersonal verdrängt die Betreuung nicht."
+ },
+ {
+  "id": "vert2-048",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vorsorgevollmacht und Patientenverfügung",
+  "seite": "Vorsorgevollmacht: Wirksamwerden und Inhalt",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vorsorgevollmacht-und-patientenverfugung/vorsorgevollmacht-wirksamwerden-und-inhalt",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 167 Abs. 1 BGB"
+  ],
+  "frage": "Welche Gestaltung des Wirksamwerdens einer Vorsorgevollmacht ist nach der Darstellung vorzugswürdig?",
+  "optionen": [
+   "Aufschiebende Bedingung des Verlusts der Geschäftsfähigkeit im Außenverhältnis",
+   "Im Außenverhältnis unbeschränkte, sofort wirksame Vollmacht mit interner Weisung, erst im Vorsorgefall zu handeln",
+   "Unbedingte Vollmacht, die der Vollmachtgeber bis zum Vorsorgefall selbst verwahrt",
+   "Ausfertigungssperre bis zur Vorlage eines ärztlichen Zeugnisses als Regelfall"
+  ],
+  "antwort": 1,
+  "erklaerung": "Vorzugswürdig ist eine im Außenverhältnis unbeschränkte Vollmacht, die im Innenverhältnis (Auftrag) an den Vorsorgefall gebunden ist; bei Weisungsverstoß haftet der Bevollmächtigte auf Schadensersatz. Eine aufschiebend bedingte Vollmacht ist nicht empfehlenswert, weil Dritte den Bedingungseintritt kaum beurteilen können. Die Ausfertigungssperre wird überwiegend abgelehnt."
+ },
+ {
+  "id": "vert2-049",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vorsorgevollmacht und Patientenverfügung",
+  "seite": "Vorsorgevollmacht: Wirksamwerden und Inhalt",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vorsorgevollmacht-und-patientenverfugung/vorsorgevollmacht-wirksamwerden-und-inhalt",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 181 BGB"
+  ],
+  "frage": "Vorsorgevollmachten für ein Ehepaar",
+  "sachverhalt": "Die Eheleute E und F möchten beim Notar Vorsorgevollmachten errichten, in denen sie sich gegenseitig und hilfsweise ihren Sohn S bevollmächtigen. Sie schlagen vor, beide Vollmachten in einer gemeinsamen Urkunde zusammenzufassen. S soll auch Grundstücksgeschäfte mit sich selbst abschließen und die Vollmacht über den Tod hinaus nutzen können.",
+  "schritte": [
+   {
+    "frage": "Wie ist mit dem Wunsch nach einer gemeinsamen Urkunde umzugehen?",
+    "optionen": [
+     "Eine gemeinsame Urkunde ist zu empfehlen, weil sie Kosten spart.",
+     "Für jeden Vollmachtgeber ist eine eigene Urkunde zu errichten.",
+     "Eine gemeinsame Urkunde ist zulässig, wenn ein gegenseitiger Widerruf ausgeschlossen wird.",
+     "Eine gemeinsame Urkunde ist zwingend, da sich die Ehegatten gegenseitig bevollmächtigen."
+    ],
+    "antwort": 1,
+    "erklaerung": "Gemeinschaftliche Vollmachten mehrerer Vollmachtgeber in einer Urkunde sind nicht zu empfehlen: Jeder Urkundsbeteiligte kann jederzeit Ausfertigungen verlangen, sodass nach einem Widerruf gegenüber dem Ehegatten nicht zu verhindern ist, dass dieser eine neue Ausfertigung erhält. Für jeden Vollmachtgeber ist eine eigene Urkunde zu errichten."
+   },
+   {
+    "frage": "Wie sollte die Rangfolge zwischen Ehegatte und S geregelt werden?",
+    "optionen": [
+     "Im Außenverhältnis, damit Dritte die Reihenfolge prüfen.",
+     "Im Innenverhältnis, nicht im Außenverhältnis.",
+     "Durch gemeinschaftliche Vertretung beider in allen Angelegenheiten.",
+     "Gar nicht, da mehrere Bevollmächtigte stets nur gemeinsam handeln dürfen."
+    ],
+    "antwort": 1,
+    "erklaerung": "Bei mehreren Bevollmächtigten ist die Rangfolge im Innenverhältnis zu regeln, nicht im Außenverhältnis. Gemeinsames Handeln im Außenverhältnis kann allenfalls für Teilbereiche wie Grundstücksgeschäfte sinnvoll sein und ist wegen praktischer Schwierigkeiten zurückhaltend einzusetzen."
+   },
+   {
+    "frage": "Was gilt für die Befreiung von § 181 BGB und die Geltung über den Tod hinaus?",
+    "optionen": [
+     "Beides gilt bei einer Generalvollmacht automatisch.",
+     "Beides muss ausdrücklich im Vollmachtstext stehen.",
+     "Nur die transmortale Wirkung muss ausdrücklich geregelt werden.",
+     "Die Befreiung von § 181 BGB ist bei Vorsorgevollmachten unzulässig."
+    ],
+    "antwort": 1,
+    "erklaerung": "Die Vollmacht kann von § 181 BGB befreien, Untervollmachten gestatten und das Fortgelten bei Geschäftsunfähigkeit, Betreuung und Tod vorsehen (transmortale Vollmacht). Diese Befugnisse müssen ausdrücklich im Vollmachtstext stehen; sie ergeben sich nicht automatisch aus der Generalvollmacht."
+   }
+  ],
+  "erklaerung": "Für E und F sind getrennte Urkunden zu errichten. Die Rangfolge zwischen Ehegatte und S ist im Innenverhältnis zu regeln. Befreiung von § 181 BGB und transmortale Geltung sind ausdrücklich aufzunehmen."
+ },
+ {
+  "id": "vert2-050",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vorsorgevollmacht und Patientenverfügung",
+  "seite": "Vorsorgevollmacht: Wirksamwerden und Inhalt",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vorsorgevollmacht-und-patientenverfugung/vorsorgevollmacht-wirksamwerden-und-inhalt",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 51 Abs. 2 BeurkG"
+  ],
+  "frage": "Der Vollmachtgeber besteht auf einer Ausfertigungssperre bis zur Vorlage eines ärztlichen Zeugnisses über seine Geschäftsunfähigkeit. Was sollte die Anweisung an den Notar klarstellen?",
+  "optionen": [
+   "Dass der Notar die inhaltliche Richtigkeit des Zeugnisses selbst prüfen muss.",
+   "Dass der Notar die Richtigkeit der Bescheinigung nicht prüfen muss und im Zweifel oder bei Ungereimtheiten die Ausfertigung zu verweigern hat.",
+   "Dass der Notar die Ausfertigung bei jedem vorgelegten Zeugnis ohne Weiteres erteilen muss.",
+   "Dass das Zeugnis von einem Amtsarzt stammen muss."
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Ausfertigungssperre nach § 51 Abs. 2 BeurkG wird überwiegend abgelehnt, weil Zeugnisse schwer zu erhalten und fälschungsanfällig sind und sich die Nachweisprobleme auf den Notar verlagern. Wird sie dennoch gewählt, sollte klargestellt werden, dass der Notar die Richtigkeit nicht prüfen muss und im Zweifel die Ausfertigung verweigert. Eine Prüfungspflicht des Notars wäre gerade die zu vermeidende Haftungsfalle."
  }
 ]

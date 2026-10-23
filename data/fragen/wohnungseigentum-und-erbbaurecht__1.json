@@ -783,5 +783,218 @@
   "frage": "Die Gemeinschaftsordnung kann vorsehen, dass einem Eigentümer ersatzweise ein Sondernutzungsrecht zusteht, falls ein zum Sondereigentum erklärter Raum nicht sondereigentumsfähig ist.",
   "antwort": true,
   "erklaerung": "Ein hilfsweises Sondernutzungsrecht fängt den Fall ab, dass ein zum Sondereigentum erklärter Raum oder Gebäudeteil nicht sondereigentumsfähig ist. Für dieses Ersatzrecht gelten dann die Regeln über Sondernutzungsrechte, also auch die alleinige Instandhaltung und Verkehrssicherungspflicht des Berechtigten."
+ },
+ {
+  "id": "wohn1-037",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Gemeinschaftsordnung: Gestaltungen zu Versammlung, Verwalter und Änderungen",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/gemeinschaftsordnung-gestaltungen-zu-versammlung-verwalter-und-anderungen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 10 Abs. 3 S. 1 WEG"
+  ],
+  "frage": "Die Eigentümer ändern aufgrund einer Öffnungsklausel der Gemeinschaftsordnung den Kostenverteilungsschlüssel durch Beschluss. Wann wirkt dieser Beschluss gegen einen späteren Sondernachfolger?",
+  "optionen": [
+   "Stets, weil Beschlüsse alle Eigentümer binden",
+   "Nur, wenn er im Grundbuch eingetragen ist",
+   "Nur, wenn der Sondernachfolger ihn bei Erwerb schriftlich anerkennt",
+   "Nur, wenn er in die Beschluss-Sammlung des Verwalters aufgenommen wurde"
+  ],
+  "antwort": 1,
+  "erklaerung": "Beschlüsse aufgrund einer vereinbarten Öffnungsklausel wirken gegen Sondernachfolger nur, wenn sie im Grundbuch eingetragen sind (§ 10 Abs. 3 S. 1 WEG). Sie ändern die Gemeinschaftsordnung und stehen damit Vereinbarungen gleich; eine bloße Dokumentation durch den Verwalter genügt nicht."
+ },
+ {
+  "id": "wohn1-038",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Gemeinschaftsordnung: Gestaltungen zu Versammlung, Verwalter und Änderungen",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/gemeinschaftsordnung-gestaltungen-zu-versammlung-verwalter-und-anderungen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Eine typische Öffnungsklausel lässt die Änderung der Gemeinschaftsordnung durch Beschluss mit drei Vierteln der Stimmen zu. Worauf bezieht sich dieses Quorum?",
+  "optionen": [
+   "Auf die in der Versammlung vertretenen Stimmen",
+   "Auf die abgegebenen Ja- und Nein-Stimmen",
+   "Auf die Gesamtzahl aller Stimmen",
+   "Auf die Miteigentumsanteile der anwesenden Eigentümer"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach der typischen Gestaltung ist für Änderungen der Gemeinschaftsordnung die Gesamtzahl der Stimmen maßgeblich, nicht die Zahl der in der Versammlung vertretenen. Das hohe Quorum schützt die Minderheit, soweit zwingendes Recht der Öffnungsklausel nicht ohnehin entgegensteht. Anders ist es beim Wiederaufbaubeschluss, der auf drei Viertel der abgegebenen Stimmen abstellen kann."
+ },
+ {
+  "id": "wohn1-039",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Gemeinschaftsordnung: Gestaltungen zu Versammlung, Verwalter und Änderungen",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/gemeinschaftsordnung-gestaltungen-zu-versammlung-verwalter-und-anderungen",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Berechtigt die Gemeinschaftsordnung jeden Eigentümer, sein Wohnungseigentum durch einseitige Erklärung gegenüber dem Grundbuchamt in Teileigentum umzuwandeln, ersetzt diese Befugnis zugleich etwa erforderliche baurechtliche Genehmigungen.",
+  "antwort": false,
+  "erklaerung": "Die Umwandlungsbefugnis erspart lediglich die sonst nötige Zustimmung aller Eigentümer zur Umwidmung. Baurechtliche und andere behördliche Genehmigungen bleiben davon unberührt und sind gesondert einzuholen."
+ },
+ {
+  "id": "wohn1-040",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Gemeinschaftsordnung: Gestaltungen zu Versammlung, Verwalter und Änderungen",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/gemeinschaftsordnung-gestaltungen-zu-versammlung-verwalter-und-anderungen",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [],
+  "frage": "Die Gemeinschaftsordnung verpflichtet Mitberechtigte einer Einheit, einen gemeinsamen Vertreter zu bevollmächtigen. Welche Folge sieht sie typischerweise vor, wenn die Vollmacht fehlt?",
+  "optionen": [
+   "Die Mitberechtigten verlieren ihr Stimmrecht",
+   "Eine Erklärung, die einem der Mitberechtigten zugeht, gilt als allen zugegangen",
+   "Der Verwalter bestellt einen Vertreter auf Kosten der Mitberechtigten",
+   "Erklärungen der Gemeinschaft können ihnen nicht wirksam zugehen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Fehlt die Vollmacht, gilt nach der typischen Regelung eine Erklärung, die einem der Mitberechtigten zugeht, als allen zugegangen. Daneben kann die Gemeinschaftsordnung die gesamtschuldnerische Haftung der Mitberechtigten vorsehen; eingetragene Personengesellschaften und juristische Personen können von der Vollmachtspflicht ausgenommen werden."
+ },
+ {
+  "id": "wohn1-041",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Gemeinschaftsordnung: Inhalt und Gebrauchsregelungen",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/gemeinschaftsordnung-inhalt-und-gebrauchsregelungen",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 8 Abs. 2 WEG",
+   "§ 5 Abs. 4 WEG"
+  ],
+  "frage": "Bei einer Teilung nach § 8 WEG kann eine Gemeinschaftsordnung erst errichtet werden, wenn mindestens zwei Wohnungseigentümer vorhanden sind, die sie vereinbaren.",
+  "antwort": false,
+  "erklaerung": "Auch der Alleineigentümer kann die Gemeinschaftsordnung bei der Teilung nach § 8 WEG wirksam errichten (§§ 8 Abs. 2, 5 Abs. 4 WEG). Sie ist in der Regel Bestandteil der Aufteilungsurkunde; vorgeschrieben ist sie nicht, aber meist empfehlenswert."
+ },
+ {
+  "id": "wohn1-042",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Gemeinschaftsordnung: Inhalt und Gebrauchsregelungen",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/gemeinschaftsordnung-inhalt-und-gebrauchsregelungen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "In der Teilungserklärung ist eine Einheit als „Teileigentum – Ladenlokal (Bäckerei)“ bezeichnet. Welche Nutzung ist danach zulässig?",
+  "optionen": [
+   "Ausschließlich der Betrieb einer Bäckerei",
+   "Jede gewerbliche Tätigkeit, die nach Kundenverkehr und Beeinträchtigung der übrigen Eigentümer vergleichbar ist",
+   "Jede beliebige Nutzung einschließlich Wohnnutzung",
+   "Nur Nutzungen, denen die Eigentümerversammlung zugestimmt hat"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Bezeichnung in der Teilungserklärung wirkt als konkludente Gebrauchsregelung; ein Teileigentum kann gewerblich genutzt werden. Die Nennung einer bestimmten Tätigkeit beschränkt den Teileigentümer aber nicht auf genau diese, sondern lässt vergleichbare Tätigkeiten zu. Eine Wohnnutzung wäre dagegen eine Umwidmung, die der Zustimmung aller Eigentümer bedarf."
+ },
+ {
+  "id": "wohn1-043",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Gemeinschaftsordnung: Inhalt und Gebrauchsregelungen",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/gemeinschaftsordnung-inhalt-und-gebrauchsregelungen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Ein Wohnungseigentümer möchte seine Wohnung künftig als Arztpraxis nutzen. Die Teilungserklärung enthält keine Öffnungsklausel. Was ist erforderlich?",
+  "optionen": [
+   "Ein Mehrheitsbeschluss der Eigentümerversammlung",
+   "Die Zustimmung des Verwalters nach § 12 WEG",
+   "Die Zustimmung aller Wohnungseigentümer; öffentlich-rechtliche Genehmigungen sind gesondert zu prüfen",
+   "Nichts, weil freie Berufe in Wohnungen stets zulässig sind"
+  ],
+  "antwort": 2,
+  "erklaerung": "Soll eine Wohnung gewerblich oder ein Gewerberaum zu Wohnzwecken genutzt werden, müssen alle Wohnungseigentümer zustimmen, sofern die Teilungserklärung die Umwandlung nicht allgemein durch eine Öffnungsklausel erlaubt. Die Verwalterzustimmung nach § 12 WEG betrifft nur die Veräußerung. Öffentlich-rechtliche Beschränkungen wie eine Baugenehmigung sind unabhängig davon zu prüfen."
+ },
+ {
+  "id": "wohn1-044",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Gründungsmängel: Abweichung der Bauausführung vom Aufteilungsplan",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/grundungsmangel-abweichung-der-bauausfuhrung-vom-aufteilungsplan",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 3 WEG",
+   "§ 4 WEG"
+  ],
+  "frage": "Der teilende Eigentümer baut im Dachgeschoss einen im Aufteilungsplan nicht vorgesehenen zusätzlichen Raum aus. Wem gehört dieser Raum?",
+  "optionen": [
+   "Dem Eigentümer der darunterliegenden Wohnung als Sondereigentum",
+   "Dem teilenden Eigentümer als Sondereigentum",
+   "Er ist Gemeinschaftseigentum; Sondereigentum kann nur nach §§ 3, 4 WEG begründet werden",
+   "Er ist herrenlos, bis die Teilungserklärung ergänzt wird"
+  ],
+  "antwort": 2,
+  "erklaerung": "Zusätzlich gebaute Einheiten oder Räume gehören zum Gemeinschaftseigentum, weil allein der Aufteilungsplan die Grenzen des Sondereigentums bestimmt. Sondereigentum daran kann nur nachträglich nach §§ 3, 4 WEG begründet werden. Umgekehrt bleibt bei ungebauten Räumen das Anwartschaftsrecht bestehen."
+ },
+ {
+  "id": "wohn1-045",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Gründungsmängel: Abweichung der Bauausführung vom Aufteilungsplan",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/grundungsmangel-abweichung-der-bauausfuhrung-vom-aufteilungsplan",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [],
+  "frage": "Weicht die Bauausführung nur geringfügig vom Aufteilungsplan ab, richten sich die Grenzen des Sondereigentums nach der Rechtsprechung des BGH nach der tatsächlichen Bauausführung.",
+  "antwort": false,
+  "erklaerung": "Nach dem BGH (V ZR 284/14) sind die Plangrenzen auch bei nur geringfügigen Abweichungen maßgeblich; die Gegenansicht (BayObLG, KG) hat sich nicht durchgesetzt. Sind die Räume tatsächlich nicht abgeschlossen, besteht das Sondereigentum innerhalb von Luftschranken. Erst wenn sich ein Raum keiner Planeinheit mehr zuordnen lässt, entsteht kein Sondereigentum."
+ },
+ {
+  "id": "wohn1-046",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Gründungsmängel: Abweichung der Bauausführung vom Aufteilungsplan",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/grundungsmangel-abweichung-der-bauausfuhrung-vom-aufteilungsplan",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 18 Abs. 2 Nr. 1 WEG",
+   "§ 19 Abs. 2 Nr. 2 WEG",
+   "§ 242 BGB"
+  ],
+  "frage": "Verschobene Trennwand",
+  "sachverhalt": "Bauträger B hat ein Haus nach § 8 WEG aufgeteilt. Bei der Ausführung wird die Trennwand zwischen den Wohnungen Nr. 1 (Eigentümer E1) und Nr. 2 (Eigentümer E2) um 30 cm in Richtung Wohnung Nr. 2 versetzt. Ein Rückbau wäre nur mit erheblichem Aufwand möglich. E1 beantragt später die Eigentumsumschreibung auf einen Käufer.",
+  "schritte": [
+   {
+    "frage": "Wo verläuft die Grenze zwischen den Sondereigentumseinheiten Nr. 1 und Nr. 2?",
+    "optionen": [
+     "Entlang der tatsächlich errichteten Wand",
+     "Entlang der im Aufteilungsplan eingezeichneten Wand, notfalls als Luftschranke",
+     "Es entsteht an der Streifenfläche Gemeinschaftseigentum",
+     "Die Grenze ist unbestimmt; beide Einheiten sind nicht entstanden"
+    ],
+    "antwort": 1,
+    "erklaerung": "Allein der Aufteilungsplan entscheidet über die Grenzen des Sondereigentums, auch zwischen zwei Sondereigentumseinheiten und auch bei geringfügigen Abweichungen (BGH). Verschobene Innenwände ändern die Grenzen nicht; das Sondereigentum besteht innerhalb von Luftschranken."
+   },
+   {
+    "frage": "E2 verlangt plangerechte Herstellung der Wand. Wie ist der Anspruch zu beurteilen?",
+    "optionen": [
+     "Er besteht uneingeschränkt, weil der Plan maßgeblich ist",
+     "Er kann bei geringfügiger Abweichung wegen unverhältnismäßigen Aufwands nach § 242 BGB ausgeschlossen sein; dann ist der Aufteilungsplan anzupassen",
+     "Er besteht nicht, weil sich das Sondereigentum der Bauausführung anpasst",
+     "Er richtet sich ausschließlich gegen das Grundbuchamt"
+    ],
+    "antwort": 1,
+    "erklaerung": "Der Anspruch auf plangerechte Herstellung (§§ 18 Abs. 2 Nr. 1, 19 Abs. 2 Nr. 2 WEG) kann bei geringfügiger Abweichung wegen unverhältnismäßigen Aufwands nach Treu und Glauben ausgeschlossen sein (§ 242 BGB). Die Eigentümer müssen den Aufteilungsplan dann an die tatsächliche Bauausführung anpassen."
+   },
+   {
+    "frage": "Darf das Grundbuchamt die Umschreibung von einer vorherigen Anpassung der Teilungserklärung an die Bauausführung abhängig machen?",
+    "optionen": [
+     "Ja, durch Zwischenverfügung, weil die Abgeschlossenheitsbescheinigung unrichtig geworden ist",
+     "Ja, weil die Aufteilung durch die Abweichung unrichtig ist",
+     "Nein, die Aufteilung und die Abgeschlossenheitsbescheinigung sind nicht unrichtig; eine solche Zwischenverfügung ist unzulässig",
+     "Nein, aber es muss einen Amtswiderspruch eintragen"
+    ],
+    "antwort": 2,
+    "erklaerung": "Eine abweichende Bauausführung ist kein Grund, die Eintragung zu verweigern; die Aufteilung ist richtig, und die Abgeschlossenheitsbescheinigung bescheinigt nur die Abgeschlossenheit des geplanten Sondereigentums. Eine Zwischenverfügung, die eine rechtsgeschäftliche Anpassung der Teilungserklärung verlangt, ist unzulässig."
+   }
+  ],
+  "erklaerung": "Maßgeblich bleiben die Plangrenzen; der Anspruch auf plangerechte Herstellung kann nach § 242 BGB ausgeschlossen sein, sodass die Eigentümer Plan und Teilungserklärung durch Vereinbarung anpassen müssen. Das Grundbuchamt darf den Vollzug deswegen nicht blockieren."
  }
 ]

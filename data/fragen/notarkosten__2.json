@@ -13,11 +13,11 @@
   "frage": "Welche Gebühr löst die Beurkundung der Aufhebung eines bereits vollständig erfüllten Grundstückskaufvertrags aus, wenn die Urkunde nur Aufhebung und Rückabwicklung regelt?",
   "optionen": [
    "2,0-Gebühr nach KV 21100 GNotKG, weil der Vertrag schon erfüllt ist",
-   "1,0-Gebühr nach KV 21102 Nr. 2 GNotKG",
+   "Festgebühr von 20 € nach KV 21300 GNotKG",
    "0,5-Gebühr nach KV 21201 GNotKG",
-   "Festgebühr von 20 € nach KV 21300 GNotKG"
+   "1,0-Gebühr nach KV 21102 Nr. 2 GNotKG"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Die Aufhebung eines Vertrags löst nach KV 21102 Nr. 2 GNotKG eine 1,0-Gebühr aus, und zwar unabhängig vom Stand der Vertragsdurchführung. Auch die vollständige Erfüllung führt daher nicht zur 2,0-Gebühr. KV 21100 GNotKG greift erst, wenn die Aufhebungsurkunde über Aufhebung und Rückabwicklung hinaus neue, eigenständige Vereinbarungen enthält."
  },
  {
@@ -26,15 +26,21 @@
   "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
   "seite": "Notargebühren: Vertragsänderung, Vertragsaufhebung, Identitätserklärung",
   "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-vertragsanderung-vertragsaufhebung-identitatserklarung",
-  "typ": "rf",
-  "schwierigkeit": 2,
+  "typ": "mc",
+  "schwierigkeit": 1,
   "normen": [
    "KV 21100 GNotKG",
    "KV 21102 Nr. 2 GNotKG"
   ],
-  "frage": "Die Aufhebung eines Ehevertrags, der nur güterrechtliche Regelungen enthält, löst wie jede Vertragsaufhebung eine 1,0-Gebühr nach KV 21102 Nr. 2 GNotKG aus.",
-  "antwort": false,
-  "erklaerung": "Abweichend von der allgemeinen Regel des KV 21102 Nr. 2 GNotKG kostet die Aufhebung eines rein güterrechtlichen Ehevertrags eine 2,0-Gebühr nach KV 21100 GNotKG. Für die einvernehmliche Aufhebung eines Erbvertrags ohne neue Verfügung bleibt es dagegen bei der 1,0-Gebühr nach KV 21102 Nr. 2 GNotKG."
+  "frage": "Welche Gebühr löst die Beurkundung der Aufhebung eines Ehevertrags aus, der nur güterrechtliche Regelungen (Gütertrennung) enthält?",
+  "antwort": 1,
+  "erklaerung": "Abweichend von der allgemeinen Regel des KV 21102 Nr. 2 GNotKG kostet die Aufhebung eines rein güterrechtlichen Ehevertrags eine 2,0-Gebühr nach KV 21100 GNotKG, weil mit der Aufhebung etwa einer Gütertrennung kraft Gesetzes die Zugewinngemeinschaft eintritt. Für die einvernehmliche Aufhebung eines Erbvertrags ohne neue Verfügung bleibt es dagegen bei der 1,0-Gebühr nach KV 21102 Nr. 2 GNotKG.",
+  "optionen": [
+   "1,0 nach KV 21102 Nr. 2 GNotKG wie jede Vertragsaufhebung",
+   "2,0 nach KV 21100 GNotKG",
+   "0,5 nach KV 21201 GNotKG als verfahrensrechtliche Erklärung",
+   "1,0 nach KV 21200 GNotKG als einseitige Erklärung"
+  ]
  },
  {
   "id": "kost2-003",
@@ -120,14 +126,20 @@
   "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
   "seite": "Notargebühren: vorzeitige Beendigung des Beurkundungsverfahrens (KV 21300–21304 GNotKG)",
   "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-vorzeitige-beendigung-des-beurkundungsverfahrens-kv-21300-21304-gnotkg",
-  "typ": "rf",
+  "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
    "KV 21301 GNotKG"
   ],
-  "frage": "Berät eine Mitarbeiterin des Notars die Beteiligten vor Entwurfsversand ausführlich und wird der Auftrag danach zurückgenommen, ermäßigt sich die Gebühr auf die Beratungsgebühr nach KV 21301 GNotKG.",
-  "antwort": false,
-  "erklaerung": "KV 21301 GNotKG setzt eine Beratung durch den Notar selbst voraus; Beratung durch Mitarbeiter genügt wegen der höchstpersönlichen Amtsausübung nicht. Ohne Entwurfsversand und ohne notarielle Beratung bleibt es bei der Festgebühr von 20 € nach KV 21300 GNotKG."
+  "frage": "Eine Mitarbeiterin des Notars berät die Beteiligten vor Entwurfsversand ausführlich; danach wird der Beurkundungsauftrag zurückgenommen. Welche Gebühr entsteht?",
+  "antwort": 2,
+  "erklaerung": "KV 21301 GNotKG setzt eine Beratung durch den Notar selbst voraus; Beratung durch Mitarbeiter genügt wegen der höchstpersönlichen Amtsausübung nicht. Da weder ein Entwurf versandt noch auf dessen Grundlage verhandelt wurde, ermäßigt sich die bereits mit dem Auftrag entstandene Verfahrensgebühr auf die Festgebühr von 20 € nach KV 21300 GNotKG.",
+  "optionen": [
+   "Beratungsgebühr nach KV 21301 GNotKG",
+   "Gebühr in Höhe der Entwurfsgebühr nach KV 21302 GNotKG",
+   "Festgebühr von 20 € nach KV 21300 GNotKG",
+   "Keine Gebühr, da keine Niederschrift unterzeichnet wurde"
+  ]
  },
  {
   "id": "kost2-007",
@@ -136,7 +148,7 @@
   "seite": "Notargebühren: vorzeitige Beendigung des Beurkundungsverfahrens (KV 21300–21304 GNotKG)",
   "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-vorzeitige-beendigung-des-beurkundungsverfahrens-kv-21300-21304-gnotkg",
   "typ": "rf",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "KV 21300 GNotKG",
    "Vorb. 2.1.3 Abs. 1 KV GNotKG"
@@ -167,10 +179,10 @@
     "optionen": [
      "Festgebühr von 20 € nach KV 21300 GNotKG",
      "Beratungsgebühr nach KV 21301 GNotKG",
-     "Gebühr in Höhe der Entwurfsgebühr nach KV 21302 ff. GNotKG",
-     "Keine Gebühr, da keine Niederschrift unterzeichnet wurde"
+     "Keine Gebühr, da keine Niederschrift unterzeichnet wurde",
+     "Gebühr in Höhe der Entwurfsgebühr nach KV 21302 ff. GNotKG"
     ],
-    "antwort": 2,
+    "antwort": 3,
     "erklaerung": "Nach Versand eines Entwurfs ermäßigt sich die bereits mit Auftragserteilung entstandene Verfahrensgebühr auf die Höhe der Entwurfsgebühr (KV 21302 bis 21304 GNotKG). KV 21300 GNotKG greift nur, wenn weder beraten noch ein Entwurf versandt oder verhandelt wurde."
    },
    {
@@ -236,11 +248,11 @@
   "frage": "Die abzulösende Bank des Verkäufers übersendet dem Notar die Löschungsbewilligung mit der Auflage, sie nur gegen Zahlung von 85.000 € zu verwenden. Was gilt kostenrechtlich?",
   "optionen": [
    "0,5-Betreuungsgebühr nach KV 22200 Anm. Nr. 3 GNotKG aus dem Kaufpreis, Schuldner sind die Kaufvertragsparteien",
-   "0,5-Treuhandgebühr nach KV 22201 GNotKG aus 85.000 €, Schuldner ist die Bank",
+   "Keine Gebühr, da die Beachtung der Auflage mit der Vollzugsgebühr abgegolten ist",
    "0,5-Treuhandgebühr nach KV 22201 GNotKG aus dem Kaufpreis, Schuldner ist der Verkäufer",
-   "Keine Gebühr, da die Beachtung der Auflage mit der Vollzugsgebühr abgegolten ist"
+   "0,5-Treuhandgebühr nach KV 22201 GNotKG aus 85.000 €, Schuldner ist die Bank"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Treuhandaufträge Dritter fallen unter KV 22201 GNotKG (0,5), nicht unter KV 22200 Anm. Nr. 3 GNotKG, der nur Auflagen von Urkundsbeteiligten erfasst. Geschäftswert ist nach § 113 Abs. 2 GNotKG der Betrag der Auflage, hier 85.000 €. Kostenschuldner ist nach § 29 Nr. 1 GNotKG der Auftraggeber der Auflage, also die Bank; die Abrechnung gegenüber den Kaufvertragsparteien ist ein typischer Fehler."
  },
  {
@@ -249,14 +261,21 @@
   "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte",
   "seite": "Notargebühren: Betreuungs- und Treuhandgebühr (KV 22200, 22201 GNotKG)",
   "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-betreuungs-und-treuhandgebuhr-kv-22200-22201-gnotkg",
-  "typ": "rf",
+  "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
-   "KV 22200 Anm. Nr. 1 GNotKG"
+   "KV 22200 Anm. Nr. 1 GNotKG",
+   "§ 3 MaBV"
   ],
-  "frage": "Die Bescheinigung des Notars über die Wirksamkeit eines Vertrags nach Erteilung der familiengerichtlichen Genehmigung löst eine Betreuungsgebühr nach KV 22200 Anm. Nr. 1 GNotKG aus.",
-  "antwort": false,
-  "erklaerung": "KV 22200 Anm. Nr. 1 GNotKG erfasst Bescheinigungen über Wirksamkeitsvoraussetzungen, praktisch vor allem die MaBV-Bescheinigung beim Bauträgervertrag. Die Wirksamkeitsbescheinigung nach familien-, betreuungs- oder nachlassgerichtlicher Genehmigung ist dagegen mit der Vollzugsgebühr abgegolten; sie zusätzlich als Betreuung abzurechnen, ist ein typischer Fehler."
+  "frage": "Welche der folgenden Tätigkeiten löst eine Betreuungsgebühr nach KV 22200 Anm. Nr. 1 GNotKG aus?",
+  "antwort": 3,
+  "erklaerung": "KV 22200 Anm. Nr. 1 GNotKG erfasst Bescheinigungen über Wirksamkeitsvoraussetzungen, praktisch vor allem die MaBV-Bescheinigung beim Bauträgervertrag. Die Wirksamkeitsbescheinigung nach familien-, betreuungs- oder nachlassgerichtlicher Genehmigung ist dagegen mit der Vollzugsgebühr abgegolten; sie zusätzlich als Betreuung abzurechnen ist ein typischer Fehler. Für die Prüfung der Ausübung einer Vollzugsvollmacht enthält der abschließende Katalog keinen Tatbestand.",
+  "optionen": [
+   "Wirksamkeitsbescheinigung nach Erteilung der familiengerichtlichen Genehmigung",
+   "Wirksamkeitsbescheinigung nach Erteilung der nachlassgerichtlichen Genehmigung",
+   "Prüfung, ob und wie eine Vollzugsvollmacht ausgeübt werden darf",
+   "MaBV-Bescheinigung beim Bauträgervertrag"
+  ]
  },
  {
   "id": "kost2-012",
@@ -361,15 +380,21 @@
   "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte",
   "seite": "Notargebühren: fremde Sprache (KV 26001 GNotKG)",
   "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-fremde-sprache-kv-26001-gnotkg",
-  "typ": "rf",
-  "schwierigkeit": 2,
+  "typ": "mc",
+  "schwierigkeit": 1,
   "normen": [
    "KV 26001 GNotKG",
    "KV 32010 GNotKG"
   ],
-  "frage": "Zieht der Notar zur Beurkundung eines deutschsprachigen Kaufvertrags einen Dolmetscher hinzu, entsteht wegen des Mehraufwands die Fremdsprachengebühr nach KV 26001 GNotKG.",
-  "antwort": false,
-  "erklaerung": "KV 26001 GNotKG setzt voraus, dass der Notar die Fremdsprache persönlich gebraucht. Bei deutscher Urkunde mit Dolmetscher entsteht die Zusatzgebühr nicht; der Mehraufwand wird gebührenrechtlich nicht vergütet. Es bleibt bei der regulären Verfahrensgebühr (KV 21100 GNotKG); die Dolmetscherkosten können allenfalls Auslagen nach KV 32010 GNotKG sein."
+  "frage": "Der Notar beurkundet einen Kaufvertrag in deutscher Sprache unter Hinzuziehung eines Dolmetschers für den englischsprachigen Käufer. Was gilt kostenrechtlich?",
+  "antwort": 1,
+  "erklaerung": "KV 26001 GNotKG setzt voraus, dass der Notar die Fremdsprache persönlich gebraucht. Bei deutscher Urkunde mit Dolmetscher entsteht die Zusatzgebühr nicht; der Mehraufwand wird gebührenrechtlich nicht vergütet. Es bleibt bei der regulären Verfahrensgebühr (KV 21100 GNotKG); die Dolmetscherkosten können allenfalls Auslagen nach KV 32010 GNotKG sein.",
+  "optionen": [
+   "Zusatzgebühr von 30 % nach KV 26001 GNotKG wegen des Mehraufwands",
+   "Keine Zusatzgebühr; Dolmetscherkosten allenfalls als Auslagen nach KV 32010 GNotKG",
+   "Zusatzgebühr nur, wenn die Übersetzung der Urkunde beigefügt wird",
+   "Auswärtsgebühr nach KV 26002 GNotKG für die Dauer der Übersetzung"
+  ]
  },
  {
   "id": "kost2-017",
@@ -407,12 +432,12 @@
   ],
   "frage": "Welche Gebühr löst die Rückgabe eines Erbvertrags aus der notariellen Verwahrung aus?",
   "optionen": [
-   "1,0-Gebühr nach KV 21102 Nr. 2 GNotKG",
    "0,3-Gebühr nach KV 23100 GNotKG",
+   "1,0-Gebühr nach KV 21102 Nr. 2 GNotKG",
    "0,5-Gebühr nach KV 22200 GNotKG",
    "Festgebühr von 20 € nach KV 21300 GNotKG"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Die körperliche Rückgabe löst eine 0,3-Gebühr nach KV 23100 GNotKG aus; Geschäftswert ist nach § 114 GNotKG der Wert, der sich nach § 102 Abs. 1 bis 3 GNotKG für die Beurkundung des Erbvertrags im Zeitpunkt der Rückgabe ergäbe. Die 1,0-Gebühr nach KV 21102 Nr. 2 GNotKG betrifft dagegen die beurkundete Aufhebung des Erbvertrags, die ein Beurkundungsverfahren ist."
  },
  {
@@ -447,11 +472,11 @@
   "frage": "In derselben Urkunde gibt die Erbin die eidesstattliche Versicherung zum Erbscheinsantrag ab, stellt den Erbscheinsantrag und beantragt die Grundbuchberichtigung. Wie ist abzurechnen?",
   "optionen": [
    "1,0 nach KV 23300 GNotKG für alles, da sämtliche Erklärungen abgegolten sind",
-   "1,0 nach KV 23300 GNotKG; Erbscheinsantrag abgegolten; Grundbuchberichtigungsantrag 0,5 nach KV 21201 Nr. 4 GNotKG mit Vergleichsberechnung nach § 94 Abs. 1 GNotKG",
+   "2,0 nach KV 21100 GNotKG aus dem Nachlasswert",
    "1,0 nach KV 23300 GNotKG zuzüglich 0,5 nach KV 21201 Nr. 6 GNotKG für den Erbscheinsantrag",
-   "2,0 nach KV 21100 GNotKG aus dem Nachlasswert"
+   "1,0 nach KV 23300 GNotKG; Erbscheinsantrag abgegolten; Grundbuchberichtigungsantrag 0,5 nach KV 21201 Nr. 4 GNotKG mit Vergleichsberechnung nach § 94 Abs. 1 GNotKG"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Die 1,0-Gebühr nach KV 23300 GNotKG deckt die eidesstattliche Versicherung; der Erbscheinsantrag fiele an sich unter KV 21201 Nr. 6 GNotKG, ist aber nach den Anmerkungen zu KV 21201 und KV 23300 GNotKG abgegolten. Der Grundbuchberichtigungsantrag ist gegenstandsverschieden und löst 0,5 nach KV 21201 Nr. 4 GNotKG aus; wegen der unterschiedlichen Sätze ist nach § 94 Abs. 1 GNotKG zu vergleichen."
  },
  {
@@ -515,14 +540,20 @@
   "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte",
   "seite": "Notargebühren: Unzeit- und Auswärtsgebühr (KV 26000, 26002, 26003 GNotKG)",
   "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-unzeit-und-auswartsgebuhr-kv-26000-26002-26003-gnotkg",
-  "typ": "rf",
-  "schwierigkeit": 2,
+  "typ": "mc",
+  "schwierigkeit": 1,
   "normen": [
    "KV 26000 GNotKG"
   ],
-  "frage": "Schlägt der Notar wegen voller Terminplanung selbst eine Beurkundung am Samstag um 15:00 Uhr vor und nehmen die Beteiligten an, darf er die Unzeitgebühr erheben.",
-  "antwort": false,
-  "erklaerung": "Samstage nach 13:00 Uhr sind zwar Unzeit im Sinne von KV 26000 GNotKG, die Gebühr setzt aber voraus, dass die Tätigkeit auf Verlangen eines Beteiligten zur Unzeit erfolgt. Legt der Notar den ungewöhnlichen Termin selbst fest, darf er die Unzeitgebühr nicht erheben; das Verlangen des Beteiligten ist in der Akte festzuhalten."
+  "frage": "Unter welcher Voraussetzung darf der Notar für eine Beurkundung am Samstag um 15:00 Uhr die Unzeitgebühr nach KV 26000 GNotKG erheben?",
+  "antwort": 3,
+  "erklaerung": "Samstage nach 13:00 Uhr sind zwar Unzeit im Sinne von KV 26000 GNotKG, die Gebühr setzt aber voraus, dass die Tätigkeit auf Verlangen eines Beteiligten zur Unzeit erfolgt. Legt der Notar den ungewöhnlichen Termin selbst fest, darf er die Unzeitgebühr nicht erheben; das Verlangen des Beteiligten ist deshalb in der Akte festzuhalten.",
+  "optionen": [
+   "Stets, da Samstage nach 13:00 Uhr Unzeit sind",
+   "Nur wenn die Beurkundung länger als eine Stunde dauert",
+   "Nur wenn der Notar den Termin wegen voller Terminplanung selbst vorgeschlagen hat",
+   "Nur wenn die Tätigkeit zur Unzeit auf Verlangen eines Beteiligten erfolgt"
+  ]
  },
  {
   "id": "kost2-024",
@@ -608,15 +639,21 @@
   "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte",
   "seite": "Notargebühren: Vermögensverzeichnis, Siegelung und Verwahrung",
   "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-vermogensverzeichnis-siegelung-und-verwahrung",
-  "typ": "rf",
+  "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
    "Vorb. 2.3.5 KV GNotKG",
    "KV 26002 GNotKG"
   ],
-  "frage": "Nimmt der Notar ein Nachlassverzeichnis auf Wunsch des Pflichtteilsberechtigten in der Wohnung des Erblassers auf, entsteht neben der Verfahrensgebühr die Auswärtsgebühr nach KV 26002 GNotKG.",
-  "antwort": false,
-  "erklaerung": "Nach Vorb. 2.3.5 KV GNotKG wird neben der Verfahrensgebühr für das Vermögensverzeichnis (und für die Mitwirkung daran) keine Zeitgebühr nach KV 26002 GNotKG erhoben. Die Aufnahme der Gegenstände vor Ort gehört zur Aufgabe des Notars, sodass ein auf die Auswärtstätigkeit gerichtetes Verlangen nicht in Betracht kommt."
+  "frage": "Der Notar nimmt auf Wunsch des Pflichtteilsberechtigten ein Nachlassverzeichnis in der Wohnung des Erblassers auf und ist dafür drei Stunden abwesend. Welche Gebühren entstehen?",
+  "antwort": 2,
+  "erklaerung": "Die Aufnahme des Vermögensverzeichnisses löst 2,0 nach KV 23500 GNotKG aus. Daneben wird nach Vorb. 2.3.5 KV GNotKG keine Zeitgebühr nach KV 26002 GNotKG erhoben, weil die Aufnahme der Gegenstände vor Ort zur Aufgabe des Notars gehört und ein auf die Auswärtstätigkeit gerichtetes Verlangen daher nicht in Betracht kommt. KV 26003 GNotKG betrifft nur Verfügungen von Todes wegen und Vorsorgeurkunden.",
+  "optionen": [
+   "2,0 nach KV 23500 GNotKG zuzüglich Auswärtsgebühr von 300 €",
+   "2,0 nach KV 23500 GNotKG zuzüglich Festgebühr von 50 € nach KV 26003 GNotKG",
+   "Nur 2,0 nach KV 23500 GNotKG; eine Auswärtsgebühr wird nicht erhoben",
+   "Nur die Auswärtsgebühr, da die Verzeichnisaufnahme gebührenfrei ist"
+  ]
  },
  {
   "id": "kost2-028",
@@ -625,7 +662,7 @@
   "seite": "Notargebühren: Vermögensverzeichnis, Siegelung und Verwahrung",
   "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-vermogensverzeichnis-siegelung-und-verwahrung",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 3,
   "normen": [
    "KV 25300 GNotKG",
    "§ 124 GNotKG",
@@ -672,11 +709,11 @@
   "frage": "Der Notar bescheinigt die Vertretung einer GmbH & Co. KG durch den Geschäftsführer der Komplementär-GmbH und muss dafür die Registerblätter der KG und der GmbH einsehen. Welche Gebühr entsteht?",
   "optionen": [
    "15 € einmal, da nur eine Bescheinigung erteilt wird",
-   "30 €, da 15 € je eingesehenem Registerblatt anfallen",
+   "15 € zuzüglich 0,2-Gebühr nach KV 25100 GNotKG",
    "0,3-Gebühr aus dem Wert des Geschäfts",
-   "15 € zuzüglich 0,2-Gebühr nach KV 25100 GNotKG"
+   "30 €, da 15 € je eingesehenem Registerblatt anfallen"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Für die Bescheinigung nach § 21 Abs. 1 BNotO entstehen nach KV 25200 GNotKG 15 € je eingesehenem Registerblatt. Sind wie bei KG und Komplementär-GmbH zwei Blätter einzusehen, fällt die Gebühr für jedes Blatt an. Nur wenn ein Blatt genügt, etwa bei Vertretung durch einen Prokuristen der KG, entsteht sie einmal. Daneben kommt die Registerabrufgebühr nach KV 32011 GNotKG als Auslage in Betracht."
  },
  {
@@ -827,11 +864,11 @@
   "frage": "Der Notar holt eine betreuungsgerichtliche Genehmigung ein, die sich auf zwei getrennt beurkundete Kaufverträge bezieht. Wie oft entsteht die Vollzugsgebühr?",
   "optionen": [
    "Einmal, da nur eine Genehmigung eingeholt wird (§ 93 Abs. 1 S. 1 GNotKG)",
-   "Grundsätzlich je Urkunde, da jede Niederschrift ein eigenes Verfahren bildet",
+   "Gar nicht, da die Einholung gerichtlicher Genehmigungen gebührenfrei ist",
    "Einmal aus dem höheren der beiden Verfahrenswerte",
-   "Gar nicht, da die Einholung gerichtlicher Genehmigungen gebührenfrei ist"
+   "Grundsätzlich je Urkunde, da jede Niederschrift ein eigenes Verfahren bildet"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Der Grundsatz der einmaligen Erhebung (§ 93 Abs. 1 S. 1 GNotKG) gilt nur innerhalb desselben Beurkundungsverfahrens. Da jede Niederschrift nach § 85 Abs. 2 GNotKG ein eigenes Verfahren bildet, entsteht die Vollzugsgebühr grundsätzlich je Urkunde, jeweils aus dem gesamten Verfahrenswert (§ 112 GNotKG)."
  },
  {
@@ -968,10 +1005,10 @@
   "optionen": [
    "50.000 € (Nominalbetrag)",
    "30.000 € (Mindestwert nach § 105 Abs. 1 GNotKG)",
-   "500.000 € (Nominalbetrag einschließlich Agio)",
-   "1 % des Stammkapitals, mindestens 30.000 €"
+   "1 % des Stammkapitals, mindestens 30.000 €",
+   "500.000 € (Nominalbetrag einschließlich Agio)"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Für Beschlüsse mit bestimmtem Geldwert enthält § 108 GNotKG keine eigene Bewertungsregel; maßgeblich ist das Rechtsverhältnis nach § 97 Abs. 1 GNotKG, also der gesamte Inhalt einschließlich Agio. Die Bewertung nur mit dem Nominalbetrag ist ein typischer Fehler; nur die Registeranmeldung wird mit dem Nominalbetrag bewertet. 1 % des Stammkapitals gilt für Beschlüsse ohne bestimmten Geldwert."
  },
  {
@@ -997,19 +1034,19 @@
   "seite": "Geschäftswert: Beschlüsse von Organen (§ 108 GNotKG)",
   "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-beschlusse-von-organen-108-gnotkg",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 3,
   "normen": [
    "§ 108 Abs. 2 GNotKG",
    "§ 98 GNotKG"
   ],
   "frage": "Die Gesellschafterversammlung beschließt die Zustimmung zur Veräußerung eines Betriebsgrundstücks für 2.000.000 €. Welcher Geschäftswert gilt für den Zustimmungsbeschluss?",
   "optionen": [
-   "1.000.000 €, da Zustimmungen mit dem halben Wert anzusetzen sind (§ 98 GNotKG)",
    "2.000.000 €, der Wert des Geschäfts, dem zugestimmt wird (§ 108 Abs. 2 GNotKG)",
+   "1.000.000 €, da Zustimmungen mit dem halben Wert anzusetzen sind (§ 98 GNotKG)",
    "30.000 € als Beschluss ohne bestimmten Geldwert",
    "1 % des Stammkapitals"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Bei Zustimmungsbeschlüssen zu bestimmten Rechtsgeschäften ist nach § 108 Abs. 2 GNotKG der volle Wert des Geschäfts maßgeblich, dem zugestimmt wird. Der halbe Wert nach § 98 GNotKG gilt nur für Zustimmungserklärungen; beides ist sorgfältig zu unterscheiden. § 108 Abs. 2 GNotKG geht als Sonderregel dem Abs. 1 vor."
  },
  {
@@ -1076,12 +1113,12 @@
    {
     "frage": "Wird das modifizierte Reinvermögen wegen der bloßen Modifikation nur anteilig angesetzt?",
     "optionen": [
-     "Ja, mit 30 %",
-     "Ja, mit 50 %",
      "Nein, in voller Höhe",
+     "Ja, mit 50 %",
+     "Ja, mit 30 %",
      "Nein, es gilt der Auffangwert nach § 36 GNotKG"
     ],
-    "antwort": 2,
+    "antwort": 0,
     "erklaerung": "§ 100 Abs. 1 GNotKG gilt auch für jede bloße Modifikation des gesetzlichen Güterstands; ein Teilwert scheidet grundsätzlich aus. Der Ansatz eines Bruchteils ist ein typischer Fehler."
    },
    {
@@ -1150,11 +1187,11 @@
   "frage": "Erblasser E hinterließ beim Erbfall 2015 Vermögen von 500.000 € und Darlehensschulden von 100.000 €; er hat ein Vermächtnis über 50.000 € angeordnet. Der Erbscheinsantrag mit eidesstattlicher Versicherung wird 2025 gestellt, als der Nachlass 700.000 € wert ist. Welcher Geschäftswert gilt?",
   "optionen": [
    "350.000 €",
-   "400.000 €",
+   "700.000 €",
    "600.000 €",
-   "700.000 €"
+   "400.000 €"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Nach § 40 GNotKG ist der Nachlasswert im Zeitpunkt des Erbfalls maßgeblich (500.000 €), auch wenn der Antrag Jahre später gestellt wird. Abzuziehen sind nur Erblasserschulden (100.000 €), nicht Erbfallschulden wie Vermächtnisse. Der Abzug des Vermächtnisses (350.000 €) oder das Abstellen auf den heutigen Wert sind typische Fehler."
  },
  {
@@ -1199,7 +1236,7 @@
   "seite": "Geschäftswert: Erbschein und Erklärungen gegenüber dem Nachlassgericht; Gebühren im Erbrecht (§§ 40, 103 GNotKG)",
   "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-erbschein-und-erklarungen-gegenuber-dem-nachlassgericht-gebuhren-im-erbrecht-40-103-gnotkg",
   "typ": "rf",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 35 GBO",
    "KV 12210 GNotKG",
@@ -1248,10 +1285,10 @@
   "optionen": [
    "25.000 € (Stammkapital)",
    "30.000 € (Mindestwert)",
-   "212.500 €",
-   "200.000 €"
+   "200.000 €",
+   "212.500 €"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "§ 107 GNotKG setzt nur Mindest- und Höchstgrenzen; der Wert folgt aus § 97 GNotKG und ist beim Gesellschaftsvertrag als Leistungsvereinigungsvertrag die Summe aller Gesellschafterleistungen. Übersteigt eine Sacheinlage den Nominalbetrag, zählt ihr voller Wert: 12.500 € + 200.000 € = 212.500 €. Nur das Stammkapital anzusetzen ist ein typischer Fehler."
  },
  {
@@ -1335,16 +1372,22 @@
   "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
   "seite": "Geschäftswert: Registeranmeldungen (§§ 105, 106 GNotKG) – Grundsätze, Höchstwert, Musterprotokoll",
   "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-registeranmeldungen-105-106-gnotkg-grundsatze-hochstwert-musterprotokoll",
-  "typ": "rf",
-  "schwierigkeit": 2,
+  "typ": "mc",
+  "schwierigkeit": 3,
   "normen": [
    "§ 106 GNotKG",
    "§ 111 Nr. 3 GNotKG",
    "§ 35 Abs. 1 GNotKG"
   ],
-  "frage": "Enthält eine Urkunde mehrere Registeranmeldungen, werden deren Einzelwerte addiert; der Höchstwert von 1 Mio. € nach § 106 GNotKG gilt dann für jede Anmeldung gesondert und nicht für die Summe.",
-  "antwort": false,
-  "erklaerung": "Mehrere Anmeldungen in einer Urkunde sind stets besondere Beurkundungsgegenstände (§ 111 Nr. 3 GNotKG); ihre Einzelwerte werden addiert (§ 35 Abs. 1 GNotKG). Der Höchstwert von 1 Mio. € gilt nach dem Wortlaut des § 106 GNotKG aber auch für die Summe mehrerer Anmeldungen in einer Urkunde."
+  "frage": "Eine Urkunde enthält drei Handelsregisteranmeldungen mit Einzelwerten von 600.000 €, 500.000 € und 30.000 €. Welcher Geschäftswert gilt?",
+  "antwort": 2,
+  "erklaerung": "Mehrere Anmeldungen in einer Urkunde sind stets besondere Beurkundungsgegenstände (§ 111 Nr. 3 GNotKG); ihre Einzelwerte werden addiert (§ 35 Abs. 1 GNotKG). Der Höchstwert von 1 Mio. € gilt nach dem Wortlaut des § 106 GNotKG auch für die Summe mehrerer Anmeldungen in einer Urkunde, sodass die Summe von 1.130.000 € auf 1.000.000 € begrenzt wird.",
+  "optionen": [
+   "600.000 €, da nur der höchste Einzelwert maßgeblich ist",
+   "1.130.000 €, da der Höchstwert nur je Anmeldung gilt",
+   "1.000.000 €, da der Höchstwert auch für die Summe gilt",
+   "30.000 €, da mehrere Anmeldungen einen Gegenstand bilden"
+  ]
  },
  {
   "id": "kost2-060",
@@ -1375,7 +1418,7 @@
   "seite": "Geschäftswert: Registeranmeldungen (§§ 105, 106 GNotKG) – Grundsätze, Höchstwert, Musterprotokoll",
   "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-registeranmeldungen-105-106-gnotkg-grundsatze-hochstwert-musterprotokoll",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 36 GNotKG",
    "§ 105 GNotKG"
@@ -1514,11 +1557,11 @@
   "frage": "In einer Scheidungsfolgenvereinbarung vereinbaren die Eheleute Gütertrennung und übertragen zur Erfüllung des Zugewinnausgleichs den Miteigentumsanteil der Ehefrau am Familienheim auf den Ehemann. Wie ist zu bewerten?",
   "optionen": [
    "Nur nach § 100 GNotKG, da die Übertragung Teil des Ehevertrags ist",
-   "Ehevertrag nach § 100 GNotKG und Übertragung (Wert des Anteils nach § 46 GNotKG) gesondert bewerten und addieren",
+   "Ehevertrag und Übertragung getrennt mit zwei Gebühren abrechnen",
    "Nur die Übertragung, da sie gegenstandsgleich mit dem Ehevertrag ist (§ 109 Abs. 1 GNotKG)",
-   "Ehevertrag und Übertragung getrennt mit zwei Gebühren abrechnen"
+   "Ehevertrag nach § 100 GNotKG und Übertragung (Wert des Anteils nach § 46 GNotKG) gesondert bewerten und addieren"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Der Ehevertrag ist nach § 111 Nr. 2 GNotKG stets ein besonderer Beurkundungsgegenstand; die Übertragung zur Erfüllung des Zugewinnausgleichs gehört nicht zu ihm und wird gesondert nach § 46 GNotKG ohne Schuldenabzug bewertet. Die Werte werden addiert (§ 35 GNotKG), und es wird eine einzige Gebühr aus dem Gesamtwert erhoben (§ 93 Abs. 1 GNotKG). Die Übertragung als Teil des Ehevertrags zu behandeln, ist ein typischer Fehler."
  },
  {
@@ -1566,7 +1609,7 @@
   "seite": "Geschäftswert: Scheidungsvereinbarung und Ehevertrag mit weiteren Regelungen (§§ 111 Nr. 2, 97, 51 Abs. 2, 52 GNotKG)",
   "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-scheidungsvereinbarung-und-ehevertrag-mit-weiteren-regelungen-111-nr-2-97-51-abs-2-52-gnotkg",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 52 Abs. 2 S. 1 GNotKG"
   ],
