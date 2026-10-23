@@ -1,0 +1,306 @@
+:root{
+  --tinte:#1F2A44;
+  --tinte-2:#3A4668;
+  --papier:#FFFFFF;
+  --akte:#E8EBE5;
+  --akte-2:#D9DED4;
+  --text:#1B2233;
+  --text-2:#5A6378;
+  --siegel:#A31F34;
+  --siegel-2:#F3DEE1;
+  --amt:#2E6B4F;
+  --amt-2:#DDEDE3;
+  --gold:#B8902E;
+  --gold-2:#F4EAD0;
+  --linie:#C9CFC4;
+  --radius:14px;
+  --radius-s:8px;
+  --ui:"Public Sans",system-ui,-apple-system,sans-serif;
+  --lesen:"Literata",Georgia,serif;
+  --tab-h:64px;
+  --safe-b:env(safe-area-inset-bottom,0px);
+  --safe-t:env(safe-area-inset-top,0px);
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --tinte:#0F1526; --tinte-2:#2C375A;
+    --papier:#1A2135; --akte:#101627; --akte-2:#1E2638;
+    --text:#E9ECF3; --text-2:#9AA3B8;
+    --siegel:#D9485F; --siegel-2:#3B1C24;
+    --amt:#5FB48E; --amt-2:#1B3A2C;
+    --gold:#D7B35A; --gold-2:#3A3016;
+    --linie:#2C3550;
+  }
+}
+:root[data-theme="dark"]{
+  --tinte:#0F1526; --tinte-2:#2C375A;
+  --papier:#1A2135; --akte:#101627; --akte-2:#1E2638;
+  --text:#E9ECF3; --text-2:#9AA3B8;
+  --siegel:#D9485F; --siegel-2:#3B1C24;
+  --amt:#5FB48E; --amt-2:#1B3A2C;
+  --gold:#D7B35A; --gold-2:#3A3016;
+  --linie:#2C3550;
+}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{margin:0;background:var(--akte);color:var(--text);font-family:var(--ui);font-size:16px;line-height:1.45;-webkit-font-smoothing:antialiased;overscroll-behavior-y:none}
+body{min-height:100dvh}
+button{font:inherit;color:inherit;background:none;border:0;padding:0;cursor:pointer}
+button:focus-visible,a:focus-visible,input:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
+input{font:inherit}
+h1,h2,h3{margin:0;font-weight:600;line-height:1.2}
+p{margin:0}
+svg{fill:currentColor}
+
+#app{max-width:680px;margin:0 auto;padding:calc(12px + var(--safe-t)) 16px calc(var(--tab-h) + var(--safe-b) + 24px)}
+#app.full{padding-bottom:calc(24px + var(--safe-b))}
+
+/* Tabbar */
+.tabbar{position:fixed;left:0;right:0;bottom:0;height:calc(var(--tab-h) + var(--safe-b));padding-bottom:var(--safe-b);background:var(--papier);border-top:1px solid var(--linie);display:flex;justify-content:space-around;z-index:20}
+.tabbar[hidden]{display:none}
+.tab{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;color:var(--text-2);font-size:11px;font-weight:600}
+.tab svg{width:24px;height:24px}
+.tab.is-active{color:var(--siegel)}
+
+/* Kopf */
+.kopf{display:flex;align-items:baseline;justify-content:space-between;margin:6px 0 18px}
+.kopf h1{font-family:var(--lesen);font-weight:500;font-size:26px;letter-spacing:-.01em}
+.kopf .datum{color:var(--text-2);font-size:14px}
+
+/* Siegel (Tagesziel) */
+.siegel-wrap{display:grid;grid-template-columns:148px 1fr;gap:18px;align-items:center;background:var(--papier);border-radius:var(--radius);padding:18px;border:1px solid var(--linie)}
+.siegel{position:relative;width:148px;height:148px}
+.siegel svg{width:100%;height:100%;transform:rotate(-90deg)}
+.siegel .bg{fill:none;stroke:var(--akte-2);stroke-width:10}
+.siegel .fg{fill:none;stroke:var(--siegel);stroke-width:10;stroke-linecap:round;transition:stroke-dashoffset .6s cubic-bezier(.2,.8,.2,1)}
+.siegel .mitte{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;font-family:var(--lesen)}
+.siegel .zahl{font-size:38px;font-weight:600;line-height:1;font-variant-numeric:tabular-nums}
+.siegel .von{font-size:13px;color:var(--text-2);margin-top:4px;font-family:var(--ui)}
+.siegel.fertig .fg{stroke:var(--gold)}
+.siegel .stempel{position:absolute;inset:14px;border-radius:50%;border:3px double var(--siegel);display:flex;align-items:center;justify-content:center;font-family:var(--lesen);font-weight:600;color:var(--siegel);font-size:15px;letter-spacing:.06em;transform:rotate(-14deg) scale(1.6);opacity:0;pointer-events:none}
+.siegel.fertig .stempel{animation:stempeln .5s cubic-bezier(.2,1.4,.4,1) forwards}
+@keyframes stempeln{to{transform:rotate(-14deg) scale(1);opacity:1}}
+.siegel.fertig .mitte{opacity:0}
+.siegel-text h2{font-size:18px;margin-bottom:6px}
+.siegel-text p{color:var(--text-2);font-size:14px}
+.streak{display:flex;gap:14px;margin-top:10px;font-size:14px}
+.streak span{white-space:nowrap}
+.streak b{font-size:20px;font-family:var(--lesen);font-weight:600;display:block;line-height:1.1}
+.streak span{color:var(--text-2);font-size:12px}
+
+/* Modus-Liste */
+.modi{display:grid;gap:10px;margin-top:18px}
+.modus{display:grid;grid-template-columns:44px 1fr auto;gap:14px;align-items:center;text-align:left;background:var(--papier);border:1px solid var(--linie);border-radius:var(--radius);padding:14px 16px;transition:transform .12s}
+.modus:active{transform:scale(.985)}
+.modus .ikon{width:44px;height:44px;border-radius:12px;display:flex;align-items:center;justify-content:center;background:var(--akte)}
+.modus .ikon svg{width:24px;height:24px}
+.modus.primaer{background:var(--tinte);color:#fff;border-color:var(--tinte)}
+.modus.primaer .ikon{background:rgba(255,255,255,.12)}
+.modus.primaer .sub{color:rgba(255,255,255,.7)}
+.modus h3{font-size:16px}
+.modus .sub{font-size:13px;color:var(--text-2);margin-top:2px}
+.modus .zahl{font-family:var(--lesen);font-size:22px;font-weight:600;font-variant-numeric:tabular-nums}
+.modus .zahl small{display:block;font-family:var(--ui);font-size:11px;color:var(--text-2);text-align:right;font-weight:500}
+.modus.primaer .zahl small{color:rgba(255,255,255,.7)}
+.abschnitt-titel{font-size:13px;font-weight:600;color:var(--text-2);margin:22px 0 8px}
+
+/* Gebiete */
+.gebiete{display:grid;gap:8px}
+.gebiet{display:grid;grid-template-columns:48px 1fr auto;gap:12px;align-items:center;background:var(--papier);border:1px solid var(--linie);border-radius:var(--radius);padding:10px 14px;text-align:left}
+.gebiet .ring{width:48px;height:48px;position:relative}
+.gebiet .ring svg{width:100%;height:100%;transform:rotate(-90deg)}
+.gebiet .ring .bg{fill:none;stroke:var(--akte-2);stroke-width:5}
+.gebiet .ring .fg{fill:none;stroke:var(--amt);stroke-width:5;stroke-linecap:round}
+.gebiet .ring .pz{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:700;font-variant-numeric:tabular-nums}
+.gebiet h3{font-size:15px;font-weight:600}
+.gebiet .sub{font-size:12px;color:var(--text-2);margin-top:2px}
+.gebiet .chev{color:var(--text-2)}
+.gebiet.gemeistert .ring .fg{stroke:var(--gold)}
+
+/* Frage-Ansicht */
+.fkopf{display:flex;align-items:center;gap:12px;margin-bottom:14px}
+.fkopf .zurueck{width:40px;height:40px;border-radius:50%;background:var(--papier);border:1px solid var(--linie);display:flex;align-items:center;justify-content:center}
+.fkopf .zurueck svg{width:20px;height:20px}
+.fortschritt{flex:1;height:6px;background:var(--akte-2);border-radius:3px;overflow:hidden}
+.fortschritt i{display:block;height:100%;background:var(--tinte);border-radius:3px;transition:width .3s}
+.fortschritt.zeit i{background:var(--siegel);transition:width 1s linear}
+.fkopf .zaehler{font-size:13px;color:var(--text-2);font-variant-numeric:tabular-nums;min-width:44px;text-align:right}
+.fkopf .serie{font-weight:700;color:var(--gold);font-size:14px;font-variant-numeric:tabular-nums}
+
+.urkunde{background:var(--papier);border:1px solid var(--linie);border-radius:var(--radius);padding:20px 18px 18px;position:relative}
+.urkunde .meta{display:flex;justify-content:space-between;align-items:center;font-size:12px;color:var(--text-2);margin-bottom:12px;gap:10px}
+
+.grad{display:inline-flex;gap:3px}
+.grad i{width:6px;height:10px;border-radius:2px;background:var(--akte-2)}
+.grad i.an{background:var(--text-2)}
+.frage{font-family:var(--lesen);font-size:19px;line-height:1.45;font-weight:500;letter-spacing:-.005em}
+.sachverhalt{font-family:var(--lesen);font-size:16px;line-height:1.55;color:var(--text);background:var(--akte);border-left:3px solid var(--tinte-2);padding:10px 14px;border-radius:0 var(--radius-s) var(--radius-s) 0;margin-bottom:14px}
+.schritt-lbl{font-size:12px;color:var(--text-2);font-weight:600;margin-bottom:6px}
+
+.optionen{display:grid;gap:8px;margin-top:16px}
+.option{display:grid;grid-template-columns:28px 1fr;gap:12px;align-items:start;text-align:left;padding:13px 14px;border:1.5px solid var(--linie);border-radius:12px;background:var(--papier);font-size:15.5px;line-height:1.4;transition:border-color .12s,background .12s}
+.option:active:not(:disabled){background:var(--akte)}
+.option .buchst{width:28px;height:28px;border-radius:50%;border:1.5px solid var(--linie);display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:700;color:var(--text-2);flex-shrink:0}
+.option.richtig{border-color:var(--amt);background:var(--amt-2)}
+.option.richtig .buchst{background:var(--amt);border-color:var(--amt);color:#fff}
+.option.falsch{border-color:var(--siegel);background:var(--siegel-2)}
+.option.falsch .buchst{background:var(--siegel);border-color:var(--siegel);color:#fff}
+.option.falsch .txt{text-decoration:underline;text-decoration-color:var(--siegel);text-decoration-thickness:2px;text-underline-offset:3px}
+.option:disabled{cursor:default}
+.option.gewaehlt{border-color:var(--tinte)}
+.rf{grid-template-columns:1fr 1fr;margin-top:16px}
+.rf .option{grid-template-columns:1fr;text-align:center;justify-items:center;font-weight:600;padding:16px}
+
+/* Zuordnung */
+.zuordnung{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:16px}
+.zo{padding:12px 10px;border:1.5px solid var(--linie);border-radius:12px;background:var(--papier);font-size:14px;line-height:1.35;text-align:left;min-height:52px;transition:border-color .12s,background .12s}
+.zo.aktiv{border-color:var(--tinte);background:var(--akte)}
+.zo.paar{border-color:var(--amt);background:var(--amt-2);opacity:.75}
+.zo.fehl{border-color:var(--siegel);background:var(--siegel-2)}
+.zo:disabled{cursor:default}
+
+/* Auflösung */
+.aufloesung{margin-top:16px;padding-top:14px;border-top:1px dashed var(--linie)}
+.aufloesung .urteil{font-weight:700;font-size:15px;margin-bottom:6px}
+.aufloesung .urteil.ok{color:var(--amt)}
+.aufloesung .urteil.nein{color:var(--siegel)}
+.aufloesung .erkl{font-size:15px;line-height:1.5}
+.normen{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+.norm{font-size:12px;font-weight:600;padding:3px 8px;border-radius:6px;background:var(--akte);color:var(--text-2)}
+.quelle{font-size:12px;color:var(--text-2);margin-top:10px}
+.quelle a{color:var(--text-2)}
+
+.sicherheit{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:14px}
+.sicherheit button{padding:13px;border-radius:12px;border:1.5px solid var(--linie);font-weight:600;font-size:15px;background:var(--papier)}
+.sicherheit button small{display:block;font-weight:400;font-size:12px;color:var(--text-2);margin-top:2px}
+.sicherheit .sicher{border-color:var(--amt);color:var(--amt)}
+.sicherheit .unsicher{border-color:var(--gold);color:var(--gold)}
+.weiter{display:block;width:100%;margin-top:14px;padding:15px;border-radius:12px;background:var(--tinte);color:#fff;font-weight:600;font-size:16px}
+.weiter.sekundaer{background:var(--papier);color:var(--text);border:1.5px solid var(--linie)}
+.weiter:disabled{opacity:.5}
+
+.xp-plus{position:absolute;right:16px;top:12px;font-weight:700;color:var(--gold);font-size:15px;animation:hoch .9s ease-out forwards;pointer-events:none}
+@keyframes hoch{0%{opacity:0;transform:translateY(6px)}20%{opacity:1}100%{opacity:0;transform:translateY(-22px)}}
+
+/* Ergebnis */
+.ergebnis{text-align:center;padding:24px 0 8px}
+.ergebnis .gross{font-family:var(--lesen);font-size:56px;font-weight:600;line-height:1;font-variant-numeric:tabular-nums}
+.ergebnis .gross small{font-size:22px;color:var(--text-2);font-weight:400}
+.ergebnis h2{font-size:18px;margin-top:8px}
+.ergebnis p{color:var(--text-2);margin-top:4px;font-size:14px}
+.kacheln{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-top:20px}
+.kachel{background:var(--papier);border:1px solid var(--linie);border-radius:12px;padding:12px 8px;text-align:center}
+.kachel b{display:block;font-family:var(--lesen);font-size:22px;font-weight:600;font-variant-numeric:tabular-nums}
+.kachel span{font-size:11px;color:var(--text-2)}
+.fehlerliste{margin-top:18px;text-align:left}
+.fehlerliste h3{font-size:14px;color:var(--text-2);margin-bottom:8px}
+.fehler{background:var(--papier);border:1px solid var(--linie);border-radius:12px;padding:12px 14px;margin-bottom:8px;font-size:14px}
+.fehler .f{font-family:var(--lesen);font-size:15px;margin-bottom:4px}
+.fehler .a{color:var(--amt)}
+.abzeichen-neu{margin-top:18px;background:var(--gold-2);border:1px solid var(--gold);border-radius:12px;padding:14px;text-align:left;display:flex;gap:12px;align-items:center}
+.abzeichen-neu .medaille{width:40px;height:40px;border-radius:50%;background:var(--gold);color:#fff;display:flex;align-items:center;justify-content:center;flex-shrink:0}
+.abzeichen-neu .medaille svg{width:22px;height:22px}
+.abzeichen-neu b{display:block}
+.abzeichen-neu span{font-size:13px;color:var(--text-2)}
+
+/* Statistik */
+.stat-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:8px}
+.stat{background:var(--papier);border:1px solid var(--linie);border-radius:12px;padding:14px}
+.stat b{display:block;font-family:var(--lesen);font-size:26px;font-weight:600;font-variant-numeric:tabular-nums}
+.stat span{font-size:12px;color:var(--text-2)}
+.heatmap{display:grid;grid-template-columns:repeat(13,1fr);gap:3px;margin-top:8px}
+.heatmap i{aspect-ratio:1;border-radius:3px;background:var(--akte-2)}
+.heatmap i.l1{background:#B9D7C7}.heatmap i.l2{background:#7DB89A}.heatmap i.l3{background:#4A9372}.heatmap i.l4{background:var(--amt)}
+.heatmap i.heute{outline:2px solid var(--tinte);outline-offset:-2px}
+.boxen{display:grid;grid-template-columns:repeat(6,1fr);gap:4px;align-items:end;height:90px;margin-top:8px}
+.box{background:var(--tinte-2);border-radius:4px 4px 0 0;position:relative;min-height:4px}
+.box.b0{background:var(--akte-2)}
+.box.b5{background:var(--gold)}
+.box span{position:absolute;top:-18px;left:0;right:0;text-align:center;font-size:11px;color:var(--text-2);font-variant-numeric:tabular-nums}
+.boxen-lbl{display:grid;grid-template-columns:repeat(6,1fr);gap:4px;font-size:10px;color:var(--text-2);text-align:center;margin-top:4px}
+.abzeichen-liste{display:grid;grid-template-columns:repeat(2,1fr);gap:8px}
+.abz{display:flex;gap:10px;align-items:center;background:var(--papier);border:1px solid var(--linie);border-radius:12px;padding:10px 12px}
+.abz .medaille{width:34px;height:34px;border-radius:50%;background:var(--akte-2);color:var(--text-2);display:flex;align-items:center;justify-content:center;flex-shrink:0}
+.abz .medaille svg{width:18px;height:18px}
+.abz.hat .medaille{background:var(--gold);color:#fff}
+.abz b{display:block;font-size:13px}
+.abz span{font-size:11px;color:var(--text-2)}
+.abz:not(.hat){opacity:.6}
+
+/* Profil */
+.level-karte{background:var(--tinte);color:#fff;border-radius:var(--radius);padding:18px}
+.level-karte .titel{font-family:var(--lesen);font-size:24px;font-weight:500}
+.level-karte .sub{color:rgba(255,255,255,.7);font-size:13px;margin-top:2px}
+.level-karte .balken{height:8px;background:rgba(255,255,255,.15);border-radius:4px;margin-top:14px;overflow:hidden}
+.level-karte .balken i{display:block;height:100%;background:var(--gold);border-radius:4px}
+.level-karte .xp{display:flex;justify-content:space-between;font-size:12px;color:rgba(255,255,255,.7);margin-top:6px;font-variant-numeric:tabular-nums}
+.feld{background:var(--papier);border:1px solid var(--linie);border-radius:12px;padding:14px;margin-top:10px}
+.feld label{display:block;font-size:13px;font-weight:600;margin-bottom:6px}
+.feld .hint{font-size:12px;color:var(--text-2);margin-top:6px}
+.feld input[type=text]{width:100%;padding:11px 12px;border:1.5px solid var(--linie);border-radius:10px;background:var(--akte);color:var(--text)}
+.feld .reihe{display:flex;gap:8px;margin-top:8px}
+.feld .reihe button{flex:1;padding:11px;border-radius:10px;border:1.5px solid var(--linie);font-weight:600;background:var(--papier)}
+.feld .reihe button.primaer{background:var(--tinte);color:#fff;border-color:var(--tinte)}
+.sync-status{display:flex;align-items:center;gap:8px;font-size:13px;margin-top:8px}
+.sync-status i{width:8px;height:8px;border-radius:50%;background:var(--text-2)}
+.sync-status.an i{background:var(--amt)}
+.sync-status.fehler i{background:var(--siegel)}
+.schalter{display:flex;justify-content:space-between;align-items:center;padding:12px 0;border-top:1px solid var(--linie)}
+.schalter:first-child{border-top:0}
+.schalter select{font:inherit;padding:6px 10px;border-radius:8px;border:1.5px solid var(--linie);background:var(--akte);color:var(--text)}
+.gefahr{color:var(--siegel);font-weight:600;font-size:14px;padding:10px 0}
+
+/* Einstieg */
+.einstieg{min-height:80dvh;display:flex;flex-direction:column;justify-content:center;gap:18px}
+.einstieg .marke{font-family:var(--lesen);font-size:40px;font-weight:500;letter-spacing:-.02em}
+.einstieg .marke small{display:block;font-family:var(--ui);font-size:14px;color:var(--text-2);letter-spacing:0;margin-top:4px}
+.laden{display:flex;align-items:center;justify-content:center;min-height:60dvh;color:var(--text-2);font-size:14px}
+
+/* Toast */
+.toast{position:fixed;left:50%;bottom:calc(var(--tab-h) + var(--safe-b) + 16px);transform:translateX(-50%);background:var(--tinte);color:#fff;padding:10px 16px;border-radius:10px;font-size:14px;z-index:30;max-width:90vw;box-shadow:0 6px 24px rgba(0,0,0,.25)}
+.toast[hidden]{display:none}
+
+/* Auswahl-Blatt (Gebiet / Schwierigkeit) */
+.blatt{background:var(--papier);border:1px solid var(--linie);border-radius:var(--radius);padding:16px;margin-top:12px}
+.blatt h3{font-size:15px;margin-bottom:10px}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chip{padding:8px 14px;border-radius:999px;border:1.5px solid var(--linie);font-size:14px;font-weight:500;background:var(--papier)}
+.chip.an{background:var(--tinte);color:#fff;border-color:var(--tinte)}
+.zahlwahl{display:flex;gap:8px}
+.zahlwahl .chip{flex:1;text-align:center}
+
+@media (min-width:720px){
+  .modi{grid-template-columns:1fr 1fr}
+  .modi .modus.primaer{grid-column:1/-1}
+  .frage{font-size:21px}
+  .stat-grid{grid-template-columns:repeat(4,1fr)}
+}
+@media (prefers-reduced-motion:reduce){
+  *{animation:none!important;transition:none!important}
+}
+
+/* Frage des Tages */
+.tagesfrage{margin-top:12px;background:var(--papier);border:1px solid var(--linie);border-radius:var(--radius);padding:14px 16px;border-left:4px solid var(--gold)}
+.tagesfrage.ok{border-left-color:var(--amt)}
+.tagesfrage.nein{border-left-color:var(--siegel)}
+.tf-kopf{display:flex;justify-content:space-between;font-size:12px;font-weight:600;color:var(--text-2);margin-bottom:6px}
+.tf-text{font-family:var(--lesen);font-size:16px;line-height:1.45;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.tf-start{margin-top:10px;padding:9px 14px;border-radius:999px;background:var(--gold);color:#fff;font-weight:600;font-size:14px}
+.tf-stand{margin-top:8px;font-size:13px;color:var(--text-2)}
+.urnr{font-family:var(--lesen);font-style:italic;color:var(--text-2);font-size:13px;margin-top:10px!important}
+
+/* Ernennungsurkunde (Levelaufstieg) */
+.ernennung{position:fixed;inset:0;background:rgba(15,21,38,.72);display:flex;align-items:center;justify-content:center;padding:20px;z-index:40;opacity:0;transition:opacity .3s}
+.ernennung.an{opacity:1}
+.urk{background:#F7F4EA;color:#1B2233;border-radius:6px;padding:10px;max-width:420px;width:100%;transform:scale(.9) rotate(-2deg);transition:transform .45s cubic-bezier(.2,1.3,.4,1);box-shadow:0 30px 60px rgba(0,0,0,.4)}
+.ernennung.an .urk{transform:none}
+.urk-rand{border:3px double #1F2A44;padding:22px 18px 16px;text-align:center}
+.urk-kopf{font-family:var(--lesen);font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:#5A6378}
+.urk-text{font-family:var(--lesen);font-size:14px;line-height:1.5;margin:14px 0 10px;color:#3A4668}
+.urk-titel{font-family:var(--lesen);font-size:30px;font-weight:600;line-height:1.15;color:#1F2A44}
+.urk-siegel{width:64px;height:64px;margin:16px auto 10px;border-radius:50%;border:3px double #A31F34;color:#A31F34;display:flex;align-items:center;justify-content:center;font-family:var(--lesen);font-size:30px;font-weight:600;transform:rotate(-12deg)}
+.urk-fuss{font-size:11px;color:#5A6378;margin-bottom:12px}
+.urk .weiter{background:#1F2A44}
+.fach{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+
+:root[data-theme="dark"] .modus.primaer,:root:not([data-theme="light"]) .modus.primaer{background:var(--tinte-2);border-color:var(--tinte-2)}
+@media (prefers-color-scheme:light){:root:not([data-theme="dark"]) .modus.primaer{background:var(--tinte);border-color:var(--tinte)}}

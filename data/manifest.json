@@ -1,0 +1,2362 @@
+{
+ "kapitel": [
+  {
+   "slug": "bautragervertrag",
+   "titel": "Bauträgervertrag",
+   "beschreibung": "Bauträgervertrag nach §§ 650u, 650v BGB und MaBV: Abgrenzung und Bezugsurkunde, Leistung, Baubeschreibung und Termine, Abschlagszahlungen und Sicherheiten, Abnahme, Mängel und Vollzug.",
+   "seiten_erwartet": 18,
+   "abschnitte": [
+    {
+     "slug": "abnahme-mangel-und-vollzug",
+     "titel": "Abnahme, Mängel und Vollzug",
+     "beschreibung": "Abnahme, Rechts- und Sachmängel, Auflassung und Sicherung des Bauträgers sowie Änderungsvollmacht zur Teilungserklärung.",
+     "seiten_erwartet": 4,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/bautragervertrag/abnahme-mangel-und-vollzug/bautragervertrag-abnahme",
+       "titel": "Bauträgervertrag: Abnahme",
+       "beschreibung": "Abnahme beim Bauträgervertrag (§ 640 BGB), Übergabe: Verjährungsbeginn, Beweislast, technische Abnahme (TÜV), Abnahmereife, wesentliche Mängel, Abnahmefiktion, Mängelvorbehalt (§ 640 Abs. 3 BGB), förmliche Abnahme."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/bautragervertrag/abnahme-mangel-und-vollzug/bautragervertrag-anderungsvollmacht-zur-teilungserklarung",
+       "titel": "Bauträgervertrag: Änderungsvollmacht zur Teilungserklärung",
+       "beschreibung": "Vollmacht des Erwerbers zur Änderung der Teilungserklärung durch den Bauträger (Änderungsvollmacht): § 308 Nr. 4 BGB, triftige Gründe nach BGH V ZR 91/25, Sondereigentum, Sondernutzungsrechte, Außen- und Innenverhältnis."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/bautragervertrag/abnahme-mangel-und-vollzug/bautragervertrag-auflassung-und-sicherung-des-bautragers",
+       "titel": "Bauträgervertrag: Auflassung und Sicherung des Bauträgers",
+       "beschreibung": "Auflassung beim Bauträgervertrag, Sicherung des Bauträgers bis zur Zahlung (Eigentumsumschreibung): getrennte Auflassung, Ausfertigungssperre (§§ 51, 49, 42 BeurkG), Bewilligung durch den Notar, Eigenurkunde."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/bautragervertrag/abnahme-mangel-und-vollzug/bautragervertrag-rechts-und-sachmangel",
+       "titel": "Bauträgervertrag: Rechts- und Sachmängel",
+       "beschreibung": "Mängelhaftung (Gewährleistung) beim Bauträgervertrag: Rechtsmängel (§ 435 BGB), Belastungen, Sachmängel des Grundstücks (Kaufrecht, Altlasten), Bauleistung (§ 634 BGB, § 309 Nr. 8 Buchst. b BGB), bewegliche Sachen, Verjährung."
+      }
+     ]
+    },
+    {
+     "slug": "leistung-baubeschreibung-und-termine",
+     "titel": "Leistung, Baubeschreibung und Termine",
+     "beschreibung": "Baubeschreibung nach Form und Inhalt, Vertragsgegenstand und Leistungspflicht, Abweichungen, Sonderwünsche und Eigenleistungen sowie Fertigstellungstermin.",
+     "seiten_erwartet": 4,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/bautragervertrag/leistung-baubeschreibung-und-termine/bautragervertrag-abweichungen-von-der-baubeschreibung-sonderwunsche-eigenleistungen",
+       "titel": "Bauträgervertrag: Abweichungen von der Baubeschreibung, Sonderwünsche, Eigenleistungen",
+       "beschreibung": "Änderung der Bauausführung durch den Bauträger (Änderungsvorbehalt, § 308 Nr. 4 BGB, triftige Gründe, BGH V ZR 91/25), Sonderwünsche des Erwerbers (§ 242 BGB), Eigenleistungen, Beurkundung von Nachträgen vor der Auflassung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/bautragervertrag/leistung-baubeschreibung-und-termine/bautragervertrag-baubeschreibung-form-und-inhalt",
+       "titel": "Bauträgervertrag: Baubeschreibung (Form und Inhalt)",
+       "beschreibung": "Baubeschreibung beim Bauträgervertrag (Leistungsinhalt, Pläne): Beurkundungspflicht § 311b Abs. 1 BGB, Verweisung § 13c BeurkG, Mindestinhalt § 650j BGB i. V. m. Art. 249 § 2 EGBGB, Nichtigkeit, Detailtiefe bei fertigen Objekten."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/bautragervertrag/leistung-baubeschreibung-und-termine/bautragervertrag-fertigstellungstermin",
+       "titel": "Bauträgervertrag: Fertigstellungstermin",
+       "beschreibung": "Fertigstellungstermin und Bezugsfertigkeit im Bauträgervertrag (§ 650u Abs. 1 S. 2, § 650k Abs. 3 S. 1 BGB): § 271 BGB, Bauverzögerung, Verzug (§§ 280, 286 BGB), Behinderungsklauseln, höhere Gewalt, Außenanlagen."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/bautragervertrag/leistung-baubeschreibung-und-termine/bautragervertrag-vertragsgegenstand-und-leistungspflicht",
+       "titel": "Bauträgervertrag: Vertragsgegenstand und Leistungspflicht",
+       "beschreibung": "Aufbau und Vertragsgegenstand des Bauträgervertrags: Mustervertrag, Grundbuchstand, Bauvorhaben, noch nicht gebildete Wohnung, Sondernutzungsrecht, Verweisung auf die Bezugsurkunde, Leistungspflicht, Wohnfläche, Altbausanierung."
+      }
+     ]
+    },
+    {
+     "slug": "vertragsgrundlagen-und-bezugsurkunde",
+     "titel": "Vertragsgrundlagen und Bezugsurkunde",
+     "beschreibung": "Begriff und Abgrenzung des Bauträgervertrags, getrennte Grundstücks- und Bauverträge, anwendbares Recht sowie Bezugsurkunde mit Zuweisung von Sondernutzungsrechten und Untergemeinschaften.",
+     "seiten_erwartet": 5,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/bautragervertrag/vertragsgrundlagen-und-bezugsurkunde/bautragervertrag-anwendbares-recht-und-ausgeschlossene-vorschriften",
+       "titel": "Bauträgervertrag: anwendbares Recht und ausgeschlossene Vorschriften",
+       "beschreibung": "Bauträgervertrag als Kauf- und Werkvertrag: nicht anwendbare Vorschriften nach § 650u Abs. 2 BGB (Kündigung, Anordnungsrecht, Sicherungshypothek, Widerrufsrecht), Verbraucherbauvertrag, Zwei-Wochen-Frist § 17 Abs. 2a BeurkG, MaBV."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/bautragervertrag/vertragsgrundlagen-und-bezugsurkunde/bautragervertrag-begriff-und-abgrenzung",
+       "titel": "Bauträgervertrag: Begriff und Abgrenzung",
+       "beschreibung": "Bauträgervertrag (§ 650u Abs. 1 BGB): Neubau, Haus oder Eigentumswohnung vom Bauträger; Errichtung, Umbau, Renovierung, Werkunternehmer, Grundstücksübertragung; Abgrenzung zu Kaufvertrag, Bauvertrag (§§ 650a ff. BGB) und Baubetreuungsvertrag."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/bautragervertrag/vertragsgrundlagen-und-bezugsurkunde/bautragervertrag-bezugsurkunde-zuweisung-von-sondernutzungsrechten-und-untergemeinschaften",
+       "titel": "Bauträgervertrag: Bezugsurkunde – Zuweisung von Sondernutzungsrechten und Untergemeinschaften",
+       "beschreibung": "Sondernutzungsrecht (Stellplatz, Keller, Terrasse) später durch den Bauträger zuweisen (§ 10 WEG): Vollmacht (§ 117 InsO), Ermächtigung, Parkplatzeinheit, aufschiebend bedingte Zuordnung (§ 29 GBO), Untergemeinschaften."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/bautragervertrag/vertragsgrundlagen-und-bezugsurkunde/bautragervertrag-bezugsurkunde-zweck-zulassigkeit-und-inhalte",
+       "titel": "Bauträgervertrag: Bezugsurkunde – Zweck, Zulässigkeit und Inhalte",
+       "beschreibung": "Bezugsurkunde beim Bauträgervertrag, Verweisung nach § 13c BeurkG: Richtlinien der Notarkammer Baden-Württemberg, Serienschaden, Teilungserklärung § 8 WEG, Realteilung, Dienstbarkeiten, Verwaltervertrag, Angestelltenvollmacht."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/bautragervertrag/vertragsgrundlagen-und-bezugsurkunde/bautragervertrag-getrennte-grundstucks-und-bauvertrage-verdecktes-bauherrenmodell",
+       "titel": "Bauträgervertrag: getrennte Grundstücks- und Bauverträge (verdecktes Bauherrenmodell)",
+       "beschreibung": "Getrennte Verträge für Grundstückskauf und Hausbau (verdecktes Bauherrenmodell): Beurkundungspflicht (§ 311b Abs. 1 S. 1 BGB), gemeinsame Urkunde, rechtliche Einheit, Umgehung der MaBV, OLG München 9 U 1662/11."
+      }
+     ]
+    },
+    {
+     "slug": "zahlung-und-sicherheiten",
+     "titel": "Zahlung und Sicherheiten",
+     "beschreibung": "Abschlagszahlungen, Ratenplan und Vorleistungsverbot, Fälligkeitsvoraussetzungen nach § 3 Abs. 1 MaBV, Lastenfreistellung, Sicherheit nach § 650m Abs. 2 BGB, Bürgschaft nach § 7 MaBV und Insolvenz des Bauträgers.",
+     "seiten_erwartet": 5,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/bautragervertrag/zahlung-und-sicherheiten/bautragervertrag-abschlagszahlungen-ratenplan-und-vorleistungsverbot",
+       "titel": "Bauträgervertrag: Abschlagszahlungen, Ratenplan und Vorleistungsverbot",
+       "beschreibung": "Abschlagszahlungen und Ratenplan beim Bauträgervertrag (Raten nach Baufortschritt): Vorleistungsverbot, § 632a BGB, § 650v BGB, Art. 244 EGBGB, HausbauVO, § 3 Abs. 2 MaBV, Bautenstandsbestätigung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/bautragervertrag/zahlung-und-sicherheiten/bautragervertrag-falligkeitsvoraussetzungen-nach-3-abs-1-mabv",
+       "titel": "Bauträgervertrag: Fälligkeitsvoraussetzungen nach § 3 Abs. 1 MaBV",
+       "beschreibung": "Fälligkeit der Raten beim Bauträgervertrag nach § 3 Abs. 1 MaBV: Fälligkeitsmitteilung des Notars (§ 24 BNotO), Genehmigungen, Verwalterzustimmung, Rücktrittsrecht, Auflassungsvormerkung, Vollzug der Teilung, Baugenehmigung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/bautragervertrag/zahlung-und-sicherheiten/bautragervertrag-insolvenz-des-bautragers-und-abtretung-von-mangelanspruchen",
+       "titel": "Bauträgervertrag: Insolvenz des Bauträgers und Abtretung von Mängelansprüchen",
+       "beschreibung": "Insolvenz des Bauträgers, Steckenbleiben des Baus: Schutz durch Vormerkung (§ 106 Abs. 1 S. 1 InsO), Wahlrecht des Insolvenzverwalters (§ 103 InsO), Fertigstellungsrisiko, Abtretung von Mängelansprüchen gegen Handwerker."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/bautragervertrag/zahlung-und-sicherheiten/bautragervertrag-lastenfreistellung-und-steckenbleiben-des-baus",
+       "titel": "Bauträgervertrag: Lastenfreistellung und Steckenbleiben des Baus",
+       "beschreibung": "Lastenfreistellung beim Bauträgervertrag (§ 3 Abs. 1 Nr. 3 MaBV): Globalgrundschuld, Löschungsbewilligung, Pfandfreigabe, Freistellungsverpflichtung, Steckenbleiben des Baus (Bauabbruch), Bautenstandsanteil, Rückzahlungsvorbehalt."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/bautragervertrag/zahlung-und-sicherheiten/bautragervertrag-sicherheit-nach-650m-abs-2-bgb-und-burgschaft-nach-7-mabv",
+       "titel": "Bauträgervertrag: Sicherheit nach § 650m Abs. 2 BGB und Bürgschaft nach § 7 MaBV",
+       "beschreibung": "Sicherheit für Verbraucher beim Bauträgervertrag (§ 650m Abs. 2 BGB): 5-%-Einbehalt, Erfüllungsbürgschaft, Freigabe nach Abnahme, unwirksamer Ratenplan; Bürgschaft nach § 7 MaBV statt Ratenplan."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "beurkundungsverfahren-und-amtspflichten",
+   "titel": "Beurkundungsverfahren und Amtspflichten",
+   "beschreibung": "Beurkundungsverfahren nach dem BeurkG von der öffentlichen Urkunde über Niederschrift, Beteiligte und Vermerkurkunden bis zu Prüfungs- und Belehrungspflichten sowie Urkundsgewährung, Ablehnung, Vollzug, Vorbescheid und Notarbeschwerde.",
+   "seiten_erwartet": 36,
+   "abschnitte": [
+    {
+     "slug": "erklarungen-vorlesen-und-besondere-verfahren",
+     "titel": "Erklärungen, Vorlesen und besondere Verfahren",
+     "beschreibung": "Anlagen und Verweisungen, Vorlesen, Genehmigen und Unterschreiben, Hinweisvermerke bei Grundstücksgeschäften, Besonderheiten bei Eheverträgen, Verfügungen von Todes wegen und Gesellschaftsverträgen sowie Online-Beurkundung.",
+     "seiten_erwartet": 5,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/erklarungen-vorlesen-und-besondere-verfahren/anlagen-und-verweisung-auf-andere-niederschriften-9-13c-14-beurkg",
+       "titel": "Anlagen und Verweisung auf andere Niederschriften (§§ 9, 13c, 14 BeurkG)",
+       "beschreibung": "Anlagen zur Niederschrift (§ 9 Abs. 1 S. 2, 3 BeurkG), Lageplan, Baubeschreibung, Verweisung auf Bezugsurkunde (§ 13c BeurkG), behördliche Pläne, eingeschränkte Vorlesungspflicht bei Grundschuld (§ 14 BeurkG)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/erklarungen-vorlesen-und-besondere-verfahren/ehevertrage-verfugungen-von-todes-wegen-und-gesellschaftsvertrage-verfahrensbesonderheiten",
+       "titel": "Eheverträge, Verfügungen von Todes wegen und Gesellschaftsverträge: Verfahrensbesonderheiten",
+       "beschreibung": "Verfahren bei Ehevertrag (§ 1410 BGB, Vorgespräch, Entwurf), Testament und Erbvertrag (§§ 27, 29, 30, 34 BeurkG, Übergabe einer Schrift, Verwahrung, ZTR § 34a BeurkG) und GmbH-Gründung (Satzung als Anlage)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/erklarungen-vorlesen-und-besondere-verfahren/grundstucksgeschafte-grundbucheinsicht-und-hinweisvermerke-17-21-beurkg",
+       "titel": "Grundstücksgeschäfte: Grundbucheinsicht und Hinweisvermerke (§§ 17–21 BeurkG)",
+       "beschreibung": "Grundbucheinsicht vor Beurkundung (§ 21 BeurkG): Aktualität, Briefvorlage, Beurkundung ohne Einsicht, Baulasten, Hinweisvermerke zu Genehmigungen (§ 18), Unbedenklichkeitsbescheinigung (§ 19), Vorkaufsrecht (§ 20)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/erklarungen-vorlesen-und-besondere-verfahren/online-beurkundung-identifizierung-und-gemischte-beurkundung-16c-16e-beurkg",
+       "titel": "Online-Beurkundung: Identifizierung und gemischte Beurkundung (§§ 16c, 16e BeurkG)",
+       "beschreibung": "Videobeurkundung: Identifizierung mit eID und Lichtbild (§ 16c BeurkG), elektronische Niederschrift, gemischte Beurkundung (§ 16e BeurkG), gemeinsame Verwahrung, UVZ-Nummer vor Signatur, Ort der Verhandlung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/erklarungen-vorlesen-und-besondere-verfahren/vorlesen-genehmigen-und-unterschreiben-der-niederschrift-13-beurkg",
+       "titel": "Vorlesen, Genehmigen und Unterschreiben der Niederschrift (§ 13 BeurkG)",
+       "beschreibung": "Vorlesen, Genehmigen, Unterschreiben (§ 13 BeurkG): Anwesenheit des Notars, Vorleser, gleichlautende Niederschriften, Schlussvermerk, Unterschrift der Beteiligten und des Notars, fehlende Unterschrift, Nachtrag."
+      }
+     ]
+    },
+    {
+     "slug": "grundlagen-und-beurkundungsarten",
+     "titel": "Grundlagen und Beurkundungsarten",
+     "beschreibung": "Öffentliche Urkunde und Beweiskraft, Beurkundungsbedürftigkeit, Folgen von Verstößen gegen Muss- und Soll-Vorschriften sowie die Beurkundungsarten Niederschrift, Vermerk, Bescheinigung und öffentliche Beglaubigung.",
+     "seiten_erwartet": 3,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/grundlagen-und-beurkundungsarten/beurkundungsarten-niederschrift-vermerk-bescheinigung-und-offentliche-beglaubigung",
+       "titel": "Beurkundungsarten: Niederschrift, Vermerk, Bescheinigung und öffentliche Beglaubigung",
+       "beschreibung": "Beurkundungsarten: Niederschrift (§§ 8, 36 BeurkG), Vermerk (§ 39 BeurkG), Bescheinigung (§ 21 BNotO), Notarbestätigung, Satzungsbescheinigung, öffentliche Beglaubigung vs. notarielle Beurkundung, Privaturkunde."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/grundlagen-und-beurkundungsarten/beurkundungsbedurftigkeit-und-verstosse-gegen-verfahrensvorschriften-muss-und-soll-vorschriften",
+       "titel": "Beurkundungsbedürftigkeit und Verstöße gegen Verfahrensvorschriften (Muss- und Soll-Vorschriften)",
+       "beschreibung": "Beurkundungspflicht (§ 311b BGB, § 1410 BGB, § 2276 BGB, § 15 GmbHG u. a.), formelle und materielle Unwirksamkeit, Muss- und Soll-Vorschriften des BeurkG, Verfahrensfehler, Amtshaftung § 19 BNotO, Subsidiarität."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/grundlagen-und-beurkundungsarten/offentliche-urkunde-begriff-beweiskraft-und-urkundspersonen",
+       "titel": "Öffentliche Urkunde: Begriff, Beweiskraft und Urkundspersonen",
+       "beschreibung": "Öffentliche Urkunde (§ 415 ZPO, § 418 ZPO): Beweiskraft, Geltung des BeurkG (§ 1 BeurkG), Notar als Urkundsperson (§§ 1, 20 BNotO), Konsularbeamte, Jugendamt, Betreuungsbehörde (§ 7 BtOG), Standesamt, Nachlassgericht."
+      }
+     ]
+    },
+    {
+     "slug": "mitwirkungsverbote-zustandigkeit-und-auslandsbezug",
+     "titel": "Mitwirkungsverbote, Zuständigkeit und Auslandsbezug",
+     "beschreibung": "Mitwirkungsverbote und Ausschließungsgründe nach dem BeurkG, örtliche Zuständigkeit mit Amtsbereich und Amtsbezirk sowie Urkunden mit Auslandsbezug.",
+     "seiten_erwartet": 3,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/mitwirkungsverbote-zustandigkeit-und-auslandsbezug/auslandsbezug-urkunden-fur-das-ausland-auslandische-urkunden-und-11a-bnoto",
+       "titel": "Auslandsbezug: Urkunden für das Ausland, ausländische Urkunden und § 11a BNotO",
+       "beschreibung": "Auslandsbezug: ausländischer Grundbesitz, Konsulat, Vollmacht in Landessprache, Legalisation, Apostille, ausländische Urkunden (§ 415 ZPO, § 29 GBO, § 438 ZPO), Zusammenarbeit mit ausländischen Notaren (§ 11a BNotO)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/mitwirkungsverbote-zustandigkeit-und-auslandsbezug/mitwirkungsverbote-und-ausschliessungsgrunde-3-6-7-27-beurkg",
+       "titel": "Mitwirkungsverbote und Ausschließungsgründe (§§ 3, 6, 7, 27 BeurkG)",
+       "beschreibung": "Mitwirkungsverbote (§ 3 BeurkG: Angehörige, Sozius, Vorbefassung, Beteiligung) und Ausschließungsgründe (§§ 6, 7, 27 BeurkG), Befangenheit (§ 16 BNotO), Notarvertreter, Mitarbeiter als Beteiligte."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/mitwirkungsverbote-zustandigkeit-und-auslandsbezug/ortliche-zustandigkeit-amtsbereich-amtsbezirk-und-ausland-10a-11-bnoto",
+       "titel": "Örtliche Zuständigkeit: Amtsbereich, Amtsbezirk und Ausland (§§ 10a, 11 BNotO)",
+       "beschreibung": "Amtsbereich (§ 10a BNotO) und Amtsbezirk (§ 11 BNotO): Auswärtsbeurkundung, Richtlinienempfehlungen BNotK, Anzeige, Videobeurkundung (§ 10a Abs. 3 BNotO), Wirksamkeit (§ 2 BeurkG), keine Beurkundung im Ausland."
+      }
+     ]
+    },
+    {
+     "slug": "niederschrift-und-beteiligte",
+     "titel": "Niederschrift und Beteiligte",
+     "beschreibung": "Inhalt der Niederschrift, Bezeichnung und Identifizierung der Beteiligten, Prüfung von Geschäftsfähigkeit, Verfügungsbefugnis und Vertretungsnachweisen sowie Beteiligte mit Beeinträchtigungen und sprachunkundige Beteiligte.",
+     "seiten_erwartet": 9,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/beteiligte-mit-hor-sprach-seh-oder-schreibbeeintrachtigung-22-26-beurkg",
+       "titel": "Beteiligte mit Hör-, Sprach-, Seh- oder Schreibbeeinträchtigung (§§ 22–26 BeurkG)",
+       "beschreibung": "Behinderte Beteiligte (§§ 22–26 BeurkG): Schreibzeuge, zweiter Notar, Gebärdensprachdolmetscher, Durchsicht statt Vorlesen bei Hörbehinderung, Verständigungsperson, Schreibunfähige, Handzeichen, Zeugenverbote."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/geschaftsfahigkeit-und-testierfahigkeit-prufung-und-vermerke-11-28-beurkg",
+       "titel": "Geschäftsfähigkeit und Testierfähigkeit: Prüfung und Vermerke (§§ 11, 28 BeurkG)",
+       "beschreibung": "Prüfung der Geschäftsfähigkeit (§ 11 BeurkG) und Testierfähigkeit (§ 28 BeurkG): Zweifel, Gespräch, ärztliches Attest, Zweifelsvermerk, schwer kranke Beteiligte, Krankenhaus, Ablehnung der Beurkundung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/identifizierung-der-beteiligten-10-beurkg-ausweise-ersatzmittel-und-fehlender-nachweis",
+       "titel": "Identifizierung der Beteiligten (§ 10 BeurkG): Ausweise, Ersatzmittel und fehlender Nachweis",
+       "beschreibung": "Identitätsfeststellung § 10 BeurkG: Personalausweis, Reisepass, EU/EWR, Passersatz, Aufenthaltsgestattung, Erkennungszeuge, Burka/Niqab, Beurkundung ohne Ausweis (§ 10 Abs. 3 S. 2 BeurkG), Identifizierung nach GwG."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/niederschrift-bezeichnung-der-beteiligten-nach-der-donot",
+       "titel": "Niederschrift: Bezeichnung der Beteiligten nach der DONot",
+       "beschreibung": "Bezeichnung der Beteiligten nach § 5 DONot: Vorname, Geburtsname, Geburtsdatum, Wohnort, Anschrift; Erleichterungen ab 01.06.2023 für Registerurkunden, Geschäftsanschrift, § 5a DONot (Schwärzen), juristische Personen."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/niederschrift-bezeichnung-des-notars-ort-und-tag-beteiligte-und-mitwirkende-personen",
+       "titel": "Niederschrift: Bezeichnung des Notars, Ort und Tag, Beteiligte und mitwirkende Personen",
+       "beschreibung": "Urkundseingang der Niederschrift: Bezeichnung des Notars (§ 9 Abs. 1 BeurkG), Notarvertreter, Notariatsverwalter, Ort und Tag (§ 9 Abs. 2 BeurkG), formell und materiell Beteiligte, Zeugen, Dolmetscher."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/sprachunkundige-beteiligte-und-dolmetscher-16-beurkg",
+       "titel": "Sprachunkundige Beteiligte und Dolmetscher (§ 16 BeurkG)",
+       "beschreibung": "Sprachunkundige Beteiligte (§ 16 BeurkG): Übersetzung, Dolmetscher, Vereidigung, schriftliche Übersetzung, hinreichende Sprachkunde (aktiv/passiv), Ehevertrag mit Ausländern, Vertreter und Nachgenehmigung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/verfugungsbefugnis-und-zustimmungserfordernisse-im-beurkundungsverfahren",
+       "titel": "Verfügungsbefugnis und Zustimmungserfordernisse im Beurkundungsverfahren",
+       "beschreibung": "Verfügungsbefugnis im Beurkundungsverfahren: Insolvenzvermerk, Testamentsvollstreckung, Nacherbe, Verwalterzustimmung, Ehegattenzustimmung § 1365 BGB (Gesamtvermögen, 85–90 %, subjektive Theorie), Güterstand."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/vertretungsnachweise-in-der-niederschrift-12-beurkg-organe-gesetzliche-vertreter-und-verwalter",
+       "titel": "Vertretungsnachweise in der Niederschrift (§ 12 BeurkG): Organe, gesetzliche Vertreter und Verwalter",
+       "beschreibung": "Vertretungsnachweis für Organe und Amtswalter: Registerbescheinigung § 21 BNotO (Aktualität 5–6 Wochen), GmbH & Co. KG, Betreuer, Testamentsvollstreckerzeugnis, WEG-Verwalter (§ 26 Abs. 4 WEG, § 24 Abs. 6 WEG)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/vertretungsnachweise-in-der-niederschrift-12-beurkg-vollmacht-und-vollmachtlose-vertretung",
+       "titel": "Vertretungsnachweise in der Niederschrift (§ 12 BeurkG): Vollmacht und vollmachtlose Vertretung",
+       "beschreibung": "Vollmacht in der Niederschrift (§ 12 BeurkG): Prüfung, mündliche Vollmacht, Form (§ 29 GBO, § 2 GmbHG, § 1945 BGB), § 181 BGB, Untervollmacht, § 800 ZPO, vollmachtlose Vertretung, Genehmigung § 177 BGB."
+      }
+     ]
+    },
+    {
+     "slug": "prufungs-und-belehrungspflichten",
+     "titel": "Prüfungs- und Belehrungspflichten",
+     "beschreibung": "Prüfungs-, Formulierungs- und Belehrungspflichten nach § 17 BeurkG, Betreuungspflicht, Verfahrensgestaltung bei Verbraucherverträgen nach § 17 Abs. 2a BeurkG sowie Richtlinienempfehlungen der BNotK.",
+     "seiten_erwartet": 5,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/prufungs-und-belehrungspflichten/belehrungspflicht-betreuungspflicht-und-schadensverhutung",
+       "titel": "Belehrungspflicht, Betreuungspflicht und Schadensverhütung",
+       "beschreibung": "Belehrungspflicht des Notars: rechtliche Tragweite, keine Steuerberatung, ungesicherte Vorleistung, sicherster Weg, doppelte Belehrung, Rechtsprechungsprognose; Betreuung (§ 24 BNotO), Schadensverhütung (§§ 1, 14 BNotO)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/prufungs-und-belehrungspflichten/prufungs-und-formulierungspflichten-nach-17-beurkg",
+       "titel": "Prüfungs- und Formulierungspflichten nach § 17 BeurkG",
+       "beschreibung": "§ 17 BeurkG: Willenserforschung, Sachverhaltsklärung, Warn-, Beweis- und Belehrungsfunktion der notariellen Form, Ablauf der Verhandlung, Rechtsbegriffe, Formulierung und Gliederung der Urkunde."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/prufungs-und-belehrungspflichten/richtlinienempfehlungen-der-bnotk-unparteilichkeit-bezugsurkunden-und-aufspaltung-in-angebot-und-annahme",
+       "titel": "Richtlinienempfehlungen der BNotK: Unparteilichkeit, Bezugsurkunden und Aufspaltung in Angebot und Annahme",
+       "beschreibung": "Richtlinienempfehlungen der BNotK: Unparteilichkeit, Mutterurkunde und Bezugsurkunde (§ 13c BeurkG), Baubeschreibung, Aufspaltung in Angebot und Annahme beim Bauträgervertrag, Annahmefrist."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/prufungs-und-belehrungspflichten/richtlinienempfehlungen-der-bnotk-vollmachtlose-vertreter-mitarbeiter-und-sammelbeurkundungen",
+       "titel": "Richtlinienempfehlungen der BNotK: vollmachtlose Vertreter, Mitarbeiter und Sammelbeurkundungen",
+       "beschreibung": "Richtlinienempfehlungen der BNotK: systematische Beurkundung mit vollmachtlosen Vertretern, Mitarbeitervollmacht für Finanzierungsgrundschulden, Vollzugsgeschäfte, Sammelbeurkundung (höchstens fünf)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/prufungs-und-belehrungspflichten/verfahrensgestaltung-nach-17-abs-2a-beurkg-schutzzweck-unternehmer-und-vertrauensperson",
+       "titel": "Verfahrensgestaltung nach § 17 Abs. 2a BeurkG: Schutzzweck, Unternehmer und Vertrauensperson",
+       "beschreibung": "§ 17 Abs. 2a BeurkG: Verbrauchervertrag, Unternehmer, Zwei-Wochen-Frist, Entwurfsversand durch den Notar, E-Mail, Bezugsurkunden, Amtsenthebung (§ 50 BNotO), Vertrauensperson, Notarmitarbeiter, Makler."
+      }
+     ]
+    },
+    {
+     "slug": "vermerkurkunden-abschriften-und-ausfertigungen",
+     "titel": "Vermerkurkunden, Abschriften und Ausfertigungen",
+     "beschreibung": "Tatsachenbeurkundung, eidesstattliche Versicherung und einfache Zeugnisse, Unterschriftsbeglaubigung, beglaubigte Abschrift und Ausfertigung, Eigenurkunde des Notars sowie Änderung und Berichtigung von Urkunden.",
+     "seiten_erwartet": 4,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vermerkurkunden-abschriften-und-ausfertigungen/beglaubigte-abschrift-ausfertigung-und-weitere-behandlung-der-urkunde-42-54-beurkg",
+       "titel": "Beglaubigte Abschrift, Ausfertigung und weitere Behandlung der Urkunde (§§ 42–54 BeurkG)",
+       "beschreibung": "Beglaubigte Abschrift (§ 42 BeurkG), Auszug, Ausfertigung (§§ 47–49, 51 BeurkG), vollstreckbare Ausfertigung, Rechtsbehelf § 54 BeurkG, Schnur und Siegel (§ 44), Aushändigung der Urschrift ins Ausland (§ 45a)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vermerkurkunden-abschriften-und-ausfertigungen/eigenurkunde-des-notars-anderungen-und-berichtigung-von-urkunden-44a-beurkg",
+       "titel": "Eigenurkunde des Notars, Änderungen und Berichtigung von Urkunden (§ 44a BeurkG)",
+       "beschreibung": "Eigenurkunde des Notars (Vollzugsvollmacht, Antragsrücknahme, Identitätserklärung, Doppelvollmacht), Änderungen vor Abschluss, Randvermerk, Berichtigung offensichtlicher Unrichtigkeiten (§ 44a BeurkG), Beglaubigung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vermerkurkunden-abschriften-und-ausfertigungen/tatsachenbeurkundung-eidesstattliche-versicherung-und-einfache-zeugnisse-36-39-beurkg",
+       "titel": "Tatsachenbeurkundung, eidesstattliche Versicherung und einfache Zeugnisse (§§ 36–39 BeurkG)",
+       "beschreibung": "Tatsachenbeurkundung (§§ 36, 37 BeurkG): Hauptversammlung, Verlosung, Vermögensverzeichnis; Eid und eidesstattliche Versicherung (§ 38 BeurkG, § 22 BNotO); Vermerk (§ 39 BeurkG), Lebensbescheinigung, Verwahrung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vermerkurkunden-abschriften-und-ausfertigungen/unterschriftsbeglaubigung-prufung-vermerk-und-identifizierung-40-beurkg",
+       "titel": "Unterschriftsbeglaubigung: Prüfung, Vermerk und Identifizierung (§ 40 BeurkG)",
+       "beschreibung": "Unterschriftsbeglaubigung (§ 40 BeurkG): Prüfungsumfang, Reichsbürger, Blankounterschrift, fremdsprachige Texte, Prüfvermerk Eintragungsfähigkeit (§ 378 FamFG, § 15 GBO), vollzogen/anerkannt, Identifizierung."
+      }
+     ]
+    },
+    {
+     "slug": "",
+     "titel": "(Seiten direkt im Kapitel)",
+     "beschreibung": "",
+     "seiten_erwartet": 7,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/ablehnungspflichten-und-ablehnungsrechte-4-beurkg-14-abs-2-bnoto",
+       "titel": "Ablehnungspflichten und Ablehnungsrechte (§ 4 BeurkG, § 14 Abs. 2 BNotO)",
+       "beschreibung": "Ablehnungspflicht (§ 4 BeurkG, § 14 Abs. 2 BNotO): unredliche Zwecke, Scheingeschäft, Kaufpreissprünge, GwGMeldV; Ablehnungsrechte (Befangenheit, Kostenvorschuss, fremde Sprache), Zweifelsvermerk, Abraten."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/notarbeschwerde-beschwerdefahige-massnahmen-und-untatigkeit-15-abs-2-bnoto",
+       "titel": "Notarbeschwerde: beschwerdefähige Maßnahmen und Untätigkeit (§ 15 Abs. 2 BNotO)",
+       "beschreibung": "Notarbeschwerde nach § 15 Abs. 2 BNotO: Beschwerde gegen Amtsverweigerung, Ankündigung einer Amtshandlung (V ZB 67/14), beendete Amtshandlung, Untätigkeitsbeschwerde, Dienstaufsichtsbeschwerde (§ 93 Abs. 1, § 67 Abs. 1 S. 2 BNotO)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/notarbeschwerde-verfahrensgang-nach-vorbescheid-und-haftungsfolgen",
+       "titel": "Notarbeschwerde: Verfahrensgang nach Vorbescheid und Haftungsfolgen",
+       "beschreibung": "Notarbeschwerde nach Vorbescheid: Abhilfe und Vorlage (§ 68 FamFG), Landgericht (§ 15 Abs. 2 BNotO), einstweilige Anordnung (§ 64 Abs. 3 FamFG), Rechtsbeschwerde (§ 70 FamFG), Bindung, Amtshaftung, Primärrechtsschutz."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/urkundsgewahrungspflicht-und-amtsverweigerung-15-abs-1-s-1-bnoto",
+       "titel": "Urkundsgewährungspflicht und Amtsverweigerung (§ 15 Abs. 1 S. 1 BNotO)",
+       "beschreibung": "Urkundsgewährungspflicht des Notars (§ 15 Abs. 1 S. 1 BNotO): Anspruch auf Beurkundung, ausreichender Grund für Ablehnung/Amtsverweigerung, §§ 14 Abs. 2, 20–22, 24 BNotO, nicht delegierbar, keine Form, Vorbescheid."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vollzugspflicht-des-notars-53-beurkg-voraussetzungen-teilvollzug-und-weisungen",
+       "titel": "Vollzugspflicht des Notars (§ 53 BeurkG): Voraussetzungen, Teilvollzug und Weisungen",
+       "beschreibung": "Vollzugspflicht nach § 53 BeurkG (Urkundenvollzug, Einreichung Grundbuchamt/Registergericht): Vollzugsreife, Teilvollzug (§ 139 BGB), gemeinsame und einseitige Weisungen, Widerspruch, Evidenz, Vollmachtsmissbrauch (V ZB 119/18)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vorbescheid-funktion-inhalt-bekanntgabe-und-fristen",
+       "titel": "Vorbescheid: Funktion, Inhalt, Bekanntgabe und Fristen",
+       "beschreibung": "Notarieller Vorbescheid: Ankündigung oder Verweigerung einer Amtshandlung, Inhalt (Sachverhalt, Begründung, Rechtsbehelfsbelehrung), Zustellung §§ 166-195 ZPO, 14-Tage-Frist, Aussetzung der Vollzugspflicht, Lorenz, Heinze."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vorbescheid-pflicht-bei-widerspruch-gegen-den-urkundenvollzug-bgh-v-zb-3724",
+       "titel": "Vorbescheid: Pflicht bei Widerspruch gegen den Urkundenvollzug (BGH, V ZB 37/24)",
+       "beschreibung": "Pflicht zum Vorbescheid bei Widerspruch gegen den Urkundenvollzug (BGH 05.06.2025, V ZB 37/24): Zwei-Wochen-Frist, einstweilige Verfügung, einstweilige Anordnung (§ 64 Abs. 3 FamFG), Evidenzmaßstab, Notarbeschwerde."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+   "titel": "Dienstbarkeiten, Nießbrauch, Reallast und Baulast",
+   "beschreibung": "Nutzungs- und Leistungsrechte am Grundstück: Grunddienstbarkeit, beschränkte persönliche Dienstbarkeit und Wohnungsrecht, Nießbrauch, Reallast und Leibgeding sowie die öffentlich-rechtliche Baulast.",
+   "seiten_erwartet": 16,
+   "abschnitte": [
+    {
+     "slug": "baulast",
+     "titel": "Baulast",
+     "beschreibung": "Baulast als öffentlich-rechtliche Belastung, Baulastenverzeichnis, Verhältnis zur Grunddienstbarkeit und Bedeutung beim Grundstückskauf.",
+     "seiten_erwartet": 1,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/baulast/baulast-begriff-baulastenverzeichnis-und-bedeutung-beim-grundstuckskauf",
+       "titel": "Baulast: Begriff, Baulastenverzeichnis und Bedeutung beim Grundstückskauf",
+       "beschreibung": "Baulast: öffentlich-rechtliche Verpflichtung gegenüber der Baubehörde, Grenzabstand, Baulastenverzeichnis, ergänzende Grunddienstbarkeit, kein Rechtsmangel (§ 435 BGB), Sachmangel (§ 434 BGB), Baulast im Grundstückskaufvertrag."
+      }
+     ]
+    },
+    {
+     "slug": "dienstbarkeiten-und-wohnungsrecht",
+     "titel": "Dienstbarkeiten und Wohnungsrecht",
+     "beschreibung": "Arten, Bestellung und Eintragung von Dienstbarkeiten, Grunddienstbarkeit, beschränkte persönliche Dienstbarkeit und Wohnungsrecht nach § 1093 BGB mit Überlassung, Lasten und Erlöschen.",
+     "seiten_erwartet": 8,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/altrechtliche-grunddienstbarkeit-fortbestand-beweislast-erloschen-und-grundbuchberichtigung",
+       "titel": "Altrechtliche Grunddienstbarkeit: Fortbestand, Beweislast, Erlöschen und Grundbuchberichtigung",
+       "beschreibung": "Altrechtliche Grunddienstbarkeit (Art. 184, 187, 189 EGBGB): Fortbestand ohne Eintragung, Beweislast, Erlöschen durch Nichtgebrauch (Art. 706 BLR), gutgläubig lastenfreier Erwerb (§ 31 AGBGB BW), Berichtigung § 894 BGB."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/beschrankte-personliche-dienstbarkeit",
+       "titel": "Beschränkte persönliche Dienstbarkeit",
+       "beschreibung": "Beschränkte persönliche Dienstbarkeit (§§ 1090–1092 BGB): Recht einer bestimmten Person, Leitungsrecht für Versorgungsträger, Unvererblichkeit, Übertragbarkeit (§ 1092 BGB), Gesamtberechtigung (§ 428 BGB), Erlöschen, Löschung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/dienstbarkeiten-arten-bestellung-und-eintragung",
+       "titel": "Dienstbarkeiten: Arten, Bestellung und Eintragung",
+       "beschreibung": "Dienstbarkeiten (§§ 1018 ff. BGB): Grunddienstbarkeit, Nießbrauch, beschränkte persönliche Dienstbarkeit; Bestellung, Eintragungsbewilligung (§§ 19, 29 GBO), Ausübungsbereich, Lageplan, Wegerecht, Leitungsrecht, Eintragung in Abteilung II."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/grunddienstbarkeit",
+       "titel": "Grunddienstbarkeit",
+       "beschreibung": "Grunddienstbarkeit (§ 1018 BGB): herrschendes und dienendes Grundstück, Wegerecht, Leitungsrecht, Bebauungsbeschränkung, Ausübungsbereich, Herrschvermerk (§ 9 GBO), Vorteil (§ 1019 BGB), Beseitigung (§ 1027 BGB), Erlöschen."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/grunddienstbarkeit-ausubungsstelle-bestimmtheit-verlegung-und-ausubungsregelung",
+       "titel": "Grunddienstbarkeit: Ausübungsstelle – Bestimmtheit, Verlegung und Ausübungsregelung",
+       "beschreibung": "Ausübungsstelle einer Grunddienstbarkeit: Bestimmtheit, Wegerecht, Fahrrecht und Rangieren, Verlegung nach § 1023 BGB, Eintragung der Verlegung, Ausübungsregelung nach § 745 Abs. 2 BGB, Ausübungsbereich."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/grunddienstbarkeit-beeintrachtigung-durch-anlagen-verjahrung-und-erloschen-1028-bgb",
+       "titel": "Grunddienstbarkeit: Beeinträchtigung durch Anlagen, Verjährung und Erlöschen (§ 1028 BGB)",
+       "beschreibung": "Grunddienstbarkeit und Anlage auf dem belasteten Grundstück (§ 1028 BGB): Verjährung des Beseitigungsanspruchs, 30 Jahre analog § 197 Abs. 1 Nr. 2 BGB oder drei Jahre (§§ 195, 199 BGB), Erlöschen des Wegerechts."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/wohnungsrecht-inhalt-abgrenzung-und-alternativen",
+       "titel": "Wohnungsrecht: Inhalt, Abgrenzung und Alternativen",
+       "beschreibung": "Wohnungsrecht (§ 1093 BGB): Wohnrecht unter Ausschluss des Eigentümers, Abgrenzung zum Mitbenutzungsrecht (§ 1090 BGB), Bestimmtheit der Räume, Mitbenutzung (§ 1093 Abs. 3 BGB), Altenteil (§ 49 GBO), Wohnungsreallast, Dauerwohnrecht."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/wohnungsrecht-uberlassung-lasten-und-erloschen",
+       "titel": "Wohnungsrecht: Überlassung, Lasten und Erlöschen",
+       "beschreibung": "Wohnungsrecht (§ 1093 BGB): Aufnahme von Familie und Pflegepersonen, Vermietung nur mit Gestattung (§ 1092 Abs. 1 S. 2 BGB), Lasten, Erlöschen, Pflegeheim, Löschung nach § 22 oder § 23 GBO je nach dinglichem Inhalt, Zwangsversteigerung."
+      }
+     ]
+    },
+    {
+     "slug": "niessbrauch",
+     "titel": "Nießbrauch",
+     "beschreibung": "Arten, Bestellung und Erlöschen des Nießbrauchs, Rechte und Pflichten von Nießbraucher und Eigentümer, abweichende Vereinbarungen sowie Nießbrauch in Zwangsversteigerung, Zwangsverwaltung und Insolvenz.",
+     "seiten_erwartet": 5,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/niessbrauch/niessbrauch-abweichende-vereinbarungen-entgelt-netto-und-bruttoniessbrauch",
+       "titel": "Nießbrauch: abweichende Vereinbarungen, Entgelt, Netto- und Bruttonießbrauch",
+       "beschreibung": "Nießbrauch: Typenzwang, zwingende und abdingbare Vorschriften (§§ 1030 ff. BGB), dingliche Wirkung abweichender Vereinbarungen, entgeltlicher und unentgeltlicher Nießbrauch, Netto- und Bruttonießbrauch, Lastenverteilung, Steuer."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/niessbrauch/niessbrauch-arten",
+       "titel": "Nießbrauch: Arten",
+       "beschreibung": "Nießbrauch: Vorbehaltsnießbrauch (vorweggenommene Erbfolge, Übergabe), Zuwendungs-, Vermächtnis- und Sicherungsnießbrauch; Schenkung an Minderjährige, Ergänzungspfleger, § 1056 BGB, Vermächtnis (§ 2147 BGB), Nießbrauch am Nachlass."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/niessbrauch/niessbrauch-bestellung-berechtigte-belastungsgegenstand-und-erloschen",
+       "titel": "Nießbrauch: Bestellung, Berechtigte, Belastungsgegenstand und Erlöschen",
+       "beschreibung": "Nießbrauch an Grundstücken: Bestellung (§ 873 BGB), Besitz (§ 1036 BGB), Berechtigte (§ 428 BGB), Bruchteils- und Quotennießbrauch, Unübertragbarkeit (§§ 1059, 1061 BGB), Erlöschen, Löschungserleichterung (§ 23 Abs. 2 GBO), §§ 1059a–1059e BGB."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/niessbrauch/niessbrauch-rechte-und-pflichten-von-niessbraucher-und-eigentumer",
+       "titel": "Nießbrauch: Rechte und Pflichten von Nießbraucher und Eigentümer",
+       "beschreibung": "Nießbrauch: Nutzungsrecht (§§ 1030, 1036 BGB), Vermietung, Überlassung (§ 1059 S. 2 BGB), Pfändung, Erhaltung, Versicherung (§ 1045 BGB), Lasten (§ 1047 BGB), Grundsteuer, Zinsen, Hausgeld, Erschließungsbeiträge, Pflichten des Eigentümers."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/niessbrauch/niessbrauch-zwangsversteigerung-zwangsverwaltung-und-insolvenz",
+       "titel": "Nießbrauch: Zwangsversteigerung, Zwangsverwaltung und Insolvenz",
+       "beschreibung": "Nießbrauch in der Zwangsversteigerung (geringstes Gebot, Erlöschen durch Zuschlag, Geldrente; §§ 44, 52, 91, 92, 121 ZVG), Zwangsverwaltung (Duldungstitel, § 766 ZPO), Insolvenz (§ 47 InsO, § 857 Abs. 3 ZPO, §§ 35, 36 InsO)."
+      }
+     ]
+    },
+    {
+     "slug": "reallast-und-leibgeding",
+     "titel": "Reallast und Leibgeding",
+     "beschreibung": "Begriff, Inhalt und Bestimmtheit der Reallast, Anwendungsfälle einschließlich Leibgeding, Bestellung, Ansprüche und Erlöschen.",
+     "seiten_erwartet": 2,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/reallast-und-leibgeding/reallast-anwendungsfalle-leibgeding-bestellung-anspruche-und-erloschen",
+       "titel": "Reallast: Anwendungsfälle, Leibgeding, Bestellung, Ansprüche und Erlöschen",
+       "beschreibung": "Reallast in der Praxis: Altenteil, Pflegeverpflichtung, Rente, wertgesicherte Reallast, Erbbauzins; Leibgeding (§ 49 GBO); Bestellung (§ 873 BGB), Berechtigte, Eintragung, dingliche und persönliche Haftung (§ 1108 BGB), Erlöschen (§ 875 BGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/reallast-und-leibgeding/reallast-begriff-inhalt-und-bestimmtheit",
+       "titel": "Reallast: Begriff, Inhalt und Bestimmtheit",
+       "beschreibung": "Reallast (§§ 1105–1112 BGB): wiederkehrende Leistungen, Stammrecht und Einzelleistungen, Abgrenzung zu Dienstbarkeit und Grundpfandrecht, Vollstreckung (§§ 1107, 1147 BGB), § 1108 BGB, Bestimmtheit, Wertsicherung (§ 1105 Abs. 1 S. 2 BGB)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "elektronischer-rechtsverkehr",
+   "titel": "Elektronischer Rechtsverkehr",
+   "beschreibung": "Rechtsgrundlagen und Infrastruktur des elektronischen Rechtsverkehrs der Notare, elektronische Urkunde, Online- und Präsenzbeurkundung sowie Einreichung bei Registern und Gerichten mit Zugang und Zustellung.",
+   "seiten_erwartet": 22,
+   "abschnitte": [
+    {
+     "slug": "elektronische-urkunde-und-beurkundung",
+     "titel": "Elektronische Urkunde und Beurkundung",
+     "beschreibung": "Arten und Errichtung elektronischer Urkunden, Online-Beurkundung und Online-Beglaubigung per Videokommunikation sowie elektronische Präsenzbeurkundung.",
+     "seiten_erwartet": 9,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-prasenzbeurkundung",
+       "titel": "Elektronische Präsenzbeurkundung",
+       "beschreibung": "Elektronische Präsenzbeurkundung (ePb, eBeurkundung): Verfügung von Todes wegen, Vorlesen vom Bildschirm, Unterschriften-Pad, qeS, Urschrift § 45 Abs. 3 BeurkG, UVZ-Nummer, Anlagen § 14 BeurkG, Vollmacht, Schriftform, Erbausschlagung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-prasenzbeurkundung-signatursystem-sicherheit-und-ablauf",
+       "titel": "Elektronische Präsenzbeurkundung: Signatursystem, Sicherheit und Ablauf",
+       "beschreibung": "ePb-Technik: Signatursystem eBeurkundung (§ 13b BeurkG, § 78 BNotO), Unterschriften-Pad, Meldepflicht § 34 BNotO, Zugangsschutz XNP, Ablauf bis UVZ, Dolmetscher, Schreibzeuge, Auswärtsbeurkundung, digitales Siegelbild (§ 14a DONot)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-unterschriftsbeglaubigung-und-schriftform-40b-beurkg",
+       "titel": "Elektronische Unterschriftsbeglaubigung und Schriftform (§ 40b BeurkG)",
+       "beschreibung": "Elektronische Unterschriftsbeglaubigung (eUB, Pad-Unterschrift, § 40b BeurkG) mit und ohne Entwurf, kein Anerkenntnis, kein Einscannen; Schriftform (§§ 126, 129 BGB) für Gesellschafterliste, Übernehmerliste, Bilanz, Sachgründungsbericht."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-urkunde-arten-und-errichtung",
+       "titel": "Elektronische Urkunde: Arten und Errichtung",
+       "beschreibung": "Elektronische Urkunde des Notars: einfaches elektronisches Zeugnis (§ 39a BeurkG), elektronische Niederschrift (§ 8 Abs. 2, § 16b BeurkG), elektronische Urkundensammlung (§ 56 BeurkG), qualifizierte elektronische Signatur (qeS)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-urkunden-berichtigung-nachtrag-und-nachtragliche-identifizierung",
+       "titel": "Elektronische Urkunden: Berichtigung, Nachtrag und nachträgliche Identifizierung",
+       "beschreibung": "Berichtigung elektronischer Urkunden (Nachtragsvermerk, § 44a BeurkG), Form des Berichtigungsvermerks, Nachtragsurkunde elektronisch oder auf Papier (§ 13c BeurkG), Verweise im UVZ, nachträgliche Identifizierung eines Beteiligten."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-urkunden-verwahrung-und-herausgabe-45b-beurkg",
+       "titel": "Elektronische Urkunden: Verwahrung und Herausgabe (§ 45b BeurkG)",
+       "beschreibung": "Verwahrung und Aushändigung elektronischer Urkunden (§ 45b BeurkG): elektronische Niederschrift, elektronische Vermerkurkunde mit/ohne Verwahrung, beglaubigter oder einfacher Ausdruck zur Urkundensammlung (§ 31 NotAktVV), Vervielfältigungen."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-urschrift-entstehung-signaturprufung-und-ausfertigungen",
+       "titel": "Elektronische Urschrift: Entstehung, Signaturprüfung und Ausfertigungen",
+       "beschreibung": "Elektronische Urschrift (§ 45 Abs. 3 BeurkG): Entstehung mit Eintragung im UVZ, Signaturprüfung vor Ausfertigung und beglaubigter Abschrift (§§ 39a, 42 BeurkG), Reinschrift, Herausgabe nach dem Termin, Ersetzung (§ 46 BeurkG)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/online-beurkundung-und-online-beglaubigung-videokommunikation",
+       "titel": "Online-Beurkundung und Online-Beglaubigung (Videokommunikation)",
+       "beschreibung": "Online-Beurkundung und Videobeglaubigung (Online-Gründung einer GmbH, Videokommunikationssystem der BNotK) nach §§ 16a ff., 40a BeurkG: zugelassene Fälle, Amtsbereich § 10a Abs. 3 BNotO, Auslagen KV 32016 GNotKG."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/vollmacht-elektronische-errichtung-nachweis-und-rechtsschein-172-bgb",
+       "titel": "Vollmacht: elektronische Errichtung, Nachweis und Rechtsschein (§ 172 BGB)",
+       "beschreibung": "Vollmacht bei elektronischer Beurkundung: nur als Niederschrift, keine Ausfertigung von Unterschriftsbeglaubigung (§§ 47, 49 BeurkG), Rechtsschein § 172 BGB, Vollmachtsnachweis Urschrift/Ausfertigung, Vermerk im UVZ (§ 15 NotAktVV)."
+      }
+     ]
+    },
+    {
+     "slug": "grundlagen-und-infrastruktur",
+     "titel": "Grundlagen und Infrastruktur",
+     "beschreibung": "Begriff, Postfächer und Schutzziele, Rechtsgrundlagen in Bund und Baden-Württemberg, Notarnetz, XNP und XNotar sowie Strukturdaten (XML).",
+     "seiten_erwartet": 8,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronische-signatur-hashwert-schlusselpaar-und-signaturstufen-nach-eidas",
+       "titel": "Elektronische Signatur: Hashwert, Schlüsselpaar und Signaturstufen nach eIDAS",
+       "beschreibung": "Elektronische Signatur: Hashwert (Integrität), privater und öffentlicher Schlüssel, RSA, Signaturprüfung; eIDAS: einfache, fortgeschrittene und qualifizierte Signatur (qeS, Art. 25, 26 eIDAS), Vertrauensdiensteanbieter (QTSP)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronischer-rechtsverkehr-begriff-postfacher-und-schutzziele",
+       "titel": "Elektronischer Rechtsverkehr: Begriff, Postfächer und Schutzziele",
+       "beschreibung": "Elektronischer Rechtsverkehr (ERV, ELRV): EGVP, Postfächer beA, beN, beBPo, eBO, beSt; Schutzziele Integrität, Authentizität (SAFE-ID), Vertraulichkeit (OSCI-Verschlüsselung); Karte und Passwort."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronischer-rechtsverkehr-notarnetz-xnp-und-xnotar",
+       "titel": "Elektronischer Rechtsverkehr: Notarnetz, XNP und XNotar",
+       "beschreibung": "Technische Anbindung des Notars an den ERV: Notarnetz der BNotK (Registerbox, Notarnetzbox), beN, Urkundenarchiv, ZTR, ZVR, XNP-Basisanwendung, XNotar-Module, eNoVA (Verwaltungsaustausch seit 01.10.2026)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronischer-rechtsverkehr-rechtsgrundlagen-bund-und-baden-wurttemberg",
+       "titel": "Elektronischer Rechtsverkehr: Rechtsgrundlagen (Bund und Baden-Württemberg)",
+       "beschreibung": "Rechtsgrundlagen des ERV: Zuständigkeit Bund und Länder, ERVV, § 14 Abs. 2 FamFG, ERV-Bekanntmachung; Baden-Württemberg: ERGA-VO (Grundbuch), LERVVO (Handelsregister), ERV-Bekanntmachung des Justizministeriums."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronischer-rechtsverkehr-strukturdaten-xml-und-xml-gebuhr",
+       "titel": "Elektronischer Rechtsverkehr: Strukturdaten (XML) und XML-Gebühr",
+       "beschreibung": "Strukturdaten (XML-Datensatz) für Grundbuchamt und Registergericht: Funktion und rechtliche Bedeutung; XML-Gebühr nach KV 22114, 22115, 22125 GNotKG, keine Vollzugsgebühr (§ 93 GNotKG), Gebührensätze, Höchstbeträge."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-ersatzeinreichung-bei-storungen-behorden-und-gerichte-finanzamt-elster",
+       "titel": "eNoVA: Ersatzeinreichung bei Störungen – Behörden und Gerichte, Finanzamt (ELSTER)",
+       "beschreibung": "Ersatzeinreichung bei Störung im eNoVA-Verfahren: Papier an Gerichte/Behörden (§§ 16–20 ERVV) ohne Glaubhaftmachung; Finanzamt/ELSTER kein Papier, Fristverlängerung § 18 Abs. 3 S. 3 GrEStG"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-genehmigungen-vorkaufsrechtszeugnisse-und-gutachterausschuss",
+       "titel": "eNoVA: Genehmigungen, Vorkaufsrechtszeugnisse und Gutachterausschuss",
+       "beschreibung": "eNoVA bei Behörden: Vorkaufsrechtszeugnis, Negativattest § 213a BauGB, GrdstVG, GVO, ASVG Baden-Württemberg, beBPo, Empfängerliste, Gutachterausschuss Datensatz § 19 Abs. 4 ERVV, § 195 BauGB"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-zeitplan-grundsatze-und-technische-voraussetzungen",
+       "titel": "eNoVA: Zeitplan, Grundsätze und technische Voraussetzungen",
+       "beschreibung": "eNoVA (elektronischer Notar-Verwaltungs-Austausch): Zeitplan 01.10.2026, 01.01.2027, 01.01.2028, Datensatz ist die Anzeige (§ 18 GrEStG, § 93c AO), ELSTER-Zertifikat, XNotar-Modul, eNoVA-direkt"
+      }
+     ]
+    },
+    {
+     "slug": "register-und-gerichte",
+     "titel": "Register und Gerichte",
+     "beschreibung": "Elektronische Anmeldung zu Handels- und weiteren Registern, Anträge nach § 14b FamFG, Testaments- und Vorsorgeregister, Schriftformersatz mit qeS und beN sowie Zugang, Zustellung und elektronisches Empfangsbekenntnis.",
+     "seiten_erwartet": 5,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/register-und-gerichte/elektronischer-rechtsverkehr-antrage-an-gerichte-nach-14b-famfg",
+       "titel": "Elektronischer Rechtsverkehr: Anträge an Gerichte nach § 14b FamFG",
+       "beschreibung": "Elektronische Einreichung bei Nachlass- und Familiengericht (§ 14b FamFG): Wirksamkeitsvoraussetzung, Erbausschlagung durch Notar (str.), Adoption, Erbscheinsantrag, Genehmigung, Ersatzeinreichung; Ausnahmen Grundbuch, Register, Apostille."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/register-und-gerichte/elektronischer-rechtsverkehr-handelsregister-und-weitere-register-anmeldung-und-einreichung",
+       "titel": "Elektronischer Rechtsverkehr: Handelsregister und weitere Register – Anmeldung und Einreichung",
+       "beschreibung": "Elektronische Handelsregisteranmeldung (§ 12 HGB): öffentliche Beglaubigung, Videobeglaubigung, Registervollmacht, Vollmachtsbescheinigung (§ 21 Abs. 3 BNotO), OCR, § 39a BeurkG; Genossenschafts-, Partnerschafts-, Gesellschafts-, Vereinsregister."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/register-und-gerichte/elektronischer-rechtsverkehr-schriftformersatz-qes-und-sicherer-ubermittlungsweg",
+       "titel": "Elektronischer Rechtsverkehr: Schriftformersatz, qeS und sicherer Übermittlungsweg",
+       "beschreibung": "Schriftformersatz § 130a ZPO: qualifizierte elektronische Signatur (qeS) oder einfache Signatur und sicherer Übermittlungsweg, beN (Notarpostfach), elektronische Beglaubigung, Signaturprüfprotokoll, elektronische Einreichung"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/register-und-gerichte/elektronischer-rechtsverkehr-zentrales-testamentsregister-und-zentrales-vorsorgeregister",
+       "titel": "Elektronischer Rechtsverkehr: Zentrales Testamentsregister und Zentrales Vorsorgeregister",
+       "beschreibung": "Zentrales Testamentsregister (ZTR): Registrierung, Einsicht (§ 78f BNotO), Kosten; Zentrales Vorsorgeregister (ZVR): Vorsorgevollmacht, § 20a BeurkG, § 78b BNotO, Hochladen elektronischer Abschriften ab Oktober 2026."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/register-und-gerichte/elektronischer-rechtsverkehr-zugang-zustellung-und-elektronisches-empfangsbekenntnis",
+       "titel": "Elektronischer Rechtsverkehr: Zugang, Zustellung und elektronisches Empfangsbekenntnis",
+       "beschreibung": "Zugang und Fristwahrung im elektronischen Rechtsverkehr, Eingangsprotokoll, Zustellung über beN an den Notar, elektronisches Empfangsbekenntnis eEB (§ 173 ZPO), Zustellungsnachweis"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "erbrecht",
+   "titel": "Erbrecht",
+   "beschreibung": "Gesetzliche Erbfolge und Erbrecht von Ehegatte, Lebenspartner und Staat, Testament, gemeinschaftliches Testament und Erbvertrag, Annahme und Ausschlagung, Erbschein sowie Pflichtteil und Verzicht.",
+   "seiten_erwartet": 34,
+   "abschnitte": [
+    {
+     "slug": "annahme-ausschlagung-und-erbschein",
+     "titel": "Annahme, Ausschlagung und Erbschein",
+     "beschreibung": "Annahme und Ausschlagung der Erbschaft sowie Erbschein: Funktion und Erforderlichkeit, Inhalt, Arten und Vermerke, Antrag, Antragsberechtigung, Angaben und Nachweise.",
+     "seiten_erwartet": 5,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/annahme-ausschlagung-und-erbschein/erbschaft-annahme-und-ausschlagung",
+       "titel": "Erbschaft: Annahme und Ausschlagung",
+       "beschreibung": "Annahme und Ausschlagung der Erbschaft (Erbe ausschlagen): Frist sechs Wochen/sechs Monate (§ 1944 BGB), Nachlassgericht, Vollmacht und Vertretungsbescheinigung (§ 1945 Abs. 3 BGB), elektronische Ausschlagung, Rückwirkung (§ 1953 BGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/annahme-ausschlagung-und-erbschein/erbschein-angaben-im-antrag-und-nachweise",
+       "titel": "Erbschein: Angaben im Antrag und Nachweise",
+       "beschreibung": "Erbscheinsantrag: Pflichtangaben (Art des Erbscheins, Berufungsgrund, Erbquoten, § 352 Abs. 1 FamFG, § 352a FamFG), Nachweis durch öffentliche Urkunden und eidesstattliche Versicherung (§ 352 Abs. 3 FamFG)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/annahme-ausschlagung-und-erbschein/erbschein-antrag-und-antragsberechtigung",
+       "titel": "Erbschein: Antrag und Antragsberechtigung",
+       "beschreibung": "Erbscheinsantrag: Antragserfordernis (§ 2353 BGB), Formfreiheit (§ 23 FamFG), eidesstattliche Versicherung beim Notar (§ 352 Abs. 3 FamFG), antragsberechtigte Personen (Erbe, Miterbe, Vorerbe, Testamentsvollstrecker, Gläubiger)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/annahme-ausschlagung-und-erbschein/erbschein-funktion-und-erforderlichkeit-des-erbnachweises",
+       "titel": "Erbschein: Funktion und Erforderlichkeit des Erbnachweises",
+       "beschreibung": "Erbschein als amtliches Zeugnis: Vermutung (§ 2365 BGB), öffentlicher Glaube (§§ 2366, 2367 BGB); Erbnachweis ohne Erbschein durch notarielles Testament mit Eröffnungsniederschrift (§ 35 GBO), Banken, Lebensversicherung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/annahme-ausschlagung-und-erbschein/erbschein-inhalt-arten-und-vermerke",
+       "titel": "Erbschein: Inhalt, Arten und Vermerke",
+       "beschreibung": "Inhalt des Erbscheins (§ 2353 BGB, § 352b FamFG), Arten: Allein-, Teil-, gemeinschaftlicher, Gruppen-, Doppel-, Fremdrechts- und Sammelerbschein; Nacherbenvermerk, Testamentsvollstreckervermerk, Erbschein für Miterben."
+      }
+     ]
+    },
+    {
+     "slug": "grundlagen-und-gesetzliche-erbfolge",
+     "titel": "Grundlagen und gesetzliche Erbfolge",
+     "beschreibung": "Gesamtrechtsnachfolge, Tod und Todeserklärung, Testierfreiheit, Sonderrechtsnachfolge außerhalb des Erbrechts, Ordnungen und Stämme sowie gesetzliches Erbrecht von Ehegatte, Lebenspartner und Staat.",
+     "seiten_erwartet": 10,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/erbrecht-grundbegriffe-und-gesamtrechtsnachfolge",
+       "titel": "Erbrecht: Grundbegriffe und Gesamtrechtsnachfolge",
+       "beschreibung": "Erbrecht Grundbegriffe: Erbfall, Erblasser, Erbfähigkeit (§ 1923 BGB, nasciturus), Erbe, Erbschaft, Vererblichkeit, Gesamtrechtsnachfolge (§ 1922 BGB), Erbengemeinschaft, Erbteil, Vermächtnis statt Einzelzuwendung, Nachlassvertrag § 311b BGB."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/erbrecht-grundprinzipien-testierfreiheit-und-ihre-schranken",
+       "titel": "Erbrecht: Grundprinzipien, Testierfreiheit und ihre Schranken",
+       "beschreibung": "Grundprinzipien des Erbrechts: Familienerbrecht, Testierfreiheit (Art. 14 GG), Typenzwang, Formzwang, Höchstpersönlichkeit (§ 2065 BGB), Schranken (Pflichtteil, §§ 134, 138 BGB, § 30 BtOG), Nichtigkeit nach § 2302 BGB."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/erbrecht-tod-todeserklarung-und-gleichzeitigkeitsvermutung",
+       "titel": "Erbrecht: Tod, Todeserklärung und Gleichzeitigkeitsvermutung",
+       "beschreibung": "Todeszeitpunkt und Nachweis (Sterbeurkunde, PStG), Todeserklärung und Feststellung der Todeszeit nach VerschG, widerlegbare Vermutung, gleichzeitiges Versterben (§ 11 VerschG) z. B. bei Unfall beider Ehegatten."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/gesetzliche-erbfolge-erben-der-ersten-bis-vierten-ordnung",
+       "titel": "Gesetzliche Erbfolge: Erben der ersten bis vierten Ordnung",
+       "beschreibung": "Gesetzliche Erben erster bis vierter Ordnung: Kinder und Enkel, Adoption (Volljährigenadoption § 1770 BGB), nichteheliche Kinder, Eltern und Geschwister (§ 1925 BGB), Großeltern, Onkel und Tanten (§ 1926 BGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/gesetzliche-erbfolge-ordnungen-stamme-und-gradsystem",
+       "titel": "Gesetzliche Erbfolge: Ordnungen, Stämme und Gradsystem",
+       "beschreibung": "Gesetzliche Erbfolge ohne Testament: Verwandtschaft (§ 1589 BGB), Ordnungen/Parentelsystem (§§ 1924–1930 BGB), Erbfolge nach Stämmen, Repräsentations- und Eintrittsprinzip, Gradsystem ab vierter Ordnung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/gesetzliches-erbrecht-des-ehegatten-guterstand-1371-1931-abs-4-bgb",
+       "titel": "Gesetzliches Erbrecht des Ehegatten: Güterstand (§ 1371, § 1931 Abs. 4 BGB)",
+       "beschreibung": "Ehegattenerbrecht und Güterstand: Zugewinngemeinschaft (§ 1371 BGB, Erhöhungsviertel, großer Erbteil), Ausschlagung mit Zugewinnausgleich und kleinem Pflichtteil, Gütertrennung (§ 1931 Abs. 4 BGB), Gütergemeinschaft."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/gesetzliches-erbrecht-des-ehegatten-voraussetzungen-und-quoten",
+       "titel": "Gesetzliches Erbrecht des Ehegatten: Voraussetzungen und Quoten",
+       "beschreibung": "Ehegattenerbrecht § 1931 BGB: Erbquote des Ehegatten neben Kindern, Eltern, Großeltern; Voraus (§ 1932 BGB); Wegfall bei Scheidungsantrag (§ 1933 BGB), Getrenntleben unerheblich; Beweislast."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/gesetzliches-erbrecht-des-lebenspartners",
+       "titel": "Gesetzliches Erbrecht des Lebenspartners",
+       "beschreibung": "Erbrecht des eingetragenen Lebenspartners nach § 10 LPartG: Voraussetzungen, Ausschluss bei Aufhebungsantrag, Erbquoten, Voraus, Güterstand (§ 6 LPartG, § 1371 BGB), Gütertrennung, Umwandlung in Ehe (§ 20a LPartG)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/gesetzliches-erbrecht-des-staates",
+       "titel": "Gesetzliches Erbrecht des Staates",
+       "beschreibung": "Staatserbrecht/Fiskuserbrecht (§ 1936 BGB): Staat als gesetzlicher Erbe, wenn keine Erben vorhanden; kein Verzicht, keine Ausschlagung; Haftung auf Nachlass beschränkt; Land des letzten Wohnsitzes, sonst Bund."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/rechtsnachfolge-ausserhalb-des-erbrechts-hofe-miete-versorgung-gesellschaftsanteile",
+       "titel": "Rechtsnachfolge außerhalb des Erbrechts: Höfe, Miete, Versorgung, Gesellschaftsanteile",
+       "beschreibung": "Sonderrechtsnachfolge außerhalb des Erbrechts: Höfeordnung, Hofgüterrecht Baden-Württemberg, Mieter-Tod (§§ 563 ff. BGB), Hinterbliebenenversorgung, Konzessionen, Totenfürsorge, Organspende, GmbH- und Personengesellschaftsanteile."
+      }
+     ]
+    },
+    {
+     "slug": "pflichtteil-und-verzicht",
+     "titel": "Pflichtteil und Verzicht",
+     "beschreibung": "Pflichtberechtigte, Pflichtteilsschuldner und Quote, Pflichtteilsergänzung sowie Erb- und Pflichtteilsverzicht im Übergabevertrag.",
+     "seiten_erwartet": 3,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/pflichtteil-und-verzicht/erb-und-pflichtteilsverzicht-im-ubergabevertrag",
+       "titel": "Erb- und Pflichtteilsverzicht im Übergabevertrag",
+       "beschreibung": "Erbverzicht und Pflichtteilsverzicht bei Übergabe: Verzicht des Erwerbers, gegenständlich beschränkter Verzicht auf Pflichtteilsergänzung, § 311b Abs. 5 BGB, persönliche Anwesenheit § 2347 BGB, Form § 2348 BGB."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/pflichtteil-und-verzicht/pflichtteil-berechtigte-schuldner-und-quote",
+       "titel": "Pflichtteil: Berechtigte, Schuldner und Quote",
+       "beschreibung": "Pflichtteil (§§ 2303 ff. BGB): Pflichtteilsberechtigte (Kinder, Ehegatte, Eltern), Enterbung als Voraussetzung, Zusatzpflichtteil (§ 2305 BGB), Erbe als Schuldner, Pflichtteilsquote halber gesetzlicher Erbteil (§ 2310 BGB), Pflichtteilsverzicht."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/pflichtteil-und-verzicht/pflichtteil-pflichtteilserganzung",
+       "titel": "Pflichtteil: Pflichtteilsergänzung",
+       "beschreibung": "Pflichtteilsergänzung (§ 2325 BGB) bei Schenkungen zu Lebzeiten: fiktiver Nachlass, Zehnjahresfrist und Abschmelzung (§ 2325 Abs. 3 BGB), § 2329 BGB, kein Fristbeginn bei Schenkung unter Nießbrauchsvorbehalt (BGH)."
+      }
+     ]
+    },
+    {
+     "slug": "verfugungen-von-todes-wegen",
+     "titel": "Verfügungen von Todes wegen",
+     "beschreibung": "Arten und Anordnungen, Erbeinsetzung, Enterbung, Vermächtnis, Auflage, Testamentsvollstreckung, Vor- und Nacherbschaft, Testament, gemeinschaftliches Testament und Erbvertrag mit Form, Bindung und Lösung.",
+     "seiten_erwartet": 16,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/erbvertrag-abschluss-form-und-verwahrung",
+       "titel": "Erbvertrag: Abschluss, Form und Verwahrung",
+       "beschreibung": "Erbvertrag: höchstpersönlicher Abschluss (§ 2274 BGB), Geschäftsfähigkeit (§ 2275 BGB), notarielle Form (§ 2276 BGB), amtliche Verwahrung und Ausschluss (§ 34 Abs. 2 BeurkG). Erbvertrag für unverheiratete Paare."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/erbvertrag-aufhebung-rucktritt-und-anfechtung",
+       "titel": "Erbvertrag: Aufhebung, Rücktritt und Anfechtung",
+       "beschreibung": "Lösung vom Erbvertrag: Aufhebungsvertrag (§ 2290 BGB), Rücktrittsvorbehalt und Rücktrittserklärung (§§ 2293, 2296 BGB), Anfechtung durch den Erblasser (§§ 2281–2283 BGB), Form und Frist. Erbvertrag aufheben, Erbvertrag kündigen."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/erbvertrag-inhalt-und-bindungswirkung",
+       "titel": "Erbvertrag: Inhalt und Bindungswirkung",
+       "beschreibung": "Erbvertrag: vertragsmäßige und einseitige Verfügungen (§§ 1941, 2278, 2299 BGB), Ehegattenerbvertrag, Bindung (§ 2289 BGB), Verfügungen unter Lebenden (§§ 2286, 2287 BGB), beeinträchtigende Schenkungen."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/gemeinschaftliches-testament-bindung-nach-dem-ersten-erbfall-und-losung",
+       "titel": "Gemeinschaftliches Testament: Bindung nach dem ersten Erbfall und Lösung",
+       "beschreibung": "Bindung des Überlebenden nach dem ersten Erbfall (§ 2271 Abs. 2 BGB): Änderungsvorbehalt, Schlusserbe, Wegfall der Bindung, Ausschlagung, Verfehlungen, Schenkungen (§§ 2287, 2288 BGB). Berliner Testament ändern."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/gemeinschaftliches-testament-errichtung-form-verwahrung-und-eroffnung",
+       "titel": "Gemeinschaftliches Testament: Errichtung, Form, Verwahrung und Eröffnung",
+       "beschreibung": "Gemeinschaftliches Testament von Ehegatten und Lebenspartnern (§§ 2265, 2267 BGB, § 10 Abs. 4 LPartG): Formerleichterung, Mitunterschrift, Nottestament, Scheidung (§ 2268 BGB), Rückgabe, Eröffnung (§ 349 FamFG). Berliner Testament."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/gemeinschaftliches-testament-wechselbezugliche-verfugungen-und-widerruf-zu-lebzeiten",
+       "titel": "Gemeinschaftliches Testament: wechselbezügliche Verfügungen und Widerruf zu Lebzeiten",
+       "beschreibung": "Wechselbezügliche Verfügungen im gemeinschaftlichen Testament (§ 2270 BGB), einseitige Verfügungen (§ 2272 BGB), Widerruf zu Lebzeiten nur notariell mit Zugang (§§ 2271, 2296 BGB). Berliner Testament widerrufen, Ehegattentestament."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/testament-ablieferung-und-eroffnung",
+       "titel": "Testament: Ablieferung und Eröffnung",
+       "beschreibung": "Ablieferungspflicht (§ 2259 BGB) und Testamentseröffnung durch das Nachlassgericht (§§ 343, 344, 348 FamFG): Zuständigkeit, Eröffnungstermin, Urschrift, Ausschlagungsfrist; Baden-Württemberg (LFGG). Testament abgeben, Testament eröffnen."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/testament-eigenhandiges-testament-selbstbindung-und-widerruf",
+       "titel": "Testament: eigenhändiges Testament, Selbstbindung und Widerruf",
+       "beschreibung": "Eigenhändiges Testament (§ 2247 BGB): handschriftlich geschrieben und unterschrieben, Formnichtigkeit, Anlagen; Bindung durch Erbvertrag oder gemeinschaftliches Testament; Testament widerrufen oder ändern (§§ 2253 ff. BGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/testament-testamentsformen-personliche-errichtung-und-verwahrung",
+       "titel": "Testament: Testamentsformen, persönliche Errichtung und Verwahrung",
+       "beschreibung": "Testamentsformen, Formzwang (Beweis- und Warnfunktion), persönliche Errichtung (§ 2064 BGB), notarielles Testament, amtliche Verwahrung beim Amtsgericht (§ 344 FamFG, § 2248 BGB), Hinterlegungsschein; Testament hinterlegen."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/testament-testierfahigkeit-und-prufung-durch-den-notar",
+       "titel": "Testament: Testierfähigkeit und Prüfung durch den Notar",
+       "beschreibung": "Testierfähigkeit (§ 2229 BGB) ab 16 Jahren, Testament Minderjähriger, Erbvertrag nur unbeschränkt geschäftsfähig (§ 2275 BGB), Prüfung und Vermerk durch den Notar (§§ 11, 28 BeurkG), Testierunfähigkeit, Beweislast, Zweifel."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/verfugung-von-todes-wegen-arten-und-mogliche-anordnungen",
+       "titel": "Verfügung von Todes wegen: Arten und mögliche Anordnungen",
+       "beschreibung": "Verfügung von Todes wegen: Testament (§ 1937 BGB), Erbvertrag (§ 1941 BGB), gemeinschaftliches Testament (§ 2265 BGB); Vorrang vor gesetzlicher Erbfolge; mögliche Anordnungen §§ 1937–1940 BGB, Teilungsanordnung, Testamentsvollstrecker."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/verfugung-von-todes-wegen-auflage-und-anordnung-der-testamentsvollstreckung",
+       "titel": "Verfügung von Todes wegen: Auflage und Anordnung der Testamentsvollstreckung",
+       "beschreibung": "Auflage (§§ 1940, 2192 ff. BGB), Vollziehung (§ 2194 BGB); Testamentsvollstreckung anordnen (§§ 2197 ff. BGB), Testamentsvollstrecker benennen, durch Dritten (§ 2198 BGB) oder Nachlassgericht (§ 2200 BGB) bestimmen."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/verfugung-von-todes-wegen-enterbung-und-bedingte-erbeinsetzung",
+       "titel": "Verfügung von Todes wegen: Enterbung und bedingte Erbeinsetzung",
+       "beschreibung": "Enterbung eines gesetzlichen Erben (§ 1938 BGB), ausdrücklich oder stillschweigend; bedingte oder befristete Erbeinsetzung (§§ 2074 ff. BGB); Wohlverhaltensklausel, Verwirkungsklausel, Testament mit Bedingung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/verfugung-von-todes-wegen-erbeinsetzung-miterben-und-ersatzerbe",
+       "titel": "Verfügung von Todes wegen: Erbeinsetzung, Miterben und Ersatzerbe",
+       "beschreibung": "Erbeinsetzung im Testament: Bestimmtheit, alternative Erbeinsetzung, Miterben (§ 2032 BGB), Erbquote, gleiche Teile (§ 2091 BGB), Teilungsanordnung (§ 2048 BGB), Ersatzerbe (§ 2096 BGB), Wegfall durch Ausschlagung oder Erbverzicht."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/vermachtnis-wirkung-und-arten",
+       "titel": "Vermächtnis: Wirkung und Arten",
+       "beschreibung": "Vermächtnis (§§ 1939, 2147 ff. BGB): Anspruch nach § 2174 BGB, Erbe als Beschwerter, Stück-, Voraus- (§ 2150 BGB), Wahl-, Gattungs-, Verschaffungs-, Nach- und Ersatzvermächtnis; etwas vererben ohne Erbeinsetzung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/vor-und-nacherbschaft-anordnung-und-rechtsstellung",
+       "titel": "Vor- und Nacherbschaft: Anordnung und Rechtsstellung",
+       "beschreibung": "Vor- und Nacherbschaft (§ 2100 BGB): Vorerbe als Erbe auf Zeit, Anwartschaftsrecht des Nacherben, keine Miterbengemeinschaft, Nacherbfall; Familienvermögen erhalten, Nacherbe einsetzen."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "familienrecht",
+   "titel": "Familienrecht",
+   "beschreibung": "Verwandtschaft, Abstammung und elterliche Sorge, Ehe und Güterrecht mit Ehevertrag, Scheidungsfolgen, Unterhalt, Versorgungsausgleich, Lebenspartnerschaften sowie Adoption.",
+   "seiten_erwartet": 41,
+   "abschnitte": [
+    {
+     "slug": "abstammung-und-elterliche-sorge",
+     "titel": "Abstammung und elterliche Sorge",
+     "beschreibung": "Verwandtschaft und Schwägerschaft, Mutterschaft und Vaterschaft, Vaterschaftsanerkennung und Anfechtung, elterliche Sorge, gesetzliche Vertretung des Kindes und Sorgeerklärung.",
+     "seiten_erwartet": 6,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/abstammung-gerichtliche-feststellung-kunstliche-befruchtung-und-anfechtung",
+       "titel": "Abstammung: gerichtliche Feststellung, künstliche Befruchtung und Anfechtung",
+       "beschreibung": "Gerichtliche Vaterschaftsfeststellung (§ 1592 Nr. 3, § 1600d BGB, § 182 FamFG), künstliche Befruchtung, Samenspende, Insemination, Anfechtungsausschluss (§ 1600 Abs. 6 BGB), Vaterschaftsanfechtung (§§ 1600 ff. BGB), Wiederaufnahme."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/abstammung-mutterschaft-und-vaterschaft-kraft-ehe",
+       "titel": "Abstammung: Mutterschaft und Vaterschaft kraft Ehe",
+       "beschreibung": "Mutterschaft der gebärenden Frau (§ 1591 BGB), Leihmutter, Ersatzmutter, keine Anfechtung; Vaterschaft kraft Ehe (§ 1592 Nr. 1 BGB), Geburt nach Scheidung, nach Tod des Ehemanns und bei Wiederheirat (§ 1593 BGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/abstammung-vaterschaftsanerkennung",
+       "titel": "Abstammung: Vaterschaftsanerkennung",
+       "beschreibung": "Vaterschaftsanerkennung (§ 1592 Nr. 2 BGB): einseitige Erklärung, Zustimmung von Mutter und Kind (§ 1595 BGB), Rückwirkung (§ 1594 BGB), öffentliche Beurkundung (§ 1597 BGB), Mitteilung an Standesamt; Vaterschaft anerkennen."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/elterliche-sorge-inhalt-und-gesetzliche-vertretung-des-kindes",
+       "titel": "Elterliche Sorge: Inhalt und gesetzliche Vertretung des Kindes",
+       "beschreibung": "Elterliche Sorge (§ 1626 BGB), gemeinsame Vertretung des Kindes (§ 1629 BGB), Vertretungsausschluss (§ 1824 BGB) und anderer Elternteil, höchstpersönliche Geschäfte, § 1638 BGB, Genehmigung (§§ 1643, 1644 BGB); Eltern handeln für Kind."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/elterliche-sorge-sorgeberechtigung-sorgeerklarung-und-beistandschaft",
+       "titel": "Elterliche Sorge: Sorgeberechtigung, Sorgeerklärung und Beistandschaft",
+       "beschreibung": "Sorgerecht: gemeinsame Sorge, Sorgeerklärung nicht verheirateter Eltern (§ 1626a BGB), Alleinsorge der Mutter, Änderung bei Trennung (§ 1671 BGB) oder Tod, Beistandschaft des Jugendamts (§§ 1712 ff. BGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/verwandtschaft-linien-grade-und-schwagerschaft",
+       "titel": "Verwandtschaft: Linien, Grade und Schwägerschaft",
+       "beschreibung": "Verwandtschaft in gerader Linie und Seitenlinie, Verwandtschaftsgrad (§ 1589 BGB), Schwägerschaft (§ 1590 BGB, § 11 LPartG), Schwippschwager, Stiefkinder; Bedeutung für Eheverbot, Unterhalt, Erbrecht, Zeugnisverweigerung."
+      }
+     ]
+    },
+    {
+     "slug": "adoption",
+     "titel": "Adoption",
+     "beschreibung": "Annahme Minderjähriger und Volljähriger: Voraussetzungen, Antrag und Einwilligungen, Wirkungen einschließlich Erbrecht, Namensrecht, Aufhebung und Verfahren.",
+     "seiten_erwartet": 6,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-minderjahriger-voraussetzungen",
+       "titel": "Adoption Minderjähriger: Voraussetzungen",
+       "beschreibung": "Minderjährigenadoption: wer adoptieren darf (Ehepaar, Einzelannahme, Stiefkind, § 1766a BGB), Mindestalter § 1743, Pflegezeit § 1744, Zweitadoptionsverbot § 1742, Kindeswohl § 1741, Interessen anderer Kinder § 1745; Annahme als Kind."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-volljahriger-voraussetzungen-und-starke-wirkungen-1772-bgb",
+       "titel": "Adoption Volljähriger: Voraussetzungen und starke Wirkungen (§ 1772 BGB)",
+       "beschreibung": "Erwachsenenadoption (§§ 1767–1772 BGB): sittliche Rechtfertigung, Eltern-Kind-Verhältnis, Anträge § 1768, Interessen der Kinder § 1769, Volljährigenadoption mit starken Wirkungen § 1772, Erbschaftsteuer als Motiv."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-antrag-und-einwilligungen",
+       "titel": "Adoption: Antrag und Einwilligungen",
+       "beschreibung": "Adoptionsantrag (§ 1752) und Einwilligungen von Kind, Eltern, Ehegatte (§§ 1746–1750): Beurkundung, Zugang beim Familiengericht (§ 130 Abs. 2 BGB), Unwiderruflichkeit, Acht-Wochen-Frist, Inkognito-Adoption, Ersetzung § 1748."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-aufhebung-und-verfahren",
+       "titel": "Adoption: Aufhebung und Verfahren",
+       "beschreibung": "Aufhebung der Adoption (§§ 1760–1763, 1771, 1772 BGB) und Adoptionsverfahren: Bescheinigung § 9a AdVermG, Zuständigkeit § 187 FamFG, Unterlagen, Anhörung, Annahmebeschluss § 197 FamFG, Rücknahme des Antrags."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-namensrecht-rechtslage-ab-01052025",
+       "titel": "Adoption: Namensrecht (Rechtslage ab 01.05.2025)",
+       "beschreibung": "Name nach Adoption ab 01.05.2025: Geburtsname § 1757, Doppelname, § 1617a, § 1617, Vorname, Kinder des Angenommenen § 1617c, Erwachsenenadoption § 1767 Abs. 3–5: Widerspruch, Doppelname, Ehename."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-wirkungen-verwandtschaft-adoptionsgeheimnis-staatsangehorigkeit-erbrecht",
+       "titel": "Adoption: Wirkungen (Verwandtschaft, Adoptionsgeheimnis, Staatsangehörigkeit, Erbrecht)",
+       "beschreibung": "Adoptionswirkungen: Erlöschen der Verwandtschaft (§§ 1754–1756), Stiefkind- und Verwandtenadoption, Adoptionsgeheimnis § 1758, Einsichtsrechte, Staatsangehörigkeit § 6 StAG, Erbrecht bei Minderjährigen- und Volljährigenadoption § 1770."
+      }
+     ]
+    },
+    {
+     "slug": "ehe-und-guterrecht",
+     "titel": "Ehe und Güterrecht",
+     "beschreibung": "Verlöbnis und Eheschließung, Güterstände, Ehevertrag mit Wirksamkeits- und Ausübungskontrolle, Zugewinngemeinschaft und §§ 1365, 1369 BGB, Wahl-Zugewinngemeinschaft und Güterrecht mit Auslandsbezug.",
+     "seiten_erwartet": 17,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/deutsch-franzosische-wahl-zugewinngemeinschaft-voraussetzungen-verwaltung-und-familienwohnung",
+       "titel": "Deutsch-französische Wahl-Zugewinngemeinschaft: Voraussetzungen, Verwaltung und Familienwohnung",
+       "beschreibung": "Deutsch-französischer Wahlgüterstand (§ 1519 BGB, Abkommen 4.2.2010): Voraussetzungen, EuGüVO, Ehevertrag, Ende, Verwaltung, keine Beschränkung nach § 1365 BGB, Zustimmung zur Verfügung über die Familienwohnung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/deutsch-franzosische-wahl-zugewinngemeinschaft-zugewinnausgleich",
+       "titel": "Deutsch-französische Wahl-Zugewinngemeinschaft: Zugewinnausgleich",
+       "beschreibung": "Zugewinnausgleich im deutsch-französischen Wahlgüterstand: Anfangs- und Endvermögen (Art. 8–11 Abkommen), Schmerzensgeld, Grundstücke, Schenkungen, Begrenzung auf die Hälfte (Art. 14), Verjährung drei Jahre."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehegatteninnengesellschaft-740-bgb",
+       "titel": "Ehegatteninnengesellschaft (§ 740 BGB)",
+       "beschreibung": "Ehegatteninnengesellschaft (§ 740 BGB, MoPeG): konkludenter Vertrag, Zweck über eheliche Lebensgemeinschaft hinaus, Unternehmen, Mitarbeit, Familienheim, Gleichberechtigung, BGH NJW 1999, 2962, Ausgleich nach Scheidung"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/eheschliessung-voraussetzungen-nichtehe-und-aufhebung",
+       "titel": "Eheschließung: Voraussetzungen, Nichtehe und Aufhebung",
+       "beschreibung": "Eheschließung: Ehemündigkeit (§ 1303 BGB), Eheverbote (§§ 1306, 1307 BGB), Standesamt (§§ 1310, 1311 BGB), Nichtehe und Heilung, Aufhebung der Ehe (§§ 1314, 1318 BGB), Kinderehe, Scheinehe, Doppelehe."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehevertrag-ausubungskontrolle-und-folgerungen-fur-die-gestaltung",
+       "titel": "Ehevertrag: Ausübungskontrolle und Folgerungen für die Gestaltung",
+       "beschreibung": "Ausübungskontrolle von Eheverträgen (§ 242 BGB): Anpassung bei geänderter Lebensplanung, Güterrecht; Gestaltung: Vorbesprechung, Entwurf, Präambel, Belehrung, Ersetzungsklausel, Unterhaltsverzicht begrenzen."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehevertrag-wirksamkeitskontrolle-und-kernbereichslehre",
+       "titel": "Ehevertrag: Wirksamkeitskontrolle und Kernbereichslehre",
+       "beschreibung": "Inhaltskontrolle/Wirksamkeitskontrolle von Ehevertrag und Scheidungsvereinbarung (§ 138 BGB): Kernbereichslehre, Rangfolge der Scheidungsfolgen, Gesamtschau, Kompensation ehebedingter Nachteile, sittenwidriger Ehevertrag."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehevertrag-wirksamkeitskontrolle-subjektives-moment-einzelfalle-und-rechtsfolge",
+       "titel": "Ehevertrag: Wirksamkeitskontrolle – subjektives Moment, Einzelfälle und Rechtsfolge",
+       "beschreibung": "Sittenwidriger Ehevertrag: subjektive Unterlegenheit (Schwangerschaft, Zeitdruck, Abhängigkeit), Verzicht auf Unterhalt/Versorgungsausgleich, Gütertrennung, Gesamtnichtigkeit, salvatorische Klausel (§ 138 BGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/geldzuwendung-unter-ehegatten-darlehen-gbr-und-ruckforderungsvereinbarung",
+       "titel": "Geldzuwendung unter Ehegatten: Darlehen, GbR und Rückforderungsvereinbarung",
+       "beschreibung": "Geldzuwendung unter Ehegatten für Immobilie: Ehegattendarlehen, Zinsen und Schenkung (BewG), GbR, Rückforderungsrecht bei Scheidung, Sicherungshypothek, Ehevertrag § 1410 BGB, Zugewinnausgleich"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/guterrecht-mit-auslandsbezug-altehen-und-ehen-ab-29012019",
+       "titel": "Güterrecht mit Auslandsbezug: Altehen und Ehen ab 29.01.2019",
+       "beschreibung": "Ausländisches Güterrecht/IPR: Altehen Art. 14, 15 EGBGB aF, Rechtswahl, Mehrstaater, Rückverweisung, Flüchtlinge (§ 2 AsylG); Ehen ab 29.01.2019 EuGüVO: Rechtswahl, Form, Art. 26, Übergangsrecht."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/guterrecht-guterstande-ehevertrag-und-wegfall-des-guterrechtsregisters",
+       "titel": "Güterrecht: Güterstände, Ehevertrag und Wegfall des Güterrechtsregisters",
+       "beschreibung": "Güterstände des BGB (Zugewinngemeinschaft, Gütertrennung, Gütergemeinschaft), Ehevertrag § 1408 BGB, Form § 1410 BGB, Vertretung, Änderung während der Ehe, Abschaffung Güterrechtsregister §§ 1558–1563 BGB zum 01.01.2023."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/guterrecht-gutertrennung-und-gutergemeinschaft",
+       "titel": "Güterrecht: Gütertrennung und Gütergemeinschaft",
+       "beschreibung": "Gütertrennung (§ 1414 BGB): kein Zugewinnausgleich, Entstehung kraft Ehevertrag/Gesetz; Gütergemeinschaft (§§ 1415–1518 BGB): Gesamtgut, Sondergut, Vorbehaltsgut, Verwaltung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/verlobnis-begriff-und-rechtswirkungen",
+       "titel": "Verlöbnis: Begriff und Rechtswirkungen",
+       "beschreibung": "Verlöbnis (§ 1297 BGB): Eheversprechen nicht einklagbar, keine Vertragsstrafe; Ehevertrag (§ 1408 BGB), Erbvertrag und Erbverzicht unter Verlobten, kein gemeinschaftliches Testament; Verlobte als Angehörige, Zeugnisverweigerung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinnausgleich-anrechnung-von-ehegattenzuwendungen-1380-bgb",
+       "titel": "Zugewinnausgleich: Anrechnung von Ehegattenzuwendungen (§ 1380 BGB)",
+       "beschreibung": "Anrechnung von Vorausempfängen (§ 1380 BGB) im Zugewinnausgleich: Ehegattenzuwendung kein Anfangsvermögen (§ 1374 Abs. 2 BGB), Rechenweg, Wert im Zuwendungszeitpunkt, Inflation, Anrechnungsbestimmung"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinnausgleich-ehegattenzuwendung-bei-negativem-zugewinn-uberhohter-zuwendung-und-aus-dem-anfangsvermogen",
+       "titel": "Zugewinnausgleich: Ehegattenzuwendung bei negativem Zugewinn, überhöhter Zuwendung und aus dem Anfangsvermögen",
+       "beschreibung": "Ehegattenzuwendung im Zugewinnausgleich: negativer Zugewinn, Anrechnung § 1380 BGB höchstens halbe Zuwendung, überhöhte Zuwendung, Zuwendung aus Anfangsvermögen, Begrenzung § 1378 Abs. 2 BGB, Schulden"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinngemeinschaft-ehevertragliche-modifikationen",
+       "titel": "Zugewinngemeinschaft: ehevertragliche Modifikationen",
+       "beschreibung": "Modifizierte Zugewinngemeinschaft: Ausschluss des Zugewinnausgleichs für die Scheidung, Herausnahme von Betriebsvermögen/Unternehmen, Anfangsvermögen festlegen (§ 1377 Abs. 3 BGB), Endvermögen begrenzen, Ausgleichsquote."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinngemeinschaft-grundsatze-zugewinnausgleich-und-privilegierter-erwerb",
+       "titel": "Zugewinngemeinschaft: Grundsätze, Zugewinnausgleich und privilegierter Erwerb",
+       "beschreibung": "Zugewinngemeinschaft als gesetzlicher Güterstand (§ 1363 BGB): getrennte Vermögen, keine gemeinsamen Schulden, Zugewinnausgleich bei Scheidung/Tod, privilegierter Erwerb (§ 1374 Abs. 2 BGB): Erbschaft, Schenkung, Wertsteigerung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinngemeinschaft-verfugungsbeschrankungen-1365-1369-bgb",
+       "titel": "Zugewinngemeinschaft: Verfügungsbeschränkungen (§§ 1365, 1369 BGB)",
+       "beschreibung": "Verfügung über das Vermögen im Ganzen (§ 1365 BGB): Zustimmung des Ehegatten, Ersetzung, Wertvergleich, Grundschuld, Unterwerfung, Kenntnis; Haushaltsgegenstände/Hausrat (§ 1369 BGB)."
+      }
+     ]
+    },
+    {
+     "slug": "scheidung-unterhalt-und-partnerschaften",
+     "titel": "Scheidung, Unterhalt und Partnerschaften",
+     "beschreibung": "Scheidung und Scheidungsvereinbarung, Ehegattenunterhalt und Unterhaltsvereinbarungen, Versorgungsausgleich, ehebedingte Zuwendung, eingetragene Lebenspartnerschaft und nichteheliche Lebensgemeinschaft.",
+     "seiten_erwartet": 12,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/ehebedingte-zuwendung-einordnung-und-abgrenzung-zur-schenkung",
+       "titel": "Ehebedingte Zuwendung: Einordnung und Abgrenzung zur Schenkung",
+       "beschreibung": "Ehebedingte (unbenannte) Zuwendung unter Ehegatten: Rechtsnatur, Abgrenzung zur Schenkung, Familienheim, Mitarbeit, Bürgschaft, Pflichtteilsergänzung (§ 2325 BGB), Anfechtung (§ 134 InsO)"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/ehebedingte-zuwendung-ruckabwicklung-nach-guterstand",
+       "titel": "Ehebedingte Zuwendung: Rückabwicklung nach Güterstand",
+       "beschreibung": "Rückforderung ehebedingter Zuwendungen nach Scheidung: Wegfall der Geschäftsgrundlage (§ 313 BGB), Zugewinnausgleich, Anfangsvermögen, Gütertrennung, dingliche Rückgewähr, Rückforderungsrecht"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/ehegattenunterhalt-nachehelicher-unterhalt-und-betreuungsunterhalt",
+       "titel": "Ehegattenunterhalt: nachehelicher Unterhalt und Betreuungsunterhalt",
+       "beschreibung": "Nachehelicher Unterhalt (§§ 1569 ff. BGB): Eigenverantwortung, Unterhaltstatbestände, Halbteilung, eheliche Lebensverhältnisse, Betreuungsunterhalt § 1570 BGB, Geschiedenenunterhalt, Unterhalt für Kinderbetreuung"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/ehegattenunterhalt-trennungsunterhalt",
+       "titel": "Ehegattenunterhalt: Trennungsunterhalt",
+       "beschreibung": "Trennungsunterhalt nach § 1361 BGB: Getrenntleben, Bedürftigkeit, Erwerbsobliegenheit, Trennungsjahr, Erlöschen mit Scheidung, Verzichtsverbot (§ 1614 BGB), Unterhalt bei Trennung von Tisch und Bett"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/ehegattenzuwendung-von-immobilien-anlasse-investitionen-und-folgen-der-scheidung",
+       "titel": "Ehegattenzuwendung von Immobilien: Anlässe, Investitionen und Folgen der Scheidung",
+       "beschreibung": "Ehegattenzuwendung einer Immobilie oder eines Miteigentumsanteils: Absicherung, Haftung, Familienheim, Investitionen, Darlehenstilgung, § 2325 Abs. 3 BGB, unbenannte Zuwendung, Scheidung, § 313 BGB"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/ehegattenzuwendung-gestaltung-fur-den-scheidungsfall-und-ruckforderungsrecht",
+       "titel": "Ehegattenzuwendung: Gestaltung für den Scheidungsfall und Rückforderungsrecht",
+       "beschreibung": "Ehegattenzuwendung einer Immobilie: Ausschluss oder Anwendung § 1380 BGB, Herausnahme aus Zugewinn, Kettenschenkung, Rückforderungsrecht bei Scheidung, Investitionen, Haftentlassung, Zug um Zug"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/eingetragene-lebenspartnerschaft-altfalle-wirkungen-und-aufhebung",
+       "titel": "Eingetragene Lebenspartnerschaft: Altfälle, Wirkungen und Aufhebung",
+       "beschreibung": "Eingetragene Lebenspartnerschaft (LPartG): Altfälle vor 2005, Zugewinngemeinschaft, Lebenspartnerschaftsvertrag, Unterhalt, Versorgungsausgleich, Aufhebung (§ 15 LPartG), gleichgeschlechtliche Paare"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/nichteheliche-lebensgemeinschaft-ausgleichsanspruche-und-vorsorge",
+       "titel": "Nichteheliche Lebensgemeinschaft: Ausgleichsansprüche und Vorsorge",
+       "beschreibung": "Nichteheliche Lebensgemeinschaft (Lebensgefährten, Paar ohne Trauschein): Ausgleich nach Trennung, Partnerschaftsvertrag, Immobilie, Erbrecht, Erbschaftsteuer, Vorsorgevollmacht, Totenfürsorge"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/scheidung-voraussetzungen-folgen-und-scheidungsvereinbarung",
+       "titel": "Scheidung: Voraussetzungen, Folgen und Scheidungsvereinbarung",
+       "beschreibung": "Ehescheidung: Scheitern der Ehe, Trennungsjahr, Getrenntleben (§§ 1564–1568 BGB), Scheidungsfolgen, Zugewinnausgleich (§ 1378 Abs. 3, § 1384 BGB), Scheidungsfolgenvereinbarung nach §§ 133, 134 FamFG"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/unterhaltsvereinbarungen-abanderung-und-angabe-der-berechnungsgrundlagen",
+       "titel": "Unterhaltsvereinbarungen: Abänderung und Angabe der Berechnungsgrundlagen",
+       "beschreibung": "Abänderung notarieller Unterhaltstitel (§ 239 FamFG, § 313 BGB), Angabe der Berechnungsgrundlagen als Amtspflicht, Wesentlichkeitsschwelle, Unterhaltsvereinbarung nach Trennung, Ehegattensplitting"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/unterhaltsvereinbarungen-form-modifizierende-und-novierende-vereinbarungen",
+       "titel": "Unterhaltsvereinbarungen: Form, modifizierende und novierende Vereinbarungen",
+       "beschreibung": "Unterhaltsvereinbarung und Unterhaltsverzicht: Beurkundungspflicht § 1585c BGB, formfreie Vereinbarungen, Trennungsunterhalt, modifizierende und novierende Unterhaltsvereinbarung, Pfändungsschutz"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/versorgungsausgleich-vereinbarungen",
+       "titel": "Versorgungsausgleich: Vereinbarungen",
+       "beschreibung": "Versorgungsausgleich: Ausschluss und Vereinbarungen (§§ 6 bis 8 VersAusglG), Rentenanwartschaften, Wertausgleich, Supersplitting, Form, Prüfungspflicht des Notars, Rentenausgleich bei Scheidung"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "grundbuch-und-grundbuchverfahren",
+   "titel": "Grundbuch und Grundbuchverfahren",
+   "beschreibung": "Funktion, Aufbau und Wirkungen des Grundbuchs, Rang, Grundbuchverfahren nach der GBO einschließlich elektronischer Antragstellung sowie Grundbucheinsicht und Grundbuchabruf durch den Notar.",
+   "seiten_erwartet": 17,
+   "abschnitte": [
+    {
+     "slug": "aufbau-und-wirkungen-des-grundbuchs",
+     "titel": "Aufbau und Wirkungen des Grundbuchs",
+     "beschreibung": "Funktion des Grundbuchs, Eintragungswirkung, Vermutung und öffentlicher Glaube, Aufbau des Grundbuchblatts sowie Rangverhältnis, Rangänderung und Rangvorbehalt.",
+     "seiten_erwartet": 3,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/aufbau-und-wirkungen-des-grundbuchs/grundbuch-aufbau",
+       "titel": "Grundbuch: Aufbau",
+       "beschreibung": "Aufbau des Grundbuchs, Grundbuchauszug lesen: Grundbuchblatt (§§ 3, 4 GBO), Aufschrift, Bestandsverzeichnis (§ 6 GBV), Abteilung I, II und III (§§ 10, 11 GBV), Herrschvermerk, Rötung, Löschungsvermerk."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/aufbau-und-wirkungen-des-grundbuchs/grundbuch-funktion-eintragungswirkung-vermutung-und-offentlicher-glaube",
+       "titel": "Grundbuch: Funktion, Eintragungswirkung, Vermutung und öffentlicher Glaube",
+       "beschreibung": "Grundbuch: Publizität, konstitutive und deklaratorische Eintragung (§§ 873, 875, 877, 880 BGB), Abtretung Briefgrundschuld, Vermutung (§ 891 BGB), öffentlicher Glaube (§ 892 BGB), Berichtigungsanspruch (§ 894 BGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/aufbau-und-wirkungen-des-grundbuchs/grundbuchrang-rangverhaltnis-ranganderung-rangvorbehalt-und-zwangsversteigerung",
+       "titel": "Grundbuchrang: Rangverhältnis, Rangänderung, Rangvorbehalt und Zwangsversteigerung",
+       "beschreibung": "Rang im Grundbuch (§ 879 BGB): Rangfolge, Prioritätsprinzip (§§ 17, 45 GBO), Rangbestimmung, Rangänderung (§ 880 BGB), Rangrücktritt, Rangvorbehalt, erste Rangstelle, Zwangsversteigerung, geringstes Gebot."
+      }
+     ]
+    },
+    {
+     "slug": "einsicht-und-abruf",
+     "titel": "Einsicht und Abruf",
+     "beschreibung": "Berechtigtes Interesse und Mitteilung des Grundbuchinhalts durch den Notar, automatisiertes Abrufverfahren mit Kosten und praktischer Grundbuchabruf in der Vertragsvorbereitung.",
+     "seiten_erwartet": 3,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/einsicht-und-abruf/grundbucheinsicht-automatisiertes-abrufverfahren-und-kosten",
+       "titel": "Grundbucheinsicht: automatisiertes Abrufverfahren und Kosten",
+       "beschreibung": "Elektronische Grundbucheinsicht durch Notare (Grundbuchauszug): automatisiertes Abrufverfahren § 133 GBO, Grundbuchdatenzentrale Baden-Württemberg, Abrufgebühr, Notargebühr KV 25209 GNotKG."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/einsicht-und-abruf/grundbucheinsicht-berechtigtes-interesse-und-mitteilung-durch-den-notar",
+       "titel": "Grundbucheinsicht: berechtigtes Interesse und Mitteilung durch den Notar",
+       "beschreibung": "Grundbucheinsicht (§ 12 GBO): berechtigtes Interesse, Grundbuchauszug, Grundakten, Befreiung des Notars (§ 43 GBV), keine Gefälligkeitsabrufe, Mitteilung des Grundbuchinhalts an Dritte, Protokoll (§ 133a GBO)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/einsicht-und-abruf/grundbucheinsicht-grundbuchabruf-in-der-praxis",
+       "titel": "Grundbucheinsicht: Grundbuchabruf in der Praxis",
+       "beschreibung": "Grundbuchabruf in der Praxis: Aktualität des Grundbuchauszugs (§ 21 BeurkG), Aktenzeichen, Berechtigungsgrund, Suche, Datum der letzten Änderung, Antragsliste (§ 12a GBO), Grundakten, Grundbuchzentralarchiv."
+      }
+     ]
+    },
+    {
+     "slug": "grundbuchverfahren",
+     "titel": "Grundbuchverfahren",
+     "beschreibung": "Legalitätsprinzip, Eintragungsantrag, Voreintragung, Bewilligung und Konsensprinzip, Form der Eintragungsunterlagen, Antragstellung durch den Notar (auch elektronisch), Löschung, Berichtigung und Beschwerde.",
+     "seiten_erwartet": 11,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-antragstellung-durch-den-notar-15-gbo",
+       "titel": "Grundbuchverfahren: Antragstellung durch den Notar (§ 15 GBO)",
+       "beschreibung": "Notar im Grundbuchverfahren: Bote oder Vertreter, vermutete Antragsvollmacht (§ 15 Abs. 2 GBO), Antragsrücknahme (§ 24 Abs. 3 BNotO), Vollzugsvollmacht, Prüfung der Eintragungsfähigkeit, Prüfvermerk (§ 15 Abs. 3 GBO)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-eintragungsantrag",
+       "titel": "Grundbuchverfahren: Eintragungsantrag",
+       "beschreibung": "Eintragungsantrag beim Grundbuchamt (§ 13 GBO): Antragsberechtigung, Inhalt, kein Vorbehalt (§ 16 GBO), Form (§ 30 GBO), Rücknahme (§ 31 GBO), Wirkungen (§§ 878, 892 Abs. 2 BGB), Prioritätsgrundsatz (§ 17 GBO)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-eintragungsbewilligung-und-formelles-konsensprinzip",
+       "titel": "Grundbuchverfahren: Eintragungsbewilligung und formelles Konsensprinzip",
+       "beschreibung": "Eintragungsbewilligung (§ 19 GBO), formelles Konsensprinzip, Bewilligungsberechtigung und -befugnis, Inhalt und Bestimmtheit (§ 28 GBO), Form (§ 29 GBO), Wirksamwerden, Eigenurkunde des Notars, Eintragung ohne Bewilligung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-elektronische-antragstellung-und-nachweise",
+       "titel": "Grundbuchverfahren: elektronische Antragstellung und Nachweise",
+       "beschreibung": "Elektronischer Grundbuchantrag des Notars: §§ 135–137 GBO, ERGA-VO Baden-Württemberg, Nachweise (§ 29 GBO), Erbschein, Grundpfandrechtsbrief, elektronische Unbedenklichkeitsbescheinigung ab 2028, Eingang."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-form-der-eintragungsunterlagen-und-erbnachweis-29-35-gbo",
+       "titel": "Grundbuchverfahren: Form der Eintragungsunterlagen und Erbnachweis (§§ 29, 35 GBO)",
+       "beschreibung": "Grundbuchtaugliche Form (§ 29 GBO): öffentliche oder beglaubigte Urkunde, Behördenerklärung, Siegel der Sparkasse, elektronische Abschrift (§ 137 GBO), Grundschuldbrief; Erbschein, notarielles Testament (§ 35 GBO)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-grundbuchberichtigung-und-richtigstellung",
+       "titel": "Grundbuchverfahren: Grundbuchberichtigung und Richtigstellung",
+       "beschreibung": "Grundbuchberichtigung (§ 22 GBO): unrichtiges Grundbuch, Berichtigungsbewilligung (§ 894 BGB), Unrichtigkeitsnachweis, Sterbeurkunde, Erbschein, Zustimmung (§ 22 Abs. 2 GBO); Richtigstellung bei Namensänderung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-legalitatsprinzip-und-verfahrensarten",
+       "titel": "Grundbuchverfahren: Legalitätsprinzip und Verfahrensarten",
+       "beschreibung": "Grundbuchverfahren: formelles Grundbuchrecht, Legalitätsprinzip, Prüfung durch das Grundbuchamt, Eintragungs- und Berichtigungsverfahren, Amtsverfahren, Ersuchen einer Behörde (§ 38 GBO), Eintragung von Amts wegen."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-loschung-bei-herrschvermerk-und-bei-auf-lebenszeit-beschrankten-rechten",
+       "titel": "Grundbuchverfahren: Löschung bei Herrschvermerk und bei auf Lebenszeit beschränkten Rechten",
+       "beschreibung": "Löschung einer Grunddienstbarkeit mit Herrschvermerk (§ 21 GBO, § 876 S. 2 BGB); Löschung von Nießbrauch und Wohnungsrecht nach Tod (§§ 22, 23 GBO): Sterbeurkunde, Jahresfrist, Vorlöschungsklausel, Löschungserleichterung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-materielles-konsensprinzip-eigentumerzustimmung-und-gemeinschaftsverhaltnis",
+       "titel": "Grundbuchverfahren: materielles Konsensprinzip, Eigentümerzustimmung und Gemeinschaftsverhältnis",
+       "beschreibung": "Materielles Konsensprinzip (§ 20 GBO): Nachweis der Auflassung; Zustimmung des Eigentümers zur Löschung von Grundschuld oder Hypothek (§ 1183 BGB, § 27 GBO); Gemeinschaftsverhältnis, Bruchteile, Gesamthand (§ 47 GBO)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-voreintragungsgrundsatz-und-ausnahmen",
+       "titel": "Grundbuchverfahren: Voreintragungsgrundsatz und Ausnahmen",
+       "beschreibung": "Voreintragungsgrundsatz (§ 39 GBO) und Ausnahmen: Verkauf durch Erben ohne Voreintragung (§ 40 GBO), Testamentsvollstrecker, Briefgrundschuld (§ 39 Abs. 2 GBO), Kettenauflassung (§ 185 BGB), transmortale Vollmacht."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-zustandigkeit-des-grundbuchamts-entscheidungen-schutzvermerk-und-beschwerde",
+       "titel": "Grundbuchverfahren: Zuständigkeit des Grundbuchamts, Entscheidungen, Schutzvermerk und Beschwerde",
+       "beschreibung": "Grundbuchamt: Zuständigkeit (§ 1 GBO, 13 Grundbuchämter in Baden-Württemberg, Rechtspfleger), Eintragung (§§ 44 ff. GBO), Zwischenverfügung, Zurückweisung (§ 18 Abs. 1 GBO), Schutzvermerk, Beschwerde (§§ 71 ff. GBO)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "grundpfandrechte",
+   "titel": "Grundpfandrechte",
+   "beschreibung": "Hypothek und Grundschuld: Arten, Bestellung, Akzessorietät und Abstraktheit, Sicherungsgrundschuld, Übertragung, Erlöschen, Eigentümerrechte sowie gesetzlicher Löschungsanspruch und Löschungsvormerkung.",
+   "seiten_erwartet": 22,
+   "abschnitte": [
+    {
+     "slug": "grundlagen-und-loschungsanspruch",
+     "titel": "Grundlagen und Löschungsanspruch",
+     "beschreibung": "Arten der Grundpfandrechte, Schuld und Haftung, Form der Bestellung sowie Löschungsanspruch nach §§ 1179a, 1179b BGB und Löschungsvormerkung nach § 1179 BGB.",
+     "seiten_erwartet": 3,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/grundpfandrechte/grundlagen-und-loschungsanspruch/grundpfandrechte-arten-schuld-und-haftung-form-der-bestellung",
+       "titel": "Grundpfandrechte: Arten, Schuld und Haftung, Form der Bestellung",
+       "beschreibung": "Grundpfandrechte: Hypothek, Grundschuld, Rentenschuld (§§ 1113 ff., 1191 ff., 1199 ff. BGB); Schuld und Haftung, Duldung der Zwangsvollstreckung (§ 1147 BGB), Kreditsicherung; Form: § 29 GBO, Beurkundung bei Unterwerfung, § 14 BeurkG."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundpfandrechte/grundlagen-und-loschungsanspruch/loschungsanspruch-gesetzlicher-loschungsanspruch-nach-1179a-bgb",
+       "titel": "Löschungsanspruch: gesetzlicher Löschungsanspruch nach § 1179a BGB",
+       "beschreibung": "Gesetzlicher Löschungsanspruch (§ 1179a BGB) nach- und gleichrangiger Grundpfandrechtsgläubiger: Eigentümergrundschuld, fingierte Vormerkung, Rangrücktritt, Zwangsversteigerung, Ausschluss (§ 1179a Abs. 5 BGB), Grundschuld."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundpfandrechte/grundlagen-und-loschungsanspruch/loschungsanspruch-loschung-des-eigenen-rechts-und-loschungsvormerkung-1179b-1179-bgb",
+       "titel": "Löschungsanspruch: Löschung des eigenen Rechts und Löschungsvormerkung (§§ 1179b, 1179 BGB)",
+       "beschreibung": "Löschung des eigenen Grundpfandrechts (§ 1179b BGB); Löschungsvormerkung (§ 1179 BGB) für Wohnungsberechtigte, Nießbraucher und Erwerber: Bewilligung, Schutz gegen Abtretung der Eigentümergrundschuld (§§ 883, 888 BGB)."
+      }
+     ]
+    },
+    {
+     "slug": "grundschuld",
+     "titel": "Grundschuld",
+     "beschreibung": "Abstraktheit und Unterschiede zur Hypothek, Abtretung, Sicherungsgrundschuld mit Sicherungsvertrag, Zweckerklärung und Rückgewähranspruch, abstraktes Schuldanerkenntnis und Eigentümergrundschuld (§ 1196 BGB).",
+     "seiten_erwartet": 6,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/grundschuld-abstraktes-schuldanerkenntnis-und-personliche-unterwerfung",
+       "titel": "Grundschuld: abstraktes Schuldanerkenntnis und persönliche Unterwerfung",
+       "beschreibung": "Abstraktes Schuldanerkenntnis bei der Grundschuld (§§ 780, 781 BGB), persönliche Haftung und Unterwerfung (§ 794 Abs. 1 Nr. 5 ZPO): doppelter Titel, getrennte Abtretung, Veräußerung (§ 415 BGB), Eigentümer nicht Kreditnehmer (§ 307 BGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/grundschuld-abstraktheit-unterschiede-zur-hypothek-brief-und-buchrecht-abtretung",
+       "titel": "Grundschuld: Abstraktheit, Unterschiede zur Hypothek, Brief- und Buchrecht, Abtretung",
+       "beschreibung": "Grundschuld als abstraktes Grundpfandrecht (§ 1192 BGB), Unterschied zur Hypothek, Kündigung (§ 1193 BGB), Briefgrundschuld und Buchgrundschuld (§ 1117 BGB), Grundschuldabtretung (§§ 1154, 1155 BGB), Erlöschen und Löschung (§ 27 GBO)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/grundschuld-eigentumergrundschuld-1196-bgb",
+       "titel": "Grundschuld: Eigentümergrundschuld (§ 1196 BGB)",
+       "beschreibung": "Eigentümergrundschuld (§ 1196 BGB) für den Eigentümer selbst: Bestellung, Löschungsansprüche (§§ 1179a, 1179b BGB), Vollstreckungs- und Zinssperre (§ 1197 BGB), verdeckte Finanzierung, Abtretung an Geldgeber, Unterwerfung (§§ 794, 800 ZPO)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/sicherungsgrundschuld-ruckgewahranspruch-und-zahlungen",
+       "titel": "Sicherungsgrundschuld: Rückgewähranspruch und Zahlungen",
+       "beschreibung": "Rückgewähranspruch bei der Sicherungsgrundschuld: Abtretung, Verzicht, Aufhebung (§§ 262, 1154, 1168, 1183 BGB), Löschungsbewilligung, Abtretung an Nachranggläubiger, Verjährung (§ 196 BGB), Zahlung auf Forderung oder Grundschuld (§§ 366, 1143 BGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/sicherungsgrundschuld-sicherungsvertrag-und-einreden",
+       "titel": "Sicherungsgrundschuld: Sicherungsvertrag und Einreden",
+       "beschreibung": "Sicherungsgrundschuld (§ 1192 Abs. 1a BGB): Kreditvertrag, Sicherungsvertrag, Sicherungsabrede, Treuhandpflichten des Gläubigers, Einreden gegen Erwerber, Abtretungsverbot (§ 1157 BGB), Eintragung (§§ 19, 29 GBO)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/sicherungsgrundschuld-zweckerklarung-kaufpreisfinanzierung-und-dingliche-zinsen",
+       "titel": "Sicherungsgrundschuld: Zweckerklärung, Kaufpreisfinanzierung und dingliche Zinsen",
+       "beschreibung": "Zweckerklärung zur Sicherungsgrundschuld: weite und enge Zweckerklärung, Haftung für fremde Schulden, überraschende Klausel (§ 305c BGB), Kaufpreisfinanzierung, Finanzierungsgrundschuld, Grundschuldzinsen (§§ 1115, 1118 BGB)."
+      }
+     ]
+    },
+    {
+     "slug": "hypothek",
+     "titel": "Hypothek",
+     "beschreibung": "Akzessorietät, gesicherte Forderung, Brief- und Buchhypothek, Haftungsverband, Einreden, Übertragung, gutgläubiger Erwerb, Sicherungs- und Höchstbetragshypothek, Eigentümerrechte kraft Gesetzes und Erlöschen.",
+     "seiten_erwartet": 13,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-begriff-schuld-und-haftung-akzessorietat",
+       "titel": "Hypothek: Begriff, Schuld und Haftung, Akzessorietät",
+       "beschreibung": "Hypothek (§ 1113 BGB): Begriff, Schuld und Haftung, Duldung der Zwangsvollstreckung (§ 1147 BGB), Akzessorietät (§§ 1153, 1163 BGB), Eigentümergrundschuld, Verkehrs- und Sicherungshypothek, Brief- und Buchhypothek."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-brief-und-buchhypothek-entstehung",
+       "titel": "Hypothek: Brief- und Buchhypothek, Entstehung",
+       "beschreibung": "Verkehrshypothek: Entstehung der Briefhypothek (§§ 873, 1113, 1115, 1117, 1163 BGB), Valutierung, Briefübergabe, Aushändigungsabrede (§ 60 GBO), Bewilligung und Antrag (§§ 13, 15, 19, 29 GBO), Hypothekenbrief, Buchhypothek (§ 1116 BGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-eigentumergrundschuld-und-eigentumerhypothek-kraft-gesetzes",
+       "titel": "Hypothek: Eigentümergrundschuld und Eigentümerhypothek kraft Gesetzes",
+       "beschreibung": "Eigentümergrundschuld kraft Gesetzes aus Hypothek: vor Valutierung, nach Tilgung, vor Briefübergabe (§§ 1163, 1177, 1117 BGB), Eigentümerhypothek bei Zahlung durch Eigentümer (§ 1143 BGB), § 1197 BGB, Veräußerung, Löschung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-einreden-und-einwendungen-des-eigentumers",
+       "titel": "Hypothek: Einreden und Einwendungen des Eigentümers",
+       "beschreibung": "Einreden und Einwendungen des Eigentümers gegen die Hypothek aus Forderung und dinglichem Recht (§§ 1137, 770 BGB), keine Einrede der Vorausklage (§ 771 BGB), Verjährung nur für Zinsen (§ 216 BGB), Ablösungsrecht (§ 1142 BGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-geltendmachung-und-hypothekenbrief",
+       "titel": "Hypothek: Geltendmachung und Hypothekenbrief",
+       "beschreibung": "Geltendmachung der Hypothek: Fälligkeit und Kündigung (§§ 1141, 1147 BGB), Vorlage von Hypothekenbrief und Abtretungsurkunden (§§ 1155, 1160, 1161 BGB), Verzicht auf die Vorlage, Zwangsversteigerung (§§ 117, 126 ZVG)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-gesamthypothek-und-bruchteilshypothek",
+       "titel": "Hypothek: Gesamthypothek und Bruchteilshypothek",
+       "beschreibung": "Gesamthypothek (§ 1132 BGB) an mehreren Grundstücken, Aufteilung nach WEG, Verbot der Doppelsicherung, Einzel- und Gesamtausgebot in der Zwangsversteigerung (§§ 63, 112 ZVG); Bruchteilshypothek (§ 1114 BGB), Gesamthandsanteil."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-gesicherte-forderung-und-inhalt-der-eintragung",
+       "titel": "Hypothek: gesicherte Forderung und Inhalt der Eintragung",
+       "beschreibung": "Hypothek: sicherungsfähige Geldforderung, Forderungsauswechslung (§ 1180 BGB), Verbot der Doppelsicherung, Haftung für Zinsen und Kosten (§ 1118 BGB), Eintragungsinhalt (§ 1115 BGB), Zinsen, Gläubigermehrheit (§ 428 BGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-gutglaubiger-erwerb",
+       "titel": "Hypothek: gutgläubiger Erwerb",
+       "beschreibung": "Gutgläubiger Erwerb der Hypothek bei Abtretung: Einreden aus der Forderung (§§ 1137, 1138 BGB) und aus dem Gläubigerverhältnis (§ 1157 BGB), §§ 892, 893 BGB, Abtretungskette (§ 1155 BGB), Widerspruch (§ 899 BGB), Briefvermerk, Tilgung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-haftungsverband-und-enthaftung",
+       "titel": "Hypothek: Haftungsverband und Enthaftung",
+       "beschreibung": "Haftungsverband der Hypothek (§§ 1120 ff. BGB): Bestandteile, Erzeugnisse, Zubehör, Inventar, Mieten, Versicherungen; Beschlagnahme (§§ 20, 23 ZVG), Zwangsversteigerungsvermerk, Enthaftung durch Veräußerung und Entfernung (§§ 1121, 1122 BGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-tilgung-ablosung-und-erloschen",
+       "titel": "Hypothek: Tilgung, Ablösung und Erlöschen",
+       "beschreibung": "Tilgung und Ablösung der Hypothek: Eigentümergrundschuld (§§ 1163, 1177 BGB), Eigentümerhypothek (§ 1143 BGB), Gesamthypothek (§ 1173 BGB), Zahlung durch Schuldner (§ 1164 BGB) oder Dritte (§§ 774, 1150, 268 BGB), löschungsfähige Quittung, Erlöschen."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-ubertragung",
+       "titel": "Hypothek: Übertragung",
+       "beschreibung": "Übertragung der Hypothek durch Abtretung der Forderung (§§ 1153, 1154 BGB): Brief- und Buchhypothek, Briefübergabe, Beglaubigung, Abtretungskette (§ 1155 BGB), Nachweise (§§ 26, 29, 39 GBO, § 727 ZPO), Abtretungsausschluss (§ 399 BGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/sicherungshypothek-und-hochstbetragshypothek",
+       "titel": "Sicherungshypothek und Höchstbetragshypothek",
+       "beschreibung": "Sicherungshypothek (§§ 1184, 1185 BGB): strenge Akzessorietät, nur Buchrecht, kein Gutglaubensschutz, Ausgleichsbeträge für Geschwister im Übergabevertrag; Höchstbetragshypothek (§ 1190 BGB): Feststellung der Forderung, Eigentümergrundschuld."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/sicherungshypothek-bauhandwerker-zwangs-arrest-und-steuerhypothek",
+       "titel": "Sicherungshypothek: Bauhandwerker-, Zwangs-, Arrest- und Steuerhypothek",
+       "beschreibung": "Bauhandwerkersicherungshypothek (§ 650e BGB), Bauhandwerkersicherung (§ 650f BGB), Zwangshypothek (§§ 866–868 ZPO: Titel, Antrag, Wertgrenze 750 EUR, Verteilung), Arresthypothek (§ 932 ZPO), Steuerhypothek (§ 322 AO)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "grundstuckskaufvertrag",
+   "titel": "Grundstückskaufvertrag",
+   "beschreibung": "Beurkundung und Gestaltung des Grundstückskaufvertrags: Form, Verbrauchervertrag und Geldwäsche, Beteiligte, Kaufgegenstand, Fälligkeit und Zahlung, Besitzübergang, Haftung, Eigentumsübergang und Vollzug.",
+   "seiten_erwartet": 47,
+   "abschnitte": [
+    {
+     "slug": "besitz-haftung-und-eigentumsubergang",
+     "titel": "Besitz, Haftung und Eigentumsübergang",
+     "beschreibung": "Besitzübergang, Nutzen und Lasten, Erschließungskosten, Miet- und Pachtverhältnisse, Sach- und Rechtsmängel, Auflassung, Sicherung des Verkäufers sowie Eigentumsvormerkung mit Rang und Löschung.",
+     "seiten_erwartet": 10,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-auflassung-und-form-der-eintragungsunterlagen",
+       "titel": "Grundstückskaufvertrag: Auflassung und Form der Eintragungsunterlagen",
+       "beschreibung": "Auflassung beim Grundstückskauf: dingliche Einigung, gleichzeitige Anwesenheit, Vertretung, § 20 GBO, Form der Eintragungsunterlagen nach § 29 GBO, öffentliche Urkunde, Beglaubigung (§§ 873, 925 BGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-besitzubergang-nutzen-lasten-und-raumung",
+       "titel": "Grundstückskaufvertrag: Besitzübergang, Nutzen, Lasten und Räumung",
+       "beschreibung": "Besitzübergang beim Grundstückskauf: Nutzen, Lasten, Gefahr, Verkehrssicherungspflicht, vorzeitige Schlüsselübergabe, Weiternutzung durch Verkäufer, Nutzungsentschädigung, Räumung, Vertragsstrafe, § 721 ZPO."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-eigentumsvormerkung-rang-und-loschung",
+       "titel": "Grundstückskaufvertrag: Eigentumsvormerkung, Rang und Löschung",
+       "beschreibung": "Eigentumsvormerkung (Auflassungsvormerkung) im Kaufvertrag: Schutzwirkung, Rang, Zwischeneintragungen, Fälligkeitsvoraussetzung, Löschung bei Umschreibung oder Rücktritt (§§ 883, 888 BGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-erschliessungskosten",
+       "titel": "Grundstückskaufvertrag: Erschließungskosten",
+       "beschreibung": "Erschließungskosten im Grundstückskaufvertrag: Erschließungsbeitrag (§§ 127, 134 BauGB), Verteilung nach § 436 Abs. 1 BGB, vertragliche Abgrenzung nach Bescheidzugang oder Fertigstellung, Anliegerbeiträge, § 135a BauGB, Bauplatz."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-miet-und-pachtverhaltnisse-und-mietervorkaufsrecht",
+       "titel": "Grundstückskaufvertrag: Miet- und Pachtverhältnisse und Mietervorkaufsrecht",
+       "beschreibung": "Miet- und Pachtverhältnisse beim Grundstückskauf: Kauf bricht nicht Miete (§ 566 BGB), Angabe im Vertrag, Rechtsmangel, Mietkaution (§ 566a S. 2 BGB), Vollmacht und Abtretung ab Besitzübergang, Mietervorkaufsrecht § 577 BGB."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-rechtsmangel-und-ubernahme-von-belastungen",
+       "titel": "Grundstückskaufvertrag: Rechtsmängel und Übernahme von Belastungen",
+       "beschreibung": "Rechtsmängel beim Grundstückskauf (§ 435 BGB): Übernahme oder Löschung von Belastungen in Abteilung II und III, Löschung von Grundpfandrechten (§§ 13, 19, 27 GBO), valutierte und nicht valutierte Grundschuld, Baulasten, Lastenfreistellung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-sachmangelhaftung-und-haftungsausschluss",
+       "titel": "Grundstückskaufvertrag: Sachmängelhaftung und Haftungsausschluss",
+       "beschreibung": "Sachmängelhaftung beim Grundstückskauf: Mängelrechte (§ 437 BGB), Haftungsausschluss „gekauft wie gesehen“, Arglist (§ 444 BGB), Garantie, Neubau (§§ 633 ff. BGB), Abtretung von Mängelansprüchen, § 309 Nr. 7 BGB."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-sicherung-des-verkaufers-bis-zur-eigentumsumschreibung",
+       "titel": "Grundstückskaufvertrag: Sicherung des Verkäufers bis zur Eigentumsumschreibung",
+       "beschreibung": "Sicherung des Verkäufers bis zur Kaufpreiszahlung: Bewilligungssperre, Ausfertigungssperre, gesonderte Auflassung, Eigenurkunde, Insolvenz (§ 117 InsO), § 13 Abs. 1 S. 3 GBO, Eigentumsumschreibung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/vertrage-mit-der-gemeinde-ablosungsvereinbarung-uber-erschliessungsbeitrage",
+       "titel": "Verträge mit der Gemeinde: Ablösungsvereinbarung über Erschließungsbeiträge",
+       "beschreibung": "Ablösungsvereinbarung über Erschließungsbeiträge beim Kauf von der Gemeinde: Voraussetzungen, gesonderter Ausweis, Ablösungssatzung, Angemessenheit, Gesamtnichtigkeit oder § 139 BGB, Beurkundungspflicht."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/vertrage-mit-der-gemeinde-erschliessungskosten-bescheids-und-vollerschliessungsmodell",
+       "titel": "Verträge mit der Gemeinde: Erschließungskosten, Bescheids- und Vollerschließungsmodell",
+       "beschreibung": "Erschließungskosten beim Bauplatzkauf von der Gemeinde: §§ 127 ff. BauGB, Landesrecht, § 436 BGB, Bescheidsmodell, Vollerschließungsmodell, Vorleistungsrisiko, doppelte Belehrung, kein verdeckter Pauschalpreis."
+      }
+     ]
+    },
+    {
+     "slug": "beteiligte-und-vertretung",
+     "titel": "Beteiligte und Vertretung",
+     "beschreibung": "Urkundeneingang und Bezeichnung der Beteiligten, rechtsgeschäftliche und gesetzliche Vertretung, Testamentsvollstrecker und Nachlasspfleger, Gesellschaften, Ehegatten (§ 1365 BGB, Güterrecht) und Erben als Verkäufer.",
+     "seiten_erwartet": 10,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/ehegatten-beim-grundstuckskauf-auslandisches-guterrecht",
+       "titel": "Ehegatten beim Grundstückskauf: ausländisches Güterrecht",
+       "beschreibung": "Ausländisches Güterrecht beim Grundstückserwerb durch Ehegatten: Errungenschaftsgemeinschaft, Gesamtgut, Vorbehaltsgut, Art. 14, 15 EGBGB, EuGüVO (Stichtag 29.01.2019), Gesamtverweisung, Wandelbarkeit."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/ehegatten-beim-grundstuckskauf-1365-bgb-gutergemeinschaft-und-erwerbsverhaltnis",
+       "titel": "Ehegatten beim Grundstückskauf: § 1365 BGB, Gütergemeinschaft und Erwerbsverhältnis",
+       "beschreibung": "Ehegatten beim Grundstückskauf: Gesamtvermögensgeschäft § 1365 BGB (Einzeltheorie), Zustimmung des Ehegatten, Gütergemeinschaft, Erwerbsverhältnis § 47 GBO, nichteheliche Lebensgemeinschaft, Bruchteilsgemeinschaft."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/erben-beim-grundstuckskauf-erbnachweis-gegenuber-dem-grundbuchamt",
+       "titel": "Erben beim Grundstückskauf: Erbnachweis gegenüber dem Grundbuchamt",
+       "beschreibung": "Erben als Verkäufer: Grundbuchberichtigung, Erbnachweis § 35 GBO, Erbschein-Ausfertigung, Europäisches Nachlasszeugnis, notarielles Testament, eidesstattliche Versicherung, Pflichtteilsstrafklausel, Erbengemeinschaft."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/gesetzliche-vertretung-beim-grundstuckskauf-eltern-betreuer-und-vormund",
+       "titel": "Gesetzliche Vertretung beim Grundstückskauf: Eltern, Betreuer und Vormund",
+       "beschreibung": "Eltern, Betreuer, Vormund als gesetzliche Vertreter beim Grundstückskauf: Vertretungsausschluss § 1629 Abs. 2, § 1824 BGB, Betreuerausweis im Original, Aufgabenkreis, Einwilligungsvorbehalt, kein Insichgeschäft."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/gesetzliche-vertretung-beim-grundstuckskauf-gerichtliche-genehmigung-doppelvollmacht-und-eigenurkunde",
+       "titel": "Gesetzliche Vertretung beim Grundstückskauf: gerichtliche Genehmigung, Doppelvollmacht und Eigenurkunde",
+       "beschreibung": "Familien-/betreuungsgerichtliche Genehmigung beim Grundstückskauf: §§ 1643, 1850, 1855, 1856 BGB, Rechtskraft § 40 FamFG, Doppelvollmacht, Eigenurkunde (§ 29 GBO), Fälligkeitsvoraussetzung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/grundstuckskaufvertrag-urkundeneingang-und-bezeichnung-der-beteiligten",
+       "titel": "Grundstückskaufvertrag: Urkundeneingang und Bezeichnung der Beteiligten",
+       "beschreibung": "Urkundeneingang beim Grundstückskaufvertrag: UVZ-Nummer (§ 3 NotAktVV), Ort, Tag, Notar, amtlich bestellter Vertreter, Beteiligte (§ 6 Abs. 2 BeurkG), Identitätsfeststellung (§ 10 BeurkG), Staatsangehörigkeit, Dolmetscher."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/vertretung-beim-grundstuckskauf-gesellschaften-und-juristische-personen",
+       "titel": "Vertretung beim Grundstückskauf: Gesellschaften und juristische Personen",
+       "beschreibung": "GmbH, AG, OHG, KG, Verein und GbR beim Grundstückskauf: Rechtsfähigkeit, Vertretungsorgan, Registerbescheinigung § 21 BNotO, eGbR, Gesellschaftsregister, Art. 229 § 21 EGBGB, Voreintragung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/vertretung-beim-grundstuckskauf-testamentsvollstrecker-nachlassverwalter-und-nachlasspfleger",
+       "titel": "Vertretung beim Grundstückskauf: Testamentsvollstrecker, Nachlassverwalter und Nachlasspfleger",
+       "beschreibung": "Testamentsvollstrecker, Nachlassverwalter, Nachlasspfleger als Verkäufer: Nachweis der Vertretungsmacht, § 35 Abs. 2 GBO, Testamentsvollstreckerzeugnis, Amtsannahme § 2202 BGB, Eingangsbestätigung des Nachlassgerichts."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/vertretung-beim-grundstuckskauf-vollmacht-prufung-und-nachweis",
+       "titel": "Vertretung beim Grundstückskauf: Vollmacht, Prüfung und Nachweis",
+       "beschreibung": "Stellvertretung beim Grundstückskaufvertrag: Vollmachtsprüfung (Umfang, Ausfertigung, transmortale Vollmacht, § 181 BGB), Nachweis nach § 29 GBO, § 47 BeurkG, § 12 BeurkG, Vollmachtsbescheinigung § 21 Abs. 3 BNotO."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/vertretung-beim-grundstuckskauf-vollmachtlose-vertretung-und-nachgenehmigung",
+       "titel": "Vertretung beim Grundstückskauf: vollmachtlose Vertretung und Nachgenehmigung",
+       "beschreibung": "Vollmachtlose Vertretung und mündliche Vollmacht beim Grundstückskauf: schwebende Unwirksamkeit, Nachgenehmigung, Vollmachtsbestätigung, §§ 177, 179, 184 BGB, Form § 29 GBO, Empfangsvollmacht des Notars, Fälligkeit."
+      }
+     ]
+    },
+    {
+     "slug": "falligkeit-und-zahlung",
+     "titel": "Fälligkeit und Zahlung",
+     "beschreibung": "Allgemeine Fälligkeitsvoraussetzungen, Lastenfreistellung und Treuhandauflagen, Fälligkeitsmitteilung und Notaranderkonto, Ratenzahlung und Verzug sowie Finanzierungsmitwirkung und Finanzierungsvollmacht.",
+     "seiten_erwartet": 5,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/grundstuckskaufvertrag-finanzierungsmitwirkung-und-finanzierungsvollmacht",
+       "titel": "Grundstückskaufvertrag: Finanzierungsmitwirkung und Finanzierungsvollmacht",
+       "beschreibung": "Finanzierungsmitwirkung des Verkäufers beim Grundstückskauf: Belastungsvollmacht/Finanzierungsvollmacht, Zweckbindung der Finanzierungsgrundschuld, eingeschränkte Sicherungsabrede, keine persönliche Haftung, Abtretung der Rückgewähransprüche."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/kaufpreisfalligkeit-allgemeine-falligkeitsvoraussetzungen",
+       "titel": "Kaufpreisfälligkeit: allgemeine Fälligkeitsvoraussetzungen",
+       "beschreibung": "Fälligkeitsvoraussetzungen beim Grundstückskauf: Eigentumsvormerkung, Sanierungsgenehmigung (§ 144 BauGB), gerichtliche Genehmigung, Nachgenehmigung, Amtsfortbestand, Vorkaufsrecht, Räumung; KV 22200."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/kaufpreisfalligkeit-lastenfreistellung-treuhandauflagen-und-ablosung",
+       "titel": "Kaufpreisfälligkeit: Lastenfreistellung, Treuhandauflagen und Ablösung",
+       "beschreibung": "Lastenfreistellung beim Grundstückskauf: Löschung von Grundpfandrechten (§ 27 GBO), Treuhandauflage, Ablösebeträge, Zahlungsanweisung an Gläubiger, Abtretung Rückgewähransprüche, Übernahme einer Grundschuld."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/kaufpreiszahlung-falligkeitsmitteilung-und-notaranderkonto",
+       "titel": "Kaufpreiszahlung: Fälligkeitsmitteilung und Notaranderkonto",
+       "beschreibung": "Fälligkeitsmitteilung des Notars beim Grundstückskauf: konstitutiv oder deklaratorisch, Prüfung von Treuhandauflagen; Notaranderkonto, Verwahrungsvereinbarung und Verwahrungsanweisung (§§ 57, 58 BeurkG), berechtigtes Sicherungsinteresse."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/kaufpreiszahlung-ratenzahlung-und-verzug",
+       "titel": "Kaufpreiszahlung: Ratenzahlung und Verzug",
+       "beschreibung": "Ratenzahlung beim Grundstückskaufvertrag, Sicherungshypothek für Restkaufpreis, verlorener Grundschuldbrief und Einbehalt; Schuldnerverzug ohne Mahnung (§ 286 Abs. 2 Nr. 2 BGB), Verzugszinsen und Basiszinssatz (§§ 288, 247 BGB)."
+      }
+     ]
+    },
+    {
+     "slug": "grundlagen-form-und-geldwasche",
+     "titel": "Grundlagen, Form und Geldwäsche",
+     "beschreibung": "Mindestinhalt und Bezeichnung des Grundbesitzes, Beurkundungspflicht nach § 311b BGB, Verbrauchervertrag und § 17 Abs. 2a BeurkG, Geldwäschepflichten sowie Vorleistungsrisiko und Vormerkungsschutz.",
+     "seiten_erwartet": 10,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/geldwasche-beim-grundstuckskauf-barzahlungsverbot-zahlungsnachweis-und-meldepflichten",
+       "titel": "Geldwäsche beim Grundstückskauf: Barzahlungsverbot, Zahlungsnachweis und Meldepflichten",
+       "beschreibung": "Barzahlungsverbot nach § 16a GwG beim Grundstückskauf: Zahlungsnachweis, Schlüssigkeitsprüfung vor Eigentumsumschreibung, 10.000-Euro-Grenze, Notaranderkonto, Verdachtsmeldung an FIU (goAML), GwGMeldV-Immobilien."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/geldwasche-beim-grundstuckskauf-identifizierung-wirtschaftlich-berechtigter-und-pep",
+       "titel": "Geldwäsche beim Grundstückskauf: Identifizierung, wirtschaftlich Berechtigter und PEP",
+       "beschreibung": "Geldwäscherechtliche Pflichten beim Grundstückskauf: Notar als Verpflichteter (§ 2 GwG), Identifizierung (§ 10 GwG), wirtschaftlich Berechtigter, Transparenzregister, Beurkundungsverbot (§ 10 Abs. 9 S. 4 GwG), PEP."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/grundstuckskaufvertrag-beurkundungspflicht-nach-311b-abs-1-bgb",
+       "titel": "Grundstückskaufvertrag: Beurkundungspflicht nach § 311b Abs. 1 BGB",
+       "beschreibung": "Beurkundungspflicht nach § 311b Abs. 1 BGB: erfasste Verträge, unwiderrufliche Vollmacht, Formmangel, Nebenabreden, Schwarzkauf, Zwecke der Form, Änderungen nach Auflassung, § 4 Abs. 3 WEG, § 11 Abs. 2 ErbbauRG."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/grundstuckskaufvertrag-mindestinhalt-und-bezeichnung-des-grundbesitzes",
+       "titel": "Grundstückskaufvertrag: Mindestinhalt und Bezeichnung des Grundbesitzes",
+       "beschreibung": "Mindestinhalt des Grundstückskaufvertrags (essentialia negotii, § 433 BGB) und Bezeichnung des Grundbesitzes: Grundbuchbeschrieb, Gemarkung, Flurstück, Blattnummer, Vorbemerkung, §§ 4–6 GBV, § 28 GBO."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/grundstuckskaufvertrag-vorleistungsrisiko-vormerkungsschutz-und-ablauf",
+       "titel": "Grundstückskaufvertrag: Vorleistungsrisiko, Vormerkungsschutz und Ablauf",
+       "beschreibung": "Vorleistungsrisiko beim Grundstückskauf: Interessenlage, Eigentumsvormerkung (§ 883 BGB), Umschreibungssperre, Ablauf der Abwicklung, ungesicherte Vorleistung und doppelte Belehrungspflicht (§ 17 BeurkG, BGH)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/verbrauchervertrag-beim-grundstuckskauf-begriff-und-verbrauchereigenschaft",
+       "titel": "Verbrauchervertrag beim Grundstückskauf: Begriff und Verbrauchereigenschaft",
+       "beschreibung": "Verbrauchervertrag beim Grundstückskauf: Begriff (§ 310 Abs. 3 BGB), Verbraucher und Unternehmer (§§ 13, 14 BGB), WEG-Gemeinschaft, GbR, Stellvertretung, öffentliche Hand, Landwirte, Maklerklausel, Zweifelsfälle."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/verbrauchervertrag-beim-grundstuckskauf-verfahren-nach-17-abs-2a-s-2-beurkg-und-materielle-folgen",
+       "titel": "Verbrauchervertrag beim Grundstückskauf: Verfahren nach § 17 Abs. 2a S. 2 BeurkG und materielle Folgen",
+       "beschreibung": "Verfahren beim Verbrauchervertrag nach § 17 Abs. 2a S. 2 BeurkG: Vertrauensperson, Zwei-Wochen-Frist, Entwurfsversand durch den Notar, Fristberechnung, wesentliche Änderungen, AGB-Kontrolle (§ 310 Abs. 3 BGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/vertrage-mit-der-gemeinde-bindungen-angemessenheit-nach-11-baugb-und-schenkungsverbot",
+       "titel": "Verträge mit der Gemeinde: Bindungen, Angemessenheit nach § 11 BauGB und Schenkungsverbot",
+       "beschreibung": "Bauplatzkauf von der Gemeinde: Bindung an Grundrechte und Europarecht, städtebaulicher Vertrag, Angemessenheit (§ 11 Abs. 2 BauGB), AGB-Kontrolle, Schenkungsverbot, Verkauf unter Wert, Nichtigkeit (§ 134 BGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/vertrage-mit-der-gemeinde-erschliessungsvertrage-und-bebauungsplane-nach-13b-baugb",
+       "titel": "Verträge mit der Gemeinde: Erschließungsverträge und Bebauungspläne nach § 13b BauGB",
+       "beschreibung": "Echter und unechter Erschließungsvertrag, Durchführungsvertrag (§ 12 BauGB), Beurkundungspflicht (§ 311b BGB, verknüpfte Verträge), Bebauungsplan nach § 13b BauGB (BVerwG 2023), Sicherungen im Bauplatzvertrag."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/vertrage-mit-der-gemeinde-erstwohnsitz-einheimischenmodelle-und-bebauungsplanregelungen",
+       "titel": "Verträge mit der Gemeinde: Erstwohnsitz, Einheimischenmodelle und Bebauungsplanregelungen",
+       "beschreibung": "Bauplatzvertrag der Gemeinde: Pflicht zur Verlegung des Erstwohnsitzes oder Gewerbesitzes, Regelungen zu künftigen Bebauungsplänen, Einheimischenmodell (EU-Leitlinien, zehn Jahre), Anspruch der Bewerber."
+      }
+     ]
+    },
+    {
+     "slug": "kosten-teilflache-und-vollzug",
+     "titel": "Kosten, Teilfläche und Vollzug",
+     "beschreibung": "Kostentragung und Grunderwerbsteuer, Verkauf einer unvermessenen Teilfläche, Anzeigen und Unbedenklichkeitsbescheinigung, Vermerke in Abteilung II und Ablauf vom Erstvollzug bis zum Endvollzug.",
+     "seiten_erwartet": 6,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/grundstuckskaufvertrag-kostentragung-grunderwerbsteuer-und-hinweispflichten",
+       "titel": "Grundstückskaufvertrag: Kostentragung, Grunderwerbsteuer und Hinweispflichten",
+       "beschreibung": "Kostentragung im Grundstückskaufvertrag (§ 448 Abs. 2 BGB), Grunderwerbsteuer, Gesamtschuld (§ 30 GNotKG, § 13 GrEStG), Hinweise: Energieausweis (GEG), Unbedenklichkeitsbescheinigung, Nebenabreden, Steuern."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/grundstuckskaufvertrag-verkauf-einer-unvermessenen-teilflache",
+       "titel": "Grundstückskaufvertrag: Verkauf einer unvermessenen Teilfläche",
+       "beschreibung": "Verkauf einer unvermessenen Teilfläche: Bestimmtheit, Lageplan, Bestimmungsrecht (§ 315 BGB), Fortführungsnachweis, Festpreis oder Quadratmeterpreis, Vormerkung am Gesamtgrundstück, Auflassung, Identitätserklärung (§ 28 GBO)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/teilflachenvertrag-finanzierungsgrundpfandrecht-vormerkung-und-typische-vollzugshindernisse",
+       "titel": "Teilflächenvertrag: Finanzierungsgrundpfandrecht, Vormerkung und typische Vollzugshindernisse",
+       "beschreibung": "Teilflächenkauf im Vollzug: Vormerkung am Gesamtgrundstück (§ 7 GBO), Finanzierungsgrundschuld an unvermessener Teilfläche, Identitätserklärung, Vollzugsvollmacht, § 181 BGB, typische Beanstandungen des Grundbuchamts."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/vollzug-des-grundstuckskaufvertrags-ablauf-von-erstvollzug-falligkeitsmitteilung-und-endvollzug",
+       "titel": "Vollzug des Grundstückskaufvertrags: Ablauf von Erstvollzug, Fälligkeitsmitteilung und Endvollzug",
+       "beschreibung": "Überblick Vollzug des Grundstückskaufvertrags: Erstvollzug, Fälligkeitsmitteilung, Endvollzug, Eigentumsumschreibung, Kaufpreisbestätigung, Löschung der Vormerkung, Vollzugsblatt."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/vollzug-des-grundstuckskaufvertrags-anzeigen-an-finanzamt-und-gutachterausschuss-unbedenklichkeitsbescheinigung",
+       "titel": "Vollzug des Grundstückskaufvertrags: Anzeigen an Finanzamt und Gutachterausschuss, Unbedenklichkeitsbescheinigung",
+       "beschreibung": "Veräußerungsanzeige an das Finanzamt (§ 18 GrEStG), elektronisch seit 01.10.2026, Steuer-ID, Zwei-Wochen-Frist, Absendevermerk, Gutachterausschuss (§ 195 BauGB), Unbedenklichkeitsbescheinigung (§ 22 GrEStG), BW."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/vollzug-des-grundstuckskaufvertrags-vermerke-in-abteilung-ii",
+       "titel": "Vollzug des Grundstückskaufvertrags: Vermerke in Abteilung II",
+       "beschreibung": "Vermerke in Abteilung II beim Kaufvertragsvollzug: Nacherbenvermerk, Testamentsvollstreckervermerk, Insolvenzvermerk, Amtsfortbestand, Sanierungs- und Umlegungsvermerk (§ 144 BauGB), Zwangsversteigerungsvermerk."
+      }
+     ]
+    },
+    {
+     "slug": "vertragsgegenstand-und-kaufpreis",
+     "titel": "Vertragsgegenstand und Kaufpreis",
+     "beschreibung": "Vertragsgegenstand mit Bestandteilen und Zubehör, Belastungen in Abteilung II, Grundbucheinsicht und Baulasten, Kaufpreis, Kaufpreisaufteilung, Vollstreckungsunterwerfung und Umsatzsteueroption.",
+     "seiten_erwartet": 6,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/grundstuckskaufvertrag-belastungen-in-abteilung-ii-beim-verkauf",
+       "titel": "Grundstückskaufvertrag: Belastungen in Abteilung II beim Verkauf",
+       "beschreibung": "Abteilung II beim Verkauf: Übernahme von Dienstbarkeiten, Löschung von Nießbrauch, Wohnungsrecht, Rückauflassungsvormerkung (§ 23 GBO, § 5 GBBerG), Vormerkung Dritter, dingliches Vorkaufsrecht als Fälligkeitsvoraussetzung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/grundstuckskaufvertrag-grundbucheinsicht-und-baulasten",
+       "titel": "Grundstückskaufvertrag: Grundbucheinsicht und Baulasten",
+       "beschreibung": "Grundbucheinsicht vor Beurkundung (§ 21 BeurkG), Beurkundung ohne Einsicht, Rötungen, Belehrung über Belastungen, Briefgrundpfandrecht und Kraftloserklärung, Baulasten und Baulastenverzeichnis."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/grundstuckskaufvertrag-kaufpreis-kaufpreisaufteilung-vollstreckungsunterwerfung-und-umsatzsteueroption",
+       "titel": "Grundstückskaufvertrag: Kaufpreis, Kaufpreisaufteilung, Vollstreckungsunterwerfung und Umsatzsteueroption",
+       "beschreibung": "Kaufpreis im Grundstückskaufvertrag: Unterverbriefung/Schwarzkauf, Kaufpreisaufteilung Gebäude/Boden (AfA), Zwangsvollstreckungsunterwerfung (§ 794 ZPO), Umsatzsteueroption (§ 9 UStG), GwGMeldV."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/grundstuckskaufvertrag-vertragsgegenstand-bestandteile-zubehor-und-bewegliche-sachen",
+       "titel": "Grundstückskaufvertrag: Vertragsgegenstand, Bestandteile, Zubehör und bewegliche Sachen",
+       "beschreibung": "Vertragsgegenstand beim Grundstückskauf: Grundstück, Teilfläche, Miteigentum, Wohnungseigentum, Sondernutzungsrecht, Erbbaurecht; wesentliche Bestandteile (§§ 93, 94 BGB), Zubehör (§§ 97, 311c BGB), mitverkauftes Inventar."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/vertrage-mit-der-gemeinde-aufzahlung-vertragsstrafe-und-selbstnutzungsverpflichtung",
+       "titel": "Verträge mit der Gemeinde: Aufzahlung, Vertragsstrafe und Selbstnutzungsverpflichtung",
+       "beschreibung": "Aufzahlungsklausel, Mehrerlösabschöpfung, Vertragsstrafe und Selbstnutzungsverpflichtung beim verbilligten Bauplatzkauf von der Gemeinde: Grenzen nach BGH, zulässige Bindungsdauer je nach Subvention."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/vertrage-mit-der-gemeinde-bauverpflichtung-wiederkaufsrecht-und-heimfall",
+       "titel": "Verträge mit der Gemeinde: Bauverpflichtung, Wiederkaufsrecht und Heimfall",
+       "beschreibung": "Bauverpflichtung beim Bauplatzkauf von der Gemeinde: Zulässigkeit, Baufrist, Obliegenheit, Wiederkaufsrecht (Rückkaufsrecht), Ausübungsfrist, Grunderwerbsteuer (§ 16 GrEStG), Verzicht, entschädigungsloser Heimfall."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "handels-und-gesellschaftsrecht",
+   "titel": "Handels- und Gesellschaftsrecht",
+   "beschreibung": "Handelsregister, Kaufmann, Firma und Prokura, Registerangaben und Notarbescheinigungen, Personengesellschaften (GbR, OHG, KG, GmbH & Co. KG) sowie GmbH und UG (haftungsbeschränkt).",
+   "seiten_erwartet": 33,
+   "abschnitte": [
+    {
+     "slug": "gmbh-und-ug-haftungsbeschrankt",
+     "titel": "GmbH und UG (haftungsbeschränkt)",
+     "beschreibung": "Stammkapital und Einlagen, Gründung und Musterprotokoll, Satzung und Satzungsänderung, Geschäftsführer, Anteilsübertragung und Gesellschafterliste, Kapitalmaßnahmen, Liquidation und UG (haftungsbeschränkt).",
+     "seiten_erwartet": 12,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-erstanmeldung-versicherungen-der-geschaftsfuhrer-und-online-grundung",
+       "titel": "GmbH: Erstanmeldung, Versicherungen der Geschäftsführer und Online-Gründung",
+       "beschreibung": "GmbH-Erstanmeldung zum Handelsregister: Unterlagen, Vertretungsbefugnis, Versicherungen der Geschäftsführer (§ 6 Abs. 2, § 7 Abs. 2, 3 GmbHG, § 53 BZRG, Betreuung), Geschäftsanschrift, Online-Gründung §§ 16a ff. BeurkG."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-geschaftsanteilsubertragung-und-gesellschafterliste",
+       "titel": "GmbH: Geschäftsanteilsübertragung und Gesellschafterliste",
+       "beschreibung": "Anteilsverkauf GmbH: Abtretung von Geschäftsanteilen § 15 GmbHG, Beurkundung, Vorbereitung, Teilung, Gesellschafterliste § 40 GmbHG mit Notarbescheinigung, § 16 GmbHG, Grunderwerbsteuer-Anzeige Baden-Württemberg."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-geschaftsfuhrer-vertretung-bestellung-abberufung-amtsniederlegung",
+       "titel": "GmbH: Geschäftsführer – Vertretung, Bestellung, Abberufung, Amtsniederlegung",
+       "beschreibung": "Geschäftsführerwechsel GmbH: Bestellung, Annahme, Gesamtvertretung § 35 GmbHG, Befreiung § 181 BGB, Abberufung, Amtsniederlegung, Handelsregisteranmeldung, Niederschrift des Gesellschafterbeschlusses."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-grundung-im-vereinfachten-verfahren-musterprotokoll",
+       "titel": "GmbH: Gründung im vereinfachten Verfahren (Musterprotokoll)",
+       "beschreibung": "Musterprotokoll GmbH/UG: vereinfachtes Verfahren § 2 Abs. 1a GmbHG, max. drei Gesellschafter, ein Geschäftsführer, keine Abweichung vom Mustertext, Nachteile, Kosten § 107 GNotKG."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-grundungsurkunde-belehrungen-und-grundungsvollmacht",
+       "titel": "GmbH: Gründungsurkunde, Belehrungen und Gründungsvollmacht",
+       "beschreibung": "GmbH-Gründung: Gründungsprotokoll, Gesellschaftsvertrag als Anlage, notarielle Belehrungen zu Handelndenhaftung, Unterbilanz, Hin- und Herzahlen, Gründungsvollmacht § 2 Abs. 2 GmbHG, Ein-Personen-GmbH § 180 BGB."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-kapitalerhohung",
+       "titel": "GmbH: Kapitalerhöhung",
+       "beschreibung": "GmbH-Kapitalerhöhung: Bar- und Sachkapitalerhöhung §§ 55 ff. GmbHG, Beschluss, Übernahmeerklärung, Übernehmerliste, Gesellschafterliste, Anmeldung durch alle Geschäftsführer § 78 GmbHG, Versicherung § 57 GmbHG."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-kapitalherabsetzung-auflosung-und-liquidation",
+       "titel": "GmbH: Kapitalherabsetzung, Auflösung und Liquidation",
+       "beschreibung": "GmbH-Kapitalherabsetzung § 58 GmbHG, Auflösung § 60 GmbHG (Auflösungsbeschluss, Insolvenz, Löschung), Liquidation, Liquidatoren, Sperrjahr § 73 GmbHG, Erlöschen der GmbH, Gläubigeraufruf."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-notwendige-und-fakultative-satzungsbestandteile",
+       "titel": "GmbH: notwendige und fakultative Satzungsbestandteile",
+       "beschreibung": "GmbH-Satzung: Mindestinhalt § 3 GmbHG (Firma, Sitz, Unternehmensgegenstand, Stammkapital, Geschäftsanteile), Gesellschafterliste bei Gründung, fakultative Regelungen (Einziehung, Gewinnverwendung), Gründungsaufwand."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-satzungsanderung",
+       "titel": "GmbH: Satzungsänderung",
+       "beschreibung": "GmbH-Satzungsänderung: beurkundeter Gesellschafterbeschluss § 53 GmbHG, Dreiviertelmehrheit, Neufassung, Anmeldung, Notarbescheinigung § 54 GmbHG, Wirksamkeit mit Eintragung, Angaben § 10 GmbHG."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-stammkapital-einlagen-und-sacheinlagen",
+       "titel": "GmbH: Stammkapital, Einlagen und Sacheinlagen",
+       "beschreibung": "GmbH-Gründung: Mindeststammkapital 25.000 EUR, Geschäftsanteile, Mindesteinzahlung, Bareinlage, Sacheinlage, Sachgründungsbericht, Werthaltigkeit, freie Verfügung, Ein-Personen-GmbH (§§ 1, 5, 7, 8 GmbHG)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-vorratsgrundung-und-mantelverwendung",
+       "titel": "GmbH: Vorratsgründung und Mantelverwendung",
+       "beschreibung": "Vorratsgesellschaft und Mantelkauf: offene Vorratsgründung, Mantelverwendung, wirtschaftliche Neugründung, Offenlegung beim Registergericht, Versicherung § 8 Abs. 2 GmbHG, Unterbilanzhaftung, Handelndenhaftung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/ug-haftungsbeschrankt-kapital-rucklage-firma-und-kapitalerhohung",
+       "titel": "UG (haftungsbeschränkt): Kapital, Rücklage, Firma und Kapitalerhöhung",
+       "beschreibung": "Unternehmergesellschaft UG (haftungsbeschränkt) § 5a GmbHG: Stammkapital ab 1 EUR, Volleinzahlung, Sacheinlageverbot, gesetzliche Rücklage, Firmenzusatz, Kapitalerhöhung auf 25.000 EUR, Umwandlung in GmbH."
+      }
+     ]
+    },
+    {
+     "slug": "personengesellschaften",
+     "titel": "Personengesellschaften",
+     "beschreibung": "GbR mit Gesellschaftsregister und Voreintragung, OHG, KG und GmbH & Co. KG: Gründung, Haftung, Vertretung, Gesellschafterwechsel, Anteilsübertragung, Tod und Liquidation.",
+     "seiten_erwartet": 9,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/gbr-anteilsubertragung-ausscheiden-tod-und-auflosung",
+       "titel": "GbR: Anteilsübertragung, Ausscheiden, Tod und Auflösung",
+       "beschreibung": "GbR-Anteil verkaufen/übertragen (§ 711 BGB, formfrei auch bei Grundbesitz), Gesellschafterwechsel anmelden, Ausscheiden (§ 723 BGB), Tod und Nachfolgeklausel, Sondererbfolge, Auflösung (§ 729 BGB) und Liquidation."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/gbr-gesellschaftsregister-und-voreintragung-grundbuch-kg-gmbh",
+       "titel": "GbR: Gesellschaftsregister und Voreintragung (Grundbuch, KG, GmbH)",
+       "beschreibung": "eGbR und Gesellschaftsregister (§§ 707 ff. BGB): Erstanmeldung, Namenszusatz, Transparenzregister, Voreintragung für Grundbuch (§ 47 Abs. 2 GBO), Gesellschafterliste (§ 40 GmbHG), GbR als Kommanditistin; GbR ins Grundbuch."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/gbr-grundung-haftung-geschaftsfuhrung-und-vertretung",
+       "titel": "GbR: Gründung, Haftung, Geschäftsführung und Vertretung",
+       "beschreibung": "Gesellschaft bürgerlichen Rechts nach MoPeG: formfreie Gründung, Außen-/Innen-GbR (§ 705 BGB), Beurkundung bei Immobilieneinbringung (§ 311b BGB), Haftung § 721 BGB, Geschäftsführung § 715 BGB, Vertretung § 720 BGB."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/gmbh-co-kg-grundung-firmierung-anteilsverkauf-und-einheitsgesellschaft",
+       "titel": "GmbH & Co. KG: Gründung, Firmierung, Anteilsverkauf und Einheitsgesellschaft",
+       "beschreibung": "GmbH & Co. KG gründen: Verwaltungs-GmbH, Firmierung (§ 19 Abs. 2 HGB), Anmeldung, Anteilsverkauf GmbH- und Kommanditanteil beurkundungspflichtig (§ 15 GmbHG), Einheitsgesellschaft, Stimmrecht § 170 Abs. 2 HGB."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/kg-grundlagen-grundung-haftung-vor-eintragung-und-anmeldung",
+       "titel": "KG: Grundlagen, Gründung, Haftung vor Eintragung und Anmeldung",
+       "beschreibung": "Kommanditgesellschaft gründen: Komplementär und Kommanditist, Haftsumme (§§ 171, 172 HGB), Haftung vor Eintragung (§ 176 HGB), formfreier KG-Vertrag, Handelsregisteranmeldung durch alle Gesellschafter (§ 162 HGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/kg-kommanditistenwechsel-anteilsubertragung-und-tod",
+       "titel": "KG: Kommanditistenwechsel, Anteilsübertragung und Tod",
+       "beschreibung": "Kommanditanteil verkaufen/übertragen: Sonderrechtsnachfolge, Eintritt neuer Kommanditist (§ 176 Abs. 2 HGB, aufschiebende Bedingung), Tod eines Kommanditisten (§ 177 HGB), Erbnachweis zum Handelsregister, Testamentsvollstreckung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/kg-komplementarwechsel-haftsummenanderung-und-liquidation",
+       "titel": "KG: Komplementärwechsel, Haftsummenänderung und Liquidation",
+       "beschreibung": "KG: Komplementär austauschen, Komplementär wird Kommanditist (Nachhaftung fünf Jahre), Haftsumme erhöhen oder herabsetzen (§§ 174, 175 HGB), Firmenfortführung (§ 24 HGB), Auflösung und Liquidatoren (§ 144 HGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/ohg-grundung-und-handelsregisteranmeldung",
+       "titel": "OHG: Gründung und Handelsregisteranmeldung",
+       "beschreibung": "Offene Handelsgesellschaft gründen: formfreier Gesellschaftsvertrag, Handelsgewerbe (§ 105 HGB), Handelsregisteranmeldung nach § 106 HGB, Unterzeichnung durch alle Gesellschafter, Anmeldeprinzip, Statuswechsel aus Gesellschaftsregister."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/ohg-haftung-vertretung-gesellschafterwechsel-und-liquidation",
+       "titel": "OHG: Haftung, Vertretung, Gesellschafterwechsel und Liquidation",
+       "beschreibung": "OHG: persönliche Haftung (§ 126 HGB), Vertretung (§ 124 HGB), Gesellschafterwechsel anmelden (§ 106 Abs. 6, 7 HGB), Firmenfortführung (§ 24 HGB), Tod und Nachfolgeklausel, Auflösung (§ 138 HGB), Liquidation, Löschung."
+      }
+     ]
+    },
+    {
+     "slug": "register-und-handelsrecht",
+     "titel": "Register und Handelsrecht",
+     "beschreibung": "Handelsregister und Anmeldung, Kaufmannsbegriff, Firma, Sitz, Geschäftsanschrift und Unternehmensgegenstand, Prokura, Personenangaben in Anmeldungen sowie Register- und Vertretungsbescheinigung (§ 21 BNotO).",
+     "seiten_erwartet": 11,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/firma-begriff-und-firmengrundsatze",
+       "titel": "Firma: Begriff und Firmengrundsätze",
+       "beschreibung": "Firmenname, Firmenrecht: Firma § 17 HGB, kein Firmenverkauf § 23 HGB, Kennzeichnungs- und Unterscheidungskraft § 18, § 30 HGB, Irreführung § 18 Abs. 2 HGB, Rechtsformzusatz § 19 HGB, IHK-Prüfung"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/firma-verausserung-des-einzelkaufmannischen-unternehmens",
+       "titel": "Firma: Veräußerung des einzelkaufmännischen Unternehmens",
+       "beschreibung": "Firmenverkauf, Unternehmensverkauf Einzelkaufmann: Firmenfortführung § 22 HGB, Erwerberhaftung § 25 Abs. 1 HGB, Haftungsausschluss § 25 Abs. 2 HGB, Inhaberwechsel, Anmeldung durch alten und neuen Inhaber"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/gesellschaftsrecht-offentlich-rechtliche-genehmigungen-und-registereintragung",
+       "titel": "Gesellschaftsrecht: öffentlich-rechtliche Genehmigungen und Registereintragung",
+       "beschreibung": "Genehmigungen und Handelsregister: keine Prüfung durch Registergericht (§ 8 Abs. 1 Nr. 6 GmbHG a.F.), Ausnahme § 43 KWG (BaFin), freie Berufe (§ 59f BRAO, § 53 StBerG, WPO), GmbH & Co. KG, Firma."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/handelsrecht-kaufmannsbegriff-und-freiberufler",
+       "titel": "Handelsrecht: Kaufmannsbegriff und Freiberufler",
+       "beschreibung": "Kaufmann: Istkaufmann § 1 HGB, Kannkaufmann § 2 HGB, Land- und Forstwirtschaft § 3 HGB, Formkaufmann § 6 HGB, Eintragungspflicht § 29 HGB, Freiberufler in OHG/KG § 107 Abs. 1 S. 2 HGB, MoPeG"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/handelsregister-anmeldung-anmeldeberechtigte-und-beizufugende-unterlagen",
+       "titel": "Handelsregister: Anmeldung, Anmeldeberechtigte und beizufügende Unterlagen",
+       "beschreibung": "Handelsregisteranmeldung: Form § 12 HGB, Anmeldepflichtige (Geschäftsführer, Gesellschafter, Prokurist), Anlagen bei HRB, Anmeldeprinzip HRA, Zwangsgeld § 14 HGB, eintragungsfähige Tatsachen"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/handelsregister-registergerichte-abteilungen-und-einsicht",
+       "titel": "Handelsregister: Registergerichte, Abteilungen und Einsicht",
+       "beschreibung": "Registergerichte Baden-Württemberg (Stuttgart, Ulm, Mannheim, Freiburg), Rechtspfleger §§ 3, 17 RPflG, HRA/HRB § 3 HRV, Gesellschafts-, Vereinsregister, handelsregister.de, Registerauszug § 30a HRV"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/notarbescheinigungen-register-und-vertretungsbescheinigung-21-bnoto",
+       "titel": "Notarbescheinigungen: Register- und Vertretungsbescheinigung (§ 21 BNotO)",
+       "beschreibung": "Vertretungsbescheinigung, Registerbescheinigung, Notarbestätigung § 21 BNotO: Registereinsicht, Vollmachtsbescheinigung § 21 Abs. 3 BNotO, Vermerkform § 39 BeurkG, Datum der Einsicht, Vertretungsnachweis"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/prokura-erteilung-umfang-erloschen-und-anmeldung",
+       "titel": "Prokura: Erteilung, Umfang, Erlöschen und Anmeldung",
+       "beschreibung": "Prokura, Prokurist: Erteilung § 48 HGB, Umfang § 49 HGB, Grundstücksbefugnis, Gesamtprokura, Niederlassungsprokura § 50 Abs. 3 HGB, Widerruf § 52 HGB, Anmeldung § 53 HGB, Gesellschafterbeschluss § 46 Nr. 7 GmbHG"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/registerangaben-sitz-und-geschaftsanschrift",
+       "titel": "Registerangaben: Sitz und Geschäftsanschrift",
+       "beschreibung": "Sitzverlegung, Umzug, Adressänderung: Satzungssitz § 4a GmbHG, Verwaltungssitz, Hauptniederlassung, inländische Geschäftsanschrift § 8 Abs. 4 Nr. 1 GmbHG, § 24 Abs. 2 HRV, öffentliche Zustellung § 15a HGB"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/registerangaben-unternehmensgegenstand-und-erlaubnispflichtige-gewerbe",
+       "titel": "Registerangaben: Unternehmensgegenstand und erlaubnispflichtige Gewerbe",
+       "beschreibung": "Unternehmensgegenstand, Geschäftszweck: Eintragung § 10 GmbHG, § 24 Abs. 4 HRV, Individualisierung, „aller Art“ unzulässig, Komplementär-GmbH, BaFin § 43 KWG, erlaubnispflichtiges Gewerbe § 34c GewO"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/registeranmeldung-personenangaben-und-wohnanschrift-donot",
+       "titel": "Registeranmeldung: Personenangaben und Wohnanschrift (DONot)",
+       "beschreibung": "Personenangaben in der Handelsregisteranmeldung: Name, Geburtsdatum, Wohnort statt Wohnanschrift; § 5a DONot (Wohnanschrift, Ausweisnummer, Kontoverbindung schwärzen), § 5 Abs. 1 DONot, Geschäftsanschrift"
+      }
+     ]
+    },
+    {
+     "slug": "",
+     "titel": "(Seiten direkt im Kapitel)",
+     "beschreibung": "",
+     "seiten_erwartet": 1,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gesellschaftsformen-uberblick-und-strukturelle-unterschiede",
+       "titel": "Gesellschaftsformen: Überblick und strukturelle Unterschiede",
+       "beschreibung": "Rechtsformwahl: GbR, OHG, KG, GmbH, UG, AG im Vergleich – numerus clausus, Haftung, Selbst- und Fremdorganschaft, Einstimmigkeit/Mehrheit, Kapitalerhaltung (§ 30 GmbHG, § 172 Abs. 4 HGB), Unternehmensgründung."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "notariatsorganisation",
+   "titel": "Notariatsorganisation",
+   "beschreibung": "Akten und Verzeichnisse des Notars nach der NotAktVV, Anzeige- und Mitteilungspflichten gegenüber Finanzamt, Gutachterausschuss und Transparenzregister sowie Datenschutz und IT-Sicherheit im Notarbüro.",
+   "seiten_erwartet": 37,
+   "abschnitte": [
+    {
+     "slug": "akten-und-verzeichnisse",
+     "titel": "Akten und Verzeichnisse",
+     "beschreibung": "Rechtsgrundlagen und Übergang aus der DONot, Urkundenverzeichnis, Verwahrungsverzeichnis, Urkundensammlung, Nebenakten einschließlich Verwahrungsgeschäften sowie Aufbewahrungsfristen.",
+     "seiten_erwartet": 14,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/akten-und-verzeichnisse-aufbewahrungsfristen",
+       "titel": "Akten und Verzeichnisse: Aufbewahrungsfristen",
+       "beschreibung": "Aufbewahrungsfristen § 50 NotAktVV: UVZ 100 Jahre, VVZ 30 Jahre, Urkundensammlung 30, elektronische Urkundensammlung 100, Nebenakte 7 Jahre; Fristbeginn, Sammelakte § 52, Altbestände, Aussonderung, Vernichtung"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/akten-und-verzeichnisse-rechtsgrundlagen-und-schutzziele",
+       "titel": "Akten und Verzeichnisse: Rechtsgrundlagen und Schutzziele",
+       "beschreibung": "Notarielle Akten und Verzeichnisse: § 35 BNotO, NotAktVV (§ 36 BNotO), Schutzziele Verfügbarkeit, Integrität, Transparenz, Vertraulichkeit, Elektronisches Urkundenarchiv, Ablösung der DONot, Aktenführung im Notariat"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/akten-und-verzeichnisse-rechtslage-bis-2021-donot-und-ubergang",
+       "titel": "Akten und Verzeichnisse: Rechtslage bis 2021 (DONot) und Übergang",
+       "beschreibung": "Frühere Rechtslage nach DONot: Urkundenrolle, Verwahrungsbuch, Massenbuch, Anderkontenliste, Namensverzeichnis, alte Aufbewahrungsfristen, Übergang zur NotAktVV bis 30.06.2022, Altbestände"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/nebenakten-anlass-inhalt-und-fuhrung-in-papierform",
+       "titel": "Nebenakten: Anlass, Inhalt und Führung in Papierform",
+       "beschreibung": "Nebenakte: Anlass und Pflicht zur Führung § 40 NotAktVV, Inhalt (Entwürfe, Schriftverkehr, Ausweiskopien), Sammelakte, Gesundheitsdaten, Führung in Papierform § 42 NotAktVV, Aktenorganisation"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/nebenakten-elektronische-fuhrung-misch-und-parallelfuhrung",
+       "titel": "Nebenakten: elektronische Führung, Misch- und Parallelführung",
+       "beschreibung": "Elektronische Nebenakte: Strukturdatensatz § 43 NotAktVV, Dateiformate der Bundesnotarkammer, Export, Gleichwertigkeit, Mischführung und Parallelführung Papier/elektronisch § 44 NotAktVV"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/nebenakten-verwahrungsgeschafte",
+       "titel": "Nebenakten: Verwahrungsgeschäfte",
+       "beschreibung": "Nebenakte zum Verwahrungsgeschäft, Notaranderkonto: keine Sammelakte (§ 41 NotAktVV), Treuhandauftrag, Formwechsel zum Jahresbeginn, Kontoauszüge mit Massennummer, Belege mit Buchungsnummer, Abgleich mit VVZ"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundensammlung-elektronisch-und-in-papierform",
+       "titel": "Urkundensammlung: elektronisch und in Papierform",
+       "beschreibung": "Urkundensammlung: elektronische Urkundensammlung seit 01.07.2022, elektronische Fassung der Urschrift gleichgestellt (§ 45 BeurkG), Papier-Urkundensammlung § 31 NotAktVV, Erbvertragssammlung, Sondersammlung, Abgabe bei Amtsende"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundensammlung-gleichlauf-sondersammlung-vermerke-und-nachtrage",
+       "titel": "Urkundensammlung: Gleichlauf, Sondersammlung, Vermerke und Nachträge",
+       "beschreibung": "Gleichlauf Urkundensammlung und elektronische Urkundensammlung (Kongruenz, §§ 31, 34, 37 NotAktVV): mitscannen, Vertretungsnachweis, Sondersammlung über DIN A3, Vermerke, Nachtragsurkunde § 44b BeurkG"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundenverzeichnis-uvz",
+       "titel": "Urkundenverzeichnis (UVZ)",
+       "beschreibung": "Urkundenverzeichnis UVZ: ersetzt Urkundenrolle, Namensverzeichnis, Erbvertragsverzeichnis; UVZ-Nummer, Elektronisches Urkundenarchiv, Geburtsdatum Pflicht, Eintragung spätestens 14 Tage (§ 18 NotAktVV), Ortsangabe"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundenverzeichnis-angaben-bei-verfugungen-von-todes-wegen-16-notaktvv",
+       "titel": "Urkundenverzeichnis: Angaben bei Verfügungen von Todes wegen (§ 16 NotAktVV)",
+       "beschreibung": "UVZ bei Testament und Erbvertrag (§ 16 NotAktVV): Ablieferungsdatum amtliche Verwahrung § 34 BeurkG, ZTR-Bestätigung, notariell verwahrter Erbvertrag, Rückgabe, Löschung und Vermerk § 38 NotAktVV"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundenverzeichnis-beteiligte-in-gesellschaftsrechtlichen-angelegenheiten-12-abs-5-notaktvv",
+       "titel": "Urkundenverzeichnis: Beteiligte in gesellschaftsrechtlichen Angelegenheiten (§ 12 Abs. 5 NotAktVV)",
+       "beschreibung": "UVZ in Gesellschaftssachen (§ 12 Abs. 5 NotAktVV): Gesellschaft immer eintragen, GmbH-Gründung Vorgesellschaft, Handelsregisteranmeldung Geschäftsführer als Vertreter, GmbH & Co. KG"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundenverzeichnis-erfassung-von-geschaftsgegenstand-urkundenart-und-nachtragen",
+       "titel": "Urkundenverzeichnis: Erfassung von Geschäftsgegenstand, Urkundenart und Nachträgen",
+       "beschreibung": "UVZ richtig erfassen: Geschäftsgegenstand aus Liste, Zusatz, Nachtrag in Bemerkung, Verbindungen, Identitätserklärung, Genehmigung, Erbscheinsantrag mit EV, Videoverfahren, 4,50 € § 2 Abs. 2 S. 2 UA-GebS"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundenverzeichnis-jahresexport-und-archivierung-19-notaktvv",
+       "titel": "Urkundenverzeichnis: Jahresexport und Archivierung (§ 19 NotAktVV)",
+       "beschreibung": "Jahresexport des Urkundenverzeichnisses: Speicherung im Elektronischen Urkundenarchiv Pflicht (§ 19 Abs. 2 S. 2 NotAktVV), Jahresabschluss signieren, Verwahrungsverzeichnis § 29 NotAktVV"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/verwahrungsverzeichnis-vvz-inhalt-buchungen-anderungen-und-bestatigung",
+       "titel": "Verwahrungsverzeichnis (VVZ): Inhalt, Buchungen, Änderungen und Bestätigung",
+       "beschreibung": "Verwahrungsverzeichnis VVZ: Notaranderkonto, Verwahrungsmasse, Massennummer, Buchungen unverzüglich (§ 25 NotAktVV), ersetzt Massenbuch und Verwahrungsbuch, persönliche Bestätigung von Änderungen § 30 NotAktVV"
+      }
+     ]
+    },
+    {
+     "slug": "anzeige-und-mitteilungspflichten",
+     "titel": "Anzeige- und Mitteilungspflichten",
+     "beschreibung": "Anzeigen nach § 18 GrEStG mit Folgen für § 16 GrEStG, nach § 34 ErbStG und § 54 EStDV sowie Mitteilungen an Gutachterausschuss und Transparenzregister.",
+     "seiten_erwartet": 7,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-erbschaft-und-schenkungsteuer-34-erbstg",
+       "titel": "Anzeigepflichten: Erbschaft- und Schenkungsteuer (§ 34 ErbStG)",
+       "beschreibung": "Schenkungsteuer-/Erbschaftsteuer-Anzeige § 34 ErbStG: Schenkung, Erbauseinandersetzung, § 8 ErbStDV, Muster 5 und 6, Vordrucke Baden-Württemberg, Absendevermerk, künftig elektronisch und Vermerk im UVZ"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-grunderwerbsteuer-18-grestg",
+       "titel": "Anzeigepflichten: Grunderwerbsteuer (§ 18 GrEStG)",
+       "beschreibung": "Veräußerungsanzeige Grunderwerbsteuer § 18 GrEStG: elektronisch seit 01.10.2026 (§ 22a GrEStG, § 93c AO), Frist zwei Wochen, Fristverlängerung, Absendevermerk im UVZ, Ausfertigungssperre"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-grunderwerbsteuer-bei-umwandlungen-anwachsungen-und-anteilsubertragungen",
+       "titel": "Anzeigepflichten: Grunderwerbsteuer bei Umwandlungen, Anwachsungen und Anteilsübertragungen",
+       "beschreibung": "Grunderwerbsteuer-Anzeige bei Umwandlung, Anwachsung, Share-Deal (§ 1 Abs. 2a–3a, § 18 GrEStG): Landeszentralstelle LZgG Finanzamt Schwetzingen, § 1 Nr. 15a FAZuVO, BV GrESt 001/003, §§ 17, 20 GrEStG"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-grunderwerbsteuer-folgen-fur-16-grestg",
+       "titel": "Anzeigepflichten: Grunderwerbsteuer – Folgen für § 16 GrEStG",
+       "beschreibung": "§ 16 Abs. 5 GrEStG: Ausschluss der Rückgängigmachung bei verspäteter oder unvollständiger Anzeige, nur Erwerbsvorgänge § 1 Abs. 2 bis 3a (Anteilserwerb), Anzeige Notar § 18 / Steuerschuldner § 19, BFH 2023, Steuererstattung"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-grunderwerbsteuer-verhaltnis-zu-19-grestg-und-folgen-fehlender-anzeigen",
+       "titel": "Anzeigepflichten: Grunderwerbsteuer – Verhältnis zu § 19 GrEStG und Folgen fehlender Anzeigen",
+       "beschreibung": "Doppelte Anzeigepflicht Notar § 18 und Beteiligte § 19 GrEStG: Fristen, nicht übertragbar, Steuererklärung; Folgen: Anlaufhemmung § 170 AO, Verspätungszuschlag § 152 AO, § 16 Abs. 5 GrEStG"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-kapitalgesellschaften-54-estdv",
+       "titel": "Anzeigepflichten: Kapitalgesellschaften (§ 54 EStDV)",
+       "beschreibung": "Anzeige an das Finanzamt § 54 EStDV: GmbH-Gründung, Kapitalerhöhung, Umwandlung, Anteilsabtretung, Zweigniederlassung, beglaubigte Abschrift binnen zwei Wochen, Steuernummer, Absendevermerk, Ausfertigungssperre, § 20 AO"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/mitteilungspflichten-gutachterausschuss-und-transparenzregister",
+       "titel": "Mitteilungspflichten: Gutachterausschuss und Transparenzregister",
+       "beschreibung": "Mitteilung an den Gutachterausschuss § 195 BauGB: Abschrift, ab 2027 elektronisch mit Datensatz (eNoVA), Mitteilungspflicht der Beteiligten; Transparenzregister §§ 18 ff. GwG, wirtschaftlich Berechtigter"
+      }
+     ]
+    },
+    {
+     "slug": "datenschutz",
+     "titel": "Datenschutz",
+     "beschreibung": "Rechtsquellen und Verschwiegenheit, Rechtsgrundlagen der Verarbeitung, Betroffenenrechte, Informationspflichten, technisch-organisatorische Maßnahmen, IT-Sicherheit, Datenschutzverletzung und Auftragsverarbeitung.",
+     "seiten_erwartet": 12,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/cloud-dienste-im-notariat-verschwiegenheit-dsgvo-microsoft-365-und-auslagerung",
+       "titel": "Cloud-Dienste im Notariat: Verschwiegenheit, DSGVO, Microsoft 365 und Auslagerung",
+       "beschreibung": "Cloud-Dienstleister und Microsoft 365 im Notariat: § 26a BNotO, AV-Vertrag, Verarbeitungsverzeichnis, Datenschutz-Folgenabschätzung, europäische Anbieter, Cloud Act, Outsourcing, KI"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/cloud-nutzung-im-notariat-berufsrechtliche-grenzen-35-bnoto",
+       "titel": "Cloud-Nutzung im Notariat: berufsrechtliche Grenzen (§ 35 BNotO)",
+       "beschreibung": "Cloud im Notariat (Rundschreiben Nr. 1/2026, § 35 Abs. 2, 4 BNotO): Akten in Geschäftsstelle, führende Nebenakte, Cloud als Hilfsmittel, Übernahme wöchentlich, Urkundsentwürfe, Notarsoftware in der Cloud"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-auftragsverarbeitung-und-cloud-dienste",
+       "titel": "Datenschutz: Auftragsverarbeitung und Cloud-Dienste",
+       "beschreibung": "Auftragsverarbeitung im Notariat (Art. 4 Nr. 8, Art. 28 DSGVO): AV-Vertrag, IT-Dienstleister, Verschwiegenheitsverpflichtung § 26a BNotO, Cloud-Dienste, Datenstandort EU/EWR, Drittland (Art. 44 DSGVO)"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-betroffenenrechte-auskunft-und-loschung",
+       "titel": "Datenschutz: Betroffenenrechte, Auskunft und Löschung",
+       "beschreibung": "Betroffenenrechte im Notariat (Art. 12–21 DSGVO): Auskunftsersuchen (Art. 15), Löschung (Art. 17) und Aufbewahrungspflicht, Einschränkungen §§ 8–11 LDSG BW, § 29 BDSG, Recht auf Vergessenwerden, Datenauskunft"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-datenschutzverletzung-meldung-und-benachrichtigung",
+       "titel": "Datenschutz: Datenschutzverletzung, Meldung und Benachrichtigung",
+       "beschreibung": "Datenschutzverletzung (Datenpanne, Art. 4 Nr. 12 DSGVO): Meldung an die Aufsichtsbehörde binnen 72 Stunden (Art. 33), Benachrichtigung Betroffener bei hohem Risiko (Art. 34), § 29 BDSG, Dokumentation"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-informationspflichten",
+       "titel": "Datenschutz: Informationspflichten",
+       "beschreibung": "Informationspflichten nach Art. 13 DSGVO im Notariat: Datenschutzinformation, Datenschutzhinweise auf Homepage, E-Mail-Signatur und Briefkopf, Inhalt, Zeitpunkt der Erhebung, keine Unterschrift des Mandanten"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-it-sicherheit-und-social-engineering",
+       "titel": "Datenschutz: IT-Sicherheit und Social Engineering",
+       "beschreibung": "IT-Sicherheit im Notariat: Schulung und Sensibilisierung, Social Engineering, Phishing-E-Mails, CEO-Fraud (Chef-Betrug, gefälschte Zahlungsanweisung), Telefonbetrug, Fernwartung, Handreichung IT-Sicherheit der BNotK"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-personenbezogene-daten-und-besondere-kategorien",
+       "titel": "Datenschutz: personenbezogene Daten und besondere Kategorien",
+       "beschreibung": "Personenbezogene Daten (Art. 4 Nr. 1 DSGVO), Verantwortlicher (Art. 4 Nr. 7), Datenarten im Notariat, besondere Kategorien (Art. 9 DSGVO): Gesundheitsdaten (§ 22 BeurkG), Religion, sexuelle Orientierung"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-rechtsgrundlagen-der-verarbeitung-und-einwilligung",
+       "titel": "Datenschutz: Rechtsgrundlagen der Verarbeitung und Einwilligung",
+       "beschreibung": "Rechtsgrundlage der Datenverarbeitung beim Notar: Art. 6 Abs. 1 lit. e und lit. c DSGVO, § 4 LDSG BW, keine Interessenabwägung, Einwilligung nur ausnahmsweise, Art. 9 Abs. 2 lit. g DSGVO, Gesundheitsdaten Testament"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-rechtsquellen-und-verhaltnis-zur-verschwiegenheitspflicht",
+       "titel": "Datenschutz: Rechtsquellen und Verhältnis zur Verschwiegenheitspflicht",
+       "beschreibung": "Datenschutz im Notariat: DSGVO (Verordnung (EU) 2016/679), BDSG, LDSG Baden-Württemberg, Verschwiegenheitspflicht § 18 BNotO, Verhaltensregeln der Bundesnotarkammer, risikobasierter Ansatz, § 1 Abs. 1 Nr. 2 BDSG"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-systemsicherheit-datensicherung-und-e-mail",
+       "titel": "Datenschutz: Systemsicherheit, Datensicherung und E-Mail",
+       "beschreibung": "Systemsicherheit im Notariat: Updates, Virenschutz, Firewall, WLAN (WPA3), Backup-Konzept und Datensicherung, Ransomware, E-Mail-Sicherheit, Transportverschlüsselung, Ende-zu-Ende-Verschlüsselung"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-technisch-organisatorische-massnahmen",
+       "titel": "Datenschutz: technisch-organisatorische Maßnahmen",
+       "beschreibung": "Technisch-organisatorische Maßnahmen (TOM, Art. 32 DSGVO) im Notariat: Zutritts-, Zugangs-, Zugriffskontrolle, Passwörter, Rollenkonzept, Verschlüsselung mobiler Geräte, Serverstandort, § 203 StGB"
+      }
+     ]
+    },
+    {
+     "slug": "",
+     "titel": "(Seiten direkt im Kapitel)",
+     "beschreibung": "",
+     "seiten_erwartet": 4,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/arbeitsrecht-im-notariat-betriebliche-ubung-und-freiwilligkeitsvorbehalt",
+       "titel": "Arbeitsrecht im Notariat: betriebliche Übung und Freiwilligkeitsvorbehalt",
+       "beschreibung": "Betriebliche Übung im Arbeitsverhältnis (Weihnachtsgeld, Sonderzahlung, Gratifikation): Voraussetzungen, dreimalige Zahlung, BAG-Rechtsprechung, Freiwilligkeitsvorbehalt, kein Widerrufsvorbehalt, § 307 Abs. 1 S. 2 BGB."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/arbeitsrecht-im-notariat-fortbildungsvereinbarungen-und-ruckzahlungsklauseln",
+       "titel": "Arbeitsrecht im Notariat: Fortbildungsvereinbarungen und Rückzahlungsklauseln",
+       "beschreibung": "Fortbildungsvereinbarung mit Mitarbeitenden (berufsbegleitendes Studium): Rückzahlungsklausel, AGB-Kontrolle §§ 305 ff. BGB, kein BBiG, Kündigungsgrund, Bindungsdauer, zeitanteilige Minderung, BAG-Rechtsprechung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/arbeitsrecht-im-notariat-nachweis-in-textform-und-entgelttransparenz",
+       "titel": "Arbeitsrecht im Notariat: Nachweis in Textform und Entgelttransparenz",
+       "beschreibung": "Digitaler Arbeitsvertrag: Nachweis in Textform (§ 2 Abs. 1 S. 2 NachwG, § 126b BGB) seit 2025, Empfangsnachweis, Ausnahme § 14 Abs. 4 TzBfG; EU-Entgelttransparenz-Richtlinie: Auskunftspflichten, Gehaltsfrage, Berichtspflicht."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notariatsorganisation/arbeitsrecht-im-notariat-uberstunden-pflicht-vergutung-und-abgeltung",
+       "titel": "Arbeitsrecht im Notariat: Überstunden – Pflicht, Vergütung und Abgeltung",
+       "beschreibung": "Überstunden von Mitarbeitenden: Pflicht zur Leistung, Freizeitausgleich, Überstundenvergütung, Vergütungserwartung § 612 Abs. 1 BGB, Beitragsbemessungsgrenze, Darlegungs- und Beweislast (BAG 5 AZR 122/12), Abgeltungsklausel."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "notarkosten",
+   "titel": "Notarkosten",
+   "beschreibung": "Notarkosten nach dem GNotKG: Grundlagen und Kostenschuldner, Kostenberechnung und Auslagen, Geschäftswerte, Gebühren für Beurkundung, Entwurf, Beglaubigung, Vollzug und Betreuung, Beurkundungsgegenstand.",
+   "seiten_erwartet": 67,
+   "abschnitte": [
+    {
+     "slug": "beurkundungsgegenstand-und-vergleichsberechnung",
+     "titel": "Beurkundungsgegenstand und Vergleichsberechnung",
+     "beschreibung": "Mehrere Gegenstände in einer Urkunde: Gegenstandsgleichheit nach § 109 GNotKG, verschiedene und besondere Gegenstände nach §§ 110, 111 GNotKG und Vergleichsberechnung nach § 94 GNotKG.",
+     "seiten_erwartet": 7,
+     "seiten": []
+    },
+    {
+     "slug": "gebuhren-fur-beurkundung-entwurf-und-beglaubigung",
+     "titel": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+     "beschreibung": "Gliederung des Kostenverzeichnisses, einmalige Gebührenerhebung, Beurkundungsgebühren für Verträge und Erklärungen, Entwurf, Unterschrifts- und Dokumentenbeglaubigung sowie vorzeitige Beendigung.",
+     "seiten_erwartet": 12,
+     "seiten": []
+    },
+    {
+     "slug": "gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte",
+     "titel": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte",
+     "beschreibung": "Vollzugs-, Betreuungs- und Treuhandgebühren, Unzeit-, Auswärts- und Fremdsprachengebühr, Rückgabe eines Erbvertrags, eidesstattliche Versicherung, Bescheinigungen, Vermögensverzeichnis und Verwahrung.",
+     "seiten_erwartet": 8,
+     "seiten": []
+    },
+    {
+     "slug": "geschaftswert-in-einzelnen-rechtsgebieten",
+     "titel": "Geschäftswert in einzelnen Rechtsgebieten",
+     "beschreibung": "Geschäftswerte bei Registeranmeldungen, Gesellschaftsverträgen und Beschlüssen, Verfügungen von Todes wegen und Erbschein, Ehevertrag und Scheidungsvereinbarung, Vorsorgevollmacht und Übergabevertrag.",
+     "seiten_erwartet": 10,
+     "seiten": []
+    },
+    {
+     "slug": "geschaftswert-allgemeine-vorschriften",
+     "titel": "Geschäftswert: Allgemeine Vorschriften",
+     "beschreibung": "Bewertungszeitpunkt, Mindest-, Fest- und Höchstwerte, Auffangwert, Sachen und Grundstücke, Kaufvertrag und Austauschverträge, Nutzungs- und Leistungsrechte, Vollmachten, Vollzug und Betreuung.",
+     "seiten_erwartet": 13,
+     "seiten": []
+    },
+    {
+     "slug": "grundlagen-und-kostenschuldner",
+     "titel": "Grundlagen und Kostenschuldner",
+     "beschreibung": "Rechtsgrundlagen und Aufbau des GNotKG, Erhebungspflicht, Fälligkeit und Vorschuss, unrichtige Sachbehandlung, Kostenbelehrung, Wertgebühr und Gebührensatz sowie Kostenschuldner.",
+     "seiten_erwartet": 8,
+     "seiten": []
+    },
+    {
+     "slug": "kostenberechnung-auslagen-und-rechtsbehelfe",
+     "titel": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+     "beschreibung": "Inhalt und Form der Kostenberechnung (§ 19 GNotKG), Rechnungsangaben, Rechtsbehelfsbelehrung, Prüfreihenfolge, Auslagen, Beitreibung und Antrag auf gerichtliche Entscheidung.",
+     "seiten_erwartet": 9,
+     "seiten": []
+    }
+   ]
+  },
+  {
+   "slug": "sachenrecht-und-grundstuck",
+   "titel": "Sachenrecht und Grundstück",
+   "beschreibung": "Grundbegriffe des Sachenrechts, Erwerb und Erlöschen dinglicher Rechte an Grundstücken, Grundstücksbegriff und Liegenschaftskataster sowie Eigentum mit Auflassung, gutgläubigem Erwerb und Eigentumsformen.",
+   "seiten_erwartet": 19,
+   "abschnitte": [
+    {
+     "slug": "eigentum",
+     "titel": "Eigentum",
+     "beschreibung": "Inhalt des Eigentums, Besitz und Auflassung, gutgläubiger und gesetzlicher Erwerb sowie Allein-, Mit- und Gesamthandseigentum.",
+     "seiten_erwartet": 3,
+     "seiten": []
+    },
+    {
+     "slug": "grundsatze-und-erwerb-dinglicher-rechte",
+     "titel": "Grundsätze und Erwerb dinglicher Rechte",
+     "beschreibung": "Sachen, Bestandteile und Zubehör, sachenrechtliche Grundprinzipien, dingliche Einigung und Eintragung, Verfügungsbeschränkung nach § 878 BGB sowie Aufhebung und Erlöschen beschränkter dinglicher Rechte.",
+     "seiten_erwartet": 6,
+     "seiten": []
+    },
+    {
+     "slug": "grundstuck-und-liegenschaftskataster",
+     "titel": "Grundstück und Liegenschaftskataster",
+     "beschreibung": "Grundstücksbegriff, Flurstück und grundstücksgleiche Rechte, Teilflächen sowie Flurkarte, Fortführungsnachweis, Teilung, Vereinigung und Zuschreibung im Liegenschaftskataster, mit Landesrecht Baden-Württemberg.",
+     "seiten_erwartet": 10,
+     "seiten": []
+    }
+   ]
+  },
+  {
+   "slug": "ubergabe-und-vorweggenommene-erbfolge",
+   "titel": "Übergabe und vorweggenommene Erbfolge",
+   "beschreibung": "Übergabevertrag als Mittel der vorweggenommenen Erbfolge: Rechtsnatur und Steuern, Vertragsgestaltung, vorbehaltene Rechte und Gegenleistungen sowie gesetzliche und vertragliche Rückforderungsrechte.",
+   "seiten_erwartet": 25,
+   "abschnitte": [
+    {
+     "slug": "gestaltung-des-ubergabevertrags",
+     "titel": "Gestaltung des Übergabevertrags",
+     "beschreibung": "Beteiligte, Ehegattenzustimmung und Vollmacht, Grundbuchstand und Vertragsgegenstand, Anrechnung und Ausgleichung, Besitzübergang und Mängel, Hinweise, Genehmigungen und Anzeigen, Beteiligung Minderjähriger.",
+     "seiten_erwartet": 7,
+     "seiten": []
+    },
+    {
+     "slug": "grundlagen-der-ubergabe",
+     "titel": "Grundlagen der Übergabe",
+     "beschreibung": "Rechtsnatur des Übergabevertrags, gemischte Schenkung und Form, Schenkungsteuer, Pflichtteilsergänzung und Fristbeginn sowie Ausstattung, ehebedingte Zuwendung und Schenkung unter Auflage.",
+     "seiten_erwartet": 4,
+     "seiten": []
+    },
+    {
+     "slug": "ruckforderungsrechte",
+     "titel": "Rückforderungsrechte",
+     "beschreibung": "Rückforderung wegen Verarmung und Sozialhilferegress, Widerruf wegen groben Undanks sowie vertragliche und freie Rückforderungsrechte mit Rechtsfolgen, Vererblichkeit und Rückerwerbsvormerkung.",
+     "seiten_erwartet": 5,
+     "seiten": []
+    },
+    {
+     "slug": "vorbehaltene-rechte-und-gegenleistungen",
+     "titel": "Vorbehaltene Rechte und Gegenleistungen",
+     "beschreibung": "Vorbehaltsnießbrauch und Wohnungsrecht, Rang und mehrere Berechtigte, Pflegeverpflichtung, Leibgeding, Abstandszahlung und Rente, Übernahme von Verbindlichkeiten und Gleichstellungsgeld.",
+     "seiten_erwartet": 9,
+     "seiten": []
+    }
+   ]
+  },
+  {
+   "slug": "vertretung-betreuung-und-vorsorge",
+   "titel": "Vertretung, Betreuung und Vorsorge",
+   "beschreibung": "Vormundschaft, Pflegschaft und rechtliche Betreuung, Vertretungsausschluss und Zuwendungen an Minderjährige und Betreute, gerichtliche Genehmigung sowie Vorsorgevollmacht, Patientenverfügung und Ehegattenvertretung.",
+   "seiten_erwartet": 29,
+   "abschnitte": [
+    {
+     "slug": "gerichtliche-genehmigung",
+     "titel": "Gerichtliche Genehmigung",
+     "beschreibung": "Genehmigungsbedürftige Geschäfte im Einzelnen, Genehmigungsverfahren, Rechtskraft, Mitteilung nach § 1856 BGB und Doppelvollmacht sowie Tod oder Amtsverlust vor Wirksamwerden.",
+     "seiten_erwartet": 6,
+     "seiten": []
+    },
+    {
+     "slug": "vertretungsausschluss-und-zuwendungen",
+     "titel": "Vertretungsausschluss und Zuwendungen",
+     "beschreibung": "Vertretungsausschluss nach § 1824 BGB und Ergänzungspfleger, Schenkungsverbot, Zuwendungen mit Verwaltungsanordnungen, Minderjährige in Gesellschaften und Nachweis der gesetzlichen Vertretung in der Urkunde.",
+     "seiten_erwartet": 7,
+     "seiten": []
+    },
+    {
+     "slug": "vormundschaft-pflegschaft-und-betreuung",
+     "titel": "Vormundschaft, Pflegschaft und Betreuung",
+     "beschreibung": "Vormundschaft, Pflegschaft, Benennung von Vormund und Pfleger, rechtliche Betreuung mit Aufgabenkreisen, ärztlichen Maßnahmen und Verfügungen über selbstgenutzten Wohnraum.",
+     "seiten_erwartet": 11,
+     "seiten": []
+    },
+    {
+     "slug": "vorsorgevollmacht-und-patientenverfugung",
+     "titel": "Vorsorgevollmacht und Patientenverfügung",
+     "beschreibung": "Vorsorgevollmacht mit Form, Wirksamwerden, Inhalt, Kontrolle und Widerruf, Patientenverfügung sowie Ehegattenvertretungsrecht in Gesundheitsangelegenheiten nach § 1358 BGB.",
+     "seiten_erwartet": 5,
+     "seiten": []
+    }
+   ]
+  },
+  {
+   "slug": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+   "titel": "Vorkaufs-, Ankaufs- und Wiederkaufsrechte",
+   "beschreibung": "Rechtsgeschäftliche Erwerbsrechte (dingliches Vorkaufsrecht, Vorkaufsrecht zum festen Preis, Ankaufs- und Wiederkaufsrecht) und gesetzliche Vorkaufsrechte von Gemeinde, Land Baden-Württemberg, Mieter und Miterben.",
+   "seiten_erwartet": 21,
+   "abschnitte": [
+    {
+     "slug": "dingliches-vorkaufsrecht",
+     "titel": "Dingliches Vorkaufsrecht",
+     "beschreibung": "Arten, Bestellung, Inhalt und Erlöschen des dinglichen Vorkaufsrechts, Vorkaufsfall, Mitteilung und Ausübung, Umgehung und Rückabwicklung sowie Vorkaufsrecht zum festen Preis, Ankaufs- und Wiederkaufsrecht.",
+     "seiten_erwartet": 10,
+     "seiten": []
+    },
+    {
+     "slug": "gesetzliche-vorkaufsrechte",
+     "titel": "Gesetzliche Vorkaufsrechte",
+     "beschreibung": "Vorkaufsrecht der Gemeinde nach dem BauGB (allgemein und im Kaufvertrag), landesrechtliche Vorkaufsrechte und ASVG-Genehmigung in Baden-Württemberg, Siedlungsrecht, Mieter und Miterben.",
+     "seiten_erwartet": 11,
+     "seiten": []
+    }
+   ]
+  },
+  {
+   "slug": "vormerkung-und-verfugungsbeschrankungen",
+   "titel": "Vormerkung und Verfügungsbeschränkungen",
+   "beschreibung": "Sicherung schuldrechtlicher Ansprüche durch Vormerkung sowie Beschränkungen der Verfügungsbefugnis aus öffentlichem Recht, Privatrecht, Insolvenz, Nachlassverwaltung und Testamentsvollstreckung.",
+   "seiten_erwartet": 23,
+   "abschnitte": [
+    {
+     "slug": "verfugungsbeschrankungen",
+     "titel": "Verfügungsbeschränkungen",
+     "beschreibung": "Gerichtliche Verfügungsverbote, Insolvenz, Nachlassverwaltung und Testamentsvollstreckung, öffentlich-rechtliche Genehmigungserfordernisse sowie privatrechtliche Beschränkungen, Nacherbenvermerk und Widerspruch.",
+     "seiten_erwartet": 16,
+     "seiten": []
+    },
+    {
+     "slug": "vormerkung",
+     "titel": "Vormerkung",
+     "beschreibung": "Zweck und Arten, vormerkbarer Anspruch, Eintragung, Rang und relative Unwirksamkeit, Gestaltung im Grundstückskaufvertrag, Zwangsversteigerung und Insolvenz, Erlöschen und gutgläubiger Erwerb.",
+     "seiten_erwartet": 7,
+     "seiten": []
+    }
+   ]
+  },
+  {
+   "slug": "wohnungseigentum-und-erbbaurecht",
+   "titel": "Wohnungseigentum und Erbbaurecht",
+   "beschreibung": "Begründung von Wohnungseigentum durch Teilungserklärung oder Teilungsvertrag, Gemeinschaft der Wohnungseigentümer und Verwaltung, Veränderungen am Wohnungseigentum, Wohnungseigentum im Kaufvertrag sowie Erbbaurecht.",
+   "seiten_erwartet": 89,
+   "abschnitte": [
+    {
+     "slug": "begrundung-von-wohnungseigentum",
+     "titel": "Begründung von Wohnungseigentum",
+     "beschreibung": "Sondereigentum, Gemeinschaftseigentum und Miteigentumsanteil, Teilung nach §§ 3, 8 WEG, Aufteilungsplan und Abgeschlossenheitsbescheinigung, Sondernutzungsrechte und Gestaltung der Gemeinschaftsordnung.",
+     "seiten_erwartet": 34,
+     "seiten": []
+    },
+    {
+     "slug": "gemeinschaft-der-wohnungseigentumer-und-verwaltung",
+     "titel": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+     "beschreibung": "Gemeinschaft der Wohnungseigentümer, Vereinbarung und Beschluss, Gebrauch und Sondernutzungsrechte, Kosten und Hausgeld, Eigentümerversammlung, Verwalter und Verwalternachweis, Wirtschaftsplan, Veräußerungsbeschränkung, besondere Anlagen.",
+     "seiten_erwartet": 30,
+     "seiten": []
+    },
+    {
+     "slug": "veranderungen-am-wohnungseigentum",
+     "titel": "Veränderungen am Wohnungseigentum",
+     "beschreibung": "Unterteilung, Vereinigung und Umwandlung von Wohnungseigentum, Verzicht und Aufhebung, Änderung der Gemeinschaftsordnung, Übertragung von Sondernutzungsrechten, bauliche Veränderungen sowie Veränderungen am aufgeteilten Grundstück.",
+     "seiten_erwartet": 11,
+     "seiten": []
+    },
+    {
+     "slug": "wohnungseigentum-im-kaufvertrag",
+     "titel": "Wohnungseigentum im Kaufvertrag",
+     "beschreibung": "Verwalterzustimmung nach § 12 WEG und Verwalternachweis, Grundbuchfragen, Eintritt in die Gemeinschaft der Wohnungseigentümer sowie Hausgeld, Rücklage und weitere Regelungen beim Verkauf.",
+     "seiten_erwartet": 13,
+     "seiten": []
+    },
+    {
+     "slug": "",
+     "titel": "(Seiten direkt im Kapitel)",
+     "beschreibung": "",
+     "seiten_erwartet": 1,
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/erbbaurecht-begriff-und-kaufvertrag",
+       "titel": "Erbbaurecht: Begriff und Kaufvertrag",
+       "beschreibung": "Erbbaurecht (§ 1 ErbbauRG): erste Rangstelle (§ 10 ErbbauRG), Erbbaugrundbuch, Kauf eines Erbbaurechts (§ 11 Abs. 2 ErbbauRG, § 311b BGB), Zustimmung des Grundstückseigentümers (§ 5 ErbbauRG), Vorkaufsrecht."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+   "titel": "Zwangsvollstreckung und vollstreckbare Urkunde",
+   "beschreibung": "Allgemeines Vollstreckungsrecht, vollstreckbare notarielle Urkunde und Vollstreckungsunterwerfung, Klauselerteilung und Klauselumschreibung, Pfändung, Zwangshypothek und Zwangsversteigerung.",
+   "seiten_erwartet": 33,
+   "abschnitte": [
+    {
+     "slug": "allgemeine-vollstreckungsvoraussetzungen",
+     "titel": "Allgemeine Vollstreckungsvoraussetzungen",
+     "beschreibung": "Grundbegriffe und Vollstreckungsorgane, Antrag und Titel, Vollstreckungsklausel und weitere vollstreckbare Ausfertigung, Zustellung, Vollstreckungsarten und Rechtsbehelfe in der Zwangsvollstreckung.",
+     "seiten_erwartet": 8,
+     "seiten": []
+    },
+    {
+     "slug": "klauselumschreibung",
+     "titel": "Klauselumschreibung",
+     "beschreibung": "Klausel für und gegen Rechtsnachfolger: Abtretung von Forderung und Grundschuld, Umwandlung, Namensänderung, Eigentumserwerb, Erbfolge, Sicherungsvertrag, Rechtsnachfolgekette und Kosten.",
+     "seiten_erwartet": 4,
+     "seiten": []
+    },
+    {
+     "slug": "pfandung-zwangshypothek-und-zwangsversteigerung",
+     "titel": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+     "beschreibung": "Pfändung des Kaufpreisanspruchs und Notaranderkonto, Zwangshypothek sowie Zwangsversteigerung vom Verfahren über geringstes Gebot und Zuschlag bis zur Verteilung, Grundschuldzinsen und Kaufvertrag im Verfahren.",
+     "seiten_erwartet": 8,
+     "seiten": []
+    },
+    {
+     "slug": "vollstreckbare-urkunde-und-unterwerfung",
+     "titel": "Vollstreckbare Urkunde und Unterwerfung",
+     "beschreibung": "Vollstreckbare notarielle Urkunde nach § 794 Abs. 1 Nr. 5 ZPO: Bestimmtheit, Nachweisverzicht, Vertretung, Erteilung der Ausfertigung und Vollstreckungsunterwerfung in typischen Urkunden einschließlich Grundpfandrechten.",
+     "seiten_erwartet": 13,
+     "seiten": []
+    }
+   ]
+  }
+ ]
+}
