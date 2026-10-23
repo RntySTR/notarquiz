@@ -14,12 +14,12 @@
   ],
   "frage": "Welches Grundpfandrecht ist der gesetzliche Grundtypus, auf dessen Vorschriften das Recht der übrigen Grundpfandrechte weitgehend verweist?",
   "optionen": [
-   "Die Grundschuld, weil sie in der Praxis die häufigste Form ist",
-   "Die Hypothek, auf deren Vorschriften § 1192 Abs. 1 BGB verweist",
+   "Die Reallast, von der die Rentenschuld abgeleitet ist",
    "Die Rentenschuld als älteste Form der Grundstücksbelastung",
-   "Die Reallast, von der die Rentenschuld abgeleitet ist"
+   "Die Grundschuld, weil sie in der Praxis die häufigste Form ist",
+   "Die Hypothek, auf deren Vorschriften § 1192 Abs. 1 BGB verweist"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Gesetzlicher Grundtypus ist die Hypothek (§§ 1113–1190 BGB); das Grundschuldrecht verweist über § 1192 Abs. 1 BGB weitgehend auf sie, und die Rentenschuld ist eine Sonderform der Grundschuld (§§ 1199–1203 BGB). Dass die Grundschuld die Hypothek praktisch fast vollständig abgelöst hat, ändert an der gesetzlichen Systematik nichts. Die Reallast ist kein Grundpfandrecht."
  },
  {
@@ -38,11 +38,11 @@
   "frage": "Ein Eigentümer bestellt eine Grundschuld und soll sich zugleich der sofortigen Zwangsvollstreckung in das Grundstück unterwerfen. Welche Form ist erforderlich?",
   "optionen": [
    "Unterschriftsbeglaubigung genügt, da § 29 GBO für die Bewilligung nur öffentlich beglaubigte Form verlangt",
-   "Schriftform mit notarieller Beglaubigung der Unterschrift des Gläubigers",
    "Notarielle Beurkundung nach § 800 ZPO i. V. m. § 794 Abs. 1 Nr. 5 ZPO",
+   "Schriftform mit notarieller Beglaubigung der Unterschrift des Gläubigers",
    "Eintragungsantrag in der Form des § 13 GBO ohne besondere Formvorgabe"
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "Für die bloße Eintragungsbewilligung genügt die Form des § 29 GBO, also eine Unterschriftsbeglaubigung. Soll sich der Eigentümer aber der dinglichen Zwangsvollstreckung unterwerfen, ist Beurkundung erforderlich (§ 800 ZPO i. V. m. § 794 Abs. 1 Nr. 5 ZPO), ebenso für eine persönliche Unterwerfung. Der typische Fehler, ein Grundpfandrecht mit Unterwerfung nur beglaubigen zu lassen, führt dazu, dass kein Vollstreckungstitel entsteht."
  },
  {
@@ -76,9 +76,9 @@
   "frage": "Worin unterscheidet sich die Rentenschuld von der Reallast?",
   "optionen": [
    "Bei der Rentenschuld haftet niemand über das Grundstück hinaus persönlich, und nur Geldleistungen sind erfasst",
-   "Die Rentenschuld sichert einen einmaligen Kapitalbetrag, die Reallast wiederkehrende Leistungen",
+   "Die Rentenschuld ist akzessorisch zur gesicherten Forderung, die Reallast nicht",
    "Die Rentenschuld kann nur zugunsten des Eigentümers bestellt werden, die Reallast nur für Dritte",
-   "Die Rentenschuld ist akzessorisch zur gesicherten Forderung, die Reallast nicht"
+   "Die Rentenschuld sichert einen einmaligen Kapitalbetrag, die Reallast wiederkehrende Leistungen"
   ],
   "antwort": 0,
   "erklaerung": "Die Rentenschuld ist eine Grundschuld, aus der in regelmäßig wiederkehrenden Terminen eine bestimmte Geldsumme aus dem Grundstück zu zahlen ist (§ 1199 Abs. 1 BGB); gesichert werden laufende Zahlungen, kein einmaliger Kapitalbetrag. Von der Reallast unterscheidet sie sich dadurch, dass niemand über das Grundstück hinaus persönlich haftet und nur Geldleistungen erfasst sind. Praktisch ist sie wegen § 1201 BGB bedeutungslos; wiederkehrende Geldleistungen werden über eine Reallast gesichert."
@@ -131,12 +131,12 @@
   ],
   "frage": "Was kann der Gläubiger eines nachrangigen Grundpfandrechts nach § 1179a BGB vom Eigentümer verlangen?",
   "optionen": [
-   "Die Abtretung des vorrangigen Grundpfandrechts an sich selbst, sobald es dem Eigentümer zusteht",
    "Die Löschung eines vor- oder gleichrangigen Grundpfandrechts, sobald und soweit es sich mit dem Eigentum vereinigt",
-   "Den Rangtausch mit dem vorrangigen Recht nach § 880 BGB bei Tilgung der gesicherten Forderung",
-   "Die Eintragung einer Löschungsvormerkung auf Bewilligung des vorrangigen Gläubigers"
+   "Die Eintragung einer Löschungsvormerkung auf Bewilligung des vorrangigen Gläubigers",
+   "Die Abtretung des vorrangigen Grundpfandrechts an sich selbst, sobald es dem Eigentümer zusteht",
+   "Den Rangtausch mit dem vorrangigen Recht nach § 880 BGB bei Tilgung der gesicherten Forderung"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "§ 1179a BGB gibt dem Hypothekengläubiger (über § 1192 BGB auch dem Grundschuldgläubiger) einen Anspruch darauf, dass der Eigentümer ein vor- oder gleichrangiges Grundpfandrecht löschen lässt, sobald und soweit Recht und Eigentum demselben zustehen; es handelt sich um einen Aufhebungsanspruch im Sinne des § 875 BGB zur Rangverbesserung. Ein Anspruch auf Abtretung des Eigentümerrechts besteht nicht; eine Löschungsvormerkung muss nicht eingetragen werden, weil das Gesetz sie fingiert."
  },
  {
@@ -154,11 +154,11 @@
   "frage": "Eine Hypothek ist eingetragen, das Darlehen aber noch nicht ausgezahlt; sie steht dem Eigentümer vorläufig als Eigentümergrundschuld zu. Besteht in diesem Stadium ein gesetzlicher Löschungsanspruch des nachrangigen Gläubigers?",
   "optionen": [
    "Ja, weil jede Vereinigung von Eigentum und Grundpfandrecht den Anspruch auslöst",
-   "Ja, aber er ist bis zur Auszahlung des Darlehens gehemmt",
    "Nein, erst wenn feststeht, dass das Kreditverhältnis nicht zustande kommt und Forderung und Hypothek nicht mehr entstehen werden",
+   "Ja, aber er ist bis zur Auszahlung des Darlehens gehemmt",
    "Nein, weil bei vorläufigen Eigentümergrundschulden nur eine Löschungsvormerkung nach § 1179 BGB hilft"
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "Der gesetzliche Löschungsanspruch soll das erstmalige Entstehen einer Hypothek nicht vereiteln. Die nach § 1163 Abs. 1 S. 1 BGB auflösend bedingte Eigentümergrundschuld vor Valutierung löst ihn deshalb noch nicht aus; er entsteht erst mit dem endgültigen Eigentümerrecht, also wenn feststeht, dass Forderung und Hypothek nicht mehr entstehen werden (§ 1179a Abs. 2 S. 1 BGB). Die Formel, dass jede Vereinigung erfasst sei, gilt für endgültige Vereinigungen, auch solche, die bei Eintragung des nachrangigen Rechts schon bestanden."
  },
  {
@@ -192,9 +192,9 @@
   ],
   "frage": "Warum läuft der gesetzliche Löschungsanspruch gegenüber einer vorrangigen Grundschuld in der Regel leer, und wie behilft sich der nachrangige Gläubiger?",
   "optionen": [
-   "Weil § 1192 BGB den § 1179a BGB für Grundschulden ausschließt; Abhilfe schafft nur eine Löschungsvormerkung nach § 1179 BGB",
-   "Weil die Grundschuld bei Tilgung nicht nach § 1163 Abs. 1 S. 2 BGB zur Eigentümergrundschuld wird, sondern Fremdrecht bleibt; der Gläubiger lässt sich daher die Rückgewähransprüche des Eigentümers abtreten",
    "Weil der Löschungsanspruch bei Grundschulden nur mit Eintragung im Grundbuch entsteht; der Gläubiger beantragt daher dessen Eintragung",
+   "Weil die Grundschuld bei Tilgung nicht nach § 1163 Abs. 1 S. 2 BGB zur Eigentümergrundschuld wird, sondern Fremdrecht bleibt; der Gläubiger lässt sich daher die Rückgewähransprüche des Eigentümers abtreten",
+   "Weil § 1192 BGB den § 1179a BGB für Grundschulden ausschließt; Abhilfe schafft nur eine Löschungsvormerkung nach § 1179 BGB",
    "Weil die Grundschuld mit der Tilgung kraft Gesetzes erlischt und es nichts mehr zu löschen gibt; der Gläubiger rückt automatisch auf"
   ],
   "antwort": 1,
@@ -248,12 +248,12 @@
   ],
   "frage": "Welchem Zweck dient der Anspruch des Grundpfandrechtsgläubigers auf Löschung seines eigenen Rechts nach § 1179b BGB?",
   "optionen": [
-   "Der Rangverbesserung nachrangiger Gläubiger nach Rückführung des Darlehens",
-   "Der Sicherung des Eigentümers gegen eine Abtretung der getilgten Grundschuld",
    "Dem Gläubiger soll ermöglicht werden, nach Darlehensrückführung die Löschung durchzusetzen und die Akten zu schließen, statt später in Beweisnot zu geraten",
-   "Der Vermeidung einer Eigentümergrundschuld, die dem Zugriff von Pfändungsgläubigern unterläge"
+   "Der Rangverbesserung nachrangiger Gläubiger nach Rückführung des Darlehens",
+   "Der Vermeidung einer Eigentümergrundschuld, die dem Zugriff von Pfändungsgläubigern unterläge",
+   "Der Sicherung des Eigentümers gegen eine Abtretung der getilgten Grundschuld"
   ],
-  "antwort": 2,
+  "antwort": 0,
   "erklaerung": "Der Anspruch aus § 1179b BGB dient nicht der Rangverbesserung; das ist Zweck des § 1179a BGB. Er soll dem Gläubiger erlauben, nach Rückführung des Darlehens die Löschung gegenüber dem Eigentümer durchzusetzen und die Akten zu schließen, statt Jahrzehnte später wegen Löschungsunterlagen in Beweisnot zu geraten."
  },
  {
@@ -270,12 +270,12 @@
   ],
   "frage": "Für wen kommt die eintragungsbedürftige Löschungsvormerkung nach § 1179 BGB in Betracht?",
   "optionen": [
-   "Für nachrangige Grundpfandrechtsgläubiger, denen § 1179a BGB keinen Anspruch gibt",
    "Für Berechtigte gleich- oder nachrangiger Rechte, die keine Grundpfandrechte sind, etwa Wohnungsberechtigte oder Nießbraucher, sowie für Personen mit Anspruch auf Bestellung eines solchen Rechts oder auf Übereignung",
+   "Für nachrangige Grundpfandrechtsgläubiger, denen § 1179a BGB keinen Anspruch gibt",
    "Für den Eigentümer selbst zur Sicherung seines Rückgewähranspruchs gegen den Grundschuldgläubiger",
    "Für den vorrangigen Grundpfandrechtsgläubiger, der die Löschung seines eigenen Rechts verlangen will"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "§ 1179 BGB erfasst Berechtigte gleich- oder nachrangiger Grundstücksrechte, die keine Grundpfandrechte sind (Nr. 1, etwa Wohnungsrecht oder Nießbrauch), sowie Personen, die die Bestellung eines solchen Rechts oder die Übereignung des Grundstücks beanspruchen können (Nr. 2). Nachrangige Grundpfandrechtsgläubiger sind durch den gesetzlichen Löschungsanspruch nach § 1179a BGB mit fingierter Vormerkung geschützt und brauchen § 1179 BGB nicht. Die Löschungsvormerkung wird auf Bewilligung des Eigentümers eingetragen."
  },
  {
@@ -308,12 +308,12 @@
   ],
   "frage": "Wie ist die in Grundschuldbestellungsurkunden übliche Übernahme der persönlichen Haftung mit dem ganzen Vermögen rechtlich einzuordnen?",
   "optionen": [
+   "Als dingliche Unterwerfung nach § 800 ZPO mit Wirkung gegen den jeweiligen Eigentümer",
    "Als Schuldbeitritt zum Darlehensvertrag, der die Darlehensforderung um einen weiteren Schuldner erweitert",
    "Als abstraktes Schuldversprechen bzw. Schuldanerkenntnis nach §§ 780, 781 BGB, das ein eigenständiges Schuldverhältnis begründet",
-   "Als selbstschuldnerische Bürgschaft nach § 765 BGB für die Darlehensforderung",
-   "Als dingliche Unterwerfung nach § 800 ZPO mit Wirkung gegen den jeweiligen Eigentümer"
+   "Als selbstschuldnerische Bürgschaft nach § 765 BGB für die Darlehensforderung"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Die Übernahme der persönlichen Haftung wegen der Grundschuldansprüche ist ein abstraktes Schuldversprechen bzw. Schuldanerkenntnis (§§ 780, 781 BGB), das ein eigenständiges, vom Darlehen losgelöstes Schuldverhältnis begründet und in aller Regel mit der Unterwerfung nach § 794 Abs. 1 Nr. 5 ZPO verbunden wird. Es ist weder Schuldbeitritt noch Bürgschaft; die dingliche Unterwerfung nach § 800 ZPO betrifft nur die Vollstreckung in das Grundstück."
  },
  {
@@ -401,12 +401,12 @@
   ],
   "frage": "Im Grundbuch ist in Abteilung III lediglich „Grundschuld zu 200.000 EUR für die B-Bank“ eingetragen; ein Briefausschluss ist nicht vermerkt. Um welche Art von Recht handelt es sich?",
   "optionen": [
+   "Um eine Sicherungshypothek, weil kein Brief erteilt wurde",
    "Um eine Buchgrundschuld, weil Buchrechte heute der gesetzliche Regelfall sind",
    "Um eine Briefgrundschuld, weil ohne Ausschluss der Brieferteilung ein Briefrecht entsteht",
-   "Um eine Sicherungshypothek, weil kein Brief erteilt wurde",
    "Um eine Eigentümergrundschuld, bis der Brief an die Bank übergeben ist"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Wird die Brieferteilung bei der Bestellung nicht ausgeschlossen, entsteht eine Briefgrundschuld (§ 1117 BGB); lautet die Eintragung nur auf „Grundschuld“, liegt ein Briefrecht vor. Eine Buchgrundschuld setzt die ausdrückliche Bezeichnung als „Buchgrundschuld“ oder „Grundschuld ohne Brief“ voraus. Der typische Fehler besteht darin, eine solche Grundschuld für ein Buchrecht zu halten."
  },
  {
@@ -424,11 +424,11 @@
   "frage": "Wann wird das Kapital einer Grundschuld, die der Sicherung einer Geldforderung dient, fällig?",
   "optionen": [
    "Mit Fälligkeit der gesicherten Darlehensforderung, weil § 1192 BGB auf die Hypothekenvorschriften verweist",
-   "Erst nach Kündigung durch Eigentümer oder Gläubiger mit einer Frist von sechs Monaten; davon kann nicht abgewichen werden",
    "Sofort mit Eintragung, sofern die Parteien nichts anderes vereinbaren",
+   "Erst nach Kündigung durch Eigentümer oder Gläubiger mit einer Frist von sechs Monaten; davon kann nicht abgewichen werden",
    "Nach Kündigung mit einer Frist von drei Monaten, die durch Vereinbarung verkürzt werden kann"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Das Grundschuldkapital wird erst nach Kündigung fällig; kündigen können Eigentümer und Gläubiger, die Frist beträgt sechs Monate (§ 1193 BGB). Dient die Grundschuld der Sicherung einer Geldforderung, kann von dieser Kündigungsregelung nicht abgewichen werden (§ 1193 Abs. 2 S. 2 BGB). Eine Kopplung an die Fälligkeit der Forderung widerspricht der Abstraktheit der Grundschuld."
  },
  {
@@ -448,9 +448,9 @@
   "frage": "Wie wird eine Briefgrundschuld rechtsgeschäftlich auf einen neuen Gläubiger übertragen?",
   "optionen": [
    "Durch schriftliche Abtretungserklärung und Briefübergabe; eine Grundbucheintragung ist nicht erforderlich (analog § 1154 Abs. 1 BGB)",
+   "Durch notariell beurkundeten Abtretungsvertrag und Briefübergabe, da § 29 GBO für die Abtretung gilt",
    "Durch Einigung und Eintragung im Grundbuch, weil die Eintragung für jede Grundschuldabtretung konstitutiv ist (analog § 1154 Abs. 3 BGB)",
-   "Durch Abtretung der gesicherten Darlehensforderung, der die Grundschuld nach § 1153 BGB folgt",
-   "Durch notariell beurkundeten Abtretungsvertrag und Briefübergabe, da § 29 GBO für die Abtretung gilt"
+   "Durch Abtretung der gesicherten Darlehensforderung, der die Grundschuld nach § 1153 BGB folgt"
   ],
   "antwort": 0,
   "erklaerung": "Die Briefgrundschuld wird analog § 1154 Abs. 1 BGB durch schriftliche Abtretung (Vertrag zwischen altem und neuem Gläubiger) und Briefübergabe übertragen; eine Eintragung ist nicht nötig, weshalb man von Verkehrsgrundschulden spricht. Nur bei der Buchgrundschuld bleibt die Eintragung konstitutiv (analog § 1154 Abs. 3 BGB). Die Form des § 29 GBO wird erst für die berichtigende Eintragung gebraucht; § 1153 BGB gilt mangels Akzessorietät nicht."
@@ -521,10 +521,10 @@
   ],
   "frage": "Welche Beschränkung trifft den Eigentümer, der zugleich Gläubiger einer für ihn bestellten Grundschuld ist?",
   "optionen": [
-   "Er kann die Grundschuld nicht abtreten, solange sie nicht im Grundbuch auf einen Dritten umgeschrieben ist",
+   "Er kann die Grundschuld nur als Buchrecht und nicht als Briefrecht halten",
    "Er kann nicht zu seiner Befriedigung die Zwangsvollstreckung aus der Grundschuld betreiben und erhält Zinsen nur während einer von einem Dritten beantragten Zwangsverwaltung",
-   "Er muss die Eigentümergrundschuld innerhalb von sechs Monaten an einen Geldgeber abtreten, sonst erlischt sie",
-   "Er kann die Grundschuld nur als Buchrecht und nicht als Briefrecht halten"
+   "Er kann die Grundschuld nicht abtreten, solange sie nicht im Grundbuch auf einen Dritten umgeschrieben ist",
+   "Er muss die Eigentümergrundschuld innerhalb von sechs Monaten an einen Geldgeber abtreten, sonst erlischt sie"
   ],
   "antwort": 1,
   "erklaerung": "Nach § 1197 Abs. 1 BGB kann der Eigentümer als Gläubiger nicht zu seiner Befriedigung die Zwangsvollstreckung aus der Grundschuld betreiben; dies gilt auch für eine zur Eigentümergrundschuld gewordene Hypothek (§§ 1177 Abs. 2, 1197 BGB). Zinsen erhält er nur während einer von einem Dritten beantragten Beschlagnahme zur Zwangsverwaltung (§ 1197 BGB). Abtretbar ist die Eigentümergrundschuld dagegen ohne weiteres, gerade als Briefrecht."
@@ -543,10 +543,10 @@
   ],
   "frage": "Ein Eigentümer bestellt eine Eigentümer-Briefgrundschuld und unterwirft sich in der Bestellungsurkunde hinsichtlich des Grundstücks der sofortigen Zwangsvollstreckung gegenüber dem künftigen Gläubiger. Wann darf der Notar die vollstreckbare Ausfertigung erteilen?",
   "optionen": [
-   "Sofort nach Eintragung der Grundschuld, weil die Unterwerfung nach § 800 ZPO gegen den jeweiligen Eigentümer wirkt",
+   "Erst nach Eintragung der Abtretung im Grundbuch, weil nur der eingetragene Gläubiger vollstrecken kann",
    "Erst, wenn die Abtretung an den Gläubiger durch öffentliche bzw. öffentlich beglaubigte Urkunde belegt ist, weil Selbstvollstreckung verboten ist",
-   "Nie, weil eine Unterwerfung gegenüber einem noch unbestimmten Gläubiger unzulässig ist",
-   "Erst nach Eintragung der Abtretung im Grundbuch, weil nur der eingetragene Gläubiger vollstrecken kann"
+   "Sofort nach Eintragung der Grundschuld, weil die Unterwerfung nach § 800 ZPO gegen den jeweiligen Eigentümer wirkt",
+   "Nie, weil eine Unterwerfung gegenüber einem noch unbestimmten Gläubiger unzulässig ist"
   ],
   "antwort": 1,
   "erklaerung": "Die dingliche Unterwerfung gegenüber einem noch unbestimmten künftigen Gläubiger ist bei der Bestellung einer Eigentümergrundschuld zulässig (§§ 794 Abs. 1 Nr. 5, 800 ZPO). Wegen des Verbots der Selbstvollstreckung darf der Notar die vollstreckbare Ausfertigung jedoch erst erteilen, wenn die Abtretung durch öffentliche bzw. öffentlich beglaubigte Urkunde nachgewiesen ist. Eine Grundbucheintragung der Abtretung ist nicht erforderlich; sie wird meist sogar bewusst unterlassen."
@@ -581,12 +581,12 @@
   ],
   "frage": "Wo sollte nach den Praxishinweisen das persönliche Schuldversprechen mit Unterwerfung bei einer Eigentümergrundschuld aufgenommen werden?",
   "optionen": [
+   "Gar nicht, weil bei Eigentümergrundschulden kein persönliches Schuldversprechen möglich ist",
    "Bereits in der Bestellungsurkunde, damit der Zessionar sofort einen persönlichen Titel erhält",
    "Erst in der Abtretungsurkunde an den Geldgeber, weil die Zulässigkeit bei der Bestellung umstritten ist",
-   "In einer gesonderten Urkunde nach Eintragung der Abtretung im Grundbuch",
-   "Gar nicht, weil bei Eigentümergrundschulden kein persönliches Schuldversprechen möglich ist"
+   "In einer gesonderten Urkunde nach Eintragung der Abtretung im Grundbuch"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Ob ein abstraktes Schuldversprechen mit Unterwerfung nach § 794 Abs. 1 Nr. 5 ZPO schon bei der Bestellung der Eigentümergrundschuld abgegeben werden kann, ist umstritten. Der Praxishinweis lautet daher, das persönliche Schuldversprechen mit Unterwerfung erst in die Abtretungsurkunde aufzunehmen. Die dingliche Unterwerfung gegenüber dem künftigen Gläubiger ist dagegen schon in der Bestellung möglich."
  },
  {
@@ -603,12 +603,12 @@
   ],
   "frage": "Welche Rechtsnatur hat der Rückgewähranspruch des Sicherungsgebers nach Abwicklung des Kreditverhältnisses?",
   "optionen": [
-   "Ein dinglicher Anspruch auf Grundbuchberichtigung nach § 894 BGB, weil die Grundschuld mit der Tilgung zur Eigentümergrundschuld wird",
-   "Ein schuldrechtlicher Anspruch aus dem Sicherungsvertrag auf Rückübertragung, Verzicht oder Löschung als Wahlschuld (§ 262 BGB)",
    "Ein gesetzlicher Löschungsanspruch nach § 1179a BGB, der durch fingierte Vormerkung gesichert ist",
-   "Ein Bereicherungsanspruch nach § 812 BGB, weil der Rechtsgrund für die Grundschuld entfallen ist"
+   "Ein Bereicherungsanspruch nach § 812 BGB, weil der Rechtsgrund für die Grundschuld entfallen ist",
+   "Ein dinglicher Anspruch auf Grundbuchberichtigung nach § 894 BGB, weil die Grundschuld mit der Tilgung zur Eigentümergrundschuld wird",
+   "Ein schuldrechtlicher Anspruch aus dem Sicherungsvertrag auf Rückübertragung, Verzicht oder Löschung als Wahlschuld (§ 262 BGB)"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Der Rückgewähranspruch folgt aus dem Sicherungsvertrag und ist ein schuldrechtlicher Anspruch auf Abtretung (§§ 1154, 1192 BGB), Verzicht (§§ 1168, 1192 BGB) oder Aufhebung (§§ 1183, 1192, 875 BGB) als Wahlschuld nach § 262 BGB. Eine Grundbuchberichtigung scheidet aus, weil die Grundschuld durch Tilgung der Forderung Fremdgrundschuld bleibt. Nur bei unwirksamer Sicherungsabrede ergeben sich die Rückgewähransprüche aus § 812 BGB."
  },
  {
@@ -669,21 +669,21 @@
    {
     "frage": "Worauf leistet E im Zweifel?",
     "optionen": [
-     "Auf die Darlehensforderung des S, weil sie nach § 267 BGB als Dritte auf fremde Schuld zahlt",
-     "Auf die Grundschuld, weil ein nicht persönlich haftender Eigentümer im Zweifel sein Grundstück freimachen will",
      "Je zur Hälfte auf Forderung und Grundschuld, weil § 366 Abs. 2 BGB eine verhältnismäßige Tilgung anordnet",
-     "Auf das abstrakte Schuldversprechen, weil dieses die Grundschuldansprüche abbildet"
+     "Auf das abstrakte Schuldversprechen, weil dieses die Grundschuldansprüche abbildet",
+     "Auf die Grundschuld, weil ein nicht persönlich haftender Eigentümer im Zweifel sein Grundstück freimachen will",
+     "Auf die Darlehensforderung des S, weil sie nach § 267 BGB als Dritte auf fremde Schuld zahlt"
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Ein Eigentümer, der nicht persönlicher Schuldner ist, will im Zweifel die Grundschuld ablösen, um sein Grundstück freizumachen, und zahlt daher auf die Grundschuld."
    },
    {
     "frage": "Welche Bedeutung hat die Verrechnungsabrede zugunsten der persönlichen Forderung nach der Vollstreckungsandrohung?",
     "optionen": [
-     "Sie bindet E weiterhin, weil der Sicherungsvertrag Vorrang vor der Tilgungsbestimmung hat",
+     "Sie gilt nur, wenn E sie in der Form des § 29 GBO bestätigt hat",
      "Sie bindet E nicht mehr, weil der Gläubiger die Vollstreckung aus der Grundschuld angedroht hat",
-     "Sie ist von Anfang an nach § 307 BGB unwirksam",
-     "Sie gilt nur, wenn E sie in der Form des § 29 GBO bestätigt hat"
+     "Sie bindet E weiterhin, weil der Sicherungsvertrag Vorrang vor der Tilgungsbestimmung hat",
+     "Sie ist von Anfang an nach § 307 BGB unwirksam"
     ],
     "antwort": 1,
     "erklaerung": "Hat der Gläubiger die Vollstreckung aus der Grundschuld angedroht oder eingeleitet, bindet den nicht persönlich haftenden Eigentümer eine abweichende Verrechnungsabrede zugunsten der persönlichen Forderung nicht mehr."
@@ -692,11 +692,11 @@
     "frage": "Welche Rechtsfolge tritt hinsichtlich Grundschuld und Darlehensforderung ein?",
     "optionen": [
      "Grundschuld und Forderung erlöschen vollständig durch Erfüllung",
+     "E erwirbt die Darlehensforderung nach § 268 Abs. 3 BGB, die Grundschuld bleibt bei der Bank",
      "E erwirbt die Grundschuld analog § 1143 BGB; die Forderung gegen S besteht fort, darf von der Bank aber nicht mehr geltend gemacht werden und ist bei Rückgriff an E abzutreten",
-     "Die Grundschuld bleibt Fremdgrundschuld der Bank; E erhält nur einen Rückgewähranspruch",
-     "E erwirbt die Darlehensforderung nach § 268 Abs. 3 BGB, die Grundschuld bleibt bei der Bank"
+     "Die Grundschuld bleibt Fremdgrundschuld der Bank; E erhält nur einen Rückgewähranspruch"
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Wird die Grundschuld vollständig bezahlt, erwirbt sie der Eigentümer als Eigentümergrundschuld (§§ 1142, 1143 BGB analog). Die persönliche Forderung gegen den Schuldner besteht fort, darf vom Gläubiger aber nicht mehr geltend gemacht werden; hat der Eigentümer Rückgriff gegen den Schuldner, ist sie an ihn abzutreten."
    }
   ],
@@ -715,10 +715,10 @@
   ],
   "frage": "Ein nachrangiger Gläubiger hat sich den Rückgewähranspruch gegen die vorrangige, nur teilweise valutierte Grundschuld abtreten lassen. Die Grundschuld erlischt in der Zwangsversteigerung durch Zuschlag. Wie gelangt der nachrangige Gläubiger an den nicht valutierten Erlösanteil?",
   "optionen": [
-   "Das Versteigerungsgericht teilt ihm den nicht valutierten Teil von Amts wegen zu, weil er Inhaber des Rückgewähranspruchs ist",
+   "Der nicht valutierte Teil fällt an den Eigentümer, gegen den der nachrangige Gläubiger vollstrecken muss",
    "Der Erlös wird dem Grundschuldgläubiger in voller Nennbetragshöhe zugeteilt; der nachrangige Gläubiger kann schuldrechtlich Herausgabe des Übererlöses verlangen und erhält ihn nur dann direkt vom Gericht, wenn ihm der Anspruch auf den nicht valutierten Erlösanteil vor dem Verteilungstermin abgetreten wurde",
    "Er muss Widerspruch gegen den Teilungsplan erheben und den Betrag im Klagewege nach § 115 ZVG erstreiten",
-   "Der nicht valutierte Teil fällt an den Eigentümer, gegen den der nachrangige Gläubiger vollstrecken muss"
+   "Das Versteigerungsgericht teilt ihm den nicht valutierten Teil von Amts wegen zu, weil er Inhaber des Rückgewähranspruchs ist"
   ],
   "antwort": 1,
   "erklaerung": "Erlischt die Grundschuld durch Zuschlag, tritt der Erlös an die Stelle des Grundstücks und wird grundsätzlich dem Grundschuldgläubiger in Höhe des vollen Nennbetrags zugeteilt. Der Inhaber des Rückgewähranspruchs kann vom Gläubiger schuldrechtlich die Herausgabe des Übererlöses verlangen; unmittelbar vom Versteigerungsgericht erhält er den Betrag nur, wenn der Gläubiger ihm vor dem Verteilungstermin den Anspruch auf den nicht valutierten Erlösanteil abgetreten hat. Eine Zuteilung von Amts wegen findet nicht statt."
@@ -736,12 +736,12 @@
   ],
   "frage": "Was kennzeichnet eine Sicherungsgrundschuld im Sinne des § 1192 Abs. 1a BGB?",
   "optionen": [
-   "Eine Eigentümergrundschuld, die der Eigentümer zur späteren Abtretung an einen Geldgeber bestellt",
-   "Eine Fremdgrundschuld, bei der ein Vertrag zwischen Eigentümer und Gläubiger festlegt, dass sie einen schuldrechtlichen Anspruch des Gläubigers gegen den Eigentümer oder einen Dritten sichert",
+   "Eine Hypothek, die ein abstraktes Schuldversprechen nach §§ 780, 781 BGB sichert",
    "Eine Grundschuld, deren Sicherungszweck im Grundbuch eingetragen ist und die deshalb akzessorisch wird",
-   "Eine Hypothek, die ein abstraktes Schuldversprechen nach §§ 780, 781 BGB sichert"
+   "Eine Eigentümergrundschuld, die der Eigentümer zur späteren Abtretung an einen Geldgeber bestellt",
+   "Eine Fremdgrundschuld, bei der ein Vertrag zwischen Eigentümer und Gläubiger festlegt, dass sie einen schuldrechtlichen Anspruch des Gläubigers gegen den Eigentümer oder einen Dritten sichert"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Die Sicherungsgrundschuld ist eine Fremdgrundschuld, die aufgrund eines Vertrags zwischen Eigentümer und Gläubiger einen schuldrechtlichen Anspruch des Gläubigers gegen den Eigentümer oder einen Dritten absichert (§ 1192 Abs. 1a BGB). Der Sicherungszweck wird gerade nicht eingetragen und macht die Grundschuld nicht akzessorisch; sie bleibt forderungsunabhängig."
  },
  {
@@ -759,12 +759,12 @@
   ],
   "frage": "Welche Aussage zur Eintragungsfähigkeit von Abreden bei der Sicherungsgrundschuld trifft zu?",
   "optionen": [
-   "Der Sicherungszweck ist in der Bewilligung anzugeben, damit der Eigentümer Einreden aus dem Sicherungsvertrag auch Erwerbern entgegenhalten kann",
-   "Abreden aus dem Sicherungsvertrag sind nicht eintragungsfähig; Einreden daraus wirken gleichwohl gegen jeden Erwerber (§ 1192 Abs. 1a S. 1 BGB), während ein Abtretungsverbot als die Grundschuld selbst betreffende Einrede eintragbar ist",
+   "Der Sicherungszweck ist eintragbar, ein Abtretungsverbot dagegen nicht, weil § 1157 BGB nur für Hypotheken gilt",
    "Weder der Sicherungszweck noch ein Abtretungsverbot sind eintragbar, weil die Grundschuld abstrakt ist",
-   "Der Sicherungszweck ist eintragbar, ein Abtretungsverbot dagegen nicht, weil § 1157 BGB nur für Hypotheken gilt"
+   "Der Sicherungszweck ist in der Bewilligung anzugeben, damit der Eigentümer Einreden aus dem Sicherungsvertrag auch Erwerbern entgegenhalten kann",
+   "Abreden aus dem Sicherungsvertrag sind nicht eintragungsfähig; Einreden daraus wirken gleichwohl gegen jeden Erwerber (§ 1192 Abs. 1a S. 1 BGB), während ein Abtretungsverbot als die Grundschuld selbst betreffende Einrede eintragbar ist"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Wegen der Abstraktheit der Grundschuld darf der Sicherungszweck weder in der Bewilligung noch im Grundbuch erscheinen; das ist ein typischer Fehler. Dennoch kann der Eigentümer Einreden aus dem Sicherungsvertrag jedem Erwerber entgegenhalten, ein gutgläubig einredefreier Erwerb ist ausgeschlossen (§ 1192 Abs. 1a S. 1 BGB). Eintragungsfähig sind nur Einreden, die die Grundschuld selbst betreffen, etwa ein Abtretungsverbot (§§ 1192 Abs. 1, 1157 BGB)."
  },
  {
@@ -797,12 +797,12 @@
   ],
   "frage": "Welche Voraussetzungen genügen zur Entstehung einer Sicherungsgrundschuld als Buchrecht?",
   "optionen": [
-   "Dingliche Einigung, Eintragung aufgrund einseitiger Bewilligung des Eigentümers in der Form der §§ 19, 29 GBO und Abschluss eines schriftlichen Sicherungsvertrags",
    "Dingliche Einigung (§ 873 Abs. 1 BGB) und Eintragung aufgrund einseitiger Bewilligung des Eigentümers in der Form der §§ 19, 29 GBO",
+   "Beurkundete Bewilligung des Eigentümers, Eintragung und Briefübergabe nach § 1117 Abs. 2 BGB",
    "Dingliche Einigung, Eintragung und Valutierung des gesicherten Darlehens",
-   "Beurkundete Bewilligung des Eigentümers, Eintragung und Briefübergabe nach § 1117 Abs. 2 BGB"
+   "Dingliche Einigung, Eintragung aufgrund einseitiger Bewilligung des Eigentümers in der Form der §§ 19, 29 GBO und Abschluss eines schriftlichen Sicherungsvertrags"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Zur Entstehung genügen dingliche Einigung (§ 873 Abs. 1 BGB) und Eintragung aufgrund einseitiger Bewilligung des Eigentümers in der Form der §§ 19, 29 GBO; beim Briefrecht kommt die Briefübergabe oder Aushändigungsabrede (§ 1117 Abs. 2 BGB) hinzu. Der Sicherungsvertrag ist formfrei und keine Entstehungsvoraussetzung; eine Valutierung ist wegen der Forderungsunabhängigkeit nicht nötig, die Grundschuld ist schon vor der Valutierung Fremdgrundschuld."
  },
  {
@@ -819,11 +819,11 @@
   "frage": "Die Ehefrau F stellt ihr Alleineigentum als Sicherheit für ein bestimmtes Geschäftsdarlehen ihres Mannes M zur Verfügung. Das Bankformular enthält eine weite Zweckerklärung, wonach die Grundschuld alle gegenwärtigen und künftigen Forderungen gegen M sichert. Wie ist die Klausel zu beurteilen?",
   "optionen": [
    "Sie ist wirksam, weil die weite Zweckerklärung bei Bankgrundschulden üblich und daher nicht überraschend ist",
-   "Sie kann als überraschende Klausel nach § 305c Abs. 1 BGB unwirksam sein, weil F als Sicherungsgeberin für einen bestimmten Kredit nicht mit der Haftung für alle künftigen Forderungen gegen M rechnen muss; maßgeblich ist der Einzelfall",
    "Sie ist nach § 1192 Abs. 1a BGB unwirksam, weil Sicherungsabreden nicht eintragungsfähig sind",
-   "Sie ist wirksam, aber die Grundschuld haftet kraft Gesetzes nur für das Darlehen, das bei Bestellung bereits valutiert war"
+   "Sie ist wirksam, aber die Grundschuld haftet kraft Gesetzes nur für das Darlehen, das bei Bestellung bereits valutiert war",
+   "Sie kann als überraschende Klausel nach § 305c Abs. 1 BGB unwirksam sein, weil F als Sicherungsgeberin für einen bestimmten Kredit nicht mit der Haftung für alle künftigen Forderungen gegen M rechnen muss; maßgeblich ist der Einzelfall"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Wer sein Grundstück lediglich als Sicherheit für einen bestimmten Kredit hergibt, muss nach der Rechtsprechung nicht damit rechnen, dass die Grundschuld alle künftigen Forderungen gegen den Kreditnehmer sichert, es sei denn, eine besondere Vereinbarung mit dem Eigentümer sieht dies vor. Eine vorformulierte weite Zweckerklärung kann insoweit nach § 305c Abs. 1 BGB als überraschende Klausel unwirksam sein; es kommt auf den Einzelfall an. Die Üblichkeit weiter Zweckerklärungen bei eigenen Schulden des Eigentümers ändert daran nichts; der Notar sollte die Reichweite bei Drittsicherheiten besonders prüfen."
  },
  {
@@ -840,12 +840,12 @@
   ],
   "frage": "Welche Aussage zu Grundschuldzinsen und Nebenleistungen trifft zu?",
   "optionen": [
-   "Ein variabler Zinssatz ist eintragbar, wenn er sich auf einen objektiven Referenzzins bezieht",
-   "Gesetzliche Nebenleistungen müssen eingetragen werden, vertragliche Nebenleistungen sind nicht eintragbar",
    "Zinssatz und Betrag der vertraglichen Nebenleistung müssen ausdrücklich im Grundbuch stehen; ein variabler Zinssatz ist wegen des Bestimmtheitsgrundsatzes nicht eintragbar, gesetzliche Nebenleistungen sind nicht eintragbar",
-   "Der Grundschuldzins muss dem Darlehenszins entsprechen, damit die Grundschuld nicht übersichert"
+   "Ein variabler Zinssatz ist eintragbar, wenn er sich auf einen objektiven Referenzzins bezieht",
+   "Der Grundschuldzins muss dem Darlehenszins entsprechen, damit die Grundschuld nicht übersichert",
+   "Gesetzliche Nebenleistungen müssen eingetragen werden, vertragliche Nebenleistungen sind nicht eintragbar"
   ],
-  "antwort": 2,
+  "antwort": 0,
   "erklaerung": "Zinssatz und Betrag der Nebenleistung müssen ausdrücklich im Grundbuch stehen (§ 1115 Abs. 1 BGB); vertragliche Nebenleistungen sind einzutragen (§§ 1115, 1192 BGB), gesetzliche Nebenleistungen dagegen nicht (§§ 1118, 1192 BGB). Ein variabler Zinssatz ist wegen des Bestimmtheitsgrundsatzes nicht eintragbar, weil nachrangige Gläubiger erkennen müssen, was ihnen vorgeht. Der Grundschuldzins ist ein vom Darlehenszins unabhängiger dinglicher Zins und weicht stets von ihm ab."
  },
  {
@@ -877,10 +877,10 @@
   ],
   "frage": "Welchen Anspruch hat der Hypothekengläubiger gegen den Eigentümer, der nicht persönlicher Schuldner ist?",
   "optionen": [
-   "Einen Zahlungsanspruch in Höhe des Hypothekenbetrags, der in das gesamte Vermögen des Eigentümers vollstreckt werden kann",
-   "Keinen Zahlungsanspruch; der Eigentümer muss nur die Zwangsvollstreckung in das Grundstück dulden (§ 1147 BGB)",
    "Einen Zahlungsanspruch, der auf den Wert des Grundstücks begrenzt ist",
-   "Einen Anspruch wie gegen einen Bürgen nach § 765 BGB, aber mit Einrede der Vorausklage"
+   "Keinen Zahlungsanspruch; der Eigentümer muss nur die Zwangsvollstreckung in das Grundstück dulden (§ 1147 BGB)",
+   "Einen Anspruch wie gegen einen Bürgen nach § 765 BGB, aber mit Einrede der Vorausklage",
+   "Einen Zahlungsanspruch in Höhe des Hypothekenbetrags, der in das gesamte Vermögen des Eigentümers vollstreckt werden kann"
   ],
   "antwort": 1,
   "erklaerung": "Gegen den Eigentümer hat der Hypothekengläubiger keinen Zahlungsanspruch; der Eigentümer ist nur verpflichtet, den Vollstreckungszugriff auf das Grundstück hinzunehmen (§ 1147 BGB). Aus der Hypothek kann nur in das belastete Grundstück vollstreckt werden (§§ 1113, 1147 BGB), aus der Darlehensforderung dagegen in das gesamte Vermögen des Schuldners. Wer sein Grundstück für fremde Schuld einsetzt, steht deshalb günstiger als ein Bürge, dessen ganzes Vermögen haftet."
@@ -900,12 +900,12 @@
   ],
   "frage": "Welche Folge hat die Akzessorietät der Hypothek für ihre Übertragung?",
   "optionen": [
-   "Die Hypothek kann ohne die Forderung übertragen werden, die Forderung aber nicht ohne die Hypothek",
    "Mit der Übertragung der Forderung geht die Hypothek ohne Weiteres über; eine getrennte Übertragung ist ausgeschlossen (§ 1153 BGB)",
    "Forderung und Hypothek können getrennt übertragen werden, solange der Schuldner zustimmt",
+   "Die Hypothek kann ohne die Forderung übertragen werden, die Forderung aber nicht ohne die Hypothek",
    "Die Hypothek ist unübertragbar; nur die Forderung kann abgetreten werden"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Nach § 1153 Abs. 1 BGB geht die Hypothek mit der Übertragung der Forderung ohne Weiteres über; getrennt voneinander können Forderung und Hypothek nach § 1153 Abs. 2 BGB nicht übertragen werden. Eine Trennung ist nur auf Schuldnerseite möglich, weil Kreditschuldner und Eigentümer verschiedene Personen sein können. Diese strenge Bindung macht die Hypothek für Banken unattraktiv."
  },
  {
@@ -940,12 +940,12 @@
   ],
   "frage": "Eine Briefhypothek für ein bereits ausgezahltes Darlehen ist eingetragen. Wann entsteht sie für den Gläubiger als Fremdrecht, wenn eine Aushändigungsabrede nach § 1117 Abs. 2 BGB getroffen wurde?",
   "optionen": [
-   "Erst mit tatsächlicher Übergabe des Briefs durch den Eigentümer an den Gläubiger",
    "Bereits mit der Eintragung, weil die Forderung besteht und die Aushändigungsabrede die Briefübergabe ersetzt",
    "Erst mit Zugang des Briefs beim Gläubiger nach Versand durch das Grundbuchamt",
-   "Erst mit Eintragung des Briefausschlusses nach § 1116 Abs. 2 BGB"
+   "Erst mit Eintragung des Briefausschlusses nach § 1116 Abs. 2 BGB",
+   "Erst mit tatsächlicher Übergabe des Briefs durch den Eigentümer an den Gläubiger"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Die Briefhypothek setzt neben Forderung, Einigung und Eintragung grundsätzlich die Übergabe des Hypothekenbriefs voraus (§ 1117 BGB). Mit einer Aushändigungsabrede (§ 1117 Abs. 2 BGB, § 60 GBO) entsteht die Hypothek aber bereits, sobald sie eingetragen und die Forderung entstanden ist. Deshalb lautet der Praxishinweis, die Aushändigung durch das Grundbuchamt an den Gläubiger zu vereinbaren, wenn das Recht sofort als Fremdrecht entstehen soll."
  },
  {
@@ -962,12 +962,12 @@
   ],
   "frage": "Die Beteiligten wollen eine Buchhypothek. Der Notar beantragt die Eintragung der Hypothek, ohne den Briefausschluss zur Eintragung zu beantragen. Was entsteht?",
   "optionen": [
-   "Eine Buchhypothek, weil die Buchhypothek der gesetzliche Regelfall ist",
    "Eine Briefhypothek, weil der Briefausschluss ausdrücklich eingetragen werden muss (§ 1116 Abs. 2 BGB) und die Briefhypothek Regelfall ist (§ 1116 Abs. 1 BGB)",
-   "Keine Hypothek, weil die Einigung auf eine Buchhypothek und die Eintragung auseinanderfallen",
-   "Eine Sicherungshypothek, weil ohne Brief nur ein streng akzessorisches Recht entstehen kann"
+   "Eine Buchhypothek, weil die Buchhypothek der gesetzliche Regelfall ist",
+   "Eine Sicherungshypothek, weil ohne Brief nur ein streng akzessorisches Recht entstehen kann",
+   "Keine Hypothek, weil die Einigung auf eine Buchhypothek und die Eintragung auseinanderfallen"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Gesetzlicher Regelfall ist die Briefhypothek (§ 1116 Abs. 1 BGB). Eine Buchhypothek setzt voraus, dass der Ausschluss des Briefs ausdrücklich im Grundbuch eingetragen wird (§ 1116 Abs. 2 BGB). Wird das versäumt, entsteht eine Briefhypothek; das ist ein typischer Fehler. Brief- und Buchrecht können nachträglich ineinander umgewandelt werden (§ 1116 Abs. 2, 3 BGB)."
  },
  {
@@ -1035,9 +1035,9 @@
   ],
   "frage": "Welche Aussage zu den Rechten aus einer kraft Gesetzes entstandenen Eigentümergrundschuld trifft zu?",
   "optionen": [
-   "Der Eigentümer kann aus ihr die Zwangsversteigerung seines Grundstücks betreiben, um nachrangige Gläubiger auszuschalten",
-   "Der Eigentümer kann nicht selbst vollstrecken (§ 1197 Abs. 1 BGB) und erhält Zinsen nur bei Zwangsverwaltung (§ 1197 Abs. 2 BGB); ein Pfändungsgläubiger der Eigentümergrundschuld darf dagegen aus ihr vollstrecken",
    "Weder der Eigentümer noch ein Pfändungsgläubiger können aus der Eigentümergrundschuld vollstrecken",
+   "Der Eigentümer kann nicht selbst vollstrecken (§ 1197 Abs. 1 BGB) und erhält Zinsen nur bei Zwangsverwaltung (§ 1197 Abs. 2 BGB); ein Pfändungsgläubiger der Eigentümergrundschuld darf dagegen aus ihr vollstrecken",
+   "Der Eigentümer kann aus ihr die Zwangsversteigerung seines Grundstücks betreiben, um nachrangige Gläubiger auszuschalten",
    "Bei Veräußerung des Grundstücks geht die Eigentümergrundschuld kraft Gesetzes auf den Erwerber über"
   ],
   "antwort": 1,
@@ -1057,12 +1057,12 @@
   ],
   "frage": "Welche Folgen hat es, wenn der Hypothek statt des Darlehens ein abstraktes Schuldversprechen als gesicherte Forderung zugrunde gelegt wird?",
   "optionen": [
+   "Die Hypothek entsteht erst mit Auszahlung des Kredits, weil das Schuldversprechen das Darlehen nur bestätigt",
    "Die Hypothek wird dadurch zur Grundschuld, weil das Schuldversprechen abstrakt ist",
    "Die Hypothek entsteht sofort mit der Eintragung, weil eine bestehende Forderung gesichert wird; der Gläubiger muss nur das Schuldversprechen beweisen, Einwendungen aus dem Grundgeschäft hat der Schuldner zu beweisen",
-   "Die Hypothek entsteht erst mit Auszahlung des Kredits, weil das Schuldversprechen das Darlehen nur bestätigt",
    "Die Hypothek kann nur als Sicherungshypothek eingetragen werden, weil das Schuldversprechen keine Verkehrsforderung ist"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Sichert die Hypothek ein abstraktes Schuldversprechen oder Schuldanerkenntnis, muss der Gläubiger nur dessen Bestehen beweisen, während der Schuldner Einwendungen aus dem Grundgeschäft wie Zahlung oder Aufrechnung vollständig beweisen muss. Zudem entsteht die Hypothek sofort mit der Eintragung, weil sie eine bereits bestehende Forderung sichert und nicht von der Auszahlung des Kredits abhängt; eine Eigentümergrundschuld nach § 1163 Abs. 1 S. 1 BGB entsteht insoweit nicht. Die Hypothek bleibt dabei akzessorisch und wird nicht zur Grundschuld."
  },
  {
@@ -1117,12 +1117,12 @@
   ],
   "frage": "Welche Besonderheit gilt für das Befriedigungsrecht des Eigentümers nach § 1142 BGB gegenüber der allgemeinen Regel über die Leistung durch Dritte?",
   "optionen": [
-   "Der Eigentümer darf nur mit Zustimmung des persönlichen Schuldners zahlen (§ 267 Abs. 2 BGB)",
-   "Der Eigentümer darf den Gläubiger auch dann befriedigen, wenn der persönliche Schuldner widerspricht",
+   "Der Eigentümer darf jederzeit zahlen, auch wenn die Forderung noch nicht fällig ist und der Schuldner noch nicht leisten dürfte",
    "Der Eigentümer darf nur zahlen, wenn der Gläubiger bereits die Zwangsversteigerung beantragt hat",
-   "Der Eigentümer darf jederzeit zahlen, auch wenn die Forderung noch nicht fällig ist und der Schuldner noch nicht leisten dürfte"
+   "Der Eigentümer darf den Gläubiger auch dann befriedigen, wenn der persönliche Schuldner widerspricht",
+   "Der Eigentümer darf nur mit Zustimmung des persönlichen Schuldners zahlen (§ 267 Abs. 2 BGB)"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Das Befriedigungsrecht nach § 1142 BGB setzt voraus, dass die Forderung gegenüber dem Eigentümer fällig ist oder der persönliche Schuldner leisten dürfte. Als Sonderregel gegenüber §§ 267 Abs. 2, 268 BGB gilt es auch dann, wenn der persönliche Schuldner widerspricht. Ein Zahlungsrecht vor Fälligkeit besteht nicht, und ein Vollstreckungsantrag des Gläubigers ist nicht Voraussetzung."
  },
  {
@@ -1173,11 +1173,11 @@
   "frage": "Der Gläubiger kündigt die durch eine Hypothek gesicherte Forderung nur gegenüber dem persönlichen Schuldner S, nicht aber gegenüber der Eigentümerin E. Welche Wirkung hat das?",
   "optionen": [
    "Forderung und Hypothek werden fällig, weil die Hypothek der Forderung akzessorisch folgt",
-   "Nur die Forderung wird fällig; für die Hypothek wirkt die Kündigung nur, wenn sie zwischen Gläubiger und Eigentümer erklärt wird (§ 1141 Abs. 1 BGB)",
    "Die Kündigung ist insgesamt unwirksam, weil sie gegenüber allen Beteiligten erklärt werden muss",
+   "Nur die Forderung wird fällig; für die Hypothek wirkt die Kündigung nur, wenn sie zwischen Gläubiger und Eigentümer erklärt wird (§ 1141 Abs. 1 BGB)",
    "Die Hypothek wird fällig, die Forderung erst nach Ablauf von sechs Monaten"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Hängt die Fälligkeit von einer Kündigung ab, wirkt sie für die Hypothek nur, wenn sie zwischen Gläubiger und Eigentümer erklärt wird; zugunsten des Gläubigers gilt der eingetragene Eigentümer als Eigentümer (§ 1141 Abs. 1 BGB). Kündigt der Gläubiger nur dem Schuldner, wird allein die Forderung fällig; insoweit ist die Akzessorietät durchbrochen."
  },
  {
@@ -1231,12 +1231,12 @@
   ],
   "frage": "Wie haften die Grundstücke bei einer Gesamthypothek nach § 1132 BGB?",
   "optionen": [
-   "Jedes Grundstück haftet nur für den auf es entfallenden Teilbetrag",
    "Jedes Grundstück haftet für die gesamte Forderung; der Gläubiger wählt den Zugriff, kann die Forderung insgesamt aber nur einmal verlangen",
    "Die Grundstücke haften nacheinander in der Reihenfolge ihrer Eintragung",
+   "Jedes Grundstück haftet nur für den auf es entfallenden Teilbetrag",
    "Jedes Grundstück haftet für die gesamte Forderung, und der Gläubiger kann aus jedem Grundstück den vollen Betrag gesondert verlangen"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Bei der Gesamthypothek haftet jedes Grundstück für die gesamte Forderung; der Gläubiger bestimmt, auf welches Grundstück er in welcher Höhe zugreift, kann die Forderung insgesamt aber nur einmal verlangen (§ 1132 BGB). Eine Verteilung auf Teilbeträge erfolgt nicht kraft Gesetzes. Die Gesamthypothek entsteht grundsätzlich erst mit der Eintragung auf sämtlichen Grundstücken."
  },
  {
@@ -1303,12 +1303,12 @@
   ],
   "frage": "Die Eltern wollen ihrem Sohn ein Grundstück übertragen und sich wiederkehrende Pflegeleistungen und Naturalleistungen dinglich sichern lassen. Welches Recht ist zu wählen?",
   "optionen": [
-   "Eine Hypothek, weil auch künftige und bedingte Forderungen sicherungsfähig sind",
    "Eine Höchstbetragshypothek, weil der Umfang der Leistungen noch nicht feststeht",
-   "Eine Reallast, weil durch Hypothek nur Geldforderungen gesichert werden können",
-   "Eine Gesamthypothek an dem Grundstück und dem Elternhaus"
+   "Eine Hypothek, weil auch künftige und bedingte Forderungen sicherungsfähig sind",
+   "Eine Gesamthypothek an dem Grundstück und dem Elternhaus",
+   "Eine Reallast, weil durch Hypothek nur Geldforderungen gesichert werden können"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Durch eine Hypothek kann nur eine Geldforderung gesichert werden; Sach- und Dienstleistungen lassen sich nicht durch Hypothek sichern, hierfür bietet sich die Reallast an. Dass künftige und bedingte Forderungen sicherungsfähig sind, ändert nichts am Erfordernis einer Geldforderung. Der Versuch, Sach- oder Dienstleistungen durch Hypothek zu sichern, ist ein typischer Fehler."
  },
  {
@@ -1327,8 +1327,8 @@
   "optionen": [
    "Gläubiger, Forderungsbetrag, Zinssatz und Geldbetrag der Nebenleistung; im Übrigen kann zur Bezeichnung der Forderung auf die Bewilligung Bezug genommen werden",
    "Nur Gläubiger und Forderungsbetrag; Zinsen und Nebenleistungen ergeben sich aus der in Bezug genommenen Bewilligung",
-   "Gläubiger, Forderungsbetrag, Zinssatz sowie die gesetzlichen Verzugszinsen und Rechtsverfolgungskosten",
-   "Schuldgrund, Gläubiger und Fälligkeitstermin der Forderung"
+   "Schuldgrund, Gläubiger und Fälligkeitstermin der Forderung",
+   "Gläubiger, Forderungsbetrag, Zinssatz sowie die gesetzlichen Verzugszinsen und Rechtsverfolgungskosten"
   ],
   "antwort": 0,
   "erklaerung": "Nach § 1115 BGB sind Gläubiger und Forderungsbetrag, bei Verzinslichkeit der Zinssatz und bei anderen Nebenleistungen deren Geldbetrag einzutragen; im Übrigen genügt die Bezugnahme auf die Eintragungsbewilligung. Jeder Nachrangige muss das höchstmögliche Ausmaß der Belastung berechnen können. Gesetzliche Nebenleistungen wie Verzugszinsen und Rechtsverfolgungskosten sind nicht eintragungsfähig; für sie haftet das Grundstück ohnehin nach § 1118 BGB."
@@ -1363,12 +1363,12 @@
   ],
   "frage": "Welche Aussage zur gesicherten Forderung und zu den Beteiligten der Hypothek trifft zu?",
   "optionen": [
-   "Forderungs- und Hypothekengläubiger können verschiedene Personen sein, wenn dies im Grundbuch vermerkt ist",
-   "Die Forderung muss stets in Euro und ziffernmäßig bestimmt sein; Ausnahmen gibt es nicht",
+   "Öffentlich-rechtliche Forderungen sind nie durch Hypothek sicherbar",
    "Die Beteiligten können der Hypothek nachträglich eine andere Forderung unterlegen (§ 1180 BGB); eine Gläubigermehrheit, etwa als Gesamtgläubiger nach § 428 BGB, ist möglich",
-   "Öffentlich-rechtliche Forderungen sind nie durch Hypothek sicherbar"
+   "Forderungs- und Hypothekengläubiger können verschiedene Personen sein, wenn dies im Grundbuch vermerkt ist",
+   "Die Forderung muss stets in Euro und ziffernmäßig bestimmt sein; Ausnahmen gibt es nicht"
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "Nach § 1180 BGB kann der Hypothek später eine andere Forderung unterlegt werden, und Gläubigermehrheiten (Gesamthand, Bruchteil, Gesamtgläubiger nach § 428 BGB) sind zulässig. Wegen der Akzessorietät müssen Forderungs- und Hypothekengläubiger identisch sein. Ziffernmäßige Bestimmtheit und Euro gelten nur grundsätzlich (Ausnahmen: Höchstbetragshypothek, § 1190 BGB; § 28 S. 2 Hs. 2 GBO), und öffentlich-rechtliche Forderungen sind sicherbar, wenn das Grundstück nicht bereits kraft Gesetzes haftet."
  },
  {
@@ -1391,9 +1391,9 @@
    {
     "frage": "Wem stand die Hypothek vor der Abtretung materiell zu?",
     "optionen": [
-     "G als eingetragenem Gläubiger",
-     "E als Eigentümergrundschuld, weil die Forderung nicht entstanden ist (§§ 1163 Abs. 1 S. 1, 1177 BGB)",
      "Niemandem, die Hypothek war nichtig",
+     "E als Eigentümergrundschuld, weil die Forderung nicht entstanden ist (§§ 1163 Abs. 1 S. 1, 1177 BGB)",
+     "G als eingetragenem Gläubiger",
      "G und E als Gesamtgläubigern"
     ],
     "antwort": 1,
@@ -1402,23 +1402,23 @@
    {
     "frage": "Kann D trotz fehlender Eintragung gutgläubig erwerben?",
     "optionen": [
-     "Nein, gutgläubiger Erwerb setzt die Eintragung des Erwerbers voraus",
-     "Ja, weil er sich über die beglaubigte Abtretungserklärung auf den eingetragenen G zurückführen kann und deshalb wie ein Eingetragener behandelt wird (§ 1155 BGB)",
      "Nein, weil eine nicht bestehende Forderung nie gutgläubig erworben werden kann und die Hypothek ihr folgt",
-     "Ja, aber nur, wenn E der Abtretung zugestimmt hat"
+     "Nein, gutgläubiger Erwerb setzt die Eintragung des Erwerbers voraus",
+     "Ja, aber nur, wenn E der Abtretung zugestimmt hat",
+     "Ja, weil er sich über die beglaubigte Abtretungserklärung auf den eingetragenen G zurückführen kann und deshalb wie ein Eingetragener behandelt wird (§ 1155 BGB)"
     ],
-    "antwort": 1,
+    "antwort": 3,
     "erklaerung": "Der Briefbesitzer, der sein Recht über eine zusammenhängende Reihe öffentlich beglaubigter Abtretungserklärungen auf einen eingetragenen Gläubiger zurückführt, wird für §§ 891 bis 899 BGB wie ein Eingetragener behandelt (§ 1155 BGB); über § 1138 BGB erstreckt sich der öffentliche Glaube auf die Forderung."
    },
    {
     "frage": "Was erwirbt D und wie kann er vorgehen?",
     "optionen": [
-     "Hypothek und Forderung; er kann E persönlich verklagen und in ihr gesamtes Vermögen vollstrecken",
      "Nur die Hypothek, nicht die Forderung; er kann mit der dinglichen Klage auf Duldung der Zwangsvollstreckung gegen das Grundstück vorgehen",
+     "Nur die Forderung; die Hypothek bleibt Eigentümergrundschuld der E",
      "Nichts, weil G nicht Berechtigter war",
-     "Nur die Forderung; die Hypothek bleibt Eigentümergrundschuld der E"
+     "Hypothek und Forderung; er kann E persönlich verklagen und in ihr gesamtes Vermögen vollstrecken"
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "Die Forderung wird nur fingiert, soweit es für den Bestand der Hypothek nötig ist. D erlangt die Hypothek, nicht die Forderung; E verliert ihm gegenüber die Einwendung der Nichtvalutierung. D erstreitet seinen Titel mit der dinglichen Klage auf Duldung der Zwangsvollstreckung; persönliche Klage und Vollstreckung in das übrige Vermögen stehen ihm nicht offen."
    }
   ],
@@ -1439,10 +1439,10 @@
   ],
   "frage": "Welche Einrede des Eigentümers gehört zur Gruppe des § 1157 BGB (Einreden gegen die Hypothek aus dem Rechtsverhältnis zum bisherigen Gläubiger)?",
   "optionen": [
-   "Die Stundung der Darlehensforderung",
    "Die Einwendung, das Darlehen sei nie ausgezahlt worden",
+   "Die Einrede des nicht erfüllten Vertrages aus dem Darlehensverhältnis",
    "Die Abrede, für eine bestimmte Zeit nicht aus der Hypothek zu vollstrecken",
-   "Die Einrede des nicht erfüllten Vertrages aus dem Darlehensverhältnis"
+   "Die Stundung der Darlehensforderung"
   ],
   "antwort": 2,
   "erklaerung": "§ 1157 BGB erfasst Einreden gegen die Hypothek selbst aus dem Verhältnis zum bisherigen Gläubiger, etwa ein Abtretungsverbot, die Abrede, eine bestimmte Zeit nicht zu vollstrecken, oder zuerst in anderes Vermögen zu vollstrecken. Stundung, Nichtvalutierung und § 320 BGB betreffen die gesicherte Forderung und fallen unter §§ 1137, 1138 BGB. Beide Gruppen entfallen gegenüber einem gutgläubigen Erwerber."
@@ -1479,11 +1479,11 @@
   "frage": "Der Eigentümer hat einem privaten Hypothekengläubiger eine Teilzahlung geleistet. Wie lässt sich ein gutgläubiger einredefreier Erwerb durch einen Abtretungsempfänger am einfachsten verhindern?",
   "optionen": [
    "Durch Herausverlangen des Briefs nach § 1144 BGB",
+   "Durch Anzeige der Teilzahlung beim Grundbuchamt ohne Vorlage des Briefs",
    "Durch Vermerk der Teilzahlung auf dem Hypothekenbrief, den der Gläubiger bei Teilbefriedigung anbringen muss",
-   "Durch Eintragung eines Widerspruchs, für dessen einstweilige Verfügung eine Gefährdung glaubhaft zu machen ist",
-   "Durch Anzeige der Teilzahlung beim Grundbuchamt ohne Vorlage des Briefs"
+   "Durch Eintragung eines Widerspruchs, für dessen einstweilige Verfügung eine Gefährdung glaubhaft zu machen ist"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Bei Teilbefriedigung hat der Eigentümer keinen Anspruch auf Herausgabe des Briefs; der Gläubiger muss die Teilzahlung aber auf dem Brief vermerken (§ 1145 BGB). Schon ein privatschriftlicher Vermerk auf dem Brief kann gutgläubigen Erwerb verhindern, weshalb die Praxis Teilzahlungen und Abtretungsausschlüsse vermerken lässt. Ein Widerspruch nach § 899 BGB ist ebenfalls möglich, für die einstweilige Verfügung muss aber gerade keine Gefährdung glaubhaft gemacht werden."
  },
  {
@@ -1502,11 +1502,11 @@
   "frage": "Welcher Gegenstand gehört nicht zum Haftungsverband der Hypothek?",
   "optionen": [
    "Zubehör, das im Eigentum des Grundstückseigentümers steht",
+   "Miet- und Pachtforderungen aus dem belasteten Grundstück",
    "Versicherungsforderungen wegen Beschädigung des Gebäudes",
-   "Getrennte Erzeugnisse, die mit der Trennung in das Eigentum eines Pächters gelangt sind",
-   "Miet- und Pachtforderungen aus dem belasteten Grundstück"
+   "Getrennte Erzeugnisse, die mit der Trennung in das Eigentum eines Pächters gelangt sind"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Zum Haftungsverband gehören Bestandteile, getrennte Erzeugnisse, Zubehör im Eigentum des Grundstückseigentümers (§ 1120 BGB), Miet- und Pachtforderungen (§ 1123 BGB) und Surrogate wie Versicherungsforderungen (§§ 1127–1130 BGB). Ausgenommen sind Erzeugnisse, die mit der Trennung nach §§ 954 bis 957 BGB in das Eigentum eines anderen als des Eigentümers oder Eigenbesitzers, etwa eines Pächters, gelangt sind. Miet- und Pachtforderungen sind erfasst, haben aber nur bei Zwangsverwaltung Bedeutung."
  },
  {
@@ -1528,34 +1528,34 @@
    {
     "frage": "Ist der Traktor durch die Übereignung am 1. März aus dem Haftungsverband ausgeschieden?",
     "optionen": [
-     "Ja, die Übereignung genügt nach § 1121 Abs. 1 BGB",
-     "Nein, Zubehör wird vor der Beschlagnahme nur frei, wenn es sowohl veräußert als auch vom Grundstück entfernt wurde",
      "Ja, weil K gutgläubig nach § 936 BGB lastenfrei erworben hat",
-     "Nein, Zubehör kann nie aus dem Haftungsverband ausscheiden"
+     "Ja, die Übereignung genügt nach § 1121 Abs. 1 BGB",
+     "Nein, Zubehör kann nie aus dem Haftungsverband ausscheiden",
+     "Nein, Zubehör wird vor der Beschlagnahme nur frei, wenn es sowohl veräußert als auch vom Grundstück entfernt wurde"
     ],
-    "antwort": 1,
+    "antwort": 3,
     "erklaerung": "Erzeugnisse und Zubehör werden vor der Beschlagnahme nur frei, wenn sie sowohl übereignet als auch weggeschafft wurden; Übereignung allein genügt nicht (§ 1121 Abs. 1 BGB)."
    },
    {
     "frage": "Wird der Traktor von der Beschlagnahme am 10. März erfasst?",
     "optionen": [
+     "Ja, aber nur zugunsten nachrangiger Gläubiger",
      "Nein, weil er bereits K gehörte",
-     "Ja, weil er sich bei der Beschlagnahme noch auf dem Grundstück befand, gleich ob schon übereignet",
      "Nein, weil die Beschlagnahme erst mit Eintragung des Vermerks wirkt",
-     "Ja, aber nur zugunsten nachrangiger Gläubiger"
+     "Ja, weil er sich bei der Beschlagnahme noch auf dem Grundstück befand, gleich ob schon übereignet"
     ],
-    "antwort": 1,
+    "antwort": 3,
     "erklaerung": "Eine mithaftende Sache, die sich bei der Beschlagnahme noch auf dem Grundstück befindet, wird von ihr erfasst, gleich ob sie schon übereignet ist (§ 1121 Abs. 1 BGB, § 20 ZVG)."
    },
    {
     "frage": "Wird der Traktor durch das Abholen am 20. März frei?",
     "optionen": [
-     "Ja, weil K bei der Übereignung am 1. März gutgläubig war",
      "Nein, weil K bei der Entfernung wegen des eingetragenen Versteigerungsvermerks hinsichtlich der Beschlagnahme nicht mehr gutgläubig sein konnte (§ 1121 Abs. 2 S. 2 BGB, § 23 Abs. 2 ZVG)",
      "Ja, weil Veräußerung und Entfernung zusammen vorliegen, gleich in welcher zeitlichen Lage",
-     "Nein, weil nach der Beschlagnahme eine Enthaftung ausnahmslos ausgeschlossen ist"
+     "Nein, weil nach der Beschlagnahme eine Enthaftung ausnahmslos ausgeschlossen ist",
+     "Ja, weil K bei der Übereignung am 1. März gutgläubig war"
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "Bei Veräußerung vor der Beschlagnahme und Entfernung danach hilft der gute Glaube bei der Übereignung nicht (§ 1121 Abs. 2 S. 1 BGB); maßgeblich ist der gute Glaube an das Fehlen der Beschlagnahme im Zeitpunkt der Entfernung (§ 1121 Abs. 2 S. 2 BGB). Ab Eintragung des Versteigerungsvermerks gilt die Beschlagnahme als bekannt (§ 23 Abs. 2 ZVG)."
    }
   ],
@@ -1625,12 +1625,12 @@
   ],
   "frage": "An den Grundstücken von A und B besteht eine Gesamthypothek. A, der nicht persönlicher Schuldner ist, befriedigt den Gläubiger; einen Ersatzanspruch gegen B hat er nicht. Was geschieht mit der Hypothek?",
   "optionen": [
+   "Die Hypothek wird an beiden Grundstücken Eigentümergrundschuld des jeweiligen Eigentümers",
    "A erwirbt die Hypothek an beiden Grundstücken als Gesamthypothek",
    "A erwirbt die Hypothek an seinem Grundstück; am Grundstück des B erlischt sie (§§ 1143 Abs. 2, 1173 BGB)",
-   "Die Hypothek erlischt an beiden Grundstücken",
-   "Die Hypothek wird an beiden Grundstücken Eigentümergrundschuld des jeweiligen Eigentümers"
+   "Die Hypothek erlischt an beiden Grundstücken"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Bei der Gesamthypothek gilt § 1173 BGB (§ 1143 Abs. 2 BGB): Der zahlende Eigentümer eines Grundstücks erwirbt die Hypothek an seinem Grundstück, an den übrigen erlischt sie. Nur soweit er gegen den Eigentümer eines anderen belasteten Grundstücks einen Ersatzanspruch hat, erwirbt er auch dort die Hypothek, die dann als Gesamthypothek fortbesteht (§ 1173 Abs. 1 BGB)."
  },
  {
@@ -1648,12 +1648,12 @@
   ],
   "frage": "Der Eigentümer, der zugleich Darlehensschuldner ist, hat die durch Hypothek gesicherte Forderung getilgt. Der Gläubiger erteilt eine löschungsfähige Quittung. Was kann der Eigentümer damit erreichen?",
   "optionen": [
+   "Die Abtretung der Hypothek an einen neuen Kreditgeber ohne Mitwirkung des Grundbuchamts",
    "Nur die Löschung, wobei zusätzlich die Bewilligung des Gläubigers nötig ist",
    "Die Umschreibung in eine Eigentümergrundschuld im Wege der Grundbuchberichtigung (§ 22 GBO) oder die Löschung auf eigene Bewilligung",
-   "Die Abtretung der Hypothek an einen neuen Kreditgeber ohne Mitwirkung des Grundbuchamts",
    "Nichts, weil die Quittung nur schuldrechtliche Wirkung hat"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Mit der löschungsfähigen Quittung in der Form des § 29 GBO weist der Eigentümer nach, dass die Hypothek als Eigentümergrundschuld auf ihn übergegangen ist. Er kann damit die Umschreibung als Grundbuchberichtigung herbeiführen (§ 22 GBO) oder selbst die Aufgabe erklären (§ 875 Abs. 1 BGB) und die Löschung bewilligen. Viele Banken sehen nur eine Löschungsbewilligung vor, weil die Quittung angeben muss, wer gezahlt hat."
  },
  {
@@ -1688,11 +1688,11 @@
   "frage": "Was ist zur Abtretung einer Buchhypothek erforderlich?",
   "optionen": [
    "Schriftliche Abtretungserklärung und Übergabe einer Ausfertigung der Bestellungsurkunde",
-   "Formlose Einigung, Bewilligung des bisherigen Gläubigers in der Form des § 29 GBO und Eintragung (§§ 1154 Abs. 3, 873 Abs. 1 BGB)",
    "Notariell beurkundeter Abtretungsvertrag, eine Eintragung ist entbehrlich",
+   "Formlose Einigung, Bewilligung des bisherigen Gläubigers in der Form des § 29 GBO und Eintragung (§§ 1154 Abs. 3, 873 Abs. 1 BGB)",
    "Formlose Abtretung der Forderung, der die Hypothek nach § 1153 BGB ohne Eintragung folgt"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Bei der Buchhypothek ist die Eintragung konstitutiv: Erforderlich sind formlose Einigung, Bewilligung des bisherigen Gläubigers in beurkundeter oder beglaubigter Form (§ 29 GBO) und Eintragung (§§ 1154 Abs. 3, 873 Abs. 1 BGB). Die außergrundbuchliche Abtretung durch schriftliche Erklärung und Briefübergabe gibt es nur beim Briefrecht (§ 1154 Abs. 1 BGB). Das Buchrecht ist deshalb weniger umlauffähig."
  },
  {
@@ -1711,11 +1711,11 @@
   "frage": "N hat eine Briefhypothek durch privatschriftliche Abtretungserklärung und Briefübergabe erworben und ist nicht eingetragen. Welche Folge hat die fehlende Beglaubigung der Abtretungserklärung?",
   "optionen": [
    "Die Abtretung ist unwirksam, weil § 1154 Abs. 1 BGB öffentliche Beglaubigung verlangt",
-   "Die Abtretung ist wirksam, aber N kann ohne beglaubigte Abtretungskette weder die Klauselumschreibung (§§ 727, 795 ZPO) noch Zahlung im Verteilungsverfahren erreichen; er kann vom bisherigen Gläubiger Beglaubigung auf dessen Kosten verlangen",
+   "Die Abtretung ist schwebend unwirksam bis zur Genehmigung durch den Eigentümer",
    "Die Abtretung ist wirksam und N kann ohne Weiteres seine Eintragung im Grundbuch beantragen",
-   "Die Abtretung ist schwebend unwirksam bis zur Genehmigung durch den Eigentümer"
+   "Die Abtretung ist wirksam, aber N kann ohne beglaubigte Abtretungskette weder die Klauselumschreibung (§§ 727, 795 ZPO) noch Zahlung im Verteilungsverfahren erreichen; er kann vom bisherigen Gläubiger Beglaubigung auf dessen Kosten verlangen"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Für die Abtretung einer Briefhypothek genügt eine schriftliche Abtretungserklärung mit Briefübergabe (§ 1154 Abs. 1 BGB). Der neue Gläubiger kann aber Beglaubigung auf Kosten des bisherigen Gläubigers verlangen (§ 1154 Abs. 1 S. 2 BGB), denn für Grundbucheintragung (§§ 26, 29, 39 Abs. 2 GBO), Klauselumschreibung (§§ 727, 795 ZPO) und Erlösauszahlung (§§ 117 Abs. 1, 126 ZVG) braucht er eine formgerechte Abtretungskette. Zudem erhält er als nicht Eingetragener keine Nachrichten von Grundbuchamt und Versteigerungsgericht."
  },
  {
@@ -1747,12 +1747,12 @@
   ],
   "frage": "Welche Aussage zur rechtsgeschäftlich bestellten Sicherungshypothek trifft zu?",
   "optionen": [
+   "Sie ist das typische Instrument zur Finanzierung eines Immobilienkaufs",
    "Sie kann als Brief- oder Buchrecht bestellt werden; gesetzlicher Regelfall ist das Briefrecht",
-   "Sie ist nur als Buchrecht möglich, muss im Grundbuch als Sicherungshypothek bezeichnet werden, und gutgläubiger Erwerb hinsichtlich der Forderung ist ausgeschlossen",
    "Der Gläubiger kann sich zum Nachweis der Forderung auf die Eintragung stützen (§ 891 BGB i. V. m. § 1138 BGB)",
-   "Sie ist das typische Instrument zur Finanzierung eines Immobilienkaufs"
+   "Sie ist nur als Buchrecht möglich, muss im Grundbuch als Sicherungshypothek bezeichnet werden, und gutgläubiger Erwerb hinsichtlich der Forderung ist ausgeschlossen"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Bei der Sicherungshypothek richtet sich das Recht des Gläubigers allein nach der Forderung, er kann sich nicht auf die Eintragung stützen (§ 1184 BGB); die Bezeichnung ist zwingend (§ 1184 Abs. 2 BGB). Sie besteht nur als Buchrecht (§ 1185 Abs. 1 BGB), und §§ 1138, 1139, 1141, 1156 BGB sind nicht anwendbar (§ 1185 Abs. 2 BGB). Zur Kaufpreisfinanzierung wird sie nicht eingesetzt."
  },
  {
@@ -1769,12 +1769,12 @@
   ],
   "frage": "Wem steht eine Höchstbetragshypothek vor Feststellung der Forderung zu, und wie kann sie vollstreckbar gestaltet werden?",
   "optionen": [
-   "Dem Gläubiger in voller Höhe; der Eigentümer kann sich bei der Bestellung ohne Weiteres wegen des Höchstbetrags der Zwangsvollstreckung unterwerfen",
    "Dem Eigentümer als vorläufige, auflösend bedingte Eigentümergrundschuld; vor Feststellung ist eine Unterwerfung nach § 794 Abs. 1 Nr. 5 ZPO nicht möglich, weshalb ein vollstreckbares abstraktes Schuldanerkenntnis unterlegt werden kann",
+   "Dem Gläubiger in voller Höhe; der Eigentümer kann sich bei der Bestellung ohne Weiteres wegen des Höchstbetrags der Zwangsvollstreckung unterwerfen",
    "Dem Eigentümer als endgültige Eigentümergrundschuld, die er jederzeit löschen lassen kann",
    "Gläubiger und Eigentümer gemeinsam bis zur Feststellung durch Urteil"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Bis zur Feststellung der Forderung gehört das Recht dem Eigentümer als vorläufige, auflösend bedingte Eigentümergrundschuld, ohne dass er einen Berichtigungs- oder Löschungsanspruch hätte; erst mit Feststellung wird es im festgestellten Umfang Sicherungshypothek, im Übrigen endgültige Eigentümergrundschuld. Vor Feststellung kann sich der Eigentümer nicht nach § 794 Abs. 1 Nr. 5 ZPO unterwerfen. Die Praxis unterlegt deshalb ein vollstreckbares abstraktes Schuldanerkenntnis."
  },
  {
@@ -1806,12 +1806,12 @@
   ],
   "frage": "Gläubiger G will wegen einer titulierten Forderung von 30.000 EUR Zwangshypotheken an drei Grundstücken des Schuldners eintragen lassen. Was gilt?",
   "optionen": [
-   "Es wird eine Gesamthypothek über 30.000 EUR an allen drei Grundstücken eingetragen",
-   "G muss die Forderung auf die Grundstücke verteilen; eine Gesamthypothek ist ausgeschlossen, und jeder Teilbetrag muss 750 EUR übersteigen",
    "G muss die Forderung zu gleichen Teilen aufteilen; die Verteilung bestimmt das Grundbuchamt",
-   "Fehlt die Verteilung, erlässt das Grundbuchamt eine rangwahrende Zwischenverfügung"
+   "Fehlt die Verteilung, erlässt das Grundbuchamt eine rangwahrende Zwischenverfügung",
+   "Es wird eine Gesamthypothek über 30.000 EUR an allen drei Grundstücken eingetragen",
+   "G muss die Forderung auf die Grundstücke verteilen; eine Gesamthypothek ist ausgeschlossen, und jeder Teilbetrag muss 750 EUR übersteigen"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Bei mehreren Grundstücken ist eine Gesamt-Zwangshypothek ausgeschlossen (§ 867 Abs. 2 ZPO). Der Gläubiger bestimmt die Verteilung frei, jeder Teilbetrag muss die Wertgrenze von 750 EUR nach § 866 Abs. 3 S. 1 ZPO einhalten. Fehlt die Verteilung, ist keine rangwahrende Zwischenverfügung möglich; dem Gläubiger ist nach § 139 ZPO Gelegenheit zur Nachholung zu geben."
  },
  {
@@ -1864,12 +1864,12 @@
   ],
   "frage": "Welchen Vorteil bringt die Eintragung einer Zwangshypothek dem Gläubiger für eine spätere Zwangsversteigerung?",
   "optionen": [
-   "Er kann aus der Hypothek in Rangklasse 4 statt aus dem persönlichen Titel in Rangklasse 5 vollstrecken; als Titel genügt der Titel mit Eintragungsvermerk",
+   "Die Zwangshypothek verhindert einen freihändigen Verkauf des Grundstücks",
    "Er erhält Vorrang vor allen bereits eingetragenen Grundpfandrechten",
    "Er kann ohne Titel, Klausel und Zustellung vollstrecken",
-   "Die Zwangshypothek verhindert einen freihändigen Verkauf des Grundstücks"
+   "Er kann aus der Hypothek in Rangklasse 4 statt aus dem persönlichen Titel in Rangklasse 5 vollstrecken; als Titel genügt der Titel mit Eintragungsvermerk"
   ],
-  "antwort": 0,
+  "antwort": 3,
   "erklaerung": "Die Zwangshypothek gibt dem Gläubiger zu seiner persönlichen Forderung eine dingliche Sicherung und wahrt den Rang: Aus dem persönlichen Titel betreibt er die Versteigerung in Rangklasse 5, aus der Hypothek in Rangklasse 4; als Titel genügt der Titel mit dem Eintragungsvermerk nach § 867 Abs. 1 ZPO. Vorrang vor bereits eingetragenen Rechten erhält er nicht. Bei einem freihändigen Verkauf führt die Zwangshypothek über die Lastenfreistellung regelmäßig zur Begleichung der Forderung."
  }
 ]

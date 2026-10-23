@@ -1083,5 +1083,426 @@
    }
   ],
   "erklaerung": "Die Masse ist mit Wertzufluss einzutragen, erhält eine Massennummer mit Verweis auf die UVZ-Nummer, und der Eingang ist unverzüglich nach Zugang des Kontoauszugs zu buchen (§ 25 Abs. 2 NotAktVV). Inhaltliche Berichtigungen bestehender Eintragungen bedürfen der persönlichen Bestätigung des Notars nach § 30 NotAktVV."
+ },
+ {
+  "id": "orga1-050",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Anzeige- und Mitteilungspflichten",
+  "seite": "Anzeigepflichten: Erbschaft- und Schenkungsteuer (§ 34 ErbStG)",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-erbschaft-und-schenkungsteuer-34-erbstg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 34 Abs. 1 ErbStG",
+   "§ 8 Abs. 2 ErbStDV"
+  ],
+  "frage": "Eltern übertragen ihrem Sohn ein Hausgrundstück gegen Einräumung eines Wohnungsrechts und Pflegeverpflichtung; der Vertrag ist als entgeltlich bezeichnet. Muss der Notar eine Schenkungsteueranzeige erstatten?",
+  "optionen": [
+   "Nein, weil der Vertrag eine Gegenleistung vorsieht",
+   "Nur, wenn der Notar nach eigener Bewertung eine Steuer für wahrscheinlich hält",
+   "Ja, weil vorbehaltene Nutzungsrechte und Pflegeleistungen auf eine freigebige Zuwendung hindeuten können; die Bewertung trifft das Finanzamt",
+   "Nein, Übergabeverträge sind ausschließlich nach § 18 GrEStG anzuzeigen"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 34 Abs. 1 ErbStG genügt, dass der Vorgang für die Steuer erheblich sein kann; formal entgeltliche Geschäfte mit Wohnungsrecht, Pflegeleistungen oder niedriger Gegenleistung sind nach § 8 Abs. 2 ErbStDV anzuzeigen. Der Notar nimmt keine eigene steuerliche Einordnung vor; ob und in welcher Höhe Steuer entsteht, prüft das Finanzamt. Die Grunderwerbsteueranzeige tritt daneben, nicht an die Stelle."
+ },
+ {
+  "id": "orga1-051",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Anzeige- und Mitteilungspflichten",
+  "seite": "Anzeigepflichten: Erbschaft- und Schenkungsteuer (§ 34 ErbStG)",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-erbschaft-und-schenkungsteuer-34-erbstg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 34 Abs. 2 Nr. 3 ErbStG"
+  ],
+  "frage": "Eine Erbauseinandersetzung ist nach § 34 ErbStG nur anzuzeigen, wenn die Verteilung von den Erbquoten abweicht.",
+  "antwort": true,
+  "erklaerung": "Die Erbauseinandersetzung ist anzuzeigen, wenn die Verteilung von den Erbquoten abweicht und deshalb eine freigebige Zuwendung unter Miterben in Betracht kommt (§ 34 Abs. 2 Nr. 3 ErbStG). Eine quotengerechte Teilung enthält keinen Hinweis auf eine Zuwendung unter den Miterben."
+ },
+ {
+  "id": "orga1-052",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Anzeige- und Mitteilungspflichten",
+  "seite": "Anzeigepflichten: Erbschaft- und Schenkungsteuer (§ 34 ErbStG)",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-erbschaft-und-schenkungsteuer-34-erbstg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 34 ErbStG",
+   "§ 7 ErbStDV",
+   "§ 8 ErbStDV"
+  ],
+  "frage": "In welcher Form ist die Schenkungsteueranzeige des Notars (bis zur Umstellung auf das elektronische Verfahren) zu erstatten?",
+  "optionen": [
+   "Formlos per E-Mail, da auch Bürger formlos anzeigen dürfen",
+   "Schriftlich und unverzüglich auf dem amtlichen Vordruck (Muster 6 ErbStDV) mit beglaubigter Abschrift und Absendevermerk auf der Urschrift oder der zurückbehaltenen Abschrift",
+   "Binnen zwei Wochen mit einfacher Abschrift und Vermerk im UVZ",
+   "Binnen eines Monats durch die Beteiligten selbst"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Anzeige ist schriftlich und unverzüglich zu erstatten, mit beglaubigter Abschrift und Absendevermerk auf der Urschrift oder zurückbehaltenen Abschrift (§ 34 ErbStG, §§ 7, 8 ErbStDV); für Schenkungen gilt Muster 6, für Erbfälle Muster 5. Die formlose Anzeige steht nur Bürgern offen, nicht dem Notar als Amtsträger. Zwei-Wochen-Frist und UVZ-Vermerk sind Regeln der Grunderwerbsteueranzeige."
+ },
+ {
+  "id": "orga1-053",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Anzeige- und Mitteilungspflichten",
+  "seite": "Anzeigepflichten: Erbschaft- und Schenkungsteuer (§ 34 ErbStG)",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-erbschaft-und-schenkungsteuer-34-erbstg",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 34 ErbStG"
+  ],
+  "frage": "In Baden-Württemberg dürfen Notare statt der amtlichen Vordrucke beliebige Ausdrucke aus der Notariatssoftware verwenden, sofern alle Pflichtangaben enthalten sind.",
+  "antwort": false,
+  "erklaerung": "Nach den Hinweisen der Finanzverwaltung Baden-Württemberg sind die Vordrucke vollständig und beidseitig zu verwenden. Softwareausdrucke sind nur zulässig, wenn sie dem amtlichen Muster in Text, Format, Gestaltung, Gliederung, Seitenzahl und Rückseiten genau entsprechen; die bloße Vollständigkeit der Angaben genügt nicht."
+ },
+ {
+  "id": "orga1-054",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Anzeige- und Mitteilungspflichten",
+  "seite": "Anzeigepflichten: Grunderwerbsteuer (§ 18 GrEStG)",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-grunderwerbsteuer-18-grestg",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 18 Abs. 1 S. 2 GrEStG",
+   "§ 22a GrEStG",
+   "§ 93c AO"
+  ],
+  "frage": "In welcher Form erstatten Notare die Grunderwerbsteueranzeige seit dem 1. Oktober 2026?",
+  "optionen": [
+   "Auf amtlich vorgeschriebenem Vordruck per Post",
+   "Elektronisch nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle",
+   "Per beA-Nachricht mit beglaubigter Abschrift als PDF",
+   "Wahlweise auf Vordruck oder elektronisch"
+  ],
+  "antwort": 1,
+  "erklaerung": "Seit 01.10.2026 erstatten Notare die Anzeige elektronisch nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle (§ 18 Abs. 1 S. 2 i. V. m. § 22a GrEStG, § 93c AO). Der Vordruck ist nur noch für Gerichte und Behörden vorgesehen (§ 18 Abs. 1 S. 1 GrEStG). Ein Wahlrecht oder eine Papier-Ersatzeinreichung besteht nicht."
+ },
+ {
+  "id": "orga1-055",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Anzeige- und Mitteilungspflichten",
+  "seite": "Anzeigepflichten: Grunderwerbsteuer (§ 18 GrEStG)",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-grunderwerbsteuer-18-grestg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 18 GrEStG",
+   "§ 3 GrEStG"
+  ],
+  "frage": "Eine Grundstücksübertragung zwischen Eltern und Kind, die nach § 3 GrEStG steuerfrei ist, muss der Notar nicht nach § 18 GrEStG anzeigen.",
+  "antwort": false,
+  "erklaerung": "Die Anzeigepflicht besteht unabhängig davon, ob im Ergebnis Steuer festgesetzt wird oder eine Befreiung greift; auch steuerfreie Vorgänge, etwa nach § 3 GrEStG, sind anzuzeigen. Ebenso wenig kommt es darauf an, ob eine Unbedenklichkeitsbescheinigung entbehrlich ist."
+ },
+ {
+  "id": "orga1-056",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Anzeige- und Mitteilungspflichten",
+  "seite": "Anzeigepflichten: Grunderwerbsteuer (§ 18 GrEStG)",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-grunderwerbsteuer-18-grestg",
+  "typ": "fall",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 18 Abs. 3 GrEStG",
+   "§ 18 Abs. 4 S. 2 GrEStG",
+   "§ 17 Abs. 2 NotAktVV"
+  ],
+  "frage": "Kaufvertrag und ELSTER-Störung",
+  "sachverhalt": "Notar N beurkundet am 5. Oktober 2026 einen Grundstückskaufvertrag zwischen V und K. Der Vertrag steht unter dem Vorbehalt einer behördlichen Genehmigung. K bittet sofort um eine Ausfertigung für seine Bank. Wenige Tage vor Fristablauf fällt die ELSTER-Schnittstelle aus. Zwei Monate später heben V und K den Vertrag einvernehmlich auf.",
+  "schritte": [
+   {
+    "frage": "Wann ist die Anzeige nach § 18 GrEStG zu erstatten?",
+    "optionen": [
+     "Erst nach Erteilung der Genehmigung",
+     "Binnen zwei Wochen nach der Beurkundung, ungeachtet der ausstehenden Genehmigung",
+     "Binnen eines Monats nach Kenntnis",
+     "Erst mit dem Antrag auf Eigentumsumschreibung"
+    ],
+    "antwort": 1,
+    "erklaerung": "Die Anzeigepflicht entsteht mit der Beurkundung, auch bei ausstehenden Genehmigungen oder Bedingungen; die Frist beträgt zwei Wochen (§ 18 Abs. 3 GrEStG). Die Monatsfrist gilt für die Beteiligten nach § 19 Abs. 3 GrEStG."
+   },
+   {
+    "frage": "Darf N dem K die Ausfertigung sofort aushändigen?",
+    "optionen": [
+     "Ja, Ausfertigungen sind von der Anzeige unabhängig",
+     "Ja, sofern K schriftlich zusagt, selbst anzuzeigen",
+     "Nein, erst nach Absendung der vollständigen Anzeige; die Absendung ist im UVZ zu vermerken",
+     "Nein, erst nach Vorlage der Unbedenklichkeitsbescheinigung"
+    ],
+    "antwort": 2,
+    "erklaerung": "Ausfertigungen und beglaubigte Abschriften dürfen erst nach Absendung der vollständigen Anzeige ausgehändigt werden; die Absendung wird im UVZ vermerkt (§ 18 Abs. 4 S. 2 GrEStG i. V. m. § 17 Abs. 2 NotAktVV). Die Unbedenklichkeitsbescheinigung betrifft erst den Grundbuchvollzug."
+   },
+   {
+    "frage": "Wie reagiert N auf den ELSTER-Ausfall?",
+    "optionen": [
+     "Er reicht die Anzeige ersatzweise auf Papier ein",
+     "Er beantragt in diesem begründeten Ausnahmefall eine Verlängerung der Zwei-Wochen-Frist",
+     "Die Frist ist während der Störung automatisch gehemmt",
+     "Er überlässt die Anzeige den Beteiligten"
+    ],
+    "antwort": 1,
+    "erklaerung": "Seit 01.10.2026 kann die Frist in begründeten Ausnahmefällen verlängert werden (§ 18 Abs. 3 S. 3 GrEStG); eine Ersatzeinreichung auf Papier ist nicht vorgesehen. Eine automatische Hemmung gibt es nicht, und die Pflicht ist nicht auf die Beteiligten übertragbar."
+   },
+   {
+    "frage": "Was gilt für die spätere Vertragsaufhebung?",
+    "optionen": [
+     "Sie ist nicht anzuzeigen, da kein Erwerb stattfindet",
+     "Sie ist als Änderung des angezeigten Vorgangs in derselben Form nachzumelden",
+     "Sie ist nur dem Grundbuchamt mitzuteilen",
+     "Sie ist nur anzuzeigen, wenn Steuer bereits festgesetzt war"
+    ],
+    "antwort": 1,
+    "erklaerung": "Als Änderung gilt auch die Aufhebung des Vertrags und der Rücktritt; Änderungen sind in derselben Form nachzumelden."
+   }
+  ],
+  "erklaerung": "Die Anzeige ist binnen zwei Wochen nach Beurkundung elektronisch zu erstatten, unabhängig von ausstehenden Genehmigungen; Ausfertigungen gibt es erst nach Absendung, die im UVZ vermerkt wird (§ 18 Abs. 3, 4 GrEStG). Bei technischer Störung bleibt nur die Fristverlängerung, und die Vertragsaufhebung ist als Änderung nachzumelden."
+ },
+ {
+  "id": "orga1-057",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Anzeige- und Mitteilungspflichten",
+  "seite": "Anzeigepflichten: Grunderwerbsteuer (§ 18 GrEStG)",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-grunderwerbsteuer-18-grestg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 18 Abs. 4 S. 2 GrEStG",
+   "§ 17 Abs. 2 NotAktVV",
+   "§ 9 Nr. 8 NotAktVV"
+  ],
+  "frage": "Wie ist die Absendung der Grunderwerbsteueranzeige seit dem 01.10.2026 nachzuweisen?",
+  "optionen": [
+   "Durch Vermerk der Absendung samt beglaubigter Abschrift auf der Urschrift",
+   "Durch Ablage des Sendeprotokolls in der Nebenakte",
+   "Durch Vermerk als sonstige Angabe zur UVZ-Eintragung unter „Anzeigen / Registrierungen“",
+   "Durch Vermerk im Verwahrungsverzeichnis"
+  ],
+  "antwort": 2,
+  "erklaerung": "Der Absendevermerk ist seit 01.10.2026 eine sonstige Angabe zur UVZ-Eintragung (§ 18 Abs. 4 S. 2 GrEStG i. V. m. § 17 Abs. 2, § 9 Nr. 8 NotAktVV), erfasst unter „Anzeigen / Registrierungen“. Der frühere Vermerk auf der Urschrift entfällt und genügt nicht mehr – das ist die naheliegende, aber überholte Praxis."
+ },
+ {
+  "id": "orga1-058",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Anzeige- und Mitteilungspflichten",
+  "seite": "Anzeigepflichten: Grunderwerbsteuer bei Umwandlungen, Anwachsungen und Anteilsübertragungen",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-grunderwerbsteuer-bei-umwandlungen-anwachsungen-und-anteilsubertragungen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1 Nr. 15a FAZuVO",
+   "§ 1 Abs. 2a GrEStG",
+   "§ 18 Abs. 2 S. 2 GrEStG"
+  ],
+  "frage": "Welches Finanzamt verwaltet in Baden-Württemberg die Grunderwerbsteuer bei der Übertragung von Anteilen an einer grundbesitzenden Personengesellschaft nach § 1 Abs. 2a GrEStG?",
+  "optionen": [
+   "Das Lagefinanzamt des wertvollsten Grundstücks",
+   "Das Finanzamt am Sitz des beurkundenden Notars",
+   "Das Finanzamt Schwetzingen als Landeszentralstelle für gesellschaftsrechtliche Grunderwerbsteuerfälle (LZgG)",
+   "Das Wohnsitzfinanzamt des Erwerbers"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 1 Nr. 15a FAZuVO verwaltet das Finanzamt Schwetzingen für ganz Baden-Württemberg die Grunderwerbsteuer bei Umwandlungen und Anwachsungen nach § 1 Abs. 1 Nr. 3 GrEStG sowie bei Vorgängen nach § 1 Abs. 2a bis 3a GrEStG. Die Lagefinanzämter bleiben für den gewöhnlichen Grundstückskauf zuständig."
+ },
+ {
+  "id": "orga1-059",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Anzeige- und Mitteilungspflichten",
+  "seite": "Anzeigepflichten: Grunderwerbsteuer bei Umwandlungen, Anwachsungen und Anteilsübertragungen",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-grunderwerbsteuer-bei-umwandlungen-anwachsungen-und-anteilsubertragungen",
+  "typ": "zuordnung",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 17 GrEStG"
+  ],
+  "frage": "Ordne dem Vorgang das Anknüpfungsmerkmal für die örtliche Zuständigkeit nach § 17 GrEStG zu.",
+  "paare": [
+   [
+    "Anwachsung",
+    "Lage des Grundstücks, bei mehreren des wertvollsten Grundstücks oder Grundstücksbestands"
+   ],
+   [
+    "Umwandlung nach dem UmwG",
+    "Ort der Geschäftsleitung des Erwerbers"
+   ],
+   [
+    "Vorgang nach § 1 Abs. 2a bis 3a GrEStG",
+    "Geschäftsleitung der grundbesitzenden Gesellschaft"
+   ]
+  ],
+  "erklaerung": "Bei Anwachsungen gilt § 17 Abs. 1 und 2 GrEStG (Lage, ggf. wertvollstes Grundstück), bei Umwandlungen § 17 Abs. 3 S. 1 Nr. 1 (Geschäftsleitung des Erwerbers), bei Anteilsvorgängen § 17 Abs. 3 S. 1 Nr. 2 (Geschäftsleitung der grundbesitzenden Gesellschaft). Leicht verwechselt werden Erwerber und grundbesitzende Gesellschaft."
+ },
+ {
+  "id": "orga1-060",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Anzeige- und Mitteilungspflichten",
+  "seite": "Anzeigepflichten: Grunderwerbsteuer bei Umwandlungen, Anwachsungen und Anteilsübertragungen",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-grunderwerbsteuer-bei-umwandlungen-anwachsungen-und-anteilsubertragungen",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 22 GrEStG",
+   "§ 1 Abs. 2a GrEStG"
+  ],
+  "frage": "Auch bei Anteilsübertragungen (Share-Deals) ist die Grunderwerbsteuer durch das Erfordernis einer Unbedenklichkeitsbescheinigung nach § 22 GrEStG abgesichert.",
+  "antwort": false,
+  "erklaerung": "Bei Share-Deals ist keine Unbedenklichkeitsbescheinigung nötig, weil sich am Grundbuch nichts ändert; die Vollzugssicherung nach § 22 GrEStG fehlt, und die Steuer ist faktisch nicht abgesichert. Die Anzeige dient hier vor allem der Information der Finanzverwaltung. Bei Umwandlungen und Anwachsungen (Rechtsträgerwechsel) greifen §§ 21, 22 GrEStG dagegen."
+ },
+ {
+  "id": "orga1-061",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Anzeige- und Mitteilungspflichten",
+  "seite": "Anzeigepflichten: Grunderwerbsteuer bei Umwandlungen, Anwachsungen und Anteilsübertragungen",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-grunderwerbsteuer-bei-umwandlungen-anwachsungen-und-anteilsubertragungen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 20 Abs. 2 Nr. 3 GrEStG",
+   "§ 18 Abs. 2 S. 2 GrEStG"
+  ],
+  "frage": "Notar N beurkundet die Abtretung von 95 % der Geschäftsanteile an einer GmbH. Was muss er vorab und bei der Anzeige beachten?",
+  "optionen": [
+   "Er muss nur anzeigen, wenn die Beteiligten Grundbesitz der GmbH angeben",
+   "Er muss erkunden, ob die GmbH inländischen Grundbesitz hat, und der Anzeige eine Beteiligungsübersicht beifügen",
+   "Er muss eine Unbedenklichkeitsbescheinigung einholen, bevor er die Abtretung beim Handelsregister einreicht",
+   "Geschäftsanteilsabtretungen sind nicht nach § 18 GrEStG anzeigepflichtig"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei gesellschaftsrechtlichen Vorgängen besteht eine Erkundungspflicht, ob die Gesellschaft inländischen Grundbesitz hat. Anteilsübertragungen nach § 1 Abs. 2a bis 3a GrEStG sind nach § 18 Abs. 2 S. 2 GrEStG anzuzeigen, und bei Anzeigen über Gesellschaftsanteile ist eine Beteiligungsübersicht beizufügen (§ 20 Abs. 2 Nr. 3 GrEStG). Eine Unbedenklichkeitsbescheinigung ist bei Share-Deals nicht nötig."
+ },
+ {
+  "id": "orga1-062",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Anzeige- und Mitteilungspflichten",
+  "seite": "Anzeigepflichten: Grunderwerbsteuer – Folgen für § 16 GrEStG",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-grunderwerbsteuer-folgen-fur-16-grestg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 16 Abs. 5 GrEStG",
+   "§ 19 Abs. 3 GrEStG",
+   "§ 18 GrEStG"
+  ],
+  "frage": "Die vollständige Anzeige des Notars über eine Anteilsübertragung nach § 1 Abs. 3 GrEStG geht erst drei Wochen nach der Beurkundung, aber noch innerhalb eines Monats nach Kenntnis der Beteiligten beim Finanzamt ein; die Beteiligten zeigen nicht an. Später wird der Vorgang rückgängig gemacht. Ist § 16 GrEStG anwendbar?",
+  "optionen": [
+   "Nein, weil die Zwei-Wochen-Frist des Notars versäumt ist",
+   "Ja, weil die Anzeige des Notars innerhalb der Frist des Steuerschuldners nach § 19 Abs. 3 GrEStG eingegangen ist und nach dem BFH fristwahrend wirkt",
+   "Nein, weil nur eine Anzeige der Beteiligten selbst § 16 Abs. 5 GrEStG genügt",
+   "Ja, weil § 16 Abs. 5 GrEStG für Anteilsübertragungen nicht gilt"
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 16 Abs. 5 GrEStG schließt die Begünstigung für Vorgänge nach § 1 Abs. 2 bis 3a GrEStG nur aus, wenn nicht fristgerecht und vollständig angezeigt wurde. Nach dem BFH (2023) genügt die vollständige Anzeige eines Anzeigepflichtigen; geht die verspätete Notaranzeige noch innerhalb der Frist des Steuerschuldners (§ 19 Abs. 3 GrEStG) ein, wirkt sie fristwahrend. Entscheidend ist die rechtzeitige vollständige Information des Finanzamts, nicht, wer anzeigt."
+ },
+ {
+  "id": "orga1-063",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Anzeige- und Mitteilungspflichten",
+  "seite": "Anzeigepflichten: Grunderwerbsteuer – Folgen für § 16 GrEStG",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-grunderwerbsteuer-folgen-fur-16-grestg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 16 Abs. 5 GrEStG"
+  ],
+  "frage": "Der Ausschluss nach § 16 Abs. 5 GrEStG erfasst jeden Erwerbsvorgang, also auch den gewöhnlichen Grundstückskauf nach § 1 Abs. 1 Nr. 1 GrEStG.",
+  "antwort": false,
+  "erklaerung": "Der Ausschluss betrifft nur Erwerbsvorgänge nach § 1 Abs. 2 bis 3a GrEStG, die nicht fristgerecht und vollständig angezeigt waren. Für den Grundstückskauf nach § 1 Abs. 1 Nr. 1 GrEStG greift § 16 Abs. 5 GrEStG nicht; dort kann eine unvollständige Anzeige aber den Vollzug über die Unbedenklichkeitsbescheinigung verzögern."
+ },
+ {
+  "id": "orga1-064",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Anzeige- und Mitteilungspflichten",
+  "seite": "Anzeigepflichten: Grunderwerbsteuer – Folgen für § 16 GrEStG",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-grunderwerbsteuer-folgen-fur-16-grestg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 16 Abs. 5 GrEStG",
+   "§ 20 GrEStG"
+  ],
+  "frage": "Welche Angaben sind bei Anteilserwerben nach § 1 Abs. 2a–3a GrEStG besonders kritisch, weil ihr Fehlen zum Ausschluss nach § 16 Abs. 5 GrEStG führen kann?",
+  "optionen": [
+   "Angaben zu Beteiligungsketten, Stimmrechten und Zurechnung",
+   "Angaben zum Bodenrichtwert der Grundstücke",
+   "Angaben zur Steuer-ID des Notars",
+   "Angaben zur Finanzierung des Kaufpreises"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Anzeige muss in allen Teilen vollständig sein; bei Anteilserwerben können fehlende Angaben zu Beteiligungsketten, Stimmrechten oder Zurechnung zum Ausschluss der Begünstigung nach § 16 Abs. 5 GrEStG führen. Deshalb ist der Anzeige auch eine Beteiligungsübersicht beizufügen."
+ },
+ {
+  "id": "orga1-065",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Anzeige- und Mitteilungspflichten",
+  "seite": "Anzeigepflichten: Grunderwerbsteuer – Verhältnis zu § 19 GrEStG und Folgen fehlender Anzeigen",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-grunderwerbsteuer-verhaltnis-zu-19-grestg-und-folgen-fehlender-anzeigen",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 18 GrEStG",
+   "§ 19 GrEStG"
+  ],
+  "frage": "Vereinbaren die Beteiligten im Kaufvertrag, dass sie selbst die Anzeige an das Finanzamt übernehmen, ist der Notar von seiner Anzeigepflicht nach § 18 GrEStG befreit.",
+  "antwort": false,
+  "erklaerung": "Die Anzeigepflicht des Notars nach § 18 GrEStG kann weder vertraglich ausgeschlossen noch auf die Beteiligten übertragen werden. Die Pflicht der Beteiligten nach § 19 GrEStG besteht daneben; diese doppelte Anzeigepflicht ist gewollt. Die Annahme, eine solche Klausel entlaste den Notar, nennt die Seite als typischen Fehler."
+ },
+ {
+  "id": "orga1-066",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Anzeige- und Mitteilungspflichten",
+  "seite": "Anzeigepflichten: Grunderwerbsteuer – Verhältnis zu § 19 GrEStG und Folgen fehlender Anzeigen",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-grunderwerbsteuer-verhaltnis-zu-19-grestg-und-folgen-fehlender-anzeigen",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 18 Abs. 3 S. 1 GrEStG",
+   "§ 19 Abs. 3 GrEStG",
+   "§ 19 Abs. 5 S. 1 GrEStG",
+   "§ 152 AO"
+  ],
+  "frage": "Ordne die Regelung ihrem Inhalt zu.",
+  "paare": [
+   [
+    "§ 18 Abs. 3 S. 1 GrEStG",
+    "Anzeige des Notars binnen zwei Wochen nach Beurkundung"
+   ],
+   [
+    "§ 19 Abs. 3 GrEStG",
+    "Anzeige der Beteiligten binnen eines Monats nach Kenntnis"
+   ],
+   [
+    "§ 19 Abs. 5 S. 1 GrEStG",
+    "Anzeigen der Beteiligten sind Steuererklärungen im Sinne der AO"
+   ],
+   [
+    "§ 152 AO",
+    "Verspätungszuschlag ohne die sonst geltenden Höchstgrenzen"
+   ]
+  ],
+  "erklaerung": "Notar und Beteiligte haben unterschiedliche Fristen: zwei Wochen nach Beurkundung (§ 18 Abs. 3 S. 1) bzw. ein Monat ab Kenntnis (§ 19 Abs. 3). Nur die Anzeigen der Beteiligten sind Steuererklärungen (§ 19 Abs. 5 S. 1 GrEStG); daran knüpfen Folgen wie der Verspätungszuschlag nach § 152 AO an."
+ },
+ {
+  "id": "orga1-067",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Anzeige- und Mitteilungspflichten",
+  "seite": "Anzeigepflichten: Grunderwerbsteuer – Verhältnis zu § 19 GrEStG und Folgen fehlender Anzeigen",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-grunderwerbsteuer-verhaltnis-zu-19-grestg-und-folgen-fehlender-anzeigen",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 170 Abs. 2 S. 1 Nr. 1 AO"
+  ],
+  "frage": "Welche verfahrensrechtliche Folge hat eine unterbliebene Grunderwerbsteueranzeige für die Festsetzungsfrist?",
+  "optionen": [
+   "Die Festsetzungsfrist verkürzt sich auf ein Jahr",
+   "Die Festsetzungsfrist beginnt später (Anlaufhemmung nach § 170 Abs. 2 S. 1 Nr. 1 AO)",
+   "Die Steuer kann nicht mehr festgesetzt werden",
+   "Die Festsetzungsfrist ist während der Anzeigefrist des Notars gehemmt, danach läuft sie normal"
+  ],
+  "antwort": 1,
+  "erklaerung": "Unterbleibt eine Anzeige oder ist sie mangelhaft, beginnt die Festsetzungsfrist später; bei doppelter Anzeigepflicht wirkt sich das auf die Anlaufhemmung nach § 170 Abs. 2 S. 1 Nr. 1 Hs. 2 AO aus. Eine Verkürzung oder ein Ausschluss der Festsetzung tritt gerade nicht ein; daneben drohen Verspätungszuschlag (§ 152 AO) und der Ausschluss nach § 16 Abs. 5 GrEStG."
  }
 ]

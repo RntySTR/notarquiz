@@ -1005,5 +1005,286 @@
   ],
   "antwort": 1,
   "erklaerung": "Geschäftswert des Serienentwurfs ist nach § 119 Abs. 2 GNotKG die halbe Summe der Werte aller Einzelgeschäfte. Kostenschuldner ist der Auftraggeber, beim Bauträgermodell also der Bauträger; wegen der Pflicht zur gesetzmäßigen Gebührenerhebung ist die Gebühr anzusetzen und auf die späteren Einzelbeurkundungen anzurechnen. Eine Stundung ist nach Vorb. 2.4.1 Abs. 7 KV GNotKG nur längstens ein Jahr ab Fälligkeit zulässig."
+ },
+ {
+  "id": "kost1-045",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: Gliederung des Kostenverzeichnisses, Verfahren und Geschäfte",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-gliederung-des-kostenverzeichnisses-verfahren-und-geschafte",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "KV GNotKG Teil 2"
+  ],
+  "frage": "Wofür steht in der KV-Nummer 24102 GNotKG die Ziffer „4“?",
+  "optionen": [
+   "Für den Teil des Kostenverzeichnisses.",
+   "Für den Hauptabschnitt (isolierte Entwürfe und Beratung).",
+   "Für den Abschnitt innerhalb des Hauptabschnitts.",
+   "Für den Einzeltatbestand."
+  ],
+  "antwort": 1,
+  "erklaerung": "Die erste Ziffer einer KV-Nummer bezeichnet den Teil, die zweite den Hauptabschnitt, die dritte den Abschnitt und die letzten zwei den Einzeltatbestand. In 24102 steht die „2“ für Teil 2 (Notargebühren) und die „4“ für Hauptabschnitt 4 (isolierte Entwürfe und Beratung). Die Nummerierung ist bewusst lückenhaft."
+ },
+ {
+  "id": "kost1-046",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: Gliederung des Kostenverzeichnisses, Verfahren und Geschäfte",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-gliederung-des-kostenverzeichnisses-verfahren-und-geschafte",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 85 GNotKG",
+   "§ 10 GNotKG",
+   "KV 21300 GNotKG"
+  ],
+  "frage": "Die Gebühr für das Beurkundungsverfahren entsteht erst mit der Unterzeichnung der Niederschrift; wird das Verfahren vorher beendet, ist keine Gebühr entstanden.",
+  "antwort": false,
+  "erklaerung": "Für die Beurkundung gilt keine Aktgebühr mehr, sondern eine Verfahrensgebühr. Sie entsteht bereits mit dem Beurkundungsauftrag und wird erst nach § 10 GNotKG fällig. Bei vorzeitiger Beendigung ist die Gebühr daher schon entstanden und wird nur nach KV 21300 ff. GNotKG ermäßigt."
+ },
+ {
+  "id": "kost1-047",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: Gliederung des Kostenverzeichnisses, Verfahren und Geschäfte",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-gliederung-des-kostenverzeichnisses-verfahren-und-geschafte",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 21100 GNotKG",
+   "Vorb. 2.1.1 KV GNotKG"
+  ],
+  "frage": "Welche Aussage zur Bestimmung des Gebührensatzes trifft zu?",
+  "optionen": [
+   "Der Gebührensatz richtet sich nach dem Aufwand des Notars im Einzelfall.",
+   "Die gewählte Form der Urkunde bestimmt den Gebührensatz, der Inhalt nur die KV-Nummer.",
+   "Der Inhalt bestimmt den Gebührensatz, die gewählte Form nur die anzuwendende KV-Nummer.",
+   "KV 21100 GNotKG gilt nur für schuldrechtliche Verträge, nicht für Beschlüsse."
+  ],
+  "antwort": 2,
+  "erklaerung": "Der Gebührensatz bildet die Schwierigkeit eines Geschäfts in abstrakter Betrachtung ab; der Aufwand im Einzelfall ist ohne Bedeutung. Der Inhalt der Urkunde bestimmt den Satz, die Form (Beurkundung oder Entwurf mit Unterschriftsbeglaubigung) nur die KV-Nummer. KV 21100 GNotKG gilt für Vertrag, gemeinschaftliches Testament und Beschluss gleichermaßen; Option 2 vertauscht Inhalt und Form."
+ },
+ {
+  "id": "kost1-048",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: Gliederung des Kostenverzeichnisses, Verfahren und Geschäfte",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-gliederung-des-kostenverzeichnisses-verfahren-und-geschafte",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 23100 GNotKG",
+   "KV 23300 GNotKG",
+   "KV 23803 GNotKG",
+   "KV 26000 GNotKG"
+  ],
+  "frage": "Ordne die notariellen Tätigkeiten ihrem Gebührentatbestand zu.",
+  "paare": [
+   [
+    "Rückgabe eines Erbvertrags aus der Verwahrung",
+    "KV 23100 GNotKG"
+   ],
+   [
+    "Eidesstattliche Versicherung zum Erbscheinsantrag",
+    "KV 23300 GNotKG"
+   ],
+   [
+    "Umschreibung der Vollstreckungsklausel",
+    "KV 23803 GNotKG (0,5)"
+   ],
+   [
+    "Tätigkeit zur Unzeit",
+    "KV 26000 GNotKG"
+   ]
+  ],
+  "erklaerung": "Hauptabschnitt 3 regelt sonstige notarielle Verfahren, darunter KV 23100 (Rückgabe eines Erbvertrags), KV 23300 (eidesstattliche Versicherung; der Antrag ist nach Vorb. 2.3.3 Abs. 2 KV GNotKG mit abgegolten) und KV 23800 ff. (Vorbereitung der Zwangsvollstreckung), wobei die Klauselumschreibung eine 0,5-Gebühr nach KV 23803 GNotKG auslöst. Hauptabschnitt 6 enthält Zusatzgebühren wie die Unzeitgebühr nach KV 26000 GNotKG."
+ },
+ {
+  "id": "kost1-049",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: isolierter Entwurf (KV 24100–24102 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-isolierter-entwurf-kv-24100-24102-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "Vorb. 2.2 Abs. 2 KV GNotKG",
+   "KV 24102 GNotKG"
+  ],
+  "frage": "Im Rahmen des Vollzugs eines Kaufvertrags entwirft der Notar eine Löschungsbewilligung für die Bank des Verkäufers. Die Entwurfsgebühr nach KV 24102 GNotKG wäre niedriger als die Vollzugsgebühr. Was gilt?",
+  "optionen": [
+   "Der Notar kann wählen und die niedrigere Entwurfsgebühr ansetzen.",
+   "Der Notar rechnet Vollzugs- und Entwurfsgebühr nebeneinander ab.",
+   "Der Entwurf ist mit der Vollzugsgebühr abgegolten; ein Wahlrecht besteht nicht.",
+   "Der Notar muss die Entwurfsgebühr ansetzen, weil sie für den Kostenschuldner günstiger ist."
+  ],
+  "antwort": 2,
+  "erklaerung": "Entwürfe für Vollzugsurkunden fallen nicht unter KV 24100 ff. GNotKG; wird eine Vollzugsgebühr abgerechnet, erhält der Notar für den Entwurf keine Gebühr (Vorb. 2.2 Abs. 2 KV GNotKG). Der Vollzug verdrängt den Entwurf, und ein Wahlrecht besteht auch dann nicht, wenn die Entwurfsgebühr wegen eines geringeren Werts niedriger wäre."
+ },
+ {
+  "id": "kost1-050",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: isolierter Entwurf (KV 24100–24102 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-isolierter-entwurf-kv-24100-24102-gnotkg",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "KV 24100 GNotKG",
+   "KV 24101 GNotKG",
+   "KV 24102 GNotKG",
+   "§ 119 Abs. 1 GNotKG"
+  ],
+  "frage": "Ordne den Entwurfstatbeständen ihren Gebührenrahmen und ihre Mindestgebühr zu.",
+  "paare": [
+   [
+    "KV 24100 GNotKG (Beurkundungssatz 2,0)",
+    "Rahmen 0,5 bis 2,0; mindestens 120 €"
+   ],
+   [
+    "KV 24101 GNotKG (Beurkundungssatz 1,0)",
+    "Rahmen 0,3 bis 1,0; mindestens 60 €"
+   ],
+   [
+    "KV 24102 GNotKG (Beurkundungssatz 0,5)",
+    "Rahmen 0,3 bis 0,5; mindestens 30 €"
+   ]
+  ],
+  "erklaerung": "Der Rahmen des isolierten Entwurfs folgt dem Satz des entsprechenden Beurkundungsverfahrens, der Geschäftswert den Vorschriften für die entsprechende Beurkundung (§ 119 Abs. 1 GNotKG). Innerhalb des Rahmens bestimmt der Notar die Gebühr nach § 92 Abs. 1 GNotKG; bei vollständiger Fertigung ist nach § 92 Abs. 2 GNotKG die Höchstgebühr zu erheben."
+ },
+ {
+  "id": "kost1-051",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: isolierter Entwurf (KV 24100–24102 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-isolierter-entwurf-kv-24100-24102-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 92 Abs. 1 GNotKG",
+   "§ 92 Abs. 2 GNotKG"
+  ],
+  "frage": "Nach welchen Kriterien bestimmt der Notar die Entwurfsgebühr innerhalb des Rahmens nach § 92 GNotKG?",
+  "optionen": [
+   "Nach Umfang, Schwierigkeit und Haftungsrisiko, wie bei § 14 Abs. 1 RVG.",
+   "Allein nach dem Umfang der erbrachten Leistungen; bei vollständigem Entwurf ist die Höchstgebühr zu erheben.",
+   "Nach Vermögen und Einkommen des Auftraggebers; die Ermessensausübung ist nicht überprüfbar.",
+   "Stets nach der Mittelgebühr, soweit der Entwurf noch offene Stellen enthält."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 92 Abs. 1 GNotKG ist allein der Umfang der erbrachten Leistungen maßgeblich; Schwierigkeit, Haftung, Vermögen und Einkommen bleiben anders als bei § 14 Abs. 1 RVG außer Betracht. Bei vollständiger Fertigung ist die Höchstgebühr zu erheben (§ 92 Abs. 2 GNotKG); vollständig ist der Entwurf, wenn alle überlassenen Informationen verarbeitet sind, auch wenn offene Stellen bleiben. Die Ermessensausübung ist im Beschwerdeverfahren voll überprüfbar."
+ },
+ {
+  "id": "kost1-052",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: isolierter Entwurf (KV 24100–24102 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-isolierter-entwurf-kv-24100-24102-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "Vorb. 2.4.1 Abs. 3 KV GNotKG",
+   "§ 92 Abs. 1 GNotKG"
+  ],
+  "frage": "Prüft und ergänzt der Notar auftragsgemäß einen ihm überlassenen fremden Entwurf, entsteht die Entwurfsgebühr pauschal in halber Höhe.",
+  "antwort": false,
+  "erklaerung": "Nach Vorb. 2.4.1 Abs. 3 KV GNotKG entsteht die Entwurfsgebühr auch für die Überprüfung, Änderung oder Ergänzung eines fremden Entwurfs. Sie wird nicht pauschal halbiert; der geringere Aufwand wirkt sich nach § 92 Abs. 1 GNotKG bei der Ausfüllung des Rahmens aus."
+ },
+ {
+  "id": "kost1-053",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: Mindest-, Fest- und Höchstgebühren",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-mindest-fest-und-hochstgebuhren",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 34 Abs. 5 GNotKG",
+   "KV 21200 GNotKG"
+  ],
+  "frage": "Ein Schuldanerkenntnis über 2.000 EUR wird beurkundet (1,0 nach KV 21200 GNotKG). Welche Mindestgebühr ist zu beachten?",
+  "optionen": [
+   "15 € nach § 34 Abs. 5 GNotKG",
+   "30 € nach KV 21200 GNotKG",
+   "60 € nach KV 21200 GNotKG",
+   "120 € nach KV 21200 GNotKG"
+  ],
+  "antwort": 2,
+  "erklaerung": "Neben der allgemeinen Mindestgebühr von 15 € (§ 34 Abs. 5 GNotKG) sieht das Kostenverzeichnis spezifische Mindestgebühren vor: für die 1,0-Gebühr einseitiger Erklärungen nach KV 21200 GNotKG mindestens 60 €. Bei geringen Geschäftswerten ist daher die spezifische Mindestgebühr des Tatbestands zu prüfen, nicht nur 15 €. 120 € gelten für die 2,0-Gebühr, 30 € für die ermäßigte 0,5-Gebühr."
+ },
+ {
+  "id": "kost1-054",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: Mindest-, Fest- und Höchstgebühren",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-mindest-fest-und-hochstgebuhren",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 21300 GNotKG",
+   "KV 25100 GNotKG",
+   "KV 25200 GNotKG",
+   "KV 26003 GNotKG"
+  ],
+  "frage": "Ordne die Gebührentatbestände dem zutreffenden Betrag zu.",
+  "paare": [
+   [
+    "Vorzeitige Beendigung ohne Entwurfsversand, Beratung und Verhandlung (KV 21300)",
+    "Festgebühr 20 €"
+   ],
+   [
+    "Reine Unterschriftsbeglaubigung (KV 25100)",
+    "Mindestens 20 €, höchstens 70 €"
+   ],
+   [
+    "Vertretungsbescheinigung (KV 25200)",
+    "15 € je Registerblatt"
+   ],
+   [
+    "Auswärtsgebühr bei letztwilliger Verfügung (KV 26003)",
+    "Festgebühr 50 €"
+   ]
+  ],
+  "erklaerung": "Festgebühren hängen nicht vom Geschäftswert ab, etwa 20 € nach KV 21300 GNotKG, 15 € je Registerblatt nach KV 25200 GNotKG und 50 € nach KV 26003 GNotKG. Die reine Unterschriftsbeglaubigung ist eine Wertgebühr mit spezifischer Mindestgebühr von 20 € und einer der seltenen echten Höchstgebühren von 70 € (KV 25100 GNotKG)."
+ },
+ {
+  "id": "kost1-055",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: Mindest-, Fest- und Höchstgebühren",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-mindest-fest-und-hochstgebuhren",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 34 Abs. 5 GNotKG"
+  ],
+  "frage": "Die allgemeine Mindestgebühr von 15 € nach § 34 Abs. 5 GNotKG gilt auch für Auslagen des Notars.",
+  "antwort": false,
+  "erklaerung": "§ 34 Abs. 5 GNotKG gilt nur für Gebühren, und auch dort nur für Wertgebühren. Auslagen werden in tatsächlicher Höhe abgerechnet, soweit das Gesetz keine Pauschale und keinen Festbetrag vorsieht. Die Mindestgebühr auf Auslagen anzuwenden, ist ein typischer Fehler."
+ },
+ {
+  "id": "kost1-056",
+  "kapitel": "notarkosten",
+  "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
+  "seite": "Notargebühren: Mindest-, Fest- und Höchstgebühren",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-mindest-fest-und-hochstgebuhren",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "KV 22112 GNotKG",
+   "KV 22113 GNotKG",
+   "Vorb. 2.2.1.1 Abs. 1 S. 2 KV GNotKG"
+  ],
+  "frage": "Zum Vollzug eines Erbbaurechtsvertrags holt der Notar Lastenfreistellungsunterlagen und die Zustimmung des Grundstückseigentümers nach § 5 ErbbauRG ein. Greift die Deckelung der Vollzugsgebühr nach KV 22112, 22113 GNotKG?",
+  "optionen": [
+   "Ja, weil alle Tätigkeiten einfache Vollzugstätigkeiten sind.",
+   "Ja, aber die Obergrenze erhöht sich um die Zahl der Tätigkeiten.",
+   "Nein, weil die Zustimmung nach § 5 ErbbauRG keine einfache Tätigkeit ist und die Deckelung nur bei ausschließlich einfachen Tätigkeiten greift.",
+   "Nein, weil die Deckelung nur für Vollzugstätigkeiten bei Kaufverträgen gilt."
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Deckelung nach KV 22112 und 22113 GNotKG greift nur, wenn ausschließlich einfache Vollzugstätigkeiten anfallen. Die Zustimmung des Grundstückseigentümers nach § 5 ErbbauRG fällt unter Vorb. 2.2.1.1 Abs. 1 S. 2 Nr. 5 statt Nr. 1 KV GNotKG und ist keine einfache Tätigkeit. Kommt sie hinzu, entfällt die Deckelung."
  }
 ]

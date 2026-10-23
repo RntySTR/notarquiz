@@ -407,7 +407,7 @@
   "frage": "Im Kaufvertrag übernimmt der Käufer die Kosten. Später beglaubigt der Notar eine Vollmachtsbestätigung des vollmachtlos vertretenen Verkäufers. Wer schuldet die Beglaubigungsgebühr?",
   "optionen": [
    "Der Käufer nach § 30 Abs. 3 GNotKG, weil er alle Kosten des Vertrags übernommen hat",
-   "Nur der Kostenschuldner des neuen Vorgangs, also grundsätzlich der Verkäufer",
+   "Nur der Kostenschuldner dieses neuen Beglaubigungsvorgangs",
    "Käufer und Verkäufer als Gesamtschuldner nach § 32 Abs. 1 GNotKG",
    "Der Käufer, weil die Vollmachtsbestätigung zum Vollzug des Kaufvertrags gehört"
   ],

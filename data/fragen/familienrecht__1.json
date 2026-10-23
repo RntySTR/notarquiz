@@ -1868,5 +1868,77 @@
   "antwort": 1,
   "erklaerung": "Ein Ausschluss des Versorgungsausgleichs ohne Kompensation ist bedenklich, wenn ein Ehegatte Kinder betreut oder dies absehbar ist und dadurch Nachteile in der Altersvorsorge entstehen (OLG Köln, FamRZ 2010, 29 ff.; OLG Hamm, FamRZ 2010, 104 f.). Als Kompensation kommt ein vertraglicher Altersunterhalt in Betracht, der auch nach dem Tod des Verpflichteten fortläuft (OLG Karlsruhe, FamRZ 2010, 34 ff.). Gütertrennung kompensiert nichts, sondern verschärft die Nachteile; eine bloße Verständniserklärung beseitigt die objektive Einseitigkeit nicht.",
   "id": "fami1-085"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Geldzuwendung unter Ehegatten: Darlehen, GbR und Rückforderungsvereinbarung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/geldzuwendung-unter-ehegatten-darlehen-gbr-und-ruckforderungsvereinbarung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1410 BGB"
+  ],
+  "frage": "Ehefrau F investiert 100.000 EUR aus einer Erbschaft (Anfangsvermögen) in das Haus ihres Mannes M; die Ehegatten leben im gesetzlichen Güterstand und treffen keine Vereinbarung. Was erhält F bei Scheidung über den Zugewinnausgleich zurück?",
+  "optionen": [
+   "Den vollen Betrag von 100.000 EUR",
+   "Nur die Hälfte, also 50.000 EUR",
+   "Nichts, weil die Erbschaft privilegiert ist",
+   "Den Betrag nebst 5,5 Prozent Zinsen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Investiert ein Ehegatte Geld aus seinem Anfangsvermögen in die Immobilie des anderen, erhält er über den Zugewinnausgleich nur die Hälfte zurück, weil der Betrag nun den Zugewinn des Empfängers erhöht. Um dies zu vermeiden, kommen Darlehen, GbR-Lösung oder ehebedingte Zuwendung mit Rückforderungsrecht in Betracht. Die 5,5 Prozent nach dem BewG betreffen nur die schenkungsteuerliche Bewertung eines zinslosen Darlehens.",
+  "id": "fami1-086"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Geldzuwendung unter Ehegatten: Darlehen, GbR und Rückforderungsvereinbarung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/geldzuwendung-unter-ehegatten-darlehen-gbr-und-ruckforderungsvereinbarung",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1410 BGB"
+  ],
+  "frage": "Vereinbaren Ehegatten privatschriftlich, dass ein aus dem Zugewinn eines Ehegatten gezahlter Betrag im Scheidungsfall zurückzuzahlen ist, erhält der Zuwendende den Betrag im Ergebnis vollständig zurück.",
+  "antwort": false,
+  "erklaerung": "Stammt der Betrag aus dem Zugewinn des Zuwendenden, steht die Rückzahlungsforderung in seinem Endvermögen und die Verbindlichkeit im Endvermögen des Empfängers; der Zugewinnausgleich führt dann zum selben Ergebnis wie ohne Vereinbarung. Eine vollständige Rückzahlung gelingt nur durch einen Ehevertrag in der Form des § 1410 BGB, der Forderung und Verbindlichkeit aus dem Zugewinnausgleich herausnimmt. Die privatschriftliche Rückzahlungsabrede ist deshalb ein typischer Fehler.",
+  "id": "fami1-087"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Geldzuwendung unter Ehegatten: Darlehen, GbR und Rückforderungsvereinbarung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/geldzuwendung-unter-ehegatten-darlehen-gbr-und-ruckforderungsvereinbarung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1410 BGB"
+  ],
+  "frage": "Welche Gestaltung ist nach dem Handbuch in der Regel die einfachste, damit ein Ehegatte einen aus seinem Anfangsvermögen in die Immobilie des anderen investierten Betrag im Scheidungsfall zurückerhält?",
+  "optionen": [
+   "Ein verzinsliches Ehegattendarlehen mit 5,5 Prozent Zinsen",
+   "Eine ehebedingte Zuwendung mit Rückforderungsrecht für den Scheidungsfall, gegebenenfalls gesichert durch eine Sicherungshypothek",
+   "Eine konkludente Ehegatteninnengesellschaft",
+   "Ein Pflichtteilsverzicht des Empfängers"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die einfachste Lösung ist in der Regel die ehebedingte Zuwendung mit Rückforderungsrecht im Scheidungsfall (gegebenenfalls auch im Todesfall); eine Verzinsung ist nicht erforderlich, weil nur eine Zuwendung rückabgewickelt wird, und der Anspruch kann durch eine Sicherungshypothek gesichert werden. Zu beachten ist die mögliche Schenkungsteuer auf die Zuwendung. Ein Darlehen ist möglich, doch ist eine Verzinsung zwischen Ehegatten oft nicht gewollt, und ein zinsloses Darlehen enthält eine Schenkung des Zinsanteils; auf eine konkludente Innengesellschaft sollte man sich wegen der hohen Anforderungen nicht verlassen.",
+  "id": "fami1-088"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Geldzuwendung unter Ehegatten: Darlehen, GbR und Rückforderungsvereinbarung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/geldzuwendung-unter-ehegatten-darlehen-gbr-und-ruckforderungsvereinbarung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1410 BGB"
+  ],
+  "frage": "Wählen Ehegatten für eine gemeinsame Immobilie eine GbR-Lösung mit Beteiligungsvertrag, ist stets zu prüfen, ob die Immobilie im Zugewinnausgleich insgesamt unberücksichtigt bleiben soll.",
+  "antwort": true,
+  "erklaerung": "Bei der Innen- oder Außen-GbR der Ehegatten wird der Beteiligungsvertrag mit der Bestimmung verbunden, dass die Immobilie im Zugewinnausgleich insgesamt unberücksichtigt bleibt; dieser Ausschluss ist bei einer GbR-Lösung stets zu prüfen. Ergänzend kommen gegenseitige Vorkaufsrechte und Abreden über die Schuldentragung in Betracht. Eine Modifikation des Zugewinnausgleichs bedarf dabei der Form des Ehevertrags (§ 1410 BGB).",
+  "id": "fami1-089"
  }
 ]
