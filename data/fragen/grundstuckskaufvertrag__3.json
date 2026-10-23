@@ -538,5 +538,260 @@
   "frage": "Gibt eine einzige Vollzugsbevollmächtigte für Verkäufer und Käufer Auflassung und Identitätserklärung ab, ist das Problem des § 181 BGB seit der BGH-Entscheidung vom 1.10.2015 vollständig gegenstandslos.",
   "antwort": false,
   "erklaerung": "Die Frage des § 181 BGB ist seit BGH vom 1.10.2015 (V ZB 181/14) weitgehend entschärft, aber nicht vollständig erledigt: Sie behält Bedeutung, wenn das vermessene Flurstück wegen einer ganz anderen Lage nicht mehr mit der verkauften Fläche gleichgesetzt werden kann und nicht bloß von der Ca.-Größe abweicht. Zudem muss die Identitätserklärung überhaupt vom Umfang der Vollzugsvollmacht gedeckt sein, die in Teilflächenverträgen gegebenenfalls zu erweitern ist."
+ },
+ {
+  "id": "kauf3-026",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Kosten, Teilfläche und Vollzug",
+  "seite": "Vollzug des Grundstückskaufvertrags: Ablauf von Erstvollzug, Fälligkeitsmitteilung und Endvollzug",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/vollzug-des-grundstuckskaufvertrags-ablauf-von-erstvollzug-falligkeitsmitteilung-und-endvollzug",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 22 Abs. 1 GrEStG"
+  ],
+  "frage": "Welche Umstände lösen in der Regel den Endvollzug (Antrag auf Eigentumsumschreibung) aus?",
+  "optionen": [
+   "Eintragung der Vormerkung, Fälligkeitsmitteilung und Besitzübergang",
+   "Kaufpreisbestätigung des Verkäufers, Zahlungsnachweis und Unbedenklichkeitsbescheinigung des Finanzamts",
+   "Unbedenklichkeitsbescheinigung, Vorkaufsrechtszeugnis und Löschungsbewilligungen der Gläubiger",
+   "Fälligkeitsmitteilung, Ablauf der Zahlungsfrist und Kaufpreisbestätigung des Verkäufers"
+  ],
+  "antwort": 1,
+  "erklaerung": "Den Endvollzug leitet der Notar in der Regel ein, sobald der Verkäufer den Kaufpreiserhalt bestätigt hat, ein Zahlungsnachweis vorliegt und das Finanzamt nach Zahlung der Grunderwerbsteuer die Unbedenklichkeitsbescheinigung (§ 22 Abs. 1 GrEStG) erteilt hat. Vorkaufsrechtszeugnis und Löschungsunterlagen gehören dagegen zum Erstvollzug und zu den Fälligkeitsvoraussetzungen; die bloße Fälligkeitsmitteilung belegt noch keine Zahlung."
+ },
+ {
+  "id": "kauf3-027",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Kosten, Teilfläche und Vollzug",
+  "seite": "Vollzug des Grundstückskaufvertrags: Ablauf von Erstvollzug, Fälligkeitsmitteilung und Endvollzug",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/vollzug-des-grundstuckskaufvertrags-ablauf-von-erstvollzug-falligkeitsmitteilung-und-endvollzug",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 12 WEG"
+  ],
+  "frage": "Ordne die Vollzugsmaßnahmen der Vollzugsstufe zu, in die sie typischerweise gehören.",
+  "paare": [
+   [
+    "Anfrage zum Vorkaufsrecht der Gemeinde",
+    "Erstvollzug ohne Grundbuchbezug"
+   ],
+   [
+    "Zustimmung des WEG-Verwalters nach § 12 WEG",
+    "Erstvollzug mit Grundbuchbezug"
+   ],
+   [
+    "Mitteilung an die Beteiligten, dass der Kaufpreis zu zahlen ist",
+    "Fälligkeitsmitteilung"
+   ],
+   [
+    "Löschung der Vormerkung des Käufers",
+    "Endvollzug"
+   ]
+  ],
+  "erklaerung": "Der Erstvollzug soll die Wirksamkeit sichern und die für die Fälligkeit nötigen Erklärungen Dritter beschaffen; dazu gehören grundbuchunabhängige Schritte wie die Vorkaufsrechtsanfrage und an das Grundbuch anknüpfende Schritte wie die Verwalterzustimmung nach § 12 WEG. Die Fälligkeitsmitteilung baut darauf auf. Im Endvollzug werden Eigentumsumschreibung und Löschung der Käufervormerkung beantragt."
+ },
+ {
+  "id": "kauf3-028",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Kosten, Teilfläche und Vollzug",
+  "seite": "Vollzug des Grundstückskaufvertrags: Ablauf von Erstvollzug, Fälligkeitsmitteilung und Endvollzug",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/vollzug-des-grundstuckskaufvertrags-ablauf-von-erstvollzug-falligkeitsmitteilung-und-endvollzug",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Die Löschung der Käufervormerkung kann auch dann zusammen mit der Eigentumsumschreibung beantragt werden, wenn nach der Vormerkung Zwischeneintragungen erfolgt sind.",
+  "antwort": false,
+  "erklaerung": "Im Endvollzug wird die Löschung der Käufervormerkung typischerweise mit dem Eigentumswechsel beantragt; liegen jedoch Zwischeneintragungen oder Spezialfälle vor, ist die Löschung zusammen mit dem Eigentumswechsel ausgeschlossen. Die Vormerkung wird dann noch benötigt, um die Wirkung gegenüber den Zwischeneintragungen durchzusetzen."
+ },
+ {
+  "id": "kauf3-029",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Kosten, Teilfläche und Vollzug",
+  "seite": "Vollzug des Grundstückskaufvertrags: Anzeigen an Finanzamt und Gutachterausschuss, Unbedenklichkeitsbescheinigung",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/vollzug-des-grundstuckskaufvertrags-anzeigen-an-finanzamt-und-gutachterausschuss-unbedenklichkeitsbescheinigung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 18 Abs. 3 GrEStG"
+  ],
+  "frage": "Binnen welcher Frist ist die Veräußerungsanzeige an das Finanzamt bei einem genehmigungsbedürftigen Kaufvertrag zu erstatten?",
+  "optionen": [
+   "Binnen zwei Wochen ab Eingang der letzten Genehmigung",
+   "Binnen zwei Wochen ab Beurkundung",
+   "Binnen eines Monats ab Beurkundung",
+   "Binnen zwei Wochen ab Eintragung der Vormerkung"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Veräußerungsanzeige ist binnen zwei Wochen ab Beurkundung zu erstatten, und zwar nach § 18 Abs. 3 GrEStG auch dann, wenn die Wirksamkeit von einer Bedingung, einer Frist oder einer Genehmigung abhängt. Das Abwarten der Genehmigung ist der typische Fehler; nach deren Eingang ist stattdessen eine Wirksamkeitsbestätigung an das Finanzamt zu senden."
+ },
+ {
+  "id": "kauf3-030",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Kosten, Teilfläche und Vollzug",
+  "seite": "Vollzug des Grundstückskaufvertrags: Anzeigen an Finanzamt und Gutachterausschuss, Unbedenklichkeitsbescheinigung",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/vollzug-des-grundstuckskaufvertrags-anzeigen-an-finanzamt-und-gutachterausschuss-unbedenklichkeitsbescheinigung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 21 GrEStG",
+   "§ 20 Abs. 1 Nr. 1 GrEStG"
+  ],
+  "frage": "Fehlt die Steuer-ID des Käufers, darf der Notar den Beteiligten noch keine Ausfertigungen und beglaubigten Abschriften des Kaufvertrags erteilen.",
+  "antwort": true,
+  "erklaerung": "Die Veräußerungsanzeige muss nach § 21 i. V. m. § 20 Abs. 1 Nr. 1 GrEStG in allen Teilen vollständig sein; zwingend gehören die Steuer-IDs beider Vertragsseiten hinein. Solange eine Steuer-ID fehlt, dürfen keine Ausfertigungen und keine beglaubigten Abschriften erteilt werden. Vor deren Erteilung ist deshalb das Vorliegen der Steuer-IDs zu prüfen."
+ },
+ {
+  "id": "kauf3-031",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Kosten, Teilfläche und Vollzug",
+  "seite": "Vollzug des Grundstückskaufvertrags: Anzeigen an Finanzamt und Gutachterausschuss, Unbedenklichkeitsbescheinigung",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/vollzug-des-grundstuckskaufvertrags-anzeigen-an-finanzamt-und-gutachterausschuss-unbedenklichkeitsbescheinigung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 22 Abs. 1 GrEStG"
+  ],
+  "frage": "In welchem Fall kann in Baden-Württemberg nach dem Erlass des Finanzministeriums ohne Unbedenklichkeitsbescheinigung eingetragen werden?",
+  "optionen": [
+   "Verkauf an den Bruder des Veräußerers",
+   "Verkauf an den Sohn des Veräußerers",
+   "Verkauf gegen einen Kaufpreis von 5.000 € in Geld",
+   "Erwerb durch eine gemeinnützige GmbH"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach dem Erlass des Finanzministeriums Baden-Württemberg sind unter anderem Rechtsvorgänge zwischen Verwandten in gerader Linie von der Grundbuchsperre des § 22 Abs. 1 GrEStG ausgenommen; der Sohn ist Verwandter in gerader Linie, der Bruder dagegen nur in der Seitenlinie. Die Bagatellgrenze liegt bei einer Gegenleistung von höchstens 2.500 €, sodass 5.000 € nicht genügen; begünstigt sind ferner Bund, Länder und Gemeinden, nicht aber gemeinnützige Gesellschaften."
+ },
+ {
+  "id": "kauf3-032",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Kosten, Teilfläche und Vollzug",
+  "seite": "Vollzug des Grundstückskaufvertrags: Anzeigen an Finanzamt und Gutachterausschuss, Unbedenklichkeitsbescheinigung",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/vollzug-des-grundstuckskaufvertrags-anzeigen-an-finanzamt-und-gutachterausschuss-unbedenklichkeitsbescheinigung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 16 Abs. 5 GrEStG",
+   "§ 1 Abs. 2 bis 3a GrEStG"
+  ],
+  "frage": "Welche Erwerbsvorgänge betrifft der Ausschluss der Begünstigungen des § 16 GrEStG bei verspäteter oder unvollständiger Anzeige nach § 16 Abs. 5 GrEStG?",
+  "optionen": [
+   "Alle anzeigepflichtigen Grundstückskaufverträge",
+   "Nur Erwerbsvorgänge nach § 1 Abs. 2 bis 3a GrEStG",
+   "Nur Kaufverträge mit Kaufpreisminderung, nicht Vertragsaufhebungen",
+   "Nur Erwerbsvorgänge nach § 1 Abs. 1 Nr. 1 GrEStG"
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 16 Abs. 5 GrEStG betrifft nur Erwerbsvorgänge nach § 1 Abs. 2 bis 3a GrEStG; nur bei ihnen nimmt eine verspätete oder unvollständige Anzeige die Begünstigungen des § 16 GrEStG bei späterer Vertragsaufhebung oder Kaufpreisminderung. Die naheliegende Annahme, dass jeder gewöhnliche Grundstückskaufvertrag betroffen sei, ist daher falsch; die Anzeigepflicht und ihre Frist gelten aber gleichwohl."
+ },
+ {
+  "id": "kauf3-033",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Kosten, Teilfläche und Vollzug",
+  "seite": "Vollzug des Grundstückskaufvertrags: Vermerke in Abteilung II",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/vollzug-des-grundstuckskaufvertrags-vermerke-in-abteilung-ii",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2113 BGB"
+  ],
+  "frage": "Ein nicht befreiter Vorerbe verkauft ein Grundstück; im Grundbuch ist ein Nacherbenvermerk eingetragen. Wessen Zustimmung ist für die volle Wirksamkeit erforderlich?",
+  "optionen": [
+   "Die der Nacherben und der Ersatznacherben",
+   "Die der vorhandenen hypothetischen Nacherben, also derjenigen, die bei Eintritt des Nacherbfalls im Zeitpunkt des Grundbuchvollzugs Nacherben würden",
+   "Die des Nachlassgerichts",
+   "Die der im Testament benannten Nacherben im Zeitpunkt des Erbfalls"
+  ],
+  "antwort": 1,
+  "erklaerung": "Verkauft ein nicht befreiter Vorerbe, bedarf es zur vollen Wirksamkeit der Zustimmung der vorhandenen hypothetischen Nacherben (§ 2113 BGB), also der Personen, die Nacherben würden, wenn der Nacherbfall im Zeitpunkt des Grundbuchvollzugs einträte. Ersatznacherben müssen nicht zustimmen; deshalb ist die erste Option falsch. Diese Fragen sind unbedingt vor der Beurkundung zu klären."
+ },
+ {
+  "id": "kauf3-034",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Kosten, Teilfläche und Vollzug",
+  "seite": "Vollzug des Grundstückskaufvertrags: Vermerke in Abteilung II",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/vollzug-des-grundstuckskaufvertrags-vermerke-in-abteilung-ii",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 144 BauGB"
+  ],
+  "frage": "Ein Sanierungsvermerk kann im Rahmen des Grundstückskaufvertrags auf Antrag der Beteiligten gelöscht werden, sobald die sanierungsrechtliche Genehmigung vorliegt.",
+  "antwort": false,
+  "erklaerung": "Umlegungs- und Sanierungsvermerke können im Rahmen des Verkaufs nicht gelöscht werden; die Löschung erfolgt erst nach Abschluss der Umlegung oder Sanierung auf Ersuchen der Behörde an das Grundbuchamt. Die Genehmigung nach § 144 BauGB ermöglicht nur den Vollzug der Auflassung. Ein Löschungsantrag im Kaufvertrag ist ein typischer Fehler."
+ },
+ {
+  "id": "kauf3-035",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Kosten, Teilfläche und Vollzug",
+  "seite": "Vollzug des Grundstückskaufvertrags: Vermerke in Abteilung II",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/vollzug-des-grundstuckskaufvertrags-vermerke-in-abteilung-ii",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 144 Abs. 2 Nr. 1 BauGB",
+   "§ 144 Abs. 2 Nr. 2 BauGB",
+   "§ 144 Abs. 2 Nr. 3 BauGB"
+  ],
+  "frage": "Das Kaufobjekt liegt in einem förmlich festgelegten Sanierungsgebiet. Was bedarf der schriftlichen Genehmigung der Gemeinde?",
+  "optionen": [
+   "Nur die Auflassung",
+   "Nur der schuldrechtliche Kaufvertrag",
+   "Veräußerung, schuldrechtlicher Vertrag und auch das Finanzierungsgrundpfandrecht",
+   "Veräußerung und schuldrechtlicher Vertrag, nicht aber das Finanzierungsgrundpfandrecht"
+  ],
+  "antwort": 2,
+  "erklaerung": "Im förmlich festgelegten Sanierungsgebiet bedürfen die rechtsgeschäftliche Veräußerung (§ 144 Abs. 2 Nr. 1 BauGB) und der zugrunde liegende schuldrechtliche Vertrag (§ 144 Abs. 2 Nr. 3 Hs. 1 BauGB) der schriftlichen Genehmigung; das gilt nach § 144 Abs. 2 Nr. 2 Hs. 1 BauGB auch für ein Finanzierungsgrundpfandrecht. Die Eigentumsvormerkung kann dagegen schon vorher ohne Genehmigung eingetragen werden."
+ },
+ {
+  "id": "kauf3-036",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Kosten, Teilfläche und Vollzug",
+  "seite": "Vollzug des Grundstückskaufvertrags: Vermerke in Abteilung II",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/vollzug-des-grundstuckskaufvertrags-vermerke-in-abteilung-ii",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 80 InsO"
+  ],
+  "frage": "Verkauf durch den Insolvenzverwalter",
+  "sachverhalt": "Über das Vermögen des E ist das Insolvenzverfahren eröffnet; im Grundbuch seines Grundstücks ist ein Insolvenzvermerk eingetragen. Insolvenzverwalter I will das Grundstück an K verkaufen. K fürchtet, dass I vor Vollzug abberufen werden könnte.",
+  "schritte": [
+   {
+    "frage": "Wer tritt im Kaufvertrag als Verkäufer auf und wie wird die Befugnis nachgewiesen?",
+    "optionen": [
+     "E als eingetragener Eigentümer mit Zustimmung des I",
+     "I als Partei kraft Amtes, Nachweis durch den gerichtlichen Bestellungsbeschluss",
+     "I als Vertreter des E, Nachweis durch Vollmacht des E",
+     "I als Partei kraft Amtes, Nachweis durch den Insolvenzvermerk im Grundbuch"
+    ],
+    "antwort": 1,
+    "erklaerung": "Der Insolvenzvermerk zeigt an, dass nicht mehr der eingetragene Eigentümer, sondern der Insolvenzverwalter verfügen darf; I handelt als Verkäufer in seiner Eigenschaft als Partei kraft Amtes und weist sein Amt durch den gerichtlichen Bestellungsbeschluss nach. Der Insolvenzvermerk selbst nennt den Verwalter nicht als Legitimationsnachweis."
+   },
+   {
+    "frage": "Wie kann K gegen den Wegfall des Amts von I geschützt werden?",
+    "optionen": [
+     "Gar nicht, das Risiko trägt der Käufer",
+     "Fortbestand des Amts auch nach Eintragung der Vormerkung als Fälligkeitsvoraussetzung vereinbaren",
+     "Eintragung eines Widerspruchs gegen den Insolvenzvermerk",
+     "Zahlung des Kaufpreises unmittelbar an E"
+    ],
+    "antwort": 1,
+    "erklaerung": "Schließt ein Insolvenzverwalter den Kaufvertrag, kann der Fortbestand des Amts auch nach Eintragung der Eigentumsvormerkung als Fälligkeitsvoraussetzung vereinbart werden. Der Notar lässt sich den Fortbestand vom Amtsinhaber bestätigen oder fragt beim Insolvenzgericht an, ob Anhaltspunkte für einen Amtswegfall bei Eintragung der Vormerkung bestehen."
+   },
+   {
+    "frage": "Wann sollte I den ununterbrochenen Fortbestand seines Amts zu den Notarakten bestätigen?",
+    "optionen": [
+     "Einmal bei der Beurkundung",
+     "Nach Eintragung der Erwerbervormerkung und nach der Eigentumsumschreibung",
+     "Nur nach der Eigentumsumschreibung",
+     "Bei Beurkundung und bei Fälligkeitsmitteilung"
+    ],
+    "antwort": 1,
+    "erklaerung": "Der Insolvenzverwalter sollte sicherheitshalber zweimal bestätigen, nämlich nach Eintragung der Erwerbervormerkung und nach der Eigentumsumschreibung, dass er weiterhin und seit seiner Bestellung ohne Unterbrechung Insolvenzverwalter ist. Eine Bestätigung nur bei Beurkundung deckt die maßgeblichen Eintragungszeitpunkte nicht ab."
+   }
+  ],
+  "erklaerung": "I verkauft als Partei kraft Amtes mit Nachweis durch den Bestellungsbeschluss. K wird durch den Amtsfortbestand als Fälligkeitsvoraussetzung geschützt, den I nach Vormerkungseintragung und nach Eigentumsumschreibung zu den Notarakten bestätigt."
  }
 ]

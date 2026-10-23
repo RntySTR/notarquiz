@@ -1,0 +1,284 @@
+[
+ {
+  "id": "orga2-001",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Anzeige- und Mitteilungspflichten",
+  "seite": "Anzeigepflichten: Kapitalgesellschaften (§ 54 EStDV)",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-kapitalgesellschaften-54-estdv",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 54 EStDV"
+  ],
+  "frage": "Binnen welcher Frist hat der Notar die Anzeige nach § 54 EStDV an das Finanzamt zu erstatten?",
+  "optionen": [
+   "Binnen einer Woche nach Eintragung im Handelsregister",
+   "Binnen eines Monats nach Aufnahme oder Beglaubigung der Urkunde",
+   "Binnen zwei Wochen nach Aufnahme oder Beglaubigung der Urkunde",
+   "Binnen zwei Wochen nach Vollzug der Registeranmeldung"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Anzeige nach § 54 EStDV ist binnen zwei Wochen nach Aufnahme oder Beglaubigung der Urkunde zu erstatten; die Frist ist strikt einzuhalten. Fristauslösend ist die Beurkundung bzw. Beglaubigung, nicht die Registereintragung oder der Vollzug – die Anzeige soll dem Finanzamt die zeitnahe Erfassung ertragsteuerlich erheblicher Vorgänge ermöglichen."
+ },
+ {
+  "id": "orga2-002",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Anzeige- und Mitteilungspflichten",
+  "seite": "Anzeigepflichten: Kapitalgesellschaften (§ 54 EStDV)",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-kapitalgesellschaften-54-estdv",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 54 EStDV"
+  ],
+  "frage": "Wann dürfen die Beteiligten bei einer nach § 54 EStDV anzeigepflichtigen Geschäftsanteilsabtretung Ausfertigungen oder beglaubigte Abschriften der Urkunde erhalten?",
+  "optionen": [
+   "Erst nachdem die Anzeige an das Finanzamt abgesandt ist",
+   "Erst nachdem das Finanzamt den Eingang der Anzeige bestätigt hat",
+   "Sofort nach der Beurkundung, die Anzeige ist davon unabhängig",
+   "Erst nach Ablauf der Zweiwochenfrist für die Anzeige"
+  ],
+  "antwort": 0,
+  "erklaerung": "Nach § 54 EStDV erhalten die Beteiligten Urschrift, Ausfertigungen oder beglaubigte Abschriften erst, wenn die Anzeige abgesandt ist (Ausfertigungssperre). Eine Empfangsbestätigung des Finanzamts ist gesetzlich nicht vorgesehen und deshalb auch nicht abzuwarten; maßgeblicher Nachweis ist der Absendevermerk auf der zurückbehaltenen Urschrift oder Abschrift."
+ },
+ {
+  "id": "orga2-003",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Anzeige- und Mitteilungspflichten",
+  "seite": "Anzeigepflichten: Kapitalgesellschaften (§ 54 EStDV)",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-kapitalgesellschaften-54-estdv",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 54 EStDV"
+  ],
+  "frage": "Ist eine Umwandlung einer Kapitalgesellschaft steuerfrei, entfällt die Anzeigepflicht des Notars nach § 54 EStDV.",
+  "antwort": false,
+  "erklaerung": "Die Anzeige nach § 54 EStDV ist auch dann zu erstatten, wenn der Vorgang steuerfrei ist; die Pflicht besteht unabhängig davon, ob steuerliche Entlastungen oder Freistellungen eingreifen. Ob der Vorgang Steuern auslöst, soll gerade das Finanzamt selbst beurteilen."
+ },
+ {
+  "id": "orga2-004",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Anzeige- und Mitteilungspflichten",
+  "seite": "Anzeigepflichten: Kapitalgesellschaften (§ 54 EStDV)",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-kapitalgesellschaften-54-estdv",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 54 EStDV",
+   "§ 20 AO",
+   "§ 19 AO"
+  ],
+  "frage": "Anteilsabtretung durch ausländischen Gesellschafter",
+  "sachverhalt": "A, der vor drei Jahren von Stuttgart nach Zürich verzogen ist und seither nicht mehr unbeschränkt einkommensteuerpflichtig ist, tritt seinen Geschäftsanteil an der X-GmbH mit Sitz in Pforzheim an B ab. Notar N beurkundet die Abtretung am 2. März. Die Steuernummer der X-GmbH ist bekannt.",
+  "schritte": [
+   {
+    "frage": "An welches Finanzamt richtet N die Anzeige nach § 54 EStDV jedenfalls?",
+    "optionen": [
+     "An das Wohnsitzfinanzamt des Erwerbers B",
+     "An das nach § 20 AO zuständige Finanzamt der X-GmbH, regelmäßig das Sitzfinanzamt",
+     "An das Bundeszentralamt für Steuern wegen des Auslandsbezugs",
+     "An das Finanzamt am Amtssitz des Notars"
+    ],
+    "antwort": 1,
+    "erklaerung": "Adressat der Anzeige nach § 54 EStDV ist das Finanzamt nach § 20 AO, regelmäßig das Betriebsstätten- oder Sitzfinanzamt der Gesellschaft. Der Wohnsitz des Erwerbers ist für die Grundanzeige nicht maßgeblich."
+   },
+   {
+    "frage": "Was muss N wegen der Person des A zusätzlich veranlassen?",
+    "optionen": [
+     "Nichts, bei Auslandswohnsitz entfällt die Anzeigepflicht insgesamt",
+     "Eine Anzeige an die Steuerbehörde der Schweiz",
+     "Eine Zusatzanzeige an das Finanzamt, das nach § 19 AO bei Beendigung der unbeschränkten Steuerpflicht des A zuständig war",
+     "Eine Mitteilung an den Gutachterausschuss"
+    ],
+    "antwort": 2,
+    "erklaerung": "Verfügt ein nicht unbeschränkt steuerpflichtiger Anteilseigner über Anteile, ist zusätzlich das Finanzamt zu unterrichten, das nach § 19 AO bei Beendigung der früheren unbeschränkten Steuerpflicht zuständig war. Die Zusatzanzeige erfasst gerade Wegzugsfälle; die Anzeigepflicht entfällt also nicht, sie erweitert sich."
+   },
+   {
+    "frage": "Wie dokumentiert N die rechtzeitige Erfüllung der Anzeigepflicht?",
+    "optionen": [
+     "Durch Absendevermerk auf der zurückbehaltenen Urschrift oder Abschrift",
+     "Durch Abheften der Empfangsbestätigung des Finanzamts",
+     "Durch Vermerk in der Registeranmeldung",
+     "Durch Eintragung im Verwahrungsverzeichnis"
+    ],
+    "antwort": 0,
+    "erklaerung": "Die Absendung ist auf der zurückbehaltenen Urschrift oder einer zurückbehaltenen Abschrift zu vermerken. Eine Empfangsbestätigung des Finanzamts ist gesetzlich nicht vorgesehen, der Absendevermerk ist daher der maßgebliche Nachweis."
+   }
+  ],
+  "erklaerung": "N zeigt die Abtretung binnen zwei Wochen ab Beurkundung mit beglaubigter Abschrift und Steuernummer beim Sitzfinanzamt der X-GmbH an (§ 54 EStDV, § 20 AO) und richtet wegen des Wegzugs des A eine Zusatzanzeige an das nach § 19 AO zuletzt zuständige Finanzamt. Die Absendung vermerkt er auf der Urschrift; erst danach erteilt er Ausfertigungen."
+ },
+ {
+  "id": "orga2-005",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Anzeige- und Mitteilungspflichten",
+  "seite": "Mitteilungspflichten: Gutachterausschuss und Transparenzregister",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/mitteilungspflichten-gutachterausschuss-und-transparenzregister",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 195 Abs. 1 BauGB"
+  ],
+  "frage": "In welcher Form genügt die Übersendung eines Grundstückskaufvertrags an den Gutachterausschuss nach § 195 Abs. 1 BauGB?",
+  "optionen": [
+   "Beglaubigte Abschrift",
+   "Ausfertigung",
+   "Einfache Abschrift",
+   "Auszug mit den Kaufpreisangaben"
+  ],
+  "antwort": 2,
+  "erklaerung": "Für die Übersendung an den Gutachterausschuss genügt eine einfache Abschrift der Urkunde (§ 195 Abs. 1 BauGB). Anders als bei der Anzeige an das Finanzamt nach § 54 EStDV ist keine beglaubigte Abschrift erforderlich; ein bloßer Auszug reicht nicht, weil die Abschrift der Urkunde Pflicht bleibt – auch im elektronischen Verfahren."
+ },
+ {
+  "id": "orga2-006",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Anzeige- und Mitteilungspflichten",
+  "seite": "Mitteilungspflichten: Gutachterausschuss und Transparenzregister",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/mitteilungspflichten-gutachterausschuss-und-transparenzregister",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 195 Abs. 2 BauGB",
+   "§ 195 Abs. 3 BauGB"
+  ],
+  "frage": "Der Notar muss die Vertragsbeteiligten auf ihre eigene Pflicht hinweisen, dem Gutachterausschuss die erforderlichen Grundstücksdaten mitzuteilen.",
+  "antwort": false,
+  "erklaerung": "Die Mitteilungspflicht nach § 195 Abs. 2 BauGB trifft die Beteiligten, nicht den Notar. Den Hinweis auf diese Pflicht schuldet der Gutachterausschuss (§ 195 Abs. 3 BauGB), nicht der Notar."
+ },
+ {
+  "id": "orga2-007",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Anzeige- und Mitteilungspflichten",
+  "seite": "Mitteilungspflichten: Gutachterausschuss und Transparenzregister",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/mitteilungspflichten-gutachterausschuss-und-transparenzregister",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§§ 18 ff. GwG"
+  ],
+  "frage": "Welche Rolle hat der Notar bei gesellschaftsrechtlichen Vorgängen im Hinblick auf das Transparenzregister?",
+  "optionen": [
+   "Er ist für alle beurkundeten Vorgänge selbst zur Meldung der wirtschaftlich Berechtigten verpflichtet",
+   "Er hat als GwG-Verpflichteter Sorgfalts- und Dokumentationspflichten, prüft risikobasiert die Eintragungslage und weist auf Eintragungspflichten hin",
+   "Er hat keinerlei Pflichten, da die Meldung allein Sache der Gesellschaft ist",
+   "Er darf erst beurkunden, wenn das Transparenzregister die Eintragung bestätigt hat"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Notar ist für fremde Vorgänge nicht allgemein selbst meldepflichtig, hat aber als Verpflichteter nach dem GwG Sorgfalts- und Dokumentationspflichten (§§ 18 ff. GwG). Dazu gehören die risikobasierte Prüfung der Eintragungslage und der Hinweis auf bestehende Eintragungspflichten. Die Annahme einer eigenen allgemeinen Meldepflicht des Notars geht zu weit, die Annahme völliger Pflichtenfreiheit zu kurz."
+ },
+ {
+  "id": "orga2-008",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Cloud-Dienste im Notariat: Verschwiegenheit, DSGVO, Microsoft 365 und Auslagerung",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/cloud-dienste-im-notariat-verschwiegenheit-dsgvo-microsoft-365-und-auslagerung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 26a BNotO"
+  ],
+  "frage": "Unter welchen Voraussetzungen darf ein Dienstleister nach § 26a BNotO Zugang zu Tatsachen erhalten, die der notariellen Verschwiegenheit unterliegen?",
+  "optionen": [
+   "Einwilligung aller Urkundsbeteiligten und Sitz des Dienstleisters in der EU",
+   "Erforderlichkeit der Dienstleistung, sorgfältige Auswahl und Verschwiegenheitsvereinbarung",
+   "Genehmigung der Notarkammer und Abschluss eines AV-Vertrags",
+   "Zertifizierung des Dienstleisters und Verschlüsselung aller Daten"
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 26a BNotO verlangt drei Voraussetzungen: Die Dienstleistung muss erforderlich, der Dienstleister sorgfältig ausgewählt und mit ihm eine Verschwiegenheitsvereinbarung geschlossen sein. Der AV-Vertrag ist eine zusätzliche Anforderung der DSGVO, keine berufsrechtliche Voraussetzung nach § 26a BNotO; eine Genehmigung der Notarkammer ist nicht vorgesehen."
+ },
+ {
+  "id": "orga2-009",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Cloud-Dienste im Notariat: Verschwiegenheit, DSGVO, Microsoft 365 und Auslagerung",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/cloud-dienste-im-notariat-verschwiegenheit-dsgvo-microsoft-365-und-auslagerung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 26a BNotO"
+  ],
+  "frage": "Unter welcher Voraussetzung kann Microsoft 365 im Notariat berufsrechtskonform genutzt werden?",
+  "optionen": [
+   "Nur bei Speicherung ausschließlich auf deutschen Servern",
+   "Nur mit Einwilligung jedes Mandanten",
+   "Je nach Konfiguration, wenn die „Zusatzvereinbarung für Berufsgeheimnisträger“ abgeschlossen ist",
+   "Überhaupt nicht, da US-Anbieter dem Cloud Act unterliegen"
+  ],
+  "antwort": 2,
+  "erklaerung": "Microsoft 365 kann je nach Konfiguration berufsrechtskonform genutzt werden, Voraussetzung ist der Abschluss der „Zusatzvereinbarung für Berufsgeheimnisträger“. Der US Cloud Act führt nicht zu einem generellen Verbot, ist aber bei der wiederkehrenden Prüfung europäischer Alternativen zu berücksichtigen. Typischer Fehler ist der Einsatz ohne diese Zusatzvereinbarung."
+ },
+ {
+  "id": "orga2-010",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Cloud-Dienste im Notariat: Verschwiegenheit, DSGVO, Microsoft 365 und Auslagerung",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/cloud-dienste-im-notariat-verschwiegenheit-dsgvo-microsoft-365-und-auslagerung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 26a BNotO"
+  ],
+  "frage": "Die Entwurfserstellung darf der Notar zur Durchführung an einen externen Dienstleister abgeben, sofern mit diesem eine Verschwiegenheitsvereinbarung nach § 26a BNotO besteht.",
+  "antwort": false,
+  "erklaerung": "Keiner der Arbeitsschritte eines notariellen Vorgangs – von Terminvermittlung über Entwurfserstellung bis zu Vollzug und Archivierung – sollte zur Durchführung an einen externen Dienstleister abgegeben werden. Eine Verschwiegenheitsvereinbarung nach § 26a BNotO legitimiert den Zugang zu Daten, nicht die Auslagerung notarieller Arbeitsschritte; ob KI unterstützen kann, ist je Schritt gesondert zu prüfen."
+ },
+ {
+  "id": "orga2-011",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Cloud-Nutzung im Notariat: berufsrechtliche Grenzen (§ 35 BNotO)",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/cloud-nutzung-im-notariat-berufsrechtliche-grenzen-35-bnoto",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 35 Abs. 2 S. 2 BNotO",
+   "§ 35 Abs. 4 BNotO"
+  ],
+  "frage": "Ein Notariat bearbeitet Urkundsentwürfe in einem Cloud-Dienst. Spätestens wann sind geänderte Dateien in die Akte in der Geschäftsstelle zu übernehmen?",
+  "optionen": [
+   "Nach einem Monat",
+   "Spätestens nach einer Woche",
+   "Erst bei Abschluss des Vorgangs",
+   "Unverzüglich nach jeder einzelnen Änderung"
+  ],
+  "antwort": 1,
+  "erklaerung": "Urkundsentwürfe dürfen in der Cloud angelegt und bearbeitet werden, sind nach Änderungen aber spätestens nach einer Woche in die Akte zu übernehmen. Als Maßstab gilt eine Übernahme je Arbeitstag, mindestens aber einmal pro Woche; eine Übernahme erst bei Abschluss des Vorgangs genügt nicht, weil die führende Nebenakte am Speicherort der Geschäftsstelle liegt."
+ },
+ {
+  "id": "orga2-012",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Cloud-Nutzung im Notariat: berufsrechtliche Grenzen (§ 35 BNotO)",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/cloud-nutzung-im-notariat-berufsrechtliche-grenzen-35-bnoto",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 35 Abs. 2 S. 2 BNotO"
+  ],
+  "frage": "Wie sind zusätzliche, mit der elektronischen Nebenakte inhaltsgleiche Speicherungen in einer Cloud berufsrechtlich einzuordnen?",
+  "optionen": [
+   "Als unzulässige Parallelakte",
+   "Als führende Nebenakte, sobald sie aktueller sind",
+   "Als Hilfsmittel im Sinne des § 35 Abs. 2 S. 2 BNotO, die in der Cloud liegen dürfen",
+   "Als Bestandteil des Elektronischen Notariatsaktenspeichers"
+  ],
+  "antwort": 2,
+  "erklaerung": "Zusätzliche Speicherungen derselben Inhalte sind Hilfsmittel im Sinne des § 35 Abs. 2 S. 2 BNotO und dürfen auch inhaltsgleich mit der Nebenakte in der Cloud liegen. Führend bleibt stets der Speicherort in der Geschäftsstelle; die Cloud-Ablage als führende Nebenakte zu behandeln, ist ein typischer Fehler."
+ },
+ {
+  "id": "orga2-013",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Datenschutz",
+  "seite": "Cloud-Nutzung im Notariat: berufsrechtliche Grenzen (§ 35 BNotO)",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/cloud-nutzung-im-notariat-berufsrechtliche-grenzen-35-bnoto",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 35 Abs. 4 BNotO"
+  ],
+  "frage": "Das Berufsrecht steht der Nutzung von Cloud-Diensten durch den Notar nicht grundsätzlich entgegen; Akten und Verzeichnisse dürfen aber nicht vollständig in die Cloud ausgelagert werden.",
+  "antwort": true,
+  "erklaerung": "Nach § 35 Abs. 4 BNotO und dem Rundschreiben Nr. 1/2026 ist die Cloud-Nutzung grundsätzlich zulässig. Akten und Verzeichnisse darf der Notar aber nur in der Geschäftsstelle oder künftig im Elektronischen Notariatsaktenspeicher führen; eine vollständige Auslagerung in die Cloud ist unzulässig."
+ }
+]
