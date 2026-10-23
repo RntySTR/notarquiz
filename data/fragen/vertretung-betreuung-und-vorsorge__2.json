@@ -573,5 +573,214 @@
   "frage": "Liegt eine ausreichende Vorsorgevollmacht vor, kann trotzdem ein Betreuer erforderlich sein, etwa wenn der Bevollmächtigte die Vollmacht nicht ausüben will.",
   "antwort": true,
   "erklaerung": "Die Betreuung ist gegenüber einer ausreichenden Vollmacht nachrangig. Trotz umfassender Vollmacht kann ein Betreuer nötig sein, etwa wenn die Vollmacht wegen familiären Streits nicht anerkannt wird oder der Bevollmächtigte sie nicht ausüben will."
+ },
+ {
+  "id": "vert2-027",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Vormundschaft: Amtsstellung, Anordnung und Bestellung des Vormunds",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/vormundschaft-amtsstellung-anordnung-und-bestellung-des-vormunds",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1774 Abs. 2 BGB",
+   "§ 1781 Abs. 3 BGB"
+  ],
+  "frage": "Wer kann zum vorläufigen Vormund nach § 1781 BGB bestellt werden?",
+  "optionen": [
+   "Jede geeignete ehrenamtlich tätige natürliche Person",
+   "Nur ein Berufsvormund",
+   "Nur das Jugendamt oder ein anerkannter Vormundschaftsverein",
+   "Nur ein naher Verwandter des Kindes"
+  ],
+  "antwort": 2,
+  "erklaerung": "Vorläufiger Vormund kann nur das Jugendamt oder ein anerkannter Vormundschaftsverein sein (§ 1774 Abs. 2 BGB). Ehrenamtliche natürliche Personen und Berufsvormünder kommen nur als (endgültige) Vormünder nach § 1774 Abs. 1 BGB in Betracht. Die vorläufige Vormundschaft dauert höchstens drei Monate, verlängerbar auf sechs Monate (§ 1781 Abs. 3 BGB)."
+ },
+ {
+  "id": "vert2-028",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Vormundschaft: Amtsstellung, Anordnung und Bestellung des Vormunds",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/vormundschaft-amtsstellung-anordnung-und-bestellung-des-vormunds",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1785 Abs. 2 BGB"
+  ],
+  "frage": "Wird ein Vormund ohne vorherige Bereiterklärung bestellt, ist die Bestellung nichtig.",
+  "antwort": false,
+  "erklaerung": "Die ausgewählte Person darf zwar erst nach ihrer Bereiterklärung bestellt werden (§ 1785 Abs. 2 BGB). Fehlt die Übernahmeerklärung, ist die Bestellung aber nur anfechtbar und bleibt wirksam, nicht nichtig."
+ },
+ {
+  "id": "vert2-029",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Vormundschaft: Amtsstellung, Anordnung und Bestellung des Vormunds",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/vormundschaft-amtsstellung-anordnung-und-bestellung-des-vormunds",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1773 Abs. 2 BGB"
+  ],
+  "frage": "Das Familiengericht bestellt für ein noch ungeborenes Kind vorsorglich einen Vormund. Wann wird die Bestellung wirksam?",
+  "optionen": [
+   "Mit Bekanntgabe des Beschlusses an den Vormund",
+   "Mit der Geburt des Kindes",
+   "Mit Rechtskraft des Beschlusses",
+   "Mit Eintragung im Geburtenregister"
+  ],
+  "antwort": 1,
+  "erklaerung": "Benötigt ein Kind voraussichtlich schon bei der Geburt einen Vormund, kann das Familiengericht die Vormundschaft vorher anordnen und den Vormund bestellen; wirksam wird die Bestellung erst mit der Geburt (§ 1773 Abs. 2 BGB). Die Bekanntgabe an den Vormund ist zwar sonst der maßgebliche Zeitpunkt (§§ 168f, 168a Abs. 2 FamFG), genügt hier aber allein nicht."
+ },
+ {
+  "id": "vert2-030",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Vormundschaft: Aufgaben, Vertretungsmacht und Genehmigungen",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/vormundschaft-aufgaben-vertretungsmacht-und-genehmigungen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1789 Abs. 1 BGB"
+  ],
+  "frage": "Worin unterscheidet sich die Vertretungsmacht des Vormunds von der des Betreuers?",
+  "optionen": [
+   "Der Vormund vertritt nur in Vermögensangelegenheiten, der Betreuer auch in persönlichen.",
+   "Die Vertretungsmacht des Vormunds folgt aus dem Gesetz und erfasst grundsätzlich alle Angelegenheiten; auf einen gerichtlich bestimmten Aufgabenkreis kommt es nicht an.",
+   "Der Vormund benötigt für jedes Geschäft eine familiengerichtliche Genehmigung, der Betreuer nicht.",
+   "Der Vormund ist kein gesetzlicher Vertreter, sondern Partei kraft Amtes."
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Vertretungsmacht des Vormunds folgt aus dem Gesetz und umfasst grundsätzlich alle persönlichen und vermögensrechtlichen Angelegenheiten (§ 1789 Abs. 1 BGB); Einschränkungen ergeben sich nur aus Gesetz oder gerichtlicher Anordnung. Beim Betreuer und Pfleger begründet und begrenzt dagegen erst der gerichtlich zugewiesene Aufgabenkreis die Vertretungsmacht. Eine Genehmigungspflicht besteht beim Vormund nur für bestimmte Geschäfte (§ 1799 BGB i. V. m. §§ 1848 ff. BGB)."
+ },
+ {
+  "id": "vert2-031",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Vormundschaft: Aufgaben, Vertretungsmacht und Genehmigungen",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/vormundschaft-aufgaben-vertretungsmacht-und-genehmigungen",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 168b FamFG",
+   "§§ 172, 174 BGB"
+  ],
+  "frage": "Ein Vertragspartner, der auf die ihm vorgelegte Bestellungsurkunde des Vormunds vertraut, wird analog §§ 172, 174 BGB geschützt, wenn die Bestellung in Wahrheit unwirksam war.",
+  "antwort": false,
+  "erklaerung": "Die Bestellungsurkunde (§ 168b FamFG) wirkt nur deklaratorisch, genießt keinen öffentlichen Glauben, und die §§ 172, 174 BGB gelten nicht analog. Ohne wirksame Bestellung hat der „Vormund“ weder Amt noch Vertretungsmacht; Dritte können auf den Bestand des Amts nicht vertrauen."
+ },
+ {
+  "id": "vert2-032",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Vormundschaft: Aufgaben, Vertretungsmacht und Genehmigungen",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/vormundschaft-aufgaben-vertretungsmacht-und-genehmigungen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1856 Abs. 1 BGB",
+   "§ 1799 BGB"
+  ],
+  "frage": "Der Vormund hat für das Mündel ohne vorherige Genehmigung einen genehmigungsbedürftigen Vertrag geschlossen; das Familiengericht erteilt nachträglich die Genehmigung. Wann wird sie gegenüber dem Vertragspartner wirksam?",
+  "optionen": [
+   "Mit Erlass des Genehmigungsbeschlusses",
+   "Mit Rechtskraft des Beschlusses ohne Weiteres",
+   "Erst wenn der Vormund sie dem Vertragspartner mitteilt",
+   "Mit Zustellung des Beschlusses an den Vertragspartner durch das Gericht"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die nachträgliche Genehmigung wirkt gegenüber dem Vertragspartner erst, wenn der Vormund sie ihm mitteilt (§ 1856 Abs. 1 BGB). Deshalb kann der Vormund von einer erteilten Genehmigung absehen, wenn das dem Mündelinteresse dient. Erlass oder Rechtskraft des Beschlusses allein genügen nicht."
+ },
+ {
+  "id": "vert2-033",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vormundschaft, Pflegschaft und Betreuung",
+  "seite": "Vormundschaft: Aufgaben, Vertretungsmacht und Genehmigungen",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/vormundschaft-aufgaben-vertretungsmacht-und-genehmigungen",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1789 BGB",
+   "§ 1824 BGB",
+   "§ 1851 Nr. 1 BGB",
+   "§ 1798 BGB"
+  ],
+  "frage": "Ordne die Konstellation der zutreffenden Rechtsfolge für den Vormund zu.",
+  "paare": [
+   [
+    "Für die Angelegenheit ist ein Pfleger bestellt",
+    "Vormund kann insoweit nicht vertreten (§ 1789 Abs. 1 S. 2 BGB)."
+   ],
+   [
+    "Geschäft des Mündels mit einem nahen Angehörigen des Vormunds",
+    "Vertretungsausschluss nach § 1824 Abs. 1 BGB."
+   ],
+   [
+    "Ausschlagung einer Erbschaft für das Mündel",
+    "Genehmigung des Familiengerichts nach § 1851 Nr. 1 BGB."
+   ],
+   [
+    "Anlage von Mündelgeld",
+    "Pflicht zur mündelsicheren Anlage (§ 1798 i. V. m. § 1841 BGB)."
+   ]
+  ],
+  "erklaerung": "Die Vertretungsmacht des Vormunds endet, soweit ein Pfleger bestellt ist (§ 1789 Abs. 1 S. 2 BGB) und bei Interessenkollisionen nach § 1824 BGB. Die Ausschlagung bedarf der familiengerichtlichen Genehmigung (§ 1851 Nr. 1 BGB). Bei der Vermögenssorge ist der Vormund strenger gebunden als Eltern, etwa bei der mündelsicheren Anlage (§ 1798 i. V. m. § 1841 BGB)."
+ },
+ {
+  "id": "vert2-034",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vorsorgevollmacht und Patientenverfügung",
+  "seite": "Ehegattenvertretungsrecht in Gesundheitsangelegenheiten (§ 1358 BGB)",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vorsorgevollmacht-und-patientenverfugung/ehegattenvertretungsrecht-in-gesundheitsangelegenheiten-1358-bgb",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1358 BGB"
+  ],
+  "frage": "Für welchen Zeitraum besteht das Ehegattenvertretungsrecht nach § 1358 BGB höchstens?",
+  "optionen": [
+   "Drei Monate ab Beginn der Behandlung",
+   "Sechs Monate ab dem vom Arzt nach § 1358 Abs. 4 BGB festgestellten Zeitpunkt",
+   "Ein Jahr ab Eintritt der Bewusstlosigkeit",
+   "Unbefristet bis zur Bestellung eines Betreuers"
+  ],
+  "antwort": 1,
+  "erklaerung": "Das Ehegattenvertretungsrecht ist auf sechs Monate ab dem durch den Arzt nach § 1358 Abs. 4 BGB festgestellten Zeitpunkt begrenzt. Die Frist knüpft also an die ärztliche Feststellung an, nicht an den Behandlungsbeginn; ein unbefristetes Notvertretungsrecht gibt es nicht."
+ },
+ {
+  "id": "vert2-035",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vorsorgevollmacht und Patientenverfügung",
+  "seite": "Ehegattenvertretungsrecht in Gesundheitsangelegenheiten (§ 1358 BGB)",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vorsorgevollmacht-und-patientenverfugung/ehegattenvertretungsrecht-in-gesundheitsangelegenheiten-1358-bgb",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1358 Abs. 3 Nr. 2 lit. b BGB"
+  ],
+  "frage": "Die bewusstlose E hat ihrer Tochter eine Vorsorgevollmacht für Gesundheitsangelegenheiten erteilt; weder Ehemann M noch der Arzt wissen davon. Was gilt für das Vertretungsrecht des M nach § 1358 BGB?",
+  "optionen": [
+   "Es ist kraft Gesetzes ausgeschlossen, weil die Vorsorgevollmacht stets vorgeht.",
+   "Es entfällt, weil M verpflichtet war, nach einer Vollmacht zu forschen.",
+   "Es besteht, weil die gesetzliche Vertretungsmacht nur bei positiver Kenntnis von M oder dem Arzt von der Vollmacht entfällt.",
+   "Es besteht nur in vermögensrechtlichen Angelegenheiten fort."
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Vorsorgevollmacht hat als privatautonome Regelung zwar Vorrang (vgl. § 1358 Abs. 3 Nr. 2 lit. b BGB). Das Gesetz regelt das Verhältnis aber lückenhaft: Die gesetzliche Vertretungsmacht entfällt nur, wenn der vertretende Ehegatte oder der Arzt von der Vollmacht positiv weiß. Eine Pflicht, nach einer Vollmacht zu forschen, besteht nicht."
+ },
+ {
+  "id": "vert2-036",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vorsorgevollmacht und Patientenverfügung",
+  "seite": "Ehegattenvertretungsrecht in Gesundheitsangelegenheiten (§ 1358 BGB)",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vorsorgevollmacht-und-patientenverfugung/ehegattenvertretungsrecht-in-gesundheitsangelegenheiten-1358-bgb",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1358 Abs. 4 BGB"
+  ],
+  "frage": "Die ärztliche Bescheinigung nach § 1358 Abs. 4 BGB begründet das Vertretungsrecht des Ehegatten und genießt guten Glauben.",
+  "antwort": false,
+  "erklaerung": "Die Bescheinigung weist die Voraussetzungen des § 1358 Abs. 1 BGB und den spätesten Zeitpunkt ihres Eintritts aus, begründet das Vertretungsrecht aber nicht und genießt keinen guten Glauben. Allenfalls entsteht ein Rechtsschein, wenn der Arzt die Feststellung trotz Kenntnis eines Ausschlussgrundes abgibt."
  }
 ]

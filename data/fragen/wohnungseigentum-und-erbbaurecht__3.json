@@ -296,5 +296,277 @@
    }
   ],
   "erklaerung": "Das Stimmrecht verbleibt beim Eigentümer E, der es aber durch Bevollmächtigte in Textform (§ 25 Abs. 3 WEG) ausüben lassen kann; die Vertretungsbeschränkung ist regelmäßig nicht gegen den Nießbraucher gerichtet. Der Beschluss ist mit der Mehrheit der abgegebenen Stimmen gefasst (§ 25 Abs. 1 WEG), Enthaltungen bleiben außer Betracht."
+ },
+ {
+  "id": "wohn3-014",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Gebrauchsregelungen: Beschluss oder Vereinbarung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gebrauchsregelungen-beschluss-oder-vereinbarung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 19 Abs. 1 WEG",
+   "§ 10 Abs. 1 S. 2 WEG"
+  ],
+  "frage": "Die Eigentümer wollen die Tierhaltung in der Anlage vollständig ausschließen. Auf welchem Weg ist das möglich?",
+  "optionen": [
+   "Durch Mehrheitsbeschluss als Teil der Hausordnung",
+   "Nur durch Vereinbarung",
+   "Durch Anordnung des Verwalters ohne Ermächtigung",
+   "Überhaupt nicht, weil die Tierhaltung zum Kernbereich gehört"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nutzungsarten, die nach §§ 13, 14 WEG an sich zulässig sind, können durch Vereinbarung, nicht aber durch Beschluss verboten werden (vgl. §§ 19 Abs. 1, 10 Abs. 1 S. 2 WEG); der völlige Ausschluss der Tierhaltung ist durch Vereinbarung möglich. Ein Mehrheitsbeschluss nach § 19 Abs. 1 WEG reicht nicht, weil er nur einen ordnungsmäßigen Gebrauch regeln, eine zulässige Nutzung aber nicht verbieten kann."
+ },
+ {
+  "id": "wohn3-015",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Gebrauchsregelungen: Beschluss oder Vereinbarung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gebrauchsregelungen-beschluss-oder-vereinbarung",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 19 Abs. 1 WEG"
+  ],
+  "frage": "Ein allgemeines Musizierverbot kann als Gebrauchsregelung durch Mehrheitsbeschluss nach § 19 Abs. 1 WEG wirksam eingeführt werden.",
+  "antwort": false,
+  "erklaerung": "Ein allgemeines Musizierverbot durch Beschluss greift in den Kernbereich des Wohnungseigentums ein und ist deshalb nicht möglich. Selbst durch Vereinbarung ist es streitig; vorzugswürdig ist, einen Verstoß gegen § 138 Abs. 1 BGB anzunehmen. Durch Beschluss regelbar sind nur Fragen des ordnungsmäßigen Gebrauchs, etwa Ruhezeiten im Rahmen einer Hausordnung."
+ },
+ {
+  "id": "wohn3-016",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Gebrauchsregelungen: Beschluss oder Vereinbarung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gebrauchsregelungen-beschluss-oder-vereinbarung",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 19 Abs. 1 WEG",
+   "§ 138 Abs. 1 BGB"
+  ],
+  "frage": "Ordne die Gebrauchsregelung dem zutreffenden Regelungsweg bzw. ihrer Wirksamkeit zu.",
+  "paare": [
+   [
+    "Übliche Inhalte einer Hausordnung",
+    "Mehrheitsbeschluss genügt"
+   ],
+   [
+    "Völliger Ausschluss der Berufs- oder Gewerbeausübung",
+    "Nur durch Vereinbarung möglich"
+   ],
+   [
+    "Pauschaler Ausschluss von Parabolantennen durch Beschluss",
+    "Unzulässiger Eingriff in den Kernbereich"
+   ],
+   [
+    "Vermietung nur mit Zustimmung des Verwalters",
+    "Zulässiger vereinbarter Erlaubnisvorbehalt"
+   ],
+   [
+    "Allgemeines Musizierverbot durch Vereinbarung",
+    "Streitig; vorzugswürdig Verstoß gegen § 138 Abs. 1 BGB"
+   ]
+  ],
+  "erklaerung": "Hausordnungsfragen sind der Hauptanwendungsfall des Mehrheitsbeschlusses nach § 19 Abs. 1 WEG. Verbote an sich zulässiger Nutzungen erfordern eine Vereinbarung; per Beschluss scheitert ein pauschaler Parabolantennenausschluss am Kernbereich, während er durch Vereinbarung möglich ist. Erlaubnisvorbehalte, etwa die Zustimmung des Verwalters zur Vermietung, können vereinbart werden."
+ },
+ {
+  "id": "wohn3-017",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Gebrauchsregelungen: Beschluss oder Vereinbarung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gebrauchsregelungen-beschluss-oder-vereinbarung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [],
+  "frage": "Der teilende Eigentümer möchte jede gewerbliche Nutzung der Wohnungen ausschließen. Welche Gestaltung sollte der Notar empfehlen?",
+  "optionen": [
+   "Das Verbot in die Gemeinschaftsordnung aufnehmen, weil ein späterer Mehrheitsbeschluss dafür nicht ausreicht",
+   "Die Regelung einem Mehrheitsbeschluss in der ersten Eigentümerversammlung überlassen",
+   "Den Verwalter in der Teilungserklärung anweisen, Gewerbe nach Ermessen zu untersagen",
+   "Auf eine Regelung verzichten, da Gewerbe in Wohnungen ohnehin stets unzulässig ist"
+  ],
+  "antwort": 0,
+  "erklaerung": "Der Ausschluss der Berufs- oder Gewerbeausübung ist durch Vereinbarung möglich, nicht aber durch Beschluss, weil an sich zulässige Nutzungen nicht per Mehrheitsbeschluss verboten werden können. Gewollte Nutzungsverbote gehören deshalb in die Gemeinschaftsordnung. Die Verschiebung auf einen späteren Mehrheitsbeschluss wäre der typische Gestaltungsfehler."
+ },
+ {
+  "id": "wohn3-018",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Gemeinschaft der Wohnungseigentümer: Ausübungsbefugnis nach § 9a Abs. 2 WEG",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-ausubungsbefugnis-nach-9a-abs-2-weg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 9a Abs. 2 WEG"
+  ],
+  "frage": "Die Wohnungseigentümer können die Ausübung einzelner Individualrechte nach geltendem Recht durch Mehrheitsbeschluss auf die Gemeinschaft der Wohnungseigentümer übertragen (gekorene Ausübungsbefugnis).",
+  "antwort": false,
+  "erklaerung": "Seit der WEG-Reform gibt es keine gekorene Ausübungsbefugnis mehr; die Zuständigkeit für einzelne Rechte kann nicht mehr durch Mehrheitsbeschluss auf die GdWE übertragen werden. Es besteht nur noch die gesetzliche, sogenannte geborene Ausübungsbefugnis nach § 9a Abs. 2 WEG für Rechte aus dem gemeinschaftlichen Eigentum und solche, die eine einheitliche Rechtsverfolgung erfordern."
+ },
+ {
+  "id": "wohn3-019",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Gemeinschaft der Wohnungseigentümer: Ausübungsbefugnis nach § 9a Abs. 2 WEG",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-ausubungsbefugnis-nach-9a-abs-2-weg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 9a Abs. 2 WEG",
+   "§ 19 WEG"
+  ],
+  "frage": "Welche Wirkung hat die Ausübungsbefugnis der GdWE nach § 9a Abs. 2 WEG?",
+  "optionen": [
+   "Die Rechte gehen materiell auf die GdWE über und scheiden aus dem Vermögen der Eigentümer aus.",
+   "Die GdWE erhält nur die Zuständigkeit nach außen (verdrängende Prozessstandschaft); die Rechte bleiben formal bei den Eigentümern.",
+   "Die GdWE und jeder Eigentümer sind nebeneinander zur Geltendmachung befugt.",
+   "Die GdWE darf die Ansprüche nur gerichtlich geltend machen, aber weder abtreten noch erlassen."
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 9a Abs. 2 WEG verschafft der GdWE lediglich die Zuständigkeit nach außen in Form verdrängender aktiver und passiver Prozessstandschaft; die Rechte und Pflichten bleiben formal bei den Eigentümern. Ein materieller Übergang findet also nicht statt. Nach außen darf die GdWE die Ansprüche geltend machen, abtreten oder erlassen; über die Maßnahmen beschließen die Eigentümer intern nach § 19 WEG."
+ },
+ {
+  "id": "wohn3-020",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Gemeinschaft der Wohnungseigentümer: Ausübungsbefugnis nach § 9a Abs. 2 WEG",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-ausubungsbefugnis-nach-9a-abs-2-weg",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 9a Abs. 2 WEG",
+   "§ 1004 BGB"
+  ],
+  "frage": "Ein Nachbar lagert unbefugt Baumaterial auf dem gemeinschaftlichen Grundstück. Wer macht den Beseitigungsanspruch aus § 1004 BGB geltend?",
+  "optionen": [
+   "Jeder Wohnungseigentümer einzeln aus eigenem Recht",
+   "Die GdWE, weil sie die Rechte aus dem gemeinschaftlichen Eigentum ausübt",
+   "Nur alle Wohnungseigentümer gemeinsam als notwendige Streitgenossen",
+   "Der Verwalter im eigenen Namen als Treuhänder"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die GdWE übt nach § 9a Abs. 2 Alt. 1 WEG alle Rechte aus dem gemeinschaftlichen Eigentum aus; erfasst sind vor allem Ansprüche aus §§ 985, 1004 und 861 BGB sowie Schadensersatz nach § 823 BGB. Die Zuständigkeit der GdWE ist verdrängend, sodass der einzelne Eigentümer den Anspruch nicht selbst durchsetzen kann. Der Verwalter handelt nur als Vertreter der GdWE."
+ },
+ {
+  "id": "wohn3-021",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Gemeinschaft der Wohnungseigentümer: Erwerb von Grundbesitz, Entstehung und Ende",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-erwerb-von-grundbesitz-entstehung-und-ende",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 9b Abs. 1 S. 1 WEG"
+  ],
+  "frage": "Für welches Geschäft benötigt der Verwalter als Vertreter der GdWE nach § 9b Abs. 1 S. 1 WEG einen Beschluss der Wohnungseigentümer?",
+  "optionen": [
+   "Für jede Erklärung gegenüber Dritten",
+   "Für die Auflassung eines von der GdWE erworbenen Grundstücks",
+   "Für den Abschluss eines Grundstückskauf- oder Darlehensvertrags",
+   "Für den Abschluss von Versorgungsverträgen"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Vertretungsmacht des Verwalters ist grundsätzlich unbeschränkt; nur für den Abschluss eines Grundstückskauf- oder Darlehensvertrags braucht er einen Beschluss (§ 9b Abs. 1 S. 1 WEG). Diese Bindung betrifft nur den schuldrechtlichen Vertrag, nicht die Auflassung. Deshalb ist die Option zur Auflassung der naheliegende, aber falsche Distraktor."
+ },
+ {
+  "id": "wohn3-022",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Gemeinschaft der Wohnungseigentümer: Erwerb von Grundbesitz, Entstehung und Ende",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-erwerb-von-grundbesitz-entstehung-und-ende",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 9a Abs. 1 S. 2 WEG"
+  ],
+  "frage": "Die Gemeinschaft der Wohnungseigentümer entsteht mit Anlegung der Wohnungsgrundbücher.",
+  "antwort": true,
+  "erklaerung": "Nach § 9a Abs. 1 S. 2 WEG entsteht die GdWE mit Anlegung der Wohnungsgrundbücher. Erst danach kann sie selbst Verträge schließen; vorher kann der Eigentümer etwa selbst kontrahieren und eine aufschiebend bedingte Vertragsübernahme vorsehen. Sie endet mit dem Erlöschen des Sondereigentums und der Schließung der Wohnungsgrundbücher."
+ },
+ {
+  "id": "wohn3-023",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Gemeinschaft der Wohnungseigentümer: Erwerb von Grundbesitz, Entstehung und Ende",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-erwerb-von-grundbesitz-entstehung-und-ende",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1092 Abs. 2 BGB",
+   "§ 1059 Abs. 1 Nr. 1 BGB"
+  ],
+  "frage": "Zugunsten der Wohnungseigentumsanlage soll ein Wegerecht über das Nachbargrundstück bestellt werden. Welche Gestaltung ist vorzugswürdig?",
+  "optionen": [
+   "Beschränkte persönliche Dienstbarkeit zugunsten der GdWE",
+   "Grunddienstbarkeit zugunsten des jeweiligen Eigentümers des Wohnungseigentumsgrundstücks",
+   "Beschränkte persönliche Dienstbarkeit zugunsten des Verwalters",
+   "Schuldrechtliche Gestattung zwischen Nachbar und Verwalter"
+  ],
+  "antwort": 1,
+  "erklaerung": "Für Rechte, die der Anlage dienen sollen, empfiehlt sich eine Grunddienstbarkeit zugunsten des jeweiligen Eigentümers des Wohnungseigentumsgrundstücks. Eine beschränkte persönliche Dienstbarkeit für die GdWE erlischt ohne Anwachsung mit deren Ende; ein Übergang nach §§ 1092 Abs. 2, 1059 Abs. 1 Nr. 1 BGB analog kommt nur bei Anwachsung in Betracht, die ungeklärt ist."
+ },
+ {
+  "id": "wohn3-024",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Gemeinschaft der Wohnungseigentümer: Erwerb von Grundbesitz, Entstehung und Ende",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-erwerb-von-grundbesitz-entstehung-und-ende",
+  "typ": "fall",
+  "frage": "Erwerb eines Nachbargrundstücks durch die GdWE",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 9b Abs. 1 S. 1 WEG",
+   "§ 26 Abs. 4 WEG"
+  ],
+  "sachverhalt": "Die Wohnungseigentümer der Anlage Lindenweg 5 möchten das angrenzende Grundstück des N als Parkfläche erwerben. In der Versammlung stimmt die Mehrheit für den Erwerb, einige Eigentümer halten den Kaufpreis für überhöht. Verwalterin ist die V-GmbH. Sie erscheint beim Notar, um den Kaufvertrag für die GdWE zu schließen.",
+  "schritte": [
+   {
+    "frage": "Kann die GdWE das Nachbargrundstück erwerben, und wie wird darüber entschieden?",
+    "optionen": [
+     "Nein, die GdWE kann kein Grundeigentum außerhalb der Anlage erwerben.",
+     "Ja, aber nur durch einstimmige Vereinbarung aller Eigentümer.",
+     "Ja, der Erwerb ist eine Maßnahme der Verwaltung und kann mit Stimmenmehrheit beschlossen werden.",
+     "Ja, der Verwalter entscheidet darüber allein ohne Beschluss."
+    ],
+    "antwort": 2,
+    "erklaerung": "Die GdWE kann Eigentum an einem anderen Grundstück erwerben. Der Erwerb ist eine Maßnahme der Verwaltung, die die Eigentümer mit Stimmenmehrheit beschließen können; Einstimmigkeit ist nicht erforderlich."
+   },
+   {
+    "frage": "Unterstellt, der Beschluss widerspricht wegen des Kaufpreises ordnungsmäßiger Verwaltung. Welche Folge hat das?",
+    "optionen": [
+     "Der Beschluss ist nichtig.",
+     "Der Beschluss ist nur anfechtbar und bis dahin wirksam.",
+     "Der Beschluss ist schwebend unwirksam bis zur gerichtlichen Bestätigung.",
+     "Der Beschluss gilt als Vereinbarung und bindet alle."
+    ],
+    "antwort": 1,
+    "erklaerung": "Widerspricht der Erwerbsbeschluss ordnungsmäßiger Verwaltung, ist er nur anfechtbar und bis zur Ungültigerklärung wirksam. Nichtigkeit tritt nicht ein."
+   },
+   {
+    "frage": "Was muss der Notar hinsichtlich der Vertretungsmacht der V-GmbH beachten?",
+    "optionen": [
+     "Nichts, weil die Vertretungsmacht des Verwalters stets unbeschränkt ist.",
+     "Er muss die Vertretungsmacht prüfen; für den Kaufvertrag ist ein Erwerbsbeschluss erforderlich, dessen Nachweisform er nach Ermessen bestimmt.",
+     "Er darf nur beurkunden, wenn das Grundbuchamt den Beschluss vorab genehmigt hat.",
+     "Er benötigt die notariell beurkundete Zustimmung aller Eigentümer."
+    ],
+    "antwort": 1,
+    "erklaerung": "Für den Grundstückskaufvertrag braucht der Verwalter einen Beschluss (§ 9b Abs. 1 S. 1 WEG). Das Grundbuchamt prüft die Wirksamkeit des Kaufvertrags nicht und darf sie nicht prüfen; der Notar muss die Vertretungsmacht dennoch prüfen. Nach seinem Ermessen genügt ein privatschriftliches Protokoll oder er verlangt eines mit beglaubigten Unterschriften entsprechend §§ 24 Abs. 6, 26 Abs. 4 WEG."
+   },
+   {
+    "frage": "Wie weist die V-GmbH ihre Verwalterstellung gegenüber dem Grundbuchamt nach?",
+    "optionen": [
+     "Durch Vorlage des Verwaltervertrags in Textform",
+     "Durch eine Eigenerklärung des Geschäftsführers",
+     "Durch ein Bestellungsprotokoll mit beglaubigten Unterschriften (§ 26 Abs. 4 WEG analog)",
+     "Durch einen Handelsregisterauszug der V-GmbH"
+    ],
+    "antwort": 2,
+    "erklaerung": "Die Verwalterstellung wird für das Grundbuch durch ein Bestellungsprotokoll mit beglaubigten Unterschriften nachgewiesen (§ 26 Abs. 4 WEG analog). Der Handelsregisterauszug belegt nur die Vertretung der GmbH, nicht ihre Bestellung zur Verwalterin."
+   }
+  ],
+  "erklaerung": "Die GdWE kann das Grundstück durch Mehrheitsbeschluss erwerben; ein Verstoß gegen ordnungsmäßige Verwaltung macht den Beschluss nur anfechtbar. Der Verwalter benötigt für den Kaufvertrag einen Beschluss (§ 9b Abs. 1 S. 1 WEG), den der Notar prüft, und weist seine Bestellung dem Grundbuchamt nach § 26 Abs. 4 WEG analog nach."
  }
 ]

@@ -228,5 +228,226 @@
    }
   ],
   "erklaerung": "Für die Stellplätze passen Sondernutzungsrechte, weil sie nur innerhalb der Gemeinschaft übertragbar sind. Sondereigentum an Gärten ist wegen § 3 Abs. 2 WEG nicht isoliert verkehrsfähig und unflexibel, weshalb Gärten in der Regel über Sondernutzungsrechte zugeordnet werden. Die offene Loggia ist nicht sondereigentumsfähig."
+ },
+ {
+  "id": "wohn2-012",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Teilung nach § 3 WEG und § 8 WEG: Rechtsfolgen, Verbindung beider Wege und Kosten",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilung-nach-3-weg-und-8-weg-rechtsfolgen-verbindung-beider-wege-und-kosten",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 8 WEG",
+   "§ 3 WEG"
+  ],
+  "frage": "A und B sind je zur Hälfte Miteigentümer eines Grundstücks und teilen es gemeinsam nach § 8 WEG in vier Einheiten auf. Wie sind die Eigentumsverhältnisse danach?",
+  "optionen": [
+   "A und B erhalten je zwei Einheiten zu Alleineigentum",
+   "Jede Einheit gehört A und B je zur Hälfte",
+   "Die Einheiten gehören der Gemeinschaft der Wohnungseigentümer",
+   "A und B müssen die Zuordnung der Einheiten noch durch Auflassung vereinbaren, bevor Wohnungseigentum entsteht"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei der Teilung nach § 8 WEG setzen sich die Eigentumsverhältnisse des Grundstücks an jeder Einheit unverändert fort; jede Einheit gehört also A und B je zur Hälfte. Die Zuweisung einer bestimmten Einheit an jeden Miteigentümer ist dagegen die Rechtsfolge des Teilungsvertrags nach § 3 WEG."
+ },
+ {
+  "id": "wohn2-013",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Teilung nach § 3 WEG und § 8 WEG: Rechtsfolgen, Verbindung beider Wege und Kosten",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilung-nach-3-weg-und-8-weg-rechtsfolgen-verbindung-beider-wege-und-kosten",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 21100 GNotKG",
+   "KV 21200 GNotKG"
+  ],
+  "frage": "Eine GbR ist Alleineigentümerin eines Grundstücks; ihre drei Gesellschafter sollen je eine Wohnungseigentumseinheit erhalten. Welcher Weg ist kostengünstiger?",
+  "optionen": [
+   "Auflassung von Miteigentumsanteilen an die Gesellschafter, danach Teilungsvertrag nach § 3 WEG",
+   "Teilung durch die GbR nach § 8 WEG, danach Auflassung der Einheiten an die Gesellschafter",
+   "Beide Wege lösen dieselben Gebühren aus, weil jeweils nur eine 2,0-Gebühr anfällt",
+   "Auflassung von Miteigentumsanteilen, danach Teilungserklärung jedes Gesellschafters nach § 8 WEG"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Teilungsvertrag nach § 3 WEG löst stets eine 2,0-Gebühr aus (KV 21100 GNotKG), die Teilung nach § 8 WEG nur eine 1,0-Gebühr (KV 21200 GNotKG). Teilt die GbR selbst nach § 8 WEG und lässt danach auf, fallen nur eine 2,0- und eine 1,0-Gebühr an; beim Weg über Auflassung und Teilungsvertrag kommen zwei 2,0-Gebühren zusammen."
+ },
+ {
+  "id": "wohn2-014",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Teilung nach § 3 WEG und § 8 WEG: Rechtsfolgen, Verbindung beider Wege und Kosten",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilung-nach-3-weg-und-8-weg-rechtsfolgen-verbindung-beider-wege-und-kosten",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 3 WEG"
+  ],
+  "frage": "Soll ein Miteigentümer mehrere Einheiten erhalten, ist ein unmittelbarer Teilungsvertrag nach § 3 WEG nach richtiger Ansicht ausgeschlossen, weil nicht mehr Einheiten als Miteigentumsanteile entstehen dürfen.",
+  "antwort": false,
+  "erklaerung": "Nach richtiger Ansicht lässt sich das Ergebnis auch unmittelbar durch Teilungsvertrag nach § 3 WEG erreichen; dass mehr Einheiten als Miteigentumsanteile entstehen, schadet nicht, wenn bei der Eintragung jeder Teil des unterteilten Anteils mit dem Sondereigentum an einer Einheit verknüpft wird. Das OLG München sieht das anders; der sicherste Weg ist daher, in derselben Urkunde nach § 3 WEG aufzuteilen und den Anteil des einen Miteigentümers nach § 8 WEG zu unterteilen, ohne dass eine Zwischeneintragung nötig ist."
+ },
+ {
+  "id": "wohn2-015",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Teilung nach § 3 WEG und § 8 WEG: Rechtsfolgen, Verbindung beider Wege und Kosten",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilung-nach-3-weg-und-8-weg-rechtsfolgen-verbindung-beider-wege-und-kosten",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 5 Abs. 4 S. 1 WEG"
+  ],
+  "frage": "Genau genommen ist die Gemeinschaftsordnung nicht Teil der Aufteilung, sondern Inhalt des Wohnungseigentums.",
+  "antwort": true,
+  "erklaerung": "Im Sprachgebrauch der Praxis werden Aufteilung und Gemeinschaftsordnung zusammen oft als Teilungserklärung bezeichnet. Rechtlich ist die Gemeinschaftsordnung aber Inhalt des Wohnungseigentums (§ 5 Abs. 4 S. 1 WEG) und nicht Bestandteil des sachenrechtlichen Teilungsakts."
+ },
+ {
+  "id": "wohn2-016",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Teilungserklärung nach § 8 WEG: Erklärender, Vertretung, Form und Wirksamwerden",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-nach-8-weg-erklarender-vertretung-form-und-wirksamwerden",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 29 GBO",
+   "§ 4 Abs. 2 S. 1 WEG",
+   "§ 8 Abs. 2 WEG"
+  ],
+  "frage": "Welche Form gilt für die Teilungserklärung nach § 8 WEG?",
+  "optionen": [
+   "Notarielle Beurkundung nach § 4 Abs. 2 S. 1 WEG",
+   "Materiell formfrei, verfahrensrechtlich öffentliche Beglaubigung nach § 29 GBO",
+   "Schriftform gegenüber dem Grundbuchamt genügt",
+   "Notarielle Beurkundung, weil sie eine Verfügung über das Grundstück enthält"
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 4 Abs. 2 S. 1 WEG gilt für die Teilung nach § 8 WEG nicht, weil § 8 Abs. 2 WEG nicht darauf verweist. Die Teilungserklärung ist daher materiell formfrei und bedarf nur wegen § 29 GBO der öffentlichen Beglaubigung. Beurkundet wird sie in der Praxis dennoch, damit spätere Kaufverträge nach § 13c BeurkG auf sie verweisen können."
+ },
+ {
+  "id": "wohn2-017",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Teilungserklärung nach § 8 WEG: Erklärender, Vertretung, Form und Wirksamwerden",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-nach-8-weg-erklarender-vertretung-form-und-wirksamwerden",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 878 BGB"
+  ],
+  "frage": "Wird über das Vermögen des teilenden Eigentümers nach Eingang des Vollzugsantrags beim Grundbuchamt das Insolvenzverfahren eröffnet, hindert dies den Vollzug der Teilungserklärung nach § 8 WEG, weil § 878 BGB auf einseitige Erklärungen nicht anwendbar ist.",
+  "antwort": false,
+  "erklaerung": "§ 878 BGB ist auf die Teilungserklärung nach § 8 WEG entsprechend anzuwenden. Eine erst nachträglich eintretende Verfügungsbeschränkung hindert den Vollzug daher nicht, wenn die Verfügungsbefugnis bei Antragstellung noch bestand."
+ },
+ {
+  "id": "wohn2-018",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Teilungserklärung nach § 8 WEG: Erklärender, Vertretung, Form und Wirksamwerden",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-nach-8-weg-erklarender-vertretung-form-und-wirksamwerden",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 180 BGB",
+   "§ 167 Abs. 2 BGB",
+   "§ 29 GBO"
+  ],
+  "frage": "Für den abwesenden Eigentümer gibt ein Vertreter ohne Vertretungsmacht die Teilungserklärung nach § 8 WEG ab. Was gilt nach der auf der Seite vertretenen Auffassung?",
+  "optionen": [
+   "Die Erklärung ist schwebend unwirksam und kann jederzeit, auch nach Vollzug, genehmigt werden",
+   "Die Erklärung ist nach § 180 BGB nichtig; eine Genehmigung ist aber möglich, solange sie dem Grundbuchamt noch nicht zugegangen ist",
+   "Die Erklärung ist wirksam, weil die Teilungserklärung materiell formfrei ist",
+   "Die Erklärung ist nichtig; Abhilfe ist nur durch erneute Erklärung des Eigentümers selbst in Person möglich"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Teilungserklärung ist eine einseitige Willenserklärung gegenüber dem Grundbuchamt; nach § 180 BGB ist sie durch einen vollmachtlosen Vertreter nichtig und grundsätzlich nicht genehmigungsfähig. Nach richtiger Auffassung kann der Vertretene aber genehmigen, solange die Erklärung dem Grundbuchamt noch nicht zugegangen ist. Sicher ist jedenfalls eine mündliche Vollmacht (§ 167 Abs. 2 BGB) mit anschließender Vollmachtsbestätigung in der Form des § 29 GBO."
+ },
+ {
+  "id": "wohn2-019",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Teilungserklärung nach § 8 WEG: Erklärender, Vertretung, Form und Wirksamwerden",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-nach-8-weg-erklarender-vertretung-form-und-wirksamwerden",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 9a Abs. 1 S. 2 WEG"
+  ],
+  "frage": "Wann wird die Teilung nach § 8 WEG wirksam, und was ist zuvor bereits möglich?",
+  "optionen": [
+   "Mit Beurkundung der Teilungserklärung; ab dann kann über jede Einheit getrennt verfügt werden",
+   "Mit Anlegung aller Wohnungsgrundbücher; schon vorher kann ein Anspruch auf Verschaffung von Wohnungseigentum im Grundbuch des Grundstücks vorgemerkt werden",
+   "Mit Anlegung des ersten Wohnungsgrundbuchs; eine Vormerkung ist erst danach möglich",
+   "Mit Eingang des Antrags beim Grundbuchamt; eine Vormerkung ist vorher ausgeschlossen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Teilung wird mit Anlegung aller Wohnungsgrundbücher wirksam (§ 9a Abs. 1 S. 2 WEG). Schon vor Vollzug kann im Grundbuch des Grundstücks ein Verschaffungsanspruch vorgemerkt werden, wenn der Miteigentumsanteil in Zahlen oder sonst bestimmbar und das Sondereigentum durch Verweis auf einen Bau- oder Aufteilungsplan oder durch wörtliche Beschreibung bestimmt bezeichnet ist."
+ },
+ {
+  "id": "wohn2-020",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Teilungserklärung: Änderung durch den teilenden Eigentümer",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-anderung-durch-den-teilenden-eigentumer",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 8 WEG"
+  ],
+  "frage": "Auch nach Vollzug der Teilung kann der teilende Eigentümer die Teilungserklärung entsprechend § 8 WEG einseitig ändern, solange alle Wohnungseigentumsrechte in seiner Hand vereinigt sind.",
+  "antwort": true,
+  "erklaerung": "Vor Wirksamwerden der Teilung ist der Teilende mangels Einigung nach § 873 BGB ohnehin nicht gebunden. Nach Vollzug bleibt die einseitige Änderung entsprechend § 8 WEG möglich, solange ihm alle Einheiten gehören. Das Recht endet erst, wenn ein Wohnungseigentum dinglich auf einen Erwerber übertragen ist; danach gelten die §§ 3, 4 WEG."
+ },
+ {
+  "id": "wohn2-021",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Teilungserklärung: Änderung durch den teilenden Eigentümer",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-anderung-durch-den-teilenden-eigentumer",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 883 Abs. 2 S. 1 BGB"
+  ],
+  "frage": "Änderung der Teilungserklärung durch den Bauträger",
+  "sachverhalt": "Die B-GmbH hat ihr Grundstück nach § 8 WEG in zwölf Einheiten aufgeteilt; die Wohnungsgrundbücher sind angelegt. Sie hat Einheit 3 an K verkauft; für K ist eine Auflassungsvormerkung eingetragen, das Eigentum ist noch nicht umgeschrieben. Nun will die B-GmbH zwei Dachgeschosseinheiten zusammenlegen und die Teilungserklärung entsprechend ändern. Für künftige Verkäufe sucht sie eine Gestaltung, die solche Änderungen erleichtert.",
+  "schritte": [
+   {
+    "frage": "Braucht die B-GmbH für die Änderung dinglich die Zustimmung des K?",
+    "optionen": [
+     "Nein, weil noch keine Einheit dinglich übertragen ist und sie daher frei nach § 8 WEG ändern kann",
+     "Ja, weil für K bereits eine Auflassungsvormerkung eingetragen ist",
+     "Nein, die Änderung ist K gegenüber lediglich relativ unwirksam",
+     "Nur, wenn die Änderung Einheit 3 selbst betrifft"
+    ],
+    "antwort": 1,
+    "erklaerung": "Ist für einen Erwerber bereits eine Auflassungsvormerkung eingetragen, braucht die Änderung schon dinglich seine Zustimmung. Dass noch keine Einheit dinglich übertragen ist, genügt dann nicht für eine einseitige Änderung."
+   },
+   {
+    "frage": "Warum reicht es nicht aus, dass die Änderung gegenüber K nach § 883 Abs. 2 S. 1 BGB nur relativ unwirksam wäre?",
+    "optionen": [
+     "Weil Teilungserklärung und Gemeinschaftsordnung nur für alle Eigentümer gleich gelten können",
+     "Weil § 883 Abs. 2 BGB auf Wohnungseigentum generell nicht anwendbar ist",
+     "Weil die Vormerkung nur schuldrechtlich wirkt",
+     "Weil K bereits als werdender Wohnungseigentümer Eigentümer ist"
+    ],
+    "antwort": 0,
+    "erklaerung": "Teilungserklärung und Gemeinschaftsordnung können nur einheitlich für alle Eigentümer gelten. Eine bloß relative Unwirksamkeit der Änderung gegenüber dem Vormerkungsberechtigten würde zu unterschiedlichen Inhalten führen und genügt daher nicht."
+   },
+   {
+    "frage": "Welche Gestaltung sollte der Notar für künftige Verkäufe vorschlagen?",
+    "optionen": [
+     "Eine Ermächtigung der B-GmbH in der Gemeinschaftsordnung, die Teilungserklärung im Namen aller Eigentümer zu ändern",
+     "Eine Änderungsvollmacht des Erwerbers zugunsten der B-GmbH in jedem Bauträgervertrag",
+     "Einen Verzicht der Erwerber auf die Eintragung einer Auflassungsvormerkung",
+     "Einen Vorbehalt, dass Änderungen durch Mehrheitsbeschluss der Eigentümer erfolgen"
+    ],
+    "antwort": 1,
+    "erklaerung": "Verdinglichte Ermächtigungen in der Gemeinschaftsordnung sind nach der Rechtsprechung unzulässig. Üblich ist eine Änderungsvollmacht des Erwerbers im Bauträgervertrag, Teilungserklärung und Gemeinschaftsordnung zu ändern und den Erwerbsvertrag anzupassen; schuldrechtlich braucht der Veräußerer ohnehin stets eine Vertragsänderung mit dem Erwerber."
+   }
+  ],
+  "erklaerung": "Wegen der eingetragenen Vormerkung muss K der Änderung dinglich zustimmen; eine relative Unwirksamkeit genügt nicht, weil die Teilungserklärung für alle Eigentümer gleich gelten muss. Für die Zukunft ist eine Änderungsvollmacht in jedem Erwerbsvertrag zu empfehlen, nicht eine unzulässige verdinglichte Ermächtigung; Änderungen sollten möglichst vor der ersten Vormerkung erfolgen."
  }
 ]

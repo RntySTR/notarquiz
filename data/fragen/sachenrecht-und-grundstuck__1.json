@@ -35,12 +35,12 @@
   ],
   "frage": "Zwei Miteigentümer schließen den Anspruch auf Aufhebung der Gemeinschaft dauerhaft aus. Welche Maßnahme ist erforderlich, damit auch ein späterer Erwerber eines Miteigentumsanteils daran gebunden ist?",
   "optionen": [
-   "Die Vereinbarung muss notariell beurkundet werden",
    "Die Vereinbarung muss im Grundbuch als Belastung des jeweiligen Anteils eingetragen werden",
+   "Die Vereinbarung muss notariell beurkundet werden",
    "Der Ausschluss muss auf höchstens 30 Jahre befristet werden",
    "Die Vereinbarung muss in Abteilung I beim Eigentümer vermerkt werden"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Nach § 1010 Abs. 1 BGB binden Benutzungs- und Verwaltungsregelungen sowie der Ausschluss des Aufhebungsanspruchs (§ 749 Abs. 2 BGB) Sondernachfolger eines Miteigentümers nur, wenn sie als Belastung des Anteils im Grundbuch eingetragen sind. Die Beurkundung allein bewirkt keine Bindung Dritter; eine Befristung ist zwar zulässig (§ 749 Abs. 2 BGB), aber nicht Voraussetzung der Drittwirkung."
  },
  {
@@ -108,11 +108,11 @@
   "frage": "Welcher Umstand schließt beim Grundstückserwerb den guten Glauben des Erwerbers nach § 892 BGB aus?",
   "optionen": [
    "Grob fahrlässige Unkenntnis der Unrichtigkeit des Grundbuchs",
-   "Positive Kenntnis der Unrichtigkeit des Grundbuchs",
+   "Jede einfach fahrlässige Unkenntnis der wahren Rechtslage",
    "Unterlassen zumutbarer Nachforschungen zur Eigentümerstellung",
-   "Jede einfach fahrlässige Unkenntnis der wahren Rechtslage"
+   "Positive Kenntnis der Unrichtigkeit des Grundbuchs"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Beim Grundstückserwerb entfällt der gute Glaube erst bei positiver Kenntnis der Unrichtigkeit; grob fahrlässige Unkenntnis schadet nicht und Nachforschungspflichten bestehen nicht (§ 892 BGB). Die Schädlichkeit grober Fahrlässigkeit gilt nur für bewegliche Sachen (§ 932 Abs. 2 BGB) und ist die naheliegende Verwechslung."
  },
  {
@@ -214,19 +214,19 @@
   "seite": "Eigentum: Inhalt, Besitz und Auflassung",
   "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/eigentum/eigentum-inhalt-besitz-und-auflassung",
   "typ": "mc",
-  "schwierigkeit": 2,
+  "schwierigkeit": 1,
   "normen": [
    "§ 866 BGB",
    "§ 854 BGB"
   ],
   "frage": "Eigentümer E hat sein Haus an M vermietet. Wie ist die Besitzlage?",
   "optionen": [
-   "E ist unmittelbarer Besitzer, M bloßer Besitzdiener",
    "M ist unmittelbarer Besitzer, E mittelbarer Besitzer",
+   "E ist unmittelbarer Besitzer, M bloßer Besitzdiener",
    "M ist unmittelbarer Besitzer, E hat keinen Besitz mehr",
    "E und M sind gleichrangige Mitbesitzer"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Besitz ist die tatsächliche Sachherrschaft (§ 854 BGB). Bei der Vermietung fallen Eigentum und Besitz auseinander: Der Mieter ist unmittelbarer, der vermietende Eigentümer mittelbarer Besitzer (§ 866 BGB). Der Eigentümer verliert durch die Vermietung nicht jeden Besitz, sondern behält den mittelbaren Besitz."
  },
  {
@@ -235,14 +235,20 @@
   "abschnitt": "Eigentum",
   "seite": "Eigentum: Inhalt, Besitz und Auflassung",
   "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/eigentum/eigentum-inhalt-besitz-und-auflassung",
-  "typ": "rf",
+  "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
    "§ 873 BGB"
   ],
-  "frage": "Gegenüber dem Grundbuchamt genügt für die Eigentumsumschreibung die Eintragungsbewilligung des Veräußerers; die Auflassung selbst muss nicht nachgewiesen werden.",
-  "antwort": false,
-  "erklaerung": "Wegen des materiellen Konsensprinzips genügt die Bewilligung des Veräußerers bei der Eigentumsübertragung nicht; dem Grundbuchamt ist die Auflassung nachzuweisen. Die bloße Bewilligung reicht nur bei Eintragungen, die dem formellen Konsensprinzip unterliegen. Verstöße gegen Verfahrensvorschriften machen einen vollzogenen Erwerb allerdings nicht unwirksam."
+  "frage": "Was ist dem Grundbuchamt für die Eigentumsumschreibung wegen des materiellen Konsensprinzips nachzuweisen?",
+  "antwort": 3,
+  "erklaerung": "Wegen des materiellen Konsensprinzips genügt die Bewilligung des Veräußerers bei der Eigentumsübertragung nicht; dem Grundbuchamt ist die Auflassung nachzuweisen. Die bloße Bewilligung reicht nur bei Eintragungen, die dem formellen Konsensprinzip unterliegen. Verstöße gegen Verfahrensvorschriften machen einen vollzogenen Erwerb allerdings nicht unwirksam.",
+  "optionen": [
+   "Allein die Eintragungsbewilligung des Veräußerers",
+   "Der wirksame schuldrechtliche Kaufvertrag",
+   "Die Kaufpreiszahlung",
+   "Die Auflassung"
+  ]
  },
  {
   "id": "sach1-012",
@@ -264,11 +270,11 @@
     "frage": "Kann die Auflassung unter die aufschiebende Bedingung der Kaufpreiszahlung gestellt werden?",
     "optionen": [
      "Ja, da die Vorschriften des Allgemeinen Teils über Bedingungen auch für die Auflassung gelten",
-     "Nein, § 925 Abs. 2 BGB verbietet eine bedingte oder befristete Auflassung",
      "Ja, sofern die Bedingung notariell beurkundet wird",
+     "Nein, § 925 Abs. 2 BGB verbietet eine bedingte oder befristete Auflassung",
      "Nein, weil Bedingungen bei dinglichen Geschäften generell unzulässig sind"
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "§ 925 Abs. 2 BGB erklärt die bedingte oder befristete Auflassung für unzulässig. Zwar gelten die Vorschriften des Allgemeinen Teils grundsätzlich auch für die Auflassung, § 925 Abs. 2 BGB ist aber eine Sonderregel; ein allgemeines Bedingungsverbot für dingliche Geschäfte besteht nicht."
    },
    {
@@ -285,12 +291,12 @@
    {
     "frage": "Welche Bedeutung hat der eingetragene Testamentsvollstreckervermerk für die Beurkundung?",
     "optionen": [
-     "Keine, da K das Grundstück nach § 892 BGB gutgläubig erwerben kann",
      "V ist in seiner Verfügungsbefugnis beschränkt; der gutgläubige Erwerb scheidet wegen der Eintragung aus",
+     "Keine, da K das Grundstück nach § 892 BGB gutgläubig erwerben kann",
      "Der Vermerk betrifft nur den Nachlass insgesamt, nicht das einzelne Grundstück",
      "Der Vermerk ist unbeachtlich, weil V bereits als Eigentümer eingetragen ist"
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "Der Veräußerer darf in seiner Verfügungsbefugnis nicht beschränkt sein, etwa durch Testamentsvollstreckung. Gutgläubiger Erwerb hinsichtlich der Verfügungsbefugnis kommt nach § 892 BGB nur bei nicht eingetragener Beschränkung in Betracht; hier ist der Vermerk eingetragen. Deshalb sind Verfügungsbeschränkungen vor der Beurkundung in Abteilung II zu prüfen."
    }
   ],
@@ -310,11 +316,11 @@
   "frage": "Was setzt die rechtsgeschäftliche Aufhebung eines beschränkten dinglichen Rechts (etwa einer Dienstbarkeit) materiellrechtlich voraus?",
   "optionen": [
    "Einigung zwischen Berechtigtem und Eigentümer und Löschung im Grundbuch",
-   "Aufgabeerklärung des Berechtigten und Löschung im Grundbuch",
+   "Löschungsantrag des Eigentümers und Zustimmung des Berechtigten",
    "Aufgabeerklärung des Berechtigten in notariell beurkundeter Form, ohne Löschung",
-   "Löschungsantrag des Eigentümers und Zustimmung des Berechtigten"
+   "Aufgabeerklärung des Berechtigten und Löschung im Grundbuch"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Nach § 875 Abs. 1 BGB genügen die einseitige Aufgabeerklärung des Berechtigten und die Löschung im Grundbuch. Einer Einigung mit dem Eigentümer bedarf es nicht, weil die Aufhebung diesem in der Regel nur Vorteile bringt. Die Erklärung ist gegenüber dem Grundbuchamt oder dem Begünstigten abzugeben."
  },
  {
@@ -333,11 +339,11 @@
   "frage": "Eine Grundschuld soll gelöscht werden. Warum ist neben der Löschungsbewilligung des Gläubigers auch die Zustimmung des Eigentümers erforderlich?",
   "optionen": [
    "Weil jede Aufhebung eines beschränkten dinglichen Rechts eine Einigung mit dem Eigentümer voraussetzt",
-   "Weil die Aufhebung die Aussicht des Eigentümers berührt, das Recht als Eigentümergrundschuld zu erwerben",
    "Weil der Eigentümer der Grundschuldbestellung ursprünglich zugestimmt hat",
+   "Weil die Aufhebung die Aussicht des Eigentümers berührt, das Recht als Eigentümergrundschuld zu erwerben",
    "Weil die Löschungsbewilligung des Gläubigers nur eine Berichtigungsbewilligung darstellt"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Bei Hypothek und Grundschuld berührt die Aufhebung die Aussicht des Eigentümers auf eine Eigentümergrundschuld; deshalb muss er nach §§ 1183, 1192 Abs. 1 BGB zustimmen, verfahrensrechtlich in der Form der §§ 27, 29 GBO. Eine generelle Einigung mit dem Eigentümer verlangt § 875 BGB gerade nicht; das Zustimmungserfordernis ist eine Sonderregel für Grundpfandrechte."
  },
  {
@@ -346,15 +352,21 @@
   "abschnitt": "Grundsätze und Erwerb dinglicher Rechte",
   "seite": "Beschränkte dingliche Rechte: Aufhebung und Erlöschen",
   "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/beschrankte-dingliche-rechte-aufhebung-und-erloschen",
-  "typ": "rf",
+  "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
    "§ 875 BGB",
    "§ 19 GBO"
   ],
-  "frage": "Wird ein beschränktes dingliches Recht ohne Aufgabeerklärung des Berechtigten im Grundbuch gelöscht, erlischt es mit der Löschung.",
-  "antwort": false,
-  "erklaerung": "Die Aufhebung erfordert Aufgabeerklärung und Löschung (§ 875 Abs. 1 BGB). Fehlt die Aufgabeerklärung, besteht das Recht trotz Löschung weiter, und das Grundbuch ist unrichtig. Im Zweifel ist die Aufgabeerklärung allerdings stillschweigend in der Löschungsbewilligung (§ 19 GBO) enthalten."
+  "frage": "Was gilt, wenn ein beschränktes dingliches Recht im Grundbuch gelöscht wird, ohne dass der Berechtigte die Aufgabe erklärt hat?",
+  "antwort": 1,
+  "erklaerung": "Die Aufhebung erfordert Aufgabeerklärung und Löschung (§ 875 Abs. 1 BGB). Fehlt die Aufgabeerklärung, besteht das Recht trotz Löschung weiter, und das Grundbuch ist unrichtig. Im Zweifel ist die Aufgabeerklärung allerdings stillschweigend in der Löschungsbewilligung (§ 19 GBO) enthalten.",
+  "optionen": [
+   "Das Recht erlischt mit der Löschung",
+   "Das Recht besteht fort; das Grundbuch ist unrichtig",
+   "Das Recht erlischt erst nach Ablauf von 30 Jahren",
+   "Das Recht wandelt sich in eine Eigentümergrundschuld"
+  ]
  },
  {
   "id": "sach1-016",
@@ -408,12 +420,12 @@
   ],
   "frage": "In welchem Fall ist ein Beteiligter vor der Eintragung an die dingliche Einigung gebunden?",
   "optionen": [
-   "Wenn ein schuldrechtlicher Anspruch auf die Einigung besteht",
-   "Wenn die Einigung privatschriftlich unterzeichnet wurde",
    "Wenn der Berechtigte dem anderen Teil eine der GBO entsprechende Eintragungsbewilligung überlassen hat",
+   "Wenn die Einigung privatschriftlich unterzeichnet wurde",
+   "Wenn ein schuldrechtlicher Anspruch auf die Einigung besteht",
    "Wenn das Grundgeschäft bereits vollständig erfüllt ist"
   ],
-  "antwort": 2,
+  "antwort": 0,
   "erklaerung": "§ 873 Abs. 2 BGB nennt abschließend: notarielle Beurkundung, Abgabe vor dem oder Einreichung beim Grundbuchamt oder Aushändigung einer der GBO entsprechenden (beurkundeten oder beglaubigten) Eintragungsbewilligung. Ein schuldrechtlicher Anspruch auf die Einigung begründet ausdrücklich keine Bindung; § 145 BGB greift insoweit nicht."
  },
  {
@@ -448,11 +460,11 @@
   "frage": "Die Einigung über eine Grundschuld wurde beurkundet. Ab wann ist der Erwerber auch vor anderweitigen Verfügungen des Eigentümers und vor Rangverlust geschützt?",
   "optionen": [
    "Bereits mit der Beurkundung, da die Bindung nach § 873 Abs. 2 BGB eintritt",
-   "Erst mit Eingang des Antrags beim Grundbuchamt",
+   "Erst mit Zahlung des Darlehensbetrags",
    "Erst mit Aushändigung einer Ausfertigung der Urkunde an den Erwerber",
-   "Erst mit Zahlung des Darlehensbetrags"
+   "Erst mit Eingang des Antrags beim Grundbuchamt"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Die Bindung nach § 873 Abs. 2 BGB schützt nur vor einseitigem Widerruf, nicht vor anderweitigen Verfügungen oder Zwangsvollstreckungszugriffen. Gesichert ist der Erwerber erst mit Eingang des Antrags beim Grundbuchamt: Der Antrag muss vollzogen werden, und der Rang richtet sich nach dem Eingang (§§ 13, 17, 45 GBO, § 879 BGB). Daher ist der Antrag zeitnah zu stellen."
  },
  {
@@ -528,11 +540,11 @@
   "frage": "Bei welcher Angabe ist eine Bezugnahme auf die Eintragungsbewilligung ausgeschlossen, sodass der Inhalt im Grundbuch selbst stehen muss?",
   "optionen": [
    "Ausübungsbereich eines Wohnungsrechts",
-   "Einzelheiten der Unterhaltungspflicht bei einem Leitungsrecht",
    "Unterwerfung unter die sofortige Zwangsvollstreckung",
+   "Einzelheiten der Unterhaltungspflicht bei einem Leitungsrecht",
    "Nähere Ausgestaltung eines Nießbrauchs"
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "Wo besondere Vorschriften es verlangen, ist die Bezugnahme ausgeschlossen, unter anderem bei der Unterwerfung unter die sofortige Zwangsvollstreckung (§ 800 ZPO), beim Rangvorbehalt (§ 881 Abs. 2 BGB), bei abweichenden Rangbestimmungen und bei Gläubiger, Betrag und Zinsen in Abteilung III. Die übrigen Optionen betreffen den näheren Inhalt eines Rechts, für den § 874 BGB die Bezugnahme gerade zulässt."
  },
  {
@@ -581,12 +593,12 @@
   ],
   "frage": "Welche Voraussetzungen müssen nach § 878 BGB vor Eintritt einer Verfügungsbeschränkung erfüllt sein, damit der Erwerber geschützt ist?",
   "optionen": [
-   "Bindung an die Erklärung und Eintragung einer Vormerkung",
    "Bindung an die Erklärung und Stellung des Eintragungsantrags beim Grundbuchamt",
+   "Bindung an die Erklärung und Eintragung einer Vormerkung",
    "Beurkundung des Kaufvertrags und Zahlung des Kaufpreises",
    "Stellung des Eintragungsantrags und Kenntnis des Grundbuchamts von der Einigung"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "§ 878 BGB verlangt, dass die Erklärung des Verfügenden bindend geworden ist (§ 873 Abs. 2 BGB) und der Eintragungsantrag beim Grundbuchamt gestellt ist – beides vor Eintritt der Beschränkung. Bindung allein reicht nicht; eine Vormerkung ist keine Voraussetzung des § 878 BGB."
  },
  {
@@ -625,11 +637,11 @@
     "frage": "War V am 15. März an die Auflassung gebunden?",
     "optionen": [
      "Nein, Bindung tritt erst mit Antragstellung beim Grundbuchamt ein",
-     "Ja, mit der notariellen Beurkundung ist Bindung nach § 873 Abs. 2 BGB eingetreten",
+     "Ja, aber nur wegen des schuldrechtlichen Anspruchs des K auf Übereignung",
      "Nein, Bindung tritt erst mit Eintragung ein",
-     "Ja, aber nur wegen des schuldrechtlichen Anspruchs des K auf Übereignung"
+     "Ja, mit der notariellen Beurkundung ist Bindung nach § 873 Abs. 2 BGB eingetreten"
     ],
-    "antwort": 1,
+    "antwort": 3,
     "erklaerung": "Nach § 873 Abs. 2 BGB sind die Beteiligten an die Einigung gebunden, wenn die Erklärungen notariell beurkundet sind. Der schuldrechtliche Anspruch allein würde gerade keine Bindung begründen."
    },
    {
@@ -708,12 +720,12 @@
   ],
   "frage": "Welche Gestaltung verstößt gegen den Typenzwang des Sachenrechts?",
   "optionen": [
-   "Bestellung eines Wohnungsrechts an einzelnen Räumen eines Hauses",
    "Beschränkung eines Nießbrauchs auf einzelne Räume eines Hauses",
+   "Bestellung eines Wohnungsrechts an einzelnen Räumen eines Hauses",
    "Bestellung einer Grunddienstbarkeit als Leitungsrecht",
    "Bestellung eines Vorkaufsrechts an einem Grundstück"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Der gesetzlich festgelegte Inhalt eines dinglichen Rechts ist nicht abänderbar; ein Nießbrauch kann deshalb – anders als ein Wohnungsrecht – nicht auf einzelne Räume beschränkt werden. Das Wohnungsrecht an Räumen ist gerade der gesetzlich vorgesehene Typus und daher die naheliegende, aber zulässige Verwechslung."
  },
  {
@@ -731,11 +743,11 @@
   "frage": "Ein beschränkt Geschäftsfähiger erwirbt ohne Mitwirkung seiner gesetzlichen Vertreter ein vermietetes Grundstück und wird als Eigentümer eingetragen. Wie ist die Rechtslage?",
   "optionen": [
    "Nur der Kaufvertrag ist unwirksam; die Auflassung bleibt nach dem Abstraktionsprinzip wirksam",
-   "Es liegt ein Doppelmangel vor: Auch die Auflassung ist unwirksam, das Grundbuch ist zu berichtigen",
+   "Die Auflassung ist wirksam, die Beteiligten müssen zurückauflassen",
    "Beide Geschäfte sind wirksam, weil der Eigentumserwerb lediglich rechtlich vorteilhaft ist",
-   "Die Auflassung ist wirksam, die Beteiligten müssen zurückauflassen"
+   "Es liegt ein Doppelmangel vor: Auch die Auflassung ist unwirksam, das Grundbuch ist zu berichtigen"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Beim Erwerb eines vermieteten Grundstücks ist nicht nur die Zahlungspflicht aus dem Kaufvertrag nachteilig, sondern wegen des Eintritts in die Vermieterpflichten auch der Eigentumserwerb selbst. Der Fehler erfasst daher beide Geschäfte (Doppelmangel); trotz Eintragung fehlt eine wirksame Übereignung, das Grundbuch ist zu berichtigen. Die Rückauflassung ist nur der Weg, wenn allein das Grundgeschäft entfällt."
  },
  {
@@ -769,11 +781,11 @@
   "frage": "Wie wird Zubehör beim Verkauf eines Grundstücks behandelt?",
   "optionen": [
    "Es kann nicht Gegenstand besonderer Rechte sein und geht zwingend mit über",
-   "Es ist sonderrechtsfähig, wird im Zweifel aber mitverkauft",
    "Es wird nur mitverkauft, wenn es im Vertrag einzeln aufgeführt ist",
+   "Es ist sonderrechtsfähig, wird im Zweifel aber mitverkauft",
    "Es gilt stets als bewegliche Sache, die gesondert zu übereignen und nicht mitverkauft ist"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Zubehör (§ 97 BGB) bleibt sonderrechtsfähig, wird nach § 311c BGB im Zweifel aber mitverkauft. Zwingend mitverkauft werden dagegen wesentliche Bestandteile, die nach § 93 BGB nicht Gegenstand besonderer Rechte sein können – das ist die naheliegende Verwechslung."
  },
  {
@@ -829,11 +841,11 @@
   "frage": "Wie sollte der Notar beim Hauskauf mit einer vorhandenen Serien-Einbauküche umgehen?",
   "optionen": [
    "Keine Regelung treffen, da die Küche als wesentlicher Bestandteil zwingend mitverkauft ist",
-   "Keine Regelung treffen, da die Küche als Zubehör nach § 311c BGB im Zweifel mitverkauft ist",
    "Die Küche ausdrücklich als mitverkauft bezeichnen, da ihre Einordnung von den Oberlandesgerichten unterschiedlich beurteilt wird",
+   "Keine Regelung treffen, da die Küche als Zubehör nach § 311c BGB im Zweifel mitverkauft ist",
    "Die Küche gesondert in einem privatschriftlichen Vertrag veräußern lassen"
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "Serienküchen werden uneinheitlich eingeordnet: teils als wesentlicher Bestandteil (§ 94 Abs. 2 BGB), teils als Zubehör (§ 97 BGB), teils als weder Bestandteil noch Zubehör. Die ausdrückliche Bezeichnung als mitverkauft erspart die Einordnung und beugt Streit vor. Sich allein auf § 311c BGB zu verlassen, ist riskant, weil die Zubehöreigenschaft gerade umstritten ist."
  },
  {
@@ -879,12 +891,12 @@
   ],
   "frage": "Der Flurbereinigungsplan ist ausgeführt, das Grundbuch aber noch nicht berichtigt. Wie wirkt eine jetzt erklärte Auflassung über das im Grundbuch noch gebuchte Einlagegrundstück?",
   "optionen": [
-   "Sie ist wirksam, weil das Grundbuch bis zur Berichtigung maßgeblich bleibt",
    "Sie ist wirkungslos, weil das Einlagegrundstück materiell-rechtlich nicht mehr besteht",
+   "Sie ist wirksam, weil das Grundbuch bis zur Berichtigung maßgeblich bleibt",
    "Sie wirkt kraft Gesetzes als Auflassung des Abfindungsgrundstücks",
    "Sie ist schwebend unwirksam bis zur Genehmigung der Flurbereinigungsbehörde"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Mit Ausführung des Plans gehen die alten Grundstücke ab dem Stichtag außerhalb des Grundbuchs materiell-rechtlich unter (vgl. §§ 61, 63 FlurbG). Eine Auflassung kann sich nicht mehr auf sie beziehen und bleibt ebenso wirkungslos wie eine darauf gestützte Eintragung. Eine Umdeutung in eine Auflassung der Abfindungsfläche scheitert regelmäßig an der Bestimmtheit."
  },
  {
@@ -917,10 +929,10 @@
   "optionen": [
    "Wenn für das Einlagegrundstück mehrere Abfindungsgrundstücke zugeteilt werden",
    "Wenn ein deutlich größeres Abfindungsgrundstück zugeteilt wird",
-   "Wenn exakt für diesen Besitzstand ein bestimmtes neues Grundstück zugeteilt wird",
-   "Wenn die Beteiligten bereits in den Besitz der Abfindungsfläche eingewiesen sind"
+   "Wenn die Beteiligten bereits in den Besitz der Abfindungsfläche eingewiesen sind",
+   "Wenn exakt für diesen Besitzstand ein bestimmtes neues Grundstück zugeteilt wird"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Regelmäßig fehlt die erforderliche Bestimmtheit; anders kann es nur sein, wenn exakt für diesen Besitzstand ein bestimmtes neues Grundstück zugeteilt wird. Bei mehreren oder größeren Abfindungsgrundstücken ist eine Auslegung regelmäßig ausgeschlossen, weil sich nicht feststellen lässt, worauf sich die Einigung bezog. Auch dann bleibt ein Nachtrag nötig (§ 29 GBO)."
  },
  {
@@ -950,14 +962,20 @@
   "abschnitt": "Grundstück und Liegenschaftskataster",
   "seite": "Flurbereinigung: Grundstücksverkauf während des Verfahrens",
   "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/flurbereinigung-grundstucksverkauf-wahrend-des-verfahrens",
-  "typ": "rf",
-  "schwierigkeit": 2,
+  "typ": "mc",
+  "schwierigkeit": 1,
   "normen": [
    "§ 44 Abs. 1 FlurbG"
   ],
-  "frage": "Maßstab der Abfindung in der Flurbereinigung ist die Fläche des Einlagegrundstücks, sodass der Käufer mit einer flächengleichen Abfindung rechnen kann.",
-  "antwort": false,
-  "erklaerung": "Maßstab der Abfindung ist die Wertzahl, nicht die Fläche (§ 44 Abs. 1 FlurbG). Bei höherwertigem Land kann ein wesentlich kleineres, bei minderwertigem Land ein erheblich größeres Grundstück zugeteilt werden. Ein Irrtum des Käufers über die spätere Abfindung berechtigt regelmäßig weder zur Anfechtung noch begründet er eine Störung der Geschäftsgrundlage."
+  "frage": "Wonach bemisst sich in der Flurbereinigung die Abfindung für ein Einlagegrundstück?",
+  "antwort": 1,
+  "erklaerung": "Maßstab der Abfindung ist die Wertzahl, nicht die Fläche (§ 44 Abs. 1 FlurbG). Bei höherwertigem Land kann ein wesentlich kleineres, bei minderwertigem Land ein erheblich größeres Grundstück zugeteilt werden. Ein Irrtum des Käufers über die spätere Abfindung berechtigt regelmäßig weder zur Anfechtung noch begründet er eine Störung der Geschäftsgrundlage.",
+  "optionen": [
+   "Nach der Fläche des Einlagegrundstücks",
+   "Nach der Wertzahl",
+   "Nach dem vereinbarten Kaufpreis",
+   "Nach dem Bodenrichtwert zum Zeitpunkt der Anordnung"
+  ]
  },
  {
   "id": "sach1-042",
@@ -978,12 +996,12 @@
    {
     "frage": "Über welches Grundstück kann zum jetzigen Zeitpunkt rechtlich verfügt werden?",
     "optionen": [
-     "Über die Fläche, in deren Besitz K eingewiesen ist",
      "Nur über das Einlagegrundstück",
+     "Über die Fläche, in deren Besitz K eingewiesen ist",
      "Über gar kein Grundstück, da die Flurbereinigung eine Grundbuchsperre bewirkt",
      "Wahlweise über Einlage- oder Abfindungsgrundstück"
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "Bis zur rechtlichen Ausführung des Plans kann nur über die Einlagegrundstücke verfügt werden, auch wenn die Besitzeinweisung schon stattgefunden hat. Eine Grundbuchsperre besteht nicht."
    },
    {
@@ -991,21 +1009,21 @@
     "optionen": [
      "Einen Anspruch auf die Fläche, in deren Besitz er eingewiesen ist",
      "Einen Anspruch auf eine flächengleiche Abfindung",
-     "Keinen gesicherten Anspruch auf eine bestimmte Abfindungsfläche",
-     "Einen Anspruch auf Rückzahlung bereits geleisteter Beiträge durch L"
+     "Einen Anspruch auf Rückzahlung bereits geleisteter Beiträge durch L",
+     "Keinen gesicherten Anspruch auf eine bestimmte Abfindungsfläche"
     ],
-    "antwort": 2,
+    "antwort": 3,
     "erklaerung": "Wer ein Einlagegrundstück kauft, hat kein Recht auf eine bestimmte Abfindungsfläche; selbst nach Besitzeinweisung sind Änderungen möglich. Maßstab ist die Wertzahl (§ 44 Abs. 1 FlurbG). Bereits erbrachte Zahlungen muss der Erwerber gegen sich gelten lassen."
    },
    {
     "frage": "Wie kann dem Wunsch des K, die bewirtschaftete Fläche zu erwerben, vertraglich Rechnung getragen werden?",
     "optionen": [
      "Durch sofortige Auflassung der eingewiesenen Fläche",
-     "Durch eine schuldrechtliche Verpflichtung zur Übertragung der künftigen Abfindungsgrundstücke mit Regelung des späteren Vollzugs",
      "Durch Eintragung eines Veräußerungsverbots nach § 52 Abs. 3 FlurbG",
+     "Durch eine schuldrechtliche Verpflichtung zur Übertragung der künftigen Abfindungsgrundstücke mit Regelung des späteren Vollzugs",
      "Durch Anfechtungsvorbehalt für den Fall abweichender Zuteilung"
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Stehen die Abfindungsgrundstücke aus Sicht der Beteiligten fest, kann sich die schuldrechtliche Verpflichtung auf diese künftigen Grundstücke beziehen; der Vollzug ist erst nach Abschluss des Verfahrens möglich und ggf. ist noch zu vermessen. Zudem ist auf § 15 FlurbG hinzuweisen."
    }
   ],
@@ -1080,12 +1098,12 @@
   ],
   "frage": "Unter einer laufenden Nummer des Bestandsverzeichnisses sind zwei Flurstücke verzeichnet. Eine Grundschuld soll nur an einem der Flurstücke bestellt werden. Was ist erforderlich?",
   "optionen": [
-   "Nichts, da jedes Flurstück ein eigenes Grundstück ist",
    "Die Vereinigung ist zuvor durch Teilung aufzuheben",
+   "Nichts, da jedes Flurstück ein eigenes Grundstück ist",
    "Es genügt eine Bezeichnung des Flurstücks in der Grundschuldbestellung",
    "Die Bestellung ist ausgeschlossen; nur eine Dienstbarkeit kommt in Betracht"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Mehrere Flurstücke unter einer Nummer bilden ein Grundstück im Rechtssinne (zusammengesetztes Grundstück). Soll ein Grundpfandrecht nur an einem Flurstück bestellt werden, ist die Vereinigung zuvor durch Teilung aufzuheben. Eine Dienstbarkeit kann dagegen ohne Aufhebung der Vereinigung bestellt werden – daher die naheliegende Verwechslung."
  },
  {
@@ -1094,15 +1112,21 @@
   "abschnitt": "Grundstück und Liegenschaftskataster",
   "seite": "Grundstück: Begriff, Flurstück und grundstücksgleiche Rechte",
   "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/grundstuck-begriff-flurstuck-und-grundstucksgleiche-rechte",
-  "typ": "rf",
+  "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
    "Art. 182 EGBGB",
    "Art. 189 Abs. 1 S. 3 EGBGB"
   ],
-  "frage": "Echtes Stockwerkseigentum ist ein grundstücksgleiches Recht, das auch heute noch neu begründet werden kann.",
-  "antwort": false,
-  "erklaerung": "Echtes Stockwerkseigentum (Art. 182 EGBGB) besteht regional als grundstücksgleiches Recht fort; seine Neubegründung ist aber ausgeschlossen (Art. 189 Abs. 1 S. 3 EGBGB). Neu begründet werden können dagegen Wohnungs- und Teileigentum (§ 7 WEG) und das Erbbaurecht (§ 11 ErbbauRG)."
+  "frage": "Welches grundstücksgleiche Recht kann heute nicht mehr neu begründet werden?",
+  "antwort": 3,
+  "erklaerung": "Echtes Stockwerkseigentum (Art. 182 EGBGB) besteht regional als grundstücksgleiches Recht fort; seine Neubegründung ist aber ausgeschlossen (Art. 189 Abs. 1 S. 3 EGBGB). Neu begründet werden können dagegen Wohnungs- und Teileigentum (§ 7 WEG) und das Erbbaurecht (§ 11 ErbbauRG).",
+  "optionen": [
+   "Wohnungseigentum",
+   "Erbbaurecht",
+   "Teileigentum",
+   "Echtes Stockwerkseigentum"
+  ]
  },
  {
   "id": "sach1-047",
@@ -1170,14 +1194,20 @@
   "abschnitt": "Grundstück und Liegenschaftskataster",
   "seite": "Grundstück: vermessene und unvermessene Teilflächen",
   "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/grundstuck-vermessene-und-unvermessene-teilflachen",
-  "typ": "rf",
+  "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
    "§ 29 GBO"
   ],
-  "frage": "Soll von einem aus mehreren Flurstücken bestehenden Grundstück nur ein Flurstück verkauft werden, ist vor der Teilung stets eine erneute Vermessung erforderlich.",
-  "antwort": false,
-  "erklaerung": "Bei einer bereits vermessenen Teilfläche entfällt die Vermessung, weil die Flurstücke bereits vermessen sind. Erforderlich ist die Teilung des Grundstücks, insbesondere ein Antrag des Eigentümers in der Form des § 29 GBO; sie kann zuvor oder als erster Abschnitt der Kaufurkunde erfolgen."
+  "frage": "Von einem Grundstück aus zwei Flurstücken soll ein Flurstück verkauft werden. Was ist erforderlich?",
+  "antwort": 1,
+  "erklaerung": "Bei einer bereits vermessenen Teilfläche entfällt die Vermessung, weil die Flurstücke bereits vermessen sind. Erforderlich ist die Teilung des Grundstücks, insbesondere ein Antrag des Eigentümers in der Form des § 29 GBO; sie kann zuvor oder als erster Abschnitt der Kaufurkunde erfolgen.",
+  "optionen": [
+   "Eine erneute Vermessung des Flurstücks",
+   "Ein Teilungsantrag des Eigentümers in der Form des § 29 GBO",
+   "Eine Bescheinigung des Vermessungsamts nach § 2 Abs. 3 GBO",
+   "Nichts, da das Flurstück bereits ein eigenes Grundstück ist"
+  ]
  },
  {
   "id": "sach1-050",
@@ -1193,12 +1223,12 @@
   ],
   "frage": "Was folgt beim Verkauf einer unvermessenen Teilfläche nach Vermessung und Erstellung des Fortführungsnachweises?",
   "optionen": [
-   "Die Eigentumsumschreibung ohne weitere Erklärungen auf Grundlage des Kaufvertrags",
    "Eine weitere Urkunde mit Messanerkennung und Identitätserklärung sowie Erklärung oder vorsorglicher Wiederholung der Auflassung",
+   "Die Eigentumsumschreibung ohne weitere Erklärungen auf Grundlage des Kaufvertrags",
    "Die Neubeurkundung des gesamten Kaufvertrags",
    "Eine Genehmigung des Vermessungsamts zur Abschreibung"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Nach Vermessung und Fortführungsnachweis folgen in einer weiteren Urkunde Messanerkennung und Identitätserklärung, gegebenenfalls als Eigenurkunde des Notars; zugleich wird die Auflassung erklärt oder vorsorglich wiederholt. Eine vollständige Neubeurkundung ist nicht erforderlich, die mehreren Urkunden verursachen aber Mehrkosten."
  },
  {
@@ -1231,10 +1261,10 @@
   "optionen": [
    "Notarielle Beurkundung nach § 311b BGB",
    "Öffentliche Beglaubigung der Unterschriften",
-   "Er ist formlos gültig",
-   "Schriftform mit Zustimmung des Vermessungsamts"
+   "Schriftform mit Zustimmung des Vermessungsamts",
+   "Er ist formlos gültig"
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Ohne Eigentumswechsel ist der Grenzfeststellungsvertrag formlos gültig und bedarf nicht der Form des § 311b BGB. Weicht die festgelegte Grenze dagegen von der bisherigen ab und wird damit Eigentum verschoben, ist § 311b BGB einzuhalten und eine Auflassung erforderlich – das ist die naheliegende Verwechslung."
  },
  {
@@ -1286,11 +1316,11 @@
   "frage": "Eine vereinbarte Grenzregelung mit Eigentumswechsel ändert die Größe beider Flurstücke. Welche Schritte sind in Kataster und Grundbuch erforderlich?",
   "optionen": [
    "Nur ein Vermerk auf der Rückseite des Bestandsverzeichnisses",
-   "Im Kataster Zerlegung und anschließende Verschmelzung; sachenrechtlich Teilungen sowie Vereinigungen oder Zuschreibungen",
    "Allein die Eintragung eines Widerspruchs bis zur Neuvermessung",
+   "Im Kataster Zerlegung und anschließende Verschmelzung; sachenrechtlich Teilungen sowie Vereinigungen oder Zuschreibungen",
    "Im Kataster nur Verschmelzung; im Grundbuch ist keine Eintragung erforderlich"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Ändert sich die Flurstücksgröße, muss das Kataster die Flurstücke zuerst zerlegen und die Teilflurstücke dann verschmelzen; sachenrechtlich sind entsprechend Teilungen sowie Vereinigungen oder Zuschreibungen vorzunehmen, deren Anträge in die Urkunde gehören. Der bloße Vermerk auf der Rückseite des Bestandsverzeichnisses betrifft nur Grenzänderungen ohne Größenänderung."
  },
  {
@@ -1307,11 +1337,11 @@
   "frage": "Das verkaufte Grundstück grenzt nicht an eine öffentliche Verkehrsfläche; eine Dienstbarkeit besteht nicht und wird nicht bestellt. Welche Rechtsfolge ergibt sich für den Käufer?",
   "optionen": [
    "Er hat keinerlei Zugangsrecht, bis eine Dienstbarkeit bestellt ist",
-   "Ihm steht ein unentgeltliches Notwegrecht zu",
    "Ihm steht ein Notwegrecht zu, das jedoch entgeltlich ist",
+   "Ihm steht ein unentgeltliches Notwegrecht zu",
    "Die Gemeinde muss eine öffentliche Zuwegung herstellen"
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "Ohne Dienstbarkeit steht dem Käufer jedenfalls ein Notwegrecht nach § 917 BGB zu, entsprechend ein Notleitungsrecht; das Notwegrecht ist allerdings entgeltlich (§ 917 Abs. 2 BGB). Vorzugswürdig ist die Neubestellung einer Dienstbarkeit unter Mitwirkung des Nachbarn; in der Urkunde ist auf Notweg und Entgeltlichkeit hinzuweisen."
  },
  {
@@ -1342,12 +1372,12 @@
   ],
   "frage": "Welchen typischen Fehler hilft die Auswertung der Flurkarte bei der Vertragsvorbereitung zu vermeiden?",
   "optionen": [
-   "Fehlende Belehrung über die Grunderwerbsteuer",
    "Nichtmitverkauf einer auf eigenem Grundbuchblatt gebuchten Garage oder eines Wegeanteils",
+   "Fehlende Belehrung über die Grunderwerbsteuer",
    "Fehlende Angabe des Geburtsdatums der Beteiligten",
    "Unrichtige Angabe der Eigentümer in Abteilung I"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Die Flurkarte zeigt, ob nahe Stellplatz-, Garagen- oder Wegegrundstücke auf eigenen Blättern gebucht sind und mitverkauft werden müssen; den Beteiligten ist oft nicht klar, dass es sich um getrennte Grundstücke handelt. Das Grundbuch bezeichnet die Grundstücke nach dem Liegenschaftskataster (§ 2 Abs. 2 GBO). Die Eigentümer ergeben sich dagegen aus dem Grundbuch, nicht aus der Flurkarte."
  },
  {
@@ -1365,11 +1395,11 @@
   "frage": "Ein Fortführungsnachweis weist die Zerlegung eines Flurstücks aus; ein Teilungsantrag wird nicht gestellt. Was geschieht im Grundbuch?",
   "optionen": [
    "Die neuen Flurstücke werden von Amts wegen als selbständige Grundstücke unter eigenen Nummern gebucht",
-   "Die neuen Flurstücke werden unter der bisherigen laufenden Nummer vorgetragen; es entsteht ein Grundstück aus mehreren Flurstücken",
+   "Das herausgemessene Flurstück wird automatisch auf ein neues Blatt abgeschrieben",
    "Der Fortführungsnachweis wird mangels Antrags zurückgewiesen",
-   "Das herausgemessene Flurstück wird automatisch auf ein neues Blatt abgeschrieben"
+   "Die neuen Flurstücke werden unter der bisherigen laufenden Nummer vorgetragen; es entsteht ein Grundstück aus mehreren Flurstücken"
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Ohne weiteren Antrag werden die neuen Flurstücke unter der bisherigen laufenden Nummer vorgetragen; es entsteht ein zusammengesetztes Grundstück. Erst der Teilungsantrag in der Form des § 29 GBO hebt diese Einheit auf; ohne ihn ist eine Abschreibung nicht möglich (§ 2 Abs. 3 GBO)."
  },
  {
@@ -1387,11 +1417,11 @@
   "frage": "Worin unterscheidet sich die Zuschreibung von der Vereinigung hinsichtlich der Belastungen?",
   "optionen": [
    "Bei der Zuschreibung erstrecken sich alle Belastungen beider Grundstücke auf das gesamte neue Grundstück",
-   "Bei der Zuschreibung erfassen Grundpfandrechte des Hauptgrundstücks auch das zugeschriebene Grundstück, dessen bisherige Belastungen im Rang vorgehen",
    "Bei der Vereinigung erstrecken sich Grundpfandrechte automatisch, bei der Zuschreibung nur nach Nachverpfändung",
+   "Bei der Zuschreibung erfassen Grundpfandrechte des Hauptgrundstücks auch das zugeschriebene Grundstück, dessen bisherige Belastungen im Rang vorgehen",
    "Es gibt keinen Unterschied; in beiden Fällen bleiben alle Belastungen getrennt"
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Bei der Vereinigung (§ 890 Abs. 1 BGB) bleiben Belastungen auf ihr bisheriges Grundstück beschränkt; eine Erstreckung erfordert Bewilligung und Antrag (Nachverpfändung). Bei der Zuschreibung (§ 890 Abs. 2 BGB) erfassen Grundpfandrechte des Hauptgrundstücks kraft Gesetzes auch das zugeschriebene Grundstück, wobei dessen bisherige Belastungen vorgehen (§ 1131 BGB); andere Belastungen bleiben getrennt."
  },
  {
@@ -1471,11 +1501,11 @@
   "frage": "Welcher Fortführungsfall wird vom Grundbuchamt nur auf Antrag erledigt?",
   "optionen": [
    "Flächenberichtigung eines Flurstücks",
-   "Änderung der Lagebezeichnung oder Nutzungsart",
    "Verschmelzung von Flurstücken, die bisher nicht unter einer Nummer des Bestandsverzeichnisses gebucht sind",
+   "Änderung der Lagebezeichnung oder Nutzungsart",
    "Zerlegung eines Flurstücks ohne gleichzeitige Teilung"
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "Von Amts wegen erledigt werden Änderungen von Größe, Lagebezeichnung, Nutzungsart, Gemarkung oder Nummer sowie die Zerlegung ohne Teilung. Nur auf Antrag erledigt wird die Verschmelzung, wenn zugleich Vereinigung oder Zuschreibung (§ 890 BGB) erfolgen soll oder die Flurstücke bisher nicht unter einer Nummer gebucht sind. Die Annahme, das Grundbuchamt vollziehe eine solche Verschmelzung von Amts wegen, ist ein typischer Fehler."
  },
  {
@@ -1507,12 +1537,12 @@
   ],
   "frage": "Wann ist für die Teilung eines Grundstücks die Voreintragung des Eigentümers nach § 40 GBO entbehrlich?",
   "optionen": [
-   "Wenn der Teilungsantrag von der Vermessungsbehörde beglaubigt wurde",
    "Wenn das ganze Grundstück veräußert, im Zuge dessen geteilt wird und Eigentumsumschreibung und Teilung zusammen beantragt werden",
+   "Wenn der Teilungsantrag von der Vermessungsbehörde beglaubigt wurde",
    "Wenn ein Grundstücksteil mit einer Vormerkung belastet werden soll",
    "Wenn der Eigentümer im Erbweg erworben hat und ein Erbschein vorliegt"
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Grundsätzlich erfordert die Teilung die Voreintragung des Eigentümers (§ 39 GBO). Nach § 40 GBO gilt eine Ausnahme, wenn das ganze Grundstück veräußert und dabei geteilt wird und Eigentumsumschreibung und Teilung zusammen beantragt werden. Die Beglaubigungsbefugnis der Vermessungsbehörde betrifft nur die Form des Antrags, nicht die Voreintragung."
  },
  {
@@ -1521,14 +1551,20 @@
   "abschnitt": "Grundstück und Liegenschaftskataster",
   "seite": "Teilung, Vereinigung und Zuschreibung: Antrag, Verwirrungsverbot und einheitliche Belastung",
   "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/teilung-vereinigung-und-zuschreibung-antrag-verwirrungsverbot-und-einheitliche-belastung",
-  "typ": "rf",
+  "typ": "mc",
   "schwierigkeit": 1,
   "normen": [
    "§ 29 GBO"
   ],
-  "frage": "Die Vermessungsbehörden in Baden-Württemberg sind befugt, Teilungs-, Vereinigungs- und Zuschreibungsanträge zu beurkunden oder zu beglaubigen.",
-  "antwort": false,
-  "erklaerung": "Die Befugnis der Vermessungsbehörden erfasst Teilungs- und Vereinigungsanträge, nicht aber Anträge auf Zuschreibung. Für die Zuschreibung ist die Form des § 29 GBO daher auf anderem Weg, etwa durch notarielle Beglaubigung, zu wahren."
+  "frage": "Für welchen Antrag besteht keine Beurkundungs- oder Beglaubigungsbefugnis der Vermessungsbehörden?",
+  "antwort": 3,
+  "erklaerung": "Die Vermessungsbehörden sind befugt, Teilungs- und Vereinigungsanträge zu beurkunden oder zu beglaubigen; das umfasst auch die Teilung eines zusammengesetzten Grundstücks. Für Anträge auf Zuschreibung besteht diese Befugnis nicht, sodass die Form des § 29 GBO dort auf anderem Weg, etwa durch notarielle Beglaubigung, zu wahren ist.",
+  "optionen": [
+   "Teilungsantrag",
+   "Vereinigungsantrag",
+   "Antrag auf Teilung eines zusammengesetzten Grundstücks",
+   "Zuschreibungsantrag"
+  ]
  },
  {
   "id": "sach1-067",
@@ -1550,11 +1586,11 @@
     "frage": "Welches Hindernis besteht für eine Vereinigung der Grundstücke ohne weitere Maßnahmen?",
     "optionen": [
      "Die Grundstücke liegen nicht im selben Grundbuchamtsbezirk",
-     "Wegen unterschiedlicher Belastung in Abteilung III ist Verwirrung zu besorgen (§ 5 Abs. 1 S. 2 GBO)",
      "Eine Vereinigung setzt stets eine vorherige Verschmelzung im Kataster voraus",
+     "Wegen unterschiedlicher Belastung in Abteilung III ist Verwirrung zu besorgen (§ 5 Abs. 1 S. 2 GBO)",
      "Für die Vereinigung ist die Zustimmung des N erforderlich"
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Lasten auf den Grundstücken verschiedene Grundpfandrechte, scheitert die Vereinigung verfahrensrechtlich an § 5 Abs. 1 S. 2 GBO. Eine Verschmelzung ist nicht Voraussetzung; Vereinigung ist auch ohne Verschmelzung möglich."
    },
    {
@@ -1571,12 +1607,12 @@
    {
     "frage": "Wie lässt sich vermeiden, dass das auf Flst. 11 beschränkte Wegerecht eine Verwirrung befürchten lässt?",
     "optionen": [
-     "Durch Löschung des Wegerechts als Voraussetzung jeder Zuschreibung",
      "Durch Verzicht auf die katasterrechtliche Verschmelzung der Flurstücke",
+     "Durch Löschung des Wegerechts als Voraussetzung jeder Zuschreibung",
      "Durch Pfanderstreckung des Wegerechts auf Flst. 10",
      "Durch Eintragung eines Rangvorbehalts zugunsten der S-Bank"
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "Bei Dienstbarkeiten wie Wegerechten ist in der Regel keine Verwirrung zu besorgen, wenn die Grundstücke zwar zugeschrieben, katasterrechtlich aber nicht verschmolzen werden; die bisherigen Flurstücke bleiben dann aus dem Grundbuch ersichtlich. Eine Pfanderstreckung kommt nur bei Grundpfandrechten in Betracht."
    }
   ],
@@ -1596,12 +1632,12 @@
   ],
   "frage": "In welchem Fall ist nach §§ 5, 6 GBO Verwirrung zu besorgen, obwohl auf beiden Grundstücken dieselben Grundpfandrechte eingetragen sind?",
   "optionen": [
-   "Wenn die Grundpfandrechte in abweichender Rangfolge eingetragen sind",
+   "Wenn die Grundstücke nicht verschmolzen werden sollen",
    "Wenn die Grundstücke unterschiedlich groß sind",
    "Wenn nur eines der Grundstücke bebaut ist",
-   "Wenn die Grundstücke nicht verschmolzen werden sollen"
+   "Wenn die Grundpfandrechte in abweichender Rangfolge eingetragen sind"
   ],
-  "antwort": 0,
+  "antwort": 3,
   "erklaerung": "Verwirrung ist insbesondere zu besorgen, wenn die Grundstücke unterschiedlich mit Grundpfandrechten oder Reallasten belastet sind oder wenn zwar dieselben Rechte eingetragen sind, aber in abweichender Rangfolge (§§ 5, 6 GBO). Abhilfe schaffen Rangrücktritte. Der Verzicht auf die Verschmelzung hilft dagegen nur bei Dienstbarkeiten in Abteilung II."
  },
  {
@@ -1617,12 +1653,12 @@
   ],
   "frage": "Unter welcher Voraussetzung darf nach § 2 Abs. 3 GBO ein Teil eines Grundstücks abgeschrieben werden?",
   "optionen": [
-   "Wenn der Teil im amtlichen Verzeichnis unter einer besonderen Nummer verzeichnet ist oder die Katasterbehörde bescheinigt, dass sie wegen Zusammenfassung mit einem Nachbargrundstück davon absieht",
-   "Wenn der Eigentümer eine maßstäbliche Skizze vorlegt",
    "Wenn der Teil mit einer Vormerkung belastet werden soll",
+   "Wenn der Eigentümer eine maßstäbliche Skizze vorlegt",
+   "Wenn der Teil im amtlichen Verzeichnis unter einer besonderen Nummer verzeichnet ist oder die Katasterbehörde bescheinigt, dass sie wegen Zusammenfassung mit einem Nachbargrundstück davon absieht",
    "Wenn das Grundbuchamt den Teil im Bestandsverzeichnis gerötet hat"
   ],
-  "antwort": 0,
+  "antwort": 2,
   "erklaerung": "§ 2 Abs. 3 GBO erlaubt die Abschreibung nur, wenn der Teil im amtlichen Verzeichnis unter einer besonderen Nummer verzeichnet ist oder die Katasterbehörde bescheinigt, dass sie wegen der Zusammenfassung mit einem benachbarten Grundstück von einer besonderen Nummer absieht. Eine Skizze genügt nur für die Bestimmtheit im Kaufvertrag, nicht für die Abschreibung."
  },
  {
@@ -1661,5 +1697,133 @@
   "frage": "Nach der VwVLK Baden-Württemberg sind Zuflurstücke Flurstücke, die bei einer Zerlegung entstehen und noch im selben Fortführungsnachweis mit anderen Flurstücken verschmolzen werden; in Baden-Württemberg tragen sie 100er-Nummern.",
   "antwort": true,
   "erklaerung": "Ziff. 26 Abs. 2 VwVLK BW definiert Zuflurstücke so; in Baden-Württemberg haben sie Nummern (100er-Nummern). Die Grundbuchliteratur versteht unter Zuflurstück dagegen ein Flurstück ohne eigene Nummer (§ 2 Abs. 3 GBO), weshalb fraglich ist, ob § 2 Abs. 3 GBO auf die baden-württembergischen Zuflurstücke anwendbar ist."
+ },
+ {
+  "id": "sach1-072",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundsätze und Erwerb dinglicher Rechte",
+  "seite": "Grundstücksrechte: Eintragung, Bezugnahme und Übereinstimmung mit der Einigung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/grundstucksrechte-eintragung-bezugnahme-und-ubereinstimmung-mit-der-einigung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 873 Abs. 1 BGB"
+  ],
+  "frage": "Welche Bedeutung hat die Reihenfolge von Einigung und Eintragung für die rechtsgeschäftliche Rechtsänderung?",
+  "optionen": [
+   "Die Reihenfolge ist gleichgültig; beide bewirken die Rechtsänderung nur gemeinsam",
+   "Die Einigung muss der Eintragung zwingend vorausgehen",
+   "Die Eintragung muss der Einigung vorausgehen",
+   "Eine nachträgliche Einigung heilt die Eintragung nur bei Bezugnahme"
+  ],
+  "antwort": 0,
+  "erklaerung": "Einigung und Eintragung bewirken die Rechtsänderung nur gemeinsam (§ 873 Abs. 1 BGB); in welcher Reihenfolge sie erfolgen, ist gleichgültig. Üblich ist zwar, dass die Einigung vorausgeht, zwingend ist das aber nicht."
+ },
+ {
+  "id": "sach1-073",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Liegenschaftskataster: Flurkarte in der Vertragsvorbereitung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/liegenschaftskataster-flurkarte-in-der-vertragsvorbereitung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 2 Abs. 2 GBO"
+  ],
+  "frage": "Nach welchem amtlichen Verzeichnis bezeichnet das Grundbuch die Grundstücke?",
+  "optionen": [
+   "Nach dem Grundsteuerkataster der Gemeinde",
+   "Nach dem Baulastenverzeichnis",
+   "Nach dem Bodenrichtwertinformationssystem",
+   "Nach dem Liegenschaftskataster"
+  ],
+  "antwort": 3,
+  "erklaerung": "Das Grundbuch bezeichnet die Grundstücke nach dem amtlichen Verzeichnis der Länder, dem Liegenschaftskataster (§ 2 Abs. 2 GBO). BORIS-BW ist lediglich ein Portal, über das die Flurkarte in Baden-Württemberg abgerufen werden kann, nicht das maßgebliche Verzeichnis."
+ },
+ {
+  "id": "sach1-074",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Flurbereinigung: Grundstücksverkauf während des Verfahrens",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/flurbereinigung-grundstucksverkauf-wahrend-des-verfahrens",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 15 FlurbG"
+  ],
+  "frage": "Wie wird ein Flurbereinigungsverfahren eingeleitet?",
+  "optionen": [
+   "Auf Antrag aller beteiligten Eigentümer",
+   "Auf Antrag der Mehrheit der beteiligten Eigentümer",
+   "Von Amts wegen, ohne dass die Zustimmung der Eigentümer erforderlich ist",
+   "Durch Vertrag zwischen Gemeinde und Eigentümern"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Flurbereinigung ist ein hoheitliches Verfahren, das von Amts wegen eingeleitet wird; die Zustimmung der beteiligten Eigentümer ist nicht erforderlich. Ein Erwerber muss das Verfahren im erreichten Stand gegen sich gelten lassen (§ 15 FlurbG)."
+ },
+ {
+  "id": "sach1-075",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundsätze und Erwerb dinglicher Rechte",
+  "seite": "Sachenrecht: Sachen, wesentliche Bestandteile und Zubehör",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/sachenrecht-sachen-wesentliche-bestandteile-und-zubehor",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 94 Abs. 1 S. 1 BGB",
+   "§ 93 BGB"
+  ],
+  "frage": "Was folgt aus dem Akzessionsprinzip für den Verkauf eines bebauten Grundstücks?",
+  "optionen": [
+   "Das Gebäude ist als Zubehör im Zweifel mitverkauft",
+   "Das Gebäude ist wesentlicher Bestandteil; Grund und Haus lassen sich nicht getrennt veräußern",
+   "Das Gebäude ist eine selbständige Sache und gesondert zu übereignen",
+   "Das Gebäude geht nur über, wenn es im Vertrag ausdrücklich genannt ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Das Gebäude gehört als wesentlicher Bestandteil zum Grundstück (§ 94 Abs. 1 S. 1 BGB, Akzessionsprinzip). Wesentliche Bestandteile können nicht Gegenstand besonderer Rechte sein (§ 93 BGB) und sind zwingend mitverkauft, ohne eigens aufgeführt werden zu müssen. Die Zweifelsregel des § 311c BGB gilt nur für Zubehör."
+ },
+ {
+  "id": "sach1-076",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundsätze und Erwerb dinglicher Rechte",
+  "seite": "Sachenrecht: Sachen, wesentliche Bestandteile und Zubehör",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/sachenrecht-sachen-wesentliche-bestandteile-und-zubehor",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 90 BGB"
+  ],
+  "frage": "Was sind Sachen im Sinne des § 90 BGB?",
+  "optionen": [
+   "Nur körperliche Gegenstände",
+   "Alle Gegenstände mit Vermögenswert einschließlich Rechten",
+   "Nur bewegliche körperliche Gegenstände",
+   "Körperliche Gegenstände und Gesellschaftsanteile"
+  ],
+  "antwort": 0,
+  "erklaerung": "Sachen sind nach § 90 BGB nur körperliche Gegenstände, also mit den Sinnen erfassbar und räumlich begrenzt. Rechte wie Patente oder Gesellschaftsanteile sind unkörperliche Gegenstände und keine Sachen. Auch Grundstücke sind Sachen, sodass die Beschränkung auf bewegliche Gegenstände falsch ist."
+ },
+ {
+  "id": "sach1-077",
+  "kapitel": "sachenrecht-und-grundstuck",
+  "abschnitt": "Grundstück und Liegenschaftskataster",
+  "seite": "Liegenschaftskataster: Fortführungsnachweis, Teilung, Vereinigung und Zuschreibung",
+  "quelle": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/liegenschaftskataster-fortfuhrungsnachweis-teilung-vereinigung-und-zuschreibung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 890 BGB",
+   "§ 13 Abs. 1 S. 2 GBV"
+  ],
+  "frage": "Wie wird das durch Vereinigung oder Zuschreibung entstandene einheitliche Grundstück im Bestandsverzeichnis geführt?",
+  "optionen": [
+   "Unter der laufenden Nummer des größeren Grundstücks",
+   "Unter der laufenden Nummer des Hauptgrundstücks",
+   "Unter beiden bisherigen Nummern nebeneinander",
+   "Unter einer neuen laufenden Nummer"
+  ],
+  "antwort": 3,
+  "erklaerung": "Sowohl bei der Vereinigung als auch bei der Zuschreibung (§ 890 BGB) erhält das neue einheitliche Grundstück eine neue laufende Nummer (§ 13 Abs. 1 S. 2 GBV). Dass bei der Zuschreibung ein Grundstück materiell bestehen bleibt, ändert an der neuen Nummer nichts."
  }
 ]

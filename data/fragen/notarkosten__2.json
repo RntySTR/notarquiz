@@ -1134,5 +1134,178 @@
   ],
   "antwort": 2,
   "erklaerung": "Erfasst der Ehevertrag ausschließlich einzelne vorhandene Vermögenswerte, ist nach § 100 Abs. 2 GNotKG deren Wert maßgeblich, begrenzt auf den Wert nach § 100 Abs. 1 GNotKG. Anzusetzen ist der Aktivwert; auf der Immobilie lastende Schulden werden nicht abgezogen. Der Schuldenabzug bis zur Hälfte gilt nur für das Reinvermögen nach § 100 Abs. 1 GNotKG."
+ },
+ {
+  "id": "kost2-050",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Erbschein und Erklärungen gegenüber dem Nachlassgericht; Gebühren im Erbrecht (§§ 40, 103 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-erbschein-und-erklarungen-gegenuber-dem-nachlassgericht-gebuhren-im-erbrecht-40-103-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 40 GNotKG",
+   "KV 23300 GNotKG"
+  ],
+  "frage": "Erblasser E hinterließ beim Erbfall 2015 Vermögen von 500.000 € und Darlehensschulden von 100.000 €; er hat ein Vermächtnis über 50.000 € angeordnet. Der Erbscheinsantrag mit eidesstattlicher Versicherung wird 2025 gestellt, als der Nachlass 700.000 € wert ist. Welcher Geschäftswert gilt?",
+  "optionen": [
+   "350.000 €",
+   "400.000 €",
+   "600.000 €",
+   "700.000 €"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 40 GNotKG ist der Nachlasswert im Zeitpunkt des Erbfalls maßgeblich (500.000 €), auch wenn der Antrag Jahre später gestellt wird. Abzuziehen sind nur Erblasserschulden (100.000 €), nicht Erbfallschulden wie Vermächtnisse. Der Abzug des Vermächtnisses (350.000 €) oder das Abstellen auf den heutigen Wert sind typische Fehler."
+ },
+ {
+  "id": "kost2-051",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Erbschein und Erklärungen gegenüber dem Nachlassgericht; Gebühren im Erbrecht (§§ 40, 103 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-erbschein-und-erklarungen-gegenuber-dem-nachlassgericht-gebuhren-im-erbrecht-40-103-gnotkg",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "KV 21100 GNotKG",
+   "KV 21200 GNotKG",
+   "KV 21201 GNotKG",
+   "KV 23300 GNotKG"
+  ],
+  "frage": "Ordne dem erbrechtlichen Geschäft den Gebührensatz zu.",
+  "paare": [
+   [
+    "Gemeinschaftliches Testament",
+    "2,0 nach KV 21100 GNotKG"
+   ],
+   [
+    "Einzeltestament",
+    "1,0 nach KV 21200 GNotKG"
+   ],
+   [
+    "Ausschlagung der Erbschaft gegenüber dem Nachlassgericht",
+    "0,5 nach KV 21201 Nr. 7 GNotKG"
+   ],
+   [
+    "Erbscheinsantrag mit eidesstattlicher Versicherung",
+    "1,0 nach KV 23300 GNotKG"
+   ]
+  ],
+  "erklaerung": "Gemeinschaftliche Testamente, Erbverträge und Verzichtsverträge lösen 2,0 nach KV 21100 GNotKG aus, Einzeltestamente 1,0 nach KV 21200 GNotKG. Erklärungen gegenüber dem Nachlassgericht wie die Ausschlagung kosten 0,5 nach KV 21201 Nr. 7 GNotKG (Wert nach § 103 GNotKG). Der Erbscheinsantrag mit eidesstattlicher Versicherung löst nur die Gebühr nach KV 23300 GNotKG aus."
+ },
+ {
+  "id": "kost2-052",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Erbschein und Erklärungen gegenüber dem Nachlassgericht; Gebühren im Erbrecht (§§ 40, 103 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-erbschein-und-erklarungen-gegenuber-dem-nachlassgericht-gebuhren-im-erbrecht-40-103-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 35 GBO",
+   "KV 12210 GNotKG",
+   "KV 23300 GNotKG"
+  ],
+  "frage": "Liegt ein notarielles Testament vor, genügt es für die Grundbuchberichtigung nach § 35 GBO, sodass die Kosten für Erbscheinsantrag und Erbscheinserteilung entfallen.",
+  "antwort": true,
+  "erklaerung": "Für die Grundbuchberichtigung genügt nach § 35 GBO das notarielle Testament; ein Erbschein ist nicht erforderlich. Beim privatschriftlichen Testament entstehen dagegen regelmäßig Eröffnungsgebühr (KV 12101 GNotKG), Gebühr für Antrag und eidesstattliche Versicherung (KV 23300 GNotKG) und Erteilungsgebühr (KV 12210 GNotKG). Das notarielle Testament kann deshalb für die Erben insgesamt günstiger sein."
+ },
+ {
+  "id": "kost2-053",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: Erbschein und Erklärungen gegenüber dem Nachlassgericht; Gebühren im Erbrecht (§§ 40, 103 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-erbschein-und-erklarungen-gegenuber-dem-nachlassgericht-gebuhren-im-erbrecht-40-103-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 46 GNotKG",
+   "§ 38 GNotKG",
+   "§ 94 Abs. 1 GNotKG"
+  ],
+  "frage": "In einer Urkunde werden der Erbscheinsantrag mit eidesstattlicher Versicherung und der Grundbuchberichtigungsantrag für das Nachlassgrundstück aufgenommen. Wie wird der Berichtigungsantrag bewertet?",
+  "optionen": [
+   "Nach § 40 GNotKG mit Abzug der Erblasserschulden",
+   "Nach § 46 GNotKG ohne Schuldenabzug; 0,5-Gebühr, Vergleichsberechnung nach § 94 Abs. 1 GNotKG",
+   "Gar nicht, da er wie der Erbscheinsantrag mit KV 23300 GNotKG abgegolten ist",
+   "Nach § 36 GNotKG mit einem Teilwert von 10–30 %"
+  ],
+  "antwort": 1,
+  "erklaerung": "Erbscheinsantrag und Grundbuchberichtigungsantrag sind verschiedene Gegenstände (§ 86 Abs. 2 GNotKG). Der Berichtigungsantrag wird nach § 46 GNotKG ohne Schuldenabzug (§ 38 GNotKG) bewertet und löst 0,5 nach KV 21201 Nr. 4 GNotKG aus; wegen der unterschiedlichen Sätze ist nach § 94 Abs. 1 GNotKG zu vergleichen. Nur der Erbscheinsantrag selbst ist mit KV 23300 GNotKG abgegolten."
+ },
+ {
+  "id": "kost2-054",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: gesellschaftsrechtliche Verträge und Anteilsübertragungen (§§ 107, 54 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-gesellschaftsrechtliche-vertrage-und-anteilsubertragungen-107-54-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 107 Abs. 1 GNotKG",
+   "§ 97 GNotKG"
+  ],
+  "frage": "A und B gründen eine GmbH mit Stammkapital 25.000 € (individuelle Satzung, kein Musterprotokoll). A übernimmt einen Anteil von 12.500 € gegen Bareinlage, B einen Anteil von 12.500 € gegen Einbringung eines Grundstücks im Wert von 200.000 €. Welcher Geschäftswert gilt für den Gesellschaftsvertrag?",
+  "optionen": [
+   "25.000 € (Stammkapital)",
+   "30.000 € (Mindestwert)",
+   "212.500 €",
+   "200.000 €"
+  ],
+  "antwort": 2,
+  "erklaerung": "§ 107 GNotKG setzt nur Mindest- und Höchstgrenzen; der Wert folgt aus § 97 GNotKG und ist beim Gesellschaftsvertrag als Leistungsvereinigungsvertrag die Summe aller Gesellschafterleistungen. Übersteigt eine Sacheinlage den Nominalbetrag, zählt ihr voller Wert: 12.500 € + 200.000 € = 212.500 €. Nur das Stammkapital anzusetzen ist ein typischer Fehler."
+ },
+ {
+  "id": "kost2-055",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: gesellschaftsrechtliche Verträge und Anteilsübertragungen (§§ 107, 54 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-gesellschaftsrechtliche-vertrage-und-anteilsubertragungen-107-54-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 107 Abs. 1 S. 2 GNotKG"
+  ],
+  "frage": "Bei der Gründung einer GmbH mit Musterprotokoll und Stammkapital 25.000 € gilt der Mindestwert von 30.000 € nicht; Geschäftswert ist das nominale Stammkapital von 25.000 €.",
+  "antwort": true,
+  "erklaerung": "Nach § 107 Abs. 1 S. 2 GNotKG gilt der Mindestwert von 30.000 € bei Gründung einer GmbH oder UG (haftungsbeschränkt) mit Musterprotokoll nicht; maßgeblich ist nur das nominale Stammkapital. Das wirkt sich auch bei der GmbH aus, weil ihr Mindeststammkapital von 25.000 € unter dem Mindestwert liegt."
+ },
+ {
+  "id": "kost2-056",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: gesellschaftsrechtliche Verträge und Anteilsübertragungen (§§ 107, 54 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-gesellschaftsrechtliche-vertrage-und-anteilsubertragungen-107-54-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 54 GNotKG",
+   "§ 38 GNotKG",
+   "§ 97 Abs. 1 GNotKG"
+  ],
+  "frage": "Bei welcher Anteilsübertragung ist der Geschäftswert nach § 54 GNotKG anhand des anteiligen Eigenkapitals nach Abzug der Gesellschaftsschulden zu bestimmen?",
+  "optionen": [
+   "Abtretung eines Geschäftsanteils an einer operativ tätigen Produktions-GmbH",
+   "Abtretung eines Geschäftsanteils an einer überwiegend vermögensverwaltenden Immobilien-GmbH",
+   "Übertragung der Beteiligung eines persönlich haftenden Gesellschafters einer OHG",
+   "Übertragung eines GbR-Anteils"
+  ],
+  "antwort": 0,
+  "erklaerung": "§ 54 GNotKG erfasst Beteiligungen mit beschränkter Haftung (Kapitalgesellschaftsanteile, Kommanditbeteiligungen), sofern die Gesellschaft nicht nur oder überwiegend vermögensverwaltend tätig ist; dann gilt das anteilige Eigenkapital nach Abzug der Gesellschaftsschulden als Ausnahme vom Schuldenabzugsverbot des § 38 GNotKG. Für vermögensverwaltende Gesellschaften, OHG-Komplementärbeteiligungen und GbR-Anteile gelten die allgemeinen Regeln, etwa § 97 Abs. 1 GNotKG."
+ },
+ {
+  "id": "kost2-057",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten",
+  "seite": "Geschäftswert: gesellschaftsrechtliche Verträge und Anteilsübertragungen (§§ 107, 54 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-gesellschaftsrechtliche-vertrage-und-anteilsubertragungen-107-54-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 97 Abs. 3 GNotKG",
+   "§ 705 BGB"
+  ],
+  "frage": "Da sich die Gesellschafter nach § 705 BGB gegenseitig verpflichten, ist ein Gesellschaftsvertrag ein Austauschvertrag, dessen Wert nach § 97 Abs. 3 GNotKG die höherwertige Leistung bildet.",
+  "antwort": false,
+  "erklaerung": "Der Gesellschaftsvertrag ist kein Austauschvertrag im Sinne des § 97 Abs. 3 GNotKG, sondern ein Leistungsvereinigungsvertrag: Die Gesellschafter führen ihre Beiträge in der Gesellschaft zusammen. Die Formulierung „gegenseitig verpflichten“ in § 705 BGB ändert daran nichts. Geschäftswert ist die Summe aller Gesellschafterleistungen, in den Grenzen von 30.000 € bis 10.000.000 € (§ 107 Abs. 1 GNotKG)."
  }
 ]

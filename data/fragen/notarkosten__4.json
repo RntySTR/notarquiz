@@ -1029,5 +1029,205 @@
   ],
   "antwort": 2,
   "erklaerung": "Faustregel: Auslagen nach KV 32015 GNotKG bleiben umsatzsteuerfrei, die im Kostenverzeichnis vor KV 32014 GNotKG stehenden Auslagen unterliegen ihr. Ob Umsatzsteuer anfällt, richtet sich vorrangig nach dem UStG; das GNotKG hat daran nichts geändert. Bleibt die Steuer nach § 19 Abs. 1 UStG unerhoben, ist keine Umsatzsteuer nach KV 32014 anzusetzen."
+ },
+ {
+  "id": "kost4-045",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Kostenberechnung: Pflicht- und Sollangaben, Textform (§ 19 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/kostenberechnung-pflicht-und-sollangaben-textform-19-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 19 Abs. 4 GNotKG",
+   "§ 19 Abs. 5 GNotKG"
+  ],
+  "frage": "Welche Folge hat es, wenn in der Kostenberechnung die angewandten Wertvorschriften fehlen?",
+  "optionen": [
+   "Die Kostenberechnung bleibt wirksam, kann aber auf Antrag durch gerichtliche Entscheidung aufgehoben werden.",
+   "Die Kostenberechnung ist unwirksam; aus ihr kann nicht vollstreckt werden.",
+   "Der Mangel ist unbeachtlich, solange die KV-Nummer genannt ist.",
+   "Die Kostenberechnung ist schwebend unwirksam bis zur Nachholung durch den Notar."
+  ],
+  "antwort": 0,
+  "erklaerung": "Die angewandten Wertvorschriften sind nur Sollangabe (§ 19 Abs. 3 Nr. 2 GNotKG). Fehlt eine Sollangabe, bleibt die Kostenberechnung wirksam, kann aber auf Antrag gerichtlich aufgehoben werden (§ 19 Abs. 5 GNotKG). Unwirksamkeit nach § 19 Abs. 4 GNotKG tritt nur beim Fehlen einer Mussangabe ein."
+ },
+ {
+  "id": "kost4-046",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Kostenberechnung: Pflicht- und Sollangaben, Textform (§ 19 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/kostenberechnung-pflicht-und-sollangaben-textform-19-gnotkg",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 19 Abs. 1 GNotKG",
+   "§ 19 Abs. 2 GNotKG",
+   "§ 19 Abs. 3 GNotKG"
+  ],
+  "frage": "Ordne die Angabe in der Kostenberechnung ihrer Einordnung nach § 19 GNotKG zu.",
+  "paare": [
+   [
+    "Geschäftswert",
+    "Mussangabe nach § 19 Abs. 2 Nr. 3 GNotKG"
+   ],
+   [
+    "Erhobene und gezahlte Vorschüsse",
+    "Mussangabe nach § 19 Abs. 2 Nr. 5 GNotKG"
+   ],
+   [
+    "Kurze Bezeichnung des Gebührentatbestands neben der KV-Nummer",
+    "Sollangabe nach § 19 Abs. 3 Nr. 1 GNotKG"
+   ],
+   [
+    "Einzelwerte bei zusammengesetzten Werten",
+    "Sollangabe nach § 19 Abs. 3 Nr. 3 GNotKG"
+   ],
+   [
+    "Kostengläubiger und Kostenschuldner",
+    "Mussangabe nach § 19 Abs. 1 GNotKG"
+   ]
+  ],
+  "erklaerung": "§ 19 Abs. 1 und 2 GNotKG enthalten die Mussangaben, darunter Gläubiger, Schuldner, Textform, Mitteilung, Verfahren, KV-Nummern, Geschäftswert, Beträge und Vorschüsse; ihr Fehlen macht die Kostenberechnung unwirksam (§ 19 Abs. 4 GNotKG). § 19 Abs. 3 GNotKG enthält die Sollangaben: Bezeichnung des Tatbestands, Wertvorschriften und Einzelwerte; ihr Fehlen führt nur zur Aufhebbarkeit (§ 19 Abs. 5 GNotKG)."
+ },
+ {
+  "id": "kost4-047",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Kostenberechnung: Pflicht- und Sollangaben, Textform (§ 19 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/kostenberechnung-pflicht-und-sollangaben-textform-19-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 19 Abs. 1 GNotKG",
+   "§ 126b BGB"
+  ],
+  "frage": "Eine per E-Mail als PDF versandte Kostenberechnung ist nur wirksam, wenn sie eine qualifizierte elektronische Signatur des Notars trägt.",
+  "antwort": false,
+  "erklaerung": "Die Kostenberechnung bedarf nur der Textform nach § 126b BGB: lesbare Erklärung, Nennung des Erklärenden, dauerhafter Datenträger. Eine eigenhändige Unterschrift oder qualifizierte elektronische Signatur ist nicht nötig; erkennbar sein muss der Abschluss, etwa durch „Notar“ oder den Nachnamen. Ein Scan oder eine computererzeugte PDF genügt."
+ },
+ {
+  "id": "kost4-048",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Kostenberechnung: Pflicht- und Sollangaben, Textform (§ 19 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/kostenberechnung-pflicht-und-sollangaben-textform-19-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 19 Abs. 1 GNotKG",
+   "§ 19 Abs. 4 GNotKG"
+  ],
+  "frage": "In einer Sozietät aus drei Notaren beurkundet Notarin N. Die Kostenberechnung trägt den Briefkopf mit allen drei Notaren, ohne dass der Text den Gläubiger klarstellt. Wie ist die Kostenberechnung zu beurteilen?",
+  "optionen": [
+   "Wirksam, weil alle Sozien gemeinsam Gläubiger sind",
+   "Wirksam, aber aufhebbar, weil nur eine Sollangabe fehlt",
+   "Wirksam, wenn N die Kostenberechnung unterschrieben hat",
+   "Unwirksam, weil der Kostengläubiger als Mussangabe nicht erkennbar ist"
+  ],
+  "antwort": 3,
+  "erklaerung": "Kostengläubiger ist allein der Notar, der beurkundet hat; seine Angabe ist Mussangabe nach § 19 Abs. 1 GNotKG. Nennt der Briefkopf alle Sozien, muss der Text klarstellen, wer Gläubiger ist; sonst fehlt eine Mussangabe und die Kostenberechnung ist nach § 19 Abs. 4 GNotKG unwirksam. Eine gemeinsame Gläubigerstellung der Sozietät gibt es nicht."
+ },
+ {
+  "id": "kost4-049",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Kostenberechnung: Prüfreihenfolge in drei Schritten",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/kostenberechnung-prufreihenfolge-in-drei-schritten",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 86 Abs. 2 GNotKG",
+   "§ 109 Abs. 1 GNotKG",
+   "§ 35 Abs. 1 GNotKG",
+   "§ 94 GNotKG"
+  ],
+  "frage": "Kaufvertrag mit Auflassung, Vormerkung und Bürgschaft",
+  "sachverhalt": "In einer Niederschrift beurkundet Notar N den Grundstückskaufvertrag zwischen V und K samt Auflassung und Bewilligung einer Auflassungsvormerkung. In derselben Urkunde übernimmt Ks Vater B gegenüber V eine Bürgschaft für die Kaufpreiszahlung. N will die Kostenberechnung nach der dreistufigen Prüfreihenfolge erstellen.",
+  "schritte": [
+   {
+    "frage": "Wie behandelt N in Schritt 1 die Auflassung und die Vormerkungsbewilligung?",
+    "optionen": [
+     "Er lässt sie weg, weil sie zum Kaufvertrag ohnehin gegenstandsgleich sind.",
+     "Er erfasst sie als eigene Gegenstände und bewertet sie mit eigenem Satz und Wert.",
+     "Er erfasst sie nur, wenn sie einen höheren Satz als der Kauf haben.",
+     "Er rechnet ihre Werte sogleich dem Kaufpreis hinzu."
+    ],
+    "antwort": 1,
+    "erklaerung": "In Schritt 1 sind nach § 86 Abs. 2 GNotKG alle Rechtsverhältnisse als verschiedene Gegenstände zu erfassen und einzeln mit Satz und Wert zu bewerten; § 109 GNotKG wird erst in Schritt 2 geprüft. Gegenstände schon jetzt wegzulassen, weil sie sich voraussichtlich nicht auswirken, ist ein typischer Fehler."
+   },
+   {
+    "frage": "Welcher Gebührensatz gilt für die mitbeurkundete Auflassung bei der Einzelbewertung?",
+    "optionen": [
+     "2,0 nach KV 21100 GNotKG",
+     "1,0 nach KV 21200 GNotKG",
+     "0,5 nach KV 21101 Nr. 2 GNotKG",
+     "0,5 nach KV 21201 Nr. 4 GNotKG"
+    ],
+    "antwort": 2,
+    "erklaerung": "Die Auflassung beim selben Notar wird mit 0,5 nach KV 21101 Nr. 2 GNotKG bewertet. KV 21201 Nr. 4 GNotKG ist der Tatbestand für die Vormerkungsbewilligung (0,5 statt 1,0 nach KV 21200); der Kauf selbst löst 2,0 nach KV 21100 GNotKG aus."
+   },
+   {
+    "frage": "Wie wirkt sich in Schritt 2 die Bürgschaft des B auf den Verfahrenswert aus?",
+    "optionen": [
+     "Sie ist zum Kaufvertrag gegenstandsgleich; ihr Wert bleibt unberücksichtigt.",
+     "Sie verdrängt als höherer Wert den Kaufpreis.",
+     "Sie wird nur bei der Betreuungsgebühr berücksichtigt.",
+     "Sie ist ein verschiedener Gegenstand; ihr Wert wird nach § 35 Abs. 1 GNotKG hinzuaddiert."
+    ],
+    "antwort": 3,
+    "erklaerung": "Unterschiedliche Beteiligte deuten auf verschiedene Rechtsverhältnisse hin; die Seite nennt die Kaufpreisbürgschaft eines Dritten als Beispiel. Anders als die Auflassung ist die Bürgschaft nicht gegenstandsgleich, sodass ihr Wert nach § 35 Abs. 1 GNotKG zum Wert des Hauptgeschäfts addiert wird."
+   },
+   {
+    "frage": "Was gilt in Schritt 3, wenn sich nach § 94 GNotKG eine getrennte Berechnung als günstiger erweist?",
+    "optionen": [
+     "Der Verfahrenswert wird auf den Wert der günstigeren Variante herabgesetzt.",
+     "Die günstigere Berechnung gilt für die Verfahrensgebühr, ändert aber den Verfahrenswert für Vollzug und Betreuung nicht.",
+     "Der Notar darf die günstigere Variante nur auf Antrag anwenden.",
+     "Jeder Gebührensatz darf dann mehrfach in der Kostenberechnung erscheinen."
+    ],
+    "antwort": 1,
+    "erklaerung": "Bei unterschiedlichen Sätzen ist nach § 94 GNotKG die günstigste Variante zu ermitteln. Eine günstigere getrennte Berechnung ändert den Verfahrenswert aber nicht; dieser bleibt für Vollzugs- und Betreuungsgebühr maßgeblich (§§ 112, 113 GNotKG). Gegenstände mit gleichem Satz bleiben auch im Rahmen des § 94 zusammengefasst (§ 93 GNotKG)."
+   }
+  ],
+  "erklaerung": "Zunächst sind Kauf (2,0), Auflassung (0,5) und Vormerkung (0,5) sowie die Bürgschaft einzeln zu erfassen und zu bewerten. In Schritt 2 ist die Auflassung zum Kauf gegenstandsgleich, die Bürgschaft des Dritten dagegen nicht, sodass ihr Wert addiert wird. Die Vergleichsberechnung nach § 94 GNotKG wirkt nur auf die Verfahrensgebühr, nicht auf den Verfahrenswert."
+ },
+ {
+  "id": "kost4-050",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Kostenberechnung: Prüfreihenfolge in drei Schritten",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/kostenberechnung-prufreihenfolge-in-drei-schritten",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 93 GNotKG"
+  ],
+  "frage": "Erscheint derselbe Gebührensatz für die Verfahrensgebühr mehrfach in der Kostenberechnung, ist die Berechnung fehlerhaft.",
+  "antwort": true,
+  "erklaerung": "Gegenstände mit gleichem Satz werden stets zusammengefasst, auch im Rahmen der Vergleichsberechnung nach § 94 GNotKG (§ 93 GNotKG). Für die Verfahrensgebühr erscheint jeder Gebührensatz daher höchstens einmal; ein mehrfacher Ausweis ist ein Kontrollsignal für eine falsche Berechnung."
+ },
+ {
+  "id": "kost4-051",
+  "kapitel": "notarkosten",
+  "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe",
+  "seite": "Kostenberechnung: Prüfreihenfolge in drei Schritten",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/kostenberechnung-prufreihenfolge-in-drei-schritten",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 93 Abs. 1 GNotKG",
+   "§ 35 Abs. 1 GNotKG",
+   "§ 34 GNotKG"
+  ],
+  "frage": "Warum kosten zwei gleichartige Geschäfte mit je 100.000 € Wert in getrennten Niederschriften mehr als ein Geschäft mit 200.000 € in einer Niederschrift?",
+  "optionen": [
+   "Weil bei getrennten Niederschriften die Gebühr nach Tabelle A statt B berechnet wird",
+   "Weil in getrennten Niederschriften jeweils eine Vollzugsgebühr hinzutritt",
+   "Weil die Gebührentabelle degressiv verläuft und jede Niederschrift ein eigenes Verfahren mit eigener Gebühr ist",
+   "Weil § 94 GNotKG bei getrennten Niederschriften einen Zuschlag vorsieht"
+  ],
+  "antwort": 2,
+  "erklaerung": "Jede Niederschrift ist ein eigenes Beurkundungsverfahren (§ 85 Abs. 2 GNotKG); innerhalb eines Verfahrens wird die Gebühr nur einmal aus den addierten Werten erhoben (§ 93 Abs. 1 i. V. m. § 35 Abs. 1 GNotKG). Weil die Tabelle degressiv verläuft, wächst die Gebühr mit dem Wert unterproportional. Tabelle A gilt für Notare nie."
  }
 ]

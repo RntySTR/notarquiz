@@ -293,5 +293,308 @@
   ],
   "antwort": 1,
   "erklaerung": "Bei der Erstaufteilung ist entweder das Grundstück noch unbelastet, oder eine bestehende Belastung setzt sich als Gesamtrecht an allen Einheiten fort; eine Beeinträchtigung einzelner Berechtigter durch die Gemeinschaftsordnung scheidet damit aus. Eine generelle Entbehrlichkeit besteht nicht: Bei späteren Änderungen der Gemeinschaftsordnung kann die Zustimmung dinglich Berechtigter erforderlich werden."
+ },
+ {
+  "id": "wohn4-014",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Verwalter: Bestellung, Höchstdauer und Abberufung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalter-bestellung-hochstdauer-und-abberufung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 26 Abs. 2 WEG"
+  ],
+  "frage": "Der aufteilende Eigentümer bestellt kurz nach Begründung des Wohnungseigentums den ersten Verwalter „für fünf Jahre“. Welche Rechtsfolge tritt ein?",
+  "optionen": [
+   "Die Bestellung ist insgesamt nichtig, weil sie die Höchstdauer überschreitet",
+   "Die Bestellung ist wirksam und endet nach fünf Jahren",
+   "Die Bestellung ist wirksam, endet aber nach drei Jahren",
+   "Die Bestellung ist bis zur Bestätigung durch die Erwerber schwebend unwirksam"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die erste Bestellung nach Begründung des Wohnungseigentums ist auf höchstens drei Jahre möglich, jede weitere auf höchstens fünf Jahre (§ 26 Abs. 2 WEG). Eine längere Bestellung ist nicht nichtig, sondern endet mit Ablauf der Höchstdauer. Die Fünfjahresgrenze gilt erst für spätere Bestellungen."
+ },
+ {
+  "id": "wohn4-015",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Verwalter: Bestellung, Höchstdauer und Abberufung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalter-bestellung-hochstdauer-und-abberufung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 26 Abs. 3 S. 1 WEG",
+   "§ 26 Abs. 5 WEG"
+  ],
+  "frage": "Die Gemeinschaftsordnung kann wirksam bestimmen, dass der Verwalter nur aus wichtigem Grund abberufen werden kann.",
+  "antwort": false,
+  "erklaerung": "Die Abberufung erfolgt durch Mehrheitsbeschluss und ist jederzeit möglich (§ 26 Abs. 3 S. 1 WEG). Eine Beschränkung auf wichtige Gründe ist nach § 26 Abs. 5 WEG unwirksam. Von der Abberufung ist die Kündigung des Verwaltervertrags zu unterscheiden."
+ },
+ {
+  "id": "wohn4-016",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Verwalter: Bestellung, Höchstdauer und Abberufung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalter-bestellung-hochstdauer-und-abberufung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 26 Abs. 3 S. 2 WEG"
+  ],
+  "frage": "Die Eigentümer berufen den Verwalter ab. Was gilt für den Verwaltervertrag?",
+  "optionen": [
+   "Er endet automatisch zugleich mit der Abberufung",
+   "Er endet spätestens sechs Monate nach der Abberufung",
+   "Er läuft bis zum Ende der vereinbarten Laufzeit weiter",
+   "Er endet erst mit Ablauf der Höchstdauer von fünf Jahren"
+  ],
+  "antwort": 1,
+  "erklaerung": "Abberufung und Kündigung des Verwaltervertrags sind zu unterscheiden. Nach § 26 Abs. 3 S. 2 WEG endet der Verwaltervertrag spätestens sechs Monate nach der Abberufung. Ein automatisches Ende mit der Abberufung sieht das Gesetz nicht vor; eine längere Bindung bis zum Laufzeitende ist ausgeschlossen."
+ },
+ {
+  "id": "wohn4-017",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Verwalter: Bestellung, Höchstdauer und Abberufung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalter-bestellung-hochstdauer-und-abberufung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 8 Abs. 3 WEG",
+   "§ 9a Abs. 1 S. 2 WEG"
+  ],
+  "frage": "Ein Bauträger teilt nach § 8 WEG auf und will den ersten Verwalter bestimmen. Welches Vorgehen ist zu empfehlen?",
+  "optionen": [
+   "Bestellung bereits in der Teilungserklärung, weil sie nach allgemeiner Ansicht zulässig ist",
+   "Bestellungsbeschluss vor Anlegung der Wohnungsgrundbücher, um Erwerber nicht zu beteiligen",
+   "Bestellungsbeschluss erst in der ersten Versammlung nach Übergabe aller Wohnungen",
+   "Bestellungsbeschluss nach Anlegung der Wohnungsgrundbücher, aber vor Eintragung der ersten Erwerbervormerkungen und Übergabe"
+  ],
+  "antwort": 3,
+  "erklaerung": "Die Bestellung in der Teilungserklärung ist nur nach herrschender, aber bestrittener Ansicht zulässig und wird deshalb nicht empfohlen. Ohne Weiteres zulässig ist ein Beschluss des aufteilenden Eigentümers nach Anlegung der Wohnungsgrundbücher (vgl. § 9a Abs. 1 S. 2 WEG); ein Beschluss vor Entstehen der GdWE ist unzulässig. Er sollte gefasst werden, bevor Erwerbervormerkungen eingetragen und Wohnungen übergeben sind, weil danach die Erwerber als Wohnungseigentümer gelten (vgl. § 8 Abs. 3 WEG)."
+ },
+ {
+  "id": "wohn4-018",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Verwalter: Bestellung, Höchstdauer und Abberufung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalter-bestellung-hochstdauer-und-abberufung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 26 Abs. 1 WEG",
+   "§ 26 Abs. 5 WEG"
+  ],
+  "frage": "Die Gemeinschaftsordnung kann für die Bestellung des Verwalters keine qualifizierte Mehrheit verlangen.",
+  "antwort": true,
+  "erklaerung": "Der Verwalter wird durch Beschluss mit einfacher Mehrheit bestellt (§ 26 Abs. 1 WEG). Eine qualifizierte Mehrheit kann wegen § 26 Abs. 5 WEG nicht verlangt werden, weil sie die Bestellung erschweren würde. Aus demselben Grund sind vereinbarte Beschränkungen auf einen bestimmten Personenkreis unzulässig."
+ },
+ {
+  "id": "wohn4-019",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Verwalter: Person, Stellung und Amtsnachfolge",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalter-person-stellung-und-amtsnachfolge",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 707 Abs. 1 BGB"
+  ],
+  "frage": "Ordne die vorgesehenen Verwalter der rechtlichen Beurteilung ihrer Bestellung zu.",
+  "paare": [
+   [
+    "Zwei natürliche Personen gemeinsam",
+    "Unzulässig, weil die Verwaltung nicht mehreren Personen gemeinsam übertragen werden kann"
+   ],
+   [
+    "UG (haftungsbeschränkt)",
+    "Zulässig als Kapitalgesellschaft"
+   ],
+   [
+    "Nicht im Gesellschaftsregister eingetragene GbR",
+    "Nichtig wegen fehlender Publizität der Vertretungsmacht"
+   ],
+   [
+    "Im Gesellschaftsregister eingetragene GbR",
+    "Zulässig aufgrund der Registereintragung"
+   ]
+  ],
+  "erklaerung": "Eine Personenmehrheit kommt nur in Betracht, wenn sie als eigenständige Einheit handlungsfähig ist; mehreren Personen gemeinsam kann die Verwaltung nicht übertragen werden. Kapitalgesellschaften, nach dem BGH auch eine UG, können Verwalter sein. Die Bestellung einer GbR ist wegen fehlender Publizität der Vertretungsmacht nichtig, es sei denn, sie ist im Gesellschaftsregister eingetragen (§ 707 Abs. 1 BGB)."
+ },
+ {
+  "id": "wohn4-020",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Verwalter: Person, Stellung und Amtsnachfolge",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalter-person-stellung-und-amtsnachfolge",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 26a WEG",
+   "§ 19 Abs. 2 Nr. 6 WEG"
+  ],
+  "frage": "In welchem Fall kann ein Eigentümer die Bestellung eines zertifizierten Verwalters nicht verlangen?",
+  "optionen": [
+   "Es bestehen weniger als neun Sondereigentumsrechte, ein Wohnungseigentümer ist Verwalter und weniger als ein Drittel der Eigentümer verlangt einen zertifizierten Verwalter",
+   "Es bestehen weniger als zwanzig Sondereigentumsrechte und der Verwalter ist eine juristische Person",
+   "Die Gemeinschaftsordnung schließt den Anspruch ausdrücklich aus",
+   "Ein Wohnungseigentümer ist Verwalter und die Mehrheit der Eigentümer ist mit ihm zufrieden"
+  ],
+  "antwort": 0,
+  "erklaerung": "Grundsätzlich kann jeder Eigentümer die Bestellung eines zertifizierten Verwalters nach § 26a WEG verlangen. Die Ausnahme nach § 19 Abs. 2 Nr. 6 WEG setzt kumulativ voraus: weniger als neun Sondereigentumsrechte, ein Wohnungseigentümer ist Verwalter, und weniger als ein Drittel der Eigentümer verlangt einen zertifizierten Verwalter. Die bloße Zufriedenheit der Mehrheit genügt nicht, weil schon ein Drittel der Eigentümer den Anspruch durchsetzen kann."
+ },
+ {
+  "id": "wohn4-021",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Verwalter: Person, Stellung und Amtsnachfolge",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalter-person-stellung-und-amtsnachfolge",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [],
+  "frage": "Die Verwalter-GmbH einer Anlage wird nach dem UmwG auf eine andere GmbH verschmolzen. Was gilt für die Verwalterstellung nach der auf der Seite vertretenen Ansicht?",
+  "optionen": [
+   "Sie erlischt mit der übertragenden Gesellschaft, weil das Amt personengebunden ist",
+   "Sie geht im Wege der Gesamtrechtsnachfolge auf die aufnehmende Gesellschaft über",
+   "Sie geht nur über, wenn die Eigentümer der Verschmelzung zuvor zugestimmt haben",
+   "Sie geht nur über, wenn aufnehmende und übertragende Gesellschaft dieselbe Rechtsform haben"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei Gesamtrechtsnachfolge nach dem UmwG geht die Verwalterstellung unabhängig von der Rechtsform auf die entstehende oder aufnehmende Gesellschaft über (BGH, ZWE 2014, 216; BGH, NZM 2021, 764). Die Gegenansicht stützt sich auf die Personengebundenheit des Amts. Beim Formwechsel gilt der Übergang erst recht, weil nur die Rechtsform wechselt."
+ },
+ {
+  "id": "wohn4-022",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Verwalter: Person, Stellung und Amtsnachfolge",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalter-person-stellung-und-amtsnachfolge",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Der Verwalter kann sein Amt einseitig auf einen anderen Verwalter übertragen, wenn er dessen Eignung sorgfältig geprüft hat.",
+  "antwort": false,
+  "erklaerung": "Das Verwalteramt ist grundsätzlich personengebunden; der Verwalter muss seine Aufgaben selbst erfüllen. Er darf zwar Hilfspersonen einsetzen, seine Verantwortung aber nicht übertragen, und einseitig übertragen kann er das Amt nicht (BGH, NZM 2014, 312). Auf eine Eignungsprüfung kommt es daher nicht an."
+ },
+ {
+  "id": "wohn4-023",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Verwalter: Person, Stellung und Amtsnachfolge",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalter-person-stellung-und-amtsnachfolge",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [],
+  "frage": "In einer Mehrhausanlage kann für eine Untergemeinschaft kein eigener Verwalter bestellt werden.",
+  "antwort": true,
+  "erklaerung": "Unzulässig ist es, einen Verwalter nur für einen Teil der Anlage oder für eine Untergemeinschaft zu bestellen. Ebenso wenig können mehrere Gemeinschaften eine übergeordnete Einheit mit gemeinsamem Verwalter bilden. Der Verwalter ist Organ der GdWE insgesamt."
+ },
+ {
+  "id": "wohn4-024",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Verwalter: Vertretungsmacht und Aufgaben",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalter-vertretungsmacht-und-aufgaben",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 9b Abs. 1 S. 1 WEG"
+  ],
+  "frage": "Für welche Rechtsgeschäfte benötigt der Verwalter zur Vertretung der GdWE einen Beschluss der Wohnungseigentümer?",
+  "optionen": [
+   "Für jeden Vertrag mit einem Wert über 2.000 €",
+   "Für Grundstückskauf- und Darlehensverträge",
+   "Für alle gerichtlichen Verfahren der GdWE",
+   "Für Verträge mit einer Laufzeit von mehr als einem Jahr"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Verwalter vertritt die GdWE gerichtlich und außergerichtlich; seine Vertretungsmacht ist grundsätzlich umfassend und hängt nicht von einem Beschluss ab (§ 9b Abs. 1 S. 1 WEG). Nur Grundstückskauf- und Darlehensverträge kann er allein aufgrund eines Beschlusses abschließen (§ 9b Abs. 1 S. 1 Hs. 2 WEG). Betragsgrenzen wie 2.000 € betreffen allenfalls die Entscheidungskompetenz im Innenverhältnis nach § 27 WEG, nicht die Vertretungsmacht."
+ },
+ {
+  "id": "wohn4-025",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Verwalter: Vertretungsmacht und Aufgaben",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalter-vertretungsmacht-und-aufgaben",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 9b Abs. 2 WEG"
+  ],
+  "frage": "Wer vertritt die GdWE beim Abschluss des Verwaltervertrags mit dem neu bestellten Verwalter?",
+  "optionen": [
+   "Der Verwalter selbst, der insoweit vom Verbot des Insichgeschäfts befreit ist",
+   "Alle Wohnungseigentümer nur gemeinschaftlich",
+   "Der Vorsitzende des Verwaltungsbeirats oder ein durch Beschluss ermächtigter Eigentümer",
+   "Der bisherige Verwalter bis zum Ende seiner Amtszeit"
+  ],
+  "antwort": 2,
+  "erklaerung": "Gegenüber dem Verwalter vertritt der Vorsitzende des Verwaltungsbeirats oder ein durch Beschluss ermächtigter Eigentümer die GdWE, insbesondere beim Abschluss des Verwaltervertrags (§ 9b Abs. 2 WEG). Die gemeinschaftliche Vertretung durch alle Eigentümer nach § 9b Abs. 1 S. 2 WEG greift nur, wenn die GdWE keinen Verwalter hat."
+ },
+ {
+  "id": "wohn4-026",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Verwalter: Vertretungsmacht und Aufgaben",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalter-vertretungsmacht-und-aufgaben",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 9b Abs. 1 S. 3 WEG"
+  ],
+  "frage": "Eine in der Gemeinschaftsordnung vereinbarte und im Grundbuch eingetragene Beschränkung der Vertretungsmacht des Verwalters wirkt auch gegenüber Dritten.",
+  "antwort": false,
+  "erklaerung": "Nach § 9b Abs. 1 S. 3 WEG ist eine Beschränkung des Umfangs der Vertretungsmacht Dritten gegenüber unwirksam. Die Eintragung ändert daran nichts. Beschränkungen wirken nur im Innenverhältnis, etwa über § 27 Abs. 2 WEG für die Entscheidungskompetenz."
+ },
+ {
+  "id": "wohn4-027",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Verwalter: Vertretungsmacht und Aufgaben",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalter-vertretungsmacht-und-aufgaben",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 27 Abs. 1 WEG",
+   "§ 27 Abs. 2 WEG"
+  ],
+  "frage": "Entscheidungskompetenz des Verwalters",
+  "sachverhalt": "Verwalterin V verwaltet eine Anlage mit acht Wohnungseigentümern. Ein Fenster im Treppenhaus ist undicht; die Reparatur kostet 250 €. Außerdem möchte V die Haustür in einem auffälligen Neonfarbton streichen lassen, was nur 150 € kostet. Die Eigentümer überlegen, die Befugnisse der V künftig klarer zu regeln.",
+  "schritte": [
+   {
+    "frage": "Darf V die Fensterreparatur ohne Beschluss in Auftrag geben?",
+    "optionen": [
+     "Nein, jede Maßnahme der Erhaltung bedarf eines Beschlusses",
+     "Ja, als Maßnahme ordnungsmäßiger Verwaltung von untergeordneter Bedeutung ohne erhebliche Verpflichtung",
+     "Nein, weil V dafür eine Vollmacht aller Eigentümer benötigt",
+     "Ja, aber nur, wenn ein Eigentümer zuvor zugestimmt hat"
+    ],
+    "antwort": 1,
+    "erklaerung": "Nach § 27 Abs. 1 Nr. 1 WEG trifft der Verwalter eigenständig Maßnahmen ordnungsmäßiger Verwaltung, die von untergeordneter Bedeutung sind und nicht zu erheblichen Verpflichtungen führen. Eine Reparatur über 250 € liegt in einer Anlage mit acht Eigentümern deutlich unter den vorgeschlagenen Faustformeln (etwa 2.000 € bei weniger als 10 Eigentümern)."
+   },
+   {
+    "frage": "Darf V den Neonanstrich der Haustür wegen der geringen Kosten ebenfalls eigenständig beauftragen?",
+    "optionen": [
+     "Ja, weil die Kosten unter jeder Faustformel liegen",
+     "Ja, weil § 27 WEG ausschließlich auf die Kosten abstellt",
+     "Nein, weil auch eine kostengünstige Maßnahme bei deutlichen optischen Veränderungen nicht untergeordnet ist",
+     "Nein, weil Anstricharbeiten stets einer Vereinbarung bedürfen"
+    ],
+    "antwort": 2,
+    "erklaerung": "Ob eine Maßnahme untergeordnet ist, hängt davon ab, ob die Eigentümer ein berechtigtes Interesse an einer Beschlussfassung haben. Auch ohne erhebliche Kosten kann eine Maßnahme bedeutend sein, etwa bei deutlichen optischen Veränderungen. Die Kosten allein sind daher nicht entscheidend."
+   },
+   {
+    "frage": "Wie sollten die Eigentümer die Kompetenzen der V nach der Empfehlung der Seite regeln?",
+    "optionen": [
+     "Durch einen Aufgabenkatalog, der durch Beschluss festgelegt wird",
+     "Durch einen Kompetenzkatalog mit festen Wertgrenzen in der Gemeinschaftsordnung",
+     "Gar nicht, weil § 27 WEG die Kompetenzen abschließend regelt",
+     "Durch eine Beschränkung der Vertretungsmacht mit Wirkung gegenüber Dritten"
+    ],
+    "antwort": 0,
+    "erklaerung": "Nach § 27 Abs. 2 WEG können die Eigentümer die Kompetenzen des Verwalters durch Beschluss oder Vereinbarung einschränken oder erweitern. Ein Katalog mit Wertgrenzen in der Gemeinschaftsordnung ist nicht zu empfehlen, weil er die Vielfalt der Aufgaben kaum erfasst und Wertgrenzen schnell veralten; vorzugswürdig ist ein Aufgabenkatalog durch Beschluss."
+   }
+  ],
+  "erklaerung": "Die Fensterreparatur fällt als untergeordnete Maßnahme in die Entscheidungskompetenz der V nach § 27 Abs. 1 Nr. 1 WEG. Der auffällige Anstrich ist trotz geringer Kosten wegen der optischen Veränderung von den Eigentümern zu beschließen. Die Kompetenzen lassen sich nach § 27 Abs. 2 WEG am besten durch einen beschlossenen Aufgabenkatalog konkretisieren."
  }
 ]

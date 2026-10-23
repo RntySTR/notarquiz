@@ -992,5 +992,264 @@
   ],
   "antwort": 1,
   "erklaerung": "Ein subjektiv-persönliches Recht hat unbeschränkte Dauer, wenn eine juristische Person berechtigt ist, weil ein Erlöschen durch Tod nicht möglich ist. Anzusetzen sind die Jahreswerte der ersten 20 Jahre (§ 52 Abs. 3 S. 1 GNotKG). Auf die Wertminderung des belasteten Grundstücks kommt es nicht an; maßgeblich ist allein der Vorteil des Berechtigten (§ 52 Abs. 1 GNotKG)."
+ },
+ {
+  "id": "kost3-043",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Sachen und Grundstücke (§ 46 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-sachen-und-grundstucke-46-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 46 GNotKG",
+   "§ 97 Abs. 1 GNotKG",
+   "§ 36 Abs. 1 GNotKG",
+   "§ 38 GNotKG"
+  ],
+  "frage": "Ein Erbteil wird schenkweise übertragen. Nach welchen Vorschriften ist der Wert zu bestimmen?",
+  "optionen": [
+   "Nach § 46 GNotKG mit dem Verkehrswert der Nachlassgegenstände abzüglich Nachlassverbindlichkeiten",
+   "Nach § 97 Abs. 1 und § 36 Abs. 1 GNotKG mit dem vollen Wert ohne Schuldenabzug",
+   "Nach § 102 GNotKG mit dem modifizierten Reinvermögen",
+   "Nach § 36 Abs. 3 GNotKG mit 5.000 €"
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 46 GNotKG erfasst nur Sachen im Sinne von § 90 BGB, also körperliche Gegenstände, keine Rechte. Für Erbteil oder GmbH-Anteil gelten § 97 Abs. 1 und § 36 Abs. 1 GNotKG; anzusetzen ist der volle Wert ohne Schuldenabzug (§ 38 GNotKG). Die Bewertung nach § 46 GNotKG ist der typische Fehler."
+ },
+ {
+  "id": "kost3-044",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Sachen und Grundstücke (§ 46 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-sachen-und-grundstucke-46-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 46 Abs. 3 GNotKG"
+  ],
+  "frage": "Da Gläubiger nur einen Teil des Verkehrswerts beleihen, liegt der Verkehrswert eines Grundstücks regelmäßig mindestens beim Nennbetrag der eingetragenen Grundpfandrechte.",
+  "antwort": true,
+  "erklaerung": "Nach § 46 Abs. 3 GNotKG sind eingetragene Belastungen, vor allem Grundpfandrechte, Anhaltspunkt für den Verkehrswert. Weil Gläubiger nur einen Teil des Verkehrswerts beleihen, liegt dieser regelmäßig mindestens beim Nennbetrag. Einen niedrigeren Verkehrswert ohne besondere Gründe anzusetzen, ist ein typischer Fehler."
+ },
+ {
+  "id": "kost3-045",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Sachen und Grundstücke (§ 46 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-sachen-und-grundstucke-46-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 46 Abs. 2 GNotKG",
+   "§ 46 Abs. 3 GNotKG",
+   "§ 46 Abs. 4 GNotKG"
+  ],
+  "frage": "Welcher der folgenden Umstände darf der Notar nach § 46 GNotKG nicht als Anhaltspunkt für den Verkehrswert heranziehen?",
+  "optionen": [
+   "Einen in den Grundakten dokumentierten früheren Kaufpreis",
+   "Den für die Schenkungsteuer festgesetzten Wert",
+   "Sein privates Sonderwissen über einen nicht bekannten Verkauf eines Nachbargrundstücks als offenkundige Tatsache",
+   "Die Ausgleichszahlungen bei einer Auseinandersetzung"
+  ],
+  "antwort": 2,
+  "erklaerung": "Offenkundig im Sinne des § 46 Abs. 2 GNotKG ist nur, was jedermann erkennen kann, nicht bloßes Sonderwissen des Notars. Grundakteninhalt und steuerlich festgesetzte Werte nennt § 46 Abs. 3 GNotKG ausdrücklich, der Inhalt des Geschäfts (etwa Ausgleichszahlungen) § 46 Abs. 2 GNotKG. Eine förmliche Beweisaufnahme findet nicht statt (§ 46 Abs. 4 GNotKG)."
+ },
+ {
+  "id": "kost3-046",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Vollmachten und Zustimmungen (§ 98 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-vollmachten-und-zustimmungen-98-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 98 Abs. 1 GNotKG",
+   "§ 38 GNotKG"
+  ],
+  "frage": "A erteilt B Vollmacht zum Verkauf eines bestimmten Grundstücks (Kaufpreis 400.000 €, abzulösendes Grundpfanddarlehen 100.000 €). Welcher Wert gilt für die Vollmacht?",
+  "optionen": [
+   "150.000 €",
+   "200.000 €",
+   "300.000 €",
+   "400.000 €"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei einer Vollmacht zu einem bestimmten Geschäft ist die Hälfte des Werts des Hauptgeschäfts maßgeblich (§ 98 Abs. 1 GNotKG), hier 200.000 €. Wegen § 38 GNotKG bleiben Verbindlichkeiten wie abzulösende Grundpfanddarlehen außer Betracht; 150.000 € ergäbe sich nur bei unzulässigem Schuldenabzug."
+ },
+ {
+  "id": "kost3-047",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Vollmachten und Zustimmungen (§ 98 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-vollmachten-und-zustimmungen-98-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 98 Abs. 1 GNotKG",
+   "§ 98 Abs. 2 GNotKG"
+  ],
+  "frage": "Die Zustimmung des WEG-Verwalters zum Verkauf einer Eigentumswohnung ist mit der Hälfte des vollen Werts des Kaufvertrags anzusetzen, nicht mit einem Teilwert nach § 98 Abs. 2 GNotKG.",
+  "antwort": true,
+  "erklaerung": "Die Verwalterzustimmung beruht nicht auf einer Mitberechtigung; der Verwalter ist nur mittelbar beteiligt. Maßgeblich ist daher die Hälfte des vollen Werts des Geschäfts nach § 98 Abs. 1 GNotKG. Die Ermäßigung auf den Bruchteil nach § 98 Abs. 2 GNotKG setzt eine gegenwärtige oder künftige Mitberechtigung voraus."
+ },
+ {
+  "id": "kost3-048",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Vollmachten und Zustimmungen (§ 98 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-vollmachten-und-zustimmungen-98-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 98 Abs. 4 GNotKG",
+   "§ 98 Abs. 1 GNotKG"
+  ],
+  "frage": "Eine Spezialvollmacht bezieht sich auf den Verkauf eines Bürogebäudes für 3 Mio. €. Welcher Wert ist anzusetzen?",
+  "optionen": [
+   "1 Mio. €, weil der Höchstwert auf den ungekürzten Wert anzuwenden ist und dieser 3 Mio. € beträgt",
+   "1 Mio. €, weil der Höchstwert sich auf den halbierten Wert von 1,5 Mio. € bezieht",
+   "1,5 Mio. €, weil Spezialvollmachten keinem Höchstwert unterliegen",
+   "500.000 €, weil der Höchstwert vor der Halbierung greift"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Höchstwert von 1 Mio. € nach § 98 Abs. 4 GNotKG bezieht sich auf den bereits halbierten Wert nach § 98 Abs. 1 GNotKG: Die Hälfte von 3 Mio. € sind 1,5 Mio. €, gekappt auf 1 Mio. €. Die Höchstgrenze auf den ungekürzten Wert anzuwenden und danach zu halbieren (500.000 €) ist der typische Fehler."
+ },
+ {
+  "id": "kost3-049",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Vollmachten und Zustimmungen (§ 98 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-vollmachten-und-zustimmungen-98-gnotkg",
+  "typ": "fall",
+  "frage": "Nachgenehmigung einer Grundschuld durch Miteigentümer",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 98 Abs. 1 GNotKG",
+   "§ 98 Abs. 2 GNotKG"
+  ],
+  "sachverhalt": "Die Eheleute M und F sind je zur Hälfte Miteigentümer eines Hauses. M bestellt eine Grundschuld über 300.000 € und übernimmt zugleich die persönliche Haftung; F war bei der Beurkundung nicht anwesend und genehmigt später, einschließlich der persönlichen Haftungsübernahme. In einem anderen Vorgang verkaufen M und F ein Grundstück; F genehmigt die Bestellung der Finanzierungsgrundschuld des Käufers über 200.000 €, die M auch in ihrem Namen erklärt hat.",
+  "schritte": [
+   {
+    "frage": "Welcher Wert gilt für die Genehmigung der F im ersten Vorgang?",
+    "optionen": [
+     "75.000 € (Hälfte des halbierten Werts wegen hälftiger Mitberechtigung)",
+     "150.000 € (Hälfte des vollen Haftungsbetrags)",
+     "300.000 € (voller Haftungsbetrag)",
+     "5.000 € nach § 36 Abs. 3 GNotKG"
+    ],
+    "antwort": 1,
+    "erklaerung": "Genehmigt ein Miteigentümer eine Grundschuldbestellung mit persönlicher Haftungsübernahme, zählt der volle Betrag der übernommenen Haftung, halbiert nach § 98 Abs. 1 GNotKG. Eine Kürzung nach § 98 Abs. 2 GNotKG entfällt, weil die persönliche Haftung regelmäßig gesamtschuldnerisch auf den ganzen Betrag geht."
+   },
+   {
+    "frage": "Welcher Wert gilt für die Genehmigung der F zur Finanzierungsgrundschuld des Käufers?",
+    "optionen": [
+     "100.000 € (Hälfte nach § 98 Abs. 1 GNotKG ohne weitere Kürzung)",
+     "50.000 € (zusätzlich gekürzt auf den Bruchteil der Mitberechtigung nach § 98 Abs. 2 GNotKG)",
+     "200.000 € (voller Nennbetrag)",
+     "Kein Wert, da die Genehmigung mit dem Kaufvertrag gegenstandsgleich ist"
+    ],
+    "antwort": 1,
+    "erklaerung": "Bei der Finanzierungsgrundschuld des Käufers haften die verkaufenden Miteigentümer nicht persönlich, sondern dulden nur die Vollstreckung in ihren Anteil. Dann greift § 98 Abs. 2 GNotKG: Der nach § 98 Abs. 1 GNotKG halbierte Wert wird auf den Bruchteil der Mitberechtigung ermäßigt."
+   }
+  ],
+  "erklaerung": "Entscheidend ist, ob der genehmigende Miteigentümer gesamtschuldnerisch persönlich haftet. Bei persönlicher Haftungsübernahme bleibt es bei der Halbierung nach § 98 Abs. 1 GNotKG; bei bloßer Duldung der Vollstreckung in den eigenen Anteil (Finanzierungsgrundschuld) ist zusätzlich nach § 98 Abs. 2 GNotKG auf den Bruchteil zu kürzen."
+ },
+ {
+  "id": "kost3-050",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Vollzug, Betreuung und weitere Einzelvorschriften (§§ 104, 112–124 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-vollzug-betreuung-und-weitere-einzelvorschriften-104-112-124-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 112 GNotKG",
+   "§ 113 Abs. 1 GNotKG",
+   "§ 94 GNotKG"
+  ],
+  "frage": "Aus welchem Wert werden Vollzugs- und Betreuungsgebühr berechnet, wenn für die Verfahrensgebühr eine Vergleichsberechnung nach § 94 GNotKG mit Aufteilung erfolgt ist?",
+  "optionen": [
+   "Aus den aufgeteilten Teilwerten der Vergleichsberechnung",
+   "Einmal aus dem vollen Wert des Beurkundungsverfahrens",
+   "Nur aus dem Wert des Hauptgegenstands",
+   "Aus der Hälfte des Verfahrenswerts"
+  ],
+  "antwort": 1,
+  "erklaerung": "Für Vollzugs- und Betreuungsgebühr ist der volle Wert des Beurkundungsverfahrens maßgeblich (§ 112, § 113 Abs. 1 GNotKG). Eine Aufteilung durch Vergleichsberechnung nach § 94 GNotKG betrifft nur die Verfahrensgebühr; Vollzugs- und Betreuungsgebühr werden einmal aus dem Gesamtwert erhoben. Die Berechnung aus Teilwerten ist der typische Fehler."
+ },
+ {
+  "id": "kost3-051",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Vollzug, Betreuung und weitere Einzelvorschriften (§§ 104, 112–124 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-vollzug-betreuung-und-weitere-einzelvorschriften-104-112-124-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 104 Abs. 1 GNotKG",
+   "§ 100 Abs. 1 GNotKG",
+   "§ 111 Nr. 4 GNotKG"
+  ],
+  "frage": "Ausländische Käufer-Eheleute wählen anlässlich eines Grundstückskaufs in derselben Urkunde deutsches Güterrecht. Wovon sind die 30 % für die Rechtswahl zu berechnen?",
+  "optionen": [
+   "Vom Wert des gekauften Grundstücks, da die Rechtswahl anlässlich des Kaufs erfolgt",
+   "Vom vollen modifizierten Reinvermögen nach § 100 Abs. 1 GNotKG",
+   "Von gar keinem Wert, da die Rechtswahl mit dem Kaufvertrag gegenstandsgleich ist",
+   "Vom Wert nach § 100 Abs. 2 GNotKG für einzelne Gegenstände"
+  ],
+  "antwort": 1,
+  "erklaerung": "Eine auf einzelne Gegenstände beschränkte güterrechtliche Rechtswahl ist nach Art. 22 EuGüVO nicht mehr möglich; das Güterrechtsstatut ist nur insgesamt wählbar. Bezugswert ist daher das volle modifizierte Reinvermögen nach § 100 Abs. 1 GNotKG, auch beim Grundstückskauf. Die Rechtswahl ist stets ein besonderer Gegenstand (§ 111 Nr. 4 GNotKG) und erhöht den Geschäftswert."
+ },
+ {
+  "id": "kost3-052",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Vollzug, Betreuung und weitere Einzelvorschriften (§§ 104, 112–124 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-vollzug-betreuung-und-weitere-einzelvorschriften-104-112-124-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 114 GNotKG",
+   "§ 96 GNotKG"
+  ],
+  "frage": "Bei der Rückgabe eines Erbvertrags aus der notariellen Verwahrung ist der Wert maßgeblich, der sich zum Zeitpunkt der ursprünglichen Beurkundung des Erbvertrags ergab.",
+  "antwort": false,
+  "erklaerung": "Maßgeblich ist der Wert, der sich bei Rückgabe für die Beurkundung des Erbvertrags ergäbe (§ 114 GNotKG i. V. m. § 102 Abs. 1 bis 3 GNotKG); nach § 96 GNotKG kommt es auf den Zeitpunkt der Rückgabe an, nicht der Beurkundung. Bedeutung hat das für die Anrechnung der Rückgabegebühr auf eine anschließende neue Verfügung von Todes wegen."
+ },
+ {
+  "id": "kost3-053",
+  "kapitel": "notarkosten",
+  "abschnitt": "Geschäftswert: Allgemeine Vorschriften",
+  "seite": "Geschäftswert: Vollzug, Betreuung und weitere Einzelvorschriften (§§ 104, 112–124 GNotKG)",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-vollzug-betreuung-und-weitere-einzelvorschriften-104-112-124-gnotkg",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 115 GNotKG",
+   "§ 119 Abs. 2 GNotKG",
+   "§ 122 GNotKG",
+   "§ 124 GNotKG"
+  ],
+  "frage": "Ordne den notariellen Geschäften die Regel für ihren Geschäftswert zu.",
+  "paare": [
+   [
+    "Notarielles Nachlassverzeichnis",
+    "Summe der Werte der verzeichneten Gegenstände"
+   ],
+   [
+    "Serienentwurf eines Musterkaufvertrags",
+    "Hälfte des Gesamtwerts der geplanten Einzelgeschäfte"
+   ],
+   [
+    "Rangbescheinigung",
+    "Wert des beantragten Rechts"
+   ],
+   [
+    "Verwahrung von Geld auf Anderkonto",
+    "Jeweils ausgezahlter Betrag"
+   ]
+  ],
+  "erklaerung": "Für Vermögensverzeichnisse gilt die Summe der verzeichneten Gegenstände (§ 115 GNotKG), für Serienentwürfe die Hälfte des Gesamtwerts der bei Entwurfsfertigung geplanten Einzelgeschäfte (§ 119 Abs. 2 GNotKG), für Rangbescheinigungen der Wert des beantragten Rechts (§ 122 GNotKG) und für die Verwahrung von Geld der jeweils ausgezahlte Betrag (§ 124 S. 1 GNotKG)."
  }
 ]
