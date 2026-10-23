@@ -1326,5 +1326,266 @@
   "abschnitt": "Grundlagen, Form und Geldwäsche",
   "seite": "Grundstückskaufvertrag: Mindestinhalt und Bezeichnung des Grundbesitzes",
   "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/grundstuckskaufvertrag-mindestinhalt-und-bezeichnung-des-grundbesitzes"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 883 Abs. 2 S. 1 BGB"
+  ],
+  "frage": "Wodurch wird beim Grundstückskaufvertrag der Verkäufer davor geschützt, sein Eigentum vor Erhalt des Kaufpreises zu verlieren?",
+  "optionen": [
+   "Durch die Eigentumsvormerkung des Käufers",
+   "Durch eine Umschreibungssperre: Der Notar leitet die Umschreibung erst nach Bestätigung des Kaufpreiseingangs durch den Verkäufer ein",
+   "Durch Zahlung Zug um Zug gegen Eigentumsumschreibung nach § 320 BGB",
+   "Durch die Vollstreckungsunterwerfung des Käufers"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Verkäufer ist durch die Umschreibungssperre geschützt: Der Notar leitet die Eigentumsumschreibung erst ein, wenn der Verkäufer den Eingang des gesamten Kaufpreises bestätigt hat. Die Vormerkung (§ 883 Abs. 2 S. 1 BGB) sichert dagegen den Käufer. Ein Austausch Zug um Zug gegen Umschreibung ist praktisch nicht erreichbar, weil der Notar den Umschreibungszeitpunkt nicht beeinflussen kann.",
+  "id": "kauf2-058",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Grundstückskaufvertrag: Vorleistungsrisiko, Vormerkungsschutz und Ablauf",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/grundstuckskaufvertrag-vorleistungsrisiko-vormerkungsschutz-und-ablauf"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 17 Abs. 1 S. 1 BeurkG"
+  ],
+  "frage": "Worin besteht nach ständiger Rechtsprechung des BGH die doppelte Belehrungspflicht des Notars bei einer ungesicherten Vorleistung?",
+  "optionen": [
+   "Belehrung beider Vertragsparteien und Dokumentation in einer gesonderten Urkunde",
+   "Belehrung über die Folgen der Leistungsunfähigkeit des Begünstigten und Aufzeigen von Wegen, diese Risiken zu vermeiden",
+   "Belehrung vor und nochmals nach der Beurkundung",
+   "Belehrung über die zivilrechtlichen und die steuerlichen Folgen der Vorleistung"
+  ],
+  "antwort": 1,
+  "erklaerung": "Aus § 17 Abs. 1 S. 1 BeurkG folgt bei ungesicherten Vorleistungen eine doppelte Belehrungspflicht: Der Notar belehrt über die Folgen, wenn der durch die Vorleistung Begünstigte leistungsunfähig wird, und zeigt Wege auf, diese Risiken zu vermeiden, etwa die Zahlung erst nach Eintritt der Sicherungsvoraussetzungen. Belehrung und Alternative werden in der Urkunde festgehalten.",
+  "id": "kauf2-059",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Grundstückskaufvertrag: Vorleistungsrisiko, Vormerkungsschutz und Ablauf",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/grundstuckskaufvertrag-vorleistungsrisiko-vormerkungsschutz-und-ablauf"
+ },
+ {
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 17 Abs. 1 S. 1 BeurkG",
+   "§ 883 BGB"
+  ],
+  "frage": "Verzichten die Beteiligten aus Kostengründen auf die Eintragung der Eigentumsvormerkung, genügt ein Vermerk über den Verzichtswunsch; eine Belehrung über die Risiken ist nicht erforderlich, wenn zwischen den Parteien ein Vertrauensverhältnis besteht.",
+  "antwort": false,
+  "erklaerung": "Beim Verzicht auf die Vormerkung leistet der Erwerber ungesichert vor; er ist daher nach § 17 Abs. 1 S. 1 BeurkG doppelt zu belehren, auch bei niedrigem Kaufpreis oder Vertrauensverhältnis. Typischer Fehler ist gerade der Verzicht ohne doppelte Belehrung und ohne Vermerk in der Urkunde.",
+  "id": "kauf2-060",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Grundstückskaufvertrag: Vorleistungsrisiko, Vormerkungsschutz und Ablauf",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/grundstuckskaufvertrag-vorleistungsrisiko-vormerkungsschutz-und-ablauf"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 310 Abs. 3 BGB",
+   "§ 13 BGB",
+   "§ 14 BGB"
+  ],
+  "frage": "Wann ist ein Grundstückskaufvertrag ein Verbrauchervertrag im Sinne des § 310 Abs. 3 BGB?",
+  "optionen": [
+   "Wenn mindestens eine Vertragspartei eine natürliche Person ist",
+   "Wenn auf der einen Seite ein Unternehmer und auf der anderen ein Verbraucher steht",
+   "Wenn beide Parteien Verbraucher sind",
+   "Wenn ein Makler an der Vermittlung beteiligt war"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 310 Abs. 3 Einleitungssatz BGB ist Verbrauchervertrag ein Vertrag zwischen einem Unternehmer (§ 14 BGB) und einem Verbraucher (§ 13 BGB). Ein Vertrag zwischen zwei Verbrauchern ist keiner; auch eine bloß deklaratorische Maklerklausel macht den Vertrag nicht zum Verbrauchervertrag. Die Einordnung entscheidet über das Verfahren nach § 17 Abs. 2a S. 2 BeurkG.",
+  "id": "kauf2-061",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Verbrauchervertrag beim Grundstückskauf: Begriff und Verbrauchereigenschaft",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/verbrauchervertrag-beim-grundstuckskauf-begriff-und-verbrauchereigenschaft"
+ },
+ {
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 13 BGB",
+   "§ 14 BGB",
+   "§ 9a Abs. 1 WEG"
+  ],
+  "frage": "Ordne den Beteiligten seiner Einordnung beim Grundstückskauf zu.",
+  "paare": [
+   [
+    "GmbH, die ein Grundstück erwirbt",
+    "Stets Unternehmer"
+   ],
+   [
+    "Nebenerwerbslandwirt, der eine Ackerfläche zur Bewirtschaftung kauft",
+    "Unternehmer in Ausübung selbständiger Tätigkeit"
+   ],
+   [
+    "Gemeinschaft der Wohnungseigentümer mit mindestens einem Verbraucher-Mitglied beim Grundstückskauf",
+    "Als Unternehmer zu behandeln, weil die Norm an die Umstände des Vertragsschlusses anknüpft"
+   ],
+   [
+    "Gemeinde, die ausschließlich öffentliche Zwecke verfolgt",
+    "Kein Unternehmer"
+   ]
+  ],
+  "erklaerung": "Juristische Personen sind stets Unternehmer (§ 14 BGB). Landwirte einschließlich Nebenerwerbslandwirte handeln beim Erwerb zur Bewirtschaftung als Unternehmer. Die rechtsfähige WEG-Gemeinschaft (§ 9a Abs. 1 WEG) ist zwar grundsätzlich Verbraucher, wenn ein Mitglied Verbraucher ist, beim Grundstückskaufvertrag aber nach dem BGH als Unternehmer zu behandeln. Die öffentliche Hand ist nur bei fiskalischen oder gewerblichen Zwecken Unternehmer.",
+  "id": "kauf2-062",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Verbrauchervertrag beim Grundstückskauf: Begriff und Verbrauchereigenschaft",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/verbrauchervertrag-beim-grundstuckskauf-begriff-und-verbrauchereigenschaft"
+ },
+ {
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 13 BGB"
+  ],
+  "frage": "Eine rein vermögensverwaltende GbR, deren Gesellschafter zwei Verbraucher und eine GmbH sind, kann beim Grundstückskauf Verbraucher sein.",
+  "antwort": false,
+  "erklaerung": "Eine Außen-GbR kann nach der Rechtsprechung Verbraucher sein, wenn alle Gesellschafter Verbraucher sind und die Gesellschaft nur Vermögen verwaltet; juristische Personen dürfen ihr nicht angehören. Mit einer GmbH als Gesellschafterin scheidet die Verbrauchereigenschaft daher aus. Das MoPeG hat daran nichts geändert.",
+  "id": "kauf2-063",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Verbrauchervertrag beim Grundstückskauf: Begriff und Verbrauchereigenschaft",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/verbrauchervertrag-beim-grundstuckskauf-begriff-und-verbrauchereigenschaft"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 13 BGB",
+   "§ 17 Abs. 2a S. 2 BeurkG"
+  ],
+  "frage": "Ein Berufsbetreuer verkauft für die betreute Rentnerin deren Wohnhaus an eine Bauträger-GmbH. Wie ist der Vertrag einzuordnen?",
+  "optionen": [
+   "Kein Verbrauchervertrag, weil der Berufsbetreuer gewerblich handelt",
+   "Verbrauchervertrag, weil es auf die Verbrauchereigenschaft der Vertretenen ankommt",
+   "Kein Verbrauchervertrag, weil die Verbraucherin Veräußerin ist",
+   "Verbrauchervertrag nur, wenn der Notar Zweifel hat"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei Stellvertretung kommt es für die Verbrauchereigenschaft grundsätzlich auf den Vertretenen an, auch wenn ein Berufsbetreuer als gesetzlicher Vertreter handelt. Die Verfahrensregeln des § 17 Abs. 2a S. 2 BeurkG gelten unabhängig davon, ob der Verbraucher Veräußerer oder Erwerber ist.",
+  "id": "kauf2-064",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Verbrauchervertrag beim Grundstückskauf: Begriff und Verbrauchereigenschaft",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/verbrauchervertrag-beim-grundstuckskauf-begriff-und-verbrauchereigenschaft"
+ },
+ {
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 17 Abs. 2a S. 2 Nr. 2 BeurkG",
+   "§ 187 Abs. 1 BGB",
+   "§ 188 Abs. 2 BGB"
+  ],
+  "frage": "Entwurfsversand an den Verbraucher",
+  "sachverhalt": "Die Bauträger B-GmbH verkauft an den Verbraucher K eine Eigentumswohnung. Der Makler M hat K den Entwurf bereits vor drei Wochen per E-Mail weitergeleitet. Der Notar versendet den vollständigen Entwurf samt Teilungserklärung und Baubeschreibung erst am Montag, dem 2. März 2026, per E-Mail an K; eine Unzustellbarkeitsmeldung kommt nicht zurück. Kurz vor dem Termin soll der Fertigstellungstermin um ein Jahr nach hinten verschoben werden.",
+  "schritte": [
+   {
+    "frage": "Hat die Weiterleitung durch M die Zwei-Wochen-Frist in Gang gesetzt?",
+    "optionen": [
+     "Ja, maßgeblich ist allein, dass K den Text erhalten hat",
+     "Nein, der Entwurf muss unmittelbar vom beurkundenden Notar oder seinem Sozius zur Verfügung gestellt werden",
+     "Ja, wenn M den Entwurf vom Notar erhalten hatte",
+     "Nein, weil der Versand per E-Mail unzulässig ist"
+    ],
+    "antwort": 1,
+    "erklaerung": "Nach § 17 Abs. 2a S. 2 Nr. 2 BeurkG erhält der Verbraucher den Entwurf unmittelbar vom Notar oder dessen Sozius; die Weitergabe durch Unternehmer, Makler oder andere Beteiligte genügt nicht. Das ist der typische Fehler. Versand per E-Mail ist dagegen zulässig."
+   },
+   {
+    "frage": "Wann ist die Beurkundung bei unverändertem Entwurf frühestens möglich?",
+    "optionen": [
+     "Am Montag, 16. März 2026",
+     "Am Dienstag, 17. März 2026",
+     "Am Montag, 2. März 2026, wenn K verzichtet",
+     "Am Mittwoch, 18. März 2026"
+    ],
+    "antwort": 1,
+    "erklaerung": "Die Zwei-Wochen-Frist ist eine Ereignisfrist (§ 187 Abs. 1, § 188 Abs. 2 BGB). Bei E-Mail-Versand kann der Zugang am Versandtag angenommen werden; die Frist beginnt am Folgetag, endet mit Ablauf des Montags, 16. März 2026, und die Beurkundung ist frühestens am Dienstag, 17. März 2026, möglich."
+   },
+   {
+    "frage": "Welche Folge kann die Verschiebung des Fertigstellungstermins um ein Jahr haben?",
+    "optionen": [
+     "Keine, solange Kaufpreis und Vertragsgegenstand gleich bleiben",
+     "Sie kann als wesentliche Änderung zum Nachteil des Verbrauchers eine neue 14-Tages-Frist in Gang setzen",
+     "Sie macht den Vertrag zu einem Vertrag zwischen Unternehmern",
+     "Sie ist nur durch Nachtragsurkunde nach der Beurkundung möglich"
+    ],
+    "antwort": 1,
+    "erklaerung": "Wesentliche nachträgliche Änderungen des versandten Entwurfs, vor allem zum Nachteil des Verbrauchers, können eine neue 14-Tages-Frist auslösen; beim Bauträgervertrag ist eine erhebliche Verschiebung des Fertigstellungstermins ein Beispiel. Die Wesentlichkeit sollte nicht vorschnell verneint werden."
+   }
+  ],
+  "erklaerung": "Die Frist läuft erst ab dem Versand durch den Notar selbst; die Weiterleitung durch den Makler zählt nicht. Bei E-Mail-Versand am 2. März 2026 ist die Beurkundung frühestens am 17. März 2026 möglich. Die erhebliche Verschiebung des Fertigstellungstermins ist eine wesentliche nachteilige Änderung, die eine neue Frist auslösen kann.",
+  "id": "kauf2-065",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Verbrauchervertrag beim Grundstückskauf: Verfahren nach § 17 Abs. 2a S. 2 BeurkG und materielle Folgen",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/verbrauchervertrag-beim-grundstuckskauf-verfahren-nach-17-abs-2a-s-2-beurkg-und-materielle-folgen"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 17 Abs. 2a S. 2 Nr. 1 BeurkG"
+  ],
+  "frage": "Wer kommt als Vertrauensperson des Verbrauchers im Sinne von § 17 Abs. 2a S. 2 Nr. 1 BeurkG in Betracht?",
+  "optionen": [
+   "Der Makler, der den Vertrag vermittelt hat",
+   "Ein Familienangehöriger oder der Vorsorgebevollmächtigte des Verbrauchers",
+   "Der Geschäftsführer des verkaufenden Unternehmers",
+   "Ein Miterbe, der nur aus Termingründen vollmachtlos für einen anderen Miterben handelt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Vertrauenspersonen sind etwa Familienangehörige oder der Vorsorgebevollmächtigte; Unternehmer und Makler können den Verbraucher nicht vertreten. Ein Miterbe, der einen anderen nur aus Termingründen vollmachtlos vertritt, ist eher keine Vertrauensperson. Der Notar muss zudem aktiv auf persönliches Erscheinen hinwirken; ein pauschaler Hinweis reicht in der Regel nicht.",
+  "id": "kauf2-066",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Verbrauchervertrag beim Grundstückskauf: Verfahren nach § 17 Abs. 2a S. 2 BeurkG und materielle Folgen",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/verbrauchervertrag-beim-grundstuckskauf-verfahren-nach-17-abs-2a-s-2-beurkg-und-materielle-folgen"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 17 Abs. 2a S. 2 Nr. 2 BeurkG"
+  ],
+  "frage": "Welcher Entwurf genügt den Anforderungen an den „beabsichtigten Text des Rechtsgeschäfts“ nach § 17 Abs. 2a S. 2 Nr. 2 BeurkG?",
+  "optionen": [
+   "Ein Entwurf, in dem nur der Kaufpreis noch offen ist, weil die Parteien noch verhandeln",
+   "Ein vollständiger Entwurf, zusammen mit den Bezugsurkunden wie Teilungserklärung und Baubeschreibung",
+   "Ein vollständiger Entwurf ohne Bezugsurkunden, wenn diese im Termin verlesen werden",
+   "Ein Mustervertrag des Notariats mit Platzhaltern für Beteiligte und Objekt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Verbraucher muss den beabsichtigten Text erhalten; ein Entwurf mit offenen wesentlichen Punkten wie Kaufpreis, Vertragsgegenstand oder Beteiligten reicht nicht. Nimmt der Vertrag auf andere Urkunden Bezug, etwa Teilungserklärung oder Baubeschreibung, gehören diese mit in den Versand.",
+  "id": "kauf2-067",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Verbrauchervertrag beim Grundstückskauf: Verfahren nach § 17 Abs. 2a S. 2 BeurkG und materielle Folgen",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/verbrauchervertrag-beim-grundstuckskauf-verfahren-nach-17-abs-2a-s-2-beurkg-und-materielle-folgen"
+ },
+ {
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 17 Abs. 2a S. 2 BeurkG"
+  ],
+  "frage": "Die Besonderheiten beim Ausschluss der Sachmängelhaftung im Verbrauchervertrag greifen nur, wenn der Verbraucher auf der Erwerberseite steht.",
+  "antwort": true,
+  "erklaerung": "Die materiellen Besonderheiten für den Haftungsausschluss bei Sachmängeln gelten nur, wenn der Verbraucher Erwerber ist. Anders die Verfahrensregeln des § 17 Abs. 2a S. 2 BeurkG: Sie gelten bei jedem Verbrauchervertrag, gleich ob der Verbraucher Veräußerer oder Erwerber ist.",
+  "id": "kauf2-068",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Grundlagen, Form und Geldwäsche",
+  "seite": "Verbrauchervertrag beim Grundstückskauf: Verfahren nach § 17 Abs. 2a S. 2 BeurkG und materielle Folgen",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/verbrauchervertrag-beim-grundstuckskauf-verfahren-nach-17-abs-2a-s-2-beurkg-und-materielle-folgen"
  }
 ]

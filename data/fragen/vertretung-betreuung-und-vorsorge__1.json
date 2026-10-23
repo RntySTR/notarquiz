@@ -597,5 +597,266 @@
    ]
   ],
   "erklaerung": "§ 1851 BGB fasst die erbrechtlichen Geschäfte zusammen: Ausschlagung, Anfechtung der Erbschaftsannahme und Erbteilung in Nr. 1, die Abschichtung nach der Gesetzesbegründung in Nr. 3. § 1854 Nr. 6 BGB betrifft Vergleich und Schiedsvereinbarung, Nr. 7 die Aufhebung oder Minderung von Sicherheiten. § 1848 BGB regelt die Vermögensanlage; beim Grundstückserwerb umfasst die Genehmigung nach § 1850 Nr. 6 BGB nach der Gesetzesbegründung auch die nach § 1848 BGB."
+ },
+ {
+  "id": "vert1-027",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vertretungsausschluss und Zuwendungen",
+  "seite": "Gesetzliche Vertretung in der Urkunde: Nachweis, Prüfung und höchstpersönliche Geschäfte",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/gesetzliche-vertretung-in-der-urkunde-nachweis-prufung-und-hochstpersonliche-geschafte",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 290 FamFG",
+   "§ 172 BGB"
+  ],
+  "frage": "Legt der Betreuer seine Bestellungsurkunde im Original vor, ist der Vertragspartner entsprechend § 172 BGB geschützt, wenn der Aufgabenkreis nachträglich eingeschränkt wurde.",
+  "antwort": false,
+  "erklaerung": "Die Bestellungsurkunde (§ 290 FamFG) genießt keinen öffentlichen Glauben und erzeugt keinen Rechtsschein. § 172 BGB ist nicht anwendbar; auch das vorgelegte Original schützt den Vertragspartner nicht, wenn das Amt nicht besteht oder der Aufgabenkreis eingeschränkt wurde. Das Risiko fehlender Vertretungsmacht trägt der Erklärungsempfänger."
+ },
+ {
+  "id": "vert1-028",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vertretungsausschluss und Zuwendungen",
+  "seite": "Gesetzliche Vertretung in der Urkunde: Nachweis, Prüfung und höchstpersönliche Geschäfte",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/gesetzliche-vertretung-in-der-urkunde-nachweis-prufung-und-hochstpersonliche-geschafte",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1411 Abs. 1 S. 3 BGB",
+   "§ 1411 Abs. 2 BGB"
+  ],
+  "frage": "Ein geschäftsfähiger Betreuter ohne Einwilligungsvorbehalt möchte einen Ehevertrag schließen. Wer muss die Erklärung abgeben?",
+  "optionen": [
+   "Der Betreuer, sofern der Aufgabenkreis Vermögenssorge umfasst.",
+   "Der Betreute selbst; eine gesetzliche Vertretung ist hier nur bei Geschäftsunfähigkeit oder Einwilligungsvorbehalt zulässig.",
+   "Ein vom Betreuten bevollmächtigter Dritter aufgrund notarieller Vollmacht.",
+   "Der Betreuer mit Genehmigung des Betreuungsgerichts."
+  ],
+  "antwort": 1,
+  "erklaerung": "Beim Ehevertrag ist eine Bevollmächtigung ausgeschlossen, eine gesetzliche Vertretung nur zulässig, wenn der Vertretene geschäftsunfähig ist oder ein Einwilligungsvorbehalt besteht (§ 1411 Abs. 1 S. 3, Abs. 2 BGB). Die Betreuerbestellung ändert die Geschäftsfähigkeit nicht. Ein geschäftsfähiger Betreuter ohne Einwilligungsvorbehalt muss daher selbst handeln; eine Vertretung durch den Betreuer, auch mit Genehmigung, scheidet aus."
+ },
+ {
+  "id": "vert1-029",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vertretungsausschluss und Zuwendungen",
+  "seite": "Gesetzliche Vertretung in der Urkunde: Nachweis, Prüfung und höchstpersönliche Geschäfte",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/gesetzliche-vertretung-in-der-urkunde-nachweis-prufung-und-hochstpersonliche-geschafte",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2064 BGB",
+   "§ 2296 Abs. 1 BGB",
+   "§ 2347 BGB",
+   "§ 1596 BGB"
+  ],
+  "frage": "Ordne die Geschäfte der Vertretungsregel zu (gesetzliche Vertretung „ausgeschlossen“ oder „nur bei Geschäftsunfähigkeit/Einwilligungsvorbehalt zulässig“).",
+  "paare": [
+   [
+    "Testament des Erblassers (§ 2064 BGB)",
+    "Gesetzliche Vertretung ausgeschlossen"
+   ],
+   [
+    "Rücktritt des Erblassers vom Erbvertrag (§ 2296 Abs. 1 BGB)",
+    "Gesetzliche Vertretung ausgeschlossen – Rücktritt"
+   ],
+   [
+    "Erbverzicht auf Seiten des Erblassers (§ 2347 BGB)",
+    "Nur bei Geschäftsunfähigkeit oder Einwilligungsvorbehalt – Verzicht"
+   ],
+   [
+    "Vaterschaftsanerkennung (§ 1596 BGB)",
+    "Nur bei Geschäftsunfähigkeit oder Einwilligungsvorbehalt – Abstammung"
+   ]
+  ],
+  "erklaerung": "Verfügungen von Todes wegen (§§ 2064, 2274 BGB), der Rücktritt vom Erbvertrag (§ 2296 Abs. 1 BGB), Adoptionsantrag und -einwilligungen sind streng höchstpersönlich; eine gesetzliche Vertretung ist ausgeschlossen. Bei Ehevertrag, Vaterschaftsanerkennung, Erb-, Pflichtteils- und Zuwendungsverzicht des Erblassers und Anfechtung des Erbvertrags ist nur die Bevollmächtigung ausgeschlossen; der gesetzliche Vertreter darf bei Geschäftsunfähigkeit oder Einwilligungsvorbehalt handeln. Für das Kausalgeschäft zum Erbverzicht gilt anderes."
+ },
+ {
+  "id": "vert1-030",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vertretungsausschluss und Zuwendungen",
+  "seite": "Gesetzliche Vertretung in der Urkunde: Nachweis, Prüfung und höchstpersönliche Geschäfte",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/gesetzliche-vertretung-in-der-urkunde-nachweis-prufung-und-hochstpersonliche-geschafte",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 12 BeurkG",
+   "§ 17 BeurkG"
+  ],
+  "frage": "Zur Beurkundung eines Grundstücksverkaufs erscheint eine Betreute; der Notar weiß von der Betreuung, ihre Geschäftsfähigkeit ist zweifelhaft. Welches Vorgehen empfiehlt das Handbuch?",
+  "optionen": [
+   "Nur die Betreute handeln lassen, weil die Betreuerbestellung ihre Geschäftsfähigkeit nicht berührt.",
+   "Nur den Betreuer handeln lassen, weil die Betreute möglicherweise geschäftsunfähig ist.",
+   "Betreute und Betreuer gemeinsam mitwirken lassen; die Vertretungsmacht des Betreuers hängt nicht von der Geschäftsfähigkeit der Betreuten ab.",
+   "Die Beurkundung bis zur Vorlage eines fachärztlichen Gutachtens ablehnen."
+  ],
+  "antwort": 2,
+  "erklaerung": "Bei Zweifeln an der Geschäftsfähigkeit sollen Betreuter und Betreuer gemeinsam mitwirken; weiß der Notar von einer Betreuung, beteiligt er den Betreuer stets, weil dessen Vertretungsmacht unabhängig von der Geschäftsfähigkeit des Betreuten besteht. Handelt nur die Betreute, droht bei Geschäftsunfähigkeit die Nichtigkeit; handelt nur der Betreuer, bleibt die Prüfung der Vertretungsmacht nach §§ 12, 17 BeurkG dennoch erforderlich, die gemeinsame Mitwirkung sichert beide Wege ab."
+ },
+ {
+  "id": "vert1-031",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vertretungsausschluss und Zuwendungen",
+  "seite": "Minderjährige in Gesellschaften: Beschlüsse und Änderungen in der laufenden Gesellschaft",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/minderjahrige-in-gesellschaften-beschlusse-und-anderungen-in-der-laufenden-gesellschaft",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1629 Abs. 2 BGB",
+   "§ 1824 BGB",
+   "§ 181 BGB"
+  ],
+  "frage": "In einer Familien-GmbH sind Vater und minderjährige Tochter Gesellschafter. Bei welchem Beschluss ist der Vater von der Vertretung der Tochter ausgeschlossen?",
+  "optionen": [
+   "Feststellung des Jahresabschlusses",
+   "Zustimmung zu einer nach dem Gesellschaftsvertrag zustimmungsbedürftigen Geschäftsführungsmaßnahme",
+   "Bestellung des Vaters zum Geschäftsführer",
+   "Beschluss über eine laufende gemeinsame Gesellschaftsangelegenheit"
+  ],
+  "antwort": 2,
+  "erklaerung": "Beschlüsse über laufende Angelegenheiten und die Geschäftsführung, etwa die Feststellung des Jahresabschlusses oder Zustimmungen zu Geschäftsführungsmaßnahmen, sind vom Vertretungsausschluss nicht erfasst. Bei Grundlagenbeschlüssen ist der Vertreter dagegen ausgeschlossen (BGHZ 65, 93); dazu gehört ausdrücklich die Bestellung des gesetzlichen Vertreters zum Geschäftsführer, ebenso Satzungsänderung, Auflösung und Umwandlung (§§ 1629 Abs. 2, 1824, 181 BGB)."
+ },
+ {
+  "id": "vert1-032",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vertretungsausschluss und Zuwendungen",
+  "seite": "Minderjährige in Gesellschaften: Beschlüsse und Änderungen in der laufenden Gesellschaft",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/minderjahrige-in-gesellschaften-beschlusse-und-anderungen-in-der-laufenden-gesellschaft",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1824 BGB",
+   "§ 1809 BGB"
+  ],
+  "frage": "Besteht für einen minderjährigen Gesellschafter ein Vertretungsausschluss, sind die ohne Ladung des Ergänzungspflegers gefassten Grundlagenbeschlüsse lediglich anfechtbar.",
+  "antwort": false,
+  "erklaerung": "Besteht ein Vertretungsausschluss, ist der Ergänzungspfleger zur Gesellschafterversammlung zu laden; nur so ist sie wirksam einberufen. Ohne eine solche Einladung gefasste Beschlüsse sind nichtig, nicht bloß anfechtbar. Typischer Fehler ist die Einladung nur der Eltern trotz Vertretungsausschlusses."
+ },
+ {
+  "id": "vert1-033",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vertretungsausschluss und Zuwendungen",
+  "seite": "Minderjährige in Gesellschaften: Beschlüsse und Änderungen in der laufenden Gesellschaft",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/minderjahrige-in-gesellschaften-beschlusse-und-anderungen-in-der-laufenden-gesellschaft",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1852 Nr. 1 BGB",
+   "§ 1852 Nr. 2 BGB"
+  ],
+  "frage": "Der Gesellschaftsvertrag einer KG mit einem minderjährigen Kommanditisten soll geändert werden. Welche Änderung bedarf nach BGH und h. M. der familiengerichtlichen Genehmigung?",
+  "optionen": [
+   "Jede Änderung des Gesellschaftsvertrags, weil sie die Rechtsstellung des Minderjährigen berührt.",
+   "Eine Änderung der Gewinnverteilungsabrede.",
+   "Eine Änderung des Gesellschaftszwecks, etwa von reiner Vermögensverwaltung auf ein Erwerbsgeschäft.",
+   "Keine Änderung, weil § 1852 BGB nur für Gründung und Anteilsübertragung gilt."
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach BGH und h. M. sind Änderungen des Gesellschaftsvertrags grundsätzlich nicht nach § 1852 Nr. 1 BGB genehmigungspflichtig. Genehmigungspflichtig ist nur die Änderung des Gesellschaftszwecks, weil sonst § 1852 Nr. 2 BGB umgangen werden könnte, indem eine vermögensverwaltende Gesellschaft später auf ein Erwerbsgeschäft umgestellt wird. Die Annahme, jede Vertragsänderung sei genehmigungspflichtig, widerspricht der h. M."
+ },
+ {
+  "id": "vert1-034",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vertretungsausschluss und Zuwendungen",
+  "seite": "Minderjährige in Gesellschaften: Beschlüsse und Änderungen in der laufenden Gesellschaft",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/minderjahrige-in-gesellschaften-beschlusse-und-anderungen-in-der-laufenden-gesellschaft",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1852 BGB"
+  ],
+  "frage": "Übernimmt ein minderjähriger GmbH-Gesellschafter bei einer Kapitalerhöhung einen neuen Geschäftsanteil, bedarf seine Übernahmeerklärung der familiengerichtlichen Genehmigung, obwohl Satzungsänderungen als solche nicht nach § 1852 BGB genehmigungspflichtig sind.",
+  "antwort": true,
+  "erklaerung": "Für Satzungsänderungen bei Kapitalgesellschaften wird eine Genehmigungspflicht nach § 1852 BGB heute einhellig abgelehnt. Bei Kapitalmaßnahmen kommt es darauf an, ob der Minderjährige einen neuen Anteil übernimmt; dann bedarf die Übernahmeerklärung der familiengerichtlichen Genehmigung. Maßgeblich ist also die Übernahme, nicht der satzungsändernde Beschluss."
+ },
+ {
+  "id": "vert1-035",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vertretungsausschluss und Zuwendungen",
+  "seite": "Minderjährige in Gesellschaften: Vertretung und Genehmigung bei Gründung und Erwerb",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/minderjahrige-in-gesellschaften-vertretung-und-genehmigung-bei-grundung-und-erwerb",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1852 Nr. 2 BGB",
+   "§ 1643 Abs. 1 BGB"
+  ],
+  "frage": "Eltern wollen mit ihrem minderjährigen Sohn eine GbR gründen, die allein das selbstgenutzte Familienwohnhaus und privates Familienvermögen verwaltet und erhält. Bedarf der Gesellschaftsvertrag der familiengerichtlichen Genehmigung nach § 1852 Nr. 2 BGB?",
+  "optionen": [
+   "Ja, jede Gründung einer Gesellschaft unter Beteiligung eines Minderjährigen ist genehmigungsbedürftig.",
+   "Nein, eine Familien-GbR, die nur privates Familienvermögen verwaltet und erhält, betreibt kein Erwerbsgeschäft.",
+   "Ja, weil die Beteiligung schenkweise eingeräumt wird.",
+   "Nein, weil die Beteiligung lediglich rechtlich vorteilhaft ist."
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 1852 Nr. 2 BGB setzt ein Erwerbsgeschäft voraus. Eine Familien-GbR, die nur privates Familienvermögen verwaltet und erhält, erfordert keine Genehmigung; anders, wenn sie dauerhaft wertvolle gewerbliche Immobilien verwaltet, vermietet und verwertet. Ob die Beteiligung entgeltlich oder unentgeltlich ist, spielt keine Rolle; lediglich rechtlich vorteilhaft ist eine Gesellschaftsbeteiligung nie, schon wegen der Treuepflicht. In Zweifelsfällen sollte die Genehmigung vorsorglich eingeholt werden."
+ },
+ {
+  "id": "vert1-036",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vertretungsausschluss und Zuwendungen",
+  "seite": "Minderjährige in Gesellschaften: Vertretung und Genehmigung bei Gründung und Erwerb",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/minderjahrige-in-gesellschaften-vertretung-und-genehmigung-bei-grundung-und-erwerb",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1854 Nr. 4 BGB"
+  ],
+  "frage": "Der Beitritt eines Minderjährigen zu einer Personengesellschaft bedarf wegen der Haftung für Gesellschaftsschulden zusätzlich der Genehmigung nach § 1854 Nr. 4 BGB (Übernahme fremder Verbindlichkeiten).",
+  "antwort": false,
+  "erklaerung": "§ 1854 Nr. 4 BGB setzt voraus, dass das Geschäft unmittelbar darauf zielt, für Schulden eines anderen einzustehen. Die Haftung für Gesellschaftsschulden ist bloße Nebenfolge des Anteilserwerbs. Die frühere Genehmigungspflicht nach § 1822 Nr. 10 BGB aF spielt deshalb keine Rolle mehr; maßgeblich ist § 1852 BGB."
+ },
+ {
+  "id": "vert1-037",
+  "kapitel": "vertretung-betreuung-und-vorsorge",
+  "abschnitt": "Vertretungsausschluss und Zuwendungen",
+  "seite": "Minderjährige in Gesellschaften: Vertretung und Genehmigung bei Gründung und Erwerb",
+  "quelle": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/minderjahrige-in-gesellschaften-vertretung-und-genehmigung-bei-grundung-und-erwerb",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1629 Abs. 2 BGB",
+   "§ 1824 BGB",
+   "§ 1809 BGB",
+   "§ 1852 BGB"
+  ],
+  "frage": "Beitritt zweier Kinder zur väterlichen OHG",
+  "sachverhalt": "Vater V ist neben seinem Bruder B Gesellschafter der V&B OHG, die einen Großhandel betreibt. Seine minderjährigen Kinder K1 und K2 sollen schenkweise als Kommanditisten beitreten; die OHG wird dadurch erst zur KG. Mutter M ist nicht Gesellschafterin. Die Eltern wollen den Vertrag für beide Kinder selbst unterzeichnen.",
+  "schritte": [
+   {
+    "frage": "Können die Eltern K1 und K2 beim Beitritt vertreten?",
+    "optionen": [
+     "Ja, die Mutter allein kann vertreten, weil sie nicht Gesellschafterin ist.",
+     "Ja, weil der schenkweise Beitritt lediglich rechtlich vorteilhaft ist.",
+     "Nein, beide Elternteile sind ausgeschlossen, weil der Vater Gesellschafter ist.",
+     "Ja, beide Eltern gemeinsam mit gerichtlicher Genehmigung."
+    ],
+    "antwort": 2,
+    "erklaerung": "Ist ein Elternteil an der Gesellschaft beteiligt, sind beide Eltern von der Vertretung ausgeschlossen (§§ 1629 Abs. 2, 1824 Abs. 2, 181 BGB). Der Beitritt ist nie lediglich rechtlich vorteilhaft, auch nicht bei schenkweiser Beteiligung."
+   },
+   {
+    "frage": "Wie viele Ergänzungspfleger sind zu bestellen?",
+    "optionen": [
+     "Einer für beide Kinder, weil es sich um einen derivativen Anteilserwerb handelt.",
+     "Für jedes Kind ein eigener, weil ein echter Beitritt mit neuem Gesellschaftsvertrag vorliegt.",
+     "Keiner; es genügt die familiengerichtliche Genehmigung.",
+     "Einer, sofern das Familiengericht ihn von § 181 BGB befreit."
+    ],
+    "antwort": 1,
+    "erklaerung": "Wird die OHG erst durch den Beitritt zur KG, liegt ein echter Beitritt mit neuem Gesellschaftsvertrag vor, an dem auch die Kinder untereinander Vertragspartner sind. Wegen des Verbots der Mehrfachvertretung braucht jedes Kind einen eigenen Ergänzungspfleger (§§ 1809, 1813, 1789, 1824, 181 BGB). Die Unterscheidung beim derivativen Erwerb greift hier nicht."
+   },
+   {
+    "frage": "Bedarf der Beitritt der familiengerichtlichen Genehmigung, und nach welchem Maßstab entscheidet das Gericht?",
+    "optionen": [
+     "Nein, weil die Beteiligung unentgeltlich ist.",
+     "Ja, nach § 1852 Nr. 1b) oder Nr. 2 BGB; Maßstab ist allein das Kindeswohl, versagt wird nur bei überwiegenden Nachteilen.",
+     "Ja, nach § 1854 Nr. 4 BGB wegen der Haftung für Gesellschaftsschulden.",
+     "Ja, aber das Gericht darf nur prüfen, ob die Schenkung formwirksam ist."
+    ],
+    "antwort": 1,
+    "erklaerung": "Der Beitritt zur KG, die ein Erwerbsgeschäft betreibt, ist nach § 1852 Nr. 1b) oder Nr. 2 BGB genehmigungspflichtig, unabhängig von der Unentgeltlichkeit. Maßstab ist allein das Kindeswohl; abzuwägen sind etwa Vermögenszuwachs, Haftungsrisiko unter Berücksichtigung von § 1629a BGB und die Lage der Mitgesellschafter. § 1854 Nr. 4 BGB greift nicht, weil die Haftung bloße Nebenfolge ist."
+   }
+  ],
+  "erklaerung": "Wegen der Beteiligung des Vaters sind beide Eltern ausgeschlossen; da ein echter Beitritt mit neuem Gesellschaftsvertrag vorliegt, braucht jedes Kind einen eigenen Ergänzungspfleger. Der Beitritt ist nach § 1852 BGB familiengerichtlich zu genehmigen, wobei allein das Kindeswohl maßgeblich ist."
  }
 ]
