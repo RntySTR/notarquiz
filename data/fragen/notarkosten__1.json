@@ -1,0 +1,400 @@
+[
+ {
+  "id": "kost1-001",
+  "kapitel": "notarkosten",
+  "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung",
+  "seite": "Beurkundungsgegenstand: Gegenstandsgleichheit nach § 109 Abs. 1 GNotKG – Einzelfälle",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-gegenstandsgleichheit-nach-109-abs-1-gnotkg-einzelfalle",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 109 Abs. 1 S. 4 Nr. 1 Buchst. a GNotKG",
+   "§ 110 Nr. 2 Buchst. a GNotKG",
+   "§ 47 GNotKG"
+  ],
+  "frage": "Der Käufer übernimmt im Kaufvertrag das durch eine Grundschuld am Kaufgegenstand gesicherte Darlehen des Verkäufers unter Anrechnung auf den Kaufpreis. Wie ist die Schuldübernahme kostenrechtlich zu behandeln?",
+  "optionen": [
+   "Sie ist gegenstandsgleich mit dem Kaufvertrag; die übernommene Schuld ist je nach Gestaltung dem Kaufpreis als weitere Leistung hinzuzurechnen.",
+   "Sie ist ein besonderer Beurkundungsgegenstand nach § 110 Nr. 2 Buchst. a GNotKG wie jede Finanzierungserklärung.",
+   "Sie ist gegenstandsgleich, der Wert der Schuld bleibt aber nach § 109 Abs. 1 S. 5 GNotKG stets unberücksichtigt.",
+   "Sie ist gegenstandsverschieden, weil der Verkäufer an der Schuldübernahme nicht als Vertragspartei beteiligt ist."
+  ],
+  "antwort": 0,
+  "erklaerung": "Kaufvertrag und Übernahme einer am Kaufgegenstand grundpfandrechtlich gesicherten Darlehensschuld sind nach § 109 Abs. 1 S. 4 Nr. 1 Buchst. a GNotKG gegenstandsgleich; erfasst sind die unmittelbar mit der Schuldübernahme zusammenhängenden Erklärungen (§ 415 BGB). Die übernommene Schuld kann aber als weitere Leistung des Käufers dem Kaufpreis nach § 47 GNotKG hinzuzurechnen sein. Gegenstandsverschieden nach § 110 Nr. 2 Buchst. a GNotKG sind nur Finanzierungserklärungen gegenüber der Bank, nicht die Schuldübernahme selbst."
+ },
+ {
+  "id": "kost1-002",
+  "kapitel": "notarkosten",
+  "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung",
+  "seite": "Beurkundungsgegenstand: Gegenstandsgleichheit nach § 109 Abs. 1 GNotKG – Einzelfälle",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-gegenstandsgleichheit-nach-109-abs-1-gnotkg-einzelfalle",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 109 Abs. 1 S. 4 Nr. 3 GNotKG",
+   "KV 21201 Nr. 4 GNotKG",
+   "§ 94 GNotKG",
+   "§ 53 GNotKG"
+  ],
+  "frage": "In einer Grundschuldbestellungsurkunde stimmt der Eigentümer zugleich der Löschung eines vorrangigen, bereits getilgten Grundpfandrechts zu, damit die neue Grundschuld an erster Rangstelle steht. Welche Aussage trifft zu?",
+  "optionen": [
+   "Die Löschungszustimmung ist als Rangerklärung nach § 109 Abs. 1 S. 4 Nr. 3 GNotKG gegenstandsgleich mit der Grundschuldbestellung.",
+   "Die Löschungszustimmung ist als Durchführungserklärung nach § 109 Abs. 1 S. 1 und 2 GNotKG gegenstandsgleich, weil sie dem Rang dient.",
+   "Die Löschungszustimmung ist ein eigener Gegenstand mit 0,5-Gebühr nach KV 21201 Nr. 4 GNotKG aus dem Wert des zu löschenden Rechts; eine Vergleichsberechnung nach § 94 GNotKG ist nötig.",
+   "Die Löschungszustimmung ist gebührenfreie Nebentätigkeit, weil sie nur den Vollzug der Grundschuld vorbereitet."
+  ],
+  "antwort": 2,
+  "erklaerung": "Unter § 109 Abs. 1 S. 4 Nr. 3 GNotKG fallen nur Erklärungen, die unmittelbar auf das Rangverhältnis einwirken (Rangrücktritt, Eigentümerzustimmung dazu). Die Löschung eines vorrangigen Rechts bildet gegenüber der Rechtsbestellung stets einen eigenen Gegenstand; auch § 109 Abs. 1 S. 1 und 2 GNotKG scheidet aus, weil die Rangabrede nicht beurkundet ist. Sie löst eine 0,5-Gebühr nach KV 21201 Nr. 4 GNotKG aus dem Wert des zu löschenden Rechts (§ 53 GNotKG) aus, so dass eine Vergleichsberechnung nach § 94 GNotKG erforderlich wird; dies in Grundschuldformularen als Rangerklärung mitlaufen zu lassen, ist ein typischer Fehler."
+ },
+ {
+  "id": "kost1-003",
+  "kapitel": "notarkosten",
+  "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung",
+  "seite": "Beurkundungsgegenstand: Gegenstandsgleichheit nach § 109 Abs. 1 GNotKG – Einzelfälle",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-gegenstandsgleichheit-nach-109-abs-1-gnotkg-einzelfalle",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 109 Abs. 1 S. 4 Nr. 1 Buchst. c GNotKG",
+   "§ 109 Abs. 1 S. 5 GNotKG",
+   "§ 98 Abs. 1 GNotKG"
+  ],
+  "frage": "Eine dem Käufer im Kaufvertrag erteilte Belastungsvollmacht ist nur dann gegenstandsgleich mit dem Kaufvertrag, wenn der Belastungsrahmen den Kaufpreis nicht übersteigt.",
+  "antwort": false,
+  "erklaerung": "Nach § 109 Abs. 1 S. 4 Nr. 1 Buchst. c GNotKG ist jede dem Käufer erteilte Vollmacht zur Belastung des Kaufgegenstands gegenstandsgleich, gleich in welcher Höhe und auch für Dienstbarkeiten oder andere Rechte. Ein höherer Eigenwert der Vollmacht nach § 98 Abs. 1 GNotKG wirkt sich nicht aus, weil § 109 Abs. 1 S. 5 GNotKG den Wert auf das Hauptgeschäft begrenzt. Auch Vollmachten an Notarmitarbeiter neben oder statt dem Käufer bleiben gegenstandsgleich."
+ },
+ {
+  "id": "kost1-004",
+  "kapitel": "notarkosten",
+  "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung",
+  "seite": "Beurkundungsgegenstand: Gegenstandsgleichheit nach § 109 Abs. 1 GNotKG – Einzelfälle",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-gegenstandsgleichheit-nach-109-abs-1-gnotkg-einzelfalle",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 109 Abs. 1 S. 4 GNotKG"
+  ],
+  "frage": "Ordne die gesetzlichen Beispielsfälle der Gegenstandsgleichheit ihrer Fundstelle in § 109 Abs. 1 S. 4 GNotKG zu.",
+  "paare": [
+   [
+    "Nr. 1 Buchst. b",
+    "Kaufvertrag und Erklärungen zur Beseitigung der auf dem Kaufgegenstand lastenden Grundpfandrechte"
+   ],
+   [
+    "Nr. 2",
+    "Gesellschaftsvertrag mit Einbringungspflicht und Auflassung des Grundstücks in derselben Urkunde"
+   ],
+   [
+    "Nr. 3",
+    "Bestellung eines dinglichen Rechts und Erklärungen, die ihm den beabsichtigten Rang verschaffen"
+   ],
+   [
+    "Nr. 4",
+    "Anspruch und Unterwerfung unter die sofortige Zwangsvollstreckung"
+   ]
+  ],
+  "erklaerung": "§ 109 Abs. 1 S. 4 GNotKG zählt häufige Fälle gegenstandsgleicher Haupt- und Nebenerklärungen nur beispielhaft auf: Nr. 1 betrifft den Kaufvertrag mit Schuldübernahme (a), Löschung (b) und Belastungsvollmacht (c), Nr. 2 Gesellschaftsvertrag und Auflassung, Nr. 3 Rangerklärungen und Nr. 4 die Vollstreckungsunterwerfung. Mit Nr. 4 ist der frühere Streit entschieden, ob die Unterwerfung gebührenfreie Nebentätigkeit oder gegenstandsgleiche Erklärung ist."
+ },
+ {
+  "id": "kost1-005",
+  "kapitel": "notarkosten",
+  "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung",
+  "seite": "Beurkundungsgegenstand: Gegenstandsgleichheit nach § 109 Abs. 1 GNotKG – Einzelfälle",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-gegenstandsgleichheit-nach-109-abs-1-gnotkg-einzelfalle",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 109 Abs. 1 S. 4 Nr. 1 Buchst. b GNotKG",
+   "§ 1175 Abs. 1 S. 2 BGB"
+  ],
+  "frage": "Das verkaufte Grundstück ist zusammen mit zwei weiteren Grundstücken des Verkäufers mit einer Gesamtgrundschuld belastet. Im Kaufvertrag stimmt der Verkäufer vorsorglich der Löschung der gesamten Grundschuld zu. Wie ist diese Zustimmung zu bewerten?",
+  "optionen": [
+   "Vollständig gegenstandsgleich mit dem Kaufvertrag, weil jede Löschungserklärung des Verkäufers unter Nr. 1 Buchst. b fällt.",
+   "Gesondert zu bewerten, weil die Pfandfreigabe des Kaufgegenstands aus dem Gesamtrecht keine Eigentümerzustimmung braucht und die Gesamtlöschung über die Lastenfreistellung hinausgeht.",
+   "Gegenstandsgleich nur mit dem auf den Kaufgegenstand entfallenden Teilbetrag der Grundschuld, im Übrigen gebührenfrei.",
+   "Stets gegenstandsverschieden, weil Löschungserklärungen des Eigentümers nach § 110 GNotKG besondere Gegenstände sind."
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Gegenstandsgleichheit nach § 109 Abs. 1 S. 4 Nr. 1 Buchst. b GNotKG reicht nur so weit, wie die Erklärung für die Lastenfreistellung des Kaufgegenstands erforderlich ist. Die Pfandfreigabe eines einzelnen Grundstücks aus einem Gesamtrecht erfordert nach § 1175 Abs. 1 S. 2 BGB keine Eigentümerzustimmung; eine darüber hinausgehende vorsorgliche Zustimmung zur Löschung des gesamten Rechts ist daher gesondert zu bewerten. Option 1 verkennt diese Begrenzung auf das Erforderliche."
+ },
+ {
+  "id": "kost1-006",
+  "kapitel": "notarkosten",
+  "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung",
+  "seite": "Beurkundungsgegenstand: Gegenstandsgleichheit nach § 109 Abs. 1 GNotKG – Grundtatbestand",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-gegenstandsgleichheit-nach-109-abs-1-gnotkg-grundtatbestand",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 109 Abs. 1 S. 5 GNotKG",
+   "§ 109 Abs. 2 S. 2 GNotKG"
+  ],
+  "frage": "Worin unterscheiden sich § 109 Abs. 1 und § 109 Abs. 2 GNotKG in der Rechtsfolge für den Geschäftswert?",
+  "optionen": [
+   "Abs. 1: höchster beteiligter Wert; Abs. 2: Wert des Hauptgeschäfts.",
+   "Abs. 1: Wert des Hauptgeschäfts; Abs. 2: höchster beteiligter Wert.",
+   "Abs. 1: Addition der Werte; Abs. 2: Wert des Hauptgeschäfts.",
+   "Abs. 1: Wert des Hauptgeschäfts; Abs. 2: Addition der Werte."
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei Haupt- und Nebenerklärung nach § 109 Abs. 1 GNotKG zählt gemäß § 109 Abs. 1 S. 5 GNotKG nur der Wert des Hauptgeschäfts, selbst wenn die Nebenerklärung für sich höher zu bewerten wäre. Bei gleichrangigen Erklärungen mit innerem Zusammenhang nach § 109 Abs. 2 GNotKG zählt nach § 109 Abs. 2 S. 2 GNotKG der höchste der beteiligten Werte, weil es kein Hauptgeschäft gibt. Eine Addition findet nur bei Gegenstandsverschiedenheit nach § 86 Abs. 2 GNotKG statt."
+ },
+ {
+  "id": "kost1-007",
+  "kapitel": "notarkosten",
+  "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung",
+  "seite": "Beurkundungsgegenstand: Gegenstandsgleichheit nach § 109 Abs. 1 GNotKG – Grundtatbestand",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-gegenstandsgleichheit-nach-109-abs-1-gnotkg-grundtatbestand",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 109 Abs. 1 S. 3 GNotKG"
+  ],
+  "frage": "Gegenstandsgleichheit nach § 109 Abs. 1 GNotKG scheidet aus, wenn die Nebenerklärung nicht von einer Vertragspartei des Hauptgeschäfts, sondern von einem Dritten abgegeben wird.",
+  "antwort": false,
+  "erklaerung": "Nach § 109 Abs. 1 S. 3 GNotKG setzt Gegenstandsgleichheit keine Personenidentität voraus; auch Erklärungen Dritter oder zugunsten Dritter können gegenstandsgleich sein, etwa der Rangrücktritt eines vorrangigen Berechtigten. Die Gleichheit zu verneinen, weil die Nebenerklärung von einem Dritten stammt, nennt die Seite ausdrücklich als typischen Fehler. Entscheidend ist allein, ob die Erklärung unmittelbar dem Hauptgeschäft derselben Urkunde dient."
+ },
+ {
+  "id": "kost1-008",
+  "kapitel": "notarkosten",
+  "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung",
+  "seite": "Beurkundungsgegenstand: Gegenstandsgleichheit nach § 109 Abs. 1 GNotKG – Grundtatbestand",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-gegenstandsgleichheit-nach-109-abs-1-gnotkg-grundtatbestand",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 109 Abs. 1 S. 1 und 2 GNotKG",
+   "§ 86 Abs. 2 GNotKG"
+  ],
+  "frage": "Nach einem beurkundeten Teilflächenkaufvertrag wird in einem Nachtrag die vermessene Mehrfläche mit Mehrpreis geregelt und zugleich die Auflassung erklärt. Wie ist die Auflassung nach der amtlichen Begründung kostenrechtlich einzuordnen?",
+  "optionen": [
+   "Vollständig gegenstandsgleich mit dem Nachtrag, weil sie den Kaufvertrag erfüllt.",
+   "Vollständig gegenstandsverschieden, weil ein Nachtrag nie ein Hauptgeschäft sein kann.",
+   "Gegenstandsgleich nur hinsichtlich Mehrfläche und Mehrpreis; im Übrigen besonderer Gegenstand nach § 86 Abs. 2 GNotKG.",
+   "Gegenstandsgleich mit dem ursprünglichen Kaufvertrag, weil sie dessen Erfüllung dient."
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Nebenerklärung muss unmittelbar dem Zweck eines Hauptgeschäfts dienen, das in derselben Urkunde beurkundet ist. Nach BT-Drs. 17/11471 S. 186 ist die Auflassung im Nachtrag daher nur gegenstandsgleich, soweit der Nachtrag eigene Regelungen enthält (Mehrfläche, Mehrpreis); im Übrigen bezieht sie sich auf den Kaufvertrag in einer anderen Urkunde und ist besonderer Gegenstand nach § 86 Abs. 2 GNotKG. Option 4 verkennt, dass das Hauptgeschäft in derselben Urkunde stehen muss."
+ },
+ {
+  "id": "kost1-009",
+  "kapitel": "notarkosten",
+  "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung",
+  "seite": "Beurkundungsgegenstand: Gegenstandsgleichheit nach § 109 Abs. 1 GNotKG – Grundtatbestand",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-gegenstandsgleichheit-nach-109-abs-1-gnotkg-grundtatbestand",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 109 Abs. 1 S. 2 GNotKG"
+  ],
+  "frage": "Ordne die typischen Haupt-Neben-Verhältnisse der Fallgruppe des § 109 Abs. 1 S. 2 GNotKG zu, der sie dienen.",
+  "paare": [
+   [
+    "Erfüllung",
+    "Kaufvertrag und Auflassung"
+   ],
+   [
+    "Sicherung",
+    "Übereignungspflicht und Vormerkungsbewilligung"
+   ],
+   [
+    "Sonstige Durchführung",
+    "Belastung mit mehreren Rechten und zugehörige Rangerklärungen und -anträge"
+   ]
+  ],
+  "erklaerung": "§ 109 Abs. 1 S. 2 GNotKG lässt ein Rechtsverhältnis genügen, das der Erfüllung, Sicherung oder sonstigen Durchführung eines anderen dient. Die Auflassung erfüllt den Kaufvertrag, die Vormerkungsbewilligung sichert die Übereignungspflicht (ebenso die Vollstreckungsunterwerfung die Kaufpreispflicht), und Rangerklärungen führen die Belastung mit mehreren Rechten durch."
+ },
+ {
+  "id": "kost1-010",
+  "kapitel": "notarkosten",
+  "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung",
+  "seite": "Beurkundungsgegenstand: Gegenstandsgleichheit nach § 109 Abs. 2 GNotKG – Beschlüsse und Wahlen",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-gegenstandsgleichheit-nach-109-abs-2-gnotkg-beschlusse-und-wahlen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 109 Abs. 2 S. 1 Nr. 4 Buchst. a GNotKG",
+   "§ 86 Abs. 2 GNotKG"
+  ],
+  "frage": "In einer Gesellschafterversammlung wird die Satzung geändert, so dass Geschäftsführer allgemein von § 181 BGB befreit werden können, und zugleich der Geschäftsführer G konkret von § 181 BGB befreit. Wie viele Beurkundungsgegenstände liegen vor?",
+  "optionen": [
+   "Ein Gegenstand, weil der konkrete Beschluss unmittelbar mit der Satzungsänderung zusammenhängt (Buchst. a).",
+   "Zwei Gegenstände, weil der konkrete Beschluss nicht auf Satzungsebene liegt und auch später gesondert hätte gefasst werden können.",
+   "Ein Gegenstand, weil beide Beschlüsse keinen bestimmten Geldwert haben (Buchst. c).",
+   "Zwei Gegenstände, aber nur der Satzungsbeschluss ist nach § 108 GNotKG zu bewerten."
+  ],
+  "antwort": 1,
+  "erklaerung": "Buchst. a erfasst nur einen Beschluss und die unmittelbar damit zusammenhängende Satzungsänderung. Die Satzungsänderung, die eine allgemeine Befreiung ermöglicht, und der Beschluss über die konkrete Befreiung eines bestimmten Geschäftsführers sind verschiedene Gegenstände (§ 86 Abs. 2 GNotKG), weil der konkrete Beschluss nicht mehr auf Satzungsebene liegt und auch später gesondert gefasst werden könnte. Folgebeschlüsse, die eine Satzungsänderung nur voraussetzen, unter Buchst. a zu fassen, ist ein typischer Fehler; Buchst. c betrifft nur mehrere Satzungsänderungen."
+ },
+ {
+  "id": "kost1-011",
+  "kapitel": "notarkosten",
+  "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung",
+  "seite": "Beurkundungsgegenstand: Gegenstandsgleichheit nach § 109 Abs. 2 GNotKG – Beschlüsse und Wahlen",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-gegenstandsgleichheit-nach-109-abs-2-gnotkg-beschlusse-und-wahlen",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 109 Abs. 2 S. 1 Nr. 4 Buchst. d bis f GNotKG"
+  ],
+  "frage": "Werden in einer Hauptversammlung die Aufsichtsratsmitglieder einzeln gewählt, liegen mehrere Beurkundungsgegenstände vor, deren Werte zu addieren sind.",
+  "antwort": true,
+  "erklaerung": "Wahlen und Entlastungen sind nach § 109 Abs. 2 S. 1 Nr. 4 Buchst. d bis f GNotKG nur gegenstandsgleich, wenn en bloc gewählt oder im Paket entlastet wird. Bei Einzelabstimmungen liegen verschiedene Gegenstände vor, deren Werte addiert werden; das weicht von der Handhabung unter der KostO ab und soll den höheren Protokollierungsaufwand getrennter Abstimmungen vergüten. Im Protokoll ist deshalb festzuhalten, ob en bloc oder einzeln abgestimmt wurde."
+ },
+ {
+  "id": "kost1-012",
+  "kapitel": "notarkosten",
+  "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung",
+  "seite": "Beurkundungsgegenstand: Gegenstandsgleichheit nach § 109 Abs. 2 GNotKG – Beschlüsse und Wahlen",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-gegenstandsgleichheit-nach-109-abs-2-gnotkg-beschlusse-und-wahlen",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 109 Abs. 2 S. 1 Nr. 4 Buchst. b und c GNotKG",
+   "§ 86 Abs. 2 GNotKG"
+  ],
+  "frage": "Eine GmbH beschließt in einer Urkunde eine Kapitalerhöhung, die Anpassung der Kapitalziffer in der Satzung, die Zulassung eines Dritten zur Übernahme des neuen Geschäftsanteils sowie die Änderung der Firma. Wie viele Beurkundungsgegenstände liegen vor?",
+  "optionen": [
+   "Ein Gegenstand, weil alle Beschlüsse in derselben Versammlung gefasst werden.",
+   "Zwei Gegenstände: die Kapitalerhöhung mit Kapitalziffer und Zulassung einerseits, die Firmenänderung andererseits.",
+   "Drei Gegenstände: Kapitalerhöhung, Satzungsänderungen (Kapitalziffer und Firma) und Zulassungsbeschluss.",
+   "Vier Gegenstände, weil Kapitalmaßnahmen stets mit jedem anderen Beschluss gegenstandsverschieden sind."
+  ],
+  "antwort": 1,
+  "erklaerung": "Mit der Kapitalmaßnahme (Buchst. b) gegenstandsgleich sind allein Beschlüsse, die direkt mit ihr zusammenhängen, namentlich die Anpassung der Kapitalziffer und die Zulassung eines Gesellschafters oder Dritten zur Übernahme der neuen Beteiligung. Beschlüsse ohne bestimmten Geldwert wie die Firmenänderung bilden demgegenüber einen eigenen Gegenstand; die Werte werden nach § 86 Abs. 2 GNotKG addiert. Option 3 ordnet die Kapitalziffer fälschlich den Satzungsänderungen ohne Geldwert (Buchst. c) zu."
+ },
+ {
+  "id": "kost1-013",
+  "kapitel": "notarkosten",
+  "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung",
+  "seite": "Beurkundungsgegenstand: Gegenstandsgleichheit nach § 109 Abs. 2 GNotKG – Beschlüsse und Wahlen",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-gegenstandsgleichheit-nach-109-abs-2-gnotkg-beschlusse-und-wahlen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 109 Abs. 2 S. 1 Nr. 4 Buchst. g GNotKG"
+  ],
+  "frage": "In einer Niederschrift werden die Zustimmungsbeschlüsse der Gesellschafter der A-GmbH und der B-GmbH zur Verschmelzung der A-GmbH auf die B-GmbH sowie der Zustimmungsbeschluss der B-GmbH zu einer anschließenden Abspaltung protokolliert. Welche Beschlüsse sind gegenstandsgleich?",
+  "optionen": [
+   "Alle drei Beschlüsse, weil sie in einer Niederschrift protokolliert sind.",
+   "Nur die beiden Zustimmungsbeschlüsse zur Verschmelzung; der Abspaltungsbeschluss ist ein eigener Gegenstand.",
+   "Keiner, weil Beschlüsse verschiedener Rechtsträger stets gegenstandsverschieden sind.",
+   "Nur die beiden Beschlüsse der B-GmbH, weil dasselbe Organ sie fasst."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach Buchst. g sind Zustimmungsbeschlüsse von Organen verschiedener Rechtsträger zu demselben Umwandlungsvorgang gegenstandsgleich, wenn sie in einer Niederschrift protokolliert werden. Betreffen die Beschlüsse verschiedene Umwandlungsvorgänge, etwa eine Verschmelzung und eine Abspaltung, sind sie gegenstandsverschieden; Gleichheit besteht nur zwischen den Beschlüssen zu demselben Vorgang. Dass dasselbe Organ beschließt, begründet nach § 86 Abs. 2 GNotKG keine Gegenstandsgleichheit."
+ },
+ {
+  "id": "kost1-014",
+  "kapitel": "notarkosten",
+  "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung",
+  "seite": "Beurkundungsgegenstand: Gegenstandsgleichheit nach § 109 Abs. 2 GNotKG – Grundsätze und Einzelfälle",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-gegenstandsgleichheit-nach-109-abs-2-gnotkg-grundsatze-und-einzelfalle",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 109 Abs. 2 GNotKG",
+   "§ 109 Abs. 1 GNotKG"
+  ],
+  "frage": "Welche Aussage zur Struktur des § 109 Abs. 2 GNotKG trifft zu?",
+  "optionen": [
+   "Er enthält wie Abs. 1 eine abstrakte Definition, die durch Beispielsfälle ergänzt wird.",
+   "Er verlangt ein Abhängigkeitsverhältnis zwischen Haupt- und Nebengeschäft.",
+   "Er zählt die Fälle gleichrangiger Erklärungen mit innerem Zusammenhang abschließend auf.",
+   "Er ordnet für alle genannten Fälle die Addition der Einzelwerte an."
+  ],
+  "antwort": 2,
+  "erklaerung": "Anders als § 109 Abs. 1 GNotKG enthält § 109 Abs. 2 GNotKG keine abstrakte Definition; die dort genannten Fälle sind abschließend und dürfen nicht auf andere Konstellationen erstreckt werden. Ein Abhängigkeitsverhältnis ist gerade nicht erforderlich, weil die Erklärungen gleichrangig nebeneinander stehen. Rechtsfolge ist nach § 109 Abs. 2 S. 2 GNotKG der höchste beteiligte Wert, nicht die Addition."
+ },
+ {
+  "id": "kost1-015",
+  "kapitel": "notarkosten",
+  "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung",
+  "seite": "Beurkundungsgegenstand: Gegenstandsgleichheit nach § 109 Abs. 2 GNotKG – Grundsätze und Einzelfälle",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-gegenstandsgleichheit-nach-109-abs-2-gnotkg-grundsatze-und-einzelfalle",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 109 Abs. 2 S. 1 Nr. 1 GNotKG",
+   "§ 110 Nr. 3 GNotKG"
+  ],
+  "frage": "In einer Urkunde werden eine Vorsorgevollmacht, eine Patientenverfügung und eine Betreuungsverfügung beurkundet. Welche Erklärungen sind gegenstandsgleich?",
+  "optionen": [
+   "Alle drei, weil sie der Vorsorge für denselben Fall dienen.",
+   "Patientenverfügung und Betreuungsverfügung; die Vorsorgevollmacht ist gegenstandsverschieden.",
+   "Vorsorgevollmacht und Betreuungsverfügung; die Patientenverfügung ist gegenstandsverschieden.",
+   "Keine, weil jede Erklärung einen eigenen Zweck verfolgt."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 109 Abs. 2 S. 1 Nr. 1 GNotKG sind Patientenverfügung und Betreuungsverfügung gegenstandsgleich; darunter fallen neben dem Vorschlag zur Person des Betreuers auch weitere Anweisungen zur Führung der Betreuung. Zur Vorsorgevollmacht ordnet § 110 Nr. 3 GNotKG dagegen ausdrücklich Gegenstandsverschiedenheit an. Option 1 übersieht diese Rückausnahme."
+ },
+ {
+  "id": "kost1-016",
+  "kapitel": "notarkosten",
+  "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung",
+  "seite": "Beurkundungsgegenstand: Gegenstandsgleichheit nach § 109 Abs. 2 GNotKG – Grundsätze und Einzelfälle",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-gegenstandsgleichheit-nach-109-abs-2-gnotkg-grundsatze-und-einzelfalle",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 109 Abs. 2 S. 1 Nr. 3 GNotKG",
+   "§ 109 Abs. 1 S. 4 Nr. 4 GNotKG",
+   "§ 94 Abs. 2 GNotKG"
+  ],
+  "frage": "Vollstreckbare Grundschuld mit Teil-Schuldanerkenntnis",
+  "sachverhalt": "E bestellt zugunsten der Bank B eine Grundschuld über 400.000 EUR und unterwirft sich wegen des Grundschuldbetrags der sofortigen Zwangsvollstreckung in das Grundstück. In derselben Urkunde übernimmt E ein abstraktes Schuldanerkenntnis, allerdings nur über 250.000 EUR, und unterwirft sich insoweit der Zwangsvollstreckung in sein gesamtes Vermögen.",
+  "schritte": [
+   {
+    "frage": "Nach welcher Vorschrift sind Grundschuldbestellung und Schuldanerkenntnis gegenstandsgleich?",
+    "optionen": [
+     "§ 109 Abs. 1 S. 1 und 2 GNotKG, weil das Anerkenntnis der Sicherung der Grundschuld dient.",
+     "§ 109 Abs. 2 S. 1 Nr. 3 GNotKG, weil beide gleichrangig eine nicht beurkundete Forderung sichern.",
+     "§ 109 Abs. 1 S. 4 Nr. 4 GNotKG, weil das Anerkenntnis eine Unterwerfungserklärung ist.",
+     "Sie sind nicht gegenstandsgleich, weil das Anerkenntnis den Nennbetrag unterschreitet."
+    ],
+    "antwort": 1,
+    "erklaerung": "Zwischen Schulderklärung und Grundschuldbestellung besteht kein Abhängigkeitsverhältnis im Sinne des § 109 Abs. 1 GNotKG; beide sichern gleichrangig eine regelmäßig nicht beurkundete Forderung. Die Gegenstandsgleichheit folgt aus der Sonderregel des § 109 Abs. 2 S. 1 Nr. 3 GNotKG und reicht bis zum Nennbetrag des Grundpfandrechts."
+   },
+   {
+    "frage": "Wie sind die beiden Vollstreckungsunterwerfungen kostenrechtlich einzuordnen?",
+    "optionen": [
+     "Sie sind nach § 109 Abs. 1 S. 4 Nr. 4 GNotKG zum jeweils gesicherten Anspruch gegenstandsgleich.",
+     "Sie sind nach § 110 GNotKG stets besondere Gegenstände.",
+     "Sie sind gebührenfreie Nebentätigkeit ohne eigenen Gegenstand.",
+     "Sie sind nach § 109 Abs. 2 S. 1 Nr. 3 GNotKG nur bis 250.000 EUR gegenstandsgleich."
+    ],
+    "antwort": 0,
+    "erklaerung": "Anspruch und Unterwerfung unter die Zwangsvollstreckung sind nach § 109 Abs. 1 S. 4 Nr. 4 GNotKG gegenstandsgleich. Bei der vollstreckbaren Grundschuld tritt diese Gegenstandsgleichheit neben die nach § 109 Abs. 2 S. 1 Nr. 3 GNotKG (mehrfache Gegenstandsgleichheit)."
+   },
+   {
+    "frage": "Welche Konsequenz hat es, dass das Schuldanerkenntnis mit Unterwerfung nur über 250.000 EUR erklärt wird?",
+    "optionen": [
+     "Keine; der Geschäftswert beträgt 400.000 EUR mit einheitlichem Gebührensatz 1,0.",
+     "Der Geschäftswert ist auf 250.000 EUR zu begrenzen, weil die niedrigere Erklärung maßgeblich ist.",
+     "Wegen der unterschiedlichen Gebührensätze ist eine Vergleichsberechnung nach § 94 Abs. 2 GNotKG erforderlich.",
+     "Die Werte 400.000 EUR und 250.000 EUR sind nach § 86 Abs. 2 GNotKG zu addieren."
+    ],
+    "antwort": 2,
+    "erklaerung": "Die Grundschuldbewilligung unterliegt dem Satz 0,5 (KV 21201 Nr. 4), die Unterwerfung dem Satz 1,0 (KV 21200). Wird das Anerkenntnis mit Unterwerfung nur über einen Teil des Nennbetrags erklärt, unterliegen die gegenstandsgleichen Erklärungen unterschiedlichen Gebührensätzen bei verschiedenen Werten, so dass eine Vergleichsberechnung nach § 94 Abs. 2 GNotKG durchzuführen ist. Eine Addition scheidet wegen der Gegenstandsgleichheit aus."
+   }
+  ],
+  "erklaerung": "Grundschuld und Schulderklärung sind nach § 109 Abs. 2 S. 1 Nr. 3 GNotKG, die Unterwerfungen nach § 109 Abs. 1 S. 4 Nr. 4 GNotKG gegenstandsgleich. Weil das Anerkenntnis mit Unterwerfung (Satz 1,0) nur einen Teil des Nennbetrags (Bewilligung Satz 0,5) erfasst, muss der Notar eine Vergleichsberechnung nach § 94 Abs. 2 GNotKG durchführen."
+ },
+ {
+  "id": "kost1-017",
+  "kapitel": "notarkosten",
+  "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung",
+  "seite": "Beurkundungsgegenstand: Gegenstandsgleichheit nach § 109 Abs. 2 GNotKG – Grundsätze und Einzelfälle",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-gegenstandsgleichheit-nach-109-abs-2-gnotkg-grundsatze-und-einzelfalle",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 109 Abs. 2 S. 1 Nr. 2 GNotKG",
+   "§ 109 Abs. 2 S. 2 GNotKG",
+   "§ 94 Abs. 2 GNotKG"
+  ],
+  "frage": "Widerruft der Erblasser in einem neuen Testament ein früheres Testament mit umfassender Erbregelung und setzt nur noch Einzelvermächtnisse aus, ist der Geschäftswert allein nach der neuen Verfügung zu bestimmen.",
+  "antwort": false,
+  "erklaerung": "Widerruf und neue Verfügung sind nach § 109 Abs. 2 S. 1 Nr. 2 GNotKG gegenstandsgleich; maßgeblich ist nach § 109 Abs. 2 S. 2 GNotKG der höchste der beteiligten Werte, hier also der Wert des Widerrufs der umfassenden Erbregelung. Decken sich die Werte nicht, ist wegen der unterschiedlichen Gebührensätze zusätzlich eine Vergleichsberechnung nach § 94 Abs. 2 GNotKG durchzuführen. Beide Werte sind daher getrennt zu ermitteln."
+ }
+]

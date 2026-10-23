@@ -434,7 +434,7 @@ function normParsen(text) {
 async function normenLaden() { if (NORMEN) return NORMEN; try { const r = await fetch('data/normen.json?v=' + VERSION); NORMEN = await r.json(); } catch (e) { NORMEN = {}; } return NORMEN; }
 function normText(md, abs) {
   // Markdown-lite: Überschrift, Absätze, Listen; Quelle-Zeile entfernen; Absatz (N) hervorheben
-  const zeilen = md.replace(/\n---[\s\S]*$/, '').split(/\n{2,}/);
+  const zeilen = md.replace(/\n---[\s\S]*$/, '').replace(/([a-zäöüß])([a-h]\))([A-Za-zäöüÄÖÜ])/g, '$1 $2 $3').split(/\n{2,}/);
   return zeilen.map(z => {
     z = z.trim(); if (!z || z.startsWith('## ')) return '';
     if (/^\d+\.\s/m.test(z)) return `<ol>${z.split(/\n(?=\d+\.\s)/).map(li => `<li>${esc(li.replace(/^\d+\.\s/, ''))}</li>`).join('')}</ol>`;

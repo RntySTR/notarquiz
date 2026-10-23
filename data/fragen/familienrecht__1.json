@@ -1082,5 +1082,123 @@
   "antwort": true,
   "erklaerung": "Nach § 1617c Abs. 2, Abs. 1 BGB erstreckt sich die Namensänderung auf ein Kind des Angenommenen, das jünger als fünf Jahre ist, kraft Gesetzes; ein älteres Kind wird nur erfasst, wenn es sich durch öffentlich beglaubigte Erklärung anschließt. Die Fünfjahresgrenze entspricht der Grenze, ab der bei der Annahme durch eine Einzelperson die Einwilligung des Kindes in die Namenserteilung nötig ist.",
   "id": "fami1-049"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Adoption",
+  "seite": "Adoption: Wirkungen (Verwandtschaft, Adoptionsgeheimnis, Staatsangehörigkeit, Erbrecht)",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-wirkungen-verwandtschaft-adoptionsgeheimnis-staatsangehorigkeit-erbrecht",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1770 Abs. 1 BGB",
+   "§ 1770 Abs. 2 BGB"
+  ],
+  "frage": "A hat den volljährigen B einfach (ohne § 1772 BGB) adoptiert. A hat außerdem die leibliche Tochter T. Welche erbrechtliche Folge hat die Adoption?",
+  "optionen": [
+   "B und T sind Geschwister und beerben einander gesetzlich",
+   "B wird gesetzlicher Erbe des A, ist aber mit T nicht verwandt; die Erbrechte gegenüber seiner leiblichen Familie bleiben bestehen",
+   "B verliert sein gesetzliches Erbrecht gegenüber seinen leiblichen Eltern",
+   "B kann bei Erbfällen in der Familie des A an dessen Stelle treten"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei der einfachen Volljährigenadoption entstehen gegenseitige volle Erbrechte zwischen Angenommenem und Annehmendem; zu den Verwandten des Annehmenden entsteht aber keine Verwandtschaft (§ 1770 Abs. 1 BGB), sodass B und T keine Geschwister sind und einander nicht gesetzlich beerben. B kann bei Erbfällen in der Familie des A auch nicht an dessen Stelle treten. Die Verwandtschaft und damit die Erbrechte gegenüber der leiblichen Familie bleiben bestehen (§ 1770 Abs. 2 BGB); anders nur bei Annahme mit den Wirkungen des § 1772 BGB.",
+  "id": "fami1-050"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Adoption",
+  "seite": "Adoption: Wirkungen (Verwandtschaft, Adoptionsgeheimnis, Staatsangehörigkeit, Erbrecht)",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-wirkungen-verwandtschaft-adoptionsgeheimnis-staatsangehorigkeit-erbrecht",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1755 Abs. 2 BGB",
+   "§ 1756 Abs. 2 BGB"
+  ],
+  "frage": "Der Ehemann S der Mutter M adoptiert deren minderjährigen Sohn K. Welche Verwandtschaftsverhältnisse erlöschen?",
+  "optionen": [
+   "Alle bisherigen Verwandtschaftsverhältnisse des K, auch zu M",
+   "Nur die Verwandtschaft zum anderen leiblichen Elternteil und dessen Verwandten (§ 1755 Abs. 2 BGB); die Verwandtschaft zu M und ihren Verwandten bleibt",
+   "Keine; bei der Stiefkindadoption kommen nur neue Verwandtschaften hinzu",
+   "Nur die Verwandtschaft zu den Großeltern väterlicherseits, nicht zum Vater selbst"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei der Stiefkindadoption erlischt nur die Verwandtschaft zum anderen leiblichen Elternteil und dessen Verwandten (§ 1755 Abs. 2 BGB); die Verwandtschaft zum Ehegatten des Annehmenden und dessen Verwandten bleibt. Ein vollständiges Erlöschen nach § 1755 Abs. 1 BGB tritt nur bei gemeinschaftlicher Annahme durch Fremde oder bei Einzeladoption ein. Ist der andere Elternteil verstorben und war er bis zum Tod sorgeberechtigt, bleibt nach § 1756 Abs. 2 BGB sogar die Verwandtschaft zu dessen Verwandten bestehen.",
+  "id": "fami1-051"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Adoption",
+  "seite": "Adoption: Wirkungen (Verwandtschaft, Adoptionsgeheimnis, Staatsangehörigkeit, Erbrecht)",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-wirkungen-verwandtschaft-adoptionsgeheimnis-staatsangehorigkeit-erbrecht",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 6 StAG",
+   "§ 1772 BGB"
+  ],
+  "frage": "Wird ein bei Antragstellung bereits volljähriger Ausländer von einem Deutschen mit den Wirkungen des § 1772 BGB angenommen, erwirbt er nach § 6 StAG die deutsche Staatsangehörigkeit.",
+  "antwort": false,
+  "erklaerung": "§ 6 StAG verlangt, dass das Kind bei Wirksamwerden des Annahmeantrags minderjährig ist. Wer bei Antragstellung bereits volljährig ist, erwirbt die deutsche Staatsangehörigkeit durch die Annahme nicht, auch nicht bei Wirkungen nach § 1772 BGB; es bleibt nur die Einbürgerung (§ 8 StAG). Bei annehmenden Ehegatten genügt im Übrigen die deutsche Staatsangehörigkeit eines von ihnen.",
+  "id": "fami1-052"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Adoption",
+  "seite": "Adoption: Wirkungen (Verwandtschaft, Adoptionsgeheimnis, Staatsangehörigkeit, Erbrecht)",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-wirkungen-verwandtschaft-adoptionsgeheimnis-staatsangehorigkeit-erbrecht",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1758 BGB",
+   "§ 62 Abs. 1 PStG",
+   "§ 9b AdVermG"
+  ],
+  "frage": "Welche Aussage zum Adoptionsgeheimnis bei der Minderjährigenadoption trifft zu?",
+  "optionen": [
+   "Das Adoptionsgeheimnis gilt auch gegenüber dem angenommenen Kind, das daher keine Einsicht in die Adoptionsakten erhält",
+   "Tatsachen, die die Annahme aufdecken können, dürfen nur mit Zustimmung von Annehmendem und Kind offenbart werden (§ 1758 BGB); gegenüber dem Kind selbst gilt das Geheimnis nicht",
+   "Die leiblichen Eltern haben ein umfassendes Auskunftsrecht über den Verbleib des Kindes",
+   "Das Kind darf seine Personenstandsurkunden erst mit Volljährigkeit einsehen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 1758 BGB dürfen Tatsachen, die die Annahme aufdecken können, nur mit Zustimmung von Annehmendem und Kind offenbart werden. Gegenüber dem Kind gilt § 1758 BGB nicht: Es darf ab Vollendung des 16. Lebensjahres seine Personenstandsurkunden und auch Einträge der leiblichen Eltern einsehen (§ 62 Abs. 1 PStG), Einsicht in die Akten der Adoptionsvermittlungsstelle verlangen (§ 9b AdVermG) und beim Notar die für es erklärte Einwilligung einsehen. Die leiblichen Eltern sind dagegen durch § 1758 BGB weitgehend von Informationen ausgeschlossen.",
+  "id": "fami1-053"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Adoption",
+  "seite": "Adoption: Wirkungen (Verwandtschaft, Adoptionsgeheimnis, Staatsangehörigkeit, Erbrecht)",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-wirkungen-verwandtschaft-adoptionsgeheimnis-staatsangehorigkeit-erbrecht",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1755 BGB",
+   "§ 1755 Abs. 2 BGB",
+   "§ 1756 Abs. 1 BGB",
+   "§ 1770 BGB"
+  ],
+  "frage": "Ordne die Adoptionsform der verwandtschaftlichen Folge zu.",
+  "paare": [
+   [
+    "Gemeinschaftliche Annahme eines Minderjährigen durch fremde Ehegatten",
+    "Verwandtschaft zu allen bisherigen Verwandten erlischt (§ 1755 BGB)"
+   ],
+   [
+    "Stiefkindadoption",
+    "Nur Verwandtschaft zum anderen leiblichen Elternteil und dessen Verwandten erlischt (§ 1755 Abs. 2 BGB)"
+   ],
+   [
+    "Verwandtenadoption (z. B. durch Großeltern)",
+    "Nur Verwandtschaft zu den leiblichen Eltern erlischt (§ 1756 Abs. 1 BGB)"
+   ],
+   [
+    "Einfache Volljährigenadoption",
+    "Verwandtschaft zur leiblichen Familie bleibt; keine Verwandtschaft zu den Verwandten des Annehmenden (§ 1770 BGB)"
+   ]
+  ],
+  "erklaerung": "Die Minderjährigenadoption durch fremde Ehegatten ist Volladoption mit Erlöschen aller bisherigen Verwandtschaft (§ 1755 BGB). Bei der Stiefkindadoption erlischt nur die Linie des anderen leiblichen Elternteils (§ 1755 Abs. 2 BGB), bei der Verwandtenadoption im zweiten oder dritten Grad nur die Beziehung zu den leiblichen Eltern (§ 1756 Abs. 1 BGB), wobei erbrechtlich § 1925 Abs. 4 BGB zu beachten ist. Die einfache Volljährigenadoption schafft zusätzliche Elternverhältnisse ohne Verwandtschaft zur Adoptivfamilie im Übrigen (§ 1770 Abs. 1, 2 BGB).",
+  "id": "fami1-054"
  }
 ]
