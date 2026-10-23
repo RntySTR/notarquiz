@@ -450,5 +450,87 @@
   "frage": "Betreffen die Erklärungen mehrerer Beteiligter in einer Urkunde verschiedene Rechtsverhältnisse, haftet jeder Beteiligte gleichwohl für die gesamten Kosten der Urkunde.",
   "antwort": false,
   "erklaerung": "Nach § 30 Abs. 2 GNotKG haftet in diesem Fall jeder nur bis zu dem Betrag, der ohne die übrigen Erklärungen entstanden wäre. Die volle Gesamtschuld nach § 32 Abs. 1 GNotKG wird insoweit begrenzt."
+ },
+ {
+  "id": "kost4-020",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: Rechtsgrundlagen, Kostenbegriff und Aufbau des GNotKG",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-rechtsgrundlagen-kostenbegriff-und-aufbau-des-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 34 GNotKG"
+  ],
+  "frage": "Welche Gebührentabelle des GNotKG gilt für Notarkosten?",
+  "optionen": [
+   "Tabelle A",
+   "Ausschließlich Tabelle B",
+   "Tabelle A für Beurkundungen, Tabelle B für Vollzug und Betreuung",
+   "Je nach Wahl des Notars Tabelle A oder B"
+  ],
+  "antwort": 1,
+  "erklaerung": "Das GNotKG kennt die Tabellen A und B; welche gilt, ergibt sich aus der Spaltenüberschrift des Kostenverzeichnisses. Für Notarkosten gilt ausschließlich Tabelle B. Die Verwendung von Tabelle A nennt die Seite als typischen Fehler."
+ },
+ {
+  "id": "kost4-021",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: Rechtsgrundlagen, Kostenbegriff und Aufbau des GNotKG",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-rechtsgrundlagen-kostenbegriff-und-aufbau-des-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 89 GNotKG",
+   "§ 127 GNotKG",
+   "§ 7a GNotKG"
+  ],
+  "frage": "Ein Kostenschuldner zahlt die Kostenberechnung des Notars nicht und hält sie für überhöht. Was trifft zu?",
+  "optionen": [
+   "Der Notar muss seine Forderung vor dem Zivilgericht einklagen; Einwendungen prüft dort das Amtsgericht.",
+   "Der Notar muss die Kosten durch das Landgericht festsetzen lassen, bevor er vollstrecken kann.",
+   "Der Notar kann die Kostenberechnung mit Vollstreckungsklausel versehen; Einwendungen des Schuldners gehören unabhängig vom Betrag vor das Landgericht.",
+   "Einwendungen sind im Widerspruchsverfahren und anschließend vor dem Verwaltungsgericht geltend zu machen."
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Kostenberechnung wirkt ähnlich einem Verwaltungsakt; der Notar muss weder festsetzen lassen noch klagen, sondern kann sie nach § 89 GNotKG mit Vollstreckungsklausel und Dienstsiegel versehen und zustellen lassen. Einwendungen gehören trotz des öffentlich-rechtlichen Charakters nicht vor das Verwaltungsgericht, sondern unabhängig vom Betrag vor das Landgericht (§§ 127 ff. GNotKG)."
+ },
+ {
+  "id": "kost4-022",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: Rechtsgrundlagen, Kostenbegriff und Aufbau des GNotKG",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-rechtsgrundlagen-kostenbegriff-und-aufbau-des-gnotkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 91 GNotKG",
+   "§ 1 Abs. 1 GNotKG"
+  ],
+  "frage": "Ist ein Kostenschuldner nach Bundes- oder Landesrecht gebührenbegünstigt, erstreckt sich die Ermäßigung regelmäßig auch auf Auslagen und durchlaufende Posten.",
+  "antwort": false,
+  "erklaerung": "Gebührenermäßigungen und -befreiungen (etwa § 91 GNotKG) betreffen regelmäßig nur die Gebühr. Auslagen einschließlich durchlaufender Posten kann der Notar auch vom begünstigten Schuldner stets in voller Höhe verlangen; deshalb ist die Unterscheidung des § 1 Abs. 1 GNotKG zwischen Gebühren und Auslagen bedeutsam."
+ },
+ {
+  "id": "kost4-023",
+  "kapitel": "notarkosten",
+  "abschnitt": "Grundlagen und Kostenschuldner",
+  "seite": "Notarkosten: Rechtsgrundlagen, Kostenbegriff und Aufbau des GNotKG",
+  "quelle": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-rechtsgrundlagen-kostenbegriff-und-aufbau-des-gnotkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 32015 GNotKG",
+   "§ 89 GNotKG"
+  ],
+  "frage": "Der Notar verauslagt im Auftrag eines Beteiligten die Registrierungsgebühr beim Zentralen Vorsorgeregister. Wie ist dieser Betrag kostenrechtlich einzuordnen?",
+  "optionen": [
+   "Als durchlaufender Posten, der als Auslage des Notars gilt und von der Vollstreckbarkeit der Kostenberechnung umfasst ist",
+   "Als Teil der Beurkundungsgebühr, weil Bürokosten mit der Gebühr abgegolten sind",
+   "Als privatrechtlicher Aufwendungsersatzanspruch, der nur zivilrechtlich eingeklagt werden kann",
+   "Als nicht erstattungsfähig, weil Auslagen nur für eigene Aufwendungen des Notars entstehen"
+  ],
+  "antwort": 0,
+  "erklaerung": "Verauslagt der Notar fremde Kosten auf Rechnung und im Auftrag eines Beteiligten, liegen durchlaufende Posten vor (KV 32015 GNotKG), etwa Registrierungsgebühren beim ZVR oder ZTR. Sie gelten als Auslagen des Notars und sind von der Vollstreckbarkeit der Kostenberechnung (§ 89 GNotKG) umfasst. Mit der Gebühr abgegolten sind nur die laufenden Bürokosten, nicht besondere Aufwendungen des einzelnen Geschäfts."
  }
 ]

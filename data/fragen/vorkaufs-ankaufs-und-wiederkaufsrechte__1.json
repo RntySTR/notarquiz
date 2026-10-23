@@ -1,0 +1,278 @@
+[
+ {
+  "id": "vork1-001",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Dingliches Vorkaufsrecht: Bestellung, Form und Eintragung",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/dingliches-vorkaufsrecht-bestellung-form-und-eintragung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 873 Abs. 1 BGB",
+   "§ 19 GBO",
+   "§ 13 GBO"
+  ],
+  "frage": "Eigentümer E beantragt beim Grundbuchamt die Eintragung eines Vorkaufsrechts für V und legt nur seine öffentlich beglaubigte Bewilligung vor. Wie hat das Grundbuchamt zu verfahren?",
+  "optionen": [
+   "Es muss die Vorlage des nach § 311b Abs. 1 BGB beurkundeten Bestellungsvertrags verlangen.",
+   "Es trägt auf Bewilligung und Antrag ein; einen beurkundeten Verpflichtungsvertrag darf es nicht verlangen.",
+   "Es trägt nur ein, wenn zusätzlich die dingliche Einigung in der Form des § 29 GBO nachgewiesen wird.",
+   "Es trägt ein, vermerkt aber die fehlende Beurkundung als Widerspruch nach § 899 BGB."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach dem formellen Konsensprinzip genügen grundbuchrechtlich die Bewilligung des Eigentümers (§ 19 GBO) und ein Antrag (§ 13 GBO); das Grundbuchamt darf die Vorlage eines beurkundeten Verpflichtungsvertrags nicht verlangen. Die Beurkundungspflicht des § 311b Abs. 1 BGB betrifft nur das schuldrechtliche Bestellungsgeschäft, nicht das Eintragungsverfahren. Ein etwaiger Formmangel heilt mit der Eintragung entsprechend § 311b Abs. 1 S. 2 BGB."
+ },
+ {
+  "id": "vork1-002",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Dingliches Vorkaufsrecht: Bestellung, Form und Eintragung",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/dingliches-vorkaufsrecht-bestellung-form-und-eintragung",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 311b Abs. 1 BGB"
+  ],
+  "frage": "Das schuldrechtliche Geschäft, mit dem sich ein Eigentümer zur Einräumung eines dinglichen Vorkaufsrechts verpflichtet, ist formfrei, weil der Eigentümer sich nur bedingt zur Übereignung verpflichtet.",
+  "antwort": false,
+  "erklaerung": "§ 311b Abs. 1 S. 1 BGB erfasst auch bedingte oder befristete Verpflichtungen zur Übertragung eines Grundstücks; daraus folgt die Beurkundungsbedürftigkeit des Bestellungsgeschäfts. Formfrei ist nur die dingliche Einigung nach § 873 Abs. 1 BGB. Wird eingetragen, heilt ein Formmangel entsprechend § 311b Abs. 1 S. 2 BGB."
+ },
+ {
+  "id": "vork1-003",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Dingliches Vorkaufsrecht: Bestellung, Form und Eintragung",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/dingliches-vorkaufsrecht-bestellung-form-und-eintragung",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1094 BGB",
+   "§ 9 GBO",
+   "§ 874 BGB",
+   "§ 2174 BGB"
+  ],
+  "frage": "Ordne die Begriffe zum dinglichen Vorkaufsrecht der zutreffenden Aussage zu.",
+  "paare": [
+   [
+    "Subjektiv-persönliches Vorkaufsrecht",
+    "Berechtigt ist eine bestimmte natürliche oder juristische Person (§ 1094 Abs. 1 BGB)."
+   ],
+   [
+    "Subjektiv-dingliches Vorkaufsrecht",
+    "Berechtigt ist der jeweilige Eigentümer eines anderen Grundstücks (§ 1094 Abs. 2 BGB)."
+   ],
+   [
+    "Aktivvermerk",
+    "Vermerk des Rechts beim herrschenden Grundstück (§ 9 GBO)."
+   ],
+   [
+    "Bezugnahme",
+    "Für den über Bezeichnung, Berechtigte und Bedingungen hinausgehenden Inhalt genügt der Verweis auf die Bewilligung (§ 874 BGB)."
+   ],
+   [
+    "Vermächtnis",
+    "Ersetzt als Rechtsgrund den Verpflichtungsvertrag; der Erbe muss das Recht bestellen (§§ 1939, 2174 BGB)."
+   ]
+  ],
+  "erklaerung": "Berechtigter kann eine bestimmte Person oder der jeweilige Eigentümer eines anderen Grundstücks sein (§ 1094 Abs. 1, 2 BGB); nur beim subjektiv-dinglichen Recht ist ein Aktivvermerk nach § 9 GBO möglich. Im Eintragungsvermerk müssen nur Bezeichnung, Berechtigte und Bedingungen/Befristungen stehen (§§ 10, 15 GBV), im Übrigen genügt die Bezugnahme (§ 874 BGB). Beim Vermächtnis entsteht das Recht nicht von selbst, sondern der Erbe muss es bestellen."
+ },
+ {
+  "id": "vork1-004",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Dingliches Vorkaufsrecht: Bestellung, Form und Eintragung",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/dingliches-vorkaufsrecht-bestellung-form-und-eintragung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2174 BGB",
+   "§ 19 GBO",
+   "§ 29 GBO"
+  ],
+  "frage": "Erblasser E vermacht seiner Nichte N ein dingliches Vorkaufsrecht an seinem Grundstück. Was ist nach dem Erbfall zur Entstehung des Rechts erforderlich?",
+  "optionen": [
+   "Nichts weiter; das Vorkaufsrecht entsteht mit dem Erbfall kraft Gesetzes und wird im Wege der Grundbuchberichtigung eingetragen.",
+   "Ein beurkundeter Bestellungsvertrag zwischen Erbe und N nach § 311b Abs. 1 BGB, da das Vermächtnis den Vertrag nicht ersetzt.",
+   "Die formfreie Einigung zwischen Erbe und N sowie die Eintragungsbewilligung des Erben in der Form der §§ 19, 29 GBO.",
+   "Eine Eintragung allein aufgrund des eröffneten notariellen Testaments, ohne Mitwirkung des Erben."
+  ],
+  "antwort": 2,
+  "erklaerung": "Das Vermächtnis tritt an die Stelle des Verpflichtungsvertrags (§§ 1939, 2174 BGB) und begründet nur einen schuldrechtlichen Anspruch. Der Erbe muss das Vorkaufsrecht daher bestellen: formfreie Einigung mit dem Vermächtnisnehmer und Bewilligung in der Form der §§ 19, 29 GBO. Ein Erwerb kraft Gesetzes mit dem Erbfall scheidet aus; alternativ kann der Erblasser N zur Bestellung bevollmächtigen."
+ },
+ {
+  "id": "vork1-005",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Dingliches Vorkaufsrecht: Erlöschen",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/dingliches-vorkaufsrecht-erloschen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1098 Abs. 1 S. 1 BGB",
+   "§ 471 BGB",
+   "§ 52 Abs. 1 S. 2 ZVG",
+   "§ 91 ZVG"
+  ],
+  "frage": "Ein Vorkaufsrecht für alle Verkaufsfälle steht im Rang vor der Grundschuld, aus der die Bank die Zwangsversteigerung betreibt. Was gilt?",
+  "optionen": [
+   "Der Berechtigte kann das Vorkaufsrecht gegenüber dem Ersteher ausüben; das Recht erlischt danach.",
+   "Das Vorkaufsrecht geht mit dem Zuschlag unter, weil in der Zwangsversteigerung jedes Vorkaufsrecht erlischt.",
+   "Das Vorkaufsrecht bleibt bestehen, kann im Versteigerungsverfahren selbst aber nicht ausgeübt werden.",
+   "Das Vorkaufsrecht bleibt nur bestehen, wenn es vor dem Zuschlag ausdrücklich angemeldet wird."
+  ],
+  "antwort": 2,
+  "erklaerung": "In der Zwangsversteigerung ist die Ausübung ausgeschlossen (§§ 1098 Abs. 1 S. 1, 471 BGB). Ein Vorkaufsrecht für mehrere Verkaufsfälle bleibt aber bestehen, wenn es dem Recht des betreibenden Gläubigers im Rang vorgeht (§§ 52 Abs. 1 S. 2, 91 ZVG). Untergehen würde es nur bei Nachrang oder wenn es nur für einen Verkaufsfall bestellt ist."
+ },
+ {
+  "id": "vork1-006",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Dingliches Vorkaufsrecht: Erlöschen",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/dingliches-vorkaufsrecht-erloschen",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 180 ZVG"
+  ],
+  "frage": "Ein dingliches Vorkaufsrecht nur für den ersten Verkaufsfall erlischt in der Teilungsversteigerung nach § 180 ZVG ebenso wie in der Zwangsversteigerung.",
+  "antwort": false,
+  "erklaerung": "Die Teilungsversteigerung gemäß § 180 ZVG lässt auch ein Vorkaufsrecht für den ersten Verkaufsfall nicht erlöschen. Nur bei der Zwangsversteigerung (Vollstreckungsversteigerung) geht ein für einen Verkaufsfall bestelltes Recht unter, weil die Ausübung nach §§ 1098 Abs. 1 S. 1, 471 BGB ausgeschlossen ist."
+ },
+ {
+  "id": "vork1-007",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Dingliches Vorkaufsrecht: Erlöschen",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/dingliches-vorkaufsrecht-erloschen",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 397 BGB",
+   "§ 1097 BGB"
+  ],
+  "frage": "Unter welcher Voraussetzung bringt ein Erlassvertrag ein für alle Verkaufsfälle bestelltes dingliches Vorkaufsrecht zum Erlöschen?",
+  "optionen": [
+   "Wenn der Erlass vor Abschluss des ersten Kaufvertrags vereinbart wird.",
+   "Wenn der Erlass sämtliche denkbaren Verkaufsfälle erfasst.",
+   "Wenn der Erlass notariell beurkundet und im Grundbuch eingetragen wird.",
+   "Wenn der Erlass ausdrücklich erklärt wird; ein stillschweigender Erlass genügt nicht."
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Erlass (§ 397 BGB) bezieht sich auf den Übereignungsanspruch, der bei Ausübung entstünde. Bei einem Recht für mehrere oder alle Verkaufsfälle erlischt das Vorkaufsrecht nur, wenn der Erlass sämtliche denkbaren Verkaufsfälle erfasst. Der Erlass kann schon vor dem Kaufvertrag und unter Umständen stillschweigend geschlossen werden; die Löschung wirkt dann nur noch grundbuchberichtigend."
+ },
+ {
+  "id": "vork1-008",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Dingliches Vorkaufsrecht: Erlöschen",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/dingliches-vorkaufsrecht-erloschen",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 470 BGB",
+   "§ 473 S. 1 BGB",
+   "§ 875 BGB",
+   "§ 1097 BGB"
+  ],
+  "frage": "Ordne die Erlöschensgründe des dinglichen Vorkaufsrechts der zutreffenden Norm bzw. Voraussetzung zu.",
+  "paare": [
+   [
+    "Verkauf an gesetzlichen Erben mit Rücksicht auf künftiges Erbrecht (Recht für den ersten Verkaufsfall)",
+    "§ 470 BGB"
+   ],
+   [
+    "Tod des Berechtigten bei nicht vererblichem Recht",
+    "§ 473 S. 1 BGB"
+   ],
+   [
+    "Einseitige Aufhebungserklärung des Berechtigten und Löschung",
+    "§ 875 BGB"
+   ],
+   [
+    "Veräußerung aufgrund eines Vertrags, der kein Kauf ist (Recht für den ersten Verkaufsfall)",
+    "§ 1097 Hs. 1 BGB"
+   ]
+  ],
+  "erklaerung": "§ 470 BGB nimmt den Verkauf an einen gesetzlichen Erben mit Rücksicht auf dessen künftiges Erbrecht vom Vorkaufsfall aus; beim Recht nur für den ersten Verkaufsfall führt das zum Erlöschen. § 473 S. 1 BGB ordnet Unvererblichkeit an, § 875 BGB regelt die Aufhebung durch einseitige Erklärung und Löschung. Eine Veräußerung ohne Kauf (§ 1097 Hs. 1 BGB) verbraucht das Recht für den ersten Verkaufsfall, ohne dass es ausgeübt werden konnte."
+ },
+ {
+  "id": "vork1-009",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Dingliches Vorkaufsrecht: Inhalt, Übertragbarkeit und Verkaufsfälle",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/dingliches-vorkaufsrecht-inhalt-ubertragbarkeit-und-verkaufsfalle",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 473 S. 2 BGB",
+   "§ 1098 Abs. 1 BGB"
+  ],
+  "frage": "Ein dingliches Vorkaufsrecht wird ohne weitere Abrede für die Dauer von 20 Jahren bestellt. Was gilt im Zweifel?",
+  "optionen": [
+   "Es ist weder übertragbar noch vererblich.",
+   "Es ist übertragbar, aber nicht vererblich.",
+   "Es ist vererblich, jedoch nicht übertragbar.",
+   "Es ist übertragbar und vererblich."
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 473 S. 2 BGB ist ein auf bestimmte Zeit bestelltes Vorkaufsrecht im Zweifel vererblich, nicht aber übertragbar. Die Grundregel des § 473 S. 1 BGB (weder übertragbar noch vererblich) gilt nur für zeitlich unbegrenzte Rechte ohne abweichende Vereinbarung."
+ },
+ {
+  "id": "vork1-010",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Dingliches Vorkaufsrecht: Inhalt, Übertragbarkeit und Verkaufsfälle",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/dingliches-vorkaufsrecht-inhalt-ubertragbarkeit-und-verkaufsfalle",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 473 S. 1 BGB"
+  ],
+  "frage": "Der durch die Ausübung eines nicht übertragbaren Vorkaufsrechts entstandene Übereignungsanspruch kann frei abgetreten und vererbt werden.",
+  "antwort": true,
+  "erklaerung": "§ 473 S. 1 BGB betrifft nur das Vorkaufsrecht als Gestaltungsrecht, nicht den durch seine Ausübung entstandenen Anspruch auf Übereignung. Dieser ist ein gewöhnlicher Anspruch und frei übertragbar und vererblich."
+ },
+ {
+  "id": "vork1-011",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Dingliches Vorkaufsrecht: Inhalt, Übertragbarkeit und Verkaufsfälle",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/dingliches-vorkaufsrecht-inhalt-ubertragbarkeit-und-verkaufsfalle",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1097 BGB"
+  ],
+  "frage": "Für welche Verkaufsfälle gilt ein dingliches Vorkaufsrecht, wenn bei der Bestellung nichts dazu vereinbart wurde?",
+  "optionen": [
+   "Für alle Verkaufsfälle, solange es im Grundbuch eingetragen ist.",
+   "Nur für den ersten Verkaufsfall; wird es dabei nicht ausgeübt, erlischt es.",
+   "Für alle Verkäufe durch den Besteller, nicht aber durch dessen Rechtsnachfolger.",
+   "Für den ersten Verkaufsfall und für alle Verkäufe innerhalb von 30 Jahren."
+  ],
+  "antwort": 1,
+  "erklaerung": "Ohne besondere Abrede gilt das dingliche Vorkaufsrecht nur für den ersten Verkaufsfall und erlischt, wenn es dabei nicht ausgeübt wird. Die Erstreckung auf mehrere oder alle Verkaufsfälle (§ 1097 BGB) muss ausdrücklich vereinbart und eingetragen werden, wobei Bezugnahme auf die Bewilligung genügt."
+ },
+ {
+  "id": "vork1-012",
+  "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+  "abschnitt": "Dingliches Vorkaufsrecht",
+  "seite": "Dingliches Vorkaufsrecht: Inhalt, Übertragbarkeit und Verkaufsfälle",
+  "quelle": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/dingliches-vorkaufsrecht-inhalt-ubertragbarkeit-und-verkaufsfalle",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1097 BGB",
+   "§ 1094 BGB"
+  ],
+  "frage": "Die Beteiligten wünschen ein Vorkaufsrecht nur für den ersten Verkaufsfall, das aber nicht leicht unterlaufen werden soll. Welche Gestaltung ist zu empfehlen?",
+  "optionen": [
+   "Das Recht ausdrücklich als unvererblich und unübertragbar auszugestalten.",
+   "Das Recht erst erlöschen zu lassen, wenn ein Vorkaufsfall tatsächlich eingetreten ist und der Berechtigte ausüben konnte; bis dahin wirkt es auch gegen Rechtsnachfolger im Eigentum.",
+   "Das Recht auf Verkäufe des Bestellers selbst zu beschränken.",
+   "Das Recht nur schuldrechtlich zu vereinbaren und durch eine Vormerkung zu sichern."
+  ],
+  "antwort": 1,
+  "erklaerung": "Ein Recht nur für den ersten Verkaufsfall erlischt auch, wenn das Grundstück aufgrund eines anderen Vertragstyps als eines Kaufs veräußert wird, ohne dass je ausgeübt werden konnte. Deshalb empfiehlt sich, das Erlöschen an einen tatsächlich eingetretenen Vorkaufsfall mit Ausübungsmöglichkeit zu knüpfen und das Recht bis dahin gegen Rechtsnachfolger wirken zu lassen. Eine Beschränkung auf Verkäufe des Bestellers würde das Recht gerade weiter schwächen."
+ }
+]
