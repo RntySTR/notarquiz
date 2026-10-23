@@ -13,12 +13,12 @@
   ],
   "frage": "Welche Rechtsfolge knüpft das Gesetz beim Bauträgervertrag an die Abnahme der Bauleistung nach § 640 BGB?",
   "optionen": [
+   "Die Verjährung der Mängelansprüche beginnt erst mit der Eigentumsumschreibung im Grundbuch.",
    "Die zweijährige Verjährung der Mängelansprüche beginnt und die Beweislast für Mängel bleibt beim Bauträger.",
    "Die fünfjährige Verjährung der Mängelansprüche beginnt und die Beweislast für Mängel geht auf den Erwerber über.",
-   "Das Eigentum am Grundstück geht kraft Gesetzes auf den Erwerber über.",
-   "Die Verjährung der Mängelansprüche beginnt erst mit der Eigentumsumschreibung im Grundbuch."
+   "Das Eigentum am Grundstück geht kraft Gesetzes auf den Erwerber über."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Mit der Abnahme beginnt die fünfjährige Verjährung der Mängelansprüche nach § 634a Abs. 2 BGB, und die Beweislast für Mängel geht vom Bauträger auf den Erwerber über. Die zweijährige Frist gilt nur kaufrechtlich für mitverkaufte bewegliche Sachen, nicht für die Bauleistung. Der Eigentumsübergang hängt nicht von der Abnahme, sondern von Auflassung und Eintragung ab; die Abnahme bewirkt beim Bauträgervertrag meist nur Übergabe mit Besitz und wirtschaftlichem Übergang."
  },
  {
@@ -49,10 +49,10 @@
   ],
   "frage": "Unter welcher zusätzlichen Voraussetzung tritt die Abnahmefiktion nach § 640 Abs. 2 BGB gegenüber einem Verbraucher als Erwerber ein?",
   "optionen": [
-   "Der Bauträger muss die Fristsetzung notariell beglaubigen lassen.",
+   "Die Frist muss mindestens vier Wochen betragen und schriftlich gesetzt werden.",
    "Der Bauträger muss mit der Aufforderung zur Abnahme in Textform auf die Folgen des Fristablaufs hingewiesen haben.",
-   "Der Verbraucher muss zuvor eine technische Abnahme durch einen Sachverständigen durchgeführt haben.",
-   "Die Frist muss mindestens vier Wochen betragen und schriftlich gesetzt werden."
+   "Der Bauträger muss die Fristsetzung notariell beglaubigen lassen.",
+   "Der Verbraucher muss zuvor eine technische Abnahme durch einen Sachverständigen durchgeführt haben."
   ],
   "antwort": 1,
   "erklaerung": "Nach § 640 Abs. 2 BGB gilt das Werk als abgenommen, wenn der Besteller eine nach Fertigstellung gesetzte angemessene Frist verstreichen lässt, ohne die Abnahme unter Benennung wenigstens eines Mangels abzulehnen. Gegenüber Verbrauchern tritt die Fiktion nur ein, wenn der Unternehmer mit der Aufforderung in Textform auf die Folgen hingewiesen hat. Eine notarielle Form, eine Mindestfrist von vier Wochen oder eine vorherige technische Abnahme verlangt das Gesetz nicht; die Abnahme setzt gerade keine Prüfung des Werks voraus."
@@ -71,12 +71,12 @@
   ],
   "frage": "Der Erwerber kennt bei der Abnahme einen Mangel der Bauleistung und nimmt gleichwohl ohne Vorbehalt ab. Welche Folge hat dies nach § 640 Abs. 3 BGB?",
   "optionen": [
-   "Die Abnahme ist wegen des bekannten Mangels unwirksam.",
-   "Der Erwerber verliert alle Mängelrechte einschließlich des Schadensersatzanspruchs.",
    "Der Erwerber behält die Rechte auf Nacherfüllung, Selbstvornahme, Rücktritt und Minderung nach § 634 Nr. 1 bis 3 BGB nicht.",
-   "Die Verjährung der Mängelansprüche für diesen Mangel beginnt erst mit der Mängelrüge."
+   "Die Verjährung der Mängelansprüche für diesen Mangel beginnt erst mit der Mängelrüge.",
+   "Der Erwerber verliert alle Mängelrechte einschließlich des Schadensersatzanspruchs.",
+   "Die Abnahme ist wegen des bekannten Mangels unwirksam."
   ],
-  "antwort": 2,
+  "antwort": 0,
   "erklaerung": "Nimmt der Besteller ein Werk in Kenntnis eines Mangels ab, behält er die Rechte nach § 634 Nr. 1 bis 3 BGB nur, wenn er sie sich bei der Abnahme vorbehält (§ 640 Abs. 3 BGB). Der Rechtsverlust betrifft also nur Nacherfüllung, Selbstvornahme, Rücktritt und Minderung, nicht den Schadensersatz nach § 634 Nr. 4 BGB; die Option, alle Rechte gingen verloren, geht zu weit. Die Abnahme selbst bleibt wirksam."
  },
  {
@@ -98,9 +98,9 @@
    {
     "frage": "Ist durch den Einzug und die viermonatige beanstandungslose Nutzung eine schlüssige Abnahme eingetreten?",
     "optionen": [
-     "Ja, die Ingebrauchnahme ohne Beanstandung ist stets eine konkludente Abnahme.",
-     "Nein, die vereinbarte förmliche Abnahme verdrängt grundsätzlich die schlüssige Abnahme durch Nutzung.",
      "Ja, weil § 640 BGB keine Form vorschreibt und damit jede Vertragsregelung zur Form unbeachtlich ist.",
+     "Nein, die vereinbarte förmliche Abnahme verdrängt grundsätzlich die schlüssige Abnahme durch Nutzung.",
+     "Ja, die Ingebrauchnahme ohne Beanstandung ist stets eine konkludente Abnahme.",
      "Nein, weil eine Abnahme ohne vorherige Prüfung des Werks nie wirksam ist."
     ],
     "antwort": 1,
@@ -110,20 +110,20 @@
     "frage": "Welche Wirkung hat der Ablauf der von B gesetzten Dreiwochenfrist?",
     "optionen": [
      "Keine, weil die Abnahmefiktion gegenüber Verbrauchern ausgeschlossen ist.",
+     "Das Werk gilt als abgenommen, E kann die Abnahme aber binnen zwei Wochen widerrufen.",
      "Das Werk gilt nach § 640 Abs. 2 BGB als abgenommen, da E die Abnahme nicht unter Benennung wenigstens eines Mangels abgelehnt hat und der Hinweis in Textform erfolgte.",
-     "Keine, weil eine Abnahmefiktion nur bei einer Frist von mindestens einem Monat eintritt.",
-     "Das Werk gilt als abgenommen, E kann die Abnahme aber binnen zwei Wochen widerrufen."
+     "Keine, weil eine Abnahmefiktion nur bei einer Frist von mindestens einem Monat eintritt."
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Nach § 640 Abs. 2 BGB gilt das Werk als abgenommen, wenn der Besteller eine nach Fertigstellung gesetzte angemessene Frist verstreichen lässt, ohne die Abnahme unter Benennung wenigstens eines Mangels abzulehnen. Bei Verbrauchern ist zusätzlich der Hinweis auf die Folgen in Textform erforderlich, den B erteilt hat. Eine gesetzliche Mindestfrist von einem Monat oder ein Widerrufsrecht gibt es nicht."
    },
    {
     "frage": "Kann E wegen der nicht schließenden Terrassentür noch Nacherfüllung verlangen?",
     "optionen": [
-     "Ja, uneingeschränkt, weil die Abnahme die Mängelrechte nicht berührt.",
+     "Ja, weil die Verjährung von fünf Jahren nach § 634a Abs. 2 BGB noch läuft.",
      "Nein, E hat nach § 640 Abs. 3 BGB die Rechte aus § 634 Nr. 1 bis 3 BGB verloren, weil er den bekannten Mangel bei der Abnahme nicht vorbehalten hat.",
-     "Nein, weil mit der Abnahme sämtliche Mängelrechte einschließlich Schadensersatz erlöschen.",
-     "Ja, weil die Verjährung von fünf Jahren nach § 634a Abs. 2 BGB noch läuft."
+     "Ja, uneingeschränkt, weil die Abnahme die Mängelrechte nicht berührt.",
+     "Nein, weil mit der Abnahme sämtliche Mängelrechte einschließlich Schadensersatz erlöschen."
     ],
     "antwort": 1,
     "erklaerung": "E kannte den Mangel bei der Abnahme. Nach § 640 Abs. 3 BGB behält der Besteller die Rechte nach § 634 Nr. 1 bis 3 BGB, darunter die Nacherfüllung, nur bei Vorbehalt. Die laufende Verjährung ändert daran nichts, und ein vollständiger Verlust aller Mängelrechte tritt ebenfalls nicht ein, da § 640 Abs. 3 BGB den Schadensersatz nicht erfasst."
@@ -144,10 +144,10 @@
   ],
   "frage": "Welche Anforderung stellt der BGH (V ZR 91/25) an eine formularmäßige Vollmacht des Erwerbers, mit der der teilende Bauträger die Teilungserklärung nach Vertragsschluss ändern darf?",
   "optionen": [
-   "Die Vollmacht muss auf höchstens zwei Jahre nach Vertragsschluss befristet sein.",
-   "Die Klausel muss erkennen lassen, dass die Änderung von triftigen Gründen abhängt, und diese Gründe benennen.",
    "Die Vollmacht bedarf der Zustimmung aller bereits vorgemerkten Erwerber.",
-   "Die Klausel muss eine Entschädigung des Erwerbers für jede Änderung vorsehen."
+   "Die Klausel muss erkennen lassen, dass die Änderung von triftigen Gründen abhängt, und diese Gründe benennen.",
+   "Die Klausel muss eine Entschädigung des Erwerbers für jede Änderung vorsehen.",
+   "Die Vollmacht muss auf höchstens zwei Jahre nach Vertragsschluss befristet sein."
   ],
   "antwort": 1,
   "erklaerung": "Nach BGH vom 23.1.2026 – V ZR 91/25 muss die Klausel erkennen lassen, dass die Änderung von triftigen Gründen abhängt, und diese Gründe benennen; deren Voraussetzungen müssen die Interessen des Erwerbers erkennbar angemessen berücksichtigen. Maßstab ist wie bei Abweichungen der Bauausführung § 308 Nr. 4 BGB. Eine Befristung, eine Entschädigungspflicht oder die Zustimmung anderer Erwerber verlangt die Entscheidung nicht."
@@ -214,9 +214,9 @@
   ],
   "frage": "Wie funktioniert die Ausfertigungssperre zur Sicherung des Bauträgers bis zur Zahlung?",
   "optionen": [
-   "Die Auflassung wird erst nach Zahlung durch Notarangestellte aufgrund Vollmacht erklärt.",
-   "Auflassung und Bewilligung werden sofort erklärt; der Notar wird angewiesen, bis zur Umschreibung grundbuchfähige Abschriften nur auszugsweise ohne die Auflassung zu erteilen.",
    "Die Bewilligung des Bauträgers steht unter der aufschiebenden Bedingung des Umschreibungsantrags des Notars in Eigenurkunde.",
+   "Auflassung und Bewilligung werden sofort erklärt; der Notar wird angewiesen, bis zur Umschreibung grundbuchfähige Abschriften nur auszugsweise ohne die Auflassung zu erteilen.",
+   "Die Auflassung wird erst nach Zahlung durch Notarangestellte aufgrund Vollmacht erklärt.",
    "Das Grundbuchamt wird angewiesen, den Umschreibungsantrag bis zur Zahlungsbestätigung zurückzustellen."
   ],
   "antwort": 1,
@@ -233,9 +233,9 @@
   "normen": [
    "§ 925 BGB"
   ],
-  "frage": "Beim Bauträgervertrag darf das Eigentum ausnahmslos erst nach vollständiger Kaufpreiszahlung auf den Erwerber übergehen.",
-  "antwort": false,
-  "erklaerung": "Falsch. Grundsätzlich geht das Eigentum wie beim gewöhnlichen Immobilienkauf erst nach Kaufpreiszahlung über. Eine Ausnahme gilt aber, wenn der Bau steckenbleibt: Dann kann der Erwerber die vorzeitige Umschreibung verlangen. Die Sicherungsgestaltungen (getrennte Auflassung, Ausfertigungssperre, Bewilligungssperre) müssen diese Ausnahme berücksichtigen."
+  "frage": "Bleibt der Bau stecken, kann der Erwerber ausnahmsweise die Eigentumsumschreibung schon vor vollständiger Kaufpreiszahlung verlangen.",
+  "antwort": true,
+  "erklaerung": "Richtig. Grundsätzlich geht das Eigentum wie beim gewöhnlichen Immobilienkauf erst nach Kaufpreiszahlung über; die Sicherungsgestaltungen (getrennte Auflassung, Ausfertigungssperre, Bewilligungssperre) stellen das sicher. Eine Ausnahme gilt aber, wenn der Bau steckenbleibt: Dann kann der Erwerber die vorzeitige Umschreibung verlangen, Zug um Zug gegen den dem Bautenstand entsprechenden Preisanteil. Die Sicherungsgestaltung muss diese Ausnahme berücksichtigen."
  },
  {
   "id": "baut1-011",
@@ -250,12 +250,12 @@
   ],
   "frage": "Welche Aussage zur Bewilligungssperre beim Bauträgervertrag ist zutreffend?",
   "optionen": [
-   "Die Bewilligungssperre setzt voraus, dass die Auflassung erst nach Zahlung durch Notarangestellte erklärt wird.",
-   "In der ersten Form bewilligt der Notar die Eintragung selbst aufgrund unwiderruflicher Vollmacht und Anweisung; in der zweiten Form ist die Bewilligung des Bauträgers aufschiebend bedingt durch den Umschreibungsantrag des Notars in Eigenurkunde.",
    "Die Bewilligungssperre ist beim Bauträgervertrag wegen des Vorleistungsverbots der MaBV unzulässig.",
-   "Die Bewilligungssperre ersetzt die Auflassung, die erst mit dem Umschreibungsantrag als erklärt gilt."
+   "Die Bewilligungssperre ersetzt die Auflassung, die erst mit dem Umschreibungsantrag als erklärt gilt.",
+   "In der ersten Form bewilligt der Notar die Eintragung selbst aufgrund unwiderruflicher Vollmacht und Anweisung; in der zweiten Form ist die Bewilligung des Bauträgers aufschiebend bedingt durch den Umschreibungsantrag des Notars in Eigenurkunde.",
+   "Die Bewilligungssperre setzt voraus, dass die Auflassung erst nach Zahlung durch Notarangestellte erklärt wird."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Bei der Bewilligungssperre wird die Auflassung sofort erklärt und die Umschreibung über die Bewilligung gesteuert: Entweder bewilligt der Notar selbst aufgrund unwiderruflicher Bevollmächtigung und Anweisung, oder die Bewilligung des Bauträgers ist aufschiebend bedingt durch den Umschreibungsantrag des Notars in Eigenurkunde. Die spätere Erklärung der Auflassung durch Angestellte ist die getrennte Auflassung, nicht die Bewilligungssperre. Die MaBV steht diesen Gestaltungen nicht entgegen; sie sind auch beim Bauträgervertrag zulässig."
  },
  {
@@ -274,11 +274,11 @@
   "frage": "Welches Haftungsregime gilt beim Bauträgervertrag für Sachmängel?",
   "optionen": [
    "Einheitlich Werkvertragsrecht für Grundstück und Bauleistung, weil der Bauträgervertrag ein Werkvertrag ist.",
-   "Einheitlich Kaufrecht, weil der Bauträgervertrag der notariellen Beurkundung wie ein Kaufvertrag bedarf.",
    "Für den Grundbesitz Kaufrecht, für die Bauleistung Werkvertragsrecht.",
+   "Einheitlich Kaufrecht, weil der Bauträgervertrag der notariellen Beurkundung wie ein Kaufvertrag bedarf.",
    "Für den Grundbesitz Werkvertragsrecht, für die Bauleistung Kaufrecht."
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "Bei Sachmängeln ist zu trennen: Für den Grundbesitz gilt Kaufrecht (§ 433 Abs. 1 S. 2, § 434 BGB), für die Bauleistung Werkvertragsrecht mit den Mängelrechten des § 634 BGB. Ein einheitliches Regime gibt es nicht; die Beurkundungspflicht sagt über das Haftungsrecht nichts aus. Die Trennung ist wichtig, weil nur das Werkvertragsrecht die Selbstvornahme nach §§ 634 Nr. 2, 637 BGB kennt."
  },
  {
@@ -296,12 +296,12 @@
   ],
   "frage": "Der Bauträgervertrag schließt die Haftung für Sachmängel des Grundstücks aus. Nach Fertigstellung stellt sich heraus, dass Altlasten im Boden die Nutzung des Gebäudes einschränken. Greift der Haftungsausschluss?",
   "optionen": [
-   "Ja, weil Bodenverunreinigungen Sachmängel des Grundstücks sind, für die Kaufrecht und damit der Ausschluss gilt.",
    "Nein, weil ein Haftungsausschluss für Sachmängel des Grundstücks beim Bauträgervertrag generell unzulässig ist.",
-   "Nein, weil sich der Grundstücksmangel auf das Bauwerk auswirkt und insoweit die werkvertragliche Haftung gilt, die sich regelmäßig nicht beschränken lässt.",
-   "Ja, weil der Erwerber das Grundstück vor Vertragsschluss hätte untersuchen müssen."
+   "Ja, weil der Erwerber das Grundstück vor Vertragsschluss hätte untersuchen müssen.",
+   "Ja, weil Bodenverunreinigungen Sachmängel des Grundstücks sind, für die Kaufrecht und damit der Ausschluss gilt.",
+   "Nein, weil sich der Grundstücksmangel auf das Bauwerk auswirkt und insoweit die werkvertragliche Haftung gilt, die sich regelmäßig nicht beschränken lässt."
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Ein Ausschluss der Sachmängelhaftung für das Grundstück ist grundsätzlich möglich, da Kaufrecht gilt. Wirkt sich der Grundstücksmangel aber auf das Bauwerk aus, gilt insoweit die werkvertragliche Haftung, die sich regelmäßig nicht beschränken lässt. Hauptfall sind Altlasten, die die Nutzung des Gebäudes ausschließen oder einschränken. Die Option, der Ausschluss sei generell unzulässig, verkennt, dass er für reine Grundstücksmängel wirksam bleibt."
  },
  {
@@ -367,12 +367,12 @@
   ],
   "frage": "Erwerber E und die B-GmbH vereinbaren nach Beurkundung des Bauträgervertrags, aber vor Erklärung der Auflassung, mündlich eine hochwertigere Küchenausstattung gegen Aufpreis. Wie ist die Vereinbarung zu beurteilen?",
   "optionen": [
+   "Sie ist schwebend unwirksam bis zur Genehmigung durch das Grundbuchamt.",
    "Sie ist wirksam, weil Sonderwünsche als bloße Nebenabreden nicht der Beurkundung bedürfen.",
    "Sie ist formnichtig, da sie den Leistungsumfang ändert und bis zur Auflassung eines beurkundeten Nachtrags bedarf; Heilung tritt erst mit der Eigentumsumschreibung ein.",
-   "Sie ist wirksam, weil nach h. M. alle Nachträge zum Bauträgervertrag formlos möglich sind.",
-   "Sie ist schwebend unwirksam bis zur Genehmigung durch das Grundbuchamt."
+   "Sie ist wirksam, weil nach h. M. alle Nachträge zum Bauträgervertrag formlos möglich sind."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Später vereinbarte Sonderwünsche ändern den Leistungsumfang und bedürfen bis zur Erklärung der Auflassung eines beurkundeten Nachtrags (§ 311b Abs. 1 BGB). Ohne Beurkundung sind sie formnichtig und werden erst mit der Eigentumsumschreibung geheilt. Formlos wirksam sind Nachträge nach h. M. erst nach erklärter Auflassung, weshalb vorsichtige Bauträger die Auflassung frühzeitig erklären. Eine Grundbuchgenehmigung gibt es nicht."
  },
  {
@@ -389,11 +389,11 @@
   "frage": "Der Bauträgervertrag enthält keine Regelung zu Sonderwünschen. Kann der Erwerber vom Bauträger die Zulassung von Sonderwünschen verlangen?",
   "optionen": [
    "Ja, stets, weil der Erwerber als Besteller das Anordnungsrecht nach Werkvertragsrecht hat.",
-   "Nein, grundsätzlich nicht; nach § 242 BGB aber dann, wenn die Sonderwünsche den Bauträger weder nennenswert belasten noch seine Interessen beeinträchtigen.",
    "Nein, niemals, weil Sonderwünsche ohne ausdrückliche Vertragsregelung ausgeschlossen sind.",
-   "Ja, wenn der Erwerber die Mehrkosten im Voraus bezahlt."
+   "Ja, wenn der Erwerber die Mehrkosten im Voraus bezahlt.",
+   "Nein, grundsätzlich nicht; nach § 242 BGB aber dann, wenn die Sonderwünsche den Bauträger weder nennenswert belasten noch seine Interessen beeinträchtigen."
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Ohne vertragliche Regelung hat der Erwerber grundsätzlich keinen Anspruch auf Sonderwünsche. Nach Treu und Glauben (§ 242 BGB) kann er ihre Zulassung aber verlangen, wenn sie den Bauträger weder nennenswert belasten noch seine Interessen beeinträchtigen. Ein allgemeines Anordnungsrecht oder ein Anspruch gegen Vorkasse ergibt sich aus der Seite nicht; ebenso wenig ist ein stillschweigender Ausschluss anzunehmen."
  },
  {
@@ -442,8 +442,8 @@
   "optionen": [
    "Keine, weil eine allgemeine Bezugnahme nach § 13c BeurkG stets die gesamte Bezugsurkunde einschließlich aller Anlagen erfasst.",
    "Der Vertrag ist nach § 311b Abs. 1 BGB nichtig, weil der Leistungsinhalt unvollständig beurkundet ist; § 13c BeurkG verlangt eine ausdrückliche Verweisung.",
-   "Der Vertrag ist wirksam, die Baubeschreibung gilt aber als nicht vereinbart, sodass der Bauträger nur ein Werk mittlerer Art und Güte schuldet.",
-   "Der Vertrag ist schwebend unwirksam, bis der Erwerber die Baubeschreibung nachträglich genehmigt."
+   "Der Vertrag ist schwebend unwirksam, bis der Erwerber die Baubeschreibung nachträglich genehmigt.",
+   "Der Vertrag ist wirksam, die Baubeschreibung gilt aber als nicht vereinbart, sodass der Bauträger nur ein Werk mittlerer Art und Güte schuldet."
   ],
   "antwort": 1,
   "erklaerung": "Die Baubeschreibung bestimmt den Leistungsinhalt und ist nach § 311b Abs. 1 BGB zu beurkunden. Es genügt, sie in die Bezugsurkunde aufzunehmen und im Einzelvertrag nach § 13c BeurkG ausdrücklich auf sie zu verweisen. Fehlt die ausdrückliche Verweisung, ist der Vertragswille unvollständig beurkundet und der Vertrag nichtig. Das ist der auf der Seite genannte typische Fehler; eine Teilwirksamkeit mit Leistung mittlerer Art und Güte sieht die Seite nicht vor."
@@ -463,12 +463,12 @@
   ],
   "frage": "Wie wird beim Bauträgervertrag die Pflicht des Unternehmers nach § 650j Abs. 1 BGB erfüllt, dem Verbraucher rechtzeitig vor Vertragsschluss eine Baubeschreibung in Textform zu überlassen?",
   "optionen": [
-   "Durch Übergabe der Baubeschreibung im Beurkundungstermin vor Verlesung der Urkunde.",
-   "Dadurch, dass der Notar den Text des Vertrags und aller Bezugsurkunden unter Wahrung der Zweiwochenfrist des § 17 Abs. 2a BeurkG zur Verfügung stellt.",
    "Durch Hinterlegung der Baubeschreibung beim Grundbuchamt mit der Teilungserklärung.",
-   "Durch Übersendung der Baubeschreibung an den Erwerber innerhalb von zwei Wochen nach Beurkundung."
+   "Durch Übersendung der Baubeschreibung an den Erwerber innerhalb von zwei Wochen nach Beurkundung.",
+   "Dadurch, dass der Notar den Text des Vertrags und aller Bezugsurkunden unter Wahrung der Zweiwochenfrist des § 17 Abs. 2a BeurkG zur Verfügung stellt.",
+   "Durch Übergabe der Baubeschreibung im Beurkundungstermin vor Verlesung der Urkunde."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Nach § 650j Abs. 1 BGB muss der Unternehmer dem Verbraucher rechtzeitig vor Vertragsschluss eine Baubeschreibung nach Art. 249 EGBGB in Textform überlassen. Beim Bauträgervertrag ist dies erfüllt, wenn der Notar den Text des Vertrags und aller Bezugsurkunden unter Wahrung der Zweiwochenfrist des § 17 Abs. 2a BeurkG zur Verfügung stellt. Eine Übergabe erst im Termin oder nach Beurkundung wäre nicht rechtzeitig."
  },
  {
@@ -485,12 +485,12 @@
   ],
   "frage": "Die B-GmbH verkauft ein fertiggestelltes, noch als neu geltendes Reihenhaus; lediglich die Außenanlagen und der Innenanstrich stehen noch aus. Welche Anforderungen gelten für die Baubeschreibung?",
   "optionen": [
-   "Eine Baubeschreibung ist entbehrlich, weil das Gebäude besichtigt werden kann und kein Bauträgervertrag mehr vorliegt.",
    "Die Baubeschreibung darf für das fertige Gebäude knapper ausfallen; die noch ausstehenden Arbeiten sind aber genau zu beschreiben und mitzubeurkunden.",
-   "Die gesamte Leistung einschließlich aller Gewerke ist wie bei einem Neubau in Planung vollständig zu beschreiben.",
-   "Die ausstehenden Arbeiten können formlos in einem Übergabeprotokoll festgehalten werden."
+   "Die ausstehenden Arbeiten können formlos in einem Übergabeprotokoll festgehalten werden.",
+   "Eine Baubeschreibung ist entbehrlich, weil das Gebäude besichtigt werden kann und kein Bauträgervertrag mehr vorliegt.",
+   "Die gesamte Leistung einschließlich aller Gewerke ist wie bei einem Neubau in Planung vollständig zu beschreiben."
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Ist das Gebäude fertig, darf die Baubeschreibung knapper sein, weil der Gegenstand existiert und besichtigt werden kann. Noch ausstehende Arbeiten sind dagegen genau zu beschreiben, weil die Baubeschreibung auch für sie den Leistungsgegenstand bestimmt (§ 633 Abs. 2 S. 1 BGB) und daher nach § 311b Abs. 1 BGB mitzubeurkunden ist. Eine vollständige Neubau-Beschreibung ist nur bei Objekten in Planung oder im Bau nötig; eine formlose Festlegung genügt nicht."
  },
  {
@@ -524,10 +524,10 @@
   ],
   "frage": "Welche Regel gilt, wenn ein Bauträgervertrag keine Leistungszeit vereinbart?",
   "optionen": [
-   "Der Bauträger kann den Zeitpunkt der Fertigstellung nach billigem Ermessen bestimmen (§ 315 BGB).",
-   "Es gilt § 271 BGB: Der Bauträger muss bald nach Vertragsschluss beginnen und das Vorhaben zügig in angemessener Zeit durchführen.",
    "Der Vertrag ist nichtig, weil der Fertigstellungstermin zum beurkundungspflichtigen Mindestinhalt gehört.",
-   "Die Fertigstellung ist nach § 650k BGB spätestens zwei Jahre nach Vertragsschluss geschuldet."
+   "Es gilt § 271 BGB: Der Bauträger muss bald nach Vertragsschluss beginnen und das Vorhaben zügig in angemessener Zeit durchführen.",
+   "Die Fertigstellung ist nach § 650k BGB spätestens zwei Jahre nach Vertragsschluss geschuldet.",
+   "Der Bauträger kann den Zeitpunkt der Fertigstellung nach billigem Ermessen bestimmen (§ 315 BGB)."
   ],
   "antwort": 1,
   "erklaerung": "Fehlt eine vereinbarte Leistungszeit, gilt grundsätzlich § 271 BGB: Der Bauträger muss bald nach Vertragsschluss beginnen und das Vorhaben zügig in angemessener Zeit durchführen. Für Verbraucherbauverträge ist ein Fertigstellungstermin zwar nach §§ 650u Abs. 1 S. 2, 650k Abs. 3 S. 1 BGB vorgeschrieben, eine gesetzliche Zweijahresfrist oder eine Nichtigkeitsfolge nennt die Seite aber nicht. Ein einseitiges Bestimmungsrecht des Bauträgers besteht nicht."
@@ -546,12 +546,12 @@
   ],
   "frage": "Der Bauträgervertrag sieht vor, dass sich der Fertigstellungstermin bei nicht zu vertretenden Behinderungen verlängert. Die B-GmbH beruft sich auf allgemeine Lieferengpässe bei Dämmmaterial und eine gewöhnliche Schlechtwetterphase im Winter. Greift die Fristverlängerung?",
   "optionen": [
+   "Nein, weil Behinderungsklauseln in Bauträgerverträgen generell nach § 309 Nr. 8 BGB unwirksam sind.",
    "Ja, weil Lieferengpässe und Witterung außerhalb des Einflussbereichs des Bauträgers liegen und damit höhere Gewalt sind.",
-   "Nein, weil vorhersehbare, in der Branche übliche Risiken wie allgemeine Lieferengpässe und gewöhnliche Schlechtwetterphasen vom Bauträger einzuplanen sind; die Beweislast für eine nicht zu vertretende Behinderung trägt er.",
    "Ja, sofern der Erwerber die Behinderung nicht widerlegt, da ihn die Beweislast für das Vertretenmüssen trifft.",
-   "Nein, weil Behinderungsklauseln in Bauträgerverträgen generell nach § 309 Nr. 8 BGB unwirksam sind."
+   "Nein, weil vorhersehbare, in der Branche übliche Risiken wie allgemeine Lieferengpässe und gewöhnliche Schlechtwetterphasen vom Bauträger einzuplanen sind; die Beweislast für eine nicht zu vertretende Behinderung trägt er."
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Vorhersehbare, branchenübliche Risiken wie allgemeine Lieferengpässe, Materialknappheit, gewöhnliche Schlechtwetterphasen oder Personalmangel muss der Bauträger einplanen; auf sie kann er sich nicht als höhere Gewalt berufen. Die Beweislast für eine nicht zu vertretende Behinderung trägt der Bauträger, nicht der Erwerber. Behinderungsklauseln sind nicht generell unwirksam, sondern nur in diesen Grenzen; bei Verzug haftet der Bauträger nach § 280 Abs. 1 und 2, § 286 BGB, sofern er die Verzögerung zu vertreten hat (§ 280 Abs. 1 S. 2 BGB)."
  },
  {
@@ -583,12 +583,12 @@
   ],
   "frage": "Die Teilungserklärung ist beurkundet, aber im Grundbuch noch nicht vollzogen. Wie ist der Vertragsgegenstand im Bauträgervertrag zu behandeln?",
   "optionen": [
-   "Der Vertrag kann erst nach Vollzug der Teilung beurkundet werden, weil ein noch nicht existierendes Wohnungseigentum nicht verkauft werden kann.",
-   "Der fehlende Vollzug ist darzustellen, der Vertragsgegenstand anhand der Bezugsurkunde zu bezeichnen, und der Notar weist darauf hin, dass Vertrag und Finanzierungsgrundpfandrechte erst nach Vollzug der Aufteilung eingetragen werden können.",
+   "Der Vertrag wird unter der aufschiebenden Bedingung des Vollzugs der Teilungserklärung geschlossen und bis dahin nicht vollzogen.",
    "Die Einheit wird als Miteigentumsanteil am Gesamtgrundstück verkauft; die Zuordnung zur Wohnung erfolgt später formlos.",
-   "Der Vertrag wird unter der aufschiebenden Bedingung des Vollzugs der Teilungserklärung geschlossen und bis dahin nicht vollzogen."
+   "Der Vertrag kann erst nach Vollzug der Teilung beurkundet werden, weil ein noch nicht existierendes Wohnungseigentum nicht verkauft werden kann.",
+   "Der fehlende Vollzug ist darzustellen, der Vertragsgegenstand anhand der Bezugsurkunde zu bezeichnen, und der Notar weist darauf hin, dass Vertrag und Finanzierungsgrundpfandrechte erst nach Vollzug der Aufteilung eingetragen werden können."
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Fehlt der grundbuchliche Vollzug von Teilungserklärung oder Realteilung, ist dies im Vertrag darzustellen und der Vertragsgegenstand anhand der Bezugsurkunde (Aufteilungspläne, Abgeschlossenheitsbescheinigung) zu bezeichnen. Der Notar weist darauf hin, dass Vertrag und Finanzierungsgrundpfandrechte erst nach Vollzug der Aufteilung eingetragen werden können. Eine Beurkundungssperre oder ein formloser Zuordnungsvorbehalt ergeben sich daraus nicht."
  },
  {
@@ -602,9 +602,9 @@
   "normen": [
    "§ 633 Abs. 2 BGB"
   ],
-  "frage": "Schuldet der Bauträger nur die Sanierung eines Altbaus, genügt es, wenn sich das aus der Baubeschreibung ergibt; eine ausdrückliche Klarstellung im Bauträgervertrag, dass kein Neubau geschuldet ist, ist nicht erforderlich.",
-  "antwort": false,
-  "erklaerung": "Falsch. Schuldet der Bauträger keinen Neubau, sondern etwa die Sanierung eines Altbaus, muss der Bauträgervertrag ausdrücklich klarstellen, dass kein Neubau geschuldet ist. Die Leistungspflicht ist eindeutig festzulegen, Maßstab ist die Baubeschreibung; bei Bestandsgebäuden gehört auch der Umfang der Sanierung in die Beschreibung des Bauvorhabens am Vertragsanfang."
+  "frage": "Schuldet der Bauträger keinen Neubau, sondern die Sanierung eines Altbaus, muss der Bauträgervertrag ausdrücklich klarstellen, dass kein Neubau geschuldet ist.",
+  "antwort": true,
+  "erklaerung": "Richtig. Die Leistungspflicht ist eindeutig festzulegen, Maßstab ist die Baubeschreibung. Bei Bestandsgebäuden gehört der Umfang der Sanierung in die Beschreibung des Bauvorhabens am Vertragsanfang, und der Vertrag muss ausdrücklich klarstellen, dass kein Neubau geschuldet ist. Ein bloßer Rückschluss aus der Baubeschreibung genügt nicht."
  },
  {
   "id": "baut1-029",
@@ -619,12 +619,12 @@
   ],
   "frage": "Warum verlangt der Mustervertrag für ein Bauträgervorhaben dieselbe Sorgfalt wie die Bezugsurkunde?",
   "optionen": [
-   "Weil der Mustervertrag beim Grundbuchamt hinterlegt wird und für alle Erwerber verbindlich ist.",
    "Weil Fehler im Muster sich in allen Einzelverträgen des Vorhabens fortsetzen.",
+   "Weil der Mustervertrag vom Bauträger als AGB verwendet wird und deshalb der Notar für seine Wirksamkeit haftet.",
    "Weil der Mustervertrag nach § 13c BeurkG Bestandteil der Bezugsurkunde wird.",
-   "Weil der Mustervertrag vom Bauträger als AGB verwendet wird und deshalb der Notar für seine Wirksamkeit haftet."
+   "Weil der Mustervertrag beim Grundbuchamt hinterlegt wird und für alle Erwerber verbindlich ist."
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Zweckmäßig ist ein Mustervertrag, in den nur die individuellen Daten (Erwerber, Einheit, Preis, Sonderwünsche) eingesetzt werden. Fehler im Muster setzen sich in allen Verträgen fort; deshalb verlangt er dieselbe Sorgfalt wie die Bezugsurkunde. Der Mustervertrag wird weder hinterlegt noch Bestandteil der Bezugsurkunde; auf die Bezugsurkunde wird nach § 13c BeurkG im Einzelvertrag verwiesen."
  },
  {
@@ -643,11 +643,11 @@
   "frage": "Steht dem Verbraucher-Erwerber beim Bauträgervertrag ein Widerrufsrecht nach § 650l BGB zu?",
   "optionen": [
    "Ja, weil der Bauträgervertrag in aller Regel zugleich Verbraucherbauvertrag ist.",
+   "Nein, weil der Verbraucherbauvertrag generell kein Widerrufsrecht kennt.",
    "Nein, § 650l BGB ist nach § 650u Abs. 2 BGB ausgeschlossen; der Erwerber ist durch notarielle Belehrung und die Prüfungsfrist nach § 17 Abs. 2a S. 2 Nr. 2 BeurkG geschützt.",
-   "Ja, aber nur binnen zwei Wochen nach Beurkundung und nur bei fehlender Widerrufsbelehrung.",
-   "Nein, weil der Verbraucherbauvertrag generell kein Widerrufsrecht kennt."
+   "Ja, aber nur binnen zwei Wochen nach Beurkundung und nur bei fehlender Widerrufsbelehrung."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "§ 650u Abs. 2 BGB schließt § 650l BGB für den Bauträgervertrag aus; ein Widerrufsrecht des Erwerbers besteht nicht. Der Gesetzgeber hält den Erwerber durch die notarielle Belehrung und die Zweiwochenfrist nach § 17 Abs. 2a S. 2 Nr. 2 BeurkG für ausreichend vor Übereilung geschützt. Dass der Bauträgervertrag meist zugleich Verbraucherbauvertrag ist, ändert daran nichts; der Verbraucherbauvertrag selbst kennt das Widerrufsrecht des § 650l BGB, nur beim Bauträgervertrag ist es ausgeschlossen."
  },
  {
@@ -703,12 +703,12 @@
   ],
   "frage": "Die B-GmbH übersendet dem Verbraucher E den Entwurf des Bauträgervertrags drei Wochen vor dem Beurkundungstermin; die Bezugsurkunde erhält E nicht. Ist § 17 Abs. 2a BeurkG gewahrt?",
   "optionen": [
-   "Ja, weil die Zweiwochenfrist eingehalten ist und die Bezugsurkunde nur den Bauträger bindet.",
-   "Nein, weil der Text vom beurkundenden Notar oder seinem Sozius zur Verfügung zu stellen ist, nicht vom Bauträger, und auch die Bezugsurkunden umfasst sein müssen.",
+   "Nein, weil die Frist bei Verbrauchern vier Wochen beträgt.",
    "Ja, sofern der Notar die Übersendung durch den Bauträger nachträglich genehmigt.",
-   "Nein, weil die Frist bei Verbrauchern vier Wochen beträgt."
+   "Nein, weil der Text vom beurkundenden Notar oder seinem Sozius zur Verfügung zu stellen ist, nicht vom Bauträger, und auch die Bezugsurkunden umfasst sein müssen.",
+   "Ja, weil die Zweiwochenfrist eingehalten ist und die Bezugsurkunde nur den Bauträger bindet."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Ist der Besteller Verbraucher, ist § 17 Abs. 2a BeurkG streng einzuhalten: Den Text des Vertrags und der Bezugsurkunden stellt der beurkundende Notar oder sein Sozius spätestens zwei Wochen vor dem Termin zur Verfügung, nicht der Bauträger und nicht ein Zentralnotar. Die Seite nennt als typischen Fehler genau diese Konstellation: Versand durch den Bauträger oder Übermittlung nur des Vertragstextes ohne Bezugsurkunden. Die Frist beträgt zwei Wochen, nicht vier."
  },
  {
@@ -728,11 +728,11 @@
   "frage": "Über welche Vorschriften wirkt die MaBV als öffentliches Recht auf den zivilrechtlichen Bauträgervertrag ein, und mit welchen Regelungen?",
   "optionen": [
    "Über § 650u Abs. 1 BGB; mit der gesamten MaBV einschließlich der Buchführungs- und Prüfpflichten.",
-   "Über § 650v BGB, Art. 244 EGBGB und § 1 HausbauVO; mit § 3 MaBV (Zahlung nach Baufortschritt) und § 7 MaBV (Bürgschaft bei abweichenden Vorauszahlungen).",
    "Über § 311b Abs. 1 BGB; mit § 2 MaBV (Sicherung der Erwerbergelder).",
+   "Über § 650v BGB, Art. 244 EGBGB und § 1 HausbauVO; mit § 3 MaBV (Zahlung nach Baufortschritt) und § 7 MaBV (Bürgschaft bei abweichenden Vorauszahlungen).",
    "Über § 34c GewO unmittelbar; mit § 3 MaBV und § 8 MaBV."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Die MaBV ist öffentliches Recht und gilt nach § 1 MaBV für Gewerbetreibende mit Tätigkeiten nach § 34c Abs. 1 GewO. Auf den Bauträgervertrag wirkt sie nur teilweise ein, nämlich über § 650v BGB, Art. 244 EGBGB und § 1 HausbauVO mit § 3 MaBV (Zahlung nach Baufortschritt) und § 7 MaBV (Bürgschaft bei abweichenden Vorauszahlungen). Eine unmittelbare zivilrechtliche Geltung der gesamten Verordnung besteht nicht."
  },
  {
@@ -764,12 +764,12 @@
   ],
   "frage": "Welche beiden Pflichten des Unternehmers verbindet der Bauträgervertrag nach der Legaldefinition des § 650u Abs. 1 BGB?",
   "optionen": [
-   "Errichtung oder Umbau eines Bauwerks und Verschaffung von Eigentum am Grundstück bzw. Bestellung oder Übertragung eines Erbbaurechts.",
    "Planung und Bauüberwachung eines Bauwerks auf dem Grundstück des Bestellers.",
+   "Verkauf eines Grundstücks und Vermittlung eines Bauunternehmers an den Erwerber.",
    "Errichtung eines Bauwerks und Vermittlung der Finanzierung für den Besteller.",
-   "Verkauf eines Grundstücks und Vermittlung eines Bauunternehmers an den Erwerber."
+   "Errichtung oder Umbau eines Bauwerks und Verschaffung von Eigentum am Grundstück bzw. Bestellung oder Übertragung eines Erbbaurechts."
   ],
-  "antwort": 0,
+  "antwort": 3,
   "erklaerung": "Nach § 650u Abs. 1 BGB verpflichtet sich der Unternehmer, ein Haus oder vergleichbares Bauwerk zu errichten oder umzubauen und dem Besteller das Eigentum am Grundstück zu verschaffen oder ein Erbbaurecht zu bestellen bzw. zu übertragen. Planung und Überwachung auf dem Grundstück des Bauherrn kennzeichnen den Baubetreuungsvertrag; fehlt die Eigentumsverschaffung, liegt nur ein Bauvertrag nach §§ 650a ff. BGB vor."
  },
  {
@@ -809,34 +809,34 @@
    {
     "frage": "Wie ist der Vertrag zwischen der V-GmbH und K einzuordnen?",
     "optionen": [
-     "Als gewöhnlicher Grundstückskaufvertrag, weil das Haus fertiggestellt ist und nur Renovierungsarbeiten geschuldet sind.",
      "Als Bauträgervertrag, weil das Objekt nach der Verkehrsanschauung noch als neu gilt; ein leerstehendes Objekt bis etwa zwei Jahre nach Bauende ist Neubau.",
-     "Als Bauvertrag nach § 650a BGB, weil die V-GmbH Werkleistungen schuldet.",
-     "Als Baubetreuungsvertrag, weil die V-GmbH die Arbeiten für K organisiert."
+     "Als Baubetreuungsvertrag, weil die V-GmbH die Arbeiten für K organisiert.",
+     "Als gewöhnlicher Grundstückskaufvertrag, weil das Haus fertiggestellt ist und nur Renovierungsarbeiten geschuldet sind.",
+     "Als Bauvertrag nach § 650a BGB, weil die V-GmbH Werkleistungen schuldet."
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "Die Errichtung meint einen Neubau; ein fertiggestelltes Objekt gilt weiter als Neubau, solange es nach der Verkehrsanschauung neu ist. Maßgeblich sind Dauer seit Fertigstellung und Art der Nutzung; ein leerstehendes Objekt bleibt länger neu als ein bewohntes, als grobe Orientierung gelten etwa zwei Jahre. Bei 20 Monaten Leerstand liegt daher ein Bauträgervertrag vor, für den neben Kaufrecht auch Werkvertragsrecht gilt."
    },
    {
     "frage": "Wäre das Haus bereits vier Jahre alt und zwischenzeitlich vermietet gewesen, wie wären die zugesagten Malerarbeiten und die Teppicherneuerung zu behandeln?",
     "optionen": [
      "Als Umbau, sodass weiterhin ein Bauträgervertrag vorliegt.",
-     "Als bloße Renovierung, sodass ein Kaufvertrag mit werkvertraglichen Elementen vorliegt; die Arbeiten sind zu beschreiben, die Abnahme als Fälligkeitsvoraussetzung vorzusehen, für Mängel gilt Werkvertragsrecht.",
      "Als unbeachtliche Nebenleistung, für die ausschließlich Kaufrecht gilt.",
+     "Als bloße Renovierung, sodass ein Kaufvertrag mit werkvertraglichen Elementen vorliegt; die Arbeiten sind zu beschreiben, die Abnahme als Fälligkeitsvoraussetzung vorzusehen, für Mängel gilt Werkvertragsrecht.",
      "Als Bauvertrag nach § 650a BGB, der gesondert und formfrei zu schließen ist."
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Ein Umbau verlangt wesentliche Eingriffe in Konstruktion oder Bestand (vgl. § 650a Abs. 1 BGB). Streichen und Bodenerneuerung sind bloße Renovierung; es liegt kein Bauträgervertrag vor, sondern ein Kaufvertrag mit werkvertraglichen Elementen. Dann sind die Renovierungsarbeiten im Vertrag zu beschreiben, die Abnahme als Fälligkeitsvoraussetzung vorzusehen, und für Mängel dieser Arbeiten gilt Werkvertragsrecht."
    },
    {
     "frage": "Bedarf der Vertrag zwischen N und der V-GmbH über das Haus auf N's eigenem Grundstück der notariellen Beurkundung?",
     "optionen": [
-     "Ja, weil jeder Vertrag mit einem Bauträger nach § 311b Abs. 1 BGB beurkundungspflichtig ist.",
      "Nein, es liegt nur ein Bauvertrag nach §§ 650a ff. BGB vor; mangels Eigentumsverschaffung ist § 311b BGB nicht anwendbar.",
      "Ja, weil der Verbraucherbauvertrag nach § 650i BGB der notariellen Form bedarf.",
+     "Ja, weil jeder Vertrag mit einem Bauträger nach § 311b Abs. 1 BGB beurkundungspflichtig ist.",
      "Nein, aber die Baubeschreibung muss nach § 13c BeurkG in einer Bezugsurkunde beurkundet werden."
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "Steht das Grundstück bereits im Eigentum des Bestellers, fehlt die Pflicht zur Übertragung von Eigentum oder Erbbaurecht; es liegt nur ein Bauvertrag nach §§ 650a ff. BGB vor. Der reine Bauvertrag ist mangels Anwendbarkeit von § 311b BGB nicht beurkundungsbedürftig. § 650i BGB ordnet keine notarielle Form an, und eine Bezugsurkunde ist ein Instrument des Bauträgervertrags."
    }
   ],
@@ -856,10 +856,10 @@
   ],
   "frage": "Welche Vorkehrungen empfiehlt die Praxis bei Verkauf eines schon länger fertiggestellten Objekts durch den Bauträger?",
   "optionen": [
-   "Auf Abnahme und Baubeschreibung verzichten, da das Objekt besichtigt werden kann und nur Kaufrecht gilt.",
+   "Eine Bürgschaft nach § 7 MaBV verlangen, weil die Fälligkeitsregeln des § 3 MaBV nicht mehr anwendbar sind.",
    "Im Zweifel eine Abnahme vereinbaren und durchführen lassen sowie die Baubeschreibung mitbeurkunden oder nach § 13c BeurkG einbeziehen; im Datenblatt das Jahr der Errichtung erfragen.",
    "Den Vertrag als reinen Kaufvertrag mit vollständigem Haftungsausschluss gestalten.",
-   "Eine Bürgschaft nach § 7 MaBV verlangen, weil die Fälligkeitsregeln des § 3 MaBV nicht mehr anwendbar sind."
+   "Auf Abnahme und Baubeschreibung verzichten, da das Objekt besichtigt werden kann und nur Kaufrecht gilt."
   ],
   "antwort": 1,
   "erklaerung": "Weil die Einordnung als Neubau nach Verkehrsanschauung unsicher sein kann, sollte bei schon länger fertiggestellten Objekten im Zweifel eine Abnahme vereinbart und tatsächlich durchgeführt werden; zudem ist die Baubeschreibung mitzubeurkunden oder durch Verweisung nach § 13c BeurkG einzubeziehen. Im Datenblatt ist das Jahr der Errichtung bzw. Sanierung zu erfragen. Ein Verzicht auf diese Vorkehrungen verkennt, dass bei Neubaueigenschaft Werkvertragsrecht gilt."
@@ -878,12 +878,12 @@
   ],
   "frage": "Warum ist die aufschiebend bedingte Zuordnung von Sondernutzungsrechten in der Praxis die verbreitetste Gestaltung?",
   "optionen": [
-   "Weil sie als einzige Lösung ohne Eintragung im Grundbuch auskommt.",
-   "Weil der Nutzungsausschluss bereits in der Gemeinschaftsordnung angelegt ist und daher bei der späteren Zuweisung weder die übrigen Eigentümer mitwirken noch dinglich Berechtigte zustimmen müssen.",
    "Weil sie dem Erwerber automatisch eine Vormerkung an der abgebenden Einheit verschafft.",
-   "Weil sie anders als die Ermächtigungslösung auch in der Insolvenz des Bauträgers Bestand hat."
+   "Weil sie als einzige Lösung ohne Eintragung im Grundbuch auskommt.",
+   "Weil sie anders als die Ermächtigungslösung auch in der Insolvenz des Bauträgers Bestand hat.",
+   "Weil der Nutzungsausschluss bereits in der Gemeinschaftsordnung angelegt ist und daher bei der späteren Zuweisung weder die übrigen Eigentümer mitwirken noch dinglich Berechtigte zustimmen müssen."
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Bei der aufschiebend bedingten Zuordnung schließt die Gemeinschaftsordnung die Eigentümer von der Nutzung der Flächen aus und ermächtigt den Bauträger zur Zuweisung; der Ausschluss steht unter der Bedingung einer Zuweisungserklärung in der Form des § 29 GBO, die dem Grundbuchamt zugeht. Da der Ausschluss schon in der Teilungserklärung angelegt ist, bedarf es weder der Mitwirkung der übrigen Eigentümer noch der Zustimmung dinglich Berechtigter. Die Vormerkung an der abgebenden Einheit ist ein Merkmal der Sammeleinheitslösung."
  },
  {
@@ -949,12 +949,12 @@
   ],
   "frage": "Bei der Vollmachtslösung müssen eingetragene Grundpfandgläubiger der Zuweisung eines Sondernutzungsrechts an eine andere Einheit grundsätzlich zustimmen. Unter welcher Voraussetzung entfällt dieses Zustimmungserfordernis?",
   "optionen": [
+   "Wenn die Vollmacht in der Bezugsurkunde unwiderruflich erteilt wurde.",
    "Wenn der Bauträger die Zuweisung in grundbuchtauglicher Form nach § 29 GBO erklärt.",
-   "Wenn die Gesamtgrundschuld des Gläubigers auch auf der begünstigten Einheit lastet.",
    "Wenn der Erwerber der belasteten Einheit noch nicht im Grundbuch eingetragen ist.",
-   "Wenn die Vollmacht in der Bezugsurkunde unwiderruflich erteilt wurde."
+   "Wenn die Gesamtgrundschuld des Gläubigers auch auf der begünstigten Einheit lastet."
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Dinglich Berechtigte, vor allem Grundpfandgläubiger, müssen zustimmen, weil ihnen durch die Zuweisung ein Recht entzogen wird. Das entfällt, wenn ihre Gesamtgrundschuld auch auf der begünstigten Einheit lastet, weil ihnen dann wirtschaftlich nichts verloren geht. Die Form des § 29 GBO ist Merkmal der bedingten Zuordnung, und die Unwiderruflichkeit der Vollmacht ändert am Rechtsentzug nichts; zudem erlischt die Vollmacht in der Insolvenz des Erwerbers (§ 117 Abs. 1 InsO)."
  },
  {
@@ -971,12 +971,12 @@
   ],
   "frage": "Welche Auslagerung in eine Bezugsurkunde ist nach den Richtlinien der Notarkammer Baden-Württemberg unzulässig?",
   "optionen": [
+   "Der Entwurf des Verwaltervertrags als künftiges Rechtsgeschäft.",
    "Die Teilungserklärung mit Gemeinschaftsordnung.",
    "Die Baubeschreibung als Beschreibung des Vertragsgegenstands.",
-   "Die missbräuchliche Auslagerung geschäftswesentlicher Vereinbarungen.",
-   "Der Entwurf des Verwaltervertrags als künftiges Rechtsgeschäft."
+   "Die missbräuchliche Auslagerung geschäftswesentlicher Vereinbarungen."
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Die Verweisung nach § 13c BeurkG auf eine Bezugsurkunde ist mit dem Beurkundungsverfahren vereinbar; nach Ziff. II Nr. 2 der Richtlinien der Notarkammer Baden-Württemberg ist nur unzulässig, geschäftswesentliche Vereinbarungen missbräuchlich auszulagern. Zulässig ist die Verweisung auf Urkunden, die nach § 14 BeurkG nicht vorgelesen werden müssen, den Vertragsgegenstand beschreiben, bestehende Rechtsverhältnisse darstellen oder Entwürfe künftiger Rechtsgeschäfte enthalten; Teilungserklärung, Gemeinschaftsordnung, Verwaltervertrag und Baubeschreibung nennt die Richtlinie ausdrücklich als Beispiele."
  },
  {
@@ -993,12 +993,12 @@
   ],
   "frage": "Nach dem Verkauf von 18 der 24 Einheiten stellt sich heraus, dass die Bezugsurkunde eine zu übernehmende Dienstbarkeit übersehen hat. Warum spricht die Seite hier von einem Serienschaden?",
   "optionen": [
+   "Weil die Dienstbarkeit mit jedem weiteren Verkauf kraft Gesetzes erlischt und der Berechtigte Schadensersatz von allen Erwerbern verlangen kann.",
    "Weil der Fehler in jedem auf der Bezugsurkunde aufbauenden Vertrag fortwirkt und eine Berichtigung die Mitwirkung aller Erwerber und Finanzierungsgläubiger in der Form des § 29 GBO erfordert.",
    "Weil die Bezugsurkunde nach § 13c BeurkG nur einheitlich für alle Verträge geändert werden kann und dafür eine erneute Beurkundung mit dem Bauträger allein genügt.",
-   "Weil das Grundbuchamt bei Fehlern in der Bezugsurkunde sämtliche Eintragungen von Amts wegen löscht.",
-   "Weil die Dienstbarkeit mit jedem weiteren Verkauf kraft Gesetzes erlischt und der Berechtigte Schadensersatz von allen Erwerbern verlangen kann."
+   "Weil das Grundbuchamt bei Fehlern in der Bezugsurkunde sämtliche Eintragungen von Amts wegen löscht."
   ],
-  "antwort": 0,
+  "antwort": 1,
   "erklaerung": "Ein Fehler in der Bezugsurkunde wirkt in jedem darauf aufbauenden Vertrag fort. Sind viele Einheiten verkauft, ist eine Berichtigung kaum durchführbar, weil alle Erwerber und Finanzierungsgläubiger in der Form des § 29 GBO mitwirken müssen; es droht ein Serienschaden mit möglicher Notarhaftung. Eine erneute Beurkundung allein mit dem Bauträger genügt nicht, da die Erwerber bereits Rechte erworben haben. Deshalb ist vor Errichtung der Bezugsurkunde zu klären, ob Dienstbarkeiten zu bestellen sind."
  },
  {
@@ -1015,12 +1015,12 @@
   ],
   "frage": "Die Abgeschlossenheitsbescheinigung liegt bei Errichtung der Bezugsurkunde noch nicht vor. Wie wird üblicherweise verfahren?",
   "optionen": [
-   "Die Beurkundung der Bauträgerverträge muss bis zur Erteilung der Bescheinigung zurückgestellt werden.",
-   "Es wird vorläufig aufgeteilt; nach Vorliegen der Bescheinigung werden Teilungserklärung und Einzelverträge durch einen Nachtrag ergänzt, der über eine Angestelltenvollmacht ohne erneutes Erscheinen der Beteiligten beurkundet werden kann.",
    "Die Bescheinigung wird durch eine Erklärung des Bauträgers in der Bezugsurkunde ersetzt.",
-   "Die Teilung erfolgt nach § 3 WEG durch Vertrag aller Erwerber, sobald diese feststehen."
+   "Die Beurkundung der Bauträgerverträge muss bis zur Erteilung der Bescheinigung zurückgestellt werden.",
+   "Die Teilung erfolgt nach § 3 WEG durch Vertrag aller Erwerber, sobald diese feststehen.",
+   "Es wird vorläufig aufgeteilt; nach Vorliegen der Bescheinigung werden Teilungserklärung und Einzelverträge durch einen Nachtrag ergänzt, der über eine Angestelltenvollmacht ohne erneutes Erscheinen der Beteiligten beurkundet werden kann."
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Meist teilt der Bauträger nach § 8 WEG; liegt die Abgeschlossenheitsbescheinigung der Baurechtsbehörde noch nicht vor, wird oft vorläufig aufgeteilt, und die Bauträgerverträge nehmen darauf Bezug. Nach Vorliegen der Bescheinigung werden Teilungserklärung und Einzelverträge durch einen Nachtrag zur Feststellung des Vertragsgegenstands ergänzt, der über eine Angestelltenvollmacht beurkundet werden kann. Eine Beurkundungssperre oder eine Ersetzung der Bescheinigung durch Erklärung des Bauträgers sieht die Seite nicht vor."
  },
  {
@@ -1052,12 +1052,12 @@
   ],
   "frage": "E kauft ein Grundstück von V und schließt mit dem Bauunternehmer U einen Vertrag über die Errichtung eines Hauses darauf. Wie ist die Beurkundungsbedürftigkeit zu beurteilen?",
   "optionen": [
+   "Keiner der Verträge ist beurkundungspflichtig, weil die Bauleistung von einem Dritten erbracht wird.",
    "Nur der Kaufvertrag mit V ist beurkundungspflichtig; der Bauvertrag mit U ist als reiner Werkvertrag formfrei.",
    "Beide Verträge sind regelmäßig nach § 311b Abs. 1 S. 1 BGB zu beurkunden, weil sie aus Sicht des Erwerbers voneinander abhängen sollen, obwohl kein Bauträgervertrag vorliegt.",
-   "Es liegt ein Bauträgervertrag nach § 650u BGB vor, sodass beide Verträge zwingend in einer Urkunde zu beurkunden sind.",
-   "Keiner der Verträge ist beurkundungspflichtig, weil die Bauleistung von einem Dritten erbracht wird."
+   "Es liegt ein Bauträgervertrag nach § 650u BGB vor, sodass beide Verträge zwingend in einer Urkunde zu beurkunden sind."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Gehört das Grundstück einem Dritten, fehlt es an einem Bauträgervertrag, weil V keine Bauleistung und U keine Eigentumsverschaffung schuldet. Gleichwohl sind beide Verträge regelmäßig nach § 311b Abs. 1 S. 1 BGB zu beurkunden, weil sie aus Sicht des Erwerbers voneinander abhängen sollen. Eine gemeinsame Urkunde empfiehlt sich, ist aber nicht zwingend; zwei getrennte Urkunden sind möglich, wobei die Pflichten scharf zu trennen und die Folgen von Leistungsstörungen im jeweils anderen Vertrag zu regeln sind."
  },
  {
@@ -1079,34 +1079,34 @@
    {
     "frage": "Die Haus-GmbH meint, mangels Bauträgervertrags gelte die MaBV nicht. Trifft das zu?",
     "optionen": [
-     "Ja, weil die MaBV nur für den Vertragstyp des § 650u BGB gilt und E zwei verschiedene Vertragspartner hat.",
-     "Nein, die MaBV gilt trotz verschiedener Vertragspartner, wenn Grundstückskaufvertrag und Bauvertrag rechtlich als Einheit anzusehen sind.",
+     "Ja, sofern der Bauvertrag nach § 650l BGB widerruflich ausgestaltet ist.",
      "Nein, weil die MaBV auf jeden Bauvertrag mit einem Verbraucher anwendbar ist.",
-     "Ja, sofern der Bauvertrag nach § 650l BGB widerruflich ausgestaltet ist."
+     "Nein, die MaBV gilt trotz verschiedener Vertragspartner, wenn Grundstückskaufvertrag und Bauvertrag rechtlich als Einheit anzusehen sind.",
+     "Ja, weil die MaBV nur für den Vertragstyp des § 650u BGB gilt und E zwei verschiedene Vertragspartner hat."
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Werkunternehmer schlagen die Aufspaltung teils gerade vor, um den Schutz der MaBV auszuhebeln. Die MaBV gilt aber trotz verschiedener Vertragspartner, wenn Grundstückskaufvertrag und Bauvertrag rechtlich als Einheit anzusehen sind. Auf einen reinen Bauvertrag ohne Grundstücksbezug ist die MaBV dagegen nicht anwendbar."
    },
    {
     "frage": "Welche Umstände des Falls sprechen für eine rechtliche Einheit der beiden Verträge?",
     "optionen": [
-     "Nur die Festpreiswerbung, weil die übrigen Umstände unerheblich sind.",
      "Die Verflechtung der Vertragspartner über identische Gesellschafter, die Pflicht zur Rückübertragung des Grundstücks bei Kündigung und die Fälligkeit der ersten Werklohnrate vor lastenfreiem Eigentumserwerb; nach OLG München zusätzlich die gemeinsame Bewerbung.",
      "Ausschließlich die Rückübertragungspflicht, da eine Verflechtung der Gesellschafter nicht ausreicht.",
-     "Keiner, weil zwei getrennte Verträge mit verschiedenen juristischen Personen nie eine Einheit bilden."
+     "Keiner, weil zwei getrennte Verträge mit verschiedenen juristischen Personen nie eine Einheit bilden.",
+     "Nur die Festpreiswerbung, weil die übrigen Umstände unerheblich sind."
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "Von einer Einheit ist stets auszugehen, wenn Verkäufer und Bauunternehmer rechtlich verbunden sind (dieselben Gesellschafter oder Konzern), wenn der Erwerber bei Störungen im Werkvertrag, auch bei Kündigung nach § 648 BGB, das Grundstück herausgeben muss, oder wenn nicht gewährleistet ist, dass er lastenfreies Eigentum erhält, bevor erste Werklohnraten fällig werden. Nach OLG München (9 U 1662/11) kann sich die Einheit auch aus der Sicht des Erwerbers ergeben, etwa wegen gemeinsamer Bewerbung; Prospekte sind daher in die Prüfung einzubeziehen. Hier liegen alle Fallgruppen vor."
    },
    {
     "frage": "Wie sollte der Notar bei der Beurkundung vorgehen?",
     "optionen": [
      "Die Beurkundung ablehnen, weil getrennte Grundstücks- und Bauverträge unzulässig sind.",
+     "Die Verträge zu einem Bauträgervertrag mit der Grund-GmbH als alleiniger Vertragspartnerin zusammenfassen, ohne die Beteiligten zu fragen.",
      "Beide Verträge beurkunden, im Zweifel die MaBV anwenden, mindestens aber über ihre mögliche Anwendbarkeit belehren, und die Pflichten der Beteiligten sowie die Auswirkungen von Leistungsstörungen im jeweils anderen Vertrag klar regeln.",
-     "Nur den Grundstückskaufvertrag beurkunden und den Bauvertrag den Parteien zur privatschriftlichen Unterzeichnung überlassen.",
-     "Die Verträge zu einem Bauträgervertrag mit der Grund-GmbH als alleiniger Vertragspartnerin zusammenfassen, ohne die Beteiligten zu fragen."
+     "Nur den Grundstückskaufvertrag beurkunden und den Bauvertrag den Parteien zur privatschriftlichen Unterzeichnung überlassen."
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Getrennte Grundstücks- und Bauverträge sind zulässig, aber regelmäßig beide nach § 311b Abs. 1 S. 1 BGB beurkundungspflichtig. Der Notar sollte im Zweifel die MaBV anwenden, mindestens aber darüber belehren, dass sie anwendbar sein kann. Die Urkunde muss die Pflichten scharf trennen und regeln, wie sich Leistungsstörungen, namentlich ein Rücktritt, auf den anderen Vertrag auswirken. Eine Umgestaltung ohne Zustimmung der Beteiligten kommt nicht in Betracht."
    }
   ],
@@ -1123,9 +1123,9 @@
   "normen": [
    "§ 311b Abs. 1 S. 1 BGB"
   ],
-  "frage": "Bei getrennten Grundstücks- und Bauverträgen müssen Kaufvertrag und Bauvertrag zwingend in einer gemeinsamen Urkunde beurkundet werden.",
-  "antwort": false,
-  "erklaerung": "Falsch. Eine gemeinsame Urkunde empfiehlt sich, zwei getrennte Urkunden sind aber ebenfalls möglich. In jedem Fall sind die Pflichten scharf zu trennen (Verkäufer: Übergabe und Eigentumsverschaffung; Werkunternehmer: Bauleistung), und die Urkunde muss regeln, wie sich Leistungsstörungen in einem Vertrag, namentlich ein Rücktritt, auf den anderen auswirken. Beurkundungspflichtig nach § 311b Abs. 1 S. 1 BGB sind regelmäßig beide Verträge."
+  "frage": "Bei getrennten Grundstücks- und Bauverträgen sind zwei getrennte Urkunden zulässig; die Urkunde muss aber regeln, wie sich ein Rücktritt von einem der Verträge auf den anderen auswirkt.",
+  "antwort": true,
+  "erklaerung": "Richtig. Eine gemeinsame Urkunde empfiehlt sich, zwei getrennte Urkunden sind aber ebenfalls möglich. In jedem Fall sind die Pflichten scharf zu trennen (Verkäufer: Übergabe und Eigentumsverschaffung; Werkunternehmer: Bauleistung), und die Urkunde muss regeln, wie sich Leistungsstörungen in einem Vertrag, namentlich ein Rücktritt, auf den anderen auswirken. Beurkundungspflichtig nach § 311b Abs. 1 S. 1 BGB sind regelmäßig beide Verträge."
  },
  {
   "id": "baut1-050",
@@ -1143,12 +1143,12 @@
   ],
   "frage": "Auf welcher Rechtsgrundlage kann der Bauträger vom Erwerber Abschlagszahlungen verlangen?",
   "optionen": [
-   "Unmittelbar aus § 632a BGB, der Abschlagszahlungen für alle Werkverträge abschließend regelt.",
-   "Nach § 650v BGB nur, soweit die Abschläge nach einer Verordnung auf Grund von Art. 244 EGBGB vereinbart sind; das ist die HausbauVO, die auf § 3 Abs. 1 und 2 MaBV verweist.",
    "Unmittelbar aus § 3 Abs. 2 MaBV, der als öffentliches Recht zwingend für jeden Bauträgervertrag gilt.",
-   "Aus § 641 Abs. 1 BGB, der die Vergütung nach Baufortschritt fällig stellt."
+   "Aus § 641 Abs. 1 BGB, der die Vergütung nach Baufortschritt fällig stellt.",
+   "Nach § 650v BGB nur, soweit die Abschläge nach einer Verordnung auf Grund von Art. 244 EGBGB vereinbart sind; das ist die HausbauVO, die auf § 3 Abs. 1 und 2 MaBV verweist.",
+   "Unmittelbar aus § 632a BGB, der Abschlagszahlungen für alle Werkverträge abschließend regelt."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Nach § 650v BGB kann der Unternehmer Abschläge nur verlangen, soweit sie nach einer Verordnung auf Grund von Art. 244 EGBGB vereinbart sind, also nach der HausbauVO; § 1 HausbauVO erlaubt Abschläge entsprechend § 3 Abs. 2 MaBV unter den Voraussetzungen des § 3 Abs. 1 MaBV. Erst über § 1 HausbauVO werden die öffentlich-rechtlichen §§ 3, 7 MaBV Teil der Vertragsgestaltung. Ob § 632a BGB daneben gilt, ist streitig; die Gestaltung ist an § 650v BGB auszurichten. § 641 Abs. 1 BGB stellt die Vergütung erst mit der Abnahme fällig."
  },
  {
@@ -1164,12 +1164,12 @@
   ],
   "frage": "Welche Vorgaben macht § 3 Abs. 2 MaBV für den Ratenplan beim Bauträgervertrag?",
   "optionen": [
-   "Aus dreizehn Bauabschnitten dürfen höchstens sieben Raten gebildet werden; die erste Rate nach Beginn der Erdarbeiten beträgt höchstens 30 % bei Grundstückseigentum und 20 % beim Erbbaurecht.",
-   "Es sind genau dreizehn Raten in der gesetzlichen Reihenfolge zu vereinbaren; die erste Rate beträgt 30 %.",
+   "Die Raten sind frei vereinbar, solange keine Rate 30 % der Vertragssumme übersteigt.",
    "Aus sieben Bauabschnitten dürfen höchstens dreizehn Raten gebildet werden; die erste Rate beträgt höchstens 25 %.",
-   "Die Raten sind frei vereinbar, solange keine Rate 30 % der Vertragssumme übersteigt."
+   "Es sind genau dreizehn Raten in der gesetzlichen Reihenfolge zu vereinbaren; die erste Rate beträgt 30 %.",
+   "Aus dreizehn Bauabschnitten dürfen höchstens sieben Raten gebildet werden; die erste Rate nach Beginn der Erdarbeiten beträgt höchstens 30 % bei Grundstückseigentum und 20 % beim Erbbaurecht."
   ],
-  "antwort": 0,
+  "antwort": 3,
   "erklaerung": "§ 3 Abs. 2 MaBV erlaubt, aus den dort genannten dreizehn Bauabschnitten höchstens sieben Raten nach dem Bauablauf zu bilden; die Reihenfolge ist nicht zwingend, und entfallende Leistungen werden auf die übrigen Raten umgelegt (§ 3 Abs. 2 S. 3 MaBV). Die erste Rate nach Beginn der Erdarbeiten beträgt höchstens 30 % bei Grundstückseigentum und 20 % beim Erbbaurecht. Die Prozentsätze sind Obergrenzen, keine freie Verteilung."
  },
  {
@@ -1186,12 +1186,12 @@
   ],
   "frage": "Die Abschlagsvereinbarung im Bauträgervertrag erweist sich als unwirksam. Wann wird die Vergütung fällig?",
   "optionen": [
-   "Mit Beginn der Erdarbeiten in Höhe von 30 % und im Übrigen nach dem gesetzlichen Ratenplan des § 3 Abs. 2 MaBV.",
-   "Mit der Abnahme nach § 641 Abs. 1 BGB, weil ohne wirksame Abschlagsvereinbarung die werkvertragliche Grundregel gilt.",
+   "Sofort, weil die Unwirksamkeit der Abschlagsvereinbarung zugunsten des Bauträgers wirkt.",
    "Mit Eintragung der Vormerkung, weil dann die Fälligkeitsvoraussetzungen des § 3 Abs. 1 MaBV erfüllt sind.",
-   "Sofort, weil die Unwirksamkeit der Abschlagsvereinbarung zugunsten des Bauträgers wirkt."
+   "Mit der Abnahme nach § 641 Abs. 1 BGB, weil ohne wirksame Abschlagsvereinbarung die werkvertragliche Grundregel gilt.",
+   "Mit Beginn der Erdarbeiten in Höhe von 30 % und im Übrigen nach dem gesetzlichen Ratenplan des § 3 Abs. 2 MaBV."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Abschlagszahlungen müssen im Bauträgervertrag nicht vereinbart werden; fehlt eine Vereinbarung oder ist sie unwirksam, bleibt es bei der Fälligkeit mit Abnahme nach § 641 Abs. 1 BGB. Der Ratenplan des § 3 Abs. 2 MaBV gilt nicht kraft Gesetzes, sondern nur bei wirksamer Vereinbarung über § 650v BGB und § 1 HausbauVO. Eine Vorleistung des Erwerbers wäre zudem nach dem Vorleistungsverbot unzulässig."
  },
  {
@@ -1255,10 +1255,10 @@
   ],
   "frage": "Der Bauträger ist selbst noch nicht Eigentümer, sondern durch eine Vormerkung gesichert. Er tritt dem Erwerber seinen Eigentumsverschaffungsanspruch ab; die Abtretung wird bei der Vormerkung des Bauträgers im Grundbuch vermerkt. Genügt das für § 3 Abs. 1 Nr. 2 MaBV?",
   "optionen": [
-   "Ja, weil die Vormerkung durch die Abtretung kraft Gesetzes auf den Erwerber übergeht und ihn vollständig sichert.",
-   "Nein, erforderlich ist eine eigene Vormerkung für den Erwerber; die Abtretung schützt ihn nur gegen die Insolvenz des ursprünglichen Eigentümers, nicht gegen die des Bauträgers.",
    "Ja, sofern der Erwerber zusätzlich den Antrag auf Eintragung einer eigenen Vormerkung beim Grundbuchamt eingereicht hat.",
-   "Nein, weil Vormerkungen zugunsten eines Nichteigentümers nicht abtretbar sind."
+   "Nein, erforderlich ist eine eigene Vormerkung für den Erwerber; die Abtretung schützt ihn nur gegen die Insolvenz des ursprünglichen Eigentümers, nicht gegen die des Bauträgers.",
+   "Nein, weil Vormerkungen zugunsten eines Nichteigentümers nicht abtretbar sind.",
+   "Ja, weil die Vormerkung durch die Abtretung kraft Gesetzes auf den Erwerber übergeht und ihn vollständig sichert."
   ],
   "antwort": 1,
   "erklaerung": "Nach § 3 Abs. 1 S. 1 Nr. 2 MaBV ist eine eigene, an der vereinbarten Rangstelle eingetragene Vormerkung für den Erwerber erforderlich. Die Abtretung des Anspruchs des Bauträgers mit Berichtigung bei dessen Vormerkung genügt nicht, weil sie den Erwerber nur gegen die Insolvenz des ursprünglichen Eigentümers schützt, nicht gegen die des Bauträgers. Auch die bloße Einreichung des Eintragungsantrags reicht nicht; die Vormerkung muss eingetragen sein."
@@ -1278,12 +1278,12 @@
   ],
   "frage": "Welche Unterlage ist für die Fälligkeit nach § 3 Abs. 1 Nr. 1 MaBV (Wirksamkeit des Vertrags) nicht erforderlich?",
   "optionen": [
-   "Die Zustimmung des Verwalters nach § 12 WEG, wenn die Teilungserklärung sie auch für die Erstveräußerung verlangt.",
-   "Die steuerliche Unbedenklichkeitsbescheinigung des Finanzamts.",
    "Behördliche Genehmigungen zum Bauträgervertrag, sofern solche nötig sind.",
-   "Rechtsgeschäftliche Genehmigungen, etwa bei Vertretung ohne Vertretungsmacht."
+   "Rechtsgeschäftliche Genehmigungen, etwa bei Vertretung ohne Vertretungsmacht.",
+   "Die Zustimmung des Verwalters nach § 12 WEG, wenn die Teilungserklärung sie auch für die Erstveräußerung verlangt.",
+   "Die steuerliche Unbedenklichkeitsbescheinigung des Finanzamts."
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Für § 3 Abs. 1 Nr. 1 MaBV müssen sämtliche rechtsgeschäftlichen und behördlichen Genehmigungen wirksam vorliegen; die Verwalterzustimmung nach § 12 WEG ist nach dem BGH auch bei der Erstveräußerung nötig, sofern die Teilungserklärung nichts anderes bestimmt. Nicht erforderlich ist die steuerliche Unbedenklichkeitsbescheinigung. Erklärungen zu Vorkaufsrechten (§§ 24, 28 Abs. 1 S. 2 BauGB) sind keine Genehmigungen und daher ebenfalls nicht erfasst; die Fälligkeit sollte aber vertraglich zusätzlich an sie geknüpft werden."
  },
  {
@@ -1306,34 +1306,34 @@
    {
     "frage": "Steht das vertragliche Rücktrittsrecht der B-GmbH der Fälligkeit entgegen?",
     "optionen": [
-     "Nein, weil die Gemeinde bereits verzichtet hat und das Rücktrittsrecht damit gegenstandslos ist.",
      "Ja, solange ein vertragliches Rücktrittsrecht des Bauträgers besteht, darf er keine Zahlungen annehmen; der Vertrag sollte regeln, dass es mit der Fälligkeitsmitteilung oder der Anforderung der ersten Rate erlischt.",
-     "Nein, weil § 3 Abs. 1 Nr. 1 MaBV nur gesetzliche Rücktrittsrechte erfasst.",
-     "Ja, weil Erklärungen zu Vorkaufsrechten Genehmigungen im Sinne von § 3 Abs. 1 Nr. 1 MaBV sind."
+     "Ja, weil Erklärungen zu Vorkaufsrechten Genehmigungen im Sinne von § 3 Abs. 1 Nr. 1 MaBV sind.",
+     "Nein, weil die Gemeinde bereits verzichtet hat und das Rücktrittsrecht damit gegenstandslos ist.",
+     "Nein, weil § 3 Abs. 1 Nr. 1 MaBV nur gesetzliche Rücktrittsrechte erfasst."
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "Nach § 3 Abs. 1 Nr. 1 MaBV dürfen vertragliche Rücktrittsrechte des Bauträgers nicht mehr bestehen; ein Rücktrittsrecht für den Fall der Vorkaufsrechtsausübung schadet der Fälligkeit. Besteht der Bauträger darauf, sollte klargestellt werden, dass es mit der Fälligkeitsmitteilung oder der Anforderung der ersten Rate erlischt. Der Verzicht der Gemeinde beseitigt das vertraglich fortbestehende Rücktrittsrecht nicht automatisch, und Vorkaufsrechtserklärungen sind keine Genehmigungen."
    },
    {
     "frage": "Genügt die Einreichung der Teilungserklärung beim Grundbuchamt für § 3 Abs. 1 Nr. 2 MaBV?",
     "optionen": [
-     "Ja, weil die Vormerkung für E bereits eingetragen ist und das Vollzugsrisiko damit abgedeckt ist.",
-     "Nein, bei Wohnungseigentum muss die Teilungserklärung im Grundbuch vollzogen sein; das Vollzugsrisiko darf nicht beim Erwerber liegen.",
+     "Nein, weil die Vormerkung erst nach Vollzug der Teilung wirksam eingetragen werden kann.",
      "Ja, wenn E eine Vormerkung auf Bildung und Übertragung der bestimmten Einheit erhält.",
-     "Nein, weil die Vormerkung erst nach Vollzug der Teilung wirksam eingetragen werden kann."
+     "Ja, weil die Vormerkung für E bereits eingetragen ist und das Vollzugsrisiko damit abgedeckt ist.",
+     "Nein, bei Wohnungseigentum muss die Teilungserklärung im Grundbuch vollzogen sein; das Vollzugsrisiko darf nicht beim Erwerber liegen."
     ],
-    "antwort": 1,
+    "antwort": 3,
     "erklaerung": "Bei Wohnungs- oder Teileigentum muss zusätzlich zur Vormerkung die Teilungserklärung im Grundbuch vollzogen sein (§ 3 Abs. 1 S. 1 Nr. 2 HS. 2 MaBV). Eine Vormerkung für den Anspruch auf Bildung und Übertragung einer bestimmten Einheit ist als frühe Sicherung sinnvoll, ersetzt den Vollzug für die Fälligkeit aber nicht."
    },
    {
     "frage": "Welche Bedeutung hat die Erklärung der B-GmbH, die Baugenehmigung liege vor, für den Zeitpunkt der ersten Zahlung?",
     "optionen": [
-     "Keine; der Notar prüft die Baugenehmigung und bestätigt sie in der Fälligkeitsmitteilung.",
      "Der Vertrag sollte regeln, dass Zahlungen selbst bei Erfüllung aller anderen Voraussetzungen erst einen Monat nach dem Beurkundungstag verlangt werden können, entsprechend der Monatsfrist des § 3 Abs. 1 Nr. 4 MaBV für Bestätigungen des Bauträgers.",
-     "Die Erklärung ersetzt die Baugenehmigung, sodass sofort gezahlt werden darf.",
-     "Die Erklärung ist unbeachtlich, weil nur die Behörde die Genehmigung bestätigen darf."
+     "Die Erklärung ist unbeachtlich, weil nur die Behörde die Genehmigung bestätigen darf.",
+     "Keine; der Notar prüft die Baugenehmigung und bestätigt sie in der Fälligkeitsmitteilung.",
+     "Die Erklärung ersetzt die Baugenehmigung, sodass sofort gezahlt werden darf."
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "Liegt die Baugenehmigung bei Beurkundung vor, kann der Bauträger dies im Vertrag erklären. Da bei Bestätigungen des Bauträgers nach § 3 Abs. 1 Nr. 4 MaBV eine Wartefrist von einem Monat gilt, sollte der Vertrag regeln, dass Zahlungen erst einen Monat nach dem Beurkundungstag verlangt werden können. Die Prüfung der Baugenehmigung übernimmt der Notar üblicherweise nicht; tut er es doch, haftet er dafür, dass die Genehmigung das geschuldete Vorhaben abdeckt."
    }
   ],
@@ -1353,12 +1353,12 @@
   ],
   "frage": "Welche Voraussetzungen des § 3 Abs. 1 MaBV sollte der Notar in seine Fälligkeitsmitteilung einbeziehen?",
   "optionen": [
-   "Nur Nr. 1, weil die MaBV ausdrücklich nur hierzu eine schriftliche Mitteilung des Notars verlangt.",
-   "Nr. 1 bis 3; Nr. 4 (Baugenehmigung) prüft der Notar regelmäßig nicht, weil er die Übereinstimmung von Genehmigung und Bauvorhaben kaum beurteilen kann.",
+   "Nr. 2 und 3, weil Nr. 1 vom Bauträger und Nr. 4 von der Baubehörde zu bestätigen ist.",
    "Alle vier Nummern, weil die Betreuungstätigkeit nach § 24 BNotO eine vollständige Prüfung verlangt.",
-   "Nr. 2 und 3, weil Nr. 1 vom Bauträger und Nr. 4 von der Baubehörde zu bestätigen ist."
+   "Nr. 1 bis 3; Nr. 4 (Baugenehmigung) prüft der Notar regelmäßig nicht, weil er die Übereinstimmung von Genehmigung und Bauvorhaben kaum beurteilen kann.",
+   "Nur Nr. 1, weil die MaBV ausdrücklich nur hierzu eine schriftliche Mitteilung des Notars verlangt."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Die MaBV verlangt eine schriftliche Mitteilung des Notars ausdrücklich nur zu § 3 Abs. 1 Nr. 1 MaBV; aus der Betreuungstätigkeit nach § 24 BNotO folgt aber, dass der Notar auch Nr. 2 und Nr. 3 prüfen und einbeziehen sollte. Die Baugenehmigung nach Nr. 4 prüft er regelmäßig nicht; übernimmt er die Prüfung dennoch, haftet er dafür, dass die Genehmigung das geschuldete Vorhaben abdeckt. Im Vertrag sollte die Mitteilung stets als Fälligkeitsvoraussetzung ausgestaltet werden."
  },
  {
@@ -1375,12 +1375,12 @@
   ],
   "frage": "Über das Vermögen der B-GmbH wird nach Fertigstellung des Rohbaus das Insolvenzverfahren eröffnet; E ist durch Vormerkung gesichert. Welche Rechtsstellung hat E gegenüber dem Insolvenzverwalter?",
   "optionen": [
-   "Der Verwalter kann nach § 103 InsO die Erfüllung des gesamten Vertrags ablehnen, sodass E weder Eigentum noch Fertigstellung verlangen kann.",
    "E kann nach § 106 Abs. 1 S. 1 InsO Auflassung und Eintragungsbewilligung verlangen, da die Vormerkung dem Wahlrecht des § 103 InsO vorgeht; für die offenen Bauleistungen hat der Verwalter dagegen das Wahlrecht und kann die Fertigstellung ablehnen.",
    "E kann nach § 103 InsO die Fertigstellung durch die Masse verlangen, muss aber den vollen Kaufpreis an den Verwalter zahlen.",
-   "Die Vormerkung erlischt mit Eröffnung des Insolvenzverfahrens; E wird einfacher Insolvenzgläubiger."
+   "Die Vormerkung erlischt mit Eröffnung des Insolvenzverfahrens; E wird einfacher Insolvenzgläubiger.",
+   "Der Verwalter kann nach § 103 InsO die Erfüllung des gesamten Vertrags ablehnen, sodass E weder Eigentum noch Fertigstellung verlangen kann."
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Die Vormerkung sichert den Eigentumsverschaffungsanspruch auch in der Insolvenz des Bauträgers (§ 106 Abs. 1 S. 1 InsO) und geht dem Wahlrecht des Verwalters nach § 103 InsO vor; dieser kann Auflassung und Eintragungsbewilligung nicht wegen der Insolvenz verweigern, wobei E den Preis nur schuldet, soweit gebaut wurde. Für die noch offenen Bauleistungen hat der Verwalter das Wahlrecht nach § 103 InsO und kann die Fertigstellung ablehnen; E muss dann selbst fertigstellen, was deutlich teurer werden kann."
  },
  {
@@ -1397,12 +1397,12 @@
   ],
   "frage": "Warum sollte der Bauträgervertrag eine Abtretung der Ansprüche des Bauträgers gegen Handwerker, Architekten und Subunternehmer an den Erwerber vorsehen?",
   "optionen": [
+   "Weil die Abtretung die Verjährung der Mängelansprüche von fünf auf zehn Jahre verlängert.",
    "Weil der Erwerber sonst keine Mängelansprüche gegen den Bauträger selbst hat.",
-   "Weil die am Bau Beteiligten Vertragspartner des Bauträgers sind und der Erwerber ohne Abtretung nicht gegen sie vorgehen kann, wenn Ansprüche gegen den insolventen Bauträger nach § 103 InsO nicht mehr durchsetzbar sind.",
    "Weil die MaBV in § 3 Abs. 1 Nr. 3 die Abtretung als Fälligkeitsvoraussetzung verlangt.",
-   "Weil die Abtretung die Verjährung der Mängelansprüche von fünf auf zehn Jahre verlängert."
+   "Weil die am Bau Beteiligten Vertragspartner des Bauträgers sind und der Erwerber ohne Abtretung nicht gegen sie vorgehen kann, wenn Ansprüche gegen den insolventen Bauträger nach § 103 InsO nicht mehr durchsetzbar sind."
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Handwerker, Architekten und sonstige Subunternehmer sind Vertragspartner des Bauträgers, nicht des Erwerbers. Gewährleistungsansprüche gegen den insolventen Bauträger lassen sich oft nicht mehr durchsetzen, weil der Verwalter die Erfüllung nach § 103 InsO ablehnen kann. Damit der Erwerber direkt gegen die am Bau Beteiligten vorgehen kann, sollte der Vertrag die Abtretung dieser Ansprüche vorsehen. Mit der Fälligkeit nach § 3 MaBV oder der Verjährung hat das nichts zu tun."
  },
  {
@@ -1419,12 +1419,12 @@
   ],
   "frage": "Welche Regelung zum Steckenbleiben des Baus sollte der Notar in den Bauträgervertrag aufnehmen, und wann ist ein Hinweis auf das Fertigstellungsrisiko zwingend?",
   "optionen": [
-   "Eine Pflicht des Erwerbers zur vollständigen Zahlung vor Umschreibung; der Hinweis ist nur bei ausdrücklicher Nachfrage des Erwerbers geboten.",
-   "Ein Recht des Erwerbers, bei feststehendem Unvermögen des Bauträgers die Umschreibung vor vollständiger Zahlung Zug um Zug gegen den dem Bautenstand entsprechenden Preisanteil zu verlangen; der Hinweis ist zwingend, wenn der Erwerber das Risiko erkennbar nicht überblickt oder konkrete Anhaltspunkte die Finanzierbarkeit fraglich erscheinen lassen.",
    "Eine Bürgschaft nach § 7 MaBV als Pflichtsicherheit; der Hinweis ist stets entbehrlich, weil die Bürgschaft das Risiko abdeckt.",
-   "Ein Rücktrittsrecht des Erwerbers bei Insolvenzeröffnung; der Hinweis ist nur bei gewerblichen Erwerbern erforderlich."
+   "Ein Rücktrittsrecht des Erwerbers bei Insolvenzeröffnung; der Hinweis ist nur bei gewerblichen Erwerbern erforderlich.",
+   "Ein Recht des Erwerbers, bei feststehendem Unvermögen des Bauträgers die Umschreibung vor vollständiger Zahlung Zug um Zug gegen den dem Bautenstand entsprechenden Preisanteil zu verlangen; der Hinweis ist zwingend, wenn der Erwerber das Risiko erkennbar nicht überblickt oder konkrete Anhaltspunkte die Finanzierbarkeit fraglich erscheinen lassen.",
+   "Eine Pflicht des Erwerbers zur vollständigen Zahlung vor Umschreibung; der Hinweis ist nur bei ausdrücklicher Nachfrage des Erwerbers geboten."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Die Seite empfiehlt eine Regelung, nach der der Erwerber bei feststehendem Unvermögen des Bauträgers die Eigentumsumschreibung schon vor vollständiger Zahlung verlangen kann, Zug um Zug gegen den dem erreichten Bautenstand entsprechenden Preisanteil. Auf das Fertigstellungsrisiko ist stets hinzuweisen; zwingend ist der Hinweis, wenn erkennbar ist, dass der Erwerber das Risiko nicht überblickt, oder wenn konkrete Anhaltspunkte die Finanzierbarkeit fraglich erscheinen lassen. Eine Pflichtbürgschaft nach § 7 MaBV gibt es nicht."
  },
  {
@@ -1440,12 +1440,12 @@
   ],
   "frage": "Was ist eine Freistellungsverpflichtung des Globalgrundschuldgläubigers im Sinne von § 3 Abs. 1 S. 1 Nr. 3 MaBV?",
   "optionen": [
-   "Eine grundbuchtaugliche Pfandfreigabe, mit der die Einheit sofort aus der Mithaft entlassen wird.",
-   "Eine schuldrechtliche Verpflichtung des Gläubigers, unter bestimmten Voraussetzungen eine grundbuchtaugliche Löschungsbewilligung oder Pfandfreigabe abzugeben.",
+   "Eine Erklärung des Bauträgers, die Globalgrundschuld nach Fertigstellung löschen zu lassen.",
    "Eine Löschungsbewilligung mit Treuhandauflage, die der Notar nur gegen Zahlung des Ablösebetrags verwenden darf.",
-   "Eine Erklärung des Bauträgers, die Globalgrundschuld nach Fertigstellung löschen zu lassen."
+   "Eine schuldrechtliche Verpflichtung des Gläubigers, unter bestimmten Voraussetzungen eine grundbuchtaugliche Löschungsbewilligung oder Pfandfreigabe abzugeben.",
+   "Eine grundbuchtaugliche Pfandfreigabe, mit der die Einheit sofort aus der Mithaft entlassen wird."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Bei der Freistellungsverpflichtung verpflichtet sich der (Global-)Grundschuldgläubiger schuldrechtlich, unter bestimmten Voraussetzungen eine grundbuchtaugliche Löschungsbewilligung oder Pfandfreigabe abzugeben; vollzogen werden kann die Löschung erst mit dieser späteren Erklärung. Davon zu unterscheiden sind die bereits vorliegende Löschungsbewilligung bei Einzelgrundschulden und die Pfandfreigabeerklärung bei Globalbelastung, jeweils gegebenenfalls mit Treuhandauflage. Eine Erklärung des Bauträgers sichert nichts."
  },
  {
@@ -1463,8 +1463,8 @@
   "optionen": [
    "Ja, jede Überschreitung des Fertigstellungstermins ist ein Steckenbleiben.",
    "Nein, Steckenbleiben meint den endgültigen Abbruch des Vorhabens, nicht eine vorübergehende Baueinstellung oder Terminüberschreitung.",
-   "Ja, sobald die Baueinstellung länger als drei Monate dauert.",
-   "Nein, ein Steckenbleiben setzt die Eröffnung des Insolvenzverfahrens über das Vermögen des Bauträgers voraus."
+   "Nein, ein Steckenbleiben setzt die Eröffnung des Insolvenzverfahrens über das Vermögen des Bauträgers voraus.",
+   "Ja, sobald die Baueinstellung länger als drei Monate dauert."
   ],
   "antwort": 1,
   "erklaerung": "Nach § 3 Abs. 1 S. 2 MaBV ist die Freistellung gesichert, wenn die Löschung bei Vollendung nach Zahlung der vollen Vertragssumme und andernfalls nach Zahlung des dem Baufortschritt entsprechenden Anteils gewährleistet ist. Steckenbleiben meint dabei den endgültigen Abbruch, nicht schon eine vorübergehende Baueinstellung oder Terminüberschreitung. Eine feste Dreimonatsfrist oder eine Insolvenzeröffnung als Voraussetzung nennt die Seite nicht."
@@ -1511,12 +1511,12 @@
   ],
   "frage": "Unter welchen Voraussetzungen darf sich der Globalgläubiger nach § 3 Abs. 1 S. 3 MaBV vorbehalten, bei Nichtvollendung statt freizustellen die gezahlten Beträge zu erstatten?",
   "optionen": [
-   "Der Vorbehalt gilt kraft Gesetzes für jede Freistellungsverpflichtung; die Erstattung ist auf die Hälfte der gezahlten Beträge begrenzt.",
    "Der Gläubiger muss den Rückzahlungsvorbehalt ausdrücklich erklären, die Erstattung erfasst die nach § 3 Abs. 2 MaBV vertragsgemäß gezahlten Beträge höchstens bis zum anteiligen Objektwert, und der Bauträgervertrag muss ausdrücklich bestimmen, dass eine Freistellungsverpflichtung mit diesem Vorbehalt als vertragsgemäß gilt.",
+   "Der Vorbehalt setzt voraus, dass der Gläubiger auf die Verwertung seines Grundpfandrechts verzichtet.",
    "Der Vorbehalt ist nur zulässig, wenn der Erwerber ihm nach Eintritt des Steckenbleibens gesondert zustimmt.",
-   "Der Vorbehalt setzt voraus, dass der Gläubiger auf die Verwertung seines Grundpfandrechts verzichtet."
+   "Der Vorbehalt gilt kraft Gesetzes für jede Freistellungsverpflichtung; die Erstattung ist auf die Hälfte der gezahlten Beträge begrenzt."
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Nach § 3 Abs. 1 S. 3 MaBV darf sich der Gläubiger für den Fall der Nichtvollendung vorbehalten, statt freizustellen die nach § 3 Abs. 2 MaBV vertragsgemäß gezahlten Beträge zu erstatten, höchstens bis zum anteiligen Objektwert; er muss den Vorbehalt ausdrücklich erklären. Der Vorbehalt kommt nur in Betracht, wenn der Bauträgervertrag ausdrücklich bestimmt, dass eine Freistellungsverpflichtung mit diesem Vorbehalt als vertragsgemäß gilt. Macht der Gläubiger davon Gebrauch, kann er sein Grundpfandrecht frei verwerten; ein Verwertungsverzicht ist also gerade nicht Voraussetzung."
  },
  {
@@ -1535,8 +1535,8 @@
   "optionen": [
    "10 % der Gesamtvergütung, erbracht durch Bankbürgschaft bei Vertragsschluss.",
    "5 % der vereinbarten Gesamtvergütung mit der ersten Abschlagszahlung, in der Praxis meist durch Einbehalt, sodass die erste Rate von 30 % auf 25 % sinkt.",
-   "5 % jeder einzelnen Rate, erbracht durch Hinterlegung auf einem Notaranderkonto.",
-   "3 % der Gesamtvergütung, erbracht durch Einbehalt von der Schlussrate."
+   "3 % der Gesamtvergütung, erbracht durch Einbehalt von der Schlussrate.",
+   "5 % jeder einzelnen Rate, erbracht durch Hinterlegung auf einem Notaranderkonto."
   ],
   "antwort": 1,
   "erklaerung": "Sind beim Verbraucherbauvertrag Abschläge vereinbart, ist dem Verbraucher mit der ersten Abschlagszahlung eine Sicherheit von 5 % der vereinbarten Gesamtvergütung für die rechtzeitige Herstellung ohne wesentliche Mängel zu leisten. In der Praxis überwiegt der Einbehalt: Die erste Rate des Ratenplans sinkt von 30 % auf 25 %. Alternativ kann der Bauträger eine Erfüllungsbürgschaft eines inländischen Kreditinstituts oder Kreditversicherers stellen."
@@ -1555,12 +1555,12 @@
   ],
   "frage": "Der Ratenplan im Bauträgervertrag mit Verbraucher E enthält keine Regelung zur Sicherheit nach § 650m Abs. 2 BGB. Welche Folge hat das?",
   "optionen": [
-   "Die Sicherheit gilt kraft Gesetzes als vereinbart; der Ratenplan bleibt im Übrigen wirksam.",
-   "Der Ratenplan ist unwirksam; die Zahlungsvereinbarung entfällt insgesamt, und die Vergütung wird nach § 641 BGB mit der Abnahme fällig.",
    "Nur die erste Rate ist um 5 % zu kürzen; die übrigen Raten bleiben unberührt.",
-   "Der Vertrag ist insgesamt nichtig, weil die Sicherheit zum beurkundungspflichtigen Mindestinhalt gehört."
+   "Der Vertrag ist insgesamt nichtig, weil die Sicherheit zum beurkundungspflichtigen Mindestinhalt gehört.",
+   "Die Sicherheit gilt kraft Gesetzes als vereinbart; der Ratenplan bleibt im Übrigen wirksam.",
+   "Der Ratenplan ist unwirksam; die Zahlungsvereinbarung entfällt insgesamt, und die Vergütung wird nach § 641 BGB mit der Abnahme fällig."
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Die Ansprüche nach § 650m Abs. 2 BGB sind ausdrücklich und nachvollziehbar zu regeln, am besten bei den Zahlungsbestimmungen. Sieht der Ratenplan keine Sicherheit vor, ist er unwirksam; die Zahlungsvereinbarung entfällt insgesamt, und es gelten die gesetzlichen Regeln, vor allem die Fälligkeit mit Abnahme nach § 641 BGB. Eine geltungserhaltende Reduktion auf eine gekürzte erste Rate findet nicht statt; der Vertrag im Übrigen bleibt aber wirksam."
  },
  {
@@ -1599,33 +1599,33 @@
     "frage": "Darf die B-GmbH gegen Stellung der Bankbürgschaft vom Ratenplan und den Fälligkeitsvoraussetzungen des § 3 Abs. 1 MaBV abweichen?",
     "optionen": [
      "Nein, der Ratenplan nach § 3 Abs. 2 MaBV ist zwingend und kann durch keine Sicherheit ersetzt werden.",
-     "Ja, sichert der Bauträger die Rückgewähransprüche des Erwerbers insgesamt durch Bürgschaft nach § 7 MaBV, ist er von den §§ 2–6 MaBV befreit, insbesondere von § 3 Abs. 1 und 2 MaBV.",
      "Ja, aber nur, wenn zusätzlich der Einbehalt nach § 650m Abs. 2 BGB bestehen bleibt.",
+     "Ja, sichert der Bauträger die Rückgewähransprüche des Erwerbers insgesamt durch Bürgschaft nach § 7 MaBV, ist er von den §§ 2–6 MaBV befreit, insbesondere von § 3 Abs. 1 und 2 MaBV.",
      "Nein, weil § 650v BGB Abschläge nur nach dem Ratenplan der HausbauVO zulässt."
     ],
-    "antwort": 1,
+    "antwort": 2,
     "erklaerung": "Sichert der Bauträger die Rückgewähransprüche des Erwerbers insgesamt ab, ist er nach § 7 MaBV von den Pflichten aus § 3 Abs. 1 und 2 MaBV befreit; bei einer selbstschuldnerischen Bankbürgschaft ist er von den §§ 2–6 MaBV gelöst. § 1 HausbauVO lässt diese Abweichung ausdrücklich zu. In der Praxis ist die Bürgschaft nach § 7 MaBV allerdings selten."
    },
    {
     "frage": "Muss die B-GmbH die Bürgschaft nach Fertigstellung und Abnahme zurückerhalten?",
     "optionen": [
-     "Ja, weil mit Abnahme die Vergütung nach § 641 BGB fällig und das Sicherungsbedürfnis entfallen ist.",
      "Nein, die Sicherheit nach § 7 MaBV muss bestehen bleiben, bis die Voraussetzungen des § 3 Abs. 1 MaBV vorliegen und das Objekt fertiggestellt ist; da sie auch den Eigentumsverschaffungsanspruch sichert, kann sie vor Eintragung der Vormerkung nicht zurückgegeben werden.",
-     "Ja, weil die Bürgschaft nur die Bauleistung, nicht den Eigentumserwerb sichert.",
-     "Nein, die Bürgschaft ist erst nach Ablauf der fünfjährigen Mängelverjährung zurückzugeben."
+     "Ja, weil mit Abnahme die Vergütung nach § 641 BGB fällig und das Sicherungsbedürfnis entfallen ist.",
+     "Nein, die Bürgschaft ist erst nach Ablauf der fünfjährigen Mängelverjährung zurückzugeben.",
+     "Ja, weil die Bürgschaft nur die Bauleistung, nicht den Eigentumserwerb sichert."
     ],
-    "antwort": 1,
+    "antwort": 0,
     "erklaerung": "Die Sicherheit nach § 7 MaBV muss bestehen bleiben, bis die Voraussetzungen von § 3 Abs. 1 MaBV vorliegen und das Objekt vollständig fertiggestellt ist. Da die Bürgschaft auch den Anspruch auf Eigentumsverschaffung sichert, kann sie vor Eintragung der Vormerkung selbst nach vollständiger Fertigstellung nicht zurückgegeben werden. Eine Bindung bis zum Ablauf der Mängelverjährung sieht die Seite nicht vor."
    },
    {
     "frage": "Wäre statt der Bürgschaft nach § 7 MaBV ein Ratenplan mit Einbehalt vereinbart worden: Wann wäre der 5-%-Einbehalt nach § 650m Abs. 2 BGB an die B-GmbH auszuzahlen?",
     "optionen": [
      "Mit Eintragung der Vormerkung für E.",
-     "Wenn die Bauleistung rechtzeitig und ohne wesentliche Mängel erbracht ist, in der Regel also nach der Abnahme.",
+     "Erst nach Ablauf der fünfjährigen Verjährung der Mängelansprüche.",
      "Mit Zahlung der letzten Rate des Ratenplans unabhängig vom Bauzustand.",
-     "Erst nach Ablauf der fünfjährigen Verjährung der Mängelansprüche."
+     "Wenn die Bauleistung rechtzeitig und ohne wesentliche Mängel erbracht ist, in der Regel also nach der Abnahme."
     ],
-    "antwort": 1,
+    "antwort": 3,
     "erklaerung": "Der Einbehalt wird fällig bzw. die Sicherheit nach § 650m Abs. 2 BGB zurückgegeben, wenn die Bauleistung rechtzeitig und ohne wesentliche Mängel erbracht ist, in der Regel nach der Abnahme. Anders als die Bürgschaft nach § 7 MaBV sichert der Einbehalt nicht den Eigentumserwerb, sondern die rechtzeitige mangelfreie Herstellung; auf die Vormerkung oder den Ablauf der Mängelverjährung kommt es nicht an."
    }
   ],

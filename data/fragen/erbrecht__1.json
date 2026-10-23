@@ -1513,5 +1513,101 @@
   "frage": "Hat der Erwerber im Übergabevertrag auf seinen Pflichtteil verzichtet, bleibt der Verzicht zwingend auch dann bestehen, wenn der Veräußerer das Grundstück später aufgrund seines Rückforderungsrechts zurückverlangt.",
   "antwort": false,
   "erklaerung": "Das Verhältnis von Pflichtteilsverzicht und Rückforderungsrecht ist gestaltbar und im Vertrag ausdrücklich klarzustellen: Der Verzicht kann auflösend bedingt durch die Ausübung der Rückforderung gestaltet werden oder unabhängig von ihr fortbestehen. Eine zwingende Fortgeltung sieht das Gesetz nicht vor; die fehlende Regelung ist ein Gestaltungsrisiko, weil der Erwerber sonst trotz Rückgabe des Grundstücks ohne Pflichtteil bliebe."
+ },
+ {
+  "id": "erbr1-065",
+  "kapitel": "erbrecht",
+  "abschnitt": "Pflichtteil und Verzicht",
+  "seite": "Pflichtteil: Berechtigte, Schuldner und Quote",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/pflichtteil-und-verzicht/pflichtteil-berechtigte-schuldner-und-quote",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 2303 BGB"
+  ],
+  "frage": "Welche Aussage zur Rechtsnatur des Pflichtteilsanspruchs trifft zu?",
+  "optionen": [
+   "Der Pflichtteilsberechtigte wird Miterbe mit der halben gesetzlichen Erbquote",
+   "Der Pflichtteilsanspruch ist ein schuldrechtlicher Geldanspruch gegen die Erben; der Berechtigte wird nicht Erbe und kann keine Nachlassgegenstände verlangen",
+   "Der Pflichtteilsberechtigte kann wahlweise Geld oder einzelne Nachlassgegenstände im Wert seines Pflichtteils verlangen",
+   "Der Pflichtteilsanspruch richtet sich gegen den Nachlass als Sondervermögen, nicht gegen die Erben"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Pflichtteilsanspruch (§§ 2303 ff. BGB) ist schuldrechtlich, richtet sich gegen die Erben und geht auf einen Geldbetrag in Höhe der Hälfte des gesetzlichen Erbteils. Der Berechtigte wird nicht Erbe und kann bestimmte Nachlassgegenstände nicht verlangen. Die Vorstellung einer Miterbenstellung oder eines Wahlrechts auf Gegenstände ist die typische Fehlvorstellung; Schuldner sind die Erben, bei mehreren als Gesamtschuldner (§§ 2058 ff. BGB)."
+ },
+ {
+  "id": "erbr1-066",
+  "kapitel": "erbrecht",
+  "abschnitt": "Pflichtteil und Verzicht",
+  "seite": "Pflichtteil: Berechtigte, Schuldner und Quote",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/pflichtteil-und-verzicht/pflichtteil-berechtigte-schuldner-und-quote",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2310 BGB",
+   "§ 2303 Abs. 1 BGB"
+  ],
+  "frage": "Der verwitwete E hat drei Kinder A, B und C. Durch Testament setzt er A zum Alleinerben ein. B hat zu Lebzeiten des E notariell auf sein Erbrecht verzichtet, C schlägt nach dem Erbfall aus. Wie hoch ist die Pflichtteilsquote des C?",
+  "optionen": [
+   "1/6, weil alle drei Kinder mitzuzählen sind",
+   "1/4, weil B wegen des Erbverzichts nicht mitgezählt wird, C aber trotz Ausschlagung",
+   "1/2, weil nach Erbverzicht und Ausschlagung nur noch A übrig bleibt",
+   "C hat keinen Pflichtteil, weil er ausgeschlagen hat"
+  ],
+  "antwort": 1,
+  "erklaerung": "Für die Pflichtteilsquote ist zu bestimmen, wer gesetzlicher Erbe wäre; mitgezählt werden auch Personen, die wegen Enterbung, Ausschlagung oder Erbunwürdigkeit nicht Erben werden (§ 2310 BGB), nicht aber, wer auf sein Erbrecht verzichtet hat. B scheidet also aus, A und C bleiben: gesetzlicher Erbteil des C 1/2, Pflichtteil 1/4. Enterbte oder ausschlagende Personen wegzulassen ist der typische Fehler; dass der ausschlagende C selbst hier einen Pflichtteil hat, ergibt sich daraus, dass er durch das Testament von der Erbfolge ausgeschlossen ist."
+ },
+ {
+  "id": "erbr1-067",
+  "kapitel": "erbrecht",
+  "abschnitt": "Pflichtteil und Verzicht",
+  "seite": "Pflichtteil: Berechtigte, Schuldner und Quote",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/pflichtteil-und-verzicht/pflichtteil-berechtigte-schuldner-und-quote",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2303 Abs. 2 BGB"
+  ],
+  "frage": "Die Eltern des Erblassers sind auch dann pflichtteilsberechtigt, wenn der Erblasser Kinder hinterlässt und diese zu Erben eingesetzt hat.",
+  "antwort": false,
+  "erklaerung": "Ein Pflichtteilsrecht besteht nur, wenn der Berechtigte ohne die Verfügung von Todes wegen gesetzlicher Erbe wäre. Eltern sind zwar nach § 2303 Abs. 2 BGB grundsätzlich pflichtteilsberechtigt, werden aber durch Abkömmlinge als Erben erster Ordnung von der gesetzlichen Erbfolge ausgeschlossen (§ 1930 BGB). Werden Abkömmlinge Erben, haben die Eltern deshalb kein Pflichtteilsrecht."
+ },
+ {
+  "id": "erbr1-068",
+  "kapitel": "erbrecht",
+  "abschnitt": "Pflichtteil und Verzicht",
+  "seite": "Pflichtteil: Berechtigte, Schuldner und Quote",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/pflichtteil-und-verzicht/pflichtteil-berechtigte-schuldner-und-quote",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 2305 BGB",
+   "§ 2303 BGB"
+  ],
+  "frage": "Der Erblasser hinterlässt zwei Kinder und setzt Kind K1 zu 4/5 und Kind K2 zu 1/5 als Erben ein. Welchen Anspruch hat K2?",
+  "optionen": [
+   "Keinen zusätzlichen Anspruch, weil K2 Erbe geworden ist und Erben keinen Pflichtteil erhalten",
+   "Den vollen Pflichtteil von 1/4 zusätzlich zum Erbteil",
+   "Einen Zusatzpflichtteil nach § 2305 BGB in Höhe der Differenz zwischen 1/5 und der Hälfte des gesetzlichen Erbteils (1/4)",
+   "Das Recht, den Erbteil auszuschlagen und stattdessen den gesetzlichen Erbteil von 1/2 zu verlangen"
+  ],
+  "antwort": 2,
+  "erklaerung": "Bleibt das, was ein Pflichtteilsberechtigter durch Verfügung von Todes wegen erhält, unter der Hälfte seines gesetzlichen Erbteils, steht ihm ein Pflichtteilsrestanspruch (Zusatzpflichtteil) zu (§ 2305 BGB). Der gesetzliche Erbteil des K2 beträgt 1/2, die Pflichtteilsquote 1/4; der zugewendete Erbteil von 1/5 liegt darunter, sodass K2 die Differenz in Geld verlangen kann. Der volle Pflichtteil neben dem Erbteil stünde ihm nicht zu; eine Ausschlagung verschafft keinen gesetzlichen Erbteil."
+ },
+ {
+  "id": "erbr1-069",
+  "kapitel": "erbrecht",
+  "abschnitt": "Pflichtteil und Verzicht",
+  "seite": "Pflichtteil: Berechtigte, Schuldner und Quote",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/pflichtteil-und-verzicht/pflichtteil-berechtigte-schuldner-und-quote",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§§ 2346 ff. BGB",
+   "§ 2310 BGB"
+  ],
+  "frage": "Verzichtet eines von drei Kindern lediglich auf seinen Pflichtteil, nicht aber auf sein Erbrecht, erhöht sich dadurch die Pflichtteilsquote der beiden anderen Kinder.",
+  "antwort": false,
+  "erklaerung": "Ein reiner Pflichtteilsverzicht ändert die Pflichtteilsquote der übrigen Berechtigten nicht, weil der Verzichtende bei der Ermittlung der gesetzlichen Erbteile weiterhin mitgezählt wird. Nur ein Erbverzicht (§§ 2346 ff. BGB) nimmt den Verzichtenden aus der Zählung nach § 2310 BGB heraus und verändert so die Quoten der anderen. Bei der Gestaltung ist diese Unterscheidung bewusst zu treffen."
  }
 ]

@@ -353,5 +353,257 @@
    }
   ],
   "erklaerung": "Nachrangige Rechte erlöschen in der Zwangsversteigerung aus einem vorrangigen Recht (§§ 52, 91 ZVG); eine Erschließungsdienstbarkeit ist deshalb durch Rangrücktritt der Grundschuld (§ 880 BGB, mit Eigentümerzustimmung) vorrangig zu stellen. Bei gleichzeitigen Anträgen auf Vormerkung und Finanzierungsgrundschuld ist nach § 45 Abs. 3 GBO die Rangbestimmung Grundschuld vor Vormerkung zu treffen."
+ },
+ {
+  "id": "grbu1-015",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Einsicht und Abruf",
+  "seite": "Grundbucheinsicht: automatisiertes Abrufverfahren und Kosten",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/einsicht-und-abruf/grundbucheinsicht-automatisiertes-abrufverfahren-und-kosten",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 133 GBO"
+  ],
+  "frage": "Unter welcher Voraussetzung kann ein Notar das Grundbuch elektronisch einsehen?",
+  "optionen": [
+   "Jeder Notar ist kraft Amtes automatisch zum elektronischen Abruf berechtigt",
+   "Der Notar muss für das automatisierte Abrufverfahren nach § 133 GBO zugelassen sein",
+   "Der Notar benötigt für jeden Abruf eine Genehmigung des Grundbuchamts",
+   "Elektronische Einsicht ist nur über das zentrale Grundbuchamt des Bundes möglich"
+  ],
+  "antwort": 1,
+  "erklaerung": "Notare können elektronisch einsehen, wenn sie für das automatisierte Abrufverfahren registriert sind (§ 133 GBO). Das Verfahren ist zwar in allen Bundesländern eröffnet, setzt aber die Zulassung des einzelnen Notars voraus, die je Notar zu beantragen ist. Eine Berechtigung kraft Amtes ohne Zulassung besteht nicht; Privatpersonen und Unternehmen wenden sich unmittelbar an das zuständige Grundbuchamt."
+ },
+ {
+  "id": "grbu1-016",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Einsicht und Abruf",
+  "seite": "Grundbucheinsicht: automatisiertes Abrufverfahren und Kosten",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/einsicht-und-abruf/grundbucheinsicht-automatisiertes-abrufverfahren-und-kosten",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 25209 GNotKG",
+   "KV 32010 GNotKG"
+  ],
+  "frage": "Die Abrufgebühr des Grundbuchamts berechnet der Notar den Beteiligten als Auslage weiter; daneben kann eine Notargebühr nach KV 25209 ff. GNotKG anfallen.",
+  "antwort": true,
+  "erklaerung": "Für jedes abgerufene Grundbuchblatt erhebt das Grundbuchamt eine Gebühr, die der Notar als Auslage (KV 32010 ff. GNotKG) weiterberechnet. Neben dieser Auslage kommt eine eigene Notargebühr nach KV 25209 ff. GNotKG in Betracht. Beides ist zu unterscheiden: Die Auslage ist der durchgereichte Fremdbetrag, die Gebühr vergütet die notarielle Tätigkeit."
+ },
+ {
+  "id": "grbu1-017",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Einsicht und Abruf",
+  "seite": "Grundbucheinsicht: berechtigtes Interesse und Mitteilung durch den Notar",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/einsicht-und-abruf/grundbucheinsicht-berechtigtes-interesse-und-mitteilung-durch-den-notar",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 12 Abs. 3 GBO",
+   "§ 43 Abs. 2 S. 1 GBV"
+  ],
+  "frage": "Welche Reichweite hat die Befreiung des Notars nach § 12 Abs. 3 GBO i. V. m. § 43 Abs. 2 S. 1 GBV?",
+  "optionen": [
+   "Der Notar darf das Grundbuch auch ohne berechtigtes Interesse einsehen",
+   "Der Notar ist nur von der Darlegung befreit; ein berechtigtes Interesse muss weiterhin vorliegen",
+   "Der Notar muss das berechtigte Interesse nicht darlegen, aber glaubhaft machen",
+   "Die Befreiung gilt nur für Einsicht in die Grundakten, nicht in das Grundbuchblatt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 43 Abs. 2 S. 1 GBV sind Notare wie Behördenbeauftragte befugt, das Grundbuch einzusehen, ohne dass es der Darlegung eines berechtigten Interesses bedarf. Die Befreiung betrifft nur die Darlegung: Ein berechtigtes Interesse, das aus der Amtspflicht zur Unterrichtung über den Grundbuchinhalt folgt, muss weiterhin vorliegen, Gefälligkeitsabrufe sind unzulässig. Glaubhaftmachung wäre sogar mehr als die ohnehin nur geforderte Darlegung von Tatsachen."
+ },
+ {
+  "id": "grbu1-018",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Einsicht und Abruf",
+  "seite": "Grundbucheinsicht: berechtigtes Interesse und Mitteilung durch den Notar",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/einsicht-und-abruf/grundbucheinsicht-berechtigtes-interesse-und-mitteilung-durch-den-notar",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 133a GBO",
+   "§ 12 GBO"
+  ],
+  "frage": "K erklärt dem Notar, er wolle das Grundstück des E kaufen, und bittet um einen Grundbuchauszug. Wie ist zu verfahren?",
+  "optionen": [
+   "Der Auszug ist auszuhändigen, weil ein Kaufinteresse stets ein berechtigtes Interesse begründet",
+   "Ohne weitere Nachweise ist die Mitwirkung des Eigentümers E zu verlangen",
+   "Die Mitteilung ist unzulässig, weil Notare Grundbuchinhalte nur an Eingetragene mitteilen dürfen",
+   "Der Auszug darf nur über das Grundbuchamt, nicht durch den Notar erteilt werden"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die isolierte Mitteilung des Grundbuchinhalts an Dritte richtet sich nach §§ 133a, 12 GBO und setzt ein berechtigtes Interesse des Anfragenden voraus. Wer nur behauptet, kaufen zu wollen, braucht ohne weitere Nachweise die Mitwirkung des Eigentümers; bei diesem und bei sonst Eingetragenen besteht das berechtigte Interesse dagegen regelmäßig. Eine Mitteilung durch den Notar ist grundsätzlich möglich, über sie ist aber ein Protokoll zu führen (§ 133a Abs. 3, Abs. 4 GBO)."
+ },
+ {
+  "id": "grbu1-019",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Einsicht und Abruf",
+  "seite": "Grundbucheinsicht: berechtigtes Interesse und Mitteilung durch den Notar",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/einsicht-und-abruf/grundbucheinsicht-berechtigtes-interesse-und-mitteilung-durch-den-notar",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 133a Abs. 2 GBO"
+  ],
+  "frage": "Ein Forschungsinstitut kann sich vom Notar den Grundbuchinhalt zu Forschungszwecken mitteilen lassen, wenn es das wissenschaftliche Interesse darlegt.",
+  "antwort": false,
+  "erklaerung": "Eine Mitteilung des Grundbuchinhalts durch den Notar im öffentlichen Interesse oder zu Forschungszwecken ist nach § 133a Abs. 2 GBO ausgeschlossen. Die Mitteilung nach § 133a GBO setzt ein berechtigtes Interesse im Sinne des § 12 GBO voraus, das rechtlicher, wirtschaftlicher oder tatsächlicher Natur sein kann; Forschungszwecke sind davon ausdrücklich ausgenommen."
+ },
+ {
+  "id": "grbu1-020",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Einsicht und Abruf",
+  "seite": "Grundbucheinsicht: berechtigtes Interesse und Mitteilung durch den Notar",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/einsicht-und-abruf/grundbucheinsicht-berechtigtes-interesse-und-mitteilung-durch-den-notar",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 12 Abs. 1 GBO",
+   "§ 12 Abs. 2 GBO"
+  ],
+  "frage": "Was verlangt § 12 Abs. 1 S. 1 GBO von demjenigen, der das Grundbuch einsehen will?",
+  "optionen": [
+   "Glaubhaftmachung eines rechtlichen Interesses",
+   "Darlegung eines berechtigten Interesses",
+   "Nachweis eines wirtschaftlichen Interesses durch Urkunden",
+   "Zustimmung des eingetragenen Eigentümers"
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 12 Abs. 1 S. 1 GBO gestattet die Einsicht jedem, der ein berechtigtes Interesse darlegt. Darlegen heißt Tatsachen vortragen und ist weniger als Glaubhaftmachung; das Interesse kann rechtlicher, wirtschaftlicher oder tatsächlicher Natur sein. Die Einsicht reicht nach § 12 Abs. 2 GBO nur so weit, wie das Interesse sie trägt. Die Zustimmung des Eigentümers ist kein gesetzliches Erfordernis, wird aber praktisch bei bloßen Kaufinteressenten verlangt."
+ },
+ {
+  "id": "grbu1-021",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Einsicht und Abruf",
+  "seite": "Grundbucheinsicht: Grundbuchabruf in der Praxis",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/einsicht-und-abruf/grundbucheinsicht-grundbuchabruf-in-der-praxis",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 21 Abs. 1 S. 1 BeurkG"
+  ],
+  "frage": "Wie aktuell muss der Grundbuchabruf sein, den der Notar der Beurkundung eines Kaufvertrags zugrunde legt?",
+  "optionen": [
+   "Das BeurkG schreibt einen Abruf am Beurkundungstag vor",
+   "Das BeurkG regelt keine Frist; der Notar entscheidet nach pflichtgemäßem Ermessen im Einzelfall",
+   "Der Abruf darf höchstens zwei Wochen zurückliegen (§ 21 Abs. 1 BeurkG)",
+   "Der Abruf darf höchstens sechs Wochen zurückliegen (§ 21 Abs. 1 BeurkG)"
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 21 Abs. 1 S. 1 BeurkG verpflichtet den Notar, den Grundbuchinhalt zu ermitteln, regelt aber nicht, wie aktuell der Abruf sein muss; das bestimmt der Notar nach pflichtgemäßem Ermessen. Der BGH hat im Einzelfall drei bis vier Wochen genügen lassen, im Schrifttum werden zwei bis sechs Wochen genannt. Feste gesetzliche Fristen gibt es nicht; ein Abruf am Beurkundungstag ist eine mögliche Büroübung, keine Pflicht."
+ },
+ {
+  "id": "grbu1-022",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Einsicht und Abruf",
+  "seite": "Grundbucheinsicht: Grundbuchabruf in der Praxis",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/einsicht-und-abruf/grundbucheinsicht-grundbuchabruf-in-der-praxis",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 12a Abs. 1 GBO",
+   "§ 17 GBO"
+  ],
+  "frage": "Die Ergebnisliste des Grundbuchabrufs zeigt zu dem Blatt einen Antrag in Bearbeitung. Welche Aussage trifft zu?",
+  "optionen": [
+   "Für die Richtigkeit der Antragsliste wird nicht eingestanden; der Notar sollte bei Beteiligten oder Grundbuchamt klären, worum es geht",
+   "Die Antragsliste ist verbindlich; der Notar darf erst nach Erledigung des Antrags beurkunden",
+   "Der offene Antrag ist unbeachtlich, weil er den Rang späterer Eintragungen nicht berührt",
+   "Der Notar muss den Antrag nach § 17 GBO zurückweisen lassen"
+  ],
+  "antwort": 0,
+  "erklaerung": "Über die Ergebnisliste ist ersichtlich, ob zu dem Blatt ein Antrag in Bearbeitung ist; für die Richtigkeit dieser Angabe wird nach § 12a Abs. 1 S. 2 Hs. 2 GBO nicht eingestanden. Der Notar sollte klären, ob der Antrag dem geplanten Vertrag entgegensteht. Unbeachtlich ist er nicht: Ein früherer Antrag kann wegen § 17 GBO die von der Bank verlangte erste Rangstelle blockieren, dann ist gegebenenfalls ein Rangrücktritt nötig."
+ },
+ {
+  "id": "grbu1-023",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Einsicht und Abruf",
+  "seite": "Grundbucheinsicht: Grundbuchabruf in der Praxis",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/einsicht-und-abruf/grundbucheinsicht-grundbuchabruf-in-der-praxis",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1094 BGB",
+   "§ 1098 Abs. 1 BGB",
+   "§ 473 S. 1 BGB",
+   "§ 874 BGB"
+  ],
+  "frage": "In Abteilung II ist ein dingliches Vorkaufsrecht für den verstorbenen V eingetragen, das gelöscht werden soll. Warum kann die Einsicht in die Grundakten geboten sein?",
+  "optionen": [
+   "Weil nur die Grundakten ausweisen, ob das Vorkaufsrecht bereits ausgeübt wurde",
+   "Weil erst die damalige Eintragungsbewilligung ergibt, ob das Recht vererblich bestellt wurde und damit Sterbeurkunde oder Erbnachweis mit Löschungsbewilligung nötig ist",
+   "Weil die Löschung eines Vorkaufsrechts stets die Vorlage der Bestellungsurkunde nach § 29 GBO erfordert",
+   "Weil § 21 BeurkG die Einsicht in die Grundakten bei jeder Löschung vorschreibt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Ein dingliches Vorkaufsrecht ist grundsätzlich nicht vererblich, sofern nichts anderes bestimmt ist (§§ 1094, 1098 Abs. 1, 473 S. 1 BGB); dann genügt zur Löschung die Sterbeurkunde, andernfalls sind Erbnachweis und Löschungsbewilligung des Erben nötig. Den Inhalt ergibt erst die damalige Eintragungsbewilligung in den Grundakten, auf die der Eintragungsvermerk Bezug nimmt (§ 874 BGB). Die Unterrichtungspflicht nach § 21 BeurkG umfasst die Grundakten regelmäßig nicht; nur ein konkreter Anlass wie hier gebietet ihre Einsicht."
+ },
+ {
+  "id": "grbu1-024",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Einsicht und Abruf",
+  "seite": "Grundbucheinsicht: Grundbuchabruf in der Praxis",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/einsicht-und-abruf/grundbucheinsicht-grundbuchabruf-in-der-praxis",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 12 GBO"
+  ],
+  "frage": "Beim elektronischen Grundbuchabruf genügt als Aktenzeichen eine beliebige Eingabe, da das berechtigte Interesse des Notars nicht darzulegen ist.",
+  "antwort": false,
+  "erklaerung": "Das beim Abruf einzugebende Aktenzeichen ordnet den Abruf einem Vorgang zu und belegt so das berechtigte Interesse nach § 12 GBO. Alle Abrufe werden gespeichert und bei der Geschäftsprüfung durch das Landgericht stichprobenweise kontrolliert; der Notar muss jeden Abruf einem Vorgang zuordnen können. Das Aktenzeichen muss daher eindeutig sein, ein nichtssagendes Aktenzeichen ist zu vermeiden."
+ },
+ {
+  "id": "grbu1-025",
+  "kapitel": "grundbuch-und-grundbuchverfahren",
+  "abschnitt": "Einsicht und Abruf",
+  "seite": "Grundbucheinsicht: Grundbuchabruf in der Praxis",
+  "quelle": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/einsicht-und-abruf/grundbucheinsicht-grundbuchabruf-in-der-praxis",
+  "typ": "fall",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 21 BeurkG",
+   "§ 12a GBO",
+   "§ 17 GBO"
+  ],
+  "frage": "Vorbereitung eines Kaufvertrags mit altem Auszug und offenem Antrag",
+  "sachverhalt": "Notar N bereitet den Verkauf eines Hausgrundstücks von V an K vor. V legt einen fünf Wochen alten Grundbuchauszug vor und nennt die Blattnummer 1234. In Abteilung III ist eine Grundschuld der Bank A eingetragen, die nach Angabe des V bereits zur Löschung eingereicht sei. Die Käuferbank verlangt für ihre Finanzierungsgrundschuld die erste Rangstelle. Beim Abruf zeigt die Ergebnisliste zu dem Blatt einen Antrag in Bearbeitung.",
+  "schritte": [
+   {
+    "frage": "Muss N wegen des Alters des Auszugs zwingend neu abrufen?",
+    "optionen": [
+     "Ja, § 21 BeurkG verlangt einen Abruf, der höchstens vier Wochen alt ist",
+     "Nein; N kann in Baden-Württemberg das Datum der letzten Änderung in der Ergebnisliste mit dem Datum des Auszugs vergleichen",
+     "Nein, weil die Aktualität des Auszugs allein Sache der Beteiligten ist",
+     "Ja, weil ein von den Beteiligten vorgelegter Auszug nie verwendet werden darf"
+    ],
+    "antwort": 1,
+    "erklaerung": "Das BeurkG regelt keine Frist; der Notar bestimmt die nötige Aktualität nach pflichtgemäßem Ermessen. Ist ein vorhandener Auszug nicht aktuell genug, muss nicht stets neu abgerufen werden: In Baden-Württemberg weist die Ergebnisliste das Datum der letzten Änderung des Blatts aus, das sich mit dem Datum des Auszugs vergleichen lässt."
+   },
+   {
+    "frage": "Wie sollte N mit dem in der Antragsliste angezeigten Antrag umgehen?",
+    "optionen": [
+     "Darauf vertrauen, dass es der Löschungsantrag zur Grundschuld ist, und den Vertrag ohne Löschungsregelung entwerfen",
+     "Klären, worum es geht, und, wenn die Löschungsunterlagen nicht genügen, die Löschungserklärungen in den Vertrag aufnehmen und die Fälligkeit an die Löschung knüpfen",
+     "Den Antrag ignorieren, weil für die Antragsliste nicht eingestanden wird",
+     "Die Beurkundung ablehnen, bis das Grundbuchamt den Antrag erledigt hat"
+    ],
+    "antwort": 1,
+    "erklaerung": "Zeigt die Antragsliste einen offenen Antrag, ist bei Beteiligten oder Grundbuchamt zu klären, worum es geht. Typischer Fehler ist, im Vertrauen auf einen eingereichten Löschungsantrag zu entwerfen, obwohl die Unterlagen zur Löschung nicht genügen. Dann gehören die Löschungserklärungen in den Vertrag, und die Fälligkeit ist an die Löschung zu knüpfen. Dass für die Richtigkeit der Liste nicht eingestanden wird (§ 12a Abs. 1 S. 2 Hs. 2 GBO), rechtfertigt kein Ignorieren."
+   },
+   {
+    "frage": "Stellt sich heraus, dass der offene Antrag eine Eintragung betrifft, die der ersten Rangstelle der Käuferbank vorgeht, wie sollte N vorgehen?",
+    "optionen": [
+     "Die Rangstelle im Kaufvertrag zusichern, weil § 17 GBO den späteren Antrag bevorzugt",
+     "Die Beteiligten an die Käuferbank verweisen; gegebenenfalls ist ein Rangrücktritt nötig",
+     "Den Antrag beim Grundbuchamt zurücknehmen lassen",
+     "Die Finanzierungsgrundschuld in Abteilung II eintragen lassen"
+    ],
+    "antwort": 1,
+    "erklaerung": "Nach § 17 GBO sind Anträge in der Reihenfolge ihres Eingangs zu erledigen; ein früherer Antrag blockiert daher die von der Bank verlangte erste Rangstelle. Der Praxishinweis lautet, die Beteiligten an ihre Bank zu verweisen; gegebenenfalls ist ein Rangrücktritt des vorgehenden Berechtigten erforderlich. Der Notar kann einen fremden Antrag weder zurücknehmen noch die Rangstelle zusichern."
+   }
+  ],
+  "erklaerung": "Die Aktualität des Grundbuchabrufs bestimmt der Notar nach Ermessen (§ 21 BeurkG) und kann sie über das Datum der letzten Änderung prüfen. Ein offener Antrag in der Antragsliste (§ 12a GBO) ist aufzuklären; unzureichende Löschungsunterlagen sind durch Löschungserklärungen im Vertrag und Fälligkeitsregelung abzufangen, ein die Rangstelle blockierender Antrag (§ 17 GBO) erfordert die Abstimmung mit der Bank und gegebenenfalls einen Rangrücktritt."
  }
 ]
