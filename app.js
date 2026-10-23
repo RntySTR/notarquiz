@@ -410,7 +410,55 @@ function starteSitzung(cfg) {
 function abbrechen() { if (sitzung.timer) clearInterval(sitzung.timer); if (sitzung.beantwortet > 0) return beendeSitzung(); sitzung = null; setzeTab('home'); }
 function gradHtml(g) { return `<span class="grad" title="Schwierigkeit ${g}">${[1, 2, 3].map(i => `<i class="${i <= g ? 'an' : ''}"></i>`).join('')}</span>`; }
 function quelleHtml(q) { return `<div class="quelle">${esc(q.seite)} · <a href="${WISSEN_URL}${esc(q.quelle)}" target="_blank" rel="noopener">im Handbuch nachlesen</a></div>`; }
-function normenHtml(q) { return q.normen && q.normen.length ? `<div class="normen">${q.normen.map(n => `<span class="norm">${esc(n)}</span>`).join('')}</div>` : ''; }
+function normenHtml(q) { return q.normen && q.normen.length ? `<div class="normen">${q.normen.map(n => `<button class="norm" data-norm="${esc(n)}">${esc(n)}</button>`).join('')}</div>` : ''; }
+document.addEventListener('click', e => { const b = e.target.closest('[data-norm]'); if (b) oeffneNorm(b.dataset.norm); });
+
+/* ========== Gesetzestexte (Overlay) ========== */
+const GESETZ_SLUG = { BGB: 'bgb', BNotO: 'bnoto', BeurkG: 'beurkg', GBO: 'gbo', GNotKG: 'gnotkg', GmbHG: 'gmbhg', HGB: 'hgb', InsO: 'inso', FamFG: 'famfg', ZPO: 'zpo', ZVG: 'zvg', UmwG: 'umwg-1995', ErbStG: 'erbstg-1974', GrEStG: 'grestg-1983', GwG: 'gwg-2017', WEG: 'woeigg', WoEigG: 'woeigg', ErbbauRG: 'erbbauv', ErbbauVO: 'erbbauv', BauGB: 'bbaug', AktG: 'aktg', GenG: 'geng', PartGG: 'partgg', LPartG: 'lpartg', NotAktVV: 'notaktvv', PStG: 'pstg', VwVfG: 'vwvfg', BewG: 'bewg', GBV: 'gbvfg', GrdstVG: 'grdstvg', GVO: 'grdstvv', VRegV: 'vregv', ZTRV: 'ztrv', WHG: 'whg-2009', RSiedlG: 'rsiedlg', BNatSchG: 'bnatschg-2009', MaBV: 'mabv', EGBGB: 'egbgb', GewO: 'gewo', EStG: 'estg', AO: 'ao', GG: 'gg', StGB: 'stgb', SGB: 'sgb', VersAusglG: 'versausglg', LebensPartG: 'lpartg', EuErbVO: 'euerbvo', EGGVG: 'eggvg', HausbauVO: 'hausbauvo', DONot: 'donot', SigG: 'sigg', VDG: 'vdg', eIDAS: 'eidas', GBMaßnG: 'gbmassng', RPflG: 'rpflg', GVG: 'gvg', KostO: 'kosto', UStG: 'ustg', BDSG: 'bdsg', DSGVO: 'dsgvo', TKG: 'tkg', BGBEG: 'egbgb', UrhG: 'urhg', GKG: 'gkg', RVG: 'rvg', EGHGB: 'eghgb', EGInsO: 'eginso', SchuldRAnpG: 'schuldranpg', SachenRBerG: 'sachenrberg', LwVG: 'lwvg', HöfeO: 'hoefeo', AGGVG: 'aggvg', LBO: 'lbo', FlurbG: 'flurbg', BewG1991: 'bewg' };
+let NORMEN = null;
+function normParsen(text) {
+  // "§ 3 Abs. 1 Nr. 2 MaBV", "§§ 24, 28 Abs. 1 S. 2 BauGB", "Art. 244 EGBGB", "§ 1944 Abs. 2 BGB i. V. m. §§ 348, 350 FamFG"
+  const teile = text.split(/\s*(?:i\.\s?V\.\s?m\.|iVm|;|\bund\b(?=\s*§)|\bsowie\b)\s*/i);
+  const ergebnis = [];
+  teile.forEach(t => {
+    const gesetz = (t.match(/([A-ZÄÖÜ][A-Za-zÄÖÜäöüß]*[A-Za-z]*(?:\s\d{4})?)\s*$/) || [])[1];
+    if (!gesetz) return;
+    const kurz = gesetz.replace(/\s\d{4}$/, '').trim();
+    const nummern = []; const re = /(§§?|Art\.?|Artikel)\s*((?:\d+[a-z]?(?:\s*(?:,|bis|–|-)\s*)?)+)/g; let m;
+    while ((m = re.exec(t))) { m[2].split(/\s*(?:,|bis|–|-)\s*/).forEach(n => { if (/^\d+[a-z]?$/.test(n)) nummern.push({ art: /Art/.test(m[1]) ? 'Art.' : '§', n }); }); }
+    const abs = (t.match(/Abs(?:atz|\.)\s*(\d+)/) || [])[1];
+    nummern.forEach(x => ergebnis.push({ gesetz: kurz, art: x.art, n: x.n, abs, slug: (GESETZ_SLUG[kurz] || kurz.toLowerCase()) + '/' + x.n }));
+  });
+  return ergebnis;
+}
+async function normenLaden() { if (NORMEN) return NORMEN; try { const r = await fetch('data/normen.json?v=' + VERSION); NORMEN = await r.json(); } catch (e) { NORMEN = {}; } return NORMEN; }
+function normText(md, abs) {
+  // Markdown-lite: Überschrift, Absätze, Listen; Quelle-Zeile entfernen; Absatz (N) hervorheben
+  const zeilen = md.replace(/\n---[\s\S]*$/, '').split(/\n{2,}/);
+  return zeilen.map(z => {
+    z = z.trim(); if (!z || z.startsWith('## ')) return '';
+    if (/^\d+\.\s/m.test(z)) return `<ol>${z.split(/\n(?=\d+\.\s)/).map(li => `<li>${esc(li.replace(/^\d+\.\s/, ''))}</li>`).join('')}</ol>`;
+    const hit = abs && z.startsWith('(' + abs + ')');
+    return `<p class="${hit ? 'abs-hit' : ''}">${esc(z)}</p>`;
+  }).join('');
+}
+async function oeffneNorm(text) {
+  const liste = normParsen(text);
+  const alt = document.querySelector('.norm-overlay'); if (alt) alt.remove();
+  const o = document.createElement('div'); o.className = 'norm-overlay';
+  o.innerHTML = `<div class="norm-blatt"><div class="norm-kopf"><span>${esc(text)}</span><button class="norm-zu" aria-label="Schließen">${ICON.zurueck}</button></div><div class="norm-inhalt"><p class="laden-klein">Lade Gesetzestext …</p></div></div>`;
+  document.body.appendChild(o); requestAnimationFrame(() => o.classList.add('an'));
+  const zu = () => { o.classList.remove('an'); setTimeout(() => o.remove(), 250); };
+  o.querySelector('.norm-zu').onclick = zu; o.addEventListener('click', e => { if (e.target === o) zu(); });
+  const N = await normenLaden(); const inhalt = o.querySelector('.norm-inhalt');
+  if (!liste.length) { inhalt.innerHTML = `<p>Diese Angabe lässt sich keiner einzelnen Vorschrift zuordnen.</p>`; return; }
+  inhalt.innerHTML = liste.map(x => {
+    const e = N[x.slug];
+    if (e) return `<section class="norm-abschnitt"><h3>${esc(e.t)}</h3><div class="norm-gesetz">${esc(e.g)}</div>${normText(e.c, x.abs)}${e.u ? `<a class="norm-link" href="${esc(e.u)}" target="_blank" rel="noopener">Im Original bei gesetze-im-internet.de</a>` : ''}</section>`;
+    const such = encodeURIComponent(`${x.art} ${x.n} ${x.gesetz}`);
+    return `<section class="norm-abschnitt"><h3>${esc(x.art + ' ' + x.n + ' ' + x.gesetz)}</h3><p>Text nicht hinterlegt.</p><a class="norm-link" href="https://dejure.org/cgi-bin/suche?Suchbegriff=${such}" target="_blank" rel="noopener">Bei dejure.org nachschlagen</a></section>`;
+  }).join('');
+}
 
 function renderSitzung() {
   const s = sitzung;

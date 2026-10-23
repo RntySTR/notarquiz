@@ -1,0 +1,94 @@
+{
+ "kapitel": "notarkosten",
+ "kapitel_titel": "Notarkosten",
+ "teil": 2,
+ "teile": 4,
+ "datei": "data/fragen/notarkosten__2.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-vertragsanderung-vertragsaufhebung-identitatserklarung",
+   "titel": "Notargebühren: Vertragsänderung, Vertragsaufhebung, Identitätserklärung",
+   "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-vorzeitige-beendigung-des-beurkundungsverfahrens-kv-21300-21304-gnotkg",
+   "titel": "Notargebühren: vorzeitige Beendigung des Beurkundungsverfahrens (KV 21300–21304 GNotKG)",
+   "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-betreuungs-und-treuhandgebuhr-kv-22200-22201-gnotkg",
+   "titel": "Notargebühren: Betreuungs- und Treuhandgebühr (KV 22200, 22201 GNotKG)",
+   "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-fremde-sprache-kv-26001-gnotkg",
+   "titel": "Notargebühren: fremde Sprache (KV 26001 GNotKG)",
+   "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-ruckgabe-eines-erbvertrags-und-eidesstattliche-versicherung-kv-23100-23300-gnotkg",
+   "titel": "Notargebühren: Rückgabe eines Erbvertrags und eidesstattliche Versicherung (KV 23100, 23300 GNotKG)",
+   "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-unzeit-und-auswartsgebuhr-kv-26000-26002-26003-gnotkg",
+   "titel": "Notargebühren: Unzeit- und Auswärtsgebühr (KV 26000, 26002, 26003 GNotKG)",
+   "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-vermogensverzeichnis-siegelung-und-verwahrung",
+   "titel": "Notargebühren: Vermögensverzeichnis, Siegelung und Verwahrung",
+   "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-vertretungs-und-rangbescheinigung-eigenurkunde-kv-25200-ff-gnotkg",
+   "titel": "Notargebühren: Vertretungs- und Rangbescheinigung, Eigenurkunde (KV 25200 ff. GNotKG)",
+   "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-vollzug-auftrag-anwendungsbereich-entwurfe",
+   "titel": "Notargebühren: Vollzug – Auftrag, Anwendungsbereich, Entwürfe",
+   "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-vollzugstatigkeiten-gebuhrensatz-und-deckelung-kv-22110-22115-gnotkg",
+   "titel": "Notargebühren: Vollzugstätigkeiten, Gebührensatz und Deckelung (KV 22110–22115 GNotKG)",
+   "abschnitt": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-beschlusse-von-organen-108-gnotkg",
+   "titel": "Geschäftswert: Beschlüsse von Organen (§ 108 GNotKG)",
+   "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-ehevertrag-und-lebenspartnerschaftsvertrag-100-gnotkg",
+   "titel": "Geschäftswert: Ehevertrag und Lebenspartnerschaftsvertrag (§ 100 GNotKG)",
+   "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-erbschein-und-erklarungen-gegenuber-dem-nachlassgericht-gebuhren-im-erbrecht-40-103-gnotkg",
+   "titel": "Geschäftswert: Erbschein und Erklärungen gegenüber dem Nachlassgericht; Gebühren im Erbrecht (§§ 40, 103 GNotKG)",
+   "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-gesellschaftsrechtliche-vertrage-und-anteilsubertragungen-107-54-gnotkg",
+   "titel": "Geschäftswert: gesellschaftsrechtliche Verträge und Anteilsübertragungen (§§ 107, 54 GNotKG)",
+   "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-registeranmeldungen-105-106-gnotkg-grundsatze-hochstwert-musterprotokoll",
+   "titel": "Geschäftswert: Registeranmeldungen (§§ 105, 106 GNotKG) – Grundsätze, Höchstwert, Musterprotokoll",
+   "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-registeranmeldungen-105-106-gnotkg-werte-mit-und-ohne-bestimmten-geldwert",
+   "titel": "Geschäftswert: Registeranmeldungen (§§ 105, 106 GNotKG) – Werte mit und ohne bestimmten Geldwert",
+   "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-scheidungsvereinbarung-und-ehevertrag-mit-weiteren-regelungen-111-nr-2-97-51-abs-2-52-gnotkg",
+   "titel": "Geschäftswert: Scheidungsvereinbarung und Ehevertrag mit weiteren Regelungen (§§ 111 Nr. 2, 97, 51 Abs. 2, 52 GNotKG)",
+   "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten"
+  }
+ ]
+}

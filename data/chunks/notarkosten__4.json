@@ -1,0 +1,89 @@
+{
+ "kapitel": "notarkosten",
+ "kapitel_titel": "Notarkosten",
+ "teil": 4,
+ "teile": 4,
+ "datei": "data/fragen/notarkosten__4.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-erhebungspflicht-gebuhrenvereinbarung-stundung-und-erlass",
+   "titel": "Notarkosten: Erhebungspflicht, Gebührenvereinbarung, Stundung und Erlass",
+   "abschnitt": "Grundlagen und Kostenschuldner"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-falligkeit-vorschuss-verzinsung-zuruckbehaltung",
+   "titel": "Notarkosten: Fälligkeit, Vorschuss, Verzinsung, Zurückbehaltung",
+   "abschnitt": "Grundlagen und Kostenschuldner"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-kostenschuldner-in-einzelfallen",
+   "titel": "Notarkosten: Kostenschuldner in Einzelfällen",
+   "abschnitt": "Grundlagen und Kostenschuldner"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-kostenschuldner-grundsatze-29-32-gnotkg",
+   "titel": "Notarkosten: Kostenschuldner – Grundsätze (§§ 29–32 GNotKG)",
+   "abschnitt": "Grundlagen und Kostenschuldner"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-rechtsgrundlagen-kostenbegriff-und-aufbau-des-gnotkg",
+   "titel": "Notarkosten: Rechtsgrundlagen, Kostenbegriff und Aufbau des GNotKG",
+   "abschnitt": "Grundlagen und Kostenschuldner"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-unrichtige-sachbehandlung-und-kostengunstigster-weg",
+   "titel": "Notarkosten: unrichtige Sachbehandlung und kostengünstigster Weg",
+   "abschnitt": "Grundlagen und Kostenschuldner"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-wertgebuhr-gebuhrentatbestand-und-gebuhrensatz",
+   "titel": "Notarkosten: Wertgebühr, Gebührentatbestand und Gebührensatz",
+   "abschnitt": "Grundlagen und Kostenschuldner"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/auslagen-dokumentenpauschale-kv-32000-32003-gnotkg",
+   "titel": "Auslagen: Dokumentenpauschale (KV 32000–32003 GNotKG)",
+   "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/auslagen-post-telekommunikation-und-reisekosten-kv-32004-32009-gnotkg",
+   "titel": "Auslagen: Post, Telekommunikation und Reisekosten (KV 32004–32009 GNotKG)",
+   "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/auslagen-sonstige-auslagen-und-umsatzsteuer-kv-32010-32015-gnotkg",
+   "titel": "Auslagen: sonstige Auslagen und Umsatzsteuer (KV 32010–32015 GNotKG)",
+   "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/kostenberechnung-pflicht-und-sollangaben-textform-19-gnotkg",
+   "titel": "Kostenberechnung: Pflicht- und Sollangaben, Textform (§ 19 GNotKG)",
+   "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/kostenberechnung-prufreihenfolge-in-drei-schritten",
+   "titel": "Kostenberechnung: Prüfreihenfolge in drei Schritten",
+   "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/kostenberechnung-rechtsbehelfsbelehrung-7a-gnotkg-und-wertangabe-gegenuber-gerichten",
+   "titel": "Kostenberechnung: Rechtsbehelfsbelehrung (§ 7a GNotKG) und Wertangabe gegenüber Gerichten",
+   "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/kostenberechnung-umsatzsteuerliche-rechnungsangaben-und-korrektur",
+   "titel": "Kostenberechnung: umsatzsteuerliche Rechnungsangaben und Korrektur",
+   "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/notarkosten-antrag-auf-gerichtliche-entscheidung-127-130-gnotkg",
+   "titel": "Notarkosten: Antrag auf gerichtliche Entscheidung (§§ 127–130 GNotKG)",
+   "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/notarkosten-beitreibung-titel-klausel-zustellung-vollstreckung",
+   "titel": "Notarkosten: Beitreibung – Titel, Klausel, Zustellung, Vollstreckung",
+   "abschnitt": "Kostenberechnung, Auslagen und Rechtsbehelfe"
+  }
+ ]
+}

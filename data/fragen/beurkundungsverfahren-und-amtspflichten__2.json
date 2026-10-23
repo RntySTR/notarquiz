@@ -256,5 +256,833 @@
    }
   ],
   "erklaerung": "Der von S ohne nachgewiesene Vertretungsmacht geschlossene Vertrag ist schwebend unwirksam und wird erst durch Genehmigung des V wirksam (§ 177 BGB). Die Genehmigung ist materiell formfrei, braucht für den Grundbuchvollzug aber die Beglaubigung nach § 29 GBO. Die Anforderung durch den Notar ist keine Aufforderung nach § 177 Abs. 2 BGB; zweckmäßig ist eine Ermächtigung des Notars zur Entgegennahme der Genehmigung in der Urkunde."
+ },
+ {
+  "id": "beur2-011",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Prüfungs- und Belehrungspflichten",
+  "seite": "Belehrungspflicht, Betreuungspflicht und Schadensverhütung",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/prufungs-und-belehrungspflichten/belehrungspflicht-betreuungspflicht-und-schadensverhutung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 17 Abs. 1 BeurkG"
+  ],
+  "frage": "Worauf erstreckt sich die Belehrungspflicht des Notars nicht?",
+  "optionen": [
+   "Auf die Bedingungen, unter denen das rechtliche Ziel erreicht wird",
+   "Auf die direkten Rechtsfolgen der abgegebenen Erklärungen",
+   "Auf die steuerlichen Folgen des Geschäfts",
+   "Auf die Gefahren ungesicherter Vorleistungen"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Belehrung betrifft die rechtliche Tragweite: die Bedingungen des Zielerreichens und die direkten Rechtsfolgen, ausdrücklich auch die Gefahren ungesicherter Vorleistungen. Wirtschaftliche Folgen und mittelbare Rechtswirkungen, insbesondere steuerliche Folgen, umfasst die Pflicht nicht; empfohlen wird ein Hinweis in Anschreiben und Urkunde, dass keine steuerliche Beratung erfolgt."
+ },
+ {
+  "id": "beur2-012",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Prüfungs- und Belehrungspflichten",
+  "seite": "Belehrungspflicht, Betreuungspflicht und Schadensverhütung",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/prufungs-und-belehrungspflichten/belehrungspflicht-betreuungspflicht-und-schadensverhutung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 17 Abs. 1 BeurkG"
+  ],
+  "frage": "Die Beteiligten bestehen auf einer rechtlich zulässigen Gestaltung, die vom sichersten Weg abweicht. Wie hat der Notar zu verfahren?",
+  "optionen": [
+   "Die Beurkundung ablehnen, weil der Notar stets den sichersten Weg wählen muss",
+   "Beurkunden und über das Risiko belehren; die Erwähnung von Sicherungsmöglichkeiten ist entbehrlich, weil die Beteiligten sie abgelehnt haben",
+   "Beurkunden und doppelt belehren: über die Risiken und konkret über mögliche Absicherungsmaßnahmen; den abweichenden Vorschlag in der Urkunde festhalten",
+   "Beurkunden, ohne zu belehren, weil die Beteiligten die Gestaltung selbst gewählt haben"
+  ],
+  "antwort": 2,
+  "erklaerung": "Eine zulässige abweichende Gestaltung darf der Notar beurkunden, muss dann aber doppelt belehren: über die bestehenden Risiken und konkret über Maßnahmen zu ihrer Absicherung. Lehnen die Beteiligten die Sicherungen ab, sollte die Urkunde aus Beweisgründen den abweichenden Vorschlag des Notars festhalten. Der typische Fehler ist die Belehrung nur über das Risiko ohne Aufzeigen konkreter Absicherungsmöglichkeiten; eine Ablehnung der Beurkundung ist nicht geboten."
+ },
+ {
+  "id": "beur2-013",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Prüfungs- und Belehrungspflichten",
+  "seite": "Belehrungspflicht, Betreuungspflicht und Schadensverhütung",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/prufungs-und-belehrungspflichten/belehrungspflicht-betreuungspflicht-und-schadensverhutung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 24 BNotO",
+   "§ 1 BNotO",
+   "§ 14 BNotO"
+  ],
+  "frage": "Welche Pflicht trifft den Notar bei Amtsgeschäften nach § 24 BNotO, etwa bei der Fälligkeitsmitteilung oder der Abwicklung eines Treuhandauftrags?",
+  "optionen": [
+   "Die Belehrungspflicht nach § 17 BeurkG in vollem Umfang",
+   "Die Pflicht, das übernommene Geschäft im Rahmen des Auftrags ordnungsgemäß zu betreuen",
+   "Keine Pflicht, weil Betreuungsgeschäfte außerhalb der Amtstätigkeit liegen",
+   "Nur die Pflicht zur Unparteilichkeit, nicht aber zur Betreuung"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei Amtsgeschäften nach § 24 BNotO trifft den Notar keine Belehrungspflicht, sondern die Pflicht, das übernommene Geschäft im Rahmen seines Auftrags ordnungsgemäß zu betreuen; typische Fälle sind Fälligkeitsmitteilung, Überwachung der Auflassung und Treuhandaufträge. Daneben besteht die aus §§ 1, 14 BNotO abgeleitete allgemeine Betreuungspflicht, die vor allem Haftungsgrundlage gegenüber nicht unmittelbar Beteiligten ist."
+ },
+ {
+  "id": "beur2-014",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Prüfungs- und Belehrungspflichten",
+  "seite": "Belehrungspflicht, Betreuungspflicht und Schadensverhütung",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/prufungs-und-belehrungspflichten/belehrungspflicht-betreuungspflicht-und-schadensverhutung",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 17 Abs. 1 BeurkG"
+  ],
+  "frage": "Bei neuen Gesetzen und neuen Urteilen darf der Notar abwarten, bis sich eine gefestigte höchstrichterliche Auslegung gebildet hat; vorher begründen sie keine Belehrungspflicht.",
+  "antwort": false,
+  "erklaerung": "Falsch. Auch neue Gesetze und neue Urteile begründen Belehrungspflichten; der Notar muss sie als Erster anwenden und möglichst sofort so, wie der BGH sie Jahre später auslegen wird (Rechtsprechungsprognose, vgl. BGH NJW 2016, 1324 zur Bindungsfrist von Angeboten). Erkennbare Tendenzen der Rechtsprechung darf er nicht übersehen."
+ },
+ {
+  "id": "beur2-015",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Prüfungs- und Belehrungspflichten",
+  "seite": "Prüfungs- und Formulierungspflichten nach § 17 BeurkG",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/prufungs-und-belehrungspflichten/prufungs-und-formulierungspflichten-nach-17-beurkg",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 17 BeurkG"
+  ],
+  "frage": "Ordne die Zwecke der notariellen Form ihrer Beschreibung zu.",
+  "paare": [
+   [
+    "Warnfunktion",
+    "Schutz vor übereilten Erklärungen"
+   ],
+   [
+    "Beweisfunktion",
+    "Abschluss und Inhalt des Rechtsgeschäfts sind klar nachweisbar"
+   ],
+   [
+    "Belehrungs-, Beratungs- und Schutzfunktion",
+    "Sachkundige, unparteiische Beratung und Entscheidung in Kenntnis der rechtlichen Tragweite"
+   ]
+  ],
+  "erklaerung": "Die notarielle Form dient dem Übereilungsschutz (Warnfunktion), der Nachweisbarkeit von Abschluss und Inhalt (Beweisfunktion) und der sachkundigen, unparteiischen Beratung der Beteiligten (Belehrungs-, Beratungs- und Schutzfunktion). § 17 BeurkG setzt diese Zwecke im Verfahren um."
+ },
+ {
+  "id": "beur2-016",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Prüfungs- und Belehrungspflichten",
+  "seite": "Prüfungs- und Formulierungspflichten nach § 17 BeurkG",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/prufungs-und-belehrungspflichten/prufungs-und-formulierungspflichten-nach-17-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 17 Abs. 1 BeurkG"
+  ],
+  "frage": "Wie weit reicht die Pflicht des Notars zur Ermittlung des Sachverhalts nach § 17 BeurkG?",
+  "optionen": [
+   "Der Notar muss die Angaben der Beteiligten eigenständig und ohne Anlass detektivisch überprüfen",
+   "Der Notar darf den Angaben grundsätzlich glauben, darf Berichtetes aber nicht absichtlich überhören oder unbeachtet lassen",
+   "Der Notar darf sich auf die Sachverhaltsklärung durch seine Mitarbeiter verlassen und ist damit von eigener Verantwortung frei",
+   "Der Notar muss nur den Sachverhalt ermitteln, der sich aus dem Entwurf ergibt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Notar darf den Angaben der Beteiligten grundsätzlich glauben und muss nicht detektivisch ohne Anlass ermitteln; was ihm berichtet wird, darf er aber nicht absichtlich überhören oder unbeachtet lassen. Die Sachverhaltsklärung durch Mitarbeiter entlastet ihn nicht von seiner eigenen Verantwortung. Typischer Fehler ist das Übergehen einer Bemerkung, die auf eine nicht beurkundete Nebenabrede hindeutet."
+ },
+ {
+  "id": "beur2-017",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Prüfungs- und Belehrungspflichten",
+  "seite": "Prüfungs- und Formulierungspflichten nach § 17 BeurkG",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/prufungs-und-belehrungspflichten/prufungs-und-formulierungspflichten-nach-17-beurkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 17 BeurkG"
+  ],
+  "frage": "Benutzen Beteiligte in der Verhandlung juristische Fachbegriffe, muss der Notar prüfen, ob sie diese zutreffend gebrauchen und verstehen.",
+  "antwort": true,
+  "erklaerung": "Richtig. § 17 BeurkG verlangt, dass die Urkunde den wahren Willen wiedergibt und Irrtümer vermieden werden; deshalb prüft der Notar bei von Beteiligten verwendeten Rechtsbegriffen, ob sie richtig gebraucht und verstanden werden. Dass die Beteiligten einen Fachbegriff selbst gewählt haben, entbindet nicht von dieser Prüfung."
+ },
+ {
+  "id": "beur2-018",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Prüfungs- und Belehrungspflichten",
+  "seite": "Prüfungs- und Formulierungspflichten nach § 17 BeurkG",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/prufungs-und-belehrungspflichten/prufungs-und-formulierungspflichten-nach-17-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 17 BeurkG"
+  ],
+  "frage": "Welche Aussage zur sprachlichen Gestaltung der Urkunde trifft zu?",
+  "optionen": [
+   "Auf Fachbegriffe ist vollständig zu verzichten, damit Laien den Text verstehen",
+   "Verständliche, kurze Sätze in klarer Alltagssprache, ohne auf Fachbegriffe zu verzichten, damit der rechtliche Inhalt eindeutig bleibt",
+   "Paragraphen müssen stets zitiert werden, damit die Belehrung nachweisbar ist",
+   "Eine Gliederung ist entbehrlich, wenn die Urkunde vollständig vorgelesen wird"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Urkunde soll aus verständlichen, kurzen Sätzen in klarer Alltagssprache bestehen; auf Fachbegriffe wird dennoch nicht verzichtet, damit der rechtliche Inhalt eindeutig ist. Ob Paragraphen zitiert werden, ist eine Stilfrage; eine Gliederung ist stets geboten, weil sie den Überblick erleichtert und dem Notar zur Vollständigkeitskontrolle dient."
+ },
+ {
+  "id": "beur2-019",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Prüfungs- und Belehrungspflichten",
+  "seite": "Richtlinienempfehlungen der BNotK: Unparteilichkeit, Bezugsurkunden und Aufspaltung in Angebot und Annahme",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/prufungs-und-belehrungspflichten/richtlinienempfehlungen-der-bnotk-unparteilichkeit-bezugsurkunden-und-aufspaltung-in-angebot-und-annahme",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 13c BeurkG"
+  ],
+  "frage": "Ein Bauträger verwendet eine umfassende Mutterurkunde mit dem wesentlichen Vertragsinhalt einschließlich der Gewährleistungsregeln, auf die in jedem Einzelvertrag nach § 13c BeurkG verwiesen wird. Wie ist dieses Verfahren zu beurteilen?",
+  "optionen": [
+   "Nach dem BeurkG unwirksam, weil geschäftswesentliche Inhalte nicht in Bezugsurkunden stehen dürfen",
+   "Nach dem BeurkG wirksam, aber standeswidrig und als Amtspflichtverletzung ahndbar",
+   "Zulässig, weil § 13c BeurkG von Vorlesung und Belehrung über den Inhalt befreit",
+   "Zulässig, sofern die Bezugsurkunde bei der Beurkundung vorliegt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Eine umfassende Mutterurkunde ist nach dem BeurkG wirksam, die missbräuchliche Auslagerung geschäftswesentlicher, belehrungsbedürftiger Regelungen wie der Gewährleistung ist aber standeswidrig und kann als Amtspflichtverletzung geahndet werden. § 13c BeurkG befreit nur vom Vorlesen, nicht von der inhaltlichen Belehrung; die Wirksamkeit nach dem BeurkG bleibt unberührt."
+ },
+ {
+  "id": "beur2-020",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Prüfungs- und Belehrungspflichten",
+  "seite": "Richtlinienempfehlungen der BNotK: Unparteilichkeit, Bezugsurkunden und Aufspaltung in Angebot und Annahme",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/prufungs-und-belehrungspflichten/richtlinienempfehlungen-der-bnotk-unparteilichkeit-bezugsurkunden-und-aufspaltung-in-angebot-und-annahme",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 13c BeurkG"
+  ],
+  "frage": "Die Auslagerung der Baubeschreibung in eine Bezugsurkunde ist unzulässig, weil die Baubeschreibung geschäftswesentlich ist.",
+  "antwort": false,
+  "erklaerung": "Falsch. Die Baubeschreibung ist zwar geschäftswesentlich, ihre Auslagerung in eine Bezugsurkunde ist aber ein typischer Fall sinnvoller Verweisung, weil sie als Leistungsverzeichnis beschreibt, was für den Preis geschuldet ist, und der Notar über ihren Inhalt kaum belehren kann. Das Verbot missbräuchlicher Auslagerung ist eng zu verstehen und zielt auf belehrungsbedürftige Kernregelungen wie die Gewährleistung."
+ },
+ {
+  "id": "beur2-021",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Prüfungs- und Belehrungspflichten",
+  "seite": "Richtlinienempfehlungen der BNotK: Unparteilichkeit, Bezugsurkunden und Aufspaltung in Angebot und Annahme",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/prufungs-und-belehrungspflichten/richtlinienempfehlungen-der-bnotk-unparteilichkeit-bezugsurkunden-und-aufspaltung-in-angebot-und-annahme",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 17 Abs. 2a BeurkG",
+   "§ 308 Nr. 1 BGB"
+  ],
+  "frage": "Welcher Grund rechtfertigt nach den Richtlinienempfehlungen die planmäßige Aufspaltung eines Bauträgervertrags in Angebot und spätere Annahme nicht?",
+  "optionen": [
+   "Der Verkäufer will das Projekt nur bei einer ausreichenden Zahl von Käufern verwirklichen",
+   "Große Entfernung zwischen Sitz des Unternehmers und Wohnort des Käufers",
+   "Der Käufer muss seine Finanzierung erst noch klären",
+   "Der Käufer als Verbraucher soll das Angebot abgeben und dabei belehrt werden"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Begründung, der Käufer müsse seine Finanzierung erst klären, trägt nach den Richtlinienempfehlungen nicht. Sachlich gerechtfertigt sein kann die Aufspaltung dagegen, wenn der Verkäufer das Projekt nur bei ausreichender Käuferzahl verwirklichen will (wobei die Rechtsprechung zu Annahmefristen die Vorratsbindung auf regelmäßig vier Wochen begrenzt, AGB-Fristen über sechs Wochen sind unwirksam) oder bei großer Entfernung. Bei getrennter Beurkundung gibt der Verbraucher das Angebot ab, damit er belehrt wird."
+ },
+ {
+  "id": "beur2-022",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Prüfungs- und Belehrungspflichten",
+  "seite": "Richtlinienempfehlungen der BNotK: Unparteilichkeit, Bezugsurkunden und Aufspaltung in Angebot und Annahme",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/prufungs-und-belehrungspflichten/richtlinienempfehlungen-der-bnotk-unparteilichkeit-bezugsurkunden-und-aufspaltung-in-angebot-und-annahme",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 14 BNotO"
+  ],
+  "frage": "In welcher der folgenden Konstellationen muss der Notar seine Unparteilichkeit nach den Richtlinienempfehlungen wahren?",
+  "optionen": [
+   "Nur bei der Beurkundung von Verträgen mit mehreren Beteiligten",
+   "Auch bei Beratung, Entwurfsfertigung und Gutachten auf einseitigen Antrag sowie bei zulässiger Vertretung vor Grundbuchamt, Registergericht und Finanzamt",
+   "Nur bei der Vertretung eines Beteiligten in gerichtlichen Genehmigungsverfahren",
+   "Nicht bei genehmigten Nebentätigkeiten, weil diese außerhalb des Amtes liegen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Schon der Anschein der Parteilichkeit ist zu vermeiden; die Unparteilichkeit gilt auch bei einseitiger Beratung, Entwurfsfertigung und Gutachten und bei der gesetzlich zulässigen Vertretung vor Grundbuchamt, Registergericht, im Erbscheinsverfahren und gegenüber den Finanzämtern. Auch andere Berufs- und Nebentätigkeiten, genehmigt oder genehmigungsfrei, dürfen Unabhängigkeit und Unparteilichkeit nicht in Frage stellen."
+ },
+ {
+  "id": "beur2-023",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Prüfungs- und Belehrungspflichten",
+  "seite": "Richtlinienempfehlungen der BNotK: vollmachtlose Vertreter, Mitarbeiter und Sammelbeurkundungen",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/prufungs-und-belehrungspflichten/richtlinienempfehlungen-der-bnotk-vollmachtlose-vertreter-mitarbeiter-und-sammelbeurkundungen",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 13 BeurkG"
+  ],
+  "frage": "Wie viele Niederschriften mit verschiedenen Beteiligten darf eine Sammelbeurkundung nach den Richtlinienempfehlungen der BNotK höchstens gleichzeitig umfassen?",
+  "optionen": [
+   "Drei",
+   "Fünf",
+   "Acht",
+   "Zehn"
+  ],
+  "antwort": 1,
+  "erklaerung": "Eine Sammelbeurkundung darf höchstens fünf Niederschriften mit verschiedenen Beteiligten gleichzeitig umfassen; den Beteiligten muss schon bei der ersten Beurkundung klar sein, dass gleichlautende Teile nur einmal vorgelesen werden. Das Verfahren ist nur ausnahmsweise zulässig, Einzelbeurkundungen sind regelmäßig vorzuziehen."
+ },
+ {
+  "id": "beur2-024",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Prüfungs- und Belehrungspflichten",
+  "seite": "Richtlinienempfehlungen der BNotK: vollmachtlose Vertreter, Mitarbeiter und Sammelbeurkundungen",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/prufungs-und-belehrungspflichten/richtlinienempfehlungen-der-bnotk-vollmachtlose-vertreter-mitarbeiter-und-sammelbeurkundungen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 17 Abs. 2a S. 2 BeurkG"
+  ],
+  "frage": "Im Bauträgervertrag mit einem Verbraucher wurde eine Notarangestellte zur Bestellung der Finanzierungsgrundschuld bevollmächtigt. Der Notar beurkundet die Grundschuld ohne sachlichen Grund mit der Angestellten. Wie ist das zu beurteilen?",
+  "optionen": [
+   "Zulässig, weil die Grundschuldbestellung ein bloßes Vollzugsgeschäft ist",
+   "Zulässig, weil Notarangestellte als neutrale Personen Vertrauenspersonen nach § 17 Abs. 2a S. 2 BeurkG sind",
+   "Amtspflichtverletzung, weil die Finanzierungsgrundschuld kein Vollzugsgeschäft und die Angestellte keine taugliche Vertrauensperson ist",
+   "Zulässig, wenn der Verbraucher den Grundschuldentwurf zwei Wochen vorher erhalten hat"
+  ],
+  "antwort": 2,
+  "erklaerung": "Geklärt ist, dass die Bestellung von Finanzierungsgrundschulden kein Vollzugsgeschäft ist: Sie ermöglicht die Finanzierung, vollzieht den Vertrag aber nicht. Beurkundet der Notar bei Verbraucherverträgen Grundschuldbestellungen ohne sachlichen Grund durch im Kaufvertrag bevollmächtigte Mitarbeiter, verletzt er seine Amtspflicht; Notarangestellte sind keine tauglichen Vertrauenspersonen nach § 17 Abs. 2a S. 2 BeurkG, weil bloße Neutralität nicht genügt."
+ },
+ {
+  "id": "beur2-025",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Prüfungs- und Belehrungspflichten",
+  "seite": "Richtlinienempfehlungen der BNotK: vollmachtlose Vertreter, Mitarbeiter und Sammelbeurkundungen",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/prufungs-und-belehrungspflichten/richtlinienempfehlungen-der-bnotk-vollmachtlose-vertreter-mitarbeiter-und-sammelbeurkundungen",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 17 Abs. 2a S. 2 BeurkG"
+  ],
+  "frage": "Lässt bei einem größeren überregionalen Bauvorhaben die Entfernung keine gemeinsame Beurkundung zu, ist mit dem Bauträger als Unternehmer zu beurkunden und der Verbraucher genehmigt nach.",
+  "antwort": false,
+  "erklaerung": "Falsch. Planmäßige Beurkundung mit vollmachtlosen Vertretern ist regelmäßig nicht erlaubt; wenn die Entfernung keine gemeinsame Beurkundung zulässt, wird grundsätzlich mit dem Käufer als Verbraucher beurkundet, weil nur so seine ausreichende Belehrung über den Vertragsinhalt gesichert ist. Die Nachgenehmigung durch den Verbraucher würde den Schutzzweck des § 17 Abs. 2a S. 2 BeurkG verfehlen."
+ },
+ {
+  "id": "beur2-026",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Prüfungs- und Belehrungspflichten",
+  "seite": "Richtlinienempfehlungen der BNotK: vollmachtlose Vertreter, Mitarbeiter und Sammelbeurkundungen",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/prufungs-und-belehrungspflichten/richtlinienempfehlungen-der-bnotk-vollmachtlose-vertreter-mitarbeiter-und-sammelbeurkundungen",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 17 Abs. 1 BeurkG"
+  ],
+  "frage": "Wirken zwei Notare an einem Geschäft mit, muss der Notar die Beteiligten über die dadurch entstehenden höheren gesetzlichen Gebühren belehren.",
+  "antwort": false,
+  "erklaerung": "Falsch. Eine Pflicht, über die gesetzlichen Gebühren zu belehren, besteht nicht, auch wenn die Beteiligung zweier Notare, etwa nur für den Vollzug, in der Regel teurer ist. Ein allgemeiner Hinweis auf die Mehrkosten der gewählten Gestaltung kann sich lediglich anbieten; aus § 17 BeurkG folgt keine Kostenbelehrungspflicht."
+ },
+ {
+  "id": "beur2-027",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Prüfungs- und Belehrungspflichten",
+  "seite": "Verfahrensgestaltung nach § 17 Abs. 2a BeurkG: Schutzzweck, Unternehmer und Vertrauensperson",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/prufungs-und-belehrungspflichten/verfahrensgestaltung-nach-17-abs-2a-beurkg-schutzzweck-unternehmer-und-vertrauensperson",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 17 Abs. 2a S. 2 BeurkG",
+   "§ 311b BGB"
+  ],
+  "frage": "Was muss der Verbraucher bei einem nach § 311b BGB beurkundungspflichtigen Verbrauchervertrag im Regelfall spätestens zwei Wochen vor der Beurkundung erhalten?",
+  "optionen": [
+   "Eine Zusammenfassung der wesentlichen Vertragspunkte durch den Unternehmer",
+   "Den beabsichtigten Text des Rechtsgeschäfts samt Abschriften etwaiger Bezugsurkunden, unmittelbar vom Notar",
+   "Den vom Bauträger übersandten Vertragsentwurf ohne Anlagen",
+   "Eine schriftliche Belehrung des Notars über die Rechtsfolgen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 17 Abs. 2a S. 2 BeurkG erhält der Verbraucher den beabsichtigten Text des Rechtsgeschäfts, also den Vertragsentwurf samt Abschriften etwaiger Bezugsurkunden, spätestens zwei Wochen vor dem Termin unmittelbar vom Notar oder dessen Sozius (Eigenversand). Typischer Fehler ist der Versand ohne die Bezugsurkunden; ein Versand durch den Unternehmer genügt nicht."
+ },
+ {
+  "id": "beur2-028",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Prüfungs- und Belehrungspflichten",
+  "seite": "Verfahrensgestaltung nach § 17 Abs. 2a BeurkG: Schutzzweck, Unternehmer und Vertrauensperson",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/prufungs-und-belehrungspflichten/verfahrensgestaltung-nach-17-abs-2a-beurkg-schutzzweck-unternehmer-und-vertrauensperson",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 17 Abs. 2a S. 2 BeurkG"
+  ],
+  "frage": "Wer kommt als Vertrauensperson des Verbrauchers im Sinne des § 17 Abs. 2a S. 2 BeurkG in Betracht?",
+  "optionen": [
+   "Der vom Projektinitiator ausgewählte Treuhänder",
+   "Der vermittelnde Makler",
+   "Ein Mitarbeiter des beurkundenden Notars",
+   "Der Steuerberater oder Rechtsanwalt des Verbrauchers"
+  ],
+  "antwort": 3,
+  "erklaerung": "Die Vertrauensperson muss vorrangig die Interessen des Verbrauchers wahrnehmen, sei es aus persönlicher Verbundenheit (Ehegatten, Angehörige, Freunde) oder beruflich (Steuerberater, Rechtsanwälte). Ausgeschlossen sind geschäftsmäßige Vertreter mit eigenen, konkurrierenden Interessen wie der vom Initiator ausgewählte Treuhänder oder ein Makler; Notarmitarbeiter scheiden aus, weil bloße Neutralität nicht genügt."
+ },
+ {
+  "id": "beur2-029",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Prüfungs- und Belehrungspflichten",
+  "seite": "Verfahrensgestaltung nach § 17 Abs. 2a BeurkG: Schutzzweck, Unternehmer und Vertrauensperson",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/prufungs-und-belehrungspflichten/verfahrensgestaltung-nach-17-abs-2a-beurkg-schutzzweck-unternehmer-und-vertrauensperson",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 17 Abs. 2a S. 2 BeurkG",
+   "§ 15 Abs. 1 BNotO"
+  ],
+  "frage": "Weil die Zwei-Wochen-Frist mit dem Anspruch auf Urkundsgewährung nach § 15 Abs. 1 BNotO kollidiert, können Unternehmer und Verbraucher einvernehmlich auf sie verzichten.",
+  "antwort": false,
+  "erklaerung": "Falsch. Die Frist ist zwar als Regelfall ausgestaltet, sodass Ausnahmen möglich sind, und kollidiert mit dem Anspruch auf Urkundsgewährung; gleichwohl können die Vertragsteile nicht über sie verfügen, sie ist nicht verzichtbar. Wird die Frist unterschritten, sind die Gründe in der Niederschrift selbst anzugeben."
+ },
+ {
+  "id": "beur2-030",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Prüfungs- und Belehrungspflichten",
+  "seite": "Verfahrensgestaltung nach § 17 Abs. 2a BeurkG: Schutzzweck, Unternehmer und Vertrauensperson",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/prufungs-und-belehrungspflichten/verfahrensgestaltung-nach-17-abs-2a-beurkg-schutzzweck-unternehmer-und-vertrauensperson",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 50 Abs. 1 Nr. 9 lit. b BNotO",
+   "§ 17 Abs. 2a S. 2 Nr. 2 BeurkG"
+  ],
+  "frage": "Welche Rechtsfolge sieht die BNotO für wiederholte grobe Verstöße gegen die Pflichten aus § 17 Abs. 2a S. 2 Nr. 2 BeurkG vor?",
+  "optionen": [
+   "Verlust der Vollzugsbefugnis für Verbraucherverträge",
+   "Amtsenthebung nach § 50 Abs. 1 Nr. 9 lit. b BNotO",
+   "Zwingende Beiordnung eines Notarvertreters durch die Aufsicht",
+   "Nichtigkeit der beurkundeten Verbraucherverträge"
+  ],
+  "antwort": 1,
+  "erklaerung": "Wiederholte grobe Verstöße gegen die Pflichten aus § 17 Abs. 2a S. 2 Nr. 2 BeurkG sind ein Amtsenthebungsgrund nach § 50 Abs. 1 Nr. 9 lit. b BNotO. Der Gesetzgeber reagierte damit auf Missbrauchsfälle („Schrottimmobilien“, „Mitternachtsnotare“); die Wirksamkeit der Urkunde selbst wird von dem Verstoß nicht berührt."
+ },
+ {
+  "id": "beur2-031",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Prüfungs- und Belehrungspflichten",
+  "seite": "Verfahrensgestaltung nach § 17 Abs. 2a BeurkG: Schutzzweck, Unternehmer und Vertrauensperson",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/prufungs-und-belehrungspflichten/verfahrensgestaltung-nach-17-abs-2a-beurkg-schutzzweck-unternehmer-und-vertrauensperson",
+  "typ": "fall",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 17 Abs. 2a S. 2 BeurkG",
+   "§ 311b BGB"
+  ],
+  "frage": "Eigentumswohnung mit Privatvermieter",
+  "sachverhalt": "V besitzt acht vermietete Eigentumswohnungen, die er über ein eigenes kleines Büro mit einer Teilzeitkraft verwaltet. Er verkauft eine Wohnung an den Angestellten K, der sie selbst bewohnen will. Der Makler M übersendet K den von der Notarstelle gefertigten Entwurf am Montag; der Beurkundungstermin ist für den darauffolgenden Montag vereinbart. K will sich im Termin von M vertreten lassen.",
+  "schritte": [
+   {
+    "frage": "Handelt V bei dem Verkauf als Unternehmer im Sinne des § 17 Abs. 2a S. 2 BeurkG?",
+    "optionen": [
+     "Nein, Vermietung eigener Wohnungen ist stets private Vermögensverwaltung",
+     "Ja, wenn die Verwaltung einen planmäßig organisierten Betrieb wie ein Büro erfordert; in Zweifelsfällen ist die Zwei-Wochen-Frist vorsorglich einzuhalten",
+     "Nein, weil der Verkauf einer einzelnen Wohnung kein gewerblicher Vorgang sein kann",
+     "Ja, weil jeder Verkäufer gegenüber einem Angestellten Unternehmer ist"
+    ],
+    "antwort": 1,
+    "erklaerung": "Die Unternehmereigenschaft prüft der Notar eigenverantwortlich; private und berufsmäßige Vermögensverwaltung unterscheiden sich nach Umfang, Komplexität und Anzahl der Vorgänge. Ist dafür ein planmäßig organisierter Betrieb (Büro, Organisation) nötig, liegt gewerbliche Tätigkeit vor; schon Nebenzwecke genügen. Bei Zweifeln ist die Zwei-Wochen-Frist vorsorglich einzuhalten."
+   },
+   {
+    "frage": "Genügt der Versand des Entwurfs durch M eine Woche vor dem Termin den Anforderungen des § 17 Abs. 2a S. 2 BeurkG?",
+    "optionen": [
+     "Ja, da der Entwurf aus der Notarstelle stammt und K ihn zur Kenntnis nehmen konnte",
+     "Nein; der Entwurf muss vom Notar oder aus seiner Notarstelle versandt werden, und die Frist von zwei Wochen ist unterschritten",
+     "Ja, weil die Zwei-Wochen-Frist nur für Bauträgerverträge gilt",
+     "Nein, weil ein Versand per Post nicht ausreicht und eine persönliche Übergabe nötig ist"
+    ],
+    "antwort": 1,
+    "erklaerung": "Der Entwurf muss vom Notar selbst oder aus seiner Notarstelle versandt werden (Eigenversand); die Übersendung durch den Makler genügt nicht. Außerdem ist die Regelfrist von zwei Wochen unterschritten; wird sie unterschritten, sind die Gründe in der Niederschrift selbst anzugeben. Postversand und E-Mail sind zulässige Übermittlungswege."
+   },
+   {
+    "frage": "Kann sich K im Beurkundungstermin durch den Makler M als Vertrauensperson vertreten lassen?",
+    "optionen": [
+     "Ja, weil M den Vertrag vermittelt hat und den Inhalt kennt",
+     "Ja, sofern M von § 181 BGB befreit ist",
+     "Nein; ein Makler hat eigene, konkurrierende Interessen und ist keine Vertrauensperson",
+     "Nein, weil Vertrauenspersonen nur Angehörige sein können"
+    ],
+    "antwort": 2,
+    "erklaerung": "Die Vertrauensperson muss vorrangig die Interessen des Verbrauchers wahrnehmen. Geschäftsmäßige Vertreter mit eigenen, konkurrierenden Interessen, ausdrücklich der Makler, sind ausgeschlossen. Zulässig wären Angehörige und Freunde ebenso wie Steuerberater oder Rechtsanwälte des Verbrauchers; eine Beschränkung auf Angehörige besteht nicht."
+   }
+  ],
+  "erklaerung": "Ist V wegen seines organisierten Verwaltungsbetriebs Unternehmer oder bleibt dies zweifelhaft, gilt § 17 Abs. 2a S. 2 BeurkG. Der Entwurf muss dann samt Bezugsurkunden aus der Notarstelle zwei Wochen vor dem Termin versandt werden; der Maklerversand eine Woche vorher genügt nicht. Der Makler ist keine Vertrauensperson, K sollte selbst erscheinen oder sich durch eine Person vertreten lassen, die vorrangig seine Interessen wahrnimmt."
+ },
+ {
+  "id": "beur2-032",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Vermerkurkunden, Abschriften und Ausfertigungen",
+  "seite": "Beglaubigte Abschrift, Ausfertigung und weitere Behandlung der Urkunde (§§ 42–54 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vermerkurkunden-abschriften-und-ausfertigungen/beglaubigte-abschrift-ausfertigung-und-weitere-behandlung-der-urkunde-42-54-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 172 BGB",
+   "§ 47 BeurkG"
+  ],
+  "frage": "In welchem Fall genügt eine beglaubigte Abschrift als Nachweis nicht?",
+  "optionen": [
+   "Zum Nachweis der Eintragungsbewilligung in der Form des § 29 GBO",
+   "Zum Beweisantritt nach § 435 ZPO",
+   "Zum Nachweis einer Vollmacht nach § 172 BGB",
+   "Zum Nachweis des Inhalts einer Teilungserklärung"
+  ],
+  "antwort": 2,
+  "erklaerung": "Eine beglaubigte Abschrift genügt nicht, wenn neben Bestehen und Inhalt der Urkunde auch ihr Besitz nachzuweisen ist; für die Vollmacht (§ 172 BGB) ist deshalb Urschrift oder Ausfertigung vorzulegen. Für § 29 GBO und den Beweis nach § 435 ZPO reicht die beglaubigte Abschrift dagegen aus. Der typische Fehler ist die Vorlage nur einer beglaubigten Abschrift der Vollmacht."
+ },
+ {
+  "id": "beur2-033",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Vermerkurkunden, Abschriften und Ausfertigungen",
+  "seite": "Beglaubigte Abschrift, Ausfertigung und weitere Behandlung der Urkunde (§§ 42–54 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vermerkurkunden-abschriften-und-ausfertigungen/beglaubigte-abschrift-ausfertigung-und-weitere-behandlung-der-urkunde-42-54-beurkg",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 42 Abs. 3 BeurkG",
+   "§ 44 BeurkG",
+   "§ 45a BeurkG",
+   "§ 51 BeurkG",
+   "§ 54 BeurkG"
+  ],
+  "frage": "Ordne die Vorschriften des BeurkG ihrem Regelungsgegenstand zu.",
+  "paare": [
+   [
+    "§ 42 Abs. 3 BeurkG",
+    "Vermerk bei auszugsweiser Abschrift: Gegenstand des Auszugs und keine weiteren Bestimmungen dazu"
+   ],
+   [
+    "§ 44 BeurkG",
+    "Verbindung mehrblättriger Urkunden mit Schnur und Siegel"
+   ],
+   [
+    "§ 45a Abs. 1 BeurkG",
+    "Aushändigung der Urschrift zur Verwendung im Ausland mit Zustimmung aller Ausfertigungsberechtigten"
+   ],
+   [
+    "§ 51 BeurkG",
+    "Kreis der Personen, die Ausfertigungen, Abschriften und Einsicht verlangen können"
+   ],
+   [
+    "§ 54 BeurkG",
+    "Rechtsbehelf bei Streit über das Recht auf eine Abschrift"
+   ]
+  ],
+  "erklaerung": "§ 42 Abs. 3 BeurkG regelt den Vermerk bei Auszügen, § 44 BeurkG Schnur und Siegel für alle mehrblättrigen Urkunden, § 45a Abs. 1 BeurkG die ausnahmsweise Aushändigung der Urschrift für das Ausland, § 51 BeurkG die Berechtigten und § 54 BeurkG den Rechtsbehelf, der hier § 15 BNotO verdrängt."
+ },
+ {
+  "id": "beur2-034",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Vermerkurkunden, Abschriften und Ausfertigungen",
+  "seite": "Beglaubigte Abschrift, Ausfertigung und weitere Behandlung der Urkunde (§§ 42–54 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vermerkurkunden-abschriften-und-ausfertigungen/beglaubigte-abschrift-ausfertigung-und-weitere-behandlung-der-urkunde-42-54-beurkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 54 BeurkG",
+   "§ 15 Abs. 2 BNotO"
+  ],
+  "frage": "Lehnt der Notar die Erteilung einer Ausfertigung ab, ist dagegen die Notarbeschwerde nach § 15 Abs. 2 BNotO statthaft.",
+  "antwort": false,
+  "erklaerung": "Falsch. Bei Streit über das Recht auf eine Abschrift oder Ausfertigung gilt der besondere Rechtsbehelf des § 54 BeurkG, nicht § 15 BNotO. Bei Ablehnung sollte der Notar gegebenenfalls eine Rechtsbehelfsbelehrung beifügen."
+ },
+ {
+  "id": "beur2-035",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Vermerkurkunden, Abschriften und Ausfertigungen",
+  "seite": "Beglaubigte Abschrift, Ausfertigung und weitere Behandlung der Urkunde (§§ 42–54 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vermerkurkunden-abschriften-und-ausfertigungen/beglaubigte-abschrift-ausfertigung-und-weitere-behandlung-der-urkunde-42-54-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 39 BeurkG",
+   "§ 42 BeurkG"
+  ],
+  "frage": "Ein Beteiligter bringt eine einfache Kopie einer Urkunde mit und bittet um eine beglaubigte Abschrift davon. Was sollte der Beglaubigungsvermerk enthalten?",
+  "optionen": [
+   "Die Bestätigung, dass die Abschrift mit der Urschrift übereinstimmt",
+   "Die Angabe, dass die Vorlage lediglich eine einfache Abschrift war und die Beglaubigung ihr keine zusätzliche rechtliche Qualität verleiht",
+   "Keinen Hinweis auf die Art der Vorlage, weil § 42 BeurkG dies nicht verlangt",
+   "Die Angabe, dass die Vorlage eine Ausfertigung war"
+  ],
+  "antwort": 1,
+  "erklaerung": "Im Vermerk nach § 39 BeurkG ist die Art der Vorlage genau zu bezeichnen (Urschrift, Ausfertigung, beglaubigte Abschrift oder Kopie). Beglaubigte Abschriften einfacher Abschriften sollten vermieden werden, weil sie über die Qualität der Vorlage täuschen können; wird dennoch beglaubigt, muss der Vermerk klarstellen, dass nur eine einfache Abschrift vorlag. Eine Übereinstimmung mit der Urschrift darf nicht bezeugt werden."
+ },
+ {
+  "id": "beur2-036",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Vermerkurkunden, Abschriften und Ausfertigungen",
+  "seite": "Beglaubigte Abschrift, Ausfertigung und weitere Behandlung der Urkunde (§§ 42–54 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vermerkurkunden-abschriften-und-ausfertigungen/beglaubigte-abschrift-ausfertigung-und-weitere-behandlung-der-urkunde-42-54-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 47 BeurkG",
+   "§ 51 BeurkG",
+   "§ 52 BeurkG"
+  ],
+  "frage": "Welche Aussage zur Ausfertigung trifft zu?",
+  "optionen": [
+   "Die Ausfertigung vertritt die Urschrift im Rechtsverkehr und wird einer bestimmten Person erteilt",
+   "Eine Ausfertigung kann jeder verlangen, der ein berechtigtes Interesse an der Urkunde nachweist",
+   "Die vollstreckbare Ausfertigung richtet sich allein nach dem BeurkG, ohne Verweis auf die ZPO",
+   "Beigefügte Schriftstücke sind durch gesonderten Vermerk zu beglaubigen, der Ausfertigungsvermerk erfasst sie nicht"
+  ],
+  "antwort": 0,
+  "erklaerung": "Nach § 47 BeurkG vertritt die Ausfertigung die Urschrift im Rechtsverkehr, trägt die Bezeichnung Ausfertigung und wird einer bestimmten Person erteilt; mit dem Ausfertigungsvermerk werden auch beigefügte Schriftstücke beglaubigt (§§ 48, 49 BeurkG). Verlangen können Ausfertigungen nur die in § 51 BeurkG genannten Personen, nicht jeder mit berechtigtem Interesse; für die vollstreckbare Ausfertigung verweist § 52 BeurkG auf §§ 794 ff. ZPO."
+ },
+ {
+  "id": "beur2-037",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Vermerkurkunden, Abschriften und Ausfertigungen",
+  "seite": "Eigenurkunde des Notars, Änderungen und Berichtigung von Urkunden (§ 44a BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vermerkurkunden-abschriften-und-ausfertigungen/eigenurkunde-des-notars-anderungen-und-berichtigung-von-urkunden-44a-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 24 Abs. 3 BNotO"
+  ],
+  "frage": "Welche Voraussetzung muss für eine Eigenurkunde des Notars im Vollzug vorliegen?",
+  "optionen": [
+   "Es muss eine Urkunde desselben Notars vorausgegangen sein und der betroffene Beteiligte muss den Notar ausdrücklich zur Ergänzung, Berichtigung oder Anpassung ermächtigt haben",
+   "Es genügt, dass irgendeine notarielle Urkunde vorausgegangen ist; die Ermächtigung folgt aus § 24 Abs. 3 BNotO",
+   "Der Notar benötigt eine Genehmigung des Grundbuchamts oder Registergerichts",
+   "Die Eigenurkunde setzt die Mitwirkung aller Beteiligten durch Unterschrift voraus"
+  ],
+  "antwort": 0,
+  "erklaerung": "Eine Eigenurkunde ist nur möglich, wenn eine Urkunde desselben Notars vorausgegangen ist und der Beteiligte, um dessen Erklärung es geht, den Notar ausdrücklich ermächtigt hat, die Erklärung zu korrigieren, zu vervollständigen oder verfahrensrechtliche Erklärungen abzugeben. Unterschrift und Siegel des Notars sind zwingend. § 24 Abs. 3 BNotO enthält nur eine gesetzliche Ermächtigung zur Rücknahme der vom Notar selbst gestellten Anträge, nicht für sämtliche Eigenurkunden."
+ },
+ {
+  "id": "beur2-038",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Vermerkurkunden, Abschriften und Ausfertigungen",
+  "seite": "Eigenurkunde des Notars, Änderungen und Berichtigung von Urkunden (§ 44a BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vermerkurkunden-abschriften-und-ausfertigungen/eigenurkunde-des-notars-anderungen-und-berichtigung-von-urkunden-44a-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 44a Abs. 2 BeurkG",
+   "§ 319 ZPO"
+  ],
+  "frage": "Welche Aussage zum Berichtigungsverfahren nach § 44a Abs. 2 BeurkG trifft zu?",
+  "optionen": [
+   "Berichtigt werden können nur reine Schreibfehler, nicht aber Auslassungen",
+   "Die Unrichtigkeit muss sich allein aus dem Urkundentext ergeben; Umstände außerhalb der Urkunde bleiben außer Betracht",
+   "Auch versehentliche Auslassungen lassen sich beheben, wenn die Unrichtigkeit zweifelsfrei aus dem gesamten Beurkundungsvorgang hervorgeht; die Erklärungen selbst bleiben unveränderbar",
+   "Bei der Berichtigung wird die Urschrift selbst korrigiert und von den Beteiligten neu unterzeichnet"
+  ],
+  "antwort": 2,
+  "erklaerung": "Der Begriff der offensichtlichen Unrichtigkeit lehnt sich an § 319 ZPO an und reicht weiter als der Schreibfehler; auch versehentliche Auslassungen und Unvollständigkeiten sind berichtigungsfähig. Die Unrichtigkeit muss für den Notar zweifelsfrei aus dem gesamten Beurkundungsvorgang hervorgehen, wobei eindeutige Umstände außerhalb der Urkunde herangezogen werden dürfen. Die Erklärungen selbst können nicht geändert werden, und die Urschrift bleibt unverändert, weil sie mit den Unterschriften unantastbar geworden ist."
+ },
+ {
+  "id": "beur2-039",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Vermerkurkunden, Abschriften und Ausfertigungen",
+  "seite": "Eigenurkunde des Notars, Änderungen und Berichtigung von Urkunden (§ 44a BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vermerkurkunden-abschriften-und-ausfertigungen/eigenurkunde-des-notars-anderungen-und-berichtigung-von-urkunden-44a-beurkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 44a Abs. 1 BeurkG"
+  ],
+  "frage": "Fehlt bei einer in der Verhandlung handschriftlich geänderten Niederschrift der Randvermerk des Notars, ist die Beurkundung unwirksam.",
+  "antwort": false,
+  "erklaerung": "Falsch. Fehlt ein Randvermerk oder ein Vermerk am Schluss, bleibt die Beurkundung wirksam; beeinträchtigt ist lediglich die Beweiskraft der Urkunde. § 44a Abs. 1 BeurkG sollte deshalb eingehalten werden, nicht aber als Wirksamkeitsvoraussetzung. Anders liegt es nur bei Verstößen gegen zwingende Verfahrensvorschriften, bei denen keine notarielle Urkunde entsteht."
+ },
+ {
+  "id": "beur2-040",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Vermerkurkunden, Abschriften und Ausfertigungen",
+  "seite": "Eigenurkunde des Notars, Änderungen und Berichtigung von Urkunden (§ 44a BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vermerkurkunden-abschriften-und-ausfertigungen/eigenurkunde-des-notars-anderungen-und-berichtigung-von-urkunden-44a-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 40 BeurkG",
+   "§ 44a BeurkG"
+  ],
+  "frage": "Nach einer Unterschriftsbeglaubigung bittet der Unterzeichner den Notar telefonisch, einen Tippfehler im Text der bereits beglaubigten Privaturkunde zu korrigieren. Wie darf der Notar vorgehen?",
+  "optionen": [
+   "Er darf den Text frei ändern, weil die Beglaubigung sich nur auf die Unterschrift bezieht",
+   "Er darf den Text nachträglich nur ändern, wenn ihn der Unterzeichner dazu bevollmächtigt hat; bei wesentlichen Änderungen bestätigt er dies durch Randvermerk mit Hinweis auf die Ermächtigung",
+   "Er darf nur den Beglaubigungsvermerk, nie den Text der Privaturkunde ändern",
+   "Er muss eine neue Beglaubigung durchführen, weil Änderungen nach der Beglaubigung ausgeschlossen sind"
+  ],
+  "antwort": 1,
+  "erklaerung": "Den Text der Privaturkunde kann der Aussteller jederzeit ändern; der Notar darf ihn nachträglich nur ändern, wenn ihn der Unterzeichner dazu bevollmächtigt hat, und kann wesentliche Änderungen durch Randvermerk mit Hinweis auf seine Ermächtigung bestätigen. Den Beglaubigungsvermerk selbst kann er dagegen jederzeit ändern, weil er allein von ihm stammt. Typischer Fehler ist die Textänderung ohne Vollmacht des Unterzeichners."
+ },
+ {
+  "id": "beur2-041",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Vermerkurkunden, Abschriften und Ausfertigungen",
+  "seite": "Tatsachenbeurkundung, eidesstattliche Versicherung und einfache Zeugnisse (§§ 36–39 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vermerkurkunden-abschriften-und-ausfertigungen/tatsachenbeurkundung-eidesstattliche-versicherung-und-einfache-zeugnisse-36-39-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 22 Abs. 1 BNotO",
+   "§ 22 Abs. 2 BNotO"
+  ],
+  "frage": "Unter welcher Voraussetzung darf der Notar einen Eid abnehmen?",
+  "optionen": [
+   "Wenn der Eid gegenüber einer deutschen Behörde verwendet werden soll",
+   "Wenn der Eid zur Wahrnehmung von Rechten im Ausland erforderlich ist",
+   "Wenn alle Beteiligten mit der Eidesabnahme einverstanden sind",
+   "Wenn ein Gericht den Notar um Rechtshilfe ersucht"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 22 Abs. 1 BNotO darf der Notar einen Eid nur abnehmen, wenn er zur Wahrnehmung von Rechten im Ausland erforderlich ist. Die Verwendung gegenüber einer Behörde oder Dienststelle ist dagegen die Voraussetzung für die Aufnahme eidesstattlicher Versicherungen nach § 22 Abs. 2 BNotO; beide Zuständigkeiten dürfen nicht verwechselt werden."
+ },
+ {
+  "id": "beur2-042",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Vermerkurkunden, Abschriften und Ausfertigungen",
+  "seite": "Tatsachenbeurkundung, eidesstattliche Versicherung und einfache Zeugnisse (§§ 36–39 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vermerkurkunden-abschriften-und-ausfertigungen/tatsachenbeurkundung-eidesstattliche-versicherung-und-einfache-zeugnisse-36-39-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 39 BeurkG",
+   "§ 44 BeurkG"
+  ],
+  "frage": "Welche Folge hat das Fehlen des Siegels bei einer Vermerkurkunde nach § 39 BeurkG?",
+  "optionen": [
+   "Keine; das Siegel ist nur Sollvorschrift",
+   "Die Vermerkurkunde ist unwirksam",
+   "Die Beweiskraft ist gemindert, die Urkunde bleibt wirksam",
+   "Das Siegel kann wie bei der Niederschrift erst bei der weiteren Behandlung nach § 44 BeurkG angebracht werden"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Vermerk muss Zeugnis, Unterschrift und Siegel des Notars enthalten; ohne Siegel ist die Vermerkurkunde unwirksam. Anders bei der Niederschrift über Willenserklärungen: Dort verlangt das Gesetz das Siegel erst bei der weiteren Behandlung der Urkunde (§ 44 BeurkG). Ort und Tag der Ausstellung sind dagegen nur Sollangaben."
+ },
+ {
+  "id": "beur2-043",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Vermerkurkunden, Abschriften und Ausfertigungen",
+  "seite": "Tatsachenbeurkundung, eidesstattliche Versicherung und einfache Zeugnisse (§§ 36–39 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vermerkurkunden-abschriften-und-ausfertigungen/tatsachenbeurkundung-eidesstattliche-versicherung-und-einfache-zeugnisse-36-39-beurkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 22 Abs. 2 BNotO",
+   "§ 38 BeurkG"
+  ],
+  "frage": "Eine eidesstattliche Versicherung kann vor dem Notar auch durch einen Bevollmächtigten des Erklärenden abgegeben werden.",
+  "antwort": false,
+  "erklaerung": "Falsch. Eine eidesstattliche Versicherung kann nicht durch einen Bevollmächtigten abgegeben werden; sie ist höchstpersönlich. Ebenso scheidet die Zuständigkeit des Notars aus, wenn ein Gericht oder eine Behörde ausschließlich zuständig ist. Für die Zuständigkeit der empfangenden Behörde genügt dagegen die Behauptung des Beteiligten."
+ },
+ {
+  "id": "beur2-044",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Vermerkurkunden, Abschriften und Ausfertigungen",
+  "seite": "Tatsachenbeurkundung, eidesstattliche Versicherung und einfache Zeugnisse (§§ 36–39 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vermerkurkunden-abschriften-und-ausfertigungen/tatsachenbeurkundung-eidesstattliche-versicherung-und-einfache-zeugnisse-36-39-beurkg",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 36 BeurkG",
+   "§ 39 BeurkG",
+   "§ 352 Abs. 3 S. 3 FamFG",
+   "§ 31 Abs. 1 Nr. 4 NotAktVV"
+  ],
+  "frage": "Ordne die Vorgänge der passenden Beurkundungsform oder Regel zu.",
+  "paare": [
+   [
+    "Hauptversammlung einer AG, Verlosung, Vermögensverzeichnis",
+    "Niederschrift über Tatsachen nach § 36 BeurkG"
+   ],
+   [
+    "Beglaubigung einer Abschrift, Bescheinigung über Registereintragung, Lebensbescheinigung",
+    "Vermerk nach § 39 BeurkG"
+   ],
+   [
+    "Eidesstattliche Versicherung im Erbscheinsverfahren",
+    "Zuständigkeit des Notars nach § 352 Abs. 3 S. 3 FamFG"
+   ],
+   [
+    "Urschrift einer Vermerkurkunde, die beim Notar verbleibt",
+    "Verwahrung in der Urkundensammlung nach § 31 Abs. 1 Nr. 4 NotAktVV"
+   ]
+  ],
+  "erklaerung": "Werden keine Willenserklärungen beurkundet, ist eine Niederschrift nach § 36 BeurkG aufzunehmen, sofern nicht bei einfach gelagerten Tatsachen ein Vermerk nach § 39 BeurkG genügt. Im Erbscheinsverfahren ist der Notar nach § 352 Abs. 3 S. 3 FamFG für die eidesstattliche Versicherung zuständig; die Urschrift einer Vermerkurkunde wird nur bei Verbleib beim Notar in der Urkundensammlung verwahrt."
+ },
+ {
+  "id": "beur2-045",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Vermerkurkunden, Abschriften und Ausfertigungen",
+  "seite": "Unterschriftsbeglaubigung: Prüfung, Vermerk und Identifizierung (§ 40 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vermerkurkunden-abschriften-und-ausfertigungen/unterschriftsbeglaubigung-prufung-vermerk-und-identifizierung-40-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 40 BeurkG",
+   "§ 40 Abs. 2 BeurkG"
+  ],
+  "frage": "Was bezeugt der Notar mit der Unterschriftsbeglaubigung nach § 40 BeurkG?",
+  "optionen": [
+   "Die Echtheit der Unterschrift; für den Inhalt der Erklärung übernimmt er keine Verantwortung",
+   "Die Echtheit der Unterschrift und die rechtliche Wirksamkeit der Erklärung",
+   "Die Richtigkeit des Inhalts, nachdem er die Erklärung vorgelesen hat",
+   "Die Identität des Unterzeichners, ohne die Erklärung inhaltlich wahrzunehmen"
+  ],
+  "antwort": 0,
+  "erklaerung": "Mit der Beglaubigung steht fest, dass die Unterschrift tatsächlich von der bezeichneten Person stammt; der Notar bezeugt nur die Echtheit der Unterschrift und übernimmt keine Verantwortung für den Inhalt, die Erklärung bleibt Privaturkunde. Inhaltlich wahrnehmen muss er die Erklärung dennoch, um Versagungsgründe nach §§ 4, 40 Abs. 2 BeurkG prüfen zu können."
+ },
+ {
+  "id": "beur2-046",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Vermerkurkunden, Abschriften und Ausfertigungen",
+  "seite": "Unterschriftsbeglaubigung: Prüfung, Vermerk und Identifizierung (§ 40 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vermerkurkunden-abschriften-und-ausfertigungen/unterschriftsbeglaubigung-prufung-vermerk-und-identifizierung-40-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 378 Abs. 3 FamFG",
+   "§ 15 Abs. 3 GBO"
+  ],
+  "frage": "Bei der Beglaubigung einer Handelsregisteranmeldung über einen neuen Geschäftsführer fehlt dessen Wohnort. Wie hat der Notar zu verfahren?",
+  "optionen": [
+   "Beglaubigen, weil er nur die Echtheit der Unterschrift bezeugt",
+   "Beglaubigen und das Registergericht auf den Mangel hinweisen",
+   "Den Mangel beanstanden, weil er die Anmeldung nach § 378 Abs. 3 FamFG auf Eintragungsfähigkeit prüfen muss",
+   "Die Beglaubigung nach § 4 BeurkG ablehnen, weil ein unredlicher Zweck vorliegt"
+  ],
+  "antwort": 2,
+  "erklaerung": "Anmeldungen in Registersachen (außer Genossenschafts- und Partnerschaftsregister) und Grundbucherklärungen sind vor Einreichung vom Notar auf Eintragungsfähigkeit zu prüfen (§ 378 Abs. 3 FamFG, § 15 Abs. 3 GBO); die Prüfung wird durch einen Hinweis im Beglaubigungsvermerk mitgeteilt. Fehlt der Wohnort des neuen Geschäftsführers, muss der Notar dies beanstanden. Eine Ablehnung nach § 4 BeurkG setzt unerlaubte oder unredliche Zwecke voraus, die hier nicht vorliegen."
+ },
+ {
+  "id": "beur2-047",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Vermerkurkunden, Abschriften und Ausfertigungen",
+  "seite": "Unterschriftsbeglaubigung: Prüfung, Vermerk und Identifizierung (§ 40 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vermerkurkunden-abschriften-und-ausfertigungen/unterschriftsbeglaubigung-prufung-vermerk-und-identifizierung-40-beurkg",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 10 Abs. 3 S. 2 BeurkG",
+   "§ 40 Abs. 4 BeurkG"
+  ],
+  "frage": "Kann sich der Notar keine Gewissheit über die Identität des Unterzeichners verschaffen, darf er die Unterschrift wie bei einer Niederschrift mit einem Vermerk nach § 10 Abs. 3 S. 2 BeurkG ohne Identitätsnachweis beglaubigen.",
+  "antwort": false,
+  "erklaerung": "Falsch. Eine Beglaubigung ohne Identitätsnachweis mit Vermerk nach § 10 Abs. 3 S. 2 BeurkG ist nicht möglich, weil die Feststellung der Identität gerade der Zweck der Beglaubigung ist. Der Notar kann die Unterschrift entgegennehmen, beglaubigt sie aber erst nach nachträglicher Identifizierung; der Vermerk muss angeben, wie er sich Gewissheit verschafft hat."
+ },
+ {
+  "id": "beur2-048",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Vermerkurkunden, Abschriften und Ausfertigungen",
+  "seite": "Unterschriftsbeglaubigung: Prüfung, Vermerk und Identifizierung (§ 40 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/vermerkurkunden-abschriften-und-ausfertigungen/unterschriftsbeglaubigung-prufung-vermerk-und-identifizierung-40-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 40 Abs. 3 BeurkG",
+   "§ 40a BeurkG"
+  ],
+  "frage": "Welche Aussage zur Angabe „vollzogen“ oder „anerkannt“ im Beglaubigungsvermerk trifft zu?",
+  "optionen": [
+   "Die Angabe ist bloße Förmlichkeit ohne materiell-rechtliche Bedeutung",
+   "Bestätigt der Notar den Vollzug vor ihm, ist zugleich bewiesen, dass die Unterschrift vor dem Tag des Vermerks noch nicht existierte",
+   "Bei einer qualifizierten elektronischen Signatur kommt nur das Vollziehen vor dem Notar in Betracht",
+   "Eine anerkannte Unterschrift kann auch per Fernbeglaubigung ohne persönliches Erscheinen beglaubigt werden"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Notar muss nach § 40 Abs. 3 BeurkG richtig angeben, ob die Unterschrift vor ihm vollzogen oder anerkannt wurde, weil dies materiell-rechtlich bedeutsam sein kann: Der Vollzug beweist, dass die Unterschrift vorher noch nicht existierte. Bei einer qualifizierten elektronischen Signatur kommt nur eine Anerkennung in Betracht (§ 40a BeurkG), und eine Fernbeglaubigung gibt es nicht; wer beglaubigen lässt, muss stets selbst erscheinen. Die Verwechslung von „anerkannt“ und „vollzogen“ ist ein typischer Fehler."
  }
 ]

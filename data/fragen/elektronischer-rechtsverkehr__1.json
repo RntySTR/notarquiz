@@ -327,5 +327,645 @@
   "frage": "Wird die Verwahrung einer elektronischen Vermerkurkunde nicht verlangt, wird sie ausgehändigt und eine elektronische Urschrift entsteht nicht.",
   "antwort": true,
   "erklaerung": "Eine elektronische Urkunde wird erst mit der Einstellung in die elektronische Urkundensammlung zur elektronischen Urschrift (§ 45 Abs. 3 BeurkG). Eine elektronische Vermerkurkunde, deren Verwahrung nicht verlangt wird, wird ausgehändigt; mangels Einstellung in die Urkundensammlung entsteht keine Urschrift. Anders bei elektronischen Niederschriften, die stets beim Notar verbleiben."
+ },
+ {
+  "id": "elek1-016",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Elektronische Urkunde und Beurkundung",
+  "seite": "Elektronische Urkunden: Berichtigung, Nachtrag und nachträgliche Identifizierung",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-urkunden-berichtigung-nachtrag-und-nachtragliche-identifizierung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 44a Abs. 2 S. 5 BeurkG"
+  ],
+  "frage": "In einer elektronischen Niederschrift ist nach Abschluss eine offensichtliche Unrichtigkeit zu berichtigen. Wie geht der Notar vor?",
+  "optionen": [
+   "Er korrigiert die signierte PDF-Datei und signiert sie erneut qualifiziert elektronisch",
+   "Er legt die Berichtigung in einem gesonderten elektronischen Dokument nieder, signiert es qualifiziert und verwahrt es mit der Urkunde in der elektronischen Urkundensammlung",
+   "Er fertigt einen schriftlichen Berichtigungsvermerk auf Papier und nimmt ihn zur Urkundensammlung in Papierform",
+   "Er bringt den Berichtigungsvermerk auf dem beglaubigten Ausdruck an und unterzeichnet ihn am Rand"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 44a Abs. 2 S. 5 BeurkG wird die Berichtigung einer elektronischen Niederschrift in einem gesonderten, qualifiziert signierten elektronischen Dokument niedergelegt und zusammen mit der Urkunde in der elektronischen Urkundensammlung verwahrt. Eine Änderung der signierten Datei scheidet aus, weil jede nachträgliche Änderung die Signatur ungültig macht. Der Berichtigungsvermerk hat zudem immer die Form der Haupturkunde, bei Urkunden nach § 8 Abs. 2 BeurkG also die elektronische."
+ },
+ {
+  "id": "elek1-017",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Elektronische Urkunde und Beurkundung",
+  "seite": "Elektronische Urkunden: Berichtigung, Nachtrag und nachträgliche Identifizierung",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-urkunden-berichtigung-nachtrag-und-nachtragliche-identifizierung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 13c BeurkG"
+  ],
+  "frage": "Ein Nachtrag zu einer elektronischen Niederschrift muss zwingend ebenfalls elektronisch errichtet werden.",
+  "antwort": false,
+  "erklaerung": "Ein Nachtrag zu einer elektronischen Niederschrift ist eine eigenständige Urkunde und kann elektronisch oder auf Papier errichtet werden; auch ein Papiernachtrag zu einer elektronischen Urkunde ist möglich und umgekehrt. Anders der Berichtigungsvermerk, der immer die Form der Haupturkunde hat. Die Bezugnahme auf die geänderte Urkunde kann durch Anzeigen der elektronischen Urkunde oder einer elektronischen beglaubigten Abschrift erfolgen (§ 13c BeurkG)."
+ },
+ {
+  "id": "elek1-018",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Elektronische Urkunde und Beurkundung",
+  "seite": "Elektronische Urkunden: Berichtigung, Nachtrag und nachträgliche Identifizierung",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-urkunden-berichtigung-nachtrag-und-nachtragliche-identifizierung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 44a Abs. 2 BeurkG"
+  ],
+  "frage": "Ein Beteiligter kann sich im ePb-Termin nicht ausweisen und legt den Ausweis erst eine Woche später vor. Wie wird dies dokumentiert?",
+  "optionen": [
+   "Der Notar trägt die Ausweisdaten nachträglich in die signierte Urschrift ein und signiert erneut",
+   "In der Urschrift wird die fehlende Identifizierung vermerkt; die spätere Identifizierung wird in einem neuen elektronischen Vermerk nach den Regeln der Berichtigung festgehalten",
+   "Die Urkunde ist unwirksam und muss vollständig neu beurkundet werden",
+   "Die Identifizierung wird nur in der Nebenakte vermerkt, ein Vermerk zur Urkunde ist entbehrlich"
+  ],
+  "antwort": 1,
+  "erklaerung": "Kann sich ein Beteiligter im Termin nicht ausweisen, wird in der Urschrift vermerkt, dass die beurkundungs- oder geldwäscherechtliche Identifizierung nicht oder nicht vollständig erfolgen konnte. Die spätere Identifizierung wird in einem neuen elektronischen Vermerk festgehalten, für den dieselben Regeln wie für die Berichtigung gelten (gesondertes, qualifiziert signiertes Dokument in der elektronischen Urkundensammlung). Ein nachträglicher Eingriff in die signierte Urschrift würde die Signatur ungültig machen."
+ },
+ {
+  "id": "elek1-019",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Elektronische Urkunde und Beurkundung",
+  "seite": "Elektronische Urkunden: Verwahrung und Herausgabe (§ 45b BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-urkunden-verwahrung-und-herausgabe-45b-beurkg",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 31 Abs. 1 Nr. 5 NotAktVV",
+   "§ 45b BeurkG",
+   "§ 42 Abs. 4 BeurkG"
+  ],
+  "frage": "Ordne der jeweiligen elektronischen Urkunde den Ausdruck zu, der zur Urkundensammlung in Papierform zu nehmen ist.",
+  "paare": [
+   [
+    "Elektronische Niederschrift",
+    "Beglaubigter Ausdruck mit allen Anlagen und Vermerk über das Ergebnis der Signaturprüfung"
+   ],
+   [
+    "Elektronische Vermerkurkunde, deren Verwahrung verlangt wird",
+    "Beglaubigter Ausdruck (§ 31 Abs. 1 Nr. 5 Buchst. a NotAktVV)"
+   ],
+   [
+    "Elektronische Vermerkurkunde ohne Verwahrung, Erklärung vom Notar entworfen",
+    "Einfacher Ausdruck (§ 31 Abs. 1 Nr. 5 Buchst. b NotAktVV)"
+   ],
+   [
+    "Reine elektronische Unterschriftsbeglaubigung ohne Entwurf und ohne Verwahrung",
+    "Kein Ausdruck erforderlich (§ 31 Abs. 1 Nr. 5 Buchst. c NotAktVV)"
+   ]
+  ],
+  "erklaerung": "Zur elektronischen Niederschrift wird stets ein beglaubigter Ausdruck gefertigt, in dessen Vermerk das erfolgreiche Ergebnis der Signaturprüfung festgehalten werden soll (§ 42 Abs. 4 BeurkG); ein nur einfacher Ausdruck ist ein typischer Fehler. Bei Vermerkurkunden hängt der Ausdruck davon ab, ob Verwahrung verlangt wird und ob der Notar die Erklärung entworfen hat (§ 31 Abs. 1 Nr. 5 Buchst. a bis c NotAktVV)."
+ },
+ {
+  "id": "elek1-020",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Elektronische Urkunde und Beurkundung",
+  "seite": "Elektronische Urkunden: Verwahrung und Herausgabe (§ 45b BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-urkunden-verwahrung-und-herausgabe-45b-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 45b Abs. 2 S. 1 BeurkG",
+   "§ 45b Abs. 2 S. 4 BeurkG",
+   "§ 45 Abs. 3 BeurkG"
+  ],
+  "frage": "Die Beteiligten verlangen keine Verwahrung einer elektronischen Unterschriftsbeglaubigung. Welche Rechtsfolge tritt ein?",
+  "optionen": [
+   "Die Vermerkurkunde wird gleichwohl in der elektronischen Urkundensammlung verwahrt, da alle elektronischen Urkunden dort einzustellen sind",
+   "Das elektronische Dokument wird samt Vermerk auf einem geeigneten Datenträger ausgehändigt; eine elektronische Urschrift entsteht nicht",
+   "Das Dokument wird ausgehändigt, zugleich entsteht durch die Signatur des Notars eine elektronische Urschrift",
+   "Die Beglaubigung ist unzulässig, weil elektronische Vermerkurkunden zwingend verwahrt werden"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 45b Abs. 2 S. 1 BeurkG wird eine elektronische Vermerkurkunde ohne Verwahrungsverlangen nicht in der elektronischen Urkundensammlung verwahrt, sondern samt Vermerk auf einem geeigneten Datenträger ausgehändigt (§ 45b Abs. 2 S. 4 BeurkG). Da keine Einstellung in die Urkundensammlung erfolgt, entsteht keine elektronische Urschrift nach § 45 Abs. 3 BeurkG. Die zwingende Verwahrung gilt nur für elektronische Niederschriften (§ 45b Abs. 1 S. 1 BeurkG)."
+ },
+ {
+  "id": "elek1-021",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Elektronische Urkunde und Beurkundung",
+  "seite": "Elektronische Urkunden: Verwahrung und Herausgabe (§ 45b BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-urkunden-verwahrung-und-herausgabe-45b-beurkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 45a Abs. 1 BeurkG",
+   "§ 45b Abs. 1 BeurkG"
+  ],
+  "frage": "Die Aushändigung einer elektronischen Urschrift zur Verwendung im Ausland nach § 45a Abs. 1 BeurkG kann verlangt werden, wenn die Beteiligten dies übereinstimmend beantragen.",
+  "antwort": false,
+  "erklaerung": "§ 45b Abs. 1 BeurkG schließt die Aushändigung einer elektronischen Urschrift zur Verwendung im Ausland nach § 45a Abs. 1 BeurkG aus; elektronische Niederschriften bleiben stets in der elektronischen Urkundensammlung des Notars. Ein übereinstimmender Antrag der Beteiligten ändert daran nichts. Herausgegeben werden dürfen nur Vervielfältigungen, bei Niederschriften jedoch nicht die Urschrift selbst."
+ },
+ {
+  "id": "elek1-022",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Elektronische Urkunde und Beurkundung",
+  "seite": "Elektronische Urschrift: Entstehung, Signaturprüfung und Ausfertigungen",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-urschrift-entstehung-signaturprufung-und-ausfertigungen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 39a Abs. 3 S. 1 BeurkG",
+   "§ 42 Abs. 4 BeurkG"
+  ],
+  "frage": "Welche Voraussetzung muss erfüllt sein, bevor der Notar eine beglaubigte Abschrift oder Ausfertigung einer elektronischen Urkunde erteilt?",
+  "optionen": [
+   "Die Beteiligten müssen der Erteilung schriftlich zugestimmt haben",
+   "Die Signatur der elektronischen Urkunde muss geprüft und das Ergebnis im Vermerk festgehalten sein",
+   "Der beglaubigte Ausdruck muss zur Papierurkundensammlung genommen worden sein",
+   "Die Urkunde muss mindestens einen Tag im Urkundenverzeichnis eingestellt gewesen sein"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach §§ 39a Abs. 3 S. 1 und 42 Abs. 4 BeurkG darf eine beglaubigte Abschrift oder Ausfertigung einer elektronischen Urkunde erst erteilt werden, wenn deren Signatur geprüft ist; das Ergebnis ist im Vermerk festzuhalten. Entbehrlich ist die Prüfung nur ausnahmsweise, etwa bei zeitnahen einfachen Vermerken kurz nach der Beurkundung. Der Ausdruck zur Papierurkundensammlung ist eine eigenständige Pflicht und keine Voraussetzung der Erteilung."
+ },
+ {
+  "id": "elek1-023",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Elektronische Urkunde und Beurkundung",
+  "seite": "Elektronische Urschrift: Entstehung, Signaturprüfung und Ausfertigungen",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-urschrift-entstehung-signaturprufung-und-ausfertigungen",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 45 Abs. 3 BeurkG",
+   "§ 42 Abs. 4 BeurkG",
+   "§ 130 Abs. 2 BGB",
+   "§ 34 Abs. 6 NotAktVV"
+  ],
+  "frage": "Herausgabe nach dem ePb-Termin",
+  "sachverhalt": "Notar N beurkundet am Vormittag eine Vollmacht der A für B im Wege der elektronischen Präsenzbeurkundung. A und B unterschreiben auf dem Pad, N signiert qualifiziert. Die Übernahme in das Urkundenverzeichnis ist noch nicht erfolgt. B möchte sofort eine Ausfertigung mitnehmen, um noch am selben Tag bei einer Bank aufzutreten. Am Nachmittag wird die Urkunde in das UVZ eingestellt.",
+  "schritte": [
+   {
+    "frage": "Darf N dem B unmittelbar nach dem Termin, vor Übernahme in das UVZ, eine Ausfertigung erteilen?",
+    "optionen": [
+     "Ja, da die Urkunde mit der qeS des Notars abgeschlossen ist",
+     "Nein, eine Ausfertigung darf erst nach Entstehen der Urschrift durch Eintragung im UVZ erteilt werden",
+     "Ja, wenn B die Ausfertigung nur zur Vorlage bei einer Bank benötigt",
+     "Nein, Ausfertigungen elektronischer Urkunden sind generell unzulässig"
+    ],
+    "antwort": 1,
+    "erklaerung": "Die elektronische Urschrift entsteht erst mit der Einstellung in die elektronische Urkundensammlung über das UVZ (§ 45 Abs. 3 BeurkG); die Signaturen allein genügen nicht. Eine Ausfertigung darf erst nach Entstehen der Urschrift erteilt werden, die Erteilung vorher ist ein typischer Fehler."
+   },
+   {
+    "frage": "Was darf N dem B nach h. M. vor Entstehen der Urschrift herausgeben?",
+    "optionen": [
+     "Nur eine einfache oder eine beglaubigte Abschrift",
+     "Nur die elektronische Urschrift auf einem Datenträger",
+     "Eine Ausfertigung unter Vorbehalt der späteren UVZ-Eintragung",
+     "Nichts, bis der beglaubigte Ausdruck gefertigt ist"
+    ],
+    "antwort": 0,
+    "erklaerung": "Vor Entstehen der Urschrift dürfen nach h. M. nur eine einfache Abschrift oder eine beglaubigte Abschrift herausgegeben werden. Die Begrenzung ist zwar fraglich, weil die beglaubigte Abschrift über § 130 Abs. 2 BGB im Rechtsverkehr fast wie eine Ausfertigung wirkt; eine Ausfertigung bleibt aber ausgeschlossen."
+   },
+   {
+    "frage": "Nach Einstellung im UVZ will N die Ausfertigung erteilen. Was muss er dabei beachten?",
+    "optionen": [
+     "Die Signatur muss geprüft und das Ergebnis im Vermerk festgehalten sein; XNP prüft beim Einstellen automatisch",
+     "Die Ausfertigung muss auf einem Datenträger elektronisch erteilt werden, Papier ist ausgeschlossen",
+     "Es bedarf einer erneuten Unterschrift der A auf dem Pad",
+     "Die Ausfertigung darf frühestens eine Woche nach der UVZ-Eintragung erteilt werden"
+    ],
+    "antwort": 0,
+    "erklaerung": "Nach § 42 Abs. 4 BeurkG darf die Ausfertigung erst nach Prüfung der Signatur erteilt werden; das Ergebnis ist im Vermerk festzuhalten. XNP führt beim Einstellen in das UVZ automatisch eine Signaturprüfung durch, auf die sich der Notar nach vertretener Ansicht verlassen darf; alternativ kann er die Urschrift mit dem Dokumente-Modul prüfen. Für die Vollmacht wird die Ausfertigung auf Papier erteilt."
+   }
+  ],
+  "erklaerung": "Die Ausfertigung setzt die Entstehung der elektronischen Urschrift durch Eintragung im UVZ voraus (§ 45 Abs. 3 BeurkG); vorher sind nur einfache oder beglaubigte Abschriften möglich. Nach der Einstellung ist die dokumentierte Signaturprüfung Voraussetzung der Ausfertigung (§ 42 Abs. 4 BeurkG). Empfohlen wird, eine elektronische beglaubigte Abschrift standardmäßig als sonstiges Dokument im UVZ abzulegen (§ 34 Abs. 6 NotAktVV)."
+ },
+ {
+  "id": "elek1-024",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Elektronische Urkunde und Beurkundung",
+  "seite": "Elektronische Urschrift: Entstehung, Signaturprüfung und Ausfertigungen",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-urschrift-entstehung-signaturprufung-und-ausfertigungen",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 46 Abs. 3 BeurkG",
+   "§ 46 Abs. 1 BeurkG"
+  ],
+  "frage": "Die elektronische Urschrift einer Niederschrift ist zerstört. Welche Grundlage kommt für die Ersetzung nach § 46 Abs. 3 BeurkG in Betracht?",
+  "optionen": [
+   "Ausschließlich eine vorhandene Ausfertigung, da nur sie die Urschrift im Rechtsverkehr vertritt",
+   "Der beglaubigte Ausdruck, eine vorhandene Ausfertigung oder die elektronische Urkunde als Vervielfältigung",
+   "Nur eine einfache Abschrift aus der Nebenakte des Notars",
+   "Nur ein neuer Beurkundungstermin mit allen Beteiligten"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 46 Abs. 3 i. V. m. Abs. 2 S. 2 und 3 und Abs. 1 BeurkG kann die zerstörte elektronische Urschrift wiederhergestellt werden; Grundlage kann der beglaubigte Ausdruck, eine vorhandene Ausfertigung oder die elektronische Urkunde sein, die als Vervielfältigung mindestens die Form einer elektronischen beglaubigten Abschrift hat. Die Beschränkung auf die Ausfertigung verkennt, dass gerade der beglaubigte Ausdruck zur Papierurkundensammlung die typische Ersetzungsgrundlage ist."
+ },
+ {
+  "id": "elek1-025",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Elektronische Urkunde und Beurkundung",
+  "seite": "Online-Beurkundung und Online-Beglaubigung (Videokommunikation)",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/online-beurkundung-und-online-beglaubigung-videokommunikation",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 16a Abs. 1 BeurkG",
+   "§ 53 Abs. 3 S. 2 GmbHG",
+   "§ 2 Abs. 2 GmbHG"
+  ],
+  "frage": "Welche Beurkundung ist im Online-Verfahren per Videokommunikation nicht zugelassen?",
+  "optionen": [
+   "Bargründung einer UG (haftungsbeschränkt)",
+   "Einstimmiger satzungsändernder Gesellschafterbeschluss einer GmbH",
+   "Vollmacht zur Gründung einer GmbH",
+   "Grundstückskaufvertrag zwischen zwei GmbHs"
+  ],
+  "antwort": 3,
+  "erklaerung": "Das Online-Verfahren ist nur in gesetzlich zugelassenen Fällen eröffnet (§ 16a Abs. 1 BeurkG): u. a. GmbH/UG-Gründung, Gründungsvollmachten (§ 2 Abs. 2 GmbHG), einstimmige satzungsändernde Beschlüsse (§ 53 Abs. 3 S. 2 GmbHG) und Übernahmeerklärungen bei der Kapitalerhöhung (§ 55 Abs. 1 S. 2 GmbHG). Der Grundstückskaufvertrag gehört nicht zum Katalog, auch wenn nur Gesellschaften beteiligt sind."
+ },
+ {
+  "id": "elek1-026",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Elektronische Urkunde und Beurkundung",
+  "seite": "Online-Beurkundung und Online-Beglaubigung (Videokommunikation)",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/online-beurkundung-und-online-beglaubigung-videokommunikation",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 10a Abs. 3 BNotO"
+  ],
+  "frage": "Notar N in Stuttgart soll die Online-Gründung einer GmbH mit Sitz in Hamburg beurkunden. Wann gilt die Beurkundung als im Amtsbereich des N vorgenommen?",
+  "optionen": [
+   "Immer, da bei Videobeurkundungen keine Amtsbereichsbeschränkung gilt",
+   "Nur wenn alle Gründungsgesellschafter im Amtsbereich des N wohnen",
+   "Wenn etwa ein Gesellschafter, dessen Stellung aus dem Handelsregister hervorgeht, oder ein organschaftlicher Vertreter Wohnsitz oder Sitz im Amtsbereich des N hat",
+   "Nie, weil der Sitz der Gesellschaft außerhalb des Amtsbereichs liegt"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 10a Abs. 3 BNotO gelten Urkundstätigkeiten nach §§ 16a bis 16e, 40a BeurkG nur dann als im Amtsbereich vorgenommen, wenn dort ein Anknüpfungsort liegt: Sitz der Gesellschaft, Wohnsitz oder Sitz eines organschaftlichen Vertreters oder eines im Register ausgewiesenen Gesellschafters, bei Auslandssitz die Zweigniederlassung. Es genügt ein Anknüpfungsort; dass alle Gesellschafter im Amtsbereich wohnen, ist nicht erforderlich."
+ },
+ {
+  "id": "elek1-027",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Elektronische Urkunde und Beurkundung",
+  "seite": "Online-Beurkundung und Online-Beglaubigung (Videokommunikation)",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/online-beurkundung-und-online-beglaubigung-videokommunikation",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "KV 32016 GNotKG"
+  ],
+  "frage": "Für die Nutzung des Videokommunikationssystems der Bundesnotarkammer fällt nach KV 32016 GNotKG eine Auslagenpauschale von 8,00 € bei der Signaturbeglaubigung und 25,00 € im Beurkundungsverfahren an.",
+  "antwort": true,
+  "erklaerung": "KV 32016 GNotKG sieht eine Auslagenpauschale für das Videokommunikationssystem der Bundesnotarkammer vor: 8,00 € bei der Signaturbeglaubigung und 25,00 € im Beurkundungsverfahren. Es handelt sich um Auslagen, nicht um eine Gebühr für die Beurkundung selbst."
+ },
+ {
+  "id": "elek1-028",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Elektronische Urkunde und Beurkundung",
+  "seite": "Online-Beurkundung und Online-Beglaubigung (Videokommunikation)",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/online-beurkundung-und-online-beglaubigung-videokommunikation",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 12 Abs. 1 S. 2 HGB",
+   "§ 55 Abs. 1 S. 2 GmbHG",
+   "§ 77 Abs. 2 BGB",
+   "§ 16b BeurkG"
+  ],
+  "frage": "Ordne die Online-Verfahrenshandlungen ihrer Rechtsgrundlage zu.",
+  "paare": [
+   [
+    "Signaturbeglaubigung der Handelsregisteranmeldung per Video",
+    "§ 12 Abs. 1 S. 2 HGB"
+   ],
+   [
+    "Übernahmeerklärung bei der GmbH-Kapitalerhöhung per Video",
+    "§ 55 Abs. 1 S. 2 GmbHG"
+   ],
+   [
+    "Beglaubigung der Vereinsregisteranmeldung per Video",
+    "§ 77 Abs. 2 BGB"
+   ],
+   [
+    "Urkundenform der Online-Beurkundung (elektronische Niederschrift)",
+    "§ 16b BeurkG"
+   ]
+  ],
+  "erklaerung": "Die Videobeglaubigung von Registeranmeldungen beruht auf § 12 Abs. 1 S. 2 HGB (bzw. § 5 Abs. 2 PartGG, § 157 S. 2 GenG), Übernahmeerklärungen bei der Kapitalerhöhung auf § 55 Abs. 1 S. 2 GmbHG und Vereinsregisteranmeldungen auf § 77 Abs. 2 BGB. Die elektronische Niederschrift als eigene Urkundenform der Online-Beurkundung regelt § 16b BeurkG."
+ },
+ {
+  "id": "elek1-029",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Elektronische Urkunde und Beurkundung",
+  "seite": "Vollmacht: elektronische Errichtung, Nachweis und Rechtsschein (§ 172 BGB)",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/vollmacht-elektronische-errichtung-nachweis-und-rechtsschein-172-bgb",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 47 BeurkG",
+   "§ 172 BGB"
+  ],
+  "frage": "Wie ist eine notariell beurkundete Vollmacht nach geltendem Recht gegenüber einem Dritten nachzuweisen?",
+  "optionen": [
+   "Durch Vorlage einer beglaubigten Abschrift",
+   "Durch Vorlage einer Ausfertigung",
+   "Durch Vorlage einer einfachen Kopie mit Hinweis auf die UVZ-Nummer",
+   "Durch elektronische Übermittlung der elektronischen Urschrift"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Nachweis einer Vollmacht setzt derzeit ein Papierdokument voraus: bei beurkundeten Vollmachten ist eine Ausfertigung vorzulegen (vgl. § 47 BeurkG), bei privatschriftlichen und beglaubigten Vollmachten die Urschrift. Eine Kopie oder beglaubigte Abschrift genügt nicht, weil nur die Urschrift bzw. Ausfertigung Rechtsscheinträger nach § 172 BGB ist. Die elektronische Urschrift ist nicht verkehrsfähig."
+ },
+ {
+  "id": "elek1-030",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Elektronische Urkunde und Beurkundung",
+  "seite": "Vollmacht: elektronische Errichtung, Nachweis und Rechtsschein (§ 172 BGB)",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/vollmacht-elektronische-errichtung-nachweis-und-rechtsschein-172-bgb",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 40b BeurkG",
+   "§§ 47, 49 BeurkG",
+   "§ 172 BGB"
+  ],
+  "frage": "Ein Mandant lässt bei der ePb eine Vollmacht nur elektronisch unterschriftsbeglaubigen (§ 40b BeurkG). Welches Problem entsteht?",
+  "optionen": [
+   "Die Vollmacht ist formunwirksam, weil Vollmachten stets beurkundet werden müssen",
+   "Von der unterschriftsbeglaubigten Privaturkunde kann keine Ausfertigung erteilt werden, und es fehlt ein Rechtsscheinträger nach § 172 BGB",
+   "Die Vollmacht darf nicht in der elektronischen Urkundensammlung verwahrt werden",
+   "Die Vollmacht kann nur gegenüber Behörden, nicht gegenüber Privaten verwendet werden"
+  ],
+  "antwort": 1,
+  "erklaerung": "Eine Ausfertigung kann nur von der beurkundeten Vollmacht erteilt werden; von einer elektronischen Privaturkunde mit Unterschriftsbeglaubigung ist sie nicht möglich (§§ 47, 49 BeurkG). Da die elektronische Urschrift nicht verkehrsfähig ist, gibt es für die nur unterschriftsbeglaubigte elektronische Vollmacht keinen Rechtsscheinträger nach § 172 BGB; sie ist im Rechtsverkehr nicht verwendbar. Die Vollmacht ist nicht unwirksam, sie taugt nur nicht zum Nachweis."
+ },
+ {
+  "id": "elek1-031",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Elektronische Urkunde und Beurkundung",
+  "seite": "Vollmacht: elektronische Errichtung, Nachweis und Rechtsschein (§ 172 BGB)",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/vollmacht-elektronische-errichtung-nachweis-und-rechtsschein-172-bgb",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 15 NotAktVV",
+   "§ 172 Abs. 2 BGB"
+  ],
+  "frage": "Bei mehreren Bevollmächtigten erhält jeder eine eigene Ausfertigung auf Papier; jede erteilte Ausfertigung ist im Urkundenverzeichnis zu vermerken.",
+  "antwort": true,
+  "erklaerung": "Jeder Bevollmächtigte erhält eine eigene Papierausfertigung, und jede erteilte Ausfertigung wird nach § 15 NotAktVV im UVZ vermerkt. Der Vermerk ermöglicht die Kontrolle, welche Vollmachtsurkunden im Umlauf sind, was dem Vollmachtgeber angesichts der Fortwirkung der Vertretungsmacht bis zur Rückgabe oder Kraftloserklärung (§ 172 Abs. 2 BGB) dient."
+ },
+ {
+  "id": "elek1-032",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "Elektronische Signatur: Hashwert, Schlüsselpaar und Signaturstufen nach eIDAS",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronische-signatur-hashwert-schlusselpaar-und-signaturstufen-nach-eidas",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "Art. 25 Abs. 2 eIDAS",
+   "Art. 3 Nr. 12 eIDAS"
+  ],
+  "frage": "Welche Stufe der elektronischen Signatur steht nach der eIDAS-Verordnung in ihrer Rechtswirkung der handschriftlichen Unterschrift gleich?",
+  "optionen": [
+   "Die einfache elektronische Signatur, sofern der Unterzeichner identifiziert wurde",
+   "Die fortgeschrittene elektronische Signatur nach Art. 26 eIDAS",
+   "Die qualifizierte elektronische Signatur nach Art. 3 Nr. 12 eIDAS",
+   "Jede Signatur, die von einem Vertrauensdiensteanbieter zeitgestempelt wurde"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nur die qualifizierte elektronische Signatur (Art. 3 Nr. 12 eIDAS) steht nach Art. 25 Abs. 2 eIDAS der handschriftlichen Unterschrift gleich und ist in allen Mitgliedstaaten anzuerkennen; sie setzt eine fortgeschrittene Signatur, ein qualifiziertes Zertifikat und eine qualifizierte Signaturerstellungseinheit voraus. Die fortgeschrittene Signatur erfüllt zwar die Anforderungen des Art. 26 eIDAS, ist der Unterschrift aber rechtlich nicht ohne Weiteres gleichgestellt."
+ },
+ {
+  "id": "elek1-033",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "Elektronische Signatur: Hashwert, Schlüsselpaar und Signaturstufen nach eIDAS",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronische-signatur-hashwert-schlusselpaar-und-signaturstufen-nach-eidas",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "Art. 25 eIDAS"
+  ],
+  "frage": "Eine Hashfunktion ist eine Verschlüsselung: Sie hält den Inhalt des Dokuments geheim, bis der Empfänger ihn mit dem öffentlichen Schlüssel entschlüsselt.",
+  "antwort": false,
+  "erklaerung": "Eine Hashfunktion ist keine Verschlüsselung: Sie ist nicht umkehrbar, benötigt keinen Schlüssel und hält den Inhalt nicht geheim. Sie weist nur nach, dass die Daten unverändert sind (Integrität), weil schon die Änderung eines Bits einen völlig anderen Hashwert erzeugt. Entsprechend sichert eine elektronische Signatur Unverändertheit und Herkunft, nicht die Vertraulichkeit."
+ },
+ {
+  "id": "elek1-034",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "Elektronische Signatur: Hashwert, Schlüsselpaar und Signaturstufen nach eIDAS",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronische-signatur-hashwert-schlusselpaar-und-signaturstufen-nach-eidas",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "Art. 3 Nr. 16 eIDAS"
+  ],
+  "frage": "Wie läuft die Prüfung einer elektronischen Signatur beim Empfänger ab?",
+  "optionen": [
+   "Der Empfänger entschlüsselt das Dokument mit dem privaten Schlüssel des Unterzeichners und vergleicht es mit dem Original",
+   "Der Empfänger berechnet den Hashwert des Dokuments neu, wertet die Signatur mit dem öffentlichen Schlüssel aus und vergleicht beide Werte",
+   "Der Empfänger sendet das Dokument an den Vertrauensdiensteanbieter, der den privaten Schlüssel des Unterzeichners anwendet",
+   "Der Empfänger vergleicht das eingebettete Unterschriftsbild mit dem beim Vertrauensdiensteanbieter hinterlegten Muster"
+  ],
+  "antwort": 1,
+  "erklaerung": "Signiert wird der Hashwert des Dokuments mit dem privaten Schlüssel. Zur Prüfung berechnet der Empfänger den Hashwert neu, wertet die Signatur mit dem öffentlichen Schlüssel aus und vergleicht beide Werte; stimmen sie überein, ist das Dokument unverändert und die Signatur echt. Der private Schlüssel bleibt stets geheim beim Unterzeichner; dass der öffentliche Schlüssel einer bestimmten Person gehört, bestätigt der Vertrauensdiensteanbieter (Art. 3 Nr. 16 eIDAS)."
+ },
+ {
+  "id": "elek1-035",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "Elektronische Signatur: Hashwert, Schlüsselpaar und Signaturstufen nach eIDAS",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronische-signatur-hashwert-schlusselpaar-und-signaturstufen-nach-eidas",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "Art. 3 Nr. 10–12 eIDAS",
+   "Art. 25 eIDAS",
+   "Art. 26 eIDAS"
+  ],
+  "frage": "Ordne die Signaturstufen nach eIDAS ihrer Beschreibung zu.",
+  "paare": [
+   [
+    "Einfache elektronische Signatur",
+    "Jede elektronische Namensangabe, etwa ein getippter Name; keine Identitätsprüfung vorgeschrieben, Rechtswirkung darf nicht allein wegen der elektronischen Form versagt werden"
+   ],
+   [
+    "Fortgeschrittene elektronische Signatur",
+    "Eindeutig dem Unterzeichner zugeordnet, unter seiner alleinigen Kontrolle erzeugt, spätere Änderungen erkennbar (Art. 26 eIDAS)"
+   ],
+   [
+    "Qualifizierte elektronische Signatur",
+    "Fortgeschrittene Signatur auf Basis eines qualifizierten Zertifikats, erzeugt mit qualifizierter Signaturerstellungseinheit; der handschriftlichen Unterschrift gleichgestellt"
+   ]
+  ],
+  "erklaerung": "Art. 3 Nr. 10–12 eIDAS unterscheidet drei Stufen. Die einfache Signatur genießt nur den Schutz des Art. 25 Abs. 1 eIDAS, die fortgeschrittene muss die Anforderungen des Art. 26 eIDAS erfüllen, und erst die qualifizierte Signatur ist nach Art. 25 Abs. 2 eIDAS der handschriftlichen Unterschrift gleichgestellt."
+ },
+ {
+  "id": "elek1-036",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "Elektronischer Rechtsverkehr: Begriff, Postfächer und Schutzziele",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronischer-rechtsverkehr-begriff-postfacher-und-schutzziele",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [],
+  "frage": "Ordne die auf dem EGVP aufsetzenden Postfächer ihrer Nutzergruppe zu.",
+  "paare": [
+   [
+    "beN",
+    "Notare"
+   ],
+   [
+    "beA",
+    "Rechtsanwälte"
+   ],
+   [
+    "beBPo",
+    "Behörden"
+   ],
+   [
+    "eBO",
+    "Bürger und Organisationen"
+   ],
+   [
+    "beSt",
+    "Steuerberater"
+   ]
+  ],
+  "erklaerung": "Technische Grundlage des ERV ist das Elektronische Gerichts- und Verwaltungspostfach (EGVP). Darauf setzen die besonderen Postfächer der Nutzergruppen auf: beN für Notare, beA für Rechtsanwälte, beBPo für Behörden, eBO für Bürger und Organisationen und beSt für Steuerberater."
+ },
+ {
+  "id": "elek1-037",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "Elektronischer Rechtsverkehr: Begriff, Postfächer und Schutzziele",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronischer-rechtsverkehr-begriff-postfacher-und-schutzziele",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Wie wird die Vertraulichkeit im EGVP gewährleistet?",
+  "optionen": [
+   "Durch die qualifizierte elektronische Signatur des Absenders, die den Inhalt verschlüsselt",
+   "Durch die SAFE-ID, die jedem Teilnehmer der zuständige Verzeichnisdienst zuweist",
+   "Durch zweistufige OSCI-Verschlüsselung, bei der Empfängerangaben und Inhalt getrennt verschlüsselt werden (doppelter Briefumschlag)",
+   "Durch die Pflicht zur höchstpersönlichen Nutzung des Postfachs mit Karte und Passwort"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Vertraulichkeit im EGVP beruht auf dem Transportprotokoll OSCI 1.2, das in zwei Stufen verschlüsselt: Empfängerangaben und Nachrichteninhalt werden getrennt verschlüsselt, für die Weiterleitung wird nur die äußere Hülle geöffnet (Prinzip des doppelten Briefumschlags). SAFE-ID, Karte und Passwort sowie die Höchstpersönlichkeit dienen der Authentizität; die Signatur sichert Integrität, nicht Geheimhaltung."
+ },
+ {
+  "id": "elek1-038",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "Elektronischer Rechtsverkehr: Begriff, Postfächer und Schutzziele",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronischer-rechtsverkehr-begriff-postfacher-und-schutzziele",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [],
+  "frage": "Elektronische Kommunikation ist im Sinne des ERV förmlich, wenn verfahrensrechtliche Erklärungen abgegeben oder verfahrenserhebliche Dokumente übermittelt werden.",
+  "antwort": true,
+  "erklaerung": "ERV meint die förmliche elektronische Kommunikation zwischen Justiz und Verwaltung einerseits und Rechtsanwälten, Notaren, Bürgern und Unternehmen andererseits. Förmlich ist die Kommunikation genau dann, wenn verfahrensrechtliche Erklärungen abgegeben oder verfahrenserhebliche Dokumente übermittelt werden; die bloße informelle E-Mail-Korrespondenz fällt nicht darunter."
+ },
+ {
+  "id": "elek1-039",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "Elektronischer Rechtsverkehr: Notarnetz, XNP und XNotar",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronischer-rechtsverkehr-notarnetz-xnp-und-xnotar",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [],
+  "frage": "Was bezeichnet „XNotar“ im Verhältnis zu XNP?",
+  "optionen": [
+   "Die Hardwarekomponente (Registerbox), über die das Büro das Notarnetz erreicht",
+   "Die Zusammenfassung der Fachmodule in XNP, etwa Handelsregister, Grundbuch, Sonstige Anträge und eNoVA",
+   "Das besondere elektronische Notarpostfach (beN) der Bundesnotarkammer",
+   "Die Gutachtendatenbank des DNotI im Notarnetz"
+  ],
+  "antwort": 1,
+  "erklaerung": "XNP ist die von der BNotK bereitgestellte Basisanwendung, die Fachanwendungen in Modulen bündelt; unter „XNotar“ werden diese Module zusammengefasst (Handelsregister, Grundbuch, Sonstige Anträge, Präsenzbeglaubigung, eNoVA, Geldwäschebekämpfung, elektronische Präsenzbeurkundung). Registerbox bzw. Notarnetzbox sind dagegen die Hardware für den Zugang zum Notarnetz, über das beN, Urkundenarchiv, ZTR, ZVR und DNotI-Datenbank erreicht werden."
+ },
+ {
+  "id": "elek1-040",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "Elektronischer Rechtsverkehr: Notarnetz, XNP und XNotar",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronischer-rechtsverkehr-notarnetz-xnp-und-xnotar",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Seit dem 01.10.2026 ist die Veräußerungsanzeige an das Finanzamt über eNoVA elektronisch zu erstatten.",
+  "antwort": true,
+  "erklaerung": "eNoVA (elektronischer Notar-Verwaltungs-Austausch) besteht seit 01.03.2024 als Erweiterung von XNotar und digitalisiert die Vollzugskommunikation mit Behörden und Gerichten in beide Richtungen. Seit dem 01.10.2026 ist die Veräußerungsanzeige an das Finanzamt über eNoVA elektronisch zu erstatten; weitere Stufen folgen am 01.01.2027 und 01.01.2028."
+ },
+ {
+  "id": "elek1-041",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "Elektronischer Rechtsverkehr: Rechtsgrundlagen (Bund und Baden-Württemberg)",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronischer-rechtsverkehr-rechtsgrundlagen-bund-und-baden-wurttemberg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 14 Abs. 2 FamFG",
+   "§ 130a ZPO",
+   "§ 298 ZPO"
+  ],
+  "frage": "Welche Vorschriften gelten nach § 14 Abs. 2 FamFG für elektronische Dokumente in FamFG-Verfahren?",
+  "optionen": [
+   "§ 130a ZPO, die darauf gestützten Rechtsverordnungen und § 298 ZPO entsprechend",
+   "Ausschließlich die ERVV, da das FamFG keine eigene Verweisung enthält",
+   "§ 32a StPO und die BGH/BPatGERVV entsprechend",
+   "Allein die ERV-Bekanntmachung des jeweiligen Landesjustizministeriums"
+  ],
+  "antwort": 0,
+  "erklaerung": "§ 14 Abs. 2 FamFG verweist für elektronische Dokumente auf § 130a ZPO, die darauf gestützten Rechtsverordnungen (insbesondere die ERVV) und § 298 ZPO, die entsprechend gelten. Die ERVV allein genügt nicht, weil sie nach § 1 Abs. 1 ERVV an § 130a ZPO und die parallelen Vorschriften der anderen Verfahrensordnungen anknüpft. Die BGH/BPatGERVV ist für das Notarbüro praktisch ohne Bedeutung."
+ },
+ {
+  "id": "elek1-042",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "Elektronischer Rechtsverkehr: Rechtsgrundlagen (Bund und Baden-Württemberg)",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronischer-rechtsverkehr-rechtsgrundlagen-bund-und-baden-wurttemberg",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "ERVV",
+   "ERGA-VO",
+   "LERVVO"
+  ],
+  "frage": "Ordne die ERV-Rechtsgrundlagen ihrem Regelungsbereich zu.",
+  "paare": [
+   [
+    "ERVV (Bund)",
+    "Technische Rahmenbedingungen für Einreichungen bei Gerichten nach § 130a ZPO und Parallelvorschriften sowie beBPo"
+   ],
+   [
+    "ERGA-VO (Baden-Württemberg)",
+    "Elektronischer Rechtsverkehr und elektronische Akte im Grundbuchverfahren"
+   ],
+   [
+    "LERVVO (Baden-Württemberg)",
+    "Handels-, Genossenschafts- und Partnerschaftsregister"
+   ],
+   [
+    "ERV-Bekanntmachung des Justizministeriums Baden-Württemberg",
+    "Abschnitt III für die Register, Abschnitt IV für das Grundbuchverfahren"
+   ]
+  ],
+  "erklaerung": "Der Bund regelt mit der ERVV die technischen Rahmenbedingungen des ERV (§ 1 Abs. 1 ERVV). Weil Amts- und Landgerichte Landesbehörden sind, erlässt Baden-Württemberg Ausführungsrecht: die ERGA-VO für Grundbuchsachen, die LERVVO für Handels-, Genossenschafts- und Partnerschaftsregister und die ERV-Bekanntmachung mit Abschnitt III (Register) und IV (Grundbuch). Für Register- und Grundbuchsachen sind daher stets beide Ebenen zu prüfen."
+ },
+ {
+  "id": "elek1-043",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "Elektronischer Rechtsverkehr: Rechtsgrundlagen (Bund und Baden-Württemberg)",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronischer-rechtsverkehr-rechtsgrundlagen-bund-und-baden-wurttemberg",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1 Abs. 1 ERVV"
+  ],
+  "frage": "Die Länder erlassen Ausführungs- und Durchführungsrecht zum ERV, weil Amts- und Landgerichte Landesbehörden sind.",
+  "antwort": true,
+  "erklaerung": "Der Bund regelt die Verfahrensordnungen (GBO, FamFG, HGB), das notarielle Berufs- und Kostenrecht und die ERVV; die Länder erlassen Ausführungs- und Durchführungsrecht, weil Amts- und Landgerichte Landesbehörden sind. Das Notariat kommuniziert überwiegend mit dem Amtsgericht als Grundbuchamt, Nachlass-, Familien- und Registergericht, sodass neben dem Bundesrecht stets das Landesrecht (in Baden-Württemberg ERGA-VO, LERVVO) zu prüfen ist."
  }
 ]

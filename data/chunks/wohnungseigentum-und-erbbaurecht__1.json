@@ -1,0 +1,99 @@
+{
+ "kapitel": "wohnungseigentum-und-erbbaurecht",
+ "kapitel_titel": "Wohnungseigentum und Erbbaurecht",
+ "teil": 1,
+ "teile": 5,
+ "datei": "data/fragen/wohnungseigentum-und-erbbaurecht__1.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/abgeschlossenheitsbescheinigung-rechtsnatur-und-prufung-durch-grundbuchamt-und-notar",
+   "titel": "Abgeschlossenheitsbescheinigung: Rechtsnatur und Prüfung durch Grundbuchamt und Notar",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/abgeschlossenheitsbescheinigung-voraussetzungen-nach-der-ava",
+   "titel": "Abgeschlossenheitsbescheinigung: Voraussetzungen nach der AVA",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/aufteilungsplan-und-abgeschlossenheitsbescheinigung",
+   "titel": "Aufteilungsplan und Abgeschlossenheitsbescheinigung",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/aufteilungsplan-inhalt-nummerierung-und-ubereinstimmung-mit-der-teilungserklarung",
+   "titel": "Aufteilungsplan: Inhalt, Nummerierung und Übereinstimmung mit der Teilungserklärung",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/begrundung-von-wohnungseigentum-genehmigung-im-erhaltungsgebiet-und-bei-angespanntem-wohnungsmarkt-172-250-baugb",
+   "titel": "Begründung von Wohnungseigentum: Genehmigung im Erhaltungsgebiet und bei angespanntem Wohnungsmarkt (§§ 172, 250 BauGB)",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/begrundung-von-wohnungseigentum-genehmigung-im-fremdenverkehrs-und-sanierungsgebiet-und-nach-der-gvo",
+   "titel": "Begründung von Wohnungseigentum: Genehmigung im Fremdenverkehrs- und Sanierungsgebiet und nach der GVO",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/begrundung-von-wohnungseigentum-zustimmung-dinglich-berechtigter-und-gerichtliche-genehmigung",
+   "titel": "Begründung von Wohnungseigentum: Zustimmung dinglich Berechtigter und gerichtliche Genehmigung",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/gemeinschaft-der-wohnungseigentumer-entstehen-und-werdender-wohnungseigentumer",
+   "titel": "Gemeinschaft der Wohnungseigentümer: Entstehen und werdender Wohnungseigentümer",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/gemeinschaftsordnung-gestaltungen-zu-sondereigentum-erhaltung-kosten-und-versicherungen",
+   "titel": "Gemeinschaftsordnung: Gestaltungen zu Sondereigentum, Erhaltung, Kosten und Versicherungen",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/gemeinschaftsordnung-gestaltungen-zu-versammlung-verwalter-und-anderungen",
+   "titel": "Gemeinschaftsordnung: Gestaltungen zu Versammlung, Verwalter und Änderungen",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/gemeinschaftsordnung-inhalt-und-gebrauchsregelungen",
+   "titel": "Gemeinschaftsordnung: Inhalt und Gebrauchsregelungen",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/grundungsmangel-abweichung-der-bauausfuhrung-vom-aufteilungsplan",
+   "titel": "Gründungsmängel: Abweichung der Bauausführung vom Aufteilungsplan",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/grundungsmangel-dingliche-rechtslage-innenverhaltnis-und-isolierter-miteigentumsanteil",
+   "titel": "Gründungsmängel: dingliche Rechtslage, Innenverhältnis und isolierter Miteigentumsanteil",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/grundungsmangel-falsche-zweckbestimmung-und-widerspruch-zwischen-teilungserklarung-und-aufteilungsplan",
+   "titel": "Gründungsmängel: falsche Zweckbestimmung und Widerspruch zwischen Teilungserklärung und Aufteilungsplan",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/mehrhausanlage-abschnittsweise-begrundung-von-wohnungseigentum",
+   "titel": "Mehrhausanlage: abschnittsweise Begründung von Wohnungseigentum",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/miteigentumsanteile-bemessung-anderung-und-verbindung-mit-sondereigentum",
+   "titel": "Miteigentumsanteile: Bemessung, Änderung und Verbindung mit Sondereigentum",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondereigentumsfahigkeit-gebaudeteile-leitungen-und-heizungen",
+   "titel": "Sondereigentumsfähigkeit: Gebäudeteile, Leitungen und Heizungen",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondereigentumsfahigkeit-raumbegriff-balkone-terrassen-und-mehrere-gebaude",
+   "titel": "Sondereigentumsfähigkeit: Raumbegriff, Balkone, Terrassen und mehrere Gebäude",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  }
+ ]
+}

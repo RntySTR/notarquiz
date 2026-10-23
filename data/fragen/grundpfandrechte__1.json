@@ -1,0 +1,258 @@
+[
+ {
+  "id": "elek1-044",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "Elektronischer Rechtsverkehr: Strukturdaten (XML) und XML-Gebühr",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronischer-rechtsverkehr-strukturdaten-xml-und-xml-gebuhr",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "KV 22114 GNotKG",
+   "KV 22115 GNotKG"
+  ],
+  "frage": "Der Notar erstellt für einen Grundbuchantrag den XML-Datensatz und nimmt daneben weitere Vollzugstätigkeiten nach KV 22110–22113 GNotKG vor. Welche Gebühr fällt für die Strukturdaten an?",
+  "optionen": [
+   "Keine gesonderte Gebühr, da die XML-Erstellung von der Vollzugsgebühr nach § 93 GNotKG abgegolten ist",
+   "Gebühr nach KV 22114 mit Satz 0,2, höchstens 125 €",
+   "Gebühr nach KV 22115 mit Satz 0,1, höchstens 125 €",
+   "Gebühr nach KV 22115 mit Satz 0,2, höchstens 250 €"
+  ],
+  "antwort": 2,
+  "erklaerung": "Entstehen neben der XML-Gebühr andere Gebühren nach KV 22110 bis 22113 GNotKG, sinkt der Satz nach KV 22115 von 0,2 auf 0,1, höchstens 125 €; KV 22114 mit 0,2 gilt nur, wenn keine weiteren Vollzugsgebühren anfallen. Die XML-Gebühr ist keine Vollzugsgebühr, sondern eine Gebühr im Vollzugsbereich, sodass § 93 GNotKG nicht anwendbar ist; sie als abgegolten zu behandeln ist ein typischer Fehler."
+ },
+ {
+  "id": "elek1-045",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "Elektronischer Rechtsverkehr: Strukturdaten (XML) und XML-Gebühr",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronischer-rechtsverkehr-strukturdaten-xml-und-xml-gebuhr",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 93c AO",
+   "§ 18 GrEStG"
+  ],
+  "frage": "Für das Grundbuchamt ist der beigefügte XML-Datensatz rechtlich maßgeblich; der Inhalt der übermittelten Dokumente dient nur der Weiterverarbeitung.",
+  "antwort": false,
+  "erklaerung": "Für Gerichte ist die XML-Datei nur eine Arbeitshilfe; rechtlich kommt es allein auf den Inhalt der übermittelten Dokumente an. Das gilt ebenso im Verwaltungsaustausch (eNoVA) mit Behörden und Gerichten. Nur gegenüber dem Finanzamt kehrt sich das Verhältnis um: Dort ist der amtlich vorgeschriebene Datensatz selbst die Anzeige (§ 18 GrEStG i. V. m. § 93c AO)."
+ },
+ {
+  "id": "elek1-046",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "Elektronischer Rechtsverkehr: Strukturdaten (XML) und XML-Gebühr",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronischer-rechtsverkehr-strukturdaten-xml-und-xml-gebuhr",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "Vorbem. 2.2.1.1 Abs. 1 S. 1 KV GNotKG",
+   "Vorbem. 2.2.1.1 Abs. 3 KV GNotKG",
+   "KV 22114 GNotKG"
+  ],
+  "frage": "Unter welcher Voraussetzung sind die XML-Gebühren nach KV 22114 und 22115 GNotKG anwendbar?",
+  "optionen": [
+   "Nur wenn der Notar die XML-Datei vollständig von Hand erstellt hat",
+   "Wenn dem Notar für das zugrunde liegende Geschäft eine Beurkundungs- oder Entwurfsgebühr zusteht und weder Gerichte noch Behörden des Auslands beteiligt sind",
+   "Nur wenn das Gericht die Beifügung des Datensatzes ausdrücklich angefordert hat",
+   "Nur wenn der Geschäftswert 125 € übersteigt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach Vorbem. 2.2.1.1 Abs. 1 S. 1 und Abs. 3 KV GNotKG setzen KV 22114 und 22115 voraus, dass dem Notar für das zugrunde liegende Geschäft eine Beurkundungs- oder Entwurfsgebühr zusteht und weder Gerichte noch Behörden des Auslands beteiligt sind. Ob die XML-Datei von Hand oder aus der Notarsoftware erzeugt wird, ist für die Gebühr unerheblich; 125 € ist der Höchstbetrag der Gebühr, nicht eine Geschäftswertgrenze."
+ },
+ {
+  "id": "elek1-047",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "eNoVA: Ersatzeinreichung bei Störungen – Behörden und Gerichte, Finanzamt (ELSTER)",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-ersatzeinreichung-bei-storungen-behorden-und-gerichte-finanzamt-elster",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 18 Abs. 3 S. 3 GrEStG",
+   "§ 18 Abs. 1 S. 2 GrEStG",
+   "§ 93c AO"
+  ],
+  "frage": "ELSTER ist gestört, die Zwei-Wochen-Frist für die Veräußerungsanzeige läuft ab. Wie sollte der Notar vorgehen?",
+  "optionen": [
+   "Die Veräußerungsanzeige in Papierform an das Finanzamt senden und elektronisch nachreichen",
+   "Die Anzeige über das beN an das beBPo des Finanzamts übermitteln",
+   "Frühzeitig begründet die Verlängerung der Anzeigefrist nach § 18 Abs. 3 S. 3 GrEStG beantragen",
+   "Die Anzeige per Telefax übermitteln und die Störung nach § 130d S. 3 ZPO glaubhaft machen"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Anzeige an das Finanzamt ist allein elektronisch im amtlich vorgeschriebenen Datensatz zulässig (§ 18 Abs. 1 S. 2 GrEStG i. V. m. § 93c AO); die Ersatzregeln der ERVV gelten dort nicht, eine Papier-Ersatzeinreichung gibt es nicht. Bei ELSTER-Störungen ist der Weg die Verlängerung der Zwei-Wochen-Frist in begründeten Ausnahmefällen (§ 18 Abs. 3 S. 3 GrEStG, seit 01.10.2026). Die Papieranzeige ist ein typischer Fehler."
+ },
+ {
+  "id": "elek1-048",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "eNoVA: Ersatzeinreichung bei Störungen – Behörden und Gerichte, Finanzamt (ELSTER)",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-ersatzeinreichung-bei-storungen-behorden-und-gerichte-finanzamt-elster",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 16 Abs. 3 ERVV",
+   "§ 130d S. 3 ZPO"
+  ],
+  "frage": "Bei einer Ersatzeinreichung in Papierform an ein Gericht nach der ERVV muss der Notar die technische Störung wie nach § 130d S. 3 ZPO glaubhaft machen.",
+  "antwort": false,
+  "erklaerung": "Anders als § 130d S. 3 ZPO verlangt die ERVV (§ 16 Abs. 3, § 17 Abs. 3 ERVV für Gerichte; § 19 Abs. 5, § 20 Abs. 3 ERVV für Behörden) keine Glaubhaftmachung oder Darlegung der Störung. Erforderlich ist nur eine vorübergehende technische Störung, die die elektronische Übermittlung verhindert; auf Anforderung ist das Dokument elektronisch nachzureichen."
+ },
+ {
+  "id": "elek1-049",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "eNoVA: Ersatzeinreichung bei Störungen – Behörden und Gerichte, Finanzamt (ELSTER)",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-ersatzeinreichung-bei-storungen-behorden-und-gerichte-finanzamt-elster",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 19 Abs. 5 S. 2 ERVV",
+   "§ 19 Abs. 4 ERVV"
+  ],
+  "frage": "Die Übermittlung der Urkundenabschrift an den Gutachterausschuss gelingt, nur der Datensatz nach § 19 Abs. 4 ERVV lässt sich wegen einer Störung nicht übermitteln. Was gilt?",
+  "optionen": [
+   "Die gesamte Mitteilung muss in Papierform wiederholt werden, da Abschrift und Datensatz eine Einheit bilden",
+   "Es genügt, wenn der Gutachterausschuss nur die Urkundenabschrift auf Papier erhält (§ 19 Abs. 5 S. 2 ERVV)",
+   "Die Mitteilung ist bis zur Behebung der Störung aufzuschieben; eine Ersatzeinreichung ist ausgeschlossen",
+   "Der Datensatz ist dem Gutachterausschuss per E-Mail als unsignierte XML-Datei zu übersenden"
+  ],
+  "antwort": 1,
+  "erklaerung": "Für den Sonderfall, dass nur die Übermittlung des Datensatzes nach § 19 Abs. 4 ERVV scheitert, bestimmt § 19 Abs. 5 S. 2 ERVV, dass es ausreicht, wenn der Gutachterausschuss nur die Urkundenabschrift auf Papier erhält. Rechtlich maßgeblich ist ohnehin die Abschrift, der Datensatz dient nur der Weiterverarbeitung. Die spätere Anforderung des elektronischen Dokuments ist zu überwachen."
+ },
+ {
+  "id": "elek1-050",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "eNoVA: Genehmigungen, Vorkaufsrechtszeugnisse und Gutachterausschuss",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-genehmigungen-vorkaufsrechtszeugnisse-und-gutachterausschuss",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 213a Abs. 1 BauGB",
+   "§ 213a Abs. 4 BauGB",
+   "§ 213a Abs. 2 S. 2 BauGB"
+  ],
+  "frage": "An welches Postfach richtet der Notar über eNoVA den Antrag auf ein Vorkaufsrechtszeugnis, und wie antwortet die Gemeinde?",
+  "optionen": [
+   "An das beN der Gemeinde; die Gemeinde antwortet an das beBPo des Notars",
+   "An das beBPo der zuständigen Behörde oder ihres Rechtsträgers; die Behörde antwortet stets über das beN des Notars",
+   "An das EGVP-Bürgerpostfach (eBO) der Gemeinde; die Antwort kommt per De-Mail",
+   "An das Postfach des Landesbauministeriums, das den Antrag weiterleitet; die Antwort kommt auf Papier"
+  ],
+  "antwort": 1,
+  "erklaerung": "Empfänger eines Antrags ist das beBPo (besonderes elektronisches Behördenpostfach) der zuständigen Behörde, ersatzweise das Postfach ihres Rechtsträgers; die Empfängerbezeichnungen veröffentlicht das Landesbauministerium in der Liste für den elektronischen Notar-Verwaltungs-Austausch (§ 213a Abs. 2 S. 2 BauGB). Behörden antworten immer über das beN des Notars und sind nach § 213a Abs. 4 BauGB zur elektronischen Erteilung von Negativattest und Vorkaufsrechtszeugnis verpflichtet. beN ist das Notar-, nicht das Behördenpostfach."
+ },
+ {
+  "id": "elek1-051",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "eNoVA: Genehmigungen, Vorkaufsrechtszeugnisse und Gutachterausschuss",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-genehmigungen-vorkaufsrechtszeugnisse-und-gutachterausschuss",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 195 Abs. 2 BauGB",
+   "§ 195 Abs. 3 BauGB"
+  ],
+  "frage": "Der Notar muss die Vertragsbeteiligten auf ihre Mitteilungspflicht gegenüber dem Gutachterausschuss nach § 195 Abs. 2 BauGB hinweisen.",
+  "antwort": false,
+  "erklaerung": "Die Vertragsbeteiligten sind nach § 195 Abs. 2 BauGB selbst mitteilungspflichtig (Lage, Nutzung, Erträge, bauliche Anlagen, Energieausweis, Zubehör, Erbbauzins). Eine geplante Hinweispflicht des Notars (§ 20b BeurkG-E) ist entfallen; den Hinweis schuldet nach § 195 Abs. 3 BauGB der Gutachterausschuss. Der Notar übermittelt lediglich Abschrift und ab 01.01.2027 den Datensatz nach § 19 Abs. 4 ERVV."
+ },
+ {
+  "id": "elek1-052",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "eNoVA: Genehmigungen, Vorkaufsrechtszeugnisse und Gutachterausschuss",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-genehmigungen-vorkaufsrechtszeugnisse-und-gutachterausschuss",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 25 Abs. 2 GrdstVG",
+   "§ 12 Abs. 2 GVO",
+   "§ 137 Abs. 2 GBO"
+  ],
+  "frage": "Ab wann sind die Behörden verpflichtet, Genehmigungen nach dem GrdstVG und der GVO elektronisch zu erteilen, und welche Form haben die Bescheide?",
+  "optionen": [
+   "Seit 01.10.2026; die Bescheide haben die Form des § 39a BeurkG",
+   "Ab 01.01.2027; die Bescheide haben die Form des § 137 Abs. 2 GBO",
+   "Ab 01.01.2028; die Bescheide haben die Form des § 126a BGB",
+   "Seit 01.03.2024; die Bescheide ergehen als einfache PDF ohne Signatur"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 25 Abs. 2 GrdstVG und § 12 Abs. 2 GVO sind die Behörden ab dem 01.01.2027 zur elektronischen Erteilung verpflichtet; die elektronisch erteilten Bescheide haben die Form des § 137 Abs. 2 GBO. Der 01.10.2026 ist der Starttermin der Veräußerungsanzeige über ELSTER und der elektronischen Ersuchen an Gerichte; der 01.01.2028 betrifft die Unbedenklichkeitsbescheinigung der Finanzämter."
+ },
+ {
+  "id": "elek1-053",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "eNoVA: Zeitplan, Grundsätze und technische Voraussetzungen",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-zeitplan-grundsatze-und-technische-voraussetzungen",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 18 GrEStG",
+   "§ 195 BauGB",
+   "§ 25 Abs. 2 GrdstVG"
+  ],
+  "frage": "Ordne die eNoVA-Einführungsstufen den jeweiligen Neuerungen zu.",
+  "paare": [
+   [
+    "01.10.2026",
+    "Veräußerungsanzeige nach § 18 GrEStG elektronisch über ELSTER; elektronische Ersuchen an Betreuungs-, Familien-, Nachlass- und Landwirtschaftsgerichte um Genehmigungen und Rechtskraftzeugnisse"
+   ],
+   [
+    "01.01.2027",
+    "Genehmigungen, Zeugnisse und Bescheinigungen nach BauGB, GrdstVG, ASVG und GVO elektronisch; Abschriften und XML-Datensatz an die Gutachterausschüsse"
+   ],
+   [
+    "01.01.2028",
+    "Finanzämter übermitteln die Unbedenklichkeitsbescheinigung elektronisch an den Notar"
+   ],
+   [
+    "Noch ohne Termin",
+    "Elektronische Anzeigen an die Schenkung- und Erbschaftsteuerstelle; Abruf der Steuer-ID über die Schnittstelle"
+   ]
+  ],
+  "erklaerung": "eNoVA wird in Stufen verpflichtend: Seit 01.10.2026 laufen Veräußerungsanzeige über ELSTER und Gerichtsersuchen elektronisch, ab 01.01.2027 die behördlichen Genehmigungen und der Gutachterausschuss-Datensatz, ab 01.01.2028 die Unbedenklichkeitsbescheinigung in der Gegenrichtung. Für Erbschaft- und Schenkungsteuer gilt die elektronische Form erst nach Bekanntmachung durch das Bundesministerium der Finanzen."
+ },
+ {
+  "id": "elek1-054",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "eNoVA: Zeitplan, Grundsätze und technische Voraussetzungen",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-zeitplan-grundsatze-und-technische-voraussetzungen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 18 GrEStG",
+   "§ 93c AO",
+   "§ 18 Abs. 1 S. 3 GrEStG"
+  ],
+  "frage": "Worin unterscheidet sich die Veräußerungsanzeige an das Finanzamt über eNoVA rechtlich von einem Genehmigungsantrag an eine Behörde?",
+  "optionen": [
+   "Beim Finanzamt ist der amtlich vorgeschriebene Datensatz selbst die Anzeige, die Urkundenabschrift ist nur beizufügen; bei Behörden bleibt das signierte Dokument maßgeblich",
+   "Beim Finanzamt ist die beglaubigte Abschrift maßgeblich, bei Behörden der XML-Datensatz",
+   "Es gibt keinen Unterschied; in beiden Fällen ist allein der Strukturdatensatz rechtlich erheblich",
+   "Beim Finanzamt läuft die Übermittlung über das beBPo, bei Behörden über ELSTER"
+  ],
+  "antwort": 0,
+  "erklaerung": "Gegenüber Behörden und Gerichten bleibt die beglaubigte Abschrift bzw. das signierte Dokument rechtlich maßgeblich, der Strukturdatensatz dient nur der Weiterverarbeitung. Beim Finanzamt kehrt sich das um: Die Anzeige wird nach amtlich vorgeschriebenem Datensatz erstattet (§ 18 GrEStG i. V. m. § 93c AO), die Abschrift ist nur beizufügen (§ 18 Abs. 1 S. 3 GrEStG). Technisch läuft das Finanzamt über die ELSTER-Schnittstelle mit Organisationszertifikat, nicht über das beBPo."
+ },
+ {
+  "id": "elek1-055",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Grundlagen und Infrastruktur",
+  "seite": "eNoVA: Zeitplan, Grundsätze und technische Voraussetzungen",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-zeitplan-grundsatze-und-technische-voraussetzungen",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 18 GrEStG"
+  ],
+  "frage": "Für die Veräußerungsanzeige über eNoVA benötigt das Notariat ein ELSTER-Zertifikat, das in XNP zu hinterlegen ist.",
+  "antwort": true,
+  "erklaerung": "Die Übermittlung an das Finanzamt läuft über die ELSTER-Schnittstelle und setzt ein Organisationszertifikat voraus, entweder je Amtsträger oder je Sozietät; die Zertifikatsdatei ist in XNP zu hinterlegen. Ohne Zertifikat ist seit 01.10.2026 keine Veräußerungsanzeige nach § 18 GrEStG möglich, weshalb es rechtzeitig zu beschaffen ist."
+ }
+]

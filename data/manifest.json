@@ -2608,28 +2608,157 @@
      "titel": "Gestaltung des Übergabevertrags",
      "beschreibung": "Beteiligte, Ehegattenzustimmung und Vollmacht, Grundbuchstand und Vertragsgegenstand, Anrechnung und Ausgleichung, Besitzübergang und Mängel, Hinweise, Genehmigungen und Anzeigen, Beteiligung Minderjähriger.",
      "seiten_erwartet": 7,
-     "seiten": []
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-anrechnung-auf-den-pflichtteil-und-ausgleichung",
+       "titel": "Übergabevertrag: Anrechnung auf den Pflichtteil und Ausgleichung",
+       "beschreibung": "Anrechnung auf den Pflichtteil § 2315 BGB und Ausgleichung §§ 2050, 2055, 2056 BGB bei Übergabe/Schenkung an Kinder: ausdrückliche Bestimmung, Wert zur Zeit der Zuwendung, mehrere Veräußerer, vorweggenommene Erbfolge."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-besitzubergang-mangel-mietverhaltnis-und-auflassung",
+       "titel": "Übergabevertrag: Besitzübergang, Mängel, Mietverhältnis und Auflassung",
+       "beschreibung": "Abwicklung des Übergabevertrags: Besitzübergang bei Nießbrauch, Mängelhaftung des Schenkers §§ 523, 524 BGB, Mietverhältnis § 566 BGB, sofortige Auflassung, Vormerkung entbehrlich, Löschung Abt. II/III."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-beteiligte-ehegattenzustimmung-und-vollmacht",
+       "titel": "Übergabevertrag: Beteiligte, Ehegattenzustimmung und Vollmacht",
+       "beschreibung": "Beteiligte am Übergabevertrag: Ehegattenzustimmung § 1365 BGB, Gütergemeinschaft, Geschwister, Verwandtschaftsverhältnis, Vorsorgevollmacht, transmortale Vollmacht, Insichgeschäft § 181 BGB, Untervollmacht."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-beteiligung-minderjahriger",
+       "titel": "Übergabevertrag: Beteiligung Minderjähriger",
+       "beschreibung": "Schenkung an Minderjährige/Kind: Ergänzungspfleger § 1809 BGB, Ausschluss der Eltern §§ 1629 Abs. 2, 1824 BGB, § 181 BGB, lediglich rechtlicher Vorteil § 107 BGB, familiengerichtliche Genehmigung §§ 1643, 1850 BGB."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-grundbuchstand-vertragsgegenstand-und-loschung-alter-rechte",
+       "titel": "Übergabevertrag: Grundbuchstand, Vertragsgegenstand und Löschung alter Rechte",
+       "beschreibung": "Übergabevertrag: Bezeichnung des Grundbesitzes (§ 28 GBO), Belastungen Abt. II und III, valutierende Grundschuld, Löschung alter Rechte (Wohnrecht Verstorbener, DM-Grundschuld), Erwerbsverhältnis."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-hinweise-glaubigeranfechtung-und-2287-2288-bgb",
+       "titel": "Übergabevertrag: Hinweise, Gläubigeranfechtung und §§ 2287, 2288 BGB",
+       "beschreibung": "Hinweise im Übergabevertrag: Schenkungsteuer, Pflichtteil, Sozialhilferegress, Gläubigeranfechtung §§ 1, 3, 4 AnfG (vier und zehn Jahre), Schenkung in Beeinträchtigungsabsicht §§ 2287, 2288 BGB, Eigeninteresse."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-vorkaufsrechte-genehmigungen-verwalterzustimmung-und-anzeigen",
+       "titel": "Übergabevertrag: Vorkaufsrechte, Genehmigungen, Verwalterzustimmung und Anzeigen",
+       "beschreibung": "Vollzug Übergabevertrag: kein Vorkaufsrecht mangels Verkaufsfall, Grundstücksverkehrsgesetz, ASVG Baden-Württemberg, Verwalterzustimmung § 12 WEG, Anzeige Finanzamt § 18 GrEStG, § 34 ErbStG, Verteiler."
+      }
+     ]
     },
     {
      "slug": "grundlagen-der-ubergabe",
      "titel": "Grundlagen der Übergabe",
      "beschreibung": "Rechtsnatur des Übergabevertrags, gemischte Schenkung und Form, Schenkungsteuer, Pflichtteilsergänzung und Fristbeginn sowie Ausstattung, ehebedingte Zuwendung und Schenkung unter Auflage.",
      "seiten_erwartet": 4,
-     "seiten": []
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/grundlagen-der-ubergabe/ubergabevertrag-ausstattung-ehebedingte-zuwendung-und-schenkung-unter-auflage",
+       "titel": "Übergabevertrag: Ausstattung, ehebedingte Zuwendung und Schenkung unter Auflage",
+       "beschreibung": "Ausstattung § 1624 BGB (kein Sozialhilferegress, keine Pflichtteilsergänzung), ehebedingte (unbenannte) Zuwendung unter Ehegatten, § 2325 Abs. 3 S. 3 BGB, § 313 BGB bei Scheidung, Schenkung unter Auflage §§ 525–527 BGB."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/grundlagen-der-ubergabe/ubergabevertrag-pflichtteilserganzung-und-fristbeginn-bei-vorbehalten",
+       "titel": "Übergabevertrag: Pflichtteilsergänzung und Fristbeginn bei Vorbehalten",
+       "beschreibung": "Pflichtteilsergänzung § 2325 BGB bei Übergabe: Abschmelzung, Zehnjahresfrist § 2325 Abs. 3 BGB, Fristbeginn bei Nießbrauch, Wohnungsrecht, Rückforderungsrecht, Ehegattenzuwendung, Ausstattung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/grundlagen-der-ubergabe/ubergabevertrag-rechtsnatur-gemischte-schenkung-und-beurkundungsform",
+       "titel": "Übergabevertrag: Rechtsnatur, gemischte Schenkung und Beurkundungsform",
+       "beschreibung": "Übergabevertrag (Überlassung, Schenkung, vorweggenommene Erbfolge): Beweggründe, § 516 BGB, gemischte Schenkung, Rechtsgrund, Beurkundung § 311b Abs. 1, § 518 BGB, Auflassung §§ 873, 925 BGB, § 20 GBO."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/grundlagen-der-ubergabe/ubergabevertrag-schenkungsteuer-freibetrage-und-steuerliche-belehrung",
+       "titel": "Übergabevertrag: Schenkungsteuer, Freibeträge und steuerliche Belehrung",
+       "beschreibung": "Schenkungsteuer bei Übergabe/Schenkung einer Immobilie: Freibeträge § 16 ErbStG, Zusammenrechnung zehn Jahre § 14 ErbStG, Steuerklassen § 15, Steuersätze § 19 ErbStG, Belehrung § 17 Abs. 1 BeurkG."
+      }
+     ]
     },
     {
      "slug": "ruckforderungsrechte",
      "titel": "Rückforderungsrechte",
      "beschreibung": "Rückforderung wegen Verarmung und Sozialhilferegress, Widerruf wegen groben Undanks sowie vertragliche und freie Rückforderungsrechte mit Rechtsfolgen, Vererblichkeit und Rückerwerbsvormerkung.",
      "seiten_erwartet": 5,
-     "seiten": []
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-freies-ruckforderungsrecht",
+       "titel": "Übergabevertrag: freies Rückforderungsrecht",
+       "beschreibung": "Freies Rückforderungsrecht (freier Widerruf, Rücktrittsrecht) bei Übergabe: Unsicherheit des Erwerbers, Pfändbarkeit (Doppelpfändung), Sozialhilferegress, Schenkungsteuer BFH, Pflichtteilsergänzung § 2325 Abs. 3 BGB."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-ruckforderung-wegen-verarmung-des-schenkers-und-sozialhilferegress",
+       "titel": "Übergabevertrag: Rückforderung wegen Verarmung des Schenkers und Sozialhilferegress",
+       "beschreibung": "Rückforderung bei Verarmung des Schenkers § 528 BGB, Zehnjahresfrist § 529 BGB, Sozialhilferegress, Überleitung § 93 SGB XII, § 33 SGB II, Nachrang § 2 SGB XII, Aufgabe des Nießbrauchs als Schenkung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-ruckforderungsrechte-rechtsfolgen-vererblichkeit-und-ruckerwerbsvormerkung",
+       "titel": "Übergabevertrag: Rückforderungsrechte – Rechtsfolgen, Vererblichkeit und Rückerwerbsvormerkung",
+       "beschreibung": "Rückforderungsrecht bei Übergabe: Rechtsfolgen §§ 346 ff. BGB, Nutzungsersatz, Verwendungsersatz, Vererblichkeit, Rückauflassungsvormerkung § 883 BGB, Löschung nach Tod § 22, § 19, § 35 GBO, Pfändbarkeit."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-schenkungswiderruf-wegen-groben-undanks-530-533-bgb",
+       "titel": "Übergabevertrag: Schenkungswiderruf wegen groben Undanks (§§ 530–533 BGB)",
+       "beschreibung": "Widerruf der Schenkung wegen groben Undanks § 530 BGB bei Übergabe: schwere Verfehlung, Beispiele, Herausgabe §§ 812 ff. BGB, höchstpersönlich, Ausschluss § 532 BGB (Verzeihung, ein Jahr), Verzicht § 533 BGB."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-vertragliche-ruckforderungsrechte-grunde-gestaltung-und-mehrere-beteiligte",
+       "titel": "Übergabevertrag: vertragliche Rückforderungsrechte – Gründe, Gestaltung und mehrere Beteiligte",
+       "beschreibung": "Rückforderungsrecht/Rückfallklausel im Übergabevertrag: Veräußerung ohne Zustimmung, Vorversterben, Scheidung, Insolvenz, auflösende Bedingung, Widerrufsrecht, Gesamtgläubiger § 428, Mitgläubiger § 432 BGB."
+      }
+     ]
     },
     {
      "slug": "vorbehaltene-rechte-und-gegenleistungen",
      "titel": "Vorbehaltene Rechte und Gegenleistungen",
      "beschreibung": "Vorbehaltsnießbrauch und Wohnungsrecht, Rang und mehrere Berechtigte, Pflegeverpflichtung, Leibgeding, Abstandszahlung und Rente, Übernahme von Verbindlichkeiten und Gleichstellungsgeld.",
      "seiten_erwartet": 9,
-     "seiten": []
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-abstandszahlung-rente-und-abgrenzung-zum-kaufvertrag",
+       "titel": "Übergabevertrag: Abstandszahlung, Rente und Abgrenzung zum Kaufvertrag",
+       "beschreibung": "Abstandszahlung (Abstandsgeld) und Rente im Übergabevertrag: Sicherungen, Leibrente, Zeitrente, dauernde Last, Wertsicherung, Reallast § 1105 BGB, gemischte Schenkung, Abgrenzung zum Kaufvertrag."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-gleichstellungsgeld",
+       "titel": "Übergabevertrag: Gleichstellungsgeld",
+       "beschreibung": "Gleichstellungsgeld (Ausgleichszahlung an Geschwister) im Übergabevertrag: Vertrag zugunsten Dritter § 328 BGB, Gegenleistung gegenüber dem Veräußerer, Schenkungsteuer, Verwandtschaftsverhältnis, Fälligkeit."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-leibgeding",
+       "titel": "Übergabevertrag: Leibgeding",
+       "beschreibung": "Leibgeding (Altenteil, Leibzucht, Auszug) bei Übergabe: Begriff (BGH NJW 1994, 1158), § 49 GBO Sammelbuchung, Totalnießbrauch, AGBGB Baden-Württemberg Altenteilsvertrag, Vorlöschungsklausel § 23 GBO, Grabpflege."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-pflegeverpflichtung",
+       "titel": "Übergabevertrag: Pflegeverpflichtung",
+       "beschreibung": "Pflegeverpflichtung (Wart und Pflege) im Übergabevertrag: Leistungsumfang, Ruhen bei Heimaufenthalt, Zumutbarkeitsgrenze Pflegegrad, Reallast § 1105 BGB, Vorlöschungsklausel § 23 Abs. 2 GBO, Schenkungsteuer."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-ubernahme-von-verbindlichkeiten",
+       "titel": "Übergabevertrag: Übernahme von Verbindlichkeiten",
+       "beschreibung": "Übernahme von Darlehen/Grundschuld bei Übergabe: Erfüllungsübernahme, Schuldübernahme §§ 414, 415 BGB, Genehmigung der Bank, Schuldhaftentlassung, Zwangsvollstreckungsunterwerfung, dingliche Haftung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-vorbehaltene-nutzungsrechte-rang-mehrere-berechtigte-jahreswert-und-spatere-aufgabe",
+       "titel": "Übergabevertrag: vorbehaltene Nutzungsrechte – Rang, mehrere Berechtigte, Jahreswert und spätere Aufgabe",
+       "beschreibung": "Nießbrauch und Wohnungsrecht bei Übergabe: Rang, Gesamtberechtigte, Nutzungsrecht für Ehegatten, Jahreswert, Kapitalwert und Vervielfältiger, Verzicht auf Nießbrauch als Schenkung, Anzeige § 34 ErbStG, § 8 ErbStDV."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-vorbehaltenes-wohnungsrecht",
+       "titel": "Übergabevertrag: vorbehaltenes Wohnungsrecht",
+       "beschreibung": "Vorbehaltenes Wohnungsrecht (Wohnrecht) bei Übergabe: § 1093 BGB, Einliegerwohnung, Bestimmtheit, Aufnahme von Familie und Pflegepersonen § 1093 Abs. 2 BGB, Kosten § 1041 BGB, Unterschied zum Nießbrauch."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-vorbehaltsniessbrauch",
+       "titel": "Übergabevertrag: Vorbehaltsnießbrauch",
+       "beschreibung": "Vorbehaltsnießbrauch bei Übergabe/Schenkung: Kosten und Lasten §§ 1041, 1045, 1047 BGB, Nießbrauch am Miteigentumsanteil, Quotennießbrauch, Stimmrecht WEG, Pfändbarkeit, § 1061 BGB, Vorlöschungsklausel § 23 GBO."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-wohnungsrecht-wegzugsklausel-und-loschung",
+       "titel": "Übergabevertrag: Wohnungsrecht – Wegzugsklausel und Löschung",
+       "beschreibung": "Wohnungsrecht/Wohnrecht: Wegzugsklausel (Heimaufnahme, Pflegeheim), Sozialhilferegress, Löschung nach Tod § 22 oder § 23 GBO je nach Rückständen, Löschungsbewilligung § 19 GBO, Meldebescheinigung, Eigenurkunde."
+      }
+     ]
     }
    ]
   },
@@ -2644,28 +2773,177 @@
      "titel": "Gerichtliche Genehmigung",
      "beschreibung": "Genehmigungsbedürftige Geschäfte im Einzelnen, Genehmigungsverfahren, Rechtskraft, Mitteilung nach § 1856 BGB und Doppelvollmacht sowie Tod oder Amtsverlust vor Wirksamwerden.",
      "seiten_erwartet": 6,
-     "seiten": []
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-genehmigungsbedurftige-geschafte",
+       "titel": "Gerichtliche Genehmigung: genehmigungsbedürftige Geschäfte",
+       "beschreibung": "Familiengerichtliche und betreuungsgerichtliche Genehmigung: genehmigungspflichtige Geschäfte §§ 1643, 1848–1854 BGB, Grundstück, Erwerbsgeschäft, Kredit, Bürgschaft, Wertpapiere § 1849 BGB, Gegenvormund"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-grundpfandrechte-und-eigentumerrechte",
+       "titel": "Gerichtliche Genehmigung: Grundpfandrechte und Eigentümerrechte",
+       "beschreibung": "Gerichtliche Genehmigung bei Grundschuld und Hypothek: Löschungsbewilligung, Löschungszustimmung, Rangrücktritt, Rückgewähranspruch, Eigentümergrundschuld (§ 1850 Nr. 1, 2 BGB), Ausnahme Eltern § 1643 Abs. 2"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-mitteilung-nach-1856-bgb-und-doppelvollmacht",
+       "titel": "Gerichtliche Genehmigung: Mitteilung nach § 1856 BGB und Doppelvollmacht",
+       "beschreibung": "Mitteilung der Genehmigung § 1856 BGB, Doppelvollmacht des Notars, Eigenurkunde, Vorabgenehmigung, Nachgenehmigung, Aufforderung zwei Monate § 1856 Abs. 2 BGB, einseitige Geschäfte § 1858 BGB"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-tod-amtsverlust-oder-beendigung-vor-wirksamwerden",
+       "titel": "Gerichtliche Genehmigung: Tod, Amtsverlust oder Beendigung vor Wirksamwerden",
+       "beschreibung": "Tod des Betreuten oder Mündels, Tod oder Entlassung des Betreuers, Volljährigkeit während des Genehmigungsverfahrens: Erlöschen der Doppelvollmacht, Genehmigung der Erben, § 1856 Abs. 3 BGB"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-verfahren-rechtskraft-und-bekanntgabe",
+       "titel": "Gerichtliche Genehmigung: Verfahren, Rechtskraft und Bekanntgabe",
+       "beschreibung": "Genehmigungsbeschluss Familiengericht/Betreuungsgericht: Rechtskraft § 40 Abs. 2 FamFG, Beschwerdefrist zwei Wochen, Bekanntgabe § 41 Abs. 3 FamFG, Verfahrensbeistand, Ergänzungspfleger, Rechtskraftzeugnis § 46 FamFG"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-vermogensanlage-erbteilung-und-schiedsvereinbarung",
+       "titel": "Gerichtliche Genehmigung: Vermögensanlage, Erbteilung und Schiedsvereinbarung",
+       "beschreibung": "Gerichtliche Genehmigung: Geldanlage § 1848 BGB, Ausschlagung, Erbauseinandersetzung, Abschichtung § 1851 BGB, Vergleich, Schiedsklausel im Gesellschaftsvertrag § 1854 Nr. 6, Sicherheiten § 1854 Nr. 7 BGB"
+      }
+     ]
     },
     {
      "slug": "vertretungsausschluss-und-zuwendungen",
      "titel": "Vertretungsausschluss und Zuwendungen",
      "beschreibung": "Vertretungsausschluss nach § 1824 BGB und Ergänzungspfleger, Schenkungsverbot, Zuwendungen mit Verwaltungsanordnungen, Minderjährige in Gesellschaften und Nachweis der gesetzlichen Vertretung in der Urkunde.",
      "seiten_erwartet": 7,
-     "seiten": []
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/gesetzliche-vertretung-in-der-urkunde-nachweis-prufung-und-hochstpersonliche-geschafte",
+       "titel": "Gesetzliche Vertretung in der Urkunde: Nachweis, Prüfung und höchstpersönliche Geschäfte",
+       "beschreibung": "Nachweis von Vormund, Pfleger, Betreuer durch Bestellungsurkunde (§§ 168b, 290 FamFG), kein guter Glaube, Prüfung §§ 12, 17 BeurkG, höchstpersönliche Geschäfte, Ehevertrag, Erbverzicht bei Geschäftsunfähigkeit"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/minderjahrige-in-gesellschaften-beschlusse-und-anderungen-in-der-laufenden-gesellschaft",
+       "titel": "Minderjährige in Gesellschaften: Beschlüsse und Änderungen in der laufenden Gesellschaft",
+       "beschreibung": "Minderjähriger Gesellschafter in Familiengesellschaft: Stimmrecht, Vertretungsausschluss bei Grundlagenbeschlüssen, Satzungsänderung, Kapitalerhöhung, Zweckänderung, Anteilsabtretung, § 1852 BGB"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/minderjahrige-in-gesellschaften-vertretung-und-genehmigung-bei-grundung-und-erwerb",
+       "titel": "Minderjährige in Gesellschaften: Vertretung und Genehmigung bei Gründung und Erwerb",
+       "beschreibung": "Minderjährige in Gesellschaften: Ergänzungspfleger bei Gründung, Beitritt, Anteilsschenkung; Genehmigung § 1852 Nr. 1, 2 BGB; Erwerbsgeschäft, Familien-GbR, Kommanditanteil, GmbH-Gründung, Kindeswohl"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/schenkungsverbot-und-schenkungen-durch-betreuer",
+       "titel": "Schenkungsverbot und Schenkungen durch Betreuer",
+       "beschreibung": "Schenkungsverbot §§ 1641, 1798 Abs. 3 BGB für Eltern, Vormund, Pfleger; gemischte Schenkung nichtig; Schenkung durch Betreuer mit Genehmigung § 1854 Nr. 8 BGB; Gelegenheitsgeschenk, Wille des Betreuten"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/vertretungsausschluss-1824-bgb-gesamtbetrachtung-rechtsfolgen-und-erganzungspfleger",
+       "titel": "Vertretungsausschluss (§ 1824 BGB): Gesamtbetrachtung, Rechtsfolgen und Ergänzungspfleger",
+       "beschreibung": "Vertretungsausschluss § 1824 BGB, § 181 BGB, Insichgeschäft, lediglich rechtlicher Vorteil, Gesamtbetrachtung, Schenkung an Kind, schwebende Unwirksamkeit §§ 177 ff. BGB, Ergänzungspfleger § 1809, Ergänzungsbetreuer § 1817 Abs. 5 BGB"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/zuwendungen-an-minderjahrige-und-betreute-verwaltungsanordnungen-und-befreiungen",
+       "titel": "Zuwendungen an Minderjährige und Betreute: Verwaltungsanordnungen und Befreiungen",
+       "beschreibung": "Verwaltungsanordnungen §§ 1639, 1837 BGB für Erbschaft und Schenkung an Minderjährige oder Betreute; Befreiungen für benannten Zuwendungspfleger oder Vormund (§§ 1801 Abs. 3, 1811 Abs. 2 BGB), befreiter Vormund"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/zuwendungen-an-minderjahrige-und-betreute-verwaltungsausschluss-1638-1811-bgb",
+       "titel": "Zuwendungen an Minderjährige und Betreute: Verwaltungsausschluss (§§ 1638, 1811 BGB)",
+       "beschreibung": "Verwaltungsausschluss §§ 1638, 1811 BGB: Eltern von Vermögenssorge ausschließen, Erbschaft, Schenkung, Lebensversicherung, Vertrag zugunsten Dritter, Geschiedenentestament, Testamentsvollstreckung, Zuwendungspfleger"
+      }
+     ]
     },
     {
      "slug": "vormundschaft-pflegschaft-und-betreuung",
      "titel": "Vormundschaft, Pflegschaft und Betreuung",
      "beschreibung": "Vormundschaft, Pflegschaft, Benennung von Vormund und Pfleger, rechtliche Betreuung mit Aufgabenkreisen, ärztlichen Maßnahmen und Verfügungen über selbstgenutzten Wohnraum.",
      "seiten_erwartet": 11,
-     "seiten": []
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/benennung-von-vormund-und-pfleger-pfleger-und-zuwendungspfleger-1811-abs-2-bgb",
+       "titel": "Benennung von Vormund und Pfleger: Pfleger und Zuwendungspfleger (§ 1811 Abs. 2 BGB)",
+       "beschreibung": "Benennung von Pflegern: kein Benennungsrecht bei §§ 1776, 1810, 1882–1884 BGB; Zuwendungspfleger (§ 1811 BGB) durch Erblasser oder Schenker, Ausschluss von Personen, Form, Zeitpunkt, Testamentsvollstrecker."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/benennung-von-vormund-und-pfleger-vormundbenennung-durch-die-eltern-1782-bgb",
+       "titel": "Benennung von Vormund und Pfleger: Vormundbenennung durch die Eltern (§ 1782 BGB)",
+       "beschreibung": "Vormundbenennung durch die Eltern im Testament oder Erbvertrag (§ 1782 BGB): Sorgerecht beim Tod, widersprechende Benennungen, Ausschluss, Wirkung, formloser Elternwille, Befreiung § 1801 Abs. 3 BGB."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/pflegschaft-arten-bestellung-und-auswahl-des-pflegers",
+       "titel": "Pflegschaft: Arten, Bestellung und Auswahl des Pflegers",
+       "beschreibung": "Pflegschaft (§§ 1809–1813, 1882–1888 BGB): Ergänzungspfleger, zusätzlicher Pfleger § 1776 BGB, Abwesenheitspflegschaft, Zuständigkeit Familien-/Betreuungsgericht, Anordnung, Bestellung und Auswahl des Pflegers."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-arztliche-massnahmen-und-patientenwille",
+       "titel": "Rechtliche Betreuung: ärztliche Maßnahmen und Patientenwille",
+       "beschreibung": "Betreuer und ärztliche Maßnahmen (§ 1829 BGB): Genehmigung des Betreuungsgerichts für Einwilligung, Nichteinwilligung, Behandlungsabbruch, lebenserhaltende Behandlung, Patientenverfügung (§ 1827 BGB), Einvernehmen mit dem Arzt."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-aufgabenkreis-vermogenssorge-und-einzelne-angelegenheiten",
+       "titel": "Rechtliche Betreuung: Aufgabenkreis Vermögenssorge und einzelne Angelegenheiten",
+       "beschreibung": "Aufgabenkreis Vermögenssorge: Veräußerung, Erbschein, Erbauseinandersetzung, Ausschlagung, Gesellschafterrechte, Unterhalt; enge Einzelaufgabenkreise, höchstpersönliche Geschäfte, Erbverzicht durch Betreuer."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-aufgabenkreis-von-betreuer-und-pfleger-grundsatze-und-erweiterung",
+       "titel": "Rechtliche Betreuung: Aufgabenkreis von Betreuer und Pfleger (Grundsätze und Erweiterung)",
+       "beschreibung": "Aufgabenkreis und Aufgabenbereiche von Betreuer und Pfleger (§ 1815 BGB): Erforderlichkeit, keine Betreuung für alle Angelegenheiten, Handeln außerhalb des Aufgabenkreises trotz Genehmigung, Erweiterung (§ 293 FamFG)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-verfugungen-uber-selbstgenutzten-wohnraum-1833-abs-3-s-1-nr-4-bgb",
+       "titel": "Rechtliche Betreuung: Verfügungen über selbstgenutzten Wohnraum (§ 1833 Abs. 3 S. 1 Nr. 4 BGB)",
+       "beschreibung": "Verkauf der selbstbewohnten Immobilie durch Betreuer: Genehmigung nach § 1833 Abs. 3 S. 1 Nr. 4 BGB, Löschung Wohnungsrecht/Nießbrauch, Aufgabenkreis Wohnungsangelegenheiten, leerstehendes Haus, § 1850 BGB."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-vertretung-geschaftsfahigkeit-und-ende-der-betreuung",
+       "titel": "Rechtliche Betreuung: Vertretung, Geschäftsfähigkeit und Ende der Betreuung",
+       "beschreibung": "Betreuer als gesetzlicher Vertreter (§ 1823 BGB), Bestellungsurkunde/Betreuerausweis (§ 290 FamFG), Pflichten, Geschäftsfähigkeit des Betreuten, Entlassung (§ 1868 BGB), Aufhebung (§ 1871 BGB), Überprüfungsfrist § 294 FamFG."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-voraussetzungen-umfang-und-betreuerauswahl",
+       "titel": "Rechtliche Betreuung: Voraussetzungen, Umfang und Betreuerauswahl",
+       "beschreibung": "Betreuerbestellung (§ 1814 BGB): Krankheit, Behinderung, Antrag, Anhörung, Gutachten, Erforderlichkeit, Vorrang Vorsorgevollmacht, Einheitsentscheidung, Wirksamwerden, Betreuerauswahl und Betreuungsverfügung (§ 1816 BGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/vormundschaft-amtsstellung-anordnung-und-bestellung-des-vormunds",
+       "titel": "Vormundschaft: Amtsstellung, Anordnung und Bestellung des Vormunds",
+       "beschreibung": "Vormundschaft für Minderjährige (§§ 1773 ff. BGB): Amtsstellung, Familiengericht, Anordnung und Bestellung, Vormund-Arten (§ 1774 BGB), vorläufiger Vormund, Auswahl, Übernahmepflicht, Bestellungsbeschluss § 168a FamFG."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/vormundschaft-aufgaben-vertretungsmacht-und-genehmigungen",
+       "titel": "Vormundschaft: Aufgaben, Vertretungsmacht und Genehmigungen",
+       "beschreibung": "Vormund als gesetzlicher Vertreter des Mündels (§ 1789 BGB): Vermögenssorge, Vertretungsgrenzen (§ 1824 BGB), Bestellungsurkunde ohne Gutglaubensschutz, Genehmigung des Familiengerichts (§ 1799 BGB), Ausschlagung."
+      }
+     ]
     },
     {
      "slug": "vorsorgevollmacht-und-patientenverfugung",
      "titel": "Vorsorgevollmacht und Patientenverfügung",
      "beschreibung": "Vorsorgevollmacht mit Form, Wirksamwerden, Inhalt, Kontrolle und Widerruf, Patientenverfügung sowie Ehegattenvertretungsrecht in Gesundheitsangelegenheiten nach § 1358 BGB.",
      "seiten_erwartet": 5,
-     "seiten": []
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vorsorgevollmacht-und-patientenverfugung/ehegattenvertretungsrecht-in-gesundheitsangelegenheiten-1358-bgb",
+       "titel": "Ehegattenvertretungsrecht in Gesundheitsangelegenheiten (§ 1358 BGB)",
+       "beschreibung": "Notvertretungsrecht unter Ehegatten (§ 1358 BGB): Gesundheitssorge bei Bewusstlosigkeit oder Krankheit, sechs Monate, ärztliche Bescheinigung, Verhältnis zu Betreuung (§ 300 FamFG) und Vorsorgevollmacht."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vorsorgevollmacht-und-patientenverfugung/patientenverfugung-wirkung-voraussetzungen-und-form",
+       "titel": "Patientenverfügung: Wirkung, Voraussetzungen und Form",
+       "beschreibung": "Patientenverfügung (Patiententestament, §§ 1827, 1828 BGB): Bindungswirkung, qualifizierte und einfache Verfügung, Einwilligungsfähigkeit, Schriftform, Aufklärung, Widerruf, Gültigkeitsdauer, Basisversorgung, Organspende."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vorsorgevollmacht-und-patientenverfugung/vorsorgevollmacht-begriff-grenzen-der-vertretung-und-form",
+       "titel": "Vorsorgevollmacht: Begriff, Grenzen der Vertretung und Form",
+       "beschreibung": "Generalvollmacht und Vorsorgevollmacht: Begriff, nicht vertretbare Geschäfte (Testament, Eheschließung), Vorrang vor Betreuung § 1814 Abs. 3 BGB, Geschäftsfähigkeit, Form, Schriftform § 1820 Abs. 2, Beglaubigung, Beurkundung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vorsorgevollmacht-und-patientenverfugung/vorsorgevollmacht-kontrolle-widerruf-und-beglaubigung-durch-die-betreuungsbehorde",
+       "titel": "Vorsorgevollmacht: Kontrolle, Widerruf und Beglaubigung durch die Betreuungsbehörde",
+       "beschreibung": "Kontrolle der Vorsorgevollmacht: Kontrollbetreuer § 1820 Abs. 3, Stilllegung § 1820 Abs. 4, Widerruf, Kraftloserklärung § 176 BGB, Betreuer trotz Vollmacht (§§ 1829–1832), Beglaubigung durch Betreuungsbehörde § 7 BtOG."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vorsorgevollmacht-und-patientenverfugung/vorsorgevollmacht-wirksamwerden-und-inhalt",
+       "titel": "Vorsorgevollmacht: Wirksamwerden und Inhalt",
+       "beschreibung": "Vorsorgevollmacht gestalten: Wirksamwerden, Außen- und Innenverhältnis, Ausfertigungssperre § 51 Abs. 2 BeurkG, Zugang, Ausfertigungen, mehrere Bevollmächtigte, § 181 BGB, transmortale Vollmacht, Gesundheitsvollmacht, Unternehmen."
+      }
+     ]
     }
    ]
   },
@@ -2680,14 +2958,121 @@
      "titel": "Dingliches Vorkaufsrecht",
      "beschreibung": "Arten, Bestellung, Inhalt und Erlöschen des dinglichen Vorkaufsrechts, Vorkaufsfall, Mitteilung und Ausübung, Umgehung und Rückabwicklung sowie Vorkaufsrecht zum festen Preis, Ankaufs- und Wiederkaufsrecht.",
      "seiten_erwartet": 10,
-     "seiten": []
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/dingliches-vorkaufsrecht-bestellung-form-und-eintragung",
+       "titel": "Dingliches Vorkaufsrecht: Bestellung, Form und Eintragung",
+       "beschreibung": "Bestellung des dinglichen Vorkaufsrechts: Beurkundung (§ 311b BGB), Heilung, Bewilligung (§ 19 GBO), Vermächtnis, subjektiv-persönlich und subjektiv-dinglich (§ 1094 BGB), Eintragung in Abteilung II (§§ 10, 15 GBV, § 874 BGB), Aktivvermerk (§ 9 GBO)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/dingliches-vorkaufsrecht-erloschen",
+       "titel": "Dingliches Vorkaufsrecht: Erlöschen",
+       "beschreibung": "Erlöschen und Löschung des dinglichen Vorkaufsrechts: Ausübung, Frist, Bedingung, Aufhebung (§ 875 BGB), Erlass (§ 397 BGB), Tod (§ 473 BGB), § 470 BGB, Zwangs- und Teilungsversteigerung (§ 471 BGB, §§ 52, 91, 180 ZVG), § 894 BGB."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/dingliches-vorkaufsrecht-inhalt-ubertragbarkeit-und-verkaufsfalle",
+       "titel": "Dingliches Vorkaufsrecht: Inhalt, Übertragbarkeit und Verkaufsfälle",
+       "beschreibung": "Dingliches Vorkaufsrecht: Übertragbarkeit und Vererblichkeit (§§ 1098, 473 BGB), Pfändbarkeit, bedingte oder befristete Ausübung, erster, mehrere oder alle Verkaufsfälle (§ 1097 BGB), gesetzliches Schuldverhältnis (§ 1094 BGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-zum-festen-preis-ankaufsrecht-und-wiederkaufsrecht",
+       "titel": "Vorkaufsrecht zum festen Preis, Ankaufsrecht und Wiederkaufsrecht",
+       "beschreibung": "Schuldrechtliches Vorkaufsrecht zum festen Preis (limitiertes Vorkaufsrecht), Ankaufsrecht (Angebot, bedingter Kaufvertrag, Vormerkung § 883 BGB), Wiederkaufsrecht oder Rückkaufsrecht (§§ 456–462 BGB) der Gemeinde; Form § 311b BGB."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-arten-zweck-und-abgrenzung",
+       "titel": "Vorkaufsrecht: Arten, Zweck und Abgrenzung",
+       "beschreibung": "Vorkaufsrecht (§ 1094 BGB): Wirkung, Zweck, Folgen für den Eigentümer; schuldrechtliches Vorkaufsrecht (§§ 463 ff., § 311b BGB) und dingliches Vorkaufsrecht (§§ 1094–1104 BGB, Typenzwang § 1098 BGB); Abgrenzung zum Ankaufsrecht."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-mehrere-grundstucke-und-mehrere-berechtigte",
+       "titel": "Vorkaufsrecht: mehrere Grundstücke und mehrere Berechtigte",
+       "beschreibung": "Vorkaufsrecht an mehreren Grundstücken (selbständige Einzelrechte, kein Gesamtvorkaufsrecht, einheitliche Ausübung) und für mehrere Berechtigte: Ausübung im Ganzen (§ 472 BGB), Gemeinschaftsverhältnis (§ 47 GBO), Bruchteilseigentum."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-ruckabwicklung-mit-dem-vertragskaufer-nach-der-ausubung",
+       "titel": "Vorkaufsrecht: Rückabwicklung mit dem Vertragskäufer nach der Ausübung",
+       "beschreibung": "Rückabwicklung mit dem Erstkäufer (Vertragskäufer) nach Ausübung des Vorkaufsrechts: Unmöglichkeit (§ 275 BGB), Kaufpreiserstattung (§§ 1100, 1101 BGB), Eigentümer-Besitzer-Verhältnis (§§ 987 ff. BGB), Maklerprovision."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-umgehung-und-vorbehalte-im-kaufvertrag",
+       "titel": "Vorkaufsrecht: Umgehung und Vorbehalte im Kaufvertrag",
+       "beschreibung": "Umgehung des Vorkaufsrechts (§ 162 BGB, Scheinpreis, Einbringung in Gesellschaft), Unwirksamkeit von Vorbehalten (§ 465 BGB), Rücktritt und Aufhebung des Kaufvertrags nach Wirksamkeit, Vertragsänderung vor Ausübung, Pflichten des Notars."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-vorkaufsfall-mitteilung-frist-und-ausubung",
+       "titel": "Vorkaufsrecht: Vorkaufsfall, Mitteilung, Frist und Ausübung",
+       "beschreibung": "Vorkaufsfall (§§ 463, 433 BGB), keine Ausübung bei Schenkung oder Tausch, Insolvenzverwalter (§ 1098 BGB), Mitteilung des Kaufvertrags (§ 469 BGB), Zwei-Monats-Frist, Ausübungserklärung (§ 464 BGB), Empfangsvollmacht des Notars."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-zweiter-kaufvertrag-und-vormerkungswirkung-nach-der-ausubung",
+       "titel": "Vorkaufsrecht: zweiter Kaufvertrag und Vormerkungswirkung nach der Ausübung",
+       "beschreibung": "Folgen der Ausübung des Vorkaufsrechts: zweiter Kaufvertrag (§ 464 Abs. 2 BGB), Vormerkungswirkung (§§ 1098 Abs. 2, 883, 888 BGB), Eintragung des Erstkäufers, spätere Belastungen, Kaufpreis und Kosten (§ 468 BGB)."
+      }
+     ]
     },
     {
      "slug": "gesetzliche-vorkaufsrechte",
      "titel": "Gesetzliche Vorkaufsrechte",
      "beschreibung": "Vorkaufsrecht der Gemeinde nach dem BauGB (allgemein und im Kaufvertrag), landesrechtliche Vorkaufsrechte und ASVG-Genehmigung in Baden-Württemberg, Siedlungsrecht, Mieter und Miterben.",
      "seiten_erwartet": 11,
-     "seiten": []
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/landesrechtliche-vorkaufsrechte-und-genehmigung-nach-dem-asvg-in-baden-wurttemberg",
+       "titel": "Landesrechtliche Vorkaufsrechte und Genehmigung nach dem ASVG in Baden-Württemberg",
+       "beschreibung": "Baden-Württemberg: Vorkaufsrechte nach WG, LWaldG, NatSchG, FischG, § 17 ASVG; Genehmigung nach ASVG für landwirtschaftliche Grundstücke, Mindestgröße, Negativattest Landwirtschaftsamt als Fälligkeitsvoraussetzung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/offentlich-rechtliche-vorkaufsrechte-bedeutung-wirkungsarten-und-absicherung-im-kaufvertrag",
+       "titel": "Öffentlich-rechtliche Vorkaufsrechte: Bedeutung, Wirkungsarten und Absicherung im Kaufvertrag",
+       "beschreibung": "Öffentlich-rechtliche Vorkaufsrechte: Bedeutung, verfahrensrechtliche, dingliche und schuldrechtliche Wirkung, Folgen der Ausübung für den Kaufvertrag, Rücktrittsrecht, Fälligkeit, Sicherungsabtretung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/offentlich-rechtliche-vorkaufsrechte-vertrag-mit-dem-vorkaufsberechtigten-kosten-und-nachbeurkundung",
+       "titel": "Öffentlich-rechtliche Vorkaufsrechte: Vertrag mit dem Vorkaufsberechtigten, Kosten und Nachbeurkundung",
+       "beschreibung": "Ausübung eines öffentlich-rechtlichen Vorkaufsrechts: Vertrag mit Gemeinde oder Behörde, Maklerklausel, Kosten der Vormerkung, Vollzugsvollmacht, Vollstreckungsunterwerfung, neue Auflassung, Nachbeurkundung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/vorkaufsrecht-der-gemeinde-nach-dem-baugb-ausschluss-abwendung-und-wohl-der-allgemeinheit",
+       "titel": "Vorkaufsrecht der Gemeinde nach dem BauGB: Ausschluss, Abwendung und Wohl der Allgemeinheit",
+       "beschreibung": "Gemeindliches Vorkaufsrecht: Ausschluss bei Verkauf an Angehörige und Bedarfsträger (§ 26 BauGB), Gesellschaften, Abwendungsbefugnis (§ 27 BauGB), Abwendungsvereinbarung, Wohl der Allgemeinheit (§ 24 Abs. 3 BauGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/vorkaufsrecht-der-gemeinde-nach-dem-baugb-gestaltung-im-grundstuckskaufvertrag",
+       "titel": "Vorkaufsrecht der Gemeinde nach dem BauGB: Gestaltung im Grundstückskaufvertrag",
+       "beschreibung": "Gemeindliches Vorkaufsrecht (§§ 24, 26, 28 BauGB): Grundbuchsperre, Negativattest als Fälligkeitsvoraussetzung, Ausübung (§ 464 BGB), Rücktrittsrecht, ein-/zweistufige Anfrage, Hinweis nach §§ 18, 20 BeurkG."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/vorkaufsrecht-der-gemeinde-nach-dem-baugb-preislimitierte-ausubung-ausubung-zugunsten-dritter-und-negativattest",
+       "titel": "Vorkaufsrecht der Gemeinde nach dem BauGB: preislimitierte Ausübung, Ausübung zugunsten Dritter und Negativattest",
+       "beschreibung": "Gemeindliches Vorkaufsrecht: preislimitierte Ausübung zum Verkehrswert oder Entschädigungswert, Rücktrittsrecht (§ 28 Abs. 3 BauGB), Ausübung zugunsten Dritter (§ 27a BauGB), Negativattest, Prüfungsumfang."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/vorkaufsrecht-der-gemeinde-nach-dem-baugb-tatbestande-mitteilung-und-ausubung",
+       "titel": "Vorkaufsrecht der Gemeinde nach dem BauGB: Tatbestände, Mitteilung und Ausübung",
+       "beschreibung": "Gemeindliches Vorkaufsrecht nach §§ 24–28 BauGB: Ausschluss bei Wohnungseigentum und Erbbaurecht, Mitteilung, Negativattest (Vorkaufsrechtsbescheinigung), Grundbuchsperre, Verwaltungsakt, drei Monate, Teilfläche, Verkehrswert; § 20 BeurkG."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/vorkaufsrecht-der-gemeinde-nach-dem-baugb-vorkaufsfalle-und-tatbestande-24-25-baugb",
+       "titel": "Vorkaufsrecht der Gemeinde nach dem BauGB: Vorkaufsfälle und Tatbestände (§§ 24, 25 BauGB)",
+       "beschreibung": "Gemeindliches Vorkaufsrecht: Vorkaufsfall nur beim Kauf (nicht Schenkung, Tausch, Übergabe), Miteigentum, kein Vorkaufsrecht bei Wohnungseigentum und Erbbaurecht (§ 24 Abs. 2 BauGB), Tatbestände §§ 24, 25 BauGB."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/vorkaufsrecht-der-miterben",
+       "titel": "Vorkaufsrecht der Miterben",
+       "beschreibung": "Vorkaufsrecht der Miterben beim Erbteilsverkauf an Außenstehende (§§ 2034 ff. BGB): Erbteil (§ 2033 BGB), Berechtigte, Zwei-Monats-Frist, Adressat (§ 2035 BGB), Übertragungsanspruch, Anwachsung, Grundbuchberichtigung, Grunderwerbsteuer."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/weitere-gesetzliche-vorkaufsrechte-siedlungsrecht-landesrecht-mieter",
+       "titel": "Weitere gesetzliche Vorkaufsrechte: Siedlungsrecht, Landesrecht, Mieter",
+       "beschreibung": "Siedlungsrechtliches Vorkaufsrecht (§ 4 RSG, § 9 GrdstVG), landesrechtliche Vorkaufsrechte (Denkmalschutz, Naturschutz, Forst), Mietervorkaufsrecht bei Umwandlung (§ 577 BGB): Unterrichtung, Verzicht, Schadensersatz, Belehrung (§ 20 BeurkG)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/weitere-offentlich-rechtliche-vorkaufsrechte-naturschutz-hochwasserschutz-fachplanungs-und-landesrecht",
+       "titel": "Weitere öffentlich-rechtliche Vorkaufsrechte: Naturschutz, Hochwasserschutz, Fachplanungs- und Landesrecht",
+       "beschreibung": "Weitere öffentlich-rechtliche Vorkaufsrechte: Naturschutz (§ 66 BNatSchG), Hochwasserschutz (§ 99a WHG), Eisenbahn, Fernstraßen, Wasserstraßen, Luftverkehr, Denkmalschutz und Forst nach Landesrecht."
+      }
+     ]
     }
    ]
   },
@@ -2702,14 +3087,131 @@
      "titel": "Verfügungsbeschränkungen",
      "beschreibung": "Gerichtliche Verfügungsverbote, Insolvenz, Nachlassverwaltung und Testamentsvollstreckung, öffentlich-rechtliche Genehmigungserfordernisse sowie privatrechtliche Beschränkungen, Nacherbenvermerk und Widerspruch.",
      "seiten_erwartet": 16,
-     "seiten": []
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/bergwerkseigentum-ubertragung-und-genehmigung-nach-dem-bbergg",
+       "titel": "Bergwerkseigentum: Übertragung und Genehmigung nach dem BBergG",
+       "beschreibung": "Bergwerkseigentum (§ 9 BBergG): Behandlung wie Grundstück, Auflassung, Beurkundung, keine Vereinigung mit Grundstück, Genehmigung der Veräußerung (§ 23 BBergG), Fiktion, Zusammenlegung und Teilung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/genehmigung-in-fremdenverkehrsgebieten-nach-22-baugb-genehmigungsanspruch-grundbuchsperre-und-verfahren",
+       "titel": "Genehmigung in Fremdenverkehrsgebieten nach § 22 BauGB: Genehmigungsanspruch, Grundbuchsperre und Verfahren",
+       "beschreibung": "Genehmigung nach § 22 BauGB: Genehmigungsanspruch, Vormerkungs- und Härtefälle, Grundbuchsperre, Widerspruch, Freistellung, Monatsfrist, Genehmigungsfiktion, Fiktionszeugnis, Übernahmeanspruch."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/genehmigung-in-fremdenverkehrsgebieten-nach-22-baugb-zweck-satzung-und-erfasste-vorgange",
+       "titel": "Genehmigung in Fremdenverkehrsgebieten nach § 22 BauGB: Zweck, Satzung und erfasste Vorgänge",
+       "beschreibung": "Fremdenverkehrssatzung § 22 BauGB (Zweitwohnungen, Ferienwohnungen): Zweck, erfasste Vorgänge (Wohnungseigentum, §§ 30, 31 WEG, § 1010 BGB), touristische Prägung der Gemeinde, Katalogfälle."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/genehmigungen-nach-landesrecht-und-kirchenrecht",
+       "titel": "Genehmigungen nach Landesrecht und Kirchenrecht",
+       "beschreibung": "Landesrechtliche Genehmigungen: kreditähnliche Geschäfte der Gemeinde (Erbbaurecht, Stundung), Teilung von Waldgrundstücken in Baden-Württemberg (§ 24 LWaldG), andere Länder; kirchliche Genehmigung, Romgrenze, § 72 BeurkG."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/grundstucksverkehrsgenehmigung-nach-der-gvo-in-den-neuen-landern",
+       "titel": "Grundstücksverkehrsgenehmigung nach der GVO in den neuen Ländern",
+       "beschreibung": "Grundstücksverkehrsordnung (GVO) in den neuen Ländern: Genehmigung für Auflassung und Erbbaurecht, Restitutionsansprüche, genehmigungsfreie Erwerbe, Anmeldevermerk § 30b VermG, Vormerkung, Vorabgenehmigung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/grundstuckverkehrsgesetz-geltung-genehmigungspflichtige-und-genehmigungsfreie-geschafte",
+       "titel": "Grundstückverkehrsgesetz: Geltung, genehmigungspflichtige und genehmigungsfreie Geschäfte",
+       "beschreibung": "Grundstückverkehrsgesetz (GrdstVG) außerhalb Baden-Württembergs: landwirtschaftliche Grundstücke, genehmigungspflichtige Geschäfte (§ 2 GrdstVG), genehmigungsfreie Geschäfte (§ 4 GrdstVG), Freigrenzen der Länder."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/grundstuckverkehrsgesetz-wirkung-der-genehmigungspflicht-verfahren-und-versagung",
+       "titel": "Grundstückverkehrsgesetz: Wirkung der Genehmigungspflicht, Verfahren und Versagung",
+       "beschreibung": "GrdstVG: Genehmigung als Wirksamkeitsvoraussetzung, Grundbuchsperre (§ 7 GrdstVG), Antrag durch Notar, Versagungsgründe (§ 9 GrdstVG), grobes Missverhältnis, Wind- und Solarflächen, Auflage, Bedingung, Fristen."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/sanierungsgebiet-satzung-sanierungsvermerk-grundbuchsperre-und-ausgleichsbetrag",
+       "titel": "Sanierungsgebiet: Satzung, Sanierungsvermerk, Grundbuchsperre und Ausgleichsbetrag",
+       "beschreibung": "Sanierungssatzung, Sanierungsvermerk (§ 143 BauGB), Grundbuchsperre, Widerspruch, Negativattest (§ 145 BauGB), Schutz nach § 878 BGB, Ausgleichsbetrag (§ 154 BauGB) im Kaufvertrag, Verträge über Sanierungsmaßnahmen."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/sanierungsgenehmigung-genehmigungspflichtige-rechtsvorgange-und-ausnahmen-144-baugb",
+       "titel": "Sanierungsgenehmigung: genehmigungspflichtige Rechtsvorgänge und Ausnahmen (§ 144 BauGB)",
+       "beschreibung": "Sanierungsgenehmigung im förmlich festgelegten Sanierungsgebiet (§ 144 BauGB): Veräußerung, Belastung, Teilung, Baulast; Ausnahmen bei Beteiligung der Gemeinde, vorweggenommener Erbfolge (Übergabe), Preisgrenze § 153 BauGB."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/umgehung-von-genehmigungen-und-vorkaufsrechten-durch-gesellschaftsrechtliche-gestaltungen",
+       "titel": "Umgehung von Genehmigungen und Vorkaufsrechten durch gesellschaftsrechtliche Gestaltungen",
+       "beschreibung": "Umgehung von Genehmigungspflicht und Vorkaufsrecht durch Einbringung des Grundstücks in eine Gesellschaft und Anteilsverkauf (Share Deal): analoge Anwendung, Maßstab des BGH, Amtspflicht des Notars."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/umwandlungsgenehmigung-in-erhaltungsgebieten-172-abs-1-s-4-baugb",
+       "titel": "Umwandlungsgenehmigung in Erhaltungsgebieten (§ 172 Abs. 1 S. 4 BauGB)",
+       "beschreibung": "Umwandlungsverbot im Milieuschutzgebiet (§ 172 Abs. 1 S. 4 BauGB, Erhaltungssatzung): Landesverordnung (auch Baden-Württemberg), Genehmigungsanspruch nach § 172 Abs. 4 BauGB, Grundbuchsperre, Neubauten."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/umwandlungsgenehmigung-nach-250-baugb-erfasste-vorgange-gebiete-und-wohngebaude",
+       "titel": "Umwandlungsgenehmigung nach § 250 BauGB: erfasste Vorgänge, Gebiete und Wohngebäude",
+       "beschreibung": "Umwandlungsgenehmigung § 250 BauGB (angespannter Wohnungsmarkt): Aufteilung nach WEG, Unterteilung, § 1010 BGB, Verordnungen § 201a BauGB, Wohngebäude, Ausnahme bis fünf Wohnungen, Neubau und Aufstockung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/umwandlungsgenehmigung-nach-250-baugb-genehmigungsanspruch-grundbuchsperre-und-negativattest",
+       "titel": "Umwandlungsgenehmigung nach § 250 BauGB: Genehmigungsanspruch, Grundbuchsperre und Negativattest",
+       "beschreibung": "Umwandlungsgenehmigung § 250 BauGB: Anspruch auf Genehmigung (Erben, Familie, Mieter), Grundbuchsperre und Heilung (§ 250 Abs. 5 BauGB), Negativattest, § 878 BGB analog bei Antrag vor Inkrafttreten."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/verfugungsbeschrankungen-gerichtliche-verfugungsverbote-insolvenz-nachlassverwaltung-testamentsvollstreckung",
+       "titel": "Verfügungsbeschränkungen: gerichtliche Verfügungsverbote, Insolvenz, Nachlassverwaltung, Testamentsvollstreckung",
+       "beschreibung": "Verfügungsbeschränkungen absolut und relativ: gerichtliches Verfügungsverbot, Zwangsversteigerungsvermerk, Insolvenzvermerk (§§ 32, 80, 81 InsO), Nachlassverwaltung (§ 1984 BGB), Testamentsvollstreckervermerk (§ 52 GBO, § 2211 BGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/verfugungsbeschrankungen-offentliches-recht",
+       "titel": "Verfügungsbeschränkungen: öffentliches Recht",
+       "beschreibung": "Öffentlich-rechtliche Verfügungsbeschränkungen: Genehmigung nach ASVG Baden-Württemberg, Umlegung (§ 51 BauGB), Sanierungsvermerk (§§ 143, 144 BauGB), Grundbuchsperre, Flurbereinigung, Rücknahme und Widerruf von Genehmigungen."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/verfugungsbeschrankungen-privatrecht-nacherbenvermerk-und-widerspruch",
+       "titel": "Verfügungsbeschränkungen: Privatrecht, Nacherbenvermerk und Widerspruch",
+       "beschreibung": "Privatrechtliche Verfügungsbeschränkungen: gerichtliche Genehmigung, Ehegattenzustimmung (§ 1365 BGB), Vorerbe (§§ 2113, 2136 BGB), Nacherbenvermerk (§ 51 GBO), § 137 BGB, Verwalterzustimmung (§ 12 WEG), Widerspruch (§ 899 BGB)."
+      }
+     ]
     },
     {
      "slug": "vormerkung",
      "titel": "Vormerkung",
      "beschreibung": "Zweck und Arten, vormerkbarer Anspruch, Eintragung, Rang und relative Unwirksamkeit, Gestaltung im Grundstückskaufvertrag, Zwangsversteigerung und Insolvenz, Erlöschen und gutgläubiger Erwerb.",
      "seiten_erwartet": 7,
-     "seiten": []
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-bewilligung-urteil-einstweilige-verfugung-und-eintragung",
+       "titel": "Vormerkung: Bewilligung, Urteil, einstweilige Verfügung und Eintragung",
+       "beschreibung": "Eintragung der Vormerkung: Bewilligung (§ 885 BGB, §§ 19, 29 GBO), Gemeinschaftsverhältnis (§ 47 GBO), Urteil (§§ 894, 895 ZPO), einstweilige Verfügung (§§ 935, 937, 942 ZPO), Antrag, Voreintragung, Eintragungsort, Prüfung durch das Grundbuchamt."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-erloschen-und-gutglaubiger-erwerb",
+       "titel": "Vormerkung: Erlöschen und gutgläubiger Erwerb",
+       "beschreibung": "Erlöschen und Löschung der Vormerkung: Wegfall des Anspruchs (§ 894 BGB analog, § 22 GBO), Aufhebung (§§ 875, 876 BGB), dauernde Einrede, einstweilige Verfügung (§ 25 GBO), Erfüllung, Zwischenrechte; gutgläubiger Erwerb (§§ 892, 893 BGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-gestaltung-im-grundstuckskaufvertrag",
+       "titel": "Vormerkung: Gestaltung im Grundstückskaufvertrag",
+       "beschreibung": "Eigentumsvormerkung (Auflassungsvormerkung) im Kaufvertrag: Belastung des Verkäufers beim Scheitern, aufgeschobene Eintragung, Finanzierungsbestätigung, Hinterlegung auf Anderkonto, vorweggenommene Löschungsbewilligung, Bewilligung ohne Eintragung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-rang-relative-unwirksamkeit-und-wirksamkeitsvermerk",
+       "titel": "Vormerkung: Rang, relative Unwirksamkeit und Wirksamkeitsvermerk",
+       "beschreibung": "Wirkungen der Vormerkung: keine Verfügungssperre oder Grundbuchsperre, Rangwahrung (§ 883 Abs. 3 BGB), Erben (§ 884 BGB), relative Unwirksamkeit (§ 883 Abs. 2 BGB), Zustimmungsanspruch (§ 888 BGB), Wirksamkeitsvermerk, § 878 BGB analog."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-vormerkbarer-anspruch-und-genehmigungserfordernisse",
+       "titel": "Vormerkung: vormerkbarer Anspruch und Genehmigungserfordernisse",
+       "beschreibung": "Vormerkbarer Anspruch: Bestimmtheit, Gläubiger gleich Vormerkungsberechtigter, künftige und bedingte Ansprüche (§ 883 Abs. 1 S. 2 BGB), vollmachtloser Vertreter, behördliche und gerichtliche Genehmigung (§ 1856 BGB), Abtretung (§ 401 BGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-zwangsversteigerung-und-insolvenz",
+       "titel": "Vormerkung: Zwangsversteigerung und Insolvenz",
+       "beschreibung": "Vormerkung in der Zwangsversteigerung (§§ 28, 48, 50–52, 91, 92, 27 ZVG; Rang, Beitrittsgläubiger, Wertersatz) und in der Insolvenz des Verkäufers (§ 106 Abs. 1 S. 1 InsO, kein Wahlrecht nach § 103 InsO, §§ 47, 49 InsO)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-zweck-und-arten",
+       "titel": "Vormerkung: Zweck und Arten",
+       "beschreibung": "Vormerkung (§§ 883–888 BGB): Sicherung des Käufers zwischen Kaufvertrag und Umschreibung, Rechtsnatur und Akzessorietät, Eigentumsvormerkung (Auflassungsvormerkung), Rückauflassungsvormerkung, Löschungsvormerkung (§§ 1179, 1179a BGB)."
+      }
+     ]
     }
    ]
   },
@@ -2724,28 +3226,472 @@
      "titel": "Begründung von Wohnungseigentum",
      "beschreibung": "Sondereigentum, Gemeinschaftseigentum und Miteigentumsanteil, Teilung nach §§ 3, 8 WEG, Aufteilungsplan und Abgeschlossenheitsbescheinigung, Sondernutzungsrechte und Gestaltung der Gemeinschaftsordnung.",
      "seiten_erwartet": 34,
-     "seiten": []
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/abgeschlossenheitsbescheinigung-rechtsnatur-und-prufung-durch-grundbuchamt-und-notar",
+       "titel": "Abgeschlossenheitsbescheinigung: Rechtsnatur und Prüfung durch Grundbuchamt und Notar",
+       "beschreibung": "Abgeschlossenheitsbescheinigung: kein Verwaltungsakt, Leistungsklage, kein Bauordnungsrecht (§ 4 Abs. 2 AVA); Prüfung durch Grundbuchamt (§ 7 Abs. 4 WEG, keine Bindung), keine Prüfpflicht des Notars."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/abgeschlossenheitsbescheinigung-voraussetzungen-nach-der-ava",
+       "titel": "Abgeschlossenheitsbescheinigung: Voraussetzungen nach der AVA",
+       "beschreibung": "Abgeschlossenheitsbescheinigung (§ 3 Abs. 3, § 7 Abs. 4 S. 1 Nr. 2 WEG) nach AVA: Sollvorschrift, keine Mindestausstattung (WC), eigener Zugang, Maßangaben für Stellplätze und Freiflächen, Mehrfachparker."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/aufteilungsplan-und-abgeschlossenheitsbescheinigung",
+       "titel": "Aufteilungsplan und Abgeschlossenheitsbescheinigung",
+       "beschreibung": "Aufteilungsplan (Lageplan, Grundrisse, Schnitte, Ansichten) und Abgeschlossenheitsbescheinigung § 7 Abs. 4 WEG: Bedeutung, Prüfung der Pläne vor Beurkundung, Abgeschlossenheit, Prüfung durch das Grundbuchamt."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/aufteilungsplan-inhalt-nummerierung-und-ubereinstimmung-mit-der-teilungserklarung",
+       "titel": "Aufteilungsplan: Inhalt, Nummerierung und Übereinstimmung mit der Teilungserklärung",
+       "beschreibung": "Aufteilungsplan (§ 7 Abs. 4 S. 1 Nr. 1 WEG): Grundrisse, Schnitte, Ansichten, Lageplan, gleiche Nummer je Einheit, farbige Umrandung, Kennungen W/K/TG, Übereinstimmung mit der Teilungserklärung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/begrundung-von-wohnungseigentum-genehmigung-im-erhaltungsgebiet-und-bei-angespanntem-wohnungsmarkt-172-250-baugb",
+       "titel": "Begründung von Wohnungseigentum: Genehmigung im Erhaltungsgebiet und bei angespanntem Wohnungsmarkt (§§ 172, 250 BauGB)",
+       "beschreibung": "Aufteilung in Wohnungseigentum im Milieuschutzgebiet (§ 172 Abs. 1 S. 4 BauGB) und bei angespanntem Wohnungsmarkt (§ 250 BauGB): kein Negativattest ohne Verordnung, Nachweis unter der Freigrenze, Grundbuchvollzug."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/begrundung-von-wohnungseigentum-genehmigung-im-fremdenverkehrs-und-sanierungsgebiet-und-nach-der-gvo",
+       "titel": "Begründung von Wohnungseigentum: Genehmigung im Fremdenverkehrs- und Sanierungsgebiet und nach der GVO",
+       "beschreibung": "Aufteilung in Wohnungseigentum: Fremdenverkehrssatzung (§ 22 BauGB, § 1010 BGB kein Ausweg), keine Sanierungsgenehmigung bei § 8 WEG, aber bei § 3 WEG (§ 144 BauGB), GVO-Genehmigung beim Teilungsvertrag im Beitrittsgebiet."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/begrundung-von-wohnungseigentum-zustimmung-dinglich-berechtigter-und-gerichtliche-genehmigung",
+       "titel": "Begründung von Wohnungseigentum: Zustimmung dinglich Berechtigter und gerichtliche Genehmigung",
+       "beschreibung": "Aufteilung in Wohnungseigentum: Zustimmung von Grundpfandgläubigern (§§ 876, 877 BGB) bei § 3 und § 8 WEG, Gesamtrecht (§ 1132 BGB), § 10 Abs. 1 Nr. 2 ZVG; familien- und betreuungsgerichtliche Genehmigung (§ 1850 Nr. 1, 4 BGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/gemeinschaft-der-wohnungseigentumer-entstehen-und-werdender-wohnungseigentumer",
+       "titel": "Gemeinschaft der Wohnungseigentümer: Entstehen und werdender Wohnungseigentümer",
+       "beschreibung": "Entstehen der Gemeinschaft der Wohnungseigentümer (§ 9a Abs. 1 S. 2 WEG), Ein-Personen-GdWE; werdender Wohnungseigentümer (§ 8 Abs. 3 WEG): Vormerkung, Besitz, Hausgeld, Stimmrecht, Zweiterwerber."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/gemeinschaftsordnung-gestaltungen-zu-sondereigentum-erhaltung-kosten-und-versicherungen",
+       "titel": "Gemeinschaftsordnung: Gestaltungen zu Sondereigentum, Erhaltung, Kosten und Versicherungen",
+       "beschreibung": "Gemeinschaftsordnung gestalten: Leitungen, hilfsweises Sondernutzungsrecht, Fenster/Türen auf Kosten des Eigentümers, Kostenverteilungsschlüssel, Mehrfachparker, Wirtschaftsplan, Erwerberhaftung Hausgeld, Versicherungen."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/gemeinschaftsordnung-gestaltungen-zu-versammlung-verwalter-und-anderungen",
+       "titel": "Gemeinschaftsordnung: Gestaltungen zu Versammlung, Verwalter und Änderungen",
+       "beschreibung": "Gemeinschaftsordnung gestalten: Eigentümerversammlung, Ladung in Textform, Stimmrecht, Öffnungsklausel, mehrere Eigentümer, Wiederaufbau, Verwalter, Wanddurchbruch, Unterteilung, Umwandlung Wohnung/Teileigentum."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/gemeinschaftsordnung-inhalt-und-gebrauchsregelungen",
+       "titel": "Gemeinschaftsordnung: Inhalt und Gebrauchsregelungen",
+       "beschreibung": "Gemeinschaftsordnung: Inhalt, Verwalterzustimmung § 12 WEG, Gebrauchsregelung, Zweckbestimmung, Nutzung Wohnung als Gewerbe/Praxis, Umwidmung, Öffnungsklausel, Hausordnung der WEG."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/grundungsmangel-abweichung-der-bauausfuhrung-vom-aufteilungsplan",
+       "titel": "Gründungsmängel: Abweichung der Bauausführung vom Aufteilungsplan",
+       "beschreibung": "Bauausführung weicht vom Aufteilungsplan ab: Sondereigentum in Plangrenzen (Luftschranken, BGH V ZR 284/14), zusätzliche Räume, Anspruch auf plangerechte Herstellung, keine Ablehnung durch Grundbuchamt."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/grundungsmangel-dingliche-rechtslage-innenverhaltnis-und-isolierter-miteigentumsanteil",
+       "titel": "Gründungsmängel: dingliche Rechtslage, Innenverhältnis und isolierter Miteigentumsanteil",
+       "beschreibung": "Gründungsmängel der Teilung: Heilung durch gutgläubigen Erwerb, fehlerhafte Gesellschaft im Innenverhältnis, isolierter Miteigentumsanteil, Umdeutung in Sondernutzungsrecht, Überaufteilung, Rechenfehler 999/1000."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/grundungsmangel-falsche-zweckbestimmung-und-widerspruch-zwischen-teilungserklarung-und-aufteilungsplan",
+       "titel": "Gründungsmängel: falsche Zweckbestimmung und Widerspruch zwischen Teilungserklärung und Aufteilungsplan",
+       "beschreibung": "Gründungsmängel: Teileigentum statt Wohnungseigentum eingetragen, Widerspruch zwischen Teilungserklärung und Aufteilungsplan (kein Sondereigentum, isolierter Miteigentumsanteil), Auslegung der Eintragung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/mehrhausanlage-abschnittsweise-begrundung-von-wohnungseigentum",
+       "titel": "Mehrhausanlage: abschnittsweise Begründung von Wohnungseigentum",
+       "beschreibung": "Mehrhausanlage in Bauabschnitten: große und kleine Aufteilung, überdimensionaler Miteigentumsanteil, Vollmacht und Vormerkung für weiteres Sondereigentum, Veräußerungsbeschränkung § 12 WEG, verdinglichte Ermächtigung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/miteigentumsanteile-bemessung-anderung-und-verbindung-mit-sondereigentum",
+       "titel": "Miteigentumsanteile: Bemessung, Änderung und Verbindung mit Sondereigentum",
+       "beschreibung": "Miteigentumsanteile bei der Teilung: freie Bemessung, Kosten (§ 16 Abs. 2 WEG) und Außenhaftung (§ 9a Abs. 4 WEG), Änderungsanspruch, Auflassung, kein isolierter Miteigentumsanteil, unbebautes Grundstück."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondereigentumsfahigkeit-gebaudeteile-leitungen-und-heizungen",
+       "titel": "Sondereigentumsfähigkeit: Gebäudeteile, Leitungen und Heizungen",
+       "beschreibung": "Sondereigentumsfähigkeit von Gebäudeteilen (§ 5 Abs. 1–3 WEG): zwingendes Gemeinschaftseigentum (Fassade, Fenster, Eingangstür, Fundament), Versorgungsleitungen, Heizung, erste Absperrmöglichkeit."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondereigentumsfahigkeit-raumbegriff-balkone-terrassen-und-mehrere-gebaude",
+       "titel": "Sondereigentumsfähigkeit: Raumbegriff, Balkone, Terrassen und mehrere Gebäude",
+       "beschreibung": "Sondereigentumsfähiger Raum (§ 3 Abs. 1 S. 1 WEG): Dreidimensionalität, Balkon und Dachterrasse als Raum, Balkon ohne Nummerierung, Terrasse (§ 3 Abs. 2, 3 WEG), mehrere Gebäude auf einem Grundstück."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondereigentumsfahigkeit-raume-des-gemeinschaftlichen-gebrauchs-zugange-und-mehrzweckraume",
+       "titel": "Sondereigentumsfähigkeit: Räume des gemeinschaftlichen Gebrauchs, Zugänge und Mehrzweckräume",
+       "beschreibung": "Nicht sondereigentumsfähige Räume (§ 5 Abs. 2 WEG): Heizungsraum, Treppenhaus, Vorflur, Zugang zu Gemeinschaftseigentum, Eingangshalle, Aufzug; Mehrzweckraum (dual use), Betretungsrecht § 14 Abs. 1 Nr. 2 WEG."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondernutzungsrechte-nach-dem-weg",
+       "titel": "Sondernutzungsrechte nach dem WEG",
+       "beschreibung": "Sondernutzungsrecht im WEG: Begriff, Vereinbarung § 10 WEG, Stellplatz, Garten, Terrasse, Kosten und Verkehrssicherung, nur Sondereigentümer berechtigt, Übertragung, Abgrenzung zum Sondereigentum an Außenflächen."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/stellplatze-und-freiflachen-sondereigentum-oder-sondernutzungsrecht",
+       "titel": "Stellplätze und Freiflächen: Sondereigentum oder Sondernutzungsrecht",
+       "beschreibung": "Sondereigentum an Stellplätzen (§ 3 Abs. 1 S. 2 WEG, Duplexparker, Tiefgarage) und Freiflächen (§ 3 Abs. 2 WEG, Garten, Terrasse), Maßangaben § 3 Abs. 3 WEG; Wahl Teileigentum oder Sondernutzungsrecht."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilung-nach-3-weg-und-8-weg-rechtsfolgen-verbindung-beider-wege-und-kosten",
+       "titel": "Teilung nach § 3 WEG und § 8 WEG: Rechtsfolgen, Verbindung beider Wege und Kosten",
+       "beschreibung": "Unterschied Teilung nach § 8 WEG (Eigentum setzt sich fort) und Teilungsvertrag § 3 WEG; Kombination beider Wege, Unterteilung, Kosten KV 21100 (2,0) und KV 21200 GNotKG (1,0), GbR teilt auf."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-nach-8-weg-erklarender-vertretung-form-und-wirksamwerden",
+       "titel": "Teilungserklärung nach § 8 WEG: Erklärender, Vertretung, Form und Wirksamwerden",
+       "beschreibung": "Teilungserklärung § 8 WEG: Vorratsteilung, Erklärender (Eigentümer, Insolvenzverwalter), § 878 BGB, vollmachtlose Vertretung (§ 180 BGB), Form § 29 GBO, Verweisung § 13c BeurkG, Vormerkung vor Vollzug."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-anderung-durch-den-teilenden-eigentumer",
+       "titel": "Teilungserklärung: Änderung durch den teilenden Eigentümer",
+       "beschreibung": "Änderung der Teilungserklärung durch den Bauträger: einseitig bis zur ersten Übertragung (§ 8 WEG), danach §§ 3, 4 WEG; Zustimmung vorgemerkter Erwerber (§ 883 Abs. 2 BGB), Änderungsvollmacht, verdinglichte Ermächtigung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-eintragungsunterlagen-beurkundung-des-aufteilungsplans-und-vorlaufiger-plan",
+       "titel": "Teilungserklärung: Eintragungsunterlagen, Beurkundung des Aufteilungsplans und vorläufiger Plan",
+       "beschreibung": "Grundbuchvollzug der Teilung: Antrag, Bewilligung, § 20 GBO beim Teilungsvertrag, Beifügen von Aufteilungsplan und Abgeschlossenheitsbescheinigung (§ 7 Abs. 4 WEG), Verweisung § 13c BeurkG, vorläufiger Plan."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-teilung-nach-8-weg-und-teilungsvertrag-nach-3-weg",
+       "titel": "Teilungserklärung: Teilung nach § 8 WEG und Teilungsvertrag nach § 3 WEG",
+       "beschreibung": "Aufteilung in Wohnungseigentum: Teilungserklärung § 8 WEG, Teilungsvertrag § 3 WEG, Einigung § 4 WEG, Vereinigung § 890 BGB, Berechnung der Miteigentumsanteile (Tausendstel), Baubeschreibung § 13c BeurkG."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungsvertrag-nach-3-weg-miteigentumer-dinglicher-vertrag-und-form",
+       "titel": "Teilungsvertrag nach § 3 WEG: Miteigentümer, dinglicher Vertrag und Form",
+       "beschreibung": "Teilungsvertrag § 3 WEG: nur Bruchteilseigentum (§§ 1008 ff. BGB), Anpassung der Miteigentumsanteile durch Auflassung, dinglicher Vertrag, Einigung und Form § 4 WEG, keine Bedingung, Vertretung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungs-und-teileigentum-wohnung-nebenraume-und-selbstandiges-teileigentum",
+       "titel": "Wohnungs- und Teileigentum: Wohnung, Nebenräume und selbständiges Teileigentum",
+       "beschreibung": "Wohnungseigentum und Teileigentum (§ 1 Abs. 2, 3 WEG): Wohnungsbegriff ohne Mindestausstattung, Keller als Nebenraum, unselbständiges und selbständiges Teileigentum (Stellplatz), gemischte Nutzung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungs-und-teileigentum-zweckbestimmung-und-zweckwidrige-nutzung",
+       "titel": "Wohnungs- und Teileigentum: Zweckbestimmung und zweckwidrige Nutzung",
+       "beschreibung": "Zweckbestimmung bei Wohnungs- und Teileigentum (§ 1 Abs. 2, 3 WEG): Vereinbarung (§§ 5 Abs. 4, 10 Abs. 1 S. 2 WEG), Angaben im Aufteilungsplan, Unterlassung (§ 14 Abs. 1 Nr. 1 WEG, § 1004 BGB), typisierende Betrachtung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungseigentum-und-uberbau-tiefgarage-eigengrenzuberbau-und-uberhangende-bauteile",
+       "titel": "Wohnungseigentum und Überbau: Tiefgarage, Eigengrenzüberbau und überhängende Bauteile",
+       "beschreibung": "Überbau bei Wohnungseigentum: Tiefgarage auf dem Nachbargrundstück, ummauerte Zufahrt, Verkehrsanschauung (BGH V ZB 12/22), Eigengrenzüberbau, überhängender Überbau (Erker, Balkon, Dachvorsprung)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungseigentum-und-uberbau-voraussetzungen-nachweis-und-sicherung",
+       "titel": "Wohnungseigentum und Überbau: Voraussetzungen, Nachweis und Sicherung",
+       "beschreibung": "Wohnungseigentum bei Überbau (§§ 912 ff. BGB): Zuordnung zum aufgeteilten Grundstück, entschuldigter und rechtmäßiger Überbau, Nachweis § 29 GBO, Überbaudienstbarkeit, Rentenverzicht § 914 BGB."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungseigentum-motive-vorratsteilung-und-alternativen-zur-begrundung",
+       "titel": "Wohnungseigentum: Motive, Vorratsteilung und Alternativen zur Begründung",
+       "beschreibung": "Warum Wohnungseigentum begründen: Verkehrsfähigkeit, Ersatz für Realteilung, Vorratsteilung (§§ 172, 250, 22 BauGB); Alternativen Miteigentümervereinbarung (§ 1010 BGB), Wohnungsrecht, Dauerwohnrecht (§ 31 WEG)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungseigentum-sondereigentum-gemeinschaftseigentum-und-miteigentumsanteil",
+       "titel": "Wohnungseigentum: Sondereigentum, Gemeinschaftseigentum und Miteigentumsanteil",
+       "beschreibung": "Wohnungseigentum und Teileigentum (§ 1 WEG): Sondereigentum, Gemeinschaftseigentum, Miteigentumsanteil (§ 6 WEG), zwingendes Gemeinschaftseigentum (§ 5 Abs. 2 WEG), Außenflächen, Eigentumswohnung, § 11 WEG."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungsgrundbuch-anlegung-bezugnahme-und-eintragung-von-sondernutzungsrechten",
+       "titel": "Wohnungsgrundbuch: Anlegung, Bezugnahme und Eintragung von Sondernutzungsrechten",
+       "beschreibung": "Wohnungsgrundbuch (§ 7 WEG): eigenes Blatt je Miteigentumsanteil, Bezugnahme auf Bewilligung und Aufteilungsplan, Sondernutzungsrecht im Bestandsverzeichnis, ausdrückliche Eintragung (§ 12 WEG, Hausgeldhaftung)."
+      }
+     ]
     },
     {
      "slug": "gemeinschaft-der-wohnungseigentumer-und-verwaltung",
      "titel": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
      "beschreibung": "Gemeinschaft der Wohnungseigentümer, Vereinbarung und Beschluss, Gebrauch und Sondernutzungsrechte, Kosten und Hausgeld, Eigentümerversammlung, Verwalter und Verwalternachweis, Wirtschaftsplan, Veräußerungsbeschränkung, besondere Anlagen.",
      "seiten_erwartet": 30,
-     "seiten": []
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/beschluss-der-wohnungseigentumer-beschlusskompetenz-anfechtbarkeit-und-nichtigkeit",
+       "titel": "Beschluss der Wohnungseigentümer: Beschlusskompetenz, Anfechtbarkeit und Nichtigkeit",
+       "beschreibung": "Beschlüsse der Eigentümerversammlung: Beschlusskompetenz (§ 23 Abs. 1 WEG), Zweitbeschluss, Anfechtung binnen eines Monats (§ 45 WEG), Nichtigkeit (§ 23 Abs. 4 WEG), vereinbarungsändernder Beschluss."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-durchfuhrung-online-teilnahme-umlaufbeschluss-und-niederschrift",
+       "titel": "Eigentümerversammlung: Durchführung, Online-Teilnahme, Umlaufbeschluss und Niederschrift",
+       "beschreibung": "Eigentümerversammlung: Vorsitz, Online-Teilnahme (§ 23 Abs. 1 S. 2 WEG), virtuelle Versammlung (§ 23 Abs. 1a WEG), Umlaufbeschluss (§ 23 Abs. 3 WEG), Niederschrift und Beschluss-Sammlung (§ 24 WEG)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-einberufung-form-und-frist",
+       "titel": "Eigentümerversammlung: Einberufung, Form und Frist",
+       "beschreibung": "Eigentümerversammlung einberufen: jährliche Pflicht, Einberufung durch Verwalter, Beirat oder alle Eigentümer (§ 24 WEG), Unbefugte, Textform, Dreiwochenfrist, letzte Anschrift, kleine Anlagen."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-ort-zeit-und-einzuladende",
+       "titel": "Eigentümerversammlung: Ort, Zeit und Einzuladende",
+       "beschreibung": "Eigentümerversammlung: Versammlungsort und Uhrzeit, Nichtöffentlichkeit, Einladung aller Eigentümer und werdender Eigentümer, Bevollmächtigte, keine Ladung von Nießbraucher und Wohnungsberechtigtem."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-stimmrecht-mehrheit-und-stimmverbot",
+       "titel": "Eigentümerversammlung: Stimmrecht, Mehrheit und Stimmverbot",
+       "beschreibung": "Stimmrecht in der Eigentümerversammlung: Kopf-, Objekt- und Wertprinzip (§ 25 WEG), Vollmacht in Textform, Nießbraucher, Mehrheit, Enthaltung, kein Quorum, Stimmverbot (§ 25 Abs. 4 WEG), Majorisierung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gebrauchsregelungen-beschluss-oder-vereinbarung",
+       "titel": "Gebrauchsregelungen: Beschluss oder Vereinbarung",
+       "beschreibung": "Gebrauchsregelung im Wohnungseigentum: Mehrheitsbeschluss nach § 19 Abs. 1 WEG oder Vereinbarung, Hausordnung, Musizierverbot, Parabolantenne, Tierhaltung, Vermietung nur mit Verwalterzustimmung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-ausubungsbefugnis-nach-9a-abs-2-weg",
+       "titel": "Gemeinschaft der Wohnungseigentümer: Ausübungsbefugnis nach § 9a Abs. 2 WEG",
+       "beschreibung": "Ausübungsbefugnis der WEG nach § 9a Abs. 2 WEG: gemeinschaftsbezogene Rechte, keine gekorene Ausübungsbefugnis mehr, Prozessstandschaft, Ansprüche aus §§ 985, 1004, 823 BGB, einheitliche Rechtsverfolgung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-erwerb-von-grundbesitz-entstehung-und-ende",
+       "titel": "Gemeinschaft der Wohnungseigentümer: Erwerb von Grundbesitz, Entstehung und Ende",
+       "beschreibung": "Erwerb eines Grundstücks oder einer eigenen Einheit durch die WEG: Beschluss, Vertretung durch den Verwalter (§ 9b WEG), Nachweise, Verbraucher; Entstehung mit Anlegung der Wohnungsgrundbücher, Ende, Dienstbarkeiten."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-mangelrechte-gegen-den-bautrager-und-abnahme-des-gemeinschaftseigentums",
+       "titel": "Gemeinschaft der Wohnungseigentümer: Mängelrechte gegen den Bauträger und Abnahme des Gemeinschaftseigentums",
+       "beschreibung": "Mängelrechte am Gemeinschaftseigentum gegen den Bauträger: Vergemeinschaftung durch Beschluss, Nacherfüllung, Minderung, Rücktritt, Schadensersatz; Abnahme des Gemeinschaftseigentums nicht vergemeinschaftbar."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-rechtsfahigkeit-gemeinschaftsvermogen-und-haftung",
+       "titel": "Gemeinschaft der Wohnungseigentümer: Rechtsfähigkeit, Gemeinschaftsvermögen und Haftung",
+       "beschreibung": "Gemeinschaft der Wohnungseigentümer (GdWE) als rechtsfähiger Verband (§ 9a WEG): Gemeinschaftsvermögen, keine Beschlusskompetenz im Sachenrecht, Grundbuchfähigkeit, anteilige Haftung nach § 9a Abs. 4 WEG, Abgaben."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaftsordnung-fur-besondere-anlagen-betreutes-wohnen-und-reihenhauser",
+       "titel": "Gemeinschaftsordnung für besondere Anlagen: betreutes Wohnen und Reihenhäuser",
+       "beschreibung": "Gemeinschaftsordnung für betreutes Wohnen, Ferien- und Studentenwohnungen (Nutzerkreis, Vermietungspflicht, Betreuungsvertrag § 309 Nr. 9 BGB) und für Reihenhäuser und Doppelhäuser nach WEG (Sondernutzungsrecht)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/hausgeld-beitragspflicht-falligkeit-schuldner-und-erwerberhaftung",
+       "titel": "Hausgeld: Beitragspflicht, Fälligkeit, Schuldner und Erwerberhaftung",
+       "beschreibung": "Hausgeld (Wohngeld): Vorschüsse nach § 28 WEG, Fälligkeit, Aufrechnungsverbot, Zwangsversteigerung Rangklasse 2 (§ 10 Abs. 1 Nr. 2 ZVG), Schuldner, werdender Eigentümer, Erwerber- und Ersteherhaftung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/kosten-und-lasten-des-gemeinschaftlichen-eigentums-heizkostenverordnung",
+       "titel": "Kosten und Lasten des gemeinschaftlichen Eigentums: Heizkostenverordnung",
+       "beschreibung": "Heizkostenverordnung im Wohnungseigentum: Vorrang vor § 16 WEG, 50 bis 70 % nach Verbrauch, Flächenanteil, Warmwasser, höherer Verbrauchsanteil durch Vereinbarung, Wohnflächenberechnung, Gemeinschaftsordnung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/kosten-und-lasten-des-gemeinschaftlichen-eigentums-verteilung-rucklage-und-versicherung",
+       "titel": "Kosten und Lasten des gemeinschaftlichen Eigentums: Verteilung, Rücklage und Versicherung",
+       "beschreibung": "Kostenverteilung im Wohnungseigentum (§ 16 WEG): Miteigentumsanteile, Beschluss nach § 16 Abs. 2 S. 2 WEG, Lasten, Erschließungsbeitrag, Grundsteuer, Erhaltungsrücklage, Gebäudeversicherung, Wasser- und Kabelkosten."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/mehrhausanlage-untergemeinschaften-in-der-gemeinschaftsordnung",
+       "titel": "Mehrhausanlage: Untergemeinschaften in der Gemeinschaftsordnung",
+       "beschreibung": "Mehrhausanlage im Wohnungseigentum: Untergemeinschaften, getrennte Rücklagen und Wirtschaftspläne, Tiefgarage, keine Rechtsfähigkeit, Haftung aller nach § 9a Abs. 4 WEG, gemeinsame Versammlung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/offnungsklausel-und-wirkung-von-beschlussen-gegenuber-sondernachfolgern",
+       "titel": "Öffnungsklausel und Wirkung von Beschlüssen gegenüber Sondernachfolgern",
+       "beschreibung": "Öffnungsklausel in der Gemeinschaftsordnung: Änderung durch Mehrheitsbeschluss, Schranken, unentziehbare Rechte, Gläubigerzustimmung; Bindung von Erwerbern an Beschlüsse und Eintragung (§ 10 Abs. 3, § 7 Abs. 2 WEG)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/sondernutzungsrechte-begrundung-bestimmtheit-und-eintragung",
+       "titel": "Sondernutzungsrechte: Begründung, Bestimmtheit und Eintragung",
+       "beschreibung": "Sondernutzungsrecht (Garten, Terrasse, Stellplatz): Begründung durch Vereinbarung, Beschluss nichtig, Eintragung im Bestandsverzeichnis, sachenrechtliche Bestimmtheit, Lageplan, Widerspruch zum Aufteilungsplan."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/sondernutzungsrechte-spatere-zuweisung-bedingungslosung",
+       "titel": "Sondernutzungsrechte: spätere Zuweisung – Bedingungslösung",
+       "beschreibung": "Bedingungslösung für Sondernutzungsrechte: Zuweisungsvorbehalt des teilenden Eigentümers, aufschiebend bedingter Ausschluss, keine Gläubigerzustimmung, Fortdauer der Zuweisungsbefugnis, Bauträger."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/sondernutzungsrechte-spatere-zuweisung-parklosung-und-personliches-sondernutzungsrecht",
+       "titel": "Sondernutzungsrechte: spätere Zuweisung – Parklösung und persönliches Sondernutzungsrecht",
+       "beschreibung": "Spätere Zuweisung von Sondernutzungsrechten durch den Bauträger: Parklösung (Sammeleinheit), persönliches Sondernutzungsrecht, Zustimmung der Grundpfandgläubiger (§§ 877, 876 BGB), Stellplätze."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/sondernutzungsrechte-umfang-kosten-berechtigte-und-belastung",
+       "titel": "Sondernutzungsrechte: Umfang, Kosten, Berechtigte und Belastung",
+       "beschreibung": "Sondernutzungsrecht: Umfang, Gartenhaus und bauliche Maßnahmen (§ 20 WEG), Bäume, Kosten und Erhaltung (§ 16 Abs. 2 WEG), Berechtigte, mehrere Berechtigte, keine Belastung, Dienstbarkeit am Wohnungseigentum."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verausserungsbeschrankung-nach-12-weg-vereinbarung-grenzen-und-aufhebung",
+       "titel": "Veräußerungsbeschränkung nach § 12 WEG: Vereinbarung, Grenzen und Aufhebung",
+       "beschreibung": "Veräußerungsbeschränkung (§ 12 WEG) in der Gemeinschaftsordnung: Zweck, wichtiger Grund, Eintragung im Bestandsverzeichnis, Empfehlung, Aufhebung durch Mehrheitsbeschluss und Löschung im Grundbuch."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/vereinbarung-der-wohnungseigentumer-begriff-form-und-abgrenzung-zum-beschluss",
+       "titel": "Vereinbarung der Wohnungseigentümer: Begriff, Form und Abgrenzung zum Beschluss",
+       "beschreibung": "Vereinbarung und Beschluss der Wohnungseigentümer: Gemeinschaftsordnung, Form, Eintragung (§ 10 Abs. 3 WEG), verdinglichte Wirkung, einseitige Festsetzung durch Bauträger (§ 8 Abs. 2 WEG), Abgrenzung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/vereinbarung-der-wohnungseigentumer-inhalt-und-grenzen-der-gemeinschaftsordnung",
+       "titel": "Vereinbarung der Wohnungseigentümer: Inhalt und Grenzen der Gemeinschaftsordnung",
+       "beschreibung": "Inhalt und Grenzen der Gemeinschaftsordnung: Gestaltungsfreiheit, keine AGB-Kontrolle, §§ 138, 242 BGB, Stimmrechtsausschluss nichtig, Güteverfahren, Konkurrenzschutz, Rechte Dritter, Grunddienstbarkeit."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalter-bestellung-hochstdauer-und-abberufung",
+       "titel": "Verwalter: Bestellung, Höchstdauer und Abberufung",
+       "beschreibung": "Verwalter bestellen und abberufen: Bestellungsbeschluss mit einfacher Mehrheit, Verwaltervertrag, Bestellung in der Teilungserklärung, Höchstdauer fünf bzw. drei Jahre (§ 26 Abs. 2 WEG), jederzeitige Abberufung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalter-person-stellung-und-amtsnachfolge",
+       "titel": "Verwalter: Person, Stellung und Amtsnachfolge",
+       "beschreibung": "WEG-Verwalter: Verwalterbestellung unabdingbar (§ 26 Abs. 5 WEG), zertifizierter Verwalter (§ 26a WEG), Organ der GdWE, natürliche Person, UG, GbR, persönliches Amt, Verschmelzung und Formwechsel."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalter-vertretungsmacht-und-aufgaben",
+       "titel": "Verwalter: Vertretungsmacht und Aufgaben",
+       "beschreibung": "Vertretungsmacht des WEG-Verwalters (§ 9b WEG): Grundstückskauf und Darlehen nur mit Beschluss, Vertretung gegenüber dem Verwalter durch Beirat, Entscheidungskompetenz nach § 27 WEG, Kompetenzkatalog."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalternachweis-gegenuber-dem-grundbuchamt-grundsatz-und-prufung-durch-das-grundbuchamt",
+       "titel": "Verwalternachweis gegenüber dem Grundbuchamt: Grundsatz und Prüfung durch das Grundbuchamt",
+       "beschreibung": "Verwalternachweis für das Grundbuch (§ 26 Abs. 4 WEG, § 29 GBO): beglaubigte Niederschrift über die Bestellung, anfechtbarer Beschluss, keine Prüfung der Funktionsträger, Vollmacht, werdender Eigentümer."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalternachweis-gegenuber-dem-grundbuchamt-unterschriften-auf-der-niederschrift",
+       "titel": "Verwalternachweis gegenüber dem Grundbuchamt: Unterschriften auf der Niederschrift",
+       "beschreibung": "Unterschriften auf dem Verwalterprotokoll (§ 24 Abs. 6 WEG): Anwesenheit, Beiratsvorsitzender, keine Doppelfunktion, Funktionsangabe, Nachholung, getrennte Beglaubigung, Umlaufbeschluss, Verwalterbestellung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/wirtschaftsplan-jahresabrechnung-sonderumlage-und-verwaltungsbeirat",
+       "titel": "Wirtschaftsplan, Jahresabrechnung, Sonderumlage und Verwaltungsbeirat",
+       "beschreibung": "Wirtschaftsplan, Einzelwirtschaftsplan, Sonderumlage und Jahresabrechnung (§ 28 WEG), keine Genehmigungsfiktion; Verwaltungsbeirat (§ 29 WEG): Bestellung, Mitglieder, Vorsitzender, Aufgaben, Haftung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/zweckbestimmung-des-sondereigentums-und-nutzungsbeschrankungen",
+       "titel": "Zweckbestimmung des Sondereigentums und Nutzungsbeschränkungen",
+       "beschreibung": "Zulässige Nutzung von Wohnungs- und Teileigentum in der Rechtsprechung: Ferienvermietung, Flüchtlingsunterkunft, Praxis oder Büro in der Wohnung, Friseur, Laden, Café, Eisdiele, Wohnen im Teileigentum."
+      }
+     ]
     },
     {
      "slug": "veranderungen-am-wohnungseigentum",
      "titel": "Veränderungen am Wohnungseigentum",
      "beschreibung": "Unterteilung, Vereinigung und Umwandlung von Wohnungseigentum, Verzicht und Aufhebung, Änderung der Gemeinschaftsordnung, Übertragung von Sondernutzungsrechten, bauliche Veränderungen sowie Veränderungen am aufgeteilten Grundstück.",
      "seiten_erwartet": 11,
-     "seiten": []
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/anderung-der-gemeinschaftsordnung-umwandlung-von-wohnungs-und-teileigentum-aufhebung-eines-sondernutzungsrechts",
+       "titel": "Änderung der Gemeinschaftsordnung: Umwandlung von Wohnungs- und Teileigentum, Aufhebung eines Sondernutzungsrechts",
+       "beschreibung": "Umwandlung von Teileigentum in Wohnungseigentum und umgekehrt: Vereinbarung, Änderungsvorbehalt, keine Gläubigerzustimmung, Aufteilungsplan, Abgeschlossenheitsbescheinigung (AVA); Aufhebung eines Sondernutzungsrechts."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/anderung-der-gemeinschaftsordnung-vereinbarung-anderungsanspruch-und-zustimmung-dinglich-berechtigter",
+       "titel": "Änderung der Gemeinschaftsordnung: Vereinbarung, Änderungsanspruch und Zustimmung dinglich Berechtigter",
+       "beschreibung": "Änderung der Gemeinschaftsordnung: Vereinbarung aller, schlüssiges Verhalten, Eintragung, Anpassungsanspruch (§ 10 Abs. 2 WEG), Kostenschlüssel, Zustimmung der Gläubiger (§ 5 Abs. 4 S. 2 WEG, §§ 877, 876 BGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/bauliche-veranderungen-beschluss-grenzen-und-anspruche",
+       "titel": "Bauliche Veränderungen: Beschluss, Grenzen und Ansprüche",
+       "beschreibung": "Bauliche Veränderung im Wohnungseigentum (§ 20 WEG): kein Bauen ohne Beschluss, grundlegende Umgestaltung, unbillige Benachteiligung, Wallbox, Barrierefreiheit, Steckersolargerät (Balkonkraftwerk), Gestattung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/bauliche-veranderungen-kosten-und-nutzungen-wiederaufbau-und-steckengebliebener-bau",
+       "titel": "Bauliche Veränderungen: Kosten und Nutzungen, Wiederaufbau und steckengebliebener Bau",
+       "beschreibung": "Kosten baulicher Veränderungen (§ 21 WEG): Zustimmende zahlen, qualifizierte Mehrheit, Amortisation, Doppelbeschluss, privilegierte Maßnahmen; Wiederaufbau (§ 22 WEG), steckengebliebener Bau, Bauträgerinsolvenz."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/ubertragung-eines-sondernutzungsrechts",
+       "titel": "Übertragung eines Sondernutzungsrechts",
+       "beschreibung": "Übertragung oder Verkauf eines Sondernutzungsrechts (Stellplatz): Inhaltsänderung (§ 5 Abs. 4 WEG, §§ 877, 873 BGB), Bewilligung, Vormerkung, Zustimmungen, gutgläubiger Erwerb, Grunderwerbsteuer."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/umwandlung-von-sonder-und-gemeinschaftseigentum-und-spatere-anbauten",
+       "titel": "Umwandlung von Sonder- und Gemeinschaftseigentum und spätere Anbauten",
+       "beschreibung": "Umwandlung von Sondereigentum in Gemeinschaftseigentum und umgekehrt (§ 4 WEG): Mitwirkung aller, keine Ermächtigung in der Gemeinschaftsordnung, Gläubigerzustimmung, Vormerkung; nachträglicher Anbau, Balkon."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/unterteilung-von-wohnungseigentum-zustimmungen-grundbuchnachweise-und-stimmrecht",
+       "titel": "Unterteilung von Wohnungseigentum: Zustimmungen, Grundbuchnachweise und Stimmrecht",
+       "beschreibung": "Unterteilung von Wohnungseigentum: keine Zustimmung der Miteigentümer, Grundpfandrecht wird Gesamtrecht, Vormerkung, Bewilligung, neuer Aufteilungsplan, Abgeschlossenheitsbescheinigung, Stimmrecht."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/veranderungen-am-aufgeteilten-grundstuck-teilflache-hinzuerwerb-und-unschadlichkeitszeugnis",
+       "titel": "Veränderungen am aufgeteilten Grundstück: Teilfläche, Hinzuerwerb und Unschädlichkeitszeugnis",
+       "beschreibung": "Teilfläche aus WEG-Grundstück verkaufen: Mitwirkung aller, Vormerkung, Teilaufhebung; Hinzuerwerb durch WEG oder alle Eigentümer, Zuschreibung (§ 890 BGB); Unschädlichkeitszeugnis statt Gläubigerzustimmung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/veranderungen-am-wohnungseigentum-grundsatz-und-voraussetzungen-der-unterteilung",
+       "titel": "Veränderungen am Wohnungseigentum: Grundsatz und Voraussetzungen der Unterteilung",
+       "beschreibung": "Änderung der Aufteilung nach § 4 WEG und Unterteilung einer Eigentumswohnung analog § 8 WEG: keine Vorabermächtigung, Komplettaufteilung, Vorflurproblem, gemeinsamer Zugang, Nichtigkeit."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/vereinigung-von-wohnungseigentum-und-ubertragung-sondereigentumsfahiger-raume",
+       "titel": "Vereinigung von Wohnungseigentum und Übertragung sondereigentumsfähiger Räume",
+       "beschreibung": "Vereinigung zweier Eigentumswohnungen (§ 890 BGB), Wanddurchbruch, keine Abgeschlossenheitsbescheinigung; Übertragung oder Tausch von Keller, Raum oder Stellplatz zwischen Einheiten (§ 4 WEG), Pfandfreigabe."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/verzicht-auf-wohnungseigentum-aufhebung-und-schliessung-der-wohnungsgrundbucher",
+       "titel": "Verzicht auf Wohnungseigentum, Aufhebung und Schließung der Wohnungsgrundbücher",
+       "beschreibung": "Verzicht auf Wohnungseigentum unzulässig (§ 928 BGB), Aufhebung des Wohnungseigentums nach § 4 WEG, Schließung der Wohnungsgrundbücher (§ 9 WEG), Zustimmung dinglich Berechtigter, Grunddienstbarkeiten."
+      }
+     ]
     },
     {
      "slug": "wohnungseigentum-im-kaufvertrag",
      "titel": "Wohnungseigentum im Kaufvertrag",
      "beschreibung": "Verwalterzustimmung nach § 12 WEG und Verwalternachweis, Grundbuchfragen, Eintritt in die Gemeinschaft der Wohnungseigentümer sowie Hausgeld, Rücklage und weitere Regelungen beim Verkauf.",
      "seiten_erwartet": 13,
-     "seiten": []
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/kundigungssperrfrist-nach-577a-bgb-bei-umwandlung-und-verausserung",
+       "titel": "Kündigungssperrfrist nach § 577a BGB bei Umwandlung und Veräußerung",
+       "beschreibung": "Kündigungssperrfrist bei Umwandlung (§ 577a BGB): Eigenbedarf und Verwertung, drei Jahre, Reihenfolge, Veräußerung, GbR und MoPeG, Erwerbermodell (§ 577a Abs. 1a BGB), verlängerte Frist durch Landesverordnung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/mietervorkaufsrecht-nach-577-bgb-bei-wohnungseigentum-grundlagen-und-mietverhaltnis",
+       "titel": "Mietervorkaufsrecht nach § 577 BGB bei Wohnungseigentum: Grundlagen und Mietverhältnis",
+       "beschreibung": "Mietervorkaufsrecht bei Umwandlung in Wohnungseigentum (§ 577 BGB): Zweck, schuldrechtlich, erster Verkaufsfall, bestehendes und gekündigtes Mietverhältnis, Überlassung, Mitteilung, Ausübung, Zwei-Monats-Frist."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/mietervorkaufsrecht-nach-577-bgb-bei-wohnungseigentum-umwandlung-vertragsgegenstand-und-verkaufsfall",
+       "titel": "Mietervorkaufsrecht nach § 577 BGB bei Wohnungseigentum: Umwandlung, Vertragsgegenstand und Verkaufsfall",
+       "beschreibung": "Mietervorkaufsrecht (§ 577 BGB): Vollzug der Teilungserklärung, Absichtsalternative, Paketverkauf, En-bloc-Verkauf, Stellplatz, Realteilung, Schließung der Wohnungsgrundbücher, Familienangehörige, Insolvenz."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/verausserung-von-wohnungseigentum-eintritt-in-vereinbarungen-und-beschlusse",
+       "titel": "Veräußerung von Wohnungseigentum: Eintritt in Vereinbarungen und Beschlüsse",
+       "beschreibung": "Verkauf einer Eigentumswohnung: Bindung des Erwerbers an Gemeinschaftsordnung, schuldrechtliche Vereinbarungen und Beschlüsse (§ 10 Abs. 3 WEG), Übernahmeerklärung, Beschluss-Sammlung, Belehrung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/verausserung-von-wohnungseigentum-hausgeld-und-zwangsversteigerungsrisiko",
+       "titel": "Veräußerung von Wohnungseigentum: Hausgeld und Zwangsversteigerungsrisiko",
+       "beschreibung": "Hausgeld beim Wohnungsverkauf: Fälligkeitstheorie, Abrechnungsspitze, Sonderumlage, Vormerkung und Zwangsversteigerung der WEG (§ 10 Abs. 1 Nr. 2 ZVG), Hausgeldschuldenfreiheitsbescheinigung, Abrechnung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/verausserung-von-wohnungseigentum-nachhaftung-des-verausserers",
+       "titel": "Veräußerung von Wohnungseigentum: Nachhaftung des Veräußerers",
+       "beschreibung": "Nachhaftung des Verkäufers einer Eigentumswohnung für Verbindlichkeiten der WEG (§ 9a Abs. 4 S. 1 WEG i.V.m. § 728b BGB): fünf Jahre, Feststellung oder Vollstreckung, Freistellung durch den Erwerber."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/verausserung-von-wohnungseigentum-verwaltervertrag-stimmrecht-und-erhaltungsrucklage",
+       "titel": "Veräußerung von Wohnungseigentum: Verwaltervertrag, Stimmrecht und Erhaltungsrücklage",
+       "beschreibung": "Verkauf einer Eigentumswohnung: Verwaltervertrag, Stimmrechtsvollmacht ab Besitzübergang, Verwaltungsvermögen, Erhaltungsrücklage (Instandhaltungsrücklage) und Grunderwerbsteuer, keine Beschaffenheitsvereinbarung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/verausserungszustimmung-nach-12-weg-anwendungsfalle-und-zustimmungsberechtigter",
+       "titel": "Veräußerungszustimmung nach § 12 WEG: Anwendungsfälle und Zustimmungsberechtigter",
+       "beschreibung": "Verwalterzustimmung nach § 12 WEG: erfasste Veräußerungen, Erbfolge, Bruchteil, GbR, Erstveräußerung durch Bauträger, Ausnahmen Ehegatte und Nachweis (§ 29 GBO), Zustimmung durch Verwalter oder Beschluss."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/verausserungszustimmung-nach-12-weg-erklarung-widerruf-form-und-vertragsgestaltung",
+       "titel": "Veräußerungszustimmung nach § 12 WEG: Erklärung, Widerruf, Form und Vertragsgestaltung",
+       "beschreibung": "Verwalterzustimmung (§ 12 WEG): Zeitpunkt, Widerruf, schwebende Unwirksamkeit, Beglaubigung (§ 29 GBO), Verwalternachweis, Umlaufbeschluss, Fälligkeitsvoraussetzung im Kaufvertrag."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/verausserungszustimmung-nach-12-weg-kosten-und-kostenschuldner",
+       "titel": "Veräußerungszustimmung nach § 12 WEG: Kosten und Kostenschuldner",
+       "beschreibung": "Kosten der Verwalterzustimmung (§ 12 WEG): Verwalter als Kostenschuldner der Beglaubigung, Kostentragung durch GdWE oder Veräußerer, Kaufvertragsklausel, § 30 Abs. 3 GNotKG, keine Zahlungsvermittlung durch den Notar."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/wohnungseigentum-grundbuchblatt-form-der-verwalterzustimmung-und-verwalterbestellung",
+       "titel": "Wohnungseigentum: Grundbuchblatt, Form der Verwalterzustimmung und Verwalterbestellung",
+       "beschreibung": "Eigentumswohnung im Grundbuch: eigenes Blatt je Einheit (§ 7 Abs. 1, § 8 Abs. 2 WEG), Verwalterzustimmung § 12 WEG (schwebende Unwirksamkeit, Rückwirkung, Form § 29 GBO), Zeitpunkt der Verwalterbestellung, Umlaufbeschluss."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/wohnungseigentum-regelungen-im-kaufvertrag",
+       "titel": "Wohnungseigentum: Regelungen im Kaufvertrag",
+       "beschreibung": "Kauf einer Eigentumswohnung: GdWE, Bindung des Erwerbers (§ 10 Abs. 3 WEG), Hausgeld und Rückstände, Erhaltungsrücklage, Sonderumlage, Stimmrechtsvollmacht, Mängel, Vorkaufsrechte, Genehmigungen Baden-Württemberg."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/wohnungseigentum-verwalterzustimmung-verwalternachweis-und-eintritt-in-die-gemeinschaft-beim-verkauf",
+       "titel": "Wohnungseigentum: Verwalterzustimmung, Verwalternachweis und Eintritt in die Gemeinschaft beim Verkauf",
+       "beschreibung": "Verkauf von Wohnungseigentum: Veräußerungszustimmung nach § 12 WEG als Fälligkeitsvoraussetzung, Verwalterzustimmung, Verwalternachweis (§ 26 Abs. 4 WEG, § 29 GBO), Eintritt in die Gemeinschaft, Wohngeld, Sonderumlage, Stimmrechtsvollmacht."
+      }
+     ]
     },
     {
      "slug": "",
@@ -2773,28 +3719,197 @@
      "titel": "Allgemeine Vollstreckungsvoraussetzungen",
      "beschreibung": "Grundbegriffe und Vollstreckungsorgane, Antrag und Titel, Vollstreckungsklausel und weitere vollstreckbare Ausfertigung, Zustellung, Vollstreckungsarten und Rechtsbehelfe in der Zwangsvollstreckung.",
      "seiten_erwartet": 8,
-     "seiten": []
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/vollstreckungsklausel-funktion-zustandigkeit-und-qualifizierte-klausel",
+       "titel": "Vollstreckungsklausel: Funktion, Zuständigkeit und qualifizierte Klausel",
+       "beschreibung": "Vollstreckungsklausel und vollstreckbare Ausfertigung §§ 724–727, 795, 797 ZPO, §§ 44, 47, 49 BeurkG: Zuständigkeit des Notars, Prüfung, qualifizierte Klausel, Nachweis bedingter Fälligkeit, Titel umschreiben"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/vollstreckungsklausel-wirkung-und-weitere-vollstreckbare-ausfertigung",
+       "titel": "Vollstreckungsklausel: Wirkung und weitere vollstreckbare Ausfertigung",
+       "beschreibung": "Wirkung der Vollstreckungsklausel §§ 754, 757 ZPO; weitere vollstreckbare Ausfertigung (zweite Ausfertigung) § 733, § 797 Abs. 2 ZPO, Anhörung des Schuldners, Teilausfertigung, Vermerk auf der Urschrift § 734 ZPO"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-antrag-und-vollstreckungstitel",
+       "titel": "Zwangsvollstreckung: Antrag und Vollstreckungstitel",
+       "beschreibung": "Vollstreckungsvoraussetzungen § 750 ZPO: Vollstreckungsantrag, elektronisch § 130d ZPO, Vollstreckungstitel §§ 704, 794 ZPO, Duldungstitel, Zahlungstitel, Bestimmtheit, Gesamtschuldner, 30-jährige Verjährung § 197 BGB"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-grundbegriffe-verfahrensarten-und-vollstreckungsorgane",
+       "titel": "Zwangsvollstreckung: Grundbegriffe, Verfahrensarten und Vollstreckungsorgane",
+       "beschreibung": "Zwangsvollstreckung Grundbegriffe: Verfahrensarten (Geldforderung, Herausgabe, Handlung, Duldung/Unterlassung, Willenserklärung), Gläubiger, Schuldner, Gerichtsvollzieher § 753 ZPO, Vollstreckungsgericht § 764 ZPO, Grundbuchamt § 866 ZPO"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-rechtsbehelfe",
+       "titel": "Zwangsvollstreckung: Rechtsbehelfe",
+       "beschreibung": "Rechtsbehelfe in der Zwangsvollstreckung: Vollstreckungsabwehrklage/Vollstreckungsgegenklage (§§ 767, 797 Abs. 4 ZPO), Drittwiderspruchsklage (§ 771), § 805, Erinnerung (§ 766), Klauselerinnerung (§ 732), § 769 ZPO"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-vollstreckungsarten-nach-gegenstand-und-anspruch",
+       "titel": "Zwangsvollstreckung: Vollstreckungsarten nach Gegenstand und Anspruch",
+       "beschreibung": "Vollstreckungsarten der ZPO: Pfändung beweglicher Sachen, Forderungspfändung (§§ 829 ff.), Vermögensauskunft § 802c, Immobiliarvollstreckung, Herausgabe/Räumung, Handlung, Unterlassung, Abgabe einer Willenserklärung § 894 ZPO."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-zustellung-des-titels-und-wartefrist",
+       "titel": "Zwangsvollstreckung: Zustellung des Titels und Wartefrist",
+       "beschreibung": "Zustellung von Titel und Klausel § 750 ZPO, Wartefrist zwei Wochen §§ 795, 798 ZPO, Verzicht auf Wartefrist, Zustellung bei Rechtsnachfolge, § 799 ZPO, Eigentümerwechsel § 800 ZPO"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-zustellungsarten-zustellungsmangel-und-vollstreckungshindernisse",
+       "titel": "Zwangsvollstreckung: Zustellungsarten, Zustellungsmängel und Vollstreckungshindernisse",
+       "beschreibung": "Amtszustellung, Parteizustellung durch Gerichtsvollzieher, Ersatzzustellung §§ 178 ff. ZPO, Zustellungsmangel, Einstellung der Zwangsvollstreckung § 775 ZPO, Insolvenz §§ 88, 89 InsO, Rückschlagsperre"
+      }
+     ]
     },
     {
      "slug": "klauselumschreibung",
      "titel": "Klauselumschreibung",
      "beschreibung": "Klausel für und gegen Rechtsnachfolger: Abtretung von Forderung und Grundschuld, Umwandlung, Namensänderung, Eigentumserwerb, Erbfolge, Sicherungsvertrag, Rechtsnachfolgekette und Kosten.",
      "seiten_erwartet": 4,
-     "seiten": []
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/klauselumschreibung/klauselumschreibung-abtretung-von-forderung-und-grundschuld",
+       "titel": "Klauselumschreibung: Abtretung von Forderung und Grundschuld",
+       "beschreibung": "Klauselumschreibung nach Abtretung: Forderung aus Schuldanerkenntnis (§ 398 BGB), Buch- und Briefgrundschuld (§§ 873, 891, 1154, 1160 BGB), Grundbuchauszug, Offenkundigkeit, Teilabtretung, § 733 ZPO, Zustellung § 750 ZPO, neuer Gläubiger/Bank."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/klauselumschreibung/klauselumschreibung-funktion-und-rechtsnachfolge",
+       "titel": "Klauselumschreibung: Funktion und Rechtsnachfolge",
+       "beschreibung": "Klauselumschreibung (titelübertragende Klausel) nach §§ 727, 795, 797, 800 ZPO: Rechtsnachfolge auf Gläubiger- und Schuldnerseite, Offenkundigkeit, Nachweis, befreiende Schuldübernahme, Grundschuldübernahme durch Käufer, Teilung der Klausel."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/klauselumschreibung/klauselumschreibung-sicherungsvertrag-auslegung-rechtsnachfolgekette-und-kosten",
+       "titel": "Klauselumschreibung: Sicherungsvertrag, Auslegung, Rechtsnachfolgekette und Kosten",
+       "beschreibung": "Klauselumschreibung: Eintritt in den Sicherungsvertrag (BGH 2010/2011), Klauselgegenklage § 768 ZPO, Auslegung der Vollstreckungsunterwerfung, Bedingungen § 726 ZPO, Prüfung der Rechtsnachfolgekette, Kosten KV 23803 GNotKG."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/klauselumschreibung/klauselumschreibung-umwandlung-namensanderung-eigentumserwerb-und-erbfolge",
+       "titel": "Klauselumschreibung: Umwandlung, Namensänderung, Eigentumserwerb und Erbfolge",
+       "beschreibung": "Klauselumschreibung bei Verschmelzung (UmwG, Registerauszug), Namensänderung und Formwechsel des Gläubigers, Eigentumswechsel (§§ 727, 325, 800 ZPO, jeweiliger Eigentümer) und Tod des Schuldners (§§ 779, 792 ZPO, § 1943 BGB, Erbschein)."
+      }
+     ]
     },
     {
      "slug": "pfandung-zwangshypothek-und-zwangsversteigerung",
      "titel": "Pfändung, Zwangshypothek und Zwangsversteigerung",
      "beschreibung": "Pfändung des Kaufpreisanspruchs und Notaranderkonto, Zwangshypothek sowie Zwangsversteigerung vom Verfahren über geringstes Gebot und Zuschlag bis zur Verteilung, Grundschuldzinsen und Kaufvertrag im Verfahren.",
      "seiten_erwartet": 8,
-     "seiten": []
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/pfandung-kaufpreisanspruch-beim-grundstuckskaufvertrag",
+       "titel": "Pfändung: Kaufpreisanspruch beim Grundstückskaufvertrag",
+       "beschreibung": "Pfändung des Kaufpreisanspruchs beim Grundstückskauf: Pfändungs- und Überweisungsbeschluss (PfüB), Käufer als Drittschuldner, Ablösungsabrede/Zweckbindung, §§ 828 ff., 835, 836 ZPO, Lastenfreistellung, Notarhaftung, Klausel für Verkäufer."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/pfandung-notaranderkonto",
+       "titel": "Pfändung: Notaranderkonto",
+       "beschreibung": "Pfändung bei Notaranderkonto: Kaufpreispfändung genügt (keine Doppelpfändung, V ZB 37/15), Verwahrungsanweisung, Ablösung, Rang § 804 Abs. 3 ZPO, Vorpfändung § 845 ZPO, Vorbescheid § 15 Abs. 2 BNotO, Drittschuldnererklärung, § 771 ZPO."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangshypothek",
+       "titel": "Zwangshypothek",
+       "beschreibung": "Zwangshypothek als Sicherungshypothek (§§ 1184, 1185 BGB): über 750 Euro, Verteilung auf mehrere Grundstücke, Zwangsversteigerung daraus (§ 867 Abs. 3 ZPO), Duldungstitel nach Eigentümerwechsel (§ 17 ZVG, § 1147 BGB), § 800 ZPO"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-geringstes-gebot-und-rangklassen",
+       "titel": "Zwangsversteigerung: geringstes Gebot und Rangklassen",
+       "beschreibung": "Geringstes Gebot, bestehen bleibende und erlöschende Rechte (§§ 44, 52, 91 ZVG), Erbbauzinsreallast, Rangklassen § 10 ZVG (Hausgeld WEG, öffentliche Lasten, Grundschulden), § 11 ZVG, Rang in der Zwangsversteigerung"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-grundschuldzinsen",
+       "titel": "Zwangsversteigerung: Grundschuldzinsen",
+       "beschreibung": "Grundschuldzinsen und Hypothekenzinsen in der Zwangsversteigerung: Rangklasse 4, laufende Zinsen und zweijährige Rückstände (§ 13 ZVG), Zinsberechnung bis Zuschlag oder Verteilung (§ 56 ZVG), §§ 1115, 1118, 1192 BGB"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-grundstuckskaufvertrag-wahrend-des-verfahrens",
+       "titel": "Zwangsversteigerung: Grundstückskaufvertrag während des Verfahrens",
+       "beschreibung": "Grundstückskauf oder Wohnungskauf während Zwangsversteigerung: Vormerkung, Rangklasse 6 nach Beschlagnahme, Nachfrage beim Versteigerungsgericht, Hausgeld, öffentliche Lasten, Lastenfreistellung, Ablösebeträge, Fälligkeit"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-verfahren-bis-zum-versteigerungstermin",
+       "titel": "Zwangsversteigerung: Verfahren bis zum Versteigerungstermin",
+       "beschreibung": "Zwangsversteigerung nach ZVG bis zum Termin: betreibender Gläubiger, Antrag, Beteiligte, Beschlagnahme, Zwangsversteigerungsvermerk, Beitritt, Verkehrswert und Gutachten, Terminbestimmung; Zwangsverwaltung, Insolvenz"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-versteigerungstermin-zuschlag-und-verteilung",
+       "titel": "Zwangsversteigerung: Versteigerungstermin, Zuschlag und Verteilung",
+       "beschreibung": "Versteigerungstermin: Bietzeit, Bargebot, Meistgebot, Sicherheitsleistung 10 %, Zuschlag, 5/10- und 7/10-Grenze (§§ 85a, 74a ZVG), Ersteher, Räumung, Verteilungstermin, Grundbuchersuchen (§ 130 ZVG), Finanzierungsgrundschuld"
+      }
+     ]
     },
     {
      "slug": "vollstreckbare-urkunde-und-unterwerfung",
      "titel": "Vollstreckbare Urkunde und Unterwerfung",
      "beschreibung": "Vollstreckbare notarielle Urkunde nach § 794 Abs. 1 Nr. 5 ZPO: Bestimmtheit, Nachweisverzicht, Vertretung, Erteilung der Ausfertigung und Vollstreckungsunterwerfung in typischen Urkunden einschließlich Grundpfandrechten.",
      "seiten_erwartet": 13,
-     "seiten": []
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-ausfertigung-erteilung-durch-den-notar-und-ruckgabe",
+       "titel": "Vollstreckbare Ausfertigung: Erteilung durch den Notar und Rückgabe",
+       "beschreibung": "Erteilung der vollstreckbaren Ausfertigung durch den Notar: kein materielles Prüfungsrecht, Klausel vor Grundbucheintragung, Sanierungsgenehmigung; Rückgabe/Herausgabe des Titels (§ 371 BGB), Vernichtung nach Lastenfreistellung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-beschrankte-unterwerfung-und-kunftiger-eigentumer",
+       "titel": "Vollstreckbare notarielle Urkunde: beschränkte Unterwerfung und künftiger Eigentümer",
+       "beschreibung": "Beschränkte Vollstreckungsunterwerfung (§ 794 Abs. 1 Nr. 5 ZPO): gegenständlich, zeitlich, nur Zwangsverwaltung; Erbe (§§ 780, 785 ZPO); Gesamtgrundschuld, Mithaft, Zuschreibung; künftiger Eigentümer, § 17 ZVG."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-bestimmtheit-des-anspruchs",
+       "titel": "Vollstreckbare notarielle Urkunde: Bestimmtheit des Anspruchs",
+       "beschreibung": "Bestimmtheit der Vollstreckungsunterwerfung: Gläubiger, Schuldner, GbR mit Gesellschaftsregister, Gesellschafter, Geldbetrag, Zinsen, Basiszinssatz, Zinsbeginn, Wertsicherungsklausel/Preisindex, Herausgabeanspruch"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-nachweisverzicht",
+       "titel": "Vollstreckbare notarielle Urkunde: Nachweisverzicht",
+       "beschreibung": "Nachweisverzicht bei Vollstreckungsunterwerfung: Fälligkeit ohne Nachweis, § 726 ZPO, Grundschuld, Kaufpreis, Beweislast, BGH, Schadensersatz § 799a ZPO, Risikobegrenzungsgesetz, Klausel nach Fälligkeitsmitteilung"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-vertretung-vollmacht-und-zustellung-der-vollmacht",
+       "titel": "Vollstreckbare notarielle Urkunde: Vertretung, Vollmacht und Zustellung der Vollmacht",
+       "beschreibung": "Unterwerfung durch Vertreter: Form der Vollmacht (§ 80 ZPO), Nachweis in beglaubigter Form (§ 726 ZPO), Belastungsvollmacht, Generalvollmacht, § 17 Abs. 2a BeurkG Vertrauensperson, Baden-Württemberg, Zustellung der Vollmacht (§§ 750, 792 ZPO)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-voraussetzungen-nach-794-abs-1-nr-5-zpo",
+       "titel": "Vollstreckbare notarielle Urkunde: Voraussetzungen nach § 794 Abs. 1 Nr. 5 ZPO",
+       "beschreibung": "Vollstreckbare notarielle Urkunde § 794 Abs. 1 Nr. 5 ZPO: Vollstreckungsunterwerfung, sofortige Zwangsvollstreckung, Fassung vor 1999, Form, vergleichsfähiger Anspruch, Willenserklärung § 894 ZPO, Wohnraummiete"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-im-kaufvertrag-belehrungspflicht-und-praxis",
+       "titel": "Vollstreckungsunterwerfung im Kaufvertrag: Belehrungspflicht und Praxis",
+       "beschreibung": "Belehrungspflicht über Zwangsvollstreckungsunterwerfung im Kaufvertrag: ungesicherte Vorleistung, vorzeitige Übergabe (BGH III ZR 156/07), Geschäftsanteilskauf, Waffengleichheit Räumung, regionale Praxis, § 93 BNotO."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-angebot-und-annahme",
+       "titel": "Vollstreckungsunterwerfung: Angebot und Annahme",
+       "beschreibung": "Vollstreckungsunterwerfung bei getrennter Beurkundung von Angebot und Annahme: Unterwerfung in der Annahmeurkunde wiederholen, Verweisung (§ 13c BeurkG), welcher Notar die vollstreckbare Ausfertigung erteilt."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-bautragervertrag",
+       "titel": "Vollstreckungsunterwerfung: Bauträgervertrag",
+       "beschreibung": "Zwangsvollstreckungsunterwerfung im Bauträgervertrag: Nichtigkeit bei völligem Nachweisverzicht (§§ 3, 12 MaBV, § 134 BGB); Klauselklage (§§ 731, 797 ZPO); 30-jährige Verjährung (§ 197 BGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-dingliche-und-personliche-unterwerfung-bei-grundpfandrechten",
+       "titel": "Vollstreckungsunterwerfung: dingliche und persönliche Unterwerfung bei Grundpfandrechten",
+       "beschreibung": "Vollstreckungsunterwerfung bei Grundschuld und Hypothek: vollstreckbare Urkunde (§ 794 Abs. 1 Nr. 5 ZPO), dingliche Unterwerfung, § 800 ZPO, persönliche Haftung aus Schuldversprechen (§§ 780, 781 BGB), Rangklassen (§ 10 ZVG), Beweislast."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-eigentumergrundschuld-und-teilunterwerfung",
+       "titel": "Vollstreckungsunterwerfung: Eigentümergrundschuld und Teilunterwerfung",
+       "beschreibung": "Vollstreckungsunterwerfung bei Eigentümergrundschuld; abstraktes Schuldversprechen gegen sich selbst (§ 780 BGB), Umdeutung in Angebot; Teilunterwerfung wegen zuletzt zu zahlenden Teilbetrags zur Kostenersparnis."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-grundschuldubernahme-und-isolierte-schuldversprechen",
+       "titel": "Vollstreckungsunterwerfung: Grundschuldübernahme und isolierte Schuldversprechen",
+       "beschreibung": "Grundschuldübernahme durch Käufer: Schuldversprechen bleibt beim Verkäufer, neuer persönlicher Titel; isolierte vollstreckbare Schuldversprechen (Ratenzahlung, Stundung), § 17 BeurkG; Sicherungsgeber für fremde Schuld, AGB."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-raumungs-und-herausgabeanspruche",
+       "titel": "Vollstreckungsunterwerfung: Räumungs- und Herausgabeansprüche",
+       "beschreibung": "Unterwerfung wegen Räumung und Herausgabe: Ausschluss bei Wohnraummiete (§ 794 Abs. 1 Nr. 5 ZPO), Gewerbemiete, Räumungspflicht des Verkäufers, Rückgabe durch Käufer, Bestimmtheit des Objekts, Herausgabe PKW."
+      }
+     ]
     }
    ]
   }

@@ -1,0 +1,104 @@
+{
+ "kapitel": "sachenrecht-und-grundstuck",
+ "kapitel_titel": "Sachenrecht und Grundstück",
+ "teil": 1,
+ "teile": 1,
+ "datei": "data/fragen/sachenrecht-und-grundstuck__1.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/eigentum/eigentum-allein-mit-und-gesamthandseigentum",
+   "titel": "Eigentum: Allein-, Mit- und Gesamthandseigentum",
+   "abschnitt": "Eigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/eigentum/eigentum-gutglaubiger-und-gesetzlicher-erwerb",
+   "titel": "Eigentum: gutgläubiger und gesetzlicher Erwerb",
+   "abschnitt": "Eigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/eigentum/eigentum-inhalt-besitz-und-auflassung",
+   "titel": "Eigentum: Inhalt, Besitz und Auflassung",
+   "abschnitt": "Eigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/beschrankte-dingliche-rechte-aufhebung-und-erloschen",
+   "titel": "Beschränkte dingliche Rechte: Aufhebung und Erlöschen",
+   "abschnitt": "Grundsätze und Erwerb dinglicher Rechte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/grundstucksrechte-dingliche-einigung-abstraktion-und-bindung",
+   "titel": "Grundstücksrechte: dingliche Einigung, Abstraktion und Bindung",
+   "abschnitt": "Grundsätze und Erwerb dinglicher Rechte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/grundstucksrechte-eintragung-bezugnahme-und-ubereinstimmung-mit-der-einigung",
+   "titel": "Grundstücksrechte: Eintragung, Bezugnahme und Übereinstimmung mit der Einigung",
+   "abschnitt": "Grundsätze und Erwerb dinglicher Rechte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/grundstucksrechte-verfugungsbeschrankung-zwischen-einigung-und-eintragung-878-bgb",
+   "titel": "Grundstücksrechte: Verfügungsbeschränkung zwischen Einigung und Eintragung (§ 878 BGB)",
+   "abschnitt": "Grundsätze und Erwerb dinglicher Rechte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/sachenrecht-grundprinzipien",
+   "titel": "Sachenrecht: Grundprinzipien",
+   "abschnitt": "Grundsätze und Erwerb dinglicher Rechte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/sachenrecht-sachen-wesentliche-bestandteile-und-zubehor",
+   "titel": "Sachenrecht: Sachen, wesentliche Bestandteile und Zubehör",
+   "abschnitt": "Grundsätze und Erwerb dinglicher Rechte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/flurbereinigung-ausfuhrung-des-plans-und-verfugungen-bis-zur-grundbuchberichtigung",
+   "titel": "Flurbereinigung: Ausführung des Plans und Verfügungen bis zur Grundbuchberichtigung",
+   "abschnitt": "Grundstück und Liegenschaftskataster"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/flurbereinigung-grundstucksverkauf-wahrend-des-verfahrens",
+   "titel": "Flurbereinigung: Grundstücksverkauf während des Verfahrens",
+   "abschnitt": "Grundstück und Liegenschaftskataster"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/grundstuck-begriff-flurstuck-und-grundstucksgleiche-rechte",
+   "titel": "Grundstück: Begriff, Flurstück und grundstücksgleiche Rechte",
+   "abschnitt": "Grundstück und Liegenschaftskataster"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/grundstuck-vermessene-und-unvermessene-teilflachen",
+   "titel": "Grundstück: vermessene und unvermessene Teilflächen",
+   "abschnitt": "Grundstück und Liegenschaftskataster"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/grundstucksgrenzen-grenzabmarkung-grenzverwirrung-und-grenzfeststellungsvertrag",
+   "titel": "Grundstücksgrenzen: Grenzabmarkung, Grenzverwirrung und Grenzfeststellungsvertrag",
+   "abschnitt": "Grundstück und Liegenschaftskataster"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/liegenschaftskataster-flurkarte-in-der-vertragsvorbereitung",
+   "titel": "Liegenschaftskataster: Flurkarte in der Vertragsvorbereitung",
+   "abschnitt": "Grundstück und Liegenschaftskataster"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/liegenschaftskataster-fortfuhrungsnachweis-teilung-vereinigung-und-zuschreibung",
+   "titel": "Liegenschaftskataster: Fortführungsnachweis, Teilung, Vereinigung und Zuschreibung",
+   "abschnitt": "Grundstück und Liegenschaftskataster"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/liegenschaftskataster-zerlegung-verschmelzung-und-erledigung-von-fortfuhrungsfallen",
+   "titel": "Liegenschaftskataster: Zerlegung, Verschmelzung und Erledigung von Fortführungsfällen",
+   "abschnitt": "Grundstück und Liegenschaftskataster"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/teilung-vereinigung-und-zuschreibung-antrag-verwirrungsverbot-und-einheitliche-belastung",
+   "titel": "Teilung, Vereinigung und Zuschreibung: Antrag, Verwirrungsverbot und einheitliche Belastung",
+   "abschnitt": "Grundstück und Liegenschaftskataster"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/zuflurstuck-und-abschreibung-begriffe-buchung-und-vertragsgestaltung",
+   "titel": "Zuflurstück und Abschreibung: Begriffe, Buchung und Vertragsgestaltung",
+   "abschnitt": "Grundstück und Liegenschaftskataster"
+  }
+ ]
+}

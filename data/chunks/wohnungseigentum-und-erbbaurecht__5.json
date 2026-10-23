@@ -1,0 +1,94 @@
+{
+ "kapitel": "wohnungseigentum-und-erbbaurecht",
+ "kapitel_titel": "Wohnungseigentum und Erbbaurecht",
+ "teil": 5,
+ "teile": 5,
+ "datei": "data/fragen/wohnungseigentum-und-erbbaurecht__5.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/veranderungen-am-wohnungseigentum-grundsatz-und-voraussetzungen-der-unterteilung",
+   "titel": "Veränderungen am Wohnungseigentum: Grundsatz und Voraussetzungen der Unterteilung",
+   "abschnitt": "Veränderungen am Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/vereinigung-von-wohnungseigentum-und-ubertragung-sondereigentumsfahiger-raume",
+   "titel": "Vereinigung von Wohnungseigentum und Übertragung sondereigentumsfähiger Räume",
+   "abschnitt": "Veränderungen am Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/verzicht-auf-wohnungseigentum-aufhebung-und-schliessung-der-wohnungsgrundbucher",
+   "titel": "Verzicht auf Wohnungseigentum, Aufhebung und Schließung der Wohnungsgrundbücher",
+   "abschnitt": "Veränderungen am Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/kundigungssperrfrist-nach-577a-bgb-bei-umwandlung-und-verausserung",
+   "titel": "Kündigungssperrfrist nach § 577a BGB bei Umwandlung und Veräußerung",
+   "abschnitt": "Wohnungseigentum im Kaufvertrag"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/mietervorkaufsrecht-nach-577-bgb-bei-wohnungseigentum-grundlagen-und-mietverhaltnis",
+   "titel": "Mietervorkaufsrecht nach § 577 BGB bei Wohnungseigentum: Grundlagen und Mietverhältnis",
+   "abschnitt": "Wohnungseigentum im Kaufvertrag"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/mietervorkaufsrecht-nach-577-bgb-bei-wohnungseigentum-umwandlung-vertragsgegenstand-und-verkaufsfall",
+   "titel": "Mietervorkaufsrecht nach § 577 BGB bei Wohnungseigentum: Umwandlung, Vertragsgegenstand und Verkaufsfall",
+   "abschnitt": "Wohnungseigentum im Kaufvertrag"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/verausserung-von-wohnungseigentum-eintritt-in-vereinbarungen-und-beschlusse",
+   "titel": "Veräußerung von Wohnungseigentum: Eintritt in Vereinbarungen und Beschlüsse",
+   "abschnitt": "Wohnungseigentum im Kaufvertrag"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/verausserung-von-wohnungseigentum-hausgeld-und-zwangsversteigerungsrisiko",
+   "titel": "Veräußerung von Wohnungseigentum: Hausgeld und Zwangsversteigerungsrisiko",
+   "abschnitt": "Wohnungseigentum im Kaufvertrag"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/verausserung-von-wohnungseigentum-nachhaftung-des-verausserers",
+   "titel": "Veräußerung von Wohnungseigentum: Nachhaftung des Veräußerers",
+   "abschnitt": "Wohnungseigentum im Kaufvertrag"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/verausserung-von-wohnungseigentum-verwaltervertrag-stimmrecht-und-erhaltungsrucklage",
+   "titel": "Veräußerung von Wohnungseigentum: Verwaltervertrag, Stimmrecht und Erhaltungsrücklage",
+   "abschnitt": "Wohnungseigentum im Kaufvertrag"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/verausserungszustimmung-nach-12-weg-anwendungsfalle-und-zustimmungsberechtigter",
+   "titel": "Veräußerungszustimmung nach § 12 WEG: Anwendungsfälle und Zustimmungsberechtigter",
+   "abschnitt": "Wohnungseigentum im Kaufvertrag"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/verausserungszustimmung-nach-12-weg-erklarung-widerruf-form-und-vertragsgestaltung",
+   "titel": "Veräußerungszustimmung nach § 12 WEG: Erklärung, Widerruf, Form und Vertragsgestaltung",
+   "abschnitt": "Wohnungseigentum im Kaufvertrag"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/verausserungszustimmung-nach-12-weg-kosten-und-kostenschuldner",
+   "titel": "Veräußerungszustimmung nach § 12 WEG: Kosten und Kostenschuldner",
+   "abschnitt": "Wohnungseigentum im Kaufvertrag"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/wohnungseigentum-grundbuchblatt-form-der-verwalterzustimmung-und-verwalterbestellung",
+   "titel": "Wohnungseigentum: Grundbuchblatt, Form der Verwalterzustimmung und Verwalterbestellung",
+   "abschnitt": "Wohnungseigentum im Kaufvertrag"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/wohnungseigentum-regelungen-im-kaufvertrag",
+   "titel": "Wohnungseigentum: Regelungen im Kaufvertrag",
+   "abschnitt": "Wohnungseigentum im Kaufvertrag"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/wohnungseigentum-im-kaufvertrag/wohnungseigentum-verwalterzustimmung-verwalternachweis-und-eintritt-in-die-gemeinschaft-beim-verkauf",
+   "titel": "Wohnungseigentum: Verwalterzustimmung, Verwalternachweis und Eintritt in die Gemeinschaft beim Verkauf",
+   "abschnitt": "Wohnungseigentum im Kaufvertrag"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/erbbaurecht-begriff-und-kaufvertrag",
+   "titel": "Erbbaurecht: Begriff und Kaufvertrag",
+   "abschnitt": "(Seiten direkt im Kapitel)"
+  }
+ ]
+}

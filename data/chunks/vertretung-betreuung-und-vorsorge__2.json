@@ -1,0 +1,79 @@
+{
+ "kapitel": "vertretung-betreuung-und-vorsorge",
+ "kapitel_titel": "Vertretung, Betreuung und Vorsorge",
+ "teil": 2,
+ "teile": 2,
+ "datei": "data/fragen/vertretung-betreuung-und-vorsorge__2.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/pflegschaft-arten-bestellung-und-auswahl-des-pflegers",
+   "titel": "Pflegschaft: Arten, Bestellung und Auswahl des Pflegers",
+   "abschnitt": "Vormundschaft, Pflegschaft und Betreuung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-arztliche-massnahmen-und-patientenwille",
+   "titel": "Rechtliche Betreuung: ärztliche Maßnahmen und Patientenwille",
+   "abschnitt": "Vormundschaft, Pflegschaft und Betreuung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-aufgabenkreis-vermogenssorge-und-einzelne-angelegenheiten",
+   "titel": "Rechtliche Betreuung: Aufgabenkreis Vermögenssorge und einzelne Angelegenheiten",
+   "abschnitt": "Vormundschaft, Pflegschaft und Betreuung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-aufgabenkreis-von-betreuer-und-pfleger-grundsatze-und-erweiterung",
+   "titel": "Rechtliche Betreuung: Aufgabenkreis von Betreuer und Pfleger (Grundsätze und Erweiterung)",
+   "abschnitt": "Vormundschaft, Pflegschaft und Betreuung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-verfugungen-uber-selbstgenutzten-wohnraum-1833-abs-3-s-1-nr-4-bgb",
+   "titel": "Rechtliche Betreuung: Verfügungen über selbstgenutzten Wohnraum (§ 1833 Abs. 3 S. 1 Nr. 4 BGB)",
+   "abschnitt": "Vormundschaft, Pflegschaft und Betreuung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-vertretung-geschaftsfahigkeit-und-ende-der-betreuung",
+   "titel": "Rechtliche Betreuung: Vertretung, Geschäftsfähigkeit und Ende der Betreuung",
+   "abschnitt": "Vormundschaft, Pflegschaft und Betreuung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/rechtliche-betreuung-voraussetzungen-umfang-und-betreuerauswahl",
+   "titel": "Rechtliche Betreuung: Voraussetzungen, Umfang und Betreuerauswahl",
+   "abschnitt": "Vormundschaft, Pflegschaft und Betreuung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/vormundschaft-amtsstellung-anordnung-und-bestellung-des-vormunds",
+   "titel": "Vormundschaft: Amtsstellung, Anordnung und Bestellung des Vormunds",
+   "abschnitt": "Vormundschaft, Pflegschaft und Betreuung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/vormundschaft-aufgaben-vertretungsmacht-und-genehmigungen",
+   "titel": "Vormundschaft: Aufgaben, Vertretungsmacht und Genehmigungen",
+   "abschnitt": "Vormundschaft, Pflegschaft und Betreuung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vorsorgevollmacht-und-patientenverfugung/ehegattenvertretungsrecht-in-gesundheitsangelegenheiten-1358-bgb",
+   "titel": "Ehegattenvertretungsrecht in Gesundheitsangelegenheiten (§ 1358 BGB)",
+   "abschnitt": "Vorsorgevollmacht und Patientenverfügung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vorsorgevollmacht-und-patientenverfugung/patientenverfugung-wirkung-voraussetzungen-und-form",
+   "titel": "Patientenverfügung: Wirkung, Voraussetzungen und Form",
+   "abschnitt": "Vorsorgevollmacht und Patientenverfügung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vorsorgevollmacht-und-patientenverfugung/vorsorgevollmacht-begriff-grenzen-der-vertretung-und-form",
+   "titel": "Vorsorgevollmacht: Begriff, Grenzen der Vertretung und Form",
+   "abschnitt": "Vorsorgevollmacht und Patientenverfügung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vorsorgevollmacht-und-patientenverfugung/vorsorgevollmacht-kontrolle-widerruf-und-beglaubigung-durch-die-betreuungsbehorde",
+   "titel": "Vorsorgevollmacht: Kontrolle, Widerruf und Beglaubigung durch die Betreuungsbehörde",
+   "abschnitt": "Vorsorgevollmacht und Patientenverfügung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vorsorgevollmacht-und-patientenverfugung/vorsorgevollmacht-wirksamwerden-und-inhalt",
+   "titel": "Vorsorgevollmacht: Wirksamwerden und Inhalt",
+   "abschnitt": "Vorsorgevollmacht und Patientenverfügung"
+  }
+ ]
+}

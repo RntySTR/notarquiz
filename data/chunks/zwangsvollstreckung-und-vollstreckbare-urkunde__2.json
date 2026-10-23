@@ -1,0 +1,89 @@
+{
+ "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+ "kapitel_titel": "Zwangsvollstreckung und vollstreckbare Urkunde",
+ "teil": 2,
+ "teile": 2,
+ "datei": "data/fragen/zwangsvollstreckung-und-vollstreckbare-urkunde__2.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-grundstuckskaufvertrag-wahrend-des-verfahrens",
+   "titel": "Zwangsversteigerung: Grundstückskaufvertrag während des Verfahrens",
+   "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-verfahren-bis-zum-versteigerungstermin",
+   "titel": "Zwangsversteigerung: Verfahren bis zum Versteigerungstermin",
+   "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-versteigerungstermin-zuschlag-und-verteilung",
+   "titel": "Zwangsversteigerung: Versteigerungstermin, Zuschlag und Verteilung",
+   "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-ausfertigung-erteilung-durch-den-notar-und-ruckgabe",
+   "titel": "Vollstreckbare Ausfertigung: Erteilung durch den Notar und Rückgabe",
+   "abschnitt": "Vollstreckbare Urkunde und Unterwerfung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-beschrankte-unterwerfung-und-kunftiger-eigentumer",
+   "titel": "Vollstreckbare notarielle Urkunde: beschränkte Unterwerfung und künftiger Eigentümer",
+   "abschnitt": "Vollstreckbare Urkunde und Unterwerfung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-bestimmtheit-des-anspruchs",
+   "titel": "Vollstreckbare notarielle Urkunde: Bestimmtheit des Anspruchs",
+   "abschnitt": "Vollstreckbare Urkunde und Unterwerfung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-nachweisverzicht",
+   "titel": "Vollstreckbare notarielle Urkunde: Nachweisverzicht",
+   "abschnitt": "Vollstreckbare Urkunde und Unterwerfung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-vertretung-vollmacht-und-zustellung-der-vollmacht",
+   "titel": "Vollstreckbare notarielle Urkunde: Vertretung, Vollmacht und Zustellung der Vollmacht",
+   "abschnitt": "Vollstreckbare Urkunde und Unterwerfung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-voraussetzungen-nach-794-abs-1-nr-5-zpo",
+   "titel": "Vollstreckbare notarielle Urkunde: Voraussetzungen nach § 794 Abs. 1 Nr. 5 ZPO",
+   "abschnitt": "Vollstreckbare Urkunde und Unterwerfung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-im-kaufvertrag-belehrungspflicht-und-praxis",
+   "titel": "Vollstreckungsunterwerfung im Kaufvertrag: Belehrungspflicht und Praxis",
+   "abschnitt": "Vollstreckbare Urkunde und Unterwerfung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-angebot-und-annahme",
+   "titel": "Vollstreckungsunterwerfung: Angebot und Annahme",
+   "abschnitt": "Vollstreckbare Urkunde und Unterwerfung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-bautragervertrag",
+   "titel": "Vollstreckungsunterwerfung: Bauträgervertrag",
+   "abschnitt": "Vollstreckbare Urkunde und Unterwerfung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-dingliche-und-personliche-unterwerfung-bei-grundpfandrechten",
+   "titel": "Vollstreckungsunterwerfung: dingliche und persönliche Unterwerfung bei Grundpfandrechten",
+   "abschnitt": "Vollstreckbare Urkunde und Unterwerfung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-eigentumergrundschuld-und-teilunterwerfung",
+   "titel": "Vollstreckungsunterwerfung: Eigentümergrundschuld und Teilunterwerfung",
+   "abschnitt": "Vollstreckbare Urkunde und Unterwerfung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-grundschuldubernahme-und-isolierte-schuldversprechen",
+   "titel": "Vollstreckungsunterwerfung: Grundschuldübernahme und isolierte Schuldversprechen",
+   "abschnitt": "Vollstreckbare Urkunde und Unterwerfung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-raumungs-und-herausgabeanspruche",
+   "titel": "Vollstreckungsunterwerfung: Räumungs- und Herausgabeansprüche",
+   "abschnitt": "Vollstreckbare Urkunde und Unterwerfung"
+  }
+ ]
+}

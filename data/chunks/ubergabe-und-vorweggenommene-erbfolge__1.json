@@ -1,0 +1,134 @@
+{
+ "kapitel": "ubergabe-und-vorweggenommene-erbfolge",
+ "kapitel_titel": "Übergabe und vorweggenommene Erbfolge",
+ "teil": 1,
+ "teile": 1,
+ "datei": "data/fragen/ubergabe-und-vorweggenommene-erbfolge__1.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-anrechnung-auf-den-pflichtteil-und-ausgleichung",
+   "titel": "Übergabevertrag: Anrechnung auf den Pflichtteil und Ausgleichung",
+   "abschnitt": "Gestaltung des Übergabevertrags"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-besitzubergang-mangel-mietverhaltnis-und-auflassung",
+   "titel": "Übergabevertrag: Besitzübergang, Mängel, Mietverhältnis und Auflassung",
+   "abschnitt": "Gestaltung des Übergabevertrags"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-beteiligte-ehegattenzustimmung-und-vollmacht",
+   "titel": "Übergabevertrag: Beteiligte, Ehegattenzustimmung und Vollmacht",
+   "abschnitt": "Gestaltung des Übergabevertrags"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-beteiligung-minderjahriger",
+   "titel": "Übergabevertrag: Beteiligung Minderjähriger",
+   "abschnitt": "Gestaltung des Übergabevertrags"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-grundbuchstand-vertragsgegenstand-und-loschung-alter-rechte",
+   "titel": "Übergabevertrag: Grundbuchstand, Vertragsgegenstand und Löschung alter Rechte",
+   "abschnitt": "Gestaltung des Übergabevertrags"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-hinweise-glaubigeranfechtung-und-2287-2288-bgb",
+   "titel": "Übergabevertrag: Hinweise, Gläubigeranfechtung und §§ 2287, 2288 BGB",
+   "abschnitt": "Gestaltung des Übergabevertrags"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/gestaltung-des-ubergabevertrags/ubergabevertrag-vorkaufsrechte-genehmigungen-verwalterzustimmung-und-anzeigen",
+   "titel": "Übergabevertrag: Vorkaufsrechte, Genehmigungen, Verwalterzustimmung und Anzeigen",
+   "abschnitt": "Gestaltung des Übergabevertrags"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/grundlagen-der-ubergabe/ubergabevertrag-ausstattung-ehebedingte-zuwendung-und-schenkung-unter-auflage",
+   "titel": "Übergabevertrag: Ausstattung, ehebedingte Zuwendung und Schenkung unter Auflage",
+   "abschnitt": "Grundlagen der Übergabe"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/grundlagen-der-ubergabe/ubergabevertrag-pflichtteilserganzung-und-fristbeginn-bei-vorbehalten",
+   "titel": "Übergabevertrag: Pflichtteilsergänzung und Fristbeginn bei Vorbehalten",
+   "abschnitt": "Grundlagen der Übergabe"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/grundlagen-der-ubergabe/ubergabevertrag-rechtsnatur-gemischte-schenkung-und-beurkundungsform",
+   "titel": "Übergabevertrag: Rechtsnatur, gemischte Schenkung und Beurkundungsform",
+   "abschnitt": "Grundlagen der Übergabe"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/grundlagen-der-ubergabe/ubergabevertrag-schenkungsteuer-freibetrage-und-steuerliche-belehrung",
+   "titel": "Übergabevertrag: Schenkungsteuer, Freibeträge und steuerliche Belehrung",
+   "abschnitt": "Grundlagen der Übergabe"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-freies-ruckforderungsrecht",
+   "titel": "Übergabevertrag: freies Rückforderungsrecht",
+   "abschnitt": "Rückforderungsrechte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-ruckforderung-wegen-verarmung-des-schenkers-und-sozialhilferegress",
+   "titel": "Übergabevertrag: Rückforderung wegen Verarmung des Schenkers und Sozialhilferegress",
+   "abschnitt": "Rückforderungsrechte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-ruckforderungsrechte-rechtsfolgen-vererblichkeit-und-ruckerwerbsvormerkung",
+   "titel": "Übergabevertrag: Rückforderungsrechte – Rechtsfolgen, Vererblichkeit und Rückerwerbsvormerkung",
+   "abschnitt": "Rückforderungsrechte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-schenkungswiderruf-wegen-groben-undanks-530-533-bgb",
+   "titel": "Übergabevertrag: Schenkungswiderruf wegen groben Undanks (§§ 530–533 BGB)",
+   "abschnitt": "Rückforderungsrechte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/ruckforderungsrechte/ubergabevertrag-vertragliche-ruckforderungsrechte-grunde-gestaltung-und-mehrere-beteiligte",
+   "titel": "Übergabevertrag: vertragliche Rückforderungsrechte – Gründe, Gestaltung und mehrere Beteiligte",
+   "abschnitt": "Rückforderungsrechte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-abstandszahlung-rente-und-abgrenzung-zum-kaufvertrag",
+   "titel": "Übergabevertrag: Abstandszahlung, Rente und Abgrenzung zum Kaufvertrag",
+   "abschnitt": "Vorbehaltene Rechte und Gegenleistungen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-gleichstellungsgeld",
+   "titel": "Übergabevertrag: Gleichstellungsgeld",
+   "abschnitt": "Vorbehaltene Rechte und Gegenleistungen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-leibgeding",
+   "titel": "Übergabevertrag: Leibgeding",
+   "abschnitt": "Vorbehaltene Rechte und Gegenleistungen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-pflegeverpflichtung",
+   "titel": "Übergabevertrag: Pflegeverpflichtung",
+   "abschnitt": "Vorbehaltene Rechte und Gegenleistungen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-ubernahme-von-verbindlichkeiten",
+   "titel": "Übergabevertrag: Übernahme von Verbindlichkeiten",
+   "abschnitt": "Vorbehaltene Rechte und Gegenleistungen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-vorbehaltene-nutzungsrechte-rang-mehrere-berechtigte-jahreswert-und-spatere-aufgabe",
+   "titel": "Übergabevertrag: vorbehaltene Nutzungsrechte – Rang, mehrere Berechtigte, Jahreswert und spätere Aufgabe",
+   "abschnitt": "Vorbehaltene Rechte und Gegenleistungen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-vorbehaltenes-wohnungsrecht",
+   "titel": "Übergabevertrag: vorbehaltenes Wohnungsrecht",
+   "abschnitt": "Vorbehaltene Rechte und Gegenleistungen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-vorbehaltsniessbrauch",
+   "titel": "Übergabevertrag: Vorbehaltsnießbrauch",
+   "abschnitt": "Vorbehaltene Rechte und Gegenleistungen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/ubergabe-und-vorweggenommene-erbfolge/vorbehaltene-rechte-und-gegenleistungen/ubergabevertrag-wohnungsrecht-wegzugsklausel-und-loschung",
+   "titel": "Übergabevertrag: Wohnungsrecht – Wegzugsklausel und Löschung",
+   "abschnitt": "Vorbehaltene Rechte und Gegenleistungen"
+  }
+ ]
+}

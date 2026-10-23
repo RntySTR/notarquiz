@@ -1,0 +1,84 @@
+{
+ "kapitel": "vertretung-betreuung-und-vorsorge",
+ "kapitel_titel": "Vertretung, Betreuung und Vorsorge",
+ "teil": 1,
+ "teile": 2,
+ "datei": "data/fragen/vertretung-betreuung-und-vorsorge__1.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-genehmigungsbedurftige-geschafte",
+   "titel": "Gerichtliche Genehmigung: genehmigungsbedürftige Geschäfte",
+   "abschnitt": "Gerichtliche Genehmigung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-grundpfandrechte-und-eigentumerrechte",
+   "titel": "Gerichtliche Genehmigung: Grundpfandrechte und Eigentümerrechte",
+   "abschnitt": "Gerichtliche Genehmigung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-mitteilung-nach-1856-bgb-und-doppelvollmacht",
+   "titel": "Gerichtliche Genehmigung: Mitteilung nach § 1856 BGB und Doppelvollmacht",
+   "abschnitt": "Gerichtliche Genehmigung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-tod-amtsverlust-oder-beendigung-vor-wirksamwerden",
+   "titel": "Gerichtliche Genehmigung: Tod, Amtsverlust oder Beendigung vor Wirksamwerden",
+   "abschnitt": "Gerichtliche Genehmigung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-verfahren-rechtskraft-und-bekanntgabe",
+   "titel": "Gerichtliche Genehmigung: Verfahren, Rechtskraft und Bekanntgabe",
+   "abschnitt": "Gerichtliche Genehmigung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/gerichtliche-genehmigung/gerichtliche-genehmigung-vermogensanlage-erbteilung-und-schiedsvereinbarung",
+   "titel": "Gerichtliche Genehmigung: Vermögensanlage, Erbteilung und Schiedsvereinbarung",
+   "abschnitt": "Gerichtliche Genehmigung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/gesetzliche-vertretung-in-der-urkunde-nachweis-prufung-und-hochstpersonliche-geschafte",
+   "titel": "Gesetzliche Vertretung in der Urkunde: Nachweis, Prüfung und höchstpersönliche Geschäfte",
+   "abschnitt": "Vertretungsausschluss und Zuwendungen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/minderjahrige-in-gesellschaften-beschlusse-und-anderungen-in-der-laufenden-gesellschaft",
+   "titel": "Minderjährige in Gesellschaften: Beschlüsse und Änderungen in der laufenden Gesellschaft",
+   "abschnitt": "Vertretungsausschluss und Zuwendungen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/minderjahrige-in-gesellschaften-vertretung-und-genehmigung-bei-grundung-und-erwerb",
+   "titel": "Minderjährige in Gesellschaften: Vertretung und Genehmigung bei Gründung und Erwerb",
+   "abschnitt": "Vertretungsausschluss und Zuwendungen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/schenkungsverbot-und-schenkungen-durch-betreuer",
+   "titel": "Schenkungsverbot und Schenkungen durch Betreuer",
+   "abschnitt": "Vertretungsausschluss und Zuwendungen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/vertretungsausschluss-1824-bgb-gesamtbetrachtung-rechtsfolgen-und-erganzungspfleger",
+   "titel": "Vertretungsausschluss (§ 1824 BGB): Gesamtbetrachtung, Rechtsfolgen und Ergänzungspfleger",
+   "abschnitt": "Vertretungsausschluss und Zuwendungen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/zuwendungen-an-minderjahrige-und-betreute-verwaltungsanordnungen-und-befreiungen",
+   "titel": "Zuwendungen an Minderjährige und Betreute: Verwaltungsanordnungen und Befreiungen",
+   "abschnitt": "Vertretungsausschluss und Zuwendungen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vertretungsausschluss-und-zuwendungen/zuwendungen-an-minderjahrige-und-betreute-verwaltungsausschluss-1638-1811-bgb",
+   "titel": "Zuwendungen an Minderjährige und Betreute: Verwaltungsausschluss (§§ 1638, 1811 BGB)",
+   "abschnitt": "Vertretungsausschluss und Zuwendungen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/benennung-von-vormund-und-pfleger-pfleger-und-zuwendungspfleger-1811-abs-2-bgb",
+   "titel": "Benennung von Vormund und Pfleger: Pfleger und Zuwendungspfleger (§ 1811 Abs. 2 BGB)",
+   "abschnitt": "Vormundschaft, Pflegschaft und Betreuung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vertretung-betreuung-und-vorsorge/vormundschaft-pflegschaft-und-betreuung/benennung-von-vormund-und-pfleger-vormundbenennung-durch-die-eltern-1782-bgb",
+   "titel": "Benennung von Vormund und Pfleger: Vormundbenennung durch die Eltern (§ 1782 BGB)",
+   "abschnitt": "Vormundschaft, Pflegschaft und Betreuung"
+  }
+ ]
+}

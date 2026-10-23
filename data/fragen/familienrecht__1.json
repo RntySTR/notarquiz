@@ -1,0 +1,98 @@
+[
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Abstammung und elterliche Sorge",
+  "seite": "Abstammung: gerichtliche Feststellung, künstliche Befruchtung und Anfechtung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/abstammung-gerichtliche-feststellung-kunstliche-befruchtung-und-anfechtung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1592 Nr. 3 BGB",
+   "§ 1600d BGB",
+   "§ 1592 Nr. 2 BGB"
+  ],
+  "frage": "Ein Mann hat die Vaterschaft für ein Kind wirksam anerkannt. Der genetische Erzeuger beantragt beim Familiengericht die Feststellung seiner Vaterschaft nach § 1600d BGB. Wie ist der Antrag zu beurteilen?",
+  "optionen": [
+   "Zulässig, weil der genetische Erzeuger stets antragsberechtigt ist",
+   "Unzulässig, weil die gerichtliche Feststellung nachrangig ist und nur bei fehlender Vaterschaft nach § 1592 Nr. 1 und 2, § 1593 BGB in Betracht kommt",
+   "Zulässig, weil die Anerkennung mit Antragstellung automatisch erlischt",
+   "Unzulässig, weil nur Mutter und Kind antragsberechtigt sind"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die gerichtliche Feststellung ist subsidiär: Sie kommt nur in Betracht, wenn keine Vaterschaft nach § 1592 Nr. 1 und 2 BGB, § 1593 BGB besteht. Solange die Anerkennung eines anderen Mannes besteht, ist die Feststellung unzulässig; der leibliche Vater muss stattdessen die bestehende Vaterschaft anfechten (§§ 1600 ff. BGB), wobei der stattgebende Beschluss zugleich seine Vaterschaft feststellt (§ 182 Abs. 1 FamFG). Die Antragsberechtigung des Erzeugers (neben Mutter und Kind) besteht zwar, hilft aber nicht über den Vorrang der bestehenden Vaterschaft hinweg.",
+  "id": "fami1-001"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Abstammung und elterliche Sorge",
+  "seite": "Abstammung: gerichtliche Feststellung, künstliche Befruchtung und Anfechtung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/abstammung-gerichtliche-feststellung-kunstliche-befruchtung-und-anfechtung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1600 Abs. 6 S. 1 BGB"
+  ],
+  "frage": "Ehegatten M und F lassen mit beiderseitiger Einwilligung eine künstliche Befruchtung mit dem Samen eines Dritten durchführen. Kann M die Vaterschaft für das in der Ehe geborene Kind später anfechten?",
+  "optionen": [
+   "Ja, innerhalb der allgemeinen Anfechtungsfrist der §§ 1600 ff. BGB",
+   "Ja, aber nur gemeinsam mit der Mutter",
+   "Nein, die Anfechtung durch M ist nach § 1600 Abs. 6 S. 1 BGB ausgeschlossen",
+   "Nein, weil die Vaterschaft bei künstlicher Befruchtung stets gerichtlich festgestellt wird"
+  ],
+  "antwort": 2,
+  "erklaerung": "Ist das Kind mit Einwilligung des Mannes und der Mutter durch künstliche Befruchtung mittels Samenspende eines Dritten gezeugt worden, ist die Anfechtung durch den Mann ausgeschlossen (§ 1600 Abs. 6 S. 1 BGB). Die allgemeine Anfechtbarkeit der Vaterschaft kraft Ehe greift hier also nicht. Falsch ist auch die Annahme einer gerichtlichen Feststellung: M ist als Ehemann nach § 1592 Nr. 1 BGB Vater; deshalb empfiehlt die Praxis, die Ehegatten über den Anfechtungsausschluss zu belehren und dies notariell zu dokumentieren.",
+  "id": "fami1-002"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Abstammung und elterliche Sorge",
+  "seite": "Abstammung: gerichtliche Feststellung, künstliche Befruchtung und Anfechtung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/abstammung-gerichtliche-feststellung-kunstliche-befruchtung-und-anfechtung",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1592 Nr. 3 BGB",
+   "§ 578 ZPO",
+   "§ 185 FamFG"
+  ],
+  "frage": "Eine gerichtlich festgestellte Vaterschaft (§ 1592 Nr. 3 BGB) kann wie die Vaterschaft kraft Anerkennung nach §§ 1600 ff. BGB angefochten werden.",
+  "antwort": false,
+  "erklaerung": "Anfechtbar sind nur die Vaterschaft kraft Ehe (§§ 1592 Nr. 1, 1593 S. 1 BGB) und kraft Anerkennung (§ 1592 Nr. 2 BGB). Die gerichtlich festgestellte Vaterschaft lässt sich nicht anfechten; der Feststellungsbeschluss kann nur durch ein Wiederaufnahmeverfahren (§ 578 ZPO, § 185 FamFG) beseitigt werden.",
+  "id": "fami1-003"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Abstammung und elterliche Sorge",
+  "seite": "Abstammung: gerichtliche Feststellung, künstliche Befruchtung und Anfechtung",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/abstammung-gerichtliche-feststellung-kunstliche-befruchtung-und-anfechtung",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1592 Nr. 1 BGB",
+   "§ 1600d Abs. 2 S. 1 BGB",
+   "§§ 169, 177 Abs. 1 FamFG",
+   "§ 1600 Abs. 6 S. 1 BGB"
+  ],
+  "frage": "Ordne die Begriffe ihrer rechtlichen Aussage zu.",
+  "paare": [
+   [
+    "Homologe Insemination",
+    "Steht der Beiwohnung gleich; der Ehemann ist nach § 1592 Nr. 1 BGB Vater"
+   ],
+   [
+    "Heterologe Insemination",
+    "Samen stammt von einem Mann, der mit der Mutter nicht verheiratet ist"
+   ],
+   [
+    "Zeugungsvermutung",
+    "Gilt im gerichtlichen Feststellungsverfahren nach § 1600d Abs. 2 S. 1 BGB"
+   ],
+   [
+    "Amtsermittlung",
+    "Familiengericht ermittelt den wahren Sachverhalt in Abstammungssachen (§§ 169, 177 Abs. 1 FamFG)"
+   ]
+  ],
+  "erklaerung": "Die homologe Insemination (Samen des Ehemanns, in vivo oder in vitro) ist rechtlich der Beiwohnung gleichgestellt, sodass die allgemeine Regel des § 1592 Nr. 1 BGB greift. Bei der heterologen Insemination stammt der Samen von einem Dritten; hier greift bei Einwilligung beider der Anfechtungsausschluss nach § 1600 Abs. 6 S. 1 BGB. Im Feststellungsverfahren gelten Zeugungsvermutung und Amtsermittlungsgrundsatz.",
+  "id": "fami1-004"
+ }
+]

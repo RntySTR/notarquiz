@@ -1,0 +1,99 @@
+{
+ "kapitel": "wohnungseigentum-und-erbbaurecht",
+ "kapitel_titel": "Wohnungseigentum und Erbbaurecht",
+ "teil": 4,
+ "teile": 5,
+ "datei": "data/fragen/wohnungseigentum-und-erbbaurecht__4.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verausserungsbeschrankung-nach-12-weg-vereinbarung-grenzen-und-aufhebung",
+   "titel": "Veräußerungsbeschränkung nach § 12 WEG: Vereinbarung, Grenzen und Aufhebung",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/vereinbarung-der-wohnungseigentumer-begriff-form-und-abgrenzung-zum-beschluss",
+   "titel": "Vereinbarung der Wohnungseigentümer: Begriff, Form und Abgrenzung zum Beschluss",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/vereinbarung-der-wohnungseigentumer-inhalt-und-grenzen-der-gemeinschaftsordnung",
+   "titel": "Vereinbarung der Wohnungseigentümer: Inhalt und Grenzen der Gemeinschaftsordnung",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalter-bestellung-hochstdauer-und-abberufung",
+   "titel": "Verwalter: Bestellung, Höchstdauer und Abberufung",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalter-person-stellung-und-amtsnachfolge",
+   "titel": "Verwalter: Person, Stellung und Amtsnachfolge",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalter-vertretungsmacht-und-aufgaben",
+   "titel": "Verwalter: Vertretungsmacht und Aufgaben",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalternachweis-gegenuber-dem-grundbuchamt-grundsatz-und-prufung-durch-das-grundbuchamt",
+   "titel": "Verwalternachweis gegenüber dem Grundbuchamt: Grundsatz und Prüfung durch das Grundbuchamt",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/verwalternachweis-gegenuber-dem-grundbuchamt-unterschriften-auf-der-niederschrift",
+   "titel": "Verwalternachweis gegenüber dem Grundbuchamt: Unterschriften auf der Niederschrift",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/wirtschaftsplan-jahresabrechnung-sonderumlage-und-verwaltungsbeirat",
+   "titel": "Wirtschaftsplan, Jahresabrechnung, Sonderumlage und Verwaltungsbeirat",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/zweckbestimmung-des-sondereigentums-und-nutzungsbeschrankungen",
+   "titel": "Zweckbestimmung des Sondereigentums und Nutzungsbeschränkungen",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/anderung-der-gemeinschaftsordnung-umwandlung-von-wohnungs-und-teileigentum-aufhebung-eines-sondernutzungsrechts",
+   "titel": "Änderung der Gemeinschaftsordnung: Umwandlung von Wohnungs- und Teileigentum, Aufhebung eines Sondernutzungsrechts",
+   "abschnitt": "Veränderungen am Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/anderung-der-gemeinschaftsordnung-vereinbarung-anderungsanspruch-und-zustimmung-dinglich-berechtigter",
+   "titel": "Änderung der Gemeinschaftsordnung: Vereinbarung, Änderungsanspruch und Zustimmung dinglich Berechtigter",
+   "abschnitt": "Veränderungen am Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/bauliche-veranderungen-beschluss-grenzen-und-anspruche",
+   "titel": "Bauliche Veränderungen: Beschluss, Grenzen und Ansprüche",
+   "abschnitt": "Veränderungen am Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/bauliche-veranderungen-kosten-und-nutzungen-wiederaufbau-und-steckengebliebener-bau",
+   "titel": "Bauliche Veränderungen: Kosten und Nutzungen, Wiederaufbau und steckengebliebener Bau",
+   "abschnitt": "Veränderungen am Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/ubertragung-eines-sondernutzungsrechts",
+   "titel": "Übertragung eines Sondernutzungsrechts",
+   "abschnitt": "Veränderungen am Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/umwandlung-von-sonder-und-gemeinschaftseigentum-und-spatere-anbauten",
+   "titel": "Umwandlung von Sonder- und Gemeinschaftseigentum und spätere Anbauten",
+   "abschnitt": "Veränderungen am Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/unterteilung-von-wohnungseigentum-zustimmungen-grundbuchnachweise-und-stimmrecht",
+   "titel": "Unterteilung von Wohnungseigentum: Zustimmungen, Grundbuchnachweise und Stimmrecht",
+   "abschnitt": "Veränderungen am Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/veranderungen-am-aufgeteilten-grundstuck-teilflache-hinzuerwerb-und-unschadlichkeitszeugnis",
+   "titel": "Veränderungen am aufgeteilten Grundstück: Teilfläche, Hinzuerwerb und Unschädlichkeitszeugnis",
+   "abschnitt": "Veränderungen am Wohnungseigentum"
+  }
+ ]
+}

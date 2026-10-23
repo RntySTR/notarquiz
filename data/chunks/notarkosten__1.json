@@ -1,0 +1,94 @@
+{
+ "kapitel": "notarkosten",
+ "kapitel_titel": "Notarkosten",
+ "teil": 1,
+ "teile": 4,
+ "datei": "data/fragen/notarkosten__1.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-gegenstandsgleichheit-nach-109-abs-1-gnotkg-einzelfalle",
+   "titel": "Beurkundungsgegenstand: Gegenstandsgleichheit nach § 109 Abs. 1 GNotKG – Einzelfälle",
+   "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-gegenstandsgleichheit-nach-109-abs-1-gnotkg-grundtatbestand",
+   "titel": "Beurkundungsgegenstand: Gegenstandsgleichheit nach § 109 Abs. 1 GNotKG – Grundtatbestand",
+   "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-gegenstandsgleichheit-nach-109-abs-2-gnotkg-beschlusse-und-wahlen",
+   "titel": "Beurkundungsgegenstand: Gegenstandsgleichheit nach § 109 Abs. 2 GNotKG – Beschlüsse und Wahlen",
+   "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-gegenstandsgleichheit-nach-109-abs-2-gnotkg-grundsatze-und-einzelfalle",
+   "titel": "Beurkundungsgegenstand: Gegenstandsgleichheit nach § 109 Abs. 2 GNotKG – Grundsätze und Einzelfälle",
+   "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-grundsatze-bei-mehreren-gegenstanden",
+   "titel": "Beurkundungsgegenstand: Grundsätze bei mehreren Gegenständen",
+   "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-vergleichsberechnung-94-gnotkg",
+   "titel": "Beurkundungsgegenstand: Vergleichsberechnung (§ 94 GNotKG)",
+   "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-verschiedene-und-besondere-gegenstande-110-111-gnotkg",
+   "titel": "Beurkundungsgegenstand: verschiedene und besondere Gegenstände (§§ 110, 111 GNotKG)",
+   "abschnitt": "Beurkundungsgegenstand und Vergleichsberechnung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-beglaubigung-von-dokumenten-kv-25102-gnotkg",
+   "titel": "Notargebühren: Beglaubigung von Dokumenten (KV 25102 GNotKG)",
+   "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-einmalige-gebuhrenerhebung-93-gnotkg",
+   "titel": "Notargebühren: einmalige Gebührenerhebung (§ 93 GNotKG)",
+   "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-einseitige-erklarungen-und-besondere-falle-kv-21200-21201-gnotkg",
+   "titel": "Notargebühren: einseitige Erklärungen und besondere Fälle (KV 21200, 21201 GNotKG)",
+   "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-entwurf-mit-unterschriftsbeglaubigung-und-serienentwurf",
+   "titel": "Notargebühren: Entwurf mit Unterschriftsbeglaubigung und Serienentwurf",
+   "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-gliederung-des-kostenverzeichnisses-verfahren-und-geschafte",
+   "titel": "Notargebühren: Gliederung des Kostenverzeichnisses, Verfahren und Geschäfte",
+   "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-isolierter-entwurf-kv-24100-24102-gnotkg",
+   "titel": "Notargebühren: isolierter Entwurf (KV 24100–24102 GNotKG)",
+   "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-mindest-fest-und-hochstgebuhren",
+   "titel": "Notargebühren: Mindest-, Fest- und Höchstgebühren",
+   "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-unterschriftsbeglaubigung-kv-25100-25101-gnotkg",
+   "titel": "Notargebühren: Unterschriftsbeglaubigung (KV 25100, 25101 GNotKG)",
+   "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-verbrauchervertrag-und-vorzeitige-beendigung",
+   "titel": "Notargebühren: Verbrauchervertrag und vorzeitige Beendigung",
+   "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-vertrage-angebot-annahme-und-isolierte-auflassung-kv-21100-21102-gnotkg",
+   "titel": "Notargebühren: Verträge, Angebot, Annahme und isolierte Auflassung (KV 21100–21102 GNotKG)",
+   "abschnitt": "Gebühren für Beurkundung, Entwurf und Beglaubigung"
+  }
+ ]
+}

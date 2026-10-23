@@ -1,0 +1,114 @@
+{
+ "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+ "kapitel_titel": "Vorkaufs-, Ankaufs- und Wiederkaufsrechte",
+ "teil": 1,
+ "teile": 1,
+ "datei": "data/fragen/vorkaufs-ankaufs-und-wiederkaufsrechte__1.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/dingliches-vorkaufsrecht-bestellung-form-und-eintragung",
+   "titel": "Dingliches Vorkaufsrecht: Bestellung, Form und Eintragung",
+   "abschnitt": "Dingliches Vorkaufsrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/dingliches-vorkaufsrecht-erloschen",
+   "titel": "Dingliches Vorkaufsrecht: Erlöschen",
+   "abschnitt": "Dingliches Vorkaufsrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/dingliches-vorkaufsrecht-inhalt-ubertragbarkeit-und-verkaufsfalle",
+   "titel": "Dingliches Vorkaufsrecht: Inhalt, Übertragbarkeit und Verkaufsfälle",
+   "abschnitt": "Dingliches Vorkaufsrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-zum-festen-preis-ankaufsrecht-und-wiederkaufsrecht",
+   "titel": "Vorkaufsrecht zum festen Preis, Ankaufsrecht und Wiederkaufsrecht",
+   "abschnitt": "Dingliches Vorkaufsrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-arten-zweck-und-abgrenzung",
+   "titel": "Vorkaufsrecht: Arten, Zweck und Abgrenzung",
+   "abschnitt": "Dingliches Vorkaufsrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-mehrere-grundstucke-und-mehrere-berechtigte",
+   "titel": "Vorkaufsrecht: mehrere Grundstücke und mehrere Berechtigte",
+   "abschnitt": "Dingliches Vorkaufsrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-ruckabwicklung-mit-dem-vertragskaufer-nach-der-ausubung",
+   "titel": "Vorkaufsrecht: Rückabwicklung mit dem Vertragskäufer nach der Ausübung",
+   "abschnitt": "Dingliches Vorkaufsrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-umgehung-und-vorbehalte-im-kaufvertrag",
+   "titel": "Vorkaufsrecht: Umgehung und Vorbehalte im Kaufvertrag",
+   "abschnitt": "Dingliches Vorkaufsrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-vorkaufsfall-mitteilung-frist-und-ausubung",
+   "titel": "Vorkaufsrecht: Vorkaufsfall, Mitteilung, Frist und Ausübung",
+   "abschnitt": "Dingliches Vorkaufsrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/dingliches-vorkaufsrecht/vorkaufsrecht-zweiter-kaufvertrag-und-vormerkungswirkung-nach-der-ausubung",
+   "titel": "Vorkaufsrecht: zweiter Kaufvertrag und Vormerkungswirkung nach der Ausübung",
+   "abschnitt": "Dingliches Vorkaufsrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/landesrechtliche-vorkaufsrechte-und-genehmigung-nach-dem-asvg-in-baden-wurttemberg",
+   "titel": "Landesrechtliche Vorkaufsrechte und Genehmigung nach dem ASVG in Baden-Württemberg",
+   "abschnitt": "Gesetzliche Vorkaufsrechte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/offentlich-rechtliche-vorkaufsrechte-bedeutung-wirkungsarten-und-absicherung-im-kaufvertrag",
+   "titel": "Öffentlich-rechtliche Vorkaufsrechte: Bedeutung, Wirkungsarten und Absicherung im Kaufvertrag",
+   "abschnitt": "Gesetzliche Vorkaufsrechte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/offentlich-rechtliche-vorkaufsrechte-vertrag-mit-dem-vorkaufsberechtigten-kosten-und-nachbeurkundung",
+   "titel": "Öffentlich-rechtliche Vorkaufsrechte: Vertrag mit dem Vorkaufsberechtigten, Kosten und Nachbeurkundung",
+   "abschnitt": "Gesetzliche Vorkaufsrechte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/vorkaufsrecht-der-gemeinde-nach-dem-baugb-ausschluss-abwendung-und-wohl-der-allgemeinheit",
+   "titel": "Vorkaufsrecht der Gemeinde nach dem BauGB: Ausschluss, Abwendung und Wohl der Allgemeinheit",
+   "abschnitt": "Gesetzliche Vorkaufsrechte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/vorkaufsrecht-der-gemeinde-nach-dem-baugb-gestaltung-im-grundstuckskaufvertrag",
+   "titel": "Vorkaufsrecht der Gemeinde nach dem BauGB: Gestaltung im Grundstückskaufvertrag",
+   "abschnitt": "Gesetzliche Vorkaufsrechte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/vorkaufsrecht-der-gemeinde-nach-dem-baugb-preislimitierte-ausubung-ausubung-zugunsten-dritter-und-negativattest",
+   "titel": "Vorkaufsrecht der Gemeinde nach dem BauGB: preislimitierte Ausübung, Ausübung zugunsten Dritter und Negativattest",
+   "abschnitt": "Gesetzliche Vorkaufsrechte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/vorkaufsrecht-der-gemeinde-nach-dem-baugb-tatbestande-mitteilung-und-ausubung",
+   "titel": "Vorkaufsrecht der Gemeinde nach dem BauGB: Tatbestände, Mitteilung und Ausübung",
+   "abschnitt": "Gesetzliche Vorkaufsrechte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/vorkaufsrecht-der-gemeinde-nach-dem-baugb-vorkaufsfalle-und-tatbestande-24-25-baugb",
+   "titel": "Vorkaufsrecht der Gemeinde nach dem BauGB: Vorkaufsfälle und Tatbestände (§§ 24, 25 BauGB)",
+   "abschnitt": "Gesetzliche Vorkaufsrechte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/vorkaufsrecht-der-miterben",
+   "titel": "Vorkaufsrecht der Miterben",
+   "abschnitt": "Gesetzliche Vorkaufsrechte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/weitere-gesetzliche-vorkaufsrechte-siedlungsrecht-landesrecht-mieter",
+   "titel": "Weitere gesetzliche Vorkaufsrechte: Siedlungsrecht, Landesrecht, Mieter",
+   "abschnitt": "Gesetzliche Vorkaufsrechte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/weitere-offentlich-rechtliche-vorkaufsrechte-naturschutz-hochwasserschutz-fachplanungs-und-landesrecht",
+   "titel": "Weitere öffentlich-rechtliche Vorkaufsrechte: Naturschutz, Hochwasserschutz, Fachplanungs- und Landesrecht",
+   "abschnitt": "Gesetzliche Vorkaufsrechte"
+  }
+ ]
+}

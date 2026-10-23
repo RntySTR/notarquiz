@@ -1,0 +1,94 @@
+{
+ "kapitel": "notarkosten",
+ "kapitel_titel": "Notarkosten",
+ "teil": 3,
+ "teile": 4,
+ "datei": "data/fragen/notarkosten__3.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-ubergabevertrag-und-vorbehaltene-rechte-97-46-52-gnotkg",
+   "titel": "Geschäftswert: Übergabevertrag und vorbehaltene Rechte (§§ 97, 46, 52 GNotKG)",
+   "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-verfugungen-von-todes-wegen-und-verzichtsvertrage-102-gnotkg",
+   "titel": "Geschäftswert: Verfügungen von Todes wegen und Verzichtsverträge (§ 102 GNotKG)",
+   "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-vorsorgevollmacht-betreuungs-und-patientenverfugung-98-36-109-110-gnotkg",
+   "titel": "Geschäftswert: Vorsorgevollmacht, Betreuungs- und Patientenverfügung (§§ 98, 36, 109, 110 GNotKG)",
+   "abschnitt": "Geschäftswert in einzelnen Rechtsgebieten"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-auffangwert-nach-36-und-verhaltnis-zu-97-gnotkg",
+   "titel": "Geschäftswert: Auffangwert nach § 36 und Verhältnis zu § 97 GNotKG",
+   "abschnitt": "Geschäftswert: Allgemeine Vorschriften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-bauverpflichtung-bei-auflassung-und-grundbucheintragung-47-s-2-35-abs-1-gnotkg",
+   "titel": "Geschäftswert: Bauverpflichtung bei Auflassung und Grundbucheintragung (§ 47 S. 2, § 35 Abs. 1 GNotKG)",
+   "abschnitt": "Geschäftswert: Allgemeine Vorschriften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-bauverpflichtung-und-schuldrechtliche-verpflichtungen-50-gnotkg",
+   "titel": "Geschäftswert: Bauverpflichtung und schuldrechtliche Verpflichtungen (§ 50 GNotKG)",
+   "abschnitt": "Geschäftswert: Allgemeine Vorschriften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-bewertungszeitpunkt-nebengegenstande-schuldenabzugsverbot",
+   "titel": "Geschäftswert: Bewertungszeitpunkt, Nebengegenstände, Schuldenabzugsverbot",
+   "abschnitt": "Geschäftswert: Allgemeine Vorschriften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-hinzurechnungen-beim-kauf",
+   "titel": "Geschäftswert: Hinzurechnungen beim Kauf",
+   "abschnitt": "Geschäftswert: Allgemeine Vorschriften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-kaufvertrag-auflassung-und-austauschvertrage-47-97-abs-3-gnotkg",
+   "titel": "Geschäftswert: Kaufvertrag, Auflassung und Austauschverträge (§§ 47, 97 Abs. 3 GNotKG)",
+   "abschnitt": "Geschäftswert: Allgemeine Vorschriften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-mindest-fest-und-hochstwerte-mitwirkungspflicht",
+   "titel": "Geschäftswert: Mindest-, Fest- und Höchstwerte; Mitwirkungspflicht",
+   "abschnitt": "Geschäftswert: Allgemeine Vorschriften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-nutzungs-und-leistungsrechte-jahreswert-entgelt-abgrenzung",
+   "titel": "Geschäftswert: Nutzungs- und Leistungsrechte – Jahreswert, Entgelt, Abgrenzung",
+   "abschnitt": "Geschäftswert: Allgemeine Vorschriften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-nutzungs-und-leistungsrechte-laufzeit-und-vervielfaltiger-52-gnotkg",
+   "titel": "Geschäftswert: Nutzungs- und Leistungsrechte – Laufzeit und Vervielfältiger (§ 52 GNotKG)",
+   "abschnitt": "Geschäftswert: Allgemeine Vorschriften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-sachen-und-grundstucke-46-gnotkg",
+   "titel": "Geschäftswert: Sachen und Grundstücke (§ 46 GNotKG)",
+   "abschnitt": "Geschäftswert: Allgemeine Vorschriften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-vollmachten-und-zustimmungen-98-gnotkg",
+   "titel": "Geschäftswert: Vollmachten und Zustimmungen (§ 98 GNotKG)",
+   "abschnitt": "Geschäftswert: Allgemeine Vorschriften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-vollzug-betreuung-und-weitere-einzelvorschriften-104-112-124-gnotkg",
+   "titel": "Geschäftswert: Vollzug, Betreuung und weitere Einzelvorschriften (§§ 104, 112–124 GNotKG)",
+   "abschnitt": "Geschäftswert: Allgemeine Vorschriften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-wiederkaufsrecht-bei-mittelbarer-bauverpflichtung-51-abs-1-s-2-abs-3-gnotkg",
+   "titel": "Geschäftswert: Wiederkaufsrecht bei mittelbarer Bauverpflichtung (§ 51 Abs. 1 S. 2, Abs. 3 GNotKG)",
+   "abschnitt": "Geschäftswert: Allgemeine Vorschriften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-belehrung-uber-kosten-und-kostenauskunft",
+   "titel": "Notarkosten: Belehrung über Kosten und Kostenauskunft",
+   "abschnitt": "Grundlagen und Kostenschuldner"
+  }
+ ]
+}

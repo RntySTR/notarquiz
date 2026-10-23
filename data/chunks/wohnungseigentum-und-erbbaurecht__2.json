@@ -1,0 +1,99 @@
+{
+ "kapitel": "wohnungseigentum-und-erbbaurecht",
+ "kapitel_titel": "Wohnungseigentum und Erbbaurecht",
+ "teil": 2,
+ "teile": 5,
+ "datei": "data/fragen/wohnungseigentum-und-erbbaurecht__2.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondereigentumsfahigkeit-raume-des-gemeinschaftlichen-gebrauchs-zugange-und-mehrzweckraume",
+   "titel": "Sondereigentumsfähigkeit: Räume des gemeinschaftlichen Gebrauchs, Zugänge und Mehrzweckräume",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondernutzungsrechte-nach-dem-weg",
+   "titel": "Sondernutzungsrechte nach dem WEG",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/stellplatze-und-freiflachen-sondereigentum-oder-sondernutzungsrecht",
+   "titel": "Stellplätze und Freiflächen: Sondereigentum oder Sondernutzungsrecht",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilung-nach-3-weg-und-8-weg-rechtsfolgen-verbindung-beider-wege-und-kosten",
+   "titel": "Teilung nach § 3 WEG und § 8 WEG: Rechtsfolgen, Verbindung beider Wege und Kosten",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-nach-8-weg-erklarender-vertretung-form-und-wirksamwerden",
+   "titel": "Teilungserklärung nach § 8 WEG: Erklärender, Vertretung, Form und Wirksamwerden",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-anderung-durch-den-teilenden-eigentumer",
+   "titel": "Teilungserklärung: Änderung durch den teilenden Eigentümer",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-eintragungsunterlagen-beurkundung-des-aufteilungsplans-und-vorlaufiger-plan",
+   "titel": "Teilungserklärung: Eintragungsunterlagen, Beurkundung des Aufteilungsplans und vorläufiger Plan",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-teilung-nach-8-weg-und-teilungsvertrag-nach-3-weg",
+   "titel": "Teilungserklärung: Teilung nach § 8 WEG und Teilungsvertrag nach § 3 WEG",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungsvertrag-nach-3-weg-miteigentumer-dinglicher-vertrag-und-form",
+   "titel": "Teilungsvertrag nach § 3 WEG: Miteigentümer, dinglicher Vertrag und Form",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungs-und-teileigentum-wohnung-nebenraume-und-selbstandiges-teileigentum",
+   "titel": "Wohnungs- und Teileigentum: Wohnung, Nebenräume und selbständiges Teileigentum",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungs-und-teileigentum-zweckbestimmung-und-zweckwidrige-nutzung",
+   "titel": "Wohnungs- und Teileigentum: Zweckbestimmung und zweckwidrige Nutzung",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungseigentum-und-uberbau-tiefgarage-eigengrenzuberbau-und-uberhangende-bauteile",
+   "titel": "Wohnungseigentum und Überbau: Tiefgarage, Eigengrenzüberbau und überhängende Bauteile",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungseigentum-und-uberbau-voraussetzungen-nachweis-und-sicherung",
+   "titel": "Wohnungseigentum und Überbau: Voraussetzungen, Nachweis und Sicherung",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungseigentum-motive-vorratsteilung-und-alternativen-zur-begrundung",
+   "titel": "Wohnungseigentum: Motive, Vorratsteilung und Alternativen zur Begründung",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungseigentum-sondereigentum-gemeinschaftseigentum-und-miteigentumsanteil",
+   "titel": "Wohnungseigentum: Sondereigentum, Gemeinschaftseigentum und Miteigentumsanteil",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungsgrundbuch-anlegung-bezugnahme-und-eintragung-von-sondernutzungsrechten",
+   "titel": "Wohnungsgrundbuch: Anlegung, Bezugnahme und Eintragung von Sondernutzungsrechten",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/beschluss-der-wohnungseigentumer-beschlusskompetenz-anfechtbarkeit-und-nichtigkeit",
+   "titel": "Beschluss der Wohnungseigentümer: Beschlusskompetenz, Anfechtbarkeit und Nichtigkeit",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-durchfuhrung-online-teilnahme-umlaufbeschluss-und-niederschrift",
+   "titel": "Eigentümerversammlung: Durchführung, Online-Teilnahme, Umlaufbeschluss und Niederschrift",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  }
+ ]
+}

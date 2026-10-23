@@ -1,0 +1,99 @@
+{
+ "kapitel": "wohnungseigentum-und-erbbaurecht",
+ "kapitel_titel": "Wohnungseigentum und Erbbaurecht",
+ "teil": 3,
+ "teile": 5,
+ "datei": "data/fragen/wohnungseigentum-und-erbbaurecht__3.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-einberufung-form-und-frist",
+   "titel": "Eigentümerversammlung: Einberufung, Form und Frist",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-ort-zeit-und-einzuladende",
+   "titel": "Eigentümerversammlung: Ort, Zeit und Einzuladende",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-stimmrecht-mehrheit-und-stimmverbot",
+   "titel": "Eigentümerversammlung: Stimmrecht, Mehrheit und Stimmverbot",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gebrauchsregelungen-beschluss-oder-vereinbarung",
+   "titel": "Gebrauchsregelungen: Beschluss oder Vereinbarung",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-ausubungsbefugnis-nach-9a-abs-2-weg",
+   "titel": "Gemeinschaft der Wohnungseigentümer: Ausübungsbefugnis nach § 9a Abs. 2 WEG",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-erwerb-von-grundbesitz-entstehung-und-ende",
+   "titel": "Gemeinschaft der Wohnungseigentümer: Erwerb von Grundbesitz, Entstehung und Ende",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-mangelrechte-gegen-den-bautrager-und-abnahme-des-gemeinschaftseigentums",
+   "titel": "Gemeinschaft der Wohnungseigentümer: Mängelrechte gegen den Bauträger und Abnahme des Gemeinschaftseigentums",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-rechtsfahigkeit-gemeinschaftsvermogen-und-haftung",
+   "titel": "Gemeinschaft der Wohnungseigentümer: Rechtsfähigkeit, Gemeinschaftsvermögen und Haftung",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaftsordnung-fur-besondere-anlagen-betreutes-wohnen-und-reihenhauser",
+   "titel": "Gemeinschaftsordnung für besondere Anlagen: betreutes Wohnen und Reihenhäuser",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/hausgeld-beitragspflicht-falligkeit-schuldner-und-erwerberhaftung",
+   "titel": "Hausgeld: Beitragspflicht, Fälligkeit, Schuldner und Erwerberhaftung",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/kosten-und-lasten-des-gemeinschaftlichen-eigentums-heizkostenverordnung",
+   "titel": "Kosten und Lasten des gemeinschaftlichen Eigentums: Heizkostenverordnung",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/kosten-und-lasten-des-gemeinschaftlichen-eigentums-verteilung-rucklage-und-versicherung",
+   "titel": "Kosten und Lasten des gemeinschaftlichen Eigentums: Verteilung, Rücklage und Versicherung",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/mehrhausanlage-untergemeinschaften-in-der-gemeinschaftsordnung",
+   "titel": "Mehrhausanlage: Untergemeinschaften in der Gemeinschaftsordnung",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/offnungsklausel-und-wirkung-von-beschlussen-gegenuber-sondernachfolgern",
+   "titel": "Öffnungsklausel und Wirkung von Beschlüssen gegenüber Sondernachfolgern",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/sondernutzungsrechte-begrundung-bestimmtheit-und-eintragung",
+   "titel": "Sondernutzungsrechte: Begründung, Bestimmtheit und Eintragung",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/sondernutzungsrechte-spatere-zuweisung-bedingungslosung",
+   "titel": "Sondernutzungsrechte: spätere Zuweisung – Bedingungslösung",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/sondernutzungsrechte-spatere-zuweisung-parklosung-und-personliches-sondernutzungsrecht",
+   "titel": "Sondernutzungsrechte: spätere Zuweisung – Parklösung und persönliches Sondernutzungsrecht",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/sondernutzungsrechte-umfang-kosten-berechtigte-und-belastung",
+   "titel": "Sondernutzungsrechte: Umfang, Kosten, Berechtigte und Belastung",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  }
+ ]
+}

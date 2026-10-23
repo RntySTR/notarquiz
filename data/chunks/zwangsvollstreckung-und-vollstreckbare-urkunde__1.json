@@ -1,0 +1,94 @@
+{
+ "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+ "kapitel_titel": "Zwangsvollstreckung und vollstreckbare Urkunde",
+ "teil": 1,
+ "teile": 2,
+ "datei": "data/fragen/zwangsvollstreckung-und-vollstreckbare-urkunde__1.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/vollstreckungsklausel-funktion-zustandigkeit-und-qualifizierte-klausel",
+   "titel": "Vollstreckungsklausel: Funktion, Zuständigkeit und qualifizierte Klausel",
+   "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/vollstreckungsklausel-wirkung-und-weitere-vollstreckbare-ausfertigung",
+   "titel": "Vollstreckungsklausel: Wirkung und weitere vollstreckbare Ausfertigung",
+   "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-antrag-und-vollstreckungstitel",
+   "titel": "Zwangsvollstreckung: Antrag und Vollstreckungstitel",
+   "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-grundbegriffe-verfahrensarten-und-vollstreckungsorgane",
+   "titel": "Zwangsvollstreckung: Grundbegriffe, Verfahrensarten und Vollstreckungsorgane",
+   "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-rechtsbehelfe",
+   "titel": "Zwangsvollstreckung: Rechtsbehelfe",
+   "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-vollstreckungsarten-nach-gegenstand-und-anspruch",
+   "titel": "Zwangsvollstreckung: Vollstreckungsarten nach Gegenstand und Anspruch",
+   "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-zustellung-des-titels-und-wartefrist",
+   "titel": "Zwangsvollstreckung: Zustellung des Titels und Wartefrist",
+   "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-zustellungsarten-zustellungsmangel-und-vollstreckungshindernisse",
+   "titel": "Zwangsvollstreckung: Zustellungsarten, Zustellungsmängel und Vollstreckungshindernisse",
+   "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/klauselumschreibung/klauselumschreibung-abtretung-von-forderung-und-grundschuld",
+   "titel": "Klauselumschreibung: Abtretung von Forderung und Grundschuld",
+   "abschnitt": "Klauselumschreibung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/klauselumschreibung/klauselumschreibung-funktion-und-rechtsnachfolge",
+   "titel": "Klauselumschreibung: Funktion und Rechtsnachfolge",
+   "abschnitt": "Klauselumschreibung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/klauselumschreibung/klauselumschreibung-sicherungsvertrag-auslegung-rechtsnachfolgekette-und-kosten",
+   "titel": "Klauselumschreibung: Sicherungsvertrag, Auslegung, Rechtsnachfolgekette und Kosten",
+   "abschnitt": "Klauselumschreibung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/klauselumschreibung/klauselumschreibung-umwandlung-namensanderung-eigentumserwerb-und-erbfolge",
+   "titel": "Klauselumschreibung: Umwandlung, Namensänderung, Eigentumserwerb und Erbfolge",
+   "abschnitt": "Klauselumschreibung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/pfandung-kaufpreisanspruch-beim-grundstuckskaufvertrag",
+   "titel": "Pfändung: Kaufpreisanspruch beim Grundstückskaufvertrag",
+   "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/pfandung-notaranderkonto",
+   "titel": "Pfändung: Notaranderkonto",
+   "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangshypothek",
+   "titel": "Zwangshypothek",
+   "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-geringstes-gebot-und-rangklassen",
+   "titel": "Zwangsversteigerung: geringstes Gebot und Rangklassen",
+   "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-grundschuldzinsen",
+   "titel": "Zwangsversteigerung: Grundschuldzinsen",
+   "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung"
+  }
+ ]
+}

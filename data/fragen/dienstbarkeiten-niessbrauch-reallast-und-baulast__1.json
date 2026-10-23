@@ -352,5 +352,679 @@
   "frage": "Der Eintragungsvermerk einer Dienstbarkeit in Abteilung II muss den Kern des Rechts schlagwortartig bezeichnen und den Berechtigten angeben; wegen des übrigen Inhalts genügt die Bezugnahme auf die Bewilligung.",
   "antwort": true,
   "erklaerung": "Die Dienstbarkeit wird in Abteilung II des dienenden Grundstücks eingetragen. Der Vermerk muss den Kern des Rechts zumindest schlagwortartig (z. B. Wegerecht, Baubeschränkung) und stets den Berechtigten angeben: bei der beschränkten persönlichen Dienstbarkeit die Person, bei der Grunddienstbarkeit den jeweiligen Eigentümer eines genau bezeichneten Grundstücks. Für den übrigen Inhalt genügt die Bezugnahme auf die Eintragungsbewilligung."
+ },
+ {
+  "id": "dien1-017",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Grunddienstbarkeit",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/grunddienstbarkeit",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1018 BGB",
+   "§ 903 BGB",
+   "§ 1004 BGB"
+  ],
+  "frage": "Ordne die drei nach § 1018 BGB zulässigen Inhalte der Grunddienstbarkeit den typischen Beispielen zu.",
+  "paare": [
+   [
+    "Benutzungsdienstbarkeit",
+    "Wege-, Fahrt- und Leitungsrechte, Gewerbeausübungs- und Überbaurechte"
+   ],
+   [
+    "Unterlassungsdienstbarkeit",
+    "Bebauungs- oder Gestaltungsbeschränkungen, Fensteröffnungs- oder Gewerbeverbote"
+   ],
+   [
+    "Rechtsausschließende (Duldungs-)Dienstbarkeit",
+    "Hinnahme von Lärm- oder Geruchseinwirkungen ohne Abwehrrecht aus §§ 903, 1004 BGB"
+   ]
+  ],
+  "erklaerung": "§ 1018 BGB lässt drei Inhalte zu: Benutzung des Grundstücks in einzelnen Beziehungen, Unterlassen gewisser Handlungen durch den Eigentümer und Ausschluss eines Rechts, das sich aus dem Eigentum am belasteten Grundstück gegenüber dem herrschenden ergibt. Bei der Benutzungs- und der Unterlassungsdienstbarkeit muss dem belasteten Eigentümer stets eine Restnutzung verbleiben; eine Nutzung nach Belieben ist wegen des Typenzwangs dem Nießbrauch vorbehalten."
+ },
+ {
+  "id": "dien1-018",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Grunddienstbarkeit",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/grunddienstbarkeit",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 9 GBO",
+   "§ 96 BGB",
+   "§ 876 S. 2 BGB",
+   "§ 21 GBO"
+  ],
+  "frage": "Welche Aussage zum Herrschvermerk bei der Grunddienstbarkeit trifft zu?",
+  "optionen": [
+   "Er ist Entstehungsvoraussetzung der Grunddienstbarkeit und wird in Abteilung II des herrschenden Grundstücks eingetragen",
+   "Er ist nicht zwingend, wird im Bestandsverzeichnis des herrschenden Grundstücks eingetragen (§ 9 GBO) und sichert, dass bei Aufhebung die Zustimmung der am herrschenden Grundstück dinglich Berechtigten nicht übersehen wird",
+   "Er ersetzt die Eintragung beim dienenden Grundstück, weil die Grunddienstbarkeit Bestandteil des herrschenden Grundstücks ist (§ 96 BGB)",
+   "Er ist zwingend, wenn die Grunddienstbarkeit mehreren herrschenden Grundstücken dient"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Grunddienstbarkeit wird nach § 96 BGB Bestandteil des herrschenden Grundstücks und kann deshalb in dessen Bestandsverzeichnis vermerkt werden (§ 9 GBO, Aktiv- oder Herrschvermerk). Der Vermerk ist nicht zwingend; seine Vorteile sind vollständige Information des Eigentümers, Sicherung der nach § 876 S. 2 BGB, § 21 GBO nötigen Zustimmung der am herrschenden Grundstück dinglich Berechtigten bei Aufhebung oder Änderung und das leichtere Auffinden des herrschenden Grundstücks. Die konstitutive Eintragung erfolgt stets beim dienenden Grundstück; der Herrschvermerk ersetzt sie nicht."
+ },
+ {
+  "id": "dien1-019",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Grunddienstbarkeit",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/grunddienstbarkeit",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 7 Abs. 2 GBO"
+  ],
+  "frage": "Ein Miteigentumsanteil an einem Grundstück kann mit einer Grunddienstbarkeit belastet werden, eine unvermessene reale Teilfläche dagegen nicht.",
+  "antwort": false,
+  "erklaerung": "Es ist genau umgekehrt: Belastungsgegenstand der Grunddienstbarkeit ist das Grundstück insgesamt oder eine reale Teilfläche, gleich ob sie vermessen ist; dazu passt § 7 Abs. 2 GBO, wonach die Abschreibung von Grundstücksteilen bei Belastung mit Dienstbarkeiten unter bestimmten Voraussetzungen unterbleiben kann. Miteigentumsanteile können dagegen nicht mit einer Grunddienstbarkeit belastet werden."
+ },
+ {
+  "id": "dien1-020",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Grunddienstbarkeit",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/grunddienstbarkeit",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1019 Abs. 1 BGB",
+   "§ 1018 BGB"
+  ],
+  "frage": "Eigentümer A will zugunsten des Nachbargrundstücks des B eine Grunddienstbarkeit bestellen, nach der B das gesamte Grundstück des A nach Belieben nutzen darf. Welche Grenze steht der Eintragung entgegen?",
+  "optionen": [
+   "Der Vorteil nach § 1019 Abs. 1 BGB muss wirtschaftlich sein; ideelle oder ästhetische Vorteile genügen nicht",
+   "Die Nutzung muss auf einzelne Beziehungen beschränkt bleiben und dem belasteten Eigentümer eine Restnutzung belassen; Nutzung nach Belieben ist dem Nießbrauch vorbehalten",
+   "Eine Grunddienstbarkeit darf nur Unterlassungspflichten, keine Benutzungsrechte enthalten",
+   "Die Grunddienstbarkeit darf nicht zugunsten eines unmittelbaren Nachbargrundstücks bestellt werden"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei der Benutzungsdienstbarkeit muss die Nutzung auf einzelne Beziehungen beschränkt bleiben; eine Restnutzung muss beim belasteten Eigentümer verbleiben. Eine Nutzung nach Belieben ist dem Nießbrauch vorbehalten, weil der sachenrechtliche Typenzwang eine Vermischung nicht zulässt (§ 1018 BGB). Die erste Option irrt: Der Vorteil für das herrschende Grundstück nach § 1019 Abs. 1 BGB kann auch hygienisch, ideell oder ästhetisch sein."
+ },
+ {
+  "id": "dien1-021",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Grunddienstbarkeit",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/grunddienstbarkeit",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1026 BGB",
+   "§ 428 BGB"
+  ],
+  "frage": "Warum empfiehlt es sich, den Ausübungsbereich einer Grunddienstbarkeit auf einer der Urkunde beigefügten Karte zu markieren?",
+  "optionen": [
+   "Weil die Grunddienstbarkeit sonst mangels Bestimmtheit des Belastungsgegenstands nicht eingetragen werden kann",
+   "Weil bei späterer Teilung des dienenden Grundstücks die Dienstbarkeit auf dem nicht betroffenen Teil leichter gelöscht werden kann (§ 1026 BGB)",
+   "Weil nur dann ein Herrschvermerk nach § 9 GBO eingetragen werden darf",
+   "Weil ohne Karte Gesamtberechtigung nach § 428 BGB vermutet wird"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Ausübungsbereich ist vom Belastungsgegenstand zu trennen; belastet ist regelmäßig das ganze Grundstück. Wird der Ausübungsbereich in einer Karte zur Urkunde gekennzeichnet, lässt sich die Dienstbarkeit nach einer Teilung des dienenden Grundstücks auf dem nicht betroffenen Teil leichter löschen (§ 1026 BGB). Die Eintragung selbst scheitert nicht an einer fehlenden Karte, denn die Festlegung des Ausübungsbereichs kann auch der tatsächlichen Ausübung überlassen bleiben."
+ },
+ {
+  "id": "dien1-022",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Grunddienstbarkeit: Ausübungsstelle – Bestimmtheit, Verlegung und Ausübungsregelung",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/grunddienstbarkeit-ausubungsstelle-bestimmtheit-verlegung-und-ausubungsregelung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1023 BGB"
+  ],
+  "frage": "Wer kann nach § 1023 BGB die Verlegung der Ausübungsstelle einer Grunddienstbarkeit verlangen?",
+  "optionen": [
+   "Der Eigentümer des herrschenden Grundstücks, wenn die bisherige Stelle für ihn unbequem geworden ist",
+   "Nur der aus der Dienstbarkeit verpflichtete Eigentümer des belasteten Grundstücks",
+   "Beide Eigentümer gleichermaßen, weil ihr Verhältnis einer Gemeinschaft ähnelt",
+   "Das Grundbuchamt von Amts wegen bei Teilung des dienenden Grundstücks"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Verlegung nach § 1023 BGB kann nur der aus der Dienstbarkeit verpflichtete Eigentümer des belasteten Grundstücks verlangen; der Eigentümer des herrschenden Grundstücks hat aus § 1023 BGB keinen Verlegungsanspruch (OLG Karlsruhe, 12 U 137/23; BGH, V ZR 36/14). Die Gemeinschaftsähnlichkeit führt nicht zu einem beiderseitigen Verlegungsrecht, sondern allenfalls zu einem Anspruch auf eine Ausübungsregelung nach § 745 Abs. 2 BGB."
+ },
+ {
+  "id": "dien1-023",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Grunddienstbarkeit: Ausübungsstelle – Bestimmtheit, Verlegung und Ausübungsregelung",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/grunddienstbarkeit-ausubungsstelle-bestimmtheit-verlegung-und-ausubungsregelung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1023 BGB"
+  ],
+  "frage": "Die Ausübungsstelle eines Wegerechts war in der Bewilligung durch Lageplan festgelegt. Eigentümer und Berechtigter einigen sich formlos auf einen neuen Verlauf. Was gilt für die Grundbucheintragung der Verlegung?",
+  "optionen": [
+   "Eine Eintragung ist entbehrlich, da Verlegungen der Ausübungsstelle nie eintragungsbedürftig sind",
+   "Die Verlegung muss im Grundbuch eingetragen werden, weil der bisherige Ausübungsbereich rechtsgeschäftlich vereinbart war",
+   "Eine Eintragung ist nur nötig, wenn die neue Stelle außerhalb des belasteten Grundstücks liegt",
+   "Die Verlegung ist unwirksam, weil § 1023 BGB nur eine gerichtliche Verlegung zulässt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Eine Verlegung des Ausübungsbereichs muss im Grundbuch eingetragen werden, wenn der bisherige Ausübungsbereich rechtsgeschäftlich vereinbart war (OLG Karlsruhe, 12 U 137/23; BGH, V ZR 237/73). Nur wenn sich die Ausübungsstelle allein aus der tatsächlichen Ausübung ergab, genügt eine formlose neue Absprache (BGH, V ZR 140/04). Der typische Fehler ist, die Verlegung einer rechtsgeschäftlich festgelegten Stelle nur zu vereinbaren und nicht eintragen zu lassen."
+ },
+ {
+  "id": "dien1-024",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Grunddienstbarkeit: Ausübungsstelle – Bestimmtheit, Verlegung und Ausübungsregelung",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/grunddienstbarkeit-ausubungsstelle-bestimmtheit-verlegung-und-ausubungsregelung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Ein Fahrrecht erlaubt dem Berechtigten regelmäßig auch, auf der Ausübungsfläche mit dem Fahrzeug zu rangieren.",
+  "antwort": true,
+  "erklaerung": "Nach der Rechtsprechung (OLG Karlsruhe, 12 U 105/18; OLGR Saarbrücken 2004, 391; OLGR Düsseldorf 1997, 27) umfasst ein Fahrrecht regelmäßig auch das Rangieren mit dem Fahrzeug auf der Ausübungsfläche. Das Rangieren ist notwendiger Bestandteil des Befahrens und keine über das Recht hinausgehende Nutzung."
+ },
+ {
+  "id": "dien1-025",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Grunddienstbarkeit: Ausübungsstelle – Bestimmtheit, Verlegung und Ausübungsregelung",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/grunddienstbarkeit-ausubungsstelle-bestimmtheit-verlegung-und-ausubungsregelung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 745 Abs. 2 BGB"
+  ],
+  "frage": "Unter welcher Voraussetzung besteht zwischen Dienstbarkeitsberechtigtem und Eigentümer ein Anspruch auf eine Ausübungsregelung nach § 745 Abs. 2 BGB?",
+  "optionen": [
+   "Stets, sobald beide das belastete Grundstück gleichrangig nutzen dürfen",
+   "Nur wenn beide gleichrangig nutzen dürfen und gerade das Fehlen einer Regelung das Eigentum am dienenden Grundstück beeinträchtigt",
+   "Nur wenn die Ausübungsstelle rechtsgeschäftlich festgelegt wurde",
+   "Nur auf Verlangen des Eigentümers des herrschenden Grundstücks nach § 1023 BGB"
+  ],
+  "antwort": 1,
+  "erklaerung": "Dürfen Berechtigter und Eigentümer das Grundstück nach dem Inhalt der Dienstbarkeit gleichrangig nutzen, ähnelt ihr Verhältnis einer Gemeinschaft, sodass § 745 Abs. 2 BGB herangezogen wird (BGH, V ZR 164/07). Der Anspruch auf eine Ausübungsvereinbarung besteht aber nur, wenn gerade das Fehlen einer solchen Regelung das Eigentum am dienenden Grundstück beeinträchtigt; die bloße gleichrangige Nutzung genügt nicht."
+ },
+ {
+  "id": "dien1-026",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Grunddienstbarkeit: Beeinträchtigung durch Anlagen, Verjährung und Erlöschen (§ 1028 BGB)",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/grunddienstbarkeit-beeintrachtigung-durch-anlagen-verjahrung-und-erloschen-1028-bgb",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1028 Abs. 1 S. 1 BGB",
+   "§ 197 Abs. 1 Nr. 2 BGB",
+   "§ 195 BGB",
+   "§ 199 Abs. 1 BGB"
+  ],
+  "frage": "Auf dem dienenden Grundstück steht seit Jahren eine Garage, die das eingetragene Wegerecht vollständig unpassierbar macht. In welcher Frist verjährt der Beseitigungsanspruch?",
+  "optionen": [
+   "In drei Jahren nach §§ 195, 199 Abs. 1 BGB, weil es sich um eine Ausübungsstörung handelt",
+   "In dreißig Jahren analog § 197 Abs. 1 Nr. 2 BGB, weil die Anlage die Verwirklichung des Rechts selbst hindert",
+   "Überhaupt nicht, weil Ansprüche aus eingetragenen dinglichen Rechten unverjährbar sind",
+   "In zehn Jahren nach § 199 Abs. 4 BGB"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Beseitigungsanspruch gegen eine die Grunddienstbarkeit beeinträchtigende Anlage verjährt (§ 1028 Abs. 1 S. 1 BGB). Hindert die Anlage die Verwirklichung des Rechts selbst, gilt analog § 197 Abs. 1 Nr. 2 BGB die Frist von dreißig Jahren (BGH, V ZR 151/13; OLG Karlsruhe, 12 U 137/23). Die regelmäßige Dreijahresfrist der §§ 195, 199 Abs. 1 BGB greift nur, wenn die Anlage lediglich die Ausübung stört. Unverjährbar ist der Anspruch gerade nicht."
+ },
+ {
+  "id": "dien1-027",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Grunddienstbarkeit: Beeinträchtigung durch Anlagen, Verjährung und Erlöschen (§ 1028 BGB)",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/grunddienstbarkeit-beeintrachtigung-durch-anlagen-verjahrung-und-erloschen-1028-bgb",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1028 Abs. 1 S. 2 BGB"
+  ],
+  "frage": "Ist der Beseitigungsanspruch nach § 1028 Abs. 1 S. 1 BGB verjährt, erlischt die Grunddienstbarkeit insgesamt, auch soweit die Anlage ihr nicht widerspricht.",
+  "antwort": false,
+  "erklaerung": "Nach § 1028 Abs. 1 S. 2 BGB erlischt die Grunddienstbarkeit nur in dem Umfang, in dem der Bestand der Anlage ihr widerspricht. Im Übrigen bleibt das Recht bestehen. Der typische Fehler liegt eher umgekehrt darin, allein aus der Grundbucheintragung auf den vollen Fortbestand trotz einer lange bestehenden widersprechenden Anlage zu schließen."
+ },
+ {
+  "id": "dien1-028",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Wohnungsrecht: Inhalt, Abgrenzung und Alternativen",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/wohnungsrecht-inhalt-abgrenzung-und-alternativen",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1093 BGB",
+   "§ 1090 BGB"
+  ],
+  "frage": "Worin liegt der Unterschied zwischen einem Wohnungsrecht nach § 1093 BGB und einem bloßen Wohnrecht?",
+  "optionen": [
+   "Das Wohnungsrecht ist vererblich, das Wohnrecht nicht",
+   "Das Wohnungsrecht gewährt ausschließliche Nutzung unter Ausschluss des Eigentümers; beim Wohnrecht darf der Berechtigte die Räume nur neben dem Eigentümer mitbenutzen (§ 1090 BGB)",
+   "Das Wohnungsrecht wird als Reallast, das Wohnrecht als Dienstbarkeit eingetragen",
+   "Das Wohnungsrecht erfasst stets das ganze Gebäude, das Wohnrecht nur einzelne Räume"
+  ],
+  "antwort": 1,
+  "erklaerung": "Kennzeichen des Wohnungsrechts nach § 1093 BGB ist die ausschließliche Nutzungsbefugnis des Berechtigten; der Eigentümer ist von der Mitbenutzung der Räume ausgeschlossen. Darf der Berechtigte nur neben dem Eigentümer mitbenutzen, liegt eine gewöhnliche beschränkte persönliche Dienstbarkeit nach § 1090 BGB vor, das sogenannte Wohnrecht. Beide sind beschränkte persönliche Dienstbarkeiten und damit unvererblich; das Wohnungsrecht kann auch nur einen Gebäudeteil erfassen."
+ },
+ {
+  "id": "dien1-029",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Wohnungsrecht: Inhalt, Abgrenzung und Alternativen",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/wohnungsrecht-inhalt-abgrenzung-und-alternativen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1093 Abs. 3 BGB",
+   "§ 1090 BGB"
+  ],
+  "frage": "Das Wohnungsrecht erfasst die Erdgeschosswohnung eines Zweifamilienhauses. Der Berechtigte soll zusätzlich den Garten nutzen dürfen. Wie ist das zu gestalten?",
+  "optionen": [
+   "Nicht nötig, weil § 1093 Abs. 3 BGB kraft Gesetzes alle Außenanlagen einschließlich Garten erfasst",
+   "Die Gartennutzung muss ausdrücklich bewilligt werden; es entsteht eine aus §§ 1093 und 1090 BGB kombinierte Dienstbarkeit („Wohnungs- und Mitbenutzungsrecht“)",
+   "Die Gartennutzung kann nur durch eine gesonderte Wohnungsreallast nach § 1105 BGB gesichert werden",
+   "Die Gartennutzung ist als Nebenpflicht im schuldrechtlichen Vertrag zu regeln und nicht eintragungsfähig"
+  ],
+  "antwort": 1,
+  "erklaerung": "Kraft Gesetzes darf der Berechtigte nach § 1093 Abs. 3 BGB nur die Anlagen und Einrichtungen mitbenutzen, die dem gemeinsamen Gebrauch der Bewohner dienen, etwa Eingang, Treppenhaus, Hof oder Waschküche. Darüber hinausgehende Mitbenutzungsrechte wie am Garten müssen ausdrücklich bewilligt werden; das Ergebnis ist eine aus §§ 1093 und 1090 BGB kombinierte Dienstbarkeit mit der Eintragung „Wohnungs- und Mitbenutzungsrecht“. Die Praxis empfiehlt, den Umfang der Mitbenutzung in der Urkunde genau festzulegen."
+ },
+ {
+  "id": "dien1-030",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Wohnungsrecht: Inhalt, Abgrenzung und Alternativen",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/wohnungsrecht-inhalt-abgrenzung-und-alternativen",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1093 BGB",
+   "§ 1105 BGB",
+   "§ 31 WEG",
+   "§ 1030 BGB"
+  ],
+  "frage": "Ordne die Gestaltungen zur Sicherung einer Wohnungsnutzung ihrem typischen Anwendungsfall zu.",
+  "paare": [
+   [
+    "Wohnungsrecht (§ 1093 BGB)",
+    "Ausschließliche Nutzung eines Gebäudes oder Gebäudeteils als Wohnung unter Ausschluss des Eigentümers"
+   ],
+   [
+    "Wohnungsreallast (§ 1105 BGB)",
+    "Wohnung ist zu stellen, auch außerhalb des belasteten Grundstücks, oder es sind aktive Leistungen wie Reinigung oder Versorgung mit Heizung geschuldet"
+   ],
+   [
+    "Dauerwohnrecht (§ 31 WEG)",
+    "Veräußerliches und vererbliches Nutzungsrecht nach dem Wohnungseigentumsgesetz"
+   ],
+   [
+    "Nießbrauch",
+    "Überlassung des gesamten Gebäudes zur Nutzung"
+   ]
+  ],
+  "erklaerung": "Das Wohnungsrecht sichert die ausschließliche Wohnnutzung als beschränkte persönliche Dienstbarkeit. Die Wohnungsreallast nach § 1105 BGB passt, wenn eine Wohnung zu stellen ist oder neben der Überlassung aktive Leistungen geschuldet sind, die eine Dienstbarkeit nicht als Hauptinhalt tragen kann. Soll das ganze Gebäude überlassen werden, ist der Nießbrauch die passende Form; das Dauerwohnrecht nach § 31 WEG ist die wohnungseigentumsrechtliche Alternative."
+ },
+ {
+  "id": "dien1-031",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Wohnungsrecht: Inhalt, Abgrenzung und Alternativen",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/wohnungsrecht-inhalt-abgrenzung-und-alternativen",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 49 GBO",
+   "§ 1093 BGB"
+  ],
+  "frage": "Beim Altenteil im Übergabevertrag dürfen in der Bewilligung für das Wohnungsrecht neben dem Hausgrundstück auch die mitübergebenen landwirtschaftlichen Grundstücke als Belastungsgegenstand genannt werden, weil das Altenteil nach § 49 GBO einheitlich eingetragen wird.",
+  "antwort": false,
+  "erklaerung": "Wohnungsrecht, Pflegepflichten und Rentenzahlungen können nach § 49 GBO zusammengefasst als Altenteil eingetragen werden. Das ändert aber nichts daran, dass das Wohnungsrecht nur das Grundstück belasten darf, auf dem das Wohngebäude steht. Weitere Grundstücke in der Bewilligung für das Wohnungsrecht als Belastungsgegenstand zu nennen, ist ein typischer Fehler."
+ },
+ {
+  "id": "dien1-032",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Wohnungsrecht: Überlassung, Lasten und Erlöschen",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/wohnungsrecht-uberlassung-lasten-und-erloschen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1093 Abs. 2 BGB",
+   "§ 1092 Abs. 1 S. 2 BGB",
+   "§ 1056 BGB"
+  ],
+  "frage": "Wohnungsberechtigte W möchte die ihr vorbehaltene Wohnung an einen Studenten vermieten. Was gilt?",
+  "optionen": [
+   "Die Vermietung ist ohne Weiteres zulässig, weil auf das Wohnungsrecht die Nießbrauchsvorschriften anzuwenden sind",
+   "Die Vermietung setzt eine Gestattung nach § 1092 Abs. 1 S. 2 BGB voraus; sie kann mit dinglicher Wirkung zum Inhalt des Rechts gemacht werden",
+   "Die Vermietung ist stets ausgeschlossen, weil das Wohnungsrecht nur zum eigenen Wohnen berechtigt",
+   "Die Vermietung ist zulässig, der Eigentümer tritt aber bei Ende des Wohnungsrechts nach § 1056 BGB in den Mietvertrag ein"
+  ],
+  "antwort": 1,
+  "erklaerung": "Anders als der Nießbrauch berechtigt das Wohnungsrecht nur zum eigenen Wohnen; aufnehmen darf der Berechtigte nur Familie und Pflegepersonen (§ 1093 Abs. 2 BGB). Jede andere Überlassung, insbesondere die Vermietung, setzt eine Gestattung nach § 1092 Abs. 1 S. 2 BGB voraus, die mit dinglicher Wirkung vereinbart werden kann und dann ausdrücklich zum Inhalt des Rechts gemacht werden sollte. Endet das Wohnungsrecht, wird der Eigentümer nicht kraft Gesetzes Vermieter, weil § 1093 BGB nicht auf § 1056 BGB verweist."
+ },
+ {
+  "id": "dien1-033",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Wohnungsrecht: Überlassung, Lasten und Erlöschen",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/wohnungsrecht-uberlassung-lasten-und-erloschen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1093 Abs. 1 S. 2 BGB",
+   "§ 1047 BGB",
+   "§ 1041 BGB"
+  ],
+  "frage": "Wie sind die Lasten beim Wohnungsrecht nach der gesetzlichen Regelung verteilt?",
+  "optionen": [
+   "Der Wohnungsberechtigte trägt nach § 1047 BGB alle öffentlichen und privaten Lasten des Grundstücks",
+   "Grundstücks- und Gebäudelasten bleiben beim Eigentümer; der Berechtigte trägt laufenden Unterhalt im Rahmen üblicher Instandhaltung sowie verbrauchsabhängige Kosten",
+   "Der Eigentümer trägt sämtliche Kosten einschließlich Heizenergie und Wasser, weil er nur Duldung schuldet",
+   "Die Lasten werden nach dem Verhältnis der Wohnflächen zwischen Eigentümer und Berechtigtem geteilt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Eigentümer schuldet beim Wohnungsrecht lediglich Duldung; Grundstücks- und Gebäudelasten bleiben bei ihm, weil § 1093 BGB nicht auf § 1047 BGB verweist. Der Wohnungsberechtigte trägt den laufenden Unterhalt der Wohnung (Ausbesserungen nur im Rahmen üblicher Instandhaltung) und die nutzungs- und verbrauchsabhängigen Kosten wie Heizenergie und Wasser. Die erste Option überträgt fälschlich die Nießbrauchsregel des § 1047 BGB auf das Wohnungsrecht."
+ },
+ {
+  "id": "dien1-034",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Wohnungsrecht: Überlassung, Lasten und Erlöschen",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/wohnungsrecht-uberlassung-lasten-und-erloschen",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1093 BGB"
+  ],
+  "frage": "Das Wohnungsrecht erlischt, wenn der Berechtigte wegen Pflegebedürftigkeit dauerhaft in einem Pflegeheim untergebracht wird und die Wohnung deshalb auf Dauer nicht mehr nutzen kann.",
+  "antwort": false,
+  "erklaerung": "Das Wohnungsrecht erlischt nicht durch eine dauernde Unmöglichkeit der Ausübung, die in der Person des Berechtigten liegt, wie die dauerhafte Unterbringung in einem Pflegeheim. Erlöschensgründe sind Aufgabe und Löschung (§§ 875 Abs. 1, 876 BGB), Tod des Berechtigten, Bedingungseintritt oder Fristablauf sowie Zerstörung des Gebäudes. Nutzt der Berechtigte die Wohnung nicht, steht ihm dafür allerdings grundsätzlich auch keine Entschädigung zu."
+ },
+ {
+  "id": "dien1-035",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Wohnungsrecht: Überlassung, Lasten und Erlöschen",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/wohnungsrecht-uberlassung-lasten-und-erloschen",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 22 GBO",
+   "§ 23 Abs. 2 GBO"
+  ],
+  "frage": "Ein Wohnungsrecht wird ohne dingliche Erhaltungs- oder Kostentragungspflicht des Eigentümers bestellt. Der Notar beantragt zugleich einen Vermerk nach § 23 Abs. 2 GBO, wonach zur Löschung der Todesnachweis genügt. Wie beurteilt das Grundbuchamt den Antrag?",
+  "optionen": [
+   "Der Vermerk ist einzutragen, weil er bei jedem auf Lebenszeit bestellten Recht die Löschung erleichtert",
+   "Der Vermerk ist überflüssig und daher unzulässig, weil Rückstände ausgeschlossen sind und die Löschung nach § 22 GBO erfolgt",
+   "Der Vermerk ist nur zulässig, wenn zugleich eine Vermietungsgestattung eingetragen wird",
+   "Der Vermerk ist einzutragen, weil beim Wohnungsrecht stets Rückstände aus Verbrauchskosten möglich sind"
+  ],
+  "antwort": 1,
+  "erklaerung": "Ob Rückstände entstehen können, hängt vom dinglichen Inhalt des Wohnungsrechts ab. Gehört eine Erhaltungs- oder Kostentragungspflicht des Bestellers nicht zum dinglichen Inhalt, sind Rückstände ausgeschlossen; das Recht wird nach dem Tod nach § 22 GBO gelöscht und ein Vermerk nach § 23 Abs. 2 GBO ist überflüssig und unzulässig. Nur wenn die Pflicht des Bestellers, die Bewohnbarkeit zu erhalten oder Kosten anteilig zu tragen, dinglicher Inhalt ist, gilt § 23 GBO. Der Antrag ist ein typischer Fehler."
+ },
+ {
+  "id": "dien1-036",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Wohnungsrecht: Überlassung, Lasten und Erlöschen",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/wohnungsrecht-uberlassung-lasten-und-erloschen",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Erlischt das Wohnungsrecht in der Zwangsversteigerung durch Zuschlag, erhält der Berechtigte Wertersatz in Form einer Geldrente, für die aus dem Erlös ein Deckungskapital zu bilden ist.",
+  "antwort": true,
+  "erklaerung": "Erlischt das Wohnungsrecht durch Zuschlag, geht der Berechtigte nicht leer aus: Er erhält Wertersatz in Form einer Geldrente, und dafür ist aus dem Versteigerungserlös, soweit er reicht, ein Deckungskapital zu bilden. Das unterscheidet den Verlust des Rechts in der Zwangsversteigerung vom entschädigungslosen Nichtgebrauch durch den Berechtigten selbst."
+ },
+ {
+  "id": "dien1-037",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Nießbrauch",
+  "seite": "Nießbrauch: abweichende Vereinbarungen, Entgelt, Netto- und Bruttonießbrauch",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/niessbrauch/niessbrauch-abweichende-vereinbarungen-entgelt-netto-und-bruttoniessbrauch",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1059 BGB",
+   "§ 1061 BGB",
+   "§ 1047 BGB",
+   "§ 1030 Abs. 2 BGB"
+  ],
+  "frage": "Welche der folgenden Regelungen des Nießbrauchsrechts ist nicht abdingbar?",
+  "optionen": [
+   "Die Lastentragung nach § 1047 BGB",
+   "Die Unübertragbarkeit nach § 1059 BGB",
+   "Die Versicherungspflicht nach § 1045 BGB",
+   "Die Zustandsfeststellung durch Sachverständige nach § 1034 BGB"
+  ],
+  "antwort": 1,
+  "erklaerung": "Zum zwingenden Kern des Nießbrauchs gehören das Nutzungsrecht (§ 1030 Abs. 1 BGB), Besitzrecht und ordnungsgemäße Bewirtschaftung (§ 1036 BGB), die Ersatzpflicht bei übermäßiger Fruchtziehung (§ 1039 Abs. 1 BGB), die Erhaltungspflicht (§ 1041 Abs. 1 BGB), die Unterlassungsklage (§ 1053 BGB), die Unübertragbarkeit (§ 1059 BGB) und das Erlöschen mit dem Tod (§ 1061 BGB). Abdingbar sind dagegen unter anderem Zustandsfeststellung (§ 1034 BGB), Versicherung (§ 1045 BGB) und Lastentragung (§ 1047 BGB); gerade die Lastenverteilung ist der wichtigste Gestaltungspunkt."
+ },
+ {
+  "id": "dien1-038",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Nießbrauch",
+  "seite": "Nießbrauch: abweichende Vereinbarungen, Entgelt, Netto- und Bruttonießbrauch",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/niessbrauch/niessbrauch-abweichende-vereinbarungen-entgelt-netto-und-bruttoniessbrauch",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1047 BGB"
+  ],
+  "frage": "Was wird üblicherweise als Bruttonießbrauch bezeichnet?",
+  "optionen": [
+   "Der gesetzliche Regelfall, bei dem der Nießbraucher nur die gewöhnlichen Lasten trägt",
+   "Die Gestaltung, bei der der Nießbraucher zusätzlich die außerordentlichen Lasten und außergewöhnlichen Ausbesserungen und Erneuerungen trägt",
+   "Ein Nießbrauch, bei dem der Nießbraucher ein Entgelt an den Eigentümer zahlt",
+   "Ein Nießbrauch, bei dem der Eigentümer sämtliche Lasten einschließlich der gewöhnlichen trägt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Als Nettonießbrauch wird meist der gesetzliche Regelfall bezeichnet, als Bruttonießbrauch die Abweichung, bei der der Nießbraucher zusätzlich die außerordentlichen Lasten und außergewöhnlichen Ausbesserungen und Erneuerungen trägt, etwa Erschließungskosten oder größere Reparaturen. Weil die Begriffe nicht einheitlich verwendet werden, sollte die gewollte Lastenverteilung in der Urkunde ausdrücklich beschrieben werden. Mit der Entgeltlichkeit hat die Unterscheidung nichts zu tun."
+ },
+ {
+  "id": "dien1-039",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Nießbrauch",
+  "seite": "Nießbrauch: abweichende Vereinbarungen, Entgelt, Netto- und Bruttonießbrauch",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/niessbrauch/niessbrauch-abweichende-vereinbarungen-entgelt-netto-und-bruttoniessbrauch",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Ein Nießbrauch kann als „entgeltlicher Nießbrauch“ mit dinglicher Wirkung bestellt werden, sodass die Entgeltpflicht jeden künftigen Eigentümer bindet.",
+  "antwort": false,
+  "erklaerung": "Die Pflicht des Nießbrauchers zu einer Gegenleistung wirkt nur schuldrechtlich. Das dingliche Recht ist abstrakt und kann nicht als entgeltliches oder unentgeltliches Recht bestellt werden. Dinglich wirken nur zulässige Abweichungen vom gesetzlichen Nießbrauchsrecht, etwa zur Lastentragung, wenn sie in die Eintragungsbewilligung aufgenommen und eingetragen werden."
+ },
+ {
+  "id": "dien1-040",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Nießbrauch",
+  "seite": "Nießbrauch: abweichende Vereinbarungen, Entgelt, Netto- und Bruttonießbrauch",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/niessbrauch/niessbrauch-abweichende-vereinbarungen-entgelt-netto-und-bruttoniessbrauch",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1047 BGB"
+  ],
+  "frage": "Übergeber Ü behält sich am vermieteten Mehrfamilienhaus den Nießbrauch vor. Welche Gestaltung der Lastenverteilung empfiehlt sich aus steuerlichen Gründen und wie ist sie umzusetzen?",
+  "optionen": [
+   "Die gesetzliche Lastenverteilung beibehalten, damit der Erwerber die außerordentlichen Lasten als Werbungskosten absetzen kann",
+   "Dem Nießbraucher zusätzlich die außerordentlichen Lasten übertragen, weil nur er diese Aufwendungen steuerlich geltend machen kann; die Abweichung in die Eintragungsbewilligung aufnehmen",
+   "Ein Entgelt vereinbaren, das der Eigentümer gleichmäßig auf 20 Jahre verteilen kann",
+   "Lediglich den Begriff „Bruttonießbrauch“ in die Urkunde aufnehmen, da er gesetzlich definiert ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Erzielt das Nießbrauchsobjekt steuerpflichtige Mieteinkünfte, empfiehlt es sich, dem Nießbraucher zusätzlich die außerordentlichen Lasten zu übertragen, weil nur er diese Aufwendungen steuerlich geltend machen kann. Soll die Abweichung von § 1047 BGB gegenüber Rechtsnachfolgern wirken, ist sie in die Eintragungsbewilligung aufzunehmen. Wegen der uneinheitlichen Begriffe genügt das bloße Wort „Bruttonießbrauch“ nicht; die Lastenverteilung ist ausdrücklich zu beschreiben. Ein Entgelt kann steuerlich auf bis zu 10, nicht 20 Jahre verteilt werden."
+ },
+ {
+  "id": "dien1-041",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Nießbrauch",
+  "seite": "Nießbrauch: Arten",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/niessbrauch/niessbrauch-arten",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 2147 BGB",
+   "§ 1061 BGB"
+  ],
+  "frage": "Ordne die Erscheinungsformen des Nießbrauchs ihrer typischen Konstellation zu.",
+  "paare": [
+   [
+    "Vorbehaltsnießbrauch",
+    "Übergeber überträgt das Eigentum, behält sich aber die Nutzungen vor (vorweggenommene Erbfolge)"
+   ],
+   [
+    "Zuwendungsnießbrauch",
+    "Nießbrauch wird eingeräumt, ohne dass zugleich das Grundstück übertragen wird; oft zur Verlagerung von Einkünften"
+   ],
+   [
+    "Vermächtnisnießbrauch",
+    "Anspruch gegen den Erben auf Bestellung des Nießbrauchs durch Verfügung von Todes wegen (§ 2147 BGB)"
+   ],
+   [
+    "Sicherungsnießbrauch",
+    "Gläubiger erhält unmittelbaren Zugriff auf die Nutzungen, vor allem Mieten, ohne Zwangsversteigerung oder Zwangsverwaltung"
+   ]
+  ],
+  "erklaerung": "Der Vorbehaltsnießbrauch ist typisch für Übergabeverträge und erlischt mit dem Tod des Übergebers (§ 1061 BGB). Beim Zuwendungsnießbrauch bleibt das Eigentum beim Besteller, nur die Einkunftsquelle wird befristet übertragen. Der Vermächtnisnießbrauch gibt nur einen Anspruch gegen den Erben; das dingliche Recht entsteht erst mit Bestellung und Eintragung. Der Sicherungsnießbrauch dient einem Gläubiger; entfällt der Sicherungszweck, kann der Eigentümer schuldrechtlich die Aufhebung verlangen."
+ },
+ {
+  "id": "dien1-042",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Nießbrauch",
+  "seite": "Nießbrauch: Arten",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/niessbrauch/niessbrauch-arten",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1056 Abs. 1 BGB"
+  ],
+  "frage": "Großmutter G schenkt ihrem 15-jährigen Enkel E ein Grundstück unter Vorbehalt des Nießbrauchs, wobei G auch außergewöhnliche Reparaturkosten und Grundstückslasten trägt. In welchem Fall ist nach herrschender Meinung ein Ergänzungspfleger erforderlich?",
+  "optionen": [
+   "Immer, weil ein Erwerb unter Nießbrauchsvorbehalt nie lediglich rechtlich vorteilhaft ist",
+   "Wenn das Grundstück vermietet ist, weil E mit dem Ende des Nießbrauchs nach § 1056 Abs. 1 BGB Vermieter wird",
+   "Nie, weil E bei einer Schenkung stets nur Vorteile erlangt",
+   "Nur wenn der Nießbrauch befristet statt auf Lebenszeit bestellt wird"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach herrschender Meinung bleibt der Erwerb für den beschränkt geschäftsfähigen Minderjährigen trotz des vorbehaltenen Nießbrauchs in der Regel lediglich rechtlich vorteilhaft, jedenfalls wenn den Nießbraucher auch außergewöhnliche Reparatur- und Erneuerungskosten und außergewöhnliche Lasten treffen; ein Ergänzungspfleger ist dann grundsätzlich nicht nötig. Anders bei der Schenkung eines vermieteten Grundstücks, weil der Minderjährige mit Ende des Nießbrauchs nach § 1056 Abs. 1 BGB Vermieter wird und damit Pflichten übernimmt. In diesem Fall ist die Pflegerbestellung zu prüfen."
+ },
+ {
+  "id": "dien1-043",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Nießbrauch",
+  "seite": "Nießbrauch: Arten",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/niessbrauch/niessbrauch-arten",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2147 BGB",
+   "§ 873 Abs. 1 BGB",
+   "§§ 1085, 1089 BGB"
+  ],
+  "frage": "Erblasser E vermacht seiner Lebensgefährtin L den Nießbrauch an seinem Nachlass, zu dem ein Hausgrundstück gehört. Wie entsteht der Nießbrauch am Grundstück?",
+  "optionen": [
+   "Mit dem Erbfall kraft Gesetzes, weil das Vermächtnis nach §§ 2176, 2177 BGB mit dem Erbfall anfällt",
+   "Erst durch rechtsgeschäftliche Bestellung durch den Erben nach § 873 Abs. 1 BGB, §§ 19, 29 GBO; das Vermächtnis gibt nur den Anspruch darauf (§ 2147 BGB)",
+   "Durch Eintragung eines Nachlassnießbrauchsvermerks beim Nachlassgericht",
+   "Durch einseitige Erklärung der L gegenüber dem Grundbuchamt unter Vorlage des Testaments"
+  ],
+  "antwort": 1,
+  "erklaerung": "Das Vermächtnis gibt einen Anspruch gegen den Erben auf Bestellung (§ 2147 BGB), der mit dem Erbfall anfällt (§§ 2176, 2177 BGB); er ist der Rechtsgrund des dinglichen Rechts. Der Nießbrauch am Nachlass ist ein Nießbrauch an einem Vermögen (§§ 1085, 1089 BGB); an den Nachlassgrundstücken entsteht er erst durch rechtsgeschäftliche Bestellung des Erben nach Sachenrecht (§ 873 Abs. 1 BGB, §§ 19, 29 GBO). Deshalb sollte die Verfügung von Todes wegen die Eintragung ausdrücklich anordnen und dem Vermächtnisnehmer gegebenenfalls Vollmacht zur Selbstbestellung erteilen."
+ },
+ {
+  "id": "dien1-044",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Nießbrauch",
+  "seite": "Nießbrauch: Arten",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/niessbrauch/niessbrauch-arten",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1041 BGB",
+   "§ 1045 BGB",
+   "§ 1047 BGB"
+  ],
+  "frage": "Bei der Beurkundung eines Zuwendungsnießbrauchs zugunsten eines minderjährigen Kindes sollte vorsorglich ein Pfleger eingeschaltet werden, weil die Finanzverwaltung die steuerliche Anerkennung regelmäßig davon abhängig macht und die lediglich rechtliche Vorteilhaftigkeit wegen der Pflichten aus §§ 1041, 1045, 1047 BGB überwiegend verneint wird.",
+  "antwort": true,
+  "erklaerung": "Ob der Zuwendungsnießbrauch für ein Kind lediglich rechtlich vorteilhaft ist, ist streitig; die zivilrechtliche Literatur verneint das überwiegend wegen der Pflichten aus §§ 1041, 1045 und 1047 BGB. Die Finanzverwaltung erkennt den Zuwendungsnießbrauch zudem nur bei zivilrechtlich wirksamem Vertrag, tatsächlicher Durchführung und bei Kindern in der Regel bei Mitwirkung eines Pflegers und Grundbucheintragung an. Deshalb ist vorsorglich ein Pfleger einzuschalten; eine Dauerpflegschaft ist nicht nötig."
+ },
+ {
+  "id": "dien1-045",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Nießbrauch",
+  "seite": "Nießbrauch: Bestellung, Berechtigte, Belastungsgegenstand und Erlöschen",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/niessbrauch/niessbrauch-bestellung-berechtigte-belastungsgegenstand-und-erloschen",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 873 Abs. 1 BGB",
+   "§ 1036 Abs. 1 BGB"
+  ],
+  "frage": "Was gehört zum Bestellungstatbestand eines Nießbrauchs an einem Grundstück?",
+  "optionen": [
+   "Dingliche Einigung, Eintragung und Einräumung des Besitzes",
+   "Dingliche Einigung und Eintragung im Grundbuch (§ 873 Abs. 1 BGB); die Besitzeinräumung ist nur Folge (§ 1036 Abs. 1 BGB)",
+   "Notariell beurkundeter Verpflichtungsvertrag und Eintragung",
+   "Dingliche Einigung und Übergabe, Eintragung nur deklaratorisch"
+  ],
+  "antwort": 1,
+  "erklaerung": "Für die Bestellung sind dingliche Einigung und Eintragung im Grundbuch erforderlich (§ 873 Abs. 1 BGB). Die Einräumung des Besitzes gehört nicht zum Bestellungstatbestand; der Eigentümer schuldet sie aber als regelmäßige Folge (§ 1036 Abs. 1 BGB). Das vorausgehende Verpflichtungsgeschäft ist formfrei und auch stillschweigend möglich; es bildet nur den Rechtsgrund."
+ },
+ {
+  "id": "dien1-046",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Nießbrauch",
+  "seite": "Nießbrauch: Bestellung, Berechtigte, Belastungsgegenstand und Erlöschen",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/niessbrauch/niessbrauch-bestellung-berechtigte-belastungsgegenstand-und-erloschen",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1066 Abs. 2 BGB",
+   "§ 1114 BGB"
+  ],
+  "frage": "Worin unterscheidet sich der Quotennießbrauch vom Bruchteilsnießbrauch?",
+  "optionen": [
+   "Beim Quotennießbrauch ist nur ein ideeller Bruchteil belastet, beim Bruchteilsnießbrauch die ganze Sache",
+   "Beim Quotennießbrauch ist die ganze Sache belastet, der Nießbraucher erhält aber nur einen Anteil der Nutzungen; er ist deshalb besser gesichert und kann im Fall des § 1066 Abs. 2 BGB die Aufhebung der Gemeinschaft auch gegenüber den übrigen Miteigentümern verhindern",
+   "Der Quotennießbrauch ist nur an Grundpfandrechten möglich (§ 1114 BGB), der Bruchteilsnießbrauch nur an Grundstücken",
+   "Der Bruchteilsnießbrauch kann nur von mehreren Miteigentümern bestellt werden, der Quotennießbrauch nur vom Alleineigentümer"
+  ],
+  "antwort": 1,
+  "erklaerung": "Beim Bruchteilsnießbrauch belastet der Alleineigentümer einen ideellen Bruchteil; belasteter und unbelasteter Anteil stehen nebeneinander. Beim Quotennießbrauch ist der ganze Gegenstand belastet, der Nießbraucher erhält aber nur einen bestimmten Anteil der Nutzungen; er ist besser gesichert und kann im Fall des § 1066 Abs. 2 BGB die Aufhebung der Gemeinschaft auch gegenüber den übrigen Miteigentümern verhindern, der Bruchteilsnießbraucher nur gegenüber dem Eigentümer des belasteten Anteils. § 1114 BGB betrifft nur die Belastung von Bruchteilen mit Hypotheken und Grundschulden. In der Urkunde ist genau festzulegen, welche Form gewollt ist."
+ },
+ {
+  "id": "dien1-047",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Nießbrauch",
+  "seite": "Nießbrauch: Bestellung, Berechtigte, Belastungsgegenstand und Erlöschen",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/niessbrauch/niessbrauch-bestellung-berechtigte-belastungsgegenstand-und-erloschen",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1132 BGB"
+  ],
+  "frage": "Wird ein Nießbrauch an mehreren Grundstücken bestellt, entsteht ein einheitliches Gesamtrecht an allen Grundstücken.",
+  "antwort": false,
+  "erklaerung": "Bei Bestellung an mehreren Grundstücken entstehen mehrere selbständige Nießbrauchsrechte, kein einheitliches Recht. Gesamtrechte kennt das Gesetz nur bei Grundpfandrechten (§ 1132 BGB). Der Nießbrauch erfasst jeweils die wesentlichen Bestandteile (§§ 93 ff. BGB) und im Zweifel das Zubehör (§§ 1031, 926 BGB)."
+ },
+ {
+  "id": "dien1-048",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Nießbrauch",
+  "seite": "Nießbrauch: Bestellung, Berechtigte, Belastungsgegenstand und Erlöschen",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/niessbrauch/niessbrauch-bestellung-berechtigte-belastungsgegenstand-und-erloschen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 23 Abs. 2 GBO",
+   "§ 23 Abs. 1 GBO",
+   "§§ 1059, 1061 BGB"
+  ],
+  "frage": "Warum sollte bei der Bestellung eines Nießbrauchs auf Lebenszeit eine Löschungserleichterung nach § 23 Abs. 2 GBO mit beantragt werden?",
+  "optionen": [
+   "Weil der Nießbrauch sonst nicht mit dem Tod des Berechtigten erlischt, sondern auf die Erben übergeht",
+   "Weil Rückstände möglich sind und die Erleichterung die Bewilligung der Erben, ein Erbscheinsverfahren und das Sperrjahr des § 23 Abs. 1 GBO entbehrlich macht",
+   "Weil das Grundbuchamt den Nießbrauch sonst nur nach § 22 GBO mit Unrichtigkeitsnachweis durch die Erben löscht, was beim Nießbrauch nie möglich ist",
+   "Weil ohne die Erleichterung der Nießbrauch nach § 1059a BGB auf den Rechtsnachfolger übergeht"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Nießbrauch erlischt als höchstpersönliches Recht ohnehin mit dem Tod (§§ 1059, 1061 BGB). Da beim Nießbrauch aber Rückstände möglich sind, gelten für die Löschung §§ 22, 23, 24 GBO; ohne Löschungserleichterung läuft das Sperrjahr des § 23 Abs. 1 GBO und es bedarf der Bewilligung der Erben mit gegebenenfalls nötigem Erbscheinsverfahren. Die Erleichterung nach § 23 Abs. 2 GBO lässt den Todesnachweis genügen. §§ 1059a ff. BGB betreffen nur den Nießbrauch juristischer Personen."
  }
 ]

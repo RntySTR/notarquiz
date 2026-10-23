@@ -322,5 +322,890 @@
   "frage": "Der Notar muss vor Beurkundung eines Grundstückskaufvertrags auch die Grundakten und das Baulastenverzeichnis einsehen.",
   "antwort": false,
   "erklaerung": "Grundakten, frühere Grundbücher und das Baulastenverzeichnis muss der Notar nicht einsehen; § 21 BeurkG betrifft den aktuellen Grundbuchinhalt. Er muss aber, soweit das Landesrecht Baulasten kennt, auf die Möglichkeit bestehender Baulasten hinweisen, und er muss belehren, wenn er aus übergebenen Unterlagen erkennt, dass Umstände außerhalb des Grundbuchs bedeutsam sind."
+ },
+ {
+  "id": "beur1-016",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Erklärungen, Vorlesen und besondere Verfahren",
+  "seite": "Online-Beurkundung: Identifizierung und gemischte Beurkundung (§§ 16c, 16e BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/erklarungen-vorlesen-und-besondere-verfahren/online-beurkundung-identifizierung-und-gemischte-beurkundung-16c-16e-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 16c BeurkG"
+  ],
+  "frage": "Welches Dokument ist für die erste Stufe der Identifizierung bei der Videobeurkundung (Auslesen eines elektronischen Identifizierungsmittels nach § 16c BeurkG) nicht geeignet?",
+  "optionen": [
+   "Der deutsche Personalausweis mit eID-Funktion.",
+   "Der elektronische Aufenthaltstitel.",
+   "Der deutsche oder ausländische Reisepass.",
+   "Eine eID eines anderen EU-Mitgliedstaats mit Sicherheitsniveau „hoch“ nach der eIDAS-Verordnung."
+  ],
+  "antwort": 2,
+  "erklaerung": "Für die erste Stufe nach § 16c BeurkG wird ein elektronisches Identifizierungsmittel ausgelesen; geeignet sind Personalausweis, eID-Karte, elektronischer Aufenthaltstitel und eine EU-eID mit Sicherheitsniveau „hoch“. Der Reisepass ist dafür nicht geeignet. Er kommt erst in der zweiten Stufe ins Spiel, in der der Notar die Person mit dem elektronisch ausgelesenen Lichtbild aus Ausweis oder Reisepass abgleicht."
+ },
+ {
+  "id": "beur1-017",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Erklärungen, Vorlesen und besondere Verfahren",
+  "seite": "Online-Beurkundung: Identifizierung und gemischte Beurkundung (§§ 16c, 16e BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/erklarungen-vorlesen-und-besondere-verfahren/online-beurkundung-identifizierung-und-gemischte-beurkundung-16c-16e-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 16e Abs. 1 BeurkG",
+   "§ 16e Abs. 2 BeurkG",
+   "§ 16b BeurkG",
+   "§ 8 BeurkG"
+  ],
+  "frage": "Bei einer gemischten Beurkundung ist A beim Notar anwesend, B per Video zugeschaltet. Wie sind die Niederschriften zu errichten und zu verwahren?",
+  "optionen": [
+   "Eine einzige elektronische Niederschrift, die A per Fernsignatur und B im Videosystem signiert.",
+   "Eine elektronische Niederschrift nach § 16b BeurkG mit B und eine inhaltsgleiche Niederschrift nach § 8 BeurkG mit A; beide werden unter derselben UVZ-Nr. zusammen verwahrt.",
+   "Eine Papierniederschrift mit A, der B nachträglich per Online-Beglaubigung beitritt; getrennte UVZ-Nummern.",
+   "Zwei Niederschriften, die unter aufeinanderfolgenden UVZ-Nummern getrennt verwahrt werden."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 16e Abs. 1 BeurkG wird mit den Zugeschalteten eine elektronische Niederschrift nach § 16b BeurkG und mit den Anwesenden eine inhaltsgleiche Niederschrift nach § 8 BeurkG errichtet; beide sollen aufeinander hinweisen. Nach § 16e Abs. 2 BeurkG sind beide zusammen, also unter derselben Urkundenverzeichnisnummer, zu verwahren. Eine einzige gemeinsame Niederschrift für Anwesende und Zugeschaltete sieht das Gesetz nicht vor."
+ },
+ {
+  "id": "beur1-018",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Erklärungen, Vorlesen und besondere Verfahren",
+  "seite": "Online-Beurkundung: Identifizierung und gemischte Beurkundung (§§ 16c, 16e BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/erklarungen-vorlesen-und-besondere-verfahren/online-beurkundung-identifizierung-und-gemischte-beurkundung-16c-16e-beurkg",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 16e Abs. 2 BeurkG"
+  ],
+  "frage": "Bei der gemischten Beurkundung wird die UVZ-Nummer erst nach der Signatur der elektronischen Niederschrift vergeben und nachträglich im Dokument vermerkt.",
+  "antwort": false,
+  "erklaerung": "Nach der Signatur lässt sich die elektronische Niederschrift nicht mehr verändern. Die UVZ-Nr. muss deshalb vor der Signatur vergeben und im Dokument vermerkt werden, damit beide Niederschriften nach § 16e Abs. 2 BeurkG unter derselben Nummer verwahrt werden können. Die nachträgliche Vergabe ist der auf der Seite genannte typische Fehler."
+ },
+ {
+  "id": "beur1-019",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Erklärungen, Vorlesen und besondere Verfahren",
+  "seite": "Vorlesen, Genehmigen und Unterschreiben der Niederschrift (§ 13 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/erklarungen-vorlesen-und-besondere-verfahren/vorlesen-genehmigen-und-unterschreiben-der-niederschrift-13-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 13 Abs. 1 BeurkG",
+   "§ 14 Abs. 1 und 2 BNotO"
+  ],
+  "frage": "Welche Aussage zum Vorlesen der Niederschrift trifft zu?",
+  "optionen": [
+   "Der Notar muss die Niederschrift stets selbst vorlesen.",
+   "Der Notar muss nicht selbst vorlesen, aber während des gesamten Vorlesens ununterbrochen anwesend sein; die Belehrungen nimmt er persönlich vor.",
+   "Das Vorlesen kann durch eine Computerstimme erfolgen, solange der Notar anwesend ist.",
+   "Liest ein Beteiligter vor, ist das unbedenklich, weil er den Inhalt ohnehin kennt."
+  ],
+  "antwort": 1,
+  "erklaerung": "Selbst vorlesen muss der Notar nicht, er muss aber ununterbrochen anwesend sein, um die Reaktionen der Beteiligten wahrzunehmen; die Belehrungen nimmt er stets persönlich vor. Vorlesen muss ein Mensch, eine Computerstimme genügt nicht. Liest ein formell Beteiligter vor, wird darin ein Verstoß gegen § 14 Abs. 1 und 2 BNotO gesehen."
+ },
+ {
+  "id": "beur1-020",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Erklärungen, Vorlesen und besondere Verfahren",
+  "seite": "Vorlesen, Genehmigen und Unterschreiben der Niederschrift (§ 13 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/erklarungen-vorlesen-und-besondere-verfahren/vorlesen-genehmigen-und-unterschreiben-der-niederschrift-13-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 13 Abs. 1 BeurkG"
+  ],
+  "frage": "Nach der Beurkundung eines Grundstückskaufvertrags mit Auflassung stellt sich heraus, dass Käufer K die Niederschrift nicht unterschrieben hat. Wie ist der Mangel zu beheben?",
+  "optionen": [
+   "K holt die Unterschrift beim nächsten Termin auf der Urschrift nach; ein Vermerk des Notars genügt.",
+   "Ein Nachtrag in Form einer Beurkundung ist erforderlich, an dem wegen der Auflassung nicht nur K allein mitwirken darf.",
+   "Der Notar bestätigt durch Vermerk, dass K mündlich genehmigt hat; damit ist die Niederschrift wirksam.",
+   "Ein Nachtrag in Form einer Beurkundung allein mit K genügt, weil nach h. M. nur der Beteiligte mit fehlender Unterschrift mitwirken muss."
+  ],
+  "antwort": 1,
+  "erklaerung": "Anders als die Unterschrift des Notars kann die Unterschrift eines Beteiligten nicht einfach nachgeholt werden; nötig ist ein Nachtrag in Form einer Beurkundung. Nach h. M. genügt zwar grundsätzlich die Mitwirkung allein des Beteiligten mit der fehlenden Unterschrift, das gilt aber nicht, wenn das Rechtsgeschäft eine Auflassung, einen Ehevertrag oder einen Erbvertrag enthält. Die Option mit Nachtrag allein durch K übersieht gerade diese Ausnahme."
+ },
+ {
+  "id": "beur1-021",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Erklärungen, Vorlesen und besondere Verfahren",
+  "seite": "Vorlesen, Genehmigen und Unterschreiben der Niederschrift (§ 13 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/erklarungen-vorlesen-und-besondere-verfahren/vorlesen-genehmigen-und-unterschreiben-der-niederschrift-13-beurkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 13 Abs. 2 BeurkG"
+  ],
+  "frage": "Errichten Ehegatten gleichlautende Vorsorgevollmachten, genügt es nach § 13 Abs. 2 BeurkG, den übereinstimmenden Inhalt einmal vorzulesen, obwohl verschiedene Beteiligte erklären.",
+  "antwort": true,
+  "erklaerung": "§ 13 Abs. 2 BeurkG erlaubt bei ganz oder teilweise übereinstimmenden Niederschriften, den übereinstimmenden Inhalt einmal vorzulesen. Das gilt nicht nur bei denselben Beteiligten (etwa zwei nachrangige Grundschulden), sondern auch für gleichlautende Verträge mit verschiedenen Beteiligten wie die Vorsorgevollmachten von Ehegatten."
+ },
+ {
+  "id": "beur1-022",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Erklärungen, Vorlesen und besondere Verfahren",
+  "seite": "Vorlesen, Genehmigen und Unterschreiben der Niederschrift (§ 13 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/erklarungen-vorlesen-und-besondere-verfahren/vorlesen-genehmigen-und-unterschreiben-der-niederschrift-13-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 13 Abs. 1 BeurkG",
+   "§ 35 BeurkG"
+  ],
+  "frage": "Welche Anforderungen stellt die Seite an die Unterschrift eines Beteiligten unter der Niederschrift?",
+  "optionen": [
+   "Eine Paraphe genügt, wenn der Notar die Identität festgestellt hat.",
+   "Die Unterschrift muss vollständig lesbar sein und Vor- und Familiennamen enthalten.",
+   "Die Unterschrift muss nicht lesbar sein, einige Buchstaben sollten erkennbar sein; eine Paraphe oder bloße geschwungene Linie genügt nicht.",
+   "Eine geschwungene Linie genügt, sofern sie dem Namenszug im Ausweis ähnelt."
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Unterschrift muss nicht lesbar sein, einige Buchstaben (etwa zwei oder drei) sollten sich aber erkennen lassen; eine Paraphe genügt nicht, und die Rechtsprechung lässt eine bloße geschwungene Linie nicht genügen. Der Familienname reicht aus, der Vorname ist nur empfehlenswert. Vollständige Lesbarkeit wird nicht verlangt."
+ },
+ {
+  "id": "beur1-023",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Erklärungen, Vorlesen und besondere Verfahren",
+  "seite": "Vorlesen, Genehmigen und Unterschreiben der Niederschrift (§ 13 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/erklarungen-vorlesen-und-besondere-verfahren/vorlesen-genehmigen-und-unterschreiben-der-niederschrift-13-beurkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 13 Abs. 1 BeurkG",
+   "§ 13c BeurkG"
+  ],
+  "frage": "Eine der Niederschrift beizufügende Vollmacht ist eine Anlage im Sinne des § 13 BeurkG und muss in Gegenwart des Notars mitverlesen werden.",
+  "antwort": false,
+  "erklaerung": "Das Vorlesen in Gegenwart des Notars gilt auch für Anlagen, auf die die Niederschrift verweist, mit Ausnahme der Verweisung nach § 13c BeurkG. Beizufügende Vollmachten sind aber keine Anlagen in diesem Sinne und müssen nicht vorgelesen werden. Der Fehler liegt in der Gleichsetzung von beigefügter Vollmacht und rechtsgeschäftlicher Anlage."
+ },
+ {
+  "id": "beur1-024",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Grundlagen und Beurkundungsarten",
+  "seite": "Beurkundungsarten: Niederschrift, Vermerk, Bescheinigung und öffentliche Beglaubigung",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/grundlagen-und-beurkundungsarten/beurkundungsarten-niederschrift-vermerk-bescheinigung-und-offentliche-beglaubigung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 39 BeurkG",
+   "§§ 415, 417, 418 ZPO"
+  ],
+  "frage": "Welcher Teil einer öffentlich beglaubigten Urkunde ist öffentliche Urkunde im Sinne der §§ 415, 417, 418 ZPO?",
+  "optionen": [
+   "Die gesamte beglaubigte Erklärung einschließlich Vermerk.",
+   "Nur der Beglaubigungsvermerk, in dem der Notar bestätigt, von welcher Person die Unterschrift herrührt.",
+   "Die Erklärung selbst, nicht aber der Vermerk.",
+   "Keiner, weil die Beglaubigung keine Beurkundung im Sinne des BeurkG ist."
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei der öffentlich beglaubigten Urkunde (§§ 39 ff. BeurkG) steht die Erklärung in einer Privaturkunde, die vom Aussteller stammt und von ihm geändert werden kann. Öffentliche Urkunde ist nur der Beglaubigungsvermerk über die Urheberschaft der Unterschrift; die beglaubigte Erklärung insgesamt ist keine öffentliche Urkunde nach §§ 415, 417, 418 ZPO. Die Beglaubigung ist gleichwohl eine Beurkundung im weiten Sinn des BeurkG."
+ },
+ {
+  "id": "beur1-025",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Grundlagen und Beurkundungsarten",
+  "seite": "Beurkundungsarten: Niederschrift, Vermerk, Bescheinigung und öffentliche Beglaubigung",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/grundlagen-und-beurkundungsarten/beurkundungsarten-niederschrift-vermerk-bescheinigung-und-offentliche-beglaubigung",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 8 BeurkG",
+   "§ 36 BeurkG",
+   "§ 39 BeurkG",
+   "§ 21 BNotO"
+  ],
+  "frage": "Ordne die Urkundsform ihrem Gegenstand zu.",
+  "paare": [
+   [
+    "Niederschrift nach §§ 8 ff. BeurkG",
+    "Beurkundung von Willenserklärungen"
+   ],
+   [
+    "Niederschrift nach §§ 36 ff. BeurkG",
+    "Bezeugung sonstiger Tatsachen oder Vorgänge"
+   ],
+   [
+    "Vermerk nach § 39 BeurkG",
+    "Einfaches Zeugnis mit Unterschrift und Siegel, etwa Unterschriftsbeglaubigung"
+   ],
+   [
+    "Bescheinigung nach § 21 BNotO",
+    "Wahrnehmung mit zusätzlicher rechtlich erheblicher Schlussfolgerung, etwa Vertretungsbescheinigung"
+   ],
+   [
+    "Notarbestätigung",
+    "Gutachterliches Votum ohne Formvorschrift, etwa zur künftigen Rangstelle eines Grundpfandrechts"
+   ]
+  ],
+  "erklaerung": "§§ 8 ff. BeurkG regeln die Niederschrift über Willenserklärungen, §§ 36 ff. BeurkG die Niederschrift über sonstige Tatsachen. Der Vermerk nach § 39 BeurkG genügt für einfache Zeugnisse wie die Unterschriftsbeglaubigung. Die Bescheinigung nach § 21 BNotO enthält über die Wahrnehmung hinaus eine rechtliche Schlussfolgerung, während die Notarbestätigung ein formfreies gutachterliches Votum ohne Siegelerfordernis ist."
+ },
+ {
+  "id": "beur1-026",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Grundlagen und Beurkundungsarten",
+  "seite": "Beurkundungsarten: Niederschrift, Vermerk, Bescheinigung und öffentliche Beglaubigung",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/grundlagen-und-beurkundungsarten/beurkundungsarten-niederschrift-vermerk-bescheinigung-und-offentliche-beglaubigung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 38 Abs. 1 BeurkG",
+   "§ 36 BeurkG"
+  ],
+  "frage": "Wie ist die Aufnahme einer eidesstattlichen Versicherung beurkundungsrechtlich einzuordnen?",
+  "optionen": [
+   "Als Beurkundung einer Willenserklärung nach §§ 8 ff. BeurkG, weil der Erklärende eine Rechtsfolge will.",
+   "Als sonstige Beurkundung, für die aber die Vorschriften über die Beurkundung von Willenserklärungen entsprechend gelten (§ 38 Abs. 1 BeurkG).",
+   "Als einfaches Zeugnis, für das ein Vermerk nach § 39 BeurkG genügt.",
+   "Als Bescheinigung nach § 21 BNotO mit rechtlicher Schlussfolgerung des Notars."
+  ],
+  "antwort": 1,
+  "erklaerung": "Eide und eidesstattliche Versicherungen sind sonstige Beurkundungen, weil keine Willenserklärung vorliegt. Gleichwohl ordnet § 38 Abs. 1 BeurkG an, dass die Vorschriften über die Beurkundung von Willenserklärungen entsprechend gelten. Ein bloßer Vermerk nach § 39 BeurkG reicht daher nicht aus."
+ },
+ {
+  "id": "beur1-027",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Grundlagen und Beurkundungsarten",
+  "seite": "Beurkundungsarten: Niederschrift, Vermerk, Bescheinigung und öffentliche Beglaubigung",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/grundlagen-und-beurkundungsarten/beurkundungsarten-niederschrift-vermerk-bescheinigung-und-offentliche-beglaubigung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 40 Abs. 2 BeurkG",
+   "§ 492 Abs. 4 S. 2 BGB"
+  ],
+  "frage": "Warum empfiehlt die Seite, bei Vorsorgevollmachten die Beurkundung gegenüber der bloßen Unterschriftsbeglaubigung zu erläutern?",
+  "optionen": [
+   "Weil eine unterschriftsbeglaubigte Vollmacht im Grundbuchverkehr nicht verwendbar ist.",
+   "Weil bei der Beglaubigung nur der Vermerk öffentliche Urkunde ist, die Geschäftsfähigkeit nur eingeschränkt geprüft wird (§ 40 Abs. 2 BeurkG) und gesetzliche Erleichterungen teils an die Beurkundung anknüpfen.",
+   "Weil die Beglaubigung nach § 39 BeurkG kein Siegel trägt und deshalb keine Beweiskraft hat.",
+   "Weil eine beglaubigte Vollmacht nach Erteilung vom Vollmachtgeber nicht mehr geändert werden kann."
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei der Beglaubigung ist nur der Vermerk öffentliche Urkunde, die Erklärung bleibt Privaturkunde; deshalb hat die unterschriftsbeglaubigte Vorsorgevollmacht geringeren Wert. Zudem prüft der Notar die Geschäftsfähigkeit bei der Beglaubigung nur eingeschränkt (§ 40 Abs. 2 BeurkG), und Erleichterungen wie bei der Vollmacht zum Verbraucherkreditvertrag (§ 492 Abs. 4 S. 2 BGB) knüpfen an die Beurkundung an. Die Privaturkunde kann vom Aussteller gerade geändert werden, das Gegenteil ist falsch."
+ },
+ {
+  "id": "beur1-028",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Grundlagen und Beurkundungsarten",
+  "seite": "Beurkundungsarten: Niederschrift, Vermerk, Bescheinigung und öffentliche Beglaubigung",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/grundlagen-und-beurkundungsarten/beurkundungsarten-niederschrift-vermerk-bescheinigung-und-offentliche-beglaubigung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 39 BeurkG",
+   "§ 21 Abs. 1 S. 1 Nr. 2 BNotO"
+  ],
+  "frage": "Eine Bescheinigung über eine Eintragung in einem öffentlichen Register nach § 39 BeurkG beweist auch die Richtigkeit der Eintragung.",
+  "antwort": false,
+  "erklaerung": "Die Bescheinigung über eine Registereintragung nach § 39 BeurkG beweist nur die Eintragung, nicht deren Richtigkeit. Sie ist von der Vertretungs- oder Registerbescheinigung nach § 21 BNotO zu unterscheiden, die eine zusätzliche rechtlich erhebliche Schlussfolgerung des Notars enthält."
+ },
+ {
+  "id": "beur1-029",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Grundlagen und Beurkundungsarten",
+  "seite": "Beurkundungsbedürftigkeit und Verstöße gegen Verfahrensvorschriften (Muss- und Soll-Vorschriften)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/grundlagen-und-beurkundungsarten/beurkundungsbedurftigkeit-und-verstosse-gegen-verfahrensvorschriften-muss-und-soll-vorschriften",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 3 BeurkG",
+   "§ 9 Abs. 2 BeurkG",
+   "§ 13 BeurkG",
+   "§§ 6, 7 BeurkG"
+  ],
+  "frage": "Welche der folgenden Vorschriften des BeurkG ist eine Soll-Vorschrift, deren Verletzung die Wirksamkeit der Beurkundung unberührt lässt?",
+  "optionen": [
+   "Die Pflicht zum Vorlesen der Niederschrift (§ 13 BeurkG).",
+   "Die Ausschließungsgründe der §§ 6 und 7 BeurkG.",
+   "Die Mitwirkungsverbote des § 3 BeurkG.",
+   "Die Bezeichnung des Notars und die Erklärungen der Beteiligten (§ 9 Abs. 1 BeurkG)."
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Mitwirkungsverbote des § 3 BeurkG und die Angabe von Ort und Tag der Verhandlung (§ 9 Abs. 2 BeurkG) sind Soll-Vorschriften: Ein Verstoß lässt die Beurkundung wirksam, bleibt aber verbindliche Amtspflicht mit Disziplinar- und Haftungsfolgen. Dagegen sind die Ausschließungsgründe (§§ 6, 7 BeurkG), § 9 Abs. 1 BeurkG und die Vorlesungspflicht (§ 13 BeurkG) Muss-Vorschriften, deren Verletzung die gesamte Beurkundung nichtig macht."
+ },
+ {
+  "id": "beur1-030",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Grundlagen und Beurkundungsarten",
+  "seite": "Beurkundungsbedürftigkeit und Verstöße gegen Verfahrensvorschriften (Muss- und Soll-Vorschriften)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/grundlagen-und-beurkundungsarten/beurkundungsbedurftigkeit-und-verstosse-gegen-verfahrensvorschriften-muss-und-soll-vorschriften",
+  "typ": "fall",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 13 BeurkG",
+   "§ 311b Abs. 1 S. 1 BGB",
+   "§ 19 BNotO"
+  ],
+  "frage": "Nicht vorgelesener Teil der Niederschrift",
+  "sachverhalt": "Notar N beurkundet einen Grundstückskaufvertrag zwischen Verkäufer V und Käufer K. Während des Vorlesens verlässt N für zehn Minuten den Raum; die Mitarbeiterin liest in dieser Zeit die Regelungen zur Kaufpreisfälligkeit vor. Nach der Unterzeichnung bemerkt N seinen Fehler. Außerdem fehlt in der Niederschrift die Angabe des Verhandlungsorts.",
+  "schritte": [
+   {
+    "frage": "Wie wirkt sich die zeitweise Abwesenheit des Notars beim Vorlesen auf die Beurkundung aus?",
+    "optionen": [
+     "Die Beurkundung ist wirksam, weil eine Mitarbeiterin vorgelesen hat und der Notar nicht selbst vorlesen muss.",
+     "Die Pflicht zum Vorlesen nach § 13 BeurkG ist eine Muss-Vorschrift; ihre Verletzung macht die gesamte Beurkundung nichtig.",
+     "Nur der nicht in Anwesenheit des Notars vorgelesene Teil ist unwirksam, der Rest bleibt bestehen.",
+     "Die Beurkundung ist wirksam, der Verstoß kann aber disziplinarisch geahndet werden."
+    ],
+    "antwort": 1,
+    "erklaerung": "Die Vorlesungspflicht nach § 13 BeurkG ist eine Muss-Vorschrift. Ein Verstoß, etwa weil ein Teil der Niederschrift nicht in Gegenwart des Notars vorgelesen wurde, macht die gesamte Beurkundung nichtig, nicht nur den betroffenen Teil. Die bloß disziplinarische Folge gilt nur für Soll-Vorschriften."
+   },
+   {
+    "frage": "Welche Folge hat der Verfahrensfehler für den Kaufvertrag zwischen V und K?",
+    "optionen": [
+     "Der Kaufvertrag ist nur formell, nicht materiell unwirksam und bindet V und K schuldrechtlich.",
+     "Der Kaufvertrag ist auch materiell unwirksam, weil er nach § 311b Abs. 1 S. 1 BGB der notariellen Beurkundung bedarf.",
+     "Der Kaufvertrag ist wirksam, weil K und V die Niederschrift genehmigt und unterschrieben haben.",
+     "Der Kaufvertrag wird mit Eintragung der Auflassungsvormerkung geheilt."
+    ],
+    "antwort": 1,
+    "erklaerung": "Die Verletzung einer zwingenden Verfahrensvorschrift macht die Urkunde formell unwirksam. Materiell unwirksam ist das Rechtsgeschäft, wenn es nach materiellem Recht der Beurkundung bedarf; das ist beim Grundstückskaufvertrag nach § 311b Abs. 1 S. 1 BGB der Fall. Genehmigung und Unterschrift ersetzen das ordnungsgemäße Vorlesen nicht."
+   },
+   {
+    "frage": "Wie ist der Mangel zu beheben, und wie ist die fehlende Ortsangabe zu bewerten?",
+    "optionen": [
+     "Eine Berichtigung der Niederschrift durch den Notar genügt; die fehlende Ortsangabe macht die Urkunde zusätzlich nichtig.",
+     "Die Beurkundung ist insgesamt unter Mitwirkung der Beteiligten zu wiederholen; die fehlende Ortsangabe verletzt nur die Soll-Vorschrift des § 9 Abs. 2 BeurkG und berührt die Wirksamkeit nicht.",
+     "Es genügt ein Nachtrag allein mit K; die fehlende Ortsangabe ist unbeachtlich.",
+     "Die Beteiligten können den Vertrag privatschriftlich bestätigen; die Ortsangabe wird vom Grundbuchamt ergänzt."
+    ],
+    "antwort": 1,
+    "erklaerung": "Wirksam wird das Geschäft nur durch eine neue Beurkundung, an der die Beteiligten mitwirken; eine Berichtigung genügt nicht, das ist der auf der Seite genannte typische Fehler. Die Angabe von Ort und Tag der Verhandlung nach § 9 Abs. 2 BeurkG ist dagegen nur eine Soll-Vorschrift, deren Verletzung die Wirksamkeit unberührt lässt, aber eine Amtspflichtverletzung bleibt."
+   }
+  ],
+  "erklaerung": "Der Verstoß gegen die Muss-Vorschrift des § 13 BeurkG macht die gesamte Beurkundung nichtig und wegen § 311b Abs. 1 S. 1 BGB auch den Kaufvertrag materiell unwirksam; Abhilfe schafft nur eine vollständige Neubeurkundung mit den Beteiligten. Die fehlende Ortsangabe ist dagegen ein Verstoß gegen die Soll-Vorschrift des § 9 Abs. 2 BeurkG, der die Wirksamkeit nicht berührt, aber disziplinar- und haftungsrechtlich (§ 19 BNotO) relevant sein kann."
+ },
+ {
+  "id": "beur1-031",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Grundlagen und Beurkundungsarten",
+  "seite": "Beurkundungsbedürftigkeit und Verstöße gegen Verfahrensvorschriften (Muss- und Soll-Vorschriften)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/grundlagen-und-beurkundungsarten/beurkundungsbedurftigkeit-und-verstosse-gegen-verfahrensvorschriften-muss-und-soll-vorschriften",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1585c BGB",
+   "§ 2348 BGB",
+   "§ 15 Abs. 3 und 4 GmbHG",
+   "§ 794 Abs. 1 Nr. 5 ZPO"
+  ],
+  "frage": "Ordne das beurkundungsbedürftige Geschäft der Norm zu, die die notarielle Form verlangt.",
+  "paare": [
+   [
+    "Unterhaltsvereinbarung vor Rechtskraft der Scheidung",
+    "§ 1585c BGB"
+   ],
+   [
+    "Erb- und Pflichtteilsverzicht",
+    "§ 2348 BGB"
+   ],
+   [
+    "Abtretung von GmbH-Geschäftsanteilen und Verpflichtung dazu",
+    "§ 15 Abs. 3 und 4 GmbHG"
+   ],
+   [
+    "Unterwerfung unter die sofortige Zwangsvollstreckung",
+    "§ 794 Abs. 1 Nr. 5 ZPO"
+   ],
+   [
+    "Vereinbarung über den Versorgungsausgleich vor Rechtskraft des Wertausgleichs",
+    "§ 7 Abs. 1 und 3 VersAusglG"
+   ]
+  ],
+  "erklaerung": "Ob notarielle Form nötig ist, ergibt sich aus dem materiellen Recht, nicht aus dem BeurkG. Die Seite nennt unter anderem § 1585c BGB für Unterhaltsvereinbarungen vor Rechtskraft der Scheidung, § 2348 BGB für Erb- und Pflichtteilsverzicht, § 15 Abs. 3 und 4 GmbHG für die Anteilsabtretung und das Verpflichtungsgeschäft, § 794 Abs. 1 Nr. 5 ZPO für die Vollstreckungsunterwerfung und § 7 Abs. 1 und 3 VersAusglG für Versorgungsausgleichsvereinbarungen."
+ },
+ {
+  "id": "beur1-032",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Grundlagen und Beurkundungsarten",
+  "seite": "Beurkundungsbedürftigkeit und Verstöße gegen Verfahrensvorschriften (Muss- und Soll-Vorschriften)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/grundlagen-und-beurkundungsarten/beurkundungsbedurftigkeit-und-verstosse-gegen-verfahrensvorschriften-muss-und-soll-vorschriften",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 19 Abs. 1 S. 2 Hs. 2 BNotO",
+   "§§ 23, 24 BNotO"
+  ],
+  "frage": "In welchem Fall gilt die Subsidiarität der Notarhaftung bei bloßer Fahrlässigkeit nach § 19 BNotO nicht?",
+  "optionen": [
+   "Bei Beurkundungen nach § 20 BNotO gegenüber dem Käufer eines Grundstücks.",
+   "Bei Amtsgeschäften nach §§ 23, 24 BNotO im Verhältnis zum Auftraggeber.",
+   "Bei Unterschriftsbeglaubigungen gegenüber Dritten.",
+   "Bei Verwahrungsgeschäften gegenüber dem Grundbuchamt."
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei bloßer Fahrlässigkeit haftet der Notar nach § 19 BNotO nur nachrangig, wenn der Geschädigte nicht anderweitig Ersatz erlangen kann. Diese Nachrangigkeit gilt nach § 19 Abs. 1 S. 2 Hs. 2 BNotO nicht bei Amtsgeschäften nach §§ 23, 24 BNotO im Verhältnis zum Auftraggeber. Für die Urkundstätigkeit nach § 20 BNotO bleibt es bei der Subsidiarität."
+ },
+ {
+  "id": "beur1-033",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Grundlagen und Beurkundungsarten",
+  "seite": "Öffentliche Urkunde: Begriff, Beweiskraft und Urkundspersonen",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/grundlagen-und-beurkundungsarten/offentliche-urkunde-begriff-beweiskraft-und-urkundspersonen",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 415 Abs. 1 ZPO"
+  ],
+  "frage": "Wann liegt nach § 415 Abs. 1 ZPO eine öffentliche Urkunde vor?",
+  "optionen": [
+   "Wenn ein Rechtsanwalt die Urkunde entworfen und mit Kanzleistempel versehen hat.",
+   "Wenn eine mit öffentlichem Glauben versehene Person sie innerhalb ihres Geschäftskreises in der vorgeschriebenen Form aufgenommen hat.",
+   "Wenn die Urkunde in ein öffentliches Register eingetragen wurde.",
+   "Wenn zwei Zeugen die Unterschrift des Ausstellers bestätigen."
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 415 Abs. 1 ZPO verlangt, dass eine mit öffentlichem Glauben versehene Person die Urkunde innerhalb ihres Geschäftskreises in der vorgeschriebenen Form aufgenommen hat; gleichgestellt sind Urkunden einer öffentlichen Behörde innerhalb ihrer Amtsbefugnisse. Die Registereintragung oder Zeugenbestätigung macht eine Urkunde nicht zur öffentlichen Urkunde."
+ },
+ {
+  "id": "beur1-034",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Grundlagen und Beurkundungsarten",
+  "seite": "Öffentliche Urkunde: Begriff, Beweiskraft und Urkundspersonen",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/grundlagen-und-beurkundungsarten/offentliche-urkunde-begriff-beweiskraft-und-urkundspersonen",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 59 SGB VIII",
+   "§ 7 BtOG",
+   "§ 1945 Abs. 2 BGB",
+   "§ 2 KonsG"
+  ],
+  "frage": "Ordne die Urkundsperson ihrem Geschäftskreis zu.",
+  "paare": [
+   [
+    "Jugendamt",
+    "Vaterschaftsanerkennungen und Unterhaltsverpflichtungen gegenüber minderjährigen Kindern (§ 59 SGB VIII)"
+   ],
+   [
+    "Betreuungsbehörde",
+    "Beglaubigung von Vorsorgevollmachten und Betreuungsverfügungen (§ 7 BtOG)"
+   ],
+   [
+    "Nachlassgericht",
+    "Niederschrift über Erbausschlagung und Anfechtung der Annahme (§ 1945 Abs. 2 BGB)"
+   ],
+   [
+    "Konsularbeamter",
+    "Allgemeine Urkundszuständigkeit vergleichbar dem Notar (§ 2 KonsG)"
+   ],
+   [
+    "Standesbeamter",
+    "Eheschließung und Personenstand (§ 2 PStG)"
+   ]
+  ],
+  "erklaerung": "Der Notar ist nach §§ 1, 20 ff. BNotO allgemeine Urkundsperson; eine vergleichbar allgemeine Zuständigkeit haben nur Konsularbeamte (§ 2 KonsG). Die übrigen Stellen sind auf einzelne Geschäftskreise beschränkt: Jugendämter nach § 59 SGB VIII, Betreuungsbehörden nach § 7 BtOG, Nachlassgerichte nach § 1945 Abs. 2 BGB und Standesbeamte nach § 2 PStG."
+ },
+ {
+  "id": "beur1-035",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Grundlagen und Beurkundungsarten",
+  "seite": "Öffentliche Urkunde: Begriff, Beweiskraft und Urkundspersonen",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/grundlagen-und-beurkundungsarten/offentliche-urkunde-begriff-beweiskraft-und-urkundspersonen",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 415 ZPO",
+   "§ 418 ZPO"
+  ],
+  "frage": "Unterschriftsbeglaubigungen fallen unter § 418 ZPO und haben deshalb eine geringere Beweiswirkung als Niederschriften über Willenserklärungen nach § 415 ZPO.",
+  "antwort": false,
+  "erklaerung": "Für Tatsachenniederschriften (§§ 36, 37 BeurkG) und Vermerkurkunden wie Unterschrifts- und Abschriftsbeglaubigungen gilt zwar § 418 ZPO. In der Beweiswirkung unterscheiden sich § 415 ZPO und § 418 ZPO aber nicht. Der Fehler liegt in der angenommenen Abstufung der Beweiskraft."
+ },
+ {
+  "id": "beur1-036",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Grundlagen und Beurkundungsarten",
+  "seite": "Öffentliche Urkunde: Begriff, Beweiskraft und Urkundspersonen",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/grundlagen-und-beurkundungsarten/offentliche-urkunde-begriff-beweiskraft-und-urkundspersonen",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 7 BtOG",
+   "§ 34 BtOG"
+  ],
+  "frage": "Welche Besonderheit gilt für eine von der Betreuungsbehörde nach § 7 BtOG beglaubigte Vorsorgevollmacht?",
+  "optionen": [
+   "Sie ist der notariellen Beurkundung in jeder Hinsicht gleichgestellt.",
+   "Sie verliert ihre Wirkung mit dem Tod des Vollmachtgebers; das gilt nach § 34 BtOG für Beglaubigungen seit dem 01.01.2023.",
+   "Sie gilt nur für Angelegenheiten der Gesundheitssorge, nicht für Vermögensangelegenheiten.",
+   "Sie muss innerhalb von fünf Jahren notariell bestätigt werden."
+  ],
+  "antwort": 1,
+  "erklaerung": "Betreuungsbehörden beglaubigen Vorsorgevollmachten und Betreuungsverfügungen nach § 7 BtOG. Die Beglaubigung verliert ihre Wirkung mit dem Tod des Vollmachtgebers; diese Regel gilt seit dem 01.01.2023 und erfasst nach der Übergangsregelung des § 34 BtOG nur danach vorgenommene Beglaubigungen. Eine Gleichstellung mit der notariellen Beurkundung besteht gerade nicht."
+ },
+ {
+  "id": "beur1-037",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Mitwirkungsverbote, Zuständigkeit und Auslandsbezug",
+  "seite": "Auslandsbezug: Urkunden für das Ausland, ausländische Urkunden und § 11a BNotO",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/mitwirkungsverbote-zustandigkeit-und-auslandsbezug/auslandsbezug-urkunden-fur-das-ausland-auslandische-urkunden-und-11a-bnoto",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 438 Abs. 2 ZPO"
+  ],
+  "frage": "Wie läuft die Legalisation einer deutschen notariellen Urkunde für den Gebrauch im Ausland ab?",
+  "optionen": [
+   "Der Notar bestätigt die Echtheit seiner Urkunde selbst durch einen zusätzlichen Vermerk mit Siegel.",
+   "Nach Zwischenbeglaubigung durch den Präsidenten des Landgerichts bestätigt die Auslandsvertretung des Verwendungsstaats die Echtheit; manche Staaten verlangen zusätzlich eine Zwischenbeglaubigung des Bundesamts für Auswärtige Angelegenheiten.",
+   "Die Notarkammer erteilt eine Apostille, die von der deutschen Botschaft im Verwendungsstaat bestätigt wird.",
+   "Das Amtsgericht am Amtssitz des Notars bestätigt die Echtheit; eine weitere Stelle ist nicht beteiligt."
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei der Legalisation bestätigt die Auslandsvertretung des Verwendungsstaats die Echtheit der deutschen Urkunde; vorher erfolgt eine Zwischenbeglaubigung durch den Landgerichtspräsidenten, manche Staaten verlangen zusätzlich die Zwischenbeglaubigung des Bundesamts für Auswärtige Angelegenheiten. Die Apostille ist das vereinfachte Verfahren unter dem Haager Übereinkommen und wird ebenfalls vom Landgerichtspräsidenten erteilt, nicht von der Notarkammer."
+ },
+ {
+  "id": "beur1-038",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Mitwirkungsverbote, Zuständigkeit und Auslandsbezug",
+  "seite": "Auslandsbezug: Urkunden für das Ausland, ausländische Urkunden und § 11a BNotO",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/mitwirkungsverbote-zustandigkeit-und-auslandsbezug/auslandsbezug-urkunden-fur-das-ausland-auslandische-urkunden-und-11a-bnoto",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 438 Abs. 2 ZPO"
+  ],
+  "frage": "Für die Verwendung deutscher notarieller Urkunden in Österreich, Frankreich, Italien, Belgien und Dänemark ist weder Legalisation noch Apostille erforderlich.",
+  "antwort": true,
+  "erklaerung": "Ohne Apostille werden deutsche Urkunden nach der Seite in Belgien, Dänemark, Frankreich, Italien und Österreich verwendet. Die übrigen EU-Staaten und die Schweiz verlangen nur die Apostille des Landgerichtspräsidenten; die aufwendigere Legalisation bleibt für andere Staaten."
+ },
+ {
+  "id": "beur1-039",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Mitwirkungsverbote, Zuständigkeit und Auslandsbezug",
+  "seite": "Auslandsbezug: Urkunden für das Ausland, ausländische Urkunden und § 11a BNotO",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/mitwirkungsverbote-zustandigkeit-und-auslandsbezug/auslandsbezug-urkunden-fur-das-ausland-auslandische-urkunden-und-11a-bnoto",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 415 ZPO",
+   "§ 29 GBO",
+   "§ 438 Abs. 2 ZPO"
+  ],
+  "frage": "Ein Verkäufer legt eine in den USA vor einem Notary Public errichtete Vollmacht zur Auflassung eines deutschen Grundstücks vor. Welche Prüfung ist nach der Seite vorrangig?",
+  "optionen": [
+   "Ob die Vollmacht ins Deutsche übersetzt ist; eine Übersetzung durch den Notar genügt.",
+   "Ob die Auslandsurkunde die Form wahrt, die das deutschem Recht unterliegende Geschäft verlangt, ob sie öffentliche Urkunde nach § 415 ZPO ist und ob ihre Echtheit durch Legalisation oder Apostille feststeht.",
+   "Ob die Vollmacht vom US-Konsulat in Deutschland bestätigt wurde; eine Apostille ist dann entbehrlich.",
+   "Ob der Bevollmächtigte in Deutschland wohnt, weil die Auflassung nur von Inländern erklärt werden kann."
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei ausländischen Urkunden ist zunächst zu fragen, ob sie die vom deutschen Recht verlangte Form wahren; weiter ob eine öffentliche Urkunde im Sinne von § 415 ZPO vorliegt, die auch für § 29 GBO taugt; schließlich muss die Echtheit von Unterschrift, Siegel und Funktion des Unterzeichners feststehen, wofür die Legalisation durch einen deutschen Konsularbeamten (§ 438 Abs. 2 ZPO) oder in Vertragsstaaten des Haager Übereinkommens die Apostille genügt. Die Auflassung selbst muss vor einem deutschen Notar erklärt werden, eine Vollmacht dazu kann aber im Ausland errichtet werden."
+ },
+ {
+  "id": "beur1-040",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Mitwirkungsverbote, Zuständigkeit und Auslandsbezug",
+  "seite": "Auslandsbezug: Urkunden für das Ausland, ausländische Urkunden und § 11a BNotO",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/mitwirkungsverbote-zustandigkeit-und-auslandsbezug/auslandsbezug-urkunden-fur-das-ausland-auslandische-urkunden-und-11a-bnoto",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 11a BNotO"
+  ],
+  "frage": "Unter welchen Voraussetzungen darf ein deutscher Notar nach § 11a BNotO einen ausländischen Notar unterstützen?",
+  "optionen": [
+   "Nur im Inland und nur, wenn die Notarkammer zustimmt.",
+   "Auf Ersuchen des ausländischen Notars, auch durch Reise ins Ausland, soweit das Recht des anderen Staates nicht entgegensteht; er bleibt an seine Pflichten nach deutschem Recht gebunden.",
+   "Ohne besondere Voraussetzungen, weil die Amtsbefugnis des Notars weltweit gilt.",
+   "Nur, wenn der ausländische Notar zuvor beim Bundesamt für Auswärtige Angelegenheiten registriert ist."
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 11a BNotO erlaubt dem Notar, einen im Ausland bestellten Notar auf dessen Ersuchen bei Amtsgeschäften zu unterstützen und sich dazu ins Ausland zu begeben, soweit das Recht des anderen Staates nicht entgegensteht; die Bindung an die deutschen Pflichten bleibt bestehen. Umgekehrt darf ein ausländischer Notar in Deutschland nur auf Ersuchen eines inländischen Notars kollegiale Hilfe leisten. Eine weltweite Amtsbefugnis besteht nicht."
+ },
+ {
+  "id": "beur1-041",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Mitwirkungsverbote, Zuständigkeit und Auslandsbezug",
+  "seite": "Mitwirkungsverbote und Ausschließungsgründe (§§ 3, 6, 7, 27 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/mitwirkungsverbote-zustandigkeit-und-auslandsbezug/mitwirkungsverbote-und-ausschliessungsgrunde-3-6-7-27-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 3 Abs. 1 BeurkG",
+   "§§ 6, 7, 27 BeurkG"
+  ],
+  "frage": "Welche Rechtsfolge hat ein Verstoß gegen ein Mitwirkungsverbot nach § 3 Abs. 1 BeurkG im Unterschied zu einem Verstoß gegen §§ 6, 7, 27 BeurkG?",
+  "optionen": [
+   "Beide Verstöße führen zur Unwirksamkeit der Beurkundung.",
+   "Der Verstoß gegen § 3 Abs. 1 BeurkG lässt die Beurkundung wirksam, während die Missachtung der §§ 6, 7, 27 BeurkG zur Unwirksamkeit des Amtsgeschäfts führt.",
+   "Der Verstoß gegen § 3 Abs. 1 BeurkG macht die Beurkundung unwirksam, Verstöße gegen §§ 6, 7, 27 BeurkG sind nur disziplinarisch relevant.",
+   "Beide Verstöße sind folgenlos, wenn die Beteiligten nachträglich zustimmen."
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 3 BeurkG ist eine Soll-Vorschrift: Ein Verstoß macht die Beurkundung nicht unwirksam, bleibt aber Amtspflichtverletzung. Die Ausschließungsgründe der §§ 6, 7 und 27 BeurkG sind dagegen Muss-Vorschriften, deren Missachtung zur Unwirksamkeit des Amtsgeschäfts führt. Die Verwechslung dieser Rechtsfolgen ist der naheliegende Fehler."
+ },
+ {
+  "id": "beur1-042",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Mitwirkungsverbote, Zuständigkeit und Auslandsbezug",
+  "seite": "Mitwirkungsverbote und Ausschließungsgründe (§§ 3, 6, 7, 27 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/mitwirkungsverbote-zustandigkeit-und-auslandsbezug/mitwirkungsverbote-und-ausschliessungsgrunde-3-6-7-27-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 3 Abs. 1 Nr. 9 BeurkG"
+  ],
+  "frage": "Ab welcher Beteiligung an einer Gesellschaft soll der Notar nach § 3 BeurkG Nr. 9 nicht mehr in deren Angelegenheiten beurkunden?",
+  "optionen": [
+   "Mehr als 10 % der Stimmrechte oder mehr als 5.000 Euro Haftkapital.",
+   "Mehr als 5 % der Stimmrechte oder ein anteiliger Betrag des Haftkapitals von mehr als 2.500 Euro.",
+   "Mehr als 25 % der Stimmrechte unabhängig vom Haftkapital.",
+   "Jede Beteiligung, auch eine einzige Aktie."
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 3 BeurkG Nr. 9 nennt als Schwellen mehr als 5 % der Stimmrechte oder einen anteiligen Betrag des Haftkapitals von mehr als 2.500 Euro. Eine geringere Beteiligung löst das Mitwirkungsverbot nicht aus; die 25-%-Schwelle stammt aus anderen Zusammenhängen (etwa Geldwäscherecht) und ist hier falsch."
+ },
+ {
+  "id": "beur1-043",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Mitwirkungsverbote, Zuständigkeit und Auslandsbezug",
+  "seite": "Mitwirkungsverbote und Ausschließungsgründe (§§ 3, 6, 7, 27 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/mitwirkungsverbote-zustandigkeit-und-auslandsbezug/mitwirkungsverbote-und-ausschliessungsgrunde-3-6-7-27-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 6 BeurkG",
+   "§ 7 BeurkG"
+  ],
+  "frage": "Notar N beurkundet eine Vorsorgevollmacht, in der seine Tochter T zur Bevollmächtigten bestellt wird. Wie ist dies beurkundungsrechtlich zu beurteilen?",
+  "optionen": [
+   "Zulässig, weil T nicht formell an der Beurkundung beteiligt ist und § 6 BeurkG nicht greift.",
+   "Nur ein Verstoß gegen das Mitwirkungsverbot des § 3 BeurkG; die Vollmacht bleibt wirksam.",
+   "Die Beurkundung ist nach § 7 Nr. 3 BeurkG unwirksam, weil T als Verwandte in gerader Linie materiell beteiligt ist, da ihr die Bestellung zur Bevollmächtigten einen rechtlichen Vorteil verschafft.",
+   "Zulässig, wenn N die Vorbefassungsfrage nach § 3 Abs. 1 S. 2 BeurkG stellt und die Antwort vermerkt."
+  ],
+  "antwort": 2,
+  "erklaerung": "§ 7 BeurkG knüpft an die materielle Beteiligung an: Die Beurkundung ist unwirksam, soweit sie einer mit dem Notar in gerader Linie verwandten Person einen rechtlichen Vorteil verschaffen soll (Nr. 3). Materiell beteiligt ist nach der Seite auch, wer in einer Vollmacht zum Bevollmächtigten bestellt wird. Dass T nicht formell beteiligt ist, schließt nur § 6 BeurkG aus, nicht § 7 BeurkG; mit einem bloßen Soll-Verstoß nach § 3 BeurkG ist der Fall nicht erledigt."
+ },
+ {
+  "id": "beur1-044",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Mitwirkungsverbote, Zuständigkeit und Auslandsbezug",
+  "seite": "Mitwirkungsverbote und Ausschließungsgründe (§§ 3, 6, 7, 27 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/mitwirkungsverbote-zustandigkeit-und-auslandsbezug/mitwirkungsverbote-und-ausschliessungsgrunde-3-6-7-27-beurkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 3 BeurkG"
+  ],
+  "frage": "Ein Notarvertreter muss die Mitwirkungsverbote des § 3 BeurkG nur in der Person des vertretenen Notars prüfen, nicht in seiner eigenen.",
+  "antwort": false,
+  "erklaerung": "Ein Notarvertreter muss die Verbote des § 3 BeurkG sowohl in seiner eigenen Person als auch in der Person des vertretenen Notars beachten. Allein auf die eigene Person kommt es nur bei Notar und Notariatsverwalter an. Die Prüfung nur für den vertretenen Notar ist der auf der Seite genannte typische Fehler."
+ },
+ {
+  "id": "beur1-045",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Mitwirkungsverbote, Zuständigkeit und Auslandsbezug",
+  "seite": "Mitwirkungsverbote und Ausschließungsgründe (§§ 3, 6, 7, 27 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/mitwirkungsverbote-zustandigkeit-und-auslandsbezug/mitwirkungsverbote-und-ausschliessungsgrunde-3-6-7-27-beurkg",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 3 Abs. 1 Nr. 7 BeurkG",
+   "§ 6 BeurkG",
+   "§ 7 BeurkG",
+   "§ 16 Abs. 2 BNotO"
+  ],
+  "frage": "Ordne die Norm ihrem Anknüpfungspunkt zu.",
+  "paare": [
+   [
+    "§ 3 Abs. 1 Nr. 7 BeurkG",
+    "Vorbefassung außerhalb der Amtstätigkeit; Fragepflicht und Vermerk"
+   ],
+   [
+    "§ 6 BeurkG",
+    "Formelle Beteiligung des Notars, seines Ehegatten oder von Verwandten in gerader Linie"
+   ],
+   [
+    "§ 7 BeurkG",
+    "Materielle Beteiligung: rechtlicher Vorteil für den Notar oder nahe Angehörige"
+   ],
+   [
+    "§ 16 Abs. 2 BNotO",
+    "Rückzug bei Befangenheit auch ohne Mitwirkungsverbot"
+   ]
+  ],
+  "erklaerung": "§ 3 Abs. 1 Nr. 7 BeurkG regelt die Vorbefassung mit Fragepflicht nach S. 2. § 6 BeurkG knüpft an die formelle, § 7 BeurkG an die materielle Beteiligung an; nur die beiden letzten führen zur Unwirksamkeit. § 16 Abs. 2 BNotO erlaubt dem Notar in begründeten Fällen den Rückzug wegen Befangenheit, selbst wenn kein Mitwirkungsverbot vorliegt."
+ },
+ {
+  "id": "beur1-046",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Mitwirkungsverbote, Zuständigkeit und Auslandsbezug",
+  "seite": "Örtliche Zuständigkeit: Amtsbereich, Amtsbezirk und Ausland (§§ 10a, 11 BNotO)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/mitwirkungsverbote-zustandigkeit-und-auslandsbezug/ortliche-zustandigkeit-amtsbereich-amtsbezirk-und-ausland-10a-11-bnoto",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 10a Abs. 2 BNotO",
+   "§ 11 BNotO",
+   "§ 2 BeurkG"
+  ],
+  "frage": "Unter welchen Voraussetzungen darf der Notar außerhalb seines Amtsbezirks (OLG-Bezirk) beurkunden, und wie wirkt sich ein Verstoß auf die Urkunde aus?",
+  "optionen": [
+   "Nur mit Genehmigung der Aufsichtsbehörde oder bei Gefahr im Verzug (§ 11 BNotO); ein Verstoß ist ein schwerwiegendes Dienstvergehen, die Urkunde bleibt aber wirksam (§ 2 BeurkG).",
+   "Bei besonderen berechtigten Interessen der Rechtsuchenden nach § 10a Abs. 2 BNotO; ein Verstoß macht die Urkunde unwirksam.",
+   "Mit Zustimmung der örtlich zuständigen Notare; ein Verstoß führt zur Nichtigkeit der Urkunde.",
+   "Nach Anzeige bei der Notarkammer; ein Verstoß ist folgenlos."
+  ],
+  "antwort": 0,
+  "erklaerung": "Außerhalb des Amtsbezirks darf der Notar nur mit Genehmigung der Aufsichtsbehörde oder bei Gefahr im Verzug beurkunden (§ 11 BNotO); der Verstoß ist ein schwerwiegendes Dienstvergehen, die Urkunde bleibt nach § 2 BeurkG wirksam. Die besonderen berechtigten Interessen nach § 10a Abs. 2 BNotO rechtfertigen nur die Tätigkeit außerhalb des Amtsbereichs innerhalb des OLG-Bezirks. Das Einverständnis örtlicher Kollegen rechtfertigt das Verlassen des Amtsbereichs nicht."
+ },
+ {
+  "id": "beur1-047",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Mitwirkungsverbote, Zuständigkeit und Auslandsbezug",
+  "seite": "Örtliche Zuständigkeit: Amtsbereich, Amtsbezirk und Ausland (§§ 10a, 11 BNotO)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/mitwirkungsverbote-zustandigkeit-und-auslandsbezug/ortliche-zustandigkeit-amtsbereich-amtsbezirk-und-ausland-10a-11-bnoto",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 10a Abs. 2 BNotO",
+   "§ 21 GNotKG"
+  ],
+  "frage": "Welcher der folgenden Fälle ist nach den Richtlinienempfehlungen der BNotK kein anerkannter Grund für eine Beurkundung außerhalb des Amtsbereichs?",
+  "optionen": [
+   "Gefahr im Verzug.",
+   "Eine nach § 21 GNotKG zu behandelnde Urkundstätigkeit.",
+   "Der Wunsch eines Bauträgers, in seinen Geschäftsräumen beurkunden zu lassen, um Zeit zu sparen.",
+   "Ein unvorhersehbar nach Entwurfsfertigung entstandener Umstand, der nur eine Beurkundung außerhalb des Amtsbereichs zulässt."
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Richtlinienempfehlungen der BNotK nennen Gefahr im Verzug, die unvorhersehbare Notwendigkeit nach Entwurfsfertigung, Urkundstätigkeiten nach § 21 GNotKG und Einzelfälle eines besonderen Vertrauensverhältnisses bei unzumutbarem Weg zur Geschäftsstelle. Die Beurkundung beim Bauträger, Rechtsanwalt oder bei der Gemeinde ohne besonderen Grund ist dagegen der typische Fehler; der Notar soll jeden Anschein von Abhängigkeit oder Parteilichkeit vermeiden."
+ },
+ {
+  "id": "beur1-048",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Mitwirkungsverbote, Zuständigkeit und Auslandsbezug",
+  "seite": "Örtliche Zuständigkeit: Amtsbereich, Amtsbezirk und Ausland (§§ 10a, 11 BNotO)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/mitwirkungsverbote-zustandigkeit-und-auslandsbezug/ortliche-zustandigkeit-amtsbereich-amtsbezirk-und-ausland-10a-11-bnoto",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 10a BNotO"
+  ],
+  "frage": "Ein deutscher Notar darf im Ausland beurkunden, wenn die Beteiligten dies wünschen und das Recht des anderen Staates nicht entgegensteht; die Urkunde ist dann eine öffentliche Urkunde.",
+  "antwort": false,
+  "erklaerung": "Im Ausland kann der deutsche Notar nicht beurkunden; seine Befugnis zur hoheitlichen Errichtung öffentlicher Urkunden endet an der deutschen Staatsgrenze. Eine im Ausland errichtete Urkunde ist allenfalls eine Privaturkunde. Die Voraussetzung des nicht entgegenstehenden ausländischen Rechts betrifft nur die kollegiale Unterstützung nach § 11a BNotO, nicht eine eigene Beurkundung."
+ },
+ {
+  "id": "beur1-049",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Mitwirkungsverbote, Zuständigkeit und Auslandsbezug",
+  "seite": "Örtliche Zuständigkeit: Amtsbereich, Amtsbezirk und Ausland (§§ 10a, 11 BNotO)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/mitwirkungsverbote-zustandigkeit-und-auslandsbezug/ortliche-zustandigkeit-amtsbereich-amtsbezirk-und-ausland-10a-11-bnoto",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 10a Abs. 3 BNotO",
+   "§ 16b Abs. 2 S. 1 BeurkG"
+  ],
+  "frage": "Wann gilt eine Beurkundung mittels Videokommunikation als im Amtsbereich des Notars ausgeübt?",
+  "optionen": [
+   "Immer, weil die elektronische Niederschrift ortsunabhängig ist.",
+   "Wenn einer der Ortsbezüge des § 10a Abs. 3 BNotO erfüllt ist; Ort der Verhandlung ist der Ort, an dem die elektronische Niederschrift aufgenommen wird (§ 16b Abs. 2 S. 1 BeurkG).",
+   "Wenn mindestens ein Beteiligter seinen Wohnsitz im Amtsbezirk des Notars hat.",
+   "Wenn der Notar sich während der Videoverhandlung in seiner Geschäftsstelle aufhält, unabhängig von sonstigen Ortsbezügen."
+  ],
+  "antwort": 1,
+  "erklaerung": "Urkundstätigkeiten nach §§ 16a bis 16e und 40a BeurkG gelten nur dann als im Amtsbereich ausgeübt, wenn einer der Ortsbezüge des § 10a Abs. 3 BNotO erfüllt ist. Ort der Verhandlung ist nach § 16b Abs. 2 S. 1 BeurkG der Ort, an dem die elektronische Niederschrift aufgenommen wird. Eine generelle Ortsunabhängigkeit besteht nicht; bei Auswärtsfällen muss es den Beteiligten zudem unzumutbar sein, einen nach § 10a Abs. 3 BNotO zuständigen Notar in Anspruch zu nehmen."
+ },
+ {
+  "id": "beur1-050",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Niederschrift und Beteiligte",
+  "seite": "Beteiligte mit Hör-, Sprach-, Seh- oder Schreibbeeinträchtigung (§§ 22–26 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/beteiligte-mit-hor-sprach-seh-oder-schreibbeeintrachtigung-22-26-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 23 BeurkG",
+   "§ 22 BeurkG"
+  ],
+  "frage": "Bei der Beurkundung eines Kaufvertrags ist nach § 22 BeurkG festgestellt, dass Käufer K nicht hinreichend hört. Was gilt für das Vorlesen der Niederschrift?",
+  "optionen": [
+   "K wird die Niederschrift vorgelesen, wenn ein Gebärdensprachdolmetscher zugezogen ist.",
+   "K muss die Niederschrift anstelle des Vorlesens zur Durchsicht vorgelegt werden; darauf kann nicht verzichtet werden, auch nicht bei Zuziehung eines Gebärdensprachdolmetschers.",
+   "Alle Beteiligten erhalten die Niederschrift zur Durchsicht, das Vorlesen entfällt insgesamt.",
+   "K kann auf die Vorlage zur Durchsicht verzichten, wenn alle Beteiligten zustimmen."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 23 BeurkG muss einem Beteiligten, der nicht hinreichend hört, die Niederschrift anstelle des Vorlesens zur Durchsicht vorgelegt werden; ein Verzicht ist nicht möglich, auch nicht bei Zuziehung eines Gebärdensprachdolmetschers. Den übrigen Beteiligten wird vorgelesen. Der allseitige Verzicht nach § 22 BeurkG betrifft nur die Zuziehung von Zeuge oder zweitem Notar, nicht die Vorlage zur Durchsicht; das bloße Vorlesen ist der typische Fehler."
+ },
+ {
+  "id": "beur1-051",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Niederschrift und Beteiligte",
+  "seite": "Beteiligte mit Hör-, Sprach-, Seh- oder Schreibbeeinträchtigung (§§ 22–26 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/beteiligte-mit-hor-sprach-seh-oder-schreibbeeintrachtigung-22-26-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 24 Abs. 2 BeurkG",
+   "§ 27 BeurkG"
+  ],
+  "frage": "Erblasser E kann weder hören noch sprechen noch sich schriftlich verständigen. Als Verständigungsperson nach § 24 BeurkG wird sein Sohn S zugezogen, der im Testament zum Alleinerben eingesetzt werden soll. Welche Rechtsfolge tritt ein?",
+  "optionen": [
+   "Die Einsetzung ist wirksam, weil S als Angehöriger die typische Verständigungsperson ist.",
+   "Die Einsetzung ist unwirksam, weil die Verständigungsperson in einer Verfügung von Todes wegen nicht bedacht werden kann (§ 27 BeurkG) und eine Willenserklärung insoweit unwirksam ist, als sie ihr einen rechtlichen Vorteil verschafft (§ 24 Abs. 2 BeurkG).",
+   "Die Einsetzung ist wirksam, wenn zusätzlich ein Zeuge zugezogen wird.",
+   "Das gesamte Testament ist nichtig, auch hinsichtlich anderer Verfügungen."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 24 Abs. 2 BeurkG ist eine Willenserklärung insoweit unwirksam, als sie der Verständigungsperson einen rechtlichen Vorteil verschaffen soll; § 27 BeurkG schließt zudem aus, dass die Verständigungsperson in einer Verfügung von Todes wegen bedacht oder zum Testamentsvollstrecker ernannt wird. Die Unwirksamkeit beschränkt sich auf den Vorteil („insoweit“), erfasst also nicht das gesamte Testament. Deshalb sind Verständigungspersonen vorab auf mögliche Vorteile aus der Urkunde zu prüfen."
+ },
+ {
+  "id": "beur1-052",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Niederschrift und Beteiligte",
+  "seite": "Beteiligte mit Hör-, Sprach-, Seh- oder Schreibbeeinträchtigung (§§ 22–26 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/beteiligte-mit-hor-sprach-seh-oder-schreibbeeintrachtigung-22-26-beurkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 22 BeurkG",
+   "§ 40 BeurkG",
+   "§ 38 Abs. 1 BeurkG"
+  ],
+  "frage": "§ 22 BeurkG gilt auch für Unterschriftsbeglaubigungen nach § 40 BeurkG, so dass bei einem sehbehinderten Unterzeichner ein Zeuge zuzuziehen ist.",
+  "antwort": false,
+  "erklaerung": "§ 22 BeurkG gilt für die Beurkundung von Willenserklärungen und über § 38 Abs. 1 BeurkG für Eide und eidesstattliche Versicherungen. Für sonstige Beurkundungen, insbesondere Niederschriften nach § 36 BeurkG, einfache Zeugnisse nach § 39 BeurkG und Unterschriftsbeglaubigungen nach § 40 BeurkG, gilt § 22 BeurkG nicht."
+ },
+ {
+  "id": "beur1-053",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Niederschrift und Beteiligte",
+  "seite": "Beteiligte mit Hör-, Sprach-, Seh- oder Schreibbeeinträchtigung (§§ 22–26 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/beteiligte-mit-hor-sprach-seh-oder-schreibbeeintrachtigung-22-26-beurkg",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 22 BeurkG",
+   "§ 24 BeurkG",
+   "§ 25 BeurkG",
+   "§ 26 BeurkG"
+  ],
+  "frage": "Ordne die Vorschrift der Verfahrensfolge zu.",
+  "paare": [
+   [
+    "§ 22 BeurkG",
+    "Zeuge oder zweiter Notar bei Hör-, Sprach- oder Sehbeeinträchtigung; allseitiger Verzicht möglich"
+   ],
+   [
+    "§ 24 BeurkG",
+    "Zuziehung einer Verständigungsperson, wenn auch schriftliche Verständigung ausscheidet"
+   ],
+   [
+    "§ 25 BeurkG",
+    "Zeuge oder zweiter Notar beim Vorlesen und bei der Genehmigung, wenn der Beteiligte seinen Namen nicht schreiben kann"
+   ],
+   [
+    "§ 26 BeurkG",
+    "Mitwirkungsverbote für Zeugen und zweiten Notar"
+   ]
+  ],
+  "erklaerung": "§ 22 BeurkG regelt die Zuziehung von Zeuge oder zweitem Notar mit Möglichkeit des allseitigen Verzichts, § 24 BeurkG die Verständigungsperson bei fehlender schriftlicher Verständigungsmöglichkeit, § 25 BeurkG die Schreibunfähigkeit und § 26 BeurkG die Mitwirkungsverbote für Zeugen (Abs. 1 und 2) und zweiten Notar (nur Abs. 1). Die Ausschließungsgründe der §§ 6, 7 BeurkG gelten für Zeugen und zweiten Notar nicht."
  }
 ]
