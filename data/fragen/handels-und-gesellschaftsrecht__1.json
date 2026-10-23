@@ -1058,5 +1058,83 @@
    }
   ],
   "erklaerung": "Die Reaktivierung der Z-GmbH ist eine Mantelverwendung und gilt als wirtschaftliche Neugründung. Sie ist dem Registergericht unter Abgabe der Versicherung nach § 8 Abs. 2 GmbHG offenzulegen; andernfalls drohen Unterbilanzhaftung und Handelndenhaftung analog § 11 Abs. 2 GmbHG."
+ },
+ {
+  "id": "hand1-047",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "UG (haftungsbeschränkt): Kapital, Rücklage, Firma und Kapitalerhöhung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/ug-haftungsbeschrankt-kapital-rucklage-firma-und-kapitalerhohung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 5a Abs. 2 GmbHG"
+  ],
+  "frage": "Welche Einzahlungsregel gilt bei Gründung einer UG (haftungsbeschränkt)?",
+  "optionen": [
+   "Mindestens ein Viertel je Geschäftsanteil, insgesamt mindestens die Hälfte des Stammkapitals",
+   "Volleinzahlung in Geld vor der Anmeldung",
+   "Volleinzahlung in Geld oder durch Sacheinlage vor der Anmeldung",
+   "Mindestens die Hälfte des Stammkapitals in Geld, Rest innerhalb eines Jahres"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 5a Abs. 2 GmbHG muss das Stammkapital der UG vor der Anmeldung vollständig in Geld eingezahlt sein; Sacheinlagen sind nach § 5a Abs. 2 S. 2 GmbHG bei Errichtung ausgeschlossen. Die Viertel-/Halbregel des § 7 Abs. 2 GmbHG gilt nur für die reguläre GmbH."
+ },
+ {
+  "id": "hand1-048",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "UG (haftungsbeschränkt): Kapital, Rücklage, Firma und Kapitalerhöhung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/ug-haftungsbeschrankt-kapital-rucklage-firma-und-kapitalerhohung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 5a Abs. 3 GmbHG"
+  ],
+  "frage": "Die Pflicht der UG (haftungsbeschränkt) zur Bildung der gesetzlichen Rücklage endet, sobald Stammkapital und Rücklage zusammen 25.000 € erreichen.",
+  "antwort": false,
+  "erklaerung": "Die Rücklagepflicht nach § 5a Abs. 3 GmbHG besteht auch dann fort, wenn Stammkapital und Rücklage zusammen 25.000 € überschreiten. Erst eine Erhöhung des Stammkapitals selbst auf 25.000 € beendet sie; ab dann wird die Gesellschaft wie jede GmbH behandelt."
+ },
+ {
+  "id": "hand1-049",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "UG (haftungsbeschränkt): Kapital, Rücklage, Firma und Kapitalerhöhung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/ug-haftungsbeschrankt-kapital-rucklage-firma-und-kapitalerhohung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 5a Abs. 2 S. 2 GmbHG"
+  ],
+  "frage": "Eine UG (haftungsbeschränkt) mit 3.000 € Stammkapital will ihr Kapital durch Einbringung eines Fahrzeugs als Sacheinlage erhöhen. Wann ist das zulässig?",
+  "optionen": [
+   "Nie, da § 5a Abs. 2 S. 2 GmbHG Sacheinlagen bei der UG ausnahmslos verbietet",
+   "Nur wenn das Stammkapital nach der Sachkapitalerhöhung mindestens 25.000 € erreicht",
+   "Immer, da das Sacheinlageverbot nur bei der Errichtung gilt",
+   "Nur wenn zuvor die gesetzliche Rücklage aufgelöst wurde"
+  ],
+  "antwort": 1,
+  "erklaerung": "Das Sacheinlageverbot des § 5a Abs. 2 S. 2 GmbHG schließt eine Sachkapitalerhöhung aus, wenn das Stammkapital danach unter 25.000 € bleibt. Erreicht es durch die Erhöhung mindestens 25.000 €, findet das Verbot keine Anwendung mehr, weil die UG sonst schlechter stünde als eine gewöhnliche GmbH. Ein ausnahmsloses Verbot wäre daher ebenso falsch wie eine Beschränkung auf die Gründungsphase."
+ },
+ {
+  "id": "hand1-050",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "UG (haftungsbeschränkt): Kapital, Rücklage, Firma und Kapitalerhöhung",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/ug-haftungsbeschrankt-kapital-rucklage-firma-und-kapitalerhohung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 5a Abs. 1 GmbHG"
+  ],
+  "frage": "Welche Firmierung einer Unternehmergesellschaft ist zulässig?",
+  "optionen": [
+   "Müller UG (hb)",
+   "Müller Unternehmergesellschaft (haftungsbeschränkt)",
+   "Müller UG",
+   "Müller GmbH (haftungsbeschränkt)"
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 5a Abs. 1 GmbHG verlangt den Zusatz „Unternehmergesellschaft (haftungsbeschränkt)“ oder „UG (haftungsbeschränkt)“. Der Zusatz „haftungsbeschränkt“ darf nicht abgekürzt werden, auch nicht als „hb“ – das ist der typische Fehler. Wird durch die Firmenführung ein falscher Eindruck vom Kapital erweckt, droht den Gesellschaftern eine unbeschränkte Haftung."
  }
 ]

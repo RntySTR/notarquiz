@@ -1666,5 +1666,114 @@
   ],
   "erklaerung": "Wegen der Sprachbarriere, der Vertretung und des geplanten Kinderwunsches besteht ein erhebliches Risiko einer Unterlegenheit und Sittenwidrigkeit. Der Notar sichert die Wirksamkeit durch ein faires Verfahren (Vorbesprechung, Dolmetscher, Entwurfsübersendung, persönliche Anwesenheit), eine nachteilskompensierende Begrenzung statt eines Totalverzichts unter Ausnahme des Betreuungsunterhalts sowie eine dokumentierende Präambel mit Belehrung über die Ausübungskontrolle.",
   "id": "fami1-075"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Ehevertrag: Wirksamkeitskontrolle und Kernbereichslehre",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehevertrag-wirksamkeitskontrolle-und-kernbereichslehre",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 138 BGB",
+   "§ 242 BGB"
+  ],
+  "frage": "In welcher Reihenfolge prüft das Gericht einen Ehevertrag, und auf welchen Zeitpunkt kommt es bei der ersten Stufe an?",
+  "optionen": [
+   "Zuerst Ausübungskontrolle (§ 242 BGB) nach den Verhältnissen bei Scheidung, dann Wirksamkeitskontrolle (§ 138 BGB)",
+   "Zuerst Wirksamkeitskontrolle (§ 138 BGB) nach den Verhältnissen bei Vertragsschluss, dann Ausübungskontrolle (§ 242 BGB)",
+   "Nur eine einheitliche Billigkeitskontrolle nach den Verhältnissen bei Scheidung",
+   "Zuerst Wirksamkeitskontrolle nach den Verhältnissen bei Scheidung, dann Anfechtung nach § 123 BGB"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die gerichtliche Kontrolle hat zwei Stufen: Zuerst prüft das Gericht die Sittenwidrigkeit nach § 138 BGB, maßgeblich sind die Verhältnisse bei Vertragsschluss. Besteht der Vertrag diese Prüfung, folgt die Ausübungskontrolle nach § 242 BGB, die spätere Veränderungen der Lebensverhältnisse erfasst. Eine Umkehr der Reihenfolge oder ein Abstellen auf den Scheidungszeitpunkt bei der Wirksamkeitskontrolle ist falsch.",
+  "id": "fami1-076"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Ehevertrag: Wirksamkeitskontrolle und Kernbereichslehre",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehevertrag-wirksamkeitskontrolle-und-kernbereichslehre",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1570 BGB",
+   "§ 1572 BGB",
+   "§ 1571 BGB"
+  ],
+  "frage": "Welche Scheidungsfolge genießt nach der Kernbereichslehre den höchsten Schutz?",
+  "optionen": [
+   "Der Zugewinnausgleich",
+   "Der Aufstockungsunterhalt (§ 1573 Abs. 2 BGB)",
+   "Der Betreuungsunterhalt (§ 1570 BGB) einschließlich des kindbezogenen Verlängerungsunterhalts",
+   "Der Unterhalt wegen Erwerbslosigkeit (§ 1573 Abs. 1 BGB)"
+  ],
+  "antwort": 2,
+  "erklaerung": "An der Spitze der Rangfolge steht der Betreuungsunterhalt nach § 1570 BGB, jedenfalls einschließlich des kindbezogenen Verlängerungsunterhalts. Es folgen Krankheits- und Altersunterhalt (§§ 1572, 1571 BGB) sowie auf gleicher Stufe der Versorgungsausgleich, danach Unterhalt wegen Erwerbslosigkeit und Vorsorgeunterhalt, dann Aufstockungs- und Ausbildungsunterhalt. Am weitesten disponibel sind Zugewinnausgleich und Ehegattenerbrecht.",
+  "id": "fami1-077"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Ehevertrag: Wirksamkeitskontrolle und Kernbereichslehre",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehevertrag-wirksamkeitskontrolle-und-kernbereichslehre",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1570 BGB",
+   "§ 1572 BGB",
+   "§ 1573 Abs. 2 BGB"
+  ],
+  "frage": "Ordne die Scheidungsfolge ihrer Stellung in der Rangfolge der Kernbereichslehre zu.",
+  "paare": [
+   [
+    "Betreuungsunterhalt (§ 1570 BGB)",
+    "Höchster Schutz, erste Stufe"
+   ],
+   [
+    "Versorgungsausgleich",
+    "Gleiche Stufe wie Krankheits- und Altersunterhalt"
+   ],
+   [
+    "Aufstockungs- und Ausbildungsunterhalt",
+    "Schwächer geschützt"
+   ],
+   [
+    "Zugewinnausgleich",
+    "Am weitesten disponibel"
+   ]
+  ],
+  "erklaerung": "Die Kernbereichslehre ordnet die Scheidungsfolgen nach Schutzwürdigkeit: Betreuungsunterhalt an der Spitze; Krankheits- und Altersunterhalt (§§ 1572, 1571 BGB) mit dem Versorgungsausgleich auf der zweiten Stufe; danach Unterhalt wegen Erwerbslosigkeit und Vorsorgeunterhalt; schwächer Aufstockungs- und Ausbildungsunterhalt (§§ 1573 Abs. 2, 1575 BGB). Zugewinnausgleich und Ehegattenerbrecht sind am weitesten disponibel; ein Eingriff ist regelmäßig nicht sittenwidrig.",
+  "id": "fami1-078"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Ehevertrag: Wirksamkeitskontrolle und Kernbereichslehre",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehevertrag-wirksamkeitskontrolle-und-kernbereichslehre",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 138 BGB"
+  ],
+  "frage": "Ein Ehevertrag, dessen Einzelregelungen jeweils für sich hinnehmbar sind, kann in der Gesamtschau insgesamt sittenwidrig sein; dadurch können auch eine Gütertrennung oder ein Pflichtteilsverzicht unwirksam werden.",
+  "antwort": true,
+  "erklaerung": "Die Wirksamkeitskontrolle nach § 138 BGB würdigt alle Vereinbarungen zusammen mit den Umständen ihres Zustandekommens und dem geplanten und gelebten Zuschnitt der Ehe. Ein Ehevertrag kann insgesamt sittenwidrig sein, obwohl jede Einzelregelung hinnehmbar wäre; über die Gesamtschau können auch Regelungen außerhalb des Kernbereichs wie Gütertrennung oder Erb- und Pflichtteilsverzicht unwirksam werden (OLG Köln, FamRZ 2010, 29 ff.).",
+  "id": "fami1-079"
+ },
+ {
+  "kapitel": "familienrecht",
+  "abschnitt": "Ehe und Güterrecht",
+  "seite": "Ehevertrag: Wirksamkeitskontrolle und Kernbereichslehre",
+  "quelle": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehevertrag-wirksamkeitskontrolle-und-kernbereichslehre",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 138 BGB"
+  ],
+  "frage": "Bei einer Doppelverdienerehe ohne Kinderwunsch ist ein Globalverzicht auf Scheidungsfolgen nicht sittenwidrig.",
+  "antwort": true,
+  "erklaerung": "Ein Eingriff in Kernbereichsfolgen macht den Ehevertrag nicht zwingend nichtig; rechtfertigen können ihn der angestrebte und gelebte Ehetyp, besondere Verhältnisse oder Kompensationsleistungen. Bei einer Doppelverdienerehe ohne Kinderwunsch ist ein Globalverzicht nicht sittenwidrig. Nach zunehmend vertretener Meinung markiert der angemessene Ausgleich ehebedingter Nachteile die Grenze der Parteiautonomie.",
+  "id": "fami1-080"
  }
 ]

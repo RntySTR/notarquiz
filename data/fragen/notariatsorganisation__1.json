@@ -786,5 +786,302 @@
   "frage": "Bleibt ein Erbvertrag in der Verwahrung des Notars, ist dies bei der UVZ-Eintragung ausdrücklich anzugeben.",
   "antwort": true,
   "erklaerung": "§ 16 Abs. 2 NotAktVV verlangt, bei der Eintragung anzugeben, dass es sich um einen notariell verwahrten Erbvertrag handelt. Spätere Ereignisse wie die nachträgliche Verbringung in die amtliche Verwahrung oder die Rückgabe werden dann im Bemerkungsfeld vermerkt (§ 16 Abs. 3 NotAktVV)."
+ },
+ {
+  "id": "orga1-037",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Urkundenverzeichnis: Beteiligte in gesellschaftsrechtlichen Angelegenheiten (§ 12 Abs. 5 NotAktVV)",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundenverzeichnis-beteiligte-in-gesellschaftsrechtlichen-angelegenheiten-12-abs-5-notaktvv",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 12 Abs. 5 NotAktVV"
+  ],
+  "frage": "A und B gründen vor Notar N die X-GmbH. Wie sind die Beteiligten im UVZ zu erfassen?",
+  "optionen": [
+   "Nur A und B als Beteiligte; die GmbH in Gründung wird nicht eingetragen, weil sie keine Erklärung abgibt",
+   "A und B als Vertreter der GmbH in Gründung, die als vertretene Gesellschaft eingetragen wird",
+   "Die GmbH in Gründung ohne Zusatz als vertretene Person sowie A und B als Beteiligte ohne Kennzeichnung als Vertreter",
+   "Nur die GmbH in Gründung; die Gründer werden im Bemerkungsfeld genannt"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 12 Abs. 5 NotAktVV ist in gesellschaftsrechtlichen Angelegenheiten die Gesellschaft auch dann einzutragen, wenn sie nicht Beteiligte ist; bei der Gründung also die Vorgesellschaft, ohne Zusatz als vertretene Person. Die Gründer werden als Beteiligte ohne Vertreterkennzeichnung erfasst. Beide naheliegenden Fehler – Vorgesellschaft weglassen oder Gründer als ihre Vertreter kennzeichnen – nennt die Seite ausdrücklich."
+ },
+ {
+  "id": "orga1-038",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Urkundenverzeichnis: Beteiligte in gesellschaftsrechtlichen Angelegenheiten (§ 12 Abs. 5 NotAktVV)",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundenverzeichnis-beteiligte-in-gesellschaftsrechtlichen-angelegenheiten-12-abs-5-notaktvv",
+  "typ": "zuordnung",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 12 Abs. 5 NotAktVV"
+  ],
+  "frage": "Die Y-GmbH & Co. KG meldet, vertreten durch ihre Komplementärin Y-Verwaltungs-GmbH und deren Geschäftsführer G, eine Änderung zum Handelsregister an (Entwurf des Notars). Ordne den Personen ihre Erfassung im UVZ zu.",
+  "paare": [
+   [
+    "Geschäftsführer G",
+    "Als Vertreter der Komplementär-GmbH"
+   ],
+   [
+    "Y-Verwaltungs-GmbH",
+    "Zugleich Vertretene und Vertreterin der KG"
+   ],
+   [
+    "Y-GmbH & Co. KG",
+    "Als vertretene Gesellschaft"
+   ]
+  ],
+  "erklaerung": "Bei mehrstufiger Vertretung sind nach der Seite alle Stufen abzubilden: Der Geschäftsführer erscheint als Vertreter der GmbH, die GmbH ist zugleich Vertretene und Vertreterin der KG, die KG wird als vertretene Gesellschaft eingetragen (§ 12 Abs. 5 NotAktVV). Die Komplementär-GmbH nur als Vertreterin zu erfassen, unterschlägt eine Stufe."
+ },
+ {
+  "id": "orga1-039",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Urkundenverzeichnis: Beteiligte in gesellschaftsrechtlichen Angelegenheiten (§ 12 Abs. 5 NotAktVV)",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundenverzeichnis-beteiligte-in-gesellschaftsrechtlichen-angelegenheiten-12-abs-5-notaktvv",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 12 Abs. 5 NotAktVV"
+  ],
+  "frage": "In gesellschaftsrechtlichen Angelegenheiten ist die Gesellschaft im UVZ auch dann einzutragen, wenn sie selbst nicht Beteiligte ist.",
+  "antwort": true,
+  "erklaerung": "§ 12 Abs. 5 S. 1 NotAktVV ordnet dies ausdrücklich an. Deshalb wird etwa bei der GmbH-Gründung die Vorgesellschaft eingetragen, obwohl sie keine Erklärung abgibt."
+ },
+ {
+  "id": "orga1-040",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Urkundenverzeichnis: Erfassung von Geschäftsgegenstand, Urkundenart und Nachträgen",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundenverzeichnis-erfassung-von-geschaftsgegenstand-urkundenart-und-nachtragen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "NotAktVV"
+  ],
+  "frage": "Zu einem im UVZ eingetragenen Kaufvertrag wird eine Identitätserklärung beurkundet. Wie ist sie im UVZ zu erfassen?",
+  "optionen": [
+   "Urkundenart „(Sonstige) Beurkundungen und Beschlüsse“, Hinweis „Nachtrag zu UR …“ im Bemerkungsfeld und Verknüpfung mit dem Kaufvertrag im Reiter „Verbindungen“",
+   "Hinweis „Nachtrag zu UR …“ im Zusatz zum Geschäftsgegenstand, keine Verbindung",
+   "Keine eigene Eintragung; Vermerk in der Eintragung des Kaufvertrags",
+   "Urkundenart „Vermerkurkunde“ mit Freitext unter „Sonstiges“"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Identitätserklärung ist ein Nachtrag; als Urkundenart ist stets „(Sonstige) Beurkundungen und Beschlüsse“ zu wählen, der Hinweis gehört in die Bemerkung, nicht in den Zusatz zum Geschäftsgegenstand. Ist die Haupturkunde im UVZ eingetragen, ist zusätzlich eine Verbindung anzulegen. Den Hinweis in den Zusatz zu schreiben und die Verbindung zu vergessen, ist der typische Fehler."
+ },
+ {
+  "id": "orga1-041",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Urkundenverzeichnis: Erfassung von Geschäftsgegenstand, Urkundenart und Nachträgen",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundenverzeichnis-erfassung-von-geschaftsgegenstand-urkundenart-und-nachtragen",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "NotAktVV"
+  ],
+  "frage": "Ordne dem Vorgang den zutreffenden Geschäftsgegenstand im UVZ zu.",
+  "paare": [
+   [
+    "Erbscheinsantrag mit eidesstattlicher Versicherung",
+    "„Antrag auf Erteilung eines Erbscheins (mit EV)“"
+   ],
+   [
+    "Unterwerfung unter die sofortige Zwangsvollstreckung",
+    "„Schuldanerkenntnis/Schuldversprechen“"
+   ],
+   [
+    "Nachgenehmigung eines vollmachtlos Vertretenen",
+    "„Genehmigung/Vollmachtsbestätigung“"
+   ],
+   [
+    "Urkunde mit Beschluss der Gesellschafter einer GmbH",
+    "„Gesellschafterbeschluss“"
+   ]
+  ],
+  "erklaerung": "Der Geschäftsgegenstand ist aus der vorgegebenen Liste zu wählen. Für den Erbscheinsantrag passt nicht „Eidesstattliche Versicherung“, sondern der spezielle Antragseintrag; die Vollstreckungsunterwerfung wird nicht als „Vollstreckbare Urkunde“ unter „Sonstiges“ vermerkt, sondern als Schuldanerkenntnis/Schuldversprechen. Freitext unter „Sonstiges“ statt des Listeneintrags ist der typische Fehler."
+ },
+ {
+  "id": "orga1-042",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Urkundenverzeichnis: Erfassung von Geschäftsgegenstand, Urkundenart und Nachträgen",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundenverzeichnis-erfassung-von-geschaftsgegenstand-urkundenart-und-nachtragen",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 2 Abs. 2 S. 2 UA-GebS"
+  ],
+  "frage": "Notar N beglaubigt eine Unterschrift unter einem im Vollzug gefertigten Entwurf und erfasst und verwahrt die Urkunde im UVZ. Welche Gebühr des Urkundenarchivs fällt an?",
+  "optionen": [
+   "Keine, weil es sich um eine Unterschriftsbeglaubigung handelt",
+   "4,50 € nach § 2 Abs. 2 S. 2 UA-GebS",
+   "Die volle Archivgebühr wie bei einer Beurkundung",
+   "Eine Gebühr nur, wenn die Urkunde im Videoverfahren errichtet wird"
+  ],
+  "antwort": 1,
+  "erklaerung": "Für die Unterschriftsbeglaubigung unter einem im Vollzug gefertigten Entwurf (Beglaubigung ohne Entwurf), die im UVZ erfasst und verwahrt wird, sieht § 2 Abs. 2 S. 2 UA-GebS eine Gebühr von 4,50 € vor. Gebührenfreiheit besteht also nicht schon deshalb, weil nur beglaubigt wird."
+ },
+ {
+  "id": "orga1-043",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Urkundenverzeichnis: Erfassung von Geschäftsgegenstand, Urkundenart und Nachträgen",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundenverzeichnis-erfassung-von-geschaftsgegenstand-urkundenart-und-nachtragen",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "NotAktVV"
+  ],
+  "frage": "Bei einer Handelsregisteranmeldung muss im Zusatz zum Geschäftsgegenstand zwingend angegeben werden, ob es sich um eine Neuanmeldung, Satzungsänderung oder einen Geschäftsführerwechsel handelt.",
+  "antwort": false,
+  "erklaerung": "Registeranmeldungen werden als Handelsregister- oder Vereinsregisteranmeldung eingetragen; eine nähere Bezeichnung im Zusatz ist nicht zwingend. Ein freier Zusatz ist nur aufzunehmen, wenn er nötig ist, etwa bei einer Urkunde, die mehrere Geschäfte verbindet."
+ },
+ {
+  "id": "orga1-044",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Urkundenverzeichnis: Jahresexport und Archivierung (§ 19 NotAktVV)",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundenverzeichnis-jahresexport-und-archivierung-19-notaktvv",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 19 Abs. 2 S. 2 NotAktVV"
+  ],
+  "frage": "Wo ist der signierte Jahresexport des Urkundenverzeichnisses abzulegen, seit die Bundesnotarkammer hierfür eine besondere Funktion anbietet?",
+  "optionen": [
+   "Lokal auf einem gesicherten Datenträger in der Geschäftsstelle",
+   "Als Ausdruck in den Generalakten",
+   "Im Elektronischen Urkundenarchiv",
+   "Bei der Aufsichtsbehörde (Landgerichtspräsident)"
+  ],
+  "antwort": 2,
+  "erklaerung": "§ 19 Abs. 2 S. 2 NotAktVV verlangt die Speicherung im Elektronischen Urkundenarchiv, wenn die Bundesnotarkammer eine besondere Funktion vorsieht; diese Funktion besteht inzwischen. Eine bloß lokale Speicherung genügt daher für den UVZ-Export nicht mehr. Lokal gespeichert wird bis auf Weiteres nur der Jahresexport des Verwahrungsverzeichnisses (§ 29 Abs. 1 NotAktVV)."
+ },
+ {
+  "id": "orga1-045",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Urkundenverzeichnis: Jahresexport und Archivierung (§ 19 NotAktVV)",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundenverzeichnis-jahresexport-und-archivierung-19-notaktvv",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 19 Abs. 2 S. 2 NotAktVV"
+  ],
+  "frage": "Der Jahresabschluss des UVZ wird in XNP erzeugt, unter „Berichte“ abgelegt und signiert; erst danach wird der signierte Export im Elektronischen Urkundenarchiv archiviert.",
+  "antwort": true,
+  "erklaerung": "So beschreibt die Seite den Ablauf: Erzeugung in der Notarsoftware der Bundesnotarkammer (XNP), Ablage in der Übersicht „Berichte“, Signatur und anschließende Archivierung des signierten Exports im Elektronischen Urkundenarchiv nach § 19 Abs. 2 S. 2 NotAktVV."
+ },
+ {
+  "id": "orga1-046",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Verwahrungsverzeichnis (VVZ): Inhalt, Buchungen, Änderungen und Bestätigung",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/verwahrungsverzeichnis-vvz-inhalt-buchungen-anderungen-und-bestatigung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 25 Abs. 2 NotAktVV"
+  ],
+  "frage": "Wann sind Einnahmen und Ausgaben in das Verwahrungsverzeichnis einzutragen?",
+  "optionen": [
+   "Noch am selben Tag, an dem der Wert eingeht",
+   "Unverzüglich, regelmäßig ab Zugang des Kontoauszugs; nach h. M. innerhalb von 14 Tagen, sofern keine technischen Hindernisse bestehen",
+   "Gesammelt zum Monatsende",
+   "Spätestens mit Abschluss der Verwahrungsmasse"
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 25 Abs. 2 NotAktVV verlangt die unverzügliche Eintragung; maßgeblich ist regelmäßig der Zugang des Kontoauszugs oder einer gleichwertigen elektronischen Mitteilung, nach h. M. ist ein Zeitraum von 14 Tagen einzuhalten. Die taggleiche Buchung war Vorgabe der DONot für das Massenbuch und ist nicht der heutige Maßstab; Sammelbuchungen widersprechen dem Unverzüglichkeitsgebot."
+ },
+ {
+  "id": "orga1-047",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Verwahrungsverzeichnis (VVZ): Inhalt, Buchungen, Änderungen und Bestätigung",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/verwahrungsverzeichnis-vvz-inhalt-buchungen-anderungen-und-bestatigung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 30 NotAktVV"
+  ],
+  "frage": "In welchem Fall bedarf eine Änderung einer bestehenden VVZ-Eintragung keiner persönlichen Bestätigung durch den Notar nach § 30 NotAktVV?",
+  "optionen": [
+   "Bei der Korrektur eines falsch erfassten Buchungsbetrags durch die Mitarbeiterin",
+   "Bei der nachträglichen Änderung der Beteiligtenrolle",
+   "Bei der bloßen Ergänzung eines Verweises auf eine andere Einnahme oder Ausgabe",
+   "Bei der Änderung des Annahmedatums der Verwahrungsanweisung"
+  ],
+  "antwort": 2,
+  "erklaerung": "§ 30 NotAktVV verlangt für Änderungen und Zusätze zu bestehenden Eintragungen die persönliche Bestätigung des Notars mit dauerhafter Dokumentation von Inhalt und Datum. Ausgenommen sind nur die Löschung nach Fristablauf, die bloße Ergänzung eines Verweises auf eine andere Einnahme oder Ausgabe und Änderungen, bei denen das VVZ selbst erkennen lässt, wer wann was geändert hat. Eine Betragskorrektur ist eine inhaltliche Änderung und bestätigungspflichtig."
+ },
+ {
+  "id": "orga1-048",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Verwahrungsverzeichnis (VVZ): Inhalt, Buchungen, Änderungen und Bestätigung",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/verwahrungsverzeichnis-vvz-inhalt-buchungen-anderungen-und-bestatigung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "NotAktVV"
+  ],
+  "frage": "Ein Grundschuldbrief, den der Notar zur Weiterleitung an die Bank erhält, ist als Verwahrungsmasse in das VVZ einzutragen.",
+  "antwort": false,
+  "erklaerung": "Grundsätzlich ist eine Verwahrungsmasse einzutragen, sobald dem Notar Werte zugeflossen sind. Hypotheken- und Grundschuldbriefe gehören aber zu den eng begrenzten Ausnahmen, ebenso unverzüglich weitergeleitete Protestgelder sowie Wechsel und Schecks zu Protestzwecken."
+ },
+ {
+  "id": "orga1-049",
+  "kapitel": "notariatsorganisation",
+  "abschnitt": "Akten und Verzeichnisse",
+  "seite": "Verwahrungsverzeichnis (VVZ): Inhalt, Buchungen, Änderungen und Bestätigung",
+  "quelle": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/verwahrungsverzeichnis-vvz-inhalt-buchungen-anderungen-und-bestatigung",
+  "typ": "fall",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 25 Abs. 2 NotAktVV",
+   "§ 30 NotAktVV"
+  ],
+  "frage": "Kaufpreis auf Notaranderkonto",
+  "sachverhalt": "Im Kaufvertrag UR 412/2026 zwischen V und K ist die Hinterlegung des Kaufpreises von 380.000 € auf Notaranderkonto vereinbart. Notar N nimmt die Verwahrungsanweisung am 3. März an; der Betrag geht am 10. März ein, der Kontoauszug liegt am 11. März vor. Später stellt die Mitarbeiterin fest, dass bei einer Buchung ein Zahlendreher unterlaufen ist.",
+  "schritte": [
+   {
+    "frage": "Ab wann ist die Verwahrungsmasse in das VVZ einzutragen?",
+    "optionen": [
+     "Mit Beurkundung des Kaufvertrags",
+     "Sobald dem Notar Werte zugeflossen sind",
+     "Mit Abschluss der Verwahrung",
+     "Erst nach Fälligkeitsmitteilung"
+    ],
+    "antwort": 1,
+    "erklaerung": "Eine Verwahrungsmasse ist in das VVZ einzutragen, sobald dem Notar Werte zugeflossen sind. Zur Eintragung gehört auch der Tag der Annahme der Verwahrungsanweisung (hier 3. März)."
+   },
+   {
+    "frage": "Wie ist die Masse im VVZ zu kennzeichnen?",
+    "optionen": [
+     "Mit Massennummer aus Kalenderjahr und laufender Nummer sowie Verweis auf UR 412/2026",
+     "Nur mit der UVZ-Nummer 412/2026",
+     "Mit der IBAN des Anderkontos als Kennzeichen",
+     "Mit einem frei gewählten Aktenzeichen ohne UVZ-Bezug"
+    ],
+    "antwort": 0,
+    "erklaerung": "Jede Masse erhält eine Massennummer aus Kalenderjahr und laufender Nummer; steht die Verwahrung im Zusammenhang mit einem Urkundsgeschäft, verweist die Eintragung auf die UVZ-Nummer. Nur ohne Urkundsbezug erhält sie ein sonstiges eindeutiges Zeichen."
+   },
+   {
+    "frage": "Wie ist der Zahlendreher zu berichtigen?",
+    "optionen": [
+     "Die Mitarbeiterin korrigiert den Betrag; eine Bestätigung ist entbehrlich",
+     "Die Buchung wird gelöscht und neu erfasst, ohne Dokumentation",
+     "Die Änderung ist vom Notar persönlich zu bestätigen; Inhalt und Datum sind dauerhaft zu dokumentieren",
+     "Die Berichtigung erfolgt erst mit dem Jahresexport"
+    ],
+    "antwort": 2,
+    "erklaerung": "Änderungen an bestehenden VVZ-Eintragungen muss der Notar nach § 30 NotAktVV persönlich bestätigen; Inhalt und Datum sind dauerhaft zu dokumentieren. Eine Betragskorrektur fällt unter keine der Ausnahmen."
+   }
+  ],
+  "erklaerung": "Die Masse ist mit Wertzufluss einzutragen, erhält eine Massennummer mit Verweis auf die UVZ-Nummer, und der Eingang ist unverzüglich nach Zugang des Kontoauszugs zu buchen (§ 25 Abs. 2 NotAktVV). Inhaltliche Berichtigungen bestehender Eintragungen bedürfen der persönlichen Bestätigung des Notars nach § 30 NotAktVV."
  }
 ]
