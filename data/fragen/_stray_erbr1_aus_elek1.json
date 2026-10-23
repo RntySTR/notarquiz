@@ -1,0 +1,338 @@
+[
+ {
+  "id": "erbr1-001",
+  "kapitel": "erbrecht",
+  "abschnitt": "Annahme, Ausschlagung und Erbschein",
+  "seite": "Erbschaft: Annahme und Ausschlagung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/annahme-ausschlagung-und-erbschein/erbschaft-annahme-und-ausschlagung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1944 Abs. 1 BGB",
+   "§ 1944 Abs. 3 BGB"
+  ],
+  "frage": "Wie lang ist die Ausschlagungsfrist im Regelfall und wann verlängert sie sich auf sechs Monate?",
+  "optionen": [
+   "Sechs Wochen; sechs Monate, wenn der Erblasser seinen letzten Wohnsitz ausschließlich im Ausland hatte oder der Erbe sich bei Fristbeginn im Ausland aufhielt",
+   "Sechs Wochen; sechs Monate, wenn der Nachlass Grundbesitz im Ausland enthält",
+   "Drei Monate; sechs Monate, wenn der Erbe durch Verfügung von Todes wegen berufen ist",
+   "Sechs Wochen; sechs Monate, wenn der Erbe minderjährig ist"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Ausschlagungsfrist beträgt regelmäßig sechs Wochen (§ 1944 Abs. 1 BGB). Sechs Monate gelten nur, wenn der letzte Wohnsitz des Erblassers ausschließlich im Ausland lag oder sich der Erbe bei Fristbeginn im Ausland aufhielt (§ 1944 Abs. 3 BGB). Auslandsvermögen im Nachlass, die Berufungsart oder die Minderjährigkeit des Erben haben auf die Fristdauer keinen Einfluss; die Berufung durch Verfügung von Todes wegen wirkt sich nur auf den Fristbeginn aus (§ 1944 Abs. 2 S. 2 BGB)."
+ },
+ {
+  "id": "erbr1-002",
+  "kapitel": "erbrecht",
+  "abschnitt": "Annahme, Ausschlagung und Erbschein",
+  "seite": "Erbschaft: Annahme und Ausschlagung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/annahme-ausschlagung-und-erbschein/erbschaft-annahme-und-ausschlagung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1944 Abs. 2 BGB",
+   "§ 348 FamFG"
+  ],
+  "frage": "Der Erbe ist durch notarielles Testament zum Alleinerben eingesetzt und erfährt vom Tod des Erblassers am Tag der Beerdigung. Wann beginnt die Ausschlagungsfrist?",
+  "optionen": [
+   "Mit dem Erbfall, weil die Berufung auf einer Verfügung von Todes wegen beruht",
+   "Mit Kenntnis vom Tod, weil damit Anfall und Berufungsgrund bekannt sind",
+   "Frühestens mit der Bekanntgabe der Verfügung durch das Nachlassgericht",
+   "Mit der Beurkundung des Testaments, weil der Erbe seitdem vom Berufungsgrund weiß"
+  ],
+  "antwort": 2,
+  "erklaerung": "Grundsätzlich beginnt die Frist mit Kenntnis vom Anfall und vom Berufungsgrund (§ 1944 Abs. 2 S. 1 BGB). Bei Berufung durch Verfügung von Todes wegen beginnt sie jedoch frühestens mit der Bekanntgabe der Verfügung durch das Nachlassgericht (§ 1944 Abs. 2 S. 2 BGB i. V. m. §§ 348, 350 FamFG). Die bloße Kenntnis vom Todesfall genügt daher nicht; der Erbfall selbst oder die frühere Beurkundung setzen die Frist erst recht nicht in Lauf."
+ },
+ {
+  "id": "erbr1-003",
+  "kapitel": "erbrecht",
+  "abschnitt": "Annahme, Ausschlagung und Erbschein",
+  "seite": "Erbschaft: Annahme und Ausschlagung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/annahme-ausschlagung-und-erbschein/erbschaft-annahme-und-ausschlagung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1945 Abs. 3 BGB",
+   "§ 21 Abs. 3 BNotO"
+  ],
+  "frage": "Ein Bevollmächtigter kann die Ausschlagung wirksam erklären, wenn er eine privatschriftliche Vollmacht vorlegt; eine Beglaubigung ist nicht erforderlich.",
+  "antwort": false,
+  "erklaerung": "Die Ausschlagung durch einen Bevollmächtigten setzt eine öffentlich beglaubigte Vollmacht voraus (§ 1945 Abs. 3 BGB); die Ausschlagung ohne beglaubigte Vollmacht ist ein typischer Praxisfehler. Alternativ kann die Vertretungsmacht durch eine notarielle Vertretungsbescheinigung nachgewiesen werden (§ 21 Abs. 3 BNotO, § 1945 Abs. 3 S. 3 BGB), die auch nachgereicht werden darf. Eine privatschriftliche Vollmacht genügt nicht."
+ },
+ {
+  "id": "erbr1-004",
+  "kapitel": "erbrecht",
+  "abschnitt": "Annahme, Ausschlagung und Erbschein",
+  "seite": "Erbschaft: Annahme und Ausschlagung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/annahme-ausschlagung-und-erbschein/erbschaft-annahme-und-ausschlagung",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1943 BGB",
+   "§ 1947 BGB",
+   "§ 1952 BGB",
+   "§ 1953 BGB"
+  ],
+  "frage": "Ordne die Normen zur Ausschlagung ihrem Regelungsgehalt zu.",
+  "paare": [
+   [
+    "§ 1943 BGB",
+    "Verlust des Ausschlagungsrechts durch Annahme oder Fristablauf"
+   ],
+   [
+    "§ 1947 BGB",
+    "Bedingung oder Zeitbestimmung bei der Ausschlagung unzulässig"
+   ],
+   [
+    "§ 1952 BGB",
+    "Ausschlagungsrecht geht auf die Erben des Erben über"
+   ],
+   [
+    "§ 1953 BGB",
+    "Rückwirkung: Anfall gilt als nicht erfolgt, Ausschlagender gilt als vorverstorben"
+   ]
+  ],
+  "erklaerung": "§ 1943 BGB regelt den Verlust des Ausschlagungsrechts durch Annahme oder Fristablauf. § 1947 BGB verbietet Bedingung und Zeitbestimmung. § 1952 BGB lässt das höchstpersönliche, nicht übertragbare Ausschlagungsrecht auf die Erben des Erben übergehen. § 1953 BGB ordnet die Rückwirkung an: Der Anfall gilt als nie erfolgt und der Ausschlagende wird behandelt, als hätte er den Erbfall nicht erlebt."
+ },
+ {
+  "id": "erbr1-005",
+  "kapitel": "erbrecht",
+  "abschnitt": "Annahme, Ausschlagung und Erbschein",
+  "seite": "Erbschaft: Annahme und Ausschlagung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/annahme-ausschlagung-und-erbschein/erbschaft-annahme-und-ausschlagung",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1944 BGB",
+   "§ 1945 Abs. 3 BGB",
+   "§ 344 Abs. 7 FamFG",
+   "§ 1953 BGB"
+  ],
+  "frage": "Ausschlagung durch den Sohn in Hamburg",
+  "sachverhalt": "Erblasser E stirbt mit letztem gewöhnlichem Aufenthalt in Pforzheim. Gesetzlicher Alleinerbe ist sein Sohn S, der in Hamburg wohnt und vom Tod am Todestag erfährt. Der Nachlass ist voraussichtlich überschuldet. S möchte ausschlagen, kann aber nicht nach Pforzheim reisen. Er erscheint fünf Wochen nach dem Todestag beim Notar in Hamburg.",
+  "schritte": [
+   {
+    "frage": "Wie lange läuft die Ausschlagungsfrist für S?",
+    "optionen": [
+     "Sechs Monate, weil S in einer anderen Stadt als der Erblasser wohnt",
+     "Sechs Wochen ab Kenntnis von Anfall und Berufungsgrund",
+     "Sechs Wochen ab Bekanntgabe durch das Nachlassgericht Pforzheim",
+     "Sechs Monate, weil der Nachlass überschuldet ist"
+    ],
+    "antwort": 1,
+    "erklaerung": "Als gesetzlicher Erbe kennt S Anfall und Berufungsgrund mit der Kenntnis vom Tod; die Frist von sechs Wochen läuft ab diesem Zeitpunkt (§ 1944 Abs. 1, Abs. 2 S. 1 BGB). Die Sechsmonatsfrist gilt nur bei Auslandsbezug (§ 1944 Abs. 3 BGB); eine Bekanntgabe durch das Nachlassgericht ist nur bei Berufung durch Verfügung von Todes wegen maßgeblich."
+   },
+   {
+    "frage": "Bei welchem Gericht kann S die Ausschlagung fristwahrend einreichen?",
+    "optionen": [
+     "Nur beim Nachlassgericht Pforzheim, weil dort der letzte gewöhnliche Aufenthalt des Erblassers war",
+     "Beim Nachlassgericht Pforzheim oder beim Nachlassgericht an seinem Wohnsitz in Hamburg, das die Niederschrift weiterleitet",
+     "Bei jedem beliebigen Amtsgericht in Deutschland",
+     "Beim Notar, dessen Beurkundung die Frist wahrt"
+    ],
+    "antwort": 1,
+    "erklaerung": "Zuständig ist das Nachlassgericht am letzten gewöhnlichen Aufenthalt des Erblassers (§§ 342 Abs. 1 Nr. 5, 343 FamFG). Zusätzlich darf das Nachlassgericht am Wohnsitz des Ausschlagenden die Erklärung entgegennehmen und leitet sie weiter (§ 344 Abs. 7 FamFG). Die Beurkundung beim Notar allein wahrt die Frist nicht; entscheidend ist der Zugang bei einem dieser Gerichte vor Fristablauf."
+   },
+   {
+    "frage": "S will die Ausschlagung nur erklären, 'falls der Nachlass tatsächlich überschuldet ist'. Wie ist die Rechtslage?",
+    "optionen": [
+     "Die Bedingung ist zulässig, weil sie den Schutzzweck der Ausschlagung verwirklicht",
+     "Die Bedingung ist unzulässig; eine bedingte Ausschlagung ist unwirksam (§ 1947 BGB)",
+     "Die Bedingung ist zulässig, wenn das Nachlassgericht zustimmt",
+     "Die Bedingung gilt als nicht geschrieben, die Ausschlagung bleibt wirksam"
+    ],
+    "antwort": 1,
+    "erklaerung": "Eine Bedingung oder Zeitbestimmung bei der Ausschlagung ist unzulässig (§ 1947 BGB); dies ist ein typischer Praxisfehler. Der Notar muss S darauf hinweisen, dass nur eine unbedingte Ausschlagung in Betracht kommt. Eine Heilung durch Zustimmung des Gerichts ist nicht vorgesehen."
+   },
+   {
+    "frage": "S schlägt form- und fristgerecht unbedingt aus. Welche Wirkung hat das für die Erbfolge?",
+    "optionen": [
+     "S bleibt Erbe, haftet aber nur beschränkt mit dem Nachlass",
+     "Der Anfall gilt als nie erfolgt; S wird so behandelt, als wäre er vor E gestorben",
+     "Die Erbschaft fällt dem Staat als gesetzlichem Erben zu",
+     "Die Ausschlagung wirkt erst ab Zugang beim Nachlassgericht für die Zukunft"
+    ],
+    "antwort": 1,
+    "erklaerung": "Die wirksame Ausschlagung wirkt auf den Erbfall zurück: Der Anfall gilt als nicht erfolgt (§ 1953 Abs. 1 BGB), und für die Erbfolge gilt S als vor dem Erblasser verstorben (§ 1953 Abs. 2 BGB). Eine Haftungsbeschränkung ist etwas anderes als die Ausschlagung; der Staat erbt erst, wenn kein anderer Erbe vorhanden ist."
+   }
+  ],
+  "erklaerung": "Für den gesetzlichen Erben läuft die sechswöchige Frist ab Kenntnis von Tod und Berufungsgrund (§ 1944 BGB); die Erklärung muss vor Fristablauf beim Nachlassgericht des Erblassers oder beim Wohnsitzgericht des Ausschlagenden eingehen (§ 344 Abs. 7 FamFG). Sie muss unbedingt sein (§ 1947 BGB) und wirkt bei Wirksamkeit auf den Erbfall zurück (§ 1953 BGB)."
+ },
+ {
+  "id": "erbr1-006",
+  "kapitel": "erbrecht",
+  "abschnitt": "Annahme, Ausschlagung und Erbschein",
+  "seite": "Erbschein: Angaben im Antrag und Nachweise",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/annahme-ausschlagung-und-erbschein/erbschein-angaben-im-antrag-und-nachweise",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 352 Abs. 3 S. 1 FamFG",
+   "§ 415 ZPO"
+  ],
+  "frage": "Welche Tatsachen muss der Antragsteller im Erbscheinsverfahren zwingend durch öffentliche Urkunden nachweisen?",
+  "optionen": [
+   "Tod und Todeszeitpunkt des Erblassers, bei gesetzlicher Erbfolge die Verwandtschaft sowie der Wegfall von Personen",
+   "Tod des Erblassers, den letzten gewöhnlichen Aufenthalt und die Staatsangehörigkeit",
+   "Tod des Erblassers, die Existenz von Verfügungen von Todes wegen und das Fehlen eines Rechtsstreits",
+   "Die Erbquoten, die Annahme der Erbschaft und den Güterstand des Ehegatten"
+  ],
+  "antwort": 0,
+  "erklaerung": "Nach § 352 Abs. 3 S. 1 FamFG sind durch öffentliche Urkunden (§ 415 ZPO) der Tod und der Todeszeitpunkt (§ 352 Abs. 1 S. 1 Nr. 1 FamFG), bei gesetzlicher Erbfolge die Verwandtschaft (Nr. 3) und der Wegfall von Personen (§ 352 Abs. 1 S. 2 FamFG) nachzuweisen. Letzter gewöhnlicher Aufenthalt, Staatsangehörigkeit, Verfügungen und Rechtsstreit sind zwar anzugeben, werden aber nicht zwingend durch öffentliche Urkunden belegt; die übrigen Tatsachen werden durch eidesstattliche Versicherung oder formlos nachgewiesen."
+ },
+ {
+  "id": "erbr1-007",
+  "kapitel": "erbrecht",
+  "abschnitt": "Annahme, Ausschlagung und Erbschein",
+  "seite": "Erbschein: Angaben im Antrag und Nachweise",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/annahme-ausschlagung-und-erbschein/erbschein-angaben-im-antrag-und-nachweise",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 352 Abs. 1 FamFG",
+   "§ 352 Abs. 2 Nr. 1 FamFG"
+  ],
+  "frage": "Unter welcher Voraussetzung darf der Berufungsgrund im Erbscheinsantrag alternativ (gesetzliche Erbfolge oder Testament) angegeben werden?",
+  "optionen": [
+   "Immer, weil das Nachlassgericht den Berufungsgrund von Amts wegen ermittelt",
+   "Nur, wenn die Gültigkeit der Verfügung zweifelhaft ist und der Erbe nach Gesetz und Verfügung in gleichem Umfang berufen wäre",
+   "Nur bei einem gemeinschaftlichen Erbschein, wenn alle Miterben zustimmen",
+   "Nur, wenn das Testament privatschriftlich und nicht eröffnet ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Antragsteller muss sich grundsätzlich auf gesetzliche oder gewillkürte Erbfolge festlegen (§ 352 Abs. 1 S. 1 Nr. 3, Abs. 2 Nr. 1 FamFG). Eine alternative Angabe ist nur zulässig, wenn die Gültigkeit der Verfügung zweifelhaft ist und beide Berufungsgründe den Erben in gleichem Umfang berufen. Typischer Fehler ist die alternative Angabe, obwohl Gesetz und Verfügung nicht zum selben Ergebnis führen; die Amtsermittlung ersetzt die Festlegung nicht."
+ },
+ {
+  "id": "erbr1-008",
+  "kapitel": "erbrecht",
+  "abschnitt": "Annahme, Ausschlagung und Erbschein",
+  "seite": "Erbschein: Angaben im Antrag und Nachweise",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/annahme-ausschlagung-und-erbschein/erbschein-angaben-im-antrag-und-nachweise",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 352a Abs. 2 FamFG",
+   "§ 352a Abs. 3 S. 1 FamFG"
+  ],
+  "frage": "Bei mehreren Erben müssen die Erbquoten im Antrag auf einen gemeinschaftlichen Erbschein stets als Bruchteile angegeben werden; ein quotenloser Erbschein ist unzulässig.",
+  "antwort": false,
+  "erklaerung": "Die Erbquoten sind zwar grundsätzlich als Bruchteile anzugeben, doch kann stattdessen ein quotenloser Erbschein beantragt werden (§ 352a Abs. 2 FamFG). Zusätzlich muss der Antrag auf einen gemeinschaftlichen Erbschein die Annahme der Erbschaft durch die übrigen Erben erklären (§ 352a Abs. 3 S. 1 FamFG). Die Aussage verkennt die Wahlmöglichkeit des quotenlosen Erbscheins."
+ },
+ {
+  "id": "erbr1-009",
+  "kapitel": "erbrecht",
+  "abschnitt": "Annahme, Ausschlagung und Erbschein",
+  "seite": "Erbschein: Angaben im Antrag und Nachweise",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/annahme-ausschlagung-und-erbschein/erbschein-angaben-im-antrag-und-nachweise",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 352 Abs. 1 S. 1 FamFG"
+  ],
+  "frage": "Ordne die Pflichtangaben im Erbscheinsantrag der jeweiligen Nummer des § 352 Abs. 1 S. 1 FamFG zu.",
+  "paare": [
+   [
+    "Nr. 1",
+    "Zeitpunkt des Todes des Erblassers"
+   ],
+   [
+    "Nr. 2",
+    "Letzter gewöhnlicher Aufenthalt und Staatsangehörigkeit des Erblassers"
+   ],
+   [
+    "Nr. 4",
+    "Personen, die den Antragsteller ausschließen oder seinen Erbteil mindern würden"
+   ],
+   [
+    "Nr. 5",
+    "Ob und welche Verfügungen von Todes wegen vorhanden sind"
+   ],
+   [
+    "Nr. 6",
+    "Ob ein Rechtsstreit über das Erbrecht anhängig ist"
+   ]
+  ],
+  "erklaerung": "§ 352 Abs. 1 S. 1 FamFG listet die Pflichtangaben: Nr. 1 Todeszeitpunkt, Nr. 2 letzter gewöhnlicher Aufenthalt und Staatsangehörigkeit, Nr. 3 das Verhältnis bei gesetzlicher Erbfolge, Nr. 4 ausschließende oder mindernde Personen, Nr. 5 Verfügungen von Todes wegen, Nr. 6 anhängiger Rechtsstreit. Der Todeszeitpunkt (Nr. 1) und der Wegfall von Personen sind zudem durch öffentliche Urkunden nachzuweisen (§ 352 Abs. 3 S. 1 FamFG)."
+ },
+ {
+  "id": "erbr1-010",
+  "kapitel": "erbrecht",
+  "abschnitt": "Annahme, Ausschlagung und Erbschein",
+  "seite": "Erbschein: Antrag und Antragsberechtigung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/annahme-ausschlagung-und-erbschein/erbschein-antrag-und-antragsberechtigung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 2353 BGB",
+   "§ 23 FamFG",
+   "§ 352 Abs. 3 S. 3 FamFG"
+  ],
+  "frage": "Welche Aussage zu Antragserfordernis und Form des Erbscheinsantrags trifft zu?",
+  "optionen": [
+   "Der Erbschein wird vom Nachlassgericht von Amts wegen erteilt, sobald ein Testament eröffnet ist",
+   "Der Erbschein wird nur auf Antrag erteilt; der Antrag ist formfrei, die eidesstattliche Versicherung ist gegenüber Gericht oder Notar abzugeben",
+   "Der Erbschein wird nur auf Antrag erteilt; der Antrag bedarf der notariellen Beurkundung",
+   "Der Erbschein wird nur auf Antrag erteilt; die eidesstattliche Versicherung kann ausschließlich vor dem Nachlassgericht abgegeben werden"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Erbschein wird nur auf Antrag erteilt (§ 2353 BGB, §§ 352 ff. FamFG). Der Antrag selbst ist formfrei (§ 23 FamFG); die erforderliche eidesstattliche Versicherung ist gegenüber dem Gericht oder einem Notar abzugeben (§ 352 Abs. 3 S. 3 FamFG). Eine Beurkundungspflicht für den Antrag besteht nicht; die Eröffnung von Verfügungen von Amts wegen (§ 348 FamFG) ersetzt den Antrag nicht."
+ },
+ {
+  "id": "erbr1-011",
+  "kapitel": "erbrecht",
+  "abschnitt": "Annahme, Ausschlagung und Erbschein",
+  "seite": "Erbschein: Antrag und Antragsberechtigung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/annahme-ausschlagung-und-erbschein/erbschein-antrag-und-antragsberechtigung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§§ 792, 896 ZPO",
+   "§ 352 Abs. 3 FamFG"
+  ],
+  "frage": "Ein Gläubiger hat einen vollstreckbaren Titel gegen den Erblasser und braucht einen Erbschein, um gegen den Erben zu vollstrecken. Was gilt?",
+  "optionen": [
+   "Der Gläubiger ist nicht antragsberechtigt, weil er nur schuldrechtliche Ansprüche hat",
+   "Der Gläubiger ist antragsberechtigt wie der Erbe, muss aber dieselben Voraussetzungen erfüllen und die eidesstattliche Versicherung selbst abgeben",
+   "Der Gläubiger ist antragsberechtigt, von der eidesstattlichen Versicherung aber befreit, weil er die Erbfolge nicht kennt",
+   "Der Gläubiger muss zunächst Nachlassverwaltung beantragen und den Verwalter den Antrag stellen lassen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Ein Gläubiger mit vollstreckbarem Titel gegen Erblasser oder Erben hat ein Antragsrecht wie der Erbe, wenn er den Erbschein zur Vollstreckung benötigt (§§ 792, 896 ZPO). Er muss dieselben Erteilungsvoraussetzungen erfüllen wie der Schuldner und insbesondere die eidesstattliche Versicherung selbst abgeben. Der Grundsatz, dass bloß mittelbar Betroffene nicht antragsberechtigt sind, gilt für Gläubiger ohne Titel, nicht für den Titelgläubiger."
+ },
+ {
+  "id": "erbr1-012",
+  "kapitel": "erbrecht",
+  "abschnitt": "Annahme, Ausschlagung und Erbschein",
+  "seite": "Erbschein: Antrag und Antragsberechtigung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/annahme-ausschlagung-und-erbschein/erbschein-antrag-und-antragsberechtigung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2353 BGB"
+  ],
+  "frage": "Wird über den Nachlass das Nachlassinsolvenzverfahren eröffnet, verliert der Erbe sein Recht, einen Erbschein zu beantragen; antragsberechtigt ist dann nur noch der Nachlassinsolvenzverwalter.",
+  "antwort": false,
+  "erklaerung": "Nachlasspflegschaft, Nachlassinsolvenzverfahren und Nachlassverwaltung lassen das Antragsrecht des Erben unberührt, weil der Erbe Eigentümer des Nachlasses bleibt, auch wenn er teilweise nicht verfügen darf. Der Nachlassinsolvenzverwalter ist daneben antragsberechtigt, aber nur, soweit er den Erbschein für die Verwaltung des Nachlasses braucht; er beantragt ihn auf den Namen des Erben."
+ },
+ {
+  "id": "erbr1-013",
+  "kapitel": "erbrecht",
+  "abschnitt": "Annahme, Ausschlagung und Erbschein",
+  "seite": "Erbschein: Antrag und Antragsberechtigung",
+  "quelle": "handbuch-mit-notarwissen/erbrecht/annahme-ausschlagung-und-erbschein/erbschein-antrag-und-antragsberechtigung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 2353 BGB"
+  ],
+  "frage": "Welche Person ist zum Zeitpunkt des Vorerbfalls noch nicht antragsberechtigt für einen Erbschein?",
+  "optionen": [
+   "Der Vorerbe",
+   "Der Testamentsvollstrecker, soweit er den Erbschein zur Verwaltung braucht",
+   "Der Nacherbe",
+   "Der Erbteilserwerber"
+  ],
+  "antwort": 2,
+  "erklaerung": "Der Nacherbe ist erst ab dem Nacherbfall antragsberechtigt; der Vorerbe dagegen vom Vorerbfall bis zum Nacherbfall. Testamentsvollstrecker und Erbteilserwerber beantragen den Erbschein auf den Namen des Erben, der Testamentsvollstrecker nur, soweit er ihn für die Nachlassverwaltung benötigt. Die naheliegende Fehlvorstellung, der Nacherbe sei als Betroffener der Nacherbfolge schon jetzt antragsberechtigt, verkennt, dass sein Erbrecht erst mit dem Nacherbfall entsteht."
+ }
+]

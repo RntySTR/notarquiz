@@ -1,0 +1,114 @@
+{
+ "kapitel": "familienrecht",
+ "kapitel_titel": "Familienrecht",
+ "teil": 1,
+ "teile": 2,
+ "datei": "data/fragen/familienrecht__1.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/abstammung-gerichtliche-feststellung-kunstliche-befruchtung-und-anfechtung",
+   "titel": "Abstammung: gerichtliche Feststellung, künstliche Befruchtung und Anfechtung",
+   "abschnitt": "Abstammung und elterliche Sorge"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/abstammung-mutterschaft-und-vaterschaft-kraft-ehe",
+   "titel": "Abstammung: Mutterschaft und Vaterschaft kraft Ehe",
+   "abschnitt": "Abstammung und elterliche Sorge"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/abstammung-vaterschaftsanerkennung",
+   "titel": "Abstammung: Vaterschaftsanerkennung",
+   "abschnitt": "Abstammung und elterliche Sorge"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/elterliche-sorge-inhalt-und-gesetzliche-vertretung-des-kindes",
+   "titel": "Elterliche Sorge: Inhalt und gesetzliche Vertretung des Kindes",
+   "abschnitt": "Abstammung und elterliche Sorge"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/elterliche-sorge-sorgeberechtigung-sorgeerklarung-und-beistandschaft",
+   "titel": "Elterliche Sorge: Sorgeberechtigung, Sorgeerklärung und Beistandschaft",
+   "abschnitt": "Abstammung und elterliche Sorge"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/abstammung-und-elterliche-sorge/verwandtschaft-linien-grade-und-schwagerschaft",
+   "titel": "Verwandtschaft: Linien, Grade und Schwägerschaft",
+   "abschnitt": "Abstammung und elterliche Sorge"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-minderjahriger-voraussetzungen",
+   "titel": "Adoption Minderjähriger: Voraussetzungen",
+   "abschnitt": "Adoption"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-volljahriger-voraussetzungen-und-starke-wirkungen-1772-bgb",
+   "titel": "Adoption Volljähriger: Voraussetzungen und starke Wirkungen (§ 1772 BGB)",
+   "abschnitt": "Adoption"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-antrag-und-einwilligungen",
+   "titel": "Adoption: Antrag und Einwilligungen",
+   "abschnitt": "Adoption"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-aufhebung-und-verfahren",
+   "titel": "Adoption: Aufhebung und Verfahren",
+   "abschnitt": "Adoption"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-namensrecht-rechtslage-ab-01052025",
+   "titel": "Adoption: Namensrecht (Rechtslage ab 01.05.2025)",
+   "abschnitt": "Adoption"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/adoption/adoption-wirkungen-verwandtschaft-adoptionsgeheimnis-staatsangehorigkeit-erbrecht",
+   "titel": "Adoption: Wirkungen (Verwandtschaft, Adoptionsgeheimnis, Staatsangehörigkeit, Erbrecht)",
+   "abschnitt": "Adoption"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/deutsch-franzosische-wahl-zugewinngemeinschaft-voraussetzungen-verwaltung-und-familienwohnung",
+   "titel": "Deutsch-französische Wahl-Zugewinngemeinschaft: Voraussetzungen, Verwaltung und Familienwohnung",
+   "abschnitt": "Ehe und Güterrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/deutsch-franzosische-wahl-zugewinngemeinschaft-zugewinnausgleich",
+   "titel": "Deutsch-französische Wahl-Zugewinngemeinschaft: Zugewinnausgleich",
+   "abschnitt": "Ehe und Güterrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehegatteninnengesellschaft-740-bgb",
+   "titel": "Ehegatteninnengesellschaft (§ 740 BGB)",
+   "abschnitt": "Ehe und Güterrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/eheschliessung-voraussetzungen-nichtehe-und-aufhebung",
+   "titel": "Eheschließung: Voraussetzungen, Nichtehe und Aufhebung",
+   "abschnitt": "Ehe und Güterrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehevertrag-ausubungskontrolle-und-folgerungen-fur-die-gestaltung",
+   "titel": "Ehevertrag: Ausübungskontrolle und Folgerungen für die Gestaltung",
+   "abschnitt": "Ehe und Güterrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehevertrag-wirksamkeitskontrolle-und-kernbereichslehre",
+   "titel": "Ehevertrag: Wirksamkeitskontrolle und Kernbereichslehre",
+   "abschnitt": "Ehe und Güterrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/ehevertrag-wirksamkeitskontrolle-subjektives-moment-einzelfalle-und-rechtsfolge",
+   "titel": "Ehevertrag: Wirksamkeitskontrolle – subjektives Moment, Einzelfälle und Rechtsfolge",
+   "abschnitt": "Ehe und Güterrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/geldzuwendung-unter-ehegatten-darlehen-gbr-und-ruckforderungsvereinbarung",
+   "titel": "Geldzuwendung unter Ehegatten: Darlehen, GbR und Rückforderungsvereinbarung",
+   "abschnitt": "Ehe und Güterrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/guterrecht-mit-auslandsbezug-altehen-und-ehen-ab-29012019",
+   "titel": "Güterrecht mit Auslandsbezug: Altehen und Ehen ab 29.01.2019",
+   "abschnitt": "Ehe und Güterrecht"
+  }
+ ]
+}

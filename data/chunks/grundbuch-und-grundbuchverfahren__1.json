@@ -1,0 +1,94 @@
+{
+ "kapitel": "grundbuch-und-grundbuchverfahren",
+ "kapitel_titel": "Grundbuch und Grundbuchverfahren",
+ "teil": 1,
+ "teile": 1,
+ "datei": "data/fragen/grundbuch-und-grundbuchverfahren__1.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/aufbau-und-wirkungen-des-grundbuchs/grundbuch-aufbau",
+   "titel": "Grundbuch: Aufbau",
+   "abschnitt": "Aufbau und Wirkungen des Grundbuchs"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/aufbau-und-wirkungen-des-grundbuchs/grundbuch-funktion-eintragungswirkung-vermutung-und-offentlicher-glaube",
+   "titel": "Grundbuch: Funktion, Eintragungswirkung, Vermutung und öffentlicher Glaube",
+   "abschnitt": "Aufbau und Wirkungen des Grundbuchs"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/aufbau-und-wirkungen-des-grundbuchs/grundbuchrang-rangverhaltnis-ranganderung-rangvorbehalt-und-zwangsversteigerung",
+   "titel": "Grundbuchrang: Rangverhältnis, Rangänderung, Rangvorbehalt und Zwangsversteigerung",
+   "abschnitt": "Aufbau und Wirkungen des Grundbuchs"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/einsicht-und-abruf/grundbucheinsicht-automatisiertes-abrufverfahren-und-kosten",
+   "titel": "Grundbucheinsicht: automatisiertes Abrufverfahren und Kosten",
+   "abschnitt": "Einsicht und Abruf"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/einsicht-und-abruf/grundbucheinsicht-berechtigtes-interesse-und-mitteilung-durch-den-notar",
+   "titel": "Grundbucheinsicht: berechtigtes Interesse und Mitteilung durch den Notar",
+   "abschnitt": "Einsicht und Abruf"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/einsicht-und-abruf/grundbucheinsicht-grundbuchabruf-in-der-praxis",
+   "titel": "Grundbucheinsicht: Grundbuchabruf in der Praxis",
+   "abschnitt": "Einsicht und Abruf"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-antragstellung-durch-den-notar-15-gbo",
+   "titel": "Grundbuchverfahren: Antragstellung durch den Notar (§ 15 GBO)",
+   "abschnitt": "Grundbuchverfahren"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-eintragungsantrag",
+   "titel": "Grundbuchverfahren: Eintragungsantrag",
+   "abschnitt": "Grundbuchverfahren"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-eintragungsbewilligung-und-formelles-konsensprinzip",
+   "titel": "Grundbuchverfahren: Eintragungsbewilligung und formelles Konsensprinzip",
+   "abschnitt": "Grundbuchverfahren"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-elektronische-antragstellung-und-nachweise",
+   "titel": "Grundbuchverfahren: elektronische Antragstellung und Nachweise",
+   "abschnitt": "Grundbuchverfahren"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-form-der-eintragungsunterlagen-und-erbnachweis-29-35-gbo",
+   "titel": "Grundbuchverfahren: Form der Eintragungsunterlagen und Erbnachweis (§§ 29, 35 GBO)",
+   "abschnitt": "Grundbuchverfahren"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-grundbuchberichtigung-und-richtigstellung",
+   "titel": "Grundbuchverfahren: Grundbuchberichtigung und Richtigstellung",
+   "abschnitt": "Grundbuchverfahren"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-legalitatsprinzip-und-verfahrensarten",
+   "titel": "Grundbuchverfahren: Legalitätsprinzip und Verfahrensarten",
+   "abschnitt": "Grundbuchverfahren"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-loschung-bei-herrschvermerk-und-bei-auf-lebenszeit-beschrankten-rechten",
+   "titel": "Grundbuchverfahren: Löschung bei Herrschvermerk und bei auf Lebenszeit beschränkten Rechten",
+   "abschnitt": "Grundbuchverfahren"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-materielles-konsensprinzip-eigentumerzustimmung-und-gemeinschaftsverhaltnis",
+   "titel": "Grundbuchverfahren: materielles Konsensprinzip, Eigentümerzustimmung und Gemeinschaftsverhältnis",
+   "abschnitt": "Grundbuchverfahren"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-voreintragungsgrundsatz-und-ausnahmen",
+   "titel": "Grundbuchverfahren: Voreintragungsgrundsatz und Ausnahmen",
+   "abschnitt": "Grundbuchverfahren"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundbuch-und-grundbuchverfahren/grundbuchverfahren/grundbuchverfahren-zustandigkeit-des-grundbuchamts-entscheidungen-schutzvermerk-und-beschwerde",
+   "titel": "Grundbuchverfahren: Zuständigkeit des Grundbuchamts, Entscheidungen, Schutzvermerk und Beschwerde",
+   "abschnitt": "Grundbuchverfahren"
+  }
+ ]
+}

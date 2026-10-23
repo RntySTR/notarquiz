@@ -1,0 +1,89 @@
+{
+ "kapitel": "grundstuckskaufvertrag",
+ "kapitel_titel": "Grundstückskaufvertrag",
+ "teil": 1,
+ "teile": 3,
+ "datei": "data/fragen/grundstuckskaufvertrag__1.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-auflassung-und-form-der-eintragungsunterlagen",
+   "titel": "Grundstückskaufvertrag: Auflassung und Form der Eintragungsunterlagen",
+   "abschnitt": "Besitz, Haftung und Eigentumsübergang"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-besitzubergang-nutzen-lasten-und-raumung",
+   "titel": "Grundstückskaufvertrag: Besitzübergang, Nutzen, Lasten und Räumung",
+   "abschnitt": "Besitz, Haftung und Eigentumsübergang"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-eigentumsvormerkung-rang-und-loschung",
+   "titel": "Grundstückskaufvertrag: Eigentumsvormerkung, Rang und Löschung",
+   "abschnitt": "Besitz, Haftung und Eigentumsübergang"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-erschliessungskosten",
+   "titel": "Grundstückskaufvertrag: Erschließungskosten",
+   "abschnitt": "Besitz, Haftung und Eigentumsübergang"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-miet-und-pachtverhaltnisse-und-mietervorkaufsrecht",
+   "titel": "Grundstückskaufvertrag: Miet- und Pachtverhältnisse und Mietervorkaufsrecht",
+   "abschnitt": "Besitz, Haftung und Eigentumsübergang"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-rechtsmangel-und-ubernahme-von-belastungen",
+   "titel": "Grundstückskaufvertrag: Rechtsmängel und Übernahme von Belastungen",
+   "abschnitt": "Besitz, Haftung und Eigentumsübergang"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-sachmangelhaftung-und-haftungsausschluss",
+   "titel": "Grundstückskaufvertrag: Sachmängelhaftung und Haftungsausschluss",
+   "abschnitt": "Besitz, Haftung und Eigentumsübergang"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/grundstuckskaufvertrag-sicherung-des-verkaufers-bis-zur-eigentumsumschreibung",
+   "titel": "Grundstückskaufvertrag: Sicherung des Verkäufers bis zur Eigentumsumschreibung",
+   "abschnitt": "Besitz, Haftung und Eigentumsübergang"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/vertrage-mit-der-gemeinde-ablosungsvereinbarung-uber-erschliessungsbeitrage",
+   "titel": "Verträge mit der Gemeinde: Ablösungsvereinbarung über Erschließungsbeiträge",
+   "abschnitt": "Besitz, Haftung und Eigentumsübergang"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/besitz-haftung-und-eigentumsubergang/vertrage-mit-der-gemeinde-erschliessungskosten-bescheids-und-vollerschliessungsmodell",
+   "titel": "Verträge mit der Gemeinde: Erschließungskosten, Bescheids- und Vollerschließungsmodell",
+   "abschnitt": "Besitz, Haftung und Eigentumsübergang"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/ehegatten-beim-grundstuckskauf-auslandisches-guterrecht",
+   "titel": "Ehegatten beim Grundstückskauf: ausländisches Güterrecht",
+   "abschnitt": "Beteiligte und Vertretung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/ehegatten-beim-grundstuckskauf-1365-bgb-gutergemeinschaft-und-erwerbsverhaltnis",
+   "titel": "Ehegatten beim Grundstückskauf: § 1365 BGB, Gütergemeinschaft und Erwerbsverhältnis",
+   "abschnitt": "Beteiligte und Vertretung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/erben-beim-grundstuckskauf-erbnachweis-gegenuber-dem-grundbuchamt",
+   "titel": "Erben beim Grundstückskauf: Erbnachweis gegenüber dem Grundbuchamt",
+   "abschnitt": "Beteiligte und Vertretung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/gesetzliche-vertretung-beim-grundstuckskauf-eltern-betreuer-und-vormund",
+   "titel": "Gesetzliche Vertretung beim Grundstückskauf: Eltern, Betreuer und Vormund",
+   "abschnitt": "Beteiligte und Vertretung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/gesetzliche-vertretung-beim-grundstuckskauf-gerichtliche-genehmigung-doppelvollmacht-und-eigenurkunde",
+   "titel": "Gesetzliche Vertretung beim Grundstückskauf: gerichtliche Genehmigung, Doppelvollmacht und Eigenurkunde",
+   "abschnitt": "Beteiligte und Vertretung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/grundstuckskaufvertrag-urkundeneingang-und-bezeichnung-der-beteiligten",
+   "titel": "Grundstückskaufvertrag: Urkundeneingang und Bezeichnung der Beteiligten",
+   "abschnitt": "Beteiligte und Vertretung"
+  }
+ ]
+}

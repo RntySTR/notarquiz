@@ -1,0 +1,331 @@
+[
+ {
+  "id": "elek1-001",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Elektronische Urkunde und Beurkundung",
+  "seite": "Elektronische Präsenzbeurkundung",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-prasenzbeurkundung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 45 Abs. 3 BeurkG"
+  ],
+  "frage": "Wann entsteht bei der elektronischen Präsenzbeurkundung (ePb) die elektronische Urschrift?",
+  "optionen": [
+   "Mit der qualifizierten elektronischen Signatur des Notars auf dem PDF",
+   "Mit der Unterschrift des letzten Beteiligten auf dem Unterschriften-Pad",
+   "Mit der Einstellung der signierten Urkunde in die elektronische Urkundensammlung",
+   "Mit der Vergabe der UVZ-Nummer im elektronischen Dokument"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 45 Abs. 3 BeurkG wird die signierte elektronische Urkunde erst mit der Einstellung in die elektronische Urkundensammlung zur elektronischen Urschrift. Die qeS des Notars ist zwar notwendige Voraussetzung, schließt aber nur den Signaturvorgang ab; die Urschrift entsteht erst im Urkundenverzeichnis. Die UVZ-Nummer muss bereits vor den Unterschriften eingetragen sein und begründet keine Urschrift."
+ },
+ {
+  "id": "elek1-002",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Elektronische Urkunde und Beurkundung",
+  "seite": "Elektronische Präsenzbeurkundung",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-prasenzbeurkundung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 14 BeurkG",
+   "§ 12 BeurkG"
+  ],
+  "frage": "Ein Lageplan muss nach § 14 BeurkG mitbeurkundet werden. Wie ist er bei der ePb zu behandeln?",
+  "optionen": [
+   "Als eigene PDF-Datei nach der Signatur des Notars als „sonstiges Dokument“ in die Urkundensammlung einstellen",
+   "Als PDF/A einscannen und vor den Unterschriften mit der Niederschrift in derselben Datei zusammenführen",
+   "Auf Papier belassen und in die Papierurkundensammlung aufnehmen, da nur die Niederschrift elektronisch ist",
+   "Nach der Signatur des Notars an die Datei anhängen und mit einem Nachtragsvermerk versehen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Beurkundungsbedürftige Anlagen nach § 14 BeurkG müssen Teil derselben Datei wie die Niederschrift sein; Papieranlagen werden als PDF/A eingescannt und vor den Unterschriften und der Signatur des Notars zusammengeführt. Ein nachträgliches Anfügen ist unzulässig und würde zudem die Signatur ungültig machen. Die getrennte Einstellung als „sonstiges Dokument“ ist nur für Anlagen ohne Beurkundungsbedarf (z. B. Vertretungsnachweise nach § 12 BeurkG) möglich."
+ },
+ {
+  "id": "elek1-003",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Elektronische Urkunde und Beurkundung",
+  "seite": "Elektronische Präsenzbeurkundung",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-prasenzbeurkundung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 130 Abs. 2 BGB"
+  ],
+  "frage": "Für den Zugang einer bei der ePb beurkundeten Willenserklärung genügt der Zugang einer öffentlich beglaubigten Abschrift der elektronischen Urschrift; eine Ausfertigung ist nicht mehr zwingend.",
+  "antwort": true,
+  "erklaerung": "Nach § 130 Abs. 2 BGB genügt für den Zugang beurkundeter oder öffentlich beglaubigter Willenserklärungen aus der ePb der Zugang einer öffentlich beglaubigten Abschrift der elektronischen Urschrift. Ausfertigung oder Urschrift sind nicht mehr erforderlich. Eine Ausnahme bildet die Erbausschlagung: Für den Zugang beim Nachlassgericht genügt die elektronisch beglaubigte Abschrift nicht."
+ },
+ {
+  "id": "elek1-004",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Elektronische Urkunde und Beurkundung",
+  "seite": "Elektronische Präsenzbeurkundung",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-prasenzbeurkundung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 172 BGB"
+  ],
+  "frage": "Warum sollte eine Vollmacht bei der ePb als Niederschrift und nicht als elektronische Vermerkurkunde errichtet werden?",
+  "optionen": [
+   "Weil Vermerkurkunden nach dem BeurkG generell nicht elektronisch errichtet werden dürfen",
+   "Weil nur von Niederschriften Papierausfertigungen erteilt werden können, die als Rechtsscheinträger nach § 172 BGB taugen",
+   "Weil eine Vollmacht in Vermerkform stets der Schriftform nach § 126 BGB bedarf",
+   "Weil Vermerkurkunden nicht in die elektronische Urkundensammlung eingestellt werden können"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die elektronische Urschrift ist nicht verkehrsfähig und daher kein Rechtsscheinträger im Sinne von § 172 BGB. Ein im Rechtsverkehr verwendbarer Rechtsschein setzt derzeit eine Papierausfertigung voraus, und Ausfertigungen lassen sich nur von Niederschriften erteilen. Elektronische Vermerkurkunden sind grundsätzlich zulässig; sie werden nur auf Verlangen verwahrt, sonst ausgehändigt."
+ },
+ {
+  "id": "elek1-005",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Elektronische Urkunde und Beurkundung",
+  "seite": "Elektronische Präsenzbeurkundung",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-prasenzbeurkundung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 45 Abs. 3 BeurkG"
+  ],
+  "frage": "Errichtet der Notar ein Testament elektronisch im Wege der ePb, ist die Verfügung von Todes wegen formunwirksam.",
+  "antwort": false,
+  "erklaerung": "Verfügungen von Todes wegen sollen weiter auf Papier errichtet werden. Errichtet der Notar sie dennoch elektronisch, ist die Urkunde gleichwohl wirksam; der Notar verletzt aber seine Amtspflicht und es entstehen praktische Schwierigkeiten. Der Fehler liegt also auf der Ebene der Amtspflicht, nicht der Wirksamkeit."
+ },
+ {
+  "id": "elek1-006",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Elektronische Urkunde und Beurkundung",
+  "seite": "Elektronische Präsenzbeurkundung: Signatursystem, Sicherheit und Ablauf",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-prasenzbeurkundung-signatursystem-sicherheit-und-ablauf",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 13b Abs. 1 BeurkG",
+   "§ 78 Abs. 1 S. 2 Nr. 11 BNotO"
+  ],
+  "frage": "In welchem System dürfen die Beteiligten bei der ePb ihre elektronische Unterschrift leisten?",
+  "optionen": [
+   "In jedem Signatursystem, das eine qualifizierte elektronische Signatur nach eIDAS unterstützt",
+   "Ausschließlich im XNP-Modul eBeurkundung der Bundesnotarkammer",
+   "In der Notarsoftware, sofern sie eine PDF/A-Ausgabe erzeugt",
+   "In einem vom Landesjustizministerium zugelassenen Signaturdienst"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 13b Abs. 1 BeurkG sollen elektronische Niederschriften mit einem staatlich bereitgestellten Signatursystem signiert werden; nur das XNP-Modul eBeurkundung der Bundesnotarkammer genügt diesen Anforderungen (§ 78 Abs. 1 S. 2 Nr. 11 BNotO). Elektronische Unterschriften in anderen Systemen sind beurkundungsrechtlich unzulässig, auch wenn sie technisch eine qeS ermöglichen würden."
+ },
+ {
+  "id": "elek1-007",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Elektronische Urkunde und Beurkundung",
+  "seite": "Elektronische Präsenzbeurkundung: Signatursystem, Sicherheit und Ablauf",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-prasenzbeurkundung-signatursystem-sicherheit-und-ablauf",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 34 S. 1 Nr. 3 BNotO",
+   "§ 34 S. 3 BNotO"
+  ],
+  "frage": "Wissensdaten des Signatursystems eBeurkundung sind Unbefugten zugänglich geworden. Welche Pflicht trifft den Notar?",
+  "optionen": [
+   "Er muss unverzüglich Mitteilung machen; die Notarkammer unterrichtet die Bundesnotarkammer, wenn Daten anderer Stellen gefährdet sein könnten",
+   "Er muss innerhalb von zwei Wochen die Landesjustizverwaltung informieren und alle Signaturkarten austauschen",
+   "Er muss nur dann Mitteilung machen, wenn tatsächlich eine Urkunde manipuliert wurde",
+   "Er muss den Vorfall ausschließlich der Datenschutzaufsicht melden, da es sich um einen Datenschutzverstoß handelt"
+  ],
+  "antwort": 0,
+  "erklaerung": "Nach § 34 S. 1 Nr. 3 BNotO muss der Notar unverzüglich Mitteilung machen, wenn Wissensdaten oder andere Schutzvorkehrungen des Signatursystems missbraucht, manipuliert oder Unbefugten zugänglich geworden sind. Die Notarkammer unterrichtet dann unverzüglich die Bundesnotarkammer, wenn auch Daten anderer Stellen gefährdet sein könnten (§ 34 S. 3 BNotO). Die Pflicht setzt keine tatsächliche Manipulation einer Urkunde voraus; der unbefugte Zugang genügt."
+ },
+ {
+  "id": "elek1-008",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Elektronische Urkunde und Beurkundung",
+  "seite": "Elektronische Präsenzbeurkundung: Signatursystem, Sicherheit und Ablauf",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-prasenzbeurkundung-signatursystem-sicherheit-und-ablauf",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 14a DONot"
+  ],
+  "frage": "Das digitale Siegelbild auf einer elektronischen Urkunde ersetzt die qualifizierte elektronische Signatur des Notars.",
+  "antwort": false,
+  "erklaerung": "Nach § 14a DONot darf auf elektronischen Urkunden ein Siegelbild verwendet werden, rechtlich maßgeblich bleibt aber allein die qeS. Das Siegelbild verbessert nur das Erscheinungsbild; der vorgeschriebene Hinweistext ist zu übernehmen (§ 14a S. 2 DONot). Die Signatur wird durch das Siegelbild weder ersetzt noch ergänzt."
+ },
+ {
+  "id": "elek1-009",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Elektronische Urkunde und Beurkundung",
+  "seite": "Elektronische Präsenzbeurkundung: Signatursystem, Sicherheit und Ablauf",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-prasenzbeurkundung-signatursystem-sicherheit-und-ablauf",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 13b BeurkG"
+  ],
+  "frage": "Ein Beteiligter kann wegen einer körperlichen Einschränkung keine Unterschrift auf dem Pad leisten; ein Schreibzeuge soll zugezogen werden. Was empfiehlt das Handbuch für die ePb?",
+  "optionen": [
+   "Der Schreibzeuge unterschreibt auf dem Pad; das Verfahren ist elektronisch unproblematisch",
+   "Der Beteiligte muss zwingend eine eigene qeS verwenden, ein Schreibzeuge ist elektronisch ausgeschlossen",
+   "Wegen rechtlicher Unsicherheit empfiehlt sich in diesem Fall die Papierbeurkundung",
+   "Der Notar unterschreibt für den Beteiligten auf dem Pad und vermerkt dies im Schlussvermerk"
+  ],
+  "antwort": 2,
+  "erklaerung": "Mit Dolmetscher oder körperlich eingeschränkten Beteiligten wird grundsätzlich elektronisch wie auf Papier verfahren. Rechtlich unsicher ist aber der Fall, dass ein Beteiligter über eine qeS verfügen könnte, eine elektronische Unterschrift jedoch nicht leisten kann und deshalb ein Schreibzeuge zugezogen werden soll; hierfür empfiehlt das Handbuch die Papierbeurkundung. Die schlichte Annahme, der Schreibzeuge könne elektronisch unproblematisch unterschreiben, verkennt diese Unsicherheit."
+ },
+ {
+  "id": "elek1-010",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Elektronische Urkunde und Beurkundung",
+  "seite": "Elektronische Unterschriftsbeglaubigung und Schriftform (§ 40b BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-unterschriftsbeglaubigung-und-schriftform-40b-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 40b Abs. 1 BeurkG"
+  ],
+  "frage": "Welche elektronische Unterschrift kann der Notar nach § 40b BeurkG beglaubigen?",
+  "optionen": [
+   "Jede elektronische Unterschrift, die der Beteiligte vor dem Notar als die seine anerkennt",
+   "Nur eine elektronische Unterschrift, die vor dem Notar geleistet wird",
+   "Eine eingescannte Papierunterschrift, deren Echtheit der Notar durch Ausweisvorlage prüft",
+   "Eine zuvor mit qeS geleistete Signatur, deren Zertifikat der Notar prüft"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 40b Abs. 1 BeurkG wird nur eine elektronische Unterschrift beglaubigt, die vor dem Notar geleistet wird; die Anerkennung einer elektronischen Unterschrift ist ausgeschlossen. Anders als bei der Papierbeglaubigung gibt es also keine Anerkennungsvariante. Das Einscannen einer bereits auf Papier geleisteten Unterschrift mit anschließender elektronischer Beglaubigung ist ausdrücklich verboten."
+ },
+ {
+  "id": "elek1-011",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Elektronische Urkunde und Beurkundung",
+  "seite": "Elektronische Unterschriftsbeglaubigung und Schriftform (§ 40b BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-unterschriftsbeglaubigung-und-schriftform-40b-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 40b BeurkG",
+   "§ 129 Abs. 3 BGB",
+   "§ 126 Abs. 4 BGB",
+   "§ 40 Abs. 1 GmbHG"
+  ],
+  "frage": "Der Geschäftsführer unterschreibt die Gesellschafterliste bei der ePb nur auf dem Unterschriften-Pad, ohne dass der Notar die Unterschrift beglaubigt. Welche Folge hat das?",
+  "optionen": [
+   "Die Liste wahrt die Schriftform, da die Pad-Unterschrift der elektronischen Form nach § 126a BGB entspricht",
+   "Die Liste wahrt die Schriftform nicht, weil die Pad-Unterschrift weder § 126 noch § 126a BGB genügt",
+   "Die Liste ist wirksam, weil Gesellschafterlisten keiner Form bedürfen",
+   "Die Liste wahrt die Schriftform, sobald der Notar sie mit seiner qeS beim Handelsregister einreicht"
+  ],
+  "antwort": 1,
+  "erklaerung": "Eine Pad-Unterschrift genügt weder der Schriftform (§ 126 BGB) noch der elektronischen Form (§ 126a BGB), die eine qeS des Unterzeichners verlangt. Erst die notarielle Beglaubigung nach § 40b BeurkG macht die Erklärung öffentlich beglaubigt und damit nach § 129 Abs. 3 i. V. m. § 126 Abs. 4 BGB schriftlich. Die qeS des Notars bei der Einreichung ersetzt die fehlende Unterschrift des Geschäftsführers nicht."
+ },
+ {
+  "id": "elek1-012",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Elektronische Urkunde und Beurkundung",
+  "seite": "Elektronische Unterschriftsbeglaubigung und Schriftform (§ 40b BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-unterschriftsbeglaubigung-und-schriftform-40b-beurkg",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 40b BeurkG",
+   "§ 13b Abs. 1 BeurkG",
+   "§ 15 Abs. 3 GBO",
+   "§ 45b Abs. 2 BeurkG"
+  ],
+  "frage": "Ordne die Konstellationen der elektronischen Unterschriftsbeglaubigung ihrer Behandlung zu.",
+  "paare": [
+   [
+    "Beglaubigung ohne Entwurf (Beteiligte bringen Text mit)",
+    "Erklärung und Beglaubigungsvermerk werden zuerst zu einer PDF-Datei zusammengefügt, erst dann wird in XNP unterschrieben"
+   ],
+   [
+    "Beglaubigung mit Entwurf des Notars",
+    "Verfahren läuft wie eine elektronische Beurkundung ab"
+   ],
+   [
+    "Erklärung für das Grundbuchamt bestimmt",
+    "Im Beglaubigungsvermerk wird die Prüfung der Eintragungsfähigkeit festgehalten"
+   ],
+   [
+    "Bereits auf Papier unterzeichnete Erklärung",
+    "Einscannen und elektronisch beglaubigen ist verboten"
+   ],
+   [
+    "Elektronische Vervielfältigung der Beglaubigung",
+    "Darf nach § 45b Abs. 2 BeurkG ausgehändigt werden"
+   ]
+  ],
+  "erklaerung": "Ohne Entwurf müssen Erklärung und Vermerk vor der Unterschrift zu einer Datei vereinigt werden; mit Entwurf gilt das Verfahren der elektronischen Beurkundung. Für Grundbuch und Register wird die Prüfung der Eintragungsfähigkeit nach § 15 Abs. 3 GBO bzw. § 378 Abs. 3 S. 1 FamFG dokumentiert. Das Einscannen einer Papierunterschrift ist unzulässig, weil nur eine vor dem Notar im Signatursystem geleistete Unterschrift beglaubigt werden darf (§ 13b Abs. 1, § 40b BeurkG)."
+ },
+ {
+  "id": "elek1-013",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Elektronische Urkunde und Beurkundung",
+  "seite": "Elektronische Urkunde: Arten und Errichtung",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-urkunde-arten-und-errichtung",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 39a BeurkG",
+   "§ 8 Abs. 2 BeurkG",
+   "§ 16b BeurkG",
+   "§ 56 BeurkG"
+  ],
+  "frage": "Ordne die Arten elektronischer notarieller Urkunden ihrer Rechtsgrundlage zu.",
+  "paare": [
+   [
+    "Einfaches elektronisches Zeugnis",
+    "§ 39a BeurkG"
+   ],
+   [
+    "Elektronische Niederschrift bei der Präsenzbeurkundung",
+    "§ 8 Abs. 2 BeurkG"
+   ],
+   [
+    "Elektronische Niederschrift bei der Online-Beurkundung",
+    "§ 16b BeurkG"
+   ],
+   [
+    "In elektronische Form übertragenes Papierdokument in der elektronischen Urkundensammlung",
+    "§ 56 BeurkG"
+   ]
+  ],
+  "erklaerung": "Das einfache elektronische Zeugnis beruht auf § 39a BeurkG, die elektronische Niederschrift der ePb auf § 8 Abs. 2 BeurkG und die der Online-Beurkundung auf § 16b BeurkG. Übertragene Papierdokumente nimmt die elektronische Urkundensammlung nach § 56 BeurkG auf. Die Normen § 8 Abs. 2 und § 16b BeurkG werden leicht verwechselt, betreffen aber die Präsenz- bzw. die Videoform."
+ },
+ {
+  "id": "elek1-014",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Elektronische Urkunde und Beurkundung",
+  "seite": "Elektronische Urkunde: Arten und Errichtung",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-urkunde-arten-und-errichtung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 45 Abs. 3 BeurkG"
+  ],
+  "frage": "Welcher Bestandteil kommt bei einer elektronischen Signaturbeglaubigung zu den allgemeinen Bestandteilen einer elektronischen Urkunde (Dokument, qeS des Notars, Bestätigung der Notareigenschaft) hinzu?",
+  "optionen": [
+   "Die Dokumentation der Signaturprüfung",
+   "Ein digitales Siegelbild des Notars",
+   "Die Einstellung in die elektronische Urkundensammlung",
+   "Ein Vermerk über die Prüfung der Eintragungsfähigkeit"
+  ],
+  "antwort": 0,
+  "erklaerung": "Eine elektronische Urkunde entsteht aus dem elektronischen Dokument, der qeS des Notars und der Verbindung mit der Bestätigung der Notareigenschaft; bei Signaturbeglaubigungen tritt die Dokumentation der Signaturprüfung hinzu. Die Einstellung in die Urkundensammlung macht die Urkunde nach § 45 Abs. 3 BeurkG zur Urschrift, ist aber kein Bestandteil der Urkunde selbst. Das Siegelbild ist rechtlich unerheblich."
+ },
+ {
+  "id": "elek1-015",
+  "kapitel": "elektronischer-rechtsverkehr",
+  "abschnitt": "Elektronische Urkunde und Beurkundung",
+  "seite": "Elektronische Urkunde: Arten und Errichtung",
+  "quelle": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-urkunde-arten-und-errichtung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 45 Abs. 3 BeurkG"
+  ],
+  "frage": "Wird die Verwahrung einer elektronischen Vermerkurkunde nicht verlangt, wird sie ausgehändigt und eine elektronische Urschrift entsteht nicht.",
+  "antwort": true,
+  "erklaerung": "Eine elektronische Urkunde wird erst mit der Einstellung in die elektronische Urkundensammlung zur elektronischen Urschrift (§ 45 Abs. 3 BeurkG). Eine elektronische Vermerkurkunde, deren Verwahrung nicht verlangt wird, wird ausgehändigt; mangels Einstellung in die Urkundensammlung entsteht keine Urschrift. Anders bei elektronischen Niederschriften, die stets beim Notar verbleiben."
+ }
+]

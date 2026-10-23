@@ -1,0 +1,94 @@
+{
+ "kapitel": "erbrecht",
+ "kapitel_titel": "Erbrecht",
+ "teil": 2,
+ "teile": 2,
+ "datei": "data/fragen/erbrecht__2.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/pflichtteil-und-verzicht/pflichtteil-pflichtteilserganzung",
+   "titel": "Pflichtteil: Pflichtteilsergänzung",
+   "abschnitt": "Pflichtteil und Verzicht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/erbvertrag-abschluss-form-und-verwahrung",
+   "titel": "Erbvertrag: Abschluss, Form und Verwahrung",
+   "abschnitt": "Verfügungen von Todes wegen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/erbvertrag-aufhebung-rucktritt-und-anfechtung",
+   "titel": "Erbvertrag: Aufhebung, Rücktritt und Anfechtung",
+   "abschnitt": "Verfügungen von Todes wegen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/erbvertrag-inhalt-und-bindungswirkung",
+   "titel": "Erbvertrag: Inhalt und Bindungswirkung",
+   "abschnitt": "Verfügungen von Todes wegen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/gemeinschaftliches-testament-bindung-nach-dem-ersten-erbfall-und-losung",
+   "titel": "Gemeinschaftliches Testament: Bindung nach dem ersten Erbfall und Lösung",
+   "abschnitt": "Verfügungen von Todes wegen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/gemeinschaftliches-testament-errichtung-form-verwahrung-und-eroffnung",
+   "titel": "Gemeinschaftliches Testament: Errichtung, Form, Verwahrung und Eröffnung",
+   "abschnitt": "Verfügungen von Todes wegen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/gemeinschaftliches-testament-wechselbezugliche-verfugungen-und-widerruf-zu-lebzeiten",
+   "titel": "Gemeinschaftliches Testament: wechselbezügliche Verfügungen und Widerruf zu Lebzeiten",
+   "abschnitt": "Verfügungen von Todes wegen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/testament-ablieferung-und-eroffnung",
+   "titel": "Testament: Ablieferung und Eröffnung",
+   "abschnitt": "Verfügungen von Todes wegen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/testament-eigenhandiges-testament-selbstbindung-und-widerruf",
+   "titel": "Testament: eigenhändiges Testament, Selbstbindung und Widerruf",
+   "abschnitt": "Verfügungen von Todes wegen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/testament-testamentsformen-personliche-errichtung-und-verwahrung",
+   "titel": "Testament: Testamentsformen, persönliche Errichtung und Verwahrung",
+   "abschnitt": "Verfügungen von Todes wegen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/testament-testierfahigkeit-und-prufung-durch-den-notar",
+   "titel": "Testament: Testierfähigkeit und Prüfung durch den Notar",
+   "abschnitt": "Verfügungen von Todes wegen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/verfugung-von-todes-wegen-arten-und-mogliche-anordnungen",
+   "titel": "Verfügung von Todes wegen: Arten und mögliche Anordnungen",
+   "abschnitt": "Verfügungen von Todes wegen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/verfugung-von-todes-wegen-auflage-und-anordnung-der-testamentsvollstreckung",
+   "titel": "Verfügung von Todes wegen: Auflage und Anordnung der Testamentsvollstreckung",
+   "abschnitt": "Verfügungen von Todes wegen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/verfugung-von-todes-wegen-enterbung-und-bedingte-erbeinsetzung",
+   "titel": "Verfügung von Todes wegen: Enterbung und bedingte Erbeinsetzung",
+   "abschnitt": "Verfügungen von Todes wegen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/verfugung-von-todes-wegen-erbeinsetzung-miterben-und-ersatzerbe",
+   "titel": "Verfügung von Todes wegen: Erbeinsetzung, Miterben und Ersatzerbe",
+   "abschnitt": "Verfügungen von Todes wegen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/vermachtnis-wirkung-und-arten",
+   "titel": "Vermächtnis: Wirkung und Arten",
+   "abschnitt": "Verfügungen von Todes wegen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/verfugungen-von-todes-wegen/vor-und-nacherbschaft-anordnung-und-rechtsstellung",
+   "titel": "Vor- und Nacherbschaft: Anordnung und Rechtsstellung",
+   "abschnitt": "Verfügungen von Todes wegen"
+  }
+ ]
+}

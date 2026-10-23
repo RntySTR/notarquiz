@@ -1,0 +1,89 @@
+{
+ "kapitel": "grundstuckskaufvertrag",
+ "kapitel_titel": "Grundstückskaufvertrag",
+ "teil": 2,
+ "teile": 3,
+ "datei": "data/fragen/grundstuckskaufvertrag__2.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/vertretung-beim-grundstuckskauf-gesellschaften-und-juristische-personen",
+   "titel": "Vertretung beim Grundstückskauf: Gesellschaften und juristische Personen",
+   "abschnitt": "Beteiligte und Vertretung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/vertretung-beim-grundstuckskauf-testamentsvollstrecker-nachlassverwalter-und-nachlasspfleger",
+   "titel": "Vertretung beim Grundstückskauf: Testamentsvollstrecker, Nachlassverwalter und Nachlasspfleger",
+   "abschnitt": "Beteiligte und Vertretung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/vertretung-beim-grundstuckskauf-vollmacht-prufung-und-nachweis",
+   "titel": "Vertretung beim Grundstückskauf: Vollmacht, Prüfung und Nachweis",
+   "abschnitt": "Beteiligte und Vertretung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/vertretung-beim-grundstuckskauf-vollmachtlose-vertretung-und-nachgenehmigung",
+   "titel": "Vertretung beim Grundstückskauf: vollmachtlose Vertretung und Nachgenehmigung",
+   "abschnitt": "Beteiligte und Vertretung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/grundstuckskaufvertrag-finanzierungsmitwirkung-und-finanzierungsvollmacht",
+   "titel": "Grundstückskaufvertrag: Finanzierungsmitwirkung und Finanzierungsvollmacht",
+   "abschnitt": "Fälligkeit und Zahlung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/kaufpreisfalligkeit-allgemeine-falligkeitsvoraussetzungen",
+   "titel": "Kaufpreisfälligkeit: allgemeine Fälligkeitsvoraussetzungen",
+   "abschnitt": "Fälligkeit und Zahlung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/kaufpreisfalligkeit-lastenfreistellung-treuhandauflagen-und-ablosung",
+   "titel": "Kaufpreisfälligkeit: Lastenfreistellung, Treuhandauflagen und Ablösung",
+   "abschnitt": "Fälligkeit und Zahlung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/kaufpreiszahlung-falligkeitsmitteilung-und-notaranderkonto",
+   "titel": "Kaufpreiszahlung: Fälligkeitsmitteilung und Notaranderkonto",
+   "abschnitt": "Fälligkeit und Zahlung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/kaufpreiszahlung-ratenzahlung-und-verzug",
+   "titel": "Kaufpreiszahlung: Ratenzahlung und Verzug",
+   "abschnitt": "Fälligkeit und Zahlung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/geldwasche-beim-grundstuckskauf-barzahlungsverbot-zahlungsnachweis-und-meldepflichten",
+   "titel": "Geldwäsche beim Grundstückskauf: Barzahlungsverbot, Zahlungsnachweis und Meldepflichten",
+   "abschnitt": "Grundlagen, Form und Geldwäsche"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/geldwasche-beim-grundstuckskauf-identifizierung-wirtschaftlich-berechtigter-und-pep",
+   "titel": "Geldwäsche beim Grundstückskauf: Identifizierung, wirtschaftlich Berechtigter und PEP",
+   "abschnitt": "Grundlagen, Form und Geldwäsche"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/grundstuckskaufvertrag-beurkundungspflicht-nach-311b-abs-1-bgb",
+   "titel": "Grundstückskaufvertrag: Beurkundungspflicht nach § 311b Abs. 1 BGB",
+   "abschnitt": "Grundlagen, Form und Geldwäsche"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/grundstuckskaufvertrag-mindestinhalt-und-bezeichnung-des-grundbesitzes",
+   "titel": "Grundstückskaufvertrag: Mindestinhalt und Bezeichnung des Grundbesitzes",
+   "abschnitt": "Grundlagen, Form und Geldwäsche"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/grundstuckskaufvertrag-vorleistungsrisiko-vormerkungsschutz-und-ablauf",
+   "titel": "Grundstückskaufvertrag: Vorleistungsrisiko, Vormerkungsschutz und Ablauf",
+   "abschnitt": "Grundlagen, Form und Geldwäsche"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/verbrauchervertrag-beim-grundstuckskauf-begriff-und-verbrauchereigenschaft",
+   "titel": "Verbrauchervertrag beim Grundstückskauf: Begriff und Verbrauchereigenschaft",
+   "abschnitt": "Grundlagen, Form und Geldwäsche"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/verbrauchervertrag-beim-grundstuckskauf-verfahren-nach-17-abs-2a-s-2-beurkg-und-materielle-folgen",
+   "titel": "Verbrauchervertrag beim Grundstückskauf: Verfahren nach § 17 Abs. 2a S. 2 BeurkG und materielle Folgen",
+   "abschnitt": "Grundlagen, Form und Geldwäsche"
+  }
+ ]
+}

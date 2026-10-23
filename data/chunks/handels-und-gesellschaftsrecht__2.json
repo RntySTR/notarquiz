@@ -1,0 +1,89 @@
+{
+ "kapitel": "handels-und-gesellschaftsrecht",
+ "kapitel_titel": "Handels- und Gesellschaftsrecht",
+ "teil": 2,
+ "teile": 2,
+ "datei": "data/fragen/handels-und-gesellschaftsrecht__2.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/kg-kommanditistenwechsel-anteilsubertragung-und-tod",
+   "titel": "KG: Kommanditistenwechsel, Anteilsübertragung und Tod",
+   "abschnitt": "Personengesellschaften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/kg-komplementarwechsel-haftsummenanderung-und-liquidation",
+   "titel": "KG: Komplementärwechsel, Haftsummenänderung und Liquidation",
+   "abschnitt": "Personengesellschaften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/ohg-grundung-und-handelsregisteranmeldung",
+   "titel": "OHG: Gründung und Handelsregisteranmeldung",
+   "abschnitt": "Personengesellschaften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/ohg-haftung-vertretung-gesellschafterwechsel-und-liquidation",
+   "titel": "OHG: Haftung, Vertretung, Gesellschafterwechsel und Liquidation",
+   "abschnitt": "Personengesellschaften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/firma-begriff-und-firmengrundsatze",
+   "titel": "Firma: Begriff und Firmengrundsätze",
+   "abschnitt": "Register und Handelsrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/firma-verausserung-des-einzelkaufmannischen-unternehmens",
+   "titel": "Firma: Veräußerung des einzelkaufmännischen Unternehmens",
+   "abschnitt": "Register und Handelsrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/gesellschaftsrecht-offentlich-rechtliche-genehmigungen-und-registereintragung",
+   "titel": "Gesellschaftsrecht: öffentlich-rechtliche Genehmigungen und Registereintragung",
+   "abschnitt": "Register und Handelsrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/handelsrecht-kaufmannsbegriff-und-freiberufler",
+   "titel": "Handelsrecht: Kaufmannsbegriff und Freiberufler",
+   "abschnitt": "Register und Handelsrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/handelsregister-anmeldung-anmeldeberechtigte-und-beizufugende-unterlagen",
+   "titel": "Handelsregister: Anmeldung, Anmeldeberechtigte und beizufügende Unterlagen",
+   "abschnitt": "Register und Handelsrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/handelsregister-registergerichte-abteilungen-und-einsicht",
+   "titel": "Handelsregister: Registergerichte, Abteilungen und Einsicht",
+   "abschnitt": "Register und Handelsrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/notarbescheinigungen-register-und-vertretungsbescheinigung-21-bnoto",
+   "titel": "Notarbescheinigungen: Register- und Vertretungsbescheinigung (§ 21 BNotO)",
+   "abschnitt": "Register und Handelsrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/prokura-erteilung-umfang-erloschen-und-anmeldung",
+   "titel": "Prokura: Erteilung, Umfang, Erlöschen und Anmeldung",
+   "abschnitt": "Register und Handelsrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/registerangaben-sitz-und-geschaftsanschrift",
+   "titel": "Registerangaben: Sitz und Geschäftsanschrift",
+   "abschnitt": "Register und Handelsrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/registerangaben-unternehmensgegenstand-und-erlaubnispflichtige-gewerbe",
+   "titel": "Registerangaben: Unternehmensgegenstand und erlaubnispflichtige Gewerbe",
+   "abschnitt": "Register und Handelsrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/registeranmeldung-personenangaben-und-wohnanschrift-donot",
+   "titel": "Registeranmeldung: Personenangaben und Wohnanschrift (DONot)",
+   "abschnitt": "Register und Handelsrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gesellschaftsformen-uberblick-und-strukturelle-unterschiede",
+   "titel": "Gesellschaftsformen: Überblick und strukturelle Unterschiede",
+   "abschnitt": "(Seiten direkt im Kapitel)"
+  }
+ ]
+}

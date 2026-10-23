@@ -1,0 +1,94 @@
+{
+ "kapitel": "handels-und-gesellschaftsrecht",
+ "kapitel_titel": "Handels- und Gesellschaftsrecht",
+ "teil": 1,
+ "teile": 2,
+ "datei": "data/fragen/handels-und-gesellschaftsrecht__1.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-erstanmeldung-versicherungen-der-geschaftsfuhrer-und-online-grundung",
+   "titel": "GmbH: Erstanmeldung, Versicherungen der Geschäftsführer und Online-Gründung",
+   "abschnitt": "GmbH und UG (haftungsbeschränkt)"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-geschaftsanteilsubertragung-und-gesellschafterliste",
+   "titel": "GmbH: Geschäftsanteilsübertragung und Gesellschafterliste",
+   "abschnitt": "GmbH und UG (haftungsbeschränkt)"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-geschaftsfuhrer-vertretung-bestellung-abberufung-amtsniederlegung",
+   "titel": "GmbH: Geschäftsführer – Vertretung, Bestellung, Abberufung, Amtsniederlegung",
+   "abschnitt": "GmbH und UG (haftungsbeschränkt)"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-grundung-im-vereinfachten-verfahren-musterprotokoll",
+   "titel": "GmbH: Gründung im vereinfachten Verfahren (Musterprotokoll)",
+   "abschnitt": "GmbH und UG (haftungsbeschränkt)"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-grundungsurkunde-belehrungen-und-grundungsvollmacht",
+   "titel": "GmbH: Gründungsurkunde, Belehrungen und Gründungsvollmacht",
+   "abschnitt": "GmbH und UG (haftungsbeschränkt)"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-kapitalerhohung",
+   "titel": "GmbH: Kapitalerhöhung",
+   "abschnitt": "GmbH und UG (haftungsbeschränkt)"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-kapitalherabsetzung-auflosung-und-liquidation",
+   "titel": "GmbH: Kapitalherabsetzung, Auflösung und Liquidation",
+   "abschnitt": "GmbH und UG (haftungsbeschränkt)"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-notwendige-und-fakultative-satzungsbestandteile",
+   "titel": "GmbH: notwendige und fakultative Satzungsbestandteile",
+   "abschnitt": "GmbH und UG (haftungsbeschränkt)"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-satzungsanderung",
+   "titel": "GmbH: Satzungsänderung",
+   "abschnitt": "GmbH und UG (haftungsbeschränkt)"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-stammkapital-einlagen-und-sacheinlagen",
+   "titel": "GmbH: Stammkapital, Einlagen und Sacheinlagen",
+   "abschnitt": "GmbH und UG (haftungsbeschränkt)"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-vorratsgrundung-und-mantelverwendung",
+   "titel": "GmbH: Vorratsgründung und Mantelverwendung",
+   "abschnitt": "GmbH und UG (haftungsbeschränkt)"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/ug-haftungsbeschrankt-kapital-rucklage-firma-und-kapitalerhohung",
+   "titel": "UG (haftungsbeschränkt): Kapital, Rücklage, Firma und Kapitalerhöhung",
+   "abschnitt": "GmbH und UG (haftungsbeschränkt)"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/gbr-anteilsubertragung-ausscheiden-tod-und-auflosung",
+   "titel": "GbR: Anteilsübertragung, Ausscheiden, Tod und Auflösung",
+   "abschnitt": "Personengesellschaften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/gbr-gesellschaftsregister-und-voreintragung-grundbuch-kg-gmbh",
+   "titel": "GbR: Gesellschaftsregister und Voreintragung (Grundbuch, KG, GmbH)",
+   "abschnitt": "Personengesellschaften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/gbr-grundung-haftung-geschaftsfuhrung-und-vertretung",
+   "titel": "GbR: Gründung, Haftung, Geschäftsführung und Vertretung",
+   "abschnitt": "Personengesellschaften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/gmbh-co-kg-grundung-firmierung-anteilsverkauf-und-einheitsgesellschaft",
+   "titel": "GmbH & Co. KG: Gründung, Firmierung, Anteilsverkauf und Einheitsgesellschaft",
+   "abschnitt": "Personengesellschaften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/personengesellschaften/kg-grundlagen-grundung-haftung-vor-eintragung-und-anmeldung",
+   "titel": "KG: Grundlagen, Gründung, Haftung vor Eintragung und Anmeldung",
+   "abschnitt": "Personengesellschaften"
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "kapitel": "erbrecht",
+ "kapitel_titel": "Erbrecht",
+ "teil": 1,
+ "teile": 2,
+ "datei": "data/fragen/erbrecht__1.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/annahme-ausschlagung-und-erbschein/erbschaft-annahme-und-ausschlagung",
+   "titel": "Erbschaft: Annahme und Ausschlagung",
+   "abschnitt": "Annahme, Ausschlagung und Erbschein"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/annahme-ausschlagung-und-erbschein/erbschein-angaben-im-antrag-und-nachweise",
+   "titel": "Erbschein: Angaben im Antrag und Nachweise",
+   "abschnitt": "Annahme, Ausschlagung und Erbschein"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/annahme-ausschlagung-und-erbschein/erbschein-antrag-und-antragsberechtigung",
+   "titel": "Erbschein: Antrag und Antragsberechtigung",
+   "abschnitt": "Annahme, Ausschlagung und Erbschein"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/annahme-ausschlagung-und-erbschein/erbschein-funktion-und-erforderlichkeit-des-erbnachweises",
+   "titel": "Erbschein: Funktion und Erforderlichkeit des Erbnachweises",
+   "abschnitt": "Annahme, Ausschlagung und Erbschein"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/annahme-ausschlagung-und-erbschein/erbschein-inhalt-arten-und-vermerke",
+   "titel": "Erbschein: Inhalt, Arten und Vermerke",
+   "abschnitt": "Annahme, Ausschlagung und Erbschein"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/erbrecht-grundbegriffe-und-gesamtrechtsnachfolge",
+   "titel": "Erbrecht: Grundbegriffe und Gesamtrechtsnachfolge",
+   "abschnitt": "Grundlagen und gesetzliche Erbfolge"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/erbrecht-grundprinzipien-testierfreiheit-und-ihre-schranken",
+   "titel": "Erbrecht: Grundprinzipien, Testierfreiheit und ihre Schranken",
+   "abschnitt": "Grundlagen und gesetzliche Erbfolge"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/erbrecht-tod-todeserklarung-und-gleichzeitigkeitsvermutung",
+   "titel": "Erbrecht: Tod, Todeserklärung und Gleichzeitigkeitsvermutung",
+   "abschnitt": "Grundlagen und gesetzliche Erbfolge"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/gesetzliche-erbfolge-erben-der-ersten-bis-vierten-ordnung",
+   "titel": "Gesetzliche Erbfolge: Erben der ersten bis vierten Ordnung",
+   "abschnitt": "Grundlagen und gesetzliche Erbfolge"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/gesetzliche-erbfolge-ordnungen-stamme-und-gradsystem",
+   "titel": "Gesetzliche Erbfolge: Ordnungen, Stämme und Gradsystem",
+   "abschnitt": "Grundlagen und gesetzliche Erbfolge"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/gesetzliches-erbrecht-des-ehegatten-guterstand-1371-1931-abs-4-bgb",
+   "titel": "Gesetzliches Erbrecht des Ehegatten: Güterstand (§ 1371, § 1931 Abs. 4 BGB)",
+   "abschnitt": "Grundlagen und gesetzliche Erbfolge"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/gesetzliches-erbrecht-des-ehegatten-voraussetzungen-und-quoten",
+   "titel": "Gesetzliches Erbrecht des Ehegatten: Voraussetzungen und Quoten",
+   "abschnitt": "Grundlagen und gesetzliche Erbfolge"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/gesetzliches-erbrecht-des-lebenspartners",
+   "titel": "Gesetzliches Erbrecht des Lebenspartners",
+   "abschnitt": "Grundlagen und gesetzliche Erbfolge"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/gesetzliches-erbrecht-des-staates",
+   "titel": "Gesetzliches Erbrecht des Staates",
+   "abschnitt": "Grundlagen und gesetzliche Erbfolge"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/grundlagen-und-gesetzliche-erbfolge/rechtsnachfolge-ausserhalb-des-erbrechts-hofe-miete-versorgung-gesellschaftsanteile",
+   "titel": "Rechtsnachfolge außerhalb des Erbrechts: Höfe, Miete, Versorgung, Gesellschaftsanteile",
+   "abschnitt": "Grundlagen und gesetzliche Erbfolge"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/pflichtteil-und-verzicht/erb-und-pflichtteilsverzicht-im-ubergabevertrag",
+   "titel": "Erb- und Pflichtteilsverzicht im Übergabevertrag",
+   "abschnitt": "Pflichtteil und Verzicht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/erbrecht/pflichtteil-und-verzicht/pflichtteil-berechtigte-schuldner-und-quote",
+   "titel": "Pflichtteil: Berechtigte, Schuldner und Quote",
+   "abschnitt": "Pflichtteil und Verzicht"
+  }
+ ]
+}

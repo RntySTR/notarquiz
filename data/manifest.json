@@ -2082,49 +2082,391 @@
      "titel": "Beurkundungsgegenstand und Vergleichsberechnung",
      "beschreibung": "Mehrere Gegenstände in einer Urkunde: Gegenstandsgleichheit nach § 109 GNotKG, verschiedene und besondere Gegenstände nach §§ 110, 111 GNotKG und Vergleichsberechnung nach § 94 GNotKG.",
      "seiten_erwartet": 7,
-     "seiten": []
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-gegenstandsgleichheit-nach-109-abs-1-gnotkg-einzelfalle",
+       "titel": "Beurkundungsgegenstand: Gegenstandsgleichheit nach § 109 Abs. 1 GNotKG – Einzelfälle",
+       "beschreibung": "§ 109 Abs. 1 S. 4 GNotKG Einzelfälle: Kaufvertrag mit Schuldübernahme, Löschung, Belastungsvollmacht, Einbringung mit Auflassung, Rangrücktritt, Löschungszustimmung in Grundschuld, Zwangsvollstreckungsunterwerfung"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-gegenstandsgleichheit-nach-109-abs-1-gnotkg-grundtatbestand",
+       "titel": "Beurkundungsgegenstand: Gegenstandsgleichheit nach § 109 Abs. 1 GNotKG – Grundtatbestand",
+       "beschreibung": "Gegenstandsgleichheit § 109 Abs. 1 GNotKG: Haupt- und Nebenerklärung, Erfüllung, Sicherung, Durchführung, Unmittelbarkeit, Erklärungen Dritter, Wertbegrenzung auf Hauptgeschäft § 109 Abs. 1 S. 5, Nachtrag Teilflächenkauf"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-gegenstandsgleichheit-nach-109-abs-2-gnotkg-beschlusse-und-wahlen",
+       "titel": "Beurkundungsgegenstand: Gegenstandsgleichheit nach § 109 Abs. 2 GNotKG – Beschlüsse und Wahlen",
+       "beschreibung": "Gegenstandsgleichheit von Beschlüssen und Wahlen § 109 Abs. 2 S. 1 Nr. 4 GNotKG: Satzungsänderung, Kapitalerhöhung, Satzungsneufassung, Blockwahl, Entlastung, Zustimmungsbeschlüsse Verschmelzung und Spaltung"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-gegenstandsgleichheit-nach-109-abs-2-gnotkg-grundsatze-und-einzelfalle",
+       "titel": "Beurkundungsgegenstand: Gegenstandsgleichheit nach § 109 Abs. 2 GNotKG – Grundsätze und Einzelfälle",
+       "beschreibung": "Gegenstandsgleichheit § 109 Abs. 2 GNotKG: innerer Zusammenhang, höchster Wert, Patienten- und Betreuungsverfügung, Widerruf und neues Testament, vollstreckbare Grundschuld mit Schuldanerkenntnis, Vergleichsberechnung § 94 Abs. 2"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-grundsatze-bei-mehreren-gegenstanden",
+       "titel": "Beurkundungsgegenstand: Grundsätze bei mehreren Gegenständen",
+       "beschreibung": "Mehrere Beurkundungsgegenstände in einer Urkunde: Begriff § 86 GNotKG, Rechtsverhältnis, Gegenstandsmehrheit, Wertaddition § 35, einmalige Gebühr § 93, Zusammenbeurkundung ohne sachlichen Grund, Verknüpfungswille, Austauschvertrag § 97"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-vergleichsberechnung-94-gnotkg",
+       "titel": "Beurkundungsgegenstand: Vergleichsberechnung (§ 94 GNotKG)",
+       "beschreibung": "Vergleichsberechnung § 94 GNotKG: unterschiedliche Gebührensätze, getrennte Berechnung, Höchstsatz aus Wertesumme, gegenstandsgleiche Erklärungen, Vollstreckungsunterwerfung über Teilbetrag, Wert für Vollzugs- und Betreuungsgebühr"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/beurkundungsgegenstand-und-vergleichsberechnung/beurkundungsgegenstand-verschiedene-und-besondere-gegenstande-110-111-gnotkg",
+       "titel": "Beurkundungsgegenstand: verschiedene und besondere Gegenstände (§§ 110, 111 GNotKG)",
+       "beschreibung": "Gegenstandsverschiedenheit §§ 110, 111 GNotKG: Beschluss und Erklärung, Finanzierungserklärungen, Grunddienstbarkeit im Kaufvertrag, Umsatzsteueroption, Vorsorgevollmacht, Verfügung von Todes wegen, Ehevertrag, Registeranmeldungen, Rechtswahl"
+      }
+     ]
     },
     {
      "slug": "gebuhren-fur-beurkundung-entwurf-und-beglaubigung",
      "titel": "Gebühren für Beurkundung, Entwurf und Beglaubigung",
      "beschreibung": "Gliederung des Kostenverzeichnisses, einmalige Gebührenerhebung, Beurkundungsgebühren für Verträge und Erklärungen, Entwurf, Unterschrifts- und Dokumentenbeglaubigung sowie vorzeitige Beendigung.",
      "seiten_erwartet": 12,
-     "seiten": []
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-beglaubigung-von-dokumenten-kv-25102-gnotkg",
+       "titel": "Notargebühren: Beglaubigung von Dokumenten (KV 25102 GNotKG)",
+       "beschreibung": "Beglaubigung von Dokumenten KV 25102: beglaubigte Abschrift, Kopie, elektronische Beglaubigung § 39a BeurkG, 1 € je Seite mindestens 10 €, gebührenfrei für eigene Urkunden und Vollmachten nach § 12 BeurkG"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-einmalige-gebuhrenerhebung-93-gnotkg",
+       "titel": "Notargebühren: einmalige Gebührenerhebung (§ 93 GNotKG)",
+       "beschreibung": "Einmalige Gebührenerhebung § 93 GNotKG: eine Verfahrensgebühr je Niederschrift, Addition § 35, Vollzugs- und Betreuungsgebühr je Verfahren, Ausnahmen XML und Treuhandgebühr KV 22201, Vergleichsberechnung § 94."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-einseitige-erklarungen-und-besondere-falle-kv-21200-21201-gnotkg",
+       "titel": "Notargebühren: einseitige Erklärungen und besondere Fälle (KV 21200, 21201 GNotKG)",
+       "beschreibung": "KV 21200 GNotKG einseitige Erklärungen (Schuldanerkenntnis, Grundschuldbestellung, Adoptionsantrag), KV 21201 besondere Fälle: Widerruf, Rücktritt Erbvertrag, Eintragungsbewilligung, Grundbuchberichtigung, Zustimmung Adoption."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-entwurf-mit-unterschriftsbeglaubigung-und-serienentwurf",
+       "titel": "Notargebühren: Entwurf mit Unterschriftsbeglaubigung und Serienentwurf",
+       "beschreibung": "Entwurf mit Unterschriftsbeglaubigung: keine Beglaubigungsgebühr nach Vorb. 2.4.1 Abs. 2 KV GNotKG, Beglaubigung am selben Tag; Serienentwurf Bauträger, halber Wert § 119 Abs. 2, Stundung, Anrechnung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-gliederung-des-kostenverzeichnisses-verfahren-und-geschafte",
+       "titel": "Notargebühren: Gliederung des Kostenverzeichnisses, Verfahren und Geschäfte",
+       "beschreibung": "Kostenverzeichnis GNotKG Teil 2: Hauptabschnitte, KV-Nummern lesen, Verfahrensgebühr statt Aktgebühr, § 85 Abs. 2, Vorbemerkungen, abschließende Gebührentatbestände, Klauselumschreibung KV 23803, Notargebühren-Systematik."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-isolierter-entwurf-kv-24100-24102-gnotkg",
+       "titel": "Notargebühren: isolierter Entwurf (KV 24100–24102 GNotKG)",
+       "beschreibung": "Isolierter Entwurf KV 24100–24102 GNotKG: Vollzug verdrängt Entwurf (Vorb. 2.2 Abs. 2), Entwurf im Beurkundungsverfahren, Auftrag, Rahmengebühr § 92, vollständiger Entwurf, Geschäftswert § 119, Anrechnung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-mindest-fest-und-hochstgebuhren",
+       "titel": "Notargebühren: Mindest-, Fest- und Höchstgebühren",
+       "beschreibung": "Mindestgebühr 15 € § 34 Abs. 5 GNotKG, Mindestgebühren 120/60/30/20 €, Festgebühren (KV 21300, 22124, 25101, 25200, 26003), Höchstgebühren KV 25100, 26000, Deckelung Vollzugsgebühr KV 22112, 22113."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-unterschriftsbeglaubigung-kv-25100-25101-gnotkg",
+       "titel": "Notargebühren: Unterschriftsbeglaubigung (KV 25100, 25101 GNotKG)",
+       "beschreibung": "Unterschriftsbeglaubigung KV 25100 GNotKG (0,2, 20–70 €), Wert § 121, Festgebühr KV 25101 Löschungszustimmung § 27 GBO und Verwalternachweis, Beratungsgebühr KV 24200, Einreichung KV 22124, 22125."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-verbrauchervertrag-und-vorzeitige-beendigung",
+       "titel": "Notargebühren: Verbrauchervertrag und vorzeitige Beendigung",
+       "beschreibung": "Verbrauchervertrag § 17 Abs. 2a BeurkG: Zweiwochenfrist, beabsichtigter Text, Entwurfsgebühr KV 24100 oder vorzeitige Beendigung KV 21302/21300, Bauträger als Kostenschuldner, abgesprungener Käufer"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-vertrage-angebot-annahme-und-isolierte-auflassung-kv-21100-21102-gnotkg",
+       "titel": "Notargebühren: Verträge, Angebot, Annahme und isolierte Auflassung (KV 21100–21102 GNotKG)",
+       "beschreibung": "KV 21100 GNotKG 2,0-Gebühr für Verträge, Beschlüsse, gemeinschaftliches Testament; Angebot, Annahme KV 21101 Nr. 1, verspätete Annahme § 150 BGB; isolierte Auflassung und Anteilsabtretung KV 21101 Nr. 2, 21102 Nr. 1."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-vertragsanderung-vertragsaufhebung-identitatserklarung",
+       "titel": "Notargebühren: Vertragsänderung, Vertragsaufhebung, Identitätserklärung",
+       "beschreibung": "Notargebühr Vertragsänderung (KV 21100, § 97 GNotKG), Vertragsaufhebung KV 21102 Nr. 2, Aufhebung Erbvertrag und Ehevertrag, Identitätserklärung bei Teilflächenkauf und Teilungserklärung, Nachtrag."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-beurkundung-entwurf-und-beglaubigung/notargebuhren-vorzeitige-beendigung-des-beurkundungsverfahrens-kv-21300-21304-gnotkg",
+       "titel": "Notargebühren: vorzeitige Beendigung des Beurkundungsverfahrens (KV 21300–21304 GNotKG)",
+       "beschreibung": "Vorzeitige Beendigung des Beurkundungsverfahrens: Vorb. 2.1.3 KV, Rücknahme des Beurkundungsauftrags, Festgebühr KV 21300, Beratung KV 21301, Entwurfsversand KV 21302 bis 21304, Sechsmonatsfrist, Anrechnung"
+      }
+     ]
     },
     {
      "slug": "gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte",
      "titel": "Gebühren für Vollzug, Betreuung und sonstige Geschäfte",
      "beschreibung": "Vollzugs-, Betreuungs- und Treuhandgebühren, Unzeit-, Auswärts- und Fremdsprachengebühr, Rückgabe eines Erbvertrags, eidesstattliche Versicherung, Bescheinigungen, Vermögensverzeichnis und Verwahrung.",
      "seiten_erwartet": 8,
-     "seiten": []
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-betreuungs-und-treuhandgebuhr-kv-22200-22201-gnotkg",
+       "titel": "Notargebühren: Betreuungs- und Treuhandgebühr (KV 22200, 22201 GNotKG)",
+       "beschreibung": "Betreuungsgebühr KV 22200 Anm. Nr. 1 bis 7: Fälligkeitsmitteilung, Vorlagesperre, Bewilligungslösung, MaBV-Bescheinigung, Anderkonto; Treuhandgebühr KV 22201 für Treuhandauflagen der Bank, § 113 GNotKG"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-fremde-sprache-kv-26001-gnotkg",
+       "titel": "Notargebühren: fremde Sprache (KV 26001 GNotKG)",
+       "beschreibung": "Fremdsprachengebühr KV 26001: Zusatzgebühr 30 % bei Beurkundung oder Beglaubigung in fremder Sprache, eigene Übersetzung des Notars, Dolmetscher, zweisprachige Urkunde, § 5 BeurkG"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-ruckgabe-eines-erbvertrags-und-eidesstattliche-versicherung-kv-23100-23300-gnotkg",
+       "titel": "Notargebühren: Rückgabe eines Erbvertrags und eidesstattliche Versicherung (KV 23100, 23300 GNotKG)",
+       "beschreibung": "Rückgabe Erbvertrag aus notarieller Verwahrung KV 23100 (§ 114 GNotKG, Anrechnung), eidesstattliche Versicherung KV 23300 beim Erbscheinsantrag, § 22 BNotO, Geschäftswert § 40 GNotKG, KV 23301"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-unzeit-und-auswartsgebuhr-kv-26000-26002-26003-gnotkg",
+       "titel": "Notargebühren: Unzeit- und Auswärtsgebühr (KV 26000, 26002, 26003 GNotKG)",
+       "beschreibung": "Unzeitgebühr KV 26000 (30 %, höchstens 30 €), Auswärtsgebühr KV 26002 (50 € je angefangene halbe Stunde), Festgebühr KV 26003 für Testament und Vorsorgevollmacht, Beurkundung außerhalb der Amtsräume"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-vermogensverzeichnis-siegelung-und-verwahrung",
+       "titel": "Notargebühren: Vermögensverzeichnis, Siegelung und Verwahrung",
+       "beschreibung": "Nachlassverzeichnis und Vermögensverzeichnis KV 23500 bis 23503, Siegelung, Verwahrungsgebühr Notaranderkonto KV 25300/25301, Geschäftswert § 124 GNotKG, Entnahme der Gebühr, Kostenberechnung"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-vertretungs-und-rangbescheinigung-eigenurkunde-kv-25200-ff-gnotkg",
+       "titel": "Notargebühren: Vertretungs- und Rangbescheinigung, Eigenurkunde (KV 25200 ff. GNotKG)",
+       "beschreibung": "Vertretungsbescheinigung KV 25200 (§ 21 Abs. 1 BNotO, je Registerblatt), Vollmachtsbescheinigung KV 25214 (§ 21 Abs. 3 BNotO), Rangbescheinigung KV 25201, notarielle Eigenurkunde KV 25204"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-vollzug-auftrag-anwendungsbereich-entwurfe",
+       "titel": "Notargebühren: Vollzug – Auftrag, Anwendungsbereich, Entwürfe",
+       "beschreibung": "Vollzugsgebühr und Betreuungsgebühr: besonderer Auftrag (Vorb. 2.2 KV), abschließender Katalog, Geschäftswert §§ 112, 113 GNotKG, einmalige Erhebung je Urkunde, Vollzugsentwurf ohne Entwurfsgebühr, Hinweispflicht"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/gebuhren-fur-vollzug-betreuung-und-sonstige-geschafte/notargebuhren-vollzugstatigkeiten-gebuhrensatz-und-deckelung-kv-22110-22115-gnotkg",
+       "titel": "Notargebühren: Vollzugstätigkeiten, Gebührensatz und Deckelung (KV 22110–22115 GNotKG)",
+       "beschreibung": "Vollzugstätigkeiten Vorb. 2.2.1.1 KV: Vorkaufsrechtszeugnis, Löschungsbewilligung, Gesellschafterliste; Vollzugsgebühr KV 22110/22111, Deckelung KV 22112/22113, XML-Gebühr KV 22114, 22115, 22125, Vollzug KV 22124"
+      }
+     ]
     },
     {
      "slug": "geschaftswert-in-einzelnen-rechtsgebieten",
      "titel": "Geschäftswert in einzelnen Rechtsgebieten",
      "beschreibung": "Geschäftswerte bei Registeranmeldungen, Gesellschaftsverträgen und Beschlüssen, Verfügungen von Todes wegen und Erbschein, Ehevertrag und Scheidungsvereinbarung, Vorsorgevollmacht und Übergabevertrag.",
      "seiten_erwartet": 10,
-     "seiten": []
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-beschlusse-von-organen-108-gnotkg",
+       "titel": "Geschäftswert: Beschlüsse von Organen (§ 108 GNotKG)",
+       "beschreibung": "Geschäftswert Gesellschafterbeschluss, Satzungsänderung, Kapitalerhöhungsbeschluss: § 108 GNotKG, Agio, Mindestwert 30.000 €, Zustimmungsbeschluss § 108 Abs. 2, Umwandlungsbeschluss Abs. 3, Höchstwert 5 Mio. € Abs. 4"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-ehevertrag-und-lebenspartnerschaftsvertrag-100-gnotkg",
+       "titel": "Geschäftswert: Ehevertrag und Lebenspartnerschaftsvertrag (§ 100 GNotKG)",
+       "beschreibung": "Ehevertrag Geschäftswert § 100 GNotKG: modifiziertes Reinvermögen, Schuldenabzug bis zur Hälfte, Gütertrennung, Modifikation Zugewinngemeinschaft, bestimmte Vermögenswerte, künftiges Vermögen 30 %, Lebenspartnerschaftsvertrag, KV 21100"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-erbschein-und-erklarungen-gegenuber-dem-nachlassgericht-gebuhren-im-erbrecht-40-103-gnotkg",
+       "titel": "Geschäftswert: Erbschein und Erklärungen gegenüber dem Nachlassgericht; Gebühren im Erbrecht (§§ 40, 103 GNotKG)",
+       "beschreibung": "Geschäftswert Erbscheinsantrag, Erbschein, Ausschlagung: § 40 GNotKG Erbfall, Erblasserschulden, § 103 Nachlassgericht, KV 23300, KV 21201 Nr. 6/7, Kostenvergleich notarielles Testament § 35 GBO"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-gesellschaftsrechtliche-vertrage-und-anteilsubertragungen-107-54-gnotkg",
+       "titel": "Geschäftswert: gesellschaftsrechtliche Verträge und Anteilsübertragungen (§§ 107, 54 GNotKG)",
+       "beschreibung": "Geschäftswert GmbH-Gründung, Gesellschaftsvertrag, Satzung, Umwandlungsvertrag, Geschäftsanteilsabtretung: § 107 GNotKG Mindestwert/Höchstwert, Musterprotokoll, Agio, Sacheinlage, § 54 Eigenkapital, § 97 Abs. 3, § 38"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-registeranmeldungen-105-106-gnotkg-grundsatze-hochstwert-musterprotokoll",
+       "titel": "Geschäftswert: Registeranmeldungen (§§ 105, 106 GNotKG) – Grundsätze, Höchstwert, Musterprotokoll",
+       "beschreibung": "Geschäftswert Registeranmeldung, Handelsregisteranmeldung: § 105 GNotKG Mindestwert 30.000 €, § 106 Höchstwert 1 Mio. €, § 111 Nr. 3 mehrere Anmeldungen, § 105 Abs. 5 Festwert 5.000 €, Musterprotokoll § 105 Abs. 6, Vereinsregister § 36"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-registeranmeldungen-105-106-gnotkg-werte-mit-und-ohne-bestimmten-geldwert",
+       "titel": "Geschäftswert: Registeranmeldungen (§§ 105, 106 GNotKG) – Werte mit und ohne bestimmten Geldwert",
+       "beschreibung": "Geschäftswert Handelsregisteranmeldung nach Fallgruppen: § 105 Abs. 1 GNotKG Stammkapital, Kapitalerhöhung, KG Hafteinlage, Erstanmeldung § 105 Abs. 3 (GbR, OHG, PartG, Einzelkaufmann), spätere Anmeldung § 105 Abs. 4"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-scheidungsvereinbarung-und-ehevertrag-mit-weiteren-regelungen-111-nr-2-97-51-abs-2-52-gnotkg",
+       "titel": "Geschäftswert: Scheidungsvereinbarung und Ehevertrag mit weiteren Regelungen (§§ 111 Nr. 2, 97, 51 Abs. 2, 52 GNotKG)",
+       "beschreibung": "Scheidungsvereinbarung, Scheidungsfolgenvereinbarung: § 111 Nr. 2 GNotKG, Vermögensauseinandersetzung, Zugewinnausgleich § 97, Unterhalt § 52, Versorgungsausgleich, Verfügungsbeschränkung § 51 Abs. 2, Vollzug §§ 112, 113"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-ubergabevertrag-und-vorbehaltene-rechte-97-46-52-gnotkg",
+       "titel": "Geschäftswert: Übergabevertrag und vorbehaltene Rechte (§§ 97, 46, 52 GNotKG)",
+       "beschreibung": "Übergabevertrag Geschäftswert: Verkehrswert § 46, Austauschvertrag § 97 Abs. 3, Wohnungsrecht, Nießbrauch, Leibrente § 52 Abs. 4, Pflegeverpflichtung, Rückforderungsrecht, Gleichstellungsgeld, BORIS-BW, § 95 GNotKG"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-verfugungen-von-todes-wegen-und-verzichtsvertrage-102-gnotkg",
+       "titel": "Geschäftswert: Verfügungen von Todes wegen und Verzichtsverträge (§ 102 GNotKG)",
+       "beschreibung": "Geschäftswert Testament, Erbvertrag, Erbverzicht, Pflichtteilsverzicht: § 102 GNotKG modifiziertes Reinvermögen, Schuldenabzug bis zur Hälfte, § 102 Abs. 4, weichende Erben § 86 Abs. 2, nachträgliche Testamentsvollstreckung § 36"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-in-einzelnen-rechtsgebieten/geschaftswert-vorsorgevollmacht-betreuungs-und-patientenverfugung-98-36-109-110-gnotkg",
+       "titel": "Geschäftswert: Vorsorgevollmacht, Betreuungs- und Patientenverfügung (§§ 98, 36, 109, 110 GNotKG)",
+       "beschreibung": "Vorsorgevollmacht, Generalvollmacht Geschäftswert § 98 Abs. 3 GNotKG, Abschlag Ausübungsbeschränkung, Patientenverfügung, Betreuungsverfügung § 36 Abs. 3 (5.000 €), § 109 Abs. 2 Nr. 1, § 110 Nr. 3, KV 21200, KV 22200"
+      }
+     ]
     },
     {
      "slug": "geschaftswert-allgemeine-vorschriften",
      "titel": "Geschäftswert: Allgemeine Vorschriften",
      "beschreibung": "Bewertungszeitpunkt, Mindest-, Fest- und Höchstwerte, Auffangwert, Sachen und Grundstücke, Kaufvertrag und Austauschverträge, Nutzungs- und Leistungsrechte, Vollmachten, Vollzug und Betreuung.",
      "seiten_erwartet": 13,
-     "seiten": []
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-auffangwert-nach-36-und-verhaltnis-zu-97-gnotkg",
+       "titel": "Geschäftswert: Auffangwert nach § 36 und Verhältnis zu § 97 GNotKG",
+       "beschreibung": "Auffangwert und billiges Ermessen nach § 36 GNotKG, Ausgangswert 5.000 € (§ 36 Abs. 3), Höchstwert 1 Mio. €, nichtvermögensrechtliche Angelegenheit, § 97 Abs. 1 Rechtsverhältnis, enge Auslegung, Testamentsvollstreckung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-bauverpflichtung-bei-auflassung-und-grundbucheintragung-47-s-2-35-abs-1-gnotkg",
+       "titel": "Geschäftswert: Bauverpflichtung bei Auflassung und Grundbucheintragung (§ 47 S. 2, § 35 Abs. 1 GNotKG)",
+       "beschreibung": "Bauverpflichtung und Wiederkaufsrecht beim Kauf: Hinzurechnung nach § 47 S. 2 GNotKG (h. M., Grundbuchpraxis) oder gegenstandsverschieden nach § 35 Abs. 1 GNotKG; Wert der Auflassung, Eigentumsumschreibung, Vormerkung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-bauverpflichtung-und-schuldrechtliche-verpflichtungen-50-gnotkg",
+       "titel": "Geschäftswert: Bauverpflichtung und schuldrechtliche Verpflichtungen (§ 50 GNotKG)",
+       "beschreibung": "Bauverpflichtung beim Grundstückskauf: positive und mittelbare (negative) Bauverpflichtung, Wiederkaufsrecht, Werte nach § 50 GNotKG (Verfügungs- und Nutzungsbeschränkung, Wohnbau, Gewerbe, Investition), Bestimmtheit."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-bewertungszeitpunkt-nebengegenstande-schuldenabzugsverbot",
+       "titel": "Geschäftswert: Bewertungszeitpunkt, Nebengegenstände, Schuldenabzugsverbot",
+       "beschreibung": "Geschäftswert: Bewertungszeitpunkt Fälligkeit (§ 96, § 10 GNotKG), Früchte, Zinsen, Vertragsstrafen (§ 37), Schuldenabzugsverbot (§ 38) und Ausnahmen (§§ 40, 54, 100, 102, 103), Teilungserklärung § 42, Pflichtteilsverzicht."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-hinzurechnungen-beim-kauf",
+       "titel": "Geschäftswert: Hinzurechnungen beim Kauf",
+       "beschreibung": "Hinzurechnung zum Kaufpreis (§ 47 S. 2 GNotKG): vorbehaltener Nießbrauch, Wohnungsrecht, Erschließungskosten, Maklerprovision, Bauverpflichtung (§ 50), Dienstbarkeit gegenstandsgleich (§ 109 Abs. 1) oder verschieden (§ 110 Nr. 2 Buchst. b)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-kaufvertrag-auflassung-und-austauschvertrage-47-97-abs-3-gnotkg",
+       "titel": "Geschäftswert: Kaufvertrag, Auflassung und Austauschverträge (§§ 47, 97 Abs. 3 GNotKG)",
+       "beschreibung": "Geschäftswert Kaufvertrag (§ 47 GNotKG: Kaufpreis, Hinzurechnung, Verkehrswert), Austauschvertrag höherwertige Leistung (§ 97 Abs. 3), Ringtausch, isolierte Auflassung, Zubehör, Instandhaltungsrücklage, Verwandtenkauf."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-mindest-fest-und-hochstwerte-mitwirkungspflicht",
+       "titel": "Geschäftswert: Mindest-, Fest- und Höchstwerte; Mitwirkungspflicht",
+       "beschreibung": "Mindestwert, Festwert, Höchstwert des Geschäftswerts (§§ 101, 105–108, 98 Abs. 4, 123 GNotKG), Wertobergrenze 60 Mio. € (§ 35 Abs. 2), Mitwirkungspflicht und Schätzung (§ 95 GNotKG), Nachberechnung, Minderjährigenadoption."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-nutzungs-und-leistungsrechte-jahreswert-entgelt-abgrenzung",
+       "titel": "Geschäftswert: Nutzungs- und Leistungsrechte – Jahreswert, Entgelt, Abgrenzung",
+       "beschreibung": "Jahreswert nach § 52 GNotKG: ortsübliche Miete beim Wohnungsrecht, Nießbrauch, Pflege (§ 37 SGB XI), Auffangwert 5 % des betroffenen Gegenstands (§ 52 Abs. 5), Ausübungsfläche, Entgelt (§ 97 Abs. 3), Abgrenzung §§ 50, 51, 53, 99."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-nutzungs-und-leistungsrechte-laufzeit-und-vervielfaltiger-52-gnotkg",
+       "titel": "Geschäftswert: Nutzungs- und Leistungsrechte – Laufzeit und Vervielfältiger (§ 52 GNotKG)",
+       "beschreibung": "§ 52 GNotKG Nutzungs- und Leistungsrechte: Wohnungsrecht, Nießbrauch, Leibrente, Dienstbarkeit, Reallast, Unterhalt; Vervielfältiger nach bestimmter, unbeschränkter, unbestimmter Dauer und Lebensalter (§ 52 Abs. 2–4, 6)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-sachen-und-grundstucke-46-gnotkg",
+       "titel": "Geschäftswert: Sachen und Grundstücke (§ 46 GNotKG)",
+       "beschreibung": "Verkehrswert von Sachen und Grundstücken (§ 46 GNotKG): Wertangaben, Grundpfandrechte, Grundakten, Steuerwerte, keine Beweisaufnahme; Sache nach § 90 BGB; Erbteil, GmbH-Anteil; spezielle Wertvorschriften vor § 36."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-vollmachten-und-zustimmungen-98-gnotkg",
+       "titel": "Geschäftswert: Vollmachten und Zustimmungen (§ 98 GNotKG)",
+       "beschreibung": "Geschäftswert Vollmacht, Genehmigung, Nachgenehmigung, Zustimmung (§ 98 GNotKG): halber Wert, Mitberechtigung, Verwalterzustimmung, allgemeine Vollmacht, Generalvollmacht, Vorsorgevollmacht, Höchstwert 1 Mio. €."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-vollzug-betreuung-und-weitere-einzelvorschriften-104-112-124-gnotkg",
+       "titel": "Geschäftswert: Vollzug, Betreuung und weitere Einzelvorschriften (§§ 104, 112–124 GNotKG)",
+       "beschreibung": "Geschäftswert Vollzugsgebühr und Betreuungsgebühr (§§ 112, 113), Rechtswahl 30 % (§ 104, § 111 Nr. 4, EuGüVO), Rückgabe Erbvertrag (§ 114), Nachlassverzeichnis (§ 115), Entwurf (§ 119), Beglaubigung (§ 121), Verwahrung (§ 124)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/geschaftswert-allgemeine-vorschriften/geschaftswert-wiederkaufsrecht-bei-mittelbarer-bauverpflichtung-51-abs-1-s-2-abs-3-gnotkg",
+       "titel": "Geschäftswert: Wiederkaufsrecht bei mittelbarer Bauverpflichtung (§ 51 Abs. 1 S. 2, Abs. 3 GNotKG)",
+       "beschreibung": "Wiederkaufsrecht bei Bauverpflichtung (Bauplatzverkauf): Geschäftswert 50 % nach § 51 Abs. 1 S. 2 GNotKG, Herabsetzung nach § 51 Abs. 3 (OLG Stuttgart, OLG Frankfurt, KG 9 W 96/19), Rückübereignungsvormerkung."
+      }
+     ]
     },
     {
      "slug": "grundlagen-und-kostenschuldner",
      "titel": "Grundlagen und Kostenschuldner",
      "beschreibung": "Rechtsgrundlagen und Aufbau des GNotKG, Erhebungspflicht, Fälligkeit und Vorschuss, unrichtige Sachbehandlung, Kostenbelehrung, Wertgebühr und Gebührensatz sowie Kostenschuldner.",
      "seiten_erwartet": 8,
-     "seiten": []
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-belehrung-uber-kosten-und-kostenauskunft",
+       "titel": "Notarkosten: Belehrung über Kosten und Kostenauskunft",
+       "beschreibung": "Kostenbelehrung durch den Notar, Hinweispflicht auf Kostenvergünstigung, Vollzugs- und Betreuungsauftrag (Vorb. 2.2 Abs. 1 KV GNotKG), Kostentragung regeln, Kostenauskunft, unrichtige Sachbehandlung"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-erhebungspflicht-gebuhrenvereinbarung-stundung-und-erlass",
+       "titel": "Notarkosten: Erhebungspflicht, Gebührenvereinbarung, Stundung und Erlass",
+       "beschreibung": "Gebührenerhebungspflicht § 17 Abs. 1 S. 1 BNotO, Gleichbehandlung, Unwirksamkeit von Kostenvereinbarungen § 125 GNotKG, Stundung, Ratenzahlung, Gebührenerlass, Notarkammer, Gebührenvertrag § 126 GNotKG (Mediation)"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-falligkeit-vorschuss-verzinsung-zuruckbehaltung",
+       "titel": "Notarkosten: Fälligkeit, Vorschuss, Verzinsung, Zurückbehaltung",
+       "beschreibung": "Fälligkeit der Notarkosten § 10 GNotKG, Verjährung § 6 GNotKG, Kostenvorschuss §§ 15, 16 GNotKG, Vorschussrechnung, Verzinsung § 88 GNotKG, Zurückbehaltungsrecht § 11 GNotKG, Notarrechnung"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-kostenschuldner-in-einzelfallen",
+       "titel": "Notarkosten: Kostenschuldner in Einzelfällen",
+       "beschreibung": "Kostenschuldner Einzelfälle: Kaufvertrag, Makler, Finanzierungsgrundschuld, Treuhandgebühr KV 22201, Gesellschaftsvertrag, Beschlüsse, Registeranmeldung, Verwalterzustimmung, Vertretung, Entwurfsgebühr"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-kostenschuldner-grundsatze-29-32-gnotkg",
+       "titel": "Notarkosten: Kostenschuldner – Grundsätze (§§ 29–32 GNotKG)",
+       "beschreibung": "Kostenschuldner Notarkosten: Veranlassungsschuldner, Übernahmeschuldner § 29 GNotKG, Urkundsbeteiligte § 30 Abs. 1, Kostenübernahme § 30 Abs. 3, Gesamtschuld § 32 GNotKG, Innenverhältnis, Haftung kraft Gesetzes"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-rechtsgrundlagen-kostenbegriff-und-aufbau-des-gnotkg",
+       "titel": "Notarkosten: Rechtsgrundlagen, Kostenbegriff und Aufbau des GNotKG",
+       "beschreibung": "Notarkosten Grundlagen: öffentlich-rechtlicher Kostenanspruch, Kostenberechnung als Titel (§ 89), Aufbau GNotKG, Tabelle B, Kostenbegriff § 1 Abs. 1, Gebühren, Auslagen, durchlaufende Posten KV 32015, § 17 BNotO"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-unrichtige-sachbehandlung-und-kostengunstigster-weg",
+       "titel": "Notarkosten: unrichtige Sachbehandlung und kostengünstigster Weg",
+       "beschreibung": "Unrichtige Sachbehandlung § 21 GNotKG, Nichterhebung von Kosten, kostengünstigster Weg, getrennte Auflassung KV 21101, Notaranderkonto, Nachbesserung, Kostenfolgen von Fehlern des Notars"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/grundlagen-und-kostenschuldner/notarkosten-wertgebuhr-gebuhrentatbestand-und-gebuhrensatz",
+       "titel": "Notarkosten: Wertgebühr, Gebührentatbestand und Gebührensatz",
+       "beschreibung": "Wertgebühr, Geschäftswertprinzip, Gebührentatbestand nach Form (KV 21xxx, 23xxx, 24xxx, 25xxx), Gebührensatz nach Inhalt (2,0/1,0/0,5), Entwurf, Teilungserklärung, einmalige Gebühr § 93, Vollzug und Betreuung"
+      }
+     ]
     },
     {
      "slug": "kostenberechnung-auslagen-und-rechtsbehelfe",
      "titel": "Kostenberechnung, Auslagen und Rechtsbehelfe",
      "beschreibung": "Inhalt und Form der Kostenberechnung (§ 19 GNotKG), Rechnungsangaben, Rechtsbehelfsbelehrung, Prüfreihenfolge, Auslagen, Beitreibung und Antrag auf gerichtliche Entscheidung.",
      "seiten_erwartet": 9,
-     "seiten": []
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/auslagen-dokumentenpauschale-kv-32000-32003-gnotkg",
+       "titel": "Auslagen: Dokumentenpauschale (KV 32000–32003 GNotKG)",
+       "beschreibung": "Dokumentenpauschale KV 32000–32003 GNotKG: Kopien, Ausfertigungen, Abschriften auf Antrag, Farbkopien, elektronische Datei, Einscannen, Großformat über DIN A3, Verhältnis zur Beglaubigungsgebühr KV 25102"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/auslagen-post-telekommunikation-und-reisekosten-kv-32004-32009-gnotkg",
+       "titel": "Auslagen: Post, Telekommunikation und Reisekosten (KV 32004–32009 GNotKG)",
+       "beschreibung": "Post- und Telekommunikationspauschale KV 32004, 32005 GNotKG, Einzelansatz, Reisekosten KV 32006–32009, Geschäftsreise, Amtssitz, Kilometergeld eigenes Kfz, Abwesenheitsgeld, Parkgebühren"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/auslagen-sonstige-auslagen-und-umsatzsteuer-kv-32010-32015-gnotkg",
+       "titel": "Auslagen: sonstige Auslagen und Umsatzsteuer (KV 32010–32015 GNotKG)",
+       "beschreibung": "Sonstige Auslagen KV 32010–32015 GNotKG: Grundbuchabruf, Haftpflichtprämie, Umsatzsteuer KV 32014, Zentrales Testamentsregister und Vorsorgeregister, Urkundenarchiv, durchlaufende Posten, Umsatzsteuerpflicht"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/kostenberechnung-pflicht-und-sollangaben-textform-19-gnotkg",
+       "titel": "Kostenberechnung: Pflicht- und Sollangaben, Textform (§ 19 GNotKG)",
+       "beschreibung": "Notarielle Kostenberechnung nach § 19 GNotKG: Muss- und Sollangaben, Zitiergebot, Kostengläubiger, Kostenschuldner, KV-Nummer, Geschäftswert, Vorschüsse, Textform § 126b BGB, Notarrechnung per E-Mail"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/kostenberechnung-prufreihenfolge-in-drei-schritten",
+       "titel": "Kostenberechnung: Prüfreihenfolge in drei Schritten",
+       "beschreibung": "Notarrechnung prüfen in drei Schritten: Beurkundungsgegenstände erfassen und bewerten, Verfahrenswert nach §§ 109–111, 35 GNotKG, Vergleichsberechnung § 94; einmalige Gebühr § 93, Gebührensatz nur einmal"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/kostenberechnung-rechtsbehelfsbelehrung-7a-gnotkg-und-wertangabe-gegenuber-gerichten",
+       "titel": "Kostenberechnung: Rechtsbehelfsbelehrung (§ 7a GNotKG) und Wertangabe gegenüber Gerichten",
+       "beschreibung": "Rechtsbehelfsbelehrung in der Kostenberechnung § 7a GNotKG: Inhalt, Sitz des Landgerichts, Platzierung, Folgen des Fehlens; Kostenberechnung unter Ausfertigungen; Wertangabe gegenüber Grundbuchamt § 39 GNotKG"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/kostenberechnung-umsatzsteuerliche-rechnungsangaben-und-korrektur",
+       "titel": "Kostenberechnung: umsatzsteuerliche Rechnungsangaben und Korrektur",
+       "beschreibung": "Notarrechnung und Umsatzsteuer: Pflichtangaben § 14 Abs. 4 UStG, Steuersatz 19 %, Aufbewahrungshinweis Grundstücksumsatz, Vorsteuerabzug, Rechnungskorrektur § 14c UStG, Berichtigungspflicht des Notars"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/notarkosten-antrag-auf-gerichtliche-entscheidung-127-130-gnotkg",
+       "titel": "Notarkosten: Antrag auf gerichtliche Entscheidung (§§ 127–130 GNotKG)",
+       "beschreibung": "Kostenbeschwerde: Antrag auf gerichtliche Entscheidung §§ 127–130 GNotKG, Landgericht, Antragsberechtigung, Ausschlussfrist § 127 Abs. 2, Dienstaufsicht, Berichtigung, Beschwerde, Rechtsbeschwerde, keine aufschiebende Wirkung"
+      },
+      {
+       "path": "handbuch-mit-notarwissen/notarkosten/kostenberechnung-auslagen-und-rechtsbehelfe/notarkosten-beitreibung-titel-klausel-zustellung-vollstreckung",
+       "titel": "Notarkosten: Beitreibung – Titel, Klausel, Zustellung, Vollstreckung",
+       "beschreibung": "Beitreibung von Notarkosten § 89 GNotKG: vollstreckbare Ausfertigung, Vollstreckungsklausel, Zustellung, Wartefrist § 798 ZPO, Gerichtsvollzieher, Vollstreckungsauftrag, Kosten der Zwangsvollstreckung"
+      }
+     ]
     }
    ]
   },
@@ -2139,21 +2481,119 @@
      "titel": "Eigentum",
      "beschreibung": "Inhalt des Eigentums, Besitz und Auflassung, gutgläubiger und gesetzlicher Erwerb sowie Allein-, Mit- und Gesamthandseigentum.",
      "seiten_erwartet": 3,
-     "seiten": []
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/eigentum/eigentum-allein-mit-und-gesamthandseigentum",
+       "titel": "Eigentum: Allein-, Mit- und Gesamthandseigentum",
+       "beschreibung": "Eigentumsformen: Alleineigentum, Miteigentum nach Bruchteilen (§§ 1008 ff., 741 ff. BGB, § 47 GBO), Miteigentümervereinbarung (§§ 745, 749, 1010 BGB), Teilungsversteigerung, Gesamthand, Erbteilsübertragung (§ 2033 BGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/eigentum/eigentum-gutglaubiger-und-gesetzlicher-erwerb",
+       "titel": "Eigentum: gutgläubiger und gesetzlicher Erwerb",
+       "beschreibung": "Gutgläubiger Erwerb von Grundstücken (§ 892 BGB): Eintragung, Widerspruch, positive Kenntnis, Verfügungsbefugnis; gesetzlicher Erwerb: Verbindung (§§ 946, 951 BGB), Buchersitzung (§ 900 BGB), Erbfolge (§ 1922 BGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/eigentum/eigentum-inhalt-besitz-und-auflassung",
+       "titel": "Eigentum: Inhalt, Besitz und Auflassung",
+       "beschreibung": "Grundstückseigentum (§ 903 BGB), Besitz (§§ 854, 866 BGB), Eigentumsübertragung durch Auflassung und Eintragung (§§ 873, 925 BGB): Bedingungsfeindlichkeit, Form, Bindung, Verfügungsbefugnis."
+      }
+     ]
     },
     {
      "slug": "grundsatze-und-erwerb-dinglicher-rechte",
      "titel": "Grundsätze und Erwerb dinglicher Rechte",
      "beschreibung": "Sachen, Bestandteile und Zubehör, sachenrechtliche Grundprinzipien, dingliche Einigung und Eintragung, Verfügungsbeschränkung nach § 878 BGB sowie Aufhebung und Erlöschen beschränkter dinglicher Rechte.",
      "seiten_erwartet": 6,
-     "seiten": []
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/beschrankte-dingliche-rechte-aufhebung-und-erloschen",
+       "titel": "Beschränkte dingliche Rechte: Aufhebung und Erlöschen",
+       "beschreibung": "Aufhebung und Löschung beschränkter dinglicher Rechte: Aufgabeerklärung (§ 875 BGB), Löschungsbewilligung (§§ 19, 29 GBO), Eigentümerzustimmung bei Grundschuld und Hypothek (§ 1183 BGB, § 27 GBO), Erlöschensgründe."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/grundstucksrechte-dingliche-einigung-abstraktion-und-bindung",
+       "titel": "Grundstücksrechte: dingliche Einigung, Abstraktion und Bindung",
+       "beschreibung": "Dingliche Einigung und Eintragung (§ 873 BGB): dinglicher Vertrag, Trennungs- und Abstraktionsprinzip, Formfreiheit, Widerruf und Bindung (§ 873 Abs. 2 BGB), Rechtsänderung ohne Einigung (§§ 875, 927, 928 BGB)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/grundstucksrechte-eintragung-bezugnahme-und-ubereinstimmung-mit-der-einigung",
+       "titel": "Grundstücksrechte: Eintragung, Bezugnahme und Übereinstimmung mit der Einigung",
+       "beschreibung": "Grundbucheintragung: konstitutive Wirkung, Rang, Vermutung (§ 891 BGB); Bezugnahme auf die Eintragungsbewilligung (§ 874 BGB) und Grenzen, Bewilligung im Kaufvertrag, § 47 GBO, zu Unrecht gelöschtes Recht, Deckung von Einigung und Eintragung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/grundstucksrechte-verfugungsbeschrankung-zwischen-einigung-und-eintragung-878-bgb",
+       "titel": "Grundstücksrechte: Verfügungsbeschränkung zwischen Einigung und Eintragung (§ 878 BGB)",
+       "beschreibung": "Schutz des Erwerbers bei Verfügungsbeschränkung nach Einigung und vor Eintragung (§ 878 BGB): Bindung und gestellter Antrag; Beschlagnahme (ZVG), Insolvenz des Verkäufers, einstweilige Verfügung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/sachenrecht-grundprinzipien",
+       "titel": "Sachenrecht: Grundprinzipien",
+       "beschreibung": "Grundsätze des Sachenrechts: Publizität (§§ 873, 891, 892 BGB), Absolutheit, Bestimmtheit (§ 28 GBO), Typenzwang, numerus clausus, Trennungs- und Abstraktionsprinzip, Doppelmangel, Rückauflassung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundsatze-und-erwerb-dinglicher-rechte/sachenrecht-sachen-wesentliche-bestandteile-und-zubehor",
+       "titel": "Sachenrecht: Sachen, wesentliche Bestandteile und Zubehör",
+       "beschreibung": "Sache (§ 90 BGB), wesentlicher Bestandteil (§§ 93, 94 BGB), Scheinbestandteil (§ 95 BGB), Zubehör (§§ 97, 311c BGB) beim Hauskauf: Gebäude, Photovoltaikanlage, Einbauküche, Möbel, Früchte, Akzessionsprinzip."
+      }
+     ]
     },
     {
      "slug": "grundstuck-und-liegenschaftskataster",
      "titel": "Grundstück und Liegenschaftskataster",
      "beschreibung": "Grundstücksbegriff, Flurstück und grundstücksgleiche Rechte, Teilflächen sowie Flurkarte, Fortführungsnachweis, Teilung, Vereinigung und Zuschreibung im Liegenschaftskataster, mit Landesrecht Baden-Württemberg.",
      "seiten_erwartet": 10,
-     "seiten": []
+     "seiten": [
+      {
+       "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/flurbereinigung-ausfuhrung-des-plans-und-verfugungen-bis-zur-grundbuchberichtigung",
+       "titel": "Flurbereinigung: Ausführung des Plans und Verfügungen bis zur Grundbuchberichtigung",
+       "beschreibung": "Flurbereinigung nach Ausführung des Plans: Untergang der alten Grundstücke, faktische Unveräußerbarkeit bis zur Grundbuchberichtigung, Auflassung über Einlagegrundstück, Umdeutung, Nachtrag (§ 29 GBO)."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/flurbereinigung-grundstucksverkauf-wahrend-des-verfahrens",
+       "titel": "Flurbereinigung: Grundstücksverkauf während des Verfahrens",
+       "beschreibung": "Flurbereinigung und Grundstückskauf: kein Veräußerungsverbot außer § 52 Abs. 3 FlurbG, Bindung des Erwerbers (§ 15 FlurbG), Einlagegrundstück und Abfindungsgrundstück, Wertzahl, Ablauf, Besitzeinweisung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/grundstuck-begriff-flurstuck-und-grundstucksgleiche-rechte",
+       "titel": "Grundstück: Begriff, Flurstück und grundstücksgleiche Rechte",
+       "beschreibung": "Grundstück im Rechtssinne (§ 3 Abs. 1 GBO), Flurstück, Flurstücksnummer, Teilung vor Verkauf oder Belastung; grundstücksgleiche Rechte: Wohnungseigentum, Erbbaurecht, Stockwerkseigentum, Gebäudeeigentum."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/grundstuck-vermessene-und-unvermessene-teilflachen",
+       "titel": "Grundstück: vermessene und unvermessene Teilflächen",
+       "beschreibung": "Teilflächenverkauf: vermessene und nicht vermessene Teilfläche, Teilungsantrag (§ 29 GBO), Lageplan/Skizze (§ 9 Abs. 1 S. 2 BeurkG), Vermessung, Anerkennung des Messergebnisses, Identitätserklärung, Mehr- oder Minderfläche."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/grundstucksgrenzen-grenzabmarkung-grenzverwirrung-und-grenzfeststellungsvertrag",
+       "titel": "Grundstücksgrenzen: Grenzabmarkung, Grenzverwirrung und Grenzfeststellungsvertrag",
+       "beschreibung": "Grenzabmarkung und Grenzverwirrung (§§ 919, 920 BGB), Grenzscheidungsklage, Grenzfeststellungsvertrag mit und ohne Eigentumswechsel (Grenzregelung), Form § 311b BGB, Auflassung, Fortführungsnachweis."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/liegenschaftskataster-flurkarte-in-der-vertragsvorbereitung",
+       "titel": "Liegenschaftskataster: Flurkarte in der Vertragsvorbereitung",
+       "beschreibung": "Liegenschaftskataster (§ 2 Abs. 2 GBO), Flurkarte, Lageplan in der Vertragsvorbereitung: Garage, Stellplatz, Wegfläche, Erschließung, Herrschvermerk, Wegerecht, Notwegrecht (§ 917 BGB); Abruf in Baden-Württemberg."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/liegenschaftskataster-fortfuhrungsnachweis-teilung-vereinigung-und-zuschreibung",
+       "titel": "Liegenschaftskataster: Fortführungsnachweis, Teilung, Vereinigung und Zuschreibung",
+       "beschreibung": "Fortführungsnachweis nach Vermessung, Liegenschaftskataster Baden-Württemberg: Zerlegung, Teilung (§ 2 Abs. 3 GBO), Verschmelzung, Vereinigung und Zuschreibung (§ 890 BGB, §§ 5, 6 GBO, § 1131 BGB), 24-Monats-Frist, Mahnung."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/liegenschaftskataster-zerlegung-verschmelzung-und-erledigung-von-fortfuhrungsfallen",
+       "titel": "Liegenschaftskataster: Zerlegung, Verschmelzung und Erledigung von Fortführungsfällen",
+       "beschreibung": "Fortführungsnachweis (früher Veränderungsnachweis): Zerlegung und Verschmelzung (VwVLK Baden-Württemberg) gegenüber Teilung, Vereinigung, Zuschreibung; Erledigung von Amts wegen oder auf Antrag, § 7 GBO."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/teilung-vereinigung-und-zuschreibung-antrag-verwirrungsverbot-und-einheitliche-belastung",
+       "titel": "Teilung, Vereinigung und Zuschreibung: Antrag, Verwirrungsverbot und einheitliche Belastung",
+       "beschreibung": "Teilung, Vereinigung, Zuschreibung im Grundbuchverfahren: Antrag in Form § 29 GBO, Voreintragung §§ 39, 40 GBO, Vermessungsbehörde, Verwirrung (§§ 5, 6 GBO), Pfanderstreckung, Rangrücktritt, § 1131 BGB."
+      },
+      {
+       "path": "handbuch-mit-notarwissen/sachenrecht-und-grundstuck/grundstuck-und-liegenschaftskataster/zuflurstuck-und-abschreibung-begriffe-buchung-und-vertragsgestaltung",
+       "titel": "Zuflurstück und Abschreibung: Begriffe, Buchung und Vertragsgestaltung",
+       "beschreibung": "Zuflurstück (§ 2 Abs. 3 GBO, Ziff. 26 VwVLK Baden-Württemberg) und Abschreibung: Begriffe, 100er-Nummern, selbständige Buchung, Zuschreibungsantrag beim Teilflächenkauf, Straßenerweiterung."
+      }
+     ]
     }
    ]
   },

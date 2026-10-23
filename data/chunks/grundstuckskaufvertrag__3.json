@@ -1,0 +1,84 @@
+{
+ "kapitel": "grundstuckskaufvertrag",
+ "kapitel_titel": "Grundstückskaufvertrag",
+ "teil": 3,
+ "teile": 3,
+ "datei": "data/fragen/grundstuckskaufvertrag__3.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/vertrage-mit-der-gemeinde-bindungen-angemessenheit-nach-11-baugb-und-schenkungsverbot",
+   "titel": "Verträge mit der Gemeinde: Bindungen, Angemessenheit nach § 11 BauGB und Schenkungsverbot",
+   "abschnitt": "Grundlagen, Form und Geldwäsche"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/vertrage-mit-der-gemeinde-erschliessungsvertrage-und-bebauungsplane-nach-13b-baugb",
+   "titel": "Verträge mit der Gemeinde: Erschließungsverträge und Bebauungspläne nach § 13b BauGB",
+   "abschnitt": "Grundlagen, Form und Geldwäsche"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/grundlagen-form-und-geldwasche/vertrage-mit-der-gemeinde-erstwohnsitz-einheimischenmodelle-und-bebauungsplanregelungen",
+   "titel": "Verträge mit der Gemeinde: Erstwohnsitz, Einheimischenmodelle und Bebauungsplanregelungen",
+   "abschnitt": "Grundlagen, Form und Geldwäsche"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/grundstuckskaufvertrag-kostentragung-grunderwerbsteuer-und-hinweispflichten",
+   "titel": "Grundstückskaufvertrag: Kostentragung, Grunderwerbsteuer und Hinweispflichten",
+   "abschnitt": "Kosten, Teilfläche und Vollzug"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/grundstuckskaufvertrag-verkauf-einer-unvermessenen-teilflache",
+   "titel": "Grundstückskaufvertrag: Verkauf einer unvermessenen Teilfläche",
+   "abschnitt": "Kosten, Teilfläche und Vollzug"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/teilflachenvertrag-finanzierungsgrundpfandrecht-vormerkung-und-typische-vollzugshindernisse",
+   "titel": "Teilflächenvertrag: Finanzierungsgrundpfandrecht, Vormerkung und typische Vollzugshindernisse",
+   "abschnitt": "Kosten, Teilfläche und Vollzug"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/vollzug-des-grundstuckskaufvertrags-ablauf-von-erstvollzug-falligkeitsmitteilung-und-endvollzug",
+   "titel": "Vollzug des Grundstückskaufvertrags: Ablauf von Erstvollzug, Fälligkeitsmitteilung und Endvollzug",
+   "abschnitt": "Kosten, Teilfläche und Vollzug"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/vollzug-des-grundstuckskaufvertrags-anzeigen-an-finanzamt-und-gutachterausschuss-unbedenklichkeitsbescheinigung",
+   "titel": "Vollzug des Grundstückskaufvertrags: Anzeigen an Finanzamt und Gutachterausschuss, Unbedenklichkeitsbescheinigung",
+   "abschnitt": "Kosten, Teilfläche und Vollzug"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/kosten-teilflache-und-vollzug/vollzug-des-grundstuckskaufvertrags-vermerke-in-abteilung-ii",
+   "titel": "Vollzug des Grundstückskaufvertrags: Vermerke in Abteilung II",
+   "abschnitt": "Kosten, Teilfläche und Vollzug"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/grundstuckskaufvertrag-belastungen-in-abteilung-ii-beim-verkauf",
+   "titel": "Grundstückskaufvertrag: Belastungen in Abteilung II beim Verkauf",
+   "abschnitt": "Vertragsgegenstand und Kaufpreis"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/grundstuckskaufvertrag-grundbucheinsicht-und-baulasten",
+   "titel": "Grundstückskaufvertrag: Grundbucheinsicht und Baulasten",
+   "abschnitt": "Vertragsgegenstand und Kaufpreis"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/grundstuckskaufvertrag-kaufpreis-kaufpreisaufteilung-vollstreckungsunterwerfung-und-umsatzsteueroption",
+   "titel": "Grundstückskaufvertrag: Kaufpreis, Kaufpreisaufteilung, Vollstreckungsunterwerfung und Umsatzsteueroption",
+   "abschnitt": "Vertragsgegenstand und Kaufpreis"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/grundstuckskaufvertrag-vertragsgegenstand-bestandteile-zubehor-und-bewegliche-sachen",
+   "titel": "Grundstückskaufvertrag: Vertragsgegenstand, Bestandteile, Zubehör und bewegliche Sachen",
+   "abschnitt": "Vertragsgegenstand und Kaufpreis"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/vertrage-mit-der-gemeinde-aufzahlung-vertragsstrafe-und-selbstnutzungsverpflichtung",
+   "titel": "Verträge mit der Gemeinde: Aufzahlung, Vertragsstrafe und Selbstnutzungsverpflichtung",
+   "abschnitt": "Vertragsgegenstand und Kaufpreis"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundstuckskaufvertrag/vertragsgegenstand-und-kaufpreis/vertrage-mit-der-gemeinde-bauverpflichtung-wiederkaufsrecht-und-heimfall",
+   "titel": "Verträge mit der Gemeinde: Bauverpflichtung, Wiederkaufsrecht und Heimfall",
+   "abschnitt": "Vertragsgegenstand und Kaufpreis"
+  }
+ ]
+}

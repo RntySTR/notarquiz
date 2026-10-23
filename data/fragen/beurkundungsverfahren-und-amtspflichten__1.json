@@ -1,0 +1,326 @@
+[
+ {
+  "id": "beur1-001",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Erklärungen, Vorlesen und besondere Verfahren",
+  "seite": "Anlagen und Verweisung auf andere Niederschriften (§§ 9, 13c, 14 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/erklarungen-vorlesen-und-besondere-verfahren/anlagen-und-verweisung-auf-andere-niederschriften-9-13c-14-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 9 Abs. 1 S. 2 BeurkG"
+  ],
+  "frage": "Welche Rechtsfolge hat es, wenn die Niederschrift auf ein beigefügtes Schriftstück verweist?",
+  "optionen": [
+   "Das Schriftstück ist eine Privaturkunde, die nur ergänzend zur Auslegung herangezogen wird.",
+   "Die darin enthaltenen Erklärungen gelten als in der Niederschrift selbst enthalten; Verfahrensvorschriften und Amtspflichten gelten für die Anlage wie für die Niederschrift.",
+   "Das Schriftstück muss nicht vorgelesen werden, weil es nicht Teil der Niederschrift ist.",
+   "Die Anlage wird nach Abschluss der Beurkundung von der Niederschrift getrennt und gesondert verwahrt."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 9 Abs. 1 S. 2 BeurkG gelten Erklärungen in einem Schriftstück, auf das die Niederschrift verweist und das ihr beigefügt wird, als in der Niederschrift selbst enthalten. Deshalb gelten alle Verfahrensvorschriften (insbesondere das Vorlesen) und Amtspflichten für die Anlage wie für die Niederschrift, und die Anlage bleibt auch bei der weiteren Behandlung Teil der Niederschrift. Die Annahme, die Anlage sei nur eine ergänzende Privaturkunde ohne Vorlesungspflicht, verkennt gerade diese Gleichstellung."
+ },
+ {
+  "id": "beur1-002",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Erklärungen, Vorlesen und besondere Verfahren",
+  "seite": "Anlagen und Verweisung auf andere Niederschriften (§§ 9, 13c, 14 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/erklarungen-vorlesen-und-besondere-verfahren/anlagen-und-verweisung-auf-andere-niederschriften-9-13c-14-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 13c Abs. 1 BeurkG",
+   "§ 13c Abs. 2 BeurkG"
+  ],
+  "frage": "Welche Angaben sind für eine hinreichend bestimmte Verweisung auf eine andere notarielle Niederschrift nach § 13c BeurkG erforderlich und ausreichend?",
+  "optionen": [
+   "Notar mit Namen und Amtssitz, Urkundsdatum und UVZ-Nr.",
+   "Vollständige Wiedergabe des Inhalts der anderen Niederschrift in der Haupturkunde.",
+   "Name des Notars und die Namen aller Beteiligten der anderen Urkunde.",
+   "Urkundsdatum, UVZ-Nr. und eine beglaubigte Abschrift als Anlage zur Haupturkunde."
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Haupturkunde muss ausdrücklich und hinreichend bestimmt auf die Bezugsurkunde verweisen; dafür sind nach der Seite Notar mit Namen und Amtssitz, Urkundsdatum und UVZ-Nr. erforderlich und ausreichend. Eine Beifügung als Anlage ist gerade nicht nötig, weil die Beteiligten nach § 13c Abs. 2 BeurkG auf das Beifügen verzichten können; ebenso verzichten sie nach § 13c Abs. 1 BeurkG auf das Vorlesen, so dass eine vollständige Wiedergabe des Inhalts dem Entlastungszweck widerspräche."
+ },
+ {
+  "id": "beur1-003",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Erklärungen, Vorlesen und besondere Verfahren",
+  "seite": "Anlagen und Verweisung auf andere Niederschriften (§§ 9, 13c, 14 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/erklarungen-vorlesen-und-besondere-verfahren/anlagen-und-verweisung-auf-andere-niederschriften-9-13c-14-beurkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 13c Abs. 1 S. 3 BeurkG"
+  ],
+  "frage": "Für eine Verweisung nach § 13c BeurkG genügt es, wenn den Beteiligten bei der Beurkundung eine einfache Abschrift der anderen Niederschrift vorliegt.",
+  "antwort": false,
+  "erklaerung": "Der Notar soll nur beurkunden, wenn die andere Niederschrift bei der Beurkundung zumindest in beglaubigter Abschrift einsehbar ist (§ 13c Abs. 1 S. 3 BeurkG). Eine Verweisung, bei der nur eine einfache Abschrift vorliegt, sollte nach der Seite vermieden werden. Der Fehler liegt also in der Stufe der Abschrift: beglaubigt, nicht einfach."
+ },
+ {
+  "id": "beur1-004",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Erklärungen, Vorlesen und besondere Verfahren",
+  "seite": "Anlagen und Verweisung auf andere Niederschriften (§§ 9, 13c, 14 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/erklarungen-vorlesen-und-besondere-verfahren/anlagen-und-verweisung-auf-andere-niederschriften-9-13c-14-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 14 Abs. 1 S. 3 BeurkG",
+   "§ 14 Abs. 1 S. 1 BeurkG"
+  ],
+  "frage": "Welche Erklärung muss bei der Bestellung einer Grundschuld stets in der Niederschrift selbst stehen und darf nicht durch Verweisung einbezogen werden?",
+  "optionen": [
+   "Die Bestimmung des Sicherungszwecks zwischen Eigentümer und Gläubiger.",
+   "Die Unterwerfung unter die sofortige Zwangsvollstreckung.",
+   "Die Kostenübernahme durch den Grundstückseigentümer.",
+   "Die Verpflichtung zur Vorlage des Grundschuldbriefs beim Grundbuchamt."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 14 Abs. 1 S. 3 BeurkG muss die Unterwerfung unter die sofortige Zwangsvollstreckung stets in der Niederschrift selbst stehen. Nicht verweisungsfähig sind außerdem die eintragungsbedürftigen Angaben wie Gläubiger, Geldbetrag, Zinssatz, Nebenleistungen, Rang, Briefausschluss und Löschungsvormerkung. Die Sicherungsabrede ist dagegen eine Erklärung, die nicht im Register angegeben werden muss und deshalb nur eingeschränkt vorzulesen ist (§ 14 Abs. 1 S. 1 BeurkG)."
+ },
+ {
+  "id": "beur1-005",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Erklärungen, Vorlesen und besondere Verfahren",
+  "seite": "Anlagen und Verweisung auf andere Niederschriften (§§ 9, 13c, 14 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/erklarungen-vorlesen-und-besondere-verfahren/anlagen-und-verweisung-auf-andere-niederschriften-9-13c-14-beurkg",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 9 Abs. 1 S. 3 BeurkG",
+   "§ 13 Abs. 1 Hs. 2 BeurkG",
+   "§ 13c Abs. 4 BeurkG",
+   "§ 14 Abs. 1 S. 1 BeurkG"
+  ],
+  "frage": "Ordne die Verfahrensweise dem jeweiligen Gegenstand zu.",
+  "paare": [
+   [
+    "Beigefügter Lageplan mit Einzeichnung der Beteiligten",
+    "Wird statt des Vorlesens zur Durchsicht vorgelegt, genehmigt und beigefügt (§ 13 Abs. 1 Hs. 2 BeurkG)"
+   ],
+   [
+    "Von der Behörde mit Unterschrift und Siegel versehener Aufteilungsplan",
+    "Verweisung ohne Beifügen nach § 13c Abs. 4 BeurkG möglich"
+   ],
+   [
+    "Nachlassverzeichnis",
+    "Nur eingeschränkte Vorlesungspflicht nach § 14 Abs. 1 S. 1 BeurkG"
+   ],
+   [
+    "Baubeschreibung beim Neubauvertrag",
+    "Anlage, die mit ausdrücklicher Verweisung aufzunehmen und mitzuverlesen ist"
+   ]
+  ],
+  "erklaerung": "Karten und Zeichnungen werden nach § 9 Abs. 1 S. 3 BeurkG beurkundet, aber nach § 13 Abs. 1 Hs. 2 BeurkG zur Durchsicht vorgelegt statt vorgelesen. Behördlich gesiegelte Pläne können nach § 13c Abs. 4 BeurkG ohne Beifügen in Bezug genommen werden. Bestandsverzeichnisse unterliegen nach § 14 Abs. 1 S. 1 BeurkG nur einer eingeschränkten Vorlesungspflicht, während die Baubeschreibung als typische rechtsgeschäftliche Anlage vollständig mitverlesen wird."
+ },
+ {
+  "id": "beur1-006",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Erklärungen, Vorlesen und besondere Verfahren",
+  "seite": "Eheverträge, Verfügungen von Todes wegen und Gesellschaftsverträge: Verfahrensbesonderheiten",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/erklarungen-vorlesen-und-besondere-verfahren/ehevertrage-verfugungen-von-todes-wegen-und-gesellschaftsvertrage-verfahrensbesonderheiten",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1410 BGB"
+  ],
+  "frage": "Welche Anforderung stellt § 1410 BGB an die Beurkundung eines Ehevertrags?",
+  "optionen": [
+   "Die persönliche Anwesenheit beider Ehegatten; Vertretung ist ausgeschlossen.",
+   "Die gleichzeitige Anwesenheit beider Vertragsteile; Vertretung ist möglich.",
+   "Die Anwesenheit mindestens eines Ehegatten; der andere kann nachgenehmigen.",
+   "Die Anwesenheit beider Ehegatten und eines Zeugen."
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 1410 BGB verlangt die gleichzeitige, nicht aber die persönliche Anwesenheit der Ehegatten. Vertretung ist daher rechtlich möglich, wird aber in der Regel nicht empfohlen. Wer persönliche Anwesenheit und ein Vertretungsverbot annimmt, verwechselt den Ehevertrag mit der höchstpersönlichen Errichtung eines Testaments; eine Nachgenehmigung durch den abwesenden Ehegatten scheitert am Erfordernis der Gleichzeitigkeit."
+ },
+ {
+  "id": "beur1-007",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Erklärungen, Vorlesen und besondere Verfahren",
+  "seite": "Eheverträge, Verfügungen von Todes wegen und Gesellschaftsverträge: Verfahrensbesonderheiten",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/erklarungen-vorlesen-und-besondere-verfahren/ehevertrage-verfugungen-von-todes-wegen-und-gesellschaftsvertrage-verfahrensbesonderheiten",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 30 BeurkG",
+   "§ 17 BeurkG"
+  ],
+  "frage": "Ein Erblasser errichtet sein Testament durch Übergabe einer offenen Schrift. Was muss die Niederschrift nach § 30 BeurkG feststellen und was gilt für den Notar?",
+  "optionen": [
+   "Die Niederschrift muss den Inhalt der Schrift wiedergeben; der Notar darf sie nicht lesen.",
+   "Die Niederschrift muss feststellen, dass die Schrift übergeben wurde, und soll vermerken, ob offen oder verschlossen; von der offenen Schrift soll der Notar Kenntnis nehmen, dann gilt § 17 BeurkG.",
+   "Die Niederschrift muss die Unterschrift des Erblassers unter der Schrift beglaubigen; der Notar hat keine Prüfungspflicht.",
+   "Die Niederschrift soll vermerken, dass Zeugen zugezogen wurden; § 17 BeurkG ist ausgeschlossen."
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei Errichtung durch Übergabe einer Schrift (§§ 2232, 2276 BGB) gilt § 30 BeurkG: Die Niederschrift muss die Übergabe feststellen und soll vermerken, ob die Schrift offen oder verschlossen übergeben wurde. Von einer offen übergebenen Schrift soll der Notar Kenntnis nehmen, so dass dann die Prüfungs- und Belehrungspflicht nach § 17 BeurkG greift. Die Vorstellung, der Notar dürfe die offene Schrift nicht lesen oder habe keine Prüfungspflicht, kehrt die Rechtslage um."
+ },
+ {
+  "id": "beur1-008",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Erklärungen, Vorlesen und besondere Verfahren",
+  "seite": "Eheverträge, Verfügungen von Todes wegen und Gesellschaftsverträge: Verfahrensbesonderheiten",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/erklarungen-vorlesen-und-besondere-verfahren/ehevertrage-verfugungen-von-todes-wegen-und-gesellschaftsvertrage-verfahrensbesonderheiten",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 34a Abs. 1 BeurkG"
+  ],
+  "frage": "Ein Ehevertrag mit erbrechtlichen Auswirkungen ist eine erbfolgerelevante Urkunde, deren Verwahrangaben der Notar an das Zentrale Testamentsregister übermittelt.",
+  "antwort": true,
+  "erklaerung": "Hat ein Ehevertrag erbrechtliche Auswirkungen, ist er erbfolgerelevant, und der Notar übermittelt die Verwahrangaben nach § 34a Abs. 1 BeurkG an die Registerbehörde des Zentralen Testamentsregisters. Die Registrierungspflicht beschränkt sich also nicht auf Testamente und Erbverträge, was ein häufiger Irrtum ist."
+ },
+ {
+  "id": "beur1-009",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Erklärungen, Vorlesen und besondere Verfahren",
+  "seite": "Eheverträge, Verfügungen von Todes wegen und Gesellschaftsverträge: Verfahrensbesonderheiten",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/erklarungen-vorlesen-und-besondere-verfahren/ehevertrage-verfugungen-von-todes-wegen-und-gesellschaftsvertrage-verfahrensbesonderheiten",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 27 BeurkG"
+  ],
+  "frage": "Erblasser E möchte, dass Notar N sein Testamentsvollstrecker wird. Welche Vorgehensweise verstößt nach der Rechtsprechung des BGH nicht gegen die beurkundungsrechtlichen Vorschriften?",
+  "optionen": [
+   "N beurkundet das Testament mit seiner Ernennung zum Testamentsvollstrecker, weil § 27 BeurkG nur Zuwendungen erfasst.",
+   "E benennt N neben dem notariellen Testament eigenhändig als Testamentsvollstrecker, auch wenn N das empfohlen hat.",
+   "N beurkundet das Testament, lässt die Ernennung aber durch seinen Sozius als Anlage beurkunden.",
+   "N beurkundet das Testament, nachdem E auf die Zuziehung von Zeugen nach § 29 BeurkG verzichtet hat."
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 27 BeurkG schließt den Notar von der Beurkundung auch dann aus, wenn er zum Testamentsvollstrecker ernannt werden soll, nicht nur bei Zuwendungen. Nach dem BGH sind die beurkundungsrechtlichen Vorschriften aber nicht verletzt, wenn der Erblasser den Notar neben dem notariellen Testament eigenhändig als Testamentsvollstrecker benennt, selbst auf Empfehlung des Notars. Ein Verzicht auf Zeugen nach § 29 BeurkG hat mit dem Ausschlussgrund nichts zu tun."
+ },
+ {
+  "id": "beur1-010",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Erklärungen, Vorlesen und besondere Verfahren",
+  "seite": "Eheverträge, Verfügungen von Todes wegen und Gesellschaftsverträge: Verfahrensbesonderheiten",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/erklarungen-vorlesen-und-besondere-verfahren/ehevertrage-verfugungen-von-todes-wegen-und-gesellschaftsvertrage-verfahrensbesonderheiten",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 351 FamFG",
+   "§ 34 BeurkG"
+  ],
+  "frage": "Warum empfiehlt die Seite, auch Erbverträge in die besondere amtliche Verwahrung beim Amtsgericht zu geben?",
+  "optionen": [
+   "Weil ein Erbvertrag ohne amtliche Verwahrung unwirksam ist.",
+   "Weil die verwahrende Stelle nach 30 Jahren eine Ermittlungspflicht hat (§ 351 FamFG) und die Gefahr des Verlusts etwa durch Brand oder Hochwasser entfällt.",
+   "Weil der Notar Erbverträge nach § 34 BeurkG nicht selbst verwahren darf.",
+   "Weil die Registrierung im Zentralen Testamentsregister nur bei amtlicher Verwahrung möglich ist."
+  ],
+  "antwort": 1,
+  "erklaerung": "Schließen die Vertragschließenden die besondere amtliche Verwahrung aus, bleibt der Erbvertrag zulässigerweise in notarieller Verwahrung; die Verwahrung beim Notar ist also nicht verboten und der Erbvertrag nicht unwirksam. Die Seite empfiehlt die amtliche Verwahrung im Interesse der Amtsnachfolger wegen der Ermittlungspflicht nach 30 Jahren (§ 351 FamFG) sowie weil Suche und Verlustrisiko entfallen."
+ },
+ {
+  "id": "beur1-011",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Erklärungen, Vorlesen und besondere Verfahren",
+  "seite": "Grundstücksgeschäfte: Grundbucheinsicht und Hinweisvermerke (§§ 17–21 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/erklarungen-vorlesen-und-besondere-verfahren/grundstucksgeschafte-grundbucheinsicht-und-hinweisvermerke-17-21-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 21 Abs. 1 S. 2 BeurkG"
+  ],
+  "frage": "Unter welcher Voraussetzung darf der Notar ein Grundstücksgeschäft beurkunden, ohne sich über den Grundbuchinhalt unterrichtet zu haben?",
+  "optionen": [
+   "Wenn die Beteiligten nach Belehrung über die Risiken ausdrücklich darauf bestehen und dies in der Urkunde vermerkt wird.",
+   "Wenn der Verkäufer einen höchstens 6 Wochen alten beglaubigten Grundbuchauszug vorlegt.",
+   "Wenn der Kaufpreis erst nach Vorlage eines Grundbuchauszugs fällig wird; ein Vermerk ist entbehrlich.",
+   "Gar nicht; § 21 BeurkG ist eine Muss-Vorschrift."
+  ],
+  "antwort": 0,
+  "erklaerung": "Nach § 21 Abs. 1 S. 2 BeurkG darf der Notar ohne Grundbucheinsicht nur beurkunden, wenn die Beteiligten nach Belehrung über die Risiken ausdrücklich darauf bestehen; das ist in der Urkunde zu vermerken. Eine schadensvermeidende Vertragsgestaltung tritt hinzu, ersetzt aber Belehrung und Vermerk nicht; genau dieses Auslassen nennt die Seite als typischen Fehler. Die Vorlage eines beglaubigten Auszugs ist keine gesetzliche Anforderung, ein einfacher Auszug genügt regelmäßig."
+ },
+ {
+  "id": "beur1-012",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Erklärungen, Vorlesen und besondere Verfahren",
+  "seite": "Grundstücksgeschäfte: Grundbucheinsicht und Hinweisvermerke (§§ 17–21 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/erklarungen-vorlesen-und-besondere-verfahren/grundstucksgeschafte-grundbucheinsicht-und-hinweisvermerke-17-21-beurkg",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 21 Abs. 1 S. 1 BeurkG"
+  ],
+  "frage": "Zwischen Grundbucheinsicht und Beurkundung sollten höchstens 14 Tage liegen; Gerichte haben aber auch noch 6 Wochen akzeptiert.",
+  "antwort": true,
+  "erklaerung": "Die Seite nennt 14 Tage als Richtwert für die Aktualität der Einsicht nach § 21 Abs. 1 S. 1 BeurkG und weist darauf hin, dass Gerichte auch 6 Wochen noch akzeptiert haben. Wegen der elektronischen Einsichtsmöglichkeit sollte der Stand dennoch am Beurkundungstag nochmals abgefragt werden (Aktualitätsnachweis)."
+ },
+ {
+  "id": "beur1-013",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Erklärungen, Vorlesen und besondere Verfahren",
+  "seite": "Grundstücksgeschäfte: Grundbucheinsicht und Hinweisvermerke (§§ 17–21 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/erklarungen-vorlesen-und-besondere-verfahren/grundstucksgeschafte-grundbucheinsicht-und-hinweisvermerke-17-21-beurkg",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 17 Abs. 2 BeurkG",
+   "§ 18 BeurkG",
+   "§ 19 BeurkG",
+   "§ 20 BeurkG"
+  ],
+  "frage": "Ordne die in der Niederschrift zu vermerkenden Hinweise bei Grundstücksgeschäften der jeweiligen Norm zu.",
+  "paare": [
+   [
+    "§ 17 Abs. 2 BeurkG",
+    "Zweifel an der Wirksamkeit des Rechtsgeschäfts"
+   ],
+   [
+    "§ 18 BeurkG",
+    "Erforderliche Genehmigungen, ohne Pflicht zur Beschaffung"
+   ],
+   [
+    "§ 19 BeurkG",
+    "Eigentumsumschreibung setzt Unbedenklichkeitsbescheinigung des Finanzamts voraus"
+   ],
+   [
+    "§ 20 BeurkG",
+    "Gesetzliche Vorkaufsrechte, etwa nach BauGB oder Denkmalschutzrecht"
+   ]
+  ],
+  "erklaerung": "Die §§ 17 Abs. 2, 18, 19 und 20 BeurkG nennen die Hinweise, die bei Grundstücksgeschäften in der Niederschrift zu vermerken sind: Wirksamkeitszweifel, Genehmigungserfordernisse, Unbedenklichkeitsbescheinigung und gesetzliche Vorkaufsrechte. Bei Genehmigung und Vorkaufsrecht umfasst der Hinweis nicht die Pflicht, die Genehmigung oder Negativerklärung zu beschaffen."
+ },
+ {
+  "id": "beur1-014",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Erklärungen, Vorlesen und besondere Verfahren",
+  "seite": "Grundstücksgeschäfte: Grundbucheinsicht und Hinweisvermerke (§§ 17–21 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/erklarungen-vorlesen-und-besondere-verfahren/grundstucksgeschafte-grundbucheinsicht-und-hinweisvermerke-17-21-beurkg",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 17 Abs. 1 BeurkG",
+   "§ 21 Abs. 1 BeurkG"
+  ],
+  "frage": "Welche Belehrung bei Grundstücksgeschäften muss der Notar erteilen, ohne dass ein Vermerk in der Urkunde vorgeschrieben ist?",
+  "optionen": [
+   "Die Belehrung über gesetzliche Vorkaufsrechte.",
+   "Die Belehrung über das Barzahlungsverbot.",
+   "Die Belehrung über die Risiken einer Beurkundung ohne Grundbucheinsicht.",
+   "Die Belehrung über die mögliche Schenkungsteuerpflicht bei Zuwendungen unter Lebenden."
+  ],
+  "antwort": 1,
+  "erklaerung": "Die übrigen nach § 17 Abs. 1 BeurkG notwendigen Belehrungen müssen nicht zwingend in der Urkunde vermerkt werden; die Seite nennt als Beispiel das Barzahlungsverbot. Dagegen sind Vorkaufsrechte (§ 20 BeurkG), die Risikobelehrung bei fehlender Grundbucheinsicht (§ 21 Abs. 1 S. 2 BeurkG) und die mögliche Steuerpflicht bei Schenkungen (§ 8 ErbStDV) ausdrücklich zu vermerken."
+ },
+ {
+  "id": "beur1-015",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Erklärungen, Vorlesen und besondere Verfahren",
+  "seite": "Grundstücksgeschäfte: Grundbucheinsicht und Hinweisvermerke (§§ 17–21 BeurkG)",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/erklarungen-vorlesen-und-besondere-verfahren/grundstucksgeschafte-grundbucheinsicht-und-hinweisvermerke-17-21-beurkg",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 21 BeurkG"
+  ],
+  "frage": "Der Notar muss vor Beurkundung eines Grundstückskaufvertrags auch die Grundakten und das Baulastenverzeichnis einsehen.",
+  "antwort": false,
+  "erklaerung": "Grundakten, frühere Grundbücher und das Baulastenverzeichnis muss der Notar nicht einsehen; § 21 BeurkG betrifft den aktuellen Grundbuchinhalt. Er muss aber, soweit das Landesrecht Baulasten kennt, auf die Möglichkeit bestehender Baulasten hinweisen, und er muss belehren, wenn er aus übergebenen Unterlagen erkennt, dass Umstände außerhalb des Grundbuchs bedeutsam sind."
+ }
+]

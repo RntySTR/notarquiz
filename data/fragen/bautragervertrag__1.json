@@ -1,0 +1,357 @@
+[
+ {
+  "id": "baut1-001",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Abnahme, Mängel und Vollzug",
+  "seite": "Bauträgervertrag: Abnahme",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/abnahme-mangel-und-vollzug/bautragervertrag-abnahme",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 640 BGB",
+   "§ 634a Abs. 2 BGB"
+  ],
+  "frage": "Welche Rechtsfolge knüpft das Gesetz beim Bauträgervertrag an die Abnahme der Bauleistung nach § 640 BGB?",
+  "optionen": [
+   "Die zweijährige Verjährung der Mängelansprüche beginnt und die Beweislast für Mängel bleibt beim Bauträger.",
+   "Die fünfjährige Verjährung der Mängelansprüche beginnt und die Beweislast für Mängel geht auf den Erwerber über.",
+   "Das Eigentum am Grundstück geht kraft Gesetzes auf den Erwerber über.",
+   "Die Verjährung der Mängelansprüche beginnt erst mit der Eigentumsumschreibung im Grundbuch."
+  ],
+  "antwort": 1,
+  "erklaerung": "Mit der Abnahme beginnt die fünfjährige Verjährung der Mängelansprüche nach § 634a Abs. 2 BGB, und die Beweislast für Mängel geht vom Bauträger auf den Erwerber über. Die zweijährige Frist gilt nur kaufrechtlich für mitverkaufte bewegliche Sachen, nicht für die Bauleistung. Der Eigentumsübergang hängt nicht von der Abnahme, sondern von Auflassung und Eintragung ab; die Abnahme bewirkt beim Bauträgervertrag meist nur Übergabe mit Besitz und wirtschaftlichem Übergang."
+ },
+ {
+  "id": "baut1-002",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Abnahme, Mängel und Vollzug",
+  "seite": "Bauträgervertrag: Abnahme",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/abnahme-mangel-und-vollzug/bautragervertrag-abnahme",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 640 Abs. 1 S. 2 BGB"
+  ],
+  "frage": "Der Erwerber darf die Abnahme des Bauträgerobjekts bereits dann verweigern, wenn das Werk irgendeinen Mangel aufweist, weil der Bauträger ein mangelfreies Werk schuldet.",
+  "antwort": false,
+  "erklaerung": "Falsch. Abnahmereife setzt keine Mangelfreiheit voraus: Wegen unwesentlicher Mängel darf der Erwerber die Abnahme nach § 640 Abs. 1 S. 2 BGB nicht verweigern. Nur wesentliche Mängel, also solche, die die Gebrauchstauglichkeit beeinträchtigen, berechtigen zur Verweigerung; dazu kann auch das Fehlen von Bedienungsanleitungen oder einer Einweisung in technische Anlagen zählen."
+ },
+ {
+  "id": "baut1-003",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Abnahme, Mängel und Vollzug",
+  "seite": "Bauträgervertrag: Abnahme",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/abnahme-mangel-und-vollzug/bautragervertrag-abnahme",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 640 Abs. 2 BGB"
+  ],
+  "frage": "Unter welcher zusätzlichen Voraussetzung tritt die Abnahmefiktion nach § 640 Abs. 2 BGB gegenüber einem Verbraucher als Erwerber ein?",
+  "optionen": [
+   "Der Bauträger muss die Fristsetzung notariell beglaubigen lassen.",
+   "Der Bauträger muss mit der Aufforderung zur Abnahme in Textform auf die Folgen des Fristablaufs hingewiesen haben.",
+   "Der Verbraucher muss zuvor eine technische Abnahme durch einen Sachverständigen durchgeführt haben.",
+   "Die Frist muss mindestens vier Wochen betragen und schriftlich gesetzt werden."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 640 Abs. 2 BGB gilt das Werk als abgenommen, wenn der Besteller eine nach Fertigstellung gesetzte angemessene Frist verstreichen lässt, ohne die Abnahme unter Benennung wenigstens eines Mangels abzulehnen. Gegenüber Verbrauchern tritt die Fiktion nur ein, wenn der Unternehmer mit der Aufforderung in Textform auf die Folgen hingewiesen hat. Eine notarielle Form, eine Mindestfrist von vier Wochen oder eine vorherige technische Abnahme verlangt das Gesetz nicht; die Abnahme setzt gerade keine Prüfung des Werks voraus."
+ },
+ {
+  "id": "baut1-004",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Abnahme, Mängel und Vollzug",
+  "seite": "Bauträgervertrag: Abnahme",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/abnahme-mangel-und-vollzug/bautragervertrag-abnahme",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 640 Abs. 3 BGB",
+   "§ 634 Nr. 1 bis 3 BGB"
+  ],
+  "frage": "Der Erwerber kennt bei der Abnahme einen Mangel der Bauleistung und nimmt gleichwohl ohne Vorbehalt ab. Welche Folge hat dies nach § 640 Abs. 3 BGB?",
+  "optionen": [
+   "Die Abnahme ist wegen des bekannten Mangels unwirksam.",
+   "Der Erwerber verliert alle Mängelrechte einschließlich des Schadensersatzanspruchs.",
+   "Der Erwerber behält die Rechte auf Nacherfüllung, Selbstvornahme, Rücktritt und Minderung nach § 634 Nr. 1 bis 3 BGB nicht.",
+   "Die Verjährung der Mängelansprüche für diesen Mangel beginnt erst mit der Mängelrüge."
+  ],
+  "antwort": 2,
+  "erklaerung": "Nimmt der Besteller ein Werk in Kenntnis eines Mangels ab, behält er die Rechte nach § 634 Nr. 1 bis 3 BGB nur, wenn er sie sich bei der Abnahme vorbehält (§ 640 Abs. 3 BGB). Der Rechtsverlust betrifft also nur Nacherfüllung, Selbstvornahme, Rücktritt und Minderung, nicht den Schadensersatz nach § 634 Nr. 4 BGB; die Option, alle Rechte gingen verloren, geht zu weit. Die Abnahme selbst bleibt wirksam."
+ },
+ {
+  "id": "baut1-005",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Abnahme, Mängel und Vollzug",
+  "seite": "Bauträgervertrag: Abnahme",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/abnahme-mangel-und-vollzug/bautragervertrag-abnahme",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 640 Abs. 1 S. 2 BGB",
+   "§ 640 Abs. 2 BGB",
+   "§ 640 Abs. 3 BGB"
+  ],
+  "frage": "Einzug ohne förmliche Abnahme",
+  "sachverhalt": "Verbraucher E erwirbt von der B-GmbH eine Eigentumswohnung im Bauträgervertrag. Der Vertrag sieht eine förmliche Abnahme mit gemeinsamem Protokoll vor, ohne andere Abnahmeformen ausdrücklich zuzulassen. Nach Fertigstellung übergibt B die Schlüssel; E zieht ein und nutzt die Wohnung vier Monate ohne Beanstandung, ein Abnahmetermin findet nicht statt. B fordert E danach in Textform unter Fristsetzung von drei Wochen zur Abnahme auf und weist auf die Folgen des Fristablaufs hin; E reagiert nicht. Bei der Schlüsselübergabe hatte E bereits bemerkt, dass die Terrassentür nicht schließt, dies aber nicht erwähnt.",
+  "schritte": [
+   {
+    "frage": "Ist durch den Einzug und die viermonatige beanstandungslose Nutzung eine schlüssige Abnahme eingetreten?",
+    "optionen": [
+     "Ja, die Ingebrauchnahme ohne Beanstandung ist stets eine konkludente Abnahme.",
+     "Nein, die vereinbarte förmliche Abnahme verdrängt grundsätzlich die schlüssige Abnahme durch Nutzung.",
+     "Ja, weil § 640 BGB keine Form vorschreibt und damit jede Vertragsregelung zur Form unbeachtlich ist.",
+     "Nein, weil eine Abnahme ohne vorherige Prüfung des Werks nie wirksam ist."
+    ],
+    "antwort": 1,
+    "erklaerung": "§ 640 BGB schreibt zwar keine Form vor, die Beteiligten können aber eine förmliche Abnahme vereinbaren. Diese Vereinbarung verdrängt grundsätzlich andere Abnahmeformen, insbesondere die schlüssige Abnahme durch Nutzung ohne Beanstandung. Eine Prüfungspflicht besteht dagegen nicht; dass E nicht geprüft hat, wäre kein Hindernis."
+   },
+   {
+    "frage": "Welche Wirkung hat der Ablauf der von B gesetzten Dreiwochenfrist?",
+    "optionen": [
+     "Keine, weil die Abnahmefiktion gegenüber Verbrauchern ausgeschlossen ist.",
+     "Das Werk gilt nach § 640 Abs. 2 BGB als abgenommen, da E die Abnahme nicht unter Benennung wenigstens eines Mangels abgelehnt hat und der Hinweis in Textform erfolgte.",
+     "Keine, weil eine Abnahmefiktion nur bei einer Frist von mindestens einem Monat eintritt.",
+     "Das Werk gilt als abgenommen, E kann die Abnahme aber binnen zwei Wochen widerrufen."
+    ],
+    "antwort": 1,
+    "erklaerung": "Nach § 640 Abs. 2 BGB gilt das Werk als abgenommen, wenn der Besteller eine nach Fertigstellung gesetzte angemessene Frist verstreichen lässt, ohne die Abnahme unter Benennung wenigstens eines Mangels abzulehnen. Bei Verbrauchern ist zusätzlich der Hinweis auf die Folgen in Textform erforderlich, den B erteilt hat. Eine gesetzliche Mindestfrist von einem Monat oder ein Widerrufsrecht gibt es nicht."
+   },
+   {
+    "frage": "Kann E wegen der nicht schließenden Terrassentür noch Nacherfüllung verlangen?",
+    "optionen": [
+     "Ja, uneingeschränkt, weil die Abnahme die Mängelrechte nicht berührt.",
+     "Nein, E hat nach § 640 Abs. 3 BGB die Rechte aus § 634 Nr. 1 bis 3 BGB verloren, weil er den bekannten Mangel bei der Abnahme nicht vorbehalten hat.",
+     "Nein, weil mit der Abnahme sämtliche Mängelrechte einschließlich Schadensersatz erlöschen.",
+     "Ja, weil die Verjährung von fünf Jahren nach § 634a Abs. 2 BGB noch läuft."
+    ],
+    "antwort": 1,
+    "erklaerung": "E kannte den Mangel bei der Abnahme. Nach § 640 Abs. 3 BGB behält der Besteller die Rechte nach § 634 Nr. 1 bis 3 BGB, darunter die Nacherfüllung, nur bei Vorbehalt. Die laufende Verjährung ändert daran nichts, und ein vollständiger Verlust aller Mängelrechte tritt ebenfalls nicht ein, da § 640 Abs. 3 BGB den Schadensersatz nicht erfasst."
+   }
+  ],
+  "erklaerung": "Die vereinbarte förmliche Abnahme schließt die konkludente Abnahme durch Nutzung aus, sodass es erst durch die Fristsetzung mit Textform-Hinweis zur Abnahmefiktion nach § 640 Abs. 2 BGB kommt. Für den bei Abnahme bekannten, nicht vorbehaltenen Mangel verliert E nach § 640 Abs. 3 BGB die Rechte aus § 634 Nr. 1 bis 3 BGB. Der Notar sollte die Abnahmepflicht bei Abnahmereife ausdrücklich regeln und festlegen, ob neben der förmlichen Abnahme andere Abnahmeformen möglich bleiben."
+ },
+ {
+  "id": "baut1-006",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Abnahme, Mängel und Vollzug",
+  "seite": "Bauträgervertrag: Änderungsvollmacht zur Teilungserklärung",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/abnahme-mangel-und-vollzug/bautragervertrag-anderungsvollmacht-zur-teilungserklarung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 308 Nr. 4 BGB"
+  ],
+  "frage": "Welche Anforderung stellt der BGH (V ZR 91/25) an eine formularmäßige Vollmacht des Erwerbers, mit der der teilende Bauträger die Teilungserklärung nach Vertragsschluss ändern darf?",
+  "optionen": [
+   "Die Vollmacht muss auf höchstens zwei Jahre nach Vertragsschluss befristet sein.",
+   "Die Klausel muss erkennen lassen, dass die Änderung von triftigen Gründen abhängt, und diese Gründe benennen.",
+   "Die Vollmacht bedarf der Zustimmung aller bereits vorgemerkten Erwerber.",
+   "Die Klausel muss eine Entschädigung des Erwerbers für jede Änderung vorsehen."
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach BGH vom 23.1.2026 – V ZR 91/25 muss die Klausel erkennen lassen, dass die Änderung von triftigen Gründen abhängt, und diese Gründe benennen; deren Voraussetzungen müssen die Interessen des Erwerbers erkennbar angemessen berücksichtigen. Maßstab ist wie bei Abweichungen der Bauausführung § 308 Nr. 4 BGB. Eine Befristung, eine Entschädigungspflicht oder die Zustimmung anderer Erwerber verlangt die Entscheidung nicht."
+ },
+ {
+  "id": "baut1-007",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Abnahme, Mängel und Vollzug",
+  "seite": "Bauträgervertrag: Änderungsvollmacht zur Teilungserklärung",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/abnahme-mangel-und-vollzug/bautragervertrag-anderungsvollmacht-zur-teilungserklarung",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 308 Nr. 4 BGB"
+  ],
+  "frage": "Ordne die Aspekte der Änderungsvollmacht zur Teilungserklärung der jeweils zutreffenden Aussage zu.",
+  "paare": [
+   [
+    "Außenverhältnis",
+    "Keine Berechtigung zu Änderungen an Lage und Größe des Sondereigentums und an Sondernutzungsrechten des Erwerbers"
+   ],
+   [
+    "Innenverhältnis",
+    "Gemeinschaftseigentum darf wirtschaftlich nicht unzumutbar geschmälert werden; Qualität, Wert und Gebrauchstauglichkeit dürfen sich nicht verschlechtern"
+   ],
+   [
+    "Triftige Gründe",
+    "Erfüllung behördlicher Auflagen, Sicherung der Erschließung, Behebung von Planungsfehlern, Sonderwünsche anderer Erwerber"
+   ],
+   [
+    "AGB-Kontrolle",
+    "Prüfungsmaßstab ist § 308 Nr. 4 BGB wie bei Abweichungen der Bauausführung"
+   ]
+  ],
+  "erklaerung": "Für Sondereigentum und Sondernutzungsrechte des Erwerbers sollte die Vollmacht bereits im Außenverhältnis beschränkt sein. Außerhalb davon wird der Gebrauch im Innenverhältnis begrenzt, damit das Gemeinschaftseigentum nicht unzumutbar geschmälert wird und sich das Kaufobjekt nicht verschlechtert. Die vom BGH genannten triftigen Gründe sind Beispiele; die AGB-Grenze ergibt sich aus § 308 Nr. 4 BGB."
+ },
+ {
+  "id": "baut1-008",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Abnahme, Mängel und Vollzug",
+  "seite": "Bauträgervertrag: Änderungsvollmacht zur Teilungserklärung",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/abnahme-mangel-und-vollzug/bautragervertrag-anderungsvollmacht-zur-teilungserklarung",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 308 Nr. 4 BGB"
+  ],
+  "frage": "Die vom BGH in V ZR 91/25 genannten triftigen Gründe (behördliche Auflagen, Sicherung der Erschließung, Behebung von Planungsfehlern, Sonderwünsche anderer Erwerber) sind abschließend, sodass die Klausel keine weiteren Gründe aufnehmen darf.",
+  "antwort": false,
+  "erklaerung": "Falsch. Die Aufzählung der triftigen Gründe ist nicht abschließend. Der Notar sollte deshalb beim Bauträger erfragen, welche weiteren triftigen Gründe im konkreten Vorhaben in Betracht kommen, und sie in der Klausel benennen. Entscheidend bleibt, dass die Klausel die Abhängigkeit von triftigen Gründen erkennen lässt und die Interessen des Erwerbers angemessen berücksichtigt (§ 308 Nr. 4 BGB)."
+ },
+ {
+  "id": "baut1-009",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Abnahme, Mängel und Vollzug",
+  "seite": "Bauträgervertrag: Auflassung und Sicherung des Bauträgers",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/abnahme-mangel-und-vollzug/bautragervertrag-auflassung-und-sicherung-des-bautragers",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 51 Abs. 2 BeurkG",
+   "§ 49 Abs. 5 BeurkG",
+   "§ 42 Abs. 3 BeurkG"
+  ],
+  "frage": "Wie funktioniert die Ausfertigungssperre zur Sicherung des Bauträgers bis zur Zahlung?",
+  "optionen": [
+   "Die Auflassung wird erst nach Zahlung durch Notarangestellte aufgrund Vollmacht erklärt.",
+   "Auflassung und Bewilligung werden sofort erklärt; der Notar wird angewiesen, bis zur Umschreibung grundbuchfähige Abschriften nur auszugsweise ohne die Auflassung zu erteilen.",
+   "Die Bewilligung des Bauträgers steht unter der aufschiebenden Bedingung des Umschreibungsantrags des Notars in Eigenurkunde.",
+   "Das Grundbuchamt wird angewiesen, den Umschreibungsantrag bis zur Zahlungsbestätigung zurückzustellen."
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei der Ausfertigungssperre werden Auflassung und Bewilligung sofort im Vertrag erklärt; die Beteiligten weisen den Notar an, bis zur Eigentumsumschreibung grundbuchfähige Abschriften nur auszugsweise ohne die Auflassung zu erteilen (§§ 51 Abs. 2, 49 Abs. 5, 42 Abs. 3 BeurkG). So kann der Erwerber die Umschreibung nicht vor Zahlung herbeiführen. Die spätere Erklärung durch Notarangestellte kennzeichnet die getrennte Auflassung, die bedingte Bewilligung die zweite Form der Bewilligungssperre."
+ },
+ {
+  "id": "baut1-010",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Abnahme, Mängel und Vollzug",
+  "seite": "Bauträgervertrag: Auflassung und Sicherung des Bauträgers",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/abnahme-mangel-und-vollzug/bautragervertrag-auflassung-und-sicherung-des-bautragers",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 925 BGB"
+  ],
+  "frage": "Beim Bauträgervertrag darf das Eigentum ausnahmslos erst nach vollständiger Kaufpreiszahlung auf den Erwerber übergehen.",
+  "antwort": false,
+  "erklaerung": "Falsch. Grundsätzlich geht das Eigentum wie beim gewöhnlichen Immobilienkauf erst nach Kaufpreiszahlung über. Eine Ausnahme gilt aber, wenn der Bau steckenbleibt: Dann kann der Erwerber die vorzeitige Umschreibung verlangen. Die Sicherungsgestaltungen (getrennte Auflassung, Ausfertigungssperre, Bewilligungssperre) müssen diese Ausnahme berücksichtigen."
+ },
+ {
+  "id": "baut1-011",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Abnahme, Mängel und Vollzug",
+  "seite": "Bauträgervertrag: Auflassung und Sicherung des Bauträgers",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/abnahme-mangel-und-vollzug/bautragervertrag-auflassung-und-sicherung-des-bautragers",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 19 GBO"
+  ],
+  "frage": "Welche Aussage zur Bewilligungssperre beim Bauträgervertrag ist zutreffend?",
+  "optionen": [
+   "Die Bewilligungssperre setzt voraus, dass die Auflassung erst nach Zahlung durch Notarangestellte erklärt wird.",
+   "In der ersten Form bewilligt der Notar die Eintragung selbst aufgrund unwiderruflicher Vollmacht und Anweisung; in der zweiten Form ist die Bewilligung des Bauträgers aufschiebend bedingt durch den Umschreibungsantrag des Notars in Eigenurkunde.",
+   "Die Bewilligungssperre ist beim Bauträgervertrag wegen des Vorleistungsverbots der MaBV unzulässig.",
+   "Die Bewilligungssperre ersetzt die Auflassung, die erst mit dem Umschreibungsantrag als erklärt gilt."
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei der Bewilligungssperre wird die Auflassung sofort erklärt und die Umschreibung über die Bewilligung gesteuert: Entweder bewilligt der Notar selbst aufgrund unwiderruflicher Bevollmächtigung und Anweisung, oder die Bewilligung des Bauträgers ist aufschiebend bedingt durch den Umschreibungsantrag des Notars in Eigenurkunde. Die spätere Erklärung der Auflassung durch Angestellte ist die getrennte Auflassung, nicht die Bewilligungssperre. Die MaBV steht diesen Gestaltungen nicht entgegen; sie sind auch beim Bauträgervertrag zulässig."
+ },
+ {
+  "id": "baut1-012",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Abnahme, Mängel und Vollzug",
+  "seite": "Bauträgervertrag: Rechts- und Sachmängel",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/abnahme-mangel-und-vollzug/bautragervertrag-rechts-und-sachmangel",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 433 Abs. 1 S. 2 BGB",
+   "§ 434 BGB",
+   "§ 634 BGB"
+  ],
+  "frage": "Welches Haftungsregime gilt beim Bauträgervertrag für Sachmängel?",
+  "optionen": [
+   "Einheitlich Werkvertragsrecht für Grundstück und Bauleistung, weil der Bauträgervertrag ein Werkvertrag ist.",
+   "Einheitlich Kaufrecht, weil der Bauträgervertrag der notariellen Beurkundung wie ein Kaufvertrag bedarf.",
+   "Für den Grundbesitz Kaufrecht, für die Bauleistung Werkvertragsrecht.",
+   "Für den Grundbesitz Werkvertragsrecht, für die Bauleistung Kaufrecht."
+  ],
+  "antwort": 2,
+  "erklaerung": "Bei Sachmängeln ist zu trennen: Für den Grundbesitz gilt Kaufrecht (§ 433 Abs. 1 S. 2, § 434 BGB), für die Bauleistung Werkvertragsrecht mit den Mängelrechten des § 634 BGB. Ein einheitliches Regime gibt es nicht; die Beurkundungspflicht sagt über das Haftungsrecht nichts aus. Die Trennung ist wichtig, weil nur das Werkvertragsrecht die Selbstvornahme nach §§ 634 Nr. 2, 637 BGB kennt."
+ },
+ {
+  "id": "baut1-013",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Abnahme, Mängel und Vollzug",
+  "seite": "Bauträgervertrag: Rechts- und Sachmängel",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/abnahme-mangel-und-vollzug/bautragervertrag-rechts-und-sachmangel",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 434 BGB",
+   "§ 634 BGB",
+   "§ 309 Nr. 8 Buchst. b BGB"
+  ],
+  "frage": "Der Bauträgervertrag schließt die Haftung für Sachmängel des Grundstücks aus. Nach Fertigstellung stellt sich heraus, dass Altlasten im Boden die Nutzung des Gebäudes einschränken. Greift der Haftungsausschluss?",
+  "optionen": [
+   "Ja, weil Bodenverunreinigungen Sachmängel des Grundstücks sind, für die Kaufrecht und damit der Ausschluss gilt.",
+   "Nein, weil ein Haftungsausschluss für Sachmängel des Grundstücks beim Bauträgervertrag generell unzulässig ist.",
+   "Nein, weil sich der Grundstücksmangel auf das Bauwerk auswirkt und insoweit die werkvertragliche Haftung gilt, die sich regelmäßig nicht beschränken lässt.",
+   "Ja, weil der Erwerber das Grundstück vor Vertragsschluss hätte untersuchen müssen."
+  ],
+  "antwort": 2,
+  "erklaerung": "Ein Ausschluss der Sachmängelhaftung für das Grundstück ist grundsätzlich möglich, da Kaufrecht gilt. Wirkt sich der Grundstücksmangel aber auf das Bauwerk aus, gilt insoweit die werkvertragliche Haftung, die sich regelmäßig nicht beschränken lässt. Hauptfall sind Altlasten, die die Nutzung des Gebäudes ausschließen oder einschränken. Die Option, der Ausschluss sei generell unzulässig, verkennt, dass er für reine Grundstücksmängel wirksam bleibt."
+ },
+ {
+  "id": "baut1-014",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Abnahme, Mängel und Vollzug",
+  "seite": "Bauträgervertrag: Rechts- und Sachmängel",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/abnahme-mangel-und-vollzug/bautragervertrag-rechts-und-sachmangel",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 433 Abs. 1 S. 2 BGB",
+   "§ 634 BGB",
+   "§ 309 Nr. 8 Buchst. b BGB"
+  ],
+  "frage": "Ordne die Vertragsgegenstände des Bauträgervertrags der zutreffenden Haftungsaussage zu.",
+  "paare": [
+   [
+    "Grundstück",
+    "Kaufrecht; Haftungsausschluss für Sachmängel grundsätzlich möglich"
+   ],
+   [
+    "Bauleistung",
+    "Werkvertragsrecht nach § 634 BGB; Haftungsbeschränkungen regelmäßig nach § 309 Nr. 8 Buchst. b BGB unwirksam"
+   ],
+   [
+    "Neue mitverkaufte bewegliche Sachen",
+    "Kaufrecht; Haftungsausschluss unzulässig, Verjährung zwei Jahre"
+   ],
+   [
+    "Rechte Dritter in Abteilung II und III",
+    "Rechtsmangel, sofern nicht die Übernahme im Vertrag geregelt ist"
+   ]
+  ],
+  "erklaerung": "Für das Grundstück gilt Kaufrecht mit grundsätzlich möglichem Haftungsausschluss, für die Bauleistung Werkvertragsrecht ohne wirksame Beschränkungsmöglichkeit (§ 309 Nr. 8 Buchst. b BGB). Neue bewegliche Sachen unterliegen Kaufrecht mit zweijähriger Verjährung statt der fünf Jahre für Bauleistungen; ein Haftungsausschluss ist unzulässig. Belastungen in Abteilung II und III, Mietverhältnisse und Sozialbindungen sind Rechtsmängel, deren Übernahme der Vertrag regeln muss."
+ },
+ {
+  "id": "baut1-015",
+  "kapitel": "bautragervertrag",
+  "abschnitt": "Abnahme, Mängel und Vollzug",
+  "seite": "Bauträgervertrag: Rechts- und Sachmängel",
+  "quelle": "handbuch-mit-notarwissen/bautragervertrag/abnahme-mangel-und-vollzug/bautragervertrag-rechts-und-sachmangel",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 634 BGB",
+   "§ 309 Nr. 8 Buchst. b BGB"
+  ],
+  "frage": "Da Haftungsbeschränkungen für Bauleistungen regelmäßig unwirksam sind, muss der Bauträgervertrag für die Bauleistung eine eigene, ausformulierte Haftungsregelung enthalten; ein bloßer Hinweis auf das Werkvertragsrecht genügt nicht.",
+  "antwort": false,
+  "erklaerung": "Falsch. Für die Bauleistung genügt im Vertrag ein Hinweis auf das Werkvertragsrecht; eine eigene Haftungsregelung ist nicht erforderlich, weil die Mängelrechte des § 634 BGB gelten und Beschränkungen nach § 309 Nr. 8 Buchst. b BGB ohnehin regelmäßig unwirksam sind. Wichtiger ist, dass der Vertrag die geschuldete Beschaffenheit und die zu erbringenden Bauleistungen genau beschreibt, da der Bauträger nur das Vereinbarte schuldet."
+ }
+]

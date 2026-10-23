@@ -1,0 +1,119 @@
+{
+ "kapitel": "grundpfandrechte",
+ "kapitel_titel": "Grundpfandrechte",
+ "teil": 1,
+ "teile": 1,
+ "datei": "data/fragen/grundpfandrechte__1.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/grundpfandrechte/grundlagen-und-loschungsanspruch/grundpfandrechte-arten-schuld-und-haftung-form-der-bestellung",
+   "titel": "Grundpfandrechte: Arten, Schuld und Haftung, Form der Bestellung",
+   "abschnitt": "Grundlagen und Löschungsanspruch"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundpfandrechte/grundlagen-und-loschungsanspruch/loschungsanspruch-gesetzlicher-loschungsanspruch-nach-1179a-bgb",
+   "titel": "Löschungsanspruch: gesetzlicher Löschungsanspruch nach § 1179a BGB",
+   "abschnitt": "Grundlagen und Löschungsanspruch"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundpfandrechte/grundlagen-und-loschungsanspruch/loschungsanspruch-loschung-des-eigenen-rechts-und-loschungsvormerkung-1179b-1179-bgb",
+   "titel": "Löschungsanspruch: Löschung des eigenen Rechts und Löschungsvormerkung (§§ 1179b, 1179 BGB)",
+   "abschnitt": "Grundlagen und Löschungsanspruch"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/grundschuld-abstraktes-schuldanerkenntnis-und-personliche-unterwerfung",
+   "titel": "Grundschuld: abstraktes Schuldanerkenntnis und persönliche Unterwerfung",
+   "abschnitt": "Grundschuld"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/grundschuld-abstraktheit-unterschiede-zur-hypothek-brief-und-buchrecht-abtretung",
+   "titel": "Grundschuld: Abstraktheit, Unterschiede zur Hypothek, Brief- und Buchrecht, Abtretung",
+   "abschnitt": "Grundschuld"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/grundschuld-eigentumergrundschuld-1196-bgb",
+   "titel": "Grundschuld: Eigentümergrundschuld (§ 1196 BGB)",
+   "abschnitt": "Grundschuld"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/sicherungsgrundschuld-ruckgewahranspruch-und-zahlungen",
+   "titel": "Sicherungsgrundschuld: Rückgewähranspruch und Zahlungen",
+   "abschnitt": "Grundschuld"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/sicherungsgrundschuld-sicherungsvertrag-und-einreden",
+   "titel": "Sicherungsgrundschuld: Sicherungsvertrag und Einreden",
+   "abschnitt": "Grundschuld"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundpfandrechte/grundschuld/sicherungsgrundschuld-zweckerklarung-kaufpreisfinanzierung-und-dingliche-zinsen",
+   "titel": "Sicherungsgrundschuld: Zweckerklärung, Kaufpreisfinanzierung und dingliche Zinsen",
+   "abschnitt": "Grundschuld"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-begriff-schuld-und-haftung-akzessorietat",
+   "titel": "Hypothek: Begriff, Schuld und Haftung, Akzessorietät",
+   "abschnitt": "Hypothek"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-brief-und-buchhypothek-entstehung",
+   "titel": "Hypothek: Brief- und Buchhypothek, Entstehung",
+   "abschnitt": "Hypothek"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-eigentumergrundschuld-und-eigentumerhypothek-kraft-gesetzes",
+   "titel": "Hypothek: Eigentümergrundschuld und Eigentümerhypothek kraft Gesetzes",
+   "abschnitt": "Hypothek"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-einreden-und-einwendungen-des-eigentumers",
+   "titel": "Hypothek: Einreden und Einwendungen des Eigentümers",
+   "abschnitt": "Hypothek"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-geltendmachung-und-hypothekenbrief",
+   "titel": "Hypothek: Geltendmachung und Hypothekenbrief",
+   "abschnitt": "Hypothek"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-gesamthypothek-und-bruchteilshypothek",
+   "titel": "Hypothek: Gesamthypothek und Bruchteilshypothek",
+   "abschnitt": "Hypothek"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-gesicherte-forderung-und-inhalt-der-eintragung",
+   "titel": "Hypothek: gesicherte Forderung und Inhalt der Eintragung",
+   "abschnitt": "Hypothek"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-gutglaubiger-erwerb",
+   "titel": "Hypothek: gutgläubiger Erwerb",
+   "abschnitt": "Hypothek"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-haftungsverband-und-enthaftung",
+   "titel": "Hypothek: Haftungsverband und Enthaftung",
+   "abschnitt": "Hypothek"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-tilgung-ablosung-und-erloschen",
+   "titel": "Hypothek: Tilgung, Ablösung und Erlöschen",
+   "abschnitt": "Hypothek"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/hypothek-ubertragung",
+   "titel": "Hypothek: Übertragung",
+   "abschnitt": "Hypothek"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/sicherungshypothek-und-hochstbetragshypothek",
+   "titel": "Sicherungshypothek und Höchstbetragshypothek",
+   "abschnitt": "Hypothek"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/grundpfandrechte/hypothek/sicherungshypothek-bauhandwerker-zwangs-arrest-und-steuerhypothek",
+   "titel": "Sicherungshypothek: Bauhandwerker-, Zwangs-, Arrest- und Steuerhypothek",
+   "abschnitt": "Hypothek"
+  }
+ ]
+}

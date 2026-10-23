@@ -1,0 +1,99 @@
+{
+ "kapitel": "notariatsorganisation",
+ "kapitel_titel": "Notariatsorganisation",
+ "teil": 2,
+ "teile": 2,
+ "datei": "data/fragen/notariatsorganisation__2.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-kapitalgesellschaften-54-estdv",
+   "titel": "Anzeigepflichten: Kapitalgesellschaften (§ 54 EStDV)",
+   "abschnitt": "Anzeige- und Mitteilungspflichten"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/mitteilungspflichten-gutachterausschuss-und-transparenzregister",
+   "titel": "Mitteilungspflichten: Gutachterausschuss und Transparenzregister",
+   "abschnitt": "Anzeige- und Mitteilungspflichten"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/cloud-dienste-im-notariat-verschwiegenheit-dsgvo-microsoft-365-und-auslagerung",
+   "titel": "Cloud-Dienste im Notariat: Verschwiegenheit, DSGVO, Microsoft 365 und Auslagerung",
+   "abschnitt": "Datenschutz"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/cloud-nutzung-im-notariat-berufsrechtliche-grenzen-35-bnoto",
+   "titel": "Cloud-Nutzung im Notariat: berufsrechtliche Grenzen (§ 35 BNotO)",
+   "abschnitt": "Datenschutz"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-auftragsverarbeitung-und-cloud-dienste",
+   "titel": "Datenschutz: Auftragsverarbeitung und Cloud-Dienste",
+   "abschnitt": "Datenschutz"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-betroffenenrechte-auskunft-und-loschung",
+   "titel": "Datenschutz: Betroffenenrechte, Auskunft und Löschung",
+   "abschnitt": "Datenschutz"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-datenschutzverletzung-meldung-und-benachrichtigung",
+   "titel": "Datenschutz: Datenschutzverletzung, Meldung und Benachrichtigung",
+   "abschnitt": "Datenschutz"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-informationspflichten",
+   "titel": "Datenschutz: Informationspflichten",
+   "abschnitt": "Datenschutz"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-it-sicherheit-und-social-engineering",
+   "titel": "Datenschutz: IT-Sicherheit und Social Engineering",
+   "abschnitt": "Datenschutz"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-personenbezogene-daten-und-besondere-kategorien",
+   "titel": "Datenschutz: personenbezogene Daten und besondere Kategorien",
+   "abschnitt": "Datenschutz"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-rechtsgrundlagen-der-verarbeitung-und-einwilligung",
+   "titel": "Datenschutz: Rechtsgrundlagen der Verarbeitung und Einwilligung",
+   "abschnitt": "Datenschutz"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-rechtsquellen-und-verhaltnis-zur-verschwiegenheitspflicht",
+   "titel": "Datenschutz: Rechtsquellen und Verhältnis zur Verschwiegenheitspflicht",
+   "abschnitt": "Datenschutz"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-systemsicherheit-datensicherung-und-e-mail",
+   "titel": "Datenschutz: Systemsicherheit, Datensicherung und E-Mail",
+   "abschnitt": "Datenschutz"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/datenschutz/datenschutz-technisch-organisatorische-massnahmen",
+   "titel": "Datenschutz: technisch-organisatorische Maßnahmen",
+   "abschnitt": "Datenschutz"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/arbeitsrecht-im-notariat-betriebliche-ubung-und-freiwilligkeitsvorbehalt",
+   "titel": "Arbeitsrecht im Notariat: betriebliche Übung und Freiwilligkeitsvorbehalt",
+   "abschnitt": "(Seiten direkt im Kapitel)"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/arbeitsrecht-im-notariat-fortbildungsvereinbarungen-und-ruckzahlungsklauseln",
+   "titel": "Arbeitsrecht im Notariat: Fortbildungsvereinbarungen und Rückzahlungsklauseln",
+   "abschnitt": "(Seiten direkt im Kapitel)"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/arbeitsrecht-im-notariat-nachweis-in-textform-und-entgelttransparenz",
+   "titel": "Arbeitsrecht im Notariat: Nachweis in Textform und Entgelttransparenz",
+   "abschnitt": "(Seiten direkt im Kapitel)"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/arbeitsrecht-im-notariat-uberstunden-pflicht-vergutung-und-abgeltung",
+   "titel": "Arbeitsrecht im Notariat: Überstunden – Pflicht, Vergütung und Abgeltung",
+   "abschnitt": "(Seiten direkt im Kapitel)"
+  }
+ ]
+}

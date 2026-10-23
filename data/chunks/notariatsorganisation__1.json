@@ -1,0 +1,104 @@
+{
+ "kapitel": "notariatsorganisation",
+ "kapitel_titel": "Notariatsorganisation",
+ "teil": 1,
+ "teile": 2,
+ "datei": "data/fragen/notariatsorganisation__1.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/akten-und-verzeichnisse-aufbewahrungsfristen",
+   "titel": "Akten und Verzeichnisse: Aufbewahrungsfristen",
+   "abschnitt": "Akten und Verzeichnisse"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/akten-und-verzeichnisse-rechtsgrundlagen-und-schutzziele",
+   "titel": "Akten und Verzeichnisse: Rechtsgrundlagen und Schutzziele",
+   "abschnitt": "Akten und Verzeichnisse"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/akten-und-verzeichnisse-rechtslage-bis-2021-donot-und-ubergang",
+   "titel": "Akten und Verzeichnisse: Rechtslage bis 2021 (DONot) und Übergang",
+   "abschnitt": "Akten und Verzeichnisse"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/nebenakten-anlass-inhalt-und-fuhrung-in-papierform",
+   "titel": "Nebenakten: Anlass, Inhalt und Führung in Papierform",
+   "abschnitt": "Akten und Verzeichnisse"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/nebenakten-elektronische-fuhrung-misch-und-parallelfuhrung",
+   "titel": "Nebenakten: elektronische Führung, Misch- und Parallelführung",
+   "abschnitt": "Akten und Verzeichnisse"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/nebenakten-verwahrungsgeschafte",
+   "titel": "Nebenakten: Verwahrungsgeschäfte",
+   "abschnitt": "Akten und Verzeichnisse"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundensammlung-elektronisch-und-in-papierform",
+   "titel": "Urkundensammlung: elektronisch und in Papierform",
+   "abschnitt": "Akten und Verzeichnisse"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundensammlung-gleichlauf-sondersammlung-vermerke-und-nachtrage",
+   "titel": "Urkundensammlung: Gleichlauf, Sondersammlung, Vermerke und Nachträge",
+   "abschnitt": "Akten und Verzeichnisse"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundenverzeichnis-uvz",
+   "titel": "Urkundenverzeichnis (UVZ)",
+   "abschnitt": "Akten und Verzeichnisse"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundenverzeichnis-angaben-bei-verfugungen-von-todes-wegen-16-notaktvv",
+   "titel": "Urkundenverzeichnis: Angaben bei Verfügungen von Todes wegen (§ 16 NotAktVV)",
+   "abschnitt": "Akten und Verzeichnisse"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundenverzeichnis-beteiligte-in-gesellschaftsrechtlichen-angelegenheiten-12-abs-5-notaktvv",
+   "titel": "Urkundenverzeichnis: Beteiligte in gesellschaftsrechtlichen Angelegenheiten (§ 12 Abs. 5 NotAktVV)",
+   "abschnitt": "Akten und Verzeichnisse"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundenverzeichnis-erfassung-von-geschaftsgegenstand-urkundenart-und-nachtragen",
+   "titel": "Urkundenverzeichnis: Erfassung von Geschäftsgegenstand, Urkundenart und Nachträgen",
+   "abschnitt": "Akten und Verzeichnisse"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/urkundenverzeichnis-jahresexport-und-archivierung-19-notaktvv",
+   "titel": "Urkundenverzeichnis: Jahresexport und Archivierung (§ 19 NotAktVV)",
+   "abschnitt": "Akten und Verzeichnisse"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/akten-und-verzeichnisse/verwahrungsverzeichnis-vvz-inhalt-buchungen-anderungen-und-bestatigung",
+   "titel": "Verwahrungsverzeichnis (VVZ): Inhalt, Buchungen, Änderungen und Bestätigung",
+   "abschnitt": "Akten und Verzeichnisse"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-erbschaft-und-schenkungsteuer-34-erbstg",
+   "titel": "Anzeigepflichten: Erbschaft- und Schenkungsteuer (§ 34 ErbStG)",
+   "abschnitt": "Anzeige- und Mitteilungspflichten"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-grunderwerbsteuer-18-grestg",
+   "titel": "Anzeigepflichten: Grunderwerbsteuer (§ 18 GrEStG)",
+   "abschnitt": "Anzeige- und Mitteilungspflichten"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-grunderwerbsteuer-bei-umwandlungen-anwachsungen-und-anteilsubertragungen",
+   "titel": "Anzeigepflichten: Grunderwerbsteuer bei Umwandlungen, Anwachsungen und Anteilsübertragungen",
+   "abschnitt": "Anzeige- und Mitteilungspflichten"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-grunderwerbsteuer-folgen-fur-16-grestg",
+   "titel": "Anzeigepflichten: Grunderwerbsteuer – Folgen für § 16 GrEStG",
+   "abschnitt": "Anzeige- und Mitteilungspflichten"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/notariatsorganisation/anzeige-und-mitteilungspflichten/anzeigepflichten-grunderwerbsteuer-verhaltnis-zu-19-grestg-und-folgen-fehlender-anzeigen",
+   "titel": "Anzeigepflichten: Grunderwerbsteuer – Verhältnis zu § 19 GrEStG und Folgen fehlender Anzeigen",
+   "abschnitt": "Anzeige- und Mitteilungspflichten"
+  }
+ ]
+}

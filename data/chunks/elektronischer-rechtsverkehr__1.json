@@ -1,0 +1,119 @@
+{
+ "kapitel": "elektronischer-rechtsverkehr",
+ "kapitel_titel": "Elektronischer Rechtsverkehr",
+ "teil": 1,
+ "teile": 1,
+ "datei": "data/fragen/elektronischer-rechtsverkehr__1.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-prasenzbeurkundung",
+   "titel": "Elektronische Präsenzbeurkundung",
+   "abschnitt": "Elektronische Urkunde und Beurkundung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-prasenzbeurkundung-signatursystem-sicherheit-und-ablauf",
+   "titel": "Elektronische Präsenzbeurkundung: Signatursystem, Sicherheit und Ablauf",
+   "abschnitt": "Elektronische Urkunde und Beurkundung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-unterschriftsbeglaubigung-und-schriftform-40b-beurkg",
+   "titel": "Elektronische Unterschriftsbeglaubigung und Schriftform (§ 40b BeurkG)",
+   "abschnitt": "Elektronische Urkunde und Beurkundung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-urkunde-arten-und-errichtung",
+   "titel": "Elektronische Urkunde: Arten und Errichtung",
+   "abschnitt": "Elektronische Urkunde und Beurkundung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-urkunden-berichtigung-nachtrag-und-nachtragliche-identifizierung",
+   "titel": "Elektronische Urkunden: Berichtigung, Nachtrag und nachträgliche Identifizierung",
+   "abschnitt": "Elektronische Urkunde und Beurkundung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-urkunden-verwahrung-und-herausgabe-45b-beurkg",
+   "titel": "Elektronische Urkunden: Verwahrung und Herausgabe (§ 45b BeurkG)",
+   "abschnitt": "Elektronische Urkunde und Beurkundung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/elektronische-urschrift-entstehung-signaturprufung-und-ausfertigungen",
+   "titel": "Elektronische Urschrift: Entstehung, Signaturprüfung und Ausfertigungen",
+   "abschnitt": "Elektronische Urkunde und Beurkundung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/online-beurkundung-und-online-beglaubigung-videokommunikation",
+   "titel": "Online-Beurkundung und Online-Beglaubigung (Videokommunikation)",
+   "abschnitt": "Elektronische Urkunde und Beurkundung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/elektronische-urkunde-und-beurkundung/vollmacht-elektronische-errichtung-nachweis-und-rechtsschein-172-bgb",
+   "titel": "Vollmacht: elektronische Errichtung, Nachweis und Rechtsschein (§ 172 BGB)",
+   "abschnitt": "Elektronische Urkunde und Beurkundung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronische-signatur-hashwert-schlusselpaar-und-signaturstufen-nach-eidas",
+   "titel": "Elektronische Signatur: Hashwert, Schlüsselpaar und Signaturstufen nach eIDAS",
+   "abschnitt": "Grundlagen und Infrastruktur"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronischer-rechtsverkehr-begriff-postfacher-und-schutzziele",
+   "titel": "Elektronischer Rechtsverkehr: Begriff, Postfächer und Schutzziele",
+   "abschnitt": "Grundlagen und Infrastruktur"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronischer-rechtsverkehr-notarnetz-xnp-und-xnotar",
+   "titel": "Elektronischer Rechtsverkehr: Notarnetz, XNP und XNotar",
+   "abschnitt": "Grundlagen und Infrastruktur"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronischer-rechtsverkehr-rechtsgrundlagen-bund-und-baden-wurttemberg",
+   "titel": "Elektronischer Rechtsverkehr: Rechtsgrundlagen (Bund und Baden-Württemberg)",
+   "abschnitt": "Grundlagen und Infrastruktur"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/elektronischer-rechtsverkehr-strukturdaten-xml-und-xml-gebuhr",
+   "titel": "Elektronischer Rechtsverkehr: Strukturdaten (XML) und XML-Gebühr",
+   "abschnitt": "Grundlagen und Infrastruktur"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-ersatzeinreichung-bei-storungen-behorden-und-gerichte-finanzamt-elster",
+   "titel": "eNoVA: Ersatzeinreichung bei Störungen – Behörden und Gerichte, Finanzamt (ELSTER)",
+   "abschnitt": "Grundlagen und Infrastruktur"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-genehmigungen-vorkaufsrechtszeugnisse-und-gutachterausschuss",
+   "titel": "eNoVA: Genehmigungen, Vorkaufsrechtszeugnisse und Gutachterausschuss",
+   "abschnitt": "Grundlagen und Infrastruktur"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/grundlagen-und-infrastruktur/enova-zeitplan-grundsatze-und-technische-voraussetzungen",
+   "titel": "eNoVA: Zeitplan, Grundsätze und technische Voraussetzungen",
+   "abschnitt": "Grundlagen und Infrastruktur"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/register-und-gerichte/elektronischer-rechtsverkehr-antrage-an-gerichte-nach-14b-famfg",
+   "titel": "Elektronischer Rechtsverkehr: Anträge an Gerichte nach § 14b FamFG",
+   "abschnitt": "Register und Gerichte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/register-und-gerichte/elektronischer-rechtsverkehr-handelsregister-und-weitere-register-anmeldung-und-einreichung",
+   "titel": "Elektronischer Rechtsverkehr: Handelsregister und weitere Register – Anmeldung und Einreichung",
+   "abschnitt": "Register und Gerichte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/register-und-gerichte/elektronischer-rechtsverkehr-schriftformersatz-qes-und-sicherer-ubermittlungsweg",
+   "titel": "Elektronischer Rechtsverkehr: Schriftformersatz, qeS und sicherer Übermittlungsweg",
+   "abschnitt": "Register und Gerichte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/register-und-gerichte/elektronischer-rechtsverkehr-zentrales-testamentsregister-und-zentrales-vorsorgeregister",
+   "titel": "Elektronischer Rechtsverkehr: Zentrales Testamentsregister und Zentrales Vorsorgeregister",
+   "abschnitt": "Register und Gerichte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/elektronischer-rechtsverkehr/register-und-gerichte/elektronischer-rechtsverkehr-zugang-zustellung-und-elektronisches-empfangsbekenntnis",
+   "titel": "Elektronischer Rechtsverkehr: Zugang, Zustellung und elektronisches Empfangsbekenntnis",
+   "abschnitt": "Register und Gerichte"
+  }
+ ]
+}

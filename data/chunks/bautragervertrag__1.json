@@ -1,0 +1,99 @@
+{
+ "kapitel": "bautragervertrag",
+ "kapitel_titel": "Bauträgervertrag",
+ "teil": 1,
+ "teile": 1,
+ "datei": "data/fragen/bautragervertrag__1.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/bautragervertrag/abnahme-mangel-und-vollzug/bautragervertrag-abnahme",
+   "titel": "Bauträgervertrag: Abnahme",
+   "abschnitt": "Abnahme, Mängel und Vollzug"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/bautragervertrag/abnahme-mangel-und-vollzug/bautragervertrag-anderungsvollmacht-zur-teilungserklarung",
+   "titel": "Bauträgervertrag: Änderungsvollmacht zur Teilungserklärung",
+   "abschnitt": "Abnahme, Mängel und Vollzug"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/bautragervertrag/abnahme-mangel-und-vollzug/bautragervertrag-auflassung-und-sicherung-des-bautragers",
+   "titel": "Bauträgervertrag: Auflassung und Sicherung des Bauträgers",
+   "abschnitt": "Abnahme, Mängel und Vollzug"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/bautragervertrag/abnahme-mangel-und-vollzug/bautragervertrag-rechts-und-sachmangel",
+   "titel": "Bauträgervertrag: Rechts- und Sachmängel",
+   "abschnitt": "Abnahme, Mängel und Vollzug"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/bautragervertrag/leistung-baubeschreibung-und-termine/bautragervertrag-abweichungen-von-der-baubeschreibung-sonderwunsche-eigenleistungen",
+   "titel": "Bauträgervertrag: Abweichungen von der Baubeschreibung, Sonderwünsche, Eigenleistungen",
+   "abschnitt": "Leistung, Baubeschreibung und Termine"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/bautragervertrag/leistung-baubeschreibung-und-termine/bautragervertrag-baubeschreibung-form-und-inhalt",
+   "titel": "Bauträgervertrag: Baubeschreibung (Form und Inhalt)",
+   "abschnitt": "Leistung, Baubeschreibung und Termine"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/bautragervertrag/leistung-baubeschreibung-und-termine/bautragervertrag-fertigstellungstermin",
+   "titel": "Bauträgervertrag: Fertigstellungstermin",
+   "abschnitt": "Leistung, Baubeschreibung und Termine"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/bautragervertrag/leistung-baubeschreibung-und-termine/bautragervertrag-vertragsgegenstand-und-leistungspflicht",
+   "titel": "Bauträgervertrag: Vertragsgegenstand und Leistungspflicht",
+   "abschnitt": "Leistung, Baubeschreibung und Termine"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/bautragervertrag/vertragsgrundlagen-und-bezugsurkunde/bautragervertrag-anwendbares-recht-und-ausgeschlossene-vorschriften",
+   "titel": "Bauträgervertrag: anwendbares Recht und ausgeschlossene Vorschriften",
+   "abschnitt": "Vertragsgrundlagen und Bezugsurkunde"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/bautragervertrag/vertragsgrundlagen-und-bezugsurkunde/bautragervertrag-begriff-und-abgrenzung",
+   "titel": "Bauträgervertrag: Begriff und Abgrenzung",
+   "abschnitt": "Vertragsgrundlagen und Bezugsurkunde"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/bautragervertrag/vertragsgrundlagen-und-bezugsurkunde/bautragervertrag-bezugsurkunde-zuweisung-von-sondernutzungsrechten-und-untergemeinschaften",
+   "titel": "Bauträgervertrag: Bezugsurkunde – Zuweisung von Sondernutzungsrechten und Untergemeinschaften",
+   "abschnitt": "Vertragsgrundlagen und Bezugsurkunde"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/bautragervertrag/vertragsgrundlagen-und-bezugsurkunde/bautragervertrag-bezugsurkunde-zweck-zulassigkeit-und-inhalte",
+   "titel": "Bauträgervertrag: Bezugsurkunde – Zweck, Zulässigkeit und Inhalte",
+   "abschnitt": "Vertragsgrundlagen und Bezugsurkunde"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/bautragervertrag/vertragsgrundlagen-und-bezugsurkunde/bautragervertrag-getrennte-grundstucks-und-bauvertrage-verdecktes-bauherrenmodell",
+   "titel": "Bauträgervertrag: getrennte Grundstücks- und Bauverträge (verdecktes Bauherrenmodell)",
+   "abschnitt": "Vertragsgrundlagen und Bezugsurkunde"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/bautragervertrag/zahlung-und-sicherheiten/bautragervertrag-abschlagszahlungen-ratenplan-und-vorleistungsverbot",
+   "titel": "Bauträgervertrag: Abschlagszahlungen, Ratenplan und Vorleistungsverbot",
+   "abschnitt": "Zahlung und Sicherheiten"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/bautragervertrag/zahlung-und-sicherheiten/bautragervertrag-falligkeitsvoraussetzungen-nach-3-abs-1-mabv",
+   "titel": "Bauträgervertrag: Fälligkeitsvoraussetzungen nach § 3 Abs. 1 MaBV",
+   "abschnitt": "Zahlung und Sicherheiten"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/bautragervertrag/zahlung-und-sicherheiten/bautragervertrag-insolvenz-des-bautragers-und-abtretung-von-mangelanspruchen",
+   "titel": "Bauträgervertrag: Insolvenz des Bauträgers und Abtretung von Mängelansprüchen",
+   "abschnitt": "Zahlung und Sicherheiten"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/bautragervertrag/zahlung-und-sicherheiten/bautragervertrag-lastenfreistellung-und-steckenbleiben-des-baus",
+   "titel": "Bauträgervertrag: Lastenfreistellung und Steckenbleiben des Baus",
+   "abschnitt": "Zahlung und Sicherheiten"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/bautragervertrag/zahlung-und-sicherheiten/bautragervertrag-sicherheit-nach-650m-abs-2-bgb-und-burgschaft-nach-7-mabv",
+   "titel": "Bauträgervertrag: Sicherheit nach § 650m Abs. 2 BGB und Bürgschaft nach § 7 MaBV",
+   "abschnitt": "Zahlung und Sicherheiten"
+  }
+ ]
+}

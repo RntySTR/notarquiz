@@ -1,0 +1,260 @@
+[
+ {
+  "id": "beur2-001",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Niederschrift und Beteiligte",
+  "seite": "Vertretungsnachweise in der Niederschrift (§ 12 BeurkG): Organe, gesetzliche Vertreter und Verwalter",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/vertretungsnachweise-in-der-niederschrift-12-beurkg-organe-gesetzliche-vertreter-und-verwalter",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 21 BNotO"
+  ],
+  "frage": "Wie alt darf die Registereinsicht höchstens sein, auf die sich eine Vertretungsbescheinigung nach § 21 BNotO stützt, ohne dass ihre Beweiskraft leidet?",
+  "optionen": [
+   "Höchstens zwei Wochen",
+   "Höchstens 5–6 Wochen",
+   "Höchstens drei Monate",
+   "Höchstens sechs Monate"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Registereinsicht sollte höchstens 5–6 Wochen alt sein, damit die Beweiskraft der Bescheinigung nach § 21 BNotO nicht leidet; dieselbe Höchstdauer gilt für einen beglaubigten Registerauszug. Da das Register elektronisch eingesehen werden kann, soll die Einsicht idealerweise am Tag der Bescheinigung erfolgen. Drei oder sechs Monate wären deutlich zu lang und entsprechen keiner anerkannten Frist."
+ },
+ {
+  "id": "beur2-002",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Niederschrift und Beteiligte",
+  "seite": "Vertretungsnachweise in der Niederschrift (§ 12 BeurkG): Organe, gesetzliche Vertreter und Verwalter",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/vertretungsnachweise-in-der-niederschrift-12-beurkg-organe-gesetzliche-vertreter-und-verwalter",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 21 BNotO"
+  ],
+  "frage": "Für eine GmbH & Co. KG handelt der Geschäftsführer der Komplementär-GmbH. Welche Vertretungsbescheinigungen nach § 21 BNotO sind in die Urkunde aufzunehmen?",
+  "optionen": [
+   "Nur eine Bescheinigung über die Vertretung der KG durch die Komplementär-GmbH",
+   "Nur eine Bescheinigung über die Vertretung der GmbH durch ihren Geschäftsführer",
+   "Zwei Bescheinigungen: Vertretung der KG durch die GmbH und Vertretung der GmbH durch den Geschäftsführer",
+   "Keine Bescheinigung, weil die Vertretungskette aus dem Handelsregister der KG allein folgt"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die GmbH & Co. KG erfordert zwei Vertretungsbescheinigungen: eine für die Vertretung der KG durch ihre Komplementär-GmbH und eine für die Vertretung dieser GmbH durch den Geschäftsführer. Der typische Fehler besteht darin, nur die Vertretung der KG zu bescheinigen und die zweite Stufe der Vertretungskette zu übergehen."
+ },
+ {
+  "id": "beur2-003",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Niederschrift und Beteiligte",
+  "seite": "Vertretungsnachweise in der Niederschrift (§ 12 BeurkG): Organe, gesetzliche Vertreter und Verwalter",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/vertretungsnachweise-in-der-niederschrift-12-beurkg-organe-gesetzliche-vertreter-und-verwalter",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 2368 S. 2 Hs. 2 BGB"
+  ],
+  "frage": "Legt ein Testamentsvollstrecker ein Testamentsvollstreckerzeugnis vor, ist der Vertragspartner in seinem guten Glauben an das Fortbestehen des Amtes auch dann geschützt, wenn das Amt bereits beendet ist.",
+  "antwort": false,
+  "erklaerung": "Falsch. Das Testamentsvollstreckerzeugnis wird kraft Gesetzes kraftlos, sobald das Amt des Testamentsvollstreckers endet (§ 2368 S. 2 Hs. 2 BGB); ein guter Glaube an das Fortbestehen wird nicht geschützt. Anders als beim Erbschein trägt das Zeugnis hier also keinen Rechtsschein über das Amtsende hinaus."
+ },
+ {
+  "id": "beur2-004",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Niederschrift und Beteiligte",
+  "seite": "Vertretungsnachweise in der Niederschrift (§ 12 BeurkG): Organe, gesetzliche Vertreter und Verwalter",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/vertretungsnachweise-in-der-niederschrift-12-beurkg-organe-gesetzliche-vertreter-und-verwalter",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 26 Abs. 4 WEG",
+   "§ 24 Abs. 6 WEG",
+   "§ 26 Abs. 2 WEG"
+  ],
+  "frage": "Ein WEG-Verwalter weist seine Bestellung durch die Beschlussniederschrift nach. Wessen Unterschriften müssen darauf beglaubigt sein, wenn ein Verwaltungsbeirat besteht?",
+  "optionen": [
+   "Versammlungsleiter und sämtliche anwesenden Wohnungseigentümer",
+   "Versammlungsleiter, ein weiterer Wohnungseigentümer und der Vorsitzende des Verwaltungsbeirats",
+   "Nur der Versammlungsleiter und der Verwalter selbst",
+   "Verwalter und Vorsitzender des Verwaltungsbeirats"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 26 Abs. 4 i. V. m. § 24 Abs. 6 WEG müssen auf der Niederschrift über den Bestellungsbeschluss die Unterschriften des Versammlungsleiters und eines weiteren Wohnungseigentümers beglaubigt sein, bei bestehendem Verwaltungsbeirat zusätzlich die des Beiratsvorsitzenden. Der Verwalter selbst unterschreibt nicht in dieser Funktion; die Unterschriften aller Anwesenden sind nicht erforderlich."
+ },
+ {
+  "id": "beur2-005",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Niederschrift und Beteiligte",
+  "seite": "Vertretungsnachweise in der Niederschrift (§ 12 BeurkG): Organe, gesetzliche Vertreter und Verwalter",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/vertretungsnachweise-in-der-niederschrift-12-beurkg-organe-gesetzliche-vertreter-und-verwalter",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 26 Abs. 2 WEG",
+   "§ 21 BNotO"
+  ],
+  "frage": "Ordne die Fristen und Zeiträume der jeweiligen Regel zu.",
+  "paare": [
+   [
+    "Erste Bestellung des WEG-Verwalters",
+    "höchstens drei Jahre"
+   ],
+   [
+    "Jede weitere Bestellung des WEG-Verwalters",
+    "höchstens fünf Jahre"
+   ],
+   [
+    "Frühester Zeitpunkt für den Wiederbestellungsbeschluss",
+    "ein Jahr vor Ablauf der Bestellungszeit"
+   ],
+   [
+    "Höchstalter der Registereinsicht für die Bescheinigung nach § 21 BNotO",
+    "5–6 Wochen"
+   ]
+  ],
+  "erklaerung": "§ 26 Abs. 2 S. 1 WEG begrenzt die erste Bestellung auf drei, jede weitere auf fünf Jahre; die Wiederbestellung darf nach § 26 Abs. 2 S. 2 WEG frühestens ein Jahr vor Ablauf beschlossen werden. Die Registereinsicht für die Bescheinigung nach § 21 BNotO sollte höchstens 5–6 Wochen zurückliegen."
+ },
+ {
+  "id": "beur2-006",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Niederschrift und Beteiligte",
+  "seite": "Vertretungsnachweise in der Niederschrift (§ 12 BeurkG): Vollmacht und vollmachtlose Vertretung",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/vertretungsnachweise-in-der-niederschrift-12-beurkg-vollmacht-und-vollmachtlose-vertretung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 12 BeurkG"
+  ],
+  "frage": "In welcher Form sollen vorgelegte Vollmachten nach § 12 BeurkG der Niederschrift beigefügt werden?",
+  "optionen": [
+   "In einfacher Abschrift oder Kopie",
+   "In Urschrift oder beglaubigter Abschrift",
+   "Nur in Ausfertigung",
+   "Gar nicht; es genügt der Hinweis in der Niederschrift"
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 12 BeurkG verlangt, dass vorgelegte Vollmachten der Niederschrift in Urschrift oder beglaubigter Abschrift beigefügt werden sollen; in der Niederschrift wird zudem festgehalten, dass Urschrift oder Ausfertigung bei der Beurkundung vorlag. Eine einfache Kopie genügt der Sollvorschrift nicht."
+ },
+ {
+  "id": "beur2-007",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Niederschrift und Beteiligte",
+  "seite": "Vertretungsnachweise in der Niederschrift (§ 12 BeurkG): Vollmacht und vollmachtlose Vertretung",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/vertretungsnachweise-in-der-niederschrift-12-beurkg-vollmacht-und-vollmachtlose-vertretung",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2 GmbHG",
+   "§ 29 GBO",
+   "§ 1945 Abs. 3 BGB",
+   "§ 47 Abs. 3 GmbHG"
+  ],
+  "frage": "Ordne den Vollmachten die vorgeschriebene Form zu.",
+  "paare": [
+   [
+    "Gründungsvollmacht bei der GmbH",
+    "notariell beurkundet oder beglaubigt (§ 2 GmbHG)"
+   ],
+   [
+    "Grundbuchvollmacht",
+    "notariell (§ 29 GBO)"
+   ],
+   [
+    "Vollmacht zur Erbausschlagung",
+    "öffentlich beglaubigt (§ 1945 Abs. 3 BGB)"
+   ],
+   [
+    "Stimmrechtsvollmacht in der GmbH",
+    "Textform (§ 47 Abs. 3 GmbHG, § 126b BGB)"
+   ]
+  ],
+  "erklaerung": "Zwar ist die Vollmacht grundsätzlich formfrei (§ 167 Abs. 2 BGB), für einzelne Vollmachten gelten aber Sonderformen: § 2 GmbHG für die Gründungsvollmacht, § 29 GBO für Grundbucherklärungen, § 1945 Abs. 3 BGB für die Ausschlagung und § 47 Abs. 3 GmbHG mit Textform für die Stimmrechtsvollmacht."
+ },
+ {
+  "id": "beur2-008",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Niederschrift und Beteiligte",
+  "seite": "Vertretungsnachweise in der Niederschrift (§ 12 BeurkG): Vollmacht und vollmachtlose Vertretung",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/vertretungsnachweise-in-der-niederschrift-12-beurkg-vollmacht-und-vollmachtlose-vertretung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 800 ZPO",
+   "§ 181 BGB"
+  ],
+  "frage": "Ein Bevollmächtigter legt eine Verkaufsvollmacht vor und will für den Eigentümer eine Finanzierungsgrundschuld mit Unterwerfung nach § 800 ZPO bestellen. Wie ist die Reichweite der Vollmacht zu beurteilen?",
+  "optionen": [
+   "Die Verkaufsvollmacht deckt die Belastung mit, weil sie das wirtschaftlich geringere Geschäft ist",
+   "Die Verkaufsvollmacht umfasst die Belastung nicht ohne Weiteres; die Unterwerfung nach § 800 ZPO muss gesondert erwähnt sein",
+   "Die Belastung ist gedeckt, wenn der Bevollmächtigte von § 181 BGB befreit ist",
+   "Die Belastung ist gedeckt, sobald die Vollmacht das Grundstück nach § 28 GBO bezeichnet"
+  ],
+  "antwort": 1,
+  "erklaerung": "Eine Verkaufsvollmacht umfasst nicht ohne Weiteres die Belastung des Grundbesitzes; die Unterwerfung nach § 800 ZPO muss in der Vollmacht gesondert erwähnt sein. Die Befreiung von § 181 BGB und die Grundstücksbezeichnung nach § 28 GBO betreffen andere Prüfpunkte, erweitern aber nicht den sachlichen Umfang der Vollmacht. Genau dieser Fehler wird als typisch beschrieben."
+ },
+ {
+  "id": "beur2-009",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Niederschrift und Beteiligte",
+  "seite": "Vertretungsnachweise in der Niederschrift (§ 12 BeurkG): Vollmacht und vollmachtlose Vertretung",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/vertretungsnachweise-in-der-niederschrift-12-beurkg-vollmacht-und-vollmachtlose-vertretung",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 181 BGB"
+  ],
+  "frage": "Ein Unterbevollmächtigter kann von § 181 BGB auch dann befreit werden, wenn der Hauptbevollmächtigte selbst nicht von § 181 BGB befreit ist.",
+  "antwort": false,
+  "erklaerung": "Falsch. Eine Untervollmacht kann nie weiter reichen als die Hauptvollmacht; von § 181 BGB kann ein Unterbevollmächtigter daher nur befreit werden, wenn der Bevollmächtigte selbst befreit ist. Die Befreiung ist kein eigenständiges Recht des Unterbevollmächtigten, sondern leitet sich aus der Hauptvollmacht ab."
+ },
+ {
+  "id": "beur2-010",
+  "kapitel": "beurkundungsverfahren-und-amtspflichten",
+  "abschnitt": "Niederschrift und Beteiligte",
+  "seite": "Vertretungsnachweise in der Niederschrift (§ 12 BeurkG): Vollmacht und vollmachtlose Vertretung",
+  "quelle": "handbuch-mit-notarwissen/beurkundungsverfahren-und-amtspflichten/niederschrift-und-beteiligte/vertretungsnachweise-in-der-niederschrift-12-beurkg-vollmacht-und-vollmachtlose-vertretung",
+  "typ": "fall",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 177 BGB",
+   "§ 29 GBO",
+   "§ 17 Abs. 1 BeurkG"
+  ],
+  "frage": "Grundstückskauf mit vollmachtlosem Vertreter",
+  "sachverhalt": "V will sein Grundstück an K verkaufen, ist am Beurkundungstag aber verhindert. Sein Sohn S erscheint und erklärt, V habe ihn telefonisch bevollmächtigt; eine schriftliche Vollmacht liegt nicht vor. Der Notar beurkundet den Kaufvertrag, wobei S als vollmachtloser Vertreter für V handelt. Zwei Wochen später übersendet V ein einfaches Schreiben, in dem er den Vertrag genehmigt.",
+  "schritte": [
+   {
+    "frage": "Wie ist der Kaufvertrag nach der Beurkundung durch S rechtlich zu qualifizieren?",
+    "optionen": [
+     "Der Vertrag ist wirksam, weil die mündliche Vollmacht nach § 167 Abs. 2 BGB formfrei erteilt werden kann",
+     "Der Vertrag ist schwebend unwirksam und wird für V erst mit dessen Genehmigung wirksam",
+     "Der Vertrag ist nichtig, weil beim Grundstückskauf keine Stellvertretung zulässig ist",
+     "Der Vertrag ist wirksam, K kann aber bis zur Genehmigung jederzeit widerrufen"
+    ],
+    "antwort": 1,
+    "erklaerung": "Schließt jemand ohne Vertretungsmacht einen Vertrag im Namen eines anderen, ist der Vertrag schwebend unwirksam und wird für den Vertretenen erst mit Genehmigung wirksam (§ 177 BGB). Die bloß behauptete mündliche Vollmacht genügt nicht als ausreichender Nachweis nach § 17 Abs. 1 S. 1 BeurkG; Stellvertretung ist beim Grundstückskauf nicht ausgeschlossen."
+   },
+   {
+    "frage": "Welche Form muss die Genehmigung des V haben?",
+    "optionen": [
+     "Notarielle Beurkundung, weil die Genehmigung der Form des Kaufvertrags folgt",
+     "Keine Form; für den Grundbuchvollzug ist aber wegen § 29 GBO eine Unterschriftsbeglaubigung nötig",
+     "Einfache Schriftform nach § 126 BGB",
+     "Textform, weil die Genehmigung nur empfangsbedürftig ist"
+    ],
+    "antwort": 1,
+    "erklaerung": "Die Genehmigung bedarf nach ganz h. M. nicht der Form des Rechtsgeschäfts (§ 182 Abs. 2 BGB-Gedanke), ist also materiell formfrei. Für Eintragungen im Grundbuch ist jedoch wegen § 29 GBO stets eine Unterschriftsbeglaubigung erforderlich; das einfache Schreiben des V reicht für den Vollzug nicht aus."
+   },
+   {
+    "frage": "Der Notar fordert bei V die beglaubigte Genehmigung nochmals an. Wie wirkt dieses Schreiben im Hinblick auf § 177 Abs. 2 BGB?",
+    "optionen": [
+     "Es ist eine Aufforderung im Sinne des § 177 Abs. 2 BGB, sodass die Genehmigung nur noch gegenüber K erklärt werden kann",
+     "Es ist nach h. M. keine Aufforderung nach § 177 Abs. 2 BGB, weil der Notar im Vollzug eigene Amtsaufgaben wahrnimmt",
+     "Es setzt die zweiwöchige Genehmigungsfrist des § 177 Abs. 2 S. 2 BGB in Gang",
+     "Es beendet die Bindung des K an seine Erklärung"
+    ],
+    "antwort": 1,
+    "erklaerung": "Fordert der Urkundsnotar die Genehmigung nochmals an, liegt darin nach h. M. keine Aufforderung im Sinne des § 177 Abs. 2 BGB, da der Notar nicht für K tätig wird, sondern im Vollzug eigene Amtsaufgaben wahrnimmt. K bleibt bis zur Genehmigung an seine Erklärung gebunden; eine Aufforderung mit Fristfolge könnte nur K selbst aussprechen."
+   }
+  ],
+  "erklaerung": "Der von S ohne nachgewiesene Vertretungsmacht geschlossene Vertrag ist schwebend unwirksam und wird erst durch Genehmigung des V wirksam (§ 177 BGB). Die Genehmigung ist materiell formfrei, braucht für den Grundbuchvollzug aber die Beglaubigung nach § 29 GBO. Die Anforderung durch den Notar ist keine Aufforderung nach § 177 Abs. 2 BGB; zweckmäßig ist eine Ermächtigung des Notars zur Entgegennahme der Genehmigung in der Urkunde."
+ }
+]

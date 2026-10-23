@@ -1,0 +1,356 @@
+[
+ {
+  "id": "dien1-001",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Baulast",
+  "seite": "Baulast: Begriff, Baulastenverzeichnis und Bedeutung beim Grundstückskauf",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/baulast/baulast-begriff-baulastenverzeichnis-und-bedeutung-beim-grundstuckskauf",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [],
+  "frage": "Gegenüber wem verpflichtet eine Baulast den Eigentümer des belasteten Grundstücks?",
+  "optionen": [
+   "Gegenüber dem jeweiligen Eigentümer des begünstigten Grundstücks, der privatrechtliche Ansprüche daraus herleiten kann",
+   "Nur öffentlich-rechtlich gegenüber der Baubehörde; privatrechtliche Ansprüche des Begünstigten entstehen nicht",
+   "Gegenüber dem Grundbuchamt, das die Baulast in Abteilung II einträgt",
+   "Gegenüber der Baubehörde und zugleich privatrechtlich gegenüber dem Begünstigten"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Baulast ist eine baurechtliche Verpflichtung des Eigentümers gegenüber der Baubehörde zu einem grundstücksbezogenen Tun, Dulden oder Unterlassen; sie wirkt nur öffentlich-rechtlich gegenüber der Gemeinde. Privatrechtliche Ansprüche des Eigentümers des begünstigten Grundstücks entstehen aus ihr nicht; wer den Begünstigten auch privatrechtlich sichern will, muss zusätzlich eine Grunddienstbarkeit bestellen. Die Baulast wird zudem nicht im Grundbuch, sondern im Baulastenverzeichnis der Bauaufsichtsbehörde eingetragen."
+ },
+ {
+  "id": "dien1-002",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Baulast",
+  "seite": "Baulast: Begriff, Baulastenverzeichnis und Bedeutung beim Grundstückskauf",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/baulast/baulast-begriff-baulastenverzeichnis-und-bedeutung-beim-grundstuckskauf",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 435 BGB",
+   "§ 434 Abs. 2 S. 1 Nr. 1 BGB",
+   "§ 434 Abs. 2 S. 1 Nr. 2 BGB"
+  ],
+  "frage": "Auf dem verkauften Grundstück lastet eine dem Käufer nicht bekannte Baulast (Abstandsflächenübernahme). Unter welchem Gesichtspunkt kann der Verkäufer haften?",
+  "optionen": [
+   "Als Rechtsmangel nach § 435 BGB, weil die Baulast ein Recht eines Dritten ist",
+   "Als Sachmangel nach § 434 BGB, wenn Baulastenfreiheit vereinbart war oder die Baulast die vorausgesetzte oder gewöhnliche Verwendung einschränkt",
+   "Überhaupt nicht, weil Baulasten als öffentlich-rechtliche Beschränkungen nie einen Mangel begründen",
+   "Als Rechtsmangel nach § 435 BGB nur dann, wenn die Baulast im Grundbuch eingetragen ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Baulast ist eine öffentlich-rechtliche Baubeschränkung und damit kein Recht eines Dritten im Sinne des § 435 BGB; eine Rechtsmängelhaftung scheidet deshalb aus. In Betracht kommt aber ein Sachmangel: wenn vereinbart war, dass keine Baulast besteht (§ 434 Abs. 2 S. 1 Nr. 1 BGB), oder wenn die Baulast die Eignung für die vorausgesetzte oder gewöhnliche Verwendung einschränkt (§ 434 Abs. 2 S. 1 Nr. 2, Abs. 3 S. 1 Nr. 1 BGB). Die Einordnung als Rechtsmangel ist der naheliegende Fehler, weil die Baulast wirtschaftlich wie eine Dienstbarkeit wirkt."
+ },
+ {
+  "id": "dien1-003",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Baulast",
+  "seite": "Baulast: Begriff, Baulastenverzeichnis und Bedeutung beim Grundstückskauf",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/baulast/baulast-begriff-baulastenverzeichnis-und-bedeutung-beim-grundstuckskauf",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [],
+  "frage": "Baulasten werden in Abteilung II des Grundbuchs des belasteten Grundstücks eingetragen.",
+  "antwort": false,
+  "erklaerung": "Baulasten werden nicht im Grundbuch, sondern im Baulastenverzeichnis eingetragen, das die Bauaufsichtsbehörde führt. Gerade deshalb mindert die Baulast den Wert des Grundbuchs als Warn- und Schutzinstrument und bringt Unsicherheit in den Grundstücksverkehr. In Abteilung II werden dagegen die privatrechtlichen Dienstbarkeiten eingetragen."
+ },
+ {
+  "id": "dien1-004",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Baulast",
+  "seite": "Baulast: Begriff, Baulastenverzeichnis und Bedeutung beim Grundstückskauf",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/baulast/baulast-begriff-baulastenverzeichnis-und-bedeutung-beim-grundstuckskauf",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Nachbar N soll das zu schmale Grundstück des E durch eine Abstandsflächenbaulast bebauen können. Welche ergänzende Gestaltung ist zweckmäßig, damit N dauerhaft auch privatrechtlich gesichert ist?",
+  "optionen": [
+   "Eine zusätzliche Eintragung der Baulast in Abteilung II des Grundbuchs beantragen",
+   "Neben der Baulast eine entsprechende Grunddienstbarkeit zugunsten des jeweiligen Eigentümers des Grundstücks des N bestellen",
+   "Die Baulast durch eine beschränkte persönliche Dienstbarkeit für die Baubehörde absichern",
+   "Auf die Baulast verzichten, weil die Grunddienstbarkeit die öffentlich-rechtliche Befreiung ersetzt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Baulast wirkt nur öffentlich-rechtlich gegenüber der Behörde und verschafft N keine privatrechtlichen Ansprüche gegen E. Deshalb sollte neben der Baulast zweckmäßigerweise eine entsprechende Grunddienstbarkeit bestellt werden, die N als jeweiligen Eigentümer privatrechtlich sichert. Eine Grundbucheintragung der Baulast selbst ist nicht vorgesehen; umgekehrt ersetzt die Grunddienstbarkeit nicht die Baulast, weil nur diese der Behörde die Ausnahme vom Bauordnungsrecht erlaubt."
+ },
+ {
+  "id": "dien1-005",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Altrechtliche Grunddienstbarkeit: Fortbestand, Beweislast, Erlöschen und Grundbuchberichtigung",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/altrechtliche-grunddienstbarkeit-fortbestand-beweislast-erloschen-und-grundbuchberichtigung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "Art. 184 EGBGB"
+  ],
+  "frage": "Welche Folge hatte das Inkrafttreten des BGB für eine vorher entstandene (altrechtliche) Grunddienstbarkeit, die nicht in das neu angelegte Grundbuch übernommen wurde?",
+  "optionen": [
+   "Sie erlosch mit der Anlegung des Grundbuchs, weil nur eingetragene Rechte fortbestehen",
+   "Sie bestand mit ihrem bisherigen Umfang weiter; eine Übernahme ins Grundbuch war dafür nicht nötig",
+   "Sie bestand nur fort, wenn sie innerhalb von dreißig Jahren nachträglich eingetragen wurde",
+   "Sie wandelte sich kraft Gesetzes in eine beschränkte persönliche Dienstbarkeit um"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach Art. 184 EGBGB bestehen altrechtliche Grunddienstbarkeiten seit Inkrafttreten des BGB mit ihrem bisherigen Umfang weiter; eine Übernahme in die erstmals angelegten Grundbücher war dafür nicht erforderlich (OLG Karlsruhe, 12 U 392/20). Der naheliegende Fehler ist die Annahme, das Eintragungsprinzip habe die Altrechte beseitigt. Die Dreißigjahresfrist betrifft nicht die Eintragung, sondern das Erlöschen durch Nichtgebrauch nach Badischem Landrecht."
+ },
+ {
+  "id": "dien1-006",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Altrechtliche Grunddienstbarkeit: Fortbestand, Beweislast, Erlöschen und Grundbuchberichtigung",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/altrechtliche-grunddienstbarkeit-fortbestand-beweislast-erloschen-und-grundbuchberichtigung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "Art. 187 Abs. 1 S. 1 EGBGB",
+   "Art. 187 Abs. 2 S. 1 EGBGB",
+   "§ 31 Abs. 1 S. 1 AGBGB"
+  ],
+  "frage": "K erwirbt in Baden-Württemberg ein Grundstück, auf dem eine nie eingetragene altrechtliche Grunddienstbarkeit (Wegerecht) lastet. Kann K das Grundstück gutgläubig lastenfrei erwerben?",
+  "optionen": [
+   "Nein, altrechtliche Grunddienstbarkeiten setzen sich nach Art. 187 Abs. 1 S. 1 EGBGB stets ohne Eintragung gegen den öffentlichen Glauben durch",
+   "Ja, Baden-Württemberg hat die Ausnahme vom öffentlichen Glauben für bis zum 31.12.1977 nicht eingetragene Dienstbarkeiten aufgehoben (§ 31 Abs. 1 S. 1 AGBGB)",
+   "Nein, ein gutgläubiger Erwerb scheidet aus, weil die Dienstbarkeit ohne Grundbucheintragung nicht Gegenstand des § 892 BGB sein kann",
+   "Ja, aber nur wenn die Dienstbarkeit seit mehr als dreißig Jahren nicht ausgeübt wurde"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach Art. 187 Abs. 1 S. 1 EGBGB mussten altrechtliche Grunddienstbarkeiten zunächst nicht eingetragen werden, um sich gegen den öffentlichen Glauben durchzusetzen. Baden-Württemberg hat diese Ausnahme auf Grundlage von Art. 187 Abs. 2 S. 1 EGBGB für alle bis zum 31.12.1977 nicht eingetragenen Dienstbarkeiten aufgehoben (§ 31 Abs. 1 S. 1 AGBGB), sodass ein gutgläubig lastenfreier Erwerb möglich ist. Die bundesrechtliche Grundregel ohne Blick auf das Landesrecht führt daher in die Irre; die Dreißigjahresfrist betrifft das Erlöschen durch Nichtgebrauch, nicht den Gutglaubenserwerb."
+ },
+ {
+  "id": "dien1-007",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Altrechtliche Grunddienstbarkeit: Fortbestand, Beweislast, Erlöschen und Grundbuchberichtigung",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/altrechtliche-grunddienstbarkeit-fortbestand-beweislast-erloschen-und-grundbuchberichtigung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Wer sich auf eine altrechtliche Grunddienstbarkeit beruft, muss grundsätzlich deren Entstehung und Fortbestand beweisen; die bloß gedachte Möglichkeit eines Erlöschens geht aber nicht zu seinen Lasten.",
+  "antwort": true,
+  "erklaerung": "Die Beweislast für Entstehung und Fortbestand trägt derjenige, der sich auf die altrechtliche Dienstbarkeit beruft (OLG Karlsruhe, 12 U 392/20). Die bloß gedachte Möglichkeit, dass sie erloschen sein könnte, geht jedoch nicht zulasten des Berechtigten; für einen Erlöschenstatbestand trifft die Gegenseite eine sekundäre Darlegungslast, deren Umfang vom Einzelfall abhängt."
+ },
+ {
+  "id": "dien1-008",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Altrechtliche Grunddienstbarkeit: Fortbestand, Beweislast, Erlöschen und Grundbuchberichtigung",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/altrechtliche-grunddienstbarkeit-fortbestand-beweislast-erloschen-und-grundbuchberichtigung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 894 BGB",
+   "Art. 187 Abs. 1 S. 2 Hs. 2 EGBGB"
+  ],
+  "frage": "Der Berechtigte einer altrechtlichen Grunddienstbarkeit will diese nachträglich eintragen lassen. Welcher Anspruch steht ihm zu und wer trägt die Kosten?",
+  "optionen": [
+   "Anspruch auf Neubestellung nach § 873 BGB; die Kosten trägt der Eigentümer des dienenden Grundstücks",
+   "Anspruch auf Zustimmung zur Eintragung im Wege der Grundbuchberichtigung nach § 894 BGB; die Kosten trägt der Berechtigte",
+   "Anspruch auf Eintragung eines Widerspruchs nach § 899 BGB; die Kosten werden geteilt",
+   "Kein Anspruch, weil altrechtliche Dienstbarkeiten nicht eintragungsfähig sind"
+  ],
+  "antwort": 1,
+  "erklaerung": "Weil die altrechtliche Grunddienstbarkeit bereits besteht und das Grundbuch ohne sie unrichtig ist, hat der Berechtigte gegen den Eigentümer des belasteten Grundstücks einen Anspruch auf Zustimmung zur Eintragung im Wege der Grundbuchberichtigung (§ 894 BGB). Die Kosten der Eintragung trägt der Berechtigte (vgl. Art. 187 Abs. 1 S. 2 Hs. 2 EGBGB). Eine Neubestellung nach § 873 BGB ist der falsche Weg, da das Recht nicht neu entsteht, sondern nur verlautbart wird."
+ },
+ {
+  "id": "dien1-009",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Beschränkte persönliche Dienstbarkeit",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/beschrankte-personliche-dienstbarkeit",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 1090 Abs. 2 BGB",
+   "§ 1061 BGB",
+   "§ 1092 Abs. 1 S. 1 BGB"
+  ],
+  "frage": "Wie verhält es sich mit Vererblichkeit und Übertragbarkeit einer beschränkten persönlichen Dienstbarkeit, die einer natürlichen Person zusteht?",
+  "optionen": [
+   "Sie ist vererblich, aber nicht übertragbar",
+   "Sie ist weder vererblich noch grundsätzlich übertragbar; die Überlassung der Ausübung ist mit Gestattung des Eigentümers möglich",
+   "Sie ist frei übertragbar und vererblich wie eine Grunddienstbarkeit",
+   "Sie ist übertragbar, erlischt aber mit dem Tod des Berechtigten"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die beschränkte persönliche Dienstbarkeit ist nicht vererblich (§§ 1090 Abs. 2, 1061 BGB) und wegen ihrer Bindung an die Person grundsätzlich nicht übertragbar (§ 1092 Abs. 1 S. 1 BGB). Davon zu unterscheiden ist die Überlassung der Ausübung an Dritte, die zulässig ist, wenn der Eigentümer sie gestattet (§ 1092 Abs. 1 S. 2 BGB). Eine Übertragung ist nur in den Grenzen des § 1092 Abs. 2 und 3 BGB möglich, wenn das Recht einer juristischen Person zusteht."
+ },
+ {
+  "id": "dien1-010",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Beschränkte persönliche Dienstbarkeit",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/beschrankte-personliche-dienstbarkeit",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1090 Abs. 2 BGB",
+   "§ 1019 BGB",
+   "§ 1025 BGB"
+  ],
+  "frage": "Auf welche Vorschriften der Grunddienstbarkeit verweist § 1090 Abs. 2 BGB nicht?",
+  "optionen": [
+   "§§ 1020–1024 BGB (Ausübung, Anlagen, Kollision mit anderen Rechten)",
+   "§§ 1019 und 1025 BGB (Vorteil für das herrschende Grundstück, Teilung des herrschenden Grundstücks)",
+   "§§ 1026–1029 BGB (Teilung des dienenden Grundstücks, Besitzschutz)",
+   "§ 1061 BGB (Erlöschen mit dem Tod des Berechtigten)"
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 1090 Abs. 2 BGB verweist auf die §§ 1020–1024, 1026–1029 BGB und § 1061 BGB. Nicht in Bezug genommen sind §§ 1019 und 1025 BGB, weil es bei der beschränkten persönlichen Dienstbarkeit kein herrschendes Grundstück gibt: Berechtigt ist eine bestimmte Person, nie der jeweilige Grundstückseigentümer. Wer § 1061 BGB nennt, übersieht, dass gerade diese Verweisung die Unvererblichkeit begründet."
+ },
+ {
+  "id": "dien1-011",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Beschränkte persönliche Dienstbarkeit",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/beschrankte-personliche-dienstbarkeit",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 23 Abs. 2 GBO",
+   "§ 1021 BGB"
+  ],
+  "frage": "Für die Löschung einer beschränkten persönlichen Dienstbarkeit nach dem Tod des Berechtigten ist stets eine Löschungserleichterung nach § 23 Abs. 2 GBO erforderlich, weil Rückstände entstehen können.",
+  "antwort": false,
+  "erklaerung": "Für die Löschung nach dem Tod des Berechtigten genügt der Todesnachweis, etwa eine Sterbeurkunde. Da bei der beschränkten persönlichen Dienstbarkeit grundsätzlich keine Rückstände entstehen können, scheidet eine Löschungserleichterung für den Todesfall nach § 23 Abs. 2 GBO aus. Anders liegt es nur, wenn Unterhaltungspflichten nach § 1021 BGB bestanden; die Aussage verkehrt Regel und Ausnahme."
+ },
+ {
+  "id": "dien1-012",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Beschränkte persönliche Dienstbarkeit",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/beschrankte-personliche-dienstbarkeit",
+  "typ": "fall",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1090 BGB",
+   "§ 1018 BGB",
+   "§ 428 BGB",
+   "§ 1092 Abs. 1 BGB"
+  ],
+  "frage": "Wahl der richtigen Dienstbarkeit",
+  "sachverhalt": "E ist Eigentümer eines Hinterliegergrundstücks, das nur über den Hof des Nachbargrundstücks des N erreichbar ist. E und seine Ehefrau F wollen das Zufahrtsrecht dauerhaft gesichert wissen, auch wenn sie das Grundstück später an ihre Kinder übergeben. Zugleich verlangt der örtliche Stromversorger S ein Recht, auf dem Grundstück des N eine Leitung zu verlegen und zu unterhalten.",
+  "schritte": [
+   {
+    "frage": "Welche Dienstbarkeit sollte der Notar für das Zufahrtsrecht des E vorschlagen?",
+    "optionen": [
+     "Eine beschränkte persönliche Dienstbarkeit für E und F als Gesamtberechtigte nach § 428 BGB",
+     "Eine Grunddienstbarkeit zugunsten des jeweiligen Eigentümers des Grundstücks des E, regelmäßig unbefristet",
+     "Eine beschränkte persönliche Dienstbarkeit für E mit Gestattung der Ausübungsüberlassung an die Kinder",
+     "Einen Nießbrauch am Hof des N zugunsten des E"
+    ],
+    "antwort": 1,
+    "erklaerung": "Dauerhafter Schutz eines Nachbargrundstücks wird über eine Grunddienstbarkeit gesichert, die regelmäßig unbefristet bestellt wird; nur sie erfasst auch künftige Eigentümer. Der typische Fehler ist eine beschränkte persönliche Dienstbarkeit für eine natürliche Person, die mit deren Tod erlischt (§§ 1090 Abs. 2, 1061 BGB) und nicht übertragbar ist (§ 1092 Abs. 1 S. 1 BGB)."
+   },
+   {
+    "frage": "Welche Dienstbarkeit kommt für das Leitungsrecht des Stromversorgers S in Betracht?",
+    "optionen": [
+     "Nur eine Grunddienstbarkeit zugunsten des Betriebsgrundstücks des S",
+     "Nur eine beschränkte persönliche Dienstbarkeit zugunsten des S als juristischer Person",
+     "Wahlweise Grunddienstbarkeit oder Reallast nach Wunsch des S",
+     "Ein Nießbrauch an der Leitungstrasse"
+    ],
+    "antwort": 1,
+    "erklaerung": "Rechte für Versorgungsträger wie Stromversorger oder Gemeinden können nur als beschränkte persönliche Dienstbarkeit bestellt werden. Berechtigt ist dann die juristische Person S; eine Übertragung ist nach § 1092 Abs. 2 BGB in Grenzen möglich, die Ausnahmeregel des § 1092 Abs. 3 BGB ist zu beachten."
+   },
+   {
+    "frage": "S möchte, dass N zusätzlich verpflichtet wird, die Leitung regelmäßig auf eigene Kosten zu warten. Lässt sich das als Hauptinhalt der Dienstbarkeit vereinbaren?",
+    "optionen": [
+     "Ja, als Inhalt der Dienstbarkeit nach §§ 1090, 1018 BGB",
+     "Nein, Leistungspflichten können nicht Hauptinhalt einer beschränkten persönlichen Dienstbarkeit sein",
+     "Ja, wenn der Eigentümer die Pflicht in der Bewilligung ausdrücklich übernimmt",
+     "Nein, weil Versorgungsträger keine Pflichten des Eigentümers begründen dürfen"
+    ],
+    "antwort": 1,
+    "erklaerung": "Die Dienstbarkeit ist auf Nutzung, Unterlassen oder Nichtausübung von Abwehrrechten gerichtet (§§ 1090, 1018 BGB). Leistungspflichten des Eigentümers können nicht Hauptinhalt der beschränkten persönlichen Dienstbarkeit sein; auch eine ausdrückliche Übernahme in der Bewilligung ändert daran nichts, weil der sachenrechtliche Typenzwang gilt."
+   }
+  ],
+  "erklaerung": "Dauerhafte Nachbarsicherung gehört in eine unbefristete Grunddienstbarkeit für den jeweiligen Eigentümer, nicht in ein an die Person gebundenes, unvererbliches Recht. Versorgungsträger erhalten ihre Rechte nur als beschränkte persönliche Dienstbarkeit. Leistungspflichten des Eigentümers können in keiner Dienstbarkeit Hauptinhalt sein."
+ },
+ {
+  "id": "dien1-013",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Dienstbarkeiten: Arten, Bestellung und Eintragung",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/dienstbarkeiten-arten-bestellung-und-eintragung",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§§ 1018–1029 BGB",
+   "§§ 1030–1089 BGB",
+   "§§ 1090–1093 BGB"
+  ],
+  "frage": "Ordne die drei Arten der Dienstbarkeit ihrem Berechtigten bzw. Inhalt zu.",
+  "paare": [
+   [
+    "Grunddienstbarkeit (§§ 1018–1029 BGB)",
+    "Belastet ein Grundstück zugunsten des jeweiligen Eigentümers eines anderen Grundstücks"
+   ],
+   [
+    "Nießbrauch (§§ 1030–1089 BGB)",
+    "Recht, sämtliche Nutzungen eines Gegenstands zu ziehen; auch an anderen Vermögenswerten als Grundstücken möglich"
+   ],
+   [
+    "Beschränkte persönliche Dienstbarkeit (§§ 1090–1093 BGB)",
+    "Belastet ein Grundstück zugunsten einer bestimmten natürlichen oder juristischen Person"
+   ]
+  ],
+  "erklaerung": "Die Grunddienstbarkeit ist subjektiv-dinglich und knüpft an das herrschende Grundstück an; die beschränkte persönliche Dienstbarkeit ist subjektiv-persönlich und knüpft an eine bestimmte Person an. Der Nießbrauch unterscheidet sich durch seinen Umfang: Er gewährt sämtliche Nutzungen und ist nicht auf Grundstücke beschränkt. Alle drei sind beschränkte dingliche Rechte, die auf Dulden oder Unterlassen gerichtet sind."
+ },
+ {
+  "id": "dien1-014",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Dienstbarkeiten: Arten, Bestellung und Eintragung",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/dienstbarkeiten-arten-bestellung-und-eintragung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 19 GBO",
+   "§ 29 GBO"
+  ],
+  "frage": "Welche Anforderung gilt für die Eintragungsbewilligung einer Dienstbarkeit hinsichtlich ihres Inhalts?",
+  "optionen": [
+   "Sie muss auch das schuldrechtliche Grundverhältnis vollständig wiedergeben, damit das Grundbuchamt die Wirksamkeit prüfen kann",
+   "Sie darf nur den sachenrechtlich zulässigen Inhalt der Dienstbarkeit enthalten; schuldrechtliche Abreden sind deutlich von ihr zu trennen",
+   "Sie kann formlos abgegeben werden, da nur die dingliche Einigung der Form des § 29 GBO unterliegt",
+   "Sie muss vom Berechtigten und vom Eigentümer gemeinsam abgegeben werden"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach §§ 19, 29 GBO ist eine beurkundete oder öffentlich beglaubigte Bewilligung des Eigentümers nötig. Sie darf nur den sachenrechtlich zulässigen Inhalt der Dienstbarkeit enthalten; weitergehende schuldrechtliche Abreden sind in der Urkunde deutlich von der Bewilligung zu trennen. Der typische Fehler ist gerade die Aufnahme schuldrechtlicher Nebenabreden in die Bewilligung. Der formlos mögliche schuldrechtliche Vertrag ist für Entstehen und Fortbestand der Dienstbarkeit ohne Bedeutung."
+ },
+ {
+  "id": "dien1-015",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Dienstbarkeiten: Arten, Bestellung und Eintragung",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/dienstbarkeiten-arten-bestellung-und-eintragung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 13 Abs. 1 S. 1 BeurkG"
+  ],
+  "frage": "Ein Leitungsrecht soll nur auf einem Teilstreifen des dienenden Grundstücks ausgeübt werden. Wie ist der Ausübungsbereich in der Urkunde festzulegen?",
+  "optionen": [
+   "Durch eine Vermessung und Bildung eines eigenen Flurstücks vor Eintragung",
+   "Durch eindeutige Beschreibung in der Bewilligung oder durch Einzeichnung in einem beigefügten, in Bezug genommenen Lageplan (§ 13 Abs. 1 S. 1 BeurkG); alternativ kann die Festlegung der tatsächlichen Ausübung überlassen bleiben",
+   "Nur durch Eintragung der Teilfläche im Bestandsverzeichnis des Grundbuchs",
+   "Durch nachträgliche Bestimmung des Grundbuchamts im Eintragungsvermerk"
+  ],
+  "antwort": 1,
+  "erklaerung": "Beschränkt sich die Ausübung auf eine reale Teilfläche, ist die Fläche entweder in der Bewilligung eindeutig zu beschreiben oder in einem Lageplan einzuzeichnen, der der Urkunde beigefügt und in der Erklärung in Bezug genommen wird (§ 13 Abs. 1 S. 1 BeurkG). Die Festlegung des Ausübungsbereichs kann auch der tatsächlichen Ausübung überlassen bleiben. Eine Vermessung ist nicht erforderlich, da die Dienstbarkeit das ganze Grundstück belastet und nur die Ausübung auf eine Teilfläche beschränkt ist."
+ },
+ {
+  "id": "dien1-016",
+  "kapitel": "dienstbarkeiten-niessbrauch-reallast-und-baulast",
+  "abschnitt": "Dienstbarkeiten und Wohnungsrecht",
+  "seite": "Dienstbarkeiten: Arten, Bestellung und Eintragung",
+  "quelle": "handbuch-mit-notarwissen/dienstbarkeiten-niessbrauch-reallast-und-baulast/dienstbarkeiten-und-wohnungsrecht/dienstbarkeiten-arten-bestellung-und-eintragung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Der Eintragungsvermerk einer Dienstbarkeit in Abteilung II muss den Kern des Rechts schlagwortartig bezeichnen und den Berechtigten angeben; wegen des übrigen Inhalts genügt die Bezugnahme auf die Bewilligung.",
+  "antwort": true,
+  "erklaerung": "Die Dienstbarkeit wird in Abteilung II des dienenden Grundstücks eingetragen. Der Vermerk muss den Kern des Rechts zumindest schlagwortartig (z. B. Wegerecht, Baubeschränkung) und stets den Berechtigten angeben: bei der beschränkten persönlichen Dienstbarkeit die Person, bei der Grunddienstbarkeit den jeweiligen Eigentümer eines genau bezeichneten Grundstücks. Für den übrigen Inhalt genügt die Bezugnahme auf die Eintragungsbewilligung."
+ }
+]

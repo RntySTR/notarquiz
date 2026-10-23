@@ -1,0 +1,109 @@
+{
+ "kapitel": "familienrecht",
+ "kapitel_titel": "Familienrecht",
+ "teil": 2,
+ "teile": 2,
+ "datei": "data/fragen/familienrecht__2.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/guterrecht-guterstande-ehevertrag-und-wegfall-des-guterrechtsregisters",
+   "titel": "Güterrecht: Güterstände, Ehevertrag und Wegfall des Güterrechtsregisters",
+   "abschnitt": "Ehe und Güterrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/guterrecht-gutertrennung-und-gutergemeinschaft",
+   "titel": "Güterrecht: Gütertrennung und Gütergemeinschaft",
+   "abschnitt": "Ehe und Güterrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/verlobnis-begriff-und-rechtswirkungen",
+   "titel": "Verlöbnis: Begriff und Rechtswirkungen",
+   "abschnitt": "Ehe und Güterrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinnausgleich-anrechnung-von-ehegattenzuwendungen-1380-bgb",
+   "titel": "Zugewinnausgleich: Anrechnung von Ehegattenzuwendungen (§ 1380 BGB)",
+   "abschnitt": "Ehe und Güterrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinnausgleich-ehegattenzuwendung-bei-negativem-zugewinn-uberhohter-zuwendung-und-aus-dem-anfangsvermogen",
+   "titel": "Zugewinnausgleich: Ehegattenzuwendung bei negativem Zugewinn, überhöhter Zuwendung und aus dem Anfangsvermögen",
+   "abschnitt": "Ehe und Güterrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinngemeinschaft-ehevertragliche-modifikationen",
+   "titel": "Zugewinngemeinschaft: ehevertragliche Modifikationen",
+   "abschnitt": "Ehe und Güterrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinngemeinschaft-grundsatze-zugewinnausgleich-und-privilegierter-erwerb",
+   "titel": "Zugewinngemeinschaft: Grundsätze, Zugewinnausgleich und privilegierter Erwerb",
+   "abschnitt": "Ehe und Güterrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/ehe-und-guterrecht/zugewinngemeinschaft-verfugungsbeschrankungen-1365-1369-bgb",
+   "titel": "Zugewinngemeinschaft: Verfügungsbeschränkungen (§§ 1365, 1369 BGB)",
+   "abschnitt": "Ehe und Güterrecht"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/ehebedingte-zuwendung-einordnung-und-abgrenzung-zur-schenkung",
+   "titel": "Ehebedingte Zuwendung: Einordnung und Abgrenzung zur Schenkung",
+   "abschnitt": "Scheidung, Unterhalt und Partnerschaften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/ehebedingte-zuwendung-ruckabwicklung-nach-guterstand",
+   "titel": "Ehebedingte Zuwendung: Rückabwicklung nach Güterstand",
+   "abschnitt": "Scheidung, Unterhalt und Partnerschaften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/ehegattenunterhalt-nachehelicher-unterhalt-und-betreuungsunterhalt",
+   "titel": "Ehegattenunterhalt: nachehelicher Unterhalt und Betreuungsunterhalt",
+   "abschnitt": "Scheidung, Unterhalt und Partnerschaften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/ehegattenunterhalt-trennungsunterhalt",
+   "titel": "Ehegattenunterhalt: Trennungsunterhalt",
+   "abschnitt": "Scheidung, Unterhalt und Partnerschaften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/ehegattenzuwendung-von-immobilien-anlasse-investitionen-und-folgen-der-scheidung",
+   "titel": "Ehegattenzuwendung von Immobilien: Anlässe, Investitionen und Folgen der Scheidung",
+   "abschnitt": "Scheidung, Unterhalt und Partnerschaften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/ehegattenzuwendung-gestaltung-fur-den-scheidungsfall-und-ruckforderungsrecht",
+   "titel": "Ehegattenzuwendung: Gestaltung für den Scheidungsfall und Rückforderungsrecht",
+   "abschnitt": "Scheidung, Unterhalt und Partnerschaften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/eingetragene-lebenspartnerschaft-altfalle-wirkungen-und-aufhebung",
+   "titel": "Eingetragene Lebenspartnerschaft: Altfälle, Wirkungen und Aufhebung",
+   "abschnitt": "Scheidung, Unterhalt und Partnerschaften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/nichteheliche-lebensgemeinschaft-ausgleichsanspruche-und-vorsorge",
+   "titel": "Nichteheliche Lebensgemeinschaft: Ausgleichsansprüche und Vorsorge",
+   "abschnitt": "Scheidung, Unterhalt und Partnerschaften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/scheidung-voraussetzungen-folgen-und-scheidungsvereinbarung",
+   "titel": "Scheidung: Voraussetzungen, Folgen und Scheidungsvereinbarung",
+   "abschnitt": "Scheidung, Unterhalt und Partnerschaften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/unterhaltsvereinbarungen-abanderung-und-angabe-der-berechnungsgrundlagen",
+   "titel": "Unterhaltsvereinbarungen: Abänderung und Angabe der Berechnungsgrundlagen",
+   "abschnitt": "Scheidung, Unterhalt und Partnerschaften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/unterhaltsvereinbarungen-form-modifizierende-und-novierende-vereinbarungen",
+   "titel": "Unterhaltsvereinbarungen: Form, modifizierende und novierende Vereinbarungen",
+   "abschnitt": "Scheidung, Unterhalt und Partnerschaften"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/familienrecht/scheidung-unterhalt-und-partnerschaften/versorgungsausgleich-vereinbarungen",
+   "titel": "Versorgungsausgleich: Vereinbarungen",
+   "abschnitt": "Scheidung, Unterhalt und Partnerschaften"
+  }
+ ]
+}
