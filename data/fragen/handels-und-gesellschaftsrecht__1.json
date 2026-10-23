@@ -422,5 +422,118 @@
   ],
   "antwort": 1,
   "erklaerung": "Bei der Gründung mit Musterprotokoll ist jede Abweichung vom gesetzlichen Wortlaut unzulässig; das Musterprotokoll beschränkt sich auf die notwendigen Satzungsbestandteile und enthält gerade keine Regelungen zu Vinkulierung, Einziehung, Abfindung oder Vererbung. Wer solche Regelungen will, muss individuell gründen. Der Kostenvorteil des Musterprotokolls (kein Mindestwert nach § 107 Abs. 1 S. 1 GNotKG, vgl. § 107 Abs. 1 S. 2, § 105 Abs. 6 GNotKG) ist im Einzelfall ohnehin gering, weshalb in der Regel von der Mustergründung abzuraten ist."
+ },
+ {
+  "id": "hand1-020",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Gründungsurkunde, Belehrungen und Gründungsvollmacht",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-grundungsurkunde-belehrungen-und-grundungsvollmacht",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 2 Abs. 2 GmbHG"
+  ],
+  "frage": "Welche Form muss eine Vollmacht zur Gründung einer GmbH haben?",
+  "optionen": [
+   "Schriftform genügt, da die Vollmacht nach § 167 Abs. 2 BGB nicht der Form des Hauptgeschäfts bedarf",
+   "Notarielle Beurkundung oder Beglaubigung (§ 2 Abs. 2 GmbHG)",
+   "Zwingend notarielle Beurkundung; eine Beglaubigung reicht nicht",
+   "Keine Form; die Vollmacht kann auch mündlich erteilt werden, wenn der Vertreter das Gründungsprotokoll unterzeichnet"
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 2 Abs. 2 GmbHG verlangt für die Gründungsvollmacht notarielle Beurkundung oder Beglaubigung; die Beglaubigung reicht also aus. Diese Form gilt sowohl für die individuelle Gründung als auch für die Gründung mit Musterprotokoll. Der allgemeine Grundsatz der Formfreiheit der Vollmacht ist durch die Sondernorm verdrängt."
+ },
+ {
+  "id": "hand1-021",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Gründungsurkunde, Belehrungen und Gründungsvollmacht",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-grundungsurkunde-belehrungen-und-grundungsvollmacht",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 180 S. 1 BGB",
+   "§ 2 Abs. 2 GmbHG"
+  ],
+  "frage": "Der Alleingründer A ist verhindert; sein Bekannter B erscheint ohne Vollmacht beim Notar und errichtet in A's Namen eine Ein-Personen-GmbH. A will die Gründung anschließend genehmigen. Wie ist die Rechtslage?",
+  "optionen": [
+   "Die Genehmigung heilt die Gründung rückwirkend nach § 177 Abs. 1 BGB",
+   "Die Genehmigung muss notariell beglaubigt sein, dann ist die Gründung wirksam",
+   "Die Vertretung ohne Vertretungsmacht ist bei der Ein-Personen-Gründung ausgeschlossen (§ 180 S. 1 BGB); die Gründung ist unwirksam",
+   "Die Genehmigung ist nur wirksam, wenn das Registergericht vor Eintragung zustimmt"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Errichtung einer Ein-Personen-GmbH ist ein einseitiges Rechtsgeschäft, bei dem § 180 S. 1 BGB die Vertretung ohne Vertretungsmacht ausschließt; eine nachgereichte Genehmigung ist nicht möglich. Das ist der typische Fehler der Seite. B hätte eine nach § 2 Abs. 2 GmbHG beurkundete oder beglaubigte Vollmacht benötigt. Die Rückwirkung des § 177 BGB gilt nur bei mehrseitigen Geschäften (Mehrpersonengründung)."
+ },
+ {
+  "id": "hand1-022",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Gründungsurkunde, Belehrungen und Gründungsvollmacht",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-grundungsurkunde-belehrungen-und-grundungsvollmacht",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 19 Abs. 5 GmbHG"
+  ],
+  "frage": "Unter welchen Voraussetzungen befreit eine Einlage beim sogenannten Hin- und Herzahlen den Gesellschafter von seiner Einlagepflicht?",
+  "optionen": [
+   "Die Leistung an den Gesellschafter ist durch einen vollwertigen, jederzeit fälligen oder fristlos kündbaren Rückgewähranspruch gedeckt und wird in der Handelsregisteranmeldung angegeben",
+   "Die Leistung an den Gesellschafter wird von der Gesellschafterversammlung einstimmig gebilligt und im Gesellschaftsvertrag festgehalten",
+   "Der Rückgewähranspruch ist durch eine Grundschuld besichert und binnen eines Jahres fällig",
+   "Die Leistung wird innerhalb von sechs Monaten nach Eintragung an die Gesellschaft zurückgezahlt"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Einlage befreit nur, wenn erstens die Leistung durch einen vollwertigen Rückgewähranspruch gedeckt ist, der jederzeit fällig ist oder durch fristlose Kündigung fällig gestellt werden kann, und zweitens die Leistung oder ihre Vereinbarung in der Handelsregisteranmeldung angegeben wird. Eine bloße Billigung durch die Gesellschafter oder eine Rückzahlungsfrist genügt nicht; das Gesetz verlangt Vollwertigkeit, Liquidität des Anspruchs und Offenlegung gegenüber dem Register."
+ },
+ {
+  "id": "hand1-023",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Gründungsurkunde, Belehrungen und Gründungsvollmacht",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-grundungsurkunde-belehrungen-und-grundungsvollmacht",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 11 Abs. 2 GmbHG",
+   "§ 24 GmbHG",
+   "§ 9a GmbHG"
+  ],
+  "frage": "Ordne die notariellen Belehrungen im GmbH-Gründungsprotokoll ihrem Inhalt zu.",
+  "paare": [
+   [
+    "Handelndenhaftung",
+    "Bis zur Eintragung haften alle, die im Namen der Gesellschaft handeln, persönlich und als Gesamtschuldner"
+   ],
+   [
+    "Unterbilanzhaftung",
+    "Ist das Gesellschaftsvermögen bei Eintragung niedriger als das Stammkapital abzüglich Gründungsaufwand, haftet jeder Gesellschafter für den Fehlbetrag"
+   ],
+   [
+    "Haftung für Einlagen",
+    "Jeder Gesellschafter steht für nicht erbrachte Geldeinlagen der Mitgesellschafter und die Vollwertigkeit der Sacheinlagen ein"
+   ],
+   [
+    "Falsche Angaben",
+    "Gesellschafter und Hintermänner haften der Gesellschaft als Gesamtschuldner; Strafdrohung bis zu drei Jahren Freiheitsstrafe"
+   ]
+  ],
+  "erklaerung": "Die Belehrungen betreffen unterschiedliche Haftungstatbestände: Handelndenhaftung vor Eintragung, Unterbilanzhaftung auf den Fehlbetrag zum Stammkapital bei Eintragung, Ausfallhaftung für fremde Geldeinlagen und Vollwertigkeit der Sacheinlagen sowie die Haftung und Strafbarkeit bei falschen Angaben (Freiheitsstrafe bis zu drei Jahren oder Geldstrafe)."
+ },
+ {
+  "id": "hand1-024",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "GmbH und UG (haftungsbeschränkt)",
+  "seite": "GmbH: Gründungsurkunde, Belehrungen und Gründungsvollmacht",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/gmbh-und-ug-haftungsbeschrankt/gmbh-grundungsurkunde-belehrungen-und-grundungsvollmacht",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 19 Abs. 2 GmbHG"
+  ],
+  "frage": "Ein Gesellschafter darf gegen die Bareinlageforderung der GmbH mit jeder fälligen Gegenforderung aufrechnen, sofern die Gegenforderung vollwertig ist.",
+  "antwort": false,
+  "erklaerung": "Die Bareinlage wird grundsätzlich nur durch tatsächliche Zahlung von Geld zur endgültig freien Verfügung der Geschäftsführer erfüllt. Eine Aufrechnung ist nur zulässig, wenn die Gegenforderung aus der Überlassung von Vermögensgegenständen stammt und die Anrechnung auf die Einlage unter Beachtung der Sacheinlagevorschriften vereinbart wurde. Die bloße Vollwertigkeit einer beliebigen Gegenforderung reicht nicht."
  }
 ]

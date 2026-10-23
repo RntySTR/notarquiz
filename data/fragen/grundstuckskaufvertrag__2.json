@@ -432,5 +432,468 @@
   "abschnitt": "Beteiligte und Vertretung",
   "seite": "Vertretung beim Grundstückskauf: vollmachtlose Vertretung und Nachgenehmigung",
   "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/beteiligte-und-vertretung/vertretung-beim-grundstuckskauf-vollmachtlose-vertretung-und-nachgenehmigung"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1191 BGB"
+  ],
+  "frage": "Unter welcher Bedingung sagt der Veräußerer im Kaufvertrag die Mitwirkung an der Bestellung von Finanzierungsgrundpfandrechten des Käufers zu?",
+  "optionen": [
+   "Der Gläubiger darf das Grundpfandrecht nur bis zur Höhe des Kaufpreises verwerten",
+   "Der Gläubiger darf das Grundpfandrecht nur verwerten, soweit seine Auszahlungen die Kaufpreisschuld des Erwerbers tatsächlich getilgt haben",
+   "Der Gläubiger darf das Grundpfandrecht erst nach Eigentumsumschreibung verwerten",
+   "Der Veräußerer haftet persönlich nur bis zur Höhe des Darlehens"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Mitwirkung steht unter der Bedingung, dass der Gläubiger das Grundpfandrecht nur verwerten darf, soweit seine Auszahlungen die Kaufpreisschuld tatsächlich getilgt haben; deshalb ist das Darlehen zweckgebunden auf die Kaufpreiszahlung. Eine bloße betragsmäßige Begrenzung auf den Kaufpreis schützt den Veräußerer nicht, wenn die Bank an den Käufer statt auf den Kaufpreis auszahlt. Weitergehende Sicherungsabreden wirken erst ab vollständiger Zahlung, spätestens ab Umschreibung.",
+  "id": "kauf2-019",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Fälligkeit und Zahlung",
+  "seite": "Grundstückskaufvertrag: Finanzierungsmitwirkung und Finanzierungsvollmacht",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/grundstuckskaufvertrag-finanzierungsmitwirkung-und-finanzierungsvollmacht"
+ },
+ {
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1191 BGB"
+  ],
+  "frage": "Der Notar muss den Finanzierungsgläubiger darauf hinweisen, dass den Verkäufer bei der Mitbestellung der Finanzierungsgrundschuld keine persönliche Zahlungspflicht trifft.",
+  "antwort": true,
+  "erklaerung": "Der Veräußerer stellt nur sein Eigentum als Sicherheit zur Verfügung; der Notar muss den Gläubiger auf das Fehlen einer persönlichen Zahlungspflicht des Verkäufers hinweisen. Ergänzend stellt der Käufer den Verkäufer von allen Kosten der Grundschuldbestellung frei, und der Veräußerer tritt dem Erwerber die Rückgewähransprüche aus der Finanzierungsgrundschuld ab.",
+  "id": "kauf2-020",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Fälligkeit und Zahlung",
+  "seite": "Grundstückskaufvertrag: Finanzierungsmitwirkung und Finanzierungsvollmacht",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/grundstuckskaufvertrag-finanzierungsmitwirkung-und-finanzierungsvollmacht"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 167 BGB"
+  ],
+  "frage": "Welchen praktischen Vorteil hat die im Kaufvertrag erteilte Finanzierungsvollmacht (Belastungsvollmacht) des Veräußerers an den Erwerber?",
+  "optionen": [
+   "Die Grundschuld kann ohne Mitwirkung des Grundbuchamts bestellt werden",
+   "Liegt das Bestellungsformular der Bank im Termin noch nicht vor, müssen für die Grundschuldbestellung nicht erneut alle Beteiligten erscheinen",
+   "Die Verwertungsbeschränkung des Gläubigers wird dadurch entbehrlich",
+   "Der Käufer wird von der Grunderwerbsteuer auf die Grundschuld befreit"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Finanzierungsvollmacht ermöglicht, dass der Erwerber den Vertragsgegenstand ohne erneutes Erscheinen aller Beteiligten belastet, wenn das Bankformular im Kaufvertragstermin noch fehlt; der Veräußerer muss bei der ihn nur am Rande betreffenden Bestellung nicht anwesend sein. Die Verwertungsbeschränkung auf tilgungswirksame Kaufpreiszahlungen bleibt gerade mit der Vollmacht stets zu verbinden.",
+  "id": "kauf2-021",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Fälligkeit und Zahlung",
+  "seite": "Grundstückskaufvertrag: Finanzierungsmitwirkung und Finanzierungsvollmacht",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/grundstuckskaufvertrag-finanzierungsmitwirkung-und-finanzierungsvollmacht"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 271 Abs. 1 BGB"
+  ],
+  "frage": "Weshalb werden die Eintragung des Finanzierungsgrundpfandrechts und die Unbedenklichkeitsbescheinigung in der Regel nicht als Fälligkeitsvoraussetzung vereinbart?",
+  "optionen": [
+   "Weil sie erst nach Eigentumsumschreibung vorliegen können",
+   "Weil sie in der Sphäre des Käufers liegen und dieser sonst die Fälligkeit hinauszögern und Verzugszinsen vermeiden könnte",
+   "Weil der Notar sie nicht selbst prüfen kann",
+   "Weil das Grundbuchamt sie als Fälligkeitsvoraussetzung nicht akzeptiert"
+  ],
+  "antwort": 1,
+  "erklaerung": "Fälligkeitsvoraussetzungen liegen typischerweise in der Sphäre des Verkäufers und dürfen nicht von einem Handeln des Käufers abhängen. Grundpfandrechtseintragung und Unbedenklichkeitsbescheinigung hängen vom Käufer ab (Bestellung, Steuerzahlung); er könnte sonst die Fälligkeit hinauszögern und Verzugszinsen vermeiden. Mit der Prüfbarkeit durch den Notar hat das nichts zu tun.",
+  "id": "kauf2-022",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Fälligkeit und Zahlung",
+  "seite": "Kaufpreisfälligkeit: allgemeine Fälligkeitsvoraussetzungen",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/kaufpreisfalligkeit-allgemeine-falligkeitsvoraussetzungen"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 883 Abs. 2 S. 1 BGB",
+   "§ 106 Abs. 1 S. 1 InsO"
+  ],
+  "frage": "Wovor schützt die als Fälligkeitsvoraussetzung vereinbarte Eigentumsvormerkung den Käufer vor allem?",
+  "optionen": [
+   "Vor Sachmängeln des Grundstücks und vor Baulasten",
+   "Vor Zwischenverfügungen des Verkäufers und vor dessen Insolvenz",
+   "Vor der Ausübung gesetzlicher Vorkaufsrechte",
+   "Vor einer Nachforderung der Grunderwerbsteuer"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Vormerkung macht vormerkungswidrige Verfügungen dem Käufer gegenüber relativ unwirksam (§ 883 Abs. 2 S. 1 BGB) und schützt in der Insolvenz des Verkäufers (§ 106 Abs. 1 S. 1 InsO). Entscheidend ist die rangrichtige Eintragung: Vorgehen dürfen nur Belastungen, die bei Vertragsschluss schon eingetragen waren oder unter Mitwirkung des Käufers eingetragen wurden.",
+  "id": "kauf2-023",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Fälligkeit und Zahlung",
+  "seite": "Kaufpreisfälligkeit: allgemeine Fälligkeitsvoraussetzungen",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/kaufpreisfalligkeit-allgemeine-falligkeitsvoraussetzungen"
+ },
+ {
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 144 Abs. 2 BauGB",
+   "§ 1856 Abs. 1 S. 1 BGB",
+   "§ 29 GBO",
+   "KV 22200 Nr. 2 GNotKG"
+  ],
+  "frage": "Ordne die Fälligkeitsvoraussetzung dem zugehörigen Rechtsgrund zu.",
+  "paare": [
+   [
+    "Schriftliche gemeindliche Genehmigung im förmlich festgelegten Sanierungsgebiet",
+    "§ 144 Abs. 2 BauGB"
+   ],
+   [
+    "Schwebende Unwirksamkeit bis zur familien- oder betreuungsgerichtlichen Genehmigung",
+    "§ 1856 Abs. 1 S. 1 BGB"
+   ],
+   [
+    "Nachgenehmigung oder Vollmachtsbestätigung in grundbuchtauglicher Form",
+    "§ 29 GBO"
+   ],
+   [
+    "Betreuungsgebühr für die Überwachung der Fälligkeitsvoraussetzungen",
+    "KV 22200 Nr. 2 GNotKG"
+   ]
+  ],
+  "erklaerung": "Im Sanierungsgebiet brauchen Veräußerung, schuldrechtlicher Vertrag und Finanzierungsgrundpfandrecht die Genehmigung nach § 144 Abs. 2 BauGB. Ein genehmigungsbedürftiger Vertrag ist bis zur gerichtlichen Genehmigung nach § 1856 Abs. 1 S. 1 BGB schwebend unwirksam. Nachgenehmigung und Vollmachtsbestätigung müssen der Form des § 29 GBO genügen; die Überwachung ist Betreuungstätigkeit nach KV 22200 Nr. 2.",
+  "id": "kauf2-024",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Fälligkeit und Zahlung",
+  "seite": "Kaufpreisfälligkeit: allgemeine Fälligkeitsvoraussetzungen",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/kaufpreisfalligkeit-allgemeine-falligkeitsvoraussetzungen"
+ },
+ {
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 271 Abs. 1 BGB"
+  ],
+  "frage": "Die Eintragungsbekanntmachung des Grundbuchamts genügt, um vor Versand der Fälligkeitsmitteilung die rangrichtige Eintragung der Vormerkung festzustellen.",
+  "antwort": false,
+  "erklaerung": "Vor Versendung der Fälligkeitsmitteilung muss das Grundbuch selbst sorgfältig darauf kontrolliert werden, ob die Vormerkung mit richtigem Rang eingetragen ist; die Eintragungsbekanntmachung reicht dafür nicht. Nur so lässt sich ausschließen, dass zwischenzeitlich eine vorrangige Belastung ohne Mitwirkung des Käufers eingetragen wurde.",
+  "id": "kauf2-025",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Fälligkeit und Zahlung",
+  "seite": "Kaufpreisfälligkeit: allgemeine Fälligkeitsvoraussetzungen",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/kaufpreisfalligkeit-allgemeine-falligkeitsvoraussetzungen"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 271 Abs. 1 BGB"
+  ],
+  "frage": "Der Verkäufer verpflichtet sich im Kaufvertrag zur Räumung des Objekts; die Räumung wird aber nicht als Fälligkeitsvoraussetzung aufgenommen. Welche Folge hat das?",
+  "optionen": [
+   "Der Notar darf die Fälligkeit erst nach eigener Kontrolle der Räumung mitteilen",
+   "Der Käufer muss auch bei noch vollgestelltem Objekt zahlen; der Kaufpreis taugt nicht mehr als Druckmittel",
+   "Der Käufer kann die Zahlung nach § 271 Abs. 1 BGB bis zur Räumung verweigern",
+   "Die Räumungspflicht ist mangels Fälligkeitsbezug unwirksam"
+  ],
+  "antwort": 1,
+  "erklaerung": "Wird die Räumungspflicht nicht zur Fälligkeitsvoraussetzung gemacht, tritt die Fälligkeit unabhängig vom Zustand des Objekts ein; der Käufer muss zahlen und verliert den Kaufpreis als Druckmittel. Das ist der typische Fehler. Die Räumung überwacht ohnehin nicht der Notar, sondern der Käufer überzeugt sich selbst davon.",
+  "id": "kauf2-026",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Fälligkeit und Zahlung",
+  "seite": "Kaufpreisfälligkeit: allgemeine Fälligkeitsvoraussetzungen",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/kaufpreisfalligkeit-allgemeine-falligkeitsvoraussetzungen"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 19 GBO",
+   "§ 27 GBO",
+   "§ 13 GBO"
+  ],
+  "frage": "Welche Unterlagen und Erklärungen braucht das Grundbuchamt für die Löschung einer Grundschuld?",
+  "optionen": [
+   "Löschungsbewilligung des Gläubigers, Zustimmung des Eigentümers und Löschungsantrag",
+   "Löschungsbewilligung des Gläubigers und Nichtvalutierungserklärung",
+   "Zustimmung des Eigentümers und Unbedenklichkeitsbescheinigung",
+   "Löschungsantrag des Gläubigers und Zustimmung des Käufers"
+  ],
+  "antwort": 0,
+  "erklaerung": "Erforderlich sind die Löschungsbewilligung des Gläubigers (§ 19 GBO), die Zustimmung des Eigentümers (§ 27 GBO; materiell §§ 1183 S. 1, 1192 Abs. 1 BGB) und ein Löschungsantrag (§ 13 GBO). Die Nichtvalutierungserklärung ist nur im Ausnahmefall der dinglichen Übernahme der Grundschuld durch den Käufer nötig.",
+  "id": "kauf2-027",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Fälligkeit und Zahlung",
+  "seite": "Kaufpreisfälligkeit: Lastenfreistellung, Treuhandauflagen und Ablösung",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/kaufpreisfalligkeit-lastenfreistellung-treuhandauflagen-und-ablosung"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 27 GBO"
+  ],
+  "frage": "Auf dem Kaufobjekt lastet eine noch valutierte Grundschuld, die aus dem Kaufpreis abgelöst werden soll. Welche Fälligkeitsvoraussetzung ist sachgerecht?",
+  "optionen": [
+   "Die im Grundbuch vollzogene Löschung der Grundschuld",
+   "Das auflagenfreie Vorliegen der Löschungsunterlagen beim Notar oder mit Auflagen, die aus dem Kaufpreis erfüllbar sind",
+   "Die schriftliche Versicherung des Verkäufers, dass die Ablösebeträge den Kaufpreis nicht übersteigen",
+   "Die Nichtvalutierungserklärung des Gläubigers in der Form des § 29 GBO"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei valutierten Grundpfandrechten erfolgt die Löschung erst nach Zahlung und kann daher keine Fälligkeitsvoraussetzung sein; Fälligkeitsvoraussetzung ist das Vorliegen der grundbuchtauglichen Löschungsunterlagen beim Notar, auflagenfrei oder mit aus dem Kaufpreis erfüllbaren Auflagen. Die vollzogene Löschung als Fälligkeitsvoraussetzung passt nur beim nicht valutierten Grundpfandrecht, dessen Unterlagen der Verkäufer schon im Termin vorlegen kann.",
+  "id": "kauf2-028",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Fälligkeit und Zahlung",
+  "seite": "Kaufpreisfälligkeit: Lastenfreistellung, Treuhandauflagen und Ablösung",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/kaufpreisfalligkeit-lastenfreistellung-treuhandauflagen-und-ablosung"
+ },
+ {
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 27 GBO"
+  ],
+  "frage": "Der Notar muss vor der Fälligkeitsmitteilung die Höhe und Berechtigung der von den Gläubigern mitgeteilten Ablösebeträge prüfen.",
+  "antwort": false,
+  "erklaerung": "Weder Notar noch Käufer müssen die Ablösebeträge prüfen; ihre Höhe ist allein Risiko des Verkäufers. Der Notar prüft aber, ob die Ablösebeträge insgesamt den Kaufpreis nicht übersteigen, weil der Vertrag sonst nicht vollziehbar ist, sowie Befristung und weitere Bedingungen des Treuhandauftrags.",
+  "id": "kauf2-029",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Fälligkeit und Zahlung",
+  "seite": "Kaufpreisfälligkeit: Lastenfreistellung, Treuhandauflagen und Ablösung",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/kaufpreisfalligkeit-lastenfreistellung-treuhandauflagen-und-ablosung"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 398 BGB",
+   "§ 1191 BGB"
+  ],
+  "frage": "Welchen Zweck hat die im Kaufvertrag übliche, aufschiebend bedingte Abtretung der Rückgewähransprüche an den Grundpfandrechten vom Verkäufer an den Käufer?",
+  "optionen": [
+   "Sie ersetzt die Löschungsbewilligung des Gläubigers",
+   "Sie schützt den Käufer vor anderweitiger Abtretung, Pfändung und gegebenenfalls Insolvenz des Verkäufers bis zur Ausübung des Wahlrechts",
+   "Sie verpflichtet den Gläubiger, den Treuhandauftrag unbefristet zu erteilen",
+   "Sie macht die Zustimmung des Eigentümers nach § 27 GBO entbehrlich"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die unter der aufschiebenden Bedingung vollständiger Kaufpreiszahlung stehende Abtretung der Rückgewähransprüche und Eigentümerrechte schützt den Käufer bis zur Ausübung des Wahlrechts beim Rückgewähranspruch vor anderweitiger Abtretung, vor Pfändung und gegebenenfalls vor der Insolvenz des Verkäufers. Die Löschung selbst erfordert weiterhin Bewilligung, Eigentümerzustimmung und Antrag.",
+  "id": "kauf2-030",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Fälligkeit und Zahlung",
+  "seite": "Kaufpreisfälligkeit: Lastenfreistellung, Treuhandauflagen und Ablösung",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/kaufpreisfalligkeit-lastenfreistellung-treuhandauflagen-und-ablosung"
+ },
+ {
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 27 GBO",
+   "§ 19 GBO"
+  ],
+  "frage": "Treuhandauftrag der Bank",
+  "sachverhalt": "V verkauft an K ein Hausgrundstück zum Kaufpreis von 400.000 EUR. In Abteilung III ist eine Grundschuld der S-Bank über 350.000 EUR eingetragen, die noch mit 150.000 EUR valutiert. Die S-Bank übersendet dem Notar die Löschungsbewilligung mit der Auflage, sie erst nach Eingang von 150.000 EUR dem Grundbuchamt vorzulegen; der Treuhandauftrag ist auf drei Monate befristet. K möchte wissen, ob er zahlen muss, bevor die Grundschuld gelöscht ist.",
+  "schritte": [
+   {
+    "frage": "Kann die vollzogene Löschung der Grundschuld hier Fälligkeitsvoraussetzung sein?",
+    "optionen": [
+     "Ja, weil die Grundschuld über dem valutierten Betrag nicht mehr valutiert",
+     "Nein, weil die Löschung erst nach Zahlung des Ablösebetrags erfolgt; Fälligkeitsvoraussetzung ist das Vorliegen der Löschungsunterlagen mit aus dem Kaufpreis erfüllbaren Auflagen",
+     "Nein, weil Löschungsunterlagen nie Fälligkeitsvoraussetzung sein können",
+     "Ja, sofern V die Nichtvalutierung versichert"
+    ],
+    "antwort": 1,
+    "erklaerung": "Das Grundpfandrecht valutiert noch; die Forderung wird aus dem Kaufpreis getilgt. Die Löschung erfolgt daher erst nach Zahlung und taugt nicht als Fälligkeitsvoraussetzung. Fälligkeitsvoraussetzung ist, dass die Löschungsunterlagen dem Notar grundbuchtauglich vorliegen, nur mit aus dem Kaufpreis erfüllbaren Auflagen."
+   },
+   {
+    "frage": "Wann wird die Grundschuld der S-Bank im Grundbuch gelöscht?",
+    "optionen": [
+     "Zusammen mit der Eintragung der Eigentumsvormerkung im Erstvollzug",
+     "Erst im Endvollzug mit der Auflassung, nachdem der Ablösebetrag bei der Bank eingegangen ist",
+     "Sofort nach Eingang der Löschungsbewilligung beim Notar",
+     "Erst nach Vorlage der Unbedenklichkeitsbescheinigung"
+    ],
+    "antwort": 1,
+    "erklaerung": "Grundpfandrechte mit Treuhandauflage werden zwingend erst im Endvollzug mit der Auflassung gelöscht, weil der Notar die Unterlagen erst nach Eingang des Ablösebetrags beim Gläubiger vorlegen darf. Die Löschung zusammen mit dem Vormerkungsantrag ist nur beim nicht valutierten Grundpfandrecht möglich."
+   },
+   {
+    "frage": "Was muss der Notar beim befristeten Treuhandauftrag und beim Zahlungsweg beachten?",
+    "optionen": [
+     "Er muss die Richtigkeit der 150.000 EUR anhand der Darlehensunterlagen prüfen",
+     "Er muss rechtzeitig vor Fristablauf eine Verlängerung beantragen und sicherstellen, dass K verbindlich angewiesen ist, 150.000 EUR direkt an die S-Bank und nur den Rest an V zu zahlen",
+     "Er darf die Fälligkeit erst nach Ablauf der drei Monate mitteilen",
+     "Er muss den Treuhandauftrag beim Grundbuchamt hinterlegen"
+    ],
+    "antwort": 1,
+    "erklaerung": "Bei befristeten Treuhandaufträgen ist rechtzeitig vor Fristablauf eine Verlängerung beim Gläubiger zu beantragen. Der Vertrag muss sicherstellen, dass die Ablösebeträge die Gläubiger erreichen, etwa durch verbindliche Zahlungsanweisung an den Käufer oder Abtretung des Kaufpreises. Die Höhe der Ablösebeträge prüft der Notar nicht; sie ist Risiko des Verkäufers."
+   }
+  ],
+  "erklaerung": "Bei einem valutierten Grundpfandrecht ist Fälligkeitsvoraussetzung das Vorliegen der Löschungsunterlagen mit aus dem Kaufpreis erfüllbaren Auflagen; die Löschung erfolgt erst im Endvollzug. Der Notar prüft Befristung des Treuhandauftrags und die Deckung durch den Kaufpreis, nicht aber die Berechtigung der Ablöseforderung, und sorgt durch Zahlungsanweisung dafür, dass der Ablösebetrag den Gläubiger erreicht.",
+  "id": "kauf2-031",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Fälligkeit und Zahlung",
+  "seite": "Kaufpreisfälligkeit: Lastenfreistellung, Treuhandauflagen und Ablösung",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/kaufpreisfalligkeit-lastenfreistellung-treuhandauflagen-und-ablosung"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 286 BGB"
+  ],
+  "frage": "Worin liegt der Vorteil der deklaratorischen gegenüber der konstitutiven Fälligkeitsmitteilung?",
+  "optionen": [
+   "Der Notar muss die Fälligkeitsvoraussetzungen nicht mehr selbst prüfen",
+   "Der Erwerber kann auch in Verzug geraten, wenn er die Mitteilung nicht erhält oder ihren Erhalt bestreitet",
+   "Die Fälligkeit tritt bereits mit Beurkundung ein",
+   "Die Mitteilung muss nicht mehr an den Veräußerer in Kopie gehen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei der deklaratorischen Gestaltung tritt die Fälligkeit mit Erfüllung der letzten Voraussetzung ein; der Zugang der Mitteilung ist dafür ohne Bedeutung, sodass der Erwerber auch bei bestrittenem Zugang in Verzug geraten kann, wobei die für das Verschulden nötige Kenntnis auch der Veräußerer mit seiner Kopie vermitteln kann. Bei konstitutiver Gestaltung löst erst der Zugang des Notarschreibens die Fälligkeit aus; ohne Zugang kein Verzug.",
+  "id": "kauf2-032",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Fälligkeit und Zahlung",
+  "seite": "Kaufpreiszahlung: Fälligkeitsmitteilung und Notaranderkonto",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/kaufpreiszahlung-falligkeitsmitteilung-und-notaranderkonto"
+ },
+ {
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 286 BGB"
+  ],
+  "frage": "Die Fälligkeitsmitteilung des Notars darf sich auch auf die vertraglich vereinbarte besenreine Räumung erstrecken, wenn der Verkäufer diese schriftlich bestätigt hat.",
+  "antwort": false,
+  "erklaerung": "Die Fälligkeitsmitteilung erfasst nur Voraussetzungen, die der Notar selbst prüfen kann. Die besenreine Räumung kann er nicht prüfen; sie prüft der Erwerber selbst. Die Mitteilung darf zudem nur ergehen, wenn jede vereinbarte Voraussetzung genau erfüllt ist; bei abweichenden Umständen müssen die Parteien den Vertrag ändern.",
+  "id": "kauf2-033",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Fälligkeit und Zahlung",
+  "seite": "Kaufpreiszahlung: Fälligkeitsmitteilung und Notaranderkonto",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/kaufpreiszahlung-falligkeitsmitteilung-und-notaranderkonto"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 57 Abs. 2 Nr. 1 BeurkG",
+   "§ 58 Abs. 1 S. 1 BeurkG"
+  ],
+  "frage": "Unter welcher Voraussetzung darf der Notar den Kaufpreis auf einem Notaranderkonto verwahren?",
+  "optionen": [
+   "Nur wenn beide Parteien Verbraucher sind",
+   "Wenn die am Verwahrungsgeschäft Beteiligten ein berechtigtes Sicherungsinteresse haben",
+   "Immer, wenn die Parteien dies im Kaufvertrag vereinbaren",
+   "Nur wenn ein Grundschuldbrief verloren gegangen ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 57 Abs. 2 Nr. 1 BeurkG darf der Notar Geld zur Verwahrung nur annehmen, wenn die Beteiligten ein berechtigtes Sicherungsinteresse haben; eine bloße Parteivereinbarung genügt nicht. Bei der Bewertung des Sicherungsinteresses hat der Notar einen nur eingeschränkt gerichtlich nachprüfbaren Beurteilungsspielraum.",
+  "id": "kauf2-034",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Fälligkeit und Zahlung",
+  "seite": "Kaufpreiszahlung: Fälligkeitsmitteilung und Notaranderkonto",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/kaufpreiszahlung-falligkeitsmitteilung-und-notaranderkonto"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 57 Abs. 2 Nr. 2 BeurkG",
+   "§ 57 Abs. 4 BeurkG"
+  ],
+  "frage": "Welche Form muss die Verwahrungsanweisung haben, die die Auszahlungsvoraussetzungen des verwahrten Kaufpreises bestimmt?",
+  "optionen": [
+   "Notarielle Beurkundung, weil sie Teil des Grundstückskaufvertrags ist",
+   "Schriftform; eine Beurkundung ist nicht erforderlich",
+   "Öffentliche Beglaubigung nach § 29 GBO",
+   "Keine Form; mündliche Weisung an den Notar genügt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Verwahrungsanweisung (§ 57 Abs. 2 Nr. 2 BeurkG) bedarf der Schriftform und muss daher nicht beurkundet werden (§ 57 Abs. 4 BeurkG). Davon zu unterscheiden ist die Verwahrungsvereinbarung über das Ob und Wann der Einzahlung, die typischerweise im beurkundeten Kaufvertrag steht. Die Auszahlungsvoraussetzungen entsprechen regelmäßig den Fälligkeitsvoraussetzungen bei Direktzahlung.",
+  "id": "kauf2-035",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Fälligkeit und Zahlung",
+  "seite": "Kaufpreiszahlung: Fälligkeitsmitteilung und Notaranderkonto",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/kaufpreiszahlung-falligkeitsmitteilung-und-notaranderkonto"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 286 Abs. 2 Nr. 2 BGB"
+  ],
+  "frage": "Warum ist beim Grundstückskaufvertrag für den Verzug des Käufers in der Regel keine Mahnung erforderlich?",
+  "optionen": [
+   "Weil der Kaufpreis nach § 271 Abs. 1 BGB sofort fällig ist",
+   "Weil die Fälligkeitsmitteilung des Notars ein Ereignis ist, von dem an sich eine angemessene Leistungsfrist kalendermäßig bestimmen lässt",
+   "Weil die notarielle Urkunde als Mahnung gilt",
+   "Weil der Käufer sich in der Urkunde der Zwangsvollstreckung unterworfen hat"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 286 Abs. 2 Nr. 2 BGB ist die Mahnung entbehrlich, wenn der Leistung ein Ereignis vorauszugehen hat und sich von ihm an eine angemessene Leistungsfrist kalendermäßig berechnen lässt; die Fälligkeitsmitteilung ist ein solches Ereignis. Die Vollstreckungsunterwerfung betrifft die Durchsetzung, nicht die Verzugsvoraussetzungen nach § 286 BGB.",
+  "id": "kauf2-036",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Fälligkeit und Zahlung",
+  "seite": "Kaufpreiszahlung: Ratenzahlung und Verzug",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/kaufpreiszahlung-ratenzahlung-und-verzug"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 288 Abs. 1 BGB",
+   "§ 288 Abs. 2 BGB",
+   "§ 247 BGB"
+  ],
+  "frage": "Wie hoch sind die gesetzlichen Verzugszinsen, wenn an dem Grundstückskaufvertrag kein Verbraucher beteiligt ist?",
+  "optionen": [
+   "Fünf Prozentpunkte über dem Basiszinssatz",
+   "Acht Prozentpunkte über dem Basiszinssatz",
+   "Neun Prozentpunkte über dem Basiszinssatz",
+   "Vier Prozent jährlich"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 288 Abs. 2 BGB beträgt der Verzugszinssatz neun Prozentpunkte über dem Basiszinssatz, wenn kein Verbraucher beteiligt ist; sonst gilt § 288 Abs. 1 BGB mit fünf Prozentpunkten. Der Basiszinssatz nach § 247 Abs. 1 BGB ändert sich jeweils zum 1. Januar und 1. Juli.",
+  "id": "kauf2-037",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Fälligkeit und Zahlung",
+  "seite": "Kaufpreiszahlung: Ratenzahlung und Verzug",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/kaufpreiszahlung-ratenzahlung-und-verzug"
+ },
+ {
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1184 BGB"
+  ],
+  "frage": "Soll bei Ratenzahlung das Eigentum schon vor Zahlung der letzten Rate übergehen, kann der Veräußerer durch eine bei der Eigentumsumschreibung in Abteilung III eingetragene Sicherungshypothek für den Restkaufpreis abgesichert werden.",
+  "antwort": true,
+  "erklaerung": "Die Sicherungshypothek wird bei der Eigentumsumschreibung in Abteilung III eingetragen und sichert die offene Restkaufpreisforderung. Zusätzlich empfiehlt sich eine Vollstreckungsunterwerfung des Erwerbers sowie die Regelung von Ratenhöhe, Verzinsung und Gesamtfälligkeit bei Zahlungsrückstand.",
+  "id": "kauf2-038",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Fälligkeit und Zahlung",
+  "seite": "Kaufpreiszahlung: Ratenzahlung und Verzug",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/kaufpreiszahlung-ratenzahlung-und-verzug"
+ },
+ {
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1192 Abs. 1 BGB"
+  ],
+  "frage": "Ein Grundschuldbrief ist unauffindbar; der Vertrag sieht Zahlung in zwei Raten vor. Welcher Einbehalt ist üblich und wovon sollte die zweite Rate zusätzlich abhängen?",
+  "optionen": [
+   "Einbehalt von 100 % des Nennbetrags; zweite Rate fällig mit Antrag auf Kraftloserklärung",
+   "Einbehalt von etwa 130 % des Nennbetrags; zweite Rate fällig bei Vorliegen sämtlicher Lastenfreistellungsunterlagen einschließlich rechtskräftigem Ausschließungsbeschluss und Fortbestand der Voraussetzungen der ersten Rate",
+   "Einbehalt von 50 % des Kaufpreises; zweite Rate fällig mit Eigentumsumschreibung",
+   "Einbehalt in Höhe der Restvaluta; zweite Rate fällig nach Löschung der Vormerkung"
+  ],
+  "antwort": 1,
+  "erklaerung": "Üblich ist ein Einbehalt von etwa 130 % des Nennbetrags der betroffenen Grundschuld, bis das Amtsgericht den Ausschließungsbeschluss zur Kraftloserklärung erlassen hat. Die zweite Rate wird fällig, wenn sämtliche Lastenfreistellungsunterlagen einschließlich des rechtskräftigen Ausschließungsbeschlusses vorliegen; zusätzlich sollte der Fortbestand der Voraussetzungen der ersten Rate verlangt werden.",
+  "id": "kauf2-039",
+  "kapitel": "grundstuckskaufvertrag",
+  "abschnitt": "Fälligkeit und Zahlung",
+  "seite": "Kaufpreiszahlung: Ratenzahlung und Verzug",
+  "quelle": "handbuch-mit-notarwissen/grundstuckskaufvertrag/falligkeit-und-zahlung/kaufpreiszahlung-ratenzahlung-und-verzug"
  }
 ]

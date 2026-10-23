@@ -485,5 +485,231 @@
    ]
   ],
   "erklaerung": "Anmeldungen nach § 106 Abs. 6 HGB nehmen grundsätzlich sämtliche Gesellschafter vor (§ 106 Abs. 7 S. 1 HGB), beim Ein- und Austritt zusätzlich der betroffene Gesellschafter. Nur bei bloßer Änderung der Geschäftsanschrift meldet die Gesellschaft an (§ 106 Abs. 7 S. 3 HGB); die Prokura melden die Gesellschafter in vertretungsberechtigter Zahl an (§ 53 HGB), das Erlöschen die Liquidatoren (§ 150 HGB)."
+ },
+ {
+  "id": "hand2-021",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Firma: Begriff und Firmengrundsätze",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/firma-begriff-und-firmengrundsatze",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 17 Abs. 1 HGB",
+   "§ 23 HGB"
+  ],
+  "frage": "Was ist die Firma im Sinne des HGB?",
+  "optionen": [
+   "Das Unternehmen des Kaufmanns einschließlich aller Vermögensgegenstände",
+   "Der Name, unter dem der Kaufmann seine Geschäfte betreibt",
+   "Die im Handelsregister eingetragene Rechtsform des Unternehmens",
+   "Der Geschäftsbetrieb am Ort der Hauptniederlassung"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 17 Abs. 1 HGB ist die Firma der Name, unter dem der Kaufmann seine Geschäfte betreibt. Sie ist vom Unternehmen zu trennen, das unter ihr betrieben wird; die laienhafte Gleichsetzung von Firma und Unternehmen ist rechtlich unzutreffend. Deshalb kann die Firma auch nicht isoliert veräußert werden (§ 23 HGB)."
+ },
+ {
+  "id": "hand2-022",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Firma: Begriff und Firmengrundsätze",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/firma-begriff-und-firmengrundsatze",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 30 Abs. 1 HGB",
+   "§ 18 Abs. 1 HGB"
+  ],
+  "frage": "Am Ort ist die „Sonnenbau GmbH“ im Handelsregister eingetragen. Eine neue Gesellschaft soll als „Sonnenbau GmbH & Co. KG“ eingetragen werden. Ist die Firma zulässig?",
+  "optionen": [
+   "Ja, da der abweichende Rechtsformzusatz die Unterscheidbarkeit herstellt",
+   "Ja, sofern die Gesellschafter beider Gesellschaften identisch sind",
+   "Nein, bei identischem Firmenkern genügt ein abweichender Gesellschaftszusatz allein nicht für die deutliche Unterscheidung nach § 30 Abs. 1 HGB",
+   "Nein, da eine KG keine Sachfirma führen darf"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 30 Abs. 1 HGB muss sich eine neue Firma deutlich von allen am selben Ort in Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister eingetragenen Firmen unterscheiden. Ein abweichender Gesellschaftszusatz bei sonst identischer Firma reicht nicht; GmbH und GmbH & Co. KG mit gleichem Firmenkern sind nicht ausreichend unterschieden. Das ist ein typischer Fehler in der Praxis."
+ },
+ {
+  "id": "hand2-023",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Firma: Begriff und Firmengrundsätze",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/firma-begriff-und-firmengrundsatze",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 18 Abs. 2 HGB"
+  ],
+  "frage": "Ordne die Firmenbestandteile der jeweiligen Fallgruppe des Irreführungsverbots nach § 18 Abs. 2 HGB zu.",
+  "paare": [
+   [
+    "„Deutsche“ oder „Internationale“ ohne entsprechende Marktstellung",
+    "Täuschung über Größe und Bedeutung"
+   ],
+   [
+    "„Revisions- und Treuhandgesellschaft“ ohne Wirtschaftsprüfung",
+    "Täuschung über den Unternehmensgegenstand"
+   ],
+   [
+    "„Anstalt“ oder „Institut“ bei einem privaten Unternehmen",
+    "Täuschung über öffentliche Trägerschaft"
+   ],
+   [
+    "Doktortitel ohne Bezug zum Unternehmensgegenstand und ohne Fakultätszusatz",
+    "Täuschung durch akademischen Titel"
+   ],
+   [
+    "Name eines Nichtgesellschafters mit besonderem Branchenvertrauen",
+    "Täuschung durch Namen Dritter"
+   ]
+  ],
+  "erklaerung": "§ 18 Abs. 2 HGB verbietet Angaben, die über geschäftliche Verhältnisse irreführen können. Die Seite nennt als Fallgruppen Größe und Bedeutung, Unternehmensgegenstand, öffentliche Trägerschaft, akademische Titel (nur mit Fakultätszusatz, wenn kein Bezug zum Gegenstand) und Namen Dritter."
+ },
+ {
+  "id": "hand2-024",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Firma: Begriff und Firmengrundsätze",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/firma-begriff-und-firmengrundsatze",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 19 Abs. 2 HGB"
+  ],
+  "frage": "Ist bei einer KG keine natürliche Person persönlich haftender Gesellschafter, muss die Firma die Haftungsbeschränkung kenntlich machen, etwa durch den Zusatz „GmbH & Co. KG“.",
+  "antwort": true,
+  "erklaerung": "§ 19 Abs. 2 HGB verlangt bei OHG und KG ohne natürliche Person als persönlich haftendem Gesellschafter, dass die Firma die Haftungsbeschränkung kenntlich macht; „GmbH & Co. KG“ ist die übliche Form. Der bloße Zusatz „KG“ nach § 19 Abs. 1 HGB genügt in diesem Fall nicht."
+ },
+ {
+  "id": "hand2-025",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Firma: Begriff und Firmengrundsätze",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/firma-begriff-und-firmengrundsatze",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 18 Abs. 1 HGB"
+  ],
+  "frage": "Welche der folgenden Firmen hat nach den Firmengrundsätzen keine ausreichende Unterscheidungskraft?",
+  "optionen": [
+   "„Müller e. K.“ ohne Vornamen oder Ortsangabe",
+   "„M&K Metallbau Pforzheim OHG“",
+   "„Lumaro KG“",
+   "„Schreinerei Hans Weber e. K.“"
+  ],
+  "antwort": 0,
+  "erklaerung": "Häufige Familiennamen ohne unterscheidenden Zusatz wie Vorname oder Ortsangabe haben keine Unterscheidungskraft im Sinne des § 18 Abs. 1 HGB, da der Verkehr sie nicht als Hinweis auf ein bestimmtes Unternehmen versteht. Die Phantasiefirma „Lumaro“, die Branchenbezeichnung mit individualisierenden Zusätzen (Ort, Kürzel) und die Personenfirma mit Vornamen sind dagegen hinreichend individualisiert."
+ },
+ {
+  "id": "hand2-026",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Firma: Veräußerung des einzelkaufmännischen Unternehmens",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/firma-verausserung-des-einzelkaufmannischen-unternehmens",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 25 Abs. 1 HGB",
+   "§ 25 Abs. 2 HGB"
+  ],
+  "frage": "Der Erwerber eines einzelkaufmännischen Unternehmens führt die bisherige Firma fort. Welche Haftungsfolge tritt ein, wenn nichts weiter veranlasst wird?",
+  "optionen": [
+   "Der Erwerber haftet nur für Verbindlichkeiten, die er im Kaufvertrag ausdrücklich übernommen hat",
+   "Der Erwerber haftet unbeschränkt für sämtliche Verbindlichkeiten des früheren Inhabers; zugleich gehen die Geschäftsforderungen auf ihn über",
+   "Der Erwerber haftet beschränkt auf den Wert des übernommenen Unternehmens",
+   "Der Erwerber haftet nicht, solange der frühere Inhaber im Handelsregister eingetragen bleibt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei Firmenfortführung haftet der Erwerber nach § 25 Abs. 1 HGB unbeschränkt für sämtliche Verbindlichkeiten des früheren Einzelkaufmanns, und die Forderungen des Geschäfts gehen auf ihn über. Eine Beschränkung auf vertraglich übernommene Schulden gibt es im Außenverhältnis nicht; sie lässt sich nur durch einen eingetragenen und bekanntgemachten Ausschluss nach § 25 Abs. 2 HGB erreichen."
+ },
+ {
+  "id": "hand2-027",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Firma: Veräußerung des einzelkaufmännischen Unternehmens",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/firma-verausserung-des-einzelkaufmannischen-unternehmens",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 25 Abs. 2 HGB"
+  ],
+  "frage": "Der Ausschluss der Erwerberhaftung nach § 25 Abs. 2 HGB wird bereits durch eine entsprechende Vereinbarung im Unternehmenskaufvertrag gegenüber Dritten wirksam.",
+  "antwort": false,
+  "erklaerung": "Der Ausschluss von Haftung und Forderungsübergang wirkt gegenüber Dritten nur bei Eintragung und Bekanntmachung im Handelsregister (§ 25 Abs. 2 HGB). Eine bloße vertragliche Abrede genügt nicht; wird der Ausschluss nicht angemeldet oder nicht eingetragen, haftet der Erwerber nach § 25 Abs. 1 HGB. Der Notar sollte die Eintragung deshalb überwachen."
+ },
+ {
+  "id": "hand2-028",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Firma: Veräußerung des einzelkaufmännischen Unternehmens",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/firma-verausserung-des-einzelkaufmannischen-unternehmens",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 22 Abs. 1 HGB"
+  ],
+  "frage": "Wer meldet den Inhaberwechsel bei der Veräußerung eines einzelkaufmännischen Unternehmens mit Firmenfortführung zum Handelsregister an?",
+  "optionen": [
+   "Nur der neue Inhaber, da er künftig Träger der Firma ist",
+   "Nur der bisherige Inhaber, da er die Einwilligung nach § 22 Abs. 1 HGB erteilt",
+   "Der bisherige und der neue Inhaber gemeinsam",
+   "Der Notar als Bevollmächtigter des Erwerbers"
+  ],
+  "antwort": 2,
+  "erklaerung": "Den Inhaberwechsel melden der bisherige Inhaber und der neue Inhaber gemeinsam an. Die Anmeldung umfasst die Veräußerung mit dem Recht zur Firmenfortführung, die Personenangaben des Erwerbers, einen gewünschten Ausschluss nach § 25 Abs. 2 HGB, den Unternehmensgegenstand und die inländische Geschäftsanschrift. Die Einwilligung des bisherigen Inhabers nach § 22 Abs. 1 HGB macht dessen Mitwirkung nicht entbehrlich, sondern erforderlich."
+ },
+ {
+  "id": "hand2-029",
+  "kapitel": "handels-und-gesellschaftsrecht",
+  "abschnitt": "Register und Handelsrecht",
+  "seite": "Firma: Veräußerung des einzelkaufmännischen Unternehmens",
+  "quelle": "handbuch-mit-notarwissen/handels-und-gesellschaftsrecht/register-und-handelsrecht/firma-verausserung-des-einzelkaufmannischen-unternehmens",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 22 Abs. 1 HGB",
+   "§ 25 Abs. 1 HGB",
+   "§ 25 Abs. 2 HGB"
+  ],
+  "frage": "Verkauf eines Einzelhandelsgeschäfts",
+  "sachverhalt": "Einzelkaufmann Egon Vogt betreibt unter der Firma „Vogt Fahrradhandel e. K.“ ein Geschäft. Er verkauft das Unternehmen an Paula Neu, die den bekannten Namen unbedingt weiterführen möchte. Vogt hat noch offene Lieferantenverbindlichkeiten von 40.000 Euro, die Neu nicht übernehmen will. Der Notar entwirft Kaufvertrag und Registeranmeldung.",
+  "schritte": [
+   {
+    "frage": "Unter welcher Voraussetzung darf Neu die Firma „Vogt Fahrradhandel“ fortführen?",
+    "optionen": [
+     "Nur, wenn sie ihren eigenen Namen als Nachfolgezusatz anfügt",
+     "Nur mit ausdrücklicher Einwilligung Vogts; ein Nachfolgezusatz ist dann möglich, aber nicht erforderlich",
+     "Nur, wenn Vogt aus dem Handelsregister gelöscht wird und Neu die Firma neu anmeldet",
+     "Nicht, da eine Firma als Name nicht übertragbar ist"
+    ],
+    "antwort": 1,
+    "erklaerung": "Nach § 22 Abs. 1 HGB darf der Erwerber die Firma nur mit ausdrücklicher Einwilligung des bisherigen Inhabers fortführen, dann mit oder ohne Nachfolgezusatz. § 23 HGB verbietet nur die isolierte Veräußerung der Firma ohne das Unternehmen."
+   },
+   {
+    "frage": "Welche Regelung muss der Notar vorsehen, damit Neu nicht für die Lieferantenverbindlichkeiten haftet?",
+    "optionen": [
+     "Eine Freistellungsklausel im Kaufvertrag genügt",
+     "Den Ausschluss von Haftung und Forderungsübergang nach § 25 Abs. 2 HGB mit dem Inhaberwechsel zum Handelsregister anmelden",
+     "Neu muss auf die Firmenfortführung verzichten; nur dann entfällt die Haftung",
+     "Die Lieferanten müssen dem Haftungsausschluss schriftlich zustimmen"
+    ],
+    "antwort": 1,
+    "erklaerung": "Bei Firmenfortführung haftet Neu nach § 25 Abs. 1 HGB. Der Ausschluss wirkt nur bei Eintragung und Bekanntmachung im Handelsregister (§ 25 Abs. 2 HGB) und wird deshalb regelmäßig mit dem Inhaberwechsel angemeldet."
+   },
+   {
+    "frage": "Was gilt, wenn der Haftungsausschluss zwar angemeldet, aber vom Registergericht nicht eingetragen wird?",
+    "optionen": [
+     "Der Ausschluss wirkt bereits mit Einreichung der Anmeldung",
+     "Neu haftet nach § 25 Abs. 1 HGB; der Notar sollte die Eintragung deshalb überwachen",
+     "Der Kaufvertrag ist unwirksam",
+     "Die Haftung beschränkt sich auf den Kaufpreis"
+    ],
+    "antwort": 1,
+    "erklaerung": "Der Ausschluss wirkt nur bei Eintragung (§ 25 Abs. 2 HGB). Unterbleibt sie, haftet der Erwerber nach § 25 Abs. 1 HGB; die Überwachung der Eintragung gehört deshalb zu den Praxishinweisen."
+   }
+  ],
+  "erklaerung": "Die Firmenfortführung setzt die Einwilligung Vogts voraus (§ 22 Abs. 1 HGB) und löst die Erwerberhaftung nach § 25 Abs. 1 HGB aus. Diese lässt sich nur durch den im Handelsregister eingetragenen und bekanntgemachten Ausschluss nach § 25 Abs. 2 HGB vermeiden, der mit dem Inhaberwechsel anzumelden und in seiner Eintragung zu überwachen ist."
  }
 ]
