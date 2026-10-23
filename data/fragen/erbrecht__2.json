@@ -17,7 +17,7 @@
    "Der Anspruch bleibt zeitlich unbegrenzt in voller Höhe bestehen."
   ],
   "antwort": 1,
-  "erklaerung": "§ 2325 Abs. 3 BGB sieht das Abschmelzungsmodell vor: Die Schenkung wird für jedes seit ihr verstrichene Jahr um ein Zehntel weniger berücksichtigt, nach zehn Jahren bleibt sie unberücksichtigt. Ein starrer Zehnjahreszeitraum mit voller Berücksichtigung (Option 1) entspricht der früheren Rechtslage, nicht dem geltenden Recht.",
+  "erklaerung": "§ 2325 Abs. 3 BGB sieht das Abschmelzungsmodell vor: Die Schenkung wird für jedes seit ihr verstrichene Jahr um ein Zehntel weniger berücksichtigt, nach zehn Jahren bleibt sie unberücksichtigt. Ein starrer Zehnjahreszeitraum mit voller Berücksichtigung entspricht der früheren Rechtslage, nicht dem geltenden Recht.",
   "id": "erbr2-001"
  },
  {
@@ -34,10 +34,10 @@
   "optionen": [
    "Gar nicht, weil seit der Schenkung mehr als zehn Jahre verstrichen sind.",
    "Mit zwei Zehnteln, weil die Abschmelzung erst nach Ablauf der ersten zwei Jahre beginnt.",
-   "In voller Höhe, weil die Zehnjahresfrist wegen des vorbehaltenen Nießbrauchs nicht zu laufen begonnen hat.",
-   "Nur mit dem Wert des Nießbrauchs, weil nur dieser dem Erblasser verblieben ist."
+   "Nur mit dem Wert des Nießbrauchs, weil nur dieser dem Erblasser verblieben ist.",
+   "In voller Höhe, weil die Zehnjahresfrist wegen des vorbehaltenen Nießbrauchs nicht zu laufen begonnen hat."
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Nach ständiger Rechtsprechung des BGH beginnt die Frist des § 2325 Abs. 3 BGB bei einer Schenkung unter Nießbrauchsvorbehalt nicht, solange dem Erblasser der wesentliche wirtschaftliche Nutzen (Nutzung oder Fruchtziehung) vorbehalten bleibt. Da der Erblasser die Mieten bis zum Tod bezog, ist keine Abschmelzung eingetreten; der typische Fehler besteht darin, die Frist ab der Schenkung zu berechnen.",
   "id": "erbr2-002"
  },
@@ -71,11 +71,11 @@
   "frage": "A will mit seiner Lebensgefährtin B einen Erbvertrag schließen, in dem allein A die B vertragsmäßig zur Alleinerbin einsetzt. B ist verhindert und lässt sich durch ihren Bruder mit notarieller Vollmacht vertreten. Ist der Erbvertrag wirksam?",
   "optionen": [
    "Nein, weil beim Erbvertrag jede Vertretung ausgeschlossen ist.",
-   "Ja, weil B nur die Erklärungen des A annimmt und sich daher vertreten lassen darf.",
    "Nein, weil beide Teile persönlich anwesend sein müssen und eine Vollmacht die Anwesenheit nicht ersetzt.",
+   "Ja, weil B nur die Erklärungen des A annimmt und sich daher vertreten lassen darf.",
    "Ja, aber nur wenn der Vertreter selbst unbeschränkt geschäftsfähig und nicht als Erbe bedacht ist."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Erblasser im Sinne des § 2274 BGB ist allein, wer vertragsmäßig verfügt. Der bloß annehmende Vertragspartner kann sich nach §§ 164 ff. BGB vertreten lassen; das gilt selbst dann, wenn er Pflichten unter Lebenden übernimmt oder auf sein Erbrecht verzichtet. Das Vertretungsverbot des § 2274 BGB trifft daher nur A, nicht B.",
   "id": "erbr2-004"
  },
@@ -93,12 +93,12 @@
   ],
   "frage": "Welche Besonderheit gilt für die besondere amtliche Verwahrung des Erbvertrags im Vergleich zum öffentlichen Testament?",
   "optionen": [
-   "Der Erbvertrag wird stets beim Notar verwahrt, das öffentliche Testament beim Nachlassgericht.",
    "Die Vertragschließenden können die besondere amtliche Verwahrung übereinstimmend ausschließen; beim öffentlichen Testament ist das nicht möglich.",
+   "Der Erbvertrag wird stets beim Notar verwahrt, das öffentliche Testament beim Nachlassgericht.",
    "Der Erbvertrag wird nur auf Antrag der Beteiligten in amtliche Verwahrung gebracht, das Testament von Amts wegen.",
    "Der Erbvertrag wird beim Zentralen Testamentsregister verwahrt, das Testament beim Nachlassgericht."
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Der Notar bringt den Erbvertrag nach § 34 Abs. 2 BeurkG in die besondere amtliche Verwahrung beim Nachlassgericht (§ 2300 BGB, § 344 FamFG). Anders als beim öffentlichen Testament können die Vertragschließenden die Verwahrung übereinstimmend ausschließen; der Erbvertrag bleibt dann in der Urkundensammlung des Notars. Eine Verwahrung im Zentralen Testamentsregister gibt es nicht, dort wird nur registriert.",
   "id": "erbr2-005"
  },
@@ -131,12 +131,12 @@
   ],
   "frage": "Welche Anforderung an die Geschäftsfähigkeit stellt § 2275 BGB für den Erbvertrag?",
   "optionen": [
-   "Unbeschränkte Geschäftsfähigkeit für jeden Beteiligten, der vertragsmäßig als Erblasser verfügt.",
    "Testierfähigkeit ab dem 16. Lebensjahr wie beim Testament.",
+   "Unbeschränkte Geschäftsfähigkeit für jeden Beteiligten, der vertragsmäßig als Erblasser verfügt.",
    "Unbeschränkte Geschäftsfähigkeit für alle Beteiligten, auch für den nur annehmenden Vertragspartner.",
    "Beschränkte Geschäftsfähigkeit genügt, wenn der gesetzliche Vertreter zustimmt."
   ],
-  "antwort": 0,
+  "antwort": 1,
   "erklaerung": "§ 2275 BGB verlangt unbeschränkte Geschäftsfähigkeit für jeden, der vertragsmäßig als Erblasser verfügt. Die bloße Testierfähigkeit Minderjähriger ab 16 Jahren gilt nur für das Testament, nicht für vertragsmäßige Verfügungen im Erbvertrag. Für den bloß annehmenden Vertragspartner gelten die allgemeinen Regeln, er kann sich sogar vertreten lassen.",
   "id": "erbr2-007"
  },
@@ -154,12 +154,12 @@
   ],
   "frage": "Die Eheleute M und F haben einen Erbvertrag ohne Rücktrittsvorbehalt geschlossen. Nach dem Tod der F möchte M die Bindung beseitigen und bittet den Notar um einen Aufhebungsvertrag mit den Kindern. Wie ist die Rechtslage?",
   "optionen": [
-   "Der Aufhebungsvertrag ist mit den Erben der F möglich, da diese in ihre Vertragsstellung eingetreten sind.",
    "Eine Aufhebung durch Vertrag ist nach dem Tod eines Vertragsbeteiligten nicht mehr möglich.",
+   "Der Aufhebungsvertrag ist mit den Erben der F möglich, da diese in ihre Vertragsstellung eingetreten sind.",
    "M kann nach dem Tod der F jederzeit einseitig durch beurkundete Erklärung zurücktreten.",
    "Der Aufhebungsvertrag ist möglich, wenn das Nachlassgericht zustimmt."
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Nach § 2290 Abs. 1 BGB kann der Erbvertrag nur durch Vertrag der Vertragschließenden aufgehoben werden; ist einer verstorben, scheidet die Aufhebung aus. Ein einseitiger Rücktritt nach dem Tod des anderen Teils (§ 2297 BGB) setzt einen Rücktrittsvorbehalt nach § 2293 BGB voraus, der hier fehlt. Das ist der typische Fehler: Die Aufhebung muss zu Lebzeiten beider erfolgen.",
   "id": "erbr2-008"
  },
@@ -227,12 +227,12 @@
   "frage": "Welche Gestaltung des Rücktrittsvorbehalts in einem Erbvertrag ist nach der Handbuchseite zulässig?",
   "optionen": [
    "Der Vorbehalt darf nur den gesamten Erbvertrag betreffen, nicht einzelne Verfügungen.",
-   "Der Vorbehalt kann auf einzelne Verfügungen beschränkt, bedingt oder befristet werden; die Vertragschließenden können sogar vereinbaren, dass die Rücktrittsgründe gerichtlich nicht überprüft werden.",
    "Der Vorbehalt muss stets an einen gerichtlich überprüfbaren wichtigen Grund geknüpft sein.",
+   "Der Vorbehalt kann auf einzelne Verfügungen beschränkt, bedingt oder befristet werden; die Vertragschließenden können sogar vereinbaren, dass die Rücktrittsgründe gerichtlich nicht überprüft werden.",
    "Der Vorbehalt erlischt mit dem Tod des anderen Vertragschließenden und kann danach nicht mehr ausgeübt werden."
   ],
-  "antwort": 1,
-  "erklaerung": "Der Rücktrittsvorbehalt nach § 2293 BGB ist frei gestaltbar: Er kann auf einzelne Verfügungen beschränkt, an Bedingungen geknüpft oder befristet werden, und der Ausschluss der gerichtlichen Überprüfung vereinbarter Rücktrittsgründe ist wirksam. Option 4 ist falsch, weil der vorbehaltene Rücktritt nach § 2297 BGB grundsätzlich auch nach dem Tod des anderen Teils noch möglich ist.",
+  "antwort": 2,
+  "erklaerung": "Der Rücktrittsvorbehalt nach § 2293 BGB ist frei gestaltbar: Er kann auf einzelne Verfügungen beschränkt, an Bedingungen geknüpft oder befristet werden, und der Ausschluss der gerichtlichen Überprüfung vereinbarter Rücktrittsgründe ist wirksam. Ein Erlöschen mit dem Tod des anderen Teils ist falsch, weil der vorbehaltene Rücktritt nach § 2297 BGB grundsätzlich auch nach dem Tod des anderen Teils noch möglich ist.",
   "id": "erbr2-011"
  },
  {
@@ -251,10 +251,10 @@
   "optionen": [
    "Die Einsetzung eines Dritten zum Erben.",
    "Die Anordnung eines Vermächtnisses zugunsten des Vertragspartners.",
-   "Die Ernennung eines Testamentsvollstreckers.",
-   "Die Wahl des anzuwendenden Erbrechts."
+   "Die Wahl des anzuwendenden Erbrechts.",
+   "Die Ernennung eines Testamentsvollstreckers."
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Vertragsmäßig können nach § 2278 Abs. 2 BGB nur Erbeinsetzungen, Vermächtnisse, Auflagen und die Rechtswahl getroffen werden, auch zugunsten Dritter (§ 1941 Abs. 2 BGB). Die Ernennung eines Testamentsvollstreckers gehört nicht dazu und ist nur als einseitige Verfügung nach § 2299 Abs. 1 BGB möglich; sie als vertragsmäßig zu bezeichnen, ist ein typischer Gestaltungsfehler.",
   "id": "erbr2-012"
  },
@@ -270,12 +270,12 @@
   ],
   "frage": "Erblasser E hat seinen Neffen N im Erbvertrag vertragsmäßig zum Alleinerben eingesetzt. Später errichtet er ein Testament, in dem er seiner Haushälterin H ein Geldvermächtnis von 50.000 Euro aussetzt. Wie ist das Vermächtnis zu beurteilen?",
   "optionen": [
-   "Wirksam, weil Vermächtnisse von der erbvertraglichen Bindung nicht erfasst werden.",
    "Unwirksam, weil es das Recht des vertragsmäßig Bedachten N beeinträchtigt (§ 2289 Abs. 1 S. 2 BGB).",
+   "Wirksam, weil Vermächtnisse von der erbvertraglichen Bindung nicht erfasst werden.",
    "Wirksam, weil der Erbvertrag nur frühere, nicht spätere Verfügungen erfasst.",
    "Unwirksam nur dann, wenn N dem Vermächtnis nicht zustimmt."
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Nach § 2289 Abs. 1 S. 2 BGB sind spätere Verfügungen von Todes wegen unwirksam, soweit sie das Recht des vertragsmäßig Bedachten beeinträchtigen. Eine Beeinträchtigung liegt vor, wenn die Zuwendung gegenstandslos gemacht, verringert, belastet oder beschränkt wird; ein den Erben belastendes Vermächtnis verringert dessen Zuwendung rechtlich. Frühere Verfügungen werden nach S. 1 aufgehoben, spätere sind unwirksam.",
   "id": "erbr2-013"
  },
@@ -308,12 +308,12 @@
   ],
   "frage": "Wen bindet eine vertragsmäßige Verfügung im Erbvertrag?",
   "optionen": [
-   "Beide Vertragschließenden, weil es sich um einen Vertrag handelt.",
    "Allein den Erblasser, der vertragsmäßig verfügt hat; der bedachte Vertragspartner bleibt frei.",
+   "Beide Vertragschließenden, weil es sich um einen Vertrag handelt.",
    "Den Erblasser und seine Erben, nicht aber den Vertragspartner.",
    "Niemanden, solange der Erblasser nicht auf den Rücktritt verzichtet hat."
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Gebunden ist nur, wer vertragsmäßig verfügt hat (§ 2289 BGB); der bedachte Vertragspartner übernimmt durch die Annahme keine Bindung. Die naheliegende Vorstellung, der Vertragscharakter binde beide Seiten, ist falsch, weil der Vertragspartner seinerseits nur einseitige Verfügungen nach § 2299 Abs. 1 BGB getroffen oder gar nicht verfügt hat.",
   "id": "erbr2-015"
  },
@@ -358,11 +358,11 @@
     "frage": "Darf M das ererbte Grundstück zu Lebzeiten K2 schenken?",
     "optionen": [
      "Nein, das vom Erstverstorbenen ererbte Vermögen ist durch die Bindung von Verfügungen unter Lebenden ausgenommen.",
-     "Ja, der Überlebende darf unter Lebenden uneingeschränkt verfügen, auch über das ererbte Vermögen; K1 ist nur nach §§ 2287, 2288 BGB geschützt.",
      "Nein, Schenkungen des Überlebenden an einen Schlusserben sind stets unwirksam.",
-     "Ja, aber nur mit Zustimmung des Nachlassgerichts."
+     "Ja, aber nur mit Zustimmung des Nachlassgerichts.",
+     "Ja, der Überlebende darf unter Lebenden uneingeschränkt verfügen, auch über das ererbte Vermögen; K1 ist nur nach §§ 2287, 2288 BGB geschützt."
     ],
-    "antwort": 1,
+    "antwort": 3,
     "erklaerung": "Wechselbezügliche Verfügungen binden nur von Todes wegen; unter Lebenden bleibt der Überlebende frei, auch hinsichtlich des vom Erstverstorbenen zugewendeten Vermögens (Ausnahme nur bei Nacherbfolge oder Testamentsvollstreckung). K1 ist gegen eine Aushöhlung nur nach §§ 2287, 2288 BGB geschützt, was objektive Beeinträchtigung und Beeinträchtigungsabsicht des M voraussetzt."
    },
    {
@@ -432,11 +432,11 @@
   "frage": "Worin besteht die Formerleichterung des § 2267 BGB für das privatschriftliche gemeinschaftliche Testament?",
   "optionen": [
    "Beide Ehegatten dürfen den Text maschinenschriftlich erstellen und müssen nur eigenhändig unterschreiben.",
-   "Ein Ehegatte schreibt und unterzeichnet den Text eigenhändig, der andere muss lediglich mitunterzeichnen.",
    "Die Unterschrift eines Ehegatten genügt, wenn der andere mündlich zugestimmt hat.",
+   "Ein Ehegatte schreibt und unterzeichnet den Text eigenhändig, der andere muss lediglich mitunterzeichnen.",
    "Ort und Datum müssen nicht angegeben werden."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Nach § 2267 BGB genügt es, wenn ein Ehegatte oder Lebenspartner den Text mit den Verfügungen beider eigenhändig schreibt und unterzeichnet und der andere mitunterzeichnet; für den Mitunterzeichnenden entfällt das Erfordernis der Eigenhändigkeit. Die Eigenhändigkeit des Schreibenden bleibt nach § 2247 Abs. 1 BGB erforderlich, Maschinenschrift genügt nicht.",
   "id": "erbr2-019"
  },
@@ -454,11 +454,11 @@
   "frage": "A und B leben unverheiratet zusammen und errichten ein handschriftliches gemeinschaftliches Testament nach dem Muster des Berliner Testaments; A schreibt, B unterschreibt mit. Ein Jahr später heiraten sie. Wie ist die Rechtslage?",
   "optionen": [
    "Das gemeinschaftliche Testament wird mit der Eheschließung rückwirkend wirksam.",
-   "Das gemeinschaftliche Testament ist unwirksam; eine Umdeutung in Einzeltestamente scheitert für B, weil B den Text nicht eigenhändig geschrieben hat.",
    "Das Testament ist als gemeinschaftliches Testament wirksam, weil die Partner bei der Errichtung verlobt waren.",
-   "Das Testament ist unwirksam, kann aber für beide Teile in Einzeltestamente umgedeutet werden."
+   "Das Testament ist unwirksam, kann aber für beide Teile in Einzeltestamente umgedeutet werden.",
+   "Das gemeinschaftliche Testament ist unwirksam; eine Umdeutung in Einzeltestamente scheitert für B, weil B den Text nicht eigenhändig geschrieben hat."
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Ein gemeinschaftliches Testament setzt voraus, dass Ehe oder Lebenspartnerschaft bereits bei Errichtung besteht (§ 2265 BGB); eine spätere Heirat heilt nicht. Eine Umdeutung nach § 140 BGB in Einzeltestamente setzt voraus, dass deren Form gewahrt ist. Das ist nur für A der Fall, der eigenhändig geschrieben und unterschrieben hat; die Formerleichterung des § 2267 BGB gilt für Nichtverheiratete nicht.",
   "id": "erbr2-020"
  },
@@ -528,11 +528,11 @@
   "frage": "Ehefrau F will zu Lebzeiten ihres Mannes M ihre wechselbezüglichen Verfügungen aus dem gemeinschaftlichen Testament widerrufen. Welches Vorgehen ist richtig?",
   "optionen": [
    "F errichtet ein neues notarielles Einzeltestament mit abweichendem Inhalt; damit sind die wechselbezüglichen Verfügungen aufgehoben.",
-   "F lässt den Widerruf notariell beurkunden und sorgt dafür, dass M die Urschrift oder eine Ausfertigung zugeht.",
    "F lässt den Widerruf notariell beurkunden und übersendet M eine beglaubigte Abschrift.",
+   "F lässt den Widerruf notariell beurkunden und sorgt dafür, dass M die Urschrift oder eine Ausfertigung zugeht.",
    "F nimmt das Testament aus der amtlichen Verwahrung zurück (§ 2256 BGB)."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Der Widerruf wechselbezüglicher Verfügungen erfolgt zu Lebzeiten beider nur wie der Rücktritt vom Erbvertrag (§ 2271 Abs. 1 S. 1 BGB): notarielle Beurkundung und Wirksamkeit mit Zugang beim anderen Teil (§ 2296 Abs. 2 BGB), und zwar in Urschrift oder Ausfertigung (§ 130 Abs. 1 BGB). Eine beglaubigte Abschrift genügt nicht; ein neues Einzeltestament hebt die Verfügung nicht auf (§ 2271 Abs. 1 S. 2 BGB); die Rücknahme aus der Verwahrung ist nach § 2272 BGB ausgeschlossen.",
   "id": "erbr2-023"
  },
@@ -550,11 +550,11 @@
   "frage": "Welche Verfügungen können im gemeinschaftlichen Testament wechselbezüglich sein?",
   "optionen": [
    "Alle Verfügungen von Todes wegen, auch die Anordnung einer Testamentsvollstreckung.",
-   "Nur Erbeinsetzungen und Vermächtnisse.",
    "Erbeinsetzungen, Vermächtnisse, Auflagen und die Wahl des anzuwendenden Erbrechts.",
+   "Nur Erbeinsetzungen und Vermächtnisse.",
    "Nur die gegenseitige Erbeinsetzung der Ehegatten."
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "§ 2270 Abs. 3 BGB begrenzt die Wechselbezüglichkeit auf Erbeinsetzungen, Vermächtnisse, Auflagen und die Rechtswahl; andere Anordnungen wie die Testamentsvollstreckung können nur einseitig sein. Wechselbezüglich sind Verfügungen, die nach dem Willen der Ehegatten gemeinsam stehen und fallen (§ 2270 Abs. 1 BGB).",
   "id": "erbr2-024"
  },
@@ -588,11 +588,11 @@
   "frage": "Tochter T findet nach dem Tod ihres Vaters ein handschriftliches Testament, das zerrissen und durchgestrichen ist und sie enterbt. Sie hält es für widerrufen. Was muss sie tun?",
   "optionen": [
    "Sie darf es vernichten, weil ein zerrissenes Testament offensichtlich widerrufen ist.",
-   "Sie muss es unverzüglich dem Nachlassgericht abliefern; eine Gültigkeitsprüfung vor Ablieferung findet nicht statt.",
    "Sie muss es nur abliefern, wenn das Nachlassgericht sie dazu auffordert.",
+   "Sie muss es unverzüglich dem Nachlassgericht abliefern; eine Gültigkeitsprüfung vor Ablieferung findet nicht statt.",
    "Sie muss es dem Notar zur Prüfung vorlegen, der über die Ablieferung entscheidet."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Wer ein nicht in amtlicher Verwahrung befindliches Testament besitzt, muss es nach § 2259 Abs. 1 BGB unverzüglich nach Kenntnis vom Tod abliefern; vorsätzliches Unterlassen kann nach § 274 StGB strafbar sein. Eröffnet werden auch zerrissene, aufgehobene oder zweifelhafte Urkunden, solange sie existieren und letztwilligen Inhalt haben; die Gültigkeit prüft nicht der Besitzer.",
   "id": "erbr2-026"
  },
@@ -609,12 +609,12 @@
   ],
   "frage": "Ein deutscher Erblasser lebte seit 30 Jahren in Spanien und hatte nie einen gewöhnlichen Aufenthalt im Inland; er hinterlässt ein Grundstück in Freiburg. Welches Gericht ist für die Testamentseröffnung örtlich zuständig?",
   "optionen": [
-   "Das Amtsgericht Freiburg als Belegenheitsgericht des Grundstücks.",
    "Das Amtsgericht Schöneberg in Berlin (§ 343 Abs. 3 FamFG).",
+   "Das Amtsgericht Freiburg als Belegenheitsgericht des Grundstücks.",
    "Kein deutsches Gericht, weil der gewöhnliche Aufenthalt im Ausland lag.",
    "Das Amtsgericht am Geburtsort des Erblassers."
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Maßgeblich ist der gewöhnliche Aufenthalt beim Tod (§ 343 Abs. 1 FamFG), hilfsweise der letzte inländische gewöhnliche Aufenthalt (§ 343 Abs. 2 FamFG). Fehlt beides, ist bei deutschen Erblassern oder Nachlassgegenständen im Inland das Amtsgericht Schöneberg zuständig (§ 343 Abs. 3 FamFG); es kann das Verfahren bei wichtigem Grund einem anderen Nachlassgericht übertragen. Eine Belegenheitszuständigkeit kennt § 343 FamFG nicht.",
   "id": "erbr2-027"
  },
@@ -650,10 +650,10 @@
   "optionen": [
    "Ein Eröffnungstermin ist zwingend; ohne Ladung der gesetzlichen Erben ist die Eröffnung unwirksam.",
    "Die Urschrift des eröffneten Testaments wird dem eingesetzten Erben nach der Eröffnung ausgehändigt.",
-   "Verwahrt ein anderes als das nach § 343 FamFG zuständige Gericht die Verfügung, eröffnet das verwahrende Gericht (§ 344 Abs. 6 FamFG).",
-   "Die Eröffnung obliegt dem Richter, weil über die Gültigkeit des Testaments entschieden wird."
+   "Die Eröffnung obliegt dem Richter, weil über die Gültigkeit des Testaments entschieden wird.",
+   "Verwahrt ein anderes als das nach § 343 FamFG zuständige Gericht die Verfügung, eröffnet das verwahrende Gericht (§ 344 Abs. 6 FamFG)."
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Das Verwahrgericht eröffnet nach § 344 Abs. 6 FamFG, auch wenn es nicht das nach § 343 FamFG (in Baden-Württemberg §§ 1, 38 LFGG) zuständige Gericht ist. Ein Eröffnungstermin ist möglich, aber nicht vorgeschrieben (§ 348 Abs. 2 FamFG); die Urschrift bleibt in den Nachlassakten und wird auch dem Erben nicht ausgehändigt; funktionell zuständig ist der Rechtspfleger (§ 3 Nr. 2c RPflG), eine Gültigkeitsprüfung findet bei der Eröffnung nicht statt.",
   "id": "erbr2-029"
  },
@@ -671,11 +671,11 @@
   "frage": "Erblasser E schreibt sein Testament handschriftlich und unterschreibt es. Die Verteilung seines Hausrats regelt er in einer mit dem Computer erstellten Liste, die er dem Testament beilegt und auf die er im Testament verweist. Wie ist die Rechtslage?",
   "optionen": [
    "Testament und Anlage sind wirksam, weil die Anlage durch die Bezugnahme Teil des unterschriebenen Testaments wird.",
-   "Das Testament ist insgesamt formnichtig, weil es auf eine nicht eigenhändige Anlage verweist.",
    "Das Testament ist wirksam, die nicht eigenhändig geschriebene Anlage ist jedoch unwirksam.",
+   "Das Testament ist insgesamt formnichtig, weil es auf eine nicht eigenhändige Anlage verweist.",
    "Die Anlage ist wirksam, wenn E sie zusätzlich eigenhändig unterschreibt."
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "Anlagen, auf die ein eigenhändiges Testament verweist, müssen ebenfalls eigenhändig geschrieben sein (§ 2247 Abs. 1 BGB); eine maschinenschriftliche Anlage ist unwirksam, auch mit Unterschrift, weil die Unterschrift die Eigenhändigkeit des Textes nicht ersetzt. Das Testament selbst bleibt wirksam; der typische Fehler besteht gerade in maschinenschriftlichen Teilen oder Anlagen beim privatschriftlichen Testament.",
   "id": "erbr2-030"
  },
@@ -744,11 +744,11 @@
   "frage": "Welche Aussage zur Eigenhändigkeit des privatschriftlichen Testaments ist richtig?",
   "optionen": [
    "Ein Dritter darf dem gebrechlichen Erblasser die Hand führen, solange der Text dem Willen des Erblassers entspricht.",
-   "Ein blinder Erblasser darf sein eigenhändiges Testament in Blindenschrift errichten.",
    "Menschen mit Behinderung dürfen mit dem Mund, dem Fuß oder einer Prothese schreiben; ein Dritter darf stützen, aber nicht Hand oder Arm führen.",
+   "Ein blinder Erblasser darf sein eigenhändiges Testament in Blindenschrift errichten.",
    "Das Testament muss in deutscher Sprache abgefasst sein, damit das Nachlassgericht es eröffnen kann."
   ],
-  "antwort": 2,
+  "antwort": 1,
   "erklaerung": "Eigenhändigkeit verlangt, dass der Erblasser den gesamten Text selbst schreibt; dies kann auch mit Mund, Fuß oder Prothese geschehen. Stützen durch Dritte ist erlaubt, das Führen von Hand oder Arm nicht. Blindenschrift und Maschinenschrift sind nur beim öffentlichen Testament möglich; Leseunkundige sind vom eigenhändigen Testament ausgeschlossen (§ 2247 Abs. 4 BGB). Jede Sprache ist zulässig, die der Erblasser beherrscht und lesen kann.",
   "id": "erbr2-033"
  },
@@ -766,11 +766,11 @@
   "frage": "Welches Gericht ist für die Verwahrung eines vom Notar beurkundeten Testaments zuständig?",
   "optionen": [
    "Das Amtsgericht am Wohnsitz des Erblassers.",
-   "Das Amtsgericht, zu dessen Bezirk der Amtssitz des beurkundenden Notars gehört; auf Verlangen des Erblassers muss ein anderes Amtsgericht übernehmen.",
    "Das Amtsgericht Schöneberg in Berlin als zentrale Verwahrstelle.",
-   "Das Amtsgericht am Geburtsort des Erblassers, weil dort das Zentrale Testamentsregister geführt wird."
+   "Das Amtsgericht am Geburtsort des Erblassers, weil dort das Zentrale Testamentsregister geführt wird.",
+   "Das Amtsgericht, zu dessen Bezirk der Amtssitz des beurkundenden Notars gehört; auf Verlangen des Erblassers muss ein anderes Amtsgericht übernehmen."
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "§ 344 Abs. 1 S. 1 Nr. 1 FamFG knüpft an den Amtssitz des beurkundenden Notars an, nicht an den Wohnsitz des Erblassers. Nach § 344 Abs. 1 S. 2 FamFG kann der Erblasser jederzeit verlangen, dass ein anderes Amtsgericht die Verwahrung übernimmt; darauf sollte der Notar hinweisen. Das Zentrale Testamentsregister registriert nur, es verwahrt nicht.",
   "id": "erbr2-034"
  },
@@ -804,12 +804,12 @@
   ],
   "frage": "Für welche erbrechtlichen Rechtsgeschäfte gilt nach der Handbuchseite der Grundsatz der persönlichen Errichtung?",
   "optionen": [
-   "Nur für das Testament; beim Erbvertrag und beim Erbverzicht ist Vertretung zulässig.",
    "Für Testament, Erbvertrag (auf Seiten des Erblassers) und Erbverzicht (auf Seiten des Erblassers).",
+   "Nur für das Testament; beim Erbvertrag und beim Erbverzicht ist Vertretung zulässig.",
    "Für Testament und Erbvertrag auf beiden Seiten, nicht aber für den Erbverzicht.",
    "Nur für das öffentliche Testament, weil der Notar den Willen des Erblassers persönlich feststellen muss."
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Der Grundsatz der persönlichen Errichtung gilt für das Testament (§ 2064 BGB), für den Erblasser beim Erbvertrag (§ 2274 BGB) und für den Erblasser beim Erbverzicht (§ 2347 S. 1 Hs. 1 BGB), weil die Verfügung von Todes wegen den persönlichen Willen des Erblassers ausdrückt. Der andere Vertragsteil beim Erbvertrag kann sich dagegen vertreten lassen; auch das eigenhändige Testament wird persönlich errichtet.",
   "id": "erbr2-036"
  },
@@ -829,10 +829,10 @@
   "optionen": [
    "A errichtet ein eigenhändiges Testament, weil er mit 16 Jahren testierfähig geworden ist.",
    "A schließt mit seiner Freundin einen Erbvertrag, dem seine Eltern zustimmen.",
-   "A errichtet ein öffentliches Testament durch mündliche Erklärung oder Übergabe einer offenen Schrift vor dem Notar.",
-   "A muss bis zur Volljährigkeit warten, weil Minderjährige nicht testieren können."
+   "A muss bis zur Volljährigkeit warten, weil Minderjährige nicht testieren können.",
+   "A errichtet ein öffentliches Testament durch mündliche Erklärung oder Übergabe einer offenen Schrift vor dem Notar."
   ],
-  "antwort": 2,
+  "antwort": 3,
   "erklaerung": "Mit 16 Jahren ist A testierfähig (§ 2229 Abs. 1 BGB), aber auf das öffentliche Testament und das Bürgermeistertestament durch mündliche Erklärung oder Übergabe einer offenen Schrift beschränkt (§§ 2232, 2233 Abs. 1, 2249 Abs. 1 BGB). Das eigenhändige Testament ist Minderjährigen nach § 2247 Abs. 4 BGB verwehrt. Ein Erbvertrag setzt als Erblasser unbeschränkte Geschäftsfähigkeit voraus (§ 2275 BGB); die Zustimmung der Eltern ersetzt sie nicht.",
   "id": "erbr2-037"
  },
@@ -942,12 +942,12 @@
   ],
   "frage": "Wie ist das gemeinschaftliche Testament rechtlich einzuordnen?",
   "optionen": [
-   "Als zweiseitiges Rechtsgeschäft wie der Erbvertrag, weil beide Ehegatten mitwirken.",
    "Als besondere Form des Testaments, in der jeder Ehegatte eigene einseitige Verfügungen trifft; rechtlich liegen zwei einseitige Verfügungen von Todes wegen vor.",
+   "Als zweiseitiges Rechtsgeschäft wie der Erbvertrag, weil beide Ehegatten mitwirken.",
    "Als Unterfall des Erbvertrags mit Formerleichterung für Ehegatten.",
    "Als einheitliche gemeinsame Verfügung beider Ehegatten, die nur gemeinsam widerrufen werden kann."
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Das gemeinschaftliche Testament ist eine besondere Form des Testaments (§§ 2265 ff. BGB); jeder Beteiligte trifft darin als Erblasser eigene einseitige Verfügungen, sodass rechtlich zwei einseitige Verfügungen von Todes wegen vorliegen. Nur der Erbvertrag ist ein zweiseitiges Rechtsgeschäft (§ 1941 BGB); die Nähe zur Erbvertragsbindung besteht nur bei wechselbezüglichen Verfügungen nach dem ersten Erbfall.",
   "id": "erbr2-042"
  },
@@ -980,11 +980,11 @@
   "frage": "Erblasser E verpflichtet seinen Alleinerben A im Testament durch Auflage, das Grab des E 20 Jahre lang zu pflegen und dem Tierschutzverein T jährlich 1.000 Euro zu zahlen. Welche Rechtsstellung hat T?",
   "optionen": [
    "T hat einen eigenen Anspruch gegen A auf die jährliche Zahlung, weil die Auflage ihn begünstigt.",
-   "T hat keinen Anspruch auf Erfüllung; die Vollziehung der Auflage können nur die in § 2194 BGB genannten Personen verlangen, sofern E keinen Vollziehungsberechtigten bestimmt hat.",
    "T ist Vermächtnisnehmer und kann nach § 2174 BGB Erfüllung verlangen.",
+   "T hat keinen Anspruch auf Erfüllung; die Vollziehung der Auflage können nur die in § 2194 BGB genannten Personen verlangen, sofern E keinen Vollziehungsberechtigten bestimmt hat.",
    "T kann die Vollziehung nur über das Nachlassgericht erzwingen."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Die Auflage verpflichtet den Beschwerten zu einer Leistung, ohne dass jemand ein Recht auf die Leistung erhält (§ 1940 BGB); auch der Begünstigte erwirbt keinen Erfüllungsanspruch. Darin liegt der Unterschied zum Vermächtnis mit seinem Anspruch aus § 2174 BGB. Die Vollziehung kann eine andere Person als der Begünstigte verlangen; fehlt eine Bestimmung des Erblassers, gilt § 2194 BGB, weshalb der Notar einen Vollziehungsberechtigten festlegen sollte.",
   "id": "erbr2-044"
  },
@@ -1003,11 +1003,11 @@
   "frage": "Auf welche Weise kann der Erblasser die Person des Testamentsvollstreckers bestimmen?",
   "optionen": [
    "Nur durch namentliche Benennung im Testament selbst.",
-   "Durch Benennung im Testament, durch Übertragung der Auswahl auf einen Dritten (§ 2198 BGB) oder durch Bitte um Ernennung durch das Nachlassgericht (§ 2200 BGB).",
    "Durch Benennung im Testament oder durch Beschluss der Erbengemeinschaft nach dem Erbfall.",
-   "Nur durch Ernennung des Nachlassgerichts, das den Testamentsvollstrecker nach pflichtgemäßem Ermessen auswählt."
+   "Nur durch Ernennung des Nachlassgerichts, das den Testamentsvollstrecker nach pflichtgemäßem Ermessen auswählt.",
+   "Durch Benennung im Testament, durch Übertragung der Auswahl auf einen Dritten (§ 2198 BGB) oder durch Bitte um Ernennung durch das Nachlassgericht (§ 2200 BGB)."
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Der Erblasser ordnet die Testamentsvollstreckung an (§§ 2197 ff. BGB), um Verwaltung und Verteilung des Nachlasses zu sichern. Er kann den Testamentsvollstrecker selbst benennen, die Auswahl einem Dritten überlassen (§ 2198 BGB) oder das Nachlassgericht um Ernennung bitten (§ 2200 BGB). Eine Bestimmung durch die Erben sieht das Gesetz nicht vor.",
   "id": "erbr2-045"
  },
@@ -1061,11 +1061,11 @@
   "frage": "Wie kann die Enterbung eines gesetzlichen Erben erklärt werden?",
   "optionen": [
    "Nur ausdrücklich unter Nennung des Enterbten und des Grundes.",
-   "Ausdrücklich oder stillschweigend; meist ergibt sie sich daraus, dass der Erblasser andere Personen als Erben einsetzt.",
    "Nur in notarieller Form, weil die Enterbung dem Pflichtteilsrecht vorgreift.",
+   "Ausdrücklich oder stillschweigend; meist ergibt sie sich daraus, dass der Erblasser andere Personen als Erben einsetzt.",
    "Nur stillschweigend, da eine ausdrückliche Enterbung als Pflichtteilsentziehung gilt."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "§ 1938 BGB erlaubt den Ausschluss eines gesetzlichen Erben ohne Erbeinsetzung; die Enterbung kann ausdrücklich oder stillschweigend erfolgen und ergibt sich meist aus der Einsetzung anderer Personen. Eine Begründung ist nicht erforderlich; die Angabe eines Grundes ist nur für die Pflichtteilsentziehung (§§ 2333 ff. BGB) vorgeschrieben, die von der bloßen Enterbung zu unterscheiden ist.",
   "id": "erbr2-048"
  },
@@ -1082,12 +1082,12 @@
   ],
   "frage": "Erblasser E setzt seine Kinder A und B zu je 1/2 als Erben ein und bestimmt, dass A das Ferienhaus (Wert 200.000 Euro) erhalten soll; der Wert soll auf den Erbteil angerechnet werden. Welche Anordnung liegt vor und welche Wirkung hat sie?",
   "optionen": [
-   "Ein Vorausvermächtnis; A erhält das Ferienhaus zusätzlich zu seinem hälftigen Erbteil.",
    "Eine Teilungsanordnung; A hat einen schuldrechtlichen Anspruch gegen die Erbengemeinschaft auf Übereignung, der Wert wird auf seinen Erbteil angerechnet.",
+   "Ein Vorausvermächtnis; A erhält das Ferienhaus zusätzlich zu seinem hälftigen Erbteil.",
    "Eine Teilungsanordnung; A wird mit dem Erbfall unmittelbar Eigentümer des Ferienhauses.",
    "Ein Stückvermächtnis; A ist hinsichtlich des Ferienhauses nicht Erbe, sondern Vermächtnisnehmer."
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Die Teilungsanordnung nach § 2048 BGB weist einem Miterben einen Nachlassgegenstand zu und gibt ihm einen schuldrechtlichen Anspruch gegen die gesamthänderisch gebundene Erbengemeinschaft auf Übereignung; der Wert wird auf den Erbteil angerechnet. Ein unmittelbarer Eigentumsübergang findet nicht statt. Beim Vorausvermächtnis (§ 2150 BGB) unterbliebe die Anrechnung; die angeordnete Anrechnung schließt es hier aus.",
   "id": "erbr2-049"
  },
@@ -1155,11 +1155,11 @@
   "frage": "Welche Aussage zur Erbeinsetzung trifft nach der Handbuchseite zu?",
   "optionen": [
    "Der Erbe muss im Testament namentlich bezeichnet werden; eine Umschreibung durch Merkmale genügt nicht.",
-   "Eine Erbeinsetzung, die mehrere Personen wahlweise nebeneinander stellt, ist grundsätzlich unzulässig, doch ist zuvor zu prüfen, ob die Auslegung zu einem eindeutigen Ergebnis führt.",
    "Für die Person des Erben ist der Wille des Erblassers im Zeitpunkt des Erbfalls maßgeblich.",
+   "Eine Erbeinsetzung, die mehrere Personen wahlweise nebeneinander stellt, ist grundsätzlich unzulässig, doch ist zuvor zu prüfen, ob die Auslegung zu einem eindeutigen Ergebnis führt.",
    "Der Ersatzerbe wird erst mit dem Wegfall des zunächst Berufenen Erbe, nicht schon mit dem Tod des Erblassers."
   ],
-  "antwort": 1,
+  "antwort": 2,
   "erklaerung": "Eine alternative Erbeinsetzung ist grundsätzlich unzulässig, wobei stets vorrangig die Auslegung zu versuchen ist. Eine namentliche Nennung ist nicht erforderlich, es genügen individualisierende Merkmale; maßgeblich ist der Wille des Erblassers bei Errichtung, nicht beim Erbfall; der Ersatzerbe nach § 2096 BGB gilt rechtlich bereits ab dem Tod des Erblassers als Erbe.",
   "id": "erbr2-052"
  },
@@ -1183,11 +1183,11 @@
     "frage": "Wie ist die Zuwendung des Grundstücks an T rechtlich einzuordnen?",
     "optionen": [
      "Als Erbeinsetzung hinsichtlich des Grundstücks, weil E die T ausdrücklich als „Erbin“ bezeichnet hat.",
-     "Als Vermächtnis (Stückvermächtnis), weil die Zuwendung eines einzelnen Gegenstands trotz der Bezeichnung als Erbin nach § 2087 Abs. 2 BGB im Zweifel keine Erbeinsetzung ist.",
      "Als Teilungsanordnung mit Anrechnung auf den Erbteil der T.",
-     "Als Auflage zugunsten der T."
+     "Als Auflage zugunsten der T.",
+     "Als Vermächtnis (Stückvermächtnis), weil die Zuwendung eines einzelnen Gegenstands trotz der Bezeichnung als Erbin nach § 2087 Abs. 2 BGB im Zweifel keine Erbeinsetzung ist."
     ],
-    "antwort": 1,
+    "antwort": 3,
     "erklaerung": "Wer nur einen einzelnen Nachlassgegenstand erhalten soll, bleibt Vermächtnisnehmer; die Bezeichnung als Erbe ändert daran nichts (§ 2087 Abs. 2 BGB). Das ist der typische Fehler privatschriftlicher Testamente. Da T daneben Miterbin ist und das Grundstück zusätzlich erhalten soll, liegt ein Vorausvermächtnis nach § 2150 BGB vor."
    },
    {
@@ -1284,11 +1284,11 @@
   "frage": "Erblasser E setzt seine Ehefrau F zur Vorerbin und seinen Sohn S zum Nacherben ein; Nacherbfall ist der Tod der F. Wie ist das Verhältnis von F und S zueinander?",
   "optionen": [
    "F und S bilden eine Miterbengemeinschaft nach E, in der F die Verwaltung zusteht.",
-   "F und S beerben E nacheinander; S beerbt nicht F, und beide bilden keine Miterbengemeinschaft.",
    "S beerbt beim Nacherbfall die F, weil der Nachlass des E in deren Vermögen aufgegangen ist.",
-   "S ist bis zum Nacherbfall Vermächtnisnehmer der F."
+   "S ist bis zum Nacherbfall Vermächtnisnehmer der F.",
+   "F und S beerben E nacheinander; S beerbt nicht F, und beide bilden keine Miterbengemeinschaft."
   ],
-  "antwort": 1,
+  "antwort": 3,
   "erklaerung": "Bei der Vor- und Nacherbschaft nach § 2100 BGB beerben Vorerbe und Nacherbe beide den Erblasser, jedoch in zeitlicher Reihenfolge; der Nacherbe beerbt den Vorerben nicht. Eine Miterbengemeinschaft setzt gleichzeitige Erbenstellung voraus und scheidet daher aus. S hat bis zum Nacherbfall ein Anwartschaftsrecht am Nachlass, das mit dem Nacherbfall zum Vollrecht wird.",
   "id": "erbr2-056"
  },
@@ -1320,12 +1320,12 @@
   ],
   "frage": "Unternehmer U will, dass sein Vermögen nach dem Tod seiner zweiten Ehefrau Z an seine Kinder aus erster Ehe fällt, und zugleich verhindern, dass Z über den Verbleib des ererbten Vermögens frei bestimmt. Welche Gestaltung entspricht diesem Ziel?",
   "optionen": [
-   "Einsetzung der Z als Alleinerbin und der Kinder als Ersatzerben nach § 2096 BGB.",
    "Einsetzung der Z als Vorerbin und der Kinder als Nacherben nach § 2100 BGB.",
+   "Einsetzung der Z als Alleinerbin und der Kinder als Ersatzerben nach § 2096 BGB.",
    "Einsetzung der Z und der Kinder als Miterben zu gleichen Teilen mit Teilungsanordnung.",
    "Einsetzung der Kinder als Erben und ein Nießbrauchsvermächtnis zugunsten der Z."
   ],
-  "antwort": 1,
+  "antwort": 0,
   "erklaerung": "Die Nacherbfolge nach § 2100 BGB kommt gerade in Betracht, wenn der Erblasser ausschließen will, dass sein Erbe frei bestimmt, wer das ererbte Vermögen später erhält; Z zieht als Vorerbin die Nutzungen, die Substanz fällt den Kindern als Nacherben zu. Der Ersatzerbe nach § 2096 BGB rückt dagegen nur ein, wenn der zunächst Berufene wegfällt, und bindet die Alleinerbin Z nicht.",
   "id": "erbr2-058"
  }
