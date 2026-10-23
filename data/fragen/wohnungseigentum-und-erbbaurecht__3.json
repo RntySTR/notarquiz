@@ -1,0 +1,99 @@
+[
+ {
+  "id": "wohn3-001",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Eigentümerversammlung: Einberufung, Form und Frist",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-einberufung-form-und-frist",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Ein Eigentümer, der weder Verwalter noch Beiratsvorsitzender ist und auch nicht durch Beschluss ermächtigt wurde, beruft eine Eigentümerversammlung ein, in der Beschlüsse gefasst werden. Welche Folge hat die Einberufung durch den Unbefugten für die Beschlüsse grundsätzlich?",
+  "optionen": [
+   "Die Beschlüsse sind nichtig, weil keine Versammlung im Rechtssinne vorliegt.",
+   "Die Beschlüsse sind schwebend unwirksam bis zur Genehmigung durch den Verwalter.",
+   "Die Beschlüsse sind grundsätzlich nur anfechtbar, nicht nichtig.",
+   "Die Beschlüsse sind wirksam; der Einberufungsmangel ist stets unbeachtlich."
+  ],
+  "antwort": 2,
+  "erklaerung": "Beschlüsse einer von einem Nichtberechtigten einberufenen Versammlung sind nach der Rechtsprechung grundsätzlich nur anfechtbar. Die naheliegende Annahme der Nichtigkeit trifft nicht zu: Der Einberufungsmangel ist ein formeller Fehler, der nur auf Anfechtung hin zur Ungültigkeit führt. Eine Genehmigung durch den Verwalter sieht die Rechtslage nicht vor."
+ },
+ {
+  "id": "wohn3-002",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Eigentümerversammlung: Einberufung, Form und Frist",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-einberufung-form-und-frist",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 24 Abs. 4 S. 2 WEG"
+  ],
+  "frage": "Die Einberufungsfrist von mindestens drei Wochen nach § 24 Abs. 4 S. 2 WEG ist zwingend; ihre Unterschreitung führt zur Nichtigkeit der gefassten Beschlüsse.",
+  "antwort": false,
+  "erklaerung": "§ 24 Abs. 4 S. 2 WEG ist eine reine Sollvorschrift; bei besonderer Dringlichkeit darf die Frist ohnehin unterschritten werden, und der Verwalter hat einen gerichtlich überprüfbaren Ermessensspielraum. Verstöße gegen Form und Frist machen Beschlüsse nur anfechtbar, nicht nichtig. Zudem ist die Dreiwochenfrist in der Gemeinschaftsordnung abdingbar."
+ },
+ {
+  "id": "wohn3-003",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Eigentümerversammlung: Einberufung, Form und Frist",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-einberufung-form-und-frist",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 24 Abs. 3 WEG"
+  ],
+  "frage": "Wer kann die Eigentümerversammlung nach § 24 Abs. 3 WEG einberufen, wenn ein Verwalter fehlt oder sich pflichtwidrig weigert?",
+  "optionen": [
+   "Jeder einzelne Wohnungseigentümer ohne weitere Voraussetzung",
+   "Der Vorsitzende des Verwaltungsbeirats, dessen Vertreter oder ein durch Beschluss ermächtigter Eigentümer",
+   "Nur der Eigentümer mit den höchsten Miteigentumsanteilen",
+   "Ausschließlich ein vom Gericht bestellter Notverwalter"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 24 Abs. 3 WEG können bei fehlendem oder pflichtwidrig untätigem Verwalter der Vorsitzende des Verwaltungsbeirats, dessen Vertreter oder ein durch Beschluss ermächtigter Eigentümer einberufen. Ein beliebiger einzelner Eigentümer ist ohne Ermächtigung durch Beschluss nicht befugt. Unabhängig davon sind alle Eigentümer gemeinsam stets zur Einberufung berechtigt."
+ },
+ {
+  "id": "wohn3-004",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Eigentümerversammlung: Einberufung, Form und Frist",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-einberufung-form-und-frist",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 24 Abs. 2 WEG"
+  ],
+  "frage": "Unter welcher Voraussetzung muss der Verwalter neben den vereinbarten Fällen eine Eigentümerversammlung einberufen?",
+  "optionen": [
+   "Wenn mindestens ein Drittel der Miteigentumsanteile dies mündlich verlangt",
+   "Wenn ein einzelner Eigentümer dies schriftlich unter Angabe von Gründen verlangt",
+   "Wenn mehr als ein Viertel der Eigentümer dies in Textform unter Angabe von Zweck und Gründen verlangt",
+   "Wenn die Hälfte der Eigentümer dies in notariell beglaubigter Form verlangt"
+  ],
+  "antwort": 2,
+  "erklaerung": "§ 24 Abs. 2 WEG verpflichtet den Verwalter zur Einberufung, wenn mehr als ein Viertel der Eigentümer dies in Textform unter Angabe von Zweck und Gründen verlangt. Maßgeblich ist die Zahl der Eigentümer, nicht die Miteigentumsanteile, und es genügt Textform; eine Beglaubigung oder Schriftform ist nicht erforderlich."
+ },
+ {
+  "id": "wohn3-005",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Eigentümerversammlung: Einberufung, Form und Frist",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-einberufung-form-und-frist",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 24 Abs. 1 WEG"
+  ],
+  "frage": "Der Notar entwirft die Gemeinschaftsordnung für eine Anlage mit zwei Wohnungen, die von Familienangehörigen bewohnt werden. Welche Regelung zur jährlichen Versammlungspflicht ist sachgerecht?",
+  "optionen": [
+   "Die jährliche Versammlung ist zwingend und kann nicht abbedungen werden.",
+   "Die Versammlung kann auf das Verlangen eines Eigentümers beschränkt und diesem das Einberufungsrecht eingeräumt werden.",
+   "Versammlungen können vollständig ausgeschlossen und durch Entscheidungen des Verwalters ersetzt werden.",
+   "Die Versammlung darf nur noch alle fünf Jahre stattfinden, um Kosten zu sparen."
+  ],
+  "antwort": 1,
+  "erklaerung": "§ 24 Abs. 1 WEG ist teilweise abdingbar; in kleinen Anlagen mit zwei Wohnungen kann die Versammlung auf Verlangen eines Eigentümers beschränkt und diesem das Einberufungsrecht gegeben werden. Die Annahme, die Jahresversammlung sei zwingend, ist daher falsch. Grenze ist, dass das Verwaltungsrecht der Eigentümer nicht völlig ausgehöhlt werden darf, weshalb ein vollständiger Ausschluss unzulässig wäre."
+ }
+]
