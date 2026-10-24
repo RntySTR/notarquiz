@@ -384,5 +384,1062 @@
   "frage": "Ist eine Grundschuld im Kaufvertragsvollzug gelöscht, ist auch der Titel aus der Bestellungsurkunde vollstreckungsrechtlich erledigt, sodass eine Vernichtung der vollstreckbaren Ausfertigung entbehrlich ist.",
   "antwort": false,
   "erklaerung": "Der Titel besteht vollstreckungsrechtlich auch nach der Löschung fort. Der Notar übersendet die vollstreckbare Ausfertigung deshalb dem Schuldner und sollte ihm die Vernichtung empfehlen, damit der Titel nicht missbraucht wird. Vernichtet der Notar sie bei umfassendem Vollzugsauftrag selbst, sollte er dies dokumentieren."
+ },
+ {
+  "id": "zwan2-020",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckbare notarielle Urkunde: beschränkte Unterwerfung und künftiger Eigentümer",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-beschrankte-unterwerfung-und-kunftiger-eigentumer",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 794 Abs. 1 Nr. 5 ZPO"
+  ],
+  "frage": "Bei einer auf die Zwangsverwaltung beschränkten Unterwerfung des Eigentümers wegen einer Grundschuld: Wer beachtet die Beschränkung?",
+  "optionen": [
+   "Der Notar bei der Klauselerteilung, der die Klausel entsprechend beschränken muss",
+   "Das Vollstreckungsorgan; bei der Klauselerteilung spielt die Beschränkung keine Rolle",
+   "Das Grundbuchamt, das die Beschränkung als Inhalt der Grundschuld eintragen muss",
+   "Weder Notar noch Vollstreckungsorgan; der Schuldner muss sie mit der Vollstreckungsgegenklage geltend machen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Schuldner kann die Unterwerfung nach § 794 Abs. 1 Nr. 5 ZPO zeitlich, örtlich, gegenständlich oder auf bestimmte Vollstreckungsmaßnahmen (etwa nur Zwangsverwaltung) beschränken. Die Beschränkung beachtet das Vollstreckungsorgan, nicht das Klauselorgan. Der Hinweis auf die Vollstreckungsgegenklage passt dagegen nur für die Nachlassbeschränkung des Erben (§ 785 ZPO)."
+ },
+ {
+  "id": "zwan2-021",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckbare notarielle Urkunde: beschränkte Unterwerfung und künftiger Eigentümer",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-beschrankte-unterwerfung-und-kunftiger-eigentumer",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 780 ZPO",
+   "§ 785 ZPO"
+  ],
+  "frage": "Hat sich ein Erbe unter Beschränkung seiner Haftung auf den Nachlass unterworfen, beachtet bereits der Notar im Klauselverfahren diese Beschränkung.",
+  "antwort": false,
+  "erklaerung": "Die Nachlassbeschränkung wird weder bei der Klauselerteilung noch im Vollstreckungsverfahren beachtet. Der Erbe kann sie nur mit der Vollstreckungsgegenklage geltend machen (§ 785 ZPO). Anders als bei gegenständlichen oder maßnahmenbezogenen Beschränkungen prüft also kein Organ von Amts wegen."
+ },
+ {
+  "id": "zwan2-022",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckbare notarielle Urkunde: beschränkte Unterwerfung und künftiger Eigentümer",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-beschrankte-unterwerfung-und-kunftiger-eigentumer",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§§ 890, 1131 BGB",
+   "§ 794 Abs. 1 Nr. 5 ZPO"
+  ],
+  "frage": "Ein weiteres Grundstück wird in die Mithaft einer vollstreckbaren Grundschuld einbezogen. Wie ist die Vollstreckbarkeit für dieses Grundstück zu sichern?",
+  "optionen": [
+   "Die Unterwerfung erstreckt sich als Nebenrecht der Grundschuld automatisch auf das Grundstück",
+   "Es genügt die Bewilligung der Mithaft im Grundbuch, da die Vollstreckbarkeit am Recht haftet",
+   "Die Unterwerfung ist für das einbezogene Grundstück ausdrücklich zu erklären und zu beurkunden, mit Betrag, Zinssatz, Zinsbeginn und Fälligkeit der Grundschuld",
+   "Es genügt eine Bezugnahme auf die ursprüngliche Urkunde ohne Wiederholung der Angaben zur Grundschuld"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Unterwerfung erstreckt sich nicht ohne Weiteres auf das neu einbezogene Grundstück; sie muss ausdrücklich erklärt und beurkundet werden, einschließlich der Angaben zur Grundschuld. Nur bei einer Zuschreibung nach §§ 890, 1131 BGB erstreckt sich die Vollstreckbarkeit von selbst. Die Annahme einer Automatik ist der typische Fehler bei der Mithafteinbeziehung."
+ },
+ {
+  "id": "zwan2-023",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckbare notarielle Urkunde: beschränkte Unterwerfung und künftiger Eigentümer",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-beschrankte-unterwerfung-und-kunftiger-eigentumer",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 17 ZVG",
+   "§ 794 Abs. 1 Nr. 5 ZPO"
+  ],
+  "frage": "Warum ist der in Bankformularen übliche Nachweisverzicht für den Eigentumswechsel bei der dinglichen Zwangsvollstreckung überflüssig?",
+  "optionen": [
+   "Weil der Notar den Eigentumswechsel stets aus dem Grundbuch von Amts wegen ermittelt",
+   "Weil die Klausel nach dem Eigentumswechsel immer zwingend umgeschrieben werden muss",
+   "Weil die dingliche Unterwerfung nur gegen den bisherigen Eigentümer wirkt",
+   "Den Nachweis nach § 17 ZVG prüft ohnehin das Vollstreckungsorgan, nicht das Organ der Klauselerteilung"
+  ],
+  "antwort": 3,
+  "erklaerung": "Die dingliche Vollstreckung ist nur gegen den jeweiligen Eigentümer möglich (§ 17 ZVG), und diesen Nachweis führt das Vollstreckungsorgan. Das Klauselorgan ist damit nicht befasst, ein Verzicht läuft daher leer. Eine Umschreibung ist bei Unterwerfung des künftigen Eigentümers gerade nicht erforderlich."
+ },
+ {
+  "id": "zwan2-024",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckbare notarielle Urkunde: Bestimmtheit des Anspruchs",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-bestimmtheit-des-anspruchs",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 794 Abs. 1 Nr. 5 ZPO"
+  ],
+  "frage": "Eine nicht im Gesellschaftsregister eingetragene GbR unterwirft sich der Zwangsvollstreckung. Wie ist sie in der Urkunde zu bezeichnen?",
+  "optionen": [
+   "Mit ihrem Namen und zusätzlich mit allen Gesellschaftern zur eindeutigen Bezeichnung",
+   "Der Name der GbR genügt, da sie als rechtsfähige Gesellschaft selbst Schuldnerin ist",
+   "Nur durch die Angabe eines geschäftsführenden Gesellschafters als Vertreter",
+   "Es genügt die Angabe des Gesellschaftssitzes und des Gesellschaftszwecks"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Unterwerfung muss den Schuldner hinreichend genau bezeichnen (Bestimmtheit). Ist die GbR eingetragen, genügt ihr eingetragener Name; ist sie nicht eingetragen, sind zusätzlich alle Gesellschafter aufzuführen. Der bloße Name würde ohne Registerbezug keine eindeutige Zuordnung erlauben."
+ },
+ {
+  "id": "zwan2-025",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckbare notarielle Urkunde: Bestimmtheit des Anspruchs",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-bestimmtheit-des-anspruchs",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 794 Abs. 1 Nr. 5 ZPO"
+  ],
+  "frage": "Hat sich nur die GbR der Zwangsvollstreckung unterworfen, darf wegen deren Verbindlichkeit auch in das Privatvermögen der persönlich haftenden Gesellschafter vollstreckt werden.",
+  "antwort": false,
+  "erklaerung": "Die Gesellschafter haften zwar persönlich, in ihr Vermögen darf aber nur vollstreckt werden, wenn sich auch der Gesellschafter persönlich unterworfen hat. Die materielle Haftung ersetzt nicht den Titel gegen den jeweiligen Schuldner."
+ },
+ {
+  "id": "zwan2-026",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckbare notarielle Urkunde: Bestimmtheit des Anspruchs",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-bestimmtheit-des-anspruchs",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 794 Abs. 1 Nr. 5 ZPO"
+  ],
+  "frage": "Zinsen auf den Kaufpreis sind erst ab dessen Fälligkeit geschuldet, der Fälligkeitszeitpunkt steht bei Beurkundung nicht fest. Welche Gestaltung hält die Unterwerfung bestimmt?",
+  "optionen": [
+   "Die Unterwerfung wird unter die Bedingung gestellt, dass der Zinsbeginn später durch den Gläubiger bestimmt wird",
+   "Ein eigener, fester vollstreckungsrechtlicher Zinsbeginn in der Unterwerfung oder der Ausschluss der Zinsen aus der Unterwerfung",
+   "Der Zinsbeginn bleibt offen, da der Gerichtsvollzieher ihn aus dem Kaufvertrag ermitteln kann",
+   "Es genügt die Angabe, dass Zinsen ab Fälligkeit geschuldet sind"
+  ],
+  "antwort": 1,
+  "erklaerung": "Das Vollstreckungsorgan muss aus dem Titel selbst ablesen können, wie weit die Vollstreckung reicht; ein unsicherer Zinsbeginn genügt nicht. Entweder legt die Unterwerfung unabhängig vom materiellen Anspruch einen festen Zinsbeginn fest, oder sie erfasst die Zinsen nicht. Der bloße Verweis auf die Fälligkeit hilft nicht, weil diese gerade ungewiss ist."
+ },
+ {
+  "id": "zwan2-027",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckbare notarielle Urkunde: Bestimmtheit des Anspruchs",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-bestimmtheit-des-anspruchs",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 794 Abs. 1 Nr. 5 ZPO"
+  ],
+  "frage": "Ordne die Anforderung der Bestimmtheit dem jeweiligen Anspruch zu.",
+  "paare": [
+   [
+    "Zinssatz",
+    "Bezugnahme auf den Basiszinssatz genügt"
+   ],
+   [
+    "Zinsbeginn bei Grundschuldbestellung",
+    "Angabe genügt, dass die Zinsen ab Eintragung im Grundbuch laufen"
+   ],
+   [
+    "Wertsicherungsklausel",
+    "Kopplung an einen Preisindex für Lebenshaltungskosten des Statistischen Bundesamtes schadet nicht"
+   ],
+   [
+    "Herausgabeanspruch",
+    "Gegenstände so genau beschrieben, dass der Gerichtsvollzieher sie unterscheiden, auffinden und wegnehmen kann"
+   ]
+  ],
+  "erklaerung": "Die Bestimmtheit dient dem Vollstreckungsorgan: Es muss Umfang und Gegenstand der Vollstreckung dem Titel entnehmen können. Die vier Konstellationen sind jeweils anerkannte Fälle, in denen die genannte Angabe ausreicht."
+ },
+ {
+  "id": "zwan2-028",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckbare notarielle Urkunde: Nachweisverzicht",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-nachweisverzicht",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 726 ZPO"
+  ],
+  "frage": "Warum wird in vollstreckbaren Urkunden regelmäßig auf den Nachweis der Fälligkeit verzichtet?",
+  "optionen": [
+   "Weil die Fälligkeit des Anspruchs nach § 794 Abs. 1 Nr. 5 ZPO stets vom Notar zu prüfen ist und er dafür keine Zeit hat",
+   "Weil die Klausel andernfalls nur durch das Prozessgericht erteilt werden dürfte",
+   "Ohne Verzicht dürfte die Klausel nur bei Nachweis durch öffentliche oder öffentlich beglaubigte Urkunden erteilt werden, was oft kaum möglich ist",
+   "Weil Sicherungsgrundschulden stets sofort fällig sind und kein Nachweis denkbar ist"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 726 ZPO setzt die Klausel bei von Bedingungen oder Fälligkeit abhängigen Ansprüchen den Nachweis durch öffentliche oder öffentlich beglaubigte Urkunden voraus, etwa die gerichtsvollzieherliche Zustellung der Kündigung. Das ist praktisch kaum zu leisten. Sicherungsgrundschulden sind gerade nicht sofort fällig, sondern erst nach Kündigung."
+ },
+ {
+  "id": "zwan2-029",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckbare notarielle Urkunde: Nachweisverzicht",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-nachweisverzicht",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 794 Abs. 1 Nr. 5 ZPO"
+  ],
+  "frage": "Welche Wirkung hat der Nachweisverzicht nach der Rechtsprechung des BGH (2001) auf die Beweislast im Prozess, auch bei der Vollstreckungsabwehrklage?",
+  "optionen": [
+   "Die Beweislast kehrt sich um, sodass der Schuldner die fehlende Fälligkeit beweisen muss",
+   "Die Beweislast kehrt sich um, aber nur bei Verbraucherverträgen",
+   "Der Gläubiger muss die Fälligkeit im Prozess beweisen, der Verzicht ist dort unwirksam",
+   "Keine; die Beweislast bleibt unverändert, Klarstellungen zum Ausschluss einer Beweislastumkehr sind entbehrlich"
+  ],
+  "antwort": 3,
+  "erklaerung": "Der BGH hat 2001 entschieden, dass der Nachweisverzicht die Beweislast nicht verändert. Deshalb sind Zusätze, die eine Beweislastumkehr ausschließen sollen, überflüssig. Der Verzicht wirkt nur im Klauselverfahren, nicht im späteren Prozess."
+ },
+ {
+  "id": "zwan2-030",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckbare notarielle Urkunde: Nachweisverzicht",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-nachweisverzicht",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§§ 724 ff. ZPO",
+   "§ 726 Abs. 1 ZPO"
+  ],
+  "frage": "Nach dem BGH (2008) wirkt der Nachweisverzicht auch im Verfahren der Vollstreckungsabwehrklage zulasten des Schuldners.",
+  "antwort": false,
+  "erklaerung": "Der Nachweisverzicht betrifft nur das Verfahren der Klauselerteilung nach §§ 724 ff. ZPO. Er soll lediglich den Nachweis von Voraussetzungen erleichtern, die ohnehin unproblematisch vorliegen, und die sonst nach § 726 Abs. 1 ZPO erforderlichen öffentlichen Urkunden ersetzen."
+ },
+ {
+  "id": "zwan2-031",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckbare notarielle Urkunde: Nachweisverzicht",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-nachweisverzicht",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 726 ZPO"
+  ],
+  "frage": "Wo ein vollständiger Nachweisverzicht nicht gewollt ist: Welche Gestaltung ist nach dem Handbuch möglich?",
+  "optionen": [
+   "Die Urkunde legt die genügende Nachweisart fest, etwa dass die Klausel nach Absendung der Fälligkeitsmitteilung durch den Notar erteilt werden darf",
+   "Die Urkunde verlangt für jede Klauselerteilung ein vorheriges Urteil über die Fälligkeit",
+   "Die Urkunde sieht eine Bedingung vor, dass der Schuldner der Klauselerteilung ausdrücklich zustimmen muss",
+   "Die Urkunde nimmt den Anspruch ganz aus der Unterwerfung heraus"
+  ],
+  "antwort": 0,
+  "erklaerung": "Statt eines Vollverzichts kann bestimmt werden, welcher Nachweis genügt; dann sind weitere Nachweise nicht nötig. Die anderen Wege würden die Unterwerfung ihres Zwecks berauben: Ohne Erleichterung bringt sie in der Regel keinen Vorteil."
+ },
+ {
+  "id": "zwan2-032",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckbare notarielle Urkunde: Nachweisverzicht",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-nachweisverzicht",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 799a ZPO"
+  ],
+  "frage": "Der Schadensersatzanspruch des Schuldners nach § 799a ZPO bei unberechtigter Vollstreckung aus einer Grundschuld setzt ein Verschulden des Gläubigers voraus.",
+  "antwort": false,
+  "erklaerung": "§ 799a ZPO, eingeführt durch das Risikobegrenzungsgesetz am 19. August 2008, gewährt dem Schuldner einen Schadensersatzanspruch ohne Verschulden. Das Verschuldenserfordernis ist die naheliegende, aber falsche Annahme."
+ },
+ {
+  "id": "zwan2-033",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckbare notarielle Urkunde: Vertretung, Vollmacht und Zustellung der Vollmacht",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-vertretung-vollmacht-und-zustellung-der-vollmacht",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 80 ZPO",
+   "§ 726 ZPO"
+  ],
+  "frage": "Ein Vertreter ohne Vollmacht erklärt die Unterwerfung. Wann darf der Notar die vollstreckbare Ausfertigung erteilen?",
+  "optionen": [
+   "Sofort, da die Unterwerfung als einseitige Erklärung keiner Vollmacht bedarf",
+   "Erst wenn Vollmacht oder Genehmigung mindestens in notariell beglaubigter Form nachgewiesen sind",
+   "Erst wenn die Vollmacht in der Form des materiellen Rechtsgeschäfts vorliegt",
+   "Erst nach einer gerichtlichen Feststellung der Wirksamkeit der Vertretung"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Notar kann die Unterwerfung auch aufgrund einer nur behaupteten Vollmacht beurkunden. Die Klausel erteilt er aber erst, wenn Vollmacht oder Genehmigung formgerecht, mindestens notariell beglaubigt, nachgewiesen sind (vgl. § 726 ZPO). Die Vollmacht selbst muss nicht der Form des materiellen Geschäfts entsprechen; § 80 ZPO verlangt nur Schriftform."
+ },
+ {
+  "id": "zwan2-034",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckbare notarielle Urkunde: Vertretung, Vollmacht und Zustellung der Vollmacht",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-vertretung-vollmacht-und-zustellung-der-vollmacht",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 794 Abs. 1 Nr. 5 ZPO"
+  ],
+  "frage": "Nach Entscheidungen mehrerer Oberlandesgerichte ermächtigt eine Vollmacht zur Belastung eines Grundstücks den Bevollmächtigten auch zur Unterwerfung mit Wirkung gegen den jeweiligen Grundstückseigentümer.",
+  "antwort": false,
+  "erklaerung": "Die Befugnis zur Unterwerfung ist nach diesen Entscheidungen von der bloßen Belastungsbefugnis nicht gedeckt. Deshalb ist sie sicherheitshalber ausdrücklich in die Belastungsvollmacht aufzunehmen."
+ },
+ {
+  "id": "zwan2-035",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckbare notarielle Urkunde: Vertretung, Vollmacht und Zustellung der Vollmacht",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-vertretung-vollmacht-und-zustellung-der-vollmacht",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§§ 750, 792 ZPO"
+  ],
+  "frage": "In welchem Fall muss die Vollmacht vor der Zwangsvollstreckung nicht zugestellt werden?",
+  "optionen": [
+   "Wenn die Vollmacht im Kaufvertrag enthalten ist, den der Notar selbst beurkundet hat",
+   "Wenn der Gläubiger die Vollmacht in beglaubigter Abschrift besitzt",
+   "Wenn gegen den Käufer als neuen Eigentümer vollstreckt wird und er sich zugleich selbst unterworfen hat",
+   "Wenn die Unterwerfung im Grundbuch eingetragen ist"
+  ],
+  "antwort": 2,
+  "erklaerung": "Vor Beginn der Vollstreckung ist grundsätzlich auch die Vollmacht zuzustellen (vgl. § 750 ZPO). Das ist entbehrlich, wenn der Käufer als Eigentümer selbst unterworfen ist, was heute der Regelfall sein dürfte. Eintragung im Grundbuch heilt keinen Vollmachtsmangel und ersetzt keine Zustellung."
+ },
+ {
+  "id": "zwan2-036",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckbare notarielle Urkunde: Vertretung, Vollmacht und Zustellung der Vollmacht",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-vertretung-vollmacht-und-zustellung-der-vollmacht",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 17 Abs. 2a S. 2 Nr. 1 BeurkG"
+  ],
+  "frage": "Bei einer Finanzierungsgrundschuld mit abstraktem Schuldversprechen eines Verbrauchers: Wer kann nach dem Handbuch die Erklärungen anstelle des Verbrauchers abgeben, damit die Amtspflicht aus § 17 Abs. 2a S. 2 Nr. 1 BeurkG gewahrt ist?",
+  "optionen": [
+   "Jeder Notariatsangestellte, der vom Notar als Vertreter bestellt wird",
+   "Der Gläubiger als Vertreter des Verbrauchers",
+   "Ein beliebiger Dritter, da für die Unterwerfung § 79 ZPO gilt",
+   "Eine Vertrauensperson des Verbrauchers; Notariatsangestellte sind grundsätzlich keine Vertrauenspersonen"
+  ],
+  "antwort": 3,
+  "erklaerung": "Nach OLG Schleswig (2007) ist die Pflicht, auf persönliche Abgabe oder Abgabe durch eine Vertrauensperson hinzuwirken, eine unbedingte Amtspflicht. Zwar kann bei der Unterwerfung jede Person Vertreter sein (§ 79 ZPO ist nicht anwendbar), der Notar muss aber die Vorgaben des § 17 BeurkG beachten; Mitarbeiter des Notars sind keine Vertrauenspersonen."
+ },
+ {
+  "id": "zwan2-037",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckbare notarielle Urkunde: Vertretung, Vollmacht und Zustellung der Vollmacht",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-vertretung-vollmacht-und-zustellung-der-vollmacht",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 17 BeurkG",
+   "§ 726 ZPO",
+   "§ 750 ZPO"
+  ],
+  "frage": "Finanzierungsvollmacht und Unterwerfung",
+  "sachverhalt": "V verkauft ein Grundstück an K und erteilt im Kaufvertrag eine Belastungsvollmacht, die die Befugnis zur Unterwerfung nicht ausdrücklich nennt. K bestellt für seine Bank beim Notar eine Grundschuld und erklärt als Vertreter des V die dingliche Unterwerfung gegen den jeweiligen Eigentümer. Später soll die Bank vollstrecken.",
+  "schritte": [
+   {
+    "frage": "Was ist für die Unterwerfung durch den Vertreter kritisch?",
+    "optionen": [
+     "Die Belastungsvollmacht deckt die Unterwerfung nach mehreren OLG nicht ohne Weiteres; sie sollte ausdrücklich genannt sein",
+     "Die Unterwerfung ist unzulässig, weil sie nicht der Form des Kaufvertrags entspricht",
+     "Ein Vertreter kann sich nie unterwerfen",
+     "Die Vollmacht muss zwingend von V persönlich vor dem Notar erklärt werden"
+    ],
+    "antwort": 0,
+    "erklaerung": "Die Vollmacht muss nicht der Form des Grundgeschäfts entsprechen, und auch ein Vertreter kann unterwerfen. Strenge Auslegung führt aber dazu, dass die reine Belastungsvollmacht die Unterwerfung nicht sicher abdeckt."
+   },
+   {
+    "frage": "Wann darf der Notar der Bank die vollstreckbare Ausfertigung erteilen?",
+    "optionen": [
+     "Sofort nach Beurkundung, ohne Nachweis der Vollmacht",
+     "Wenn die Vollmacht mindestens in notariell beglaubigter Form nachgewiesen ist",
+     "Erst, wenn V die Unterwerfung im Grundbuchamt bestätigt hat",
+     "Nur nach Zustellung der Vollmacht an V"
+    ],
+    "antwort": 1,
+    "erklaerung": "Die Prüfung der Vollmacht erfolgt allein im Klauselverfahren, wofür mindestens beglaubigter Nachweis erforderlich ist (vgl. § 726 ZPO). Die Zustellung betrifft erst den Vollstreckungsbeginn."
+   },
+   {
+    "frage": "Muss die Vollmacht vor Beginn der Vollstreckung gegen K zugestellt werden, wenn K auch selbst als künftiger Eigentümer unterworfen ist?",
+    "optionen": [
+     "Ja, stets zusammen mit der Urkunde",
+     "Ja, aber nur bei Vollstreckung in bewegliche Sachen",
+     "Nein, die Zustellung ist dann entbehrlich",
+     "Nein, weil die Zustellung nie erforderlich ist"
+    ],
+    "antwort": 2,
+    "erklaerung": "Wird gegen den Käufer als neuen Eigentümer vollstreckt und hat er sich selbst unterworfen, braucht die Vollmacht nicht zugestellt zu werden. Ausnahme wäre, dass K zugleich für weitere Käufer handelt."
+   }
+  ],
+  "erklaerung": "Die Unterwerfungsbefugnis gehört sicherheitshalber ausdrücklich in die Belastungsvollmacht. Die Klausel setzt mindestens beglaubigten Nachweis der Vollmacht voraus; die Zustellung der Vollmacht ist entbehrlich, wenn der Käufer selbst unterworfen ist."
+ },
+ {
+  "id": "zwan2-038",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckbare notarielle Urkunde: Voraussetzungen nach § 794 Abs. 1 Nr. 5 ZPO",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-voraussetzungen-nach-794-abs-1-nr-5-zpo",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 894 ZPO",
+   "§ 794 Abs. 1 Nr. 5 ZPO"
+  ],
+  "frage": "Warum kann sich ein Verkäufer in der notariellen Urkunde nicht wegen seines Anspruchs auf Übereignung des Grundstücks der sofortigen Zwangsvollstreckung unterwerfen?",
+  "optionen": [
+   "Weil der Anspruch nicht einer vergleichsweisen Regelung zugänglich ist",
+   "Weil der Anspruch auf Abgabe einer Willenserklärung gerichtet ist, die nur durch rechtskräftiges Urteil als abgegeben gilt (§ 894 ZPO)",
+   "Weil Grundstücksgeschäfte nach § 311b BGB von der Vollstreckung ausgenommen sind",
+   "Weil die Unterwerfung nur Geldansprüche erfassen darf"
+  ],
+  "antwort": 1,
+  "erklaerung": "Ansprüche, die auf Abgabe einer Willenserklärung gerichtet sind, sind von § 794 Abs. 1 Nr. 5 ZPO ausgenommen, denn die Erklärung wird nach § 894 ZPO erst durch rechtskräftiges Urteil fingiert. Die Beschränkung auf Geldansprüche galt nur vor dem 01.01.1999."
+ },
+ {
+  "id": "zwan2-039",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckbare notarielle Urkunde: Voraussetzungen nach § 794 Abs. 1 Nr. 5 ZPO",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-voraussetzungen-nach-794-abs-1-nr-5-zpo",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 794 Abs. 1 Nr. 5 ZPO"
+  ],
+  "frage": "Eine bloße Unterschriftsbeglaubigung genügt für die Unterwerfung unter die sofortige Zwangsvollstreckung.",
+  "antwort": false,
+  "erklaerung": "Die Unterwerfung wird wie eine Willenserklärung beurkundet; § 794 Abs. 1 Nr. 5 ZPO verlangt eine in der vorgeschriebenen Form aufgenommene Urkunde. Eine Unterschriftsbeglaubigung genügt nicht, daher stets beurkunden."
+ },
+ {
+  "id": "zwan2-040",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckbare notarielle Urkunde: Voraussetzungen nach § 794 Abs. 1 Nr. 5 ZPO",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-voraussetzungen-nach-794-abs-1-nr-5-zpo",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 794 Abs. 1 Nr. 5 ZPO",
+   "§ 22 EGZPO"
+  ],
+  "frage": "Eine Urkunde enthält eine Räumungsverpflichtung mit Unterwerfung, errichtet im Jahr 1997. Wie ist die Unterwerfung zu beurteilen?",
+  "optionen": [
+   "Wirksam, da jeder vergleichsfähige Anspruch auch rückwirkend unterwerfungsfähig ist",
+   "Wirksam, aber nur wenn der Räumungsanspruch beziffert ist",
+   "Nichtig, weil nach der damals geltenden Fassung nur Geldzahlungs- und Mengenansprüche unterwerfungsfähig waren",
+   "Wirksam, weil die Neufassung ab 01.01.1999 auf alle Urkunden anzuwenden ist"
+  ],
+  "antwort": 2,
+  "erklaerung": "Bis 01.01.1999 waren nur Ansprüche auf Zahlung einer bestimmten Geldsumme oder Leistung einer bestimmten Menge vertretbarer Sachen oder Wertpapiere unterwerfungsfähig. Für davor errichtete Urkunden gilt die alte Fassung fort (§ 22 EGZPO); eine darüber hinausgehende Unterwerfung ist nichtig."
+ },
+ {
+  "id": "zwan2-041",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckbare notarielle Urkunde: Voraussetzungen nach § 794 Abs. 1 Nr. 5 ZPO",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-voraussetzungen-nach-794-abs-1-nr-5-zpo",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "BNotO"
+  ],
+  "frage": "Beurkundet ein deutscher Notar eine vollstreckbare Urkunde außerhalb seines Amtsbezirks, aber im Inland, ist der Titel unwirksam.",
+  "antwort": false,
+  "erklaerung": "Innerhalb Deutschlands kann der Notar überall wirksame Titel errichten; die Beurkundung außerhalb des Amtsbezirks verletzt zwar eine Amtspflicht, der Titel bleibt aber wirksam. Unwirksam ist dagegen eine im Ausland errichtete Urkunde, weil die Amtsbefugnis an der Bundesgrenze endet."
+ },
+ {
+  "id": "zwan2-042",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckbare notarielle Urkunde: Voraussetzungen nach § 794 Abs. 1 Nr. 5 ZPO",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-voraussetzungen-nach-794-abs-1-nr-5-zpo",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 794 Abs. 1 Nr. 5 ZPO",
+   "§ 894 ZPO"
+  ],
+  "frage": "Ordne den Anspruch seiner Behandlung bei der Unterwerfung zu.",
+  "paare": [
+   [
+    "Anspruch auf Auflassung",
+    "Unzulässig, da auf Abgabe einer Willenserklärung gerichtet (§ 894 ZPO)"
+   ],
+   [
+    "Räumung einer als Wohnraum vermieteten Wohnung",
+    "Ausgeschlossen, da Bestand eines Mietverhältnisses über Wohnraum betroffen"
+   ],
+   [
+    "Räumung aus Gewerbemietvertrag",
+    "Zulässig seit dem 01.01.1999"
+   ],
+   [
+    "Räumungspflicht des Verkäufers beim Grundstücksverkauf",
+    "Zulässig als vergleichsfähiger Anspruch"
+   ]
+  ],
+  "erklaerung": "Nach § 794 Abs. 1 Nr. 5 ZPO sind Willenserklärungsansprüche und Ansprüche aus dem Bestand eines Wohnraummietverhältnisses ausgeschlossen. Gewerbemiete und die Räumungspflicht des Verkäufers sind unterwerfungsfähig."
+ },
+ {
+  "id": "zwan2-043",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckungsunterwerfung im Kaufvertrag: Belehrungspflicht und Praxis",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-im-kaufvertrag-belehrungspflicht-und-praxis",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "BGH III ZR 156/07",
+   "§ 14 Abs. 1 BNotO"
+  ],
+  "frage": "Der Käufer erhält den Besitz vorzeitig und zahlt weder Nutzungsentschädigung noch Kaufpreis. Worauf stützt der BGH die Haftung des Notars (III ZR 156/07)?",
+  "optionen": [
+   "Auf die Verletzung der Pflicht, den Käufer nach seiner Bonität zu befragen",
+   "Auf die unterbliebene Beurkundung einer Auflassungsvormerkung zugunsten des Verkäufers",
+   "Auf die fehlende Unterwerfung des Verkäufers wegen der Räumung",
+   "Auf die unterlassene Belehrung über die ungesicherte Vorleistung beziehungsweise deren fehlende Verhinderung, da keine Unterwerfung des Käufers wegen der Rückgabe vorgesehen war"
+  ],
+  "antwort": 3,
+  "erklaerung": "Der Vorwurf lautete auf Verletzung der Belehrungspflicht über eine ungesicherte Vorleistung. Als Sicherung kam ein Rücktrittsrecht des Verkäufers bei Verzug mit der Nutzungsentschädigung samt Unterwerfung des Käufers wegen der Rückgabe in Betracht. Die Unterwerfung des Verkäufers betrifft die Gegenseite (Waffengleichheit)."
+ },
+ {
+  "id": "zwan2-044",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckungsunterwerfung im Kaufvertrag: Belehrungspflicht und Praxis",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-im-kaufvertrag-belehrungspflicht-und-praxis",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1 BNotO",
+   "§ 14 Abs. 1 BNotO"
+  ],
+  "frage": "Nach dem KG muss der Notar beim Kauf eines GmbH-Geschäftsanteils stets eine Unterwerfung wegen des Barkaufpreises vorsehen oder vorschlagen.",
+  "antwort": false,
+  "erklaerung": "Das KG sah keine Amtspflichtverletzung, weil der Notar unabhängig und unparteiisch ist und kein wirtschaftlicher Berater eines Beteiligten (§§ 1, 14 Abs. 1 BNotO). Eine Belehrung mit Sicherungsvorschlag schuldet er nur bei besonderer, ungewöhnlicher Gestaltung mit nicht erkennbarem wirtschaftlichem Risiko."
+ },
+ {
+  "id": "zwan2-045",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckungsunterwerfung im Kaufvertrag: Belehrungspflicht und Praxis",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-im-kaufvertrag-belehrungspflicht-und-praxis",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "BGH III ZR 156/07"
+  ],
+  "frage": "Wann ist nach der Logik der BGH-Entscheidung die Unterwerfung im Grundstückskaufvertrag als Ausnahmefall vorzuschlagen?",
+  "optionen": [
+   "Wenn der Verkäufer vorzeitig übergibt; dann soll sich der Käufer wegen Kaufpreis und Rückgabe oder Räumung bei erheblicher Pflichtverletzung unterwerfen",
+   "Immer, wenn der Kaufpreis über 100.000 Euro liegt",
+   "Nur wenn der Käufer ausländischer Staatsangehöriger ist",
+   "Immer, wenn eine Finanzierungsgrundschuld bestellt wird"
+  ],
+  "antwort": 0,
+  "erklaerung": "Der Ausnahmefall ist die vorzeitige Übergabe vor vollständiger Kaufpreiszahlung. Dort besteht ein Vorleistungsrisiko, das die Unterwerfung begrenzt. Eine allgemeine Pflicht, die Unterwerfung anzuregen, lehnt die überwiegende Literatur ab."
+ },
+ {
+  "id": "zwan2-046",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckungsunterwerfung im Kaufvertrag: Belehrungspflicht und Praxis",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-im-kaufvertrag-belehrungspflicht-und-praxis",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "BGH III ZR 156/07",
+   "§ 794 Abs. 1 Nr. 5 ZPO"
+  ],
+  "frage": "Vorzeitige Übergabe und Kaufpreisunterwerfung",
+  "sachverhalt": "V verkauft ein bewohntes Einfamilienhaus an K. Der Kaufpreis soll in Raten gezahlt werden, K soll bereits mit Vertragsschluss einziehen. Der Notar schlägt vor, dass K sich wegen des Kaufpreises der Zwangsvollstreckung unterwirft.",
+  "schritte": [
+   {
+    "frage": "Welche weitere Unterwerfung des K ist wegen der vorzeitigen Übergabe zu erwägen?",
+    "optionen": [
+     "Wegen der Rückgabe oder Räumung für den Fall des Scheiterns des Vertrags, etwa bei Zahlungsverzug oder Rücktritt",
+     "Wegen der Auflassung des Grundstücks an V",
+     "Wegen des Rückzahlungsanspruchs der Bank",
+     "Eine weitere Unterwerfung ist nach der BGH-Rechtsprechung ausgeschlossen"
+    ],
+    "antwort": 0,
+    "erklaerung": "Die vorzeitige Übergabe ist der Ausnahmefall für die Rückgabeunterwerfung (BGH III ZR 156/07). Die Auflassung ist als Willenserklärung nicht unterwerfungsfähig."
+   },
+   {
+    "frage": "Worauf sollte der Notar nach der inzwischen wohl überwiegenden Auffassung hinweisen, weil sich K wegen des Kaufpreises unterwirft?",
+    "optionen": [
+     "Auf die Pflicht des V zur Übernahme einer Bürgschaft",
+     "Auf die Möglichkeit der Räumungsunterwerfung des V („Waffengleichheit“)",
+     "Auf die Möglichkeit, die Unterwerfung nur beglaubigen zu lassen",
+     "Auf die Unwirksamkeit der Kaufpreisunterwerfung"
+    ],
+    "antwort": 1,
+    "erklaerung": "Unterwirft sich der Käufer wegen des Kaufpreises, soll der Notar nach der wohl überwiegenden Auffassung auch auf die Räumungsunterwerfung des Verkäufers hinweisen. Beglaubigung genügt für die Unterwerfung nicht."
+   }
+  ],
+  "erklaerung": "Bei vorzeitiger Übergabe ist neben der Kaufpreisunterwerfung die Unterwerfung des Käufers wegen Rückgabe vorzuschlagen; zudem ist auf die Räumungsunterwerfung des Verkäufers hinzuweisen."
+ },
+ {
+  "id": "zwan2-047",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckungsunterwerfung: Angebot und Annahme",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-angebot-und-annahme",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 13c BeurkG"
+  ],
+  "frage": "Der Verkäufer unterbreitet ein notarielles Angebot samt Unterwerfung des Käufers. Der Käufer erklärt in der Annahmeurkunde nur die vollinhaltliche Annahme. Welche Folge hat das für die Vollstreckung?",
+  "optionen": [
+   "Die Unterwerfung gilt automatisch mit angenommen, da sie Teil des Angebots ist",
+   "Die Unterwerfung gilt, wenn der Notar der Annahme dies in der Urkunde vermerkt",
+   "Die Annahme erfasst die Unterwerfung nicht; eine vollstreckbare Ausfertigung gegen den Käufer ist nicht möglich",
+   "Die Unterwerfung wird durch den Eintritt der Fälligkeit wirksam"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Unterwerfung ist eine einseitige Erklärung und muss in der Annahmeurkunde ausdrücklich erklärt oder wiederholt werden. Vollinhaltliche Annahme des Vertrags genügt nicht. Anders dürfte es bei Verweisung nach § 13c BeurkG auf die Angebotsurkunde liegen."
+ },
+ {
+  "id": "zwan2-048",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckungsunterwerfung: Angebot und Annahme",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-angebot-und-annahme",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Welcher Notar erteilt die vollstreckbare Ausfertigung, wenn der Käufer das Angebot abgibt und sich darin unterwirft, den Vertrag sonst aber ein Zentralnotar abwickelt?",
+  "optionen": [
+   "Der Zentralnotar, der den Vertrag abwickelt",
+   "Der Notar des Angebots, der die Urkunde mit der Unterwerfung verwahrt",
+   "Der Notar am Sitz des Verkäufers",
+   "Das Amtsgericht am Ort des Grundstücks"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die vollstreckbare Ausfertigung erteilt stets der Notar, der die Urkunde mit der Unterwerfung verwahrt. Bei Unterwerfung im Angebot des Käufers ist das der Notar des Angebots, auch bei sonstiger Abwicklung durch einen Zentralnotar."
+ },
+ {
+  "id": "zwan2-049",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckungsunterwerfung: Angebot und Annahme",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-angebot-und-annahme",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 13c BeurkG"
+  ],
+  "frage": "Verweist die Annahmeurkunde nach § 13c BeurkG auf die Angebotsurkunde, dürfte die Unterwerfungserklärung durch die Verweisung abgedeckt sein.",
+  "antwort": true,
+  "erklaerung": "Mit der Verweisung wird der Inhalt der Angebotsurkunde, einschließlich der Unterwerfung, in die Annahmeurkunde einbezogen. Praktisch sollte die Unterwerfung dennoch ausdrücklich wiederholt oder bestätigt werden."
+ },
+ {
+  "id": "zwan2-050",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckungsunterwerfung: Bauträgervertrag",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-bautragervertrag",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§§ 3, 12 MaBV",
+   "§ 134 BGB"
+  ],
+  "frage": "Welche Rechtsfolge hat im Bauträgervertrag eine Unterwerfung des Erwerbers mit völligem Nachweisverzicht?",
+  "optionen": [
+   "Sie ist nichtig wegen Verstoßes gegen §§ 3, 12 MaBV i. V. m. § 134 BGB",
+   "Sie ist wirksam, weil der Erwerber als Verbraucher geschützt wird",
+   "Sie ist wirksam, aber nur wegen der Zinsen",
+   "Sie ist schwebend unwirksam, bis der Erwerber genehmigt"
+  ],
+  "antwort": 0,
+  "erklaerung": "Der BGH hat 1998 den völligen Nachweisverzicht im Bauträgervertrag als Verstoß gegen die Fälligkeits- und Sicherungsvorgaben der MaBV angesehen. Die Folge ist Nichtigkeit nach § 134 BGB, nicht bloße Anfechtbarkeit oder Schwebezustand."
+ },
+ {
+  "id": "zwan2-051",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckungsunterwerfung: Bauträgervertrag",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-bautragervertrag",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 197 Abs. 1 Nr. 4 BGB"
+  ],
+  "frage": "Welchen Vorteil hat eine Unterwerfung des Erwerbers ohne Nachweisverzicht im Bauträgervertrag für den Bauträger?",
+  "optionen": [
+   "Der Bauträger erhält die Klausel ohne Nachweis des Bautenstands",
+   "Die Verjährungsfrist des Kaufpreisanspruchs verlängert sich von drei auf dreißig Jahre",
+   "Der Bauträger kann die Fälligkeitsvoraussetzungen der MaBV umgehen",
+   "Der Bauträger spart die Klauselklage nach §§ 731, 797 ZPO"
+  ],
+  "antwort": 1,
+  "erklaerung": "Eine Unterwerfung ohne Nachweisverzicht ändert die Klauselvoraussetzungen nicht; der Bautenstand lässt sich nicht durch öffentliche Urkunde nach § 726 ZPO nachweisen, es bleibt die Klauselklage (§§ 731, 797 Abs. 5 Nr. 1 ZPO). Der einzige Vorteil ist die dreißigjährige Verjährung nach § 197 Abs. 1 Nr. 4 BGB."
+ },
+ {
+  "id": "zwan2-052",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckungsunterwerfung: Bauträgervertrag",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-bautragervertrag",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 726 ZPO",
+   "§ 731 ZPO"
+  ],
+  "frage": "Bei einer Unterwerfung ohne Nachweisverzicht kann der Bauträger den Bautenstand durch öffentliche Urkunde nach § 726 ZPO nachweisen und erhält so die Klausel ohne Klauselklage.",
+  "antwort": false,
+  "erklaerung": "Der Bautenstand lässt sich nicht durch öffentliche Urkunde nachweisen. Deshalb erlangt der Bauträger den vollstreckbaren Titel nur über die Klauselklage nach §§ 731, 797 Abs. 5 Nr. 1 ZPO; die Unterwerfung erleichtert die Vollstreckung nicht."
+ },
+ {
+  "id": "zwan2-053",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckungsunterwerfung: dingliche und persönliche Unterwerfung bei Grundpfandrechten",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-dingliche-und-personliche-unterwerfung-bei-grundpfandrechten",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 10 Abs. 1 Nr. 4 ZVG"
+  ],
+  "frage": "In welcher Rangklasse steht der Gläubiger, der aus der dinglichen Unterwerfung (Grundschuld) in das Grundstück vollstreckt?",
+  "optionen": [
+   "Rangklasse 5 gemäß § 10 ZVG",
+   "Rangklasse 3 gemäß § 10 Abs. 1 Nr. 3 ZVG",
+   "Rangklasse 4 gemäß § 10 Abs. 1 Nr. 4 ZVG",
+   "Rangklasse 1, da er ein dingliches Recht hat"
+  ],
+  "antwort": 2,
+  "erklaerung": "Der dingliche Titel ergibt für Zwangsversteigerung und Zwangsverwaltung die Rangklasse 4 (§ 10 Abs. 1 Nr. 4 ZVG). Rangklasse 5 gilt für den persönlichen Gläubiger, dem die dinglich Berechtigten, deren Recht vor der Beschlagnahme eingetragen war, vorgehen."
+ },
+ {
+  "id": "zwan2-054",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckungsunterwerfung: dingliche und persönliche Unterwerfung bei Grundpfandrechten",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-dingliche-und-personliche-unterwerfung-bei-grundpfandrechten",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 800 Abs. 1 S. 2 ZPO"
+  ],
+  "frage": "Was ist erforderlich, damit die Unterwerfung gegen den jeweiligen Eigentümer nach § 800 ZPO wirkt?",
+  "optionen": [
+   "Die Bezugnahme auf die Eintragungsbewilligung genügt",
+   "Die Unterwerfung muss dem jeweiligen Eigentümer jeweils zugestellt werden",
+   "Es ist eine gesonderte Urkunde mit beglaubigter Unterschrift erforderlich",
+   "Die Unterwerfung selbst muss in das Grundbuch eingetragen werden; eine Bezugnahme auf die Bewilligung reicht nicht"
+  ],
+  "antwort": 3,
+  "erklaerung": "Nach § 800 Abs. 1 S. 2 ZPO muss die Unterwerfung selbst eingetragen werden; im Grundbuch erscheint der Vermerk der Vollstreckbarkeit nach § 800 ZPO. Typischer Fehler: Sie wird nur in der Bewilligung erklärt, ohne die ausdrückliche Eintragung zu beantragen."
+ },
+ {
+  "id": "zwan2-055",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckungsunterwerfung: dingliche und persönliche Unterwerfung bei Grundpfandrechten",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-dingliche-und-personliche-unterwerfung-bei-grundpfandrechten",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§§ 780, 781 BGB"
+  ],
+  "frage": "Der persönliche Titel aus dem abstrakten Schuldversprechen wirkt auch gegen Sondernachfolger wie Käufer des Grundstücks.",
+  "antwort": false,
+  "erklaerung": "Der persönliche Titel wirkt gegen Gesamtrechtsnachfolger wie Erben, nicht aber gegen Sondernachfolger wie Käufer, Übernehmer oder Beschenkte. Gegen den jeweiligen Eigentümer wirkt nur der dingliche Titel nach § 800 ZPO."
+ },
+ {
+  "id": "zwan2-056",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckungsunterwerfung: dingliche und persönliche Unterwerfung bei Grundpfandrechten",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-dingliche-und-personliche-unterwerfung-bei-grundpfandrechten",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 151 S. 1 BGB"
+  ],
+  "frage": "Wie kommt der Vertrag über das abstrakte Schuldversprechen zustande, wenn nur die Erklärung des Versprechenden beurkundet wird?",
+  "optionen": [
+   "Der Gläubiger nimmt das Angebot durch widerspruchslose Entgegennahme der vollstreckbaren Ausfertigung an, spätestens mit dem Antrag auf deren Erteilung; Zugang der Annahme ist nach § 151 S. 1 BGB entbehrlich",
+   "Das Versprechen ist einseitig wirksam, ein Vertrag ist nicht erforderlich",
+   "Der Gläubiger muss die Annahme dem Schuldner förmlich zustellen lassen",
+   "Der Gläubiger muss die Annahme notariell beurkunden lassen"
+  ],
+  "antwort": 0,
+  "erklaerung": "Das Schuldversprechen ist ein Vertrag; beurkundet wird regelmäßig nur das Angebot des Versprechenden. Die Annahme erfolgt formlos durch Entgegennahme der Ausfertigung oder Antrag auf deren Erteilung, ohne Zugang gegenüber dem Schuldner (§ 151 S. 1 BGB)."
+ },
+ {
+  "id": "zwan2-057",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckungsunterwerfung: dingliche und persönliche Unterwerfung bei Grundpfandrechten",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-dingliche-und-personliche-unterwerfung-bei-grundpfandrechten",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 800 ZPO",
+   "§ 767 ZPO",
+   "§ 10 ZVG"
+  ],
+  "frage": "Ordne den Begriff seiner Wirkung zu.",
+  "paare": [
+   [
+    "Dingliche Unterwerfung",
+    "Titel nur zur Vollstreckung in das Grundstück, Rangklasse 4"
+   ],
+   [
+    "Persönliche Unterwerfung",
+    "Zugriff auf das gesamte Vermögen des Schuldners, bei Grundbesitz Rangklasse 5"
+   ],
+   [
+    "Unterwerfung nach § 800 ZPO",
+    "Vollstreckung gegen den jeweiligen Eigentümer, Eintragung im Grundbuch erforderlich"
+   ],
+   [
+    "Vollstreckungsabwehrklage nach § 767 ZPO",
+    "Schuldner muss Nichtbestehen oder fehlende Fälligkeit der Forderung beweisen"
+   ]
+  ],
+  "erklaerung": "Dingliche und persönliche Unterwerfung sind zu trennen: Der dingliche Titel erlaubt nur den Zugriff auf das Grundstück, der persönliche das gesamte Vermögen. Wegen der Beweislastumkehr des abstrakten Schuldversprechens trägt der Schuldner die Last in der Vollstreckungsabwehrklage."
+ },
+ {
+  "id": "zwan2-058",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckungsunterwerfung: Eigentümergrundschuld und Teilunterwerfung",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-eigentumergrundschuld-und-teilunterwerfung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [],
+  "frage": "Auf welchen Zeitpunkt kommt es für die Personenverschiedenheit von Gläubiger und Schuldner an?",
+  "optionen": [
+   "Auf die Errichtung des Titels; bei Personenidentität ist die Unterwerfung nichtig",
+   "Auf die Einleitung der Vollstreckungsmaßnahme, nicht auf die Errichtung des Titels",
+   "Auf die Klauselerteilung durch den Notar",
+   "Auf den Zeitpunkt der Eintragung im Grundbuch"
+  ],
+  "antwort": 1,
+  "erklaerung": "Niemand kann gegen sich selbst vollstrecken, entscheidend ist aber der Beginn der Vollstreckungsmaßnahme. Deshalb kann sich der Eigentümer schon bei Bestellung einer Eigentümergrundschuld unterwerfen; vollstrecken kann jedoch nur ein Gläubiger, an den die Grundschuld abgetreten wurde."
+ },
+ {
+  "id": "zwan2-059",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckungsunterwerfung: Eigentümergrundschuld und Teilunterwerfung",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-eigentumergrundschuld-und-teilunterwerfung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 780 BGB"
+  ],
+  "frage": "Ein Eigentümer bestellt eine Eigentümergrundschuld und lässt zugleich ein Schuldversprechen gegenüber sich selbst beurkunden. Was gilt für die Klauselerteilung?",
+  "optionen": [
+   "Der Notar darf die persönliche Klausel erteilen, die Wirksamkeit klärt das Vollstreckungsorgan",
+   "Der Notar darf die Klausel erteilen, sobald der Eigentümer die Annahme erklärt",
+   "Das Schuldversprechen gegen sich selbst ist unwirksam; der Notar darf insoweit keine persönliche Klausel und keine vollstreckbare Ausfertigung erteilen",
+   "Der Notar darf die Klausel erst nach Abtretung der Grundschuld erteilen"
+  ],
+  "antwort": 2,
+  "erklaerung": "Bei der Eigentümergrundschuld fehlt für das Schuldversprechen ein Vertragspartner; die Unwirksamkeit ergibt sich aus der Urkunde selbst, daher keine persönliche Klausel. Der BGH hat das Versprechen allerdings als Angebot aufrechterhalten (Umdeutung), das ein späterer Gläubiger annehmen kann."
+ },
+ {
+  "id": "zwan2-060",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckungsunterwerfung: Eigentümergrundschuld und Teilunterwerfung",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-eigentumergrundschuld-und-teilunterwerfung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Wird die Unterwerfung auf einen „zuletzt zu zahlenden Teilbetrag“ einer Grundschuld beschränkt, muss die Grundschuld zuvor geteilt werden.",
+  "antwort": false,
+  "erklaerung": "Auch bei einheitlichem Grundpfandrecht ist eine Teilunterwerfung zulässig; die Grundschuld muss nicht geteilt werden. Wird aus ihr versteigert, wird gleichwohl das gesamte Recht abgelöst und erlischt im Versteigerungsverfahren."
+ },
+ {
+  "id": "zwan2-061",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckungsunterwerfung: Eigentümergrundschuld und Teilunterwerfung",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-eigentumergrundschuld-und-teilunterwerfung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Wann ist der Kostenvorteil der Teilunterwerfung am größten?",
+  "optionen": [
+   "Wenn der Notar die Grundschuld selbst entwirft und mit der Unterwerfung in einer Urkunde beurkundet",
+   "Wenn die Unterwerfung auf das gesamte Grundpfandrecht erstreckt wird",
+   "Wenn die Grundschuld vor der Unterwerfung abgetreten wird",
+   "Wenn der Gläubiger oder Eigentümer einen vollständig verwendbaren Grundschuldentwurf liefert, der Notar nur die Unterschrift beglaubigt und die Unterwerfung in einer zweiten Urkunde folgt"
+  ],
+  "antwort": 3,
+  "erklaerung": "Fertigt oder prüft der Notar den Entwurf selbst, gehören Bestellung und Unterwerfung in dieselbe Urkunde, auch kostenrechtlich, und der Vorteil ist gering. Nur bei reiner Beglaubigung der nicht vollstreckbaren Grundschuld und getrennter Unterwerfung wegen des letztrangigen Teilbetrags ist die Ersparnis am größten."
+ },
+ {
+  "id": "zwan2-062",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckungsunterwerfung: Grundschuldübernahme und isolierte Schuldversprechen",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-grundschuldubernahme-und-isolierte-schuldversprechen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§§ 780, 781 BGB"
+  ],
+  "frage": "Der Käufer übernimmt eine bereits eingetragene vollstreckbare Grundschuld des Verkäufers. Wer bleibt Schuldner des abstrakten Schuldversprechens?",
+  "optionen": [
+   "Der damalige Besteller, in der Regel der Verkäufer",
+   "Der Käufer, da er in die Grundschuld eintritt",
+   "Der Käufer und der Verkäufer als Gesamtschuldner",
+   "Niemand; das Schuldversprechen erlischt mit der Abtretung"
+  ],
+  "antwort": 0,
+  "erklaerung": "Übernahme oder Abtretung der Grundschuld ändert den Schuldner des Schuldversprechens nicht. Will die Bank des Käufers einen persönlichen Titel, muss der Käufer ein eigenes Schuldversprechen abgeben und sich persönlich unterwerfen."
+ },
+ {
+  "id": "zwan2-063",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckungsunterwerfung: Grundschuldübernahme und isolierte Schuldversprechen",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-grundschuldubernahme-und-isolierte-schuldversprechen",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [],
+  "frage": "Ein Sicherungsgeber bestellt eine Grundschuld für das Darlehen eines Angehörigen und gibt zugleich ein vollstreckbares abstraktes Schuldanerkenntnis ab. Wie ist das Schuldanerkenntnis zu beurteilen?",
+  "optionen": [
+   "Wirksam, da jeder Sicherungsgeber persönlich haftet",
+   "In der Regel wegen Verstoßes gegen die AGB-Vorschriften unwirksam",
+   "Wirksam, aber nur in Höhe des Darlehensbetrags",
+   "Wirksam, wenn die Unterschrift beglaubigt wird"
+  ],
+  "antwort": 1,
+  "erklaerung": "Persönliche Unterwerfungen sind nur von den Darlehensschuldnern abgeben zu lassen, nicht vom bloßen Sicherungsgeber. Beim Sicherungsgeber für fremde Schuld ist das Anerkenntnis regelmäßig AGB-widrig."
+ },
+ {
+  "id": "zwan2-064",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckungsunterwerfung: Grundschuldübernahme und isolierte Schuldversprechen",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-grundschuldubernahme-und-isolierte-schuldversprechen",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 17 BeurkG"
+  ],
+  "frage": "Bei einem isolierten Schuldversprechen mit Unterwerfung sollte der Notar nur beurkunden, wenn der Schuldner vorher einen Entwurf hatte; ein Entwurf des Gläubigers genügt.",
+  "antwort": true,
+  "erklaerung": "Dem isolierten Schuldversprechen liegt regelmäßig ein Verbrauchervertrag zugrunde, daher gilt § 17 BeurkG: Der Schuldner soll seine Erklärungen persönlich abgeben und vorher einen Entwurf erhalten haben; der Gläubigerentwurf reicht."
+ },
+ {
+  "id": "zwan2-065",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckungsunterwerfung: Räumungs- und Herausgabeansprüche",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-raumungs-und-herausgabeanspruche",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 794 Abs. 1 Nr. 5 ZPO"
+  ],
+  "frage": "Der Mietvertrag über eine als Wohnung überlassene Räumlichkeit ist unwirksam. Ist die Unterwerfung wegen der Herausgabe zulässig?",
+  "optionen": [
+   "Ja, weil bei unwirksamem Mietvertrag kein Mietverhältnis besteht",
+   "Ja, aber nur nach Beendigung des Mietverhältnisses",
+   "Nein; es genügt, dass Räume als Wohnraum vermietet und überlassen wurden, die Wirksamkeit des Mietvertrags spielt keine Rolle",
+   "Ja, wenn die Unterwerfung notariell beurkundet wird"
+  ],
+  "antwort": 2,
+  "erklaerung": "Ausgeschlossen sind Räumungs- und Herausgabeansprüche, die den Bestand eines Mietverhältnisses über Wohnraum betreffen; die Wirksamkeit des Vertrags ist unerheblich. Auch nach Beendigung ist die Unterwerfung wegen Herausgabe bei Wohnraum nicht zulässig (umstritten)."
+ },
+ {
+  "id": "zwan2-066",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckungsunterwerfung: Räumungs- und Herausgabeansprüche",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-raumungs-und-herausgabeanspruche",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [],
+  "frage": "Für die Unterwerfung wegen Räumung aus einem Gewerbemietvertrag soll auf den privatschriftlichen Mietvertrag verwiesen werden. Genügt das dem Bestimmtheitserfordernis?",
+  "optionen": [
+   "Ja, der Mietvertrag selbst muss ohnehin nicht beurkundet werden",
+   "Ja, sofern der Mietvertrag der Urkunde in Kopie beigefügt wird",
+   "Nein, weil Gewerbemiete nicht unterwerfungsfähig ist",
+   "Nein; die Urkunde muss das zu räumende Objekt selbst beschreiben, ein Verweis auf den privatschriftlichen Vertrag reicht nicht"
+  ],
+  "antwort": 3,
+  "erklaerung": "Der Mietvertrag muss nicht beurkundet werden, die Unterwerfung selbst aber schon, und der vollstreckbare Anspruch muss sich eindeutig aus der Urkunde ergeben. Gewerbemiete ist seit 01.01.1999 unterwerfungsfähig."
+ },
+ {
+  "id": "zwan2-067",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckungsunterwerfung: Räumungs- und Herausgabeansprüche",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-raumungs-und-herausgabeanspruche",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Der Räumungstitel gegen den Verkäufer wirkt auch gegen Ehegatten, die als Mitbesitzer im Objekt wohnen.",
+  "antwort": false,
+  "erklaerung": "Der Titel ermöglicht die zwangsweise Räumung nur gegen den Verkäufer. Gegen andere Bewohner mit Mitbesitz, insbesondere Ehegatten, wirkt er nicht; deshalb sollte der Käufer hierauf hingewiesen und eine Erklärung aufgenommen werden, dass niemand sonst das Objekt bewohnt."
+ },
+ {
+  "id": "zwan2-068",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Vollstreckbare Urkunde und Unterwerfung",
+  "seite": "Vollstreckungsunterwerfung: Räumungs- und Herausgabeansprüche",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-raumungs-und-herausgabeanspruche",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 794 Abs. 1 Nr. 5 ZPO"
+  ],
+  "frage": "Räumungsunterwerfung des Verkäufers",
+  "sachverhalt": "V verkauft sein selbst bewohntes Haus an K. K soll es nach vollständiger Kaufpreiszahlung bezugsfertig übernehmen. V lebt mit seiner Ehefrau im Haus. Der Notar beurkundet eine Unterwerfung des V wegen der Räumung und Übergabe.",
+  "schritte": [
+   {
+    "frage": "Ist die Unterwerfung des V wegen seiner Räumungspflicht zulässig?",
+    "optionen": [
+     "Ja, die Unterwerfung des Verkäufers wegen der Räumungspflicht bei Veräußerung ist zulässig",
+     "Nein, weil es sich um Wohnraum handelt",
+     "Nein, weil Räumung nur wegen Gewerbemiete unterwerfungsfähig ist",
+     "Nur, wenn V Mieter wäre"
+    ],
+    "antwort": 0,
+    "erklaerung": "Ausgeschlossen ist nur die Unterwerfung bei Wohnraummietverhältnissen; die Räumungspflicht des Verkäufers bei Veräußerung ist zulässig."
+   },
+   {
+    "frage": "Gegen wen kann K aus dem Titel räumen lassen?",
+    "optionen": [
+     "Gegen V und seine Ehefrau",
+     "Nur gegen V; gegen die Ehefrau als Mitbesitzerin wirkt der Titel nicht",
+     "Gegen alle Personen, die sich im Haus befinden",
+     "Gegen V, aber nur nach gerichtlicher Räumungsklage"
+    ],
+    "antwort": 1,
+    "erklaerung": "Der Titel wirkt nur gegen den Unterworfenen, nicht gegen weitere Mitbesitzer wie Ehegatten."
+   },
+   {
+    "frage": "Wie kann der Notar die Klausel zugunsten des V absichern?",
+    "optionen": [
+     "Durch zwingenden Verzicht auf jeden Nachweis",
+     "Durch Beglaubigung der Unterschrift des K",
+     "Die Klausel wegen der Besitzübergabe kann vom Nachweis der vollständigen Kaufpreiszahlung abhängig gemacht werden, etwa durch öffentlich beglaubigte Bankbestätigung",
+     "Durch Beurkundung der Auflassung an V"
+    ],
+    "antwort": 2,
+    "erklaerung": "Die Klausel kann vom Nachweis der vollständigen Kaufpreiszahlung abhängig gemacht werden; der Nachweis kann durch öffentlich beglaubigte Bankbestätigung geführt werden."
+   }
+  ],
+  "erklaerung": "Die Räumungsunterwerfung des Verkäufers ist zulässig, wirkt aber nur gegen ihn, nicht gegen Mitbesitzer wie Ehegatten. Die Klausel kann vom Nachweis der Kaufpreiszahlung abhängig gemacht werden."
  }
 ]

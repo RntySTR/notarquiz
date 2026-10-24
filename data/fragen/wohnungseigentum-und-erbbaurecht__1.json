@@ -994,5 +994,594 @@
    }
   ],
   "erklaerung": "Maßgeblich bleiben die Plangrenzen; der Anspruch auf plangerechte Herstellung kann nach § 242 BGB ausgeschlossen sein, sodass die Eigentümer Plan und Teilungserklärung durch Vereinbarung anpassen müssen. Das Grundbuchamt darf den Vollzug deswegen nicht blockieren."
+ },
+ {
+  "id": "wohn1-047",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Gründungsmängel: dingliche Rechtslage, Innenverhältnis und isolierter Miteigentumsanteil",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/grundungsmangel-dingliche-rechtslage-innenverhaltnis-und-isolierter-miteigentumsanteil",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 3 WEG",
+   "§ 4 WEG"
+  ],
+  "erklaerung": "Wohnungseigentum wird nach Sachenrecht begründet; den Rechtsverkehr schützen der öffentliche Glaube des Grundbuchs und der gute Glaube. Erwirbt ein Dritter gutgläubig eine Einheit, heilt der ganze Gründungsakt, weil Wohnungseigentum nicht an nur einer einzigen Wohnung entstehen kann. Die Grundsätze der fehlerhaften Gesellschaft gelten nur im Innenverhältnis der Beteiligten, nicht für die dingliche Rechtslage.",
+  "frage": "Eine unwirksame Teilung wird ins Grundbuch eingetragen. Ein Dritter erwirbt gutgläubig eine der Einheiten. Welche Wirkung hat das für den Gründungsakt?",
+  "optionen": [
+   "Der gesamte Gründungsakt wird geheilt, weil Wohnungseigentum nicht nur an einer einzigen Wohnung entstehen kann",
+   "Nur die erworbene Einheit entsteht wirksam; die übrigen Einheiten bleiben unwirksam",
+   "Es tritt keine Heilung ein, weil gutgläubiger Erwerb von Wohnungseigentum ausgeschlossen ist",
+   "Die Teilung bleibt unwirksam, die Beteiligten haften aber nach den Grundsätzen der fehlerhaften Gesellschaft"
+  ],
+  "antwort": 0
+ },
+ {
+  "id": "wohn1-048",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Gründungsmängel: dingliche Rechtslage, Innenverhältnis und isolierter Miteigentumsanteil",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/grundungsmangel-dingliche-rechtslage-innenverhaltnis-und-isolierter-miteigentumsanteil",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 3 WEG",
+   "§ 16 Abs. 2 S. 1 WEG"
+  ],
+  "erklaerung": "Der Verstoß gegen die sachenrechtlichen Bestimmungen führt hier nur zur Teilnichtigkeit; im Übrigen bleibt die Aufteilung wirksam, und es entsteht ein isolierter Miteigentumsanteil. Dieser ist verkehrsfähig, vermittelt ein volles Stimmrecht und der Inhaber ist an den Kosten zu beteiligen (§ 16 Abs. 2 S. 1 WEG). Die Annahme der Gesamtnichtigkeit trifft nur zu, wenn sich etwa eine Überaufteilung nicht berichtigend auslegen lässt.",
+  "frage": "Alle Räume, die mit einem bestimmten Miteigentumsanteil verbunden sind, sind nicht sondereigentumsfähig. Welche Rechtsfolge tritt ein?",
+  "optionen": [
+   "Die gesamte Aufteilung ist nichtig",
+   "Die Aufteilung ist nur teilnichtig; im Übrigen ist sie wirksam und es entsteht ein isolierter Miteigentumsanteil",
+   "Der Miteigentumsanteil fällt den übrigen Wohnungseigentümern anteilig kraft Gesetzes zu",
+   "Der Miteigentumsanteil bleibt ohne Wirkung und vermittelt weder Stimmrecht noch Kostenpflicht"
+  ],
+  "antwort": 1
+ },
+ {
+  "id": "wohn1-049",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Gründungsmängel: dingliche Rechtslage, Innenverhältnis und isolierter Miteigentumsanteil",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/grundungsmangel-dingliche-rechtslage-innenverhaltnis-und-isolierter-miteigentumsanteil",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [],
+  "erklaerung": "Bei einem offensichtlichen Rechenfehler ist die Erklärung dahin auszulegen, dass der Nenner der Summe aller Zähler entspricht; bei 999 oder 1001 bestehen also 999/999 oder 1001/1001. Nichtig ist die Aufteilung bei Überaufteilung nur, wenn sich die Erklärung nicht berichtigend auslegen lässt. Vor der Beurkundung sollte die Summe nachgerechnet werden.",
+  "frage": "Ergibt die Summe der Tausendstel-Miteigentumsanteile wegen eines offensichtlichen Rechenfehlers 999, ist die Aufteilung nichtig, weil weniger als 1000/1000 verteilt wurden.",
+  "antwort": false
+ },
+ {
+  "id": "wohn1-050",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Gründungsmängel: dingliche Rechtslage, Innenverhältnis und isolierter Miteigentumsanteil",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/grundungsmangel-dingliche-rechtslage-innenverhaltnis-und-isolierter-miteigentumsanteil",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 139 BGB"
+  ],
+  "erklaerung": "Überaufteilung ohne Auslegungsmöglichkeit macht die gesamte Aufteilung nichtig; fehlt bei einem Anteil jedes Sondereigentum, entsteht ein isolierter Miteigentumsanteil. Ein Mangel nur der Gemeinschaftsordnung lässt die Begründung unberührt, es gilt das Gesetz. Betrifft der Mangel nur einzelne Räume, entsteht Wohnungseigentum bei entsprechendem Willen nach § 139 BGB, unwirksames Sondereigentum wird regelmäßig als Sondernutzungsrecht umgedeutet.",
+  "frage": "Ordne den Gründungsmangel seiner Rechtsfolge zu.",
+  "paare": [
+   [
+    "Überaufteilung, nicht berichtigend auslegbar",
+    "Die ganze Aufteilung ist nichtig"
+   ],
+   [
+    "Für einen Anteil fehlt jedes Sondereigentum",
+    "Es entsteht grundsätzlich ein isolierter Miteigentumsanteil"
+   ],
+   [
+    "Nur die Gemeinschaftsordnung verstößt gegen das WEG",
+    "Begründung bleibt unberührt; statt der unwirksamen Regel gilt das Gesetz"
+   ],
+   [
+    "Einzelne Räume einer Einheit nicht sondereigentumsfähig",
+    "Wohnungseigentum entsteht bei entsprechendem Willen (§ 139 BGB); unwirksames Sondereigentum wird in der Regel in ein Sondernutzungsrecht umgedeutet"
+   ]
+  ]
+ },
+ {
+  "id": "wohn1-051",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Gründungsmängel: falsche Zweckbestimmung und Widerspruch zwischen Teilungserklärung und Aufteilungsplan",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/grundungsmangel-falsche-zweckbestimmung-und-widerspruch-zwischen-teilungserklarung-und-aufteilungsplan",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1 WEG"
+  ],
+  "erklaerung": "Nach der Rechtsprechung fehlt es bei abweichender Eintragung an der Entstehung von Wohnungseigentum; der Antrag ist insoweit noch nicht erledigt und nach Löschung erneut einzutragen. Die Gegenansicht, die die Entstehung bejaht, ist nur eine Mindermeinung. Praktisch ist die Eintragungsnachricht darauf zu prüfen, ob Wohnungseigentum nicht versehentlich als Teileigentum eingetragen wurde.",
+  "frage": "Die Teilungserklärung begründet Wohnungseigentum, im Grundbuch wird die Einheit aber als Teileigentum eingetragen. Wie beurteilt die Rechtsprechung die Lage?",
+  "optionen": [
+   "Wohnungseigentum ist entstanden; die Bezeichnung im Grundbuch ist nur zu berichtigen",
+   "Teileigentum ist wirksam entstanden, weil die Eintragung maßgeblich ist",
+   "Wohnungseigentum ist nicht entstanden; der Antrag ist noch nicht erledigt und nach Löschung erneut einzutragen",
+   "Die Teilung ist insgesamt nichtig und muss neu beurkundet werden"
+  ],
+  "antwort": 2
+ },
+ {
+  "id": "wohn1-052",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Gründungsmängel: falsche Zweckbestimmung und Widerspruch zwischen Teilungserklärung und Aufteilungsplan",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/grundungsmangel-falsche-zweckbestimmung-und-widerspruch-zwischen-teilungserklarung-und-aufteilungsplan",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 5 Abs. 1 S. 1 WEG",
+   "§ 3 Abs. 1 S. 1 WEG",
+   "§ 7 Abs. 4 S. 1 Nr. 1 WEG"
+  ],
+  "erklaerung": "Widersprechen sich Text und Aufteilungsplan, hat grundsätzlich keine der beiden Erklärungen Vorrang. Sondereigentum entsteht dann nicht, die betroffenen Teile bleiben Gemeinschaftseigentum. Ein Vorrang des Plans oder des Textes wird gerade nicht angenommen; zudem bildet sich ein isolierter Miteigentumsanteil, wenn alle Räume des Anteils betroffen sind.",
+  "frage": "Der Text der Teilungserklärung ordnet einer Einheit einen Raum zu, den der Aufteilungsplan einer anderen Einheit zuweist. Was gilt?",
+  "optionen": [
+   "Der Text der Teilungserklärung geht dem Aufteilungsplan vor",
+   "Der Aufteilungsplan geht dem Text vor, weil er die Raumgrenzen bestimmt",
+   "Keine Erklärung hat Vorrang; Sondereigentum entsteht nicht und der Raum bleibt Gemeinschaftseigentum",
+   "Der Raum steht den beiden Einheiten in Bruchteilsgemeinschaft zu"
+  ],
+  "antwort": 2
+ },
+ {
+  "id": "wohn1-053",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Gründungsmängel: falsche Zweckbestimmung und Widerspruch zwischen Teilungserklärung und Aufteilungsplan",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/grundungsmangel-falsche-zweckbestimmung-und-widerspruch-zwischen-teilungserklarung-und-aufteilungsplan",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 3 Abs. 1 S. 1 WEG"
+  ],
+  "erklaerung": "Der Widerspruch beschränkt sich auf den betroffenen Raum, der Gemeinschaftseigentum bleibt. An den übrigen Räumen entsteht das Sondereigentum wirksam. Zum isolierten Miteigentumsanteil kommt es nur, wenn der Widerspruch alle mit dem Anteil verbundenen Räume erfasst.",
+  "frage": "Erfasst der Widerspruch zwischen Teilungserklärung und Aufteilungsplan nur einen von mehreren Räumen, die mit dem Miteigentumsanteil verbunden sind, entsteht im Übrigen das Sondereigentum wirksam.",
+  "antwort": true
+ },
+ {
+  "id": "wohn1-054",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Gründungsmängel: falsche Zweckbestimmung und Widerspruch zwischen Teilungserklärung und Aufteilungsplan",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/grundungsmangel-falsche-zweckbestimmung-und-widerspruch-zwischen-teilungserklarung-und-aufteilungsplan",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "erklaerung": "Maßgeblich sind Wortlaut und Sinn der Eintragung und der wirksam einbezogenen Bewilligung samt Anlagen in ihrer nächstliegenden Bedeutung für einen unbefangenen Betrachter. Der Wille des Verfassers entscheidet nicht. Umstände außerhalb der Urkunde zählen nur, wenn sie im Einzelfall für jeden ohne Weiteres zu erkennen sind.",
+  "frage": "Nach welchem Maßstab wird ausgelegt, ob zwischen Eintragung, Bewilligung und Aufteilungsplan ein Widerspruch besteht?",
+  "optionen": [
+   "Nach dem Willen dessen, der die Teilungserklärung formuliert hat",
+   "Nach Wortlaut und Sinn, wie sie sich einem unbefangenen Betrachter als nächstliegende Bedeutung erschließen",
+   "Nach dem übereinstimmenden Verständnis der ersten Erwerber",
+   "Nach den Umständen außerhalb der Urkunde, soweit sie dem Grundbuchamt bekannt sind"
+  ],
+  "antwort": 1
+ },
+ {
+  "id": "wohn1-055",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Mehrhausanlage: abschnittsweise Begründung von Wohnungseigentum",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/mehrhausanlage-abschnittsweise-begrundung-von-wohnungseigentum",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [],
+  "erklaerung": "Bei Mehrhausanlagen ist zuerst an eine Realteilung und getrennte Gemeinschaften zu denken; der Bauträger kann spätere Abschnitte dann später aufteilen. Erst wenn die Realteilung ausgeschlossen oder sehr mühsam ist (etwa wegen gemeinsam genutzter Anlagen), kommt die Gemeinschaft mit mehreren Häusern auf dem ungeteilten Grundstück in Betracht. Die verdinglichte Ermächtigung ist unzulässig.",
+  "frage": "Was ist bei einer Mehrhausanlage in Bauabschnitten zunächst zu prüfen?",
+  "optionen": [
+   "Eine große Aufteilung des gesamten Grundstücks",
+   "Eine Realteilung des Grundstücks mit getrennten Wohnungseigentümergemeinschaften",
+   "Eine verdinglichte Ermächtigung des Bauträgers in der Gemeinschaftsordnung",
+   "Ein überdimensionaler Miteigentumsanteil mit Vormerkung"
+  ],
+  "antwort": 1
+ },
+ {
+  "id": "wohn1-056",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Mehrhausanlage: abschnittsweise Begründung von Wohnungseigentum",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/mehrhausanlage-abschnittsweise-begrundung-von-wohnungseigentum",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 8 WEG"
+  ],
+  "erklaerung": "Verdinglichte Ermächtigungen zugunsten des aufteilenden Eigentümers sind nach der Rechtsprechung unzulässig, weil die Gemeinschaftsordnung das sachenrechtliche Grundverhältnis nicht regeln kann. Die Mitwirkung bei neuem Sondereigentum gehört zu diesem Grundverhältnis. Der Hinweis auf eine nur schuldrechtliche Vereinbarung beschreibt zwar das Ergebnis der Vollmachtslösung im Erwerbsvertrag, nicht aber den Grund der Unzulässigkeit.",
+  "frage": "Warum kann sich der aufteilende Eigentümer die spätere Begründung weiteren Sondereigentums nicht durch eine Ermächtigung in der Gemeinschaftsordnung vorbehalten?",
+  "optionen": [
+   "Weil die Gemeinschaftsordnung nur mit Zustimmung aller Grundpfandgläubiger geändert werden kann",
+   "Weil die Gemeinschaftsordnung das sachenrechtliche Grundverhältnis nicht regeln kann",
+   "Weil die Ermächtigung nach § 12 WEG der Genehmigung des Verwalters bedarf",
+   "Weil eine solche Ermächtigung nur schuldrechtlich zwischen Bauträger und Ersterwerber vereinbart werden darf"
+  ],
+  "antwort": 1
+ },
+ {
+  "id": "wohn1-057",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Mehrhausanlage: abschnittsweise Begründung von Wohnungseigentum",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/mehrhausanlage-abschnittsweise-begrundung-von-wohnungseigentum",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [],
+  "erklaerung": "Bei der kleinen Aufteilung übertragen die anderen Wohnungseigentümer dem Bauträger vor dem Bau weiterer Einheiten Miteigentumsanteile und wirken an der Begründung weiteren Wohnungseigentums mit. Das Verfahren ist deshalb umständlich und wenig praxistauglich. Ohne Mitwirkung ginge es nur bei der großen Aufteilung, die das ganze Grundstück sofort erfasst.",
+  "frage": "Bei der kleinen Aufteilung kann der Bauträger spätere Bauabschnitte ohne Mitwirkung der übrigen Wohnungseigentümer aufteilen, weil das Grundstück zunächst für den ersten Abschnitt aufgeteilt wurde.",
+  "antwort": false
+ },
+ {
+  "id": "wohn1-058",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Mehrhausanlage: abschnittsweise Begründung von Wohnungseigentum",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/mehrhausanlage-abschnittsweise-begrundung-von-wohnungseigentum",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 9a Abs. 4 S. 1 WEG",
+   "§ 1 Abs. 5 WEG"
+  ],
+  "erklaerung": "Die Haftung gegenüber Gläubigern der Gemeinschaft richtet sich nach dem eingetragenen Miteigentumsanteil (§ 9a Abs. 4 S. 1 WEG); der Bauträger haftet daher bis zur Vollendung stärker. Ein später errichtetes Gebäude steht zunächst im Gemeinschaftseigentum (§ 1 Abs. 5 WEG), sodass für Sondereigentum daran die Mitwirkung der bisherigen Eigentümer erforderlich ist.",
+  "frage": "Der Bauträger behält einen überdimensionalen Miteigentumsanteil, verbunden mit einem Tiefgaragenstellplatz. Welche Aussage trifft zu?",
+  "optionen": [
+   "Er haftet bis zur Vollendung der Gesamtanlage entsprechend stärker nach § 9a Abs. 4 S. 1 WEG",
+   "Er haftet nur für den Stellplatz, da der Anteil mit Sondereigentum am Stellplatz verbunden ist",
+   "Das später errichtete Gebäude gehört sofort zum Sondereigentum des Bauträgers",
+   "Für Sondereigentum am späteren Gebäude benötigt er keine Mitwirkung der bisherigen Eigentümer"
+  ],
+  "antwort": 0
+ },
+ {
+  "id": "wohn1-059",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Mehrhausanlage: abschnittsweise Begründung von Wohnungseigentum",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/mehrhausanlage-abschnittsweise-begrundung-von-wohnungseigentum",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 12 Abs. 2 S. 1 WEG",
+   "§ 315 BGB"
+  ],
+  "erklaerung": "Große Aufteilung und verdinglichte Ermächtigung scheiden aus. Zu verbinden sind ein überdimensionaler Miteigentumsanteil, die Vollmacht im Erwerbsvertrag und bei tragbaren Kosten eine Vormerkung, die die Fläche des künftigen Baus bezeichnet.",
+  "frage": "Bauträger mit offener Planung",
+  "sachverhalt": "Bauträger B plant eine Wohnanlage mit mehreren Häusern in zwei Bauabschnitten. Die Planung des zweiten Abschnitts ist noch nicht abgeschlossen. Eine Realteilung scheidet wegen gemeinsam genutzter Anlagen aus. B möchte sich die spätere Aufteilung offenhalten und denkt daran, sich dazu in der Gemeinschaftsordnung ermächtigen zu lassen.",
+  "schritte": [
+   {
+    "frage": "Kommt eine große Aufteilung in Betracht?",
+    "optionen": [
+     "Ja, sie ist gerade bei offener Planung vorzugswürdig",
+     "Nein, sie scheidet aus, weil die Planung noch nicht abgeschlossen ist und B sich die Gestaltung offenhalten will",
+     "Ja, aber nur mit Vormerkung zugunsten aller Erwerber",
+     "Nein, weil sie bei Mehrhausanlagen stets unzulässig ist"
+    ],
+    "antwort": 1,
+    "erklaerung": "Bei der großen Aufteilung wird das ganze Grundstück einschließlich der späteren Abschnitte sofort aufgeteilt. Das scheidet aus, wenn die Planung nicht abgeschlossen ist und der Bauträger die Gestaltung offenhalten will. Unzulässig ist sie nicht, sie passt nur nicht zu den Zielen von B."
+   },
+   {
+    "frage": "Ist die beabsichtigte Ermächtigung in der Gemeinschaftsordnung ein tauglicher Weg?",
+    "optionen": [
+     "Ja, wenn alle Ersterwerber zustimmen",
+     "Ja, sie wirkt dann auch gegenüber Einzelrechtsnachfolgern",
+     "Nein, verdinglichte Ermächtigungen zugunsten des aufteilenden Eigentümers sind unzulässig",
+     "Nein, weil dafür zwingend ein Beschluss nach § 12 WEG erforderlich wäre"
+    ],
+    "antwort": 2,
+    "erklaerung": "Die Gemeinschaftsordnung kann das sachenrechtliche Grundverhältnis nicht regeln; verdinglichte Ermächtigungen sind daher nach der Rechtsprechung unzulässig. Die Zustimmung der Ersterwerber ändert daran nichts. Dies ist der typische Fehler bei Mehrhausanlagen."
+   },
+   {
+    "frage": "Welche Gestaltung empfiehlt die Seite für diesen Fall?",
+    "optionen": [
+     "Nur eine Veräußerungsbeschränkung nach § 12 WEG, da sie sicher einen wichtigen Grund liefert",
+     "Ausschließlich eine Vollmacht im Erwerbsvertrag, die auch Einzelrechtsnachfolger bindet",
+     "Einen überdimensionalen Miteigentumsanteil mit Vollmacht im Erwerbsvertrag und, wenn die Kosten tragbar sind, Vormerkung",
+     "Eine kleine Aufteilung ohne weitere Sicherung"
+    ],
+    "antwort": 2,
+    "erklaerung": "Empfohlen wird die Verbindung aus überdimensioniertem Miteigentumsanteil, Vollmacht im Erwerbsvertrag und, soweit tragbar, Vormerkung. Die Vollmacht wirkt nicht gegenüber Einzelrechtsnachfolgern, die Veräußerungsbeschränkung liefert regelmäßig keinen wichtigen Grund, und die kleine Aufteilung ist umständlich."
+   }
+  ]
+ },
+ {
+  "id": "wohn1-060",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Miteigentumsanteile: Bemessung, Änderung und Verbindung mit Sondereigentum",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/miteigentumsanteile-bemessung-anderung-und-verbindung-mit-sondereigentum",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 3 WEG",
+   "§ 8 WEG"
+  ],
+  "erklaerung": "Die Miteigentümer oder der teilende Eigentümer legen die Anteile frei fest; gesetzliche Vorgaben gibt es nicht. Wert und Fläche sind nur sachgerechte und übliche Maßstäbe, weil Kosten (§ 16 Abs. 2 S. 1 WEG) und Außenhaftung (§ 9a Abs. 4 S. 1 WEG) an die Miteigentumsanteile anknüpfen.",
+  "frage": "Wie sind die Miteigentumsanteile bei Teilungsvertrag und Teilungserklärung zu bemessen?",
+  "optionen": [
+   "Nach dem Verkehrswert der Einheit",
+   "Nach der Wohn- und Nutzfläche der Einheit",
+   "Frei, ohne gesetzliche Vorgaben und ohne Bindung an Wert oder Größe der Einheit",
+   "Nach dem Verhältnis der Baukosten der Einheiten"
+  ],
+  "antwort": 2
+ },
+ {
+  "id": "wohn1-061",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Miteigentumsanteile: Bemessung, Änderung und Verbindung mit Sondereigentum",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/miteigentumsanteile-bemessung-anderung-und-verbindung-mit-sondereigentum",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 16 Abs. 2 S. 1 WEG"
+  ],
+  "erklaerung": "Eine Änderung der Quoten kann nur ausnahmsweise bei grober Unbilligkeit verlangt werden; in aller Regel genügt es, den Kostenverteilungsschlüssel zu ändern. Ein Anspruch nach Ermessen besteht nicht, und eine starre Abweichungsgrenze nennt die Seite nicht.",
+  "frage": "Ein Eigentümer hält seinen Miteigentumsanteil für zu hoch bemessen. Was kann er verlangen?",
+  "optionen": [
+   "Eine Änderung der Quoten jederzeit nach billigem Ermessen",
+   "Eine Änderung der Quoten nur ausnahmsweise bei grob unbilliger Verteilung; in aller Regel genügt die Änderung des Kostenverteilungsschlüssels",
+   "Nur die Änderung des Kostenverteilungsschlüssels, die Quoten sind nie änderbar",
+   "Eine Änderung der Quoten, sobald die Anteile um mehr als 10 % von der Wohnfläche abweichen"
+  ],
+  "antwort": 1
+ },
+ {
+  "id": "wohn1-062",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Miteigentumsanteile: Bemessung, Änderung und Verbindung mit Sondereigentum",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/miteigentumsanteile-bemessung-anderung-und-verbindung-mit-sondereigentum",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 3 WEG"
+  ],
+  "erklaerung": "Zu jedem Miteigentumsanteil gehört Sondereigentum; ein isolierter Miteigentumsanteil darf durch Rechtsgeschäft nicht gebildet werden. Ebenso unzulässig ist Sondereigentum ohne zugehörigen Miteigentumsanteil. Die Zustimmung aller Beteiligten ändert daran nichts. Entsteht ein solcher Anteil durch einen Gründungsmangel, besteht eine Pflicht zur Anpassung.",
+  "frage": "Ein isolierter Miteigentumsanteil ohne Sondereigentum kann durch Rechtsgeschäft wirksam gebildet werden, wenn alle Miteigentümer zustimmen.",
+  "antwort": false
+ },
+ {
+  "id": "wohn1-063",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Miteigentumsanteile: Bemessung, Änderung und Verbindung mit Sondereigentum",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/miteigentumsanteile-bemessung-anderung-und-verbindung-mit-sondereigentum",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "erklaerung": "Auch eine spätere Änderung der Anteilsgrößen zwischen Wohnungseigentümern erfordert eine Übertragung mit Auflassung, selbst wenn sich das Sondereigentum nicht ändert. Ein Beschluss oder eine Änderung des Kostenverteilungsschlüssels verschiebt nur die interne Kostenverteilung, nicht aber die dinglichen Miteigentumsanteile.",
+  "frage": "Zwei Wohnungseigentümer wollen ihre Miteigentumsanteile zugunsten des einen vergrößern; das zugehörige Sondereigentum soll sich nicht ändern. Was ist erforderlich?",
+  "optionen": [
+   "Eine Änderung der Gemeinschaftsordnung durch Beschluss",
+   "Eine Übertragung des Miteigentumsanteils mit Auflassung",
+   "Ein bloßer Beschluss über den Kostenverteilungsschlüssel",
+   "Nichts, die Eintragung der neuen Quoten im Grundbuch genügt"
+  ],
+  "antwort": 1
+ },
+ {
+  "id": "wohn1-064",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Sondereigentumsfähigkeit: Gebäudeteile, Leitungen und Heizungen",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondereigentumsfahigkeit-gebaudeteile-leitungen-und-heizungen",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 5 Abs. 2 WEG"
+  ],
+  "erklaerung": "Fenster sind wie Fassade, Eingangstüren und Fundament zwingend Gemeinschaftseigentum. Eine Zuweisung zum Sondereigentum in der Teilungserklärung ist wirkungslos. Der Eigentümer kann aber über die Gemeinschaftsordnung zur Instandhaltung und Instandsetzung verpflichtet werden, ohne dass sich die Eigentumszuordnung ändert.",
+  "frage": "Wie sind die Fenster eines Wohnungseigentumsgebäudes einzuordnen?",
+  "optionen": [
+   "Sondereigentum, wenn die Teilungserklärung sie der Wohnung zuweist",
+   "Sondereigentum, soweit sie sich innerhalb der Wohnung befinden",
+   "Zwingend Gemeinschaftseigentum",
+   "Sondereigentum, wenn die Gemeinschaftsordnung dem Eigentümer die Instandhaltung auferlegt"
+  ],
+  "antwort": 2
+ },
+ {
+  "id": "wohn1-065",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Sondereigentumsfähigkeit: Gebäudeteile, Leitungen und Heizungen",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondereigentumsfahigkeit-gebaudeteile-leitungen-und-heizungen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "erklaerung": "Versorgungsleitungen im Bereich des Gemeinschaftseigentums sind Gemeinschaftseigentum, auch wenn sie nur eine Einheit versorgen; der BGH vergleicht dies mit dem Treppenhaus. Das Erfordernis, mindestens zwei Einheiten zu versorgen, betrifft Anlagen und Räume, nicht aber Leitungen im Gemeinschaftsbereich.",
+  "frage": "Eine Versorgungsleitung verläuft im Bereich des Gemeinschaftseigentums und versorgt nur eine einzige Wohnung. Wie ist sie einzuordnen?",
+  "optionen": [
+   "Sondereigentum, weil sie nur dieser Wohnung dient",
+   "Gemeinschaftseigentum, soweit sie im Bereich des Gemeinschaftseigentums verläuft",
+   "Sondereigentum, wenn die Teilungserklärung dies bestimmt",
+   "Gemeinschaftseigentum nur, wenn sie mindestens zwei Einheiten versorgt"
+  ],
+  "antwort": 1
+ },
+ {
+  "id": "wohn1-066",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Sondereigentumsfähigkeit: Gebäudeteile, Leitungen und Heizungen",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondereigentumsfahigkeit-gebaudeteile-leitungen-und-heizungen",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 5 Abs. 2 WEG"
+  ],
+  "erklaerung": "Nach dem BGH gehören Leitungen von der ersten Absperrvorrichtung in der Wohnung an zum Sondereigentum. Die weiteren Einzelheiten sind umstritten; viel spricht dafür, Heizungsanlagen und Leitungen als Anlage im Sinne von § 5 Abs. 2 WEG dem Gemeinschaftseigentum zuzuordnen, wenn sie als zusammenhängendes System andere Einheiten mitversorgen.",
+  "frage": "Ab welchem Punkt gehören Versorgungsleitungen nach der Rechtsprechung des BGH grundsätzlich zum Sondereigentum?",
+  "optionen": [
+   "Ab der Wohnungsabschlusstür",
+   "Ab der ersten Absperrvorrichtung in der Wohnung",
+   "Ab dem Hausanschluss",
+   "Ab dem Heizkörper"
+  ],
+  "antwort": 1
+ },
+ {
+  "id": "wohn1-067",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Sondereigentumsfähigkeit: Gebäudeteile, Leitungen und Heizungen",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondereigentumsfahigkeit-gebaudeteile-leitungen-und-heizungen",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 5 Abs. 3 WEG"
+  ],
+  "erklaerung": "Ein Bestandteil des Gemeinschaftseigentums kann durch die Teilungserklärung nicht zu Sondereigentum erklärt werden; Heizkörper und Heizungsleitungen machen davon keine Ausnahme. Möglich ist nur die umgekehrte Richtung nach § 5 Abs. 3 WEG, nämlich im Sondereigentum stehende Leitungen zu Gemeinschaftseigentum zu erklären.",
+  "frage": "Die Teilungserklärung kann Heizungsleitungen, die im Gemeinschaftseigentum stehen, zu Sondereigentum erklären.",
+  "antwort": false
+ },
+ {
+  "id": "wohn1-068",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Sondereigentumsfähigkeit: Gebäudeteile, Leitungen und Heizungen",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondereigentumsfahigkeit-gebaudeteile-leitungen-und-heizungen",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 3 Abs. 1 WEG",
+   "§ 3 Abs. 2 WEG",
+   "§ 5 Abs. 2 WEG",
+   "§ 5 Abs. 3 WEG"
+  ],
+  "erklaerung": "§ 3 Abs. 1 S. 2 WEG nennt die Stellplätze, § 3 Abs. 2 WEG erlaubt die Erstreckung auf Grundstücksteile außerhalb des Gebäudes. § 5 Abs. 2 WEG schließt Bestands- und Sicherheitsteile sowie Anlagen des gemeinschaftlichen Gebrauchs aus, § 5 Abs. 3 WEG erlaubt nur die Erklärung sondereigentumsfähiger Bestandteile zum Gemeinschaftseigentum.",
+  "frage": "Ordne die Norm ihrem Regelungsgegenstand zu.",
+  "paare": [
+   [
+    "§ 3 Abs. 1 S. 2 WEG",
+    "Stellplätze sind sondereigentumsfähig"
+   ],
+   [
+    "§ 3 Abs. 2 WEG",
+    "Erstreckung des Sondereigentums auf Grundstücksteile außerhalb des Gebäudes, wenn es an den Räumen wirtschaftlich die Hauptsache bleibt"
+   ],
+   [
+    "§ 5 Abs. 2 WEG",
+    "Für Bestand oder Sicherheit notwendige Teile sowie Anlagen und Räume des gemeinschaftlichen Gebrauchs sind nicht sondereigentumsfähig"
+   ],
+   [
+    "§ 5 Abs. 3 WEG",
+    "Sondereigentumsfähige Bestandteile können zum Gemeinschaftseigentum erklärt werden"
+   ]
+  ]
+ },
+ {
+  "id": "wohn1-069",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Sondereigentumsfähigkeit: Raumbegriff, Balkone, Terrassen und mehrere Gebäude",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondereigentumsfahigkeit-raumbegriff-balkone-terrassen-und-mehrere-gebaude",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 3 Abs. 1 S. 1 WEG"
+  ],
+  "erklaerung": "Das WEG definiert den Raum nicht; nach der Rechtsprechung ist er dreidimensional und in Länge, Breite und Höhe gegen die Umgebung abgegrenzt, die Begrenzung muss hinreichend stabil sein. Daher kann auch ein Balkon ein Raum sein. Allseitige Umschließung wird nicht verlangt.",
+  "frage": "Welches Merkmal gehört zum sondereigentumsfähigen Raum im Sinne von § 3 Abs. 1 S. 1 WEG?",
+  "optionen": [
+   "Er muss allseitig überdacht und von Wänden umschlossen sein",
+   "Er ist dreidimensional und in Länge, Breite und Höhe hinreichend stabil gegen die Umgebung abgegrenzt",
+   "Er muss eine Mindestgröße von einem Wohnraum haben",
+   "Er muss im Aufteilungsplan als Wohnraum bezeichnet sein"
+  ],
+  "antwort": 1
+ },
+ {
+  "id": "wohn1-070",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Sondereigentumsfähigkeit: Raumbegriff, Balkone, Terrassen und mehrere Gebäude",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondereigentumsfahigkeit-raumbegriff-balkone-terrassen-und-mehrere-gebaude",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 3 Abs. 1 S. 1 WEG"
+  ],
+  "erklaerung": "Ein Balkon oder eine Dachterrasse wird nur Sondereigentum, wenn die Teilung dies bestimmt. Balkone können, wenn auch unzweckmäßig, im Gemeinschaftseigentum bleiben und mit Sondernutzungsrechten belegt werden. Die Sondereigentumsfähigkeit begründet also keine automatische Zuordnung.",
+  "frage": "Ein Balkon ist zwingend Sondereigentum der angrenzenden Wohnung, weil er als Raum sondereigentumsfähig ist.",
+  "antwort": false
+ },
+ {
+  "id": "wohn1-071",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Sondereigentumsfähigkeit: Raumbegriff, Balkone, Terrassen und mehrere Gebäude",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondereigentumsfahigkeit-raumbegriff-balkone-terrassen-und-mehrere-gebaude",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 3 Abs. 2 WEG",
+   "§ 3 Abs. 3 WEG"
+  ],
+  "erklaerung": "Seit der WEG-Reform kann offenbleiben, ob die Terrasse ein Raum ist: Nach § 3 Abs. 2 WEG lässt sich das Sondereigentum jedenfalls auf die Terrasse als Freifläche erstrecken. Voraussetzung ist, dass das Sondereigentum an den Räumen wirtschaftlich die Hauptsache bleibt, und der Aufteilungsplan muss Maßangaben enthalten (§ 3 Abs. 3 WEG).",
+  "frage": "Das Sondereigentum soll auf eine vor der Wohnung liegende Terrasse als Freifläche erstreckt werden. Was ist zu beachten?",
+  "optionen": [
+   "Es muss geklärt werden, ob die Terrasse ein Raum ist; ohne Raumqualität ist die Erstreckung ausgeschlossen",
+   "Die Erstreckung ist nach § 3 Abs. 2 WEG möglich; der Aufteilungsplan muss dann Maßangaben enthalten",
+   "Die Erstreckung ist möglich, wenn die Terrasse flächenmäßig größer ist als die Wohnung",
+   "Die Terrasse bleibt zwingend Gemeinschaftseigentum und kann nur Gegenstand eines Sondernutzungsrechts sein"
+  ],
+  "antwort": 1
+ },
+ {
+  "id": "wohn1-072",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Begründung von Wohnungseigentum",
+  "seite": "Sondereigentumsfähigkeit: Raumbegriff, Balkone, Terrassen und mehrere Gebäude",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondereigentumsfahigkeit-raumbegriff-balkone-terrassen-und-mehrere-gebaude",
+  "typ": "fall",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 3 Abs. 1 S. 1 WEG"
+  ],
+  "erklaerung": "Ohne Nummerierung und Erwähnung im Text bleibt der Balkon Gemeinschaftseigentum; ob dem Nachbareigentümer ein faktisches Sondernutzungsrecht zusteht, ist streitig. Vermeiden lässt sich das durch Nummerierung im Plan und ausdrückliche Zuweisung zum Sondereigentum.",
+  "frage": "Der nicht nummerierte Balkon",
+  "sachverhalt": "Bauträger B teilt ein Mehrfamilienhaus nach § 8 WEG auf. Im Aufteilungsplan trägt der Balkon der Wohnung Nr. 3 keine Nummer, und die Teilungserklärung erwähnt den Balkon nicht. Der Erwerber E der Wohnung Nr. 3 fragt, wem der Balkon gehört.",
+  "schritte": [
+   {
+    "frage": "Wie ist der Balkon rechtlich zuzuordnen?",
+    "optionen": [
+     "Er ist Sondereigentum der Wohnung Nr. 3, weil er an die Wohnung angrenzt",
+     "Er steht im Gemeinschaftseigentum, weil er weder durch Nummerierung noch durch den Text zum Sondereigentum bestimmt wurde",
+     "Er ist mangels Sondereigentumsfähigkeit herrenlos",
+     "Er ist isoliertes Sondereigentum ohne Miteigentumsanteil"
+    ],
+    "antwort": 1,
+    "erklaerung": "Ein Balkon wird nur Sondereigentum, wenn die Teilung dies bestimmt. Fehlt sowohl die Nummerierung als auch eine Erwähnung im Text, bleibt er Gemeinschaftseigentum. Die Angrenzung an die Wohnung begründet keine automatische Zuordnung."
+   },
+   {
+    "frage": "Welche Position hat der Eigentümer der Wohnung Nr. 3 am Balkon?",
+    "optionen": [
+     "Keine; der Balkon steht allen Eigentümern gleichermaßen zur Nutzung offen",
+     "Nach LG Itzehoe ein faktisches Sondernutzungsrecht, wobei das OLG München dies abweichend sieht",
+     "Ein dinglich gesicherter Anspruch auf Übertragung des Sondereigentums",
+     "Ein Wohnungsrecht nach § 1093 BGB"
+    ],
+    "antwort": 1,
+    "erklaerung": "Dem Eigentümer der angrenzenden Wohnung steht nach dem LG Itzehoe ein faktisches Sondernutzungsrecht zu; das OLG München sieht dies anders. Die Rechtslage ist also unsicher, was die Praxis nicht hinnehmen sollte."
+   },
+   {
+    "frage": "Wie hätte der Notar den Fall vermeiden sollen?",
+    "optionen": [
+     "Den Balkon im Aufteilungsplan mit der Nummer der Einheit versehen und in der Teilungserklärung ausdrücklich dem Sondereigentum zuweisen",
+     "Den Balkon bewusst nicht erwähnen, um ein Sondernutzungsrecht entstehen zu lassen",
+     "Den Balkon als Freifläche in der Gemeinschaftsordnung anführen",
+     "Die Zuweisung allein im Aufteilungsplan durch Schraffur kenntlich machen"
+    ],
+    "antwort": 0,
+    "erklaerung": "Zu empfehlen ist, Balkone und Dachterrassen im Aufteilungsplan mit der Nummer der Einheit zu versehen und in der Teilungserklärung ausdrücklich dem Sondereigentum zuzuweisen. Typischer Fehler ist, sie weder zu nummerieren noch im Text zu erwähnen."
+   }
+  ]
  }
 ]

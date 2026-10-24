@@ -1,1054 +1,1555 @@
 [
- {
-  "id": "wohn3-001",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Eigentümerversammlung: Einberufung, Form und Frist",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-einberufung-form-und-frist",
-  "typ": "mc",
-  "schwierigkeit": 2,
-  "normen": [],
-  "frage": "Ein Eigentümer, der weder Verwalter noch Beiratsvorsitzender ist und auch nicht durch Beschluss ermächtigt wurde, beruft eine Eigentümerversammlung ein, in der Beschlüsse gefasst werden. Welche Folge hat die Einberufung durch den Unbefugten für die Beschlüsse grundsätzlich?",
-  "optionen": [
-   "Die Beschlüsse sind nichtig, weil keine Versammlung im Rechtssinne vorliegt.",
-   "Die Beschlüsse sind schwebend unwirksam bis zur Genehmigung durch den Verwalter.",
-   "Die Beschlüsse sind grundsätzlich nur anfechtbar, nicht nichtig.",
-   "Die Beschlüsse sind wirksam; der Einberufungsmangel ist stets unbeachtlich."
-  ],
-  "antwort": 2,
-  "erklaerung": "Beschlüsse einer von einem Nichtberechtigten einberufenen Versammlung sind nach der Rechtsprechung grundsätzlich nur anfechtbar. Die naheliegende Annahme der Nichtigkeit trifft nicht zu: Der Einberufungsmangel ist ein formeller Fehler, der nur auf Anfechtung hin zur Ungültigkeit führt. Eine Genehmigung durch den Verwalter sieht die Rechtslage nicht vor."
- },
- {
-  "id": "wohn3-002",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Eigentümerversammlung: Einberufung, Form und Frist",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-einberufung-form-und-frist",
-  "typ": "rf",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 24 Abs. 4 S. 2 WEG"
-  ],
-  "frage": "Die Einberufungsfrist von mindestens drei Wochen nach § 24 Abs. 4 S. 2 WEG ist zwingend; ihre Unterschreitung führt zur Nichtigkeit der gefassten Beschlüsse.",
-  "antwort": false,
-  "erklaerung": "§ 24 Abs. 4 S. 2 WEG ist eine reine Sollvorschrift; bei besonderer Dringlichkeit darf die Frist ohnehin unterschritten werden, und der Verwalter hat einen gerichtlich überprüfbaren Ermessensspielraum. Verstöße gegen Form und Frist machen Beschlüsse nur anfechtbar, nicht nichtig. Zudem ist die Dreiwochenfrist in der Gemeinschaftsordnung abdingbar."
- },
- {
-  "id": "wohn3-003",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Eigentümerversammlung: Einberufung, Form und Frist",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-einberufung-form-und-frist",
-  "typ": "mc",
-  "schwierigkeit": 1,
-  "normen": [
-   "§ 24 Abs. 3 WEG"
-  ],
-  "frage": "Wer kann die Eigentümerversammlung nach § 24 Abs. 3 WEG einberufen, wenn ein Verwalter fehlt oder sich pflichtwidrig weigert?",
-  "optionen": [
-   "Jeder einzelne Wohnungseigentümer ohne weitere Voraussetzung",
-   "Der Vorsitzende des Verwaltungsbeirats, dessen Vertreter oder ein durch Beschluss ermächtigter Eigentümer",
-   "Nur der Eigentümer mit den höchsten Miteigentumsanteilen",
-   "Ausschließlich ein vom Gericht bestellter Notverwalter"
-  ],
-  "antwort": 1,
-  "erklaerung": "Nach § 24 Abs. 3 WEG können bei fehlendem oder pflichtwidrig untätigem Verwalter der Vorsitzende des Verwaltungsbeirats, dessen Vertreter oder ein durch Beschluss ermächtigter Eigentümer einberufen. Ein beliebiger einzelner Eigentümer ist ohne Ermächtigung durch Beschluss nicht befugt. Unabhängig davon sind alle Eigentümer gemeinsam stets zur Einberufung berechtigt."
- },
- {
-  "id": "wohn3-004",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Eigentümerversammlung: Einberufung, Form und Frist",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-einberufung-form-und-frist",
-  "typ": "mc",
-  "schwierigkeit": 1,
-  "normen": [
-   "§ 24 Abs. 2 WEG"
-  ],
-  "frage": "Unter welcher Voraussetzung muss der Verwalter neben den vereinbarten Fällen eine Eigentümerversammlung einberufen?",
-  "optionen": [
-   "Wenn mindestens ein Drittel der Miteigentumsanteile dies mündlich verlangt",
-   "Wenn ein einzelner Eigentümer dies schriftlich unter Angabe von Gründen verlangt",
-   "Wenn mehr als ein Viertel der Eigentümer dies in Textform unter Angabe von Zweck und Gründen verlangt",
-   "Wenn die Hälfte der Eigentümer dies in notariell beglaubigter Form verlangt"
-  ],
-  "antwort": 2,
-  "erklaerung": "§ 24 Abs. 2 WEG verpflichtet den Verwalter zur Einberufung, wenn mehr als ein Viertel der Eigentümer dies in Textform unter Angabe von Zweck und Gründen verlangt. Maßgeblich ist die Zahl der Eigentümer, nicht die Miteigentumsanteile, und es genügt Textform; eine Beglaubigung oder Schriftform ist nicht erforderlich."
- },
- {
-  "id": "wohn3-005",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Eigentümerversammlung: Einberufung, Form und Frist",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-einberufung-form-und-frist",
-  "typ": "mc",
-  "schwierigkeit": 3,
-  "normen": [
-   "§ 24 Abs. 1 WEG"
-  ],
-  "frage": "Der Notar entwirft die Gemeinschaftsordnung für eine Anlage mit zwei Wohnungen, die von Familienangehörigen bewohnt werden. Welche Regelung zur jährlichen Versammlungspflicht ist sachgerecht?",
-  "optionen": [
-   "Die jährliche Versammlung ist zwingend und kann nicht abbedungen werden.",
-   "Die Versammlung kann auf das Verlangen eines Eigentümers beschränkt und diesem das Einberufungsrecht eingeräumt werden.",
-   "Versammlungen können vollständig ausgeschlossen und durch Entscheidungen des Verwalters ersetzt werden.",
-   "Die Versammlung darf nur noch alle fünf Jahre stattfinden, um Kosten zu sparen."
-  ],
-  "antwort": 1,
-  "erklaerung": "§ 24 Abs. 1 WEG ist teilweise abdingbar; in kleinen Anlagen mit zwei Wohnungen kann die Versammlung auf Verlangen eines Eigentümers beschränkt und diesem das Einberufungsrecht gegeben werden. Die Annahme, die Jahresversammlung sei zwingend, ist daher falsch. Grenze ist, dass das Verwaltungsrecht der Eigentümer nicht völlig ausgehöhlt werden darf, weshalb ein vollständiger Ausschluss unzulässig wäre."
- },
- {
-  "id": "wohn3-006",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Eigentümerversammlung: Ort, Zeit und Einzuladende",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-ort-zeit-und-einzuladende",
-  "typ": "mc",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 1093 BGB",
-   "§ 31 WEG"
-  ],
-  "frage": "Welche der folgenden Personen muss der Verwalter zur Eigentümerversammlung nicht laden?",
-  "optionen": [
-   "Den werdenden Wohnungseigentümer",
-   "Einen Eigentümer, dessen Stimmrecht zu einem Tagesordnungspunkt nach § 25 Abs. 4 WEG ausgeschlossen ist",
-   "Den Nießbraucher an einer Wohnung",
-   "Alle Mitberechtigten einer im Miteigentum stehenden Einheit"
-  ],
-  "antwort": 2,
-  "erklaerung": "Nießbraucher, Wohnungsberechtigte nach § 1093 BGB und Dauerwohnberechtigte nach § 31 WEG sind mangels Stimmrecht nicht zu laden. Zu laden ist dagegen auch der Eigentümer, dessen Stimmrecht nach § 25 Abs. 4 WEG ausgeschlossen ist, denn das Stimmverbot beseitigt nicht sein Teilnahmerecht. Ebenso sind der werdende Eigentümer und bei mehreren Berechtigten einer Einheit alle zu laden."
- },
- {
-  "id": "wohn3-007",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Eigentümerversammlung: Ort, Zeit und Einzuladende",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-ort-zeit-und-einzuladende",
-  "typ": "rf",
-  "schwierigkeit": 1,
-  "normen": [],
-  "frage": "Eine Eigentümerversammlung, die auf den Vormittag eines Werktags einberufen wird, ist im Normalfall unzulässig, weil sie zur Unzeit stattfindet.",
-  "antwort": true,
-  "erklaerung": "Zeit und Ort der Versammlung müssen verkehrsüblich und zumutbar sein. Eine Einberufung vormittags oder am frühen Nachmittag eines Werktags gilt im Normalfall als Einberufung zur Unzeit und ist unzulässig. Sonn- und Feiertage scheiden dagegen nicht grundsätzlich aus, Samstage kommen in Betracht."
- },
- {
-  "id": "wohn3-008",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Eigentümerversammlung: Ort, Zeit und Einzuladende",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-ort-zeit-und-einzuladende",
-  "typ": "rf",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 8 Abs. 3 WEG"
-  ],
-  "frage": "Zur Eigentümerversammlung ist neben dem werdenden Eigentümer auch ein Zweiterwerber zu laden, der den Kaufvertrag bereits geschlossen hat, aber noch nicht im Grundbuch eingetragen ist.",
-  "antwort": false,
-  "erklaerung": "Zu laden sind alle bei Absendung bekannten Wohnungseigentümer einschließlich des werdenden Eigentümers (vgl. § 8 Abs. 3 WEG). Ein noch nicht eingetragener Zweiterwerber ist dagegen nicht zu laden. Die Rechtsfigur des werdenden Eigentümers betrifft nur den Ersterwerb in der Gründungsphase, nicht den späteren Erwerb von einem eingetragenen Eigentümer."
- },
- {
-  "id": "wohn3-009",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Eigentümerversammlung: Stimmrecht, Mehrheit und Stimmverbot",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-stimmrecht-mehrheit-und-stimmverbot",
-  "typ": "mc",
-  "schwierigkeit": 1,
-  "normen": [
-   "§ 25 Abs. 2 S. 1 WEG"
-  ],
-  "frage": "In einer Anlage ohne abweichende Stimmrechtsregel gehören A drei von zehn Wohnungen. Wie viele Stimmen hat A in der Eigentümerversammlung?",
-  "optionen": [
-   "Drei Stimmen, eine je Einheit",
-   "Eine Stimme",
-   "Stimmen im Verhältnis seiner Miteigentumsanteile",
-   "Keine Stimme, solange er nicht alle Einheiten selbst bewohnt"
-  ],
-  "antwort": 1,
-  "erklaerung": "Nach dem gesetzlichen Kopfprinzip des § 25 Abs. 2 S. 1 WEG hat jeder Wohnungseigentümer unabhängig von Größe und Zahl seiner Einheiten eine Stimme. Drei Stimmen hätte A nur bei einem in der Gemeinschaftsordnung vereinbarten Objektprinzip, eine Gewichtung nach Miteigentumsanteilen nur beim Wertprinzip. Verkauft A einzelne Einheiten, vermehren sich die Stimmen."
- },
- {
-  "id": "wohn3-010",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Eigentümerversammlung: Stimmrecht, Mehrheit und Stimmverbot",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-stimmrecht-mehrheit-und-stimmverbot",
-  "typ": "rf",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 25 Abs. 1 WEG"
-  ],
-  "frage": "Ist für einen Beschluss eine qualifizierte Mehrheit erforderlich, zählen Stimmenthaltungen nach überwiegender Ansicht als Nein-Stimmen.",
-  "antwort": false,
-  "erklaerung": "Es entscheidet die Mehrheit der abgegebenen Stimmen (§ 25 Abs. 1 WEG); Enthaltungen zählen nicht als Nein-Stimmen. Dies gilt nach überwiegender Ansicht auch bei qualifizierter Mehrheit; die Gegenansicht des OLG Celle ist vereinzelt geblieben. Bei Stimmengleichheit ist dagegen kein Beschluss zustande gekommen."
- },
- {
-  "id": "wohn3-011",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Eigentümerversammlung: Stimmrecht, Mehrheit und Stimmverbot",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-stimmrecht-mehrheit-und-stimmverbot",
-  "typ": "zuordnung",
-  "schwierigkeit": 1,
-  "normen": [
-   "§ 25 Abs. 2 WEG"
-  ],
-  "frage": "Ordne die Stimmrechtsprinzipien ihrem Inhalt zu.",
-  "paare": [
-   [
-    "Kopfprinzip",
-    "Jeder Wohnungseigentümer hat eine Stimme, gleich wie viele Einheiten ihm gehören"
-   ],
-   [
-    "Objektprinzip",
-    "Jede Einheit gewährt eine Stimme"
-   ],
-   [
-    "Wertprinzip",
-    "Stimmgewicht richtet sich nach den Miteigentumsanteilen"
-   ],
-   [
-    "Mehrere Berechtigte einer Einheit",
-    "Nur einheitliche Stimmabgabe; uneinheitliche Stimmen zählen nicht"
-   ]
-  ],
-  "erklaerung": "Das Kopfprinzip ist die gesetzliche Regel (§ 25 Abs. 2 S. 1 WEG); Objekt- und Wertprinzip sind häufige abweichende Regelungen in der Gemeinschaftsordnung. Mehrere Berechtigte einer Einheit können nur einheitlich abstimmen (§ 25 Abs. 2 S. 2 WEG). Für die Praxis empfiehlt sich meist das Wertprinzip, weil auch die Kosten nach Miteigentumsanteilen verteilt werden."
- },
- {
-  "id": "wohn3-012",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Eigentümerversammlung: Stimmrecht, Mehrheit und Stimmverbot",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-stimmrecht-mehrheit-und-stimmverbot",
-  "typ": "mc",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 25 Abs. 4 WEG"
-  ],
-  "frage": "Eigentümer V soll Verwalter der Gemeinschaft werden. Bei welcher Beschlussfassung ist V nach § 25 Abs. 4 WEG vom Stimmrecht ausgeschlossen?",
-  "optionen": [
-   "Bei seiner eigenen Wahl zum Verwalter",
-   "Bei der Wahl der Mitglieder des Verwaltungsbeirats",
-   "Bei der Zustimmung zum Abschluss des Verwaltervertrags mit ihm",
-   "Bei keinem dieser Beschlüsse, da Eigentümer nie ausgeschlossen sind"
-  ],
-  "antwort": 2,
-  "erklaerung": "Das Stimmverbot des § 25 Abs. 4 WEG erfasst Verwaltungsgeschäfte mit dem Eigentümer; darunter fällt die Zustimmung zum Verwaltervertrag. Die Wahl zum Verwalter oder in den Beirat ist dagegen eine mitgliedschaftliche Angelegenheit, bei der in der Regel kein Stimmrechtsausschluss besteht. Die naheliegende Annahme, schon die eigene Wahl sei ausgeschlossen, verkennt diese Unterscheidung."
- },
- {
-  "id": "wohn3-013",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Eigentümerversammlung: Stimmrecht, Mehrheit und Stimmverbot",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-stimmrecht-mehrheit-und-stimmverbot",
-  "typ": "fall",
-  "frage": "Nießbrauch und Stimmrechtsvollmacht",
-  "schwierigkeit": 3,
-  "normen": [
-   "§ 25 Abs. 1 WEG",
-   "§ 25 Abs. 3 WEG"
-  ],
-  "sachverhalt": "E ist Eigentümer einer Wohnung in einer Anlage; die Gemeinschaftsordnung beschränkt die Vertretung in der Versammlung auf Ehegatten und den Verwalter. E hat seiner Mutter M einen Bruttonießbrauch an der Wohnung bestellt. M möchte an den Abstimmungen teilnehmen. In der nächsten Versammlung stimmen von den erschienenen und vertretenen Eigentümern 5 mit Ja, 4 mit Nein, 3 enthalten sich.",
-  "schritte": [
-   {
-    "frage": "Wem steht das Stimmrecht für die Wohnung zu?",
+  {
+    "id": "wohn3-001",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Eigentümerversammlung: Einberufung, Form und Frist",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-einberufung-form-und-frist",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [],
+    "frage": "Ein Eigentümer, der weder Verwalter noch Beiratsvorsitzender ist und auch nicht durch Beschluss ermächtigt wurde, beruft eine Eigentümerversammlung ein, in der Beschlüsse gefasst werden. Welche Folge hat die Einberufung durch den Unbefugten für die Beschlüsse grundsätzlich?",
     "optionen": [
-     "M als Nießbraucherin kraft ihres dinglichen Rechts",
-     "E als Eigentümer; der Nießbraucher hat kein eigenes Stimmrecht",
-     "E und M gemeinsam, die nur einheitlich abstimmen können",
-     "Niemandem, solange der Nießbrauch besteht"
-    ],
-    "antwort": 1,
-    "erklaerung": "Der Nießbraucher hat kein eigenes Stimmrecht; es verbleibt beim Eigentümer. Das Stimmrecht ist untrennbar mit dem Eigentum verbunden und kann nicht dauerhaft abgespalten werden. Aus dem Nießbrauchsverhältnis kann sich aber ein Anspruch der M auf eine Stimmrechtsvollmacht ergeben."
-   },
-   {
-    "frage": "E erteilt M eine Stimmrechtsvollmacht. Steht die Vertretungsbeschränkung der Gemeinschaftsordnung entgegen?",
-    "optionen": [
-     "Ja, die Klausel lässt nur Ehegatten und Verwalter zu und ist strikt anzuwenden.",
-     "Ja, Vertretungsbeschränkungen schließen Familienangehörige stets aus.",
-     "Nein, solche Klauseln sind regelmäßig so auszulegen, dass sie eine Vollmacht für den Nießbraucher nicht ausschließen.",
-     "Nein, Vertretungsbeschränkungen in der Gemeinschaftsordnung sind generell unwirksam."
+      "Die Beschlüsse sind nichtig, weil keine Versammlung im Rechtssinne vorliegt.",
+      "Die Beschlüsse sind schwebend unwirksam bis zur Genehmigung durch den Verwalter.",
+      "Die Beschlüsse sind grundsätzlich nur anfechtbar, nicht nichtig.",
+      "Die Beschlüsse sind wirksam; der Einberufungsmangel ist stets unbeachtlich."
     ],
     "antwort": 2,
-    "erklaerung": "Die Gemeinschaftsordnung kann den Vertreterkreis zwar wirksam beschränken. Nach überwiegender Ansicht sind solche Klauseln aber regelmäßig so auszulegen, dass sie eine Vollmacht für den Nießbraucher oder Wohnungsberechtigten nicht ausschließen. Eine generelle Unwirksamkeit solcher Beschränkungen trifft dagegen nicht zu."
-   },
-   {
-    "frage": "Welcher Form bedarf die Vollmacht?",
+    "erklaerung": "Beschlüsse einer von einem Nichtberechtigten einberufenen Versammlung sind nach der Rechtsprechung grundsätzlich nur anfechtbar. Die naheliegende Annahme der Nichtigkeit trifft nicht zu: Der Einberufungsmangel ist ein formeller Fehler, der nur auf Anfechtung hin zur Ungültigkeit führt. Eine Genehmigung durch den Verwalter sieht die Rechtslage nicht vor."
+  },
+  {
+    "id": "wohn3-002",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Eigentümerversammlung: Einberufung, Form und Frist",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-einberufung-form-und-frist",
+    "typ": "rf",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 24 Abs. 4 S. 2 WEG"
+    ],
+    "frage": "Die Einberufungsfrist von mindestens drei Wochen nach § 24 Abs. 4 S. 2 WEG ist zwingend; ihre Unterschreitung führt zur Nichtigkeit der gefassten Beschlüsse.",
+    "antwort": false,
+    "erklaerung": "§ 24 Abs. 4 S. 2 WEG ist eine reine Sollvorschrift; bei besonderer Dringlichkeit darf die Frist ohnehin unterschritten werden, und der Verwalter hat einen gerichtlich überprüfbaren Ermessensspielraum. Verstöße gegen Form und Frist machen Beschlüsse nur anfechtbar, nicht nichtig. Zudem ist die Dreiwochenfrist in der Gemeinschaftsordnung abdingbar."
+  },
+  {
+    "id": "wohn3-003",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Eigentümerversammlung: Einberufung, Form und Frist",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-einberufung-form-und-frist",
+    "typ": "mc",
+    "schwierigkeit": 1,
+    "normen": [
+      "§ 24 Abs. 3 WEG"
+    ],
+    "frage": "Wer kann die Eigentümerversammlung nach § 24 Abs. 3 WEG einberufen, wenn ein Verwalter fehlt oder sich pflichtwidrig weigert?",
     "optionen": [
-     "Schriftform",
-     "Textform",
-     "Öffentliche Beglaubigung",
-     "Keiner Form"
+      "Jeder einzelne Wohnungseigentümer ohne weitere Voraussetzung",
+      "Der Vorsitzende des Verwaltungsbeirats, dessen Vertreter oder ein durch Beschluss ermächtigter Eigentümer",
+      "Nur der Eigentümer mit den höchsten Miteigentumsanteilen",
+      "Ausschließlich ein vom Gericht bestellter Notverwalter"
     ],
     "antwort": 1,
-    "erklaerung": "Vollmachten zur Ausübung des Stimmrechts bedürfen nach § 25 Abs. 3 WEG der Textform. Schriftform oder Beglaubigung sind gesetzlich nicht erforderlich."
-   },
-   {
-    "frage": "Ist der Beschluss mit 5 Ja-, 4 Nein-Stimmen und 3 Enthaltungen zustande gekommen?",
+    "erklaerung": "Nach § 24 Abs. 3 WEG können bei fehlendem oder pflichtwidrig untätigem Verwalter der Vorsitzende des Verwaltungsbeirats, dessen Vertreter oder ein durch Beschluss ermächtigter Eigentümer einberufen. Ein beliebiger einzelner Eigentümer ist ohne Ermächtigung durch Beschluss nicht befugt. Unabhängig davon sind alle Eigentümer gemeinsam stets zur Einberufung berechtigt."
+  },
+  {
+    "id": "wohn3-004",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Eigentümerversammlung: Einberufung, Form und Frist",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-einberufung-form-und-frist",
+    "typ": "mc",
+    "schwierigkeit": 1,
+    "normen": [
+      "§ 24 Abs. 2 WEG"
+    ],
+    "frage": "Unter welcher Voraussetzung muss der Verwalter neben den vereinbarten Fällen eine Eigentümerversammlung einberufen?",
     "optionen": [
-     "Ja, weil die Ja-Stimmen die Nein-Stimmen überwiegen; Enthaltungen zählen nicht",
-     "Nein, weil die Enthaltungen als Nein-Stimmen zu werten sind",
-     "Nein, weil nicht die Mehrheit aller erschienenen Eigentümer zugestimmt hat",
-     "Nein, weil die Versammlung mangels Quorum nicht beschlussfähig war"
+      "Wenn mindestens ein Drittel der Miteigentumsanteile dies mündlich verlangt",
+      "Wenn ein einzelner Eigentümer dies schriftlich unter Angabe von Gründen verlangt",
+      "Wenn mehr als ein Viertel der Eigentümer dies in Textform unter Angabe von Zweck und Gründen verlangt",
+      "Wenn die Hälfte der Eigentümer dies in notariell beglaubigter Form verlangt"
+    ],
+    "antwort": 2,
+    "erklaerung": "§ 24 Abs. 2 WEG verpflichtet den Verwalter zur Einberufung, wenn mehr als ein Viertel der Eigentümer dies in Textform unter Angabe von Zweck und Gründen verlangt. Maßgeblich ist die Zahl der Eigentümer, nicht die Miteigentumsanteile, und es genügt Textform; eine Beglaubigung oder Schriftform ist nicht erforderlich."
+  },
+  {
+    "id": "wohn3-005",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Eigentümerversammlung: Einberufung, Form und Frist",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-einberufung-form-und-frist",
+    "typ": "mc",
+    "schwierigkeit": 3,
+    "normen": [
+      "§ 24 Abs. 1 WEG"
+    ],
+    "frage": "Der Notar entwirft die Gemeinschaftsordnung für eine Anlage mit zwei Wohnungen, die von Familienangehörigen bewohnt werden. Welche Regelung zur jährlichen Versammlungspflicht ist sachgerecht?",
+    "optionen": [
+      "Die jährliche Versammlung ist zwingend und kann nicht abbedungen werden.",
+      "Die Versammlung kann auf das Verlangen eines Eigentümers beschränkt und diesem das Einberufungsrecht eingeräumt werden.",
+      "Versammlungen können vollständig ausgeschlossen und durch Entscheidungen des Verwalters ersetzt werden.",
+      "Die Versammlung darf nur noch alle fünf Jahre stattfinden, um Kosten zu sparen."
+    ],
+    "antwort": 1,
+    "erklaerung": "§ 24 Abs. 1 WEG ist teilweise abdingbar; in kleinen Anlagen mit zwei Wohnungen kann die Versammlung auf Verlangen eines Eigentümers beschränkt und diesem das Einberufungsrecht gegeben werden. Die Annahme, die Jahresversammlung sei zwingend, ist daher falsch. Grenze ist, dass das Verwaltungsrecht der Eigentümer nicht völlig ausgehöhlt werden darf, weshalb ein vollständiger Ausschluss unzulässig wäre."
+  },
+  {
+    "id": "wohn3-006",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Eigentümerversammlung: Ort, Zeit und Einzuladende",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-ort-zeit-und-einzuladende",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 1093 BGB",
+      "§ 31 WEG"
+    ],
+    "frage": "Welche der folgenden Personen muss der Verwalter zur Eigentümerversammlung nicht laden?",
+    "optionen": [
+      "Den werdenden Wohnungseigentümer",
+      "Einen Eigentümer, dessen Stimmrecht zu einem Tagesordnungspunkt nach § 25 Abs. 4 WEG ausgeschlossen ist",
+      "Den Nießbraucher an einer Wohnung",
+      "Alle Mitberechtigten einer im Miteigentum stehenden Einheit"
+    ],
+    "antwort": 2,
+    "erklaerung": "Nießbraucher, Wohnungsberechtigte nach § 1093 BGB und Dauerwohnberechtigte nach § 31 WEG sind mangels Stimmrecht nicht zu laden. Zu laden ist dagegen auch der Eigentümer, dessen Stimmrecht nach § 25 Abs. 4 WEG ausgeschlossen ist, denn das Stimmverbot beseitigt nicht sein Teilnahmerecht. Ebenso sind der werdende Eigentümer und bei mehreren Berechtigten einer Einheit alle zu laden."
+  },
+  {
+    "id": "wohn3-007",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Eigentümerversammlung: Ort, Zeit und Einzuladende",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-ort-zeit-und-einzuladende",
+    "typ": "rf",
+    "schwierigkeit": 1,
+    "normen": [],
+    "frage": "Eine Eigentümerversammlung, die auf den Vormittag eines Werktags einberufen wird, ist im Normalfall unzulässig, weil sie zur Unzeit stattfindet.",
+    "antwort": true,
+    "erklaerung": "Zeit und Ort der Versammlung müssen verkehrsüblich und zumutbar sein. Eine Einberufung vormittags oder am frühen Nachmittag eines Werktags gilt im Normalfall als Einberufung zur Unzeit und ist unzulässig. Sonn- und Feiertage scheiden dagegen nicht grundsätzlich aus, Samstage kommen in Betracht."
+  },
+  {
+    "id": "wohn3-008",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Eigentümerversammlung: Ort, Zeit und Einzuladende",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-ort-zeit-und-einzuladende",
+    "typ": "rf",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 8 Abs. 3 WEG"
+    ],
+    "frage": "Zur Eigentümerversammlung ist neben dem werdenden Eigentümer auch ein Zweiterwerber zu laden, der den Kaufvertrag bereits geschlossen hat, aber noch nicht im Grundbuch eingetragen ist.",
+    "antwort": false,
+    "erklaerung": "Zu laden sind alle bei Absendung bekannten Wohnungseigentümer einschließlich des werdenden Eigentümers (vgl. § 8 Abs. 3 WEG). Ein noch nicht eingetragener Zweiterwerber ist dagegen nicht zu laden. Die Rechtsfigur des werdenden Eigentümers betrifft nur den Ersterwerb in der Gründungsphase, nicht den späteren Erwerb von einem eingetragenen Eigentümer."
+  },
+  {
+    "id": "wohn3-009",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Eigentümerversammlung: Stimmrecht, Mehrheit und Stimmverbot",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-stimmrecht-mehrheit-und-stimmverbot",
+    "typ": "mc",
+    "schwierigkeit": 1,
+    "normen": [
+      "§ 25 Abs. 2 S. 1 WEG"
+    ],
+    "frage": "In einer Anlage ohne abweichende Stimmrechtsregel gehören A drei von zehn Wohnungen. Wie viele Stimmen hat A in der Eigentümerversammlung?",
+    "optionen": [
+      "Drei Stimmen, eine je Einheit",
+      "Eine Stimme",
+      "Stimmen im Verhältnis seiner Miteigentumsanteile",
+      "Keine Stimme, solange er nicht alle Einheiten selbst bewohnt"
+    ],
+    "antwort": 1,
+    "erklaerung": "Nach dem gesetzlichen Kopfprinzip des § 25 Abs. 2 S. 1 WEG hat jeder Wohnungseigentümer unabhängig von Größe und Zahl seiner Einheiten eine Stimme. Drei Stimmen hätte A nur bei einem in der Gemeinschaftsordnung vereinbarten Objektprinzip, eine Gewichtung nach Miteigentumsanteilen nur beim Wertprinzip. Verkauft A einzelne Einheiten, vermehren sich die Stimmen."
+  },
+  {
+    "id": "wohn3-010",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Eigentümerversammlung: Stimmrecht, Mehrheit und Stimmverbot",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-stimmrecht-mehrheit-und-stimmverbot",
+    "typ": "rf",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 25 Abs. 1 WEG"
+    ],
+    "frage": "Ist für einen Beschluss eine qualifizierte Mehrheit erforderlich, zählen Stimmenthaltungen nach überwiegender Ansicht als Nein-Stimmen.",
+    "antwort": false,
+    "erklaerung": "Es entscheidet die Mehrheit der abgegebenen Stimmen (§ 25 Abs. 1 WEG); Enthaltungen zählen nicht als Nein-Stimmen. Dies gilt nach überwiegender Ansicht auch bei qualifizierter Mehrheit; die Gegenansicht des OLG Celle ist vereinzelt geblieben. Bei Stimmengleichheit ist dagegen kein Beschluss zustande gekommen."
+  },
+  {
+    "id": "wohn3-011",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Eigentümerversammlung: Stimmrecht, Mehrheit und Stimmverbot",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-stimmrecht-mehrheit-und-stimmverbot",
+    "typ": "zuordnung",
+    "schwierigkeit": 1,
+    "normen": [
+      "§ 25 Abs. 2 WEG"
+    ],
+    "frage": "Ordne die Stimmrechtsprinzipien ihrem Inhalt zu.",
+    "paare": [
+      [
+        "Kopfprinzip",
+        "Jeder Wohnungseigentümer hat eine Stimme, gleich wie viele Einheiten ihm gehören"
+      ],
+      [
+        "Objektprinzip",
+        "Jede Einheit gewährt eine Stimme"
+      ],
+      [
+        "Wertprinzip",
+        "Stimmgewicht richtet sich nach den Miteigentumsanteilen"
+      ],
+      [
+        "Mehrere Berechtigte einer Einheit",
+        "Nur einheitliche Stimmabgabe; uneinheitliche Stimmen zählen nicht"
+      ]
+    ],
+    "erklaerung": "Das Kopfprinzip ist die gesetzliche Regel (§ 25 Abs. 2 S. 1 WEG); Objekt- und Wertprinzip sind häufige abweichende Regelungen in der Gemeinschaftsordnung. Mehrere Berechtigte einer Einheit können nur einheitlich abstimmen (§ 25 Abs. 2 S. 2 WEG). Für die Praxis empfiehlt sich meist das Wertprinzip, weil auch die Kosten nach Miteigentumsanteilen verteilt werden."
+  },
+  {
+    "id": "wohn3-012",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Eigentümerversammlung: Stimmrecht, Mehrheit und Stimmverbot",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-stimmrecht-mehrheit-und-stimmverbot",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 25 Abs. 4 WEG"
+    ],
+    "frage": "Eigentümer V soll Verwalter der Gemeinschaft werden. Bei welcher Beschlussfassung ist V nach § 25 Abs. 4 WEG vom Stimmrecht ausgeschlossen?",
+    "optionen": [
+      "Bei seiner eigenen Wahl zum Verwalter",
+      "Bei der Wahl der Mitglieder des Verwaltungsbeirats",
+      "Bei der Zustimmung zum Abschluss des Verwaltervertrags mit ihm",
+      "Bei keinem dieser Beschlüsse, da Eigentümer nie ausgeschlossen sind"
+    ],
+    "antwort": 2,
+    "erklaerung": "Das Stimmverbot des § 25 Abs. 4 WEG erfasst Verwaltungsgeschäfte mit dem Eigentümer; darunter fällt die Zustimmung zum Verwaltervertrag. Die Wahl zum Verwalter oder in den Beirat ist dagegen eine mitgliedschaftliche Angelegenheit, bei der in der Regel kein Stimmrechtsausschluss besteht. Die naheliegende Annahme, schon die eigene Wahl sei ausgeschlossen, verkennt diese Unterscheidung."
+  },
+  {
+    "id": "wohn3-013",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Eigentümerversammlung: Stimmrecht, Mehrheit und Stimmverbot",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-stimmrecht-mehrheit-und-stimmverbot",
+    "typ": "fall",
+    "frage": "Nießbrauch und Stimmrechtsvollmacht",
+    "schwierigkeit": 3,
+    "normen": [
+      "§ 25 Abs. 1 WEG",
+      "§ 25 Abs. 3 WEG"
+    ],
+    "sachverhalt": "E ist Eigentümer einer Wohnung in einer Anlage; die Gemeinschaftsordnung beschränkt die Vertretung in der Versammlung auf Ehegatten und den Verwalter. E hat seiner Mutter M einen Bruttonießbrauch an der Wohnung bestellt. M möchte an den Abstimmungen teilnehmen. In der nächsten Versammlung stimmen von den erschienenen und vertretenen Eigentümern 5 mit Ja, 4 mit Nein, 3 enthalten sich.",
+    "schritte": [
+      {
+        "frage": "Wem steht das Stimmrecht für die Wohnung zu?",
+        "optionen": [
+          "M als Nießbraucherin kraft ihres dinglichen Rechts",
+          "E als Eigentümer; der Nießbraucher hat kein eigenes Stimmrecht",
+          "E und M gemeinsam, die nur einheitlich abstimmen können",
+          "Niemandem, solange der Nießbrauch besteht"
+        ],
+        "antwort": 1,
+        "erklaerung": "Der Nießbraucher hat kein eigenes Stimmrecht; es verbleibt beim Eigentümer. Das Stimmrecht ist untrennbar mit dem Eigentum verbunden und kann nicht dauerhaft abgespalten werden. Aus dem Nießbrauchsverhältnis kann sich aber ein Anspruch der M auf eine Stimmrechtsvollmacht ergeben."
+      },
+      {
+        "frage": "E erteilt M eine Stimmrechtsvollmacht. Steht die Vertretungsbeschränkung der Gemeinschaftsordnung entgegen?",
+        "optionen": [
+          "Ja, die Klausel lässt nur Ehegatten und Verwalter zu und ist strikt anzuwenden.",
+          "Ja, Vertretungsbeschränkungen schließen Familienangehörige stets aus.",
+          "Nein, solche Klauseln sind regelmäßig so auszulegen, dass sie eine Vollmacht für den Nießbraucher nicht ausschließen.",
+          "Nein, Vertretungsbeschränkungen in der Gemeinschaftsordnung sind generell unwirksam."
+        ],
+        "antwort": 2,
+        "erklaerung": "Die Gemeinschaftsordnung kann den Vertreterkreis zwar wirksam beschränken. Nach überwiegender Ansicht sind solche Klauseln aber regelmäßig so auszulegen, dass sie eine Vollmacht für den Nießbraucher oder Wohnungsberechtigten nicht ausschließen. Eine generelle Unwirksamkeit solcher Beschränkungen trifft dagegen nicht zu."
+      },
+      {
+        "frage": "Welcher Form bedarf die Vollmacht?",
+        "optionen": [
+          "Schriftform",
+          "Textform",
+          "Öffentliche Beglaubigung",
+          "Keiner Form"
+        ],
+        "antwort": 1,
+        "erklaerung": "Vollmachten zur Ausübung des Stimmrechts bedürfen nach § 25 Abs. 3 WEG der Textform. Schriftform oder Beglaubigung sind gesetzlich nicht erforderlich."
+      },
+      {
+        "frage": "Ist der Beschluss mit 5 Ja-, 4 Nein-Stimmen und 3 Enthaltungen zustande gekommen?",
+        "optionen": [
+          "Ja, weil die Ja-Stimmen die Nein-Stimmen überwiegen; Enthaltungen zählen nicht",
+          "Nein, weil die Enthaltungen als Nein-Stimmen zu werten sind",
+          "Nein, weil nicht die Mehrheit aller erschienenen Eigentümer zugestimmt hat",
+          "Nein, weil die Versammlung mangels Quorum nicht beschlussfähig war"
+        ],
+        "antwort": 0,
+        "erklaerung": "Nach § 25 Abs. 1 WEG entscheidet die Mehrheit der abgegebenen Stimmen; Enthaltungen zählen nicht als Nein-Stimmen. 5 Ja- gegen 4 Nein-Stimmen genügen daher. Ein Quorum kennt § 25 WEG nicht mehr; die Versammlung ist ohne Rücksicht auf die Teilnehmerzahl beschlussfähig."
+      }
+    ],
+    "erklaerung": "Das Stimmrecht verbleibt beim Eigentümer E, der es aber durch Bevollmächtigte in Textform (§ 25 Abs. 3 WEG) ausüben lassen kann; die Vertretungsbeschränkung ist regelmäßig nicht gegen den Nießbraucher gerichtet. Der Beschluss ist mit der Mehrheit der abgegebenen Stimmen gefasst (§ 25 Abs. 1 WEG), Enthaltungen bleiben außer Betracht."
+  },
+  {
+    "id": "wohn3-014",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Gebrauchsregelungen: Beschluss oder Vereinbarung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gebrauchsregelungen-beschluss-oder-vereinbarung",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 19 Abs. 1 WEG",
+      "§ 10 Abs. 1 S. 2 WEG"
+    ],
+    "frage": "Die Eigentümer wollen die Tierhaltung in der Anlage vollständig ausschließen. Auf welchem Weg ist das möglich?",
+    "optionen": [
+      "Durch Mehrheitsbeschluss als Teil der Hausordnung",
+      "Nur durch Vereinbarung",
+      "Durch Anordnung des Verwalters ohne Ermächtigung",
+      "Überhaupt nicht, weil die Tierhaltung zum Kernbereich gehört"
+    ],
+    "antwort": 1,
+    "erklaerung": "Nutzungsarten, die nach §§ 13, 14 WEG an sich zulässig sind, können durch Vereinbarung, nicht aber durch Beschluss verboten werden (vgl. §§ 19 Abs. 1, 10 Abs. 1 S. 2 WEG); der völlige Ausschluss der Tierhaltung ist durch Vereinbarung möglich. Ein Mehrheitsbeschluss nach § 19 Abs. 1 WEG reicht nicht, weil er nur einen ordnungsmäßigen Gebrauch regeln, eine zulässige Nutzung aber nicht verbieten kann."
+  },
+  {
+    "id": "wohn3-015",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Gebrauchsregelungen: Beschluss oder Vereinbarung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gebrauchsregelungen-beschluss-oder-vereinbarung",
+    "typ": "rf",
+    "schwierigkeit": 1,
+    "normen": [
+      "§ 19 Abs. 1 WEG"
+    ],
+    "frage": "Ein allgemeines Musizierverbot kann als Gebrauchsregelung durch Mehrheitsbeschluss nach § 19 Abs. 1 WEG wirksam eingeführt werden.",
+    "antwort": false,
+    "erklaerung": "Ein allgemeines Musizierverbot durch Beschluss greift in den Kernbereich des Wohnungseigentums ein und ist deshalb nicht möglich. Selbst durch Vereinbarung ist es streitig; vorzugswürdig ist, einen Verstoß gegen § 138 Abs. 1 BGB anzunehmen. Durch Beschluss regelbar sind nur Fragen des ordnungsmäßigen Gebrauchs, etwa Ruhezeiten im Rahmen einer Hausordnung."
+  },
+  {
+    "id": "wohn3-016",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Gebrauchsregelungen: Beschluss oder Vereinbarung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gebrauchsregelungen-beschluss-oder-vereinbarung",
+    "typ": "zuordnung",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 19 Abs. 1 WEG",
+      "§ 138 Abs. 1 BGB"
+    ],
+    "frage": "Ordne die Gebrauchsregelung dem zutreffenden Regelungsweg bzw. ihrer Wirksamkeit zu.",
+    "paare": [
+      [
+        "Übliche Inhalte einer Hausordnung",
+        "Mehrheitsbeschluss genügt"
+      ],
+      [
+        "Völliger Ausschluss der Berufs- oder Gewerbeausübung",
+        "Nur durch Vereinbarung möglich"
+      ],
+      [
+        "Pauschaler Ausschluss von Parabolantennen durch Beschluss",
+        "Unzulässiger Eingriff in den Kernbereich"
+      ],
+      [
+        "Vermietung nur mit Zustimmung des Verwalters",
+        "Zulässiger vereinbarter Erlaubnisvorbehalt"
+      ],
+      [
+        "Allgemeines Musizierverbot durch Vereinbarung",
+        "Streitig; vorzugswürdig Verstoß gegen § 138 Abs. 1 BGB"
+      ]
+    ],
+    "erklaerung": "Hausordnungsfragen sind der Hauptanwendungsfall des Mehrheitsbeschlusses nach § 19 Abs. 1 WEG. Verbote an sich zulässiger Nutzungen erfordern eine Vereinbarung; per Beschluss scheitert ein pauschaler Parabolantennenausschluss am Kernbereich, während er durch Vereinbarung möglich ist. Erlaubnisvorbehalte, etwa die Zustimmung des Verwalters zur Vermietung, können vereinbart werden."
+  },
+  {
+    "id": "wohn3-017",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Gebrauchsregelungen: Beschluss oder Vereinbarung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gebrauchsregelungen-beschluss-oder-vereinbarung",
+    "typ": "mc",
+    "schwierigkeit": 3,
+    "normen": [],
+    "frage": "Der teilende Eigentümer möchte jede gewerbliche Nutzung der Wohnungen ausschließen. Welche Gestaltung sollte der Notar empfehlen?",
+    "optionen": [
+      "Das Verbot in die Gemeinschaftsordnung aufnehmen, weil ein späterer Mehrheitsbeschluss dafür nicht ausreicht",
+      "Die Regelung einem Mehrheitsbeschluss in der ersten Eigentümerversammlung überlassen",
+      "Den Verwalter in der Teilungserklärung anweisen, Gewerbe nach Ermessen zu untersagen",
+      "Auf eine Regelung verzichten, da Gewerbe in Wohnungen ohnehin stets unzulässig ist"
     ],
     "antwort": 0,
-    "erklaerung": "Nach § 25 Abs. 1 WEG entscheidet die Mehrheit der abgegebenen Stimmen; Enthaltungen zählen nicht als Nein-Stimmen. 5 Ja- gegen 4 Nein-Stimmen genügen daher. Ein Quorum kennt § 25 WEG nicht mehr; die Versammlung ist ohne Rücksicht auf die Teilnehmerzahl beschlussfähig."
-   }
-  ],
-  "erklaerung": "Das Stimmrecht verbleibt beim Eigentümer E, der es aber durch Bevollmächtigte in Textform (§ 25 Abs. 3 WEG) ausüben lassen kann; die Vertretungsbeschränkung ist regelmäßig nicht gegen den Nießbraucher gerichtet. Der Beschluss ist mit der Mehrheit der abgegebenen Stimmen gefasst (§ 25 Abs. 1 WEG), Enthaltungen bleiben außer Betracht."
- },
- {
-  "id": "wohn3-014",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Gebrauchsregelungen: Beschluss oder Vereinbarung",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gebrauchsregelungen-beschluss-oder-vereinbarung",
-  "typ": "mc",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 19 Abs. 1 WEG",
-   "§ 10 Abs. 1 S. 2 WEG"
-  ],
-  "frage": "Die Eigentümer wollen die Tierhaltung in der Anlage vollständig ausschließen. Auf welchem Weg ist das möglich?",
-  "optionen": [
-   "Durch Mehrheitsbeschluss als Teil der Hausordnung",
-   "Nur durch Vereinbarung",
-   "Durch Anordnung des Verwalters ohne Ermächtigung",
-   "Überhaupt nicht, weil die Tierhaltung zum Kernbereich gehört"
-  ],
-  "antwort": 1,
-  "erklaerung": "Nutzungsarten, die nach §§ 13, 14 WEG an sich zulässig sind, können durch Vereinbarung, nicht aber durch Beschluss verboten werden (vgl. §§ 19 Abs. 1, 10 Abs. 1 S. 2 WEG); der völlige Ausschluss der Tierhaltung ist durch Vereinbarung möglich. Ein Mehrheitsbeschluss nach § 19 Abs. 1 WEG reicht nicht, weil er nur einen ordnungsmäßigen Gebrauch regeln, eine zulässige Nutzung aber nicht verbieten kann."
- },
- {
-  "id": "wohn3-015",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Gebrauchsregelungen: Beschluss oder Vereinbarung",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gebrauchsregelungen-beschluss-oder-vereinbarung",
-  "typ": "rf",
-  "schwierigkeit": 1,
-  "normen": [
-   "§ 19 Abs. 1 WEG"
-  ],
-  "frage": "Ein allgemeines Musizierverbot kann als Gebrauchsregelung durch Mehrheitsbeschluss nach § 19 Abs. 1 WEG wirksam eingeführt werden.",
-  "antwort": false,
-  "erklaerung": "Ein allgemeines Musizierverbot durch Beschluss greift in den Kernbereich des Wohnungseigentums ein und ist deshalb nicht möglich. Selbst durch Vereinbarung ist es streitig; vorzugswürdig ist, einen Verstoß gegen § 138 Abs. 1 BGB anzunehmen. Durch Beschluss regelbar sind nur Fragen des ordnungsmäßigen Gebrauchs, etwa Ruhezeiten im Rahmen einer Hausordnung."
- },
- {
-  "id": "wohn3-016",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Gebrauchsregelungen: Beschluss oder Vereinbarung",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gebrauchsregelungen-beschluss-oder-vereinbarung",
-  "typ": "zuordnung",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 19 Abs. 1 WEG",
-   "§ 138 Abs. 1 BGB"
-  ],
-  "frage": "Ordne die Gebrauchsregelung dem zutreffenden Regelungsweg bzw. ihrer Wirksamkeit zu.",
-  "paare": [
-   [
-    "Übliche Inhalte einer Hausordnung",
-    "Mehrheitsbeschluss genügt"
-   ],
-   [
-    "Völliger Ausschluss der Berufs- oder Gewerbeausübung",
-    "Nur durch Vereinbarung möglich"
-   ],
-   [
-    "Pauschaler Ausschluss von Parabolantennen durch Beschluss",
-    "Unzulässiger Eingriff in den Kernbereich"
-   ],
-   [
-    "Vermietung nur mit Zustimmung des Verwalters",
-    "Zulässiger vereinbarter Erlaubnisvorbehalt"
-   ],
-   [
-    "Allgemeines Musizierverbot durch Vereinbarung",
-    "Streitig; vorzugswürdig Verstoß gegen § 138 Abs. 1 BGB"
-   ]
-  ],
-  "erklaerung": "Hausordnungsfragen sind der Hauptanwendungsfall des Mehrheitsbeschlusses nach § 19 Abs. 1 WEG. Verbote an sich zulässiger Nutzungen erfordern eine Vereinbarung; per Beschluss scheitert ein pauschaler Parabolantennenausschluss am Kernbereich, während er durch Vereinbarung möglich ist. Erlaubnisvorbehalte, etwa die Zustimmung des Verwalters zur Vermietung, können vereinbart werden."
- },
- {
-  "id": "wohn3-017",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Gebrauchsregelungen: Beschluss oder Vereinbarung",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gebrauchsregelungen-beschluss-oder-vereinbarung",
-  "typ": "mc",
-  "schwierigkeit": 3,
-  "normen": [],
-  "frage": "Der teilende Eigentümer möchte jede gewerbliche Nutzung der Wohnungen ausschließen. Welche Gestaltung sollte der Notar empfehlen?",
-  "optionen": [
-   "Das Verbot in die Gemeinschaftsordnung aufnehmen, weil ein späterer Mehrheitsbeschluss dafür nicht ausreicht",
-   "Die Regelung einem Mehrheitsbeschluss in der ersten Eigentümerversammlung überlassen",
-   "Den Verwalter in der Teilungserklärung anweisen, Gewerbe nach Ermessen zu untersagen",
-   "Auf eine Regelung verzichten, da Gewerbe in Wohnungen ohnehin stets unzulässig ist"
-  ],
-  "antwort": 0,
-  "erklaerung": "Der Ausschluss der Berufs- oder Gewerbeausübung ist durch Vereinbarung möglich, nicht aber durch Beschluss, weil an sich zulässige Nutzungen nicht per Mehrheitsbeschluss verboten werden können. Gewollte Nutzungsverbote gehören deshalb in die Gemeinschaftsordnung. Die Verschiebung auf einen späteren Mehrheitsbeschluss wäre der typische Gestaltungsfehler."
- },
- {
-  "id": "wohn3-018",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Gemeinschaft der Wohnungseigentümer: Ausübungsbefugnis nach § 9a Abs. 2 WEG",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-ausubungsbefugnis-nach-9a-abs-2-weg",
-  "typ": "rf",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 9a Abs. 2 WEG"
-  ],
-  "frage": "Die Wohnungseigentümer können die Ausübung einzelner Individualrechte nach geltendem Recht durch Mehrheitsbeschluss auf die Gemeinschaft der Wohnungseigentümer übertragen (gekorene Ausübungsbefugnis).",
-  "antwort": false,
-  "erklaerung": "Seit der WEG-Reform gibt es keine gekorene Ausübungsbefugnis mehr; die Zuständigkeit für einzelne Rechte kann nicht mehr durch Mehrheitsbeschluss auf die GdWE übertragen werden. Es besteht nur noch die gesetzliche, sogenannte geborene Ausübungsbefugnis nach § 9a Abs. 2 WEG für Rechte aus dem gemeinschaftlichen Eigentum und solche, die eine einheitliche Rechtsverfolgung erfordern."
- },
- {
-  "id": "wohn3-019",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Gemeinschaft der Wohnungseigentümer: Ausübungsbefugnis nach § 9a Abs. 2 WEG",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-ausubungsbefugnis-nach-9a-abs-2-weg",
-  "typ": "mc",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 9a Abs. 2 WEG",
-   "§ 19 WEG"
-  ],
-  "frage": "Welche Wirkung hat die Ausübungsbefugnis der GdWE nach § 9a Abs. 2 WEG?",
-  "optionen": [
-   "Die Rechte gehen materiell auf die GdWE über und scheiden aus dem Vermögen der Eigentümer aus.",
-   "Die GdWE erhält nur die Zuständigkeit nach außen (verdrängende Prozessstandschaft); die Rechte bleiben formal bei den Eigentümern.",
-   "Die GdWE und jeder Eigentümer sind nebeneinander zur Geltendmachung befugt.",
-   "Die GdWE darf die Ansprüche nur gerichtlich geltend machen, aber weder abtreten noch erlassen."
-  ],
-  "antwort": 1,
-  "erklaerung": "§ 9a Abs. 2 WEG verschafft der GdWE lediglich die Zuständigkeit nach außen in Form verdrängender aktiver und passiver Prozessstandschaft; die Rechte und Pflichten bleiben formal bei den Eigentümern. Ein materieller Übergang findet also nicht statt. Nach außen darf die GdWE die Ansprüche geltend machen, abtreten oder erlassen; über die Maßnahmen beschließen die Eigentümer intern nach § 19 WEG."
- },
- {
-  "id": "wohn3-020",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Gemeinschaft der Wohnungseigentümer: Ausübungsbefugnis nach § 9a Abs. 2 WEG",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-ausubungsbefugnis-nach-9a-abs-2-weg",
-  "typ": "mc",
-  "schwierigkeit": 1,
-  "normen": [
-   "§ 9a Abs. 2 WEG",
-   "§ 1004 BGB"
-  ],
-  "frage": "Ein Nachbar lagert unbefugt Baumaterial auf dem gemeinschaftlichen Grundstück. Wer macht den Beseitigungsanspruch aus § 1004 BGB geltend?",
-  "optionen": [
-   "Jeder Wohnungseigentümer einzeln aus eigenem Recht",
-   "Die GdWE, weil sie die Rechte aus dem gemeinschaftlichen Eigentum ausübt",
-   "Nur alle Wohnungseigentümer gemeinsam als notwendige Streitgenossen",
-   "Der Verwalter im eigenen Namen als Treuhänder"
-  ],
-  "antwort": 1,
-  "erklaerung": "Die GdWE übt nach § 9a Abs. 2 Alt. 1 WEG alle Rechte aus dem gemeinschaftlichen Eigentum aus; erfasst sind vor allem Ansprüche aus §§ 985, 1004 und 861 BGB sowie Schadensersatz nach § 823 BGB. Die Zuständigkeit der GdWE ist verdrängend, sodass der einzelne Eigentümer den Anspruch nicht selbst durchsetzen kann. Der Verwalter handelt nur als Vertreter der GdWE."
- },
- {
-  "id": "wohn3-021",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Gemeinschaft der Wohnungseigentümer: Erwerb von Grundbesitz, Entstehung und Ende",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-erwerb-von-grundbesitz-entstehung-und-ende",
-  "typ": "mc",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 9b Abs. 1 S. 1 WEG"
-  ],
-  "frage": "Für welches Geschäft benötigt der Verwalter als Vertreter der GdWE nach § 9b Abs. 1 S. 1 WEG einen Beschluss der Wohnungseigentümer?",
-  "optionen": [
-   "Für jede Erklärung gegenüber Dritten",
-   "Für die Auflassung eines von der GdWE erworbenen Grundstücks",
-   "Für den Abschluss eines Grundstückskauf- oder Darlehensvertrags",
-   "Für den Abschluss von Versorgungsverträgen"
-  ],
-  "antwort": 2,
-  "erklaerung": "Die Vertretungsmacht des Verwalters ist grundsätzlich unbeschränkt; nur für den Abschluss eines Grundstückskauf- oder Darlehensvertrags braucht er einen Beschluss (§ 9b Abs. 1 S. 1 WEG). Diese Bindung betrifft nur den schuldrechtlichen Vertrag, nicht die Auflassung. Deshalb ist die Option zur Auflassung der naheliegende, aber falsche Distraktor."
- },
- {
-  "id": "wohn3-022",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Gemeinschaft der Wohnungseigentümer: Erwerb von Grundbesitz, Entstehung und Ende",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-erwerb-von-grundbesitz-entstehung-und-ende",
-  "typ": "rf",
-  "schwierigkeit": 1,
-  "normen": [
-   "§ 9a Abs. 1 S. 2 WEG"
-  ],
-  "frage": "Die Gemeinschaft der Wohnungseigentümer entsteht mit Anlegung der Wohnungsgrundbücher.",
-  "antwort": true,
-  "erklaerung": "Nach § 9a Abs. 1 S. 2 WEG entsteht die GdWE mit Anlegung der Wohnungsgrundbücher. Erst danach kann sie selbst Verträge schließen; vorher kann der Eigentümer etwa selbst kontrahieren und eine aufschiebend bedingte Vertragsübernahme vorsehen. Sie endet mit dem Erlöschen des Sondereigentums und der Schließung der Wohnungsgrundbücher."
- },
- {
-  "id": "wohn3-023",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Gemeinschaft der Wohnungseigentümer: Erwerb von Grundbesitz, Entstehung und Ende",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-erwerb-von-grundbesitz-entstehung-und-ende",
-  "typ": "mc",
-  "schwierigkeit": 3,
-  "normen": [
-   "§ 1092 Abs. 2 BGB"
-  ],
-  "frage": "Zugunsten der Wohnungseigentumsanlage soll ein Wegerecht über das Nachbargrundstück bestellt werden. Welche Gestaltung ist vorzugswürdig?",
-  "optionen": [
-   "Beschränkte persönliche Dienstbarkeit zugunsten der GdWE",
-   "Grunddienstbarkeit zugunsten des jeweiligen Eigentümers des Wohnungseigentumsgrundstücks",
-   "Beschränkte persönliche Dienstbarkeit zugunsten des Verwalters",
-   "Schuldrechtliche Gestattung zwischen Nachbar und Verwalter"
-  ],
-  "antwort": 1,
-  "erklaerung": "Für Rechte, die der Anlage dienen sollen, empfiehlt sich eine Grunddienstbarkeit zugunsten des jeweiligen Eigentümers des Wohnungseigentumsgrundstücks. Eine beschränkte persönliche Dienstbarkeit für die GdWE erlischt ohne Anwachsung mit deren Ende; ein Übergang nach §§ 1092 Abs. 2, 1059 Abs. 1 Nr. 1 BGB analog kommt nur bei Anwachsung in Betracht, die ungeklärt ist."
- },
- {
-  "id": "wohn3-024",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Gemeinschaft der Wohnungseigentümer: Erwerb von Grundbesitz, Entstehung und Ende",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-erwerb-von-grundbesitz-entstehung-und-ende",
-  "typ": "fall",
-  "frage": "Erwerb eines Nachbargrundstücks durch die GdWE",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 9b Abs. 1 S. 1 WEG",
-   "§ 26 Abs. 4 WEG"
-  ],
-  "sachverhalt": "Die Wohnungseigentümer der Anlage Lindenweg 5 möchten das angrenzende Grundstück des N als Parkfläche erwerben. In der Versammlung stimmt die Mehrheit für den Erwerb, einige Eigentümer halten den Kaufpreis für überhöht. Verwalterin ist die V-GmbH. Sie erscheint beim Notar, um den Kaufvertrag für die GdWE zu schließen.",
-  "schritte": [
-   {
-    "frage": "Kann die GdWE das Nachbargrundstück erwerben, und wie wird darüber entschieden?",
-    "optionen": [
-     "Nein, die GdWE kann kein Grundeigentum außerhalb der Anlage erwerben.",
-     "Ja, aber nur durch einstimmige Vereinbarung aller Eigentümer.",
-     "Ja, der Erwerb ist eine Maßnahme der Verwaltung und kann mit Stimmenmehrheit beschlossen werden.",
-     "Ja, der Verwalter entscheidet darüber allein ohne Beschluss."
+    "erklaerung": "Der Ausschluss der Berufs- oder Gewerbeausübung ist durch Vereinbarung möglich, nicht aber durch Beschluss, weil an sich zulässige Nutzungen nicht per Mehrheitsbeschluss verboten werden können. Gewollte Nutzungsverbote gehören deshalb in die Gemeinschaftsordnung. Die Verschiebung auf einen späteren Mehrheitsbeschluss wäre der typische Gestaltungsfehler."
+  },
+  {
+    "id": "wohn3-018",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Gemeinschaft der Wohnungseigentümer: Ausübungsbefugnis nach § 9a Abs. 2 WEG",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-ausubungsbefugnis-nach-9a-abs-2-weg",
+    "typ": "rf",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 9a Abs. 2 WEG"
     ],
-    "antwort": 2,
-    "erklaerung": "Die GdWE kann Eigentum an einem anderen Grundstück erwerben. Der Erwerb ist eine Maßnahme der Verwaltung, die die Eigentümer mit Stimmenmehrheit beschließen können; Einstimmigkeit ist nicht erforderlich."
-   },
-   {
-    "frage": "Unterstellt, der Beschluss widerspricht wegen des Kaufpreises ordnungsmäßiger Verwaltung. Welche Folge hat das?",
+    "frage": "Die Wohnungseigentümer können die Ausübung einzelner Individualrechte nach geltendem Recht durch Mehrheitsbeschluss auf die Gemeinschaft der Wohnungseigentümer übertragen (gekorene Ausübungsbefugnis).",
+    "antwort": false,
+    "erklaerung": "Seit der WEG-Reform gibt es keine gekorene Ausübungsbefugnis mehr; die Zuständigkeit für einzelne Rechte kann nicht mehr durch Mehrheitsbeschluss auf die GdWE übertragen werden. Es besteht nur noch die gesetzliche, sogenannte geborene Ausübungsbefugnis nach § 9a Abs. 2 WEG für Rechte aus dem gemeinschaftlichen Eigentum und solche, die eine einheitliche Rechtsverfolgung erfordern."
+  },
+  {
+    "id": "wohn3-019",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Gemeinschaft der Wohnungseigentümer: Ausübungsbefugnis nach § 9a Abs. 2 WEG",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-ausubungsbefugnis-nach-9a-abs-2-weg",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 9a Abs. 2 WEG",
+      "§ 19 WEG"
+    ],
+    "frage": "Welche Wirkung hat die Ausübungsbefugnis der GdWE nach § 9a Abs. 2 WEG?",
     "optionen": [
-     "Der Beschluss ist nichtig.",
-     "Der Beschluss ist nur anfechtbar und bis dahin wirksam.",
-     "Der Beschluss ist schwebend unwirksam bis zur gerichtlichen Bestätigung.",
-     "Der Beschluss gilt als Vereinbarung und bindet alle."
+      "Die Rechte gehen materiell auf die GdWE über und scheiden aus dem Vermögen der Eigentümer aus.",
+      "Die GdWE erhält nur die Zuständigkeit nach außen (verdrängende Prozessstandschaft); die Rechte bleiben formal bei den Eigentümern.",
+      "Die GdWE und jeder Eigentümer sind nebeneinander zur Geltendmachung befugt.",
+      "Die GdWE darf die Ansprüche nur gerichtlich geltend machen, aber weder abtreten noch erlassen."
     ],
     "antwort": 1,
-    "erklaerung": "Widerspricht der Erwerbsbeschluss ordnungsmäßiger Verwaltung, ist er nur anfechtbar und bis zur Ungültigerklärung wirksam. Nichtigkeit tritt nicht ein."
-   },
-   {
-    "frage": "Was muss der Notar hinsichtlich der Vertretungsmacht der V-GmbH beachten?",
+    "erklaerung": "§ 9a Abs. 2 WEG verschafft der GdWE lediglich die Zuständigkeit nach außen in Form verdrängender aktiver und passiver Prozessstandschaft; die Rechte und Pflichten bleiben formal bei den Eigentümern. Ein materieller Übergang findet also nicht statt. Nach außen darf die GdWE die Ansprüche geltend machen, abtreten oder erlassen; über die Maßnahmen beschließen die Eigentümer intern nach § 19 WEG."
+  },
+  {
+    "id": "wohn3-020",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Gemeinschaft der Wohnungseigentümer: Ausübungsbefugnis nach § 9a Abs. 2 WEG",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-ausubungsbefugnis-nach-9a-abs-2-weg",
+    "typ": "mc",
+    "schwierigkeit": 1,
+    "normen": [
+      "§ 9a Abs. 2 WEG",
+      "§ 1004 BGB"
+    ],
+    "frage": "Ein Nachbar lagert unbefugt Baumaterial auf dem gemeinschaftlichen Grundstück. Wer macht den Beseitigungsanspruch aus § 1004 BGB geltend?",
     "optionen": [
-     "Nichts, weil die Vertretungsmacht des Verwalters stets unbeschränkt ist.",
-     "Er muss die Vertretungsmacht prüfen; für den Kaufvertrag ist ein Erwerbsbeschluss erforderlich, dessen Nachweisform er nach Ermessen bestimmt.",
-     "Er darf nur beurkunden, wenn das Grundbuchamt den Beschluss vorab genehmigt hat.",
-     "Er benötigt die notariell beurkundete Zustimmung aller Eigentümer."
+      "Jeder Wohnungseigentümer einzeln aus eigenem Recht",
+      "Die GdWE, weil sie die Rechte aus dem gemeinschaftlichen Eigentum ausübt",
+      "Nur alle Wohnungseigentümer gemeinsam als notwendige Streitgenossen",
+      "Der Verwalter im eigenen Namen als Treuhänder"
     ],
     "antwort": 1,
-    "erklaerung": "Für den Grundstückskaufvertrag braucht der Verwalter einen Beschluss (§ 9b Abs. 1 S. 1 WEG). Das Grundbuchamt prüft die Wirksamkeit des Kaufvertrags nicht und darf sie nicht prüfen; der Notar muss die Vertretungsmacht dennoch prüfen. Nach seinem Ermessen genügt ein privatschriftliches Protokoll oder er verlangt eines mit beglaubigten Unterschriften entsprechend §§ 24 Abs. 6, 26 Abs. 4 WEG."
-   },
-   {
-    "frage": "Wie weist die V-GmbH ihre Verwalterstellung gegenüber dem Grundbuchamt nach?",
+    "erklaerung": "Die GdWE übt nach § 9a Abs. 2 Alt. 1 WEG alle Rechte aus dem gemeinschaftlichen Eigentum aus; erfasst sind vor allem Ansprüche aus §§ 985, 1004 und 861 BGB sowie Schadensersatz nach § 823 BGB. Die Zuständigkeit der GdWE ist verdrängend, sodass der einzelne Eigentümer den Anspruch nicht selbst durchsetzen kann. Der Verwalter handelt nur als Vertreter der GdWE."
+  },
+  {
+    "id": "wohn3-021",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Gemeinschaft der Wohnungseigentümer: Erwerb von Grundbesitz, Entstehung und Ende",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-erwerb-von-grundbesitz-entstehung-und-ende",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 9b Abs. 1 S. 1 WEG"
+    ],
+    "frage": "Für welches Geschäft benötigt der Verwalter als Vertreter der GdWE nach § 9b Abs. 1 S. 1 WEG einen Beschluss der Wohnungseigentümer?",
     "optionen": [
-     "Durch Vorlage des Verwaltervertrags in Textform",
-     "Durch eine Eigenerklärung des Geschäftsführers",
-     "Durch ein Bestellungsprotokoll mit beglaubigten Unterschriften (§ 26 Abs. 4 WEG analog)",
-     "Durch einen Handelsregisterauszug der V-GmbH"
+      "Für jede Erklärung gegenüber Dritten",
+      "Für die Auflassung eines von der GdWE erworbenen Grundstücks",
+      "Für den Abschluss eines Grundstückskauf- oder Darlehensvertrags",
+      "Für den Abschluss von Versorgungsverträgen"
     ],
     "antwort": 2,
-    "erklaerung": "Die Verwalterstellung wird für das Grundbuch durch ein Bestellungsprotokoll mit beglaubigten Unterschriften nachgewiesen (§ 26 Abs. 4 WEG analog). Der Handelsregisterauszug belegt nur die Vertretung der GmbH, nicht ihre Bestellung zur Verwalterin."
-   }
-  ],
-  "erklaerung": "Die GdWE kann das Grundstück durch Mehrheitsbeschluss erwerben; ein Verstoß gegen ordnungsmäßige Verwaltung macht den Beschluss nur anfechtbar. Der Verwalter benötigt für den Kaufvertrag einen Beschluss (§ 9b Abs. 1 S. 1 WEG), den der Notar prüft, und weist seine Bestellung dem Grundbuchamt nach § 26 Abs. 4 WEG analog nach."
- },
- {
-  "id": "wohn3-025",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Gemeinschaft der Wohnungseigentümer: Mängelrechte gegen den Bauträger und Abnahme des Gemeinschaftseigentums",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-mangelrechte-gegen-den-bautrager-und-abnahme-des-gemeinschaftseigentums",
-  "typ": "zuordnung",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 9a Abs. 2 WEG",
-   "§ 634 BGB"
-  ],
-  "frage": "Ordne die Mängelrechte am Gemeinschaftseigentum gegen den Bauträger der Zuständigkeit für ihre Ausübung zu.",
-  "paare": [
-   [
-    "Nacherfüllung und Kostenvorschuss",
-    "Jeder Erwerber selbst; GdWE kann sie durch Beschluss an sich ziehen"
-   ],
-   [
-    "Minderung und kleiner Schadensersatz",
-    "Geborene Ausübungsbefugnis der GdWE nach § 9a Abs. 2 Alt. 2 WEG"
-   ],
-   [
-    "Rücktritt und großer Schadensersatz",
-    "Stets der einzelne Erwerber"
-   ],
-   [
-    "Abnahme des Gemeinschaftseigentums",
-    "Nicht vergemeinschaftbar, weder durch Gemeinschaftsordnung noch durch Beschluss"
-   ]
-  ],
-  "erklaerung": "Primäre Mängelrechte kann jeder Erwerber ausüben, die GdWE kann sie aber durch Beschluss an sich ziehen. Für Minderung und kleinen Schadensersatz besteht eine geborene Ausübungsbefugnis der GdWE (§ 9a Abs. 2 Alt. 2 WEG), damit nicht einzelne mindern, während andere Nacherfüllung verlangen. Rücktritt und großer Schadensersatz betreffen nur das eigene Vertragsverhältnis; die Abnahme (§ 640 BGB) kann nicht vergemeinschaftet werden."
- },
- {
-  "id": "wohn3-026",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Gemeinschaft der Wohnungseigentümer: Mängelrechte gegen den Bauträger und Abnahme des Gemeinschaftseigentums",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-mangelrechte-gegen-den-bautrager-und-abnahme-des-gemeinschaftseigentums",
-  "typ": "rf",
-  "schwierigkeit": 3,
-  "normen": [],
-  "frage": "Nach der Rechtsprechung des BGH ist einem Erwerber nach der Vergemeinschaftung der Nacherfüllungsansprüche durch die GdWE jedes eigene Vorgehen gegen den Bauträger verwehrt.",
-  "antwort": false,
-  "erklaerung": "Nach dem BGH bleibt ein eigenes Vorgehen des Erwerbers auch nach der Vergemeinschaftung möglich; ausgeschlossen ist nur ein Vorgehen im Widerspruch zur GdWE bei Interessenkollision. Verhandelt die GdWE ohne weitere Beschlüsse mit dem Bauträger, darf der Erwerber eine Nacherfüllungsfrist setzen. Die generelle Verdrängung des Einzelvorgehens ist nur eine Gegenansicht in der Literatur."
- },
- {
-  "id": "wohn3-027",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Gemeinschaft der Wohnungseigentümer: Mängelrechte gegen den Bauträger und Abnahme des Gemeinschaftseigentums",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-mangelrechte-gegen-den-bautrager-und-abnahme-des-gemeinschaftseigentums",
-  "typ": "mc",
-  "schwierigkeit": 3,
-  "normen": [
-   "§ 640 BGB"
-  ],
-  "frage": "Wie sollte die Abnahme des Gemeinschaftseigentums in Gemeinschaftsordnung und Bauträgervertrag geregelt werden?",
-  "optionen": [
-   "Die Abnahme wird durch Beschluss der Eigentümerversammlung mit Wirkung für alle Erwerber erklärt.",
-   "Die Gemeinschaftsordnung überträgt die Abnahme dem ersten Verwalter.",
-   "Auf eine Vergemeinschaftung verzichten; rechtliche Abnahme durch jeden Erwerber nach gemeinsamer technischer Abnahme",
-   "Die Abnahme erfolgt durch einen vom Bauträger bestimmten Sachverständigen mit Wirkung für alle Erwerber."
-  ],
-  "antwort": 2,
-  "erklaerung": "Die Wohnungseigentümer können die Abnahme des Gemeinschaftseigentums (§ 640 BGB) weder durch die Gemeinschaftsordnung noch durch Beschluss an sich ziehen. Daher sollte auf eine Vergemeinschaftung verzichtet werden. Empfehlenswert ist eine rechtliche Abnahme durch jeden Erwerber, der eine gemeinsame technische Abnahme vorausgeht; ein Mehrheitsbeschluss zur Abnahme wäre der typische Fehler."
- },
- {
-  "id": "wohn3-028",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Gemeinschaft der Wohnungseigentümer: Mängelrechte gegen den Bauträger und Abnahme des Gemeinschaftseigentums",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-mangelrechte-gegen-den-bautrager-und-abnahme-des-gemeinschaftseigentums",
-  "typ": "mc",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 9a Abs. 2 WEG"
-  ],
-  "frage": "Warum besteht für die Minderung wegen Mängeln am Gemeinschaftseigentum eine geborene Ausübungsbefugnis der GdWE?",
-  "optionen": [
-   "Weil die Minderung nur das Vertragsverhältnis des einzelnen Erwerbers betrifft",
-   "Weil verhindert werden soll, dass einzelne Erwerber mindern, während andere weiter Nacherfüllung verlangen",
-   "Weil die GdWE Vertragspartnerin des Bauträgervertrags ist",
-   "Weil die Minderung stets die Abnahme durch die GdWE voraussetzt"
-  ],
-  "antwort": 1,
-  "erklaerung": "Für Minderung und kleinen Schadensersatz besteht eine geborene Ausübungsbefugnis der GdWE nach § 9a Abs. 2 Alt. 2 WEG, um widersprüchliches Vorgehen zu verhindern: Einzelne sollen nicht mindern, während andere weiter Nacherfüllung verlangen. Die Voraussetzungen der Minderung kann nur die GdWE schaffen. Die Begründung, es gehe nur um das eigene Vertragsverhältnis, trägt dagegen beim Rücktritt und großen Schadensersatz."
- },
- {
-  "id": "wohn3-029",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Gemeinschaft der Wohnungseigentümer: Rechtsfähigkeit, Gemeinschaftsvermögen und Haftung",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-rechtsfahigkeit-gemeinschaftsvermogen-und-haftung",
-  "typ": "mc",
-  "schwierigkeit": 1,
-  "normen": [
-   "§ 9a Abs. 4 S. 1 WEG",
-   "§ 16 Abs. 1 S. 2 WEG"
-  ],
-  "frage": "Wie haftet ein Wohnungseigentümer einem Gläubiger der GdWE für deren Verbindlichkeiten?",
-  "optionen": [
-   "Gesamtschuldnerisch in voller Höhe",
-   "Gar nicht, da nur der Verband haftet",
-   "Nach dem Verhältnis seines Miteigentumsanteils für während seiner Zugehörigkeit entstandene oder fällig gewordene Verbindlichkeiten",
-   "Nach Köpfen zu gleichen Teilen für alle Verbindlichkeiten des Verbands"
-  ],
-  "antwort": 2,
-  "erklaerung": "Nach § 9a Abs. 4 S. 1 WEG haftet jeder Wohnungseigentümer nach dem Verhältnis seines Miteigentumsanteils (§ 16 Abs. 1 S. 2 WEG) für Verbindlichkeiten, die während seiner Zugehörigkeit entstanden oder fällig geworden sind. Eine gesamtschuldnerische Vollhaftung besteht nur, wenn ein Gesetz sie anordnet, etwa im kommunalen Abgabenrecht."
- },
- {
-  "id": "wohn3-030",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Gemeinschaft der Wohnungseigentümer: Rechtsfähigkeit, Gemeinschaftsvermögen und Haftung",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-rechtsfahigkeit-gemeinschaftsvermogen-und-haftung",
-  "typ": "rf",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 875 BGB"
-  ],
-  "frage": "Ein Mehrheitsbeschluss der Wohnungseigentümer, eine Grunddienstbarkeit zugunsten des Wohnungseigentumsgrundstücks aufzugeben, ist mangels Beschlusskompetenz nichtig.",
-  "antwort": true,
-  "erklaerung": "Die GdWE hat keine Kompetenz im sachenrechtlichen Grundverhältnis; die Beschlusskompetenz erfasst nur die Verwaltung des Gemeinschaftseigentums und das Gemeinschaftsvermögen. Ein Beschluss über Bestellung oder Aufgabe (§ 875 BGB) einer Grunddienstbarkeit zugunsten des Grundstücks ist daher nichtig. Auch eine Vertretung der Eigentümer durch den Verwalter scheidet hier aus; es müssen alle Wohnungseigentümer handeln."
- },
- {
-  "id": "wohn3-031",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Gemeinschaft der Wohnungseigentümer: Rechtsfähigkeit, Gemeinschaftsvermögen und Haftung",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-rechtsfahigkeit-gemeinschaftsvermogen-und-haftung",
-  "typ": "mc",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 9a Abs. 3 WEG"
-  ],
-  "frage": "Wohnungseigentümer W veräußert seine Einheit. Was gilt für das Gemeinschaftsvermögen, etwa das Heizöl im Tank der Anlage?",
-  "optionen": [
-   "W muss seinen Anteil am Gemeinschaftsvermögen gesondert an den Erwerber übertragen.",
-   "Ein Anteil am Gemeinschaftsvermögen geht kraft Gesetzes als Zubehör über.",
-   "W hat keinen Anteil am Gemeinschaftsvermögen, den er übertragen könnte; es gehört allein dem Verband.",
-   "W kann Auszahlung seines Anteils von der GdWE verlangen."
-  ],
-  "antwort": 2,
-  "erklaerung": "Das Gemeinschaftsvermögen (§ 9a Abs. 3 WEG), zu dem etwa Heizöl, Geräte und Ansprüche auf Hausgeld gehören, steht allein dem Verband zu. Der einzelne Eigentümer hat daran keine Eigentümerrechte, sondern ist nur Mitglied, solange ihm eine Einheit gehört. Deshalb gibt es keinen übertragbaren Anteil; anders liegt es beim Gemeinschaftseigentum, das weiterhin den Miteigentümern zusteht."
- },
- {
-  "id": "wohn3-032",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Gemeinschaft der Wohnungseigentümer: Rechtsfähigkeit, Gemeinschaftsvermögen und Haftung",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-rechtsfahigkeit-gemeinschaftsvermogen-und-haftung",
-  "typ": "mc",
-  "schwierigkeit": 3,
-  "normen": [
-   "§ 9a Abs. 4 WEG"
-  ],
-  "frage": "Die Gemeinde setzt aufgrund ihrer Abgabensatzung Grundbesitzabgaben für die Anlage fest und ordnet eine gesamtschuldnerische Haftung der Wohnungseigentümer an. Was gilt?",
-  "optionen": [
-   "Die Eigentümer haften nur anteilig nach § 9a Abs. 4 WEG; die Gesamtschuld ist verdrängt.",
-   "Die gesamtschuldnerische Haftung nach kommunalem Abgabenrecht bleibt neben § 9a Abs. 4 WEG bestehen.",
-   "Es haftet ausschließlich die GdWE mit dem Gemeinschaftsvermögen.",
-   "Es haftet nur der Verwalter persönlich."
-  ],
-  "antwort": 1,
-  "erklaerung": "Die Begrenzung auf den Miteigentumsanteil gilt nicht, wenn ein Gesetz eine Gesamtschuld anordnet; eine gesamtschuldnerische Haftung nach kommunalem Abgabenrecht bleibt neben § 9a Abs. 4 WEG bestehen. Die Haftungsbegrenzung hilft nur, wenn der Anspruch aus einem privatrechtlich ausgestalteten Nutzungsverhältnis folgt, nicht aus einer Satzung."
- },
- {
-  "id": "wohn3-033",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Gemeinschaftsordnung für besondere Anlagen: betreutes Wohnen und Reihenhäuser",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaftsordnung-fur-besondere-anlagen-betreutes-wohnen-und-reihenhauser",
-  "typ": "mc",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 309 Nr. 9 Buchst. a) BGB"
-  ],
-  "frage": "Die Gemeinschaftsordnung einer Anlage für betreutes Wohnen verpflichtet jeden Eigentümer, mit der B-GmbH einen Betreuungsvertrag mit fünfjähriger Laufzeit zu schließen. Wie ist die Klausel zu beurteilen?",
-  "optionen": [
-   "Wirksam, da die Vereinbarung von allen Eigentümern getragen wird",
-   "Unwirksam, da eine Bindung an einen Betreuungsvertrag für mehr als zwei Jahre gegen § 309 Nr. 9 Buchst. a) BGB verstößt",
-   "Wirksam, sofern die Pflicht im Grundbuch eingetragen ist",
-   "Unwirksam, da jede Nutzungsbeschränkung auf einen Personenkreis unzulässig ist"
-  ],
-  "antwort": 1,
-  "erklaerung": "Eine Pflicht in der Gemeinschaftsordnung, mit einem bestimmten Unternehmen einen Betreuungsvertrag für mehr als zwei Jahre abzuschließen, ist nach § 309 Nr. 9 Buchst. a) BGB unwirksam. Die Beschränkung der Nutzung auf einen bestimmten Personenkreis ist dagegen zulässig. In der Praxis sollte die Bindung an Betreuungsunternehmen daher nicht über zwei Jahre hinaus in die Gemeinschaftsordnung aufgenommen werden."
- },
- {
-  "id": "wohn3-034",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Gemeinschaftsordnung für besondere Anlagen: betreutes Wohnen und Reihenhäuser",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaftsordnung-fur-besondere-anlagen-betreutes-wohnen-und-reihenhauser",
-  "typ": "rf",
-  "schwierigkeit": 2,
-  "normen": [],
-  "frage": "In einer Studentenwohnanlage kann für Eigentümer, die nicht zum vorgesehenen Nutzerkreis gehören, als Gebrauchsregelung eine Pflicht zur Vermietung begründet werden, auch an einen gewerblichen Zwischenmieter.",
-  "antwort": true,
-  "erklaerung": "Eine Vereinbarung, nach der Sonder- und Gemeinschaftseigentum nur von einem bestimmten Personenkreis genutzt werden darf, ist zulässig. Für Eigentümer außerhalb dieses Kreises kann als Gebrauchsregelung eine Vermietungspflicht begründet werden, auch an einen gewerblichen Zwischenmieter. Alternativ kommt bei Ferienwohnungen ein Ferienbetriebsrecht als beschränkte persönliche Dienstbarkeit in Betracht."
- },
- {
-  "id": "wohn3-035",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Gemeinschaftsordnung für besondere Anlagen: betreutes Wohnen und Reihenhäuser",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaftsordnung-fur-besondere-anlagen-betreutes-wohnen-und-reihenhauser",
-  "typ": "mc",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 5 Abs. 2 WEG"
-  ],
-  "frage": "Bei einer nach dem WEG geteilten Reihenhausanlage soll jeder Eigentümer so gestellt werden, als sei real geteilt. Warum ist dafür ein umfassendes Sondernutzungsrecht am eigenen Haus erforderlich?",
-  "optionen": [
-   "Weil an einem selbständigen Gebäude kein Wohnungseigentum gebildet werden kann",
-   "Weil die konstruktiven Teile des Hauses nach § 5 Abs. 2 WEG zwingend Gemeinschaftseigentum bleiben",
-   "Weil Sondereigentum an Reihenhäusern stets der Zustimmung der Baubehörde bedarf",
-   "Weil die Grundstücksfläche Sondereigentum ist und eines Sondernutzungsrechts nicht bedarf"
-  ],
-  "antwort": 1,
-  "erklaerung": "An jedem von mehreren selbständigen Gebäuden auf demselben Grundstück kann Wohnungseigentum gebildet werden; die konstruktiven Teile bleiben aber nach § 5 Abs. 2 WEG Gemeinschaftseigentum. Deshalb erhält jeder Eigentümer ein umfassendes Sondernutzungsrecht am zwingenden Gemeinschaftseigentum seines Hauses und an der zugehörigen Fläche mit alleiniger Entscheidungsbefugnis und Kostentragung. Die Sondernutzungsflächen sind in einem Plan bestimmt zu bezeichnen."
- },
- {
-  "id": "wohn3-036",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Hausgeld: Beitragspflicht, Fälligkeit, Schuldner und Erwerberhaftung",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/hausgeld-beitragspflicht-falligkeit-schuldner-und-erwerberhaftung",
-  "typ": "fall",
-  "frage": "Hausgeldrückstände beim Eigentümerwechsel",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 7 Abs. 3 S. 2 WEG",
-   "§ 56 S. 2 ZVG"
-  ],
-  "sachverhalt": "V verkauft seine Eigentumswohnung an K. V schuldet der GdWE Hausgeld für die letzten acht Monate. Die Gemeinschaftsordnung enthält keine Regelung zur Haftung von Erwerbern. Die Eigentumsumschreibung auf K erfolgt am 1. Juli. Die Verwalterin verlangt von K Zahlung der Rückstände des V.",
-  "schritte": [
-   {
-    "frage": "Haftet K für die Hausgeldrückstände des V?",
-    "optionen": [
-     "Ja, als Rechtsnachfolger im Wohnungseigentum haftet er für alle Rückstände.",
-     "Ja, aber nur für die Rückstände des laufenden Wirtschaftsjahres.",
-     "Nein, der Erwerber haftet nicht für Rückstände des Veräußerers.",
-     "Nein, es haftet nur die GdWE gegenüber ihren Gläubigern."
+    "erklaerung": "Die Vertretungsmacht des Verwalters ist grundsätzlich unbeschränkt; nur für den Abschluss eines Grundstückskauf- oder Darlehensvertrags braucht er einen Beschluss (§ 9b Abs. 1 S. 1 WEG). Diese Bindung betrifft nur den schuldrechtlichen Vertrag, nicht die Auflassung. Deshalb ist die Option zur Auflassung der naheliegende, aber falsche Distraktor."
+  },
+  {
+    "id": "wohn3-022",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Gemeinschaft der Wohnungseigentümer: Erwerb von Grundbesitz, Entstehung und Ende",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-erwerb-von-grundbesitz-entstehung-und-ende",
+    "typ": "rf",
+    "schwierigkeit": 1,
+    "normen": [
+      "§ 9a Abs. 1 S. 2 WEG"
     ],
-    "antwort": 2,
-    "erklaerung": "Nach der Fälligkeitstheorie haftet der Erwerber erst ab Eigentumsumschreibung und nur für danach fällig werdende Beiträge, nicht für Rückstände des Veräußerers. Eine Haftung kraft Rechtsnachfolge besteht ohne Regelung in der Gemeinschaftsordnung nicht."
-   },
-   {
-    "frage": "Im August wird ein Hausgeldvorschuss fällig, der Kosten aus dem Frühjahr betrifft. Wer schuldet ihn?",
+    "frage": "Die Gemeinschaft der Wohnungseigentümer entsteht mit Anlegung der Wohnungsgrundbücher.",
+    "antwort": true,
+    "erklaerung": "Nach § 9a Abs. 1 S. 2 WEG entsteht die GdWE mit Anlegung der Wohnungsgrundbücher. Erst danach kann sie selbst Verträge schließen; vorher kann der Eigentümer etwa selbst kontrahieren und eine aufschiebend bedingte Vertragsübernahme vorsehen. Sie endet mit dem Erlöschen des Sondereigentums und der Schließung der Wohnungsgrundbücher."
+  },
+  {
+    "id": "wohn3-023",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Gemeinschaft der Wohnungseigentümer: Erwerb von Grundbesitz, Entstehung und Ende",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-erwerb-von-grundbesitz-entstehung-und-ende",
+    "typ": "mc",
+    "schwierigkeit": 3,
+    "normen": [
+      "§ 1092 Abs. 2 BGB"
+    ],
+    "frage": "Zugunsten der Wohnungseigentumsanlage soll ein Wegerecht über das Nachbargrundstück bestellt werden. Welche Gestaltung ist vorzugswürdig?",
     "optionen": [
-     "V, weil die Kosten in seine Eigentumszeit fallen",
-     "K, weil er grundsätzlich für nach der Umschreibung fällig werdende Beiträge haftet, auch wenn sie Kosten aus der Zeit davor betreffen",
-     "V und K als Gesamtschuldner",
-     "Niemand, bis eine Jahresabrechnung beschlossen ist"
+      "Beschränkte persönliche Dienstbarkeit zugunsten der GdWE",
+      "Grunddienstbarkeit zugunsten des jeweiligen Eigentümers des Wohnungseigentumsgrundstücks",
+      "Beschränkte persönliche Dienstbarkeit zugunsten des Verwalters",
+      "Schuldrechtliche Gestattung zwischen Nachbar und Verwalter"
     ],
     "antwort": 1,
-    "erklaerung": "Maßgeblich ist die Fälligkeit, nicht der Zeitraum der Kostenentstehung: Der Erwerber haftet grundsätzlich für alle nach der Umschreibung fällig werdenden Beiträge, auch wenn sie Kosten aus der Zeit davor betreffen."
-   },
-   {
-    "frage": "Was sollte der Notar in künftigen Gemeinschaftsordnungen vorsehen, damit Erwerber für Rückstände des Vorgängers einstehen?",
+    "erklaerung": "Für Rechte, die der Anlage dienen sollen, empfiehlt sich eine Grunddienstbarkeit zugunsten des jeweiligen Eigentümers des Wohnungseigentumsgrundstücks. Eine beschränkte persönliche Dienstbarkeit für die GdWE erlischt ohne Anwachsung mit deren Ende; ein Übergang nach §§ 1092 Abs. 2, 1059 Abs. 1 Nr. 1 BGB analog kommt nur bei Anwachsung in Betracht, die ungeklärt ist."
+  },
+  {
+    "id": "wohn3-024",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Gemeinschaft der Wohnungseigentümer: Erwerb von Grundbesitz, Entstehung und Ende",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-erwerb-von-grundbesitz-entstehung-und-ende",
+    "typ": "fall",
+    "frage": "Erwerb eines Nachbargrundstücks durch die GdWE",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 9b Abs. 1 S. 1 WEG",
+      "§ 26 Abs. 4 WEG"
+    ],
+    "sachverhalt": "Die Wohnungseigentümer der Anlage Lindenweg 5 möchten das angrenzende Grundstück des N als Parkfläche erwerben. In der Versammlung stimmt die Mehrheit für den Erwerb, einige Eigentümer halten den Kaufpreis für überhöht. Verwalterin ist die V-GmbH. Sie erscheint beim Notar, um den Kaufvertrag für die GdWE zu schließen.",
+    "schritte": [
+      {
+        "frage": "Kann die GdWE das Nachbargrundstück erwerben, und wie wird darüber entschieden?",
+        "optionen": [
+          "Nein, die GdWE kann kein Grundeigentum außerhalb der Anlage erwerben.",
+          "Ja, aber nur durch einstimmige Vereinbarung aller Eigentümer.",
+          "Ja, der Erwerb ist eine Maßnahme der Verwaltung und kann mit Stimmenmehrheit beschlossen werden.",
+          "Ja, der Verwalter entscheidet darüber allein ohne Beschluss."
+        ],
+        "antwort": 2,
+        "erklaerung": "Die GdWE kann Eigentum an einem anderen Grundstück erwerben. Der Erwerb ist eine Maßnahme der Verwaltung, die die Eigentümer mit Stimmenmehrheit beschließen können; Einstimmigkeit ist nicht erforderlich."
+      },
+      {
+        "frage": "Unterstellt, der Beschluss widerspricht wegen des Kaufpreises ordnungsmäßiger Verwaltung. Welche Folge hat das?",
+        "optionen": [
+          "Der Beschluss ist nichtig.",
+          "Der Beschluss ist nur anfechtbar und bis dahin wirksam.",
+          "Der Beschluss ist schwebend unwirksam bis zur gerichtlichen Bestätigung.",
+          "Der Beschluss gilt als Vereinbarung und bindet alle."
+        ],
+        "antwort": 1,
+        "erklaerung": "Widerspricht der Erwerbsbeschluss ordnungsmäßiger Verwaltung, ist er nur anfechtbar und bis zur Ungültigerklärung wirksam. Nichtigkeit tritt nicht ein."
+      },
+      {
+        "frage": "Was muss der Notar hinsichtlich der Vertretungsmacht der V-GmbH beachten?",
+        "optionen": [
+          "Nichts, weil die Vertretungsmacht des Verwalters stets unbeschränkt ist.",
+          "Er muss die Vertretungsmacht prüfen; für den Kaufvertrag ist ein Erwerbsbeschluss erforderlich, dessen Nachweisform er nach Ermessen bestimmt.",
+          "Er darf nur beurkunden, wenn das Grundbuchamt den Beschluss vorab genehmigt hat.",
+          "Er benötigt die notariell beurkundete Zustimmung aller Eigentümer."
+        ],
+        "antwort": 1,
+        "erklaerung": "Für den Grundstückskaufvertrag braucht der Verwalter einen Beschluss (§ 9b Abs. 1 S. 1 WEG). Das Grundbuchamt prüft die Wirksamkeit des Kaufvertrags nicht und darf sie nicht prüfen; der Notar muss die Vertretungsmacht dennoch prüfen. Nach seinem Ermessen genügt ein privatschriftliches Protokoll oder er verlangt eines mit beglaubigten Unterschriften entsprechend §§ 24 Abs. 6, 26 Abs. 4 WEG."
+      },
+      {
+        "frage": "Wie weist die V-GmbH ihre Verwalterstellung gegenüber dem Grundbuchamt nach?",
+        "optionen": [
+          "Durch Vorlage des Verwaltervertrags in Textform",
+          "Durch eine Eigenerklärung des Geschäftsführers",
+          "Durch ein Bestellungsprotokoll mit beglaubigten Unterschriften (§ 26 Abs. 4 WEG analog)",
+          "Durch einen Handelsregisterauszug der V-GmbH"
+        ],
+        "antwort": 2,
+        "erklaerung": "Die Verwalterstellung wird für das Grundbuch durch ein Bestellungsprotokoll mit beglaubigten Unterschriften nachgewiesen (§ 26 Abs. 4 WEG analog). Der Handelsregisterauszug belegt nur die Vertretung der GmbH, nicht ihre Bestellung zur Verwalterin."
+      }
+    ],
+    "erklaerung": "Die GdWE kann das Grundstück durch Mehrheitsbeschluss erwerben; ein Verstoß gegen ordnungsmäßige Verwaltung macht den Beschluss nur anfechtbar. Der Verwalter benötigt für den Kaufvertrag einen Beschluss (§ 9b Abs. 1 S. 1 WEG), den der Notar prüft, und weist seine Bestellung dem Grundbuchamt nach § 26 Abs. 4 WEG analog nach."
+  },
+  {
+    "id": "wohn3-025",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Gemeinschaft der Wohnungseigentümer: Mängelrechte gegen den Bauträger und Abnahme des Gemeinschaftseigentums",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-mangelrechte-gegen-den-bautrager-und-abnahme-des-gemeinschaftseigentums",
+    "typ": "zuordnung",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 9a Abs. 2 WEG",
+      "§ 634 BGB"
+    ],
+    "frage": "Ordne die Mängelrechte am Gemeinschaftseigentum gegen den Bauträger der Zuständigkeit für ihre Ausübung zu.",
+    "paare": [
+      [
+        "Nacherfüllung und Kostenvorschuss",
+        "Jeder Erwerber selbst; GdWE kann sie durch Beschluss an sich ziehen"
+      ],
+      [
+        "Minderung und kleiner Schadensersatz",
+        "Geborene Ausübungsbefugnis der GdWE nach § 9a Abs. 2 Alt. 2 WEG"
+      ],
+      [
+        "Rücktritt und großer Schadensersatz",
+        "Stets der einzelne Erwerber"
+      ],
+      [
+        "Abnahme des Gemeinschaftseigentums",
+        "Nicht vergemeinschaftbar, weder durch Gemeinschaftsordnung noch durch Beschluss"
+      ]
+    ],
+    "erklaerung": "Primäre Mängelrechte kann jeder Erwerber ausüben, die GdWE kann sie aber durch Beschluss an sich ziehen. Für Minderung und kleinen Schadensersatz besteht eine geborene Ausübungsbefugnis der GdWE (§ 9a Abs. 2 Alt. 2 WEG), damit nicht einzelne mindern, während andere Nacherfüllung verlangen. Rücktritt und großer Schadensersatz betreffen nur das eigene Vertragsverhältnis; die Abnahme (§ 640 BGB) kann nicht vergemeinschaftet werden."
+  },
+  {
+    "id": "wohn3-026",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Gemeinschaft der Wohnungseigentümer: Mängelrechte gegen den Bauträger und Abnahme des Gemeinschaftseigentums",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-mangelrechte-gegen-den-bautrager-und-abnahme-des-gemeinschaftseigentums",
+    "typ": "rf",
+    "schwierigkeit": 3,
+    "normen": [],
+    "frage": "Nach der Rechtsprechung des BGH ist einem Erwerber nach der Vergemeinschaftung der Nacherfüllungsansprüche durch die GdWE jedes eigene Vorgehen gegen den Bauträger verwehrt.",
+    "antwort": false,
+    "erklaerung": "Nach dem BGH bleibt ein eigenes Vorgehen des Erwerbers auch nach der Vergemeinschaftung möglich; ausgeschlossen ist nur ein Vorgehen im Widerspruch zur GdWE bei Interessenkollision. Verhandelt die GdWE ohne weitere Beschlüsse mit dem Bauträger, darf der Erwerber eine Nacherfüllungsfrist setzen. Die generelle Verdrängung des Einzelvorgehens ist nur eine Gegenansicht in der Literatur."
+  },
+  {
+    "id": "wohn3-027",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Gemeinschaft der Wohnungseigentümer: Mängelrechte gegen den Bauträger und Abnahme des Gemeinschaftseigentums",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-mangelrechte-gegen-den-bautrager-und-abnahme-des-gemeinschaftseigentums",
+    "typ": "mc",
+    "schwierigkeit": 3,
+    "normen": [
+      "§ 640 BGB"
+    ],
+    "frage": "Wie sollte die Abnahme des Gemeinschaftseigentums in Gemeinschaftsordnung und Bauträgervertrag geregelt werden?",
     "optionen": [
-     "Eine Erwerberhaftung für den rechtsgeschäftlichen Erwerb, die im Eintragungsvermerk ausdrücklich eingetragen wird",
-     "Eine Erwerberhaftung auch für den Erwerb in der Zwangsversteigerung",
-     "Einen Mehrheitsbeschluss der ersten Eigentümerversammlung zur Erwerberhaftung",
-     "Eine Bürgschaft des Verwalters für alle Rückstände"
+      "Die Abnahme wird durch Beschluss der Eigentümerversammlung mit Wirkung für alle Erwerber erklärt.",
+      "Die Gemeinschaftsordnung überträgt die Abnahme dem ersten Verwalter.",
+      "Auf eine Vergemeinschaftung verzichten; rechtliche Abnahme durch jeden Erwerber nach gemeinsamer technischer Abnahme",
+      "Die Abnahme erfolgt durch einen vom Bauträger bestimmten Sachverständigen mit Wirkung für alle Erwerber."
+    ],
+    "antwort": 2,
+    "erklaerung": "Die Wohnungseigentümer können die Abnahme des Gemeinschaftseigentums (§ 640 BGB) weder durch die Gemeinschaftsordnung noch durch Beschluss an sich ziehen. Daher sollte auf eine Vergemeinschaftung verzichtet werden. Empfehlenswert ist eine rechtliche Abnahme durch jeden Erwerber, der eine gemeinsame technische Abnahme vorausgeht; ein Mehrheitsbeschluss zur Abnahme wäre der typische Fehler."
+  },
+  {
+    "id": "wohn3-028",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Gemeinschaft der Wohnungseigentümer: Mängelrechte gegen den Bauträger und Abnahme des Gemeinschaftseigentums",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-mangelrechte-gegen-den-bautrager-und-abnahme-des-gemeinschaftseigentums",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 9a Abs. 2 WEG"
+    ],
+    "frage": "Warum besteht für die Minderung wegen Mängeln am Gemeinschaftseigentum eine geborene Ausübungsbefugnis der GdWE?",
+    "optionen": [
+      "Weil die Minderung nur das Vertragsverhältnis des einzelnen Erwerbers betrifft",
+      "Weil verhindert werden soll, dass einzelne Erwerber mindern, während andere weiter Nacherfüllung verlangen",
+      "Weil die GdWE Vertragspartnerin des Bauträgervertrags ist",
+      "Weil die Minderung stets die Abnahme durch die GdWE voraussetzt"
+    ],
+    "antwort": 1,
+    "erklaerung": "Für Minderung und kleinen Schadensersatz besteht eine geborene Ausübungsbefugnis der GdWE nach § 9a Abs. 2 Alt. 2 WEG, um widersprüchliches Vorgehen zu verhindern: Einzelne sollen nicht mindern, während andere weiter Nacherfüllung verlangen. Die Voraussetzungen der Minderung kann nur die GdWE schaffen. Die Begründung, es gehe nur um das eigene Vertragsverhältnis, trägt dagegen beim Rücktritt und großen Schadensersatz."
+  },
+  {
+    "id": "wohn3-029",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Gemeinschaft der Wohnungseigentümer: Rechtsfähigkeit, Gemeinschaftsvermögen und Haftung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-rechtsfahigkeit-gemeinschaftsvermogen-und-haftung",
+    "typ": "mc",
+    "schwierigkeit": 1,
+    "normen": [
+      "§ 9a Abs. 4 S. 1 WEG",
+      "§ 16 Abs. 1 S. 2 WEG"
+    ],
+    "frage": "Wie haftet ein Wohnungseigentümer einem Gläubiger der GdWE für deren Verbindlichkeiten?",
+    "optionen": [
+      "Gesamtschuldnerisch in voller Höhe",
+      "Gar nicht, da nur der Verband haftet",
+      "Nach dem Verhältnis seines Miteigentumsanteils für während seiner Zugehörigkeit entstandene oder fällig gewordene Verbindlichkeiten",
+      "Nach Köpfen zu gleichen Teilen für alle Verbindlichkeiten des Verbands"
+    ],
+    "antwort": 2,
+    "erklaerung": "Nach § 9a Abs. 4 S. 1 WEG haftet jeder Wohnungseigentümer nach dem Verhältnis seines Miteigentumsanteils (§ 16 Abs. 1 S. 2 WEG) für Verbindlichkeiten, die während seiner Zugehörigkeit entstanden oder fällig geworden sind. Eine gesamtschuldnerische Vollhaftung besteht nur, wenn ein Gesetz sie anordnet, etwa im kommunalen Abgabenrecht."
+  },
+  {
+    "id": "wohn3-030",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Gemeinschaft der Wohnungseigentümer: Rechtsfähigkeit, Gemeinschaftsvermögen und Haftung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-rechtsfahigkeit-gemeinschaftsvermogen-und-haftung",
+    "typ": "rf",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 875 BGB"
+    ],
+    "frage": "Ein Mehrheitsbeschluss der Wohnungseigentümer, eine Grunddienstbarkeit zugunsten des Wohnungseigentumsgrundstücks aufzugeben, ist mangels Beschlusskompetenz nichtig.",
+    "antwort": true,
+    "erklaerung": "Die GdWE hat keine Kompetenz im sachenrechtlichen Grundverhältnis; die Beschlusskompetenz erfasst nur die Verwaltung des Gemeinschaftseigentums und das Gemeinschaftsvermögen. Ein Beschluss über Bestellung oder Aufgabe (§ 875 BGB) einer Grunddienstbarkeit zugunsten des Grundstücks ist daher nichtig. Auch eine Vertretung der Eigentümer durch den Verwalter scheidet hier aus; es müssen alle Wohnungseigentümer handeln."
+  },
+  {
+    "id": "wohn3-031",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Gemeinschaft der Wohnungseigentümer: Rechtsfähigkeit, Gemeinschaftsvermögen und Haftung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-rechtsfahigkeit-gemeinschaftsvermogen-und-haftung",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 9a Abs. 3 WEG"
+    ],
+    "frage": "Wohnungseigentümer W veräußert seine Einheit. Was gilt für das Gemeinschaftsvermögen, etwa das Heizöl im Tank der Anlage?",
+    "optionen": [
+      "W muss seinen Anteil am Gemeinschaftsvermögen gesondert an den Erwerber übertragen.",
+      "Ein Anteil am Gemeinschaftsvermögen geht kraft Gesetzes als Zubehör über.",
+      "W hat keinen Anteil am Gemeinschaftsvermögen, den er übertragen könnte; es gehört allein dem Verband.",
+      "W kann Auszahlung seines Anteils von der GdWE verlangen."
+    ],
+    "antwort": 2,
+    "erklaerung": "Das Gemeinschaftsvermögen (§ 9a Abs. 3 WEG), zu dem etwa Heizöl, Geräte und Ansprüche auf Hausgeld gehören, steht allein dem Verband zu. Der einzelne Eigentümer hat daran keine Eigentümerrechte, sondern ist nur Mitglied, solange ihm eine Einheit gehört. Deshalb gibt es keinen übertragbaren Anteil; anders liegt es beim Gemeinschaftseigentum, das weiterhin den Miteigentümern zusteht."
+  },
+  {
+    "id": "wohn3-032",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Gemeinschaft der Wohnungseigentümer: Rechtsfähigkeit, Gemeinschaftsvermögen und Haftung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaft-der-wohnungseigentumer-rechtsfahigkeit-gemeinschaftsvermogen-und-haftung",
+    "typ": "mc",
+    "schwierigkeit": 3,
+    "normen": [
+      "§ 9a Abs. 4 WEG"
+    ],
+    "frage": "Die Gemeinde setzt aufgrund ihrer Abgabensatzung Grundbesitzabgaben für die Anlage fest und ordnet eine gesamtschuldnerische Haftung der Wohnungseigentümer an. Was gilt?",
+    "optionen": [
+      "Die Eigentümer haften nur anteilig nach § 9a Abs. 4 WEG; die Gesamtschuld ist verdrängt.",
+      "Die gesamtschuldnerische Haftung nach kommunalem Abgabenrecht bleibt neben § 9a Abs. 4 WEG bestehen.",
+      "Es haftet ausschließlich die GdWE mit dem Gemeinschaftsvermögen.",
+      "Es haftet nur der Verwalter persönlich."
+    ],
+    "antwort": 1,
+    "erklaerung": "Die Begrenzung auf den Miteigentumsanteil gilt nicht, wenn ein Gesetz eine Gesamtschuld anordnet; eine gesamtschuldnerische Haftung nach kommunalem Abgabenrecht bleibt neben § 9a Abs. 4 WEG bestehen. Die Haftungsbegrenzung hilft nur, wenn der Anspruch aus einem privatrechtlich ausgestalteten Nutzungsverhältnis folgt, nicht aus einer Satzung."
+  },
+  {
+    "id": "wohn3-033",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Gemeinschaftsordnung für besondere Anlagen: betreutes Wohnen und Reihenhäuser",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaftsordnung-fur-besondere-anlagen-betreutes-wohnen-und-reihenhauser",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 309 Nr. 9 Buchst. a) BGB"
+    ],
+    "frage": "Die Gemeinschaftsordnung einer Anlage für betreutes Wohnen verpflichtet jeden Eigentümer, mit der B-GmbH einen Betreuungsvertrag mit fünfjähriger Laufzeit zu schließen. Wie ist die Klausel zu beurteilen?",
+    "optionen": [
+      "Wirksam, da die Vereinbarung von allen Eigentümern getragen wird",
+      "Unwirksam, da eine Bindung an einen Betreuungsvertrag für mehr als zwei Jahre gegen § 309 Nr. 9 Buchst. a) BGB verstößt",
+      "Wirksam, sofern die Pflicht im Grundbuch eingetragen ist",
+      "Unwirksam, da jede Nutzungsbeschränkung auf einen Personenkreis unzulässig ist"
+    ],
+    "antwort": 1,
+    "erklaerung": "Eine Pflicht in der Gemeinschaftsordnung, mit einem bestimmten Unternehmen einen Betreuungsvertrag für mehr als zwei Jahre abzuschließen, ist nach § 309 Nr. 9 Buchst. a) BGB unwirksam. Die Beschränkung der Nutzung auf einen bestimmten Personenkreis ist dagegen zulässig. In der Praxis sollte die Bindung an Betreuungsunternehmen daher nicht über zwei Jahre hinaus in die Gemeinschaftsordnung aufgenommen werden."
+  },
+  {
+    "id": "wohn3-034",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Gemeinschaftsordnung für besondere Anlagen: betreutes Wohnen und Reihenhäuser",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaftsordnung-fur-besondere-anlagen-betreutes-wohnen-und-reihenhauser",
+    "typ": "rf",
+    "schwierigkeit": 2,
+    "normen": [],
+    "frage": "In einer Studentenwohnanlage kann für Eigentümer, die nicht zum vorgesehenen Nutzerkreis gehören, als Gebrauchsregelung eine Pflicht zur Vermietung begründet werden, auch an einen gewerblichen Zwischenmieter.",
+    "antwort": true,
+    "erklaerung": "Eine Vereinbarung, nach der Sonder- und Gemeinschaftseigentum nur von einem bestimmten Personenkreis genutzt werden darf, ist zulässig. Für Eigentümer außerhalb dieses Kreises kann als Gebrauchsregelung eine Vermietungspflicht begründet werden, auch an einen gewerblichen Zwischenmieter. Alternativ kommt bei Ferienwohnungen ein Ferienbetriebsrecht als beschränkte persönliche Dienstbarkeit in Betracht."
+  },
+  {
+    "id": "wohn3-035",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Gemeinschaftsordnung für besondere Anlagen: betreutes Wohnen und Reihenhäuser",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/gemeinschaftsordnung-fur-besondere-anlagen-betreutes-wohnen-und-reihenhauser",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 5 Abs. 2 WEG"
+    ],
+    "frage": "Bei einer nach dem WEG geteilten Reihenhausanlage soll jeder Eigentümer so gestellt werden, als sei real geteilt. Warum ist dafür ein umfassendes Sondernutzungsrecht am eigenen Haus erforderlich?",
+    "optionen": [
+      "Weil an einem selbständigen Gebäude kein Wohnungseigentum gebildet werden kann",
+      "Weil die konstruktiven Teile des Hauses nach § 5 Abs. 2 WEG zwingend Gemeinschaftseigentum bleiben",
+      "Weil Sondereigentum an Reihenhäusern stets der Zustimmung der Baubehörde bedarf",
+      "Weil die Grundstücksfläche Sondereigentum ist und eines Sondernutzungsrechts nicht bedarf"
+    ],
+    "antwort": 1,
+    "erklaerung": "An jedem von mehreren selbständigen Gebäuden auf demselben Grundstück kann Wohnungseigentum gebildet werden; die konstruktiven Teile bleiben aber nach § 5 Abs. 2 WEG Gemeinschaftseigentum. Deshalb erhält jeder Eigentümer ein umfassendes Sondernutzungsrecht am zwingenden Gemeinschaftseigentum seines Hauses und an der zugehörigen Fläche mit alleiniger Entscheidungsbefugnis und Kostentragung. Die Sondernutzungsflächen sind in einem Plan bestimmt zu bezeichnen."
+  },
+  {
+    "id": "wohn3-036",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Hausgeld: Beitragspflicht, Fälligkeit, Schuldner und Erwerberhaftung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/hausgeld-beitragspflicht-falligkeit-schuldner-und-erwerberhaftung",
+    "typ": "fall",
+    "frage": "Hausgeldrückstände beim Eigentümerwechsel",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 7 Abs. 3 S. 2 WEG",
+      "§ 56 S. 2 ZVG"
+    ],
+    "sachverhalt": "V verkauft seine Eigentumswohnung an K. V schuldet der GdWE Hausgeld für die letzten acht Monate. Die Gemeinschaftsordnung enthält keine Regelung zur Haftung von Erwerbern. Die Eigentumsumschreibung auf K erfolgt am 1. Juli. Die Verwalterin verlangt von K Zahlung der Rückstände des V.",
+    "schritte": [
+      {
+        "frage": "Haftet K für die Hausgeldrückstände des V?",
+        "optionen": [
+          "Ja, als Rechtsnachfolger im Wohnungseigentum haftet er für alle Rückstände.",
+          "Ja, aber nur für die Rückstände des laufenden Wirtschaftsjahres.",
+          "Nein, der Erwerber haftet nicht für Rückstände des Veräußerers.",
+          "Nein, es haftet nur die GdWE gegenüber ihren Gläubigern."
+        ],
+        "antwort": 2,
+        "erklaerung": "Nach der Fälligkeitstheorie haftet der Erwerber erst ab Eigentumsumschreibung und nur für danach fällig werdende Beiträge, nicht für Rückstände des Veräußerers. Eine Haftung kraft Rechtsnachfolge besteht ohne Regelung in der Gemeinschaftsordnung nicht."
+      },
+      {
+        "frage": "Im August wird ein Hausgeldvorschuss fällig, der Kosten aus dem Frühjahr betrifft. Wer schuldet ihn?",
+        "optionen": [
+          "V, weil die Kosten in seine Eigentumszeit fallen",
+          "K, weil er grundsätzlich für nach der Umschreibung fällig werdende Beiträge haftet, auch wenn sie Kosten aus der Zeit davor betreffen",
+          "V und K als Gesamtschuldner",
+          "Niemand, bis eine Jahresabrechnung beschlossen ist"
+        ],
+        "antwort": 1,
+        "erklaerung": "Maßgeblich ist die Fälligkeit, nicht der Zeitraum der Kostenentstehung: Der Erwerber haftet grundsätzlich für alle nach der Umschreibung fällig werdenden Beiträge, auch wenn sie Kosten aus der Zeit davor betreffen."
+      },
+      {
+        "frage": "Was sollte der Notar in künftigen Gemeinschaftsordnungen vorsehen, damit Erwerber für Rückstände des Vorgängers einstehen?",
+        "optionen": [
+          "Eine Erwerberhaftung für den rechtsgeschäftlichen Erwerb, die im Eintragungsvermerk ausdrücklich eingetragen wird",
+          "Eine Erwerberhaftung auch für den Erwerb in der Zwangsversteigerung",
+          "Einen Mehrheitsbeschluss der ersten Eigentümerversammlung zur Erwerberhaftung",
+          "Eine Bürgschaft des Verwalters für alle Rückstände"
+        ],
+        "antwort": 0,
+        "erklaerung": "Die Gemeinschaftsordnung kann für den rechtsgeschäftlichen Erwerb eine Haftung für Rückstände des Vorgängers vorsehen; sie muss im Eintragungsvermerk ausdrücklich eingetragen sein (§ 7 Abs. 3 S. 2 WEG). Für den Erwerb in der Zwangsversteigerung ist eine solche Regel unzulässig (§ 56 S. 2 ZVG). Sinnvoll ist ergänzend eine Pflicht des Verwalters zur Hausgeldschuldenfreiheitsbescheinigung."
+      }
+    ],
+    "erklaerung": "K haftet nach der Fälligkeitstheorie nur für ab der Umschreibung fällig werdende Beiträge, nicht für die Rückstände des V. Abhilfe schafft eine im Eintragungsvermerk eingetragene Erwerberhaftung der Gemeinschaftsordnung für den rechtsgeschäftlichen Erwerb (§ 7 Abs. 3 S. 2 WEG), die für Ersteher in der Zwangsversteigerung nicht vereinbart werden kann (§ 56 S. 2 ZVG)."
+  },
+  {
+    "id": "wohn3-037",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Hausgeld: Beitragspflicht, Fälligkeit, Schuldner und Erwerberhaftung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/hausgeld-beitragspflicht-falligkeit-schuldner-und-erwerberhaftung",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 10 Abs. 1 Nr. 2 ZVG",
+      "§ 74a Abs. 5 S. 1 ZVG"
+    ],
+    "frage": "In welchem Umfang genießen Hausgeldansprüche der GdWE in der Zwangsversteigerung das Vorrecht der Rangklasse 2?",
+    "optionen": [
+      "Unbegrenzt für alle Rückstände",
+      "Bis höchstens 5 % des Verkehrswerts und für Rückstände aus dem Jahr der Beschlagnahme und den zwei Jahren davor",
+      "Bis höchstens 10 % des Verkehrswerts und für Rückstände der letzten vier Jahre",
+      "Nur für Rückstände nach der Beschlagnahme"
+    ],
+    "antwort": 1,
+    "erklaerung": "Hausgeldansprüche werden in Rangklasse 2 befriedigt (§ 10 Abs. 1 Nr. 2 ZVG). Das Vorrecht gegenüber insbesondere Grundpfandgläubigern ist auf höchstens 5 % des Verkehrswerts (§ 74a Abs. 5 S. 1 ZVG) und auf Rückstände aus dem Jahr der Beschlagnahme und den zwei Jahren davor beschränkt. Ein unbegrenzter Vorrang besteht daher nicht."
+  },
+  {
+    "id": "wohn3-038",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Hausgeld: Beitragspflicht, Fälligkeit, Schuldner und Erwerberhaftung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/hausgeld-beitragspflicht-falligkeit-schuldner-und-erwerberhaftung",
+    "typ": "rf",
+    "schwierigkeit": 1,
+    "normen": [],
+    "frage": "Die Pflicht jedes Eigentümers, im Wechsel das Treppenhaus zu reinigen, kann durch Mehrheitsbeschluss im Rahmen ordnungsmäßiger Verwaltung begründet werden.",
+    "antwort": false,
+    "erklaerung": "Der Beitrag zu Kosten und Lasten besteht grundsätzlich in Geld. Persönliche Dienstleistungspflichten wie Räum- und Streupflicht oder Treppenhausreinigung können nicht durch Beschluss begründet werden, auch nicht im Rahmen ordnungsmäßiger Verwaltung. Möglich ist dies nur durch Vereinbarung."
+  },
+  {
+    "id": "wohn3-039",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Hausgeld: Beitragspflicht, Fälligkeit, Schuldner und Erwerberhaftung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/hausgeld-beitragspflicht-falligkeit-schuldner-und-erwerberhaftung",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 28 Abs. 1 S. 1 WEG",
+      "§ 271 Abs. 1 BGB"
+    ],
+    "frage": "Die Eigentümer beschließen den Wirtschaftsplan mit den Hausgeldvorschüssen, ohne eine Fälligkeit zu bestimmen. Wann ist das Hausgeld fällig?",
+    "optionen": [
+      "Erst nach Anforderung durch den Verwalter",
+      "Monatlich zum dritten Werktag kraft Gesetzes",
+      "Sofort nach § 271 Abs. 1 BGB",
+      "Erst mit Beschluss über die Jahresabrechnung"
+    ],
+    "antwort": 2,
+    "erklaerung": "Ohne Bestimmung im Beschluss ist das Hausgeld sofort fällig (§ 271 Abs. 1 BGB). Einer Anforderung durch den Verwalter bedarf es anders als früher nicht mehr. Die Eigentümer können die Fälligkeit aber beschließen, meist monatlich; vor dem Beschluss nach § 28 Abs. 1 S. 1 WEG besteht dagegen überhaupt keine vollwirksame Forderung."
+  },
+  {
+    "id": "wohn3-040",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Kosten und Lasten des gemeinschaftlichen Eigentums: Heizkostenverordnung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/kosten-und-lasten-des-gemeinschaftlichen-eigentums-heizkostenverordnung",
+    "typ": "mc",
+    "schwierigkeit": 1,
+    "normen": [
+      "§ 7 Abs. 1 S. 1 HeizkostenV"
+    ],
+    "frage": "Welcher Anteil der Heizkosten ist nach der HeizkostenV grundsätzlich nach erfasstem Verbrauch zu verteilen?",
+    "optionen": [
+      "Mindestens 30 % und höchstens 50 %",
+      "Mindestens 50 % und höchstens 70 %",
+      "Mindestens 70 % und höchstens 100 %",
+      "Genau 50 %"
+    ],
+    "antwort": 1,
+    "erklaerung": "Nach § 7 Abs. 1 S. 1 HeizkostenV sind, abgesehen von Ausnahmen, mindestens 50 % und höchstens 70 % der Heizkosten nach erfasstem Verbrauch zu verteilen, der Rest nach Wohn- oder Nutzfläche oder umbautem Raum. Die HeizkostenV hat Vorrang vor § 16 Abs. 2 WEG und geht abweichenden Vereinbarungen und Beschlüssen vor (§ 3 S. 1 HeizkostenV)."
+  },
+  {
+    "id": "wohn3-041",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Kosten und Lasten des gemeinschaftlichen Eigentums: Heizkostenverordnung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/kosten-und-lasten-des-gemeinschaftlichen-eigentums-heizkostenverordnung",
+    "typ": "rf",
+    "schwierigkeit": 3,
+    "normen": [
+      "§ 10 HeizkostenV"
+    ],
+    "frage": "Ein Verbrauchsanteil von 80 % bei den Heizkosten kann von den Wohnungseigentümern auch ohne Öffnungsklausel mit einfacher Mehrheit beschlossen werden.",
+    "antwort": false,
+    "erklaerung": "Einen höheren Verbrauchsanteil als 70 % kann nach § 10 HeizkostenV eine Vereinbarung bestimmen. Ein Beschluss ist hierfür nur aufgrund einer Öffnungsklausel möglich (a.A. Becker). Ohne Öffnungsklausel bleibt es beim Rahmen von 50 bis 70 % nach § 7 Abs. 1 S. 1 HeizkostenV."
+  },
+  {
+    "id": "wohn3-042",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Kosten und Lasten des gemeinschaftlichen Eigentums: Heizkostenverordnung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/kosten-und-lasten-des-gemeinschaftlichen-eigentums-heizkostenverordnung",
+    "typ": "mc",
+    "schwierigkeit": 3,
+    "normen": [
+      "§ 4 Nr. 4 WoFlV"
+    ],
+    "frage": "Welche Regelung zur Heizkostenverteilung ist für eine Gemeinschaftsordnung üblich und sachgerecht, wenn die Einheiten sehr unterschiedlich große Terrassen haben?",
+    "optionen": [
+      "100 % nach Verbrauch, ohne Flächenanteil",
+      "70 % nach Verbrauch, 30 % nach Wohnfläche unter Verweis auf die WoFlV, ohne Einrechnung von Balkonen und Terrassen",
+      "50 % nach Miteigentumsanteilen, 50 % nach Verbrauch",
+      "70 % nach Verbrauch, 30 % nach Wohnfläche einschließlich voller Terrassenflächen"
+    ],
+    "antwort": 1,
+    "erklaerung": "Üblich ist eine Umlage zu 70 % nach Verbrauch und 30 % nach Wohnfläche; für die Flächenberechnung kann auf die WoFlV verwiesen werden. Balkone, Loggien, Dachgärten und Terrassen (§ 4 Nr. 4 WoFlV) sollten bei größeren Unterschieden zwischen den Einheiten nicht eingerechnet werden, da sie nicht beheizt werden. Eine reine Verbrauchsabrechnung ohne Flächenanteil verlässt den Rahmen des § 7 Abs. 1 HeizkostenV ohne Vereinbarung."
+  },
+  {
+    "id": "wohn3-043",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Kosten und Lasten des gemeinschaftlichen Eigentums: Verteilung, Rücklage und Versicherung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/kosten-und-lasten-des-gemeinschaftlichen-eigentums-verteilung-rucklage-und-versicherung",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 134 Abs. 1 S. 4 BauGB",
+      "§ 16 Abs. 2 WEG"
+    ],
+    "frage": "Welche der folgenden Belastungen ist eine Last des Sondereigentums und keine nach § 16 Abs. 2 WEG zu verteilende Last des gemeinschaftlichen Eigentums?",
+    "optionen": [
+      "Zinsen aus einem Grundpfandrecht am ganzen Grundstück",
+      "Kosten der erstmaligen mangelfreien Herstellung des Gemeinschaftseigentums",
+      "Der Erschließungsbeitrag nach dem BauGB",
+      "Die Prämie für die Gebäudeversicherung des Gemeinschaftseigentums"
+    ],
+    "antwort": 2,
+    "erklaerung": "Erschließungsbeiträge nach dem BauGB treffen die einzelnen Eigentümer nach ihrem Anteil (§ 134 Abs. 1 S. 4 BauGB); ebenso wird die Grundsteuer für jedes Wohnungseigentum gesondert erhoben. Beides sind Lasten des Sondereigentums. Zinsen aus Grundpfandrechten am Grundstück sind dagegen privatrechtliche Lasten des gemeinschaftlichen Eigentums, und Herstellungskosten unterfallen dem Schlüssel nach Miteigentumsanteilen."
+  },
+  {
+    "id": "wohn3-044",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Kosten und Lasten des gemeinschaftlichen Eigentums: Verteilung, Rücklage und Versicherung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/kosten-und-lasten-des-gemeinschaftlichen-eigentums-verteilung-rucklage-und-versicherung",
+    "typ": "rf",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 16 Abs. 2 S. 2 WEG"
+    ],
+    "frage": "Die Beschlusskompetenz nach § 16 Abs. 2 S. 2 WEG umfasst auch Beschlüsse, die einzelne Eigentümer von bestimmten Kosten ganz befreien oder erstmals belasten.",
+    "antwort": true,
+    "erklaerung": "Für einzelne Kosten oder bestimmte Kostenarten können die Eigentümer eine abweichende Verteilung beschließen (§ 16 Abs. 2 S. 2 WEG); dies umfasst auch eine vollständige Befreiung oder erstmalige Belastung. Der Beschluss muss ordnungsmäßiger Verwaltung entsprechen, maßgeblich ist eine gerechte Verteilung nach Nutzungsmöglichkeit, Verbrauch und Verursachung. Eine Änderung der Gemeinschaftsordnung insgesamt erfordert dagegen grundsätzlich eine Vereinbarung."
+  },
+  {
+    "id": "wohn3-045",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Kosten und Lasten des gemeinschaftlichen Eigentums: Verteilung, Rücklage und Versicherung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/kosten-und-lasten-des-gemeinschaftlichen-eigentums-verteilung-rucklage-und-versicherung",
+    "typ": "mc",
+    "schwierigkeit": 1,
+    "normen": [
+      "§ 19 Abs. 2 Nr. 3 WEG"
+    ],
+    "frage": "Die Gemeinschaftsordnung enthält keine Regelung zur Versicherung. Kann ein Eigentümer den Abschluss einer Gebäudeversicherung verlangen?",
+    "optionen": [
+      "Nein, ohne Regelung in der Gemeinschaftsordnung besteht keine Versicherungspflicht.",
+      "Ja, eine angemessene Versicherung des Gemeinschaftseigentums zum Neuwert gehört zur ordnungsmäßigen Verwaltung.",
+      "Ja, aber nur zum Zeitwert und nur bei einstimmigem Beschluss.",
+      "Nur wenn ein Grundpfandgläubiger dies verlangt."
+    ],
+    "antwort": 1,
+    "erklaerung": "Auch ohne Regelung in der Gemeinschaftsordnung gehören eine angemessene Neuwertversicherung des Gemeinschaftseigentums und eine Haus- und Grundbesitzerhaftpflicht zur ordnungsmäßigen Verwaltung (§ 19 Abs. 2 Nr. 3 WEG); jeder Eigentümer kann sie verlangen. Die Pflicht betrifft nur das Gemeinschaftseigentum. Den Umfang sollte die Gemeinschaftsordnung ausdrücklich regeln, um Streit zu vermeiden."
+  },
+  {
+    "id": "wohn3-046",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Kosten und Lasten des gemeinschaftlichen Eigentums: Verteilung, Rücklage und Versicherung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/kosten-und-lasten-des-gemeinschaftlichen-eigentums-verteilung-rucklage-und-versicherung",
+    "typ": "zuordnung",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 16 Abs. 2 WEG",
+      "§ 19 Abs. 2 Nr. 4 WEG",
+      "§ 21 WEG"
+    ],
+    "frage": "Ordne die Position der zutreffenden Behandlung bei der Kostentragung zu.",
+    "paare": [
+      [
+        "Grundsteuer",
+        "Last des Sondereigentums, für jede Einheit gesondert erhoben"
+      ],
+      [
+        "Kosten der erstmaligen mangelfreien Herstellung",
+        "Verteilung nach Miteigentumsanteilen"
+      ],
+      [
+        "Erhaltungsrücklage",
+        "Pflicht zur Bildung; gehört zum Gemeinschaftsvermögen"
+      ],
+      [
+        "Kosten baulicher Veränderungen",
+        "Sonderregel des § 21 WEG"
+      ],
+      [
+        "Vom Versorger nur gegenüber einer Einheit abgerechnete Kaltwasserkosten",
+        "Trägt der betroffene Eigentümer allein"
+      ]
+    ],
+    "erklaerung": "Die Grundsteuer wird für jedes Wohnungseigentum gesondert erhoben und ist Last des Sondereigentums. Erhaltungs- und Herstellungskosten folgen dem Schlüssel nach Miteigentumsanteilen; die Erhaltungsrücklage ist nach § 19 Abs. 2 Nr. 4 WEG zu bilden und Teil des Gemeinschaftsvermögens. Für bauliche Veränderungen gilt § 21 WEG; Aufwendungen, die nur eine Einheit betreffen, sind keine Kosten nach § 16 Abs. 2 WEG."
+  },
+  {
+    "id": "wohn3-047",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Mehrhausanlage: Untergemeinschaften in der Gemeinschaftsordnung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/mehrhausanlage-untergemeinschaften-in-der-gemeinschaftsordnung",
+    "typ": "mc",
+    "schwierigkeit": 1,
+    "normen": [
+      "§ 10 Abs. 1 S. 2 WEG"
+    ],
+    "frage": "Worauf beruhen Untergemeinschaften in einer Mehrhausanlage?",
+    "optionen": [
+      "Auf einer Vereinbarung in der Gemeinschaftsordnung, die Verwaltungszuständigkeit und eigene Beschlusskompetenz vorsehen kann",
+      "Auf einem Mehrheitsbeschluss der Gesamtgemeinschaft, der jederzeit gefasst werden kann",
+      "Auf der gesetzlichen Aufteilung jedes Gebäudes in eine eigene rechtsfähige Gemeinschaft",
+      "Auf einer Dienstbarkeit zugunsten der Eigentümer des jeweiligen Hauses"
     ],
     "antwort": 0,
-    "erklaerung": "Die Gemeinschaftsordnung kann für den rechtsgeschäftlichen Erwerb eine Haftung für Rückstände des Vorgängers vorsehen; sie muss im Eintragungsvermerk ausdrücklich eingetragen sein (§ 7 Abs. 3 S. 2 WEG). Für den Erwerb in der Zwangsversteigerung ist eine solche Regel unzulässig (§ 56 S. 2 ZVG). Sinnvoll ist ergänzend eine Pflicht des Verwalters zur Hausgeldschuldenfreiheitsbescheinigung."
-   }
-  ],
-  "erklaerung": "K haftet nach der Fälligkeitstheorie nur für ab der Umschreibung fällig werdende Beiträge, nicht für die Rückstände des V. Abhilfe schafft eine im Eintragungsvermerk eingetragene Erwerberhaftung der Gemeinschaftsordnung für den rechtsgeschäftlichen Erwerb (§ 7 Abs. 3 S. 2 WEG), die für Ersteher in der Zwangsversteigerung nicht vereinbart werden kann (§ 56 S. 2 ZVG)."
- },
- {
-  "id": "wohn3-037",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Hausgeld: Beitragspflicht, Fälligkeit, Schuldner und Erwerberhaftung",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/hausgeld-beitragspflicht-falligkeit-schuldner-und-erwerberhaftung",
-  "typ": "mc",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 10 Abs. 1 Nr. 2 ZVG",
-   "§ 74a Abs. 5 S. 1 ZVG"
-  ],
-  "frage": "In welchem Umfang genießen Hausgeldansprüche der GdWE in der Zwangsversteigerung das Vorrecht der Rangklasse 2?",
-  "optionen": [
-   "Unbegrenzt für alle Rückstände",
-   "Bis höchstens 5 % des Verkehrswerts und für Rückstände aus dem Jahr der Beschlagnahme und den zwei Jahren davor",
-   "Bis höchstens 10 % des Verkehrswerts und für Rückstände der letzten vier Jahre",
-   "Nur für Rückstände nach der Beschlagnahme"
-  ],
-  "antwort": 1,
-  "erklaerung": "Hausgeldansprüche werden in Rangklasse 2 befriedigt (§ 10 Abs. 1 Nr. 2 ZVG). Das Vorrecht gegenüber insbesondere Grundpfandgläubigern ist auf höchstens 5 % des Verkehrswerts (§ 74a Abs. 5 S. 1 ZVG) und auf Rückstände aus dem Jahr der Beschlagnahme und den zwei Jahren davor beschränkt. Ein unbegrenzter Vorrang besteht daher nicht."
- },
- {
-  "id": "wohn3-038",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Hausgeld: Beitragspflicht, Fälligkeit, Schuldner und Erwerberhaftung",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/hausgeld-beitragspflicht-falligkeit-schuldner-und-erwerberhaftung",
-  "typ": "rf",
-  "schwierigkeit": 1,
-  "normen": [],
-  "frage": "Die Pflicht jedes Eigentümers, im Wechsel das Treppenhaus zu reinigen, kann durch Mehrheitsbeschluss im Rahmen ordnungsmäßiger Verwaltung begründet werden.",
-  "antwort": false,
-  "erklaerung": "Der Beitrag zu Kosten und Lasten besteht grundsätzlich in Geld. Persönliche Dienstleistungspflichten wie Räum- und Streupflicht oder Treppenhausreinigung können nicht durch Beschluss begründet werden, auch nicht im Rahmen ordnungsmäßiger Verwaltung. Möglich ist dies nur durch Vereinbarung."
- },
- {
-  "id": "wohn3-039",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Hausgeld: Beitragspflicht, Fälligkeit, Schuldner und Erwerberhaftung",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/hausgeld-beitragspflicht-falligkeit-schuldner-und-erwerberhaftung",
-  "typ": "mc",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 28 Abs. 1 S. 1 WEG",
-   "§ 271 Abs. 1 BGB"
-  ],
-  "frage": "Die Eigentümer beschließen den Wirtschaftsplan mit den Hausgeldvorschüssen, ohne eine Fälligkeit zu bestimmen. Wann ist das Hausgeld fällig?",
-  "optionen": [
-   "Erst nach Anforderung durch den Verwalter",
-   "Monatlich zum dritten Werktag kraft Gesetzes",
-   "Sofort nach § 271 Abs. 1 BGB",
-   "Erst mit Beschluss über die Jahresabrechnung"
-  ],
-  "antwort": 2,
-  "erklaerung": "Ohne Bestimmung im Beschluss ist das Hausgeld sofort fällig (§ 271 Abs. 1 BGB). Einer Anforderung durch den Verwalter bedarf es anders als früher nicht mehr. Die Eigentümer können die Fälligkeit aber beschließen, meist monatlich; vor dem Beschluss nach § 28 Abs. 1 S. 1 WEG besteht dagegen überhaupt keine vollwirksame Forderung."
- },
- {
-  "id": "wohn3-040",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Kosten und Lasten des gemeinschaftlichen Eigentums: Heizkostenverordnung",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/kosten-und-lasten-des-gemeinschaftlichen-eigentums-heizkostenverordnung",
-  "typ": "mc",
-  "schwierigkeit": 1,
-  "normen": [
-   "§ 7 Abs. 1 S. 1 HeizkostenV"
-  ],
-  "frage": "Welcher Anteil der Heizkosten ist nach der HeizkostenV grundsätzlich nach erfasstem Verbrauch zu verteilen?",
-  "optionen": [
-   "Mindestens 30 % und höchstens 50 %",
-   "Mindestens 50 % und höchstens 70 %",
-   "Mindestens 70 % und höchstens 100 %",
-   "Genau 50 %"
-  ],
-  "antwort": 1,
-  "erklaerung": "Nach § 7 Abs. 1 S. 1 HeizkostenV sind, abgesehen von Ausnahmen, mindestens 50 % und höchstens 70 % der Heizkosten nach erfasstem Verbrauch zu verteilen, der Rest nach Wohn- oder Nutzfläche oder umbautem Raum. Die HeizkostenV hat Vorrang vor § 16 Abs. 2 WEG und geht abweichenden Vereinbarungen und Beschlüssen vor (§ 3 S. 1 HeizkostenV)."
- },
- {
-  "id": "wohn3-041",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Kosten und Lasten des gemeinschaftlichen Eigentums: Heizkostenverordnung",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/kosten-und-lasten-des-gemeinschaftlichen-eigentums-heizkostenverordnung",
-  "typ": "rf",
-  "schwierigkeit": 3,
-  "normen": [
-   "§ 10 HeizkostenV"
-  ],
-  "frage": "Ein Verbrauchsanteil von 80 % bei den Heizkosten kann von den Wohnungseigentümern auch ohne Öffnungsklausel mit einfacher Mehrheit beschlossen werden.",
-  "antwort": false,
-  "erklaerung": "Einen höheren Verbrauchsanteil als 70 % kann nach § 10 HeizkostenV eine Vereinbarung bestimmen. Ein Beschluss ist hierfür nur aufgrund einer Öffnungsklausel möglich (a.A. Becker). Ohne Öffnungsklausel bleibt es beim Rahmen von 50 bis 70 % nach § 7 Abs. 1 S. 1 HeizkostenV."
- },
- {
-  "id": "wohn3-042",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Kosten und Lasten des gemeinschaftlichen Eigentums: Heizkostenverordnung",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/kosten-und-lasten-des-gemeinschaftlichen-eigentums-heizkostenverordnung",
-  "typ": "mc",
-  "schwierigkeit": 3,
-  "normen": [
-   "§ 4 Nr. 4 WoFlV"
-  ],
-  "frage": "Welche Regelung zur Heizkostenverteilung ist für eine Gemeinschaftsordnung üblich und sachgerecht, wenn die Einheiten sehr unterschiedlich große Terrassen haben?",
-  "optionen": [
-   "100 % nach Verbrauch, ohne Flächenanteil",
-   "70 % nach Verbrauch, 30 % nach Wohnfläche unter Verweis auf die WoFlV, ohne Einrechnung von Balkonen und Terrassen",
-   "50 % nach Miteigentumsanteilen, 50 % nach Verbrauch",
-   "70 % nach Verbrauch, 30 % nach Wohnfläche einschließlich voller Terrassenflächen"
-  ],
-  "antwort": 1,
-  "erklaerung": "Üblich ist eine Umlage zu 70 % nach Verbrauch und 30 % nach Wohnfläche; für die Flächenberechnung kann auf die WoFlV verwiesen werden. Balkone, Loggien, Dachgärten und Terrassen (§ 4 Nr. 4 WoFlV) sollten bei größeren Unterschieden zwischen den Einheiten nicht eingerechnet werden, da sie nicht beheizt werden. Eine reine Verbrauchsabrechnung ohne Flächenanteil verlässt den Rahmen des § 7 Abs. 1 HeizkostenV ohne Vereinbarung."
- },
- {
-  "id": "wohn3-043",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Kosten und Lasten des gemeinschaftlichen Eigentums: Verteilung, Rücklage und Versicherung",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/kosten-und-lasten-des-gemeinschaftlichen-eigentums-verteilung-rucklage-und-versicherung",
-  "typ": "mc",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 134 Abs. 1 S. 4 BauGB",
-   "§ 16 Abs. 2 WEG"
-  ],
-  "frage": "Welche der folgenden Belastungen ist eine Last des Sondereigentums und keine nach § 16 Abs. 2 WEG zu verteilende Last des gemeinschaftlichen Eigentums?",
-  "optionen": [
-   "Zinsen aus einem Grundpfandrecht am ganzen Grundstück",
-   "Kosten der erstmaligen mangelfreien Herstellung des Gemeinschaftseigentums",
-   "Der Erschließungsbeitrag nach dem BauGB",
-   "Die Prämie für die Gebäudeversicherung des Gemeinschaftseigentums"
-  ],
-  "antwort": 2,
-  "erklaerung": "Erschließungsbeiträge nach dem BauGB treffen die einzelnen Eigentümer nach ihrem Anteil (§ 134 Abs. 1 S. 4 BauGB); ebenso wird die Grundsteuer für jedes Wohnungseigentum gesondert erhoben. Beides sind Lasten des Sondereigentums. Zinsen aus Grundpfandrechten am Grundstück sind dagegen privatrechtliche Lasten des gemeinschaftlichen Eigentums, und Herstellungskosten unterfallen dem Schlüssel nach Miteigentumsanteilen."
- },
- {
-  "id": "wohn3-044",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Kosten und Lasten des gemeinschaftlichen Eigentums: Verteilung, Rücklage und Versicherung",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/kosten-und-lasten-des-gemeinschaftlichen-eigentums-verteilung-rucklage-und-versicherung",
-  "typ": "rf",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 16 Abs. 2 S. 2 WEG"
-  ],
-  "frage": "Die Beschlusskompetenz nach § 16 Abs. 2 S. 2 WEG umfasst auch Beschlüsse, die einzelne Eigentümer von bestimmten Kosten ganz befreien oder erstmals belasten.",
-  "antwort": true,
-  "erklaerung": "Für einzelne Kosten oder bestimmte Kostenarten können die Eigentümer eine abweichende Verteilung beschließen (§ 16 Abs. 2 S. 2 WEG); dies umfasst auch eine vollständige Befreiung oder erstmalige Belastung. Der Beschluss muss ordnungsmäßiger Verwaltung entsprechen, maßgeblich ist eine gerechte Verteilung nach Nutzungsmöglichkeit, Verbrauch und Verursachung. Eine Änderung der Gemeinschaftsordnung insgesamt erfordert dagegen grundsätzlich eine Vereinbarung."
- },
- {
-  "id": "wohn3-045",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Kosten und Lasten des gemeinschaftlichen Eigentums: Verteilung, Rücklage und Versicherung",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/kosten-und-lasten-des-gemeinschaftlichen-eigentums-verteilung-rucklage-und-versicherung",
-  "typ": "mc",
-  "schwierigkeit": 1,
-  "normen": [
-   "§ 19 Abs. 2 Nr. 3 WEG"
-  ],
-  "frage": "Die Gemeinschaftsordnung enthält keine Regelung zur Versicherung. Kann ein Eigentümer den Abschluss einer Gebäudeversicherung verlangen?",
-  "optionen": [
-   "Nein, ohne Regelung in der Gemeinschaftsordnung besteht keine Versicherungspflicht.",
-   "Ja, eine angemessene Versicherung des Gemeinschaftseigentums zum Neuwert gehört zur ordnungsmäßigen Verwaltung.",
-   "Ja, aber nur zum Zeitwert und nur bei einstimmigem Beschluss.",
-   "Nur wenn ein Grundpfandgläubiger dies verlangt."
-  ],
-  "antwort": 1,
-  "erklaerung": "Auch ohne Regelung in der Gemeinschaftsordnung gehören eine angemessene Neuwertversicherung des Gemeinschaftseigentums und eine Haus- und Grundbesitzerhaftpflicht zur ordnungsmäßigen Verwaltung (§ 19 Abs. 2 Nr. 3 WEG); jeder Eigentümer kann sie verlangen. Die Pflicht betrifft nur das Gemeinschaftseigentum. Den Umfang sollte die Gemeinschaftsordnung ausdrücklich regeln, um Streit zu vermeiden."
- },
- {
-  "id": "wohn3-046",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
-  "seite": "Kosten und Lasten des gemeinschaftlichen Eigentums: Verteilung, Rücklage und Versicherung",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/kosten-und-lasten-des-gemeinschaftlichen-eigentums-verteilung-rucklage-und-versicherung",
-  "typ": "zuordnung",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 16 Abs. 2 WEG",
-   "§ 19 Abs. 2 Nr. 4 WEG",
-   "§ 21 WEG"
-  ],
-  "frage": "Ordne die Position der zutreffenden Behandlung bei der Kostentragung zu.",
-  "paare": [
-   [
-    "Grundsteuer",
-    "Last des Sondereigentums, für jede Einheit gesondert erhoben"
-   ],
-   [
-    "Kosten der erstmaligen mangelfreien Herstellung",
-    "Verteilung nach Miteigentumsanteilen"
-   ],
-   [
-    "Erhaltungsrücklage",
-    "Pflicht zur Bildung; gehört zum Gemeinschaftsvermögen"
-   ],
-   [
-    "Kosten baulicher Veränderungen",
-    "Sonderregel des § 21 WEG"
-   ],
-   [
-    "Vom Versorger nur gegenüber einer Einheit abgerechnete Kaltwasserkosten",
-    "Trägt der betroffene Eigentümer allein"
-   ]
-  ],
-  "erklaerung": "Die Grundsteuer wird für jedes Wohnungseigentum gesondert erhoben und ist Last des Sondereigentums. Erhaltungs- und Herstellungskosten folgen dem Schlüssel nach Miteigentumsanteilen; die Erhaltungsrücklage ist nach § 19 Abs. 2 Nr. 4 WEG zu bilden und Teil des Gemeinschaftsvermögens. Für bauliche Veränderungen gilt § 21 WEG; Aufwendungen, die nur eine Einheit betreffen, sind keine Kosten nach § 16 Abs. 2 WEG."
- }
+    "erklaerung": "Untergemeinschaften beruhen auf einer Vereinbarung in der Gemeinschaftsordnung nach § 10 Abs. 1 S. 2 WEG und können eigene Verwaltungszuständigkeit und Beschlusskompetenz erhalten. Ein Mehrheitsbeschluss genügt nicht, weil die Zuständigkeitsverteilung vom gesetzlichen Regelfall abweicht. Eine gesetzliche rechtsfähige Hausgemeinschaft gibt es nicht; die Untergemeinschaft ist Teil der Gesamtgemeinschaft."
+  },
+  {
+    "id": "wohn3-048",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Mehrhausanlage: Untergemeinschaften in der Gemeinschaftsordnung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/mehrhausanlage-untergemeinschaften-in-der-gemeinschaftsordnung",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 9a Abs. 4 S. 1 WEG"
+    ],
+    "frage": "Eine Untergemeinschaft beauftragt über die GdWE ein Unternehmen mit der Sanierung ihres Hauses. Wer haftet dem Unternehmer im Außenverhältnis?",
+    "optionen": [
+      "Nur die Eigentümer des sanierten Hauses nach ihrer Quote innerhalb der Untergemeinschaft",
+      "Alle Eigentümer der Gesamtanlage nach ihrer Miteigentumsquote",
+      "Die Untergemeinschaft als eigene Rechtsträgerin",
+      "Ausschließlich der Verwalter persönlich"
+    ],
+    "antwort": 1,
+    "erklaerung": "Untergemeinschaften sind nicht rechtsfähig. Für Verträge, die nur eine Untergemeinschaft betreffen, haften nach § 9a Abs. 4 S. 1 WEG alle Eigentümer der Gesamtanlage anteilig nach Miteigentumsquote. Die interne Kostentrennung wirkt nicht nach außen; die Beschränkung auf die Hauseigentümer ist daher falsch."
+  },
+  {
+    "id": "wohn3-049",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Mehrhausanlage: Untergemeinschaften in der Gemeinschaftsordnung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/mehrhausanlage-untergemeinschaften-in-der-gemeinschaftsordnung",
+    "typ": "rf",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 9a Abs. 4 S. 1 WEG"
+    ],
+    "frage": "Eine Regelung, nach der der Verwalter Verträge für eine Untergemeinschaft nur bei gesicherter Zahlung (vorhandene Mittel oder vorherige Sonderumlage) schließen darf, beseitigt die anteilige Außenhaftung aller Eigentümer.",
+    "antwort": false,
+    "erklaerung": "Die Bindung des Verwalters wirkt nur intern und mindert das Risiko. Die anteilige Außenhaftung aller Eigentümer nach § 9a Abs. 4 S. 1 WEG bleibt bestehen, und die Kostenverteilung kann zudem jederzeit durch Mehrheitsbeschluss geändert werden."
+  },
+  {
+    "id": "wohn3-050",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Öffnungsklausel und Wirkung von Beschlüssen gegenüber Sondernachfolgern",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/offnungsklausel-und-wirkung-von-beschlussen-gegenuber-sondernachfolgern",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 10 Abs. 1 S. 2 WEG",
+      "§ 10 Abs. 3 WEG"
+    ],
+    "frage": "Welche Schranke gilt nach der neueren Rechtsprechung für einen Änderungsbeschluss aufgrund einer vereinbarten Öffnungsklausel?",
+    "optionen": [
+      "Ob und Wie der Änderung dürfen nicht willkürlich sein und müssen ordnungsmäßiger Verwaltung entsprechen",
+      "Es ist ein sachlicher Grund erforderlich, und eine unbillige Benachteiligung darf nicht vorliegen",
+      "Der Beschluss bedarf stets der Zustimmung aller Wohnungseigentümer",
+      "Der Beschluss ist nur zulässig, wenn die Änderung zwingend geboten ist"
+    ],
+    "antwort": 0,
+    "erklaerung": "Nach der neueren Rechtsprechung genügt es, dass Ob und Wie der Änderung nicht willkürlich sind und ordnungsmäßiger Verwaltung entsprechen; zusätzlich sind §§ 134, 138, 242 BGB zu beachten. Das Erfordernis eines sachlichen Grundes ohne unbillige Benachteiligung ist die frühere Rechtsprechung und gilt nicht mehr."
+  },
+  {
+    "id": "wohn3-051",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Öffnungsklausel und Wirkung von Beschlüssen gegenüber Sondernachfolgern",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/offnungsklausel-und-wirkung-von-beschlussen-gegenuber-sondernachfolgern",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 10 Abs. 3 S. 1 WEG",
+      "§ 10 Abs. 3 S. 2 WEG"
+    ],
+    "frage": "Wann wirkt ein Beschluss gegen den Sondernachfolger eines Wohnungseigentümers?",
+    "optionen": [
+      "Stets nur nach Eintragung im Grundbuch",
+      "Ein Beschluss auf gesetzlicher Kompetenz auch ohne Eintragung; ein Beschluss aufgrund vereinbarter Öffnungsklausel nur nach Eintragung",
+      "Nur, wenn der Erwerber den Beschluss bei Erwerb kannte",
+      "Ein Beschluss aufgrund vereinbarter Öffnungsklausel auch ohne Eintragung, ein Beschluss auf gesetzlicher Kompetenz nur nach Eintragung"
+    ],
+    "antwort": 1,
+    "erklaerung": "Beschlüsse auf gesetzlicher Grundlage wirken nach § 10 Abs. 3 S. 2 WEG ohne Eintragung gegen Sondernachfolger, unabhängig von dessen Kenntnis; er kann sich über die Beschluss-Sammlung informieren. Beschlüsse aufgrund einer Vereinbarung wirken nach § 10 Abs. 3 S. 1 WEG nur nach Eintragung. Die Umkehrung dieser Regel ist falsch."
+  },
+  {
+    "id": "wohn3-052",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Öffnungsklausel und Wirkung von Beschlüssen gegenüber Sondernachfolgern",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/offnungsklausel-und-wirkung-von-beschlussen-gegenuber-sondernachfolgern",
+    "typ": "mc",
+    "schwierigkeit": 3,
+    "normen": [
+      "§ 10 Abs. 3 S. 1 WEG",
+      "§ 19 Abs. 1 WEG"
+    ],
+    "frage": "Eine Öffnungsklausel in der Gemeinschaftsordnung wiederholt lediglich gesetzliche Beschlusskompetenzen. Was gilt für einen darauf gestützten Beschluss?",
+    "optionen": [
+      "Er muss eingetragen werden, weil er auf einer Vereinbarung beruht",
+      "Er ist nichtig, weil die Klausel keinen eigenen Regelungsgehalt hat",
+      "Er wird wie ein Beschluss auf gesetzlicher Grundlage behandelt und braucht keine Eintragung",
+      "Er wirkt nur nach Zustimmung der dinglich Berechtigten"
+    ],
+    "antwort": 2,
+    "erklaerung": "Entscheidend ist, ob der Beschluss auf einer vereinbarten Öffnungsklausel oder auf gesetzlicher Beschlusskompetenz beruht. Wiederholt die Klausel nur gesetzliche Kompetenzen, wird der Beschluss wie ein gesetzlich fundierter behandelt und bedarf keiner Eintragung. Die Eintragungspflicht trifft nur Beschlüsse, die über die gesetzliche Kompetenz hinausgehen."
+  },
+  {
+    "id": "wohn3-053",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Öffnungsklausel und Wirkung von Beschlüssen gegenüber Sondernachfolgern",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/offnungsklausel-und-wirkung-von-beschlussen-gegenuber-sondernachfolgern",
+    "typ": "zuordnung",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 10 Abs. 3 WEG",
+      "§ 19 Abs. 1 WEG"
+    ],
+    "frage": "Ordne den Beschluss der Frage zu, ob er gegen Sondernachfolger der Eintragung im Grundbuch bedarf.",
+    "paare": [
+      [
+        "Beschluss über eine Hausordnung",
+        "Keine Eintragung; gesetzliche Beschlusskompetenz"
+      ],
+      [
+        "Beschluss aufgrund vereinbarter Öffnungsklausel, der die Zweckbestimmung einer Einheit ändert",
+        "Eintragung erforderlich, sonst keine Wirkung gegen Erwerber"
+      ],
+      [
+        "Beschluss auf gesetzlicher Grundlage, den der Erwerber nicht kennt",
+        "Bindet ihn dennoch; Information über die Beschluss-Sammlung"
+      ],
+      [
+        "Öffnungsklausel, die nur gesetzliche Kompetenzen wiederholt",
+        "Beschlüsse wie solche auf gesetzlicher Grundlage, keine Eintragung"
+      ]
+    ],
+    "erklaerung": "Verwaltungsangelegenheiten wie die Hausordnung beruhen auf gesetzlicher Kompetenz und wirken ohne Eintragung (§ 10 Abs. 3 S. 2 WEG). Ändert ein Beschluss aufgrund einer echten vereinbarten Öffnungsklausel die Zweckbestimmung, wirkt er nach § 10 Abs. 3 S. 1 WEG nur nach Eintragung. Wiederholt die Klausel lediglich gesetzliche Kompetenzen, bleibt es bei der Behandlung als gesetzlicher Beschluss."
+  },
+  {
+    "id": "wohn3-054",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Sondernutzungsrechte: Begründung, Bestimmtheit und Eintragung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/sondernutzungsrechte-begrundung-bestimmtheit-und-eintragung",
+    "typ": "mc",
+    "schwierigkeit": 1,
+    "normen": [
+      "§ 16 Abs. 1 S. 1 WEG"
+    ],
+    "frage": "Warum ist ein Mehrheitsbeschluss, der einem Eigentümer ein Sondernutzungsrecht einräumt, grundsätzlich nichtig?",
+    "optionen": [
+      "Weil er die gesetzliche Regel des Mitgebrauchs ändert und dafür keine Beschlusskompetenz besteht",
+      "Weil Sondernutzungsrechte nur notariell beurkundet werden können",
+      "Weil Beschlüsse nie das Gemeinschaftseigentum betreffen dürfen",
+      "Weil ein Sondernutzungsrecht stets der Zustimmung aller Grundpfandgläubiger bedarf"
+    ],
+    "antwort": 0,
+    "erklaerung": "Jedem Eigentümer steht der Mitgebrauch zu (§ 16 Abs. 1 S. 1 WEG). Ein Sondernutzungsrecht entzieht ihn den anderen und ändert damit die gesetzliche Regel; ein Beschluss ist dafür nichtig. Ausnahme ist eine vereinbarte Öffnungsklausel, die die Einräumung von Sondernutzungsrechten ausdrücklich umfasst. Die Beurkundungsform ist nicht der Grund, die Vereinbarung ist an sich formfrei."
+  },
+  {
+    "id": "wohn3-055",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Sondernutzungsrechte: Begründung, Bestimmtheit und Eintragung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/sondernutzungsrechte-begrundung-bestimmtheit-und-eintragung",
+    "typ": "rf",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 18 Abs. 2 Nr. 2 WEG"
+    ],
+    "frage": "Ein Sondernutzungsrecht ist eine bloße Gebrauchsregelung im Sinne von § 18 Abs. 2 Nr. 2 WEG und kann deshalb durch Mehrheitsbeschluss begründet werden.",
+    "antwort": false,
+    "erklaerung": "Die Gebrauchsregelung gestaltet nur den Mitgebrauch aus. Das Sondernutzungsrecht entzieht den übrigen Eigentümern den Mitgebrauch und weicht von § 16 Abs. 1 WEG ab; es bedarf daher der Zustimmung aller Eigentümer (Vereinbarung), nicht eines Beschlusses."
+  },
+  {
+    "id": "wohn3-056",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Sondernutzungsrechte: Begründung, Bestimmtheit und Eintragung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/sondernutzungsrechte-begrundung-bestimmtheit-und-eintragung",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 7 Abs. 3 S. 1 WEG",
+      "§ 3 Abs. 2 WGV"
+    ],
+    "frage": "Muss ein Sondernutzungsrecht ausdrücklich im Bestandsverzeichnis des Wohnungsgrundbuchs der berechtigten Einheit vermerkt werden, um gegen Sondernachfolger zu wirken?",
+    "optionen": [
+      "Ja, ohne Vermerk im Bestandsverzeichnis entsteht kein Sondernutzungsrecht",
+      "Ja, aber nur bei Sondernutzungsrechten an Stellplätzen",
+      "Nein, die Bezugnahme auf die Eintragungsbewilligung in der Teilungserklärung genügt; der Vermerk ist aber empfehlenswert",
+      "Nein, ein Vermerk ist ausgeschlossen, weil das Recht kein dingliches Recht ist"
+    ],
+    "antwort": 2,
+    "erklaerung": "Die Bezugnahme auf die Eintragungsbewilligung genügt nach § 7 Abs. 3 S. 1 WEG, § 3 Abs. 2 WGV. Wegen der wirtschaftlichen Bedeutung sollte das Recht dennoch im Bestandsverzeichnis vermerkt werden; ein Anspruch auf diese Eintragung besteht allerdings nicht. Der Vermerk ist also möglich und nicht ausgeschlossen."
+  },
+  {
+    "id": "wohn3-057",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Sondernutzungsrechte: Begründung, Bestimmtheit und Eintragung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/sondernutzungsrechte-begrundung-bestimmtheit-und-eintragung",
+    "typ": "mc",
+    "schwierigkeit": 3,
+    "normen": [],
+    "frage": "Eintragungsbewilligung und Aufteilungsplan widersprechen sich hinsichtlich der Sondernutzungsfläche, und der Widerspruch lässt sich auch durch Auslegung nicht auflösen. Welche Folge hat das?",
+    "optionen": [
+      "Der Aufteilungsplan geht vor, das Recht entsteht an der dort gezeichneten Fläche",
+      "Die Bewilligung geht vor, das Recht entsteht an der dort beschriebenen Fläche",
+      "Das Sondernutzungsrecht ist nicht entstanden",
+      "Das Sondernutzungsrecht entsteht an der kleineren der beiden Flächen"
+    ],
+    "antwort": 2,
+    "erklaerung": "Lassen sich Bewilligung und Aufteilungsplan auch durch Auslegung nicht in Einklang bringen, ist das Sondernutzungsrecht nicht entstanden. Eine Vorrangregel zugunsten von Plan oder Bewilligung kennt die Seite nicht. In der Praxis sind daher Lageplan und Bewilligungstext auf Widerspruchsfreiheit zu prüfen."
+  },
+  {
+    "id": "wohn3-058",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Sondernutzungsrechte: spätere Zuweisung – Bedingungslösung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/sondernutzungsrechte-spatere-zuweisung-bedingungslosung",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 16 Abs. 1 WEG",
+      "§ 10 Abs. 1 S. 2 WEG"
+    ],
+    "frage": "Wie ist bei der Bedingungslösung die Rechtslage vor der Zuweisung des Sondernutzungsrechts?",
+    "optionen": [
+      "Der aufteilende Eigentümer hat ein persönliches Sondernutzungsrecht an allen künftigen Flächen",
+      "Alle Eigentümer sind bereits sofort vom Gebrauch ausgeschlossen",
+      "Das Gebrauchsrecht steht allen Eigentümern zu; sie sind nur aufschiebend bedingt durch Begründung und Zuweisung vom Gebrauch ausgeschlossen",
+      "Die Flächen stehen im Sondereigentum des aufteilenden Eigentümers"
+    ],
+    "antwort": 2,
+    "erklaerung": "Bei der Bedingungslösung begründet die Gemeinschaftsordnung zunächst kein Sondernutzungsrecht; das Gebrauchsrecht steht nach § 16 Abs. 1 WEG allen zu. Der Ausschluss wirkt aufschiebend bedingt durch Begründung und Zuweisung. Ein sofortiger Ausschluss aller Eigentümer ohne begründetes Sondernutzungsrecht wäre unzulässig; das persönliche Recht des Bauträgers ist die andere Gestaltung."
+  },
+  {
+    "id": "wohn3-059",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Sondernutzungsrechte: spätere Zuweisung – Bedingungslösung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/sondernutzungsrechte-spatere-zuweisung-bedingungslosung",
+    "typ": "mc",
+    "schwierigkeit": 3,
+    "normen": [
+      "§§ 877, 876 BGB"
+    ],
+    "frage": "Wann müssen bei der Bedingungslösung dinglich Berechtigte an den Einheiten des Bauträgers der Zuweisung zustimmen?",
+    "optionen": [
+      "Immer, weil die Einheiten des Bauträgers das Nutzungsrecht verlieren",
+      "Nie, auch wenn das Gesamtrecht nicht mehr auf der begünstigten Einheit lastet",
+      "Nur, wenn alle übrigen Eigentümer zugestimmt haben",
+      "Grundsätzlich nicht; nur wenn ein Gesamtrecht bei der Zuweisung nicht mehr auf der begünstigten Einheit lastet"
+    ],
+    "antwort": 3,
+    "erklaerung": "Dinglich Berechtigte müssen bei der Bedingungslösung nicht zustimmen, weil dem Bauträger kein persönliches Recht zusteht und sie ihre Rechte mit dem bedingten Ausschluss erworben haben. Die Zustimmung ist nur nötig, wenn das Gesamtrecht bei der Zuweisung nicht mehr auf der begünstigten Einheit lastet. Die Begründung \"Verlust der Einheiten\" trägt beim persönlichen Sondernutzungsrecht, nicht hier."
+  },
+  {
+    "id": "wohn3-060",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Sondernutzungsrechte: spätere Zuweisung – Bedingungslösung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/sondernutzungsrechte-spatere-zuweisung-bedingungslosung",
+    "typ": "fall",
+    "schwierigkeit": 3,
+    "normen": [
+      "§ 10 Abs. 1 S. 2 WEG",
+      "§ 16 Abs. 1 WEG"
+    ],
+    "frage": "Bauträger-Teilung mit Zuweisungsvorbehalt",
+    "sachverhalt": "Die B-GmbH teilt ein Grundstück nach § 8 WEG in zwölf Einheiten auf. In der Gemeinschaftsordnung behält sie sich vor, an den Freiflächen Sondernutzungsrechte zu begründen und einzelnen Eigentümern zuzuweisen. Die Flächen sind im Lageplan bestimmt bezeichnet. Eine Bank hat Grundschulden an einzelnen Einheiten. Die Gemeinschaftsordnung schweigt dazu, ob die Befugnis auch nach Verkauf der letzten Einheit fortbesteht.",
+    "schritte": [
+      {
+        "frage": "Welche Anforderung muss der Vorbehalt erfüllen?",
+        "optionen": [
+          "Er muss sachenrechtlich bestimmt sein",
+          "Er genügt, wenn er nur bestimmbar ist",
+          "Er muss durch Mehrheitsbeschluss bestätigt werden",
+          "Er bedarf der Zustimmung der Bank"
+        ],
+        "antwort": 0,
+        "erklaerung": "Der Vorbehalt muss sachenrechtlich bestimmt sein. Bloße Bestimmbarkeit genügt nur für die schuldrechtliche Vereinbarung des Sondernutzungsrechts selbst; ein Beschluss ist nicht erforderlich."
+      },
+      {
+        "frage": "Muss die Bank der späteren Zuweisung zustimmen?",
+        "optionen": [
+          "Ja, stets nach §§ 877, 876 BGB",
+          "Nein, bei der Bedingungslösung haben die Berechtigten ihre Rechte mit dem bedingten Ausschluss erworben",
+          "Ja, aber nur wenn die Eigentümer widersprechen",
+          "Nein, weil Sondernutzungsrechte nie Grundpfandrechte berühren"
+        ],
+        "antwort": 1,
+        "erklaerung": "Bei der Bedingungslösung steht dem Bauträger kein persönliches Recht zu, und Inhaber von Rechten an einzelnen Einheiten haben diese mit dem bedingten Ausschluss erworben. Eine Zustimmung wäre nur nötig, wenn ein Gesamtrecht bei der Zuweisung nicht mehr auf der begünstigten Einheit lastet."
+      },
+      {
+        "frage": "Kann die B-GmbH zuweisen, nachdem sie die letzte Einheit verkauft hat?",
+        "optionen": [
+          "Ja, die Befugnis besteht unbegrenzt fort",
+          "Nein, ohne ausdrückliche Regelung endet der Vorbehalt mit dem Verkauf der letzten Einheit",
+          "Ja, aber nur mit Zustimmung der Bank",
+          "Nein, weil die Zuweisung stets durch Beschluss erfolgen muss"
+        ],
+        "antwort": 1,
+        "erklaerung": "Eine Fortdauer über das Ausscheiden des aufteilenden Eigentümers hinaus muss die Gemeinschaftsordnung ausdrücklich vorsehen; sonst endet der Vorbehalt mit dem Verkauf der letzten Einheit. Die Zuweisung erfolgt allein durch den aufteilenden Eigentümer."
+      }
+    ],
+    "erklaerung": "Die Bedingungslösung erfordert einen sachenrechtlich bestimmten Vorbehalt und kommt ohne Gläubigerzustimmung aus. Soll die Zuweisungsbefugnis den Verkauf der letzten Einheit überdauern, muss die Gemeinschaftsordnung dies ausdrücklich regeln."
+  },
+  {
+    "id": "wohn3-061",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Sondernutzungsrechte: spätere Zuweisung – Parklösung und persönliches Sondernutzungsrecht",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/sondernutzungsrechte-spatere-zuweisung-parklosung-und-personliches-sondernutzungsrecht",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 5 Abs. 4 S. 1 WEG",
+      "§ 877 BGB"
+    ],
+    "frage": "Was ist ein wesentlicher Nachteil der Parklösung (Verbindung der Sondernutzungsrechte mit einer Sammeleinheit)?",
+    "optionen": [
+      "Die Rechte entstehen erst mit der späteren Zuweisung",
+      "Wird die Sammeleinheit nicht zuletzt verkauft, müssen die Rechte kostspielig auf eine andere Einheit umgebucht werden",
+      "Die Rechte sind auf mehreren Grundbuchblättern gebucht",
+      "Es ist stets die Zustimmung aller Eigentümer erforderlich"
+    ],
+    "antwort": 1,
+    "erklaerung": "Bei der Parklösung werden die bereits wirksam entstandenen Rechte zunächst mit einer voraussichtlich zuletzt verkauften Einheit verbunden und später auf die verkaufte Einheit übertragen. Wird die Sammeleinheit nicht zuletzt verkauft, ist eine kostspielige Umbuchung nötig. Als Vorteil gilt gerade, dass die Rechte bereits entstanden und auf einem Grundbuchblatt gebucht sind."
+  },
+  {
+    "id": "wohn3-062",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Sondernutzungsrechte: spätere Zuweisung – Parklösung und persönliches Sondernutzungsrecht",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/sondernutzungsrechte-spatere-zuweisung-parklosung-und-personliches-sondernutzungsrecht",
+    "typ": "rf",
+    "schwierigkeit": 3,
+    "normen": [
+      "§§ 877, 876 BGB"
+    ],
+    "frage": "Beim persönlichen Sondernutzungsrecht des Bauträgers müssen nach bislang ganz überwiegender Ansicht Grundpfandgläubiger und Vormerkungsberechtigte an den Einheiten des Bauträgers der späteren Zuweisung zustimmen.",
+    "antwort": true,
+    "erklaerung": "Die spätere Zuweisung ist der Sache nach Übertragung und Inhaltsänderung des Rechts; weil die Einheiten des Bauträgers das Recht verlieren, verlangt die überwiegende Ansicht die Zustimmung nach §§ 877, 876 BGB. Der BGH hat dies ohne nähere Begründung verneint. Gläubigerzustimmungen vermeidet eher die Bedingungslösung."
+  },
+  {
+    "id": "wohn3-063",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Sondernutzungsrechte: spätere Zuweisung – Parklösung und persönliches Sondernutzungsrecht",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/sondernutzungsrechte-spatere-zuweisung-parklosung-und-personliches-sondernutzungsrecht",
+    "typ": "zuordnung",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 5 Abs. 4 S. 1 WEG",
+      "§§ 877, 876 BGB"
+    ],
+    "frage": "Ordne die Gestaltung der späteren Zuweisung von Sondernutzungsrechten dem zutreffenden Merkmal zu.",
+    "paare": [
+      [
+        "Parklösung",
+        "Rechte werden zunächst mit einer Sammeleinheit verbunden und später übertragen"
+      ],
+      [
+        "Persönliches Sondernutzungsrecht des Bauträgers",
+        "Spätere Zuweisung ist Übertragung und Inhaltsänderung; Gläubigerzustimmung überwiegend verlangt"
+      ],
+      [
+        "Bedingungslösung",
+        "Gebrauchsrecht steht bis zur Zuweisung allen zu; Gläubigerzustimmung nicht erforderlich"
+      ]
+    ],
+    "erklaerung": "Bei der Parklösung stehen die Rechte schon fest und werden einer Sammeleinheit zugeordnet. Das persönliche Recht des Bauträgers wird später übertragen und inhaltlich geändert (§ 877 BGB), weshalb überwiegend Gläubigerzustimmung verlangt wird. Bei der Bedingungslösung entsteht das Recht erst mit der Zuweisung, ohne Gläubigerzustimmung."
+  },
+  {
+    "id": "wohn3-064",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Sondernutzungsrechte: Umfang, Kosten, Berechtigte und Belastung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/sondernutzungsrechte-umfang-kosten-berechtigte-und-belastung",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 20 Abs. 1 WEG"
+    ],
+    "frage": "Ein Sondernutzungsberechtigter möchte auf seiner Gartenfläche ein Gartenhaus errichten, das in der Beschreibung des Sondernutzungsrechts nicht vorgesehen ist. Wie ist die Lage?",
+    "optionen": [
+      "Zulässig, weil das Sondernutzungsrecht die Nutzung der Fläche umfassend gestattet",
+      "Grundsätzlich unzulässig, sofern keine Zustimmung vorliegt",
+      "Zulässig, wenn die Mehrheit der Eigentümer nicht widerspricht",
+      "Zulässig, solange die Fläche nicht im Sondereigentum steht"
+    ],
+    "antwort": 1,
+    "erklaerung": "Bauliche Maßnahmen wie Gartenhäuser sind auf der Fläche nach § 20 Abs. 1 WEG grundsätzlich unzulässig, sofern keine Zustimmung vorliegt. Als Zustimmung gilt, wenn die Maßnahme in der Beschreibung des Rechts vorgesehen ist oder dem Inhalt des Rechts entspricht und der Anlage kein anderes Gepräge gibt. Die Fläche bleibt Gemeinschaftseigentum."
+  },
+  {
+    "id": "wohn3-065",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Sondernutzungsrechte: Umfang, Kosten, Berechtigte und Belastung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/sondernutzungsrechte-umfang-kosten-berechtigte-und-belastung",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 16 Abs. 2 S. 1 WEG"
+    ],
+    "frage": "Wer trägt die Kosten der Erhaltung einer Sondernutzungsfläche, wenn die Gemeinschaftsordnung dazu nichts regelt?",
+    "optionen": [
+      "Allein der Sondernutzungsberechtigte, weil nur trägt, wer nutzen darf",
+      "Zunächst die Gemeinschaft nach § 16 Abs. 2 S. 1 WEG, weil die Fläche Gemeinschaftseigentum bleibt",
+      "Der aufteilende Eigentümer",
+      "Die Eigentümer, die das Recht nicht ausüben dürfen"
+    ],
+    "antwort": 1,
+    "erklaerung": "Weil die Fläche Gemeinschaftseigentum bleibt, gilt zunächst § 16 Abs. 2 S. 1 WEG. Einen allgemeinen Grundsatz, dass nur trägt, wer nutzen darf, kennt das WEG nicht. Deshalb sollten Kosten, Erhaltung und Verkehrssicherung dem Berechtigten ausdrücklich zugewiesen werden."
+  },
+  {
+    "id": "wohn3-066",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Sondernutzungsrechte: Umfang, Kosten, Berechtigte und Belastung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/sondernutzungsrechte-umfang-kosten-berechtigte-und-belastung",
+    "typ": "rf",
+    "schwierigkeit": 3,
+    "normen": [
+      "§ 16 Abs. 2 S. 2 WEG"
+    ],
+    "frage": "Ohne entsprechende Vereinbarung kann die Erhaltungspflicht für die Sondernutzungsfläche dem Berechtigten gegen seinen Willen durch einen auf eine Öffnungsklausel gestützten Beschluss auferlegt werden.",
+    "antwort": false,
+    "erklaerung": "Ohne Vereinbarung ist dies nicht möglich; in Betracht kommt nur ein Kostenbeschluss nach § 16 Abs. 2 S. 2 WEG. Die Erhaltungspflicht selbst kann nicht ohne Zustimmung des Berechtigten verlagert werden."
+  },
+  {
+    "id": "wohn3-067",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Sondernutzungsrechte: Umfang, Kosten, Berechtigte und Belastung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/sondernutzungsrechte-umfang-kosten-berechtigte-und-belastung",
+    "typ": "fall",
+    "schwierigkeit": 3,
+    "normen": [
+      "§ 16 Abs. 2 WEG",
+      "§ 20 Abs. 1 WEG"
+    ],
+    "frage": "Garten-Sondernutzungsrecht mit Dienstbarkeit",
+    "sachverhalt": "A ist Eigentümer einer Erdgeschosswohnung mit eingetragenem Sondernutzungsrecht an einer Gartenfläche. Die Gemeinschaftsordnung weist ihm die Erhaltung der Fläche zu, regelt die Kosten aber nicht. A möchte die Fläche zugunsten eines Nachbarn mit einer Dienstbarkeit belasten, die nur diese Fläche betrifft, und einen Geräteschuppen aufstellen, der in der Beschreibung des Rechts nicht genannt ist.",
+    "schritte": [
+      {
+        "frage": "Wer trägt im Zweifel die Kosten der Erhaltung der Gartenfläche?",
+        "optionen": [
+          "Die Gemeinschaft nach Miteigentumsanteilen, weil die Fläche Gemeinschaftseigentum bleibt",
+          "A, weil die Gemeinschaftsordnung ihm die Erhaltung zuweist",
+          "Der Nachbar",
+          "Der Verwalter"
+        ],
+        "antwort": 1,
+        "erklaerung": "Weist die Gemeinschaftsordnung dem Berechtigten die Erhaltung zu, trägt er im Zweifel auch die Kosten. Der Ausgangspunkt des § 16 Abs. 2 S. 1 WEG gilt nur, wenn keine solche Zuweisung vorliegt."
+      },
+      {
+        "frage": "Kann die Dienstbarkeit am Sondernutzungsrecht selbst eingetragen werden?",
+        "optionen": [
+          "Ja, als Recht am Sondernutzungsrecht mit eigenem Rang",
+          "Ja, aber nur mit Zustimmung der Gemeinschaft",
+          "Nein, wohl aber am berechtigten Wohnungseigentum, auch wenn sie nur die Sondernutzungsfläche betrifft",
+          "Nein, eine Belastung der Fläche ist in keiner Form möglich"
+        ],
+        "antwort": 2,
+        "erklaerung": "Das Sondernutzungsrecht ist kein dingliches Recht, grundsätzlich nicht selbständig belastbar und ohne Rang. Die Dienstbarkeit kann aber am Wohnungseigentum bestellt werden, auch wenn ihr Ausübungsbereich nur die Sondernutzungsfläche umfasst."
+      },
+      {
+        "frage": "Darf A den Geräteschuppen ohne weiteres aufstellen?",
+        "optionen": [
+          "Ja, das Sondernutzungsrecht erlaubt jede bauliche Maßnahme",
+          "Nein, grundsätzlich unzulässig nach § 20 Abs. 1 WEG, sofern keine Zustimmung vorliegt",
+          "Ja, wenn A die Kosten trägt",
+          "Ja, weil Schuppen keine baulichen Maßnahmen sind"
+        ],
+        "antwort": 1,
+        "erklaerung": "Bauliche Maßnahmen auf der Fläche sind nach § 20 Abs. 1 WEG grundsätzlich unzulässig, sofern keine Zustimmung vorliegt. Ein Schuppen ist in der Beschreibung des Rechts nicht vorgesehen; die Kostentragung ersetzt die Zustimmung nicht."
+      }
+    ],
+    "erklaerung": "A trägt die Erhaltungskosten aufgrund der Zuweisung in der Gemeinschaftsordnung. Die Dienstbarkeit ist nur am Wohnungseigentum möglich, nicht am Sondernutzungsrecht. Der Schuppen bedarf mangels Vorsehung im Recht der Zustimmung nach § 20 Abs. 1 WEG."
+  }
 ]
