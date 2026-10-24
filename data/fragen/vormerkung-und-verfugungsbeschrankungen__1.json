@@ -1056,5 +1056,948 @@
   ],
   "antwort": 0,
   "erklaerung": "Wird ein Gebäude aufgestockt oder erweitert und nur der neue Teil aufgeteilt, kommt es allein auf diesen Teil an; für Flächen, auf denen zusätzlicher Wohnraum geschaffen wird, gilt die Genehmigungspflicht nicht (§ 250 Abs. 1 S. 2 BauGB). Wird dagegen das Gebäude erst nach einem Ausbau insgesamt erstmals aufgeteilt, ist es ein Bestandsgebäude; die letzte Option verkehrt das ins Gegenteil."
+ },
+ {
+  "id": "vorm1-048",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Umwandlungsgenehmigung nach § 250 BauGB: Genehmigungsanspruch, Grundbuchsperre und Negativattest",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/umwandlungsgenehmigung-nach-250-baugb-genehmigungsanspruch-grundbuchsperre-und-negativattest",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 250 Abs. 3 Nr. 3 BauGB"
+  ],
+  "frage": "Wohnungseigentum soll zur Eigennutzung an Mieter verkauft werden. Für welchen Anteil der Mieter besteht nach § 250 Abs. 3 BauGB ein Anspruch auf Erteilung der Umwandlungsgenehmigung?",
+  "optionen": [
+   "Mindestens die Hälfte der Mieter",
+   "Mindestens zwei Drittel der Mieter",
+   "Mindestens drei Viertel der Mieter",
+   "Sämtliche Mieter"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 250 Abs. 3 Nr. 3 BauGB ist die Genehmigung zu erteilen, wenn das Wohnungseigentum zur Eigennutzung an wenigstens zwei Drittel der Mieter verkauft werden soll. Die naheliegende Annahme einer bloßen Mehrheit der Mieter bleibt unter dem gesetzlichen Quorum; Zustimmung aller Mieter verlangt die Norm nicht."
+ },
+ {
+  "id": "vorm1-049",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Umwandlungsgenehmigung nach § 250 BauGB: Genehmigungsanspruch, Grundbuchsperre und Negativattest",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/umwandlungsgenehmigung-nach-250-baugb-genehmigungsanspruch-grundbuchsperre-und-negativattest",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 250 Abs. 5 S. 1 BauGB",
+   "§ 250 Abs. 5 S. 2 BauGB"
+  ],
+  "frage": "Trägt das Grundbuchamt trotz Grundbuchsperre nach § 250 BauGB ein, ohne dass die Genehmigung vorliegt, bleibt die Eintragung unwirksam, bis die Genehmigung nachgereicht wird.",
+  "antwort": false,
+  "erklaerung": "Nach § 250 Abs. 5 S. 2 BauGB gilt die Genehmigung als erteilt, wenn das Grundbuchamt trotz Grundbuchsperre einträgt; die Eintragung heilt also das Fehlen der Genehmigung. Eine Unwirksamkeit bis zur Nachreichung kennt die Vorschrift nicht."
+ },
+ {
+  "id": "vorm1-050",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Umwandlungsgenehmigung nach § 250 BauGB: Genehmigungsanspruch, Grundbuchsperre und Negativattest",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/umwandlungsgenehmigung-nach-250-baugb-genehmigungsanspruch-grundbuchsperre-und-negativattest",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 250 Abs. 5 BauGB"
+  ],
+  "frage": "In einem Gebiet mit Genehmigungsvorbehalt nach § 250 BauGB ist keine Genehmigung erforderlich, was sich dem Grundbuchamt nicht ohne Weiteres nachweisen lässt. Was ist richtig?",
+  "optionen": [
+   "Von der zuständigen Behörde kann ein Negativattest verlangt werden, obwohl das Gesetz einen solchen Anspruch nicht ausdrücklich regelt",
+   "Das Grundbuchamt hat die Genehmigungsfreiheit von Amts wegen zu prüfen und trägt ohne Nachweis ein",
+   "Eine Versicherung des Eigentümers an Eides statt ersetzt den Nachweis gegenüber dem Grundbuchamt",
+   "Der Anspruch auf ein Negativattest ist in § 250 Abs. 5 BauGB ausdrücklich geregelt"
+  ],
+  "antwort": 0,
+  "erklaerung": "Wegen der Grundbuchsperre ist die Genehmigungsfreiheit dem Grundbuchamt in der Praxis nachzuweisen; richtigerweise kann dafür ein Negativattest der zuständigen Behörde verlangt werden. Ein ausdrücklicher gesetzlicher Anspruch besteht nicht, sodass die letzte Aussage unzutreffend ist. Der Notar sollte das Negativattest deshalb frühzeitig beantragen."
+ },
+ {
+  "id": "vorm1-051",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Verfügungsbeschränkungen: gerichtliche Verfügungsverbote, Insolvenz, Nachlassverwaltung, Testamentsvollstreckung",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/verfugungsbeschrankungen-gerichtliche-verfugungsverbote-insolvenz-nachlassverwaltung-testamentsvollstreckung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 23 Abs. 2 ZVG",
+   "§ 135 Abs. 2 BGB"
+  ],
+  "frage": "Wie wirkt ein eingetragener Zwangsversteigerungsvermerk auf Verfügungen des Eigentümers und das Grundbuchverfahren?",
+  "optionen": [
+   "Er sperrt das Grundbuch nicht; Verfügung und Umschreibung sind möglich, die Verfügung ist aber gegenüber dem betreibenden Gläubiger relativ unwirksam",
+   "Er sperrt das Grundbuch wie die Vermerke nach dem BauGB, sodass ohne Zustimmung des Gläubigers nicht umgeschrieben wird",
+   "Er macht jede Verfügung des Eigentümers gegenüber jedermann absolut unwirksam",
+   "Er verhindert, dass der Eigentümer das Grundstück überhaupt veräußert, ohne dass das Verfahren berührt würde"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Beschlagnahme wirkt nur zugunsten des betreibenden Gläubigers (§§ 23 Abs. 1, 20 Abs. 1 ZVG, § 135 BGB); der Eigentümer kann weiter veräußern, das Verfahren läuft aber weiter und der Käufer verliert mit dem Zuschlag das Eigentum. Anders als die Vermerke nach dem BauGB bewirkt der Vermerk keine Grundbuchsperre. Absolute Unwirksamkeit tritt gerade nicht ein."
+ },
+ {
+  "id": "vorm1-052",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Verfügungsbeschränkungen: gerichtliche Verfügungsverbote, Insolvenz, Nachlassverwaltung, Testamentsvollstreckung",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/verfugungsbeschrankungen-gerichtliche-verfugungsverbote-insolvenz-nachlassverwaltung-testamentsvollstreckung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 32 InsO",
+   "§ 81 Abs. 1 S. 2 InsO",
+   "§§ 892, 893 BGB"
+  ],
+  "frage": "Wie wirkt der im Grundbuch eingetragene Insolvenzvermerk auf den Erwerb vom Schuldner?",
+  "optionen": [
+   "Er schließt gutgläubigen Erwerb aus",
+   "Der Erwerber bleibt über §§ 892, 893 BGB geschützt, weil § 81 Abs. 1 S. 2 InsO diese Vorschriften unberührt lässt",
+   "Er wirkt nur zugunsten des Gläubigers, der den Eröffnungsantrag gestellt hat",
+   "Er ist nur bei Grundbesitz einzutragen, der zur Masse gehört und dem Schuldner gehört, nicht bei sonstigem Grundbesitz"
+  ],
+  "antwort": 0,
+  "erklaerung": "§ 81 Abs. 1 S. 2 InsO lässt §§ 892, 893 BGB zwar unberührt, doch nur solange kein Insolvenzvermerk eingetragen ist; mit dem eingetragenen Vermerk ist guter Glaube ausgeschlossen. Der Vermerk wird auf Ersuchen des Insolvenzgerichts bei jedem Grundbesitz des Schuldners eingetragen (§ 32 InsO) und wirkt nicht nur für einzelne Gläubiger."
+ },
+ {
+  "id": "vorm1-053",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Verfügungsbeschränkungen: gerichtliche Verfügungsverbote, Insolvenz, Nachlassverwaltung, Testamentsvollstreckung",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/verfugungsbeschrankungen-gerichtliche-verfugungsverbote-insolvenz-nachlassverwaltung-testamentsvollstreckung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 29 GBO",
+   "§ 84 GBO"
+  ],
+  "frage": "Wie ist dem Grundbuchamt das Ende der Testamentsvollstreckung nachzuweisen, wenn es nicht offenkundig ist, damit der Testamentsvollstreckervermerk gelöscht werden kann?",
+  "optionen": [
+   "In der Form des § 29 GBO; meist ist ein neuer Erbschein ohne Testamentsvollstreckervermerk erforderlich",
+   "Eine formlose Erklärung des Testamentsvollstreckers über die Erledigung seiner Aufgaben genügt",
+   "Der Antrag des Erben genügt, weil der Vermerk nur zu seinem Schutz eingetragen ist",
+   "Das Grundbuchamt löscht den Vermerk stets von Amts wegen nach § 84 GBO"
+  ],
+  "antwort": 0,
+  "erklaerung": "Das Ende der Testamentsvollstreckung ist, sofern nicht offenkundig (z. B. bei Befristung), in der Form des § 29 GBO nachzuweisen; die bloße Erklärung des Testamentsvollstreckers reicht nicht. Von Amts wegen wegen Gegenstandslosigkeit wird der Vermerk nur gelöscht, wenn der Testamentsvollstrecker das Grundstück veräußert oder ein Vermächtnis erfüllt (§ 84 GBO)."
+ },
+ {
+  "id": "vorm1-054",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Verfügungsbeschränkungen: gerichtliche Verfügungsverbote, Insolvenz, Nachlassverwaltung, Testamentsvollstreckung",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/verfugungsbeschrankungen-gerichtliche-verfugungsverbote-insolvenz-nachlassverwaltung-testamentsvollstreckung",
+  "typ": "fall",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 40 Abs. 2 GBO",
+   "§ 84 GBO",
+   "§ 2211 Abs. 1 BGB"
+  ],
+  "frage": "Grundstücksverkauf durch den Testamentsvollstrecker",
+  "sachverhalt": "Erblasser E hat Testamentsvollstreckung angeordnet; im Grundbuch sind sein Sohn S als Erbe und der Testamentsvollstreckervermerk eingetragen. Der Testamentsvollstrecker T verkauft ein Nachlassgrundstück an K und gibt die Erklärungen zur Auflassung ab. Danach soll das Grundbuch bereinigt werden.",
+  "schritte": [
+   {
+    "frage": "Wie legitimiert sich T gegenüber dem Grundbuchamt, und was gilt für die Voreintragung?",
+    "optionen": [
+     "Durch Testamentsvollstreckerzeugnis; für seine Erklärungen ist eine Voreintragung entbehrlich",
+     "Durch Erbschein des S; T muss zuvor selbst als Verfügungsberechtigter eingetragen werden",
+     "Durch Erklärung des S, dem T die Verfügung zu gestatten; eine Voreintragung ist entbehrlich",
+     "Durch Testamentsvollstreckerzeugnis; T muss aber zuvor im Grundbuch voreingetragen werden"
+    ],
+    "antwort": 0,
+    "erklaerung": "Der Testamentsvollstrecker legitimiert sich durch Testamentsvollstreckerzeugnis; für seine Erklärungen ist die Voreintragung entbehrlich (§ 40 Abs. 2 GBO). Der Erbe S kann über das der Verwaltung unterliegende Grundstück nicht verfügen (§ 2211 Abs. 1 BGB), weshalb sein Mitwirken die Befugnis nicht ersetzt."
+   },
+   {
+    "frage": "Was geschieht mit dem Testamentsvollstreckervermerk, nachdem T das Grundstück wirksam veräußert hat?",
+    "optionen": [
+     "Das Amt des T bleibt bestehen, das Grundstück wird frei und der Vermerk wird wegen Gegenstandslosigkeit von Amts wegen gelöscht",
+     "Das Amt des T endet mit der Veräußerung, sodass ein neuer Erbschein nötig wird",
+     "Der Vermerk bleibt eingetragen, bis alle Nachlassgegenstände verwertet sind",
+     "Der Vermerk wird nur auf Bewilligung des S in der Form des § 29 GBO gelöscht"
+    ],
+    "antwort": 0,
+    "erklaerung": "Nach Veräußerung durch den Testamentsvollstrecker bleibt sein Amt bestehen, der Gegenstand wird aber frei; der Vermerk wird nach § 84 GBO von Amts wegen gelöscht. Ein neuer Erbschein wäre nur beim Ende der Testamentsvollstreckung insgesamt nötig."
+   },
+   {
+    "frage": "Was sollte der Notar im Vollzug zusätzlich veranlassen?",
+    "optionen": [
+     "Die Löschung des Testamentsvollstreckervermerks vorsorglich ausdrücklich beantragen",
+     "Nichts, weil die Löschung ohne Antrag nur erfolgt, wenn das Grundbuchamt den Vermerk übersieht",
+     "Einen Nacherben-Erbschein vorlegen, damit der Vermerk gelöscht wird",
+     "Die Zustimmung des Nachlassgerichts zur Löschung einholen"
+    ],
+    "antwort": 0,
+    "erklaerung": "Die Löschung erfolgt zwar von Amts wegen, der Praxishinweis lautet aber, sie nach der Veräußerung vorsorglich ausdrücklich zu beantragen. Ein Nacherben-Erbschein betrifft die Vor- und Nacherbschaft, nicht die Testamentsvollstreckung."
+   }
+  ],
+  "erklaerung": "T legitimiert sich durch Zeugnis, eine Voreintragung ist nach § 40 Abs. 2 GBO entbehrlich. Nach der Veräußerung wird das Grundstück frei, sein Amt besteht fort und der Vermerk ist nach § 84 GBO von Amts wegen zu löschen; die Löschung sollte der Notar vorsorglich beantragen."
+ },
+ {
+  "id": "vorm1-055",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Verfügungsbeschränkungen: öffentliches Recht",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/verfugungsbeschrankungen-offentliches-recht",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 144 Abs. 2 BauGB",
+   "§ 144 Abs. 4 BauGB",
+   "§ 51 Abs. 1 S. 1 Nr. 1 BauGB"
+  ],
+  "frage": "Welche Verfügungen sind im förmlich festgelegten Sanierungsgebiet genehmigungspflichtig?",
+  "optionen": [
+   "Nur die in § 144 Abs. 2 BauGB genannten Rechtsvorgänge, insbesondere Veräußerung, Belastung und Teilung",
+   "Sämtliche Verfügungen über das Grundstück und über Rechte am Grundstück",
+   "Nur die rechtsgeschäftliche Veräußerung; Belastungen und Teilungen sind genehmigungsfrei",
+   "Alle Rechtsvorgänge, jedoch erst nach Eintragung des Sanierungsvermerks im Grundbuch"
+  ],
+  "antwort": 0,
+  "erklaerung": "Im Sanierungsgebiet ist nicht jede Verfügung genehmigungspflichtig, sondern nur der Katalog des § 144 Abs. 2 BauGB (u. a. Veräußerung, Belastung, Teilung); Ausnahmen regelt § 144 Abs. 4 BauGB. Die umfassende Genehmigungspflicht für Verfügungen über Grundstück und Rechte gilt dagegen im Umlegungsgebiet (§ 51 Abs. 1 S. 1 Nr. 1 BauGB). Die Pflicht beginnt bereits mit der ortsüblichen Bekanntmachung der Satzung, nicht erst mit dem Vermerk."
+ },
+ {
+  "id": "vorm1-056",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Verfügungsbeschränkungen: öffentliches Recht",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/verfugungsbeschrankungen-offentliches-recht",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 49 Abs. 1 VwVfG",
+   "§ 48 VwVfG"
+  ],
+  "frage": "Eine behördliche Genehmigung, durch die ein Kaufvertrag wirksam geworden ist, wird später widerrufen. Welche Wirkung hat der Widerruf?",
+  "optionen": [
+   "Er wirkt nur für die Zukunft und geht ins Leere, weil die Rechtslage durch die Genehmigung bereits endgültig verändert ist",
+   "Der Vertrag wird rückwirkend wieder schwebend unwirksam",
+   "Der Vertrag bleibt wirksam, die Behörde kann aber über eine gesetzliche Fiktion die Genehmigung als versagt behandeln",
+   "Der Widerruf ist ausgeschlossen, nur die Rücknahme nach § 48 VwVfG ist zulässig"
+  ],
+  "antwort": 0,
+  "erklaerung": "Genehmigungen können grundsätzlich zurückgenommen (§ 48 VwVfG) oder widerrufen (§ 49 VwVfG) werden, der Widerruf wirkt aber nur für die Zukunft (§ 49 Abs. 1 VwVfG). Da der Vertrag mit der Genehmigung wirksam geworden ist, geht er ins Leere; eine Rückwirkung tritt nicht ein. Gesetzliche Fiktionen für den Fall fehlenden Bescheids gelten hier nicht entsprechend."
+ },
+ {
+  "id": "vorm1-057",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Verfügungsbeschränkungen: öffentliches Recht",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/verfugungsbeschrankungen-offentliches-recht",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 51 BauGB",
+   "§ 144 Abs. 2 BauGB"
+  ],
+  "frage": "Ordne dem Vorgang die jeweils erforderliche Genehmigung bzw. Stelle zu.",
+  "paare": [
+   [
+    "Verfügung im Umlegungsgebiet",
+    "Genehmigung der Umlegungsbehörde (§ 51 BauGB)"
+   ],
+   [
+    "Veräußerung im förmlich festgelegten Sanierungsgebiet",
+    "Genehmigung der Gemeinde (§ 144 Abs. 2 BauGB)"
+   ],
+   [
+    "Veräußerung eines landwirtschaftlichen Grundstücks in Baden-Württemberg",
+    "Genehmigung der Landwirtschaftsbehörde nach dem ASVG, ersatzweise Negativzeugnis"
+   ],
+   [
+    "Grundstücksveräußerung durch eine Gemeinde",
+    "Genehmigung ihrer Aufsichtsbehörde nach der Gemeindeordnung"
+   ]
+  ],
+  "erklaerung": "Die Umlegungsbehörde genehmigt nach § 51 BauGB, im Sanierungsgebiet die Gemeinde nach § 144 Abs. 2 BauGB. Land- und forstwirtschaftliche Grundstücke in Baden-Württemberg unterliegen dem ASVG, wobei ein Negativzeugnis einer Genehmigung gleichsteht. Veräußert die Gemeinde selbst, bedarf es der Genehmigung ihrer Aufsichtsbehörde."
+ },
+ {
+  "id": "vorm1-058",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Verfügungsbeschränkungen: öffentliches Recht",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/verfugungsbeschrankungen-offentliches-recht",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 143 Abs. 2 BauGB"
+  ],
+  "frage": "Der Sanierungsvermerk wird auf Ersuchen der Sanierungsbehörde eingetragen; gutgläubiger Erwerb ist dann ausgeschlossen.",
+  "antwort": true,
+  "erklaerung": "Nach § 143 Abs. 2 BauGB trägt das Grundbuchamt den Sanierungsvermerk auf Ersuchen der Sanierungsbehörde ein; gutgläubiger Erwerb ist ausgeschlossen. Anders liegt es bei der Flurbereinigung, wo das Veräußerungsverbot nur relativ wirkt und gutgläubiger Erwerb möglich bleibt."
+ },
+ {
+  "id": "vorm1-059",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Verfügungsbeschränkungen: Privatrecht, Nacherbenvermerk und Widerspruch",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/verfugungsbeschrankungen-privatrecht-nacherbenvermerk-und-widerspruch",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 2113 Abs. 1 BGB",
+   "§ 2113 Abs. 2 BGB",
+   "§ 2136 BGB"
+  ],
+  "frage": "Welche Verfügung kann der von den Beschränkungen befreite Vorerbe über ein Nachlassgrundstück ohne Mitwirkung des Nacherben vornehmen?",
+  "optionen": [
+   "Den vollentgeltlichen Verkauf an einen Dritten",
+   "Die Schenkung des Grundstücks an einen Verwandten",
+   "Den teilweise unentgeltlichen Verkauf unter Wert",
+   "Jede Verfügung, weil die Befreiung nach § 2136 BGB auch unentgeltliche Verfügungen erfasst"
+  ],
+  "antwort": 0,
+  "erklaerung": "Der befreite Vorerbe darf vollentgeltlich verfügen (§ 2136 BGB). Von dem Verbot ganz oder teilweise unentgeltlicher Verfügungen (§ 2113 Abs. 2 BGB) kann der Erblasser nicht befreien; dafür bleibt die Zustimmung des Nacherben nötig. Die letzte Aussage verkennt diese Grenze der Befreiung."
+ },
+ {
+  "id": "vorm1-060",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Verfügungsbeschränkungen: Privatrecht, Nacherbenvermerk und Widerspruch",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/verfugungsbeschrankungen-privatrecht-nacherbenvermerk-und-widerspruch",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 51 GBO"
+  ],
+  "frage": "Welche Wirkung hat der von Amts wegen eingetragene Nacherbenvermerk?",
+  "optionen": [
+   "Er bewirkt keine Grundbuchsperre; nach einer wirksamen Verfügung des Vorerben wird er wegen Unrichtigkeit gelöscht",
+   "Er sperrt das Grundbuch, sodass ohne Zustimmung des Nacherben nicht umgeschrieben werden darf",
+   "Er schließt jede Verfügung des Vorerben über Grundstücke endgültig aus",
+   "Er wird nur auf Antrag des Nacherben eingetragen"
+  ],
+  "antwort": 0,
+  "erklaerung": "Der Nacherbenvermerk wird bei Eintragung des Vorerben von Amts wegen eingetragen (§ 51 GBO) und schützt den Nacherben, sperrt aber das Grundbuch nicht. Er unterscheidet sich darin vom Testamentsvollstreckervermerk. Nach einer wirksamen Verfügung des Vorerben ist das Grundbuch insoweit unrichtig und der Vermerk wird gelöscht."
+ },
+ {
+  "id": "vorm1-061",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Verfügungsbeschränkungen: Privatrecht, Nacherbenvermerk und Widerspruch",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/verfugungsbeschrankungen-privatrecht-nacherbenvermerk-und-widerspruch",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 137 BGB"
+  ],
+  "frage": "Der Veräußerer will sicherstellen, dass der Erwerber das Grundstück nicht weiterveräußert oder belastet. Welche Gestaltung ist wirksam?",
+  "optionen": [
+   "Ein vorbehaltenes Rücktrittsrecht für den Fall der Weiterveräußerung oder Belastung; der bedingte Rückübertragungsanspruch kann durch Vormerkung gesichert werden",
+   "Ein vertragliches Veräußerungsverbot, das mit dinglicher Wirkung im Grundbuch eingetragen wird",
+   "Ein Widerspruch nach § 899 BGB gegen die Richtigkeit des Grundbuchs",
+   "Ein Abtretungsausschluss nach §§ 399, 413 BGB für das Eigentum"
+  ],
+  "antwort": 0,
+  "erklaerung": "Ein vertragliches Verfügungsverbot wirkt nur schuldrechtlich (§ 137 BGB); ein Verstoß löst allenfalls Schadensersatzansprüche aus. Praktisch behilft man sich mit einem Rücktrittsrecht, dessen bedingter Anspruch vormerkbar ist. Der Widerspruch setzt eine Unrichtigkeit des Grundbuchs voraus und der Abtretungsausschluss betrifft Grundpfandrechte."
+ },
+ {
+  "id": "vorm1-062",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Verfügungsbeschränkungen",
+  "seite": "Verfügungsbeschränkungen: Privatrecht, Nacherbenvermerk und Widerspruch",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/verfugungsbeschrankungen-privatrecht-nacherbenvermerk-und-widerspruch",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 2113 Abs. 3 BGB",
+   "§ 51 GBO"
+  ],
+  "frage": "Für die Eintragung der Nacherben beim Nacherbfall genügt der Erbschein nach dem Erblasser.",
+  "antwort": false,
+  "erklaerung": "Der Erbschein nach dem Erblasser weist nur die Vorerbenstellung aus; für die Eintragung der Nacherben ist ein Nacherben-Erbschein erforderlich. Der Notar sollte beim Nacherbfall daher zugleich die Löschung des Nacherbenvermerks beantragen und den Nacherben-Erbschein vorlegen."
+ },
+ {
+  "id": "vorm1-063",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Vormerkung",
+  "seite": "Vormerkung: Bewilligung, Urteil, einstweilige Verfügung und Eintragung",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-bewilligung-urteil-einstweilige-verfugung-und-eintragung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 885 Abs. 1 S. 2 BGB",
+   "§ 935 ZPO"
+  ],
+  "frage": "Was muss der Gläubiger für den Erlass einer einstweiligen Verfügung auf Eintragung einer Vormerkung glaubhaft machen?",
+  "optionen": [
+   "Nur den zu sichernden Anspruch; eine Gefährdung muss nicht glaubhaft gemacht werden",
+   "Den Anspruch und die Gefährdung, wie bei einstweiligen Verfügungen über bewegliche Sachen",
+   "Den Anspruch durch Vorlage des notariellen Verpflichtungsgeschäfts in Ausfertigung",
+   "Nur die Gefährdung, weil der Anspruch bereits aus dem Grundbuch ersichtlich ist"
+  ],
+  "antwort": 0,
+  "erklaerung": "Für die Vormerkung genügt die Glaubhaftmachung des Anspruchs; eine Gefährdung muss anders als bei beweglichen Sachen nicht glaubhaft gemacht werden (§ 885 Abs. 1 S. 2 BGB), weil sie sich schon aus der Möglichkeit von Zwischenverfügungen ergibt. Die erste Alternative überträgt die allgemeinen Anforderungen des § 935 ZPO fälschlich auf die Vormerkung."
+ },
+ {
+  "id": "vorm1-064",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Vormerkung",
+  "seite": "Vormerkung: Bewilligung, Urteil, einstweilige Verfügung und Eintragung",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-bewilligung-urteil-einstweilige-verfugung-und-eintragung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 879 Abs. 1 S. 1 BGB",
+   "§ 19 Abs. 1 GBV"
+  ],
+  "frage": "Wo wird eine Vormerkung zur Sicherung des Anspruchs auf Bestellung einer Hypothek im Grundbuch eingetragen?",
+  "optionen": [
+   "In Abteilung II über die ganze Spaltenbreite",
+   "In Abteilung II halbspaltig links",
+   "In Abteilung III halbspaltig links; die Hypothek wird später rechts daneben eingetragen",
+   "In Abteilung III über die ganze Spaltenbreite"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nur die Erwerbsvormerkung steht in Abteilung II über die ganze Spaltenbreite. Andere Vormerkungen kommen halbspaltig links in die Abteilung, in die das vorgemerkte Recht gehört, hier Abteilung III; das endgültige Recht wird rechts daneben eingetragen, weil sich der Rang nach der Eintragungsreihenfolge richtet (§ 879 Abs. 1 S. 1 BGB)."
+ },
+ {
+  "id": "vorm1-065",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Vormerkung",
+  "seite": "Vormerkung: Bewilligung, Urteil, einstweilige Verfügung und Eintragung",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-bewilligung-urteil-einstweilige-verfugung-und-eintragung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 19 GBO",
+   "§ 29 GBO"
+  ],
+  "frage": "Was prüft das Grundbuchamt beim Antrag auf Eintragung einer Vormerkung hinsichtlich des vorzumerkenden Anspruchs?",
+  "optionen": [
+   "Es verlangt keinen Nachweis des Anspruchs, aber die Angabe seines Rechtsgrundes, und lehnt nur ab, wenn es sicher weiß, dass der Anspruch nicht besteht oder nicht vormerkbar ist",
+   "Es verlangt die Vorlage des Verpflichtungsgeschäfts in der Form des § 29 GBO und prüft dessen Wirksamkeit",
+   "Es prüft den Anspruch überhaupt nicht und braucht auch den Rechtsgrund nicht zu kennen",
+   "Es prüft den Anspruch in vollem Umfang und lehnt bereits bei bloßen Zweifeln ab"
+  ],
+  "antwort": 0,
+  "erklaerung": "Das Verpflichtungsgeschäft ist nicht einzureichen und der Anspruch wird nicht geprüft. Der Rechtsgrund ist jedoch anzugeben, weil nur ein bestimmter oder bestimmbarer Anspruch sicherbar ist. Ablehnen darf das Grundbuchamt nur bei sicherem Wissen um das Fehlen oder die fehlende Vormerkbarkeit des Anspruchs."
+ },
+ {
+  "id": "vorm1-066",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Vormerkung",
+  "seite": "Vormerkung: Bewilligung, Urteil, einstweilige Verfügung und Eintragung",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-bewilligung-urteil-einstweilige-verfugung-und-eintragung",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 894 ZPO",
+   "§ 895 ZPO"
+  ],
+  "frage": "Ein nur vorläufig vollstreckbares Urteil, das zur Abgabe der Bewilligung der Vormerkung selbst verurteilt, genügt nach § 895 ZPO für die Eintragung der Vormerkung.",
+  "antwort": false,
+  "erklaerung": "Ein rechtskräftiges Urteil ersetzt die Bewilligung (§ 894 ZPO). Ist es nur vorläufig vollstreckbar und verurteilt es zur Bewilligung der Vormerkung selbst, scheidet die Eintragung aus, weil § 895 S. 1 ZPO diesen Fall nicht erfasst. § 895 ZPO greift, wenn zur Abgabe einer Erklärung verurteilt wird, aufgrund deren das endgültige Recht eingetragen werden soll (z. B. Auflassung)."
+ },
+ {
+  "id": "vorm1-067",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Vormerkung",
+  "seite": "Vormerkung: Bewilligung, Urteil, einstweilige Verfügung und Eintragung",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-bewilligung-urteil-einstweilige-verfugung-und-eintragung",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 885 BGB",
+   "§ 13 GBO",
+   "§ 39 GBO",
+   "§ 47 GBO"
+  ],
+  "frage": "Ordne die Eintragungsvoraussetzung der Vormerkung der jeweiligen Anforderung zu.",
+  "paare": [
+   [
+    "Grundlage der Eintragung",
+    "Bewilligung des Betroffenen, Urteil oder einstweilige Verfügung"
+   ],
+   [
+    "Verfahrensantrag",
+    "Antrag des Betroffenen oder Berechtigten nach § 13 GBO"
+   ],
+   [
+    "Voreintragung",
+    "Betroffener muss nach § 39 GBO eingetragen sein, außer in den Fällen des § 40 GBO"
+   ],
+   [
+    "Mehrere Vormerkungsberechtigte",
+    "Bewilligung muss das Gemeinschaftsverhältnis angeben (§ 47 GBO)"
+   ]
+  ],
+  "erklaerung": "Die Eintragung setzt eine Grundlage nach § 885 Abs. 1 BGB, einen Antrag nach § 13 GBO und die Voreintragung des Betroffenen nach § 39 GBO voraus. Bei mehreren Berechtigten ist zusätzlich das Gemeinschaftsverhältnis nach § 47 GBO anzugeben, etwa Bruchteilsmiteigentum oder Gesamtberechtigung nach § 428 BGB."
+ },
+ {
+  "id": "vorm1-068",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Vormerkung",
+  "seite": "Vormerkung: Erlöschen und gutgläubiger Erwerb",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-erloschen-und-gutglaubiger-erwerb",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 875 BGB",
+   "§ 876 BGB",
+   "§ 19 GBO"
+  ],
+  "frage": "Eine Vormerkung wird ohne Bewilligung des Berechtigten und ohne Unrichtigkeitsnachweis gelöscht. Was gilt?",
+  "optionen": [
+   "Die Vormerkung besteht materiell fort; der Berechtigte kann Wiedereintragung verlangen und zum Schutz vor gutgläubigem Erwerb einen Widerspruch eintragen lassen",
+   "Die Vormerkung ist mit der Löschung erloschen, weil die Eintragung konstitutiv wirkt",
+   "Die Vormerkung erlischt, der Berechtigte hat nur Schadensersatzansprüche",
+   "Die Vormerkung bleibt bestehen, ein Widerspruch ist aber ausgeschlossen"
+  ],
+  "antwort": 0,
+  "erklaerung": "Zur Aufhebung gehört die Aufgabe durch den Berechtigten und die Eintragung der Löschung (§§ 875, 876 BGB entsprechend), die Löschungsbewilligung bedarf der Form des § 29 GBO. Wird ohne Bewilligung oder Nachweis gelöscht, bleibt die Vormerkung materiell bestehen. Der typische Fehler ist, sie für untergegangen zu halten."
+ },
+ {
+  "id": "vorm1-069",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Vormerkung",
+  "seite": "Vormerkung: Erlöschen und gutgläubiger Erwerb",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-erloschen-und-gutglaubiger-erwerb",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 883 Abs. 2 BGB"
+  ],
+  "frage": "Der vorgemerkte Anspruch ist erfüllt, der Erwerber ist als Eigentümer eingetragen. Wie ist mit der Vormerkung zu verfahren?",
+  "optionen": [
+   "Sie ist gegenstandslos, bleibt aber erheblich und ist nicht zu löschen, wenn Zwischenrechte eingetragen sind; das Grundbuchamt löscht sie regelmäßig nur auf besonderen Antrag",
+   "Sie wird mit der Umschreibung stets von Amts wegen gelöscht",
+   "Sie erlischt mit der Erfüllung und darf auch bei eingetragenen Zwischenrechten gelöscht werden",
+   "Sie bleibt als quasi-dingliches Recht dauerhaft bestehen und ist nicht löschbar"
+  ],
+  "antwort": 0,
+  "erklaerung": "Mit Erfüllung wird die Vormerkung gegenstandslos. Bei Zwischenrechten bleibt sie jedoch erheblich, weil sie diesen gegenüber den Rang und die Unwirksamkeit sichert; sie darf dann nicht gelöscht werden. Der Notar sollte deshalb nach der Umschreibung prüfen, ob Zwischenrechte eingetragen wurden, bevor er die Löschung beantragt."
+ },
+ {
+  "id": "vorm1-070",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Vormerkung",
+  "seite": "Vormerkung: Erlöschen und gutgläubiger Erwerb",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-erloschen-und-gutglaubiger-erwerb",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§§ 892, 893 BGB"
+  ],
+  "frage": "Ein Nichtberechtigter bewilligt die Vormerkung. Wann erwirbt der Begünstigte sie gutgläubig?",
+  "optionen": [
+   "Wenn er mindestens bis zur Antragstellung für ihre Eintragung auf die Richtigkeit des Grundbuchs vertraut",
+   "Nur wenn er bis zur Eintragung der Vormerkung gutgläubig bleibt",
+   "Nur wenn zusätzlich kein Widerspruch bis zur Eintragung des Eigentums eingetragen wird",
+   "Nie, weil die Vormerkung als akzessorisches Sicherungsmittel nicht gutgläubig erworben werden kann"
+  ],
+  "antwort": 0,
+  "erklaerung": "Für den guten Glauben wirkt die Vormerkung rangwahrend: Es genügt der gute Glaube bis zur Beantragung der Eintragung der Vormerkung. Ein später eingetragener Widerspruch oder eine spätere Berichtigung verhindert den Erwerb nicht mehr. Ausgeschlossen ist nur der gutgläubige Erwerb, wenn der gesicherte Anspruch selbst nicht besteht."
+ },
+ {
+  "id": "vorm1-071",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Vormerkung",
+  "seite": "Vormerkung: Erlöschen und gutgläubiger Erwerb",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-erloschen-und-gutglaubiger-erwerb",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§§ 892, 893 BGB"
+  ],
+  "frage": "Besteht der durch die Vormerkung zu sichernde Anspruch nicht, kann die Vormerkung dennoch gutgläubig erworben werden, weil das Grundbuch öffentlichen Glauben genießt.",
+  "antwort": false,
+  "erklaerung": "§§ 892, 893 BGB schützen nur das Vertrauen in die Richtigkeit des Grundbuchs, nicht in den Bestand der Forderung. Wegen der Akzessorietät scheidet ein gutgläubiger Erwerb der Vormerkung aus, wenn der Anspruch nicht besteht."
+ },
+ {
+  "id": "vorm1-072",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Vormerkung",
+  "seite": "Vormerkung: Gestaltung im Grundstückskaufvertrag",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-gestaltung-im-grundstuckskaufvertrag",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Beim Kaufvertrag sind Schwierigkeiten absehbar (z. B. Finanzierung noch ungeklärt). Welche Gestaltung schützt den Veräußerer vor einer belastenden Vormerkung?",
+  "optionen": [
+   "Die Eintragung der Vormerkung wird hinausgeschoben, bis der Vertrag wirksam ist, eine Finanzierungsbestätigung vorliegt oder ein Teil des Kaufpreises auf Notaranderkonto hinterlegt ist",
+   "Der Käufer verzichtet auf die Bewilligung der Vormerkung",
+   "Die Vormerkung wird nur auf Antrag des Veräußerers eingetragen",
+   "Die Vormerkung wird mit einer auflösenden Bedingung für den Fall des Rücktritts eingetragen, die ohne Löschungsbewilligung wirkt"
+  ],
+  "antwort": 0,
+  "erklaerung": "Für den Veräußerer ist die Vormerkung eine Last, wenn der Vertrag scheitert, weil das Grundstück bis zur Löschung nur eingeschränkt verkehrsfähig ist. Gegenmittel sind die aufgeschobene Eintragung oder eine vorab erklärte Löschungsbewilligung des Vorgemerkten. Ein Verzicht auf die Bewilligung nähme dem Erwerber den Schutz und ist nicht der Weg der Gestaltung."
+ },
+ {
+  "id": "vorm1-073",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Vormerkung",
+  "seite": "Vormerkung: Gestaltung im Grundstückskaufvertrag",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-gestaltung-im-grundstuckskaufvertrag",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [],
+  "frage": "Die Parteien vertrauen einander und wollen die Kosten der Vormerkungseintragung sparen. Was ist zu empfehlen?",
+  "optionen": [
+   "Auf die Eintragung verzichten, die Bewilligung der Vormerkung aber in die Urkunde aufnehmen, damit der Erwerber den Eintragungsantrag jederzeit nachholen kann",
+   "Auf Bewilligung und Eintragung verzichten, weil beide Kosten auslösen",
+   "Die Bewilligung weglassen und die Eintragung sofort beantragen",
+   "Die Vormerkung nur eintragen, wenn der Veräußerer zustimmt, im Vertrag aber keine Bewilligung erklären"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Bewilligung im Kaufvertrag löst keine zusätzlichen Kosten aus, die Eintragung im Grundbuch dagegen schon. Wer auch auf die Bewilligung verzichtet, nimmt dem Erwerber die Möglichkeit, den Antrag später nachzuholen; das ist der typische Fehler."
+ },
+ {
+  "id": "vorm1-074",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Vormerkung",
+  "seite": "Vormerkung: Gestaltung im Grundstückskaufvertrag",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-gestaltung-im-grundstuckskaufvertrag",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [],
+  "frage": "Die Bewilligung der Vormerkung im Kaufvertrag löst zusätzliche Kosten aus, die Eintragung im Grundbuch nicht.",
+  "antwort": false,
+  "erklaerung": "Es ist umgekehrt: Die Bewilligung im Kaufvertrag verursacht keine zusätzlichen Kosten, die Eintragung im Grundbuch dagegen schon. Deshalb wird im Vertrauensfall häufig nur auf die Eintragung verzichtet."
+ },
+ {
+  "id": "vorm1-075",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Vormerkung",
+  "seite": "Vormerkung: Rang, relative Unwirksamkeit und Wirksamkeitsvermerk",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-rang-relative-unwirksamkeit-und-wirksamkeitsvermerk",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 888 Abs. 1 BGB",
+   "§ 894 BGB",
+   "§ 29 GBO"
+  ],
+  "frage": "Nach Eintragung der Vormerkung für K veräußert V das Grundstück an D, der als Eigentümer eingetragen wird. Wie erreicht K seine Umschreibung?",
+  "optionen": [
+   "Durch den Anspruch gegen D auf Zustimmung zur Eintragung nach § 888 Abs. 1 BGB, in der Form des § 29 GBO erteilt",
+   "Durch einen Berichtigungsanspruch gegen D nach § 894 BGB, weil das Grundbuch unrichtig geworden ist",
+   "Gar nicht, weil der Erfüllungsanspruch durch die Verfügung an D unmöglich geworden ist",
+   "Durch Antrag auf Löschung der Eintragung des D von Amts wegen, weil das Grundbuchamt vormerkungswidrige Anträge nicht vollziehen darf"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Verfügung an D ist dem K gegenüber relativ unwirksam (§ 883 Abs. 2 BGB), D bleibt aber Eigentümer. K hat daher nach § 888 Abs. 1 BGB einen Zustimmungsanspruch gegen D, notfalls im Klageweg. Ein Berichtigungsanspruch nach § 894 BGB besteht nicht, da das Grundbuch nicht unrichtig ist; vormerkungswidrige Anträge muss das Grundbuchamt vollziehen."
+ },
+ {
+  "id": "vorm1-076",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Vormerkung",
+  "seite": "Vormerkung: Rang, relative Unwirksamkeit und Wirksamkeitsvermerk",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-rang-relative-unwirksamkeit-und-wirksamkeitsvermerk",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§§ 182 ff. BGB",
+   "§ 883 Abs. 2 BGB"
+  ],
+  "frage": "Wie kann der Vormerkungsberechtigte erreichen, dass ein nach der Vormerkung eingetragenes Recht ihm gegenüber wirksam ist, ohne im Rang zurückzutreten?",
+  "optionen": [
+   "Durch seine Zustimmung, die als Wirksamkeitsvermerk bei beiden Eintragungen dokumentiert wird",
+   "Durch Rangrücktritt der Vormerkung hinter das später eingetragene Recht",
+   "Durch Löschung der Vormerkung und Neueintragung hinter dem Recht",
+   "Durch Bewilligung eines Rangvorbehalts bei der bereits eingetragenen Vormerkung"
+  ],
+  "antwort": 0,
+  "erklaerung": "Der Berechtigte kann durch Zustimmung nach §§ 182 ff. BGB auf den Schutz des § 883 Abs. 2 BGB verzichten und die Verfügung so endgültig wirksam machen. Im Grundbuch wird das durch den Wirksamkeitsvermerk bei Vormerkung und begünstigtem Recht verlautbart; ein Rangrücktritt ist nicht nötig. Ein Rangvorbehalt müsste bereits bei Bewilligung der Vormerkung bestehen."
+ },
+ {
+  "id": "vorm1-077",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Vormerkung",
+  "seite": "Vormerkung: Rang, relative Unwirksamkeit und Wirksamkeitsvermerk",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-rang-relative-unwirksamkeit-und-wirksamkeitsvermerk",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 883 Abs. 2 BGB",
+   "§ 275 Abs. 1 BGB"
+  ],
+  "frage": "Wird der Dritte nach Eintragung der Vormerkung Eigentümer, entfällt der Erfüllungsanspruch des Käufers wegen Unmöglichkeit nach § 275 Abs. 1 BGB.",
+  "antwort": false,
+  "erklaerung": "Die Verfügung ist dem Käufer gegenüber relativ unwirksam (§ 883 Abs. 2 BGB). Der Erfüllungsanspruch geht daher nicht unter, und der Käufer kann vom Verkäufer weiterhin die Auflassung verlangen (§§ 433 Abs. 1, 311b Abs. 1 BGB)."
+ },
+ {
+  "id": "vorm1-078",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Vormerkung",
+  "seite": "Vormerkung: Rang, relative Unwirksamkeit und Wirksamkeitsvermerk",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-rang-relative-unwirksamkeit-und-wirksamkeitsvermerk",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 883 Abs. 2 BGB",
+   "§ 888 Abs. 1 BGB",
+   "§ 878 BGB"
+  ],
+  "frage": "Grundschuld nach eingetragener Eigentumsvormerkung",
+  "sachverhalt": "Käufer K hat eine Eigentumsvormerkung am Grundstück des Verkäufers V erworben. Danach bewilligt V der Bank B eine Grundschuld, die ins Grundbuch eingetragen wird. K möchte das Grundstück lastenfrei erwerben, ist aber zur Not bereit, die Grundschuld mitzutragen, wenn B im Gegenzug nicht angegriffen wird.",
+  "schritte": [
+   {
+    "frage": "War V nach Eintragung der Vormerkung noch verfügungsbefugt, und musste das Grundbuchamt die Grundschuld eintragen?",
+    "optionen": [
+     "Ja; die Vormerkung bewirkt weder Verfügungssperre noch Grundbuchsperre, das Grundbuchamt muss vormerkungswidrige Anträge vollziehen",
+     "Nein; die Vormerkung entzieht dem V die Verfügungsmacht bis zur Eintragung des K",
+     "Nein; das Grundbuchamt hätte den Antrag wegen der Vormerkung zurückweisen müssen",
+     "Ja; allerdings nur, wenn K der Grundschuld zugestimmt hat"
+    ],
+    "antwort": 0,
+    "erklaerung": "Weder Verpflichtungsgeschäft noch Vormerkung beschränken die Verfügungsmacht des Eigentümers, und die Vormerkung bewirkt keine Grundbuchsperre. Der Berechtigte muss sich selbst gegen vormerkungswidrige Verfügungen wehren."
+   },
+   {
+    "frage": "Wie wirkt die Grundschuld gegenüber K?",
+    "optionen": [
+     "Sie ist K gegenüber relativ unwirksam, sobald sein Eigentumserwerb eintritt",
+     "Sie ist gegenüber jedermann absolut unwirksam",
+     "Sie ist wirksam, K kann nur Schadensersatz von V verlangen",
+     "Sie ist nur unwirksam, wenn B bösgläubig war"
+    ],
+    "antwort": 0,
+    "erklaerung": "Nach § 883 Abs. 2 BGB sind Verfügungen, die den vorgemerkten Anspruch vereiteln oder beeinträchtigen, dem Berechtigten gegenüber unwirksam; nur dieser kann sich darauf berufen, daher relative Unwirksamkeit. Der Rechtserwerb der B ist dagegen nicht absolut unwirksam, und es kommt nicht auf ihren guten Glauben an."
+   },
+   {
+    "frage": "Wie kann K sich zur Wirksamkeit der Grundschuld ihm gegenüber verhalten, wenn er sie hinnehmen will?",
+    "optionen": [
+     "Er stimmt zu; die Zustimmung wird durch einen Wirksamkeitsvermerk bei beiden Eintragungen verlautbart",
+     "Er muss den Rang der Vormerkung hinter die Grundschuld zurücktreten lassen",
+     "Er klagt auf Berichtigung des Grundbuchs nach § 894 BGB",
+     "Er lässt die Vormerkung löschen und erwirbt ohne Rangsicherung"
+    ],
+    "antwort": 0,
+    "erklaerung": "Durch seine Zustimmung kann K auf den Schutz des § 883 Abs. 2 BGB verzichten, ohne dass ein Rangrücktritt nötig ist. Will er die Grundschuld dagegen beseitigen, hat er den Zustimmungsanspruch (Löschungsbewilligung) gegen B nach § 888 Abs. 1 BGB."
+   }
+  ],
+  "erklaerung": "V bleibt verfügungsbefugt, das Grundbuchamt muss vollziehen, die Grundschuld ist K gegenüber aber relativ unwirksam. K kann sie nach § 888 BGB beseitigen oder durch Zustimmung und Wirksamkeitsvermerk wirksam werden lassen."
+ },
+ {
+  "id": "vorm1-079",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Vormerkung",
+  "seite": "Vormerkung: vormerkbarer Anspruch und Genehmigungserfordernisse",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-vormerkbarer-anspruch-und-genehmigungserfordernisse",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 184 BGB"
+  ],
+  "frage": "Für den Veräußerer handelt ein Vertreter ohne Vertretungsmacht. Wann darf die Eigentumsvormerkung für den Erwerber eingetragen werden?",
+  "optionen": [
+   "Erst nach der Genehmigung durch den Vertretenen, weil erst dann die Bindung des Veräußerers eintritt",
+   "Sofort, wie bei einem vollmachtlosen Vertreter des Erwerbers",
+   "Sofort, aber unter dem Vorbehalt der Löschung bei Verweigerung der Genehmigung",
+   "Erst nach Eintragung des Erwerbers als Eigentümer"
+  ],
+  "antwort": 0,
+  "erklaerung": "Eine Vormerkung ist bei schwebend unwirksamem Geschäft nur möglich, wenn der Verpflichtete bereits gebunden ist. Beim Vertreter des Veräußerers ohne Vertretungsmacht tritt die Bindung erst mit der Genehmigung ein. Vertritt der vollmachtlose Vertreter dagegen den Erwerber, können Bewilligung und Eintragung sofort erfolgen, da der Veräußerer gebunden ist."
+ },
+ {
+  "id": "vorm1-080",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Vormerkung",
+  "seite": "Vormerkung: vormerkbarer Anspruch und Genehmigungserfordernisse",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-vormerkbarer-anspruch-und-genehmigungserfordernisse",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1856 Abs. 1 S. 2 BGB",
+   "§ 1644 Abs. 3 BGB"
+  ],
+  "frage": "Das Familien- bzw. Betreuungsgericht muss eine Verfügung des Veräußerers genehmigen. Ab wann ist die Vormerkung nach herrschender Meinung eintragbar?",
+  "optionen": [
+   "Sobald der gesetzliche Vertreter dem Vertragspartner die erteilte Genehmigung mitgeteilt hat und sie dadurch wirksam geworden ist",
+   "Schon vor Erteilung der Genehmigung, weil nur der Erwerber geschützt wird",
+   "Sobald das Gericht die Genehmigung beschlossen hat",
+   "Erst mit der Rechtskraft der gerichtlichen Genehmigung und Eintragung des Erwerbers"
+  ],
+  "antwort": 0,
+  "erklaerung": "Erst mit der Mitteilung der erteilten Genehmigung an den Vertragspartner wird sie wirksam und der Vertretene gebunden (§ 1856 Abs. 1 S. 2 BGB, bei Eltern i. V. m. § 1644 Abs. 3 BGB). Der bloße Beschluss des Gerichts genügt deshalb noch nicht. Bedarf nur der Erwerber der gerichtlichen Genehmigung, kann die Vormerkung dagegen schon vorher eingetragen werden."
+ },
+ {
+  "id": "vorm1-081",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Vormerkung",
+  "seite": "Vormerkung: vormerkbarer Anspruch und Genehmigungserfordernisse",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-vormerkbarer-anspruch-und-genehmigungserfordernisse",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 884 BGB",
+   "§ 1856 BGB"
+  ],
+  "frage": "Ordne die Konstellation dem Zeitpunkt zu, ab dem die Vormerkung eingetragen werden kann.",
+  "paare": [
+   [
+    "Vertreter ohne Vertretungsmacht auf Erwerberseite",
+    "Bewilligung und Eintragung können sofort erfolgen"
+   ],
+   [
+    "Vertreter ohne Vertretungsmacht auf Veräußererseite",
+    "Erst nach Genehmigung durch den Vertretenen"
+   ],
+   [
+    "Veräußerer ist eine Kirchengemeinde mit Genehmigungspflicht der Aufsichtsbehörde",
+    "Erst nach Erteilung der Genehmigung der Aufsichtsbehörde"
+   ],
+   [
+    "Gerichtliche Genehmigung nur auf Erwerberseite erforderlich",
+    "Schon vor Erteilung, weil der Veräußerer bereits gebunden ist"
+   ]
+  ],
+  "erklaerung": "Maßgeblich ist, ab wann der Veräußerer an das Geschäft gebunden ist. Auf Erwerberseite fehlende Vertretungsmacht oder Genehmigung hindert die Vormerkung nicht, auf Veräußererseite ist sie erst nach der Genehmigung zulässig, bei Gemeinden, Kirchengemeinden oder Stiftungen nach Erteilung der Aufsichtsgenehmigung."
+ },
+ {
+  "id": "vorm1-082",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Vormerkung",
+  "seite": "Vormerkung: vormerkbarer Anspruch und Genehmigungserfordernisse",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-vormerkbarer-anspruch-und-genehmigungserfordernisse",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§§ 433, 311b BGB"
+  ],
+  "frage": "Für die Entstehung der Eigentumsvormerkung beim Kaufvertrag muss bereits die Auflassung erklärt worden sein.",
+  "antwort": false,
+  "erklaerung": "Bei Kaufverträgen genügt der wirksame schuldrechtliche Vertrag (§§ 433, 311b BGB); die Auflassung ist nicht erforderlich. Hinzukommen müssen die Bewilligung des Betroffenen (§ 885 Abs. 1 BGB) und die Eintragung."
+ },
+ {
+  "id": "vorm1-083",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Vormerkung",
+  "seite": "Vormerkung: Zwangsversteigerung und Insolvenz",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-zwangsversteigerung-und-insolvenz",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 106 Abs. 1 S. 1 InsO",
+   "§ 103 InsO",
+   "§ 878 BGB"
+  ],
+  "frage": "Unter welcher Voraussetzung muss der Insolvenzverwalter des Verkäufers den durch Vormerkung gesicherten Anspruch erfüllen?",
+  "optionen": [
+   "Wenn die Vormerkung bei Verfahrenseröffnung eingetragen ist, oder bei bewilligter Vormerkung § 878 BGB erfüllt ist, oder sie gutgläubig insolvenzfrei erworben wurde",
+   "Nur wenn der Verwalter nach § 103 InsO Erfüllung wählt",
+   "Nur wenn der Käufer den Kaufpreis bereits vollständig gezahlt hat",
+   "Nur wenn zuvor die Auflassung erklärt und der Antrag auf Umschreibung gestellt wurde"
+  ],
+  "antwort": 0,
+  "erklaerung": "Nach § 106 Abs. 1 S. 1 InsO muss der Verwalter den vorgemerkten Anspruch erfüllen, wenn eine der drei genannten Voraussetzungen vorliegt; ein Wahlrecht nach § 103 InsO hat er dann nicht. Bei der Eigentumsvormerkung hat er die Auflassung zu erklären und die Eintragung zu bewilligen. Von einer Kaufpreiszahlung hängt das nicht ab."
+ },
+ {
+  "id": "vorm1-084",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Vormerkung",
+  "seite": "Vormerkung: Zwangsversteigerung und Insolvenz",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-zwangsversteigerung-und-insolvenz",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§§ 52 Abs. 1 S. 2, 91, 92 ZVG"
+  ],
+  "frage": "Aus einem der Vormerkung vorrangigen Recht wird die Zwangsversteigerung betrieben. Was geschieht mit der Vormerkung?",
+  "optionen": [
+   "Sie wird nicht in das geringste Gebot aufgenommen und erlischt mit dem Zuschlag; an ihre Stelle tritt ein Anspruch auf Wertersatz aus dem Erlös",
+   "Sie überdauert den Zuschlag und verpflichtet den Ersteher zur Auflassung",
+   "Sie hindert die Fortführung des Verfahrens, sobald der Vorgemerkte als Eigentümer eingetragen ist",
+   "Sie erlischt, ohne dass ein Ersatzanspruch bleibt"
+  ],
+  "antwort": 0,
+  "erklaerung": "Bei Nachrang der Vormerkung gegenüber dem betreibenden Gläubiger erlischt sie mit dem Zuschlag (§§ 52 Abs. 1 S. 2, 91 ZVG); der Ersteher wird Eigentümer, und der Vorgemerkte nimmt nach § 92 ZVG an der Rangstelle der Vormerkung am Erlös teil. Der Eigentumserwerb des Vorgemerkten hindert das Verfahren in dieser Konstellation nicht."
+ },
+ {
+  "id": "vorm1-085",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Vormerkung",
+  "seite": "Vormerkung: Zwangsversteigerung und Insolvenz",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-zwangsversteigerung-und-insolvenz",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§§ 48, 52 ZVG"
+  ],
+  "frage": "Hat die Vormerkung Rang vor dem bestrangig betreibenden Gläubiger, erlischt sie mit dem Zuschlag und wird durch einen Anspruch auf Wertersatz nach § 92 ZVG ersetzt.",
+  "antwort": false,
+  "erklaerung": "Bei Vorrang vor dem bestrangig betreibenden Gläubiger wird die Vormerkung im geringsten Gebot berücksichtigt und überdauert den Zuschlag (§§ 48, 52 ZVG). Der Wertersatz nach § 92 ZVG gilt für die Vormerkung, die einem betreibenden Gläubiger im Rang nachgeht."
+ },
+ {
+  "id": "vorm1-086",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Vormerkung",
+  "seite": "Vormerkung: Zwangsversteigerung und Insolvenz",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-zwangsversteigerung-und-insolvenz",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 27 ZVG",
+   "§§ 878, 883 BGB"
+  ],
+  "frage": "Wann hat ein Beitrittsgläubiger Vorrang vor der Vormerkung?",
+  "optionen": [
+   "Wenn der Beitrittsbeschluss dem Schuldner vor Beantragung der Vormerkung zugestellt wurde",
+   "Wenn der Beitrittsantrag vor Eintragung der Vormerkung beim Vollstreckungsgericht einging",
+   "Wenn sein Titel älter ist als der Kaufvertrag",
+   "Wenn der Beitritt vor der Eigentumsumschreibung im Grundbuch vermerkt wurde"
+  ],
+  "antwort": 0,
+  "erklaerung": "Für den Rang zwischen Vormerkung und Beitrittsgläubiger ist die Zustellung des Beitrittsbeschlusses an den Schuldner maßgeblich (§ 27 ZVG). Erfolgte sie danach, hat die Vormerkung Vorrang (§§ 878, 883 BGB), es sei denn, der Beitrittsgläubiger betreibt aus einem vorrangigen Grundpfandrecht. Antragseingang oder Alter des Titels sind nicht entscheidend."
+ },
+ {
+  "id": "vorm1-087",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Vormerkung",
+  "seite": "Vormerkung: Zweck und Arten",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-zweck-und-arten",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§§ 883–888 BGB"
+  ],
+  "frage": "Wie ist die Vormerkung rechtlich einzuordnen?",
+  "optionen": [
+   "Als im Grundbuch eingetragenes, quasi-dingliches und akzessorisches Sicherungsmittel für einen schuldrechtlichen Anspruch",
+   "Als beschränktes dingliches Recht am Grundstück, das durch Einigung und Eintragung entsteht",
+   "Als Verfügungsverbot, das den Eigentümer bis zur Umschreibung an Verfügungen hindert",
+   "Als selbständiges Sicherungsrecht, das auch ohne bestehenden Anspruch entstehen kann"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Vormerkung ist kein Recht am Grundstück, sondern ein Sicherungsmittel; Entstehung und Fortbestand setzen den gesicherten Anspruch voraus (Akzessorietät). Sie entsteht nach der Sonderregel des § 885 BGB, nicht durch Einigung nach § 873 BGB, und beschränkt die Verfügungsmacht nicht."
+ },
+ {
+  "id": "vorm1-088",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Vormerkung",
+  "seite": "Vormerkung: Zweck und Arten",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-zweck-und-arten",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1179 BGB",
+   "§ 1179a BGB"
+  ],
+  "frage": "Für welchen Berechtigten wird keine Löschungsvormerkung eingetragen?",
+  "optionen": [
+   "Für den Gläubiger eines nachrangigen Grundpfandrechts, weil ihm der gesetzliche Löschungsanspruch nach § 1179a BGB zusteht",
+   "Für den Gläubiger eines vorrangigen Grundpfandrechts, weil er bereits im Rang vorgeht",
+   "Für den Eigentümer, weil er nicht in Abteilung III berechtigt ist",
+   "Für jeden Gläubiger, weil die Löschungsvormerkung abgeschafft ist"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Löschungsvormerkung sichert den bedingten Anspruch eines nachrangig in Abteilung III Berechtigten auf Löschung eines vorgehenden Grundpfandrechts für den Fall des Zusammenfalls mit dem Eigentum. Für Gläubiger nachrangiger Grundpfandrechte besteht bereits der gesetzliche Anspruch aus § 1179a BGB, sodass eine Eintragung entfällt."
+ },
+ {
+  "id": "vorm1-089",
+  "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+  "abschnitt": "Vormerkung",
+  "seite": "Vormerkung: Zweck und Arten",
+  "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-zweck-und-arten",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§§ 275 Abs. 4, 280, 283 BGB",
+   "§ 251 Abs. 1 BGB"
+  ],
+  "frage": "Vereitelt der Veräußerer die Rechte des Erwerbers, kann dieser nach §§ 280, 283 BGB Naturalrestitution durch Verschaffung des Eigentums verlangen, sodass eine Vormerkung entbehrlich ist.",
+  "antwort": false,
+  "erklaerung": "Der Schadensersatzanspruch bei Unvermögen richtet sich auf Geld (§ 251 Abs. 1 BGB) und kann bei Zahlungsunfähigkeit des Schuldners wertlos sein, während der Dritte eine dingliche Position erlangt hat. Deshalb dient die Vormerkung als Zwischensicherung (§§ 883–888 BGB)."
  }
 ]

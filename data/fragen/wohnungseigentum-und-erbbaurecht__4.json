@@ -895,5 +895,724 @@
   ],
   "antwort": 3,
   "erklaerung": "Die Eigentümer können Wohnungseigentümer mit einfacher Mehrheit zu Beiratsmitgliedern bestellen (vgl. § 29 Abs. 1 S. 1 WEG); einer Regelung in der Gemeinschaftsordnung bedarf es nicht. Mitglied kann nur ein Wohnungseigentümer sein; mit dem Verlust des Wohnungseigentums endet die Mitgliedschaft. Die Bestellung ist frei widerruflich."
+ },
+ {
+  "id": "wohn4-041",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Zweckbestimmung des Sondereigentums und Nutzungsbeschränkungen",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/zweckbestimmung-des-sondereigentums-und-nutzungsbeschrankungen",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "BGH, NZM 2010, 285 Rn. 14"
+  ],
+  "frage": "Wie beurteilt der BGH die Vermietung einer Eigentumswohnung an Feriengäste und andere Mieter mit kurzfristigem Unterkunftsbedarf im Hinblick auf die Abgrenzung von Wohnen und anderer Nutzung?",
+  "optionen": [
+   "Sie ist zulässige Wohnnutzung",
+   "Sie ist stets Teileigentumsnutzung und deshalb unzulässig",
+   "Sie ist nur mit Zustimmung aller Eigentümer zulässig",
+   "Sie ist nur bei Eintragung einer Ferienwohnnutzung im Grundbuch zulässig"
+  ],
+  "antwort": 0,
+  "erklaerung": "Nach der Rechtsprechung des BGH (NZM 2010, 285 Rn. 14) bleibt auch die Vermietung an Feriengäste Wohnnutzung. Eine Nutzung als Teileigentum liegt dagegen vor, wenn eine heimtypische Organisation an die Stelle eigenständiger Haushaltsführung tritt, etwa bei einer Erstaufnahmeeinrichtung für Flüchtlinge. Die kurze Mietdauer allein macht die Nutzung daher nicht zur unzulässigen Gewerbenutzung."
+ },
+ {
+  "id": "wohn4-042",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Zweckbestimmung des Sondereigentums und Nutzungsbeschränkungen",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/zweckbestimmung-des-sondereigentums-und-nutzungsbeschrankungen",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "BGH, NJW 2018, 41 Rn. 19"
+  ],
+  "frage": "Die Bezeichnung einer Einheit als Wohnungseigentum schließt eine berufliche oder gewerbliche Nutzung aus; ein Friseursalon und eine Anwaltskanzlei sind daher gleichermaßen unzulässig.",
+  "antwort": false,
+  "erklaerung": "Die Bezeichnung als Wohnungseigentum schließt berufliche Nutzung nicht aus; entscheidend ist, ob eine erhöhte Störung eintritt. Praxen von Anwälten, Ärzten oder Architekten- und Steuerbüros sind ohne übermäßigen Kundenverkehr regelmäßig zulässig. Unzulässig war dagegen ein Friseursalon in einer Wohnung einer kleinen Anlage (BayObLG, NZM 2001, 138)."
+ },
+ {
+  "id": "wohn4-043",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+  "seite": "Zweckbestimmung des Sondereigentums und Nutzungsbeschränkungen",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/zweckbestimmung-des-sondereigentums-und-nutzungsbeschrankungen",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "BayObLG, NZM 2001, 138",
+   "BGH, NZM 2020, 107 Rn. 21"
+  ],
+  "frage": "Ordne der jeweiligen Einheit die nach der Rechtsprechung zutreffende Nutzungsbeurteilung zu.",
+  "paare": [
+   [
+    "Wohnung, Patentanwaltskanzlei ohne übermäßigen Kundenverkehr",
+    "in der Regel zulässig"
+   ],
+   [
+    "Wohnung in kleiner Anlage, Friseursalon",
+    "beeinträchtigt die übrigen Eigentümer, unzulässig"
+   ],
+   [
+    "Teileigentum „Laden“, Café",
+    "unzulässig"
+   ],
+   [
+    "Teileigentum „Büro“, Zahnarztpraxis",
+    "zulässig"
+   ]
+  ],
+  "erklaerung": "Berufliche Nutzung einer Wohnung ist zulässig, solange keine erhöhte Störung eintritt; ein Friseursalon in einer kleinen Anlage überschreitet diese Grenze. Bei der Bezeichnung „Laden“ sind Café, Gaststätte, Eisdiele und Spielothek unzulässig, während ein „Büro“ auch als Arzt- oder Zahnarztpraxis genutzt werden darf."
+ },
+ {
+  "id": "wohn4-044",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Änderung der Gemeinschaftsordnung: Umwandlung von Wohnungs- und Teileigentum, Aufhebung eines Sondernutzungsrechts",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/anderung-der-gemeinschaftsordnung-umwandlung-von-wohnungs-und-teileigentum-aufhebung-eines-sondernutzungsrechts",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 5 Abs. 4 WEG",
+   "§ 10 Abs. 1 S. 2 WEG"
+  ],
+  "frage": "Welche rechtliche Einordnung hat nach herrschender Meinung die Umwandlung von Teileigentum in Wohnungseigentum?",
+  "optionen": [
+   "Inhaltsänderung durch Vereinbarung aller Eigentümer",
+   "Änderung des sachenrechtlichen Grundverhältnisses in Auflassungsform",
+   "Gebrauchsregelung durch Mehrheitsbeschluss",
+   "einseitige Erklärung des betroffenen Eigentümers"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Bezeichnung als Wohnungs- oder Teileigentum ist eine Zweckbestimmung; ihre Änderung ist eine Gebrauchsänderung und damit Inhaltsänderung durch Vereinbarung aller Eigentümer (§§ 5 Abs. 4, 10 Abs. 1 S. 2 WEG). Auflassungsform nach § 4 WEG ist nicht nötig, weil das sachenrechtliche Grundverhältnis nicht berührt wird. Ohne Ermächtigung in der Gemeinschaftsordnung genügt die einseitige Erklärung eines Eigentümers nicht."
+ },
+ {
+  "id": "wohn4-045",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Änderung der Gemeinschaftsordnung: Umwandlung von Wohnungs- und Teileigentum, Aufhebung eines Sondernutzungsrechts",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/anderung-der-gemeinschaftsordnung-umwandlung-von-wohnungs-und-teileigentum-aufhebung-eines-sondernutzungsrechts",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 5 Abs. 4 S. 2 WEG",
+   "§§ 877, 876 BGB"
+  ],
+  "frage": "Ein Teileigentum, das mit einer Grundschuld belastet ist, soll durch Vereinbarung aller Eigentümer in Wohnungseigentum umgewandelt werden. Was gilt für den Grundbuchvollzug?",
+  "optionen": [
+   "Der Grundschuldgläubiger muss nach §§ 877, 876 BGB zustimmen",
+   "Der Grundschuldgläubiger muss nicht zustimmen; die Vereinbarung ist nach § 5 Abs. 4 S. 2 WEG zustimmungsfrei",
+   "Der Grundschuldgläubiger muss zustimmen, weil Lage und Grenzen des Sondereigentums neu bestimmt werden",
+   "Die Zustimmung ist nur bei Umwandlung in Teileigentum, nicht in Wohnungseigentum entbehrlich"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Umwandlung ist keine Änderung des sachenrechtlichen Grundverhältnisses, die nach §§ 877, 876 BGB zustimmungsbedürftig wäre, sondern eine nach § 5 Abs. 4 S. 2 WEG zustimmungsfreie Vereinbarung. Gläubiger einer Hypothek, Grund- oder Rentenschuld oder Reallast müssen daher nicht mitwirken. Für andere Rechte, etwa in Abteilung II, bleibt die Zustimmung nach §§ 877, 876 BGB zu prüfen; schuldrechtliche Pflichten gegenüber dem Gläubiger sollte der Notar ansprechen."
+ },
+ {
+  "id": "wohn4-046",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Änderung der Gemeinschaftsordnung: Umwandlung von Wohnungs- und Teileigentum, Aufhebung eines Sondernutzungsrechts",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/anderung-der-gemeinschaftsordnung-umwandlung-von-wohnungs-und-teileigentum-aufhebung-eines-sondernutzungsrechts",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 10 Abs. 3 WEG",
+   "§ 29 GBO"
+  ],
+  "frage": "Welche Erklärung genügt für das Grundbuch, wenn ein eingetragenes Sondernutzungsrecht aufgehoben werden soll?",
+  "optionen": [
+   "die Bewilligung sämtlicher Wohnungseigentümer",
+   "die Löschungsbewilligung des aufgebenden Eigentümers und gegebenenfalls eines beeinträchtigten dinglich Berechtigten",
+   "ein Beschluss der Eigentümerversammlung mit einfacher Mehrheit",
+   "die Zustimmung des Verwalters in öffentlich beglaubigter Form"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Aufhebung ist wie die Begründung eine Inhaltsänderung aller Einheiten und erfordert eine Vereinbarung aller Eigentümer sowie wegen § 10 Abs. 3 WEG die Eintragung. Für das Grundbuch genügt nach BGH (NJW 2000, 3643) die Löschungsbewilligung des aufgebenden Eigentümers und gegebenenfalls eines dinglich Berechtigten, dessen Recht beeinträchtigt wird. Die Bewilligung sämtlicher Eigentümer verlangte nur die Gegenansicht des OLG Düsseldorf."
+ },
+ {
+  "id": "wohn4-047",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Änderung der Gemeinschaftsordnung: Vereinbarung, Änderungsanspruch und Zustimmung dinglich Berechtigter",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/anderung-der-gemeinschaftsordnung-vereinbarung-anderungsanspruch-und-zustimmung-dinglich-berechtigter",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 10 Abs. 1 S. 2 WEG"
+  ],
+  "frage": "Eine über viele Jahre gelebte, von der Gemeinschaftsordnung abweichende Übung ersetzt für sich genommen die Vereinbarung aller Eigentümer zur Änderung der Gemeinschaftsordnung.",
+  "antwort": false,
+  "erklaerung": "Die Vereinbarung kann zwar durch schlüssiges Verhalten zustande kommen, unterliegt aber dem Schuldrecht und setzt einen rechtsgeschäftlichen Bindungswillen voraus. Eine auch langjährige abweichende Übung genügt nicht; es müssen weitere Umstände hinzukommen, meist eine entsprechende Beschlussfassung oder Beratung in der Versammlung."
+ },
+ {
+  "id": "wohn4-048",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Änderung der Gemeinschaftsordnung: Vereinbarung, Änderungsanspruch und Zustimmung dinglich Berechtigter",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/anderung-der-gemeinschaftsordnung-vereinbarung-anderungsanspruch-und-zustimmung-dinglich-berechtigter",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 10 Abs. 2 WEG"
+  ],
+  "frage": "Der Kostenschlüssel einer Anlage ist gegenüber dem Verhältnis der Miteigentumsanteile zu den tatsächlichen Flächen evident ungerecht. Welchen Anspruch hat der benachteiligte Eigentümer?",
+  "optionen": [
+   "Anspruch auf Änderung der Miteigentumsanteile gegen die GdWE",
+   "Anspruch auf Änderung des Kostenschlüssels gegen die anderen Eigentümer",
+   "Anspruch auf Änderung der Miteigentumsanteile gegen die anderen Eigentümer",
+   "kein Anspruch, weil § 10 Abs. 2 WEG nur Beschlüsse erfasst"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Anspruch nach § 10 Abs. 2 WEG richtet sich gegen die anderen Eigentümer, nicht gegen die GdWE, und betrifft nur bestehende Vereinbarungen, nicht die sachenrechtlichen Grundlagen. Bei evident ungerechter Kostenverteilung besteht daher nur ein Anspruch auf Änderung des Kostenschlüssels, nicht auf Anpassung der Miteigentumsanteile (BGH, NJW 2010, 3296). Eine Änderung der Anteile kommt nur in seltenen Ausnahmefällen über § 242 BGB in Betracht."
+ },
+ {
+  "id": "wohn4-049",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Änderung der Gemeinschaftsordnung: Vereinbarung, Änderungsanspruch und Zustimmung dinglich Berechtigter",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/anderung-der-gemeinschaftsordnung-vereinbarung-anderungsanspruch-und-zustimmung-dinglich-berechtigter",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 5 Abs. 4 S. 2 WEG",
+   "§§ 877, 876 BGB"
+  ],
+  "frage": "Unter welcher Voraussetzung muss der Gläubiger einer Grundschuld am Wohnungseigentum einer Änderung der Gemeinschaftsordnung zustimmen?",
+  "optionen": [
+   "bei jeder Änderung der Gemeinschaftsordnung",
+   "bei Änderung des Kostenschlüssels",
+   "nur wenn ein Sondernutzungsrecht begründet oder ein verbundenes Sondernutzungsrecht aufgehoben, geändert oder übertragen wird",
+   "nie, weil nur Inhaber von Rechten in Abteilung II zustimmen müssen"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 5 Abs. 4 S. 2 WEG ist die Zustimmung von Gläubigern einer Hypothek, Grund- oder Rentenschuld oder Reallast nur bei Sondernutzungsrechten nötig; seit Streichung von § 5 Abs. 4 S. 3 WEG a.F. gilt das auch beim Tausch wertgleicher Sondernutzungsrechte. Für andere Vereinbarungen entfällt die Zustimmung, sodass der Kostenschlüssel ohne Gläubiger geändert werden kann. Inhaber anderer Rechte wie Nießbrauch oder Wohnungsrecht bleiben dagegen an §§ 877, 876 BGB gebunden."
+ },
+ {
+  "id": "wohn4-050",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Bauliche Veränderungen: Beschluss, Grenzen und Ansprüche",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/bauliche-veranderungen-beschluss-grenzen-und-anspruche",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 20 Abs. 1 WEG"
+  ],
+  "frage": "Welche der folgenden Maßnahmen ist keine bauliche Veränderung im Sinne des § 20 Abs. 1 WEG?",
+  "optionen": [
+   "die plangerechte Erstherstellung nach dem Aufteilungsplan",
+   "ein Beschluss, eine in der Teilungserklärung vorgesehene Konstruktion nicht zu errichten",
+   "die Modernisierung des Gemeinschaftseigentums",
+   "die Errichtung eines Außenaufzugs"
+  ],
+  "antwort": 0,
+  "erklaerung": "Bezugspunkt ist der Zustand nach dem Aufteilungsplan; was diesen Planzustand neu bestimmt, ist eine bauliche Veränderung. Die plangerechte Erstherstellung bestimmt ihn nicht neu. Eine Bautätigkeit ist nicht erforderlich, sodass auch der Beschluss, eine vorgesehene Konstruktion nicht zu errichten, eine bauliche Veränderung ist; Modernisierungen sind es ebenfalls."
+ },
+ {
+  "id": "wohn4-051",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Bauliche Veränderungen: Beschluss, Grenzen und Ansprüche",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/bauliche-veranderungen-beschluss-grenzen-und-anspruche",
+  "typ": "zuordnung",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 20 Abs. 2 S. 1 Nr. 1 bis 5 WEG"
+  ],
+  "frage": "Ordne die Nummern des § 20 Abs. 2 S. 1 WEG der jeweils privilegierten baulichen Veränderung zu.",
+  "paare": [
+   [
+    "Nr. 1",
+    "Gebrauch durch Menschen mit Behinderungen"
+   ],
+   [
+    "Nr. 2",
+    "Laden elektrisch betriebener Fahrzeuge"
+   ],
+   [
+    "Nr. 3",
+    "Einbruchsschutz"
+   ],
+   [
+    "Nr. 4",
+    "Anschluss an ein Telekommunikationsnetz mit sehr hoher Kapazität"
+   ],
+   [
+    "Nr. 5",
+    "Stromerzeugung durch Steckersolargeräte"
+   ]
+  ],
+  "erklaerung": "Jeder Eigentümer kann diese angemessenen baulichen Veränderungen verlangen; die Maßnahme ist ihm zu gestatten oder die GdWE ist zu ihr zu ermächtigen. Über die Durchführung ist im Rahmen ordnungsmäßiger Verwaltung zu beschließen (§ 20 Abs. 2 S. 2 WEG)."
+ },
+ {
+  "id": "wohn4-052",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Bauliche Veränderungen: Beschluss, Grenzen und Ansprüche",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/bauliche-veranderungen-beschluss-grenzen-und-anspruche",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 20 Abs. 4 WEG"
+  ],
+  "frage": "Eine Mehrheit beschließt eine bauliche Veränderung, die einen Eigentümer ohne sein Einverständnis unbillig benachteiligt. Welche Folge hat das?",
+  "optionen": [
+   "Der Beschluss ist nichtig",
+   "Der Beschluss ist grundsätzlich nur anfechtbar",
+   "Der Beschluss ist wirksam, der Eigentümer hat einen Anspruch auf Entschädigung",
+   "Der Beschluss wird erst mit Eintragung im Grundbuch wirksam"
+  ],
+  "antwort": 1,
+  "erklaerung": "Unzulässig ist nach § 20 Abs. 4 Alt. 2 WEG eine Maßnahme, die einen Eigentümer unbillig benachteiligt, wenn sie ihm bei Abwägung mit den verfolgten Vorteilen nicht zugemutet werden kann. Ein Verstoß macht den Beschluss grundsätzlich nur anfechtbar, nicht nichtig. Er wird deshalb bestandskräftig, wenn der Betroffene ihn nicht rechtzeitig anficht."
+ },
+ {
+  "id": "wohn4-053",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Bauliche Veränderungen: Beschluss, Grenzen und Ansprüche",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/bauliche-veranderungen-beschluss-grenzen-und-anspruche",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 20 Abs. 4 Alt. 1 WEG"
+  ],
+  "frage": "Wann stellt eine Aufstockung des Gebäudes eine grundlegende Umgestaltung der Anlage dar?",
+  "optionen": [
+   "Immer, weil sie das Erscheinungsbild des Gebäudes ändert",
+   "Nie, weil sie vom Aufteilungsplan gedeckt sein kann",
+   "Sie kann es sein, muss es aber nicht; maßgeblich ist unter anderem die Zahl der vorhandenen Geschosse",
+   "Nur bei Aufstockung um mehr als ein Geschoss, unabhängig von der Zahl der vorhandenen Geschosse"
+  ],
+  "antwort": 2,
+  "erklaerung": "Maßgeblich ist, wie stark Größe und Gestaltung betroffen sind und ob sich das charakteristische Aussehen als Ganzes ändert. Eine Aufstockung kann nach § 20 Abs. 4 Alt. 1 WEG grundlegend umgestalten, muss es aber nicht; entscheidend ist die Zahl der vorhandenen Geschosse. Balkone und Außenaufzüge gestalten dagegen grundsätzlich nicht grundlegend um."
+ },
+ {
+  "id": "wohn4-054",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Bauliche Veränderungen: Kosten und Nutzungen, Wiederaufbau und steckengebliebener Bau",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/bauliche-veranderungen-kosten-und-nutzungen-wiederaufbau-und-steckengebliebener-bau",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 21 Abs. 3 WEG"
+  ],
+  "frage": "Die Eigentümer beschließen mit einfacher Mehrheit den Einbau eines Aufzugs. Wer trägt grundsätzlich die Kosten, und wem gebühren die Nutzungen?",
+  "optionen": [
+   "alle Eigentümer nach ihren Anteilen",
+   "nur die Eigentümer, die den Beschluss gefasst haben",
+   "nur die Eigentümer, die gegen den Beschluss gestimmt haben",
+   "nur die Eigentümer der Erdgeschosswohnungen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 21 Abs. 3 WEG tragen die Kosten einer baulichen Veränderung grundsätzlich die Eigentümer, die sie beschlossen haben, nach dem Verhältnis ihrer Anteile; ihnen gebühren auch die Nutzungen. Man spricht von einem faktischen Sondernutzungsrecht. Alle Eigentümer zahlen nur, wenn die Voraussetzungen des § 21 Abs. 2 WEG vorliegen."
+ },
+ {
+  "id": "wohn4-055",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Bauliche Veränderungen: Kosten und Nutzungen, Wiederaufbau und steckengebliebener Bau",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/bauliche-veranderungen-kosten-und-nutzungen-wiederaufbau-und-steckengebliebener-bau",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 21 Abs. 2 WEG"
+  ],
+  "frage": "Unter welcher Voraussetzung tragen alle Eigentümer die Kosten einer baulichen Veränderung, ohne dass sich die Kosten amortisieren?",
+  "optionen": [
+   "Beschluss mit mehr als zwei Dritteln der abgegebenen Stimmen und der Hälfte aller Miteigentumsanteile, sofern die Kosten nicht unverhältnismäßig sind",
+   "Beschluss mit einfacher Mehrheit der abgegebenen Stimmen",
+   "Beschluss mit mehr als zwei Dritteln aller Miteigentumsanteile, auch bei unverhältnismäßigen Kosten",
+   "Beschluss mit Dreiviertelmehrheit der abgegebenen Stimmen und Zustimmung des Verwalters"
+  ],
+  "antwort": 0,
+  "erklaerung": "Nach § 21 Abs. 2 WEG tragen alle Eigentümer Kosten und Nutzungen, wenn die Maßnahme mit mehr als zwei Dritteln der abgegebenen Stimmen und der Hälfte aller Miteigentumsanteile beschlossen wurde, außer sie ist mit unverhältnismäßigen Kosten verbunden. Alternativ genügt, dass sich die Kosten in angemessener Zeit amortisieren. Die einfache Mehrheit führt dagegen nur zur Kostentragung der Zustimmenden."
+ },
+ {
+  "id": "wohn4-056",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Bauliche Veränderungen: Kosten und Nutzungen, Wiederaufbau und steckengebliebener Bau",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/bauliche-veranderungen-kosten-und-nutzungen-wiederaufbau-und-steckengebliebener-bau",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 21 Abs. 5 S. 2 WEG"
+  ],
+  "frage": "Ein Kostenverteilungsbeschluss, der einem Eigentümer entgegen § 21 Abs. 5 S. 2 WEG Kosten auferlegt, die er nach dem Gesetz nicht tragen müsste, ist nichtig.",
+  "antwort": false,
+  "erklaerung": "Einem Eigentümer, der nach dem Gesetz keine Kosten trägt, dürfen keine Kosten auferlegt werden (§ 21 Abs. 5 S. 2 WEG). Ein Verstoß macht den Kostenbeschluss aber nur anfechtbar. Deshalb empfiehlt sich ein Doppelbeschluss, bei dem Bau- und Kostenbeschluss gekoppelt sind, sodass bei erfolgreicher Anfechtung auch der Baubeschluss entfällt."
+ },
+ {
+  "id": "wohn4-057",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Bauliche Veränderungen: Kosten und Nutzungen, Wiederaufbau und steckengebliebener Bau",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/bauliche-veranderungen-kosten-und-nutzungen-wiederaufbau-und-steckengebliebener-bau",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 18 Abs. 2 Nr. 1 WEG",
+   "§ 22 WEG",
+   "§ 242 BGB"
+  ],
+  "frage": "Ein Neubau bleibt wegen Insolvenz des Bauträgers stecken. Welche Aussage zum Anspruch der Eigentümer trifft zu?",
+  "optionen": [
+   "§ 22 WEG gilt analog, sodass bei mehr als hälftiger Zerstörung kein Anspruch besteht",
+   "Es besteht ein Anspruch auf erstmalige mangelfreie Herstellung nach § 18 Abs. 2 Nr. 1 WEG, begrenzt durch § 242 BGB",
+   "Es besteht ein Anspruch auf Herstellung nur, wenn alle Eigentümer zustimmen",
+   "Es besteht kein Anspruch, weil die Herstellung allein Sache des Bauträgers ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Sobald ein Eigentümer werdender Wohnungseigentümer nach § 8 Abs. 3 WEG ist, besteht ein Anspruch auf erstmalige mangelfreie Herstellung des Gemeinschaftseigentums (§ 18 Abs. 2 Nr. 1 WEG). Er wird durch Treu und Glauben begrenzt und entfällt, wenn die Erfüllung den übrigen nicht zuzumuten ist. § 22 WEG gilt nach dem BGH nicht analog, weil er nur die Zerstörung eines fertigen Gebäudes regelt."
+ },
+ {
+  "id": "wohn4-058",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Bauliche Veränderungen: Kosten und Nutzungen, Wiederaufbau und steckengebliebener Bau",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/bauliche-veranderungen-kosten-und-nutzungen-wiederaufbau-und-steckengebliebener-bau",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 20 Abs. 2 S. 1 Nr. 2 WEG",
+   "§ 21 Abs. 1 WEG",
+   "§ 21 Abs. 4 WEG"
+  ],
+  "frage": "Ladestation in der Tiefgarage",
+  "sachverhalt": "In einer Wohnanlage verlangt Eigentümerin E, dass eine Ladestation für ihr Elektrofahrzeug an ihrem Tiefgaragenstellplatz errichtet wird. Die Eigentümerversammlung lehnt einen entsprechenden Beschluss ab. Später möchte auch Eigentümer F die Ladestation nutzen, ohne sich an den Kosten beteiligt zu haben.",
+  "schritte": [
+   {
+    "frage": "Kann E die Maßnahme trotz der Ablehnung verlangen?",
+    "optionen": [
+     "Nein, ohne Beschluss der Mehrheit besteht kein Anspruch auf bauliche Veränderungen",
+     "Ja, sie ist eine privilegierte Maßnahme; E kann Gestattung oder Ermächtigung der GdWE verlangen",
+     "Nein, nur wenn alle Eigentümer einverstanden sind",
+     "Ja, E darf die Ladestation ohne Beschluss errichten"
+    ],
+    "antwort": 1,
+    "erklaerung": "Grundsätzlich besteht kein Anspruch auf bauliche Veränderungen. Ausnahmsweise kann jeder Eigentümer aber angemessene Maßnahmen zum Laden elektrisch betriebener Fahrzeuge verlangen (§ 20 Abs. 2 S. 1 Nr. 2 WEG); die Maßnahme ist zu gestatten oder die GdWE zu ermächtigen. Ohne Gestattung oder Beschluss darf E nicht bauen, weil Bauen am Gemeinschaftseigentum einen Beschluss voraussetzt."
+   },
+   {
+    "frage": "Wer trägt die Kosten, wenn die GdWE die Maßnahme auf Verlangen der E durchführt?",
+    "optionen": [
+     "alle Eigentümer nach ihren Anteilen",
+     "E allein; nur ihr gebühren auch die Nutzungen",
+     "E und alle zustimmenden Eigentümer",
+     "die GdWE aus der Erhaltungsrücklage"
+    ],
+    "antwort": 1,
+    "erklaerung": "Führt die GdWE eine privilegierte Maßnahme auf Verlangen eines Eigentümers durch, trägt dieser die Kosten (§ 21 Abs. 1 S. 1 WEG); nur ihm gebühren die Nutzungen (§ 21 Abs. 1 S. 2 WEG). Eine Kostentragung aller käme nur unter § 21 Abs. 2 WEG in Betracht."
+   },
+   {
+    "frage": "Kann F nachträglich die Nutzung der Ladestation erreichen?",
+    "optionen": [
+     "Nein, die Nutzung steht E dauerhaft allein zu",
+     "Ja, aber nur mit Zustimmung aller Eigentümer",
+     "Ja, F kann die Nutzung nach billigem Ermessen gegen angemessenen Ausgleich verlangen",
+     "Ja, F darf die Ladestation unentgeltlich mitbenutzen"
+    ],
+    "antwort": 2,
+    "erklaerung": "Ein Eigentümer ohne Nutzungsrecht kann verlangen, dass ihm die Nutzung nach billigem Ermessen gegen angemessenen Ausgleich gestattet wird (§ 21 Abs. 4 S. 1 WEG); für Kosten und Nutzungen gilt dann § 21 Abs. 3 WEG entsprechend. Unentgeltliche Mitbenutzung scheidet aus."
+   }
+  ],
+  "erklaerung": "Die Ladestation ist eine privilegierte Maßnahme nach § 20 Abs. 2 S. 1 Nr. 2 WEG, die E trotz fehlender Mehrheit verlangen kann. E trägt die Kosten und hat die Nutzungen (§ 21 Abs. 1 WEG). F kann sich nachträglich gegen angemessenen Ausgleich beteiligen (§ 21 Abs. 4 WEG)."
+ },
+ {
+  "id": "wohn4-059",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Übertragung eines Sondernutzungsrechts",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/ubertragung-eines-sondernutzungsrechts",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 5 Abs. 4 S. 1 WEG",
+   "§§ 877, 873 BGB"
+  ],
+  "frage": "Wie ist die Übertragung eines eingetragenen Sondernutzungsrechts auf einen anderen Eigentümer derselben Anlage rechtlich einzuordnen?",
+  "optionen": [
+   "als Inhaltsänderung, die mit Einigung und Eintragung wirksam wird",
+   "als Auflassung nach § 925 BGB",
+   "als Beschluss der Eigentümer mit einfacher Mehrheit",
+   "als schuldrechtliche Abtretung, die ohne Eintragung wirksam wird"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Übertragung ist eine Inhaltsänderung nach § 5 Abs. 4 S. 1 WEG i.V.m. §§ 877, 873 BGB. Nötig sind Einigung von Veräußerer und Erwerber und Eintragung (§ 10 Abs. 3 WEG); für die Eintragung bedarf es der Bewilligung des Veräußerers. Die reine Abtretung genügt nur bei nicht eingetragenen, schuldrechtlichen Sondernutzungsrechten."
+ },
+ {
+  "id": "wohn4-060",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Übertragung eines Sondernutzungsrechts",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/ubertragung-eines-sondernutzungsrechts",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 12 Abs. 1 WEG"
+  ],
+  "frage": "Die Übertragung eines eingetragenen Sondernutzungsrechts bedarf stets der Zustimmung der übrigen Wohnungseigentümer.",
+  "antwort": false,
+  "erklaerung": "Mitwirken müssen nur Veräußerer und Erwerber, weil die Zuordnung der Nutzungsbefugnis die übrigen Eigentümer nicht berührt. Etwas anderes gilt nur, wenn die Gemeinschaftsordnung einen Zustimmungsvorbehalt analog § 12 Abs. 1 WEG vorsieht."
+ },
+ {
+  "id": "wohn4-061",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Übertragung eines Sondernutzungsrechts",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/ubertragung-eines-sondernutzungsrechts",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§§ 877, 876 S. 1 BGB",
+   "§ 5 Abs. 4 S. 2 WEG"
+  ],
+  "frage": "Das Sondernutzungsrecht wird von Einheit A auf Einheit B übertragen. Beide Einheiten sind mit Grundschulden belastet. Wessen Gläubiger muss zustimmen?",
+  "optionen": [
+   "nur der Gläubiger der abgebenden Einheit A",
+   "nur der Gläubiger der erwerbenden Einheit B",
+   "die Gläubiger beider Einheiten",
+   "keiner der Gläubiger"
+  ],
+  "antwort": 0,
+  "erklaerung": "Der Gläubiger der abgebenden Einheit wird durch die Abschreibung des Rechts rechtlich beeinträchtigt (§§ 877, 876 S. 1 BGB i.V.m. § 5 Abs. 4 S. 2 WEG). Der Gläubiger der erwerbenden Einheit muss nicht zustimmen; mit dem Recht verbundene Kostenpflichten sind nur eine wirtschaftliche, keine rechtliche Belastung. In der Praxis ist daher die Freigabe der Gläubiger an der abgebenden Einheit einzuholen."
+ },
+ {
+  "id": "wohn4-062",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Übertragung eines Sondernutzungsrechts",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/ubertragung-eines-sondernutzungsrechts",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§§ 413, 398 BGB"
+  ],
+  "frage": "Wie wird ein nicht eingetragenes, rein schuldrechtliches Sondernutzungsrecht übertragen?",
+  "optionen": [
+   "durch Einigung und Eintragung im Grundbuch",
+   "durch Abtretung nach §§ 413, 398 BGB außerhalb des Grundbuchs",
+   "durch Beschluss der Eigentümerversammlung",
+   "überhaupt nicht, weil es nicht übertragbar ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Auch nicht eingetragene, schuldrechtliche Sondernutzungsrechte sind nach einhelliger Ansicht übertragbar, und zwar durch Abtretung nach §§ 413, 398 BGB. Eine Eintragung ist so wenig möglich wie bei der Begründung; das Recht geht außerhalb des Grundbuchs über. Die Grundsätze von Einigung und Eintragung gelten nur für vereinbarte und eingetragene Rechte."
+ },
+ {
+  "id": "wohn4-063",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Umwandlung von Sonder- und Gemeinschaftseigentum und spätere Anbauten",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/umwandlung-von-sonder-und-gemeinschaftseigentum-und-spatere-anbauten",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 4 Abs. 1 und 2 WEG"
+  ],
+  "frage": "Welche Erklärungen sind erforderlich, um Sondereigentum in Gemeinschaftseigentum umzuwandeln?",
+  "optionen": [
+   "Beschluss der Eigentümer mit qualifizierter Mehrheit",
+   "Einigung aller Miteigentümer in Auflassungsform",
+   "Erklärung des betroffenen Eigentümers allein",
+   "Vereinbarung nach § 10 Abs. 1 WEG in einfacher Schriftform"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Umwandlung hebt Sondereigentum auf oder begründet es und ist ein sachenrechtlicher Vorgang. Nach § 4 Abs. 1 und 2 WEG ist die Einigung aller Miteigentümer in Auflassungsform erforderlich. Das gilt auch für die Überführung in Gemeinschaftseigentum, weil ein Eigentümer der Gemeinschaft kein Eigentum aufdrängen kann."
+ },
+ {
+  "id": "wohn4-064",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Umwandlung von Sonder- und Gemeinschaftseigentum und spätere Anbauten",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/umwandlung-von-sonder-und-gemeinschaftseigentum-und-spatere-anbauten",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 10 Abs. 1 WEG",
+   "BGH, NJW 2003, 2165"
+  ],
+  "frage": "Die Gemeinschaftsordnung kann einen Eigentümer dinglich ermächtigen, Sondereigentum künftig ohne Mitwirkung der anderen in Gemeinschaftseigentum umzuwandeln.",
+  "antwort": false,
+  "erklaerung": "Die Umwandlung betrifft das sachenrechtliche Grundverhältnis und fällt deshalb nicht unter § 10 Abs. 1 WEG. Vereinbarungen nach dieser Vorschrift regeln nur das Innenverhältnis, die Zuordnung von Räumen und Flächen ist davon streng zu trennen. Auch vorweggenommene Zustimmungen zu solchen Vorgängen sind in einer Vereinbarung nicht möglich. Anders ist es bei der Umwandlung von Wohnungs- in Teileigentum, wo ein Änderungsvorbehalt zulässig ist."
+ },
+ {
+  "id": "wohn4-065",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Umwandlung von Sonder- und Gemeinschaftseigentum und spätere Anbauten",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/umwandlung-von-sonder-und-gemeinschaftseigentum-und-spatere-anbauten",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 7 Abs. 4 WEG"
+  ],
+  "frage": "Bei der Umwandlung von Sondereigentum in Gemeinschaftseigentum sind grundsätzlich ein neuer Aufteilungsplan und eine Abgeschlossenheitsbescheinigung nötig. Wann sind beide ausnahmsweise entbehrlich?",
+  "optionen": [
+   "wenn alle Eigentümer verzichten",
+   "wenn ein Gläubiger zustimmt",
+   "wenn ein für sich abgeschlossener Raum, etwa ein Keller, insgesamt Gemeinschaftseigentum wird",
+   "wenn die Umwandlung eine Fläche mit Sondernutzungsrecht betrifft"
+  ],
+  "antwort": 2,
+  "erklaerung": "Neben der Bewilligung aller Eigentümer sind grundsätzlich ein neuer Aufteilungsplan und eine Abgeschlossenheitsbescheinigung vorzulegen (vgl. § 7 Abs. 4 WEG). Wird ein für sich abgeschlossener Raum, etwa ein Keller, insgesamt zu Gemeinschaftseigentum, sind beide entbehrlich. Ein Sondernutzungsrecht an der Fläche ändert an der Beeinträchtigung der Gläubiger nichts und hat auf die Nachweise keinen Einfluss."
+ },
+ {
+  "id": "wohn4-066",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Unterteilung von Wohnungseigentum: Zustimmungen, Grundbuchnachweise und Stimmrecht",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/unterteilung-von-wohnungseigentum-zustimmungen-grundbuchnachweise-und-stimmrecht",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "BGH, NJW 2012, 2434 Rn. 8",
+   "§ 12 Abs. 1 WEG"
+  ],
+  "frage": "Ein Eigentümer will sein Wohnungseigentum in zwei Einheiten unterteilen. Wann müssen die übrigen Eigentümer ausnahmsweise zustimmen?",
+  "optionen": [
+   "immer, weil sich die Zahl der Einheiten ändert",
+   "wenn die Gemeinschaftsordnung Unterteilungen einem Zustimmungsvorbehalt unterwirft",
+   "wenn die Gemeinschaftsordnung eine Veräußerungsbeschränkung enthält",
+   "wenn der Stimmenanteil des Eigentümers dadurch steigt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Unterteilung bedarf grundsätzlich nicht der Zustimmung der anderen Eigentümer; das Stimmgewicht ändert sich nicht. Eine Zustimmung analog § 12 Abs. 1 WEG ist nach herrschender Meinung nötig, wenn die Gemeinschaftsordnung Unterteilungen einem Zustimmungsvorbehalt unterwirft. Eine bloße Veräußerungsbeschränkung genügt dafür nicht."
+ },
+ {
+  "id": "wohn4-067",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Unterteilung von Wohnungseigentum: Zustimmungen, Grundbuchnachweise und Stimmrecht",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/unterteilung-von-wohnungseigentum-zustimmungen-grundbuchnachweise-und-stimmrecht",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§§ 877, 876 BGB analog"
+  ],
+  "frage": "Ordne den Berechtigten zu, ob und warum sie einer Unterteilung des Wohnungseigentums zustimmen müssen.",
+  "paare": [
+   [
+    "Grundpfandgläubiger",
+    "Zustimmung nicht nötig, das Recht wird zum Gesamtrecht"
+   ],
+   [
+    "Inhaber einer Auflassungsvormerkung",
+    "Zustimmung nötig, weil sich der Anspruch auf ein ungeteiltes Objekt bezieht"
+   ],
+   [
+    "Inhaber eines besitzberechtigenden Rechts",
+    "richtigerweise keine Zustimmung nötig"
+   ]
+  ],
+  "erklaerung": "Dinglich Berechtigte müssen analog §§ 877, 876 BGB nur zustimmen, wenn ihre Rechtsstellung beeinträchtigt wird. Grundpfandgläubiger werden nicht beeinträchtigt, ihr Recht setzt sich als Gesamtrecht fort. Der Vormerkungsberechtigte muss dagegen zustimmen, weil sein Anspruch auf ein ungeteiltes Objekt gerichtet ist."
+ },
+ {
+  "id": "wohn4-068",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Unterteilung von Wohnungseigentum: Zustimmungen, Grundbuchnachweise und Stimmrecht",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/unterteilung-von-wohnungseigentum-zustimmungen-grundbuchnachweise-und-stimmrecht",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 25 Abs. 2 S. 1 WEG"
+  ],
+  "frage": "Wie wird das Stimmrecht nach der Unterteilung beim Kopfprinzip ausgeübt, wenn die neuen Einheiten verschiedenen Eigentümern gehören?",
+  "optionen": [
+   "Jeder Eigentümer der neuen Einheiten hat eine volle Stimme",
+   "Das Stimmrecht steht den Eigentümern der neuen Einheiten nach Bruchteilen zu",
+   "Das Stimmrecht ruht bis zur Verschmelzung der Einheiten",
+   "Das Stimmrecht verbleibt beim Eigentümer der Ursprungseinheit"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Veräußerung unterteilter Einheiten ist ohne Zustimmung der übrigen möglich, weil sich deren Stimmkraft nicht ändert. Beim Kopfprinzip steht das Stimmrecht den Eigentümern der neuen Einheiten nach Bruchteilen zu (BGH, NJW 1979, 870), ebenso beim Objektprinzip. Eine volle Stimme je Einheit würde die Stimmkraft der übrigen verwässern; beim Wertprinzip bleibt alles unverändert, weil die Miteigentumsanteile gleich bleiben."
+ },
+ {
+  "id": "wohn4-069",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Veränderungen am aufgeteilten Grundstück: Teilfläche, Hinzuerwerb und Unschädlichkeitszeugnis",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/veranderungen-am-aufgeteilten-grundstuck-teilflache-hinzuerwerb-und-unschadlichkeitszeugnis",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§§ 873, 925 Abs. 1 BGB"
+  ],
+  "frage": "Wer muss bei der Veräußerung einer realen Teilfläche des in Wohnungseigentum aufgeteilten Grundstücks an der Auflassung mitwirken?",
+  "optionen": [
+   "die GdWE durch den Verwalter aufgrund Mehrheitsbeschlusses",
+   "nur die Eigentümer, deren Einheiten an die Teilfläche grenzen",
+   "alle Wohnungseigentümer",
+   "der Verwalter und der Verwaltungsbeirat"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Veräußerung einer Teilfläche berührt das sachenrechtliche Grundverhältnis und fällt nicht in die Zuständigkeit der GdWE. Alle Eigentümer müssen an der Auflassung mitwirken (§§ 873, 925 Abs. 1 BGB); eine Beschlusskompetenz besteht mangels Verwaltungsbezugs nicht."
+ },
+ {
+  "id": "wohn4-070",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Veränderungen am aufgeteilten Grundstück: Teilfläche, Hinzuerwerb und Unschädlichkeitszeugnis",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/veranderungen-am-aufgeteilten-grundstuck-teilflache-hinzuerwerb-und-unschadlichkeitszeugnis",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 883 BGB"
+  ],
+  "frage": "Wie kann nach herrschender Meinung der Anspruch auf Übereignung einer Teilfläche aus einem Wohnungseigentumsgrundstück durch Vormerkung gesichert werden?",
+  "optionen": [
+   "nur an einer einzelnen Einheit",
+   "nur an allen Einheiten zugleich",
+   "nur am Gemeinschaftseigentum",
+   "überhaupt nicht"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach herrschender Meinung kann die Eigentumsvormerkung nur an allen Einheiten zugleich eingetragen werden, nicht an einer einzelnen (BayObLG, MittBayNot 2002, 189). Nach anderer Ansicht kann auch ein Mitwirkungsanspruch gegen jeden einzelnen Eigentümer durch Vormerkung gesichert werden. Die Vormerkung an einer einzelnen Einheit genügt nach herrschender Meinung nicht."
+ },
+ {
+  "id": "wohn4-071",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Veränderungen am aufgeteilten Grundstück: Teilfläche, Hinzuerwerb und Unschädlichkeitszeugnis",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/veranderungen-am-aufgeteilten-grundstuck-teilflache-hinzuerwerb-und-unschadlichkeitszeugnis",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 890 Abs. 2 BGB",
+   "§ 1131 BGB"
+  ],
+  "frage": "Alle Eigentümer erwerben eine Fläche hinzu, die dem Grundstück als Bestandteil zugeschrieben wird. Welche Aussage zu den Gläubigern an den Einheiten trifft zu?",
+  "optionen": [
+   "Alle Berechtigten müssen nach §§ 877, 876 BGB zustimmen",
+   "Die Grundpfandrechte erstrecken sich nach § 1131 BGB auf den erworbenen Anteil; eine Zustimmung ist nicht nötig",
+   "Die Grundpfandrechte erlöschen an der Hinzuerwerbsfläche",
+   "Nur Gläubiger mit Rechten in Abteilung II müssen zustimmen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei der Zuschreibung (§ 890 Abs. 2 BGB) erstrecken sich Grundpfandrechte nach § 1131 BGB auf den erworbenen Anteil. Eine Zustimmung der Berechtigten an den Einheiten ist nicht nötig, weil sie keinen Nachteil erleiden. Zusätzlich ist nach überwiegender Ansicht eine Erklärung aller Eigentümer nach §§ 3, 4 WEG nötig, dass sich das Gemeinschaftsverhältnis auf die Fläche erstreckt."
+ },
+ {
+  "id": "wohn4-072",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Veränderungen am Wohnungseigentum",
+  "seite": "Veränderungen am aufgeteilten Grundstück: Teilfläche, Hinzuerwerb und Unschädlichkeitszeugnis",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/veranderungen-am-aufgeteilten-grundstuck-teilflache-hinzuerwerb-und-unschadlichkeitszeugnis",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "Art. 120 EGBGB",
+   "Art. 1 Abs. 2 EGBGB"
+  ],
+  "frage": "Was bewirkt ein Unschädlichkeitszeugnis nach Landesrecht bei der Veräußerung einer Teilfläche aus einer Wohnungseigentumsanlage?",
+  "optionen": [
+   "Es ersetzt die Auflassung der Teilfläche",
+   "Der veräußerte Grundstücksteil wird von Belastungen frei, wenn die Behörde feststellt, dass die Rechtsänderung für die Berechtigten unschädlich ist",
+   "Es ersetzt die Zustimmung der übrigen Wohnungseigentümer zur Veräußerung",
+   "Es lässt die Belastungen unberührt und ersetzt nur die Vormerkung"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Länder haben auf Grundlage von Art. 120 i.V.m. Art. 1 Abs. 2 EGBGB Gesetze über das Unschädlichkeitszeugnis erlassen. Danach wird der veräußerte Teil frei von Belastungen, wenn die zuständige Behörde die Unschädlichkeit für die Berechtigten feststellt. Es ersetzt die sonst nötigen Zustimmungen aller dinglich Berechtigten, nicht aber die Auflassung oder die Mitwirkung aller Eigentümer."
  }
 ]

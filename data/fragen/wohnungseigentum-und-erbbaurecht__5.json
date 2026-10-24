@@ -768,5 +768,774 @@
    }
   ],
   "erklaerung": "Wegen des Rangklassenprivilegs nach § 10 Abs. 1 Nr. 2 ZVG schützt die Vormerkung K nicht; sie fällt nicht in das geringste Gebot. Ein Erwerb nach Beschlagnahme ist relativ unwirksam, es sei denn, der Umschreibungsantrag war zuvor gestellt (§ 878 BGB) oder ein gutgläubiger Erwerb greift. Bei Anhaltspunkten für Rückstände ist eine Hausgeldschuldenfreiheitsbescheinigung als Fälligkeitsvoraussetzung mit Frist und Rücktrittsrecht angezeigt."
+ },
+ {
+  "id": "wohn5-034",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Veräußerung von Wohnungseigentum: Nachhaftung des Veräußerers",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/verausserung-von-wohnungseigentum-nachhaftung-des-verausserers",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 9a Abs. 4 S. 1 WEG",
+   "§ 728b Abs. 1 S. 1 BGB"
+  ],
+  "frage": "Unter welchen Voraussetzungen haftet der ausgeschiedene Wohnungseigentümer für bis zu seinem Ausscheiden begründete Verbindlichkeiten der GdWE?",
+  "optionen": [
+   "Er haftet nur für Verbindlichkeiten, die erst nach seinem Ausscheiden fällig werden",
+   "Er haftet ohne zeitliche Grenze gesamtschuldnerisch, bis die Forderung verjährt ist",
+   "Die Verbindlichkeit wird vor Ablauf von fünf Jahren nach dem Ausscheiden fällig und der Anspruch gegen ihn wird festgestellt oder es wird eine Vollstreckungshandlung vorgenommen oder beantragt",
+   "Er haftet nur, wenn der Erwerber die Verbindlichkeit nicht innerhalb von drei Jahren erfüllt"
+  ],
+  "antwort": 2,
+  "erklaerung": "Nach § 9a Abs. 4 S. 1 WEG gilt für die Haftung nach Veräußerung § 728b BGB entsprechend; danach haftet der Ausgeschiedene nur, wenn die Verbindlichkeit binnen fünf Jahren fällig wird und eine Feststellung oder Vollstreckungshandlung hinzutritt (§ 728b Abs. 1 S. 1 BGB). Die frühere, weitgehend gesamtschuldnerische und nur durch Verjährung begrenzte Haftung ist damit gerade abgelöst; auf eine Erfüllung durch den Erwerber kommt es nicht an."
+ },
+ {
+  "id": "wohn5-035",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Veräußerung von Wohnungseigentum: Nachhaftung des Veräußerers",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/verausserung-von-wohnungseigentum-nachhaftung-des-verausserers",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 9a Abs. 4 S. 1 WEG"
+  ],
+  "frage": "Verpflichtet sich der Erwerber im Kaufvertrag zur Freistellung des Veräußerers von Verbindlichkeiten der GdWE, scheidet der Veräußerer damit auch im Außenverhältnis gegenüber den Gläubigern aus der Haftung aus.",
+  "antwort": false,
+  "erklaerung": "Die Freistellungsvereinbarung wirkt nur zwischen Veräußerer und Erwerber. Nach außen bleibt der Veräußerer Gläubigern der GdWE gegenüber im Rahmen der Nachhaftung (§ 9a Abs. 4 S. 1 WEG i.V.m. § 728b BGB) verpflichtet und kann nur vom Erwerber Freistellung verlangen. Darüber ist er gegebenenfalls zu belehren."
+ },
+ {
+  "id": "wohn5-036",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Veräußerung von Wohnungseigentum: Nachhaftung des Veräußerers",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/verausserung-von-wohnungseigentum-nachhaftung-des-verausserers",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 9a Abs. 4 S. 1 WEG"
+  ],
+  "frage": "Der Veräußerer verlangt, nach dem Verkauf nicht mehr für Verbindlichkeiten der GdWE einstehen zu müssen. Welche Gestaltung ist sachgerecht?",
+  "optionen": [
+   "Aufnahme einer Klausel, nach der die Haftung des Veräußerers mit dem Besitzübergang gegenüber Dritten endet",
+   "Freistellungsvereinbarung mit dem Erwerber, die fällige Hausgeldansprüche gegen den Veräußerer nicht erfasst, verbunden mit der Belehrung, dass er Gläubigern gegenüber weiter haftet",
+   "Belehrung des Veräußerers, dass die Nachhaftung gesetzlich ausgeschlossen ist",
+   "Abtretung der Haftung an die GdWE im Kaufvertrag mit Wirkung gegenüber deren Gläubigern"
+  ],
+  "antwort": 1,
+  "erklaerung": "Wer nach dem Ausscheiden gar nicht mehr haften will, braucht eine Freistellungsvereinbarung mit dem Erwerber; sie ist so zu fassen, dass fällige Hausgeldansprüche der Gemeinschaft gegen den Veräußerer nicht erfasst sind. Die Haftung nach außen bleibt bestehen (§ 9a Abs. 4 S. 1 WEG), eine Vereinbarung zwischen den Kaufvertragsparteien bindet die Gläubiger nicht. Eine Belehrung über eine bloße Verbesserung durch die Nachhaftungsregel ist dagegen nicht angezeigt."
+ },
+ {
+  "id": "wohn5-037",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Veräußerung von Wohnungseigentum: Verwaltervertrag, Stimmrecht und Erhaltungsrücklage",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/verausserung-von-wohnungseigentum-verwaltervertrag-stimmrecht-und-erhaltungsrucklage",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 10 Abs. 3 S. 2 WEG",
+   "§ 26 Abs. 1 WEG"
+  ],
+  "frage": "Zwischen wem besteht der Verwaltervertrag, und ist ein Beitritt des Erwerbers beim Verkauf einer Eigentumswohnung erforderlich?",
+  "optionen": [
+   "Zwischen Verwalter und dem Veräußerer; er geht mit der Umschreibung kraft Gesetzes auf den Erwerber über",
+   "Zwischen Verwalter und GdWE; der Erwerber muss dem Vertrag aber ausdrücklich beitreten",
+   "Zwischen Verwalter und GdWE; ein Beitritt des Erwerbers ist überflüssig",
+   "Zwischen Verwalter und jedem einzelnen Eigentümer; der Erwerber muss beitreten"
+  ],
+  "antwort": 2,
+  "erklaerung": "Der Verwaltervertrag besteht zwischen dem Verwalter und der GdWE; der Erwerber ist daran als Mitglied der Gemeinschaft ohnehin beteiligt, sodass sein Beitritt überflüssig ist. An den Bestellungsbeschluss ist er nach § 10 Abs. 3 S. 2 WEG ohne Weiteres gebunden (Bestellung nach § 26 Abs. 1 WEG). Bestellung und Verwaltervertrag sind zwar verschiedene Rechtsgeschäfte, aber keines davon läuft über den einzelnen Eigentümer."
+ },
+ {
+  "id": "wohn5-038",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Veräußerung von Wohnungseigentum: Verwaltervertrag, Stimmrecht und Erhaltungsrücklage",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/verausserung-von-wohnungseigentum-verwaltervertrag-stimmrecht-und-erhaltungsrucklage",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "BFH, DNotZ 2021, 280 Rn. 14"
+  ],
+  "frage": "Im Kaufvertrag über eine Eigentumswohnung ist ein Teil des Kaufpreises der Erhaltungsrücklage zugeordnet. Wie wirkt sich das auf die Grunderwerbsteuer aus?",
+  "optionen": [
+   "Der Rücklagenanteil gehört zur Bemessungsgrundlage und kann nicht abgezogen werden",
+   "Der Rücklagenanteil ist als Entgelt für ein bewegliches Recht abzuziehen",
+   "Der Rücklagenanteil ist nur abziehbar, wenn er im Vertrag gesondert beziffert ist",
+   "Der Rücklagenanteil ist abzuziehen, weil Träger der Rücklage die GdWE ist"
+  ],
+  "antwort": 0,
+  "erklaerung": "Das Entgelt für die Erhaltungsrücklage ist Aufwand für den Erwerb des Grundstücks; die Rücklage ist Teil des Wohnungseigentums und kein eigener Verfügungsgegenstand. Sie gehört daher zur Bemessungsgrundlage der Grunderwerbsteuer. Dass die GdWE Trägerin des Verwaltungsvermögens ist, ändert daran nichts, und auch eine gesonderte Bezifferung im Vertrag schafft keinen abziehbaren Posten."
+ },
+ {
+  "id": "wohn5-039",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Veräußerung von Wohnungseigentum: Verwaltervertrag, Stimmrecht und Erhaltungsrücklage",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/verausserung-von-wohnungseigentum-verwaltervertrag-stimmrecht-und-erhaltungsrucklage",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 9a Abs. 1 S. 1 WEG"
+  ],
+  "frage": "Der Veräußerer muss seinen Anteil am Verwaltungsvermögen der Gemeinschaft im Kaufvertrag auf den Erwerber übertragen.",
+  "antwort": false,
+  "erklaerung": "Träger des Verwaltungsvermögens ist die GdWE als rechtsfähiger Verband (§ 9a Abs. 1 S. 1 WEG). Der Veräußerer hat daran keinen Anteil, den er übertragen könnte; eine Übertragung ist nicht nötig, weil der Erwerber mit der Umschreibung Mitglied der Gemeinschaft wird."
+ },
+ {
+  "id": "wohn5-040",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Veräußerung von Wohnungseigentum: Verwaltervertrag, Stimmrecht und Erhaltungsrücklage",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/verausserung-von-wohnungseigentum-verwaltervertrag-stimmrecht-und-erhaltungsrucklage",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 453 BGB"
+  ],
+  "frage": "Im Vertrag wird ein Teil des Kaufpreises der Erhaltungsrücklage zugeordnet. Wie ist das nach der auf der Seite vertretenen Auffassung rechtlich einzuordnen?",
+  "optionen": [
+   "Als selbstständiger Rechtskauf der Rücklage im Sinne des § 453 BGB",
+   "Als Zuordnung ohne eigenen Rechtsgehalt; weder ein selbstständiger Rechtskauf noch eine Beschaffenheitsvereinbarung liegt vor",
+   "Als Garantie des Veräußerers für den Bestand der Rücklage",
+   "Als Beschaffenheitsvereinbarung über die Höhe der Rücklage"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Seite folgt dem OLG Koblenz: Die Zuordnung eines Kaufpreisteils zur Rücklage ist richtigerweise keine Beschaffenheitsvereinbarung. Die Rücklage ist kein eigener Verfügungsgegenstand, daher scheidet auch ein selbstständiger Rechtskauf nach § 453 BGB aus; diese Begründung des OLG Köln wird als unzutreffend bezeichnet. Eine Garantie lässt sich der bloßen Zuordnung ebenfalls nicht entnehmen."
+ },
+ {
+  "id": "wohn5-041",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Veräußerungszustimmung nach § 12 WEG: Anwendungsfälle und Zustimmungsberechtigter",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/verausserungszustimmung-nach-12-weg-anwendungsfalle-und-zustimmungsberechtigter",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 12 WEG"
+  ],
+  "frage": "Bei im Grundbuch eingetragener Veräußerungsbeschränkung: Welcher Vorgang bedarf der Zustimmung nach § 12 WEG?",
+  "optionen": [
+   "Der Übergang des Wohnungseigentums im Wege der Erbfolge",
+   "Der Eigentumsübergang durch Enteignung",
+   "Die Übertragung eines Bruchteils des Wohnungseigentums an einen Erwerber, der bereits Mitglied der Gemeinschaft ist",
+   "Die Abtretung eines Erbteils an einen Dritten"
+  ],
+  "antwort": 2,
+  "erklaerung": "§ 12 WEG erfasst nur die rechtsgeschäftliche vollständige oder teilweise Übertragung unter Lebenden; auch die Übertragung eines Bruchteils bedarf der Zustimmung, selbst wenn der Erwerber schon Mitglied der Gemeinschaft ist. Erbfolge, Enteignung und Erbteilsabtretung sind Gesamtrechtsnachfolge bzw. Übergang kraft Gesetzes und fallen deshalb nicht unter die Beschränkung."
+ },
+ {
+  "id": "wohn5-042",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Veräußerungszustimmung nach § 12 WEG: Anwendungsfälle und Zustimmungsberechtigter",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/verausserungszustimmung-nach-12-weg-anwendungsfalle-und-zustimmungsberechtigter",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 12 WEG"
+  ],
+  "frage": "Schon die Bestellung einer Auflassungsvormerkung für den Käufer bedarf der Zustimmung nach § 12 WEG.",
+  "antwort": false,
+  "erklaerung": "Die Bestellung einer Auflassungsvormerkung genügt nicht, um den Zustimmungsvorbehalt auszulösen. Die Beschränkung knüpft an die Veräußerung selbst an, also an Kaufvertrag und Auflassung, nicht an die bloße Sicherung des Anspruchs."
+ },
+ {
+  "id": "wohn5-043",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Veräußerungszustimmung nach § 12 WEG: Anwendungsfälle und Zustimmungsberechtigter",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/verausserungszustimmung-nach-12-weg-anwendungsfalle-und-zustimmungsberechtigter",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 12 WEG",
+   "§ 29 Abs. 1 S. 2 GBO"
+  ],
+  "frage": "Das Grundbuchamt soll die Ausnahme „Veräußerung an Ehegatten“ von der Zustimmungspflicht als gegeben ansehen. Wie ist der Nachweis nach der auf der Seite dargestellten Rechtsprechung des KG zu führen?",
+  "optionen": [
+   "Durch Bestätigung des Verwalters, dass die Beteiligten verheiratet sind",
+   "Durch eine Personenstandsurkunde in der Form des § 29 Abs. 1 S. 2 GBO",
+   "Durch Versicherung der Beteiligten in der Urkunde",
+   "Durch eine eidesstattliche Versicherung der Beteiligten zu Protokoll des Notars"
+  ],
+  "antwort": 1,
+  "erklaerung": "Für personenbezogene Ausnahmen verlangt das KG eine Personenstandsurkunde in der Form des § 29 Abs. 1 S. 2 GBO. Eine Versicherung der Beteiligten in der Urkunde genügt nicht, weil sie keinen Beweis nach § 415 ZPO für ihren Inhalt erbringt; die Seite hält die Entscheidung allerdings für eine wohl überzogene Anwendung der Beweismittelbeschränkung. Praktisch sind Personenstandsurkunden vorsorglich zu beschaffen."
+ },
+ {
+  "id": "wohn5-044",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Veräußerungszustimmung nach § 12 WEG: Anwendungsfälle und Zustimmungsberechtigter",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/verausserungszustimmung-nach-12-weg-anwendungsfalle-und-zustimmungsberechtigter",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 12 WEG",
+   "§ 46 WEG"
+  ],
+  "frage": "Die Veräußerungsbeschränkung greift nicht bei der Erstveräußerung durch den teilenden Alleineigentümer.",
+  "antwort": false,
+  "erklaerung": "Die Beschränkung gilt ab Entstehen der Gemeinschaft, also ab Anlegung der Wohnungsgrundbücher (§ 9a Abs. 1 S. 2 WEG), und damit auch bei der Erstveräußerung durch den teilenden Alleineigentümer. Wer das vermeiden will, muss in der Gemeinschaftsordnung eine Ausnahme für die Erstveräußerung festlegen."
+ },
+ {
+  "id": "wohn5-045",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Veräußerungszustimmung nach § 12 WEG: Anwendungsfälle und Zustimmungsberechtigter",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/verausserungszustimmung-nach-12-weg-anwendungsfalle-und-zustimmungsberechtigter",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 181 BGB",
+   "§ 12 WEG"
+  ],
+  "frage": "Der Verwalter erteilt als Vertreter der GdWE die Zustimmung zur Veräußerung einer Wohnung, die er selbst erwirbt. Liegt darin ein Verstoß gegen § 181 BGB?",
+  "optionen": [
+   "Ja, der Verwalter ist von der Zustimmung ausgeschlossen und die Eigentümer müssen beschließen",
+   "Nein, nach überwiegender Auffassung liegt kein Fall des § 181 BGB vor",
+   "Nein, aber nur, wenn die Gemeinschaftsordnung ihn ausdrücklich vom Verbot befreit",
+   "Ja, aber die Zustimmung ist durch Genehmigung der Eigentümerversammlung heilbar"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach KG, BayObLG, OLG Düsseldorf und OLG Hamm liegt kein Fall des § 181 BGB vor, wenn der Verwalter, der zugleich Erwerber ist, die Zustimmung gegenüber dem Veräußerer erteilt; die Gegenmeinung (LG Hagen) ist vereinzelt geblieben. Eine ausdrückliche Befreiung in der Gemeinschaftsordnung ist deshalb nicht erforderlich."
+ },
+ {
+  "id": "wohn5-046",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Veräußerungszustimmung nach § 12 WEG: Erklärung, Widerruf, Form und Vertragsgestaltung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/verausserungszustimmung-nach-12-weg-erklarung-widerruf-form-und-vertragsgestaltung",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 12 Abs. 3 WEG"
+  ],
+  "frage": "Bis zur Zustimmung sind sowohl der schuldrechtliche als auch der dingliche Vertrag schwebend unwirksam.",
+  "antwort": true,
+  "erklaerung": "Nach § 12 Abs. 3 WEG sind Kaufvertrag und Auflassung bis zur Zustimmung schwebend unwirksam. Mit Zugang der Zustimmung wird die Veräußerung rückwirkend wirksam."
+ },
+ {
+  "id": "wohn5-047",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Veräußerungszustimmung nach § 12 WEG: Erklärung, Widerruf, Form und Vertragsgestaltung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/verausserungszustimmung-nach-12-weg-erklarung-widerruf-form-und-vertragsgestaltung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 12 Abs. 3 WEG",
+   "§ 29 GBO"
+  ],
+  "frage": "Der Verwalter gibt die beglaubigte Zustimmung ab und wird später, noch vor der Umschreibung, abberufen. Wie wirkt sich das auf die erteilte Zustimmung aus?",
+  "optionen": [
+   "Gar nicht, es genügt, dass er bei Abgabe der Erklärung im Amt war",
+   "Die Zustimmung bleibt nur wirksam, wenn der Erwerber bereits im Grundbuch eingetragen ist",
+   "Die Zustimmung wird unwirksam, wenn der Kaufpreis noch nicht gezahlt ist",
+   "Die Zustimmung wird unwirksam und muss durch den neuen Verwalter erneut erteilt werden"
+  ],
+  "antwort": 0,
+  "erklaerung": "Der Verwalter erteilt die Zustimmung als Vertreter der GdWE; deshalb genügt es, dass er bei Abgabe der Erklärung im Amt war. Ein späterer Amtsverlust berührt die erteilte Zustimmung nicht. Ein Abwarten bis zur Umschreibung oder die Zahlung des Kaufpreises sind für ihre Wirksamkeit ohne Bedeutung."
+ },
+ {
+  "id": "wohn5-048",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Veräußerungszustimmung nach § 12 WEG: Erklärung, Widerruf, Form und Vertragsgestaltung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/verausserungszustimmung-nach-12-weg-erklarung-widerruf-form-und-vertragsgestaltung",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 183 S. 1 BGB",
+   "§ 184 Abs. 1 BGB",
+   "§ 12 Abs. 3 WEG"
+  ],
+  "frage": "Kann die erteilte Veräußerungszustimmung nach § 12 WEG bis zur Umschreibung frei widerrufen werden?",
+  "optionen": [
+   "Ja, aber nur durch einstimmigen Beschluss der Eigentümer",
+   "Ja, nach § 183 S. 1 BGB, weil das dingliche Geschäft erst mit der Umschreibung vorgenommen ist",
+   "Nein, nach der vom BGH vertretenen Ansicht ist sie unwiderruflich, weil sie für das Verpflichtungsgeschäft unwiderruflich ist und für das dingliche Geschäft nichts anderes gelten kann",
+   "Nein, aber nur, weil der Käufer bereits eine Vormerkung hat"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Gegenansicht stützt sich auf § 183 S. 1 BGB (Widerruflichkeit bis zur Vornahme des Rechtsgeschäfts). Richtig ist laut Seite die Auffassung des BGH: Hinsichtlich des Verpflichtungsgeschäfts ist die Zustimmung nach § 184 Abs. 1 BGB unwiderruflich, dann muss sie es auch für das dingliche Geschäft sein. Sonst bliebe der Vertrag wirksam, könnte aber nicht erfüllt werden, was § 12 Abs. 3 WEG widerspräche."
+ },
+ {
+  "id": "wohn5-049",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Veräußerungszustimmung nach § 12 WEG: Erklärung, Widerruf, Form und Vertragsgestaltung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/verausserungszustimmung-nach-12-weg-erklarung-widerruf-form-und-vertragsgestaltung",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 12 Abs. 3 WEG",
+   "§ 29 GBO"
+  ],
+  "frage": "Ordne den Umstand der Rechtsfolge bei der Veräußerungszustimmung nach § 12 WEG zu.",
+  "paare": [
+   [
+    "Zugang der Zustimmung",
+    "Veräußerung wird rückwirkend wirksam"
+   ],
+   [
+    "Fehlende Zustimmung",
+    "Kaufvertrag und Auflassung sind schwebend unwirksam"
+   ],
+   [
+    "Beschluss versagt Zustimmung ohne wichtigen Grund",
+    "Beschluss ist nichtig"
+   ],
+   [
+    "Form der Zustimmung wegen § 29 GBO",
+    "öffentlich beglaubigte Erklärung"
+   ]
+  ],
+  "erklaerung": "Die fehlende Zustimmung führt nach § 12 Abs. 3 WEG zur schwebenden Unwirksamkeit von Kaufvertrag und Auflassung; geht sie zu, wirkt die Veräußerung rückwirkend. Ein Beschluss, der die Zustimmung ohne wichtigen Grund versagt, ist nichtig. Für das Grundbuchverfahren ist die Zustimmung wegen § 29 GBO öffentlich beglaubigt abzugeben."
+ },
+ {
+  "id": "wohn5-050",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Veräußerungszustimmung nach § 12 WEG: Erklärung, Widerruf, Form und Vertragsgestaltung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/verausserungszustimmung-nach-12-weg-erklarung-widerruf-form-und-vertragsgestaltung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 12 WEG",
+   "§ 29 GBO"
+  ],
+  "frage": "Der zustimmungsberechtigte Verwalter ist eine Gesellschaft. Was hat der Notar im Zusammenhang mit der Zustimmung zusätzlich sicherzustellen?",
+  "optionen": [
+   "Eine Zustimmung aller Wohnungseigentümer zusätzlich zur Verwalterzustimmung",
+   "Eine Vertretungsbescheinigung für die für die Gesellschaft Handelnden und die Prüfung, dass die Gesellschaft tatsächlich Verwalter ist",
+   "Die Beglaubigung der Unterschriften aller Gesellschafter",
+   "Eine Genehmigung des Gerichts zur Vertretung der Gesellschaft"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Notar muss prüfen, ob der Zustimmende tatsächlich Verwalter ist; ist der Verwalter eine Gesellschaft, ist eine Vertretungsbescheinigung nötig. Die Zustimmung der Eigentümer ersetzt oder ergänzt die Verwalterzustimmung nicht, wenn der Verwalter zuständig ist, und die Unterschriften aller Gesellschafter sind nicht erforderlich, weil die Gesellschaft durch ihre Vertreter handelt."
+ },
+ {
+  "id": "wohn5-051",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Veräußerungszustimmung nach § 12 WEG: Kosten und Kostenschuldner",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/verausserungszustimmung-nach-12-weg-kosten-und-kostenschuldner",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§§ 670, 675 BGB"
+  ],
+  "frage": "Wer schuldet dem beglaubigenden Notar die Kosten der Beglaubigung der Verwalterzustimmung?",
+  "optionen": [
+   "Der Erwerber, weil er die Umschreibung beantragt",
+   "Allein der Verwalter, der bei der GdWE Rückgriff nehmen kann",
+   "Die GdWE unmittelbar, ohne dass der Verwalter haftet",
+   "Der Veräußerer, weil die Zustimmung in seinem Interesse eingeholt wird"
+  ],
+  "antwort": 1,
+  "erklaerung": "Kostenschuldner gegenüber dem beglaubigenden Notar ist allein der Verwalter; er kann nach §§ 670, 675 BGB bei der GdWE Rückgriff nehmen. Dass die Zustimmung im Interesse des Veräußerers liegt, begründet keine Kostenschuld gegenüber dem Notar."
+ },
+ {
+  "id": "wohn5-052",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Veräußerungszustimmung nach § 12 WEG: Kosten und Kostenschuldner",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/verausserungszustimmung-nach-12-weg-kosten-und-kostenschuldner",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 448 Abs. 2 BGB",
+   "§ 12 WEG"
+  ],
+  "frage": "Im Kaufvertrag trägt der Erwerber die Vertrags- und Vollzugskosten; die Gemeinschaftsordnung schweigt zu den Kosten der Verwalterzustimmung. Wer trägt diese Kosten?",
+  "optionen": [
+   "Die GdWE",
+   "Der Veräußerer, weil er die Zustimmung benötigt",
+   "Der Erwerber, weil die Klausel alle Vollzugskosten erfasst",
+   "Je zur Hälfte Veräußerer und Erwerber"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Kosten der Verwalterzustimmung trägt die GdWE, sofern die Gemeinschaftsordnung nichts anderes bestimmt. Die Kostenklausel im Kaufvertrag regelt nur das Innenverhältnis zwischen den Vertragsparteien und begründet keine Pflicht zur Übernahme dieser Kosten; auch § 448 Abs. 2 BGB tut das nicht. Eine Kostenpflicht träfe den Erwerber nur, wenn die Gemeinschaftsordnung sie dem Veräußerer auferlegte."
+ },
+ {
+  "id": "wohn5-053",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Veräußerungszustimmung nach § 12 WEG: Kosten und Kostenschuldner",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/verausserungszustimmung-nach-12-weg-kosten-und-kostenschuldner",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 30 Abs. 3 GNotKG"
+  ],
+  "frage": "Der Kaufvertrag enthält eine Kostenregel, nach der der Erwerber die Kosten der Verwalterzustimmung übernimmt. Welche Wirkung hat das gegenüber dem beglaubigenden Notar?",
+  "optionen": [
+   "Sie macht den Erwerber nach § 30 Abs. 3 GNotKG zum Kostenschuldner der Beglaubigung",
+   "Sie ist keine Übernahme der Kostenhaftung nach § 30 Abs. 3 GNotKG für die Beglaubigung der Verwalterzustimmung",
+   "Sie macht Veräußerer und Erwerber als Gesamtschuldner zu Kostenschuldnern",
+   "Sie entlastet den Verwalter vollständig von der Kostenschuld"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach BGH, RNotZ 2021, 47 ist eine Kostenregel in der Urkunde keine Übernahme der Kostenhaftung nach § 30 Abs. 3 GNotKG für die Beglaubigung der Verwalterzustimmung. Schuldner bleibt der Verwalter (oder die GdWE, wenn der Verwalter für sie eine Kostenübernahme erklärt hat); die Klausel wirkt nur im Innenverhältnis."
+ },
+ {
+  "id": "wohn5-054",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Veräußerungszustimmung nach § 12 WEG: Kosten und Kostenschuldner",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/verausserungszustimmung-nach-12-weg-kosten-und-kostenschuldner",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "BNotK-RS 9/2018"
+  ],
+  "frage": "Der beglaubigende Notar darf seine Rechnung für die Verwalterzustimmung an den vollziehenden Notar schicken, damit dieser die Zahlung vermittelt.",
+  "antwort": false,
+  "erklaerung": "Das ist unzulässig. Der beglaubigende Notar darf die Rechnung weder an den vollziehenden Notar zur Zahlungsvermittlung senden noch die Verwendung der Zustimmung treuhänderisch von der Zahlung abhängig machen; das begründet den Anschein der Abhängigkeit und Parteilichkeit (BNotK-RS 9/2018, 4/2020). Kostenschuldner ist nur der Verwalter oder die GdWE bei erklärter Kostenübernahme."
+ },
+ {
+  "id": "wohn5-055",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Wohnungseigentum: Grundbuchblatt, Form der Verwalterzustimmung und Verwalterbestellung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/wohnungseigentum-grundbuchblatt-form-der-verwalterzustimmung-und-verwalterbestellung",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 7 Abs. 1 WEG",
+   "§ 8 Abs. 2 WEG"
+  ],
+  "frage": "Wie wird das Wohnungseigentum im Grundbuch geführt?",
+  "optionen": [
+   "Nur das Sondereigentum erhält ein eigenes Blatt, das Miteigentum bleibt auf dem Grundstücksblatt",
+   "Für jede Einheit wird ein eigenes Wohnungs- bzw. Teileigentumsgrundbuchblatt angelegt",
+   "Für die Anlage wird ein gemeinsames Blatt mit je einer Unterspalte pro Einheit angelegt",
+   "Alle Einheiten werden gemeinsam auf dem Blatt des ungeteilten Grundstücks geführt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Für jede Einheit des Wohnungs- oder Teileigentums wird ein eigenes Blatt angelegt (§ 7 Abs. 1, § 8 Abs. 2 WEG). Sondereigentum und der zugehörige Miteigentumsanteil bilden eine Einheit und werden gemeinsam auf diesem Blatt gebucht."
+ },
+ {
+  "id": "wohn5-056",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Wohnungseigentum: Grundbuchblatt, Form der Verwalterzustimmung und Verwalterbestellung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/wohnungseigentum-grundbuchblatt-form-der-verwalterzustimmung-und-verwalterbestellung",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 12 WEG",
+   "§ 29 GBO"
+  ],
+  "frage": "Der Kaufvertrag wurde im Mai beurkundet. Der Verwalter V wurde im Juni bestellt und erteilte im Juli die beglaubigte Zustimmung. Ist die Zustimmung wirksam?",
+  "optionen": [
+   "Nein, die Bestellung muss mindestens drei Monate vor der Zustimmung beschlossen sein",
+   "Ja, aber nur, wenn die Bestellung rückwirkend auf den Tag der Beurkundung beschlossen wurde",
+   "Nein, V muss bereits bei Beurkundung des Kaufvertrags Verwalter gewesen sein",
+   "Ja, es kommt auf die wirksame Bestellung im Zeitpunkt der Zustimmung an, nicht auf den Zeitpunkt des Kaufvertrags"
+  ],
+  "antwort": 3,
+  "erklaerung": "Nachzuweisen ist, dass der Zustimmende im Zeitpunkt der Zustimmung wirksam zum Verwalter bestellt war; auf den Zeitpunkt des Kaufvertrags kommt es nicht an. Eine rückwirkende Bestellung wäre ohnehin nicht möglich und ist auch nicht nötig."
+ },
+ {
+  "id": "wohn5-057",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Wohnungseigentum: Grundbuchblatt, Form der Verwalterzustimmung und Verwalterbestellung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/wohnungseigentum-grundbuchblatt-form-der-verwalterzustimmung-und-verwalterbestellung",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 12 WEG",
+   "§ 29 GBO"
+  ],
+  "frage": "Wird der Verwalter durch Beschluss rückwirkend zum 1. Januar bestellt, ist seine im Februar erteilte Zustimmung wirksam, wenn der Beschluss erst im März gefasst wurde.",
+  "antwort": false,
+  "erklaerung": "Eine rückwirkende Bestellung ist nicht möglich; der Beschluss wird als Bestellung ab dem Beschlusstag ausgelegt. Eine vor dem Beschlusstag abgegebene Zustimmung ist daher unwirksam und muss samt Beglaubigung erneut erklärt werden."
+ },
+ {
+  "id": "wohn5-058",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Wohnungseigentum: Grundbuchblatt, Form der Verwalterzustimmung und Verwalterbestellung",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/wohnungseigentum-grundbuchblatt-form-der-verwalterzustimmung-und-verwalterbestellung",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 12 Abs. 3 WEG",
+   "§ 29 GBO"
+  ],
+  "frage": "Zustimmung eines noch nicht bestellten Verwalters",
+  "sachverhalt": "In einer Wohnungsanlage ist im Grundbuch eine Veräußerungsbeschränkung nach § 12 WEG eingetragen. K kauft von V eine Wohnung. Am 5. März gibt Verwalter X eine öffentlich beglaubigte Zustimmung ab. Erst am 20. März beschließt die Eigentümerversammlung die Bestellung des X „rückwirkend zum 1. März“. Das Grundbuchamt soll die Umschreibung vornehmen.",
+  "schritte": [
+   {
+    "frage": "Ist die Zustimmung vom 5. März wirksam?",
+    "optionen": [
+     "Nein, die Bestellung wirkt nur ab dem Beschlusstag; die Zustimmung wurde vor Bestellung abgegeben",
+     "Ja, die rückwirkende Bestellung erfasst auch die Zustimmung",
+     "Ja, wenn der Beschluss nicht angefochten wird",
+     "Ja, weil X zum Zeitpunkt des Kaufvertrags bereits tätig war"
+    ],
+    "antwort": 0,
+    "erklaerung": "Eine rückwirkende Verwalterbestellung ist nicht möglich; der Beschluss wird als Bestellung ab dem Beschlusstag (20. März) ausgelegt. Eine vor diesem Tag abgegebene Zustimmung ist unwirksam, weil der Zustimmende im Zeitpunkt der Zustimmung wirksam bestellt sein muss."
+   },
+   {
+    "frage": "Was ist erforderlich, damit das Grundbuchamt umschreiben kann?",
+    "optionen": [
+     "Die Genehmigung des Beschlusses durch das Grundbuchamt",
+     "Eine Bestätigung der alten Zustimmung durch einfachen Vermerk des Notars",
+     "Eine Versicherung des Veräußerers, dass X Verwalter ist",
+     "Eine neue Zustimmung des X nach dem 20. März samt Beglaubigung"
+    ],
+    "antwort": 3,
+    "erklaerung": "Die Zustimmung muss samt Beglaubigung (§ 29 GBO) erneut erklärt werden, nun von einem wirksam bestellten Verwalter. Ein Vermerk des Notars oder eine Versicherung des Veräußerers ersetzt weder die Willenserklärung noch die Form."
+   },
+   {
+    "frage": "Welchen Rechtszustand haben Kaufvertrag und Auflassung bis zur wirksamen Zustimmung?",
+    "optionen": [
+     "Sie sind nichtig und müssen neu beurkundet werden",
+     "Sie sind wirksam, aber nicht vollziehbar",
+     "Sie sind schwebend unwirksam",
+     "Der Kaufvertrag ist wirksam, nur die Auflassung ist schwebend unwirksam"
+    ],
+    "antwort": 2,
+    "erklaerung": "Nach § 12 Abs. 3 WEG sind schuldrechtlicher und dinglicher Vertrag bis zur Zustimmung schwebend unwirksam. Eine neue Beurkundung ist nicht nötig, weil die spätere wirksame Zustimmung auf den Vertragsschluss zurückwirkt."
+   }
+  ],
+  "erklaerung": "Die Zustimmung vor dem Beschlusstag ist unwirksam, da eine rückwirkende Verwalterbestellung nicht möglich ist. Sie muss samt Beglaubigung erneut erklärt werden; bis dahin bleiben Kaufvertrag und Auflassung schwebend unwirksam (§ 12 Abs. 3 WEG)."
+ },
+ {
+  "id": "wohn5-059",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Wohnungseigentum: Regelungen im Kaufvertrag",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/wohnungseigentum-regelungen-im-kaufvertrag",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 16 Abs. 2 S. 1 WEG"
+  ],
+  "frage": "Der Veräußerer ist mit Hausgeld im Rückstand, das vor der Umschreibung fällig wurde. Haftet der Erwerber dafür kraft Gesetzes?",
+  "optionen": [
+   "Nein, für vor der Umschreibung fällige Beträge haftet er kraft Gesetzes nicht; die Gemeinschaftsordnung kann aber anderes bestimmen",
+   "Nein, und auch die Gemeinschaftsordnung kann keine Haftung des Erwerbers anordnen",
+   "Ja, er haftet mit Eintritt in die Gemeinschaft gesamtschuldnerisch mit dem Veräußerer",
+   "Ja, aber nur, wenn die Rückstände im Kaufvertrag genannt sind"
+  ],
+  "antwort": 0,
+  "erklaerung": "Nach § 16 Abs. 2 S. 1 WEG haftet der Erwerber nicht für Beträge, die vor der Umschreibung fällig wurden. Die Gemeinschaftsordnung kann aber anderes bestimmen, deshalb ist die Frage dort zu prüfen. Zusätzlich droht der Eigentumsvormerkung der Untergang, wenn wegen der Hausgeldschulden die Zwangsversteigerung betrieben wird."
+ },
+ {
+  "id": "wohn5-060",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Wohnungseigentum: Regelungen im Kaufvertrag",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/wohnungseigentum-regelungen-im-kaufvertrag",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 24 Abs. 2 BauGB"
+  ],
+  "frage": "Wann ist beim Verkauf von Wohnungseigentum trotz § 24 Abs. 2 BauGB ein Vorkaufsrechtszeugnis der Gemeinde einzuholen?",
+  "optionen": [
+   "Wenn alle Einheiten der Anlage in einem Paket an einen Erwerber verkauft werden",
+   "Wenn die Gemeinschaftsordnung ein Vorkaufsrecht der Gemeinde vorsieht",
+   "Wenn zusätzlich ein Miteigentumsanteil an einem nicht nach WEG geteilten Grundstück, etwa einer Garagen- oder Wegfläche, mitverkauft wird",
+   "Wenn die Wohnung vermietet ist und der Mieter Vorkaufsrecht hat"
+  ],
+  "antwort": 2,
+  "erklaerung": "Das gemeindliche Vorkaufsrecht besteht beim Kauf von Wohnungseigentum nach § 24 Abs. 2 BauGB nicht, auch nicht beim Paketverkauf aller Einheiten. Wird aber zugleich ein Miteigentumsanteil an einem ungeteilten Grundstück (Garage, Wegfläche) mitverkauft, gilt die Ausnahme nicht für diesen Teil; ein Zeugnis ist dann einzuholen."
+ },
+ {
+  "id": "wohn5-061",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Wohnungseigentum: Regelungen im Kaufvertrag",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/wohnungseigentum-regelungen-im-kaufvertrag",
+  "typ": "rf",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 9a Abs. 1 S. 1 WEG"
+  ],
+  "frage": "Name und Anschrift des Verwalters müssen in die Kaufurkunde aufgenommen werden.",
+  "antwort": false,
+  "erklaerung": "Die Aufnahme ist nicht erforderlich und dient nur der Dokumentation. Sinnvoll ist dagegen, die Beteiligten zu verpflichten, den Verwalter vom Verkauf zu unterrichten."
+ },
+ {
+  "id": "wohn5-062",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Wohnungseigentum: Regelungen im Kaufvertrag",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/wohnungseigentum-regelungen-im-kaufvertrag",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 24 Abs. 2 BauGB",
+   "§ 577 BGB",
+   "§ 29 Abs. 6 S. 4 LWasserG BW"
+  ],
+  "frage": "Ordne das Vorkaufsrecht seiner Behandlung beim Verkauf von Wohnungseigentum zu.",
+  "paare": [
+   [
+    "Gemeindliches Vorkaufsrecht nach BauGB",
+    "besteht beim Kauf von Wohnungseigentum nicht"
+   ],
+   [
+    "Mietervorkaufsrecht nach § 577 BGB",
+    "gilt auch beim Wohnungseigentum ohne Besonderheiten"
+   ],
+   [
+    "Vorkaufsrecht nach LWasserG BW",
+    "erfasst den Kauf von Rechten nach dem WEG nicht"
+   ],
+   [
+    "Landesrechtliche Vorkaufsrechte bei Miteigentumsbruchteilen",
+    "erfassen grundsätzlich auch Wohnungseigentum"
+   ]
+  ],
+  "erklaerung": "Das BauGB-Vorkaufsrecht ist nach § 24 Abs. 2 BauGB ausgeschlossen, das Wassergesetz Baden-Württembergs nimmt Rechte nach dem WEG ausdrücklich aus (§ 29 Abs. 6 S. 4). Das Mietervorkaufsrecht nach § 577 BGB gilt dagegen unverändert; landesrechtliche Vorkaufsrechte bei Miteigentumsbruchteilen erfassen auch Wohnungseigentum."
+ },
+ {
+  "id": "wohn5-063",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Wohnungseigentum: Verwalterzustimmung, Verwalternachweis und Eintritt in die Gemeinschaft beim Verkauf",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/wohnungseigentum-verwalterzustimmung-verwalternachweis-und-eintritt-in-die-gemeinschaft-beim-verkauf",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 26 Abs. 4 WEG",
+   "§ 24 Abs. 6 WEG",
+   "§ 29 GBO"
+  ],
+  "frage": "Zum Nachweis der Verwalterstellung wird die Niederschrift über den Bestellungsbeschluss vorgelegt. Ein Verwaltungsbeirat ist bestellt, hat aber weder Vorsitzenden noch Stellvertreter bestimmt. Wessen Unterschriften müssen öffentlich beglaubigt sein?",
+  "optionen": [
+   "Des Versammlungsvorsitzenden und des an Lebensjahren ältesten Beiratsmitglieds",
+   "Des Versammlungsvorsitzenden, eines Wohnungseigentümers und sämtlicher Beiratsmitglieder",
+   "Nur des Versammlungsvorsitzenden und eines Wohnungseigentümers",
+   "Aller Wohnungseigentümer, die an der Versammlung teilgenommen haben"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 26 Abs. 4 i.V.m. § 24 Abs. 6 WEG unterschreiben mindestens der Versammlungsvorsitzende und ein Eigentümer, bei bestelltem Beirat zusätzlich dessen Vorsitzender oder Vertreter. Haben die Beiratsmitglieder keinen Vorsitzenden und Stellvertreter bestimmt, unterschreiben alle Beiratsmitglieder. Alle Unterschriften müssen beglaubigt sein (§ 29 GBO); eine Beschränkung auf Vorsitzenden und einen Eigentümer genügt nur ohne Beirat."
+ },
+ {
+  "id": "wohn5-064",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Wohnungseigentum: Verwalterzustimmung, Verwalternachweis und Eintritt in die Gemeinschaft beim Verkauf",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/wohnungseigentum-verwalterzustimmung-verwalternachweis-und-eintritt-in-die-gemeinschaft-beim-verkauf",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 26 Abs. 2 WEG"
+  ],
+  "frage": "Für wie lange gilt die erste Bestellung eines Verwalters nach Begründung des Wohnungs- und Teileigentums höchstens?",
+  "optionen": [
+   "Sieben Jahre",
+   "Ein Jahr",
+   "Fünf Jahre",
+   "Drei Jahre"
+  ],
+  "antwort": 3,
+  "erklaerung": "Die erste Bestellung nach Begründung des Wohnungs- und Teileigentums gilt höchstens drei Jahre; jede spätere Bestellung höchstens fünf Jahre (§ 26 Abs. 2 WEG). Die Fünfjahresfrist ist deshalb die naheliegende, aber nur für spätere Bestellungen zutreffende Antwort. Die Niederschrift muss eine Bestellung für den laufenden Zeitraum belegen."
+ },
+ {
+  "id": "wohn5-065",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "Wohnungseigentum im Kaufvertrag",
+  "seite": "Wohnungseigentum: Verwalterzustimmung, Verwalternachweis und Eintritt in die Gemeinschaft beim Verkauf",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/Wohnungseigentum im Kaufvertrag/wohnungseigentum-verwalterzustimmung-verwalternachweis-und-eintritt-in-die-gemeinschaft-beim-verkauf",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 26 Abs. 4 WEG",
+   "§ 29 GBO"
+  ],
+  "frage": "Wird die Verwalterzustimmung ohne beglaubigten Verwalternachweis eingeholt, schreibt das Grundbuchamt das Eigentum dennoch um.",
+  "antwort": false,
+  "erklaerung": "Ist die Zustimmung des Verwalters nötig, muss dem Grundbuchamt zusätzlich die Verwalterstellung in der Form des § 26 Abs. 4 WEG, § 29 GBO nachgewiesen werden. Ohne den Nachweis wird nicht umgeschrieben; der Nachweis in grundbuchtauglicher Form wird daher ebenfalls als Fälligkeitsvoraussetzung vereinbart."
+ },
+ {
+  "id": "wohn5-066",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Erbbaurecht: Begriff und Kaufvertrag",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/erbbaurecht-begriff-und-kaufvertrag",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 10 ErbbauRG"
+  ],
+  "frage": "An welcher Rangstelle wird das Erbbaurecht im Grundstücksgrundbuch eingetragen?",
+  "optionen": [
+   "Zwingend an erster Rangstelle",
+   "Rangstelle ergibt sich aus der Vereinbarung im Erbbaurechtsvertrag",
+   "An zweiter Rangstelle hinter den Grundpfandrechten",
+   "An beliebiger Rangstelle, sofern der Vorrang der Grundpfandrechte vereinbart ist"
+  ],
+  "antwort": 0,
+  "erklaerung": "Das Erbbaurecht ist als Belastung in Abteilung II zwingend an erster Rangstelle einzutragen (§ 10 ErbbauRG); es ist versteigerungsfest (§ 25 ErbbauRG). Eine abweichende Rangvereinbarung ist ausgeschlossen. Danach wird ein eigenes Blatt im Erbbaugrundbuch angelegt."
+ },
+ {
+  "id": "wohn5-067",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Erbbaurecht: Begriff und Kaufvertrag",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/erbbaurecht-begriff-und-kaufvertrag",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 11 Abs. 2 ErbbauRG",
+   "§ 311b Abs. 1 BGB",
+   "§ 29 GBO"
+  ],
+  "frage": "Die Einigung über die Übertragung eines Erbbaurechts bedarf kraft Verweisung auf § 925 BGB der Auflassungsform.",
+  "antwort": false,
+  "erklaerung": "Der Kaufvertrag ist nach § 11 Abs. 2 ErbbauRG i.V.m. § 311b Abs. 1 BGB zu beurkunden, die Einigung über die Übertragung ist aber mangels Verweisung auf § 925 BGB formfrei. Weil die Grundbuchanträge die Form des § 29 GBO verlangen, wird die Einigung in der Praxis stets in der Kaufurkunde mit erklärt."
+ },
+ {
+  "id": "wohn5-068",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Erbbaurecht: Begriff und Kaufvertrag",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/erbbaurecht-begriff-und-kaufvertrag",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 5 ErbbauRG"
+  ],
+  "frage": "Im Erbbaurechtsvertrag ist dinglich vereinbart, dass zur Veräußerung und zur Belastung des Erbbaurechts die Zustimmung des Grundstückseigentümers erforderlich ist. Der Erwerber will den Kauf mit einer Grundschuld finanzieren. Was ist zu veranlassen?",
+  "optionen": [
+   "Die Grundschuld ist zustimmungsfrei, weil sie das Eigentum am Grundstück nicht berührt",
+   "Es genügt die Zustimmung zur Veräußerung, die Grundschuld ist davon mit erfasst",
+   "Die Zustimmung des Grundstückseigentümers ist auch für die Finanzierungsgrundschuld einzuholen",
+   "Die Grundschuld darf nur am Grundstück, nicht am Erbbaurecht bestellt werden"
+  ],
+  "antwort": 2,
+  "erklaerung": "Zustimmungsvorbehalte nach § 5 ErbbauRG können außer der Veräußerung auch die Belastung des Erbbaurechts betreffen. Dann ist die Zustimmung des Grundstückseigentümers auch für die Finanzierungsgrundschuld einzuholen; die Zustimmung zur Veräußerung deckt sie nicht ab."
+ },
+ {
+  "id": "wohn5-069",
+  "kapitel": "wohnungseigentum-und-erbbaurecht",
+  "abschnitt": "(Seiten direkt im Kapitel)",
+  "seite": "Erbbaurecht: Begriff und Kaufvertrag",
+  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/erbbaurecht-begriff-und-kaufvertrag",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 5 ErbbauRG"
+  ],
+  "frage": "Beim Verkauf eines Erbbaurechts wird die Zustimmung des Grundstückseigentümers verweigert. Welcher typische Fehler der Vertragsgestaltung liegt nach der Seite nahe?",
+  "optionen": [
+   "Der Kaufvertrag enthält keine Vereinbarung über den Heimfall",
+   "Die Einigung wurde nicht in der Form des § 925 BGB erklärt",
+   "Der Eintritt des Erwerbers in die schuldrechtlichen Pflichten aus dem Erbbaurechtsvertrag wurde nicht vereinbart",
+   "Das Erbbaurecht wurde nicht befristet bestellt"
+  ],
+  "antwort": 2,
+  "erklaerung": "Der Erwerber muss in die schuldrechtlichen Bestimmungen des Erbbaurechtsvertrags eintreten; ohne diese Vereinbarung erteilt der Grundstückseigentümer seine Zustimmung nicht. Die Form des § 925 BGB ist für die Einigung nicht erforderlich, und das Erbbaurecht wird in der Praxis ohnehin stets befristet bestellt."
  }
 ]

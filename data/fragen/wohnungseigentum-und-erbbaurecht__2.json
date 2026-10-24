@@ -1,707 +1,1554 @@
 [
- {
-  "id": "wohn2-001",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Sondereigentumsfähigkeit: Räume des gemeinschaftlichen Gebrauchs, Zugänge und Mehrzweckräume",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondereigentumsfahigkeit-raume-des-gemeinschaftlichen-gebrauchs-zugange-und-mehrzweckraume",
-  "typ": "mc",
-  "schwierigkeit": 1,
-  "normen": [
-   "§ 5 Abs. 2 WEG"
-  ],
-  "frage": "Welcher der folgenden Räume kann Sondereigentum sein?",
-  "optionen": [
-   "Ein Treppenhaus, das mehrere Wohnungen erschließt",
-   "Ein Vorflur, über den zwei verschiedene Sondereigentumseinheiten erreicht werden",
-   "Ein Kellerraum mit Wasser- und Gaszählern, der objektiv für gleichwertige weitere Nutzungen taugt",
-   "Ein Heizungsraum mit der gemeinschaftlichen Heizungsanlage"
-  ],
-  "antwort": 2,
-  "erklaerung": "Räume, die dem gemeinschaftlichen Gebrauch dienen oder den Zugang zu mehreren Einheiten sichern, sind nach dem Normzweck von § 5 Abs. 2 WEG zwingend Gemeinschaftseigentum; das gilt für Treppenhaus, Vorflur zu zwei Einheiten und den Heizungsraum mit gemeinschaftlicher Heizung. Ein Kellerraum mit Zählern kann dagegen als Mehrzweckraum sondereigentumsfähig sein, weil die Anlage selbst Gemeinschaftseigentum bleibt und der Raum objektiv nahezu gleichwertigen weiteren Zwecken dient."
- },
- {
-  "id": "wohn2-002",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Sondereigentumsfähigkeit: Räume des gemeinschaftlichen Gebrauchs, Zugänge und Mehrzweckräume",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondereigentumsfahigkeit-raume-des-gemeinschaftlichen-gebrauchs-zugange-und-mehrzweckraume",
-  "typ": "rf",
-  "schwierigkeit": 2,
-  "normen": [],
-  "frage": "Ein Raum, in dem eine zwingend gemeinschaftliche Anlage steht, ist bereits dann sondereigentumsfähig, wenn er dem Eigentümer neben der Anlage irgendeinen Sondervorteil bietet.",
-  "antwort": false,
-  "erklaerung": "Nicht jeder Sondervorteil genügt. Maßgeblich ist, ob der Raum objektiv – gemessen an Art, Lage und baulichem Zustand – für weitere Nutzungen taugt, die der Unterbringung der Anlage zumindest nahezu gleichwertig sind. Erst dann liegt ein sondereigentumsfähiger Mehrzweckraum (dual-use-Raum) vor."
- },
- {
-  "id": "wohn2-003",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Sondereigentumsfähigkeit: Räume des gemeinschaftlichen Gebrauchs, Zugänge und Mehrzweckräume",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondereigentumsfahigkeit-raume-des-gemeinschaftlichen-gebrauchs-zugange-und-mehrzweckraume",
-  "typ": "rf",
-  "schwierigkeit": 3,
-  "normen": [
-   "§ 14 Abs. 1 Nr. 2 WEG"
-  ],
-  "frage": "Nach zutreffender Ansicht muss der Weg zu einem sondereigentumsfähigen Mehrzweckraum mit Gemeinschaftsanlagen stets im Gemeinschaftseigentum liegen.",
-  "antwort": false,
-  "erklaerung": "Das verlangt zwar das OLG Dresden, die Auffassung trifft nach der Seite aber nicht zu. Für den Zugang gilt dasselbe wie für den Raum selbst: Es genügt, dass das Betretungsrecht nach § 14 Abs. 1 Nr. 2 WEG den Zugang zur Anlage sichert."
- },
- {
-  "id": "wohn2-004",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Sondereigentumsfähigkeit: Räume des gemeinschaftlichen Gebrauchs, Zugänge und Mehrzweckräume",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondereigentumsfahigkeit-raume-des-gemeinschaftlichen-gebrauchs-zugange-und-mehrzweckraume",
-  "typ": "mc",
-  "schwierigkeit": 2,
-  "normen": [],
-  "frage": "In welchem Fall ist ein Zugang über Gemeinschaftseigentum zu einem gemeinschaftlichen Raum entbehrlich?",
-  "optionen": [
-   "Der Raum ist ein Fahrradraum der Gemeinschaft, der nur über einen Stellplatz im Sondereigentum erreichbar ist",
-   "Der Raum ist nur durch eine Wohnung erreichbar, deren Eigentümer an ihm ein Sondernutzungsrecht hat",
-   "Der Raum ist die Gemeinschaftswaschküche, die nur über den Flur einer einzelnen Sondereigentumseinheit erreichbar ist",
-   "Der Raum beherbergt die Zentralheizung und ist nur über einen dem Sondereigentum zugewiesenen Flur erreichbar"
-  ],
-  "antwort": 1,
-  "erklaerung": "Ein gemeinschaftlicher Raum, der nur durch eine Wohnung erreichbar ist, braucht keinen Zugang über Gemeinschaftseigentum, wenn der Eigentümer dieser Wohnung an ihm ein Sondernutzungsrecht hat. Weitere Ausnahmen bestehen, wenn der Raum von jeder Wohnung aus betreten werden kann oder nicht für den dauernden gemeinsamen Gebrauch gedacht ist (Dachspitzboden). Fahrradraum, Waschküche und Heizung dienen dagegen dem dauernden gemeinsamen Gebrauch; Flächen, über die man allein dorthin gelangt, sind zwingend Gemeinschaftseigentum."
- },
- {
-  "id": "wohn2-005",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Sondernutzungsrechte nach dem WEG",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondernutzungsrechte-nach-dem-weg",
-  "typ": "mc",
-  "schwierigkeit": 1,
-  "normen": [
-   "§ 10 Abs. 1 S. 2 WEG",
-   "§ 10 Abs. 3 WEG"
-  ],
-  "frage": "Wie wird ein Sondernutzungsrecht begründet und welchen Status hat die betroffene Fläche?",
-  "optionen": [
-   "Durch Mehrheitsbeschluss der Eigentümerversammlung; die Fläche wird Sondereigentum des Berechtigten",
-   "Als Vereinbarung in der Gemeinschaftsordnung; die Fläche bleibt Gemeinschaftseigentum",
-   "Als Grunddienstbarkeit zugunsten der Einheit; die Fläche bleibt Gemeinschaftseigentum",
-   "Als Vereinbarung in der Gemeinschaftsordnung; die Fläche wird Sondereigentum des Berechtigten"
-  ],
-  "antwort": 1,
-  "erklaerung": "Sondernutzungsrechte werden als Vereinbarung in der Gemeinschaftsordnung begründet (§ 10 Abs. 1 S. 2, Abs. 3 WEG). Sie gewähren ein umfassendes Nutzungsrecht an einer bestimmten Fläche, die aber Gemeinschaftseigentum bleibt. Die naheliegende Verwechslung mit Sondereigentum ist gerade der Kern der Abgrenzung: Das Recht ändert die Eigentumszuordnung nicht."
- },
- {
-  "id": "wohn2-006",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Sondernutzungsrechte nach dem WEG",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondernutzungsrechte-nach-dem-weg",
-  "typ": "rf",
-  "schwierigkeit": 1,
-  "normen": [],
-  "frage": "Ein Sondernutzungsrecht an einer Gartenfläche kann zugunsten eines Nachbarn begründet werden, der keiner Einheit der Anlage als Eigentümer angehört.",
-  "antwort": false,
-  "erklaerung": "Berechtigt sein können nur Sondereigentümer der Gemeinschaft; ein Sondernutzungsrecht zugunsten eines Dritten, der nicht Sondereigentümer ist, ist ausgeschlossen. Mehrere Sondereigentümer können es dagegen gemeinsam innehaben. Die Begünstigung eines Außenstehenden ist ein typischer Gestaltungsfehler."
- },
- {
-  "id": "wohn2-007",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Sondernutzungsrechte nach dem WEG",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondernutzungsrechte-nach-dem-weg",
-  "typ": "mc",
-  "schwierigkeit": 2,
-  "normen": [],
-  "frage": "Wen treffen nach der Regel die Verkehrssicherungspflicht und die Kosten der Instandhaltung und Instandsetzung einer Fläche, an der ein Sondernutzungsrecht besteht?",
-  "optionen": [
-   "Den Sondernutzungsberechtigten allein",
-   "Die Gemeinschaft der Wohnungseigentümer nach Miteigentumsanteilen",
-   "Die Verkehrssicherungspflicht die Gemeinschaft, die Kosten den Berechtigten",
-   "Die Verkehrssicherungspflicht den Berechtigten, die Kosten die Gemeinschaft"
-  ],
-  "antwort": 0,
-  "erklaerung": "Das Sondernutzungsrecht weist dem Berechtigten in der Regel den alleinigen Gebrauch zu. Spiegelbildlich trägt er die Verkehrssicherungspflicht und allein die Kosten der Instandhaltung und Instandsetzung. Eine Verteilung nach Miteigentumsanteilen liegt nahe, weil die Fläche Gemeinschaftseigentum bleibt, entspricht aber nicht dem regelmäßigen Inhalt des Sondernutzungsrechts."
- },
- {
-  "id": "wohn2-008",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Sondernutzungsrechte nach dem WEG",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondernutzungsrechte-nach-dem-weg",
-  "typ": "rf",
-  "schwierigkeit": 2,
-  "normen": [],
-  "frage": "Seit der WEG-Reform 2020 können Außenflächen wie Terrassen oder Kfz-Stellplätze im Freien Sondereigentum sein, wenn sie vermaßt sind, also ihre Lage anhand der Maßangaben in der Zeichnung bestimmbar ist.",
-  "antwort": true,
-  "erklaerung": "Bis 2020 war an solchen Außenflächen kein Sondereigentum möglich, weshalb sie über Sondernutzungsrechte zugeordnet wurden. Seit der Reform ist Sondereigentum möglich, wenn die Fläche vermaßt ist. Der Notar muss daher klären, ob Sondereigentum mit Vermaßung im Aufteilungsplan oder ein Sondernutzungsrecht gewollt ist."
- },
- {
-  "id": "wohn2-009",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Stellplätze und Freiflächen: Sondereigentum oder Sondernutzungsrecht",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/stellplatze-und-freiflachen-sondereigentum-oder-sondernutzungsrecht",
-  "typ": "rf",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 3 Abs. 3 WEG"
-  ],
-  "frage": "Ist die Lage eines Stellplatzes im Aufteilungsplan nicht vermaßt, ist das Sondereigentum an dem Stellplatz unwirksam.",
-  "antwort": false,
-  "erklaerung": "Stellplätze müssen nicht abgeschlossen sein; § 3 Abs. 3 WEG verlangt stattdessen Maßangaben, ist aber nur eine Sollvorschrift. Fehlen die Maßangaben, bleibt das Sondereigentum wirksam, und die Lage ist anhand des Maßstabs des Plans zu ermitteln."
- },
- {
-  "id": "wohn2-010",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Stellplätze und Freiflächen: Sondereigentum oder Sondernutzungsrecht",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/stellplatze-und-freiflachen-sondereigentum-oder-sondernutzungsrecht",
-  "typ": "zuordnung",
-  "schwierigkeit": 1,
-  "normen": [
-   "§ 3 Abs. 1 S. 2 WEG",
-   "§ 3 Abs. 2 WEG",
-   "§ 3 Abs. 3 WEG"
-  ],
-  "frage": "Ordne die Vorschriften ihrem Regelungsinhalt zu.",
-  "paare": [
-   [
-    "§ 3 Abs. 1 S. 2 WEG",
-    "Stellplätze gelten als Räume (Raumfiktion)"
-   ],
-   [
-    "§ 3 Abs. 2 WEG",
-    "Erstreckung des Sondereigentums auf Grundstücksflächen außerhalb des Gebäudes, solange die Räume wirtschaftlich im Vordergrund stehen"
-   ],
-   [
-    "§ 3 Abs. 3 WEG",
-    "Lage von Stellplätzen und Freiflächen soll im Aufteilungsplan durch Maßangaben bestimmt sein"
-   ]
-  ],
-  "erklaerung": "§ 3 Abs. 1 S. 2 WEG fingiert die Raumeigenschaft von Stellplätzen, sodass sie ohne Abgeschlossenheit Teileigentum sein können. § 3 Abs. 2 WEG erlaubt die Erstreckung auf Freiflächen wie Gärten und Terrassen, wobei Wohnung oder Räume die Hauptsache bleiben müssen. § 3 Abs. 3 WEG verlangt als Sollvorschrift die Vermaßung im Aufteilungsplan."
- },
- {
-  "id": "wohn2-011",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Stellplätze und Freiflächen: Sondereigentum oder Sondernutzungsrecht",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/stellplatze-und-freiflachen-sondereigentum-oder-sondernutzungsrecht",
-  "typ": "fall",
-  "schwierigkeit": 3,
-  "normen": [
-   "§ 3 Abs. 2 WEG"
-  ],
-  "frage": "Kleine Anlage mit Stellplätzen und Gärten",
-  "sachverhalt": "E will sein Grundstück mit vier Wohnungen aufteilen. Zur Anlage gehören vier Außenstellplätze und zwei Gartenflächen vor den Erdgeschosswohnungen. Die künftigen Eigentümer wollen nicht, dass Stellplätze isoliert an Außenstehende gelangen. Die Wohnung W 1 hat außerdem eine Loggia, die über eine offene Treppe mit dem Grundstück verbunden ist und keine abschließbare Tür hat.",
-  "schritte": [
-   {
-    "frage": "Welche Zuordnung der Stellplätze entspricht dem Wunsch der Eigentümer am besten?",
+  {
+    "id": "wohn2-001",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Sondereigentumsfähigkeit: Räume des gemeinschaftlichen Gebrauchs, Zugänge und Mehrzweckräume",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondereigentumsfahigkeit-raume-des-gemeinschaftlichen-gebrauchs-zugange-und-mehrzweckraume",
+    "typ": "mc",
+    "schwierigkeit": 1,
+    "normen": [
+      "§ 5 Abs. 2 WEG"
+    ],
+    "frage": "Welcher der folgenden Räume kann Sondereigentum sein?",
     "optionen": [
-     "Selbständiges Teileigentum an jedem Stellplatz ohne weitere Regelung",
-     "Selbständiges Teileigentum mit Vermaßung nach § 3 Abs. 3 WEG",
-     "Sondernutzungsrechte in der Gemeinschaftsordnung",
-     "Grunddienstbarkeiten zugunsten der einzelnen Wohnungen"
+      "Ein Treppenhaus, das mehrere Wohnungen erschließt",
+      "Ein Vorflur, über den zwei verschiedene Sondereigentumseinheiten erreicht werden",
+      "Ein Kellerraum mit Wasser- und Gaszählern, der objektiv für gleichwertige weitere Nutzungen taugt",
+      "Ein Heizungsraum mit der gemeinschaftlichen Heizungsanlage"
     ],
     "antwort": 2,
-    "erklaerung": "Sondereigentum ist grundsätzlich an Dritte außerhalb der Gemeinschaft veräußerlich; ein Sondernutzungsrecht kann nur auf andere Wohnungs- oder Teileigentümer übertragen werden. Gerade in kleinen Gemeinschaften spricht das für Sondernutzungsrechte, wenn Stellplätze nicht isoliert an Dritte gehen sollen."
-   },
-   {
-    "frage": "Die Gärten sollen als Sondereigentum den Erdgeschosswohnungen zugeschlagen werden. Welche Folge hat das?",
+    "erklaerung": "Räume, die dem gemeinschaftlichen Gebrauch dienen oder den Zugang zu mehreren Einheiten sichern, sind nach dem Normzweck von § 5 Abs. 2 WEG zwingend Gemeinschaftseigentum; das gilt für Treppenhaus, Vorflur zu zwei Einheiten und den Heizungsraum mit gemeinschaftlicher Heizung. Ein Kellerraum mit Zählern kann dagegen als Mehrzweckraum sondereigentumsfähig sein, weil die Anlage selbst Gemeinschaftseigentum bleibt und der Raum objektiv nahezu gleichwertigen weiteren Zwecken dient."
+  },
+  {
+    "id": "wohn2-002",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Sondereigentumsfähigkeit: Räume des gemeinschaftlichen Gebrauchs, Zugänge und Mehrzweckräume",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondereigentumsfahigkeit-raume-des-gemeinschaftlichen-gebrauchs-zugange-und-mehrzweckraume",
+    "typ": "rf",
+    "schwierigkeit": 2,
+    "normen": [],
+    "frage": "Ein Raum, in dem eine zwingend gemeinschaftliche Anlage steht, ist bereits dann sondereigentumsfähig, wenn er dem Eigentümer neben der Anlage irgendeinen Sondervorteil bietet.",
+    "antwort": false,
+    "erklaerung": "Nicht jeder Sondervorteil genügt. Maßgeblich ist, ob der Raum objektiv – gemessen an Art, Lage und baulichem Zustand – für weitere Nutzungen taugt, die der Unterbringung der Anlage zumindest nahezu gleichwertig sind. Erst dann liegt ein sondereigentumsfähiger Mehrzweckraum (dual-use-Raum) vor."
+  },
+  {
+    "id": "wohn2-003",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Sondereigentumsfähigkeit: Räume des gemeinschaftlichen Gebrauchs, Zugänge und Mehrzweckräume",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondereigentumsfahigkeit-raume-des-gemeinschaftlichen-gebrauchs-zugange-und-mehrzweckraume",
+    "typ": "rf",
+    "schwierigkeit": 3,
+    "normen": [
+      "§ 14 Abs. 1 Nr. 2 WEG"
+    ],
+    "frage": "Nach zutreffender Ansicht muss der Weg zu einem sondereigentumsfähigen Mehrzweckraum mit Gemeinschaftsanlagen stets im Gemeinschaftseigentum liegen.",
+    "antwort": false,
+    "erklaerung": "Das verlangt zwar das OLG Dresden, die Auffassung trifft nach der Seite aber nicht zu. Für den Zugang gilt dasselbe wie für den Raum selbst: Es genügt, dass das Betretungsrecht nach § 14 Abs. 1 Nr. 2 WEG den Zugang zur Anlage sichert."
+  },
+  {
+    "id": "wohn2-004",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Sondereigentumsfähigkeit: Räume des gemeinschaftlichen Gebrauchs, Zugänge und Mehrzweckräume",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondereigentumsfahigkeit-raume-des-gemeinschaftlichen-gebrauchs-zugange-und-mehrzweckraume",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [],
+    "frage": "In welchem Fall ist ein Zugang über Gemeinschaftseigentum zu einem gemeinschaftlichen Raum entbehrlich?",
     "optionen": [
-     "Der Garten kann später isoliert an den Nachbarn verkauft werden",
-     "Eine spätere Änderung des Zuschnitts erfordert einen neuen amtlichen Aufteilungsplan mit neuer Abgeschlossenheitsbescheinigung",
-     "Die Gartenfläche muss abgeschlossen sein, sonst ist das Sondereigentum unwirksam",
-     "Ein Zugang über das Sondereigentum der eigenen Wohnung genügt nicht"
+      "Der Raum ist ein Fahrradraum der Gemeinschaft, der nur über einen Stellplatz im Sondereigentum erreichbar ist",
+      "Der Raum ist nur durch eine Wohnung erreichbar, deren Eigentümer an ihm ein Sondernutzungsrecht hat",
+      "Der Raum ist die Gemeinschaftswaschküche, die nur über den Flur einer einzelnen Sondereigentumseinheit erreichbar ist",
+      "Der Raum beherbergt die Zentralheizung und ist nur über einen dem Sondereigentum zugewiesenen Flur erreichbar"
     ],
     "antwort": 1,
-    "erklaerung": "Der Zuschnitt muss im Aufteilungsplan feststehen; spätere Änderungen erfordern einen neuen amtlichen Aufteilungsplan mit neuer Abgeschlossenheitsbescheinigung. Ein isolierter Verkauf scheidet aus, weil die Wohnung nach § 3 Abs. 2 WEG Hauptsache bleiben muss; ein Zugang über die eigene Einheit genügt."
-   },
-   {
-    "frage": "Kann die Loggia von W 1 Sondereigentum sein?",
-    "optionen": [
-     "Ja, als Freifläche nach § 3 Abs. 2 WEG",
-     "Ja, weil sie Teil des Gebäudes ist und damit stets ein Raum",
-     "Nein, sie ist weder Grundstücksfläche noch abgegrenzter Raum",
-     "Nein, Loggien sind ausnahmslos Gemeinschaftseigentum"
+    "erklaerung": "Ein gemeinschaftlicher Raum, der nur durch eine Wohnung erreichbar ist, braucht keinen Zugang über Gemeinschaftseigentum, wenn der Eigentümer dieser Wohnung an ihm ein Sondernutzungsrecht hat. Weitere Ausnahmen bestehen, wenn der Raum von jeder Wohnung aus betreten werden kann oder nicht für den dauernden gemeinsamen Gebrauch gedacht ist (Dachspitzboden). Fahrradraum, Waschküche und Heizung dienen dagegen dem dauernden gemeinsamen Gebrauch; Flächen, über die man allein dorthin gelangt, sind zwingend Gemeinschaftseigentum."
+  },
+  {
+    "id": "wohn2-005",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Sondernutzungsrechte nach dem WEG",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondernutzungsrechte-nach-dem-weg",
+    "typ": "mc",
+    "schwierigkeit": 1,
+    "normen": [
+      "§ 10 Abs. 1 S. 2 WEG",
+      "§ 10 Abs. 3 WEG"
     ],
-    "antwort": 2,
-    "erklaerung": "Eine Freifläche nach § 3 Abs. 2 WEG muss Teil des Grundstücks sein, nicht des Gebäudes. Eine über eine offene Treppe mit dem Grundstück verbundene Loggia ohne vertikale Abgrenzung durch eine abschließbare Tür ist auch kein Raum und daher nicht sondereigentumsfähig. Schlösse eine senkrechte Brüstung sie ab, könnte sie als Raum Sondereigentum sein."
-   }
-  ],
-  "erklaerung": "Für die Stellplätze passen Sondernutzungsrechte, weil sie nur innerhalb der Gemeinschaft übertragbar sind. Sondereigentum an Gärten ist wegen § 3 Abs. 2 WEG nicht isoliert verkehrsfähig und unflexibel, weshalb Gärten in der Regel über Sondernutzungsrechte zugeordnet werden. Die offene Loggia ist nicht sondereigentumsfähig."
- },
- {
-  "id": "wohn2-012",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Teilung nach § 3 WEG und § 8 WEG: Rechtsfolgen, Verbindung beider Wege und Kosten",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilung-nach-3-weg-und-8-weg-rechtsfolgen-verbindung-beider-wege-und-kosten",
-  "typ": "mc",
-  "schwierigkeit": 1,
-  "normen": [
-   "§ 8 WEG",
-   "§ 3 WEG"
-  ],
-  "frage": "A und B sind je zur Hälfte Miteigentümer eines Grundstücks und teilen es gemeinsam nach § 8 WEG in vier Einheiten auf. Wie sind die Eigentumsverhältnisse danach?",
-  "optionen": [
-   "A und B erhalten je zwei Einheiten zu Alleineigentum",
-   "Jede Einheit gehört A und B je zur Hälfte",
-   "Die Einheiten gehören der Gemeinschaft der Wohnungseigentümer",
-   "A und B müssen die Zuordnung der Einheiten noch durch Auflassung vereinbaren, bevor Wohnungseigentum entsteht"
-  ],
-  "antwort": 1,
-  "erklaerung": "Bei der Teilung nach § 8 WEG setzen sich die Eigentumsverhältnisse des Grundstücks an jeder Einheit unverändert fort; jede Einheit gehört also A und B je zur Hälfte. Die Zuweisung einer bestimmten Einheit an jeden Miteigentümer ist dagegen die Rechtsfolge des Teilungsvertrags nach § 3 WEG."
- },
- {
-  "id": "wohn2-013",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Teilung nach § 3 WEG und § 8 WEG: Rechtsfolgen, Verbindung beider Wege und Kosten",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilung-nach-3-weg-und-8-weg-rechtsfolgen-verbindung-beider-wege-und-kosten",
-  "typ": "mc",
-  "schwierigkeit": 2,
-  "normen": [
-   "KV 21100 GNotKG",
-   "KV 21200 GNotKG"
-  ],
-  "frage": "Eine GbR ist Alleineigentümerin eines Grundstücks; ihre drei Gesellschafter sollen je eine Wohnungseigentumseinheit erhalten. Welcher Weg ist kostengünstiger?",
-  "optionen": [
-   "Auflassung von Miteigentumsanteilen an die Gesellschafter, danach Teilungsvertrag nach § 3 WEG",
-   "Teilung durch die GbR nach § 8 WEG, danach Auflassung der Einheiten an die Gesellschafter",
-   "Beide Wege lösen dieselben Gebühren aus, weil jeweils nur eine 2,0-Gebühr anfällt",
-   "Auflassung von Miteigentumsanteilen, danach Teilungserklärung jedes Gesellschafters nach § 8 WEG"
-  ],
-  "antwort": 1,
-  "erklaerung": "Der Teilungsvertrag nach § 3 WEG löst stets eine 2,0-Gebühr aus (KV 21100 GNotKG), die Teilung nach § 8 WEG nur eine 1,0-Gebühr (KV 21200 GNotKG). Teilt die GbR selbst nach § 8 WEG und lässt danach auf, fallen nur eine 2,0- und eine 1,0-Gebühr an; beim Weg über Auflassung und Teilungsvertrag kommen zwei 2,0-Gebühren zusammen."
- },
- {
-  "id": "wohn2-014",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Teilung nach § 3 WEG und § 8 WEG: Rechtsfolgen, Verbindung beider Wege und Kosten",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilung-nach-3-weg-und-8-weg-rechtsfolgen-verbindung-beider-wege-und-kosten",
-  "typ": "rf",
-  "schwierigkeit": 3,
-  "normen": [
-   "§ 3 WEG"
-  ],
-  "frage": "Soll ein Miteigentümer mehrere Einheiten erhalten, ist ein unmittelbarer Teilungsvertrag nach § 3 WEG nach richtiger Ansicht ausgeschlossen, weil nicht mehr Einheiten als Miteigentumsanteile entstehen dürfen.",
-  "antwort": false,
-  "erklaerung": "Nach richtiger Ansicht lässt sich das Ergebnis auch unmittelbar durch Teilungsvertrag nach § 3 WEG erreichen; dass mehr Einheiten als Miteigentumsanteile entstehen, schadet nicht, wenn bei der Eintragung jeder Teil des unterteilten Anteils mit dem Sondereigentum an einer Einheit verknüpft wird. Das OLG München sieht das anders; der sicherste Weg ist daher, in derselben Urkunde nach § 3 WEG aufzuteilen und den Anteil des einen Miteigentümers nach § 8 WEG zu unterteilen, ohne dass eine Zwischeneintragung nötig ist."
- },
- {
-  "id": "wohn2-015",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Teilung nach § 3 WEG und § 8 WEG: Rechtsfolgen, Verbindung beider Wege und Kosten",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilung-nach-3-weg-und-8-weg-rechtsfolgen-verbindung-beider-wege-und-kosten",
-  "typ": "rf",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 5 Abs. 4 S. 1 WEG"
-  ],
-  "frage": "Genau genommen ist die Gemeinschaftsordnung nicht Teil der Aufteilung, sondern Inhalt des Wohnungseigentums.",
-  "antwort": true,
-  "erklaerung": "Im Sprachgebrauch der Praxis werden Aufteilung und Gemeinschaftsordnung zusammen oft als Teilungserklärung bezeichnet. Rechtlich ist die Gemeinschaftsordnung aber Inhalt des Wohnungseigentums (§ 5 Abs. 4 S. 1 WEG) und nicht Bestandteil des sachenrechtlichen Teilungsakts."
- },
- {
-  "id": "wohn2-016",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Teilungserklärung nach § 8 WEG: Erklärender, Vertretung, Form und Wirksamwerden",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-nach-8-weg-erklarender-vertretung-form-und-wirksamwerden",
-  "typ": "mc",
-  "schwierigkeit": 1,
-  "normen": [
-   "§ 29 GBO",
-   "§ 4 Abs. 2 S. 1 WEG",
-   "§ 8 Abs. 2 WEG"
-  ],
-  "frage": "Welche Form gilt für die Teilungserklärung nach § 8 WEG?",
-  "optionen": [
-   "Notarielle Beurkundung nach § 4 Abs. 2 S. 1 WEG",
-   "Materiell formfrei, verfahrensrechtlich öffentliche Beglaubigung nach § 29 GBO",
-   "Schriftform gegenüber dem Grundbuchamt genügt",
-   "Notarielle Beurkundung, weil sie eine Verfügung über das Grundstück enthält"
-  ],
-  "antwort": 1,
-  "erklaerung": "§ 4 Abs. 2 S. 1 WEG gilt für die Teilung nach § 8 WEG nicht, weil § 8 Abs. 2 WEG nicht darauf verweist. Die Teilungserklärung ist daher materiell formfrei und bedarf nur wegen § 29 GBO der öffentlichen Beglaubigung. Beurkundet wird sie in der Praxis dennoch, damit spätere Kaufverträge nach § 13c BeurkG auf sie verweisen können."
- },
- {
-  "id": "wohn2-017",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Teilungserklärung nach § 8 WEG: Erklärender, Vertretung, Form und Wirksamwerden",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-nach-8-weg-erklarender-vertretung-form-und-wirksamwerden",
-  "typ": "rf",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 878 BGB"
-  ],
-  "frage": "Wird über das Vermögen des teilenden Eigentümers nach Eingang des Vollzugsantrags beim Grundbuchamt das Insolvenzverfahren eröffnet, hindert dies den Vollzug der Teilungserklärung nach § 8 WEG, weil § 878 BGB auf einseitige Erklärungen nicht anwendbar ist.",
-  "antwort": false,
-  "erklaerung": "§ 878 BGB ist auf die Teilungserklärung nach § 8 WEG entsprechend anzuwenden. Eine erst nachträglich eintretende Verfügungsbeschränkung hindert den Vollzug daher nicht, wenn die Verfügungsbefugnis bei Antragstellung noch bestand."
- },
- {
-  "id": "wohn2-018",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Teilungserklärung nach § 8 WEG: Erklärender, Vertretung, Form und Wirksamwerden",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-nach-8-weg-erklarender-vertretung-form-und-wirksamwerden",
-  "typ": "mc",
-  "schwierigkeit": 3,
-  "normen": [
-   "§ 180 BGB",
-   "§ 167 Abs. 2 BGB",
-   "§ 29 GBO"
-  ],
-  "frage": "Für den abwesenden Eigentümer gibt ein Vertreter ohne Vertretungsmacht die Teilungserklärung nach § 8 WEG ab. Was gilt nach der auf der Seite vertretenen Auffassung?",
-  "optionen": [
-   "Die Erklärung ist schwebend unwirksam und kann jederzeit, auch nach Vollzug, genehmigt werden",
-   "Die Erklärung ist nach § 180 BGB nichtig; eine Genehmigung ist aber möglich, solange sie dem Grundbuchamt noch nicht zugegangen ist",
-   "Die Erklärung ist wirksam, weil die Teilungserklärung materiell formfrei ist",
-   "Die Erklärung ist nichtig; Abhilfe ist nur durch erneute Erklärung des Eigentümers selbst in Person möglich"
-  ],
-  "antwort": 1,
-  "erklaerung": "Die Teilungserklärung ist eine einseitige Willenserklärung gegenüber dem Grundbuchamt; nach § 180 BGB ist sie durch einen vollmachtlosen Vertreter nichtig und grundsätzlich nicht genehmigungsfähig. Nach richtiger Auffassung kann der Vertretene aber genehmigen, solange die Erklärung dem Grundbuchamt noch nicht zugegangen ist. Sicher ist jedenfalls eine mündliche Vollmacht (§ 167 Abs. 2 BGB) mit anschließender Vollmachtsbestätigung in der Form des § 29 GBO."
- },
- {
-  "id": "wohn2-019",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Teilungserklärung nach § 8 WEG: Erklärender, Vertretung, Form und Wirksamwerden",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-nach-8-weg-erklarender-vertretung-form-und-wirksamwerden",
-  "typ": "mc",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 9a Abs. 1 S. 2 WEG"
-  ],
-  "frage": "Wann wird die Teilung nach § 8 WEG wirksam, und was ist zuvor bereits möglich?",
-  "optionen": [
-   "Mit Beurkundung der Teilungserklärung; ab dann kann über jede Einheit getrennt verfügt werden",
-   "Mit Anlegung aller Wohnungsgrundbücher; schon vorher kann ein Anspruch auf Verschaffung von Wohnungseigentum im Grundbuch des Grundstücks vorgemerkt werden",
-   "Mit Anlegung des ersten Wohnungsgrundbuchs; eine Vormerkung ist erst danach möglich",
-   "Mit Eingang des Antrags beim Grundbuchamt; eine Vormerkung ist vorher ausgeschlossen"
-  ],
-  "antwort": 1,
-  "erklaerung": "Die Teilung wird mit Anlegung aller Wohnungsgrundbücher wirksam (§ 9a Abs. 1 S. 2 WEG). Schon vor Vollzug kann im Grundbuch des Grundstücks ein Verschaffungsanspruch vorgemerkt werden, wenn der Miteigentumsanteil in Zahlen oder sonst bestimmbar und das Sondereigentum durch Verweis auf einen Bau- oder Aufteilungsplan oder durch wörtliche Beschreibung bestimmt bezeichnet ist."
- },
- {
-  "id": "wohn2-020",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Teilungserklärung: Änderung durch den teilenden Eigentümer",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-anderung-durch-den-teilenden-eigentumer",
-  "typ": "rf",
-  "schwierigkeit": 1,
-  "normen": [
-   "§ 8 WEG"
-  ],
-  "frage": "Auch nach Vollzug der Teilung kann der teilende Eigentümer die Teilungserklärung entsprechend § 8 WEG einseitig ändern, solange alle Wohnungseigentumsrechte in seiner Hand vereinigt sind.",
-  "antwort": true,
-  "erklaerung": "Vor Wirksamwerden der Teilung ist der Teilende mangels Einigung nach § 873 BGB ohnehin nicht gebunden. Nach Vollzug bleibt die einseitige Änderung entsprechend § 8 WEG möglich, solange ihm alle Einheiten gehören. Das Recht endet erst, wenn ein Wohnungseigentum dinglich auf einen Erwerber übertragen ist; danach gelten die §§ 3, 4 WEG."
- },
- {
-  "id": "wohn2-021",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Teilungserklärung: Änderung durch den teilenden Eigentümer",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-anderung-durch-den-teilenden-eigentumer",
-  "typ": "fall",
-  "schwierigkeit": 3,
-  "normen": [
-   "§ 883 Abs. 2 S. 1 BGB"
-  ],
-  "frage": "Änderung der Teilungserklärung durch den Bauträger",
-  "sachverhalt": "Die B-GmbH hat ihr Grundstück nach § 8 WEG in zwölf Einheiten aufgeteilt; die Wohnungsgrundbücher sind angelegt. Sie hat Einheit 3 an K verkauft; für K ist eine Auflassungsvormerkung eingetragen, das Eigentum ist noch nicht umgeschrieben. Nun will die B-GmbH zwei Dachgeschosseinheiten zusammenlegen und die Teilungserklärung entsprechend ändern. Für künftige Verkäufe sucht sie eine Gestaltung, die solche Änderungen erleichtert.",
-  "schritte": [
-   {
-    "frage": "Braucht die B-GmbH für die Änderung dinglich die Zustimmung des K?",
+    "frage": "Wie wird ein Sondernutzungsrecht begründet und welchen Status hat die betroffene Fläche?",
     "optionen": [
-     "Nein, weil noch keine Einheit dinglich übertragen ist und sie daher frei nach § 8 WEG ändern kann",
-     "Ja, weil für K bereits eine Auflassungsvormerkung eingetragen ist",
-     "Nein, die Änderung ist K gegenüber lediglich relativ unwirksam",
-     "Nur, wenn die Änderung Einheit 3 selbst betrifft"
+      "Durch Mehrheitsbeschluss der Eigentümerversammlung; die Fläche wird Sondereigentum des Berechtigten",
+      "Als Vereinbarung in der Gemeinschaftsordnung; die Fläche bleibt Gemeinschaftseigentum",
+      "Als Grunddienstbarkeit zugunsten der Einheit; die Fläche bleibt Gemeinschaftseigentum",
+      "Als Vereinbarung in der Gemeinschaftsordnung; die Fläche wird Sondereigentum des Berechtigten"
     ],
     "antwort": 1,
-    "erklaerung": "Ist für einen Erwerber bereits eine Auflassungsvormerkung eingetragen, braucht die Änderung schon dinglich seine Zustimmung. Dass noch keine Einheit dinglich übertragen ist, genügt dann nicht für eine einseitige Änderung."
-   },
-   {
-    "frage": "Warum reicht es nicht aus, dass die Änderung gegenüber K nach § 883 Abs. 2 S. 1 BGB nur relativ unwirksam wäre?",
+    "erklaerung": "Sondernutzungsrechte werden als Vereinbarung in der Gemeinschaftsordnung begründet (§ 10 Abs. 1 S. 2, Abs. 3 WEG). Sie gewähren ein umfassendes Nutzungsrecht an einer bestimmten Fläche, die aber Gemeinschaftseigentum bleibt. Die naheliegende Verwechslung mit Sondereigentum ist gerade der Kern der Abgrenzung: Das Recht ändert die Eigentumszuordnung nicht."
+  },
+  {
+    "id": "wohn2-006",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Sondernutzungsrechte nach dem WEG",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondernutzungsrechte-nach-dem-weg",
+    "typ": "rf",
+    "schwierigkeit": 1,
+    "normen": [],
+    "frage": "Ein Sondernutzungsrecht an einer Gartenfläche kann zugunsten eines Nachbarn begründet werden, der keiner Einheit der Anlage als Eigentümer angehört.",
+    "antwort": false,
+    "erklaerung": "Berechtigt sein können nur Sondereigentümer der Gemeinschaft; ein Sondernutzungsrecht zugunsten eines Dritten, der nicht Sondereigentümer ist, ist ausgeschlossen. Mehrere Sondereigentümer können es dagegen gemeinsam innehaben. Die Begünstigung eines Außenstehenden ist ein typischer Gestaltungsfehler."
+  },
+  {
+    "id": "wohn2-007",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Sondernutzungsrechte nach dem WEG",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondernutzungsrechte-nach-dem-weg",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [],
+    "frage": "Wen treffen nach der Regel die Verkehrssicherungspflicht und die Kosten der Instandhaltung und Instandsetzung einer Fläche, an der ein Sondernutzungsrecht besteht?",
     "optionen": [
-     "Weil Teilungserklärung und Gemeinschaftsordnung nur für alle Eigentümer gleich gelten können",
-     "Weil § 883 Abs. 2 BGB auf Wohnungseigentum generell nicht anwendbar ist",
-     "Weil die Vormerkung nur schuldrechtlich wirkt",
-     "Weil K bereits als werdender Wohnungseigentümer Eigentümer ist"
+      "Den Sondernutzungsberechtigten allein",
+      "Die Gemeinschaft der Wohnungseigentümer nach Miteigentumsanteilen",
+      "Die Verkehrssicherungspflicht die Gemeinschaft, die Kosten den Berechtigten",
+      "Die Verkehrssicherungspflicht den Berechtigten, die Kosten die Gemeinschaft"
     ],
     "antwort": 0,
-    "erklaerung": "Teilungserklärung und Gemeinschaftsordnung können nur einheitlich für alle Eigentümer gelten. Eine bloß relative Unwirksamkeit der Änderung gegenüber dem Vormerkungsberechtigten würde zu unterschiedlichen Inhalten führen und genügt daher nicht."
-   },
-   {
-    "frage": "Welche Gestaltung sollte der Notar für künftige Verkäufe vorschlagen?",
+    "erklaerung": "Das Sondernutzungsrecht weist dem Berechtigten in der Regel den alleinigen Gebrauch zu. Spiegelbildlich trägt er die Verkehrssicherungspflicht und allein die Kosten der Instandhaltung und Instandsetzung. Eine Verteilung nach Miteigentumsanteilen liegt nahe, weil die Fläche Gemeinschaftseigentum bleibt, entspricht aber nicht dem regelmäßigen Inhalt des Sondernutzungsrechts."
+  },
+  {
+    "id": "wohn2-008",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Sondernutzungsrechte nach dem WEG",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondernutzungsrechte-nach-dem-weg",
+    "typ": "rf",
+    "schwierigkeit": 2,
+    "normen": [],
+    "frage": "Seit der WEG-Reform 2020 können Außenflächen wie Terrassen oder Kfz-Stellplätze im Freien Sondereigentum sein, wenn sie vermaßt sind, also ihre Lage anhand der Maßangaben in der Zeichnung bestimmbar ist.",
+    "antwort": true,
+    "erklaerung": "Bis 2020 war an solchen Außenflächen kein Sondereigentum möglich, weshalb sie über Sondernutzungsrechte zugeordnet wurden. Seit der Reform ist Sondereigentum möglich, wenn die Fläche vermaßt ist. Der Notar muss daher klären, ob Sondereigentum mit Vermaßung im Aufteilungsplan oder ein Sondernutzungsrecht gewollt ist."
+  },
+  {
+    "id": "wohn2-009",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Stellplätze und Freiflächen: Sondereigentum oder Sondernutzungsrecht",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/stellplatze-und-freiflachen-sondereigentum-oder-sondernutzungsrecht",
+    "typ": "rf",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 3 Abs. 3 WEG"
+    ],
+    "frage": "Ist die Lage eines Stellplatzes im Aufteilungsplan nicht vermaßt, ist das Sondereigentum an dem Stellplatz unwirksam.",
+    "antwort": false,
+    "erklaerung": "Stellplätze müssen nicht abgeschlossen sein; § 3 Abs. 3 WEG verlangt stattdessen Maßangaben, ist aber nur eine Sollvorschrift. Fehlen die Maßangaben, bleibt das Sondereigentum wirksam, und die Lage ist anhand des Maßstabs des Plans zu ermitteln."
+  },
+  {
+    "id": "wohn2-010",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Stellplätze und Freiflächen: Sondereigentum oder Sondernutzungsrecht",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/stellplatze-und-freiflachen-sondereigentum-oder-sondernutzungsrecht",
+    "typ": "zuordnung",
+    "schwierigkeit": 1,
+    "normen": [
+      "§ 3 Abs. 1 S. 2 WEG",
+      "§ 3 Abs. 2 WEG",
+      "§ 3 Abs. 3 WEG"
+    ],
+    "frage": "Ordne die Vorschriften ihrem Regelungsinhalt zu.",
+    "paare": [
+      [
+        "§ 3 Abs. 1 S. 2 WEG",
+        "Stellplätze gelten als Räume (Raumfiktion)"
+      ],
+      [
+        "§ 3 Abs. 2 WEG",
+        "Erstreckung des Sondereigentums auf Grundstücksflächen außerhalb des Gebäudes, solange die Räume wirtschaftlich im Vordergrund stehen"
+      ],
+      [
+        "§ 3 Abs. 3 WEG",
+        "Lage von Stellplätzen und Freiflächen soll im Aufteilungsplan durch Maßangaben bestimmt sein"
+      ]
+    ],
+    "erklaerung": "§ 3 Abs. 1 S. 2 WEG fingiert die Raumeigenschaft von Stellplätzen, sodass sie ohne Abgeschlossenheit Teileigentum sein können. § 3 Abs. 2 WEG erlaubt die Erstreckung auf Freiflächen wie Gärten und Terrassen, wobei Wohnung oder Räume die Hauptsache bleiben müssen. § 3 Abs. 3 WEG verlangt als Sollvorschrift die Vermaßung im Aufteilungsplan."
+  },
+  {
+    "id": "wohn2-011",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Stellplätze und Freiflächen: Sondereigentum oder Sondernutzungsrecht",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/stellplatze-und-freiflachen-sondereigentum-oder-sondernutzungsrecht",
+    "typ": "fall",
+    "schwierigkeit": 3,
+    "normen": [
+      "§ 3 Abs. 2 WEG"
+    ],
+    "frage": "Kleine Anlage mit Stellplätzen und Gärten",
+    "sachverhalt": "E will sein Grundstück mit vier Wohnungen aufteilen. Zur Anlage gehören vier Außenstellplätze und zwei Gartenflächen vor den Erdgeschosswohnungen. Die künftigen Eigentümer wollen nicht, dass Stellplätze isoliert an Außenstehende gelangen. Die Wohnung W 1 hat außerdem eine Loggia, die über eine offene Treppe mit dem Grundstück verbunden ist und keine abschließbare Tür hat.",
+    "schritte": [
+      {
+        "frage": "Welche Zuordnung der Stellplätze entspricht dem Wunsch der Eigentümer am besten?",
+        "optionen": [
+          "Selbständiges Teileigentum an jedem Stellplatz ohne weitere Regelung",
+          "Selbständiges Teileigentum mit Vermaßung nach § 3 Abs. 3 WEG",
+          "Sondernutzungsrechte in der Gemeinschaftsordnung",
+          "Grunddienstbarkeiten zugunsten der einzelnen Wohnungen"
+        ],
+        "antwort": 2,
+        "erklaerung": "Sondereigentum ist grundsätzlich an Dritte außerhalb der Gemeinschaft veräußerlich; ein Sondernutzungsrecht kann nur auf andere Wohnungs- oder Teileigentümer übertragen werden. Gerade in kleinen Gemeinschaften spricht das für Sondernutzungsrechte, wenn Stellplätze nicht isoliert an Dritte gehen sollen."
+      },
+      {
+        "frage": "Die Gärten sollen als Sondereigentum den Erdgeschosswohnungen zugeschlagen werden. Welche Folge hat das?",
+        "optionen": [
+          "Der Garten kann später isoliert an den Nachbarn verkauft werden",
+          "Eine spätere Änderung des Zuschnitts erfordert einen neuen amtlichen Aufteilungsplan mit neuer Abgeschlossenheitsbescheinigung",
+          "Die Gartenfläche muss abgeschlossen sein, sonst ist das Sondereigentum unwirksam",
+          "Ein Zugang über das Sondereigentum der eigenen Wohnung genügt nicht"
+        ],
+        "antwort": 1,
+        "erklaerung": "Der Zuschnitt muss im Aufteilungsplan feststehen; spätere Änderungen erfordern einen neuen amtlichen Aufteilungsplan mit neuer Abgeschlossenheitsbescheinigung. Ein isolierter Verkauf scheidet aus, weil die Wohnung nach § 3 Abs. 2 WEG Hauptsache bleiben muss; ein Zugang über die eigene Einheit genügt."
+      },
+      {
+        "frage": "Kann die Loggia von W 1 Sondereigentum sein?",
+        "optionen": [
+          "Ja, als Freifläche nach § 3 Abs. 2 WEG",
+          "Ja, weil sie Teil des Gebäudes ist und damit stets ein Raum",
+          "Nein, sie ist weder Grundstücksfläche noch abgegrenzter Raum",
+          "Nein, Loggien sind ausnahmslos Gemeinschaftseigentum"
+        ],
+        "antwort": 2,
+        "erklaerung": "Eine Freifläche nach § 3 Abs. 2 WEG muss Teil des Grundstücks sein, nicht des Gebäudes. Eine über eine offene Treppe mit dem Grundstück verbundene Loggia ohne vertikale Abgrenzung durch eine abschließbare Tür ist auch kein Raum und daher nicht sondereigentumsfähig. Schlösse eine senkrechte Brüstung sie ab, könnte sie als Raum Sondereigentum sein."
+      }
+    ],
+    "erklaerung": "Für die Stellplätze passen Sondernutzungsrechte, weil sie nur innerhalb der Gemeinschaft übertragbar sind. Sondereigentum an Gärten ist wegen § 3 Abs. 2 WEG nicht isoliert verkehrsfähig und unflexibel, weshalb Gärten in der Regel über Sondernutzungsrechte zugeordnet werden. Die offene Loggia ist nicht sondereigentumsfähig."
+  },
+  {
+    "id": "wohn2-012",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Teilung nach § 3 WEG und § 8 WEG: Rechtsfolgen, Verbindung beider Wege und Kosten",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilung-nach-3-weg-und-8-weg-rechtsfolgen-verbindung-beider-wege-und-kosten",
+    "typ": "mc",
+    "schwierigkeit": 1,
+    "normen": [
+      "§ 8 WEG",
+      "§ 3 WEG"
+    ],
+    "frage": "A und B sind je zur Hälfte Miteigentümer eines Grundstücks und teilen es gemeinsam nach § 8 WEG in vier Einheiten auf. Wie sind die Eigentumsverhältnisse danach?",
     "optionen": [
-     "Eine Ermächtigung der B-GmbH in der Gemeinschaftsordnung, die Teilungserklärung im Namen aller Eigentümer zu ändern",
-     "Eine Änderungsvollmacht des Erwerbers zugunsten der B-GmbH in jedem Bauträgervertrag",
-     "Einen Verzicht der Erwerber auf die Eintragung einer Auflassungsvormerkung",
-     "Einen Vorbehalt, dass Änderungen durch Mehrheitsbeschluss der Eigentümer erfolgen"
+      "A und B erhalten je zwei Einheiten zu Alleineigentum",
+      "Jede Einheit gehört A und B je zur Hälfte",
+      "Die Einheiten gehören der Gemeinschaft der Wohnungseigentümer",
+      "A und B müssen die Zuordnung der Einheiten noch durch Auflassung vereinbaren, bevor Wohnungseigentum entsteht"
     ],
     "antwort": 1,
-    "erklaerung": "Verdinglichte Ermächtigungen in der Gemeinschaftsordnung sind nach der Rechtsprechung unzulässig. Üblich ist eine Änderungsvollmacht des Erwerbers im Bauträgervertrag, Teilungserklärung und Gemeinschaftsordnung zu ändern und den Erwerbsvertrag anzupassen; schuldrechtlich braucht der Veräußerer ohnehin stets eine Vertragsänderung mit dem Erwerber."
-   }
-  ],
-  "erklaerung": "Wegen der eingetragenen Vormerkung muss K der Änderung dinglich zustimmen; eine relative Unwirksamkeit genügt nicht, weil die Teilungserklärung für alle Eigentümer gleich gelten muss. Für die Zukunft ist eine Änderungsvollmacht in jedem Erwerbsvertrag zu empfehlen, nicht eine unzulässige verdinglichte Ermächtigung; Änderungen sollten möglichst vor der ersten Vormerkung erfolgen."
- },
- {
-  "id": "wohn2-022",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Teilungserklärung: Eintragungsunterlagen, Beurkundung des Aufteilungsplans und vorläufiger Plan",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-eintragungsunterlagen-beurkundung-des-aufteilungsplans-und-vorlaufiger-plan",
-  "typ": "mc",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 7 Abs. 4 S. 1 WEG"
-  ],
-  "frage": "Was verlangt § 7 Abs. 4 S. 1 WEG, wenn er bestimmt, dass Aufteilungsplan und Abgeschlossenheitsbescheinigung der Eintragungsbewilligung „beizufügen“ sind?",
-  "optionen": [
-   "Ihre Mitbeurkundung als Anlage im Sinne von § 9 Abs. 1 S. 3 BeurkG",
-   "Ihre Vorlage beim Grundbuchamt, wobei die Zusammengehörigkeit mit der Bewilligung deutlich werden muss",
-   "Ihre öffentliche Beglaubigung durch die Baubehörde und den Notar",
-   "Ihre Hinterlegung beim Notar bis zur Anlegung der Wohnungsgrundbücher"
-  ],
-  "antwort": 1,
-  "erklaerung": "Beifügen bedeutet hier nicht Mitbeurkundung als Anlage nach §§ 9 Abs. 1 S. 3, 13 Abs. 1 S. 1 Hs. 2, 44 S. 2 BeurkG. Plan und Bescheinigung müssen dem Grundbuchamt vorgelegt werden, und ihre Zusammengehörigkeit mit der Bewilligung muss erkennbar sein. Die Mitbeurkundung ist nur beim Teilungsvertrag zwingend, nicht schon wegen § 7 Abs. 4 WEG."
- },
- {
-  "id": "wohn2-023",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Teilungserklärung: Eintragungsunterlagen, Beurkundung des Aufteilungsplans und vorläufiger Plan",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-eintragungsunterlagen-beurkundung-des-aufteilungsplans-und-vorlaufiger-plan",
-  "typ": "rf",
-  "schwierigkeit": 2,
-  "normen": [],
-  "frage": "Wurde bei der Beurkundung ein vorläufiger Aufteilungsplan verwendet und stimmt der endgültige Plan mit ihm überein, kann das Grundbuchamt eine Identitätserklärung des Notars verlangen.",
-  "antwort": false,
-  "erklaerung": "Stimmen die Pläne überein, sind weder ein Nachtrag noch eine Identitätserklärung nötig; das Grundbuchamt muss die Übereinstimmung selbst prüfen. Eine Eigenurkunde des Notars ist zwar zulässig, bringt aber keinen Mehrwert. Weicht der endgültige Plan inhaltlich ab, ist dagegen nachzubeurkunden."
- },
- {
-  "id": "wohn2-024",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Teilungserklärung: Eintragungsunterlagen, Beurkundung des Aufteilungsplans und vorläufiger Plan",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-eintragungsunterlagen-beurkundung-des-aufteilungsplans-und-vorlaufiger-plan",
-  "typ": "mc",
-  "schwierigkeit": 3,
-  "normen": [
-   "§ 4 Abs. 2 S. 1 WEG",
-   "§ 925 Abs. 1 BGB",
-   "§ 9 Abs. 1 S. 3 BeurkG"
-  ],
-  "frage": "Wie sollte der Aufteilungsplan bei einem Teilungsvertrag nach § 3 WEG regelmäßig in die Urkunde einbezogen werden?",
-  "optionen": [
-   "Durch bloßes Beifügen zur unterschriftsbeglaubigten Bewilligung",
-   "Durch echte Verweisung nach § 9 Abs. 1 S. 3 BeurkG",
-   "Durch Verweisung nach § 13c Abs. 4, Abs. 1 BeurkG unter Verzicht auf Durchsicht und Beifügung",
-   "Durch Bezugnahme auf den Grundbuchinhalt nach Vollzug der Teilung"
-  ],
-  "antwort": 1,
-  "erklaerung": "Beim Teilungsvertrag muss die Bestimmung des Sondereigentums mitbeurkundet werden (§ 4 Abs. 2 S. 1 WEG i.V.m. § 925 Abs. 1 BGB); der Aufteilungsplan ist daher stets mitzubeurkunden. Vorzugswürdig ist regelmäßig das Verfahren nach § 9 Abs. 1 S. 3 BeurkG. Der Weg über § 13c Abs. 4 BeurkG mit Verzicht auf Durchsicht und Beifügung ist zwar möglich, aber nicht zweckmäßig."
- },
- {
-  "id": "wohn2-025",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Teilungserklärung: Eintragungsunterlagen, Beurkundung des Aufteilungsplans und vorläufiger Plan",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-eintragungsunterlagen-beurkundung-des-aufteilungsplans-und-vorlaufiger-plan",
-  "typ": "zuordnung",
-  "schwierigkeit": 1,
-  "normen": [
-   "§ 13 GBO",
-   "§ 19 GBO",
-   "§ 20 GBO",
-   "§ 7 Abs. 4 S. 1 WEG"
-  ],
-  "frage": "Ordne die Vorschriften ihrer Funktion beim Grundbuchvollzug der Aufteilung zu.",
-  "paare": [
-   [
-    "§ 13 GBO",
-    "Antrag auf Anlegung der Wohnungsgrundbücher"
-   ],
-   [
-    "§§ 19, 29 GBO",
-    "Bewilligung des Betroffenen in grundbuchtauglicher Form"
-   ],
-   [
-    "§ 20 GBO (entsprechend)",
-    "Nachweis der sachenrechtlichen Einigung beim Teilungsvertrag"
-   ],
-   [
-    "§ 7 Abs. 4 S. 1 WEG",
-    "Aufteilungsplan und Abgeschlossenheitsbescheinigung als Anlagen der Bewilligung"
-   ]
-  ],
-  "erklaerung": "Die Anlegung setzt Antrag (§ 13 GBO) und Bewilligung (§§ 19, 29 GBO) voraus. Beim Teilungsvertrag ist zusätzlich die Einigung entsprechend § 20 GBO durch Ausfertigung oder beglaubigte Abschrift des beurkundeten Vertrags nachzuweisen, obwohl die Einräumung von Sondereigentum keine Auflassung ist. § 7 Abs. 4 S. 1 WEG verlangt Plan und Bescheinigung als Anlagen."
- },
- {
-  "id": "wohn2-026",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Teilungserklärung: Teilung nach § 8 WEG und Teilungsvertrag nach § 3 WEG",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-teilung-nach-8-weg-und-teilungsvertrag-nach-3-weg",
-  "typ": "mc",
-  "schwierigkeit": 1,
-  "normen": [],
-  "frage": "Die Miteigentumsanteile sollen nach Wohn- und Nutzflächen bemessen werden. Die Gesamtfläche aller Einheiten einschließlich der als eigene Einheiten gebildeten Garagen beträgt 960 m², Wohnung 4 hat 120 m². Welcher Anteil entfällt auf Wohnung 4?",
-  "optionen": [
-   "120/1.000",
-   "125/1.000",
-   "133/1.000",
-   "12,5/1.000"
-  ],
-  "antwort": 1,
-  "erklaerung": "Der Anteil in Tausendsteln ergibt sich aus Wohnfläche geteilt durch Gesamtfläche mal 1.000, hier 120 : 960 × 1.000 = 125. Garagen und als eigene Einheiten gebildete Abstellräume sind einzubeziehen. Nach dem Runden müssen alle Anteile zusammen genau 1.000/1.000 ergeben."
- },
- {
-  "id": "wohn2-027",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Teilungserklärung: Teilung nach § 8 WEG und Teilungsvertrag nach § 3 WEG",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-teilung-nach-8-weg-und-teilungsvertrag-nach-3-weg",
-  "typ": "rf",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 890 Abs. 1 BGB",
-   "§ 890 Abs. 2 BGB"
-  ],
-  "frage": "Werden zwei Flurstücke vor der Aufteilung nach § 890 Abs. 1 BGB vereinigt, erstrecken sich die Grundpfandrechte in Abteilung III des einen Flurstücks kraft Gesetzes auf das andere.",
-  "antwort": false,
-  "erklaerung": "Die gesetzliche Erstreckung der Abteilung-III-Belastungen des Hauptgrundstücks auf das zugeschriebene Grundstück tritt nur bei der Zuschreibung nach § 890 Abs. 2 BGB ein. Bei der Vereinigung nach § 890 Abs. 1 BGB gibt es diese Erstreckung nicht; gerade darin unterscheiden sich beide. Vor der Vereinigung sind daher die Belastungen in Abteilung II und III beider Flurstücke zu prüfen."
- },
- {
-  "id": "wohn2-028",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Teilungserklärung: Teilung nach § 8 WEG und Teilungsvertrag nach § 3 WEG",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-teilung-nach-8-weg-und-teilungsvertrag-nach-3-weg",
-  "typ": "mc",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 4 WEG"
-  ],
-  "frage": "Welche Aussage zum Teilungsvertrag nach § 3 WEG trifft zu?",
-  "optionen": [
-   "Die Einigung nach § 4 WEG ist entbehrlich, wenn sich die Anteile in Tausendsteln nicht verschieben",
-   "Es ist stets eine Unbedenklichkeitsbescheinigung des Finanzamts erforderlich",
-   "Die Eigentumsverhältnisse setzen sich wie bei § 8 WEG unverändert an jeder Einheit fort",
-   "Er kommt nur in Betracht, wenn das Grundstück einem Alleineigentümer gehört"
-  ],
-  "antwort": 1,
-  "erklaerung": "Für den Teilungsvertrag nach § 3 WEG ist stets eine Unbedenklichkeitsbescheinigung des Finanzamts erforderlich. Die Einigung nach § 4 WEG ist auch dann zu erklären, wenn sich die Anteile in Tausendsteln nicht verschieben. Anders als bei § 8 WEG ändern sich die Eigentumsverhältnisse, weil jeder Miteigentümer Sondereigentum an einer bestimmten Einheit erhält."
- },
- {
-  "id": "wohn2-029",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Teilungserklärung: Teilung nach § 8 WEG und Teilungsvertrag nach § 3 WEG",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-teilung-nach-8-weg-und-teilungsvertrag-nach-3-weg",
-  "typ": "rf",
-  "schwierigkeit": 1,
-  "normen": [
-   "§ 1 Abs. 4 WEG",
-   "§ 890 BGB"
-  ],
-  "frage": "Besteht das aufzuteilende Grundstück aus zwei nebeneinanderliegenden Flurstücken mit eigenen laufenden Nummern im Bestandsverzeichnis, ist vor der Teilung nach § 8 WEG eine katasterrechtliche Verschmelzung erforderlich.",
-  "antwort": false,
-  "erklaerung": "Wohnungseigentum kann nur an einem Grundstück im Rechtssinn begründet werden (§ 1 Abs. 4 WEG); dafür genügt die Vereinigung nach § 890 BGB, die auch im ersten Teil der Teilungsurkunde erklärt werden kann. Bei ihr werden die Flurstücke unter einer laufenden Nummer gebucht und bleiben als Flurstücke bestehen. Eine Verschmelzung mit Vermessung und Fortführungsnachweis ist für die Teilung nicht erforderlich."
- },
- {
-  "id": "wohn2-030",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Teilungsvertrag nach § 3 WEG: Miteigentümer, dinglicher Vertrag und Form",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungsvertrag-nach-3-weg-miteigentumer-dinglicher-vertrag-und-form",
-  "typ": "rf",
-  "schwierigkeit": 1,
-  "normen": [
-   "§ 3 WEG",
-   "§§ 1008 ff. BGB"
-  ],
-  "frage": "Eine im Grundbuch als Gesamthandsgemeinschaft eingetragene Erbengemeinschaft kann unmittelbar einen Teilungsvertrag nach § 3 WEG schließen.",
-  "antwort": false,
-  "erklaerung": "§ 3 WEG erlaubt die Verbindung mit Sondereigentum nur bei Bruchteilseigentum im Sinne der §§ 1008 ff. BGB; Gesamthandseigentum scheidet aus. Die Beteiligten müssen spätestens bei Anlegung der Wohnungsgrundbücher Bruchteilseigentümer sein. Gesamthänder müssen daher zuerst Bruchteilseigentum bilden oder nach § 8 WEG teilen."
- },
- {
-  "id": "wohn2-031",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Teilungsvertrag nach § 3 WEG: Miteigentümer, dinglicher Vertrag und Form",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungsvertrag-nach-3-weg-miteigentumer-dinglicher-vertrag-und-form",
-  "typ": "mc",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 4 Abs. 2 S. 2 WEG",
-   "§ 185 BGB"
-  ],
-  "frage": "Welche Gestaltung ist bei der Einigung über den Teilungsvertrag nach § 3 WEG zulässig?",
-  "optionen": [
-   "Eine aufschiebende Bedingung, dass die Baugenehmigung erteilt wird",
-   "Eine Befristung bis zur Fertigstellung des Gebäudes",
-   "Die Mitwirkung eines Vertreters mit späterer Nachgenehmigung",
-   "Eine auflösende Bedingung für den Fall, dass ein Miteigentümer seinen Anteil veräußert"
-  ],
-  "antwort": 2,
-  "erklaerung": "Aufschiebende und auflösende Bedingungen sowie Zeitbestimmungen sind nach § 4 Abs. 2 S. 2 WEG ausgeschlossen. Vertretung (§§ 164 ff. BGB) und Nachgenehmigung (§ 185 BGB) sind dagegen möglich. Die Parallele zur Auflassung erklärt die Bedingungsfeindlichkeit."
- },
- {
-  "id": "wohn2-032",
-  "kapitel": "wohnungseigentum-und-erbbaurecht",
-  "abschnitt": "Begründung von Wohnungseigentum",
-  "seite": "Teilungsvertrag nach § 3 WEG: Miteigentümer, dinglicher Vertrag und Form",
-  "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungsvertrag-nach-3-weg-miteigentumer-dinglicher-vertrag-und-form",
-  "typ": "fall",
-  "schwierigkeit": 2,
-  "normen": [
-   "§ 4 Abs. 2 S. 1 WEG",
-   "§ 925 Abs. 1 BGB",
-   "§ 10 Abs. 3 S. 1 WEG"
-  ],
-  "frage": "Geschwister teilen ihr Dreifamilienhaus auf",
-  "sachverhalt": "Die Geschwister A, B und C sind in Bruchteilen zu 1/2, 1/4 und 1/4 Miteigentümer eines Dreifamilienhauses. Jeder soll eine Wohnung zu Alleineigentum erhalten. Nach den Wohnflächen sollen die Miteigentumsanteile künftig 400/1.000, 300/1.000 und 300/1.000 betragen. Zugleich soll eine Gemeinschaftsordnung vereinbart werden.",
-  "schritte": [
-   {
-    "frage": "Wie werden die Miteigentumsanteile an die gewünschte Quote angepasst?",
+    "erklaerung": "Bei der Teilung nach § 8 WEG setzen sich die Eigentumsverhältnisse des Grundstücks an jeder Einheit unverändert fort; jede Einheit gehört also A und B je zur Hälfte. Die Zuweisung einer bestimmten Einheit an jeden Miteigentümer ist dagegen die Rechtsfolge des Teilungsvertrags nach § 3 WEG."
+  },
+  {
+    "id": "wohn2-013",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Teilung nach § 3 WEG und § 8 WEG: Rechtsfolgen, Verbindung beider Wege und Kosten",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilung-nach-3-weg-und-8-weg-rechtsfolgen-verbindung-beider-wege-und-kosten",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "KV 21100 GNotKG",
+      "KV 21200 GNotKG"
+    ],
+    "frage": "Eine GbR ist Alleineigentümerin eines Grundstücks; ihre drei Gesellschafter sollen je eine Wohnungseigentumseinheit erhalten. Welcher Weg ist kostengünstiger?",
     "optionen": [
-     "Durch Mehrheitsbeschluss der Miteigentümer",
-     "Durch Auflassung der Anteile; es genügt, wenn sie zugleich mit der Begründung des Wohnungseigentums eingetragen wird",
-     "Automatisch durch die Festlegung der Tausendstel im Teilungsvertrag",
-     "Nur durch vorherige gesonderte Eintragung der Auflassung vor Beurkundung des Teilungsvertrags"
+      "Auflassung von Miteigentumsanteilen an die Gesellschafter, danach Teilungsvertrag nach § 3 WEG",
+      "Teilung durch die GbR nach § 8 WEG, danach Auflassung der Einheiten an die Gesellschafter",
+      "Beide Wege lösen dieselben Gebühren aus, weil jeweils nur eine 2,0-Gebühr anfällt",
+      "Auflassung von Miteigentumsanteilen, danach Teilungserklärung jedes Gesellschafters nach § 8 WEG"
     ],
     "antwort": 1,
-    "erklaerung": "Die Aufteilung nach § 3 Abs. 1 WEG knüpft an die bestehenden Anteile an. Eine Anpassung erfolgt durch Auflassung der Anteile (§§ 873 Abs. 1, 925 Abs. 1 BGB); deren gleichzeitige Eintragung mit der Begründung des Wohnungseigentums genügt."
-   },
-   {
-    "frage": "Welche Form gilt für die Einigung über die Einräumung des Sondereigentums?",
+    "erklaerung": "Der Teilungsvertrag nach § 3 WEG löst stets eine 2,0-Gebühr aus (KV 21100 GNotKG), die Teilung nach § 8 WEG nur eine 1,0-Gebühr (KV 21200 GNotKG). Teilt die GbR selbst nach § 8 WEG und lässt danach auf, fallen nur eine 2,0- und eine 1,0-Gebühr an; beim Weg über Auflassung und Teilungsvertrag kommen zwei 2,0-Gebühren zusammen."
+  },
+  {
+    "id": "wohn2-014",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Teilung nach § 3 WEG und § 8 WEG: Rechtsfolgen, Verbindung beider Wege und Kosten",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilung-nach-3-weg-und-8-weg-rechtsfolgen-verbindung-beider-wege-und-kosten",
+    "typ": "rf",
+    "schwierigkeit": 3,
+    "normen": [
+      "§ 3 WEG"
+    ],
+    "frage": "Soll ein Miteigentümer mehrere Einheiten erhalten, ist ein unmittelbarer Teilungsvertrag nach § 3 WEG nach richtiger Ansicht ausgeschlossen, weil nicht mehr Einheiten als Miteigentumsanteile entstehen dürfen.",
+    "antwort": false,
+    "erklaerung": "Nach richtiger Ansicht lässt sich das Ergebnis auch unmittelbar durch Teilungsvertrag nach § 3 WEG erreichen; dass mehr Einheiten als Miteigentumsanteile entstehen, schadet nicht, wenn bei der Eintragung jeder Teil des unterteilten Anteils mit dem Sondereigentum an einer Einheit verknüpft wird. Das OLG München sieht das anders; der sicherste Weg ist daher, in derselben Urkunde nach § 3 WEG aufzuteilen und den Anteil des einen Miteigentümers nach § 8 WEG zu unterteilen, ohne dass eine Zwischeneintragung nötig ist."
+  },
+  {
+    "id": "wohn2-015",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Teilung nach § 3 WEG und § 8 WEG: Rechtsfolgen, Verbindung beider Wege und Kosten",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilung-nach-3-weg-und-8-weg-rechtsfolgen-verbindung-beider-wege-und-kosten",
+    "typ": "rf",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 5 Abs. 4 S. 1 WEG"
+    ],
+    "frage": "Genau genommen ist die Gemeinschaftsordnung nicht Teil der Aufteilung, sondern Inhalt des Wohnungseigentums.",
+    "antwort": true,
+    "erklaerung": "Im Sprachgebrauch der Praxis werden Aufteilung und Gemeinschaftsordnung zusammen oft als Teilungserklärung bezeichnet. Rechtlich ist die Gemeinschaftsordnung aber Inhalt des Wohnungseigentums (§ 5 Abs. 4 S. 1 WEG) und nicht Bestandteil des sachenrechtlichen Teilungsakts."
+  },
+  {
+    "id": "wohn2-016",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Teilungserklärung nach § 8 WEG: Erklärender, Vertretung, Form und Wirksamwerden",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-nach-8-weg-erklarender-vertretung-form-und-wirksamwerden",
+    "typ": "mc",
+    "schwierigkeit": 1,
+    "normen": [
+      "§ 29 GBO",
+      "§ 4 Abs. 2 S. 1 WEG",
+      "§ 8 Abs. 2 WEG"
+    ],
+    "frage": "Welche Form gilt für die Teilungserklärung nach § 8 WEG?",
     "optionen": [
-     "Öffentliche Beglaubigung nach § 29 GBO",
-     "Schriftform",
-     "Die Form der Auflassung nach § 925 Abs. 1 BGB",
-     "Keine Form, da es sich um eine Vereinbarung unter Miteigentümern handelt"
+      "Notarielle Beurkundung nach § 4 Abs. 2 S. 1 WEG",
+      "Materiell formfrei, verfahrensrechtlich öffentliche Beglaubigung nach § 29 GBO",
+      "Schriftform gegenüber dem Grundbuchamt genügt",
+      "Notarielle Beurkundung, weil sie eine Verfügung über das Grundstück enthält"
+    ],
+    "antwort": 1,
+    "erklaerung": "§ 4 Abs. 2 S. 1 WEG gilt für die Teilung nach § 8 WEG nicht, weil § 8 Abs. 2 WEG nicht darauf verweist. Die Teilungserklärung ist daher materiell formfrei und bedarf nur wegen § 29 GBO der öffentlichen Beglaubigung. Beurkundet wird sie in der Praxis dennoch, damit spätere Kaufverträge nach § 13c BeurkG auf sie verweisen können."
+  },
+  {
+    "id": "wohn2-017",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Teilungserklärung nach § 8 WEG: Erklärender, Vertretung, Form und Wirksamwerden",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-nach-8-weg-erklarender-vertretung-form-und-wirksamwerden",
+    "typ": "rf",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 878 BGB"
+    ],
+    "frage": "Wird über das Vermögen des teilenden Eigentümers nach Eingang des Vollzugsantrags beim Grundbuchamt das Insolvenzverfahren eröffnet, hindert dies den Vollzug der Teilungserklärung nach § 8 WEG, weil § 878 BGB auf einseitige Erklärungen nicht anwendbar ist.",
+    "antwort": false,
+    "erklaerung": "§ 878 BGB ist auf die Teilungserklärung nach § 8 WEG entsprechend anzuwenden. Eine erst nachträglich eintretende Verfügungsbeschränkung hindert den Vollzug daher nicht, wenn die Verfügungsbefugnis bei Antragstellung noch bestand."
+  },
+  {
+    "id": "wohn2-018",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Teilungserklärung nach § 8 WEG: Erklärender, Vertretung, Form und Wirksamwerden",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-nach-8-weg-erklarender-vertretung-form-und-wirksamwerden",
+    "typ": "mc",
+    "schwierigkeit": 3,
+    "normen": [
+      "§ 180 BGB",
+      "§ 167 Abs. 2 BGB",
+      "§ 29 GBO"
+    ],
+    "frage": "Für den abwesenden Eigentümer gibt ein Vertreter ohne Vertretungsmacht die Teilungserklärung nach § 8 WEG ab. Was gilt nach der auf der Seite vertretenen Auffassung?",
+    "optionen": [
+      "Die Erklärung ist schwebend unwirksam und kann jederzeit, auch nach Vollzug, genehmigt werden",
+      "Die Erklärung ist nach § 180 BGB nichtig; eine Genehmigung ist aber möglich, solange sie dem Grundbuchamt noch nicht zugegangen ist",
+      "Die Erklärung ist wirksam, weil die Teilungserklärung materiell formfrei ist",
+      "Die Erklärung ist nichtig; Abhilfe ist nur durch erneute Erklärung des Eigentümers selbst in Person möglich"
+    ],
+    "antwort": 1,
+    "erklaerung": "Die Teilungserklärung ist eine einseitige Willenserklärung gegenüber dem Grundbuchamt; nach § 180 BGB ist sie durch einen vollmachtlosen Vertreter nichtig und grundsätzlich nicht genehmigungsfähig. Nach richtiger Auffassung kann der Vertretene aber genehmigen, solange die Erklärung dem Grundbuchamt noch nicht zugegangen ist. Sicher ist jedenfalls eine mündliche Vollmacht (§ 167 Abs. 2 BGB) mit anschließender Vollmachtsbestätigung in der Form des § 29 GBO."
+  },
+  {
+    "id": "wohn2-019",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Teilungserklärung nach § 8 WEG: Erklärender, Vertretung, Form und Wirksamwerden",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-nach-8-weg-erklarender-vertretung-form-und-wirksamwerden",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 9a Abs. 1 S. 2 WEG"
+    ],
+    "frage": "Wann wird die Teilung nach § 8 WEG wirksam, und was ist zuvor bereits möglich?",
+    "optionen": [
+      "Mit Beurkundung der Teilungserklärung; ab dann kann über jede Einheit getrennt verfügt werden",
+      "Mit Anlegung aller Wohnungsgrundbücher; schon vorher kann ein Anspruch auf Verschaffung von Wohnungseigentum im Grundbuch des Grundstücks vorgemerkt werden",
+      "Mit Anlegung des ersten Wohnungsgrundbuchs; eine Vormerkung ist erst danach möglich",
+      "Mit Eingang des Antrags beim Grundbuchamt; eine Vormerkung ist vorher ausgeschlossen"
+    ],
+    "antwort": 1,
+    "erklaerung": "Die Teilung wird mit Anlegung aller Wohnungsgrundbücher wirksam (§ 9a Abs. 1 S. 2 WEG). Schon vor Vollzug kann im Grundbuch des Grundstücks ein Verschaffungsanspruch vorgemerkt werden, wenn der Miteigentumsanteil in Zahlen oder sonst bestimmbar und das Sondereigentum durch Verweis auf einen Bau- oder Aufteilungsplan oder durch wörtliche Beschreibung bestimmt bezeichnet ist."
+  },
+  {
+    "id": "wohn2-020",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Teilungserklärung: Änderung durch den teilenden Eigentümer",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-anderung-durch-den-teilenden-eigentumer",
+    "typ": "rf",
+    "schwierigkeit": 1,
+    "normen": [
+      "§ 8 WEG"
+    ],
+    "frage": "Auch nach Vollzug der Teilung kann der teilende Eigentümer die Teilungserklärung entsprechend § 8 WEG einseitig ändern, solange alle Wohnungseigentumsrechte in seiner Hand vereinigt sind.",
+    "antwort": true,
+    "erklaerung": "Vor Wirksamwerden der Teilung ist der Teilende mangels Einigung nach § 873 BGB ohnehin nicht gebunden. Nach Vollzug bleibt die einseitige Änderung entsprechend § 8 WEG möglich, solange ihm alle Einheiten gehören. Das Recht endet erst, wenn ein Wohnungseigentum dinglich auf einen Erwerber übertragen ist; danach gelten die §§ 3, 4 WEG."
+  },
+  {
+    "id": "wohn2-021",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Teilungserklärung: Änderung durch den teilenden Eigentümer",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-anderung-durch-den-teilenden-eigentumer",
+    "typ": "fall",
+    "schwierigkeit": 3,
+    "normen": [
+      "§ 883 Abs. 2 S. 1 BGB"
+    ],
+    "frage": "Änderung der Teilungserklärung durch den Bauträger",
+    "sachverhalt": "Die B-GmbH hat ihr Grundstück nach § 8 WEG in zwölf Einheiten aufgeteilt; die Wohnungsgrundbücher sind angelegt. Sie hat Einheit 3 an K verkauft; für K ist eine Auflassungsvormerkung eingetragen, das Eigentum ist noch nicht umgeschrieben. Nun will die B-GmbH zwei Dachgeschosseinheiten zusammenlegen und die Teilungserklärung entsprechend ändern. Für künftige Verkäufe sucht sie eine Gestaltung, die solche Änderungen erleichtert.",
+    "schritte": [
+      {
+        "frage": "Braucht die B-GmbH für die Änderung dinglich die Zustimmung des K?",
+        "optionen": [
+          "Nein, weil noch keine Einheit dinglich übertragen ist und sie daher frei nach § 8 WEG ändern kann",
+          "Ja, weil für K bereits eine Auflassungsvormerkung eingetragen ist",
+          "Nein, die Änderung ist K gegenüber lediglich relativ unwirksam",
+          "Nur, wenn die Änderung Einheit 3 selbst betrifft"
+        ],
+        "antwort": 1,
+        "erklaerung": "Ist für einen Erwerber bereits eine Auflassungsvormerkung eingetragen, braucht die Änderung schon dinglich seine Zustimmung. Dass noch keine Einheit dinglich übertragen ist, genügt dann nicht für eine einseitige Änderung."
+      },
+      {
+        "frage": "Warum reicht es nicht aus, dass die Änderung gegenüber K nach § 883 Abs. 2 S. 1 BGB nur relativ unwirksam wäre?",
+        "optionen": [
+          "Weil Teilungserklärung und Gemeinschaftsordnung nur für alle Eigentümer gleich gelten können",
+          "Weil § 883 Abs. 2 BGB auf Wohnungseigentum generell nicht anwendbar ist",
+          "Weil die Vormerkung nur schuldrechtlich wirkt",
+          "Weil K bereits als werdender Wohnungseigentümer Eigentümer ist"
+        ],
+        "antwort": 0,
+        "erklaerung": "Teilungserklärung und Gemeinschaftsordnung können nur einheitlich für alle Eigentümer gelten. Eine bloß relative Unwirksamkeit der Änderung gegenüber dem Vormerkungsberechtigten würde zu unterschiedlichen Inhalten führen und genügt daher nicht."
+      },
+      {
+        "frage": "Welche Gestaltung sollte der Notar für künftige Verkäufe vorschlagen?",
+        "optionen": [
+          "Eine Ermächtigung der B-GmbH in der Gemeinschaftsordnung, die Teilungserklärung im Namen aller Eigentümer zu ändern",
+          "Eine Änderungsvollmacht des Erwerbers zugunsten der B-GmbH in jedem Bauträgervertrag",
+          "Einen Verzicht der Erwerber auf die Eintragung einer Auflassungsvormerkung",
+          "Einen Vorbehalt, dass Änderungen durch Mehrheitsbeschluss der Eigentümer erfolgen"
+        ],
+        "antwort": 1,
+        "erklaerung": "Verdinglichte Ermächtigungen in der Gemeinschaftsordnung sind nach der Rechtsprechung unzulässig. Üblich ist eine Änderungsvollmacht des Erwerbers im Bauträgervertrag, Teilungserklärung und Gemeinschaftsordnung zu ändern und den Erwerbsvertrag anzupassen; schuldrechtlich braucht der Veräußerer ohnehin stets eine Vertragsänderung mit dem Erwerber."
+      }
+    ],
+    "erklaerung": "Wegen der eingetragenen Vormerkung muss K der Änderung dinglich zustimmen; eine relative Unwirksamkeit genügt nicht, weil die Teilungserklärung für alle Eigentümer gleich gelten muss. Für die Zukunft ist eine Änderungsvollmacht in jedem Erwerbsvertrag zu empfehlen, nicht eine unzulässige verdinglichte Ermächtigung; Änderungen sollten möglichst vor der ersten Vormerkung erfolgen."
+  },
+  {
+    "id": "wohn2-022",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Teilungserklärung: Eintragungsunterlagen, Beurkundung des Aufteilungsplans und vorläufiger Plan",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-eintragungsunterlagen-beurkundung-des-aufteilungsplans-und-vorlaufiger-plan",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 7 Abs. 4 S. 1 WEG"
+    ],
+    "frage": "Was verlangt § 7 Abs. 4 S. 1 WEG, wenn er bestimmt, dass Aufteilungsplan und Abgeschlossenheitsbescheinigung der Eintragungsbewilligung „beizufügen“ sind?",
+    "optionen": [
+      "Ihre Mitbeurkundung als Anlage im Sinne von § 9 Abs. 1 S. 3 BeurkG",
+      "Ihre Vorlage beim Grundbuchamt, wobei die Zusammengehörigkeit mit der Bewilligung deutlich werden muss",
+      "Ihre öffentliche Beglaubigung durch die Baubehörde und den Notar",
+      "Ihre Hinterlegung beim Notar bis zur Anlegung der Wohnungsgrundbücher"
+    ],
+    "antwort": 1,
+    "erklaerung": "Beifügen bedeutet hier nicht Mitbeurkundung als Anlage nach §§ 9 Abs. 1 S. 3, 13 Abs. 1 S. 1 Hs. 2, 44 S. 2 BeurkG. Plan und Bescheinigung müssen dem Grundbuchamt vorgelegt werden, und ihre Zusammengehörigkeit mit der Bewilligung muss erkennbar sein. Die Mitbeurkundung ist nur beim Teilungsvertrag zwingend, nicht schon wegen § 7 Abs. 4 WEG."
+  },
+  {
+    "id": "wohn2-023",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Teilungserklärung: Eintragungsunterlagen, Beurkundung des Aufteilungsplans und vorläufiger Plan",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-eintragungsunterlagen-beurkundung-des-aufteilungsplans-und-vorlaufiger-plan",
+    "typ": "rf",
+    "schwierigkeit": 2,
+    "normen": [],
+    "frage": "Wurde bei der Beurkundung ein vorläufiger Aufteilungsplan verwendet und stimmt der endgültige Plan mit ihm überein, kann das Grundbuchamt eine Identitätserklärung des Notars verlangen.",
+    "antwort": false,
+    "erklaerung": "Stimmen die Pläne überein, sind weder ein Nachtrag noch eine Identitätserklärung nötig; das Grundbuchamt muss die Übereinstimmung selbst prüfen. Eine Eigenurkunde des Notars ist zwar zulässig, bringt aber keinen Mehrwert. Weicht der endgültige Plan inhaltlich ab, ist dagegen nachzubeurkunden."
+  },
+  {
+    "id": "wohn2-024",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Teilungserklärung: Eintragungsunterlagen, Beurkundung des Aufteilungsplans und vorläufiger Plan",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-eintragungsunterlagen-beurkundung-des-aufteilungsplans-und-vorlaufiger-plan",
+    "typ": "mc",
+    "schwierigkeit": 3,
+    "normen": [
+      "§ 4 Abs. 2 S. 1 WEG",
+      "§ 925 Abs. 1 BGB",
+      "§ 9 Abs. 1 S. 3 BeurkG"
+    ],
+    "frage": "Wie sollte der Aufteilungsplan bei einem Teilungsvertrag nach § 3 WEG regelmäßig in die Urkunde einbezogen werden?",
+    "optionen": [
+      "Durch bloßes Beifügen zur unterschriftsbeglaubigten Bewilligung",
+      "Durch echte Verweisung nach § 9 Abs. 1 S. 3 BeurkG",
+      "Durch Verweisung nach § 13c Abs. 4, Abs. 1 BeurkG unter Verzicht auf Durchsicht und Beifügung",
+      "Durch Bezugnahme auf den Grundbuchinhalt nach Vollzug der Teilung"
+    ],
+    "antwort": 1,
+    "erklaerung": "Beim Teilungsvertrag muss die Bestimmung des Sondereigentums mitbeurkundet werden (§ 4 Abs. 2 S. 1 WEG i.V.m. § 925 Abs. 1 BGB); der Aufteilungsplan ist daher stets mitzubeurkunden. Vorzugswürdig ist regelmäßig das Verfahren nach § 9 Abs. 1 S. 3 BeurkG. Der Weg über § 13c Abs. 4 BeurkG mit Verzicht auf Durchsicht und Beifügung ist zwar möglich, aber nicht zweckmäßig."
+  },
+  {
+    "id": "wohn2-025",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Teilungserklärung: Eintragungsunterlagen, Beurkundung des Aufteilungsplans und vorläufiger Plan",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-eintragungsunterlagen-beurkundung-des-aufteilungsplans-und-vorlaufiger-plan",
+    "typ": "zuordnung",
+    "schwierigkeit": 1,
+    "normen": [
+      "§ 13 GBO",
+      "§ 19 GBO",
+      "§ 20 GBO",
+      "§ 7 Abs. 4 S. 1 WEG"
+    ],
+    "frage": "Ordne die Vorschriften ihrer Funktion beim Grundbuchvollzug der Aufteilung zu.",
+    "paare": [
+      [
+        "§ 13 GBO",
+        "Antrag auf Anlegung der Wohnungsgrundbücher"
+      ],
+      [
+        "§§ 19, 29 GBO",
+        "Bewilligung des Betroffenen in grundbuchtauglicher Form"
+      ],
+      [
+        "§ 20 GBO (entsprechend)",
+        "Nachweis der sachenrechtlichen Einigung beim Teilungsvertrag"
+      ],
+      [
+        "§ 7 Abs. 4 S. 1 WEG",
+        "Aufteilungsplan und Abgeschlossenheitsbescheinigung als Anlagen der Bewilligung"
+      ]
+    ],
+    "erklaerung": "Die Anlegung setzt Antrag (§ 13 GBO) und Bewilligung (§§ 19, 29 GBO) voraus. Beim Teilungsvertrag ist zusätzlich die Einigung entsprechend § 20 GBO durch Ausfertigung oder beglaubigte Abschrift des beurkundeten Vertrags nachzuweisen, obwohl die Einräumung von Sondereigentum keine Auflassung ist. § 7 Abs. 4 S. 1 WEG verlangt Plan und Bescheinigung als Anlagen."
+  },
+  {
+    "id": "wohn2-026",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Teilungserklärung: Teilung nach § 8 WEG und Teilungsvertrag nach § 3 WEG",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-teilung-nach-8-weg-und-teilungsvertrag-nach-3-weg",
+    "typ": "mc",
+    "schwierigkeit": 1,
+    "normen": [],
+    "frage": "Die Miteigentumsanteile sollen nach Wohn- und Nutzflächen bemessen werden. Die Gesamtfläche aller Einheiten einschließlich der als eigene Einheiten gebildeten Garagen beträgt 960 m², Wohnung 4 hat 120 m². Welcher Anteil entfällt auf Wohnung 4?",
+    "optionen": [
+      "120/1.000",
+      "125/1.000",
+      "133/1.000",
+      "12,5/1.000"
+    ],
+    "antwort": 1,
+    "erklaerung": "Der Anteil in Tausendsteln ergibt sich aus Wohnfläche geteilt durch Gesamtfläche mal 1.000, hier 120 : 960 × 1.000 = 125. Garagen und als eigene Einheiten gebildete Abstellräume sind einzubeziehen. Nach dem Runden müssen alle Anteile zusammen genau 1.000/1.000 ergeben."
+  },
+  {
+    "id": "wohn2-027",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Teilungserklärung: Teilung nach § 8 WEG und Teilungsvertrag nach § 3 WEG",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-teilung-nach-8-weg-und-teilungsvertrag-nach-3-weg",
+    "typ": "rf",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 890 Abs. 1 BGB",
+      "§ 890 Abs. 2 BGB"
+    ],
+    "frage": "Werden zwei Flurstücke vor der Aufteilung nach § 890 Abs. 1 BGB vereinigt, erstrecken sich die Grundpfandrechte in Abteilung III des einen Flurstücks kraft Gesetzes auf das andere.",
+    "antwort": false,
+    "erklaerung": "Die gesetzliche Erstreckung der Abteilung-III-Belastungen des Hauptgrundstücks auf das zugeschriebene Grundstück tritt nur bei der Zuschreibung nach § 890 Abs. 2 BGB ein. Bei der Vereinigung nach § 890 Abs. 1 BGB gibt es diese Erstreckung nicht; gerade darin unterscheiden sich beide. Vor der Vereinigung sind daher die Belastungen in Abteilung II und III beider Flurstücke zu prüfen."
+  },
+  {
+    "id": "wohn2-028",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Teilungserklärung: Teilung nach § 8 WEG und Teilungsvertrag nach § 3 WEG",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-teilung-nach-8-weg-und-teilungsvertrag-nach-3-weg",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 4 WEG"
+    ],
+    "frage": "Welche Aussage zum Teilungsvertrag nach § 3 WEG trifft zu?",
+    "optionen": [
+      "Die Einigung nach § 4 WEG ist entbehrlich, wenn sich die Anteile in Tausendsteln nicht verschieben",
+      "Es ist stets eine Unbedenklichkeitsbescheinigung des Finanzamts erforderlich",
+      "Die Eigentumsverhältnisse setzen sich wie bei § 8 WEG unverändert an jeder Einheit fort",
+      "Er kommt nur in Betracht, wenn das Grundstück einem Alleineigentümer gehört"
+    ],
+    "antwort": 1,
+    "erklaerung": "Für den Teilungsvertrag nach § 3 WEG ist stets eine Unbedenklichkeitsbescheinigung des Finanzamts erforderlich. Die Einigung nach § 4 WEG ist auch dann zu erklären, wenn sich die Anteile in Tausendsteln nicht verschieben. Anders als bei § 8 WEG ändern sich die Eigentumsverhältnisse, weil jeder Miteigentümer Sondereigentum an einer bestimmten Einheit erhält."
+  },
+  {
+    "id": "wohn2-029",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Teilungserklärung: Teilung nach § 8 WEG und Teilungsvertrag nach § 3 WEG",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungserklarung-teilung-nach-8-weg-und-teilungsvertrag-nach-3-weg",
+    "typ": "rf",
+    "schwierigkeit": 1,
+    "normen": [
+      "§ 1 Abs. 4 WEG",
+      "§ 890 BGB"
+    ],
+    "frage": "Besteht das aufzuteilende Grundstück aus zwei nebeneinanderliegenden Flurstücken mit eigenen laufenden Nummern im Bestandsverzeichnis, ist vor der Teilung nach § 8 WEG eine katasterrechtliche Verschmelzung erforderlich.",
+    "antwort": false,
+    "erklaerung": "Wohnungseigentum kann nur an einem Grundstück im Rechtssinn begründet werden (§ 1 Abs. 4 WEG); dafür genügt die Vereinigung nach § 890 BGB, die auch im ersten Teil der Teilungsurkunde erklärt werden kann. Bei ihr werden die Flurstücke unter einer laufenden Nummer gebucht und bleiben als Flurstücke bestehen. Eine Verschmelzung mit Vermessung und Fortführungsnachweis ist für die Teilung nicht erforderlich."
+  },
+  {
+    "id": "wohn2-030",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Teilungsvertrag nach § 3 WEG: Miteigentümer, dinglicher Vertrag und Form",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungsvertrag-nach-3-weg-miteigentumer-dinglicher-vertrag-und-form",
+    "typ": "rf",
+    "schwierigkeit": 1,
+    "normen": [
+      "§ 3 WEG",
+      "§§ 1008 ff. BGB"
+    ],
+    "frage": "Eine im Grundbuch als Gesamthandsgemeinschaft eingetragene Erbengemeinschaft kann unmittelbar einen Teilungsvertrag nach § 3 WEG schließen.",
+    "antwort": false,
+    "erklaerung": "§ 3 WEG erlaubt die Verbindung mit Sondereigentum nur bei Bruchteilseigentum im Sinne der §§ 1008 ff. BGB; Gesamthandseigentum scheidet aus. Die Beteiligten müssen spätestens bei Anlegung der Wohnungsgrundbücher Bruchteilseigentümer sein. Gesamthänder müssen daher zuerst Bruchteilseigentum bilden oder nach § 8 WEG teilen."
+  },
+  {
+    "id": "wohn2-031",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Teilungsvertrag nach § 3 WEG: Miteigentümer, dinglicher Vertrag und Form",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungsvertrag-nach-3-weg-miteigentumer-dinglicher-vertrag-und-form",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 4 Abs. 2 S. 2 WEG",
+      "§ 185 BGB"
+    ],
+    "frage": "Welche Gestaltung ist bei der Einigung über den Teilungsvertrag nach § 3 WEG zulässig?",
+    "optionen": [
+      "Eine aufschiebende Bedingung, dass die Baugenehmigung erteilt wird",
+      "Eine Befristung bis zur Fertigstellung des Gebäudes",
+      "Die Mitwirkung eines Vertreters mit späterer Nachgenehmigung",
+      "Eine auflösende Bedingung für den Fall, dass ein Miteigentümer seinen Anteil veräußert"
     ],
     "antwort": 2,
-    "erklaerung": "Für die Einigung gilt die Form der Auflassung nach § 925 Abs. 1 BGB (§ 4 Abs. 2 S. 1 WEG). Weil für Auflassung und Teilungsvertrag dieselbe Form gilt, lassen sich Anteilsverschiebung und Teilungsvertrag ohne Probleme in einer Urkunde beurkunden."
-   },
-   {
-    "frage": "Wozu muss die Gemeinschaftsordnung in das Grundbuch eingetragen werden?",
-    "optionen": [
-     "Damit Wohnungseigentum überhaupt entsteht",
-     "Damit sie gegen künftige Sondernachfolger wirkt",
-     "Damit sie zwischen A, B und C schuldrechtlich bindet",
-     "Damit das Grundbuchamt die Abgeschlossenheit prüfen kann"
+    "erklaerung": "Aufschiebende und auflösende Bedingungen sowie Zeitbestimmungen sind nach § 4 Abs. 2 S. 2 WEG ausgeschlossen. Vertretung (§§ 164 ff. BGB) und Nachgenehmigung (§ 185 BGB) sind dagegen möglich. Die Parallele zur Auflassung erklärt die Bedingungsfeindlichkeit."
+  },
+  {
+    "id": "wohn2-032",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Teilungsvertrag nach § 3 WEG: Miteigentümer, dinglicher Vertrag und Form",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/teilungsvertrag-nach-3-weg-miteigentumer-dinglicher-vertrag-und-form",
+    "typ": "fall",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 4 Abs. 2 S. 1 WEG",
+      "§ 925 Abs. 1 BGB",
+      "§ 10 Abs. 3 S. 1 WEG"
     ],
-    "antwort": 1,
-    "erklaerung": "Wohnungseigentum entsteht durch Einigung und Eintragung (§ 4 Abs. 1 WEG). Die Gemeinschaftsordnung muss nur eingetragen werden, damit sie gegen künftige Sondernachfolger wirkt (§ 10 Abs. 3 S. 1 WEG)."
-   }
-  ],
-  "erklaerung": "A, B und C sind Bruchteilseigentümer und können daher nach § 3 WEG aufteilen. Die Quoten werden durch Auflassung der Anteile angepasst, die gleichzeitig mit der Begründung des Wohnungseigentums eingetragen werden kann; Einigung und Auflassung unterliegen derselben Form des § 925 Abs. 1 BGB. Die Gemeinschaftsordnung wird eingetragen, um gegen Sondernachfolger zu wirken."
- }
+    "frage": "Geschwister teilen ihr Dreifamilienhaus auf",
+    "sachverhalt": "Die Geschwister A, B und C sind in Bruchteilen zu 1/2, 1/4 und 1/4 Miteigentümer eines Dreifamilienhauses. Jeder soll eine Wohnung zu Alleineigentum erhalten. Nach den Wohnflächen sollen die Miteigentumsanteile künftig 400/1.000, 300/1.000 und 300/1.000 betragen. Zugleich soll eine Gemeinschaftsordnung vereinbart werden.",
+    "schritte": [
+      {
+        "frage": "Wie werden die Miteigentumsanteile an die gewünschte Quote angepasst?",
+        "optionen": [
+          "Durch Mehrheitsbeschluss der Miteigentümer",
+          "Durch Auflassung der Anteile; es genügt, wenn sie zugleich mit der Begründung des Wohnungseigentums eingetragen wird",
+          "Automatisch durch die Festlegung der Tausendstel im Teilungsvertrag",
+          "Nur durch vorherige gesonderte Eintragung der Auflassung vor Beurkundung des Teilungsvertrags"
+        ],
+        "antwort": 1,
+        "erklaerung": "Die Aufteilung nach § 3 Abs. 1 WEG knüpft an die bestehenden Anteile an. Eine Anpassung erfolgt durch Auflassung der Anteile (§§ 873 Abs. 1, 925 Abs. 1 BGB); deren gleichzeitige Eintragung mit der Begründung des Wohnungseigentums genügt."
+      },
+      {
+        "frage": "Welche Form gilt für die Einigung über die Einräumung des Sondereigentums?",
+        "optionen": [
+          "Öffentliche Beglaubigung nach § 29 GBO",
+          "Schriftform",
+          "Die Form der Auflassung nach § 925 Abs. 1 BGB",
+          "Keine Form, da es sich um eine Vereinbarung unter Miteigentümern handelt"
+        ],
+        "antwort": 2,
+        "erklaerung": "Für die Einigung gilt die Form der Auflassung nach § 925 Abs. 1 BGB (§ 4 Abs. 2 S. 1 WEG). Weil für Auflassung und Teilungsvertrag dieselbe Form gilt, lassen sich Anteilsverschiebung und Teilungsvertrag ohne Probleme in einer Urkunde beurkunden."
+      },
+      {
+        "frage": "Wozu muss die Gemeinschaftsordnung in das Grundbuch eingetragen werden?",
+        "optionen": [
+          "Damit Wohnungseigentum überhaupt entsteht",
+          "Damit sie gegen künftige Sondernachfolger wirkt",
+          "Damit sie zwischen A, B und C schuldrechtlich bindet",
+          "Damit das Grundbuchamt die Abgeschlossenheit prüfen kann"
+        ],
+        "antwort": 1,
+        "erklaerung": "Wohnungseigentum entsteht durch Einigung und Eintragung (§ 4 Abs. 1 WEG). Die Gemeinschaftsordnung muss nur eingetragen werden, damit sie gegen künftige Sondernachfolger wirkt (§ 10 Abs. 3 S. 1 WEG)."
+      }
+    ],
+    "erklaerung": "A, B und C sind Bruchteilseigentümer und können daher nach § 3 WEG aufteilen. Die Quoten werden durch Auflassung der Anteile angepasst, die gleichzeitig mit der Begründung des Wohnungseigentums eingetragen werden kann; Einigung und Auflassung unterliegen derselben Form des § 925 Abs. 1 BGB. Die Gemeinschaftsordnung wird eingetragen, um gegen Sondernachfolger zu wirken."
+  },
+  {
+    "id": "wohn2-033",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Wohnungs- und Teileigentum: Wohnung, Nebenräume und selbständiges Teileigentum",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungs-und-teileigentum-wohnung-nebenraume-und-selbstandiges-teileigentum",
+    "typ": "mc",
+    "schwierigkeit": 1,
+    "normen": [
+      "§ 1 Abs. 2 WEG"
+    ],
+    "erklaerung": "Wohnungseigentum ist Sondereigentum an Räumen, die Wohnzwecken dienen (§ 1 Abs. 2 WEG). Maßgeblich ist, dass die Räume dem Bewohner einen Lebensmittelpunkt bieten und das Haushalten ermöglichen. Eine Mindestausstattung wie Küche oder Bad verlangt die Rechtsprechung nicht; wer sie fordert, vermengt den Wohnungsbegriff mit baurechtlichen Anforderungen.",
+    "frage": "Welche Ausstattung muss ein Raumgefüge mindestens aufweisen, um als Wohnung im Sinne des § 1 Abs. 2 WEG zu gelten?",
+    "optionen": [
+      "Eine Küche und ein Bad mit WC",
+      "Keine bestimmte Mindestausstattung; es genügt, dass die Räume einen Lebensmittelpunkt bieten und das Haushalten ermöglichen",
+      "Mindestens eine Kochgelegenheit und eine Heizung",
+      "Ein eigener Zugang und ein abgeschlossenes Bad"
+    ],
+    "antwort": 1
+  },
+  {
+    "id": "wohn2-034",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Wohnungs- und Teileigentum: Wohnung, Nebenräume und selbständiges Teileigentum",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungs-und-teileigentum-wohnung-nebenraume-und-selbstandiges-teileigentum",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 1 Abs. 2 WEG"
+    ],
+    "erklaerung": "Nebenräume können zum Wohnungseigentum gehören, ohne dass die Einheit ihren Charakter verliert. Legt die Teilungserklärung dem Nebenraum aber eine Zweckbestimmung wie „Kellerraum“ bei, ist das Wohnen dort gleichwohl unzulässig (BGH, V ZB 7/13). Der Zugehörigkeit zur Wohnungseinheit lässt sich kein Wohnzweck entnehmen, und es kommt nicht auf eine Zustimmung der Übrigen an.",
+    "frage": "Die Teilungserklärung weist einem Nebenraum der Wohnung Nr. 4 die Zweckbestimmung „Kellerraum“ zu. Der Eigentümer will ihn zum Schlafzimmer umbauen. Ist das zulässig?",
+    "optionen": [
+      "Ja, denn der Raum gehört zu einer Wohnungseigentumseinheit und teilt deren Wohnzweck",
+      "Ja, sofern kein anderer Eigentümer widerspricht",
+      "Nein, das Wohnen in einem als Kellerraum bestimmten Nebenraum ist unzulässig",
+      "Nein, aber nur wenn der Raum im Aufteilungsplan als Keller bezeichnet ist"
+    ],
+    "antwort": 2
+  },
+  {
+    "id": "wohn2-035",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Wohnungs- und Teileigentum: Wohnung, Nebenräume und selbständiges Teileigentum",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungs-und-teileigentum-wohnung-nebenraume-und-selbstandiges-teileigentum",
+    "typ": "zuordnung",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 1 Abs. 2 WEG",
+      "§ 1 Abs. 3 WEG"
+    ],
+    "erklaerung": "Wohnungs- und Teileigentum unterscheiden sich nach dem Zweck der Räume (§ 1 Abs. 2, 3 WEG). Unselbständig ist ein Nebenraum mit eigener Zweckbestimmung innerhalb einer Wohnungseinheit; selbständig ist Teileigentum erst mit eigenem Miteigentumsanteil und eigenem Grundbuchblatt. Deshalb eignet sich selbständiges Teileigentum für Stellplätze, deren Zuordnung beim Abverkauf noch offen ist.",
+    "frage": "Ordne die Begriffe ihrer Bedeutung zu.",
+    "paare": [
+      [
+        "Wohnungseigentum",
+        "Sondereigentum an Räumen, die Wohnzwecken dienen (§ 1 Abs. 2 WEG)"
+      ],
+      [
+        "Teileigentum",
+        "Sondereigentum an Räumen, die nicht Wohnzwecken dienen (§ 1 Abs. 3 WEG)"
+      ],
+      [
+        "Unselbständiges Teileigentum",
+        "Nebenraum mit eigener Zweckbestimmung innerhalb einer Wohnungseigentumseinheit"
+      ],
+      [
+        "Selbständiges Teileigentum",
+        "Teileigentum mit eigenem Miteigentumsanteil und eigenem Grundbuchblatt"
+      ]
+    ]
+  },
+  {
+    "id": "wohn2-036",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Wohnungs- und Teileigentum: Wohnung, Nebenräume und selbständiges Teileigentum",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungs-und-teileigentum-wohnung-nebenraume-und-selbstandiges-teileigentum",
+    "typ": "mc",
+    "schwierigkeit": 3,
+    "normen": [
+      "§ 2 S. 2 WGV"
+    ],
+    "erklaerung": "Nach § 2 S. 2 WGV kann eine Einheit mit gemischtem Verwendungszweck so bezeichnet werden, aber nur ohne erkennbar überwiegende Nutzung. Ein Kellerraum macht eine Wohnung nicht zu Wohnungs- und Teileigentum, weil er nur Nebenraum ist. Maßgeblich ist die Widmung, nicht die tatsächliche teilweise Nutzung; zulässig ist daneben nur eine ausdrücklich alternative Widmung.",
+    "frage": "Wann darf eine Einheit als „Wohnungs- und Teileigentum“ bezeichnet werden?",
+    "optionen": [
+      "Wenn sie einem gemischten Verwendungszweck dient und keine überwiegende Nutzung erkennbar ist",
+      "Wenn zu einer Wohnung ein Kellerraum gehört",
+      "Wenn die Wohnung teilweise gewerblich genutzt wird",
+      "Wenn der Teilende sich die Wahl zwischen beiden Nutzungen offenhalten will, ohne beides festzulegen"
+    ],
+    "antwort": 0
+  },
+  {
+    "id": "wohn2-037",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Wohnungs- und Teileigentum: Zweckbestimmung und zweckwidrige Nutzung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungs-und-teileigentum-zweckbestimmung-und-zweckwidrige-nutzung",
+    "typ": "mc",
+    "schwierigkeit": 1,
+    "normen": [
+      "§ 1 Abs. 2 WEG",
+      "§ 1 Abs. 3 WEG"
+    ],
+    "erklaerung": "Schon die Bezeichnung als Wohnungs- oder Teileigentum nach § 1 Abs. 2, 3 WEG gibt den Zweck vor; entscheidend ist die Festlegung des Teilenden (BGH, V ZR 84/16). Die tatsächliche Nutzung kann zwar zweckwidrig sein, ändert die Widmung aber nicht. Der Plan nennt nur Nutzungsvorschläge und gibt die sachenrechtlichen Grenzen wieder.",
+    "frage": "Wovon hängt es ab, ob eine Einheit Wohnungs- oder Teileigentum ist?",
+    "optionen": [
+      "Von der tatsächlichen Nutzung durch den jeweiligen Eigentümer",
+      "Von der Bezeichnung der Räume im Aufteilungsplan",
+      "Von der Bauweise und Ausstattung der Räume",
+      "Von der Festlegung des Teilenden, nicht von der tatsächlichen Nutzung"
+    ],
+    "antwort": 3
+  },
+  {
+    "id": "wohn2-038",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Wohnungs- und Teileigentum: Zweckbestimmung und zweckwidrige Nutzung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungs-und-teileigentum-zweckbestimmung-und-zweckwidrige-nutzung",
+    "typ": "mc",
+    "schwierigkeit": 3,
+    "normen": [
+      "§ 242 BGB",
+      "§ 13 Abs. 1 WEG",
+      "§ 14 Abs. 1 Nr. 1 WEG"
+    ],
+    "erklaerung": "Ohne abweichende Regelung ist eine andere Nutzung unzulässig, wenn sie bei typisierender Betrachtung mehr stören kann. Umgekehrt entfällt der Anspruch aus § 14 Abs. 1 Nr. 1 WEG und § 1004 BGB nach § 242 BGB, wenn sie nicht wesentlich mehr stört als die zweckgemäße. Verlangt wird daher nicht völlige Störungsfreiheit, und wirtschaftliche Erwägungen oder Mehrheitsverhältnisse sind unerheblich.",
+    "frage": "Unter welcher Voraussetzung ist der Unterlassungsanspruch gegen eine zweckwidrige Nutzung ausgeschlossen?",
+    "optionen": [
+      "Wenn die zweckwidrige Nutzung wirtschaftlich sinnvoller ist als die vereinbarte",
+      "Wenn die Nutzung schon bei typisierender Betrachtung überhaupt nicht stören kann, auch nicht geringfügig",
+      "Wenn die tatsächliche Nutzung bei typisierender Betrachtung nicht wesentlich mehr stört als eine zweckgemäße Nutzung",
+      "Wenn der nutzende Eigentümer die Mehrheit der Miteigentumsanteile hält"
+    ],
+    "antwort": 2
+  },
+  {
+    "id": "wohn2-039",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Wohnungs- und Teileigentum: Zweckbestimmung und zweckwidrige Nutzung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungs-und-teileigentum-zweckbestimmung-und-zweckwidrige-nutzung",
+    "typ": "fall",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 14 Abs. 1 Nr. 1 WEG",
+      "§ 1004 Abs. 1 BGB",
+      "§ 242 BGB"
+    ],
+    "erklaerung": "Der Plan-Hinweis „Büro“ bindet nicht. Die Wohnnutzung der als Teileigentum gewidmeten Einheit ist aber zweckwidrig und kann nach § 14 Abs. 1 Nr. 1 WEG, § 1004 BGB untersagt werden, es sei denn, sie stört typisierend nicht wesentlich mehr als die zweckgemäße Nutzung (§ 242 BGB). Der Notar sollte deshalb den gewünschten Gebrauch ausdrücklich regeln.",
+    "frage": "Büro oder Wohnung im Teileigentum?",
+    "sachverhalt": "In einer Teilungserklärung ist die Einheit Nr. 3 als Teileigentum ausgewiesen; die Gemeinschaftsordnung enthält dazu keine Gebrauchsregelung. Im Aufteilungsplan steht die Beschriftung „Büro“. Eigentümer E nutzt Nr. 3 als Atelier und plant, dort zu wohnen. Miteigentümer M verlangt Unterlassung.",
+    "schritte": [
+      {
+        "frage": "Wie wirkt die Plan-Beschriftung „Büro“?",
+        "optionen": [
+          "Sie beschränkt die Nutzung verbindlich auf Büros",
+          "Sie ist grundsätzlich nur ein Nutzungsvorschlag und keine Nutzungsbeschränkung",
+          "Sie macht die Einheit zu Wohnungs- und Teileigentum",
+          "Sie begründet ein Sondernutzungsrecht für E"
+        ],
+        "antwort": 1,
+        "erklaerung": "Angaben im Aufteilungsplan sind ohne abweichende Regelung in der Gemeinschaftsordnung keine Nutzungsbeschränkung; der Plan zeigt nur die sachenrechtlichen Grenzen. Eine verbindliche Beschränkung auf Büro ergäbe sich erst aus einer Zweckbestimmung in der Gemeinschaftsordnung."
+      },
+      {
+        "frage": "Kann M die Wohnnutzung grundsätzlich untersagen?",
+        "optionen": [
+          "Nein, Teileigentum und Wohnungseigentum schließen einander nicht aus",
+          "Nein, solange E Eigentümer der Einheit ist",
+          "Ja, aber nur, wenn die Eigentümerversammlung zugestimmt hat",
+          "Ja, aus § 14 Abs. 1 Nr. 1 WEG und § 1004 Abs. 1 BGB, weil Teileigentum nicht Wohnzwecken dient"
+        ],
+        "antwort": 3,
+        "erklaerung": "Die Bezeichnung als Teileigentum legt als Zweckbestimmung im weiteren Sinn fest, dass die Räume nicht Wohnzwecken dienen; beide Grundtypen schließen einander aus (BGH, NJW 2018, 41). Bei zweckwidriger Nutzung bestehen Unterlassungsansprüche aus § 14 Abs. 1 Nr. 1 WEG und § 1004 Abs. 1 BGB, ohne dass ein Beschluss nötig wäre."
+      },
+      {
+        "frage": "Wann könnte der Anspruch dennoch ausscheiden?",
+        "optionen": [
+          "Wenn die Wohnnutzung bei typisierender Betrachtung nicht wesentlich mehr stört als eine zweckgemäße Nutzung",
+          "Wenn E die Einheit bereits länger als zehn Jahre besitzt",
+          "Wenn die Wohnnutzung im Plan nicht ausdrücklich verboten ist",
+          "Wenn die Gemeinschaft keinen Verwalter bestellt hat"
+        ],
+        "antwort": 0,
+        "erklaerung": "Nach § 242 BGB i.V.m. § 13 Abs. 1 WEG scheidet der Anspruch aus, wenn die tatsächliche Nutzung bei typisierender Betrachtung nicht wesentlich mehr stört. Besitzdauer oder fehlender Verwalter sind dafür ohne Bedeutung; der Plan enthält ohnehin kein Verbot."
+      }
+    ]
+  },
+  {
+    "id": "wohn2-040",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Wohnungseigentum und Überbau: Tiefgarage, Eigengrenzüberbau und überhängende Bauteile",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungseigentum-und-uberbau-tiefgarage-eigengrenzuberbau-und-uberhangende-bauteile",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 1 Abs. 2 WEG",
+      "§ 1 Abs. 3 WEG"
+    ],
+    "erklaerung": "Wohnungseigentum entsteht nur an Räumen eines Gebäudes, das zum aufgeteilten Grundstück gehört (§ 1 Abs. 2, 3 WEG). Ohne bauliche Verbindung liegt kein Überbau vor, die Tiefgarage kann nicht einbezogen werden; eine Zustimmung oder Dienstbarkeit ändert daran nichts. Die Verkehrsanschauung hilft nur, wenn überhaupt ein Zusammenhang besteht, etwa über eine ummauerte Zufahrt.",
+    "frage": "Eine Tiefgarage liegt vollständig auf dem Nachbargrundstück und ist baulich nicht mit dem aufzuteilenden Grundstück verbunden. Kann sie in die Aufteilung einbezogen werden?",
+    "optionen": [
+      "Ja, wenn der Nachbar zustimmt, als entschuldigter Überbau",
+      "Nein, es liegt kein Überbau vor und die Tiefgarage gehört nicht zum Gebäude auf dem aufgeteilten Grundstück",
+      "Ja, sofern sie nach der Verkehrsanschauung zum Gebäude gehört, auch ohne bauliche Verbindung",
+      "Ja, wenn eine Grunddienstbarkeit für die Nutzung bestellt wird"
+    ],
+    "antwort": 1
+  },
+  {
+    "id": "wohn2-041",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Wohnungseigentum und Überbau: Tiefgarage, Eigengrenzüberbau und überhängende Bauteile",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungseigentum-und-uberbau-tiefgarage-eigengrenzuberbau-und-uberhangende-bauteile",
+    "typ": "mc",
+    "schwierigkeit": 3,
+    "normen": [
+      "§§ 912 ff. BGB"
+    ],
+    "erklaerung": "Der BGH (V ZB 12/22) stellt nicht allein auf die Bautechnik, sondern auf die Verkehrsanschauung ab. Verbindungen über Treppenhäuser zu Gebäuden auf den überbauten Grundstücken hindern die Einordnung als einheitliches Gebäude nicht. Wer allein technische Trennung prüft, übersieht den maßgeblichen Wertungsmaßstab.",
+    "frage": "Woran bemisst sich nach der Rechtsprechung des BGH, ob ein Tiefgaragenbaukörper ein eigener Baukörper ist?",
+    "optionen": [
+      "Allein an der Bautechnik, also an Fugen und getrennten Gründungen",
+      "Am Grundbuchstand, also an der Zahl der betroffenen Grundstücke",
+      "An der Verkehrsanschauung; Verbindungen etwa durch Treppenhäuser stehen einem einheitlichen Gebäude nicht entgegen",
+      "Daran, ob die Garage eigene Zufahrtsrechte hat"
+    ],
+    "antwort": 2
+  },
+  {
+    "id": "wohn2-042",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Wohnungseigentum und Überbau: Tiefgarage, Eigengrenzüberbau und überhängende Bauteile",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungseigentum-und-uberbau-tiefgarage-eigengrenzuberbau-und-uberhangende-bauteile",
+    "typ": "rf",
+    "schwierigkeit": 3,
+    "normen": [
+      "§§ 912 ff. BGB"
+    ],
+    "erklaerung": "Der überhängende Überbau gehört dem Eigentümer des Grundstücks, von dem der Überhang ausgeht, und damit zum aufgeteilten Grundstück, sogar wenn er unentschuldigt war. Das Erfordernis eines entschuldigten Überbaus gilt für den Überbau mit Grundstücksverbindung, nicht für überhängende Bauteile.",
+    "frage": "An einem überhängenden Bauteil wie einem Balkon kann Sondereigentum nur begründet werden, wenn der Überhang entschuldigt ist.",
+    "antwort": false
+  },
+  {
+    "id": "wohn2-043",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Wohnungseigentum und Überbau: Tiefgarage, Eigengrenzüberbau und überhängende Bauteile",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungseigentum-und-uberbau-tiefgarage-eigengrenzuberbau-und-uberhangende-bauteile",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 912 BGB"
+    ],
+    "erklaerung": "Beim Eigengrenzüberbau gehören beide Grundstücke demselben Eigentümer; die Zuordnung entscheidet dann die Absicht des Erbauers (KG, MittBayNot 2020, 341). Flächenverhältnis oder Grundbuchreihenfolge sind keine Kriterien.",
+    "frage": "Beide Grundstücke gehören demselben Eigentümer, und das Gebäude ragt über die Grenze. Wonach richtet sich die Zuordnung des Überbaus?",
+    "optionen": [
+      "Nach der Absicht des Erbauers",
+      "Nach dem Flächenverhältnis auf beiden Grundstücken",
+      "Nach dem Grundstück, auf dem der größere Gebäudeteil liegt",
+      "Nach der Reihenfolge der Grundbucheintragung"
+    ],
+    "antwort": 0
+  },
+  {
+    "id": "wohn2-044",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Wohnungseigentum und Überbau: Voraussetzungen, Nachweis und Sicherung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungseigentum-und-uberbau-voraussetzungen-nachweis-und-sicherung",
+    "typ": "mc",
+    "schwierigkeit": 1,
+    "normen": [
+      "§ 1 Abs. 2 WEG",
+      "§ 1 Abs. 3 WEG"
+    ],
+    "erklaerung": "Wohnungseigentum entsteht nur an Räumen eines Gebäudes, das zum aufgeteilten Grundstück gehört (§ 1 Abs. 2, 3 WEG); auch unterirdische Bauteile machen keine Ausnahme. Eine Mehrheitsquote genügt nicht. Entscheidend ist die sachenrechtliche Zuordnung, zu der eine Dienstbarkeit nur beitragen kann.",
+    "frage": "Wann ist bei einem Überbau die Aufteilung in Wohnungseigentum möglich?",
+    "optionen": [
+      "Wenn mindestens die Hälfte des Gebäudes auf dem aufzuteilenden Grundstück steht",
+      "Wenn der Nachbar der Aufteilung zugestimmt hat",
+      "Wenn für den überbauten Teil eine Grunddienstbarkeit eingetragen ist",
+      "Wenn das ganze Gebäude nach den Regeln des Sachenrechts zum aufzuteilenden Grundstück gehört"
+    ],
+    "antwort": 3
+  },
+  {
+    "id": "wohn2-045",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Wohnungseigentum und Überbau: Voraussetzungen, Nachweis und Sicherung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungseigentum-und-uberbau-voraussetzungen-nachweis-und-sicherung",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 912 Abs. 1 BGB"
+    ],
+    "erklaerung": "Nach § 912 Abs. 1 BGB ist der Überbau entschuldigt, wenn weder Vorsatz noch grobe Fahrlässigkeit vorliegt; er wird dann Bestandteil des überbauenden Grundstücks. Fehlender Vorsatz allein genügt nicht, weil auch grobe Fahrlässigkeit schadet.",
+    "frage": "Wann ist ein Überbau entschuldigt?",
+    "optionen": [
+      "Wenn der Nachbar nicht unverzüglich widersprochen hat",
+      "Wenn der Überbau weniger als die Hälfte des Gebäudes betrifft",
+      "Wenn ohne Vorsatz und ohne grobe Fahrlässigkeit über die Grenze gebaut wurde",
+      "Wenn lediglich keine Absicht bestand, auch bei grober Fahrlässigkeit"
+    ],
+    "antwort": 2
+  },
+  {
+    "id": "wohn2-046",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Wohnungseigentum und Überbau: Voraussetzungen, Nachweis und Sicherung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungseigentum-und-uberbau-voraussetzungen-nachweis-und-sicherung",
+    "typ": "rf",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 29 GBO"
+    ],
+    "erklaerung": "Nach h.M. ist sie nicht erforderlich, aber zu empfehlen, möglichst vor Baubeginn. Erforderlich ist vielmehr, dass der entschuldigte oder rechtmäßige Überbau dem Grundbuchamt in der Form des § 29 GBO nachgewiesen wird.",
+    "frage": "Eine Grunddienstbarkeit ist nach h.M. Voraussetzung für die Begründung von Wohnungseigentum an einem Überbau.",
+    "antwort": false
+  },
+  {
+    "id": "wohn2-047",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Wohnungseigentum und Überbau: Voraussetzungen, Nachweis und Sicherung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungseigentum-und-uberbau-voraussetzungen-nachweis-und-sicherung",
+    "typ": "fall",
+    "schwierigkeit": 3,
+    "normen": [
+      "§ 912 Abs. 2 S. 1 BGB",
+      "§ 914 Abs. 2 S. 2 BGB"
+    ],
+    "erklaerung": "Eine vor Baubeginn erteilte schuldrechtliche Zustimmung ordnet den Überbau dem Grundstück der B zu, bindet aber den Erwerber E nicht; dann besteht ein entschuldigter Überbau mit Rentenpflicht (§ 912 Abs. 2 S. 1 BGB). Abhilfe schafft ein eingetragener Rentenverzicht (§ 914 Abs. 2 S. 2 BGB) oder besser eine Überbaudienstbarkeit.",
+    "frage": "Überbau mit nur schuldrechtlicher Zustimmung",
+    "sachverhalt": "Die B-GmbH errichtet ein Gebäude, das teilweise auf das Nachbargrundstück des N ragt. N hat vor Baubeginn nur schuldrechtlich zugestimmt. Später verkauft N sein Grundstück an E. B will das Gebäude nach § 8 WEG aufteilen.",
+    "schritte": [
+      {
+        "frage": "Genügt die schuldrechtliche Zustimmung vor Baubeginn für die Zuordnung des Überbaus zum Grundstück der B?",
+        "optionen": [
+          "Nein, nur eine eingetragene Grunddienstbarkeit macht den Überbau rechtmäßig",
+          "Ja, das Eigentum am überbauenden Grundstück erstreckt sich dann auf den Überbau",
+          "Nein, nur eine nachträgliche Zustimmung nach Fertigstellung genügt",
+          "Ja, aber nur wenn N auf Eigentum am überbauten Teil verzichtet"
+        ],
+        "antwort": 1,
+        "erklaerung": "Ausreichend ist auch eine nur schuldrechtliche Zustimmung, die vor Baubeginn vorliegt. Eine Grunddienstbarkeit ist nicht erforderlich, wenn auch zu empfehlen."
+      },
+      {
+        "frage": "Wie wirkt sich der Verkauf an E aus?",
+        "optionen": [
+          "Der Überbau muss beseitigt werden, und das Eigentum fällt an E",
+          "Die Zustimmung wirkt auch gegen E, sodass keine Rente geschuldet ist",
+          "Das Eigentum am Überbau geht auf E über, B erhält die Rente",
+          "Die Zustimmung bindet E nicht; der Überbau wird rechtswidrig, aber entschuldigt, die Eigentumsverhältnisse bleiben, es ist eine Geldrente zu zahlen"
+        ],
+        "antwort": 3,
+        "erklaerung": "Die schuldrechtliche Zustimmung bindet den Erwerber nicht. Der Überbau wird rechtswidrig, aber entschuldigt; die Eigentumsverhältnisse bleiben, doch ist nach § 912 Abs. 2 S. 1 BGB eine Geldrente zu zahlen."
+      },
+      {
+        "frage": "Wie sollte der Notar das Risiko absichern, wenn es bei der schuldrechtlichen Zustimmung bleibt?",
+        "optionen": [
+          "Rentenverzicht zulasten des überbauten Grundstücks vereinbaren und eintragen",
+          "Eine Vormerkung auf Beseitigung des Überbaus eintragen",
+          "Den Aufteilungsplan um den überbauten Teil kürzen",
+          "Auf die Eintragung des Wohnungseigentums verzichten"
+        ],
+        "antwort": 0,
+        "erklaerung": "Bei bloß schuldrechtlicher Zustimmung ist ein Rentenverzicht zulasten des überbauten Grundstücks zu vereinbaren und einzutragen (§ 914 Abs. 2 S. 2 BGB). Der einfachste Weg bleibt die Überbaudienstbarkeit, die den Überbau rechtmäßig macht."
+      }
+    ]
+  },
+  {
+    "id": "wohn2-048",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Wohnungseigentum: Motive, Vorratsteilung und Alternativen zur Begründung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungseigentum-motive-vorratsteilung-und-alternativen-zur-begrundung",
+    "typ": "mc",
+    "schwierigkeit": 1,
+    "normen": [
+      "§ 8 WEG"
+    ],
+    "erklaerung": "Typischer Fall ist der Bauträger, der ein Grundstück nach § 8 WEG aufteilt und die Einheiten an verschiedene Erwerber verkauft. Dafür braucht es selbständige, verkehrsfähige und beleihbare Einheiten. Das Grundbuch bleibt zentral, und eine Gemeinschaftsordnung wird gerade genutzt, um die Nutzung zu steuern.",
+    "frage": "Welches ist das Hauptmotiv für die Begründung von Wohnungseigentum?",
+    "optionen": [
+      "Die Befreiung von der Pflicht zur Eintragung im Grundbuch",
+      "Die Schaffung rechtlich selbständiger, verkehrsfähiger und beleihbarer Raumeinheiten",
+      "Die Vermeidung jeder Gemeinschaftsordnung unter den Eigentümern",
+      "Die steuerfreie Übertragung einzelner Wohnungen"
+    ],
+    "antwort": 1
+  },
+  {
+    "id": "wohn2-049",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Wohnungseigentum: Motive, Vorratsteilung und Alternativen zur Begründung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungseigentum-motive-vorratsteilung-und-alternativen-zur-begrundung",
+    "typ": "zuordnung",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 172 BauGB",
+      "§ 250 BauGB",
+      "§ 22 BauGB",
+      "§§ 577, 577a BGB"
+    ],
+    "erklaerung": "Die Vorratsteilung bietet sich an, wenn eine spätere Aufteilung aus öffentlich-rechtlichen Gründen voraussichtlich ausgeschlossen oder erschwert sein wird: Genehmigungsvorbehalte nach § 172, § 250 BauGB und § 22 BauGB. Zusätzlich sind bei einem Verkauf der Einheiten die mietrechtlichen Beschränkungen der §§ 577, 577a BGB zu bedenken.",
+    "frage": "Ordne die Vorschriften dem Grund zu, der für eine Vorratsteilung spricht.",
+    "paare": [
+      [
+        "§ 172 Abs. 1 S. 1 Nr. 2 BauGB",
+        "Genehmigungsvorbehalt im Erhaltungsgebiet"
+      ],
+      [
+        "§ 250 BauGB",
+        "Genehmigungsvorbehalt in Gebieten mit angespanntem Wohnungsmarkt"
+      ],
+      [
+        "§ 22 Abs. 1 S. 1 Nr. 1 BauGB",
+        "Genehmigungsvorbehalt in Gebieten mit Fremdenverkehrsfunktion"
+      ],
+      [
+        "§§ 577, 577a BGB",
+        "Beschränkungen des Mieterschutzes beim späteren Verkauf der Einheiten"
+      ]
+    ]
+  },
+  {
+    "id": "wohn2-050",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Wohnungseigentum: Motive, Vorratsteilung und Alternativen zur Begründung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungseigentum-motive-vorratsteilung-und-alternativen-zur-begrundung",
+    "typ": "mc",
+    "schwierigkeit": 3,
+    "normen": [
+      "§ 751 S. 2 BGB",
+      "§ 84 Abs. 2 S. 1 InsO",
+      "§ 1010 BGB"
+    ],
+    "erklaerung": "Der Ausschluss der Aufhebung versagt bei wichtigem Grund, bei Pfändung (§ 751 S. 2 BGB) und in der Insolvenz (§ 84 Abs. 2 S. 1 InsO); dann droht die Teilungsversteigerung des ganzen Grundstücks. Eingetragene Benutzungsregelungen und der Aufhebungsausschluss wirken dagegen gegen Sondernachfolger (§§ 1010 Abs. 1, 746, 749, 751 S. 1 BGB), und Plan sowie Bescheinigung verlangt nur das Wohnungseigentum (§ 7 Abs. 4 WEG).",
+    "frage": "Worin liegt der wesentliche Nachteil einer Miteigentümervereinbarung nach § 1010 BGB gegenüber dem Wohnungseigentum?",
+    "optionen": [
+      "Eine eingetragene Benutzungsregelung wirkt nicht gegen Sondernachfolger",
+      "Sie erfordert einen Aufteilungsplan und eine Abgeschlossenheitsbescheinigung",
+      "Der Ausschluss der Aufhebung bindet Pfändungsgläubiger und Insolvenzverwalter nicht, sodass das ganze Grundstück versteigert werden kann",
+      "Der Ausschluss der Aufhebung ist stets nur schuldrechtlich wirksam"
+    ],
+    "antwort": 2
+  },
+  {
+    "id": "wohn2-051",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Wohnungseigentum: Motive, Vorratsteilung und Alternativen zur Begründung",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungseigentum-motive-vorratsteilung-und-alternativen-zur-begrundung",
+    "typ": "rf",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 31 WEG",
+      "§ 33 Abs. 1 S. 1 WEG"
+    ],
+    "erklaerung": "Das Dauerwohnrecht ist zwar veräußerlich und vererblich (§ 33 Abs. 1 S. 1 WEG), aber kein grundstücksgleiches Recht und daher nicht mit einem Grundpfandrecht belastbar. Das ist sein größter Nachteil.",
+    "frage": "Das Dauerwohnrecht ist veräußerlich und vererblich und kann deshalb mit einem Grundpfandrecht belastet werden.",
+    "antwort": false
+  },
+  {
+    "id": "wohn2-052",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Wohnungseigentum: Sondereigentum, Gemeinschaftseigentum und Miteigentumsanteil",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungseigentum-sondereigentum-gemeinschaftseigentum-und-miteigentumsanteil",
+    "typ": "mc",
+    "schwierigkeit": 1,
+    "normen": [
+      "§ 5 Abs. 2 WEG"
+    ],
+    "erklaerung": "Teile, die für Bestand oder Sicherheit des Gebäudes nötig sind, und Einrichtungen für den gemeinsamen Gebrauch können nicht Sondereigentum sein (§ 5 Abs. 2 WEG, zwingend). Das trifft tragende Wände und die Abschlusstür. Nichttragende Innenwände und Innentüren sind sondereigentumsfähig.",
+    "frage": "Welche Gebäudeteile können nicht Sondereigentum sein, selbst wenn sie innerhalb der Räume des Sondereigentums liegen?",
+    "optionen": [
+      "Tragende Wände und die Wohnungsabschlusstür zum Treppenhaus",
+      "Nichttragende Innenwände und Innentüren",
+      "Der Bodenbelag innerhalb der Wohnung",
+      "Nichttragende Trennwände zwischen zwei Zimmern derselben Wohnung"
+    ],
+    "antwort": 0
+  },
+  {
+    "id": "wohn2-053",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Wohnungseigentum: Sondereigentum, Gemeinschaftseigentum und Miteigentumsanteil",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungseigentum-sondereigentum-gemeinschaftseigentum-und-miteigentumsanteil",
+    "typ": "rf",
+    "schwierigkeit": 1,
+    "normen": [
+      "§ 6 WEG"
+    ],
+    "erklaerung": "Jedes Sondereigentum ist zwingend mit einem Miteigentumsanteil verbunden (§ 6 WEG); beides zusammen bildet die Sondereigentumseinheit. Abgeschlossenheit ändert daran nichts.",
+    "frage": "Sondereigentum kann auch ohne Miteigentumsanteil am gemeinschaftlichen Eigentum begründet werden, wenn die Räume abgeschlossen sind.",
+    "antwort": false
+  },
+  {
+    "id": "wohn2-054",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Wohnungseigentum: Sondereigentum, Gemeinschaftseigentum und Miteigentumsanteil",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungseigentum-sondereigentum-gemeinschaftseigentum-und-miteigentumsanteil",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 5 WEG"
+    ],
+    "erklaerung": "Solche Kataloge sind wegen § 5 WEG nicht mehr nötig und wirken nur deklaratorisch. Sie können die zwingende Abgrenzung des § 5 Abs. 2 WEG nicht verschieben. Unzulässig sind sie nicht, sie bleiben nur ohne eigene Wirkung; sinnvoller ist eine Kostenregelung für Gemeinschaftseigentum im Bereich der Einheit.",
+    "frage": "Wie wirkt ein Katalog in der Teilungserklärung, der aufzählt, welche Gebäudeteile zum Sondereigentum gehören?",
+    "optionen": [
+      "Konstitutiv, er erweitert das Sondereigentum über § 5 WEG hinaus",
+      "Konstitutiv, aber nur für nichttragende Teile",
+      "Gar nicht, er ist als Inhalt der Teilungserklärung unzulässig",
+      "Nur deklaratorisch, weil sich die Abgrenzung bereits aus § 5 WEG ergibt"
+    ],
+    "antwort": 3
+  },
+  {
+    "id": "wohn2-055",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Wohnungseigentum: Sondereigentum, Gemeinschaftseigentum und Miteigentumsanteil",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungseigentum-sondereigentum-gemeinschaftseigentum-und-miteigentumsanteil",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 3 Abs. 1 S. 2 WEG",
+      "§ 3 Abs. 2 WEG"
+    ],
+    "erklaerung": "Nach § 3 Abs. 1 S. 2, Abs. 2 WEG können solche Außenflächen Sondereigentum sein, solange wirtschaftlich die Wohnung bzw. die sonstigen Räume im Vordergrund stehen. Weder Überdachung noch Flächenquote oder Einstimmigkeit sind verlangt.",
+    "frage": "Unter welcher Voraussetzung können seit der WEG-Reform 2020 Stellplätze, Terrassen und Gartenflächen zum Sondereigentum gehören?",
+    "optionen": [
+      "Wenn die Fläche überdacht und umschlossen ist",
+      "Wenn alle übrigen Eigentümer einstimmig zustimmen",
+      "Wenn wirtschaftlich die Wohnung beziehungsweise die sonstigen Räume im Vordergrund stehen",
+      "Wenn die Fläche mindestens ein Drittel der Wohnfläche ausmacht"
+    ],
+    "antwort": 2
+  },
+  {
+    "id": "wohn2-056",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Wohnungsgrundbuch: Anlegung, Bezugnahme und Eintragung von Sondernutzungsrechten",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungsgrundbuch-anlegung-bezugnahme-und-eintragung-von-sondernutzungsrechten",
+    "typ": "mc",
+    "schwierigkeit": 1,
+    "normen": [
+      "§ 7 Abs. 1 WEG"
+    ],
+    "erklaerung": "Anders als sonst bei ideellen Miteigentumsanteilen (vgl. § 3 Abs. 4 bis 6 GBO) wird beim Wohnungseigentum für jeden Anteil ein Wohnungs- oder Teileigentumsgrundbuch angelegt (§ 7 Abs. 1 WEG). Das bisherige Grundstücksblatt wird geschlossen.",
+    "frage": "Wie wird das Grundbuch beim Wohnungseigentum geführt?",
+    "optionen": [
+      "Für das aufgeteilte Grundstück bleibt ein gemeinsames Blatt mit allen Einheiten",
+      "Für jeden Miteigentumsanteil wird ein besonderes Grundbuchblatt angelegt",
+      "Nur für Teileigentum wird ein eigenes Blatt angelegt",
+      "Für Einheiten wird nur auf Antrag ein eigenes Blatt angelegt"
+    ],
+    "antwort": 1
+  },
+  {
+    "id": "wohn2-057",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Wohnungsgrundbuch: Anlegung, Bezugnahme und Eintragung von Sondernutzungsrechten",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungsgrundbuch-anlegung-bezugnahme-und-eintragung-von-sondernutzungsrechten",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 10 Abs. 3 S. 1 WEG"
+    ],
+    "erklaerung": "Nach § 10 Abs. 3 S. 1 WEG wirken Sondernutzungsrechte nur als Inhalt des Sondereigentums gegen Sondernachfolger, wenn sie in allen Wohnungsgrundbüchern eingetragen sind. Die bloße Vereinbarung bindet nur die Beteiligten; der Plan zeigt nur die sachenrechtlichen Grenzen.",
+    "frage": "Wann wirken Sondernutzungsrechte gegen künftige Wohnungseigentümer?",
+    "optionen": [
+      "Sobald sie in der Gemeinschaftsordnung vereinbart sind",
+      "Wenn sie im Aufteilungsplan eingezeichnet sind",
+      "Wenn sie in die Beschluss-Sammlung aufgenommen wurden",
+      "Wenn sie in allen Wohnungsgrundbüchern eingetragen sind"
+    ],
+    "antwort": 3
+  },
+  {
+    "id": "wohn2-058",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Wohnungsgrundbuch: Anlegung, Bezugnahme und Eintragung von Sondernutzungsrechten",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungsgrundbuch-anlegung-bezugnahme-und-eintragung-von-sondernutzungsrechten",
+    "typ": "rf",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 7 Abs. 3 S. 2 WEG",
+      "§ 12 WEG"
+    ],
+    "erklaerung": "Veräußerungsbeschränkungen nach § 12 WEG und die Erwerberhaftung für Geldschulden sind ausdrücklich im Grundbuch einzutragen (§ 7 Abs. 3 S. 2 WEG). Ohne ausdrückliche Eintragung gehören sie nicht zum Inhalt des Sondereigentums und wirken nicht gegen spätere Eigentümer; die Bezugnahme des § 7 Abs. 3 S. 1 WEG genügt nicht.",
+    "frage": "Eine vereinbarte Veräußerungsbeschränkung nach § 12 WEG wird schon durch die Bezugnahme auf die Eintragungsbewilligung Inhalt des Sondereigentums.",
+    "antwort": false
+  },
+  {
+    "id": "wohn2-059",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Begründung von Wohnungseigentum",
+    "seite": "Wohnungsgrundbuch: Anlegung, Bezugnahme und Eintragung von Sondernutzungsrechten",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungsgrundbuch-anlegung-bezugnahme-und-eintragung-von-sondernutzungsrechten",
+    "typ": "mc",
+    "schwierigkeit": 3,
+    "normen": [
+      "§ 7 Abs. 1 S. 3 WEG"
+    ],
+    "erklaerung": "Mit Anlegung der Wohnungsgrundbücher wird das Grundstücksblatt geschlossen (§ 7 Abs. 1 S. 3 WEG), das Grundstück im Rechtssinn besteht aber fort. Es kann etwa mit Dienstbarkeiten belastet oder verändert werden. Die Schließung ist reine Grundbuchtechnik.",
+    "frage": "Das Grundbuchblatt des Grundstücks wurde mit Anlegung der Wohnungsgrundbücher geschlossen. Kann das Grundstück noch Gegenstand von Verfügungen sein, etwa einer Dienstbarkeitsbestellung?",
+    "optionen": [
+      "Ja, das Grundstück im Rechtssinn besteht fort",
+      "Nein, mit Schließung des Blatts ist das Grundstück rechtlich untergegangen",
+      "Nein, Verfügungen sind nur an den einzelnen Miteigentumsanteilen möglich",
+      "Ja, aber nur mit Zustimmung aller Wohnungseigentümer"
+    ],
+    "antwort": 0
+  },
+  {
+    "id": "wohn2-060",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Beschluss der Wohnungseigentümer: Beschlusskompetenz, Anfechtbarkeit und Nichtigkeit",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/beschluss-der-wohnungseigentumer-beschlusskompetenz-anfechtbarkeit-und-nichtigkeit",
+    "typ": "mc",
+    "schwierigkeit": 1,
+    "normen": [
+      "§ 45 S. 1 WEG",
+      "§ 23 Abs. 4 S. 2 WEG"
+    ],
+    "erklaerung": "Die Anfechtungsfrist beträgt einen Monat ab Beschlussfassung (§ 45 S. 1 WEG). Bis zur gerichtlichen Entscheidung gilt der Beschluss als gültig (§ 23 Abs. 4 S. 2 WEG). Auf den Zugang der Niederschrift kommt es nicht an.",
+    "frage": "Wie lange kann ein bloß anfechtbarer Beschluss angefochten werden?",
+    "optionen": [
+      "Einen Monat ab Zugang der Niederschrift",
+      "Einen Monat ab Beschlussfassung",
+      "Zwei Monate ab Beschlussfassung",
+      "Drei Monate ab Beschlussfassung"
+    ],
+    "antwort": 1
+  },
+  {
+    "id": "wohn2-061",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Beschluss der Wohnungseigentümer: Beschlusskompetenz, Anfechtbarkeit und Nichtigkeit",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/beschluss-der-wohnungseigentumer-beschlusskompetenz-anfechtbarkeit-und-nichtigkeit",
+    "typ": "fall",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 23 Abs. 1 S. 1 WEG",
+      "§ 23 Abs. 4 S. 1 WEG"
+    ],
+    "erklaerung": "Der Verbotsbeschluss ändert die Vereinbarung und ist mangels Beschlusskompetenz nichtig. Die Nichtigkeit kann E jederzeit und auch als Einwand geltend machen; die Monatsfrist des § 45 WEG spielt nicht.",
+    "frage": "Parabolantennen-Verbot per Mehrheitsbeschluss",
+    "sachverhalt": "Die Gemeinschaftsordnung erklärt die Nutzung von Parabolantennen ausdrücklich für zulässig. Die Eigentümerversammlung beschließt mit Mehrheit, Parabolantennen zu verbieten. Eigentümer E lässt die Monatsfrist verstreichen und installiert eine Antenne; die Gemeinschaft verlangt Beseitigung.",
+    "schritte": [
+      {
+        "frage": "Wie ist der Beschluss einzuordnen?",
+        "optionen": [
+          "Nur anfechtbar und nach Fristablauf bestandskräftig",
+          "Gültig, weil er die Gemeinschaftsordnung nur im Einzelfall anwendet",
+          "Nichtig, weil er die Gemeinschaftsordnung ändern will und die Beschlusskompetenz fehlt",
+          "Gültig, weil das Gesetz Mehrheitsentscheidungen über Gebrauchsregelungen zulässt"
+        ],
+        "antwort": 2,
+        "erklaerung": "Ein Beschluss, der die Gemeinschaftsordnung ändern soll, ist ohne Kompetenz nichtig (BGH, DNotZ 2004, 617). Das gilt hier, weil die Gemeinschaftsordnung die Nutzung erlaubt. Als bloß fehlerhafte Anwendung im Einzelfall lässt sich das Verbot nicht einordnen, und die gesetzliche Befugnis zur Gebrauchsregelung deckt keine Abweichung von einer Vereinbarung."
+      },
+      {
+        "frage": "Kann E sich auf die Nichtigkeit berufen, obwohl er nicht angefochten hat?",
+        "optionen": [
+          "Ja, die Nichtigkeit kann jederzeit ohne Frist und auch inzident geltend gemacht werden",
+          "Nein, nach Ablauf der Monatsfrist ist der Beschluss bindend",
+          "Ja, aber nur innerhalb von sechs Monaten",
+          "Nein, E hätte eine Feststellungsklage binnen eines Monats erheben müssen"
+        ],
+        "antwort": 0,
+        "erklaerung": "Nach § 23 Abs. 4 S. 1 WEG ist ein Beschluss nichtig, der gegen zwingendes Recht verstößt; die Nichtigkeit kann jederzeit, ohne gerichtliche Entscheidung und inzident geltend gemacht werden. Eine Frist besteht nicht, die Monatsfrist des § 45 S. 1 WEG gilt nur für Anfechtungsklagen."
+      }
+    ]
+  },
+  {
+    "id": "wohn2-062",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Beschluss der Wohnungseigentümer: Beschlusskompetenz, Anfechtbarkeit und Nichtigkeit",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/beschluss-der-wohnungseigentumer-beschlusskompetenz-anfechtbarkeit-und-nichtigkeit",
+    "typ": "rf",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 23 Abs. 4 S. 1 WEG",
+      "§ 45 S. 1 WEG"
+    ],
+    "erklaerung": "Die Monatsfrist des § 45 S. 1 WEG gilt für die Anfechtung. Nichtigkeit nach § 23 Abs. 4 S. 1 WEG kann jederzeit, ohne gerichtliche Entscheidung und auch inzident in einem anderen Verfahren geltend gemacht werden; eine Frist besteht nicht.",
+    "frage": "Auch die Nichtigkeit eines Beschlusses muss innerhalb eines Monats ab Beschlussfassung gerichtlich geltend gemacht werden.",
+    "antwort": false
+  },
+  {
+    "id": "wohn2-063",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Beschluss der Wohnungseigentümer: Beschlusskompetenz, Anfechtbarkeit und Nichtigkeit",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/beschluss-der-wohnungseigentumer-beschlusskompetenz-anfechtbarkeit-und-nichtigkeit",
+    "typ": "mc",
+    "schwierigkeit": 3,
+    "normen": [
+      "§ 23 Abs. 1 S. 1 WEG",
+      "§ 19 Abs. 1 WEG"
+    ],
+    "erklaerung": "Ein vereinbarungswidriger Beschluss, der die Gemeinschaftsordnung nicht ändert, sondern nur im Einzelfall falsch anwendet, ist gültig (BGH, NJW 2000, 3500). Nichtigkeit droht dagegen dem vereinbarungsändernden Beschluss ohne Kompetenz. Zustimmungen dinglich Berechtigter sind bei Beschlüssen nicht erforderlich.",
+    "frage": "Ein Beschluss wendet die Gemeinschaftsordnung im Einzelfall fehlerhaft an, ohne sie zu ändern. Wie ist er zu behandeln?",
+    "optionen": [
+      "Er ist nichtig, weil er gegen die Vereinbarung verstößt",
+      "Er ist nichtig, sobald die Monatsfrist abgelaufen ist",
+      "Er ist von Anfang an unwirksam und bedarf der Zustimmung dinglich Berechtigter",
+      "Er ist nicht nichtig, sondern gültig, solange er nicht erfolgreich angefochten wird"
+    ],
+    "antwort": 3
+  },
+  {
+    "id": "wohn2-064",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Eigentümerversammlung: Durchführung, Online-Teilnahme, Umlaufbeschluss und Niederschrift",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-durchfuhrung-online-teilnahme-umlaufbeschluss-und-niederschrift",
+    "typ": "mc",
+    "schwierigkeit": 1,
+    "normen": [
+      "§ 23 Abs. 3 S. 1 WEG"
+    ],
+    "erklaerung": "Der Umlaufbeschluss nach § 23 Abs. 3 S. 1 WEG verlangt die Zustimmung aller Eigentümer in Textform; nimmt auch nur einer nicht teil, kommt kein Beschluss zustande. Mehrheit genügt nur, wenn die Eigentümer dies für einen einzelnen Gegenstand nach § 23 Abs. 3 S. 2 WEG beschlossen haben.",
+    "frage": "Unter welcher Voraussetzung ist ein Beschluss ohne Versammlung gültig?",
+    "optionen": [
+      "Wenn die Mehrheit der Eigentümer in Textform zustimmt",
+      "Wenn drei Viertel der abgegebenen Stimmen in Textform zustimmen",
+      "Wenn alle Eigentümer ihm in Textform zustimmen",
+      "Wenn der Verwalter den Beschluss schriftlich feststellt"
+    ],
+    "antwort": 2
+  },
+  {
+    "id": "wohn2-065",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Eigentümerversammlung: Durchführung, Online-Teilnahme, Umlaufbeschluss und Niederschrift",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-durchfuhrung-online-teilnahme-umlaufbeschluss-und-niederschrift",
+    "typ": "mc",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 23 Abs. 1a WEG"
+    ],
+    "erklaerung": "Nach § 23 Abs. 1a S. 1 WEG genügt eine Dreiviertelmehrheit der abgegebenen Stimmen, der Beschluss gilt für längstens drei Jahre ab Beschlussfassung. Die Versammlung muss einer Präsenzversammlung vergleichbar sein, also als Videokonferenz mit Bild und Ton in Echtzeit stattfinden.",
+    "frage": "Welche Mehrheit und welche Dauer gelten für den Beschluss, Versammlungen ohne physische Präsenz an einem Ort abzuhalten?",
+    "optionen": [
+      "Einfache Mehrheit, längstens ein Jahr",
+      "Mindestens drei Viertel der abgegebenen Stimmen, längstens drei Jahre ab Beschlussfassung",
+      "Zwei Drittel aller Miteigentumsanteile, unbefristet",
+      "Einstimmigkeit, längstens fünf Jahre"
+    ],
+    "antwort": 1
+  },
+  {
+    "id": "wohn2-066",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Eigentümerversammlung: Durchführung, Online-Teilnahme, Umlaufbeschluss und Niederschrift",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-durchfuhrung-online-teilnahme-umlaufbeschluss-und-niederschrift",
+    "typ": "mc",
+    "schwierigkeit": 3,
+    "normen": [
+      "§ 23 Abs. 1 S. 2 WEG"
+    ],
+    "erklaerung": "Der Beschluss nach § 23 Abs. 1 S. 2 WEG muss vor der Ladung gefasst sein, damit die Teilnahmemöglichkeit mitgeteilt werden kann, und kann als Grundlagenbeschluss für die Zukunft ergehen. Beschlossen wird in einer Präsenzversammlung oder im Umlaufverfahren, nicht erst in der Versammlung mit Online-Teilnehmern.",
+    "frage": "Wann muss der Beschluss über die Online-Teilnahme an der Präsenzversammlung gefasst sein?",
+    "optionen": [
+      "Erst in der Versammlung, in der die Online-Teilnahme erstmals genutzt wird",
+      "Nach der Ladung, aber vor Beginn der Versammlung",
+      "Zeitlich unbeschränkt, auch nach der Versammlung",
+      "Vor der Ladung, in einer Präsenzversammlung oder im Umlaufverfahren"
+    ],
+    "antwort": 3
+  },
+  {
+    "id": "wohn2-067",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Eigentümerversammlung: Durchführung, Online-Teilnahme, Umlaufbeschluss und Niederschrift",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-durchfuhrung-online-teilnahme-umlaufbeschluss-und-niederschrift",
+    "typ": "rf",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 24 Abs. 7 WEG"
+    ],
+    "erklaerung": "Die Aufnahme ist keine Wirksamkeitsvoraussetzung (BGH, ZWE 2016, 325). Maßgeblich ist allein die tatsächliche Beschlusslage; ein Erwerber ist auch an einen Beschluss gebunden, der in der Sammlung fehlt oder falsch wiedergegeben ist.",
+    "frage": "Die Aufnahme eines Beschlusses in die Beschluss-Sammlung ist Wirksamkeitsvoraussetzung des Beschlusses.",
+    "antwort": false
+  },
+  {
+    "id": "wohn2-068",
+    "kapitel": "wohnungseigentum-und-erbbaurecht",
+    "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung",
+    "seite": "Eigentümerversammlung: Durchführung, Online-Teilnahme, Umlaufbeschluss und Niederschrift",
+    "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-durchfuhrung-online-teilnahme-umlaufbeschluss-und-niederschrift",
+    "typ": "zuordnung",
+    "schwierigkeit": 2,
+    "normen": [
+      "§ 23 Abs. 1 S. 2 WEG",
+      "§ 23 Abs. 1a WEG",
+      "§ 23 Abs. 3 WEG",
+      "§ 24 Abs. 6 WEG"
+    ],
+    "erklaerung": "Die Online-Teilnahme (§ 23 Abs. 1 S. 2 WEG) bleibt Präsenzversammlung mit zusätzlicher elektronischer Teilnahme, die virtuelle Versammlung (§ 23 Abs. 1a WEG) findet ohne physische Präsenz statt. Der Umlaufbeschluss (§ 23 Abs. 3 WEG) kommt ohne Versammlung aus; über die Beschlüsse ist unverzüglich eine Niederschrift aufzunehmen (§ 24 Abs. 6 WEG).",
+    "frage": "Ordne die Vorschriften ihrem Regelungsgegenstand zu.",
+    "paare": [
+      [
+        "§ 23 Abs. 1 S. 2 WEG",
+        "Elektronische Teilnahme an der Präsenzversammlung"
+      ],
+      [
+        "§ 23 Abs. 1a WEG",
+        "Virtuelle Versammlung ohne physische Präsenz"
+      ],
+      [
+        "§ 23 Abs. 3 WEG",
+        "Beschluss im Umlaufverfahren in Textform"
+      ],
+      [
+        "§ 24 Abs. 6 WEG",
+        "Niederschrift über die Beschlüsse"
+      ]
+    ]
+  }
 ]
