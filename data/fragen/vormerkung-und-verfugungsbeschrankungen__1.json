@@ -1556,9 +1556,7 @@
   "quelle": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-erloschen-und-gutglaubiger-erwerb",
   "typ": "mc",
   "schwierigkeit": 3,
-  "normen": [
-   "§ 883 Abs. 2 BGB"
-  ],
+  "normen": [],
   "frage": "Der vorgemerkte Anspruch ist erfüllt, der Erwerber ist als Eigentümer eingetragen. Wie ist mit der Vormerkung zu verfahren?",
   "optionen": [
    "Sie ist gegenstandslos, bleibt aber erheblich und ist nicht zu löschen, wenn Zwischenrechte eingetragen sind; das Grundbuchamt löscht sie regelmäßig nur auf besonderen Antrag",
@@ -1821,7 +1819,6 @@
   "typ": "zuordnung",
   "schwierigkeit": 2,
   "normen": [
-   "§ 884 BGB",
    "§ 1856 BGB"
   ],
   "frage": "Ordne die Konstellation dem Zeitpunkt zu, ab dem die Vormerkung eingetragen werden kann.",

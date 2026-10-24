@@ -1558,9 +1558,7 @@
   "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/veranderungen-am-aufgeteilten-grundstuck-teilflache-hinzuerwerb-und-unschadlichkeitszeugnis",
   "typ": "mc",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 883 BGB"
-  ],
+  "normen": [],
   "frage": "Wie kann nach herrschender Meinung der Anspruch auf Übereignung einer Teilfläche aus einem Wohnungseigentumsgrundstück durch Vormerkung gesichert werden?",
   "optionen": [
    "nur an einer einzelnen Einheit",

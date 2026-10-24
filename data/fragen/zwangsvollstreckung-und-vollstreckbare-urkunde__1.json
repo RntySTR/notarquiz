@@ -734,9 +734,7 @@
   "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-zustellungsarten-zustellungsmangel-und-vollstreckungshindernisse",
   "typ": "rf",
   "schwierigkeit": 2,
-  "normen": [
-   "§ 750 ZPO"
-  ],
+  "normen": [],
   "frage": "Eine trotz Zustellungsmangels vorgenommene Vollstreckungshandlung ist nichtig.",
   "antwort": false,
   "erklaerung": "Sie ist nicht nichtig, sondern nur anfechtbar, und der Zustellungsmangel kann nachträglich geheilt werden. Erkennt das Vollstreckungsorgan den Mangel, lehnt es die Vollstreckung ab."
@@ -1585,7 +1583,6 @@
   "typ": "mc",
   "schwierigkeit": 1,
   "normen": [
-   "§ 44 Abs. 1 ZVG",
    "§ 52 Abs. 1 ZVG"
   ],
   "frage": "Was geschieht mit Rechten der Abteilungen II und III, die Vorrang vor dem Recht des betreibenden Gläubigers haben?",
@@ -1660,9 +1657,7 @@
   "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-geringstes-gebot-und-rangklassen",
   "typ": "mc",
   "schwierigkeit": 1,
-  "normen": [
-   "§ 44 ZVG"
-  ],
+  "normen": [],
   "frage": "Aus welchen beiden Teilen besteht das geringste Gebot?",
   "optionen": [
    "Aus Verkehrswert und Verfahrenskosten",

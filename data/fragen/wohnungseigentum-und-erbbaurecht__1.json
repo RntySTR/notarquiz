@@ -1115,7 +1115,6 @@
   "schwierigkeit": 3,
   "normen": [
    "§ 5 Abs. 1 S. 1 WEG",
-   "§ 3 Abs. 1 S. 1 WEG",
    "§ 7 Abs. 4 S. 1 Nr. 1 WEG"
   ],
   "erklaerung": "Widersprechen sich Text und Aufteilungsplan, hat grundsätzlich keine der beiden Erklärungen Vorrang. Sondereigentum entsteht dann nicht, die betroffenen Teile bleiben Gemeinschaftseigentum. Ein Vorrang des Plans oder des Textes wird gerade nicht angenommen; zudem bildet sich ein isolierter Miteigentumsanteil, wenn alle Räume des Anteils betroffen sind.",
@@ -1136,9 +1135,7 @@
   "quelle": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/grundungsmangel-falsche-zweckbestimmung-und-widerspruch-zwischen-teilungserklarung-und-aufteilungsplan",
   "typ": "rf",
   "schwierigkeit": 3,
-  "normen": [
-   "§ 3 Abs. 1 S. 1 WEG"
-  ],
+  "normen": [],
   "erklaerung": "Der Widerspruch beschränkt sich auf den betroffenen Raum, der Gemeinschaftseigentum bleibt. An den übrigen Räumen entsteht das Sondereigentum wirksam. Zum isolierten Miteigentumsanteil kommt es nur, wenn der Widerspruch alle mit dem Anteil verbundenen Räume erfasst.",
   "frage": "Erfasst der Widerspruch zwischen Teilungserklärung und Aufteilungsplan nur einen von mehreren Räumen, die mit dem Miteigentumsanteil verbunden sind, entsteht im Übrigen das Sondereigentum wirksam.",
   "antwort": true

@@ -679,9 +679,7 @@
   "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckbare-notarielle-urkunde-vertretung-vollmacht-und-zustellung-der-vollmacht",
   "typ": "rf",
   "schwierigkeit": 3,
-  "normen": [
-   "§ 794 Abs. 1 Nr. 5 ZPO"
-  ],
+  "normen": [],
   "frage": "Nach Entscheidungen mehrerer Oberlandesgerichte ermächtigt eine Vollmacht zur Belastung eines Grundstücks den Bevollmächtigten auch zur Unterwerfung mit Wirkung gegen den jeweiligen Grundstückseigentümer.",
   "antwort": false,
   "erklaerung": "Die Befugnis zur Unterwerfung ist nach diesen Entscheidungen von der bloßen Belastungsbefugnis nicht gedeckt. Deshalb ist sie sicherheitshalber ausdrücklich in die Belastungsvollmacht aufzunehmen."
@@ -896,8 +894,7 @@
   "typ": "mc",
   "schwierigkeit": 3,
   "normen": [
-   "BGH III ZR 156/07",
-   "§ 14 Abs. 1 BNotO"
+   "BGH III ZR 156/07"
   ],
   "frage": "Der Käufer erhält den Besitz vorzeitig und zahlt weder Nutzungsentschädigung noch Kaufpreis. Worauf stützt der BGH die Haftung des Notars (III ZR 156/07)?",
   "optionen": [
@@ -918,8 +915,7 @@
   "typ": "rf",
   "schwierigkeit": 3,
   "normen": [
-   "§ 1 BNotO",
-   "§ 14 Abs. 1 BNotO"
+   "§ 1 BNotO"
   ],
   "frage": "Nach dem KG muss der Notar beim Kauf eines GmbH-Geschäftsanteils stets eine Unterwerfung wegen des Barkaufpreises vorsehen oder vorschlagen.",
   "antwort": false,
@@ -955,8 +951,7 @@
   "typ": "fall",
   "schwierigkeit": 3,
   "normen": [
-   "BGH III ZR 156/07",
-   "§ 794 Abs. 1 Nr. 5 ZPO"
+   "BGH III ZR 156/07"
   ],
   "frage": "Vorzeitige Übergabe und Kaufpreisunterwerfung",
   "sachverhalt": "V verkauft ein bewohntes Einfamilienhaus an K. Der Kaufpreis soll in Raten gezahlt werden, K soll bereits mit Vertragsschluss einziehen. Der Notar schlägt vor, dass K sich wegen des Kaufpreises der Zwangsvollstreckung unterwirft.",
@@ -1292,9 +1287,7 @@
   "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/vollstreckbare-urkunde-und-unterwerfung/vollstreckungsunterwerfung-grundschuldubernahme-und-isolierte-schuldversprechen",
   "typ": "mc",
   "schwierigkeit": 2,
-  "normen": [
-   "§§ 780, 781 BGB"
-  ],
+  "normen": [],
   "frage": "Der Käufer übernimmt eine bereits eingetragene vollstreckbare Grundschuld des Verkäufers. Wer bleibt Schuldner des abstrakten Schuldversprechens?",
   "optionen": [
    "Der damalige Besteller, in der Regel der Verkäufer",
