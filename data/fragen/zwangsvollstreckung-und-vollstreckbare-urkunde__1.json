@@ -622,5 +622,1108 @@
    }
   ],
   "erklaerung": "Die Unterwerfung wegen der Auflassungspflicht ging ins Leere, weil § 794 Abs. 1 Nr. 5 ZPO Ansprüche auf Abgabe einer Willenserklärung ausnimmt. Mit Rechtskraft des Urteils gilt die Erklärung des V als abgegeben (§ 894 ZPO); N beurkundet nur die Erklärung des K und fügt eine vollstreckbare Ausfertigung des Urteils bei."
+ },
+ {
+  "id": "zwan1-028",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Zwangsvollstreckung: Zustellung des Titels und Wartefrist",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-zustellung-des-titels-und-wartefrist",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 795 ZPO",
+   "§ 798 ZPO"
+  ],
+  "frage": "Wie lange muss nach der Zustellung einer vollstreckbaren notariellen Urkunde mindestens gewartet werden, bevor aus ihr vollstreckt werden darf?",
+  "optionen": [
+   "Zwei Wochen",
+   "Eine Woche",
+   "Einen Monat",
+   "Drei Monate"
+  ],
+  "antwort": 0,
+  "erklaerung": "Aus einer vollstreckbaren notariellen Urkunde darf erst vollstreckt werden, wenn der Titel mindestens zwei Wochen vorher zugestellt wurde (§§ 795, 798 ZPO). Der Zustellungstag zählt bei der Fristberechnung nicht mit (§§ 187, 188 BGB). Die Wartefrist gibt dem Schuldner Zeit für Abwehrmaßnahmen oder freiwillige Leistung; eine Monatsfrist kennt das Gesetz hier nicht."
+ },
+ {
+  "id": "zwan1-029",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Zwangsvollstreckung: Zustellung des Titels und Wartefrist",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-zustellung-des-titels-und-wartefrist",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 750 ZPO",
+   "§ 798 ZPO"
+  ],
+  "frage": "Hat der Schuldner bei der Unterwerfung auf die Wartefrist verzichtet, kann der Gläubiger auch ohne Zustellung des Titels mit der Vollstreckung beginnen.",
+  "antwort": false,
+  "erklaerung": "Der Verzicht betrifft nur die Zwei-Wochen-Frist des § 798 ZPO. Die Zustellung bleibt nach § 750 Abs. 1 ZPO Voraussetzung der Vollstreckung und wird durch den Verzicht nicht ersetzt. Der Verzicht mit der Zustellung zu verwechseln ist der typische Fehler."
+ },
+ {
+  "id": "zwan1-030",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Zwangsvollstreckung: Zustellung des Titels und Wartefrist",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-zustellung-des-titels-und-wartefrist",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 750 Abs. 1 S. 1 Nr. 2 Buchst. b ZPO",
+   "§ 726 Abs. 1 ZPO"
+  ],
+  "frage": "In welchem Fall muss neben dem Titel auch die Klausel zugestellt werden?",
+  "optionen": [
+   "Bei jeder Klausel zu einer vollstreckbaren notariellen Urkunde",
+   "Wenn die Klausel nach § 726 Abs. 1 ZPO erteilt ist oder für oder gegen einen Rechtsnachfolger vollstreckt wird",
+   "Nur wenn der Schuldner auf die Wartefrist verzichtet hat",
+   "Nur wenn die Zustellung im Parteibetrieb erfolgt ist"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Klausel ist nur bei der qualifizierten Klausel (§ 726 Abs. 1 ZPO) und bei Rechtsnachfolge mitzustellen (§ 750 Abs. 1 S. 1 Nr. 2 Buchst. b ZPO). Bei der einfachen Klausel genügt die Zustellung des Titels; der Verzicht auf die Wartefrist hat damit nichts zu tun."
+ },
+ {
+  "id": "zwan1-031",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Zwangsvollstreckung: Zustellung des Titels und Wartefrist",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-zustellung-des-titels-und-wartefrist",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 799 ZPO",
+   "§ 750 Abs. 1 ZPO"
+  ],
+  "frage": "Eine Grundschuld wurde abgetreten, die Abtretung ist im Grundbuch eingetragen, und die Klausel ist für den neuen Gläubiger umgeschrieben. Was muss vor Vollstreckungsbeginn nicht mehr zugestellt werden?",
+  "optionen": [
+   "Die für den neuen Gläubiger erteilte Klausel",
+   "Der Titel selbst",
+   "Die Abtretungserklärung",
+   "Weder Titel noch Klausel noch Abtretungserklärung"
+  ],
+  "antwort": 2,
+  "erklaerung": "Ist der Rechtsnachfolger im Grundbuch eingetragen, muss die Urkunde über die Rechtsnachfolge nicht zugestellt werden (§ 799 ZPO). Die Umschreibung der Klausel bleibt aber nötig, und die umgeschriebene Klausel sowie der Titel müssen weiterhin zugestellt werden."
+ },
+ {
+  "id": "zwan1-032",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Zwangsvollstreckung: Zustellungsarten, Zustellungsmängel und Vollstreckungshindernisse",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-zustellungsarten-zustellungsmangel-und-vollstreckungshindernisse",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§§ 191 ff. ZPO"
+  ],
+  "frage": "Wie werden vollstreckbare notarielle Urkunden grundsätzlich zugestellt?",
+  "optionen": [
+   "Von Amts wegen durch die Geschäftsstelle des Gerichts",
+   "Durch den Notar selbst per Einschreiben",
+   "Im Parteibetrieb über den Gerichtsvollzieher",
+   "Nur zwischen Rechtsanwälten durch Empfangsbekenntnis"
+  ],
+  "antwort": 2,
+  "erklaerung": "Vollstreckbare notarielle Urkunden werden im Parteibetrieb zugestellt (§§ 191 ff. ZPO): Die Partei übergibt dem Gerichtsvollzieher das Schriftstück, und dieser stellt selbst zu oder beauftragt die Post. Die Amtszustellung durch die Geschäftsstelle (§§ 166 ff. ZPO) betrifft vor allem Urteile und Vollstreckungsbescheide."
+ },
+ {
+  "id": "zwan1-033",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Zwangsvollstreckung: Zustellungsarten, Zustellungsmängel und Vollstreckungshindernisse",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-zustellungsarten-zustellungsmangel-und-vollstreckungshindernisse",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [],
+  "frage": "Eine trotz Zustellungsmangels vorgenommene Vollstreckungshandlung ist nichtig.",
+  "antwort": false,
+  "erklaerung": "Sie ist nicht nichtig, sondern nur anfechtbar, und der Zustellungsmangel kann nachträglich geheilt werden. Erkennt das Vollstreckungsorgan den Mangel, lehnt es die Vollstreckung ab."
+ },
+ {
+  "id": "zwan1-034",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Zwangsvollstreckung: Zustellungsarten, Zustellungsmängel und Vollstreckungshindernisse",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-zustellungsarten-zustellungsmangel-und-vollstreckungshindernisse",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 88 Abs. 1 InsO",
+   "§ 88 Abs. 2 InsO"
+  ],
+  "frage": "Ein Insolvenzgläubiger hat durch Zwangsvollstreckung eine Sicherung am Vermögen des Schuldners erlangt. Wann wird sie mit Eröffnung des Regelinsolvenzverfahrens unwirksam?",
+  "optionen": [
+   "Wenn er sie in den letzten drei Monaten vor dem Eröffnungsantrag oder danach erlangt hat",
+   "Wenn er sie im letzten Jahr vor dem Eröffnungsantrag erlangt hat",
+   "Stets, unabhängig vom Zeitpunkt des Erwerbs",
+   "Wenn er sie im letzten Monat vor dem Eröffnungsantrag oder danach erlangt hat"
+  ],
+  "antwort": 3,
+  "erklaerung": "Die Rückschlagsperre erfasst Sicherungen aus dem letzten Monat vor dem Eröffnungsantrag und danach (§ 88 Abs. 1 InsO). Die Dreimonatsfrist gilt nur im Verbraucherinsolvenzverfahren (§ 88 Abs. 2 InsO)."
+ },
+ {
+  "id": "zwan1-035",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Allgemeine Vollstreckungsvoraussetzungen",
+  "seite": "Zwangsvollstreckung: Zustellungsarten, Zustellungsmängel und Vollstreckungshindernisse",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-zustellungsarten-zustellungsmangel-und-vollstreckungshindernisse",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 49 InsO"
+  ],
+  "frage": "Mit Eröffnung des Insolvenzverfahrens kann auch ein eingetragener Grundpfandrechtsgläubiger die Zwangsversteigerung nicht mehr betreiben.",
+  "antwort": false,
+  "erklaerung": "Ein eingetragener Grundpfandrechtsgläubiger kann auch im Insolvenzverfahren die Zwangsversteigerung betreiben (§ 49 InsO). Das Vollstreckungsverbot des § 89 Abs. 1 InsO trifft einzelne Insolvenzgläubiger, nicht aber diese abgesonderte Befriedigung."
+ },
+ {
+  "id": "zwan1-036",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Klauselumschreibung",
+  "seite": "Klauselumschreibung: Abtretung von Forderung und Grundschuld",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/klauselumschreibung/klauselumschreibung-abtretung-von-forderung-und-grundschuld",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 398 BGB",
+   "§ 151 BGB"
+  ],
+  "frage": "Wie weist der Zessionar die Abtretung einer Forderung aus einem abstrakten Schuldanerkenntnis für die Klauselumschreibung nach, wenn der Abtretungsvertrag nicht beurkundet ist?",
+  "optionen": [
+   "Durch öffentlich beglaubigte Erklärung des Zedenten; Annahme und Zugang müssen nicht nachgewiesen werden",
+   "Durch privatschriftliche Abtretung nebst Nachweis der Anzeige an den Schuldner",
+   "Durch öffentlich beglaubigte Erklärung des Zedenten nebst Nachweis der Annahme durch den Zessionar",
+   "Durch eidesstattliche Versicherung des Zessionars"
+  ],
+  "antwort": 0,
+  "erklaerung": "Nach § 727 ZPO sind öffentliche oder öffentlich beglaubigte Urkunden erforderlich; die beglaubigte Erklärung des Zedenten genügt. Annahme und Zugang beim Zedenten müssen nicht belegt werden, weil jedenfalls ein Fall des § 151 BGB vorliegt und der Zessionar mit dem Umschreibungsantrag die Annahme zeigt."
+ },
+ {
+  "id": "zwan1-037",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Klauselumschreibung",
+  "seite": "Klauselumschreibung: Abtretung von Forderung und Grundschuld",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/klauselumschreibung/klauselumschreibung-abtretung-von-forderung-und-grundschuld",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 873 BGB",
+   "§ 891 BGB"
+  ],
+  "frage": "Wie genügt bei einer abgetretenen Buchgrundschuld der Nachweis der Abtretung für die Klauselumschreibung?",
+  "optionen": [
+   "Beglaubigte Abschrift der Abtretungserklärung nebst Nachweis der Einigung",
+   "Beglaubigter Grundbuchauszug oder Einsichtnahme des Notars in das Grundbuch",
+   "Vorlage des Grundschuldbriefs",
+   "Zustimmung des Eigentümers in öffentlicher Urkunde"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Buchgrundschuld wird durch Einigung und Eintragung übertragen (§ 873 BGB). Nach der Eintragung darf sich jeder, auch der Notar, auf das Grundbuch berufen (§ 891 BGB); die Einigung muss nicht nachgewiesen werden. Einen Brief gibt es bei der Buchgrundschuld nicht."
+ },
+ {
+  "id": "zwan1-038",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Klauselumschreibung",
+  "seite": "Klauselumschreibung: Abtretung von Forderung und Grundschuld",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/klauselumschreibung/klauselumschreibung-abtretung-von-forderung-und-grundschuld",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1160 BGB"
+  ],
+  "frage": "Nach der Literatur muss der Gläubiger einer Briefgrundschuld den Grundschuldbrief im Klauselverfahren zwingend vorlegen.",
+  "antwort": false,
+  "erklaerung": "Der Brief kann nach § 1160 BGB erst bei Geltendmachung der Grundschuld verlangt werden, und Grundschuldbestellungsurkunden verzichten dafür regelmäßig auf die Briefvorlage. In der Praxis wird er gleichwohl häufig vorgelegt, als Beleg für Übergang und fortbestehende Inhaberschaft."
+ },
+ {
+  "id": "zwan1-039",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Klauselumschreibung",
+  "seite": "Klauselumschreibung: Abtretung von Forderung und Grundschuld",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/klauselumschreibung/klauselumschreibung-abtretung-von-forderung-und-grundschuld",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 733 ZPO"
+  ],
+  "frage": "Bei Teilabtretung einer Grundschuld ist die Ausfertigung für den neuen Gläubiger über den abgetretenen Teilbetrag eine weitere vollstreckbare Ausfertigung im Sinne von § 733 ZPO.",
+  "antwort": false,
+  "erklaerung": "Es handelt sich nicht um eine weitere Ausfertigung nach § 733 ZPO, weil der Titel insgesamt nicht erweitert wird. Die bisherige Klausel wird teilweise aufgehoben oder eingeschränkt, und ein Rangverhältnis der Teilbeträge ist in der Klausel anzugeben."
+ },
+ {
+  "id": "zwan1-040",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Klauselumschreibung",
+  "seite": "Klauselumschreibung: Abtretung von Forderung und Grundschuld",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/klauselumschreibung/klauselumschreibung-abtretung-von-forderung-und-grundschuld",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 727 ZPO",
+   "§ 891 BGB",
+   "§ 750 ZPO"
+  ],
+  "frage": "Abtretung einer Buchgrundschuld",
+  "sachverhalt": "Die A-Bank hat sich in der Grundschuldbestellungsurkunde wegen der Buchgrundschuld über 200.000 € und aus einem mitbeurkundeten abstrakten Schuldanerkenntnis der sofortigen Zwangsvollstreckung unterworfen. Sie tritt nur die Grundschuld an die B-Bank ab; die Abtretung wird im Grundbuch eingetragen. Das Schuldanerkenntnis wird nicht abgetreten. Die B-Bank beantragt beim Notar die Umschreibung der Klausel.",
+  "schritte": [
+   {
+    "frage": "Für welchen Titel kann die Klausel auf die B-Bank umgeschrieben werden?",
+    "optionen": [
+     "Nur für den dinglichen Titel aus der Grundschuld",
+     "Für den dinglichen und den persönlichen Titel",
+     "Nur für den persönlichen Titel aus dem Schuldanerkenntnis",
+     "Für keinen Titel, solange kein neuer Sicherungsvertrag besteht"
+    ],
+    "antwort": 0,
+    "erklaerung": "Wird nur die Grundschuld abgetreten, kann nur der dingliche Titel umgeschrieben werden. Der Titel aus dem Schuldanerkenntnis lässt sich nur umschreiben, wenn auch dieser Anspruch übertragen wurde."
+   },
+   {
+    "frage": "Wie belegt die B-Bank die Rechtsnachfolge?",
+    "optionen": [
+     "Nur durch öffentlich beglaubigte Abtretungserklärung der A-Bank",
+     "Durch Nachweis des Eintritts in den Sicherungsvertrag",
+     "Durch die Grundbucheintragung der Abtretung, die als offenkundig in der Klausel erwähnt wird",
+     "Durch Vorlage des Grundschuldbriefs"
+    ],
+    "antwort": 2,
+    "erklaerung": "Die eingetragene Abtretung macht die Rechtsnachfolge offenkundig (§ 891 BGB, BGH 23.8.2012); die Klausel muss die Offenkundigkeit erwähnen. Ein beglaubigter Grundbuchauszug oder die Einsicht des Notars genügt."
+   },
+   {
+    "frage": "Was muss vor Vollstreckungsbeginn zugestellt werden?",
+    "optionen": [
+     "Titel, Klausel, Grundbuchabschrift und Abtretungserklärung",
+     "Titel und umgeschriebene Klausel; Grundbuchabschrift und Abtretungsunterlagen sind nicht zuzustellen",
+     "Nur der Titel, da die Rechtsnachfolge offenkundig ist",
+     "Nur die Klausel, da der Titel schon der A-Bank zugestellt wurde"
+    ],
+    "antwort": 1,
+    "erklaerung": "Bei Offenkundigkeit durch Grundbucheintragung entfällt die Zustellung von Grundbuchabschrift und Abtretungsunterlagen (§ 799 ZPO). Die umgeschriebene Klausel bleibt aber nach § 750 ZPO zustellungsbedürftig, ebenso der Titel."
+   }
+  ],
+  "erklaerung": "Mit der Grundschuld allein geht nur der dingliche Titel über. Die eingetragene Abtretung ist offenkundig und in der Klausel zu erwähnen; zuzustellen sind nur Titel und umgeschriebene Klausel."
+ },
+ {
+  "id": "zwan1-041",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Klauselumschreibung",
+  "seite": "Klauselumschreibung: Funktion und Rechtsnachfolge",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/klauselumschreibung/klauselumschreibung-funktion-und-rechtsnachfolge",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 727 ZPO",
+   "§ 795 ZPO"
+  ],
+  "frage": "Welche Norm ist maßgeblich für die Klauselumschreibung bei notariellen Urkunden?",
+  "optionen": [
+   "§ 724 ZPO in Verbindung mit § 794 ZPO",
+   "§ 726 ZPO in Verbindung mit § 797 ZPO",
+   "§ 727 ZPO in Verbindung mit § 795 ZPO",
+   "§ 733 ZPO in Verbindung mit § 795 ZPO"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Umschreibung für den Rechtsnachfolger des Gläubigers und gegen den des Schuldners richtet sich nach § 727 ZPO, für notarielle Urkunden in Verbindung mit § 795 ZPO. § 726 ZPO betrifft die bedingte Klausel, § 733 ZPO die weitere Ausfertigung."
+ },
+ {
+  "id": "zwan1-042",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Klauselumschreibung",
+  "seite": "Klauselumschreibung: Funktion und Rechtsnachfolge",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/klauselumschreibung/klauselumschreibung-funktion-und-rechtsnachfolge",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 797 ZPO",
+   "§ 727 ZPO"
+  ],
+  "frage": "Der Käufer übernimmt eine vollstreckbare Grundschuld und bietet an, sich erneut zu unterwerfen. Der Gläubiger beantragt gleichwohl die Umschreibung. Wie verfährt der Notar?",
+  "optionen": [
+   "Er lehnt ab und beurkundet stattdessen die neue Unterwerfung",
+   "Er erteilt die Klausel erst nach Zustimmung des bisherigen Schuldners",
+   "Er erteilt die Klausel nur zusammen mit einer neuen persönlichen Unterwerfung",
+   "Er erteilt die Rechtsnachfolgeklausel, wenn die Voraussetzungen vorliegen"
+  ],
+  "antwort": 3,
+  "erklaerung": "Bei notariellen Urkunden muss der Notar die Rechtsnachfolgeklausel erteilen (§ 797 ZPO). Er darf nicht ablehnen, um stattdessen eine neue Vollstreckungsunterwerfung zu beurkunden. Die Umschreibung erspart dem Gläubiger Zeit und Kosten."
+ },
+ {
+  "id": "zwan1-043",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Klauselumschreibung",
+  "seite": "Klauselumschreibung: Funktion und Rechtsnachfolge",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/klauselumschreibung/klauselumschreibung-funktion-und-rechtsnachfolge",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§§ 414 ff. BGB",
+   "§ 727 ZPO"
+  ],
+  "frage": "Welche Folge hat eine befreiende Schuldübernahme für die Klauselumschreibung gegen den Übernehmer?",
+  "optionen": [
+   "Sie genügt nach herrschender Meinung nicht; der neue Schuldner muss sich selbst notariell unterwerfen",
+   "Sie genügt, wenn alle Beteiligten mitwirken",
+   "Sie genügt, wenn der Gläubiger zustimmt und die Schuldübernahme beglaubigt ist",
+   "Sie genügt bei Gesamtrechtsnachfolge, nicht aber bei Einzelrechtsnachfolge"
+  ],
+  "antwort": 0,
+  "erklaerung": "Auf Schuldnerseite ist die Umschreibung nur ausnahmsweise möglich. Eine rechtsgeschäftliche befreiende Schuldübernahme erlaubt sie auch bei Mitwirkung aller nicht. Unproblematisch ist dagegen die Gesamtrechtsnachfolge wie Erbfolge oder Umwandlung; der Übernehmer muss sich in notarieller Urkunde selbst unterwerfen."
+ },
+ {
+  "id": "zwan1-044",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Klauselumschreibung",
+  "seite": "Klauselumschreibung: Funktion und Rechtsnachfolge",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/klauselumschreibung/klauselumschreibung-funktion-und-rechtsnachfolge",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 727 ZPO"
+  ],
+  "frage": "Ordne die Art der Rechtsnachfolge auf Gläubigerseite dem passenden Beispiel zu.",
+  "paare": [
+   [
+    "Gesamtrechtsnachfolge",
+    "Erbfolge (§ 1922 BGB)"
+   ],
+   [
+    "Rechtsgeschäftliche Sonderrechtsnachfolge",
+    "Abtretung der Forderung (§ 398 BGB)"
+   ],
+   [
+    "Gesetzlicher Forderungsübergang",
+    "Überleitung im Sozialhilferecht"
+   ],
+   [
+    "Staatsakt",
+    "Pfändung und Überweisung"
+   ]
+  ],
+  "erklaerung": "Jede Rechtsnachfolge beim Gläubiger nach der Beurkundung erlaubt die Umschreibung nach § 727 ZPO. Die Page nennt diese Fallgruppen mit den genannten Beispielen."
+ },
+ {
+  "id": "zwan1-045",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Klauselumschreibung",
+  "seite": "Klauselumschreibung: Funktion und Rechtsnachfolge",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/klauselumschreibung/klauselumschreibung-funktion-und-rechtsnachfolge",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [],
+  "frage": "Der Notar darf die Klausel bei einer Grundschuldübernahme von Amts wegen in einen dinglichen und einen persönlichen Teil aufspalten.",
+  "antwort": false,
+  "erklaerung": "Das Vollstreckungsverfahren ist ein Antragsverfahren. Teilaufhebung und Teilung der Klausel setzen daher einen Antrag des Gläubigers voraus; der Notar darf den bisherigen Schuldner anhören, muss es aber nicht."
+ },
+ {
+  "id": "zwan1-046",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Klauselumschreibung",
+  "seite": "Klauselumschreibung: Funktion und Rechtsnachfolge",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/klauselumschreibung/klauselumschreibung-funktion-und-rechtsnachfolge",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 800 ZPO"
+  ],
+  "frage": "Der Käufer übernimmt eine vollstreckbare Grundschuld, der Gläubiger verlangt zusätzlich persönliche Haftung mit Unterwerfung. Was gilt für das abstrakte Schuldanerkenntnis des Verkäufers?",
+  "optionen": [
+   "Es geht kraft Gesetzes mit dem Eigentum auf den Käufer über",
+   "Es bleibt beim Verkäufer; dieser müsste sich bei Vollstreckung mit der Vollstreckungsabwehrklage wehren",
+   "Es erlischt mit der Grundschuldübernahme",
+   "Es wird durch die Umschreibung nach § 800 ZPO auf den Käufer erstreckt"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Umschreibung wegen der Grundschuld ist über § 800 ZPO ohne Übernahmeerklärung möglich. Die persönliche Haftung muss der Käufer neu beurkunden lassen; die Schuld aus dem Schuldanerkenntnis bleibt beim Verkäufer, gegen den der Gläubiger aus der persönlichen Klausel weiter vollstrecken könnte."
+ },
+ {
+  "id": "zwan1-047",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Klauselumschreibung",
+  "seite": "Klauselumschreibung: Sicherungsvertrag, Auslegung, Rechtsnachfolgekette und Kosten",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/klauselumschreibung/klauselumschreibung-sicherungsvertrag-auslegung-rechtsnachfolgekette-und-kosten",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 727 ZPO",
+   "§ 768 ZPO"
+  ],
+  "frage": "Eine Sicherungsgrundschuld mit bankenüblicher Unterwerfung wird abgetreten; die Unterwerfung knüpft nicht erkennbar an einen Sicherungsvertrag an. Was darf der Notar nach der heutigen Rechtsprechung des BGH (29.6.2011) vom neuen Gläubiger verlangen?",
+  "optionen": [
+   "Keinen Nachweis des Eintritts in den Sicherungsvertrag; er muss die Klausel erteilen",
+   "Den Nachweis des Eintritts in den Sicherungsvertrag",
+   "Die formelle Zustimmung des Schuldners zur Umschreibung",
+   "Einen Vertrag zugunsten des Schuldners als Hilfskonstruktion"
+  ],
+  "antwort": 0,
+  "erklaerung": "Der BGH hat die Frage des Eintritts in den Sicherungsvertrag aus dem Klauselerteilungsverfahren entfernt und eine Auslegung über den Wortlaut hinaus abgelehnt. Die Forderung des Eintritts stammt aus der früheren Rechtsprechung (BGH 2010). Der Schuldner ist durch die Klauselgegenklage (§ 768 ZPO) geschützt."
+ },
+ {
+  "id": "zwan1-048",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Klauselumschreibung",
+  "seite": "Klauselumschreibung: Sicherungsvertrag, Auslegung, Rechtsnachfolgekette und Kosten",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/klauselumschreibung/klauselumschreibung-sicherungsvertrag-auslegung-rechtsnachfolgekette-und-kosten",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 768 ZPO"
+  ],
+  "frage": "Einwendungen aus dem Sicherungsvertrag kann der Kreditnehmer mit der Klauselgegenklage nach § 768 ZPO geltend machen.",
+  "antwort": true,
+  "erklaerung": "Die Klauselgegenklage schützt den Kreditnehmer, nachdem die Prüfung des Sicherungsvertrags aus dem Klauselerteilungsverfahren herausgenommen wurde."
+ },
+ {
+  "id": "zwan1-049",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Klauselumschreibung",
+  "seite": "Klauselumschreibung: Sicherungsvertrag, Auslegung, Rechtsnachfolgekette und Kosten",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/klauselumschreibung/klauselumschreibung-sicherungsvertrag-auslegung-rechtsnachfolgekette-und-kosten",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 726 ZPO"
+  ],
+  "frage": "Eine Finanzierungsgrundschuld darf nur zur Kaufpreiszahlung verwendet oder valutiert werden. Wie ist diese Bestimmung regelmäßig einzuordnen?",
+  "optionen": [
+   "Als Vollstreckungsbedingung, die der Notar nach § 726 ZPO prüfen muss",
+   "Als aufschiebende Bedingung der Grundschuldbestellung",
+   "Als Einschränkung der Unterwerfung, die den Nachweis der Valutierung erfordert",
+   "Als Sicherungszweckerklärung, nicht als Vollstreckungsbedingung"
+  ],
+  "antwort": 3,
+  "erklaerung": "Solche Verwendungsbestimmungen betreffen regelmäßig den Sicherungszweck und keine Bedingung der Vollstreckung. Gegen eine Vollstreckungsbedingung spricht auch, wenn das Formular die sofortige Erteilung einer vollstreckbaren Ausfertigung erlaubt. Echte Bedingungen muss der Notar dagegen nach § 726 ZPO beachten."
+ },
+ {
+  "id": "zwan1-050",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Klauselumschreibung",
+  "seite": "Klauselumschreibung: Sicherungsvertrag, Auslegung, Rechtsnachfolgekette und Kosten",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/klauselumschreibung/klauselumschreibung-sicherungsvertrag-auslegung-rechtsnachfolgekette-und-kosten",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "KV 23803 GNotKG"
+  ],
+  "frage": "Welche Gebühr entsteht für die Klauselumschreibung nach dem GNotKG?",
+  "optionen": [
+   "Eine volle Gebühr",
+   "Eine halbe Gebühr",
+   "Eine Viertelgebühr",
+   "Eine doppelte Gebühr"
+  ],
+  "antwort": 1,
+  "erklaerung": "Für die Klauselumschreibung entsteht eine halbe Gebühr (KV 23803 GNotKG). Bei Grundpfandrechten bemisst sich der Geschäftswert nach dem Nominalbetrag."
+ },
+ {
+  "id": "zwan1-051",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Klauselumschreibung",
+  "seite": "Klauselumschreibung: Sicherungsvertrag, Auslegung, Rechtsnachfolgekette und Kosten",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/klauselumschreibung/klauselumschreibung-sicherungsvertrag-auslegung-rechtsnachfolgekette-und-kosten",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 727 ZPO"
+  ],
+  "frage": "Entdeckt der Notar bei einer Umschreibung einen Fehler einer früheren Umschreibung, bindet ihn deren Beurteilung.",
+  "antwort": false,
+  "erklaerung": "Die frühere Beurteilung und Klausel bindet den Notar nicht. Bei jeder Umschreibung erstreckt er seine Prüfung nach § 727 ZPO auf die gesamte Kette der Rechtsnachfolgen; dazu ist er berechtigt und gehalten."
+ },
+ {
+  "id": "zwan1-052",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Klauselumschreibung",
+  "seite": "Klauselumschreibung: Umwandlung, Namensänderung, Eigentumserwerb und Erbfolge",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/klauselumschreibung/klauselumschreibung-umwandlung-namensanderung-eigentumserwerb-und-erbfolge",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 750 ZPO"
+  ],
+  "frage": "Der Gläubiger wurde verschmolzen. Welcher Nachweis genügt für die Klauselumschreibung nicht?",
+  "optionen": [
+   "Die berichtigte Gläubigerbezeichnung im Grundbuch",
+   "Ein beglaubigter Handelsregisterausdruck",
+   "Die eigene Registereinsicht des Notars",
+   "Ein beglaubigter Genossenschaftsregisterausdruck"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Verschmelzung ist ein Fall der Offenkundigkeit durch das Register des übernehmenden Rechtsträgers. Der Notar hat die Rechtsnachfolge eigenständig zu prüfen und darf sich nicht auf das Grundbuchamt verlassen. Verweist die Klausel auf Registerauszüge, sind diese mit zuzustellen (§ 750 ZPO)."
+ },
+ {
+  "id": "zwan1-053",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Klauselumschreibung",
+  "seite": "Klauselumschreibung: Umwandlung, Namensänderung, Eigentumserwerb und Erbfolge",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/klauselumschreibung/klauselumschreibung-umwandlung-namensanderung-eigentumserwerb-und-erbfolge",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 727 ZPO"
+  ],
+  "frage": "Nur der Name des Gläubigers ändert sich. Wie ist zu verfahren?",
+  "optionen": [
+   "Die Klausel ist stets auf den neuen Namen umzuschreiben, mit halber Gebühr",
+   "Keine Umschreibung nötig; der Notar kann einen gebührenfreien klarstellenden Zusatz anbringen",
+   "Der Notar muss zwingend einen klarstellenden Zusatz anbringen",
+   "Der Gläubiger muss sich erneut unterwerfen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Bei bloßer Namensänderung und beim Formwechsel nach dem UmwG ist keine Umschreibung nötig. Der Zusatz ist keine Pflicht und nach dem GNotKG gebührenfrei, setzt aber entsprechend § 727 ZPO Urkunden oder Offenkundigkeit voraus. Ohne Zusatz weist der Gläubiger dem Vollstreckungsorgan die Personenidentität nach."
+ },
+ {
+  "id": "zwan1-054",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Klauselumschreibung",
+  "seite": "Klauselumschreibung: Umwandlung, Namensänderung, Eigentumserwerb und Erbfolge",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/klauselumschreibung/klauselumschreibung-umwandlung-namensanderung-eigentumserwerb-und-erbfolge",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 1943 BGB"
+  ],
+  "frage": "Der Schuldner stirbt vor Vollstreckungsbeginn. Wann ist die Umschreibung auf den Erben möglich?",
+  "optionen": [
+   "Sofort mit dem Erbfall",
+   "Erst mit Eintragung des Erben im Grundbuch",
+   "Sobald der Erbe die Erbschaft angenommen oder die Ausschlagungsfrist versäumt hat",
+   "Erst nach Ablauf eines Jahres seit dem Erbfall"
+  ],
+  "antwort": 2,
+  "erklaerung": "Vor Vollstreckungsbeginn setzt die Umschreibung die Annahme der Erbschaft voraus; gleich steht das Versäumen der Ausschlagungsfrist (§ 1943 BGB). Nachgewiesen wird dies durch Erbschein oder öffentliches Testament mit Eröffnungsprotokoll."
+ },
+ {
+  "id": "zwan1-055",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Klauselumschreibung",
+  "seite": "Klauselumschreibung: Umwandlung, Namensänderung, Eigentumserwerb und Erbfolge",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/klauselumschreibung/klauselumschreibung-umwandlung-namensanderung-eigentumserwerb-und-erbfolge",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 779 ZPO"
+  ],
+  "frage": "Stirbt der Schuldner nach Beginn der Vollstreckung, ist keine Umschreibung nötig, solange weiter nur in den Nachlass vollstreckt wird.",
+  "antwort": true,
+  "erklaerung": "Hat die Vollstreckung schon zu Lebzeiten begonnen, wird sie nach § 779 ZPO in den Nachlass fortgesetzt. Für eine Vollstreckung in das übrige Vermögen des Erben gilt das nicht."
+ },
+ {
+  "id": "zwan1-056",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Klauselumschreibung",
+  "seite": "Klauselumschreibung: Umwandlung, Namensänderung, Eigentumserwerb und Erbfolge",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/klauselumschreibung/klauselumschreibung-umwandlung-namensanderung-eigentumserwerb-und-erbfolge",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 727 ZPO"
+  ],
+  "frage": "Ordne den Fall der Rechtsnachfolge dem passenden Nachweis zu.",
+  "paare": [
+   [
+    "Verschmelzung des Gläubigers",
+    "Beglaubigter Registerausdruck oder Registereinsicht des Notars"
+   ],
+   [
+    "Eigentumserwerb des Grundstücks",
+    "Beglaubigte Grundbuchabschrift oder Grundbucheinsicht des Notars"
+   ],
+   [
+    "Erbfolge auf Schuldnerseite",
+    "Erbschein oder öffentliches Testament mit Eröffnungsprotokoll"
+   ],
+   [
+    "Abtretung einer Forderung",
+    "Öffentlich beglaubigte Erklärung des Zedenten"
+   ]
+  ],
+  "erklaerung": "Die Nachweise folgen aus den Quellen der Rechtsnachfolge: Register bei Verschmelzung, Grundbuch bei Eigentumserwerb (jeweils Offenkundigkeit), Erbschein oder öffentliches Testament bei Erbfolge und beglaubigte Erklärung bei Abtretung."
+ },
+ {
+  "id": "zwan1-057",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Pfändung: Kaufpreisanspruch beim Grundstückskaufvertrag",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/pfandung-kaufpreisanspruch-beim-grundstuckskaufvertrag",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§§ 828 ff. ZPO"
+  ],
+  "frage": "Wer ist bei der Pfändung des Kaufpreisanspruchs des Verkäufers durch dessen Gläubiger Drittschuldner?",
+  "optionen": [
+   "Der Verkäufer",
+   "Der Käufer",
+   "Der Notar",
+   "Der Grundpfandrechtsgläubiger"
+  ],
+  "antwort": 1,
+  "erklaerung": "Der Kaufpreisanspruch ist pfändbar (§§ 828 ff. ZPO); er richtet sich gegen den Käufer, der damit Drittschuldner ist. Nach Zustellung des PfüB an ihn kann der Pfändungsgläubiger die Forderung anstelle des Verkäufers einziehen."
+ },
+ {
+  "id": "zwan1-058",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Pfändung: Kaufpreisanspruch beim Grundstückskaufvertrag",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/pfandung-kaufpreisanspruch-beim-grundstuckskaufvertrag",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§§ 835, 836 ZPO"
+  ],
+  "frage": "Der Kaufvertrag enthält eine Ablösungsabrede, nach der der gesamte Kaufpreis an Grundpfandrechtsgläubiger fließt. Ein Gläubiger des Verkäufers pfändet den Kaufpreisanspruch. Mit welchem Ergebnis?",
+  "optionen": [
+   "Der Pfändungsgläubiger geht den Grundpfandrechtsgläubigern vor",
+   "Der Käufer muss zusätzlich an den Pfändungsgläubiger zahlen",
+   "Pfändung und Überweisung gehen ins Leere; die Forderung gegen den Verkäufer besteht fort",
+   "Die Pfändung ist unwirksam, weil der Kaufpreis zweckgebunden ist"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Zweckbindung ist Inhalt der Kaufpreisforderung, und der Pfändungsgläubiger erwirbt nicht mehr Rechte als der Verkäufer. Bleibt nach der Ablösung nichts übrig, hat eine Klage gegen den Käufer keinen Erfolg. Die Forderung gegen den Verkäufer bleibt aber bestehen."
+ },
+ {
+  "id": "zwan1-059",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Pfändung: Kaufpreisanspruch beim Grundstückskaufvertrag",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/pfandung-kaufpreisanspruch-beim-grundstuckskaufvertrag",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§§ 835, 836 ZPO"
+  ],
+  "frage": "Nach Zustellung des Pfändungs- und Überweisungsbeschlusses kann der Käufer weiter mit befreiender Wirkung an den Verkäufer zahlen.",
+  "antwort": false,
+  "erklaerung": "Nach der Pfändung kann der Käufer weder an den Verkäufer noch an einen Grundpfandrechtsgläubiger mit befreiender Wirkung gegenüber dem Pfändungsgläubiger zahlen (§§ 835, 836 ZPO)."
+ },
+ {
+  "id": "zwan1-060",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Pfändung: Kaufpreisanspruch beim Grundstückskaufvertrag",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/pfandung-kaufpreisanspruch-beim-grundstuckskaufvertrag",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§§ 828 ff. ZPO",
+   "§§ 835, 836 ZPO"
+  ],
+  "frage": "Pfändung des Kaufpreises",
+  "sachverhalt": "V verkauft ein Grundstück an K für 280.000 €. Auf dem Grundstück lastet eine Grundschuld der Bank über 300.000 €. Der Kaufvertrag verpflichtet K, den gesamten Kaufpreis zur Ablösung an die Bank zu zahlen. Der Gläubiger G des V erwirkt einen Pfändungs- und Überweisungsbeschluss über den Kaufpreisanspruch.",
+  "schritte": [
+   {
+    "frage": "Wer ist Drittschuldner, und was erlangt G?",
+    "optionen": [
+     "Die Bank ist Drittschuldnerin; G erlangt Vorrang vor ihr",
+     "K ist Drittschuldner; G erlangt nur die Rechtsposition des V",
+     "V ist Drittschuldner; G erlangt den Anspruch auf Auflassung",
+     "K ist Drittschuldner; G erlangt Anspruch auf den vollen Kaufpreis"
+    ],
+    "antwort": 1,
+    "erklaerung": "Bei der Pfändung des Kaufpreisanspruchs ist der Käufer Drittschuldner. Der Pfändungsgläubiger erwirbt nicht mehr Rechte als der Verkäufer und muss die Zweckbindung hinnehmen."
+   },
+   {
+    "frage": "Was kann G von K verlangen?",
+    "optionen": [
+     "Nichts, da nach der Ablösung für V und damit für G nichts verbleibt",
+     "Den Kaufpreis abzüglich der Grundschuld",
+     "Den vollen Kaufpreis, da die Ablösungsabrede ihm gegenüber unwirksam ist",
+     "Zahlung an sich, aber nur Zug um Zug gegen Löschungsbewilligung"
+    ],
+    "antwort": 0,
+    "erklaerung": "Fließt der volle Kaufpreis an die Ablösungsgläubiger, geht die Pfändung ins Leere. G kann nicht erfolgreich gegen K klagen; seine Forderung gegen V besteht fort."
+   },
+   {
+    "frage": "Wäre die Lage anders, wenn die Ablösungsabrede nur mündlich außerhalb des Vertrags getroffen worden wäre?",
+    "optionen": [
+     "Nein, mündliche Abreden binden den Pfändungsgläubiger ebenso",
+     "Nein, der Notar haftet nur für Abreden in der Urkunde und nie für Pfändungsfolgen",
+     "Ja; K könnte nur eingeschränkt auf die Abrede verweisen, und dem Notar droht Haftung",
+     "Ja, G könnte dann vom Notar Zahlung verlangen"
+    ],
+    "antwort": 2,
+    "erklaerung": "Die Zweckbindung muss im Vertrag stehen. Das OLG Köln hat einen Notar auf Schadensersatz verurteilt, weil die Ablösungsbestimmung nur außerhalb des Vertrags besprochen war und K die Grundpfandrechtsgläubiger befriedigte und dadurch das Pfandrecht verletzte."
+   }
+  ],
+  "erklaerung": "Der Käufer ist Drittschuldner; wegen der im Vertrag verankerten Zweckbindung läuft die Pfändung ins Leere. Die Ablösungsanweisung gehört in den Vertrag, sonst droht Notarhaftung."
+ },
+ {
+  "id": "zwan1-061",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Pfändung: Notaranderkonto",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/pfandung-notaranderkonto",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "BGH V ZB 37/15"
+  ],
+  "frage": "Was muss ein Gläubiger des Verkäufers nach der heutigen Rechtsprechung pfänden, um auch den Auszahlungsanspruch gegen den Notar zu erfassen, wenn der Kaufpreis auf Anderkonto liegt?",
+  "optionen": [
+   "Den Auskehrungsanspruch gegen den Notar isoliert",
+   "Kaufpreisanspruch und Auskehrungsanspruch gemeinsam (Doppelpfändung)",
+   "Das Notaranderkonto selbst",
+   "Den Kaufpreisanspruch gegen den Käufer; eine zusätzliche Pfändung des Auskehrungsanspruchs ist nicht nötig"
+  ],
+  "antwort": 3,
+  "erklaerung": "Nach BGH, Beschluss vom 09.06.2016, V ZB 37/15 erfasst das Pfandrecht am Kaufpreisanspruch automatisch den Anspruch auf Auszahlung gegen den Notar. Die Doppelpfändung entspricht der früheren Rechtsprechung. Der PfüB nennt daher nur den Käufer als Drittschuldner."
+ },
+ {
+  "id": "zwan1-062",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Pfändung: Notaranderkonto",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/pfandung-notaranderkonto",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 804 Abs. 3 ZPO",
+   "§ 829 Abs. 3 ZPO"
+  ],
+  "frage": "Welcher Zeitpunkt bestimmt den Rang mehrerer Pfändungen des Kaufpreisanspruchs?",
+  "optionen": [
+   "Die Zustellung des Pfändungsbeschlusses an den Käufer als Drittschuldner",
+   "Die Zustellung an den Notar",
+   "Der Eingang des Pfändungsantrags beim Vollstreckungsgericht",
+   "Der Erlass des Pfändungsbeschlusses"
+  ],
+  "antwort": 0,
+  "erklaerung": "Der Rang richtet sich nach dem Wirksamwerden (§ 804 Abs. 3 ZPO), und das ist die Zustellung an den Drittschuldner (§ 829 Abs. 3 ZPO), hier den Käufer. Eine Zustellung an den Notar ist für die Pfändung nicht erforderlich."
+ },
+ {
+  "id": "zwan1-063",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Pfändung: Notaranderkonto",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/pfandung-notaranderkonto",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "analog § 10 Abs. 1 Hs. 2 ZVG"
+  ],
+  "frage": "Reicht der Erlös bei gleichrangigen Pfandrechten nicht für alle Forderungen, wird er zu gleichen Teilen auf die Pfändungsgläubiger verteilt.",
+  "antwort": false,
+  "erklaerung": "Der Erlös wird im Verhältnis der gesicherten Forderungen aufgeteilt (analog § 10 Abs. 1 Hs. 2 ZVG), nicht nach Köpfen."
+ },
+ {
+  "id": "zwan1-064",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Pfändung: Notaranderkonto",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/pfandung-notaranderkonto",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 840 Abs. 1 ZPO"
+  ],
+  "frage": "Zur Drittschuldnererklärung nach § 840 Abs. 1 ZPO ist bei Anderkontoabwicklung der Notar verpflichtet.",
+  "antwort": false,
+  "erklaerung": "Zur Drittschuldnererklärung verpflichtet ist der Käufer als Drittschuldner des Kaufpreisanspruchs. Der Notar ist dazu nicht verpflichtet."
+ },
+ {
+  "id": "zwan1-065",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Pfändung: Notaranderkonto",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/pfandung-notaranderkonto",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 771 ZPO"
+  ],
+  "frage": "Ein Gläubiger des Notars pfändet das Notaranderkonto. Womit kann sich der Treugeber wehren?",
+  "optionen": [
+   "Mit der Vollstreckungsabwehrklage nach § 767 ZPO",
+   "Mit dem Widerspruchsrecht nach § 771 ZPO",
+   "Mit der Klauselgegenklage nach § 768 ZPO",
+   "Mit der Drittschuldnererklärung nach § 840 ZPO"
+  ],
+  "antwort": 1,
+  "erklaerung": "Das Anderkonto ist ein Konto des Notars; seine Gläubiger können es grundsätzlich pfänden. Der Treugeber wehrt sich mit dem Widerspruchsrecht nach § 771 ZPO. Die Klauselgegenklage betrifft dagegen das Klauselverfahren."
+ },
+ {
+  "id": "zwan1-066",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Zwangshypothek",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangshypothek",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "Zwangshypothek"
+  ],
+  "frage": "Ab welchem Betrag wird eine Zwangshypothek eingetragen?",
+  "optionen": [
+   "Schon ab 500 €",
+   "Wenn ihr Betrag 1.500 € übersteigt",
+   "Wenn ihr Betrag 750 € übersteigt",
+   "Ab jedem Betrag"
+  ],
+  "antwort": 2,
+  "erklaerung": "Die Zwangshypothek wird nur eingetragen, wenn ihr Betrag 750 € übersteigt. Bei mehreren Grundstücken muss der Gläubiger die Forderung auf die einzelnen Grundstücke aufteilen."
+ },
+ {
+  "id": "zwan1-067",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Zwangshypothek",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangshypothek",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 1184 BGB",
+   "§ 1185 BGB"
+  ],
+  "frage": "Welche Rechtsnatur hat die Zwangshypothek?",
+  "optionen": [
+   "Sicherungshypothek, die als Buchhypothek ohne Brief eingetragen wird",
+   "Verkehrshypothek, für die auf Antrag ein Brief erteilt wird",
+   "Grundschuld, die ohne Titel eingetragen wird",
+   "Sicherungshypothek, bei der der Gläubiger zwischen Brief und Buch wählen kann"
+  ],
+  "antwort": 0,
+  "erklaerung": "Die Zwangshypothek ist kraft Gesetzes Sicherungshypothek (§ 1184 BGB) und Buchhypothek; ein Brief wird nicht erteilt (§ 1185 BGB). Die Eintragung muss sie ausdrücklich als Sicherungshypothek kennzeichnen."
+ },
+ {
+  "id": "zwan1-068",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Zwangshypothek",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangshypothek",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 17 Abs. 1 ZVG",
+   "§ 1147 BGB"
+  ],
+  "frage": "Das Grundstück wechselt nach Eintragung der Zwangshypothek den Eigentümer. Warum genügt dem Gläubiger der Titel gegen den bisherigen Eigentümer nicht für die Zwangsversteigerung?",
+  "optionen": [
+   "Die Zwangshypothek erlischt mit dem Eigentumswechsel",
+   "Die Versteigerung darf nur angeordnet werden, wenn der Schuldner als Eigentümer im Grundbuch eingetragen ist",
+   "Der Titel ist nach dem Eigentumswechsel nicht mehr vollstreckbar",
+   "Das Vollstreckungsgericht prüft die Identität nur bei Briefrechten"
+  ],
+  "antwort": 1,
+  "erklaerung": "Nach § 17 Abs. 1 ZVG muss der Schuldner als Eigentümer eingetragen sein. Der Gläubiger braucht einen Duldungstitel gegen den neuen Eigentümer (§ 1147 BGB), den er in gesondertem Verfahren erstreitet. Die Zwangshypothek erlischt nicht."
+ },
+ {
+  "id": "zwan1-069",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Zwangshypothek",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangshypothek",
+  "typ": "rf",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 800 ZPO"
+  ],
+  "frage": "Hat sich der Käufer als künftiger Eigentümer wegen der Grundschuld der Vollstreckung unterworfen und ist er inzwischen als Eigentümer eingetragen, muss der Titel nicht auf ihn umgeschrieben werden.",
+  "antwort": true,
+  "erklaerung": "Die Unterwerfung des damals künftigen Eigentümers wirkt gegen ihn, sobald er eingetragen ist, sodass eine Umschreibung entfällt. Bei bloßer Unterwerfung nach § 800 ZPO gegen den jeweiligen Eigentümer wäre dagegen die Umschreibung nötig."
+ },
+ {
+  "id": "zwan1-070",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Zwangshypothek",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangshypothek",
+  "typ": "fall",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 17 Abs. 1 ZVG",
+   "§ 1147 BGB",
+   "§ 800 ZPO"
+  ],
+  "frage": "Versteigerung nach Eigentümerwechsel",
+  "sachverhalt": "G hat gegen S aus einem Urteil eine Zwangshypothek eintragen lassen. S verkauft das Grundstück an K, der als Eigentümer eingetragen wird. G möchte nun aus der Zwangshypothek die Zwangsversteigerung betreiben.",
+  "schritte": [
+   {
+    "frage": "Genügt der Titel gegen S?",
+    "optionen": [
+     "Ja, nach § 867 Abs. 3 ZPO genügt der Titel mit Eintragungsvermerk immer",
+     "Nein, G braucht einen Titel gegen K",
+     "Ja, das Vollstreckungsorgan prüft die Identität nicht",
+     "Nein, die Zwangshypothek ist mit dem Verkauf erloschen"
+    ],
+    "antwort": 1,
+    "erklaerung": "Die Versteigerung darf nur angeordnet werden, wenn der Schuldner als Eigentümer im Grundbuch steht (§ 17 Abs. 1 ZVG). Nach dem Eigentumswechsel ist ein Duldungstitel gegen K nötig."
+   },
+   {
+    "frage": "Wie erlangt G den Titel gegen K?",
+    "optionen": [
+     "Durch Duldungsklage nach § 1147 BGB",
+     "Durch Antrag auf Umschreibung der Klausel gegen K",
+     "Durch Eintragung einer weiteren Zwangshypothek",
+     "Durch einseitige Erklärung gegenüber dem Grundbuchamt"
+    ],
+    "antwort": 0,
+    "erklaerung": "Die Hypothek berechtigt zur Forderung der Duldung der Zwangsvollstreckung, die der Gläubiger einklagen muss (§ 1147 BGB). Eine Umschreibung kommt nur bei einem Titel nach § 800 ZPO in Betracht."
+   },
+   {
+    "frage": "Was wäre für G schneller und günstiger gewesen?",
+    "optionen": [
+     "Ein Titel gegen S mit Nachweisverzicht",
+     "Ein Vorgehen allein gegen S persönlich",
+     "Ein im Grundbuch vermerkter Titel nach § 800 ZPO, der auf K umgeschrieben wird",
+     "Eine zusätzliche Arrestanordnung"
+    ],
+    "antwort": 2,
+    "erklaerung": "Besteht ein Titel nach § 800 ZPO mit Grundbuchvermerk, wirkt er gegen den jeweiligen Eigentümer und kann auf den neuen Eigentümer umgeschrieben werden. Das ist deutlich schneller und günstiger als die Duldungsklage."
+   }
+  ],
+  "erklaerung": "Nach dem Eigentümerwechsel braucht G einen Duldungstitel gegen K (§ 17 Abs. 1 ZVG, § 1147 BGB). Mit einem Titel nach § 800 ZPO genügte die Umschreibung."
+ },
+ {
+  "id": "zwan1-071",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Zwangsversteigerung: geringstes Gebot und Rangklassen",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-geringstes-gebot-und-rangklassen",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 44 Abs. 1 ZVG",
+   "§ 52 Abs. 1 ZVG"
+  ],
+  "frage": "Was geschieht mit Rechten der Abteilungen II und III, die Vorrang vor dem Recht des betreibenden Gläubigers haben?",
+  "optionen": [
+   "Sie erlöschen mit dem Zuschlag und werden aus dem Erlös befriedigt",
+   "Sie erlöschen nur, wenn der Ersteher zustimmt",
+   "Sie ruhen bis zur Verteilung des Erlöses",
+   "Sie bestehen nach dem Zuschlag fort und sind vom Erwerber zu übernehmen"
+  ],
+  "antwort": 3,
+  "erklaerung": "Vorrangige Rechte bleiben bestehen (§§ 52 Abs. 1, 44 Abs. 1 ZVG). Nur Rechte mit gleichem oder schlechterem Rang als das Recht des betreibenden Gläubigers erlöschen mit dem Zuschlag (§§ 52 Abs. 1 S. 2, 91 Abs. 1 ZVG)."
+ },
+ {
+  "id": "zwan1-072",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Zwangsversteigerung: geringstes Gebot und Rangklassen",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-geringstes-gebot-und-rangklassen",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 52 Abs. 2 S. 2 Buchst. a ZVG",
+   "§ 9 Abs. 3 S. 1 Nr. 1 ErbbauRG"
+  ],
+  "frage": "Welches Recht erlischt trotz Gleich- oder Nachrang nicht mit dem Zuschlag?",
+  "optionen": [
+   "Eine nachrangige Grundschuld",
+   "Eine Erbbauzinsreallast, für die als Inhalt das Bestehenbleiben in der Versteigerung vereinbart ist",
+   "Eine gleichrangige Hypothek",
+   "Eine nach der Beschlagnahme eingetragene Grundschuld"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Erbbauzinsreallast mit der entsprechenden Inhaltsvereinbarung bleibt bestehen (§ 52 Abs. 2 S. 2 Buchst. a ZVG, § 9 Abs. 3 S. 1 Nr. 1 ErbbauRG). Gleich- und nachrangige Grundpfandrechte erlöschen dagegen nach § 91 Abs. 1 ZVG."
+ },
+ {
+  "id": "zwan1-073",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Zwangsversteigerung: geringstes Gebot und Rangklassen",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-geringstes-gebot-und-rangklassen",
+  "typ": "zuordnung",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 10 ZVG"
+  ],
+  "frage": "Ordne die Rangklasse des § 10 ZVG dem jeweiligen Anspruch zu.",
+  "paare": [
+   [
+    "Rangklasse 2",
+    "Beitragsansprüche bei der Vollstreckung in ein Wohnungseigentum"
+   ],
+   [
+    "Rangklasse 3",
+    "Öffentliche Grundstückslasten wie die Grundsteuer"
+   ],
+   [
+    "Rangklasse 4",
+    "Vor der Beschlagnahme eingetragene dingliche Rechte"
+   ],
+   [
+    "Rangklasse 6",
+    "Nach der Beschlagnahme eingetragene dingliche Rechte"
+   ]
+  ],
+  "erklaerung": "Die Rangklassen nach § 10 ZVG bestimmen die Reihenfolge der Befriedigung. Dingliche Rechte aus der Zeit vor der Beschlagnahme stehen in Rangklasse 4, spätere Eintragungen in Rangklasse 6."
+ },
+ {
+  "id": "zwan1-074",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Zwangsversteigerung: geringstes Gebot und Rangklassen",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-geringstes-gebot-und-rangklassen",
+  "typ": "mc",
+  "schwierigkeit": 1,
+  "normen": [
+   "§ 44 ZVG"
+  ],
+  "frage": "Aus welchen beiden Teilen besteht das geringste Gebot?",
+  "optionen": [
+   "Aus Verkehrswert und Verfahrenskosten",
+   "Aus Grundschuldkapital und Zinsen",
+   "Aus den bestehen bleibenden Rechten und dem bar zu zahlenden Teil",
+   "Aus Rangklasse 1 bis 4 und den Rückständen"
+  ],
+  "antwort": 2,
+  "erklaerung": "Das geringste Gebot umfasst die wegen ihres Vorrangs bestehen bleibenden Rechte und den bar zu zahlenden Teil. Dieser deckt mindestens die Verfahrenskosten, häufig kommen öffentlich-rechtliche Lasten und Nebenleistungen bestehen bleibender Rechte hinzu."
+ },
+ {
+  "id": "zwan1-075",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Zwangsversteigerung: Grundschuldzinsen",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-grundschuldzinsen",
+  "typ": "mc",
+  "schwierigkeit": 2,
+  "normen": [
+   "§ 13 ZVG"
+  ],
+  "frage": "Welche Zinsen eines Grundpfandrechts sind in Rangklasse 4 gesichert?",
+  "optionen": [
+   "Nur die laufenden Beträge",
+   "Die laufenden Beträge und die Rückstände aus zwei Jahren",
+   "Die laufenden Beträge und die Rückstände aus vier Jahren",
+   "Sämtliche rückständigen Zinsen"
+  ],
+  "antwort": 1,
+  "erklaerung": "Die Begrenzung erlaubt dem Gläubiger, Zahlungen risikolos zu stunden, und dem Eigentümer, nachrangig weiter zu beleihen. Ältere Rückstände fallen nicht in Rangklasse 4; die Vierjahresfrist gilt für öffentliche Lasten der Rangklasse 3."
+ },
+ {
+  "id": "zwan1-076",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Zwangsversteigerung: Grundschuldzinsen",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-grundschuldzinsen",
+  "typ": "mc",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 56 S. 2 ZVG"
+  ],
+  "frage": "Bis wann werden die Zinsen eines in der Versteigerung erlöschenden Rechts berechnet?",
+  "optionen": [
+   "Bis zum Tag vor der Verteilung",
+   "Bis zum Tag vor dem Zuschlag",
+   "Bis zum Tag der Beschlagnahme",
+   "Bis zum Tag des Versteigerungstermins"
+  ],
+  "antwort": 0,
+  "erklaerung": "Bei einem erlöschenden Recht laufen die Zinsen bis zum Tag vor der Verteilung (§ 56 S. 2 ZVG). Nur bei einem bestehen bleibenden Recht endet die Berechnung am Tag vor dem Zuschlag."
+ },
+ {
+  "id": "zwan1-077",
+  "kapitel": "zwangsvollstreckung-und-vollstreckbare-urkunde",
+  "abschnitt": "Pfändung, Zwangshypothek und Zwangsversteigerung",
+  "seite": "Zwangsversteigerung: Grundschuldzinsen",
+  "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/pfandung-zwangshypothek-und-zwangsversteigerung/zwangsversteigerung-grundschuldzinsen",
+  "typ": "rf",
+  "schwierigkeit": 3,
+  "normen": [
+   "§ 13 ZVG"
+  ],
+  "frage": "Die zwei Jahre gesicherter Rückstände werden ab dem Tag der Beschlagnahme zurückgerechnet.",
+  "antwort": false,
+  "erklaerung": "Maßgeblich ist der letzte Fälligkeitstermin der Zinsen vor der Beschlagnahme. Der Zeitraum, für den diese Zinsen geschuldet werden, ist der erste laufende Zeitraum, und ab dessen Beginn werden die zwei Jahre zurückgerechnet."
  }
 ]
