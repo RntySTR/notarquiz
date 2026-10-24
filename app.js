@@ -57,10 +57,10 @@ function esc(s) { return String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;
 function fmt(n) { return Number(n || 0).toLocaleString('de-DE'); }
 
 function leererFortschritt() {
-  return { v: 1, fragen: {}, xp: 0, tage: {}, abz: {}, einst: { ziel: 15, theme: 'system', code: '' }, zaehler: { sitzungen: 0, faelleRichtig: 0, blitzBest: 0, fehlerfreiRunde: false, saniert: 0 }, aktualisiert: 0 };
+  return { v: 1, fragen: {}, xp: 0, tage: {}, abz: {}, einst: { ziel: 10, theme: 'system', code: '' }, zaehler: { sitzungen: 0, faelleRichtig: 0, blitzBest: 0, fehlerfreiRunde: false, saniert: 0 }, aktualisiert: 0 };
 }
 function ladeLokal() {
-  try { const r = localStorage.getItem(LS_KEY); if (r) { const p = JSON.parse(r); return Object.assign(leererFortschritt(), p, { einst: Object.assign({ ziel: 15, theme: 'system', code: '' }, p.einst || {}), zaehler: Object.assign({ sitzungen: 0, faelleRichtig: 0, blitzBest: 0, fehlerfreiRunde: false, saniert: 0 }, p.zaehler || {}) }); } } catch (e) { }
+  try { const r = localStorage.getItem(LS_KEY); if (r) { const p = JSON.parse(r); return Object.assign(leererFortschritt(), p, { einst: Object.assign({ ziel: 10, theme: 'system', code: '' }, p.einst || {}), zaehler: Object.assign({ sitzungen: 0, faelleRichtig: 0, blitzBest: 0, fehlerfreiRunde: false, saniert: 0 }, p.zaehler || {}) }); } } catch (e) { }
   return leererFortschritt();
 }
 function speichere() {
