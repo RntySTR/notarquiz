@@ -734,7 +734,9 @@
   "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/allgemeine-vollstreckungsvoraussetzungen/zwangsvollstreckung-zustellungsarten-zustellungsmangel-und-vollstreckungshindernisse",
   "typ": "rf",
   "schwierigkeit": 2,
-  "normen": [],
+  "normen": [
+   "§ 750 ZPO"
+  ],
   "frage": "Eine trotz Zustellungsmangels vorgenommene Vollstreckungshandlung ist nichtig.",
   "antwort": false,
   "erklaerung": "Sie ist nicht nichtig, sondern nur anfechtbar, und der Zustellungsmangel kann nachträglich geheilt werden. Erkennt das Vollstreckungsorgan den Mangel, lehnt es die Vollstreckung ab."
@@ -831,9 +833,9 @@
   "normen": [
    "§ 1160 BGB"
   ],
-  "frage": "Nach der Literatur muss der Gläubiger einer Briefgrundschuld den Grundschuldbrief im Klauselverfahren zwingend vorlegen.",
-  "antwort": false,
-  "erklaerung": "Der Brief kann nach § 1160 BGB erst bei Geltendmachung der Grundschuld verlangt werden, und Grundschuldbestellungsurkunden verzichten dafür regelmäßig auf die Briefvorlage. In der Praxis wird er gleichwohl häufig vorgelegt, als Beleg für Übergang und fortbestehende Inhaberschaft."
+  "frage": "Nach der Literatur muss der Gläubiger einer Briefgrundschuld den Grundschuldbrief im Klauselverfahren nicht vorlegen.",
+  "antwort": true,
+  "erklaerung": "Der Brief kann nach § 1160 BGB erst bei Geltendmachung der Grundschuld verlangt werden, und Grundschuldbestellungsurkunden verzichten dafür regelmäßig auf die Briefvorlage. In der Praxis wird er gleichwohl häufig vorgelegt, als Beleg für Übergang und fortbestehende Inhaberschaft; verlangt ist er nicht."
  },
  {
   "id": "zwan1-039",
@@ -998,7 +1000,7 @@
     "Pfändung und Überweisung"
    ]
   ],
-  "erklaerung": "Jede Rechtsnachfolge beim Gläubiger nach der Beurkundung erlaubt die Umschreibung nach § 727 ZPO. Die Page nennt diese Fallgruppen mit den genannten Beispielen."
+  "erklaerung": "Jede Rechtsnachfolge beim Gläubiger nach der Beurkundung erlaubt die Umschreibung nach § 727 ZPO, gleich ob Gesamtrechtsnachfolge, Sonderrechtsnachfolge, gesetzlicher Forderungsübergang oder Staatsakt."
  },
  {
   "id": "zwan1-045",
@@ -1008,7 +1010,9 @@
   "quelle": "handbuch-mit-notarwissen/zwangsvollstreckung-und-vollstreckbare-urkunde/klauselumschreibung/klauselumschreibung-funktion-und-rechtsnachfolge",
   "typ": "rf",
   "schwierigkeit": 3,
-  "normen": [],
+  "normen": [
+   "§ 727 ZPO"
+  ],
   "frage": "Der Notar darf die Klausel bei einer Grundschuldübernahme von Amts wegen in einen dinglichen und einen persönlichen Teil aufspalten.",
   "antwort": false,
   "erklaerung": "Das Vollstreckungsverfahren ist ein Antragsverfahren. Teilaufhebung und Teilung der Klausel setzen daher einen Antrag des Gläubigers voraus; der Notar darf den bisherigen Schuldner anhören, muss es aber nicht."
@@ -1054,7 +1058,7 @@
    "Einen Vertrag zugunsten des Schuldners als Hilfskonstruktion"
   ],
   "antwort": 0,
-  "erklaerung": "Der BGH hat die Frage des Eintritts in den Sicherungsvertrag aus dem Klauselerteilungsverfahren entfernt und eine Auslegung über den Wortlaut hinaus abgelehnt. Die Forderung des Eintritts stammt aus der früheren Rechtsprechung (BGH 2010). Der Schuldner ist durch die Klauselgegenklage (§ 768 ZPO) geschützt."
+  "erklaerung": "Der BGH hat die Frage des Eintritts in den Sicherungsvertrag aus dem Klauselerteilungsverfahren entfernt und eine Auslegung über den Wortlaut hinaus abgelehnt; der Notar erteilt die Klausel. Das Verlangen nach Eintritt stammt aus der früheren Rechtsprechung (BGH 2010). Der Schuldner ist durch die Klauselgegenklage (§ 768 ZPO) geschützt."
  },
  {
   "id": "zwan1-048",
@@ -1124,9 +1128,9 @@
   "normen": [
    "§ 727 ZPO"
   ],
-  "frage": "Entdeckt der Notar bei einer Umschreibung einen Fehler einer früheren Umschreibung, bindet ihn deren Beurteilung.",
-  "antwort": false,
-  "erklaerung": "Die frühere Beurteilung und Klausel bindet den Notar nicht. Bei jeder Umschreibung erstreckt er seine Prüfung nach § 727 ZPO auf die gesamte Kette der Rechtsnachfolgen; dazu ist er berechtigt und gehalten."
+  "frage": "Bei jeder Umschreibung erstreckt der Notar seine Prüfung nach § 727 ZPO auf die gesamte Kette der Rechtsnachfolgen und ist an die Beurteilung früherer Umschreibungen nicht gebunden.",
+  "antwort": true,
+  "erklaerung": "Entdeckt der Notar einen Fehler einer früheren Umschreibung, bindet ihn deren Beurteilung und Klausel nicht. Er ist berechtigt und gehalten, die gesamte Kette der Rechtsnachfolgen nach § 727 ZPO zu prüfen."
  },
  {
   "id": "zwan1-052",
@@ -1333,15 +1337,15 @@
     "erklaerung": "Fließt der volle Kaufpreis an die Ablösungsgläubiger, geht die Pfändung ins Leere. G kann nicht erfolgreich gegen K klagen; seine Forderung gegen V besteht fort."
    },
    {
-    "frage": "Wäre die Lage anders, wenn die Ablösungsabrede nur mündlich außerhalb des Vertrags getroffen worden wäre?",
+    "frage": "Welches Risiko besteht, wenn die Ablösungsabrede nur außerhalb des Vertrags besprochen wurde?",
     "optionen": [
-     "Nein, mündliche Abreden binden den Pfändungsgläubiger ebenso",
-     "Nein, der Notar haftet nur für Abreden in der Urkunde und nie für Pfändungsfolgen",
-     "Ja; K könnte nur eingeschränkt auf die Abrede verweisen, und dem Notar droht Haftung",
-     "Ja, G könnte dann vom Notar Zahlung verlangen"
+     "Der Pfändungsgläubiger erhält die Pfändung wirksam am gesamten Kaufpreis, ohne dass K sich wehren kann",
+     "Der Notar haftet auf Schadensersatz, wenn K die Grundpfandrechtsgläubiger befriedigt und dadurch das Pfandrecht verletzt",
+     "Der Kaufvertrag ist wegen der fehlenden Abrede unwirksam",
+     "Der Notar muss das Pfandrecht des G aus eigenem Vermögen ablösen"
     ],
-    "antwort": 2,
-    "erklaerung": "Die Zweckbindung muss im Vertrag stehen. Das OLG Köln hat einen Notar auf Schadensersatz verurteilt, weil die Ablösungsbestimmung nur außerhalb des Vertrags besprochen war und K die Grundpfandrechtsgläubiger befriedigte und dadurch das Pfandrecht verletzte."
+    "antwort": 1,
+    "erklaerung": "Die Zweckbindung gehört in den Vertrag. Das OLG Köln hat einen Notar auf Schadensersatz verurteilt, weil die Ablösungsbestimmung nur außerhalb des Vertrags besprochen war und der Käufer die Grundpfandrechtsgläubiger befriedigte und so das Pfandrecht verletzte. Der Vertrag wird dadurch nicht unwirksam."
    }
   ],
   "erklaerung": "Der Käufer ist Drittschuldner; wegen der im Vertrag verankerten Zweckbindung läuft die Pfändung ins Leere. Die Ablösungsanweisung gehört in den Vertrag, sonst droht Notarhaftung."
@@ -1355,7 +1359,7 @@
   "typ": "mc",
   "schwierigkeit": 2,
   "normen": [
-   "BGH V ZB 37/15"
+   "§ 829 Abs. 3 ZPO"
   ],
   "frage": "Was muss ein Gläubiger des Verkäufers nach der heutigen Rechtsprechung pfänden, um auch den Auszahlungsanspruch gegen den Notar zu erfassen, wenn der Kaufpreis auf Anderkonto liegt?",
   "optionen": [
@@ -1415,9 +1419,9 @@
   "normen": [
    "§ 840 Abs. 1 ZPO"
   ],
-  "frage": "Zur Drittschuldnererklärung nach § 840 Abs. 1 ZPO ist bei Anderkontoabwicklung der Notar verpflichtet.",
-  "antwort": false,
-  "erklaerung": "Zur Drittschuldnererklärung verpflichtet ist der Käufer als Drittschuldner des Kaufpreisanspruchs. Der Notar ist dazu nicht verpflichtet."
+  "frage": "Zur Drittschuldnererklärung nach § 840 Abs. 1 ZPO ist bei Anderkontoabwicklung der Käufer als Drittschuldner verpflichtet, der Notar dagegen nicht.",
+  "antwort": true,
+  "erklaerung": "Drittschuldner des Kaufpreisanspruchs ist der Käufer; er muss die Erklärung nach § 840 Abs. 1 ZPO abgeben. Der Notar ist zur Abgabe einer Drittschuldnererklärung nicht verpflichtet."
  },
  {
   "id": "zwan1-065",
@@ -1449,7 +1453,7 @@
   "typ": "mc",
   "schwierigkeit": 1,
   "normen": [
-   "Zwangshypothek"
+   "§ 1184 BGB"
   ],
   "frage": "Ab welchem Betrag wird eine Zwangshypothek eingetragen?",
   "optionen": [
