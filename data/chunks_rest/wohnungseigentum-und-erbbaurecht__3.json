@@ -1,0 +1,41 @@
+{
+ "kapitel": "wohnungseigentum-und-erbbaurecht",
+ "kapitel_titel": "Wohnungseigentum und Erbbaurecht",
+ "teil": 3,
+ "teile": 5,
+ "datei": "data/fragen/wohnungseigentum-und-erbbaurecht__3.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/mehrhausanlage-untergemeinschaften-in-der-gemeinschaftsordnung",
+   "titel": "Mehrhausanlage: Untergemeinschaften in der Gemeinschaftsordnung",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/offnungsklausel-und-wirkung-von-beschlussen-gegenuber-sondernachfolgern",
+   "titel": "Öffnungsklausel und Wirkung von Beschlüssen gegenüber Sondernachfolgern",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/sondernutzungsrechte-begrundung-bestimmtheit-und-eintragung",
+   "titel": "Sondernutzungsrechte: Begründung, Bestimmtheit und Eintragung",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/sondernutzungsrechte-spatere-zuweisung-bedingungslosung",
+   "titel": "Sondernutzungsrechte: spätere Zuweisung – Bedingungslösung",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/sondernutzungsrechte-spatere-zuweisung-parklosung-und-personliches-sondernutzungsrecht",
+   "titel": "Sondernutzungsrechte: spätere Zuweisung – Parklösung und persönliches Sondernutzungsrecht",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/sondernutzungsrechte-umfang-kosten-berechtigte-und-belastung",
+   "titel": "Sondernutzungsrechte: Umfang, Kosten, Berechtigte und Belastung",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  }
+ ],
+ "praefix": "wohn3",
+ "start": 47
+}

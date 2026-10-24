@@ -1,0 +1,41 @@
+{
+ "kapitel": "wohnungseigentum-und-erbbaurecht",
+ "kapitel_titel": "Wohnungseigentum und Erbbaurecht",
+ "teil": 1,
+ "teile": 5,
+ "datei": "data/fragen/wohnungseigentum-und-erbbaurecht__1.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/grundungsmangel-dingliche-rechtslage-innenverhaltnis-und-isolierter-miteigentumsanteil",
+   "titel": "Gründungsmängel: dingliche Rechtslage, Innenverhältnis und isolierter Miteigentumsanteil",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/grundungsmangel-falsche-zweckbestimmung-und-widerspruch-zwischen-teilungserklarung-und-aufteilungsplan",
+   "titel": "Gründungsmängel: falsche Zweckbestimmung und Widerspruch zwischen Teilungserklärung und Aufteilungsplan",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/mehrhausanlage-abschnittsweise-begrundung-von-wohnungseigentum",
+   "titel": "Mehrhausanlage: abschnittsweise Begründung von Wohnungseigentum",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/miteigentumsanteile-bemessung-anderung-und-verbindung-mit-sondereigentum",
+   "titel": "Miteigentumsanteile: Bemessung, Änderung und Verbindung mit Sondereigentum",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondereigentumsfahigkeit-gebaudeteile-leitungen-und-heizungen",
+   "titel": "Sondereigentumsfähigkeit: Gebäudeteile, Leitungen und Heizungen",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/sondereigentumsfahigkeit-raumbegriff-balkone-terrassen-und-mehrere-gebaude",
+   "titel": "Sondereigentumsfähigkeit: Raumbegriff, Balkone, Terrassen und mehrere Gebäude",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  }
+ ],
+ "praefix": "wohn1",
+ "start": 47
+}

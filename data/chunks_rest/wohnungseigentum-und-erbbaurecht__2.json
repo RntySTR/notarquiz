@@ -1,0 +1,56 @@
+{
+ "kapitel": "wohnungseigentum-und-erbbaurecht",
+ "kapitel_titel": "Wohnungseigentum und Erbbaurecht",
+ "teil": 2,
+ "teile": 5,
+ "datei": "data/fragen/wohnungseigentum-und-erbbaurecht__2.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungs-und-teileigentum-wohnung-nebenraume-und-selbstandiges-teileigentum",
+   "titel": "Wohnungs- und Teileigentum: Wohnung, Nebenräume und selbständiges Teileigentum",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungs-und-teileigentum-zweckbestimmung-und-zweckwidrige-nutzung",
+   "titel": "Wohnungs- und Teileigentum: Zweckbestimmung und zweckwidrige Nutzung",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungseigentum-und-uberbau-tiefgarage-eigengrenzuberbau-und-uberhangende-bauteile",
+   "titel": "Wohnungseigentum und Überbau: Tiefgarage, Eigengrenzüberbau und überhängende Bauteile",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungseigentum-und-uberbau-voraussetzungen-nachweis-und-sicherung",
+   "titel": "Wohnungseigentum und Überbau: Voraussetzungen, Nachweis und Sicherung",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungseigentum-motive-vorratsteilung-und-alternativen-zur-begrundung",
+   "titel": "Wohnungseigentum: Motive, Vorratsteilung und Alternativen zur Begründung",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungseigentum-sondereigentum-gemeinschaftseigentum-und-miteigentumsanteil",
+   "titel": "Wohnungseigentum: Sondereigentum, Gemeinschaftseigentum und Miteigentumsanteil",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/begrundung-von-wohnungseigentum/wohnungsgrundbuch-anlegung-bezugnahme-und-eintragung-von-sondernutzungsrechten",
+   "titel": "Wohnungsgrundbuch: Anlegung, Bezugnahme und Eintragung von Sondernutzungsrechten",
+   "abschnitt": "Begründung von Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/beschluss-der-wohnungseigentumer-beschlusskompetenz-anfechtbarkeit-und-nichtigkeit",
+   "titel": "Beschluss der Wohnungseigentümer: Beschlusskompetenz, Anfechtbarkeit und Nichtigkeit",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/eigentumerversammlung-durchfuhrung-online-teilnahme-umlaufbeschluss-und-niederschrift",
+   "titel": "Eigentümerversammlung: Durchführung, Online-Teilnahme, Umlaufbeschluss und Niederschrift",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  }
+ ],
+ "praefix": "wohn2",
+ "start": 33
+}

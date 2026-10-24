@@ -1,0 +1,56 @@
+{
+ "kapitel": "wohnungseigentum-und-erbbaurecht",
+ "kapitel_titel": "Wohnungseigentum und Erbbaurecht",
+ "teil": 4,
+ "teile": 5,
+ "datei": "data/fragen/wohnungseigentum-und-erbbaurecht__4.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/gemeinschaft-der-wohnungseigentumer-und-verwaltung/zweckbestimmung-des-sondereigentums-und-nutzungsbeschrankungen",
+   "titel": "Zweckbestimmung des Sondereigentums und Nutzungsbeschränkungen",
+   "abschnitt": "Gemeinschaft der Wohnungseigentümer und Verwaltung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/anderung-der-gemeinschaftsordnung-umwandlung-von-wohnungs-und-teileigentum-aufhebung-eines-sondernutzungsrechts",
+   "titel": "Änderung der Gemeinschaftsordnung: Umwandlung von Wohnungs- und Teileigentum, Aufhebung eines Sondernutzungsrechts",
+   "abschnitt": "Veränderungen am Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/anderung-der-gemeinschaftsordnung-vereinbarung-anderungsanspruch-und-zustimmung-dinglich-berechtigter",
+   "titel": "Änderung der Gemeinschaftsordnung: Vereinbarung, Änderungsanspruch und Zustimmung dinglich Berechtigter",
+   "abschnitt": "Veränderungen am Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/bauliche-veranderungen-beschluss-grenzen-und-anspruche",
+   "titel": "Bauliche Veränderungen: Beschluss, Grenzen und Ansprüche",
+   "abschnitt": "Veränderungen am Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/bauliche-veranderungen-kosten-und-nutzungen-wiederaufbau-und-steckengebliebener-bau",
+   "titel": "Bauliche Veränderungen: Kosten und Nutzungen, Wiederaufbau und steckengebliebener Bau",
+   "abschnitt": "Veränderungen am Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/ubertragung-eines-sondernutzungsrechts",
+   "titel": "Übertragung eines Sondernutzungsrechts",
+   "abschnitt": "Veränderungen am Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/umwandlung-von-sonder-und-gemeinschaftseigentum-und-spatere-anbauten",
+   "titel": "Umwandlung von Sonder- und Gemeinschaftseigentum und spätere Anbauten",
+   "abschnitt": "Veränderungen am Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/unterteilung-von-wohnungseigentum-zustimmungen-grundbuchnachweise-und-stimmrecht",
+   "titel": "Unterteilung von Wohnungseigentum: Zustimmungen, Grundbuchnachweise und Stimmrecht",
+   "abschnitt": "Veränderungen am Wohnungseigentum"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/wohnungseigentum-und-erbbaurecht/veranderungen-am-wohnungseigentum/veranderungen-am-aufgeteilten-grundstuck-teilflache-hinzuerwerb-und-unschadlichkeitszeugnis",
+   "titel": "Veränderungen am aufgeteilten Grundstück: Teilfläche, Hinzuerwerb und Unschädlichkeitszeugnis",
+   "abschnitt": "Veränderungen am Wohnungseigentum"
+  }
+ ],
+ "praefix": "wohn4",
+ "start": 41
+}

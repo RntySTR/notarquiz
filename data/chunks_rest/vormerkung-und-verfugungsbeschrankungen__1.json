@@ -1,0 +1,66 @@
+{
+ "kapitel": "vormerkung-und-verfugungsbeschrankungen",
+ "kapitel_titel": "Vormerkung und Verfügungsbeschränkungen",
+ "teil": 1,
+ "teile": 1,
+ "datei": "data/fragen/vormerkung-und-verfugungsbeschrankungen__1.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/umwandlungsgenehmigung-nach-250-baugb-genehmigungsanspruch-grundbuchsperre-und-negativattest",
+   "titel": "Umwandlungsgenehmigung nach § 250 BauGB: Genehmigungsanspruch, Grundbuchsperre und Negativattest",
+   "abschnitt": "Verfügungsbeschränkungen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/verfugungsbeschrankungen-gerichtliche-verfugungsverbote-insolvenz-nachlassverwaltung-testamentsvollstreckung",
+   "titel": "Verfügungsbeschränkungen: gerichtliche Verfügungsverbote, Insolvenz, Nachlassverwaltung, Testamentsvollstreckung",
+   "abschnitt": "Verfügungsbeschränkungen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/verfugungsbeschrankungen-offentliches-recht",
+   "titel": "Verfügungsbeschränkungen: öffentliches Recht",
+   "abschnitt": "Verfügungsbeschränkungen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/verfugungsbeschrankungen/verfugungsbeschrankungen-privatrecht-nacherbenvermerk-und-widerspruch",
+   "titel": "Verfügungsbeschränkungen: Privatrecht, Nacherbenvermerk und Widerspruch",
+   "abschnitt": "Verfügungsbeschränkungen"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-bewilligung-urteil-einstweilige-verfugung-und-eintragung",
+   "titel": "Vormerkung: Bewilligung, Urteil, einstweilige Verfügung und Eintragung",
+   "abschnitt": "Vormerkung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-erloschen-und-gutglaubiger-erwerb",
+   "titel": "Vormerkung: Erlöschen und gutgläubiger Erwerb",
+   "abschnitt": "Vormerkung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-gestaltung-im-grundstuckskaufvertrag",
+   "titel": "Vormerkung: Gestaltung im Grundstückskaufvertrag",
+   "abschnitt": "Vormerkung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-rang-relative-unwirksamkeit-und-wirksamkeitsvermerk",
+   "titel": "Vormerkung: Rang, relative Unwirksamkeit und Wirksamkeitsvermerk",
+   "abschnitt": "Vormerkung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-vormerkbarer-anspruch-und-genehmigungserfordernisse",
+   "titel": "Vormerkung: vormerkbarer Anspruch und Genehmigungserfordernisse",
+   "abschnitt": "Vormerkung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-zwangsversteigerung-und-insolvenz",
+   "titel": "Vormerkung: Zwangsversteigerung und Insolvenz",
+   "abschnitt": "Vormerkung"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vormerkung-und-verfugungsbeschrankungen/vormerkung/vormerkung-zweck-und-arten",
+   "titel": "Vormerkung: Zweck und Arten",
+   "abschnitt": "Vormerkung"
+  }
+ ],
+ "praefix": "vorm1",
+ "start": 48
+}

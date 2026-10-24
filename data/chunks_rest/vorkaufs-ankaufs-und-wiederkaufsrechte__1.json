@@ -1,0 +1,41 @@
+{
+ "kapitel": "vorkaufs-ankaufs-und-wiederkaufsrechte",
+ "kapitel_titel": "Vorkaufs-, Ankaufs- und Wiederkaufsrechte",
+ "teil": 1,
+ "teile": 1,
+ "datei": "data/fragen/vorkaufs-ankaufs-und-wiederkaufsrechte__1.json",
+ "seiten": [
+  {
+   "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/vorkaufsrecht-der-gemeinde-nach-dem-baugb-preislimitierte-ausubung-ausubung-zugunsten-dritter-und-negativattest",
+   "titel": "Vorkaufsrecht der Gemeinde nach dem BauGB: preislimitierte Ausübung, Ausübung zugunsten Dritter und Negativattest",
+   "abschnitt": "Gesetzliche Vorkaufsrechte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/vorkaufsrecht-der-gemeinde-nach-dem-baugb-tatbestande-mitteilung-und-ausubung",
+   "titel": "Vorkaufsrecht der Gemeinde nach dem BauGB: Tatbestände, Mitteilung und Ausübung",
+   "abschnitt": "Gesetzliche Vorkaufsrechte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/vorkaufsrecht-der-gemeinde-nach-dem-baugb-vorkaufsfalle-und-tatbestande-24-25-baugb",
+   "titel": "Vorkaufsrecht der Gemeinde nach dem BauGB: Vorkaufsfälle und Tatbestände (§§ 24, 25 BauGB)",
+   "abschnitt": "Gesetzliche Vorkaufsrechte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/vorkaufsrecht-der-miterben",
+   "titel": "Vorkaufsrecht der Miterben",
+   "abschnitt": "Gesetzliche Vorkaufsrechte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/weitere-gesetzliche-vorkaufsrechte-siedlungsrecht-landesrecht-mieter",
+   "titel": "Weitere gesetzliche Vorkaufsrechte: Siedlungsrecht, Landesrecht, Mieter",
+   "abschnitt": "Gesetzliche Vorkaufsrechte"
+  },
+  {
+   "path": "handbuch-mit-notarwissen/vorkaufs-ankaufs-und-wiederkaufsrechte/gesetzliche-vorkaufsrechte/weitere-offentlich-rechtliche-vorkaufsrechte-naturschutz-hochwasserschutz-fachplanungs-und-landesrecht",
+   "titel": "Weitere öffentlich-rechtliche Vorkaufsrechte: Naturschutz, Hochwasserschutz, Fachplanungs- und Landesrecht",
+   "abschnitt": "Gesetzliche Vorkaufsrechte"
+  }
+ ],
+ "praefix": "vork1",
+ "start": 59
+}
