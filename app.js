@@ -3,7 +3,7 @@
 'use strict';
 
 /* ========== Konfiguration ========== */
-const VERSION = '1.0.0';
+const VERSION = '1.1.0';
 const LS_KEY = 'notarquiz_v1';
 const FIREBASE_KONFIG = {
   apiKey: "AIzaSyDEHNm4XPxgA52EzHaPLxjWS_I-7W2uaOg",
@@ -155,13 +155,22 @@ function faelligeIds() { const tag = heute(); return FRAGEN.filter(q => istFaell
 function neueFragen(filter) { return mische(FRAGEN.filter(q => istNeu(q.id) && (!filter || filter(q)))); }
 function schwachstellen() { return FRAGEN.filter(q => { const e = P.fragen[q.id]; return e && e.f > 0 && e.b < 3; }).sort((a, b) => (P.fragen[b.id].f - P.fragen[b.id].b) - (P.fragen[a.id].f - P.fragen[a.id].b)); }
 
-function rundeTagesziel(n) {
-  const faellig = faelligeIds().filter(q => q.typ !== 'fall');
-  let liste = faellig.slice(0, Math.max(0, n - Math.min(3, n)));
-  const rest = n - liste.length;
-  liste = liste.concat(neueFragen(q => q.typ !== 'fall').slice(0, rest));
-  if (liste.length < n) liste = liste.concat(mische(FRAGEN.filter(q => q.typ !== 'fall' && !liste.includes(q))).slice(0, n - liste.length));
-  return mische(liste);
+const WDH_MAX = 5;
+function themaHeute() {
+  const t = P.thema; const tag = heute();
+  if (t && t.datum === tag && KAPITEL.some(k => k.slug === t.slug)) return t.slug;
+  const kand = KAPITEL.map(k => ({ k, s: gebietStand(k.slug) })).filter(x => x.s.gesamt >= 5);
+  kand.sort((a, b) => a.s.prozent - b.s.prozent || a.k.slug.localeCompare(b.k.slug));
+  const slug = (kand[0] || { k: KAPITEL[0] }).k.slug;
+  P.thema = { datum: tag, slug }; speichere();
+  return slug;
+}
+function rundeTagesziel(n, slug) {
+  const tag = heute();
+  const pool = FRAGEN.filter(q => q.typ !== 'fall' && q.kapitel === slug);
+  const thema = mische(pool.filter(q => istNeu(q.id))).concat(mische(pool.filter(q => !istNeu(q.id) && !istFaellig(q.id, tag)))).slice(0, n);
+  const wdh = faelligeIds().filter(q => q.typ !== 'fall' && !thema.includes(q)).slice(0, WDH_MAX);
+  return { thema: mische(thema), wdh };
 }
 function rundeZufall(n, filter) {
   const pool = FRAGEN.filter(q => q.typ !== 'fall' && (!filter || filter(q)));
@@ -196,6 +205,7 @@ function verschmelze(a, b) {
   r.abz = Object.assign({}, b.abz, a.abz);
   const za = a.zaehler || {}, zb = b.zaehler || {};
   r.zaehler = { sitzungen: Math.max(za.sitzungen || 0, zb.sitzungen || 0), faelleRichtig: Math.max(za.faelleRichtig || 0, zb.faelleRichtig || 0), blitzBest: Math.max(za.blitzBest || 0, zb.blitzBest || 0), fehlerfreiRunde: !!(za.fehlerfreiRunde || zb.fehlerfreiRunde), saniert: Math.max(za.saniert || 0, zb.saniert || 0) };
+  r.thema = a.thema || b.thema;
   r.aktualisiert = Math.max(a.aktualisiert || 0, b.aktualisiert || 0);
   return r;
 }
@@ -270,7 +280,7 @@ function renderHome() {
   const tag = heute(); const t = P.tage[tag] || { n: 0, r: 0 }; const ziel = P.einst.ziel;
   const anteil = Math.min(1, t.n / ziel); const U = 2 * Math.PI * 64;
   const st = streakBerechnen(); const faellig = faelligeIds().length; const schwach = schwachstellen().length;
-  const lv = levelInfo();
+  const lv = levelInfo(); const thema = themaHeute();
   const datum = new Date().toLocaleDateString('de-DE', { weekday: 'long', day: 'numeric', month: 'long' });
   app.innerHTML = `
     <div class="kopf"><h1>Notarquiz</h1><span class="datum">${esc(datum)}</span></div>
@@ -288,7 +298,8 @@ function renderHome() {
     </div>
     ${tagesfrageHtml()}
     <div class="modi">
-      <button class="modus primaer" data-modus="tagesziel"><span class="ikon">${ICON.ziel}</span><span><h3>Tagesrunde</h3><div class="sub">Fällige Wiederholungen und neue Fragen gemischt</div></span><span class="zahl">${ziel}<small>Fragen</small></span></button>
+      <button class="modus primaer" data-modus="tagesziel"><span class="ikon">${ICON.ziel}</span><span><h3>Tagesrunde</h3><div class="sub">${esc(KAP[thema] || '')}${faellig ? ' · plus ' + Math.min(faellig, WDH_MAX) + ' Wiederholung' + (Math.min(faellig, WDH_MAX) > 1 ? 'en' : '') : ''}</div></span><span class="zahl">${ziel}<small>Fragen</small></span></button>
+      <label class="thema-zeile">Thema heute<select id="thema">${KAPITEL.map(k => `<option value="${k.slug}" ${k.slug === thema ? 'selected' : ''}>${esc(k.titel)}</option>`).join('')}</select></label>
       <button class="modus" data-modus="zufall"><span class="ikon">${ICON.zufall}</span><span><h3>Zufall</h3><div class="sub">Quer durch alle Gebiete</div></span><span class="zahl">${fmt(FRAGEN.length)}<small>im Pool</small></span></button>
       <button class="modus" data-modus="gebiete"><span class="ikon">${ICON.gebiet}</span><span><h3>Rechtsgebiet</h3><div class="sub">Gezielt ein Kapitel, wählbare Schwierigkeit</div></span><span class="zahl">${KAPITEL.length}<small>Gebiete</small></span></button>
       <button class="modus" data-modus="schwach" ${schwach < 3 ? 'disabled style="opacity:.55"' : ''}><span class="ikon">${ICON.schwach}</span><span><h3>Schwachstellen</h3><div class="sub">${schwach < 3 ? 'Erst ab drei falsch beantworteten Fragen' : 'Fragen, die zuletzt daneben gingen'}</div></span><span class="zahl">${schwach}<small>offen</small></span></button>
@@ -296,6 +307,7 @@ function renderHome() {
       <button class="modus" data-modus="fall"><span class="ikon">${ICON.fall}</span><span><h3>Fallstudien</h3><div class="sub">Mehrstufige Fälle mit Gestaltungsfragen</div></span><span class="zahl">${FRAGEN.filter(q => q.typ === 'fall').length}<small>Fälle</small></span></button>
     </div>`;
   app.querySelectorAll('[data-modus]').forEach(b => b.onclick = () => starteModus(b.dataset.modus));
+  document.getElementById('thema').onchange = e => { P.thema = { datum: heute(), slug: e.target.value }; speichere(); renderHome(); };
   const tf = document.getElementById('tagesfrage'); if (tf) tf.onclick = () => { const q = frageDesTages(); starteSitzung({ modus: 'tagesfrage', titel: 'Frage des Tages', fragen: [q] }); };
 }
 function tagesfrageHtml() {
@@ -394,7 +406,7 @@ function themeAnwenden() { const t = P.einst.theme; if (t === 'system') document
 /* ========== Runde ========== */
 function starteModus(m) {
   const n = P.einst.ziel;
-  if (m === 'tagesziel') return starteSitzung({ modus: 'tagesziel', titel: 'Tagesrunde', fragen: rundeTagesziel(n) });
+  if (m === 'tagesziel') { const slug = themaHeute(); const r = rundeTagesziel(n, slug); return starteSitzung({ modus: 'tagesziel', titel: 'Tagesrunde', fragen: r.thema.concat(r.wdh), wdhAb: r.thema.length }); }
   if (m === 'zufall') return starteSitzung({ modus: 'zufall', titel: 'Zufall', fragen: rundeZufall(n) });
   if (m === 'gebiete') return setzeTab('gebiete');
   if (m === 'schwach') return starteSitzung({ modus: 'schwach', titel: 'Schwachstellen', fragen: mische(schwachstellen()).slice(0, n) });
@@ -411,11 +423,16 @@ function abbrechen() { if (sitzung.timer) clearInterval(sitzung.timer); if (sitz
 function gradHtml(g) { return `<span class="grad" title="Schwierigkeit ${g}">${[1, 2, 3].map(i => `<i class="${i <= g ? 'an' : ''}"></i>`).join('')}</span>`; }
 function quelleHtml(q) { return `<div class="quelle">${esc(q.seite)} · <a href="${WISSEN_URL}${esc(q.quelle)}" target="_blank" rel="noopener">im Handbuch nachlesen</a></div>`; }
 function normenHtml(q) { return q.normen && q.normen.length ? `<div class="normen">${q.normen.map(n => `<button class="norm" data-norm="${esc(n)}">${esc(n)}</button>`).join('')}</div>` : ''; }
-document.addEventListener('click', e => { const b = e.target.closest('[data-norm]'); if (b) oeffneNorm(b.dataset.norm); });
+document.addEventListener('click', e => { const b = e.target.closest('[data-norm]'); if (b) { e.preventDefault(); e.stopPropagation(); oeffneNorm(b.dataset.norm); } }, true);
 
 /* ========== Gesetzestexte (Overlay) ========== */
 const GESETZ_SLUG = { BGB: 'bgb', BNotO: 'bnoto', BeurkG: 'beurkg', GBO: 'gbo', GNotKG: 'gnotkg', GmbHG: 'gmbhg', HGB: 'hgb', InsO: 'inso', FamFG: 'famfg', ZPO: 'zpo', ZVG: 'zvg', UmwG: 'umwg-1995', ErbStG: 'erbstg-1974', GrEStG: 'grestg-1983', GwG: 'gwg-2017', WEG: 'woeigg', WoEigG: 'woeigg', ErbbauRG: 'erbbauv', ErbbauVO: 'erbbauv', BauGB: 'bbaug', AktG: 'aktg', GenG: 'geng', PartGG: 'partgg', LPartG: 'lpartg', NotAktVV: 'notaktvv', PStG: 'pstg', VwVfG: 'vwvfg', BewG: 'bewg', GBV: 'gbvfg', GrdstVG: 'grdstvg', GVO: 'grdstvv', VRegV: 'vregv', ZTRV: 'ztrv', WHG: 'whg-2009', RSiedlG: 'rsiedlg', BNatSchG: 'bnatschg-2009', MaBV: 'mabv', EGBGB: 'egbgb', GewO: 'gewo', EStG: 'estg', AO: 'ao', GG: 'gg', StGB: 'stgb', SGB: 'sgb', VersAusglG: 'versausglg', LebensPartG: 'lpartg', EuErbVO: 'euerbvo', EGGVG: 'eggvg', HausbauVO: 'hausbauvo', DONot: 'donot', SigG: 'sigg', VDG: 'vdg', eIDAS: 'eidas', GBMaßnG: 'gbmassng', RPflG: 'rpflg', GVG: 'gvg', KostO: 'kosto', UStG: 'ustg', BDSG: 'bdsg', DSGVO: 'dsgvo', TKG: 'tkg', BGBEG: 'egbgb', UrhG: 'urhg', GKG: 'gkg', RVG: 'rvg', EGHGB: 'eghgb', EGInsO: 'eginso', SchuldRAnpG: 'schuldranpg', SachenRBerG: 'sachenrberg', LwVG: 'lwvg', HöfeO: 'hoefeo', AGGVG: 'aggvg', LBO: 'lbo', FlurbG: 'flurbg', BewG1991: 'bewg' };
 let NORMEN = null;
+let NORM_RE = null;
+function nt(text) {
+  if (!NORM_RE) NORM_RE = new RegExp('(?:§§?|Art\\.)\\s*\\d+[a-z]?(?:(?:\\s*(?:,|und|bis|–|-)\\s*|\\s+)(?:Abs\\.|Absatz|S\\.|Satz|Nr\\.|Alt\\.|Hs\\.|Var\\.)?\\s*\\d+[a-z]?)*\\s+(?:' + Object.keys(GESETZ_SLUG).sort((a, b) => b.length - a.length).join('|') + ')(?![A-Za-zÄÖÜäöüß])', 'g');
+  return esc(text).replace(NORM_RE, m => `<span class="norm-in" role="link" tabindex="0" data-norm="${m}">${m}</span>`);
+}
 function normParsen(text) {
   // "§ 3 Abs. 1 Nr. 2 MaBV", "§§ 24, 28 Abs. 1 S. 2 BauGB", "Art. 244 EGBGB", "§ 1944 Abs. 2 BGB i. V. m. §§ 348, 350 FamFG"
   const teile = text.split(/\s*(?:i\.\s?V\.\s?m\.|iVm|;|\bund\b(?=\s*§)|\bsowie\b)\s*/i);
@@ -472,7 +489,7 @@ function renderSitzung() {
   if (q.typ === 'fall') inhalt = fallHtml(q);
   else if (q.typ === 'zuordnung') inhalt = zuordnungHtml(q);
   else inhalt = mcHtml(q);
-  app.innerHTML = kopf + `<div class="urkunde"><div class="meta"><span class="fach">${esc(KAP[q.kapitel] || q.kapitel)}${q.abschnitt ? ' · ' + esc(q.abschnitt) : ''}</span>${gradHtml(q.schwierigkeit)}</div>${inhalt}</div>`;
+  app.innerHTML = kopf + `<div class="urkunde"><div class="meta"><span class="fach">${s.wdhAb !== undefined && s.idx >= s.wdhAb ? '<b class="wdh-chip">Wiederholung</b> ' : ''}${esc(KAP[q.kapitel] || q.kapitel)}${q.abschnitt ? ' · ' + esc(q.abschnitt) : ''}</span>${gradHtml(q.schwierigkeit)}</div>${inhalt}</div>`;
   document.getElementById('abbr').onclick = abbrechen;
   if (q.typ === 'fall') bindeFall(q); else if (q.typ === 'zuordnung') bindeZuordnung(q); else bindeMc(q);
 }
@@ -480,10 +497,10 @@ function renderSitzung() {
 /* -- Multiple Choice / Richtig-Falsch -- */
 function mcHtml(q, schritt) {
   const f = schritt || q;
-  if (q.typ === 'rf' && !schritt) return `<div class="frage">${esc(f.frage)}</div><div class="optionen rf"><button class="option" data-i="1"><span class="txt">Richtig</span></button><button class="option" data-i="0"><span class="txt">Falsch</span></button></div><div id="aufl"></div>`;
+  if (q.typ === 'rf' && !schritt) return `<div class="frage">${nt(f.frage)}</div><div class="optionen rf"><button class="option" data-i="1"><span class="txt">Richtig</span></button><button class="option" data-i="0"><span class="txt">Falsch</span></button></div><div id="aufl"></div>`;
   const reihe = [0, 1, 2, 3].slice(0, f.optionen.length);
   const perm = f._perm || (f._perm = (f.fest || q.fest) ? reihe : mische(reihe));
-  return `<div class="frage">${esc(f.frage)}</div><div class="optionen">${perm.map((oi, k) => `<button class="option" data-i="${oi}"><span class="buchst">${'ABCD'[k]}</span><span class="txt">${esc(f.optionen[oi])}</span></button>`).join('')}</div><div id="aufl"></div>`;
+  return `<div class="frage">${nt(f.frage)}</div><div class="optionen">${perm.map((oi, k) => `<button class="option" data-i="${oi}"><span class="buchst">${'ABCD'[k]}</span><span class="txt">${nt(f.optionen[oi])}</span></button>`).join('')}</div><div id="aufl"></div>`;
 }
 function bindeMc(q) {
   app.querySelectorAll('.option').forEach(b => b.onclick = () => {
@@ -495,7 +512,7 @@ function bindeMc(q) {
 }
 function zeigeAufloesung(q, richtig, erkl, nachher) {
   const box = document.getElementById('aufl');
-  box.innerHTML = `<div class="aufloesung"><div class="urteil ${richtig ? 'ok' : 'nein'}">${richtig ? 'Richtig' : 'Nicht richtig'}</div><div class="erkl">${esc(erkl)}</div>${normenHtml(q)}${quelleHtml(q)}
+  box.innerHTML = `<div class="aufloesung"><div class="urteil ${richtig ? 'ok' : 'nein'}">${richtig ? 'Richtig' : 'Nicht richtig'}</div><div class="erkl">${nt(erkl)}</div>${normenHtml(q)}${quelleHtml(q)}
     ${richtig ? `<div class="sicherheit"><button class="sicher" id="sicher">Sicher gewusst<small>längeres Intervall</small></button><button class="unsicher" id="unsicher">Eher geraten<small>bald wieder vorlegen</small></button></div>` : `<button class="weiter" id="weiter">Weiter</button>`}</div>`;
   box.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
   const fertig = (sicher) => { const xp = verbuche(q, richtig, sicher); sitzungZaehlen(q, richtig, xp); if (nachher) nachher(richtig); else weiter(); };
@@ -524,7 +541,7 @@ function blitzAntwort(q, richtig) {
 /* -- Zuordnung -- */
 function zuordnungHtml(q) {
   const links = q.paare.map(p => p[0]); const rechts = q._rechts || (q._rechts = mische(q.paare.map((p, i) => i)));
-  return `<div class="frage">${esc(q.frage)}</div><div class="zuordnung">${links.map((l, i) => `<button class="zo l" data-l="${i}">${esc(l)}</button><button class="zo r" data-r="${rechts[i]}">${esc(q.paare[rechts[i]][1])}</button>`).join('')}</div><div id="aufl"></div>`;
+  return `<div class="frage">${nt(q.frage)}</div><div class="zuordnung">${links.map((l, i) => `<button class="zo l" data-l="${i}">${nt(l)}</button><button class="zo r" data-r="${rechts[i]}">${nt(q.paare[rechts[i]][1])}</button>`).join('')}</div><div id="aufl"></div>`;
 }
 function bindeZuordnung(q) {
   let aktivL = null, fehler = 0, offen = q.paare.length;
@@ -542,7 +559,7 @@ function bindeZuordnung(q) {
 function fallHtml(q) {
   q._schritt = q._schritt || 0; q._fehler = q._fehler || 0;
   const st = q.schritte[q._schritt];
-  return `<div class="sachverhalt">${esc(q.sachverhalt)}</div><div class="schritt-lbl">${esc(q.frage)} · Schritt ${q._schritt + 1} von ${q.schritte.length}</div>${mcHtml(q, st)}`;
+  return `<div class="sachverhalt">${nt(q.sachverhalt)}</div><div class="schritt-lbl">${esc(q.frage)} · Schritt ${q._schritt + 1} von ${q.schritte.length}</div>${mcHtml(q, st)}`;
 }
 function bindeFall(q) {
   const st = q.schritte[q._schritt];
@@ -552,7 +569,7 @@ function bindeFall(q) {
     if (!richtig) q._fehler++;
     const box = document.getElementById('aufl');
     const letzter = q._schritt === q.schritte.length - 1;
-    box.innerHTML = `<div class="aufloesung"><div class="urteil ${richtig ? 'ok' : 'nein'}">${richtig ? 'Richtig' : 'Nicht richtig'}</div><div class="erkl">${esc(st.erklaerung)}</div>${letzter ? `<div class="erkl" style="margin-top:8px"><b>Gesamtlösung.</b> ${esc(q.erklaerung)}</div>${normenHtml(q)}${quelleHtml(q)}` : ''}<button class="weiter" id="weiter">${letzter ? 'Fall abschließen' : 'Nächster Schritt'}</button></div>`;
+    box.innerHTML = `<div class="aufloesung"><div class="urteil ${richtig ? 'ok' : 'nein'}">${richtig ? 'Richtig' : 'Nicht richtig'}</div><div class="erkl">${nt(st.erklaerung)}</div>${letzter ? `<div class="erkl" style="margin-top:8px"><b>Gesamtlösung.</b> ${nt(q.erklaerung)}</div>${normenHtml(q)}${quelleHtml(q)}` : ''}<button class="weiter" id="weiter">${letzter ? 'Fall abschließen' : 'Nächster Schritt'}</button></div>`;
     box.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
     const s = sitzung; s.xp += richtig ? 8 : 0; P.xp += richtig ? 8 : 0;
     document.getElementById('weiter').onclick = () => {

@@ -88,7 +88,7 @@ svg{fill:currentColor}
 .streak span{color:var(--text-2);font-size:12px}
 
 /* Modus-Liste */
-.modi{display:grid;gap:10px;margin-top:18px}
+.modi{display:grid;grid-template-columns:minmax(0,1fr);gap:10px;margin-top:18px}
 .modus{display:grid;grid-template-columns:44px 1fr auto;gap:14px;align-items:center;text-align:left;background:var(--papier);border:1px solid var(--linie);border-radius:var(--radius);padding:14px 16px;transition:transform .12s}
 .modus:active{transform:scale(.985)}
 .modus .ikon{width:44px;height:44px;border-radius:12px;display:flex;align-items:center;justify-content:center;background:var(--akte)}
@@ -324,3 +324,10 @@ svg{fill:currentColor}
 .norm-link{display:inline-block;margin-top:6px;font-size:13px;color:var(--text-2)}
 .laden-klein{color:var(--text-2);font-size:14px}
 @media (min-width:720px){.norm-overlay{align-items:center;padding:20px}.norm-blatt{border-radius:18px;max-height:80vh}}
+
+.norm-in{cursor:pointer;font-weight:600;text-decoration:underline dotted;text-underline-offset:3px;border-radius:3px}
+.norm-in:hover,.norm-in:focus-visible{background:var(--akte);outline:none}
+.thema-zeile{min-width:0;display:flex;align-items:center;justify-content:space-between;gap:10px;font-size:13px;color:var(--text-2);padding:2px 6px 0}
+.thema-zeile select{flex:1;min-width:0;width:0;max-width:70%;text-overflow:ellipsis;font:inherit;font-size:13px;padding:6px 8px;border-radius:8px;border:1px solid var(--linie);background:var(--papier);color:var(--text)}
+.wdh-chip{font-size:11px;letter-spacing:.04em;text-transform:uppercase;padding:2px 7px;border-radius:999px;background:var(--siegel,#A31F34);color:#fff;margin-right:4px}
+@media(min-width:700px){.thema-zeile{grid-column:1/-1}}
